@@ -1,0 +1,955 @@
+﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Skill_1001906_SkillName,掌息之要,Essence of Tao,Chưởng Tức Chi Yếu
+lang_multi_text.db,MultiText,Skill_1001906_SkillResume,牵引目标，造成<color=Wind>气动伤害</color>。,"Pull targets together, dealing <color=Wind>Aero DMG</color>.","Kéo mục tiêu lại, gây <color=Wind>sát thương Khí Động</color>."
+lang_multi_text.db,MultiText,Skill_1001907_SkillDescribe,"<size=40><color=Title>重击·混元气旋</color></size>
+当【气】达到上限时，按住<color=Highlight>普攻</color>，将会施放<color=Highlight>混元气旋</color>，进入<color=Highlight>运气状态</color>。
+<size=10> </size>
+ <size=40><color=Title>运气状态</color></size>
+鉴心的抗打断能力提升，受到伤害降低{0}；
+持续消耗【气】，并持续施放<color=Highlight>运气</color>攻击附近的目标，造成<color=Wind>气动伤害</color>；
+随着<color=Highlight>运气状态</color>时间推移，鉴心逐渐达到不同周天，达到不同周天时：
+·未达到小周天：获得运气1层的护盾。中断<color=Highlight>运气状态</color>时，施放<color=Highlight>冲拳</color>攻击目标，造成<color=Wind>气动伤害</color>；
+·小周天：获得运气2层的护盾，并<color=Highlight>震气</color>攻击目标，造成<color=Wind>气动伤害</color>。中断<color=Highlight>运气状态</color>时，施放<color=Highlight>推手</color>攻击目标，造成<color=Wind>气动伤害</color>；
+·大周天·内：获得运气3层的护盾，并<color=Highlight>震气</color>攻击目标，造成<color=Wind>气动伤害</color>。中断<color=Highlight>运气状态</color>时，施放<color=Highlight>推手</color>攻击目标，造成<color=Wind>气动伤害</color>；
+·大周天·外：获得运气4层的护盾，并<color=Highlight>震气</color>攻击目标，造成<color=Wind>气动伤害</color>；
+·松开<color=Highlight>普攻</color>时，中断<color=Highlight>运气状态</color>，并消耗所有【气】；
+·消耗完所有【气】时，结束<color=Highlight>运气状态</color>；
+<size=10></size>
+<color=Highlight>运气状态</color>结束时，根据周天阶段再次获得对应周天的护盾；
+<color=Highlight>重击·混元气旋</color>所获得的护盾持续期间，每{1}秒回复一次队伍中登场角色的生命值；
+<size=10></size>
+<size=40><color=Title>气获取规则</color></size>
+【气】上限{2}点。
+常态攻击<color=Highlight>风仪拳术</color>命中目标时，获得【气】。
+施放共鸣技能<color=Highlight>静气循行</color>时，获得【气】。
+共鸣技能<color=Highlight>行气反击</color>或共鸣技能<color=Highlight>降气反击</color>命中目标时，获得【气】。
+变奏技能<color=Highlight>掌息之要</color>命中目标时，获得【气】。","<size=40><color=Title>Heavy Attack: Primordial Chi Spiral</color></size>
+When ""Chi"" reaches max stacks, hold <color=Highlight>Basic Attack</color> to cast <color=Highlight>Primordial Chi Spiral</color> and start <color=Highlight>Zhoutian Progress</color>.
+<size=10> </size>
+<size=40><color=Title>Zhoutian Progress</color></size>
+Jianxin's resistance to interruption is increased, and her the damage taken is reduced by {0}:
+Jianxin continuously consumes ""Chi"" and casts <color=Highlight>Chi Strike</color> to attack targets nearby, dealing <color=Wind>Aero DMG</color>.
+As <color=Highlight>Zhoutian Progress</color> accumulates, Jianxin reaches different Zhoutian and gains effects accordingly.
+-Before Minor Zhoutian: Gain Zhoutian Progress 1 shield. When <color=Highlight>Zhoutian Progress</color> is interrupted, cast <color=Highlight>Pushing Punch</color> to attack the target, dealing <color=Wind>Aero DMG</color>.
+-Minor Zhoutian: Gain Zhoutian Progress 2 shield and cast <color=Highlight>Shock</color> to attack the target, dealing <color=Wind>Aero DMG</color>.  When <color=Highlight>Zhoutian Progress</color> is interrupted, cast <color=Highlight>Yielding Pull</color> to attack the target, dealing <color=Wind>Aero DMG</color>.
+-Major Zhoutian - Inner: Gain Zhoutian Progress 3 shield and cast <color=Highlight>Shock</color> to attack the target, dealing <color=Wind>Aero DMG</color>. When <color=Highlight>Zhoutian Progress</color> is interrupted, cast <color=Highlight>Yielding Pull</color> to attack the target, dealing <color=Wind>Aero DMG</color>.
+-Major Zhoutian - Outer: Gain Zhoutian Progress 3 shield and cast <color=Highlight>Shock</color> to attack the target, dealing <color=Wind>Aero DMG</color>.
+-When <color=Highlight>Basic Attack</color> button is released, interrupt <color=Highlight>Zhoutian Progress</color> and lose all ""Chi"";
+-When all ""Chi"" is consumed, end <color=Highlight>Zhoutian Progress</color>.
+<size=10> </size>
+When <color=Highlight>Zhoutian Progress</color> ends, regain a shield according to the Zhoutian Progress reached;
+As the shield provided by <color=Highlight>Heavy Attack: Primordial Chi Spiral</color> persists, the active character is healed once every {1}s.
+<size=10> </size>
+<size=40><color=Title>Chi</color></size>
+Jianxin can hold up to {2} Chi.
+Chi is obtained when Normal Attack <color=Highlight>Fengyiquan</color> hits the target.
+Chi is obtained when the Resonance Skill <color=Highlight>Calming Air</color> is cast.
+Chi is obtained when the Resonance Skills <color=Highlight>Chi Counter</color> or <color=Highlight>Chi Parry</color> hits the target.
+Chi is obtained when the Intro Skill <color=Highlight>Essence of Tao</color> hits the target.","<size=40><color=Title>Trọng Kích - Hỗn Nguyên Khí Toàn</color></size>
+Khi [Khí] đạt giới hạn, giữ <color=Highlight>Phổ Công</color> để thi triển <color=Highlight>Hỗn Nguyên Khí Toàn</color>, tiến vào <color=Highlight>Trạng thái Vận Khí</color>.
+<size=10> </size>
+ <size=40><color=Title>Trạng thái Vận Khí</color></size>
+Khả năng kháng gián đoạn của Jianxin tăng, sát thương nhận vào giảm {0};
+Liên tục tiêu hao [Khí] và liên tục thi triển <color=Highlight>Vận Khí</color> tấn công mục tiêu lân cận, gây <color=Wind>sát thương Khí Động</color>;
+Theo thời gian duy trì <color=Highlight>Trạng thái Vận Khí</color>, Jianxin dần đạt các Chu Thiên khác nhau, khi đạt các Chu Thiên tương ứng:
+- Chưa đạt Tiểu Chu Thiên: Nhận khiên Vận Khí tầng 1. Khi gián đoạn <color=Highlight>Trạng thái Vận Khí</color>, thi triển <color=Highlight>Xung Quyền</color> tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>;
+- Tiểu Chu Thiên: Nhận khiên Vận Khí tầng 2, đồng thời <color=Highlight>Chấn Khí</color> tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>. Khi gián đoạn <color=Highlight>Trạng thái Vận Khí</color>, thi triển <color=Highlight>Thôi Thủ</color> tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>;
+- Đại Chu Thiên - Nội: Nhận khiên Vận Khí tầng 3, đồng thời <color=Highlight>Chấn Khí</color> tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>. Khi gián đoạn <color=Highlight>Trạng thái Vận Khí</color>, thi triển <color=Highlight>Thôi Thủ</color> tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>;
+- Đại Chu Thiên - Ngoại: Nhận khiên Vận Khí tầng 4, đồng thời <color=Highlight>Chấn Khí</color> tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>;
+- Khi thả <color=Highlight>Phổ Công</color>, gián đoạn <color=Highlight>Trạng thái Vận Khí</color> và tiêu hao toàn bộ [Khí];
+- Khi tiêu hao hết toàn bộ [Khí], kết thúc <color=Highlight>Trạng thái Vận Khí</color>;
+<size=10></size>
+Khi <color=Highlight>Trạng thái Vận Khí</color> kết thúc, nhận lại khiên tương ứng với giai đoạn Chu Thiên đã đạt;
+Trong thời gian khiên từ <color=Highlight>Trọng Kích - Hỗn Nguyên Khí Toàn</color> còn hiệu lực, mỗi {1} giây hồi phục sinh lực cho nhân vật đang ra trận trong đội;
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận Khí</color></size>
+Giới hạn [Khí]: {2} điểm.
+Khi Công Thường <color=Highlight>Phong Nghi Quyền Thuật</color> trúng mục tiêu, nhận [Khí].
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Tĩnh Khí Tuần Hành</color>, nhận [Khí].
+Khi Kỹ Năng Cộng Hưởng <color=Highlight>Hành Khí Phản Kích</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Giáng Khí Phản Kích</color> trúng mục tiêu, nhận [Khí].
+Khi Biến Tấu Kỹ <color=Highlight>Chưởng Tức Chi Yếu</color> trúng mục tiêu, nhận [Khí]."
+lang_multi_text.db,MultiText,Skill_1001907_SkillName,混元气旋,Primordial Chi Spiral,Hỗn Nguyên Khí Toàn
+lang_multi_text.db,MultiText,Skill_1001907_SkillResume,"<size=40><color=Title>重击·混元气旋</color></size>
+当【气】达到上限时，按住<color=Highlight>普攻</color>，进入<color=Highlight>运气状态</color>。
+<size=10></size>
+<size=40><color=Title>运气状态</color></size>
+持续消耗【气】，并持续攻击附近的目标，造成<color=Wind>气动伤害</color>；
+随着<color=Highlight>运气状态</color>时间推移，鉴心可造成更高的伤害，并获得更强的护盾。
+<color=Highlight>运气状态</color>结束时，根据维持状态的时间，再次获得对应周天的护盾；
+<color=Highlight>重击·混元气旋</color>所获得的护盾持续期间，每{1}秒回复一次队伍中登场角色的生命值；
+<size=10></size>
+<size=40><color=Title>气获取规则</color></size>
+【气】上限{2}点。
+气的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>。","<size=40><color=Title>Heavy Attack: Primordial Chi Spiral</color></size>
+When Chi is full, hold <color=Highlight>Basic Attack</color> to start <color=Highlight>Zhoutian Progress</color>.
+<size=10></size>
+<size=40><color=Title>Zhoutian Progress</color></size>
+Continuously consume Chi to attack nearby targets, dealing <color=Wind>Aero DMG</color>.
+As <color=Highlight>Zhoutian Progress</color> continues, Jianxin deals more damage and her shield toughens.
+When <color=Highlight>Zhoutian Progress</color> ends, Jianxin gains one last shield based on the Zhoutian Progress reached.
+As the shield from <color=Highlight>Heavy Attack: Primordial Chi Spiral</color> persists, the on-field Resonator is healed once every {1}s.
+<size=10></size>
+<size=40><color=Title>Chi</color></size>
+Jianxin can hold up to {2} Chi.
+Jianxin gains Chi through <color=Highlight>Normal Attack</color>, <color=Highlight>Resonance Skill</color>, and <color=Highlight>Intro Skill</color>.","<size=40><color=Title>Trọng Kích - Hỗn Nguyên Khí Toàn</color></size>
+Khi [Khí] đạt giới hạn, giữ <color=Highlight>Phổ Công</color> để tiến vào <color=Highlight>Trạng thái Vận Khí</color>.
+<size=10></size>
+<size=40><color=Title>Trạng thái Vận Khí</color></size>
+Liên tục tiêu hao [Khí] và liên tục tấn công mục tiêu lân cận, gây <color=Wind>sát thương Khí Động</color>;
+Theo thời gian duy trì <color=Highlight>Trạng thái Vận Khí</color>, Jianxin có thể gây sát thương cao hơn và nhận khiên mạnh hơn.
+Khi <color=Highlight>Trạng thái Vận Khí</color> kết thúc, dựa trên thời gian duy trì, nhận lại khiên tương ứng với Chu Thiên đã đạt;
+Trong thời gian khiên từ <color=Highlight>Trọng Kích - Hỗn Nguyên Khí Toàn</color> còn hiệu lực, mỗi {1} giây hồi phục sinh lực cho nhân vật đang ra trận trong đội;
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận Khí</color></size>
+Giới hạn [Khí]: {2} điểm.
+Cách nhận Khí: <color=Highlight>Công Thường</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>, <color=Highlight>Biến Tấu Kỹ</color>."
+lang_multi_text.db,MultiText,Skill_1001908_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có xác suất tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1001908_SkillName,test/巧手烹调,Skillful Cooking,Skillful Cooking
+lang_multi_text.db,MultiText,Skill_1001908_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có xác suất tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1001909_MultiSkillDescribe_1.1,附近队伍中激活鉴心延奏技能的角色共鸣解放伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The Resonator on a nearby team that activates Jianxin's Outro Skill has their Resonance Liberation DMG Amplified by {0} for {1}s or until they are switched out.,"Nhân vật trong đội lân cận kích hoạt Hiệp Tấu Kỹ của Jianxin sẽ được gia tăng sát thương Giải Phóng Cộng Hưởng thêm {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1001909_SkillDescribe,下一位登场角色共鸣解放伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Resonance Liberation DMG Amplified by {0} for {1}s or until they are switched out.,"Nhân vật ra trận tiếp theo được gia tăng sát thương Giải Phóng Cộng Hưởng thêm {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1001909_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,Skill_1001909_SkillName,化境,Transcendence,Hóa Cảnh
+lang_multi_text.db,MultiText,Skill_1001909_SkillResume,下一位登场角色共鸣解放伤害加深{0}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Resonance Liberation DMG Amplified by {0}. Switching Resonators ends the effect.,"Nhân vật ra trận tiếp theo được gia tăng sát thương Giải Phóng Cộng Hưởng thêm {0}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002001_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+进行最多4段的连续攻击，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力进行空中下落攻击，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Perform up to 4 consecutive strikes, dealing <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Perform a charged attack at the cost of STA, dealing <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Perform a Plunging Attack while in mid-air at the cost of STA, dealing <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to counterattack, dealing <color=Light>Spectro DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực tấn công mục tiêu, gây <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn công trên không</color></size>
+Tiêu hao thể lực thực hiện tấn công bổ nhào trên không, gây <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Phản kích Né Tránh</color></size>
+Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Phổ Công</color> trong thời gian nhất định để tấn công mục tiêu, gây <color=Light>sát thương Nhiễu Xạ</color>."
+lang_multi_text.db,MultiText,Skill_1002001_SkillName,浮光霁寒,Slash of Breaking Dawn,Phù Quang Tễ Hàn
+lang_multi_text.db,MultiText,Skill_1002001_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>重击</color></size>
+消耗耐力，造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Consume STA to deal <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Light>Spectro DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Gây <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10></size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực, gây <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10></size>
+<size=40><color=Title>Tấn công trên không</color></size>
+Tiêu hao thể lực, gây <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10></size>
+<size=40><color=Title>Phản kích Né Tránh</color></size>
+Gây <color=Light>sát thương Nhiễu Xạ</color>."
+lang_multi_text.db,MultiText,Skill_1002002_SkillDescribe,"今汐向前突进，造成多段<color=Light>衍射伤害</color>。
+<size=10> </size>
+<color=Title>神霓飞芒</color>
+当今汐施放<color=Highlight>第4段普攻</color>或不处于<color=Highlight>乘岁凌霄</color>状态施放变奏技能<color=Highlight>蟠龙清辉</color>时，共鸣技能替换为共鸣技能<color=Highlight>神霓飞芒</color>，持续{0}秒。
+施放共鸣技能<color=Highlight>神霓飞芒</color>时，造成<color=Light>衍射伤害</color>，并使今汐进入<color=Highlight><te href=850001>乘岁凌霄</te></color>状态。
+可以在空中施放。","Dash forward and perform consecutive strikes that inflict <color=Light>Spectro DMG</color>.
+<size=10></size>
+<color=Title>Overflowing Radiance</color>
+After Jinhsi uses <color=Highlight>Basic Attack 4</color> or, while not in <color=Highlight>Incarnation</color>, Intro Skill <color=Highlight>Loong's Halo</color>, an alternative Resonance Skill <color=Highlight>Overflowing Radiance</color> is available within {0}s.
+Resonance Skill <color=Highlight>Overflowing Radiance</color> inflicts <color=Light>Spectro DMG</color> and sends Jinhsi into <color=Highlight><te href=850001>Incarnation</te></color>.
+Can be cast in mid-air.","Jinhsi lao về phía trước, gây nhiều đợt <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10> </size>
+<color=Title>Thần Nghê Phi Mang</color>
+Khi Jinhsi thi triển <color=Highlight>Phổ Công đoạn 4</color> hoặc khi không ở trạng thái <color=Highlight>Thừa Tuế Lăng Tiêu</color> mà thi triển Biến Tấu Kỹ <color=Highlight>Bàn Long Thanh Huy</color>, Kỹ Năng Cộng Hưởng được thay thế thành Kỹ Năng Cộng Hưởng <color=Highlight>Thần Nghê Phi Mang</color>, kéo dài {0} giây.
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Thần Nghê Phi Mang</color>, gây <color=Light>sát thương Nhiễu Xạ</color> và đưa Jinhsi vào trạng thái <color=Highlight><te href=850001>Thừa Tuế Lăng Tiêu</te></color>.
+Có thể thi triển trên không."
+lang_multi_text.db,MultiText,Skill_1002002_SkillName,流光夕影,Trailing Lights of Eons,Lưu Quang Tịch Ảnh
+lang_multi_text.db,MultiText,Skill_1002002_SkillResume,"造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<color=Title>神霓飞芒</color>
+施放<color=Highlight>第4段普攻</color>或变奏技能<color=Highlight>蟠龙清辉</color>时，共鸣技能替换为共鸣技能<color=Highlight>神霓飞芒</color>。
+施放共鸣技能<color=Highlight>神霓飞芒</color>时，造成<color=Light>衍射伤害</color>，进入<color=Highlight>乘岁凌霄</color>状态。","Deal <color=Light>Spectro DMG</color>.
+<size=10></size>
+<color=Title>Overflowing Radiance</color>
+After using <color=Highlight>Basic Attack 4</color> or Intro Skill <color=Highlight>Loong's Halo</color>, Resonance Skill becomes <color=Highlight>Overflowing Radiance</color>.
+Resonance Skill <color=Highlight>Overflowing Radiance</color> deals <color=Light>Spectro DMG</color> and sends Jinhsi into <color=Highlight>Incarnation</color>.","Gây <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10></size>
+<color=Title>Thần Nghê Phi Mang</color>
+Khi thi triển <color=Highlight>Phổ Công đoạn 4</color> hoặc Biến Tấu Kỹ <color=Highlight>Bàn Long Thanh Huy</color>, Kỹ Năng Cộng Hưởng được thay thế thành Kỹ Năng Cộng Hưởng <color=Highlight>Thần Nghê Phi Mang</color>.
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Thần Nghê Phi Mang</color>, gây <color=Light>sát thương Nhiễu Xạ</color>, tiến vào trạng thái <color=Highlight>Thừa Tuế Lăng Tiêu</color>."
+lang_multi_text.db,MultiText,Skill_1002003_SkillDescribe,"今汐使用祈愿之力，造成<color=Light>衍射伤害</color>。
+可以在空中施放。","Unleash the power of invocation to deal <color=Light>Spectro DMG</color>.
+Can be cast in mid-air.","Jinhsi sử dụng sức mạnh kỳ nguyện, gây <color=Light>sát thương Nhiễu Xạ</color>.
+Có thể thi triển trên không."
+lang_multi_text.db,MultiText,Skill_1002003_SkillName,移岁诛邪,Purge of Light,Di Tuế Tru Tà
+lang_multi_text.db,MultiText,Skill_1002003_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,Gây <color=Light>sát thương Nhiễu Xạ</color>.
+lang_multi_text.db,MultiText,Skill_1002004_SkillDescribe,今汐的衍射伤害加成提升{0}。,Jinhsi gains {0} Spectro DMG Bonus.,Bonus sát thương Nhiễu Xạ của Jinhsi tăng {0}.
+lang_multi_text.db,MultiText,Skill_1002004_SkillName,沐光,Radiant Surge,Mộc Quang
+lang_multi_text.db,MultiText,Skill_1002004_SkillResume,今汐的衍射伤害加成提升{0}。,Jinhsi gains {0} Spectro DMG Bonus.,Tăng thêm {0} sát thương Nhiễu Xạ cho Jinhsi.
+lang_multi_text.db,MultiText,Skill_1002005_SkillDescribe,变奏技能<color=Highlight>蟠龙清辉</color>伤害倍率提升{0}。,DMG Multiplier of Intro Skill <color=Highlight>Loong's Halo</color> is increased by {0}.,Hệ số sát thương của Biến Tấu Kỹ <color=Highlight>Bàn Long Thanh Huy</color> tăng thêm {0}.
+lang_multi_text.db,MultiText,Skill_1002005_SkillName,凝神,Converged Flash,Ngưng Thần
+lang_multi_text.db,MultiText,Skill_1002005_SkillResume,变奏技能<color=Highlight>蟠龙清辉</color>伤害倍率提升{0}。,DMG Multiplier of Intro Skill <color=Highlight>Loong's Halo</color> is increased by {0}.,Hệ số sát thương của Biến Tấu Kỹ <color=Highlight>Bàn Long Thanh Huy</color> tăng thêm {0}.
+lang_multi_text.db,MultiText,Skill_1002006_SkillDescribe,攻击目标，造成<color=Light>衍射伤害</color>。,"Attack the target, dealing <color=Light>Spectro DMG</color>.","Tấn công mục tiêu, gây <color=Light>sát thương Nhiễu Xạ</color>."
+lang_multi_text.db,MultiText,Skill_1002006_SkillName,蟠龙清辉,Loong's Halo,Bàn Long Thanh Huy
+lang_multi_text.db,MultiText,Skill_1002006_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,Gây <color=Light>sát thương Nhiễu Xạ</color>.
+lang_multi_text.db,MultiText,Skill_1002007_SkillDescribe,"<size=40><color=Title>乘岁凌霄</color></size>
+<color=Highlight>乘岁凌霄</color>状态持续期间：
+·普攻替换为普攻<color=Highlight>凌霄·普攻</color>，进行最多连续4段攻击，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害，此外，该连击段数不会被重置。
+可以在空中施放。
+·共鸣技能替换为共鸣技能<color=Highlight>逐天取月</color>，造成<color=Light>衍射伤害</color>。
+可以在空中施放。
+·处于空中时，重击替换为重击<color=Highlight>凌霄·重击</color>，消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。
+·处于空中时，闪避替换为<color=Highlight>凌霄·闪避</color>，可以消耗耐力进行多次闪避。
+·闪避反击，替换为闪避反击<color=Highlight>凌霄·闪避反击</color>，造成<color=Light>衍射伤害</color>。
+可以在空中施放。
+<size=10> </size>
+<size=40><color=Title>共鸣技能·惊龙破空</color></size>
+施放普攻<color=Highlight>凌霄·普攻</color>第4段后，将立刻结束<color=Highlight>乘岁凌霄</color>状态，并获得效果<color=Highlight>游龙廻光</color>。
+可以在空中施放。
+<color=Highlight>游龙廻光</color>效果持续期间：
+·处于空中时，普攻替换为重击<color=Highlight>凌霄·重击</color>，消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。
+·共鸣技能替换为共鸣技能<color=Highlight>惊龙破空</color>，形成<color=Highlight>熠日</color>攻击目标，并在短暂时间后引爆<color=Highlight>炳星</color>。施放时可以消耗今汐至多{0}点【韶光】，造成<color=Light>衍射伤害</color>，每消耗1点【韶光】，使本次共鸣技能<color=Highlight>惊龙破空</color>的<color=Highlight>炳星</color>的伤害倍率增加。
+可以在空中施放。
+·施放共鸣技能<color=Highlight>惊龙破空</color>后，今汐可获得<color=Highlight>同奏</color>，每{1}秒内只能获得一次。
+<size=10> </size>
+<size=40><color=Title>同奏</color></size>
+今汐拥有<color=Highlight>同奏</color>时，今汐切换其他角色时，登场角色将施放自身变奏技能，今汐则施放自身延奏技能，并移除今汐身上的<color=Highlight>同奏</color>效果。今汐协奏能量达到最大值，并且拥有<color=Highlight>同奏</color>效果时，只消耗<color=Highlight>同奏</color>效果。
+<size=10> </size>
+<size=40><color=Title>韶光的获取规则</color></size>
+【韶光】上限{2}点。
+当今汐处于队伍中时，附近队伍中所有角色获得效果<color=Highlight>韶华共济</color>。
+<color=Highlight>韶华共济</color>包含两个独立效果：
+造成属性伤害时，为今汐提供{3}点【韶光】，同类属性伤害每{4}秒可触发{5}次。
+协同攻击造成伤害时，为今汐提供{6}点【韶光】，同类属性伤害每{7}秒可触发{8}次。","<size=40><color=Title>Incarnation</color></size>
+While in <color=Highlight>Incarnation</color>:
+- Alternative Basic Attack <color=Highlight>""Incarnation - Basic Attack""</color> becomes available. Perform up to 4 consecutive strikes, dealing <color=Light>Spectro DMG</color> considered as Resonance Skill DMG. The basic attack cycle of this will not be reset. Can be cast in mid-air.
+- Alternative Resonance Skill <color=Highlight>""Crescent Divinity""</color> becomes available. Deal <color=Light>Spectro DMG</color>. Can be cast in mid-air.
+- Alternative Heavy Attack <color=Highlight>""Incarnation - Heavy Attack""</color> becomes available. Attack the target in mid-air at the cost of Stamina, dealing <color=Light>Spectro DMG</color>.
+- Alternative Dodge <color=Highlight>""Incarnation - Dodge""</color> is available while in mid-air. Can be cast multiple times at the cost of Stamina.
+- Alternative Dodge Counter <color=Highlight>""Incarnation - Dodge Counter""</color> becomes available. Deal <color=Light>Spectro DMG</color>.
+Can be cast in mid-air.
+<size=10></size>
+<size=40><color=Title>Resonance Skill - Illuminous Epiphany</color></size>
+After Stage 4 of <color=Highlight>Incarnation - Basic Attack</color>, <color=Highlight>Incarnation</color> terminates and Jinhsi gains <color=Highlight>Ordination Glow</color>. 
+Can be cast in mid-air.
+While <color=Highlight>Ordination Glow</color> lasts:
+- Basic Attack is replaced with Heavy Attack <color=Highlight>""Incarnation - Heavy Attack""</color>. Attack the target in mid-air at the cost of Stamina, dealing <color=Light>Spectro DMG</color>.
+- Resonance Skill is replaced with Resonance Skill <color=Highlight>""Illuminous Epiphany""</color>. Send out <color=Highlight>Solar Flare</color> that detonates as <color=Highlight>Stella Glamor</color>, dealing <color=Light>Spectro DMG</color> after a short delay. Consume up to {0} Incandescence, with each point of Incandescence granting bonus DMG Multiplier percentage to <color=Highlight>Stella Glamor</color>.
+Can be cast in mid-air.
+- After casting Resonance Skill <color=Highlight>Illuminous Epiphany</color>, Jinhsi gains <color=Highlight>Unison</color>. This can be triggered once every {1}s.
+<size=10></size>
+<size=40><color=Title>Unison</color></size>
+While Jinhsi has <color=Highlight>Unison</color>, switching to other Resonators will remove Jinhsi's <color=Highlight>Unison</color> to trigger Jinhsi's Outro Skill and the incoming Resonator's Intro Skill. <color=Highlight>Unison</color> will be consumed in priority in place of Concerto Energy when Concerto Energy is full.
+<size=10></size>
+<size=40><color=Title>Incandescence</color></size>
+Jinhsi can hold up to {2} Incandescence.
+When Jinhsi is in the party, all nearby Resonators in the party gain <color=Highlight>Eras in Unity</color>.
+<color=Highlight>Eras in Unity</color> provides 2 independent effects:
+Jinhsi gains {3} Incandescence anytime Resonators in the party inflict Attribute DMG. This effect may be triggered by damage of the same Attribute for up to {5} time(s) every {4}s. Additionally, Jinhsi gains {6} Incandescence when Resonators in the party damage the enemy with Coordinated Attacks. This effect may be triggered by Coordinated Attacks of the same Attribute for up to {8} time(s) every {7}s.","<size=40><color=Title>Thừa Tuế Lăng Tiêu</color></size>
+Trong thời gian trạng thái <color=Highlight>Thừa Tuế Lăng Tiêu</color> duy trì:
+- Phổ Công được thay thế bằng Phổ Công <color=Highlight>Lăng Tiêu - Phổ Công</color>, thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Light>sát thương Nhiễu Xạ</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng. Ngoài ra, chuỗi đòn đánh sẽ không bị đặt lại.
+Có thể thi triển trên không.
+- Kỹ Năng Cộng Hưởng được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Trục Thiên Thủ Nguyệt</color>, gây <color=Light>sát thương Nhiễu Xạ</color>.
+Có thể thi triển trên không.
+- Khi ở trên không, Trọng Kích được thay thế bằng Trọng Kích <color=Highlight>Lăng Tiêu - Trọng Kích</color>, tiêu hao thể lực tấn công mục tiêu, gây <color=Light>sát thương Nhiễu Xạ</color>.
+- Khi ở trên không, Né Tránh được thay thế bằng <color=Highlight>Lăng Tiêu - Né Tránh</color>, có thể tiêu hao thể lực để né tránh nhiều lần.
+- Phản Kích Né Tránh được thay thế bằng Phản Kích Né Tránh <color=Highlight>Lăng Tiêu - Phản Kích Né Tránh</color>, gây <color=Light>sát thương Nhiễu Xạ</color>.
+Có thể thi triển trên không.
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Kinh Long Phá Không</color></size>
+Sau khi thi triển đòn thứ 4 của Phổ Công <color=Highlight>Lăng Tiêu - Phổ Công</color>, sẽ lập tức kết thúc trạng thái <color=Highlight>Thừa Tuế Lăng Tiêu</color> và nhận được hiệu ứng <color=Highlight>Du Long Hồi Quang</color>.
+Có thể thi triển trên không.
+Trong thời gian hiệu ứng <color=Highlight>Du Long Hồi Quang</color> duy trì:
+- Khi ở trên không, Phổ Công được thay thế bằng Trọng Kích <color=Highlight>Lăng Tiêu - Trọng Kích</color>, tiêu hao thể lực tấn công mục tiêu, gây <color=Light>sát thương Nhiễu Xạ</color>.
+- Kỹ Năng Cộng Hưởng được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Long Phá Không</color>, hình thành <color=Highlight>Diệu Nhật</color> tấn công mục tiêu, và sau một khoảng thời gian ngắn sẽ kích nổ <color=Highlight>Bính Tinh</color>. Khi thi triển có thể tiêu hao tối đa {0} điểm [Thiều Quang] của Jinhsi, gây <color=Light>sát thương Nhiễu Xạ</color>, mỗi điểm [Thiều Quang] tiêu hao sẽ tăng hệ số sát thương của <color=Highlight>Bính Tinh</color> trong lần Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Long Phá Không</color> này.
+Có thể thi triển trên không.
+- Sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Long Phá Không</color>, Jinhsi có thể nhận được <color=Highlight>Đồng Tấu</color>, mỗi {1} giây chỉ có thể nhận một lần.
+<size=10> </size>
+<size=40><color=Title>Đồng Tấu</color></size>
+Khi Jinhsi sở hữu <color=Highlight>Đồng Tấu</color>, khi Jinhsi chuyển sang nhân vật khác, nhân vật đăng trường sẽ thi triển Biến Tấu Kỹ của bản thân, Jinhsi sẽ thi triển Hiệp Tấu Kỹ của bản thân, đồng thời xóa bỏ hiệu ứng <color=Highlight>Đồng Tấu</color> trên Jinhsi. Khi năng lượng Hiệp Tấu của Jinhsi đạt tối đa và sở hữu hiệu ứng <color=Highlight>Đồng Tấu</color>, chỉ tiêu hao hiệu ứng <color=Highlight>Đồng Tấu</color>.
+<size=10> </size>
+<size=40><color=Title>Quy tắc nhận Thiều Quang</color></size>
+[Thiều Quang] tối đa {2} điểm.
+Khi Jinhsi ở trong đội, tất cả nhân vật trong đội ở gần đều nhận được hiệu ứng <color=Highlight>Thiều Hoa Cộng Tế</color>.
+<color=Highlight>Thiều Hoa Cộng Tế</color> bao gồm hai hiệu ứng độc lập:
+Khi gây sát thương thuộc tính, cung cấp {3} điểm [Thiều Quang] cho Jinhsi, sát thương cùng loại thuộc tính mỗi {4} giây có thể kích hoạt {5} lần.
+Khi hiệp đồng tấn công gây sát thương, cung cấp {6} điểm [Thiều Quang] cho Jinhsi, sát thương cùng loại thuộc tính mỗi {7} giây có thể kích hoạt {8} lần."
+lang_multi_text.db,MultiText,Skill_1002007_SkillName,万物一心,Luminal Synthesis,Vạn Vật Nhất Tâm
+lang_multi_text.db,MultiText,Skill_1002007_SkillResume,"<size=40><color=Title>乘岁凌霄</color></size>
+<color=Highlight>乘岁凌霄</color>状态持续期间：
+·普攻替换为普攻<color=Highlight>凌霄·普攻</color>，造成<color=Light>衍射伤害</color>。
+·共鸣技能替换为共鸣技能<color=Highlight>逐天取月</color>，造成<color=Light>衍射伤害</color>。
+·处于空中时，重击替换为重击<color=Highlight>凌霄·重击</color>，消耗耐力，造成<color=Light>衍射伤害</color>。
+·处于空中时，闪避替换为<color=Highlight>凌霄·闪避</color>。
+·闪避反击，替换为闪避反击<color=Highlight>凌霄·闪避反击</color>，造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>共鸣技能·惊龙破空</color></size>
+施放普攻<color=Highlight>凌霄·普攻</color>第4段后，结束<color=Highlight>乘岁凌霄</color>状态并获得效果<color=Highlight>游龙廻光</color>。
+<size=10></size>
+<color=Highlight>游龙廻光</color>效果持续期间：
+·处于空中时，普攻替换为重击<color=Highlight>凌霄·重击</color>，消耗耐力，造成<color=Light>衍射伤害</color>。
+·共鸣技能替换为共鸣技能<color=Highlight>惊龙破空</color>，造成<color=Light>衍射伤害</color>。可以消耗【韶光】，使本次伤害倍率增加。
+·施放共鸣技能<color=Highlight>惊龙破空</color>后，可获得<color=Highlight>同奏</color>。
+<size=10></size>
+<size=40><color=Title>同奏</color></size>
+拥有<color=Highlight>同奏</color>时，今汐切换其他角色时，登场角色将施放自身变奏技能，今汐则施放自身延奏技能，并移除<color=Highlight>同奏</color>效果。
+<size=10></size>
+<size=40><color=Title>韶光的获取规则</color></size>
+【韶光】上限{2}点。
+【韶光】的获取途径：
+今汐处于队伍中，自身和队友造成属性伤害、协同攻击造成伤害。","<size=40><color=Title>Incarnation</color></size>
+While in the <color=Highlight>Incarnation</color> state:
+- Basic Attack becomes <color=Highlight>Incarnation - Basic Attack</color>, dealing <color=Light>Spectro DMG</color>.
+- Resonance Skill becomes <color=Highlight>Crescent Divinity</color>, dealing <color=Light>Spectro DMG</color>.
+- While in mid-air, Heavy Attack becomes <color=Highlight>Incarnation - Heavy Attack</color>, consuming STA to deal <color=Light>Spectro DMG</color>.
+- While in mid-air, Dodge becomes <color=Highlight>Incarnation - Dodge</color>.
+- Dodge Counter becomes <color=Highlight>Incarnation - Dodge Counter</color>, dealing <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Resonance Skill - Illuminous Epiphany</color></size>
+After <color=Highlight>Incarnation - Basic Attack</color> 4, <color=Highlight>Incarnation</color> ends and Jinhsi gains <color=Highlight>Ordination Glow</color>. 
+<size=10></size>
+While <color=Highlight>Ordination Glow</color> lasts:
+- In mid-air, Basic Attack becomes <color=Highlight>Incarnation - Heavy Attack</color>, consuming STA to deal <color=Light>Spectro DMG</color>.
+- Resonance Skill becomes <color=Highlight>Illuminous Epiphany</color>, dealing <color=Light>Spectro DMG</color>. Consume Incandescence to increase the DMG Multiplier of this skill.
+- Casting <color=Highlight>Illuminous Epiphany</color> grants <color=Highlight>Unison</color>.
+<size=10></size>
+<size=40><color=Title>Unison</color></size>
+While Jinhsi has <color=Highlight>Unison</color>, switching to other Resonators will remove Jinhsi's <color=Highlight>Unison</color> to trigger her Outro Skill and the incoming Resonator's Intro Skill.
+<size=10></size>
+<size=40><color=Title>Incandescence</color></size>
+Jinhsi can hold up to {2} Incandescence.
+Jinhsi gains Incandescence when she or other Resonators on the team deal Attribute DMG or Coordinated Attack DMG.","<size=40><color=Title>Thừa Tuế Lăng Tiêu</color></size>
+Trong thời gian trạng thái <color=Highlight>Thừa Tuế Lăng Tiêu</color> duy trì:
+- Phổ Công được thay thế bằng Phổ Công <color=Highlight>Lăng Tiêu - Phổ Công</color>, gây <color=Light>sát thương Nhiễu Xạ</color>.
+- Kỹ Năng Cộng Hưởng được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Trục Thiên Thủ Nguyệt</color>, gây <color=Light>sát thương Nhiễu Xạ</color>.
+- Khi ở trên không, Trọng Kích được thay thế bằng Trọng Kích <color=Highlight>Lăng Tiêu - Trọng Kích</color>, tiêu hao thể lực, gây <color=Light>sát thương Nhiễu Xạ</color>.
+- Khi ở trên không, Né Tránh được thay thế bằng <color=Highlight>Lăng Tiêu - Né Tránh</color>.
+- Phản Kích Né Tránh được thay thế bằng Phản Kích Né Tránh <color=Highlight>Lăng Tiêu - Phản Kích Né Tránh</color>, gây <color=Light>sát thương Nhiễu Xạ</color>.
+<size=10></size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Kinh Long Phá Không</color></size>
+Sau khi thi triển đòn thứ 4 của Phổ Công <color=Highlight>Lăng Tiêu - Phổ Công</color>, kết thúc trạng thái <color=Highlight>Thừa Tuế Lăng Tiêu</color> và nhận được hiệu ứng <color=Highlight>Du Long Hồi Quang</color>.
+<size=10></size>
+Trong thời gian hiệu ứng <color=Highlight>Du Long Hồi Quang</color> duy trì:
+- Khi ở trên không, Phổ Công được thay thế bằng Trọng Kích <color=Highlight>Lăng Tiêu - Trọng Kích</color>, tiêu hao thể lực, gây <color=Light>sát thương Nhiễu Xạ</color>.
+- Kỹ Năng Cộng Hưởng được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Long Phá Không</color>, gây <color=Light>sát thương Nhiễu Xạ</color>. Có thể tiêu hao [Thiều Quang] để tăng hệ số sát thương lần này.
+- Sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Long Phá Không</color>, có thể nhận được <color=Highlight>Đồng Tấu</color>.
+<size=10></size>
+<size=40><color=Title>Đồng Tấu</color></size>
+Khi sở hữu <color=Highlight>Đồng Tấu</color>, khi Jinhsi chuyển sang nhân vật khác, nhân vật đăng trường sẽ thi triển Biến Tấu Kỹ của bản thân, Jinhsi sẽ thi triển Hiệp Tấu Kỹ của bản thân, đồng thời xóa bỏ hiệu ứng <color=Highlight>Đồng Tấu</color>.
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận Thiều Quang</color></size>
+[Thiều Quang] tối đa {2} điểm.
+Cách nhận [Thiều Quang]:
+Khi Jinhsi ở trong đội, bản thân và đồng đội gây sát thương thuộc tính, hiệp đồng tấn công gây sát thương."
+lang_multi_text.db,MultiText,Skill_1002008_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có xác suất tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1002008_SkillName,dnt/1,test/,test/
+lang_multi_text.db,MultiText,Skill_1002008_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có xác suất tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1002009_SkillDescribe,今汐使用与岁主同频的力量，<color=Highlight>韶华共济</color>提供【<te href=850002>韶光</te>】的触发间隔缩短为同类属性伤害每{0}秒可触发{1}次，该效果持续{2}秒。,"Summoning the power homologous with the Sentinel, Jinhsi may now gain <te href=850002>Incandescence</te> via <color=Highlight>Eras in Unity</color> from damage of the same Attribute more effectively, at {1} time(s) every {0}s for {2}s.","Jinhsi sử dụng sức mạnh đồng tần với Tuế Chủ, khoảng thời gian kích hoạt [<te href=850002>Thiều Quang</te>] của <color=Highlight>Thiều Hoa Cộng Tế</color> được rút ngắn thành sát thương cùng loại thuộc tính mỗi {0} giây có thể kích hoạt {1} lần, hiệu ứng kéo dài {2} giây."
+lang_multi_text.db,MultiText,Skill_1002009_SkillName,驭时,Temporal Bender,Ngự Thời
+lang_multi_text.db,MultiText,Skill_1002009_SkillResume,【韶光】的获取间隔缩短。,Jinhsi gains Incandescence faster.,Khoảng thời gian nhận [Thiều Quang] được rút ngắn.
+lang_multi_text.db,MultiText,Skill_1002101_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+进行最多4段的连续攻击，造成<color=Fire>热熔伤害</color>。
+施放<color=Highlight>地面普攻第4段</color>后进入<color=Highlight><te href=850003>心眼</te></color>状态，持续12秒。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，在空中进行最多4段的连续攻击，造成<color=Fire>热熔伤害</color>。
+施放<color=Highlight>空中攻击第4段</color>后进入<color=Highlight><te href=850003>心眼</te></color>状态，持续12秒。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+在地面长按<color=Highlight>普攻</color>，消耗耐力上挑攻击目标，造成<color=Fire>热熔伤害</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>空中攻击第3段</color>。
+<size=10> </size>
+<size=40><color=Title>空中重击</color></size>
+在空中长按<color=Highlight>普攻</color>或施放普攻<color=Highlight>心眼·冲</color>后一定时间内短按<color=Highlight>普攻</color>，消耗耐力进行空中下落攻击，造成<color=Fire>热熔伤害</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>普攻第3段</color>。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功闪避后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Perform up to 4 consecutive attacks, dealing <color=Fire>Fusion DMG</color>.
+After releasing <color=Highlight>Basic Attack 4</color>, enter <color=Highlight><te href=850003>True Sight</te></color>, lasting for 12s.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume Stamina to perform up to 4 consecutive attacks in mid-air, dealing <color=Fire>Fusion DMG</color>.
+After releasing <color=Highlight>Mid-air Attack 4</color>, enter <color=Highlight><te href=850003>True Sight</te></color>, lasting for 12s.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Hold <color=Highlight>Basic Attack</color> on the ground to perform an upward strike at the cost of Stamina, dealing <color=Fire>Fusion DMG</color>. Use <color=Highlight>Basic Attack</color> within a certain time to release <color=Highlight>Mid-Air Attack 3</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Heavy Attack</color></size>
+Shortly after holding <color=Highlight>Basic Attack</color> in mid-air or using Basic Attack <color=Highlight>True Sight: Charge</color>, use <color=Highlight>Basic Attack</color> to perform a plunging attack at the cost of Stamina, dealing <color=Fire>Fusion DMG</color>. Use <color=Highlight>Basic Attack</color> within a certain time to release <color=Highlight>Basic Attack 3</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Fire>Fusion DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>sát thương Nhiệt Dung</color>.
+Sau khi thi triển <color=Highlight>Phổ Công mặt đất đòn thứ 4</color>, tiến vào trạng thái <color=Highlight><te href=850003>Tâm Nhãn</te></color>, kéo dài 12 giây.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, thực hiện tối đa 4 đòn tấn công liên tiếp trên không, gây <color=Fire>sát thương Nhiệt Dung</color>.
+Sau khi thi triển <color=Highlight>Tấn công trên không đòn thứ 4</color>, tiến vào trạng thái <color=Highlight><te href=850003>Tâm Nhãn</te></color>, kéo dài 12 giây.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích</color></size>
+Trên mặt đất nhấn giữ <color=Highlight>Phổ Công</color>, tiêu hao thể lực hất tung mục tiêu, gây <color=Fire>sát thương Nhiệt Dung</color>. Trong khoảng thời gian nhất định, nhấn nhanh <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Tấn công trên không đòn thứ 3</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích Trên Không</color></size>
+Trên không nhấn giữ <color=Highlight>Phổ Công</color> hoặc sau khi thi triển Phổ Công <color=Highlight>Tâm Nhãn - Xung</color> trong khoảng thời gian nhất định, nhấn nhanh <color=Highlight>Phổ Công</color>, tiêu hao thể lực thực hiện tấn công bổ nhào từ trên không, gây <color=Fire>sát thương Nhiệt Dung</color>. Trong khoảng thời gian nhất định, nhấn nhanh <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Phổ Công đòn thứ 3</color>.
+<size=10> </size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Sau khi né tránh thành công, trong khoảng thời gian nhất định nhấn nhanh <color=Highlight>Phổ Công</color>, sẽ tấn công mục tiêu, gây <color=Fire>sát thương Nhiệt Dung</color>."
+lang_multi_text.db,MultiText,Skill_1002101_SkillName,衔火洞明,Blazing Enlightment,Hàm Hỏa Đỗng Minh
+lang_multi_text.db,MultiText,Skill_1002101_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Fire>热熔伤害</color>。
+施放<color=Highlight>地面普攻第4段</color>后进入<color=Highlight>心眼</color>状态。
+
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Fire>热熔伤害</color>。
+施放<color=Highlight>空中攻击第4段</color>后进入<color=Highlight>心眼</color>状态。
+
+<size=40><color=Title>重击</color></size>
+消耗耐力上挑攻击目标，造成<color=Fire>热熔伤害</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>空中攻击第3段</color>。
+
+<size=40><color=Title>空中重击</color></size>
+消耗耐力进行空中下落攻击，造成<color=Fire>热熔伤害</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>普攻第3段</color>。
+
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Fire>热熔伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Fire>Fusion DMG</color>.
+After <color=Highlight>Ground Basic Attack 4</color>, enter <color=Highlight>True Sight</color>.
+
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Fire>Fusion DMG</color>.
+After <color=Highlight>Mid-air Attack 4</color>, enter <color=Highlight>True Sight</color>.
+
+<size=40><color=Title>Heavy Attack</color></size>
+Consume STA to perform an upward strike, dealing <color=Fire>Fusion DMG</color>. Use <color=Highlight>Basic Attack</color> within a certain time to perform <color=Highlight>Mid-Air Attack 3</color>.
+
+<size=40><color=Title>Mid-air Heavy Attack</color></size>
+Consume STA to perform a Plunging Attack, dealing <color=Fire>Fusion DMG</color>. Use <color=Highlight>Basic Attack</color> within a certain time to cast <color=Highlight>Basic Attack 3</color>.
+
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Fire>Fusion DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Gây <color=Fire>sát thương Nhiệt Dung</color>.
+Sau khi thi triển <color=Highlight>Phổ Công mặt đất đòn thứ 4</color>, tiến vào trạng thái <color=Highlight>Tâm Nhãn</color>.
+
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, gây <color=Fire>sát thương Nhiệt Dung</color>.
+Sau khi thi triển <color=Highlight>Tấn công trên không đòn thứ 4</color>, tiến vào trạng thái <color=Highlight>Tâm Nhãn</color>.
+
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực hất tung mục tiêu, gây <color=Fire>sát thương Nhiệt Dung</color>. Trong khoảng thời gian nhất định, nhấn nhanh <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Tấn công trên không đòn thứ 3</color>.
+
+<size=40><color=Title>Trọng Kích Trên Không</color></size>
+Tiêu hao thể lực thực hiện tấn công bổ nhào, gây <color=Fire>sát thương Nhiệt Dung</color>. Trong khoảng thời gian nhất định, nhấn nhanh <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Phổ Công đòn thứ 3</color>.
+
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Gây <color=Fire>sát thương Nhiệt Dung</color>."
+lang_multi_text.db,MultiText,Skill_1002102_SkillDescribe,"<size=40><color=Title>心眼·劫</color></size>
+短按<color=Highlight>共鸣技能</color>，长离在空间内高速攻击敌人后进入<color=Highlight>心眼</color>状态，持续12秒，并最终施放一次向下冲刺攻击造成<color=Fire>热熔伤害</color>。
+初始拥有2次可使用次数，每12秒可使用次数增加1次，可使用次数上限2次。
+可以在空中施放。
+<size=10> </size>
+<size=40><color=Title>普攻·心眼·征</color></size>
+<color=Highlight>心眼</color>状态下，长离在地面短按<color=Highlight>普攻</color>，将会施放<color=Highlight>心眼·征</color>，快速接近敌人并造成<color=Fire>热熔伤害</color>，施放后退出<color=Highlight>心眼</color>状态，此次伤害为共鸣技能伤害。
+<size=10> </size>
+<size=40><color=Title>普攻·心眼·冲</color></size>
+<color=Highlight>心眼</color>状态下，长离短按<color=Highlight>跳跃</color>或在空中短按<color=Highlight>普攻</color>，将会施放<color=Highlight>心眼·冲</color>，快速接近敌人并造成<color=Fire>热熔伤害</color>，施放后退出<color=Highlight>心眼</color>状态，此次伤害为共鸣技能伤害。","<size=40><color=Title>True Sight: Capture</color></size>
+After releasing <color=Highlight>Resonance Skill</color>, Changli dashes towards the enemy and enters <color=Highlight>True Sight</color>, lasting for 12s. In the end, she releases a plunging attack, dealing <color=Fire>Fusion DMG</color>.
+<color=Highlight>True Sight: Capture</color> has 2 initial charges and holds up to 2 charges at maximum. The number of charges is replenished by 1 every 12s.
+Can be cast in mid-air.
+<size=10></size>
+<size=40><color=Title>Basic Attack: True Sight - Conquest</color></size>
+When in <color=Highlight>True Sight</color>, if Changli uses <color=Highlight>Ground Basic Attack</color>, she releases <color=Highlight>True Sight: Conquest</color>, dashing towards the enemy and dealing <color=Fire>Fusion DMG</color>, considered as Resonance Skill DMG. After releasing <color=Highlight>True Sight: Conquest</color>, <color=Highlight>True Sight</color> ends.
+<size=10></size>
+<size=40><color=Title>Basic Attack: True Sight - Charge</color></size>
+When in <color=Highlight>True Sight</color>, if Changli <color=Highlight>jumps</color> or uses <color=Highlight>Basic Attack</color> in mid-air, she releases <color=Highlight>True Sight: Charge</color>, dashing towards the enemy and dealing <color=Fire>Fusion DMG</color>, considered as Resonance Skill DMG. After releasing <color=Highlight>True Sight: Charge</color>, <color=Highlight>True Sight</color> ends.","<size=40><color=Title>Tâm Nhãn - Kiếp</color></size>
+Nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color>, Changli tấn công kẻ địch với tốc độ cao trong không gian, sau đó tiến vào trạng thái <color=Highlight>Tâm Nhãn</color>, kéo dài 12 giây, và cuối cùng thi triển một đòn xung kích hướng xuống, gây <color=Fire>sát thương Nhiệt Dung</color>.
+Ban đầu có 2 lượt sử dụng, mỗi 12 giây hồi phục 1 lượt, tối đa 2 lượt.
+Có thể thi triển trên không.
+<size=10> </size>
+<size=40><color=Title>Phổ Công - Tâm Nhãn - Chinh</color></size>
+Trong trạng thái <color=Highlight>Tâm Nhãn</color>, Changli nhấn nhanh <color=Highlight>Phổ Công</color> trên mặt đất sẽ thi triển <color=Highlight>Tâm Nhãn - Chinh</color>, nhanh chóng tiếp cận kẻ địch và gây <color=Fire>sát thương Nhiệt Dung</color>, sau khi thi triển sẽ thoát trạng thái <color=Highlight>Tâm Nhãn</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
+<size=10> </size>
+<size=40><color=Title>Phổ Công - Tâm Nhãn - Xung</color></size>
+Trong trạng thái <color=Highlight>Tâm Nhãn</color>, Changli nhấn nhanh <color=Highlight>Nhảy</color> hoặc nhấn nhanh <color=Highlight>Phổ Công</color> trên không sẽ thi triển <color=Highlight>Tâm Nhãn - Xung</color>, nhanh chóng tiếp cận kẻ địch và gây <color=Fire>sát thương Nhiệt Dung</color>, sau khi thi triển sẽ thoát trạng thái <color=Highlight>Tâm Nhãn</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng."
+lang_multi_text.db,MultiText,Skill_1002102_SkillName,赫羽三相,Tripartite Flames,Hách Vũ Tam Tướng
+lang_multi_text.db,MultiText,Skill_1002102_SkillResume,"<size=40><color=Title>心眼·劫</color></size>
+短按<color=Highlight>共鸣技能</color>，攻击敌人后进入<color=Highlight>心眼</color>状态，造成<color=Fire>热熔伤害</color>。
+初始拥有2次可使用次数，每12秒可使用次数增加1次，可使用次数上限2次。
+可以在空中施放。
+
+<size=40><color=Title>普攻·心眼·征</color></size>
+<color=Highlight>心眼</color>状态下，在地面短按<color=Highlight>普攻</color>，快速接近敌人并造成<color=Fire>热熔伤害</color>，施放后退出<color=Highlight>心眼</color>状态，此次伤害为共鸣技能伤害。
+
+<size=40><color=Title>普攻·心眼·冲</color></size>
+<color=Highlight>心眼</color>状态下，短按<color=Highlight>跳跃</color>或在空中短按<color=Highlight>普攻</color>，快速接近敌人并造成<color=Fire>热熔伤害</color>，施放后退出<color=Highlight>心眼</color>状态，此次伤害为共鸣技能伤害。","<size=40><color=Title>True Sight: Capture</color></size>
+After using her <color=Highlight>Resonance Skill</color> to attack an enemy, Changli enters <color=Highlight>True Sight</color>, dealing <color=Fire>Fusion DMG</color>.
+<color=Highlight>True Sight: Capture</color> has 2 initial charges. Changli can hold up to 2 charges. 1 charge is replenished every 12s. It can be cast in mid-air.
+
+<size=40><color=Title>Basic Attack: True Sight - Conquest</color></size>
+When in <color=Highlight>True Sight</color>, if Changli uses <color=Highlight>Ground Basic Attack</color>, she dashes towards the enemy, dealing <color=Fire>Fusion DMG</color> (considered Resonance Skill DMG), after which <color=Highlight>True Sight</color> ends.
+
+<size=40><color=Title>Basic Attack: True Sight - Charge</color></size>
+When in <color=Highlight>True Sight</color>, if Changli <color=Highlight>jumps</color> or uses <color=Highlight>Basic Attack</color> in mid-air, she dashes towards the enemy, dealing <color=Fire>Fusion DMG</color> (considered Resonance Skill DMG), after which <color=Highlight>True Sight</color> ends.","<size=40><color=Title>Tâm Nhãn - Kiếp</color></size>
+Nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color>, tấn công kẻ địch rồi tiến vào trạng thái <color=Highlight>Tâm Nhãn</color>, gây <color=Fire>sát thương Nhiệt Dung</color>.
+Ban đầu có 2 lượt sử dụng, mỗi 12 giây hồi phục 1 lượt, tối đa 2 lượt.
+Có thể thi triển trên không.
+
+<size=40><color=Title>Phổ Công - Tâm Nhãn - Chinh</color></size>
+Trong trạng thái <color=Highlight>Tâm Nhãn</color>, nhấn nhanh <color=Highlight>Phổ Công</color> trên mặt đất, nhanh chóng tiếp cận kẻ địch và gây <color=Fire>sát thương Nhiệt Dung</color>, sau khi thi triển sẽ thoát trạng thái <color=Highlight>Tâm Nhãn</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
+
+<size=40><color=Title>Phổ Công - Tâm Nhãn - Xung</color></size>
+Trong trạng thái <color=Highlight>Tâm Nhãn</color>, nhấn nhanh <color=Highlight>Nhảy</color> hoặc nhấn nhanh <color=Highlight>Phổ Công</color> trên không, nhanh chóng tiếp cận kẻ địch và gây <color=Fire>sát thương Nhiệt Dung</color>, sau khi thi triển sẽ thoát trạng thái <color=Highlight>Tâm Nhãn</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng."
+lang_multi_text.db,MultiText,Skill_1002103_SkillDescribe,"对周围目标造成<color=Fire>热熔伤害</color>，获得4层【离火】，并进入<color=Highlight>焰羽</color>状态。
+可以在空中施放。
+<size=10> </size>
+<size=40><color=Title>焰羽</color></size>
+10秒内施放重击<color=Highlight>焚身以火</color>时攻击提升{0}，施放后效果提前结束。","Deal <color=Fire>Fusion DMG</color> to nearby targets, obtaining 4 stacks of Enflamement, and entering <color=Highlight>Fiery Feather</color>.
+Can be cast in mid-air.
+<size=10></size>
+<size=40><color=Title>Fiery Feather</color></size>
+When Changli releases Heavy Attack <color=Highlight>Flaming Sacrifice</color> within 10s, her ATK is increased by {0}, after which <color=Highlight>Fiery Feather</color> ends.","Gây <color=Fire>sát thương Nhiệt Dung</color> lên các mục tiêu xung quanh, nhận 4 tầng [Ly Hỏa], và tiến vào trạng thái <color=Highlight>Diễm Vũ</color>.
+Có thể thi triển trên không.
+<size=10> </size>
+<size=40><color=Title>Diễm Vũ</color></size>
+Trong vòng 10 giây, khi thi triển Trọng Kích <color=Highlight>Phần Thân Dĩ Hỏa</color>, tấn công tăng {0}, sau khi thi triển hiệu ứng kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002103_SkillName,离火照丹心,Radiance of Fealty,Ly Hỏa Chiếu Đan Tâm
+lang_multi_text.db,MultiText,Skill_1002103_SkillResume,"造成<color=Fire>热熔伤害</color>，获得4层【离火】，并进入<color=Highlight>焰羽</color>状态。
+可以在空中施放。
+
+<size=40><color=Title>焰羽</color></size>
+10秒内施放重击<color=Highlight>焚身以火</color>时攻击提升{0}，施放后效果提前结束。","Deal <color=Fire>Fusion DMG</color>, gain 4 stacks of Enflamement, and enter <color=Highlight>Fiery Feather</color>.
+Can be cast in mid-air.
+
+<size=40><color=Title>Fiery Feather</color></size>
+When Changli uses Heavy Attack <color=Highlight>Flaming Sacrifice</color> within 10s, her ATK is increased by {0}, after which <color=Highlight>Fiery Feather</color> ends.","Gây <color=Fire>sát thương Nhiệt Dung</color>, nhận 4 tầng [Ly Hỏa], và tiến vào trạng thái <color=Highlight>Diễm Vũ</color>.
+Có thể thi triển trên không.
+
+<size=40><color=Title>Diễm Vũ</color></size>
+Trong vòng 10 giây, khi thi triển Trọng Kích <color=Highlight>Phần Thân Dĩ Hỏa</color>, tấn công tăng {0}, sau khi thi triển hiệu ứng kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002104_SkillDescribe,施放普攻<color=Highlight>心眼·征</color>或普攻<color=Highlight>心眼·冲</color>时，每拥有1层【<te href=850004>离火</te>】，长离的热熔伤害加成提升{0}。,"When casting Basic Attack: <color=Highlight>True Sight - Conquest</color> or Basic Attack: <color=Highlight>True Sight - Charge</color>, each stack of <te href=850004>Enflamement</te> will increase Fusion DMG Bonus by {0}.","Khi thi triển Phổ Công <color=Highlight>Tâm Nhãn - Chinh</color> hoặc Phổ Công <color=Highlight>Tâm Nhãn - Xung</color>, mỗi tầng [<te href=850004>Ly Hỏa</te>] sở hữu sẽ tăng thêm {0} gia thành sát thương Nhiệt Dung cho Changli."
+lang_multi_text.db,MultiText,Skill_1002104_SkillName,潜谋,Secret Strategist,Tiềm Mưu
+lang_multi_text.db,MultiText,Skill_1002104_SkillResume,施放普攻<color=Highlight>心眼·征</color>或普攻<color=Highlight>心眼·冲</color>时，每拥有1层【离火】，热熔伤害加成提升{0}。,"When casting Basic Attack: <color=Highlight>True Sight - Conquest</color> or Basic Attack: <color=Highlight>True Sight - Charge</color>, each stack of Enflamement will increase Fusion DMG Bonus by {0}.","Khi thi triển Phổ Công <color=Highlight>Tâm Nhãn - Chinh</color> hoặc Phổ Công <color=Highlight>Tâm Nhãn - Xung</color>, mỗi tầng [Ly Hỏa] sẽ tăng bonus sát thương Nhiệt Dung thêm {0}."
+lang_multi_text.db,MultiText,Skill_1002105_SkillDescribe,施放重击<color=Highlight>焚身以火</color>或共鸣解放<color=Highlight>离火照丹心</color>时，长离的热熔伤害加成提升{0}，攻击造成伤害时忽视目标{1}防御。,Casting Heavy Attack <color=Highlight>Flaming Sacrifice</color> or Resonance Liberation <color=Highlight>Radiance of Fealty</color> gives {0} Fusion DMG Bonus and ignores {1} of the target's DEF when dealing damage.,"Khi thi triển Trọng Kích <color=Highlight>Phần Thân Dĩ Hỏa</color> hoặc Giải Phóng Cộng Hưởng <color=Highlight>Ly Hỏa Chiếu Đan Tâm</color>, bonus sát thương Nhiệt Dung của Changli tăng {0}, khi gây sát thương sẽ bỏ qua {1} phòng thủ của mục tiêu."
+lang_multi_text.db,MultiText,Skill_1002105_SkillName,散势,Sweeping Force,Tán Thế
+lang_multi_text.db,MultiText,Skill_1002105_SkillResume,施放重击<color=Highlight>焚身以火</color>或共鸣解放<color=Highlight>离火照丹心</color>时，热熔伤害加成提升{0}，攻击造成伤害时忽视目标{1}防御。,Casting Heavy Attack <color=Highlight>Flaming Sacrifice</color> or Resonance Liberation <color=Highlight>Radiance of Fealty</color> gives {0} Fusion DMG Bonus and ignores {1} of the target's DEF when dealing damage.,"Khi thi triển Trọng Kích <color=Highlight>Phần Thân Dĩ Hỏa</color> hoặc Giải Phóng Cộng Hưởng <color=Highlight>Ly Hỏa Chiếu Đan Tâm</color>, bonus sát thương Nhiệt Dung tăng {0}, khi gây sát thương sẽ bỏ qua {1} phòng thủ của mục tiêu."
+lang_multi_text.db,MultiText,Skill_1002106_SkillDescribe,长离出现在空中，攻击目标并进入<color=Highlight><te href=850003>心眼</te></color>状态，持续12秒。,"Changli appears in mid-air, attacks the target, and enters <color=Highlight><te href=850003>True Sight</te></color>, lasting for 12s.","Changli xuất hiện trên không, tấn công mục tiêu và tiến vào trạng thái <color=Highlight><te href=850003>Tâm Nhãn</te></color>, duy trì 12 giây."
+lang_multi_text.db,MultiText,Skill_1002106_SkillName,天道持枢,Obedience of Rules,Thiên Đạo Trì Xu
+lang_multi_text.db,MultiText,Skill_1002106_SkillResume,攻击目标并进入<color=Highlight>心眼</color>状态。,Attack the target and enter <color=Highlight>True Sight</color>.,Tấn công mục tiêu và tiến vào trạng thái <color=Highlight>Tâm Nhãn</color>.
+lang_multi_text.db,MultiText,Skill_1002107_SkillDescribe,"<size=40><color=Title>重击·焚身以火</color></size>
+施放<color=Highlight>重击</color>时，若长离拥有4层【离火】，将会消耗所有【离火】施放<color=Highlight>焚身以火</color>攻击目标造成<color=Fire>热熔伤害</color>，此次伤害为共鸣技能伤害。
+施放<color=Highlight>焚身以火</color>期间，长离受到伤害降低{0}。
+<size=10> </size>
+<size=40><color=Title>离火获取规则</color></size>
+【离火】上限4层。
+施放普攻<color=Highlight>心眼·征</color>命中目标时，获得1层【离火】。
+施放普攻<color=Highlight>心眼·冲</color>命中目标时，获得1层【离火】。
+施放共鸣解放<color=Highlight>离火照丹心</color>时，获得4层【离火】。","<size=40><color=Title>Heavy Attack: Flaming Sacrifice</color></size>
+When releasing <color=Highlight>Heavy Attack</color>, if Changli carries 4 stacks of Enflamement, she consumes all stacks of Enflamement to cast <color=Highlight>Flaming Sacrifice</color>, dealing <color=Fire>Fusion DMG</color>, considered as Resonance Skill DMG.
+While casting <color=Highlight>Flaming Sacrifice</color>, Changli takes {0} less DMG.
+<size=10></size>
+<size=40><color=Title>Enflamement</color></size>
+Changli can hold up to 4 stacks of Enflamement.
+Changli obtains 1 stack of Enflamement for every Basic Attack: <color=Highlight>True Sight - Conquest</color> on hit.
+Changli obtains 1 stack of Enflamement for every Basic Attack: <color=Highlight>True Sight - Charge</color> on hit.
+Changli obtains 4 stacks of Enflamement for every Resonance Liberation <color=Highlight>Radiance of Fealty</color>.","<size=40><color=Title>Trọng Kích - Phần Thân Dĩ Hỏa</color></size>
+Khi thi triển <color=Highlight>Trọng Kích</color>, nếu Changli sở hữu 4 tầng [Ly Hỏa], sẽ tiêu hao toàn bộ [Ly Hỏa] để thi triển <color=Highlight>Phần Thân Dĩ Hỏa</color> tấn công mục tiêu, gây <color=Fire>sát thương Nhiệt Dung</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
+Trong lúc thi triển <color=Highlight>Phần Thân Dĩ Hỏa</color>, sát thương Changli nhận vào giảm {0}.
+<size=10> </size>
+<size=40><color=Title>Quy tắc nhận Ly Hỏa</color></size>
+[Ly Hỏa] tối đa 4 tầng.
+Khi thi triển Phổ Công <color=Highlight>Tâm Nhãn - Chinh</color> trúng mục tiêu, nhận 1 tầng [Ly Hỏa].
+Khi thi triển Phổ Công <color=Highlight>Tâm Nhãn - Xung</color> trúng mục tiêu, nhận 1 tầng [Ly Hỏa].
+Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Ly Hỏa Chiếu Đan Tâm</color>, nhận 4 tầng [Ly Hỏa]."
+lang_multi_text.db,MultiText,Skill_1002107_SkillName,焚身以火,Flaming Sacrifice,Phần Thân Dĩ Hỏa
+lang_multi_text.db,MultiText,Skill_1002107_SkillResume,"<size=40><color=Title>重击·焚身以火</color></size>
+施放<color=Highlight>重击</color>时，若长离拥有4层【离火】，将会消耗所有【离火】攻击目标造成<color=Fire>热熔伤害</color>，此次伤害为共鸣技能伤害。
+施放<color=Highlight>焚身以火</color>期间，长离受到伤害降低{0}。
+
+<size=40><color=Title>离火获取规则</color></size>
+【离火】上限4层。
+【离火】的获取途径：普攻<color=Highlight>心眼·征</color>、普攻<color=Highlight>心眼·冲</color>、共鸣解放<color=Highlight>离火照丹心</color>。","<size=40><color=Title>Heavy Attack: Flaming Sacrifice</color></size>
+When casting <color=Highlight>Heavy Attack</color>, if Changli has 4 stacks of Enflamement, she consumes them all to attack the target, dealing <color=Fire>Fusion DMG</color>. This damage is considered Resonance Skill DMG.
+While casting <color=Highlight>Flaming Sacrifice</color>, Changli takes {0} less DMG.
+
+<size=40><color=Title>Enflamement</color></size>
+Changli can hold up to 4 stacks of Enflamement.
+Changli gains Enflamement through Basic Attack: <color=Highlight>True Sight - Conquest</color>, Basic Attack: <color=Highlight>True Sight - Charge</color>, and Resonance Liberation <color=Highlight>Radiance of Fealty</color>.","<size=40><color=Title>Trọng Kích - Phần Thân Dĩ Hỏa</color></size>
+Khi thi triển <color=Highlight>Trọng Kích</color>, nếu Changli sở hữu 4 tầng [Ly Hỏa], sẽ tiêu hao toàn bộ [Ly Hỏa] để tấn công mục tiêu, gây <color=Fire>sát thương Nhiệt Dung</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
+Trong lúc thi triển <color=Highlight>Phần Thân Dĩ Hỏa</color>, sát thương Changli nhận vào giảm {0}.
+
+<size=40><color=Title>Quy tắc nhận Ly Hỏa</color></size>
+[Ly Hỏa] tối đa 4 tầng.
+Cách nhận [Ly Hỏa]: Phổ Công <color=Highlight>Tâm Nhãn - Chinh</color>, Phổ Công <color=Highlight>Tâm Nhãn - Xung</color>, Giải Phóng Cộng Hưởng <color=Highlight>Ly Hỏa Chiếu Đan Tâm</color>."
+lang_multi_text.db,MultiText,Skill_1002108_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1002108_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1002108_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1002109_MultiSkillDescribe_1.1,附近队伍中激活长离延奏技能的角色热熔伤害加深{0}，共鸣解放伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,"When nearby Resonators in the party activate Changli's Outro Skill, their Fusion DMG is Amplified by {0} and Resonance Liberation Amplified by {1} for {2}s or until they are switched out.","Cộng Hưởng Giả trong đội ở gần kích hoạt Biến Tấu Kỹ của Changli sẽ được gia tăng sát thương Nhiệt Dung {0}, gia tăng sát thương Giải Phóng Cộng Hưởng {1}, hiệu quả kéo dài {2} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002109_SkillDescribe,下一位登场角色热熔伤害加深{0}，共鸣解放伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Fusion DMG Amplified by {0} and Resonance Liberation DMG Amplified by {1} for {2}s or until the Resonator is switched out.,"Nhân vật tiếp theo ra sân được gia tăng sát thương Nhiệt Dung {0}, gia tăng sát thương Giải Phóng Cộng Hưởng {1}, hiệu quả kéo dài {2} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002109_SkillName,奇正相生,Strategy of Duality,Kỳ Chính Tương Sinh
+lang_multi_text.db,MultiText,Skill_1002109_SkillResume,下一位登场角色热熔伤害加深{0}，共鸣解放伤害加深{1}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Fusion DMG Amplified by {0} and Resonance Liberation DMG Amplified by {1}. Switching Resonators ends the effect.,"Nhân vật tiếp theo ra sân được gia tăng sát thương Nhiệt Dung {0}, gia tăng sát thương Giải Phóng Cộng Hưởng {1}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002201_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+进行最多3段的连续攻击，造成<color=Ice>冷凝伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+消耗耐力攻击目标，造成<color=Ice>冷凝伤害</color>。
+重击不会打断普攻段数。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力在空中进行最多2段的连续攻击，造成<color=Ice>冷凝伤害</color>。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Perform up to 3 consecutive attacks, dealing <color=Ice>Glacio DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Consume STA to perform an attack, dealing <color=Ice>Glacio DMG</color>.
+Heavy Attack does not reset the Basic Attack cycle.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to perform up to 2 consecutive attacks while in mid-air, dealing <color=Ice>Glacio DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Thực hiện tối đa 3 đợt tấn công liên tục, gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>.
+Trọng Kích không làm gián đoạn chuỗi đòn Phổ Công.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực thực hiện tối đa 2 đợt tấn công liên tục trên không, gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10> </size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Sau khi <color=Highlight>Né Tránh</color> thành công, trong khoảng thời gian nhất định nhấn nhanh <color=Highlight>Phổ Công</color> sẽ tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Skill_1002201_SkillName,轻云淡墨,Dimming Brush,Khinh Vân Đạm Mặc
+lang_multi_text.db,MultiText,Skill_1002201_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Ice>冷凝伤害</color>。
+<size=10></size>
+<size=40><color=Title>重击</color></size>
+消耗耐力，造成<color=Ice>冷凝伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Ice>冷凝伤害</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Ice>Glacio DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Consume STA to deal <color=Ice>Glacio DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Ice>Glacio DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10></size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực, gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10></size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Gây <color=Ice>sát thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Skill_1002202_SkillDescribe,"造成<color=Ice>冷凝伤害</color>。若折枝至少拥有60点【<te href=850028>灵韵</te>】，则会消耗60点【<te href=850028>灵韵</te>】，召唤<color=Highlight><te href=850026>鹤影</te>·左</color>以及<color=Highlight><te href=850026>鹤影</te>·右</color>。
+·在地面短按时，<te href=850026>鹤影</te>会召唤在地面。
+·在地面长按或空中短按时，<te href=850026>鹤影</te>会召唤在空中。","Deal <color=Ice>Glacio DMG</color>. If <te href=850028>Afflatus</te> is no less than 60, consume 60 Afflatus to summon <color=Highlight><te href=850026>Phatasmic Imprint</te> - Left</color> and <color=Highlight>Phantasmic Imprint - Right</color>.
+-Press the button on the ground to summon the Phantasmic Imprints on the ground.
+-Hold the button on the ground or press the button in mid-air to summon the Phantasmic Imprints in mid-air.","Gây <color=Ice>sát thương Ngưng Băng</color>. Nếu Zhezhi sở hữu ít nhất 60 điểm [<te href=850028>Linh Vận</te>], sẽ tiêu hao 60 điểm [<te href=850028>Linh Vận</te>], triệu hồi <color=Highlight><te href=850026>Hạc Ảnh</te> - Tả</color> và <color=Highlight><te href=850026>Hạc Ảnh</te> - Hữu</color>.
+- Nhấn nhanh trên mặt đất, <te href=850026>Hạc Ảnh</te> sẽ được triệu hồi trên mặt đất.
+- Giữ nhấn trên mặt đất hoặc nhấn nhanh trên không, <te href=850026>Hạc Ảnh</te> sẽ được triệu hồi trên không."
+lang_multi_text.db,MultiText,Skill_1002202_SkillName,以形写神,Manifestation,Dĩ Hình Tả Thần
+lang_multi_text.db,MultiText,Skill_1002202_SkillResume,造成<color=Ice>冷凝伤害</color>。若折枝至少拥有60点【灵韵】，则会消耗60点【灵韵】，召唤2个<color=Highlight>鹤影</color>,"Deal <color=Ice>Glacio DMG</color>. If Zhezhi has at least 60 Afflatus, consume 60 Afflatus to summon 2 <color=Highlight>Phantasmic Imprints</color>.","Gây <color=Ice>sát thương Ngưng Băng</color>. Nếu Zhezhi sở hữu ít nhất 60 điểm [Linh Vận], sẽ tiêu hao 60 điểm [Linh Vận], triệu hồi 2 <color=Highlight>Hạc Ảnh</color>."
+lang_multi_text.db,MultiText,Skill_1002203_SkillDescribe,"折枝召唤<color=Highlight>墨鹤</color>协助战斗。
+可以在空中施放。
+<size=10> </size>
+<size=40><color=Title>墨鹤</color></size>
+队伍中在场角色造成伤害时，会召唤<color=Highlight>墨鹤</color>对目标进行协同攻击，造成<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害。
+·造成伤害的接下来{0}秒内，每秒可召唤1只<color=Highlight>墨鹤</color>，该效果每秒可触发1次。墨鹤造成的伤害不会触发该效果。
+·<color=Highlight>墨鹤</color>每秒最多召唤{1}只，共可召唤{2}只。
+·效果持续{3}秒，或持续至<color=Highlight>墨鹤</color>达到最大召唤数。","Summon <color=Highlight>Inklit Spirits</color> for assistance.
+Can be cast in mid-air.
+<size=10></size>
+<size=40><color=Title>Inklit Spirit</color></size>
+When the active Resonator deals DMG, an <color=Highlight>Inklit Spirit</color> will be summoned to perform a Coordinated Attack, dealing <color=Ice>Glacio DMG</color>, considered as Basic Attack DMG.
+-For {0}s after dealing DMG, 1 <color=Highlight>Inklit Spirit</color> is summoned per second. This effect can trigger once per second. Damage dealt by an Inklit Spirit does not trigger this effect.
+-Up to {1} <color=Highlight>Inklit Spirit</color> can be summoned every second, and up to {2} in total.
+-This effect lasts for {3}s, or until max <color=Highlight>Inklit Spirits</color> are summoned.","Zhezhi triệu hồi <color=Highlight>Mặc Hạc</color> hỗ trợ chiến đấu.
+Có thể thi triển trên không.
+<size=10> </size>
+<size=40><color=Title>Mặc Hạc</color></size>
+Khi nhân vật đang ra sân trong đội gây sát thương, sẽ triệu hồi <color=Highlight>Mặc Hạc</color> hiệp đồng tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>, sát thương này được tính là sát thương Phổ Công.
+- Trong {0} giây sau khi gây sát thương, mỗi giây có thể triệu hồi 1 con <color=Highlight>Mặc Hạc</color>, hiệu quả này mỗi giây chỉ kích hoạt 1 lần. Sát thương do Mặc Hạc gây ra không kích hoạt hiệu quả này.
+- <color=Highlight>Mặc Hạc</color> mỗi giây triệu hồi tối đa {1} con, tổng cộng có thể triệu hồi {2} con.
+- Hiệu quả kéo dài {3} giây, hoặc cho đến khi <color=Highlight>Mặc Hạc</color> đạt số lượng triệu hồi tối đa."
+lang_multi_text.db,MultiText,Skill_1002203_SkillName,虚实境趣,Living Canvas,Hư Thực Cảnh Thú
+lang_multi_text.db,MultiText,Skill_1002203_SkillResume,"折枝召唤<color=Highlight>墨鹤</color>协助战斗。
+<size=10></size>
+<size=40><color=Title>墨鹤</color></size>
+队伍中在场角色造成伤害时，会召唤<color=Highlight>墨鹤</color>对目标进行协同攻击，造成<color=Ice>冷凝伤害</color>。","Summon <color=Highlight>Inklit Spirits</color> for assistance.
+<size=10></size>
+<size=40><color=Title>Inklit Spirit</color></size>
+When the Resonator on the field deals damage, an <color=Highlight>Inklit Spirit</color> is summoned to perform a Coordinated Attack, dealing <color=Ice>Glacio DMG</color>.","Zhezhi triệu hồi <color=Highlight>Mặc Hạc</color> hỗ trợ chiến đấu.
+<size=10></size>
+<size=40><color=Title>Mặc Hạc</color></size>
+Khi nhân vật đang trên sân trong đội gây sát thương, <color=Highlight>Mặc Hạc</color> sẽ được triệu hồi để thực hiện đòn phối hợp vào mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Skill_1002204_SkillDescribe,施放共鸣技能<color=Highlight>神来之笔</color>或共鸣技能<color=Highlight>极意·神来之笔</color>时，攻击提升{0}，可叠加{1}层，持续{2}秒。,"When casting Resonance Skill <color=Highlight>Stroke of Genius</color> or Resonance Skill <color=Highlight>Creation's Zenith</color>, ATK is increased by {0} for {2}s. This can be stacked up to {1} time(s).","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Thần Lai Chi Bút</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Cực Ý - Thần Lai Chi Bút</color>, tấn công tăng {0}, cộng dồn tối đa {1} tầng, duy trì {2} giây."
+lang_multi_text.db,MultiText,Skill_1002204_SkillName,挥毫,Calligrapher's Touch,Huy Hào
+lang_multi_text.db,MultiText,Skill_1002204_SkillResume,施放共鸣技能<color=Highlight>神来之笔</color>或共鸣技能<color=Highlight>极意·神来之笔</color>时，攻击提升{0}，可叠加{1}层，持续{2}秒。,"When casting Resonance Skill <color=Highlight>Stroke of Genius</color> or Resonance Skill <color=Highlight>Creation's Zenith</color>, ATK is increased by {0} for {2}s. This can be stacked up to {1} time(s).","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Thần Lai Chi Bút</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Cực Ý - Thần Lai Chi Bút</color>, tấn công tăng {0}, cộng dồn tối đa {1} tầng, duy trì {2} giây."
+lang_multi_text.db,MultiText,Skill_1002205_MultiSkillDescribe_1.1,附近队伍中激活折枝延奏技能角色回复{0}点共鸣能量。,"When nearby Resonators in the party activate Zhezhi's Outro Skill, their Resonance Energy is regenerated by {0}.","Khi Cộng Hưởng Giả trong đội ở gần kích hoạt Hiệp Tấu Kỹ của Zhezhi, năng lượng cộng hưởng được hồi phục {0} điểm."
+lang_multi_text.db,MultiText,Skill_1002205_SkillDescribe,施放延奏技能后，为下一位登场角色回复{0}点共鸣能量。,"After Outro Skill is cast, restore {0} Resonance Energy for the incoming Resonator.","Sau khi thi triển Hiệp Tấu Kỹ, hồi phục {0} điểm năng lượng cộng hưởng cho nhân vật tiếp theo lên sân."
+lang_multi_text.db,MultiText,Skill_1002205_SkillName,点睛,Flourish,Điểm Tinh
+lang_multi_text.db,MultiText,Skill_1002205_SkillResume,施放延奏技能后，为下一位登场角色回复{0}点共鸣能量。,"After Outro Skill is cast, restore {0} Resonance Energy for the incoming Resonator.","Sau khi thi triển Hiệp Tấu Kỹ, hồi phục {0} điểm năng lượng cộng hưởng cho nhân vật tiếp theo lên sân."
+lang_multi_text.db,MultiText,Skill_1002206_SkillDescribe,攻击目标，造成<color=Ice>冷凝伤害</color>。,"Attack the target, dealing <color=Ice>Glacio DMG</color>.","Tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Skill_1002206_SkillName,柔翰生辉,Radiant Ruin,Nhu Hàn Sinh Huy
+lang_multi_text.db,MultiText,Skill_1002206_SkillResume,造成<color=Ice>冷凝伤害</color>。,Deal <color=Ice>Glacio DMG</color>.,Gây <color=Ice>sát thương Ngưng Băng</color>.
+lang_multi_text.db,MultiText,Skill_1002207_SkillDescribe,"<size=40><color=Title>鹤影</color></size>
+折枝施放共鸣技能<color=Highlight>以形写神</color>或重击<color=Highlight>构形</color>时，消耗【灵韵】可召唤<color=Highlight>鹤影</color>。
+<color=Highlight>鹤影</color>分为<color=Highlight>鹤影·左</color>，<color=Highlight>鹤影·中</color>，<color=Highlight>鹤影·右</color>三种，每种最多存在1幅，持续{0}秒。
+<size=10> </size>
+<size=40><color=Title>重击·构形</color></size>
+进行下述5种操作时，可消耗耐力施放该技能攻击目标，造成<color=Ice>冷凝伤害</color>。
+·<color=Highlight>普攻第3段</color>后一定时间内长按<color=Highlight>普攻</color>
+·施放共鸣技能<color=Highlight>以形写神</color>后一定时间内短按<color=Highlight>普攻</color>
+·施放共鸣技能<color=Highlight>神来之笔</color>、共鸣技能<color=Highlight>极意·神来之笔</color>后一定时间内长按<color=Highlight>普攻</color>
+·处于空中状态时长按<color=Highlight>普攻</color>
+·成功<color=Highlight>闪避</color>后长按<color=Highlight>普攻</color>
+若施放时折枝至少拥有30点【灵韵】，则消耗30点【灵韵】在场上召唤<color=Highlight>鹤影·中</color>。
+<size=10> </size>
+<size=40><color=Title>共鸣技能·神来之笔</color></size>
+折枝附近存在<color=Highlight>鹤影</color>时，共鸣技能替换为<color=Highlight>神来之笔</color>。施放时：
+·移动到<color=Highlight>鹤影</color>的位置并将它清除，然后召唤白鹤攻击目标，造成<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害。若移动到处于空中的<color=Highlight>鹤影</color>，可重置空中闪避次数。
+·获得1层【极意】，持续{1}秒，可叠加2层。
+·可在空中施放。
+<size=10> </size>
+<size=40><color=Title>共鸣技能·极意·神来之笔</color></size>
+折枝附近存在<color=Highlight>鹤影</color>，且【极意】层数为2时，<color=Highlight>神来之笔</color>替换为<color=Highlight>极意·神来之笔</color>。施放时：
+·移除全部【极意】。
+·移动到<color=Highlight>鹤影</color>的位置并将它清除，然后召唤白鹤攻击目标，造成更高的<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害，并且让折枝的普攻伤害加成提升{2}，持续{3}秒。若移动到处于空中的<color=Highlight>鹤影</color>，可重置空中闪避次数。
+·可在空中施放。
+<size=10> </size>
+<size=40><color=Title>【灵韵】获取规则</color></size>
+【灵韵】上限为90点。
+常态攻击造成伤害可回复【灵韵】。
+施放变奏技能可回复【灵韵】。","<size=40><color=Title>Phantasmic Imprint</color></size>
+Zhezhi may summon <color=Highlight>Phantasmic Imprints</color> at the cost of Afflatus when casting Resonance Skill <color=Highlight>Manifestation</color> or Heavy Attack <color=Highlight>Conjuration</color>.
+Up to 1 of each of <color=Highlight>Phantasmic Imprint - Left</color>, <color=Highlight>Phantasmic Imprint - Middle</color>, and <color=Highlight>Phantasmic Imprint - Right</color> can exist at the same time, each lasting for {0}s.
+<size=10></size>
+<size=40><color=Title>Heavy Attack - Conjuration</color></size>
+The 5 moves below consume STA to perform <color=Highlight>Conjuration</color> to attack the target, dealing <color=Ice>Glacio DMG</color>.
+-Hold the <color=Highlight>Normal Attack button</color> shortly after <color=Highlight>Basic Attack Stage 3</color>.
+-Press the <color=Highlight>Normal Attack button</color> shortly after casting Resonance Skill <color=Highlight>Manifestation</color>.
+-Hold the <color=Highlight>Normal Attack button</color> shortly after casting Resonance Skill <color=Highlight>Stroke of Genius</color> or Resonance Skill <color=Highlight>Creation's Zenith</color>.
+-Hold the <color=Highlight>Normal Attack button</color> while in mid-air.
+-Hold the <color=Highlight>Normal Attack button</color> after a successful <color=Highlight>Dodge</color>.
+If Zhezhi has at least 30 Afflatus when performing any of these, consume 30 Afflatus to summon a <color=Highlight>Phantasmic Imprint - Middle</color>.
+<size=10></size>
+<size=40><color=Title>Resonance Skill - Stroke of Genius</color></size>
+When a <color=Highlight>Phatasmic Imprint</color> is nearby, the Resonance Skill is replaced with <color=Highlight>Stroke of Genius</color>, which can be cast while in mid-air. When it is cast, Zhezhi will:
+-Move to the location of the <color=Highlight>Phatasmic Imprint</color>, remove it, and then summon an Ivory Herald to attack the target, dealing <color=Ice>Glacio DMG</color>, considered as Basic Attack DMG. Refresh the mid-air Dodge attempts if the target <color=Highlight>Phatasmic Imprint</color> is in mid-air.
+-Gain 1 stack of Painter's Delight, lasting for {1}s and stacking up to 2 times.
+<size=10></size>
+<size=40><color=Title>Resonance Skill - Creation's Zenith</color></size>
+When a <color=Highlight>Phantasmic Imprint</color> is nearby and there are 2 stacks of Painter's Delight, <color=Highlight>Stroke of Genius</color> is replaced with <color=Highlight>Creation's Zenith</color>, which can be cast while in mid-air. When it is cast, Zhezhi will:
+-Lose all stacks of Painter's Delight
+-Move to the location of the <color=Highlight>Phantasmic Imprint</color>, remove it, and then summon an Ivory Herald to attack the target, dealing greater <color=Ice>Glacio DMG</color>, considered as Basic Attack DMG, additionally increasing the Basic Attack DMG Bonus by {2} for {3}s. Refresh the mid-air Dodge attempts if the target <color=Highlight>Phatasmic Imprint</color> is in mid-air.
+<size=10></size>
+<size=40><color=Title>Afflatus</color></size>
+Zhezhi can hold up to 90 Afflatus.
+Normal Attacks grant Afflatus on hit.
+Casting Intro Skill grants Afflatus.","<size=40><color=Title>Hạc Ảnh</color></size>
+Khi Zhezhi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Dĩ Hình Tả Thần</color> hoặc Trọng Kích <color=Highlight>Cấu Hình</color>, tiêu hao [Linh Vận] để triệu hồi <color=Highlight>Hạc Ảnh</color>.
+<color=Highlight>Hạc Ảnh</color> gồm 3 loại: <color=Highlight>Hạc Ảnh - Trái</color>, <color=Highlight>Hạc Ảnh - Giữa</color>, <color=Highlight>Hạc Ảnh - Phải</color>, mỗi loại tồn tại tối đa 1 bức, duy trì {0} giây.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích - Cấu Hình</color></size>
+Khi thực hiện 5 thao tác dưới đây, có thể tiêu hao thể lực để thi triển kỹ năng này tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>.
+- Giữ <color=Highlight>Phổ Công</color> trong khoảng thời gian ngắn sau <color=Highlight>Phổ Công đoạn 3</color>
+- Nhấn <color=Highlight>Phổ Công</color> trong khoảng thời gian ngắn sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Dĩ Hình Tả Thần</color>
+- Giữ <color=Highlight>Phổ Công</color> trong khoảng thời gian ngắn sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Thần Lai Chi Bút</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Cực Ý - Thần Lai Chi Bút</color>
+- Giữ <color=Highlight>Phổ Công</color> khi đang ở trên không
+- Giữ <color=Highlight>Phổ Công</color> sau khi <color=Highlight>Né Tránh</color> thành công
+Nếu khi thi triển Zhezhi có ít nhất 30 điểm [Linh Vận], sẽ tiêu hao 30 điểm [Linh Vận] để triệu hồi <color=Highlight>Hạc Ảnh - Giữa</color> trên sân.
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Thần Lai Chi Bút</color></size>
+Khi gần Zhezhi tồn tại <color=Highlight>Hạc Ảnh</color>, Kỹ Năng Cộng Hưởng được thay thế thành <color=Highlight>Thần Lai Chi Bút</color>. Khi thi triển:
+- Di chuyển đến vị trí <color=Highlight>Hạc Ảnh</color> và xóa bỏ nó, sau đó triệu hồi bạch hạc tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>, sát thương này tính là sát thương Phổ Công. Nếu di chuyển đến <color=Highlight>Hạc Ảnh</color> đang ở trên không, có thể đặt lại số lần né tránh trên không.
+- Nhận 1 tầng [Cực Ý], duy trì {1} giây, cộng dồn tối đa 2 tầng.
+- Có thể thi triển trên không.
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Cực Ý - Thần Lai Chi Bút</color></size>
+Khi gần Zhezhi tồn tại <color=Highlight>Hạc Ảnh</color> và số tầng [Cực Ý] đạt 2, <color=Highlight>Thần Lai Chi Bút</color> được thay thế thành <color=Highlight>Cực Ý - Thần Lai Chi Bút</color>. Khi thi triển:
+- Xóa toàn bộ [Cực Ý].
+- Di chuyển đến vị trí <color=Highlight>Hạc Ảnh</color> và xóa bỏ nó, sau đó triệu hồi bạch hạc tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color> cao hơn, sát thương này tính là sát thương Phổ Công, đồng thời tăng bonus sát thương Phổ Công của Zhezhi thêm {2}, duy trì {3} giây. Nếu di chuyển đến <color=Highlight>Hạc Ảnh</color> đang ở trên không, có thể đặt lại số lần né tránh trên không.
+- Có thể thi triển trên không.
+<size=10> </size>
+<size=40><color=Title>Quy tắc nhận [Linh Vận]</color></size>
+Giới hạn [Linh Vận] là 90 điểm.
+Công Thường gây sát thương sẽ hồi phục [Linh Vận].
+Thi triển Biến Tấu Kỹ sẽ hồi phục [Linh Vận]."
+lang_multi_text.db,MultiText,Skill_1002207_SkillName,妙笔丹青,Ink and Wash,Diệu Bút Đan Thanh
+lang_multi_text.db,MultiText,Skill_1002207_SkillResume,"<size=40><color=Title>鹤影</color></size>
+折枝施放共鸣技能<color=Highlight>以形写神</color>或重击<color=Highlight>构形</color>时，消耗【灵韵】可召唤<color=Highlight>鹤影</color>。
+
+<size=40><color=Title>重击·构形</color></size>
+进行下述5种操作时，可消耗耐力，造成<color=Ice>冷凝伤害</color>。
+·<color=Highlight>普攻第3段</color>后一定时间内长按<color=Highlight>普攻</color>
+·施放共鸣技能<color=Highlight>以形写神</color>后一定时间内短按<color=Highlight>普攻</color>
+·施放共鸣技能<color=Highlight>神来之笔</color>、共鸣技能<color=Highlight>极意·神来之笔</color>后一定时间内长按<color=Highlight>普攻</color>
+·处于空中状态时长按<color=Highlight>普攻</color>
+·成功<color=Highlight>闪避</color>后长按<color=Highlight>普攻</color>
+若施放时折枝至少拥有30点【灵韵】，则消耗30点【灵韵】在场上召唤<color=Highlight>鹤影·中</color>。
+
+<size=40><color=Title>共鸣技能·神来之笔</color></size>
+存在<color=Highlight>鹤影</color>时，共鸣技能替换为<color=Highlight>神来之笔</color>。施放时：
+·造成<color=Ice>冷凝伤害</color>。
+·获得1层【极意】。
+
+<size=40><color=Title>共鸣技能·极意·神来之笔</color></size>
+存在<color=Highlight>鹤影</color>，且【极意】层数为2时，<color=Highlight>神来之笔</color>替换为<color=Highlight>极意·神来之笔</color>。施放时：
+·造成更高的<color=Ice>冷凝伤害</color>，并使折枝普攻伤害加成提升。
+
+<size=10></size>
+<size=40><color=Title>【灵韵】获取规则</color></size>
+【灵韵】上限为90点。
+【灵韵】的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>。","<size=40><color=Title>Phantasmic Imprint</color></size>
+Zhezhi consumes Afflatus to summon <color=Highlight>Phantasmic Imprints</color> when casting Resonance Skill <color=Highlight>Manifestation</color> or Heavy Attack <color=Highlight>Conjuration</color>.
+
+<size=40><color=Title>Heavy Attack - Conjuration</color></size>
+The 5 moves below consume STA to perform <color=Highlight>Conjuration</color>, dealing <color=Ice>Glacio DMG</color>.
+- Holding <color=Highlight>Basic Attack</color> after <color=Highlight>Basic Attack 3</color>.
+- Using <color=Highlight>Basic Attack</color> after casting Resonance Skill <color=Highlight>Manifestation</color>.
+- Holding <color=Highlight>Basic Attack</color> after casting Resonance Skill <color=Highlight>Stroke of Genius</color> or Resonance Skill <color=Highlight>Creation's Zenith</color>.
+- Holding <color=Highlight>Basic Attack</color> while in mid-air.
+- Holding <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color>.
+If Zhezhi has at least 30 Afflatus when performing any of these, 30 Afflatus is consumed to summon a <color=Highlight>Phantasmic Imprint - Middle</color>.
+
+<size=40><color=Title>Resonance Skill - Stroke of Genius</color></size>
+When any <color=Highlight>Phantasmic Imprint</color> is on the field, Zhezhi's Resonance Skill becomes <color=Highlight>Stroke of Genius</color>. When it is cast, Zhezhi deals <color=Ice>Glacio DMG</color> and gains 1 stack of Painter's Delight.
+
+<size=40><color=Title>Resonance Skill - Creation's Zenith</color></size>
+When any <color=Highlight>Phantasmic Imprint</color> is on the field and there are 2 stacks of Painter's Delight, <color=Highlight>Stroke of Genius</color> becomes <color=Highlight>Creation's Zenith</color>. When cast, Zhezhi deals greater <color=Ice>Glacio DMG</color>, and her Basic Attack DMG Bonus is increased.
+
+<size=10></size>
+<size=40><color=Title>Afflatus</color></size>
+Zhezhi can hold up to 90 Afflatus.
+Zhezhi gains Afflatus through <color=Highlight>Normal Attack</color> and <color=Highlight>Intro Skill</color>.","<size=40><color=Title>Hạc Ảnh</color></size>
+Khi Zhezhi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Dĩ Hình Tả Thần</color> hoặc Trọng Kích <color=Highlight>Cấu Hình</color>, tiêu hao [Linh Vận] để triệu hồi <color=Highlight>Hạc Ảnh</color>.
+
+<size=40><color=Title>Trọng Kích - Cấu Hình</color></size>
+Khi thực hiện 5 thao tác dưới đây, có thể tiêu hao thể lực, gây <color=Ice>sát thương Ngưng Băng</color>.
+- Giữ <color=Highlight>Phổ Công</color> trong khoảng thời gian ngắn sau <color=Highlight>Phổ Công đoạn 3</color>
+- Nhấn <color=Highlight>Phổ Công</color> trong khoảng thời gian ngắn sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Dĩ Hình Tả Thần</color>
+- Giữ <color=Highlight>Phổ Công</color> trong khoảng thời gian ngắn sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Thần Lai Chi Bút</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Cực Ý - Thần Lai Chi Bút</color>
+- Giữ <color=Highlight>Phổ Công</color> khi đang ở trên không
+- Giữ <color=Highlight>Phổ Công</color> sau khi <color=Highlight>Né Tránh</color> thành công
+Nếu khi thi triển Zhezhi có ít nhất 30 điểm [Linh Vận], sẽ tiêu hao 30 điểm [Linh Vận] để triệu hồi <color=Highlight>Hạc Ảnh - Giữa</color> trên sân.
+
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Thần Lai Chi Bút</color></size>
+Khi tồn tại <color=Highlight>Hạc Ảnh</color>, Kỹ Năng Cộng Hưởng được thay thế thành <color=Highlight>Thần Lai Chi Bút</color>. Khi thi triển:
+- Gây <color=Ice>sát thương Ngưng Băng</color>.
+- Nhận 1 tầng [Cực Ý].
+
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Cực Ý - Thần Lai Chi Bút</color></size>
+Khi tồn tại <color=Highlight>Hạc Ảnh</color> và số tầng [Cực Ý] đạt 2, <color=Highlight>Thần Lai Chi Bút</color> được thay thế thành <color=Highlight>Cực Ý - Thần Lai Chi Bút</color>. Khi thi triển:
+- Gây <color=Ice>sát thương Ngưng Băng</color> cao hơn, đồng thời tăng bonus sát thương Phổ Công của Zhezhi.
+
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận [Linh Vận]</color></size>
+Giới hạn [Linh Vận] là 90 điểm.
+Cách nhận [Linh Vận]: <color=Highlight>Công Thường</color>, <color=Highlight>Biến Tấu Kỹ</color>."
+lang_multi_text.db,MultiText,Skill_1002208_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1002208_SkillName,巧手烹调,Skillful Cooking,Xảo Thủ Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1002208_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1002209_MultiSkillDescribe_1.1,附近队伍中激活折枝延奏技能的角色冷凝伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,"When nearby Resonators in the party activate Zhezhi's Outro Skill, their Glacio DMG is Amplified by {0}, and Resonance Skill DMG is Amplified by {1}, lasting for {2}s or until they are switched out.","Khi Cộng Hưởng Giả trong đội ở gần kích hoạt Hiệp Tấu Kỹ của Zhezhi, sát thương Ngưng Băng được gia tăng {0}, sát thương Kỹ Năng Cộng Hưởng được gia tăng {1}, hiệu quả duy trì {2} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002209_SkillDescribe,下一位登场角色冷凝伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Glacio DMG Amplified by {0} and Resonance Skill DMG Amplified by {1} for {2}s or until they are switched out.,"Nhân vật tiếp theo lên sân được gia tăng sát thương Ngưng Băng {0}, sát thương Kỹ Năng Cộng Hưởng được gia tăng {1}, hiệu quả duy trì {2} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002209_SkillName,提白,Carve and Draw,Đề Bạch
+lang_multi_text.db,MultiText,Skill_1002209_SkillResume,下一位登场角色冷凝伤害加深{0}，共鸣技能伤害加深{1}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Glacio DMG Amplified by {0} and Resonance Skill DMG Amplified by {1}. Switching Resonators ends the effect.,"Nhân vật tiếp theo lên sân được gia tăng sát thương Ngưng Băng {0}, sát thương Kỹ Năng Cộng Hưởng được gia tăng {1}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002301_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+进行最多5段连续攻击，造成<color=Thunder>导电伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+消耗耐力攻击目标，造成<color=Thunder>导电伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Perform up to 5 consecutive attacks, dealing <color=Thunder>Electro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Heavy Attack</color></size>
+Perform a charged attack at the cost of STA, dealing <color=Thunder>Electro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Perform a Plunging Attack from mid-air at the cost of STA, dealing <color=Thunder>Electro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Dodge Counter</color></size>
+Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Thực hiện tối đa 5 đoạn tấn công liên tục, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực thực hiện đòn tấn công hạ xuống từ trên không, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10> </size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn <color=Highlight>Phổ Công</color> trong khoảng thời gian ngắn sẽ tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>."
+lang_multi_text.db,MultiText,Skill_1002301_SkillName,问难,Probe,Vấn Nạn
+lang_multi_text.db,MultiText,Skill_1002301_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Thunder>导电伤害</color>。
+<size=10></size>
+<size=40><color=Title>重击</color></size>
+消耗耐力，造成<color=Thunder>导电伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Thunder>导电伤害</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Thunder>Electro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Consume STA to deal <color=Thunder>Electro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Thunder>Electro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10></size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10></size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Gây <color=Thunder>sát thương Dẫn Điện</color>."

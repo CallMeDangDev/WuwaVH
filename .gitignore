@@ -1,3 +1,95 @@
+# ============================================================
+# Visual Studio
+# ============================================================
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Mono auto-generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache / options directory
+.vs/
+
+# Visual Studio auto-generated files
+Generated\ Files/
+
+# MSTest / NUnit / xUnit test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build log
+*.log
+msbuild*.wrn
+msbuild*.err
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Code coverage
+*.coverage
+*.coveragexml
+
+# Installshield
+[Ee]xpress/
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Chutzpah
+_Chutzpah*
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# CodeRush
+.cr/
+
+# Rider
+.idea/
+
+# Visual Studio code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# ============================================================
+# C / C++ compiled outputs
+# ============================================================
+
 # Prerequisites
 *.d
 
@@ -30,3 +122,69 @@
 *.exe
 *.out
 *.app
+
+# Import libraries
+*.exp
+
+# Linker output
+*.ilk
+*.pdb
+*.idb
+*.pgc
+*.pgd
+
+# IntelliSense / Browse database
+*.VC.db
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.nativecodeanalysis.all.xml
+
+# ============================================================
+# CMake
+# ============================================================
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake-build-*/
+build/
+out/
+
+# ============================================================
+# xmake
+# ============================================================
+.xmake/
+
+# ============================================================
+# Windows
+# ============================================================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# ============================================================
+# macOS (just in case)
+# ============================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ============================================================
+# Project-specific
+# ============================================================
+
+# Build output directories
+export_localization_db/export_l.*/

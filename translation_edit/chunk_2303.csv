@@ -1,0 +1,189 @@
+﻿db_file,table_name,id,zh,en,vi
+lang_skill.db,Skill,246,"<color=#ffffff>唤醒雷电之力，为队伍中登场角色附加<color=#f4d582>敛光</color>的状态，并全力攻击目标，造成<color=#9656d8ff>导电伤害</color>，命中目标时附加1层<color=#f4d582>共鸣回路·憾雷之痕</color>。
+
+若目标已有<color=#f4d582>共鸣回路·雷痕</color>，则过载的电流会使<color=#f4d582>共鸣回路·雷痕</color>升级为<color=#f4d582>共鸣回路·憾雷之痕</color>。
+
+场上若有<color=#f4d582>共鸣技能·枯夜之楔</color>，在寂土重明命中目标时会立刻销毁<color=#f4d582>共鸣技能·枯夜之楔</color>，并为目标再附加1层<color=#f4d582>共鸣回路·憾雷之痕</color>。
+
+<color=#d4bf5f>敛光</color>
+处于该状态时，电闪之光将聚敛于角色身上，使其攻击提升，抗打断能力提升。</color>",,"<color=#ffffff>Đánh thức sức mạnh lôi điện, gắn trạng thái <color=#f4d582>Liễm Quang</color> cho nhân vật ra trận trong đội, đồng thời toàn lực tấn công mục tiêu, gây <color=#9656d8ff>sát thương Dẫn Điện</color>, khi đánh trúng mục tiêu sẽ gắn 1 tầng <color=#f4d582>Cộng Hưởng Liên - Hám Lôi Chi Ngấn</color>.
+
+Nếu mục tiêu đã có <color=#f4d582>Cộng Hưởng Liên - Lôi Ngấn</color>, dòng điện quá tải sẽ nâng cấp <color=#f4d582>Cộng Hưởng Liên - Lôi Ngấn</color> thành <color=#f4d582>Cộng Hưởng Liên - Hám Lôi Chi Ngấn</color>.
+
+Nếu trên trận có <color=#f4d582>Kỹ Năng Cộng Hưởng - Khô Dạ Chi Tiết</color>, khi Tịch Thổ Trùng Minh đánh trúng mục tiêu sẽ lập tức phá hủy <color=#f4d582>Kỹ Năng Cộng Hưởng - Khô Dạ Chi Tiết</color>, đồng thời gắn thêm 1 tầng <color=#f4d582>Cộng Hưởng Liên - Hám Lôi Chi Ngấn</color> lên mục tiêu.
+
+<color=#d4bf5f>Liễm Quang</color>
+Trong trạng thái này, ánh sáng điện chớp sẽ tụ lại trên người nhân vật, tăng tấn công và tăng khả năng kháng gián đoạn.</color>"
+lang_skill.db,Skill,247,壮怀难追,,Tráng Hoài Nan Truy
+lang_skill.db,Skill,248,<color=#ffffff>施放<color=#f4d582>连携技能·难逝之忆</color>时，额外恢复自身10点共鸣能量。</color>,,"<color=#ffffff>Khi thi triển <color=#f4d582>Liên Hiệp Kỹ - Nan Thệ Chi Ức</color>, hồi phục thêm 10 điểm năng lượng cộng hưởng cho bản thân.</color>"
+lang_skill.db,Skill,249,人生憾事,,Hận Sự Đời Người
+lang_skill.db,Skill,250,<color=#ffffff>战斗状态中离场时，若【雷芒】没有充满，则在原地留下1个<color=#f4d582>共鸣技能·枯夜之楔</color>。</color>,,"<color=#ffffff>Khi rời trận trong trạng thái chiến đấu, nếu [Lôi Mang] chưa đầy, sẽ để lại tại chỗ 1 <color=#f4d582>Kỹ Năng Cộng Hưởng - Khô Dạ Chi Tiết</color>.</color>"
+lang_skill.db,Skill,251,难逝之忆,,Nan Thệ Chi Ức
+lang_skill.db,Skill,252,<color=#ffffff>召唤<color=#f4d582>共鸣技能·枯夜之楔</color>并立刻引爆，命中目标时附加1层<color=#f4d582>共鸣回路·雷痕</color>。</color>,,"<color=#ffffff>Triệu hồi <color=#f4d582>Kỹ Năng Cộng Hưởng - Khô Dạ Chi Tiết</color> và kích nổ ngay lập tức, khi đánh trúng mục tiêu sẽ gắn 1 tầng <color=#f4d582>Cộng Hưởng Liên - Lôi Ngấn</color>.</color>"
+lang_skill.db,Skill,253,雷耀之愿,,Lôi Diệu Chi Nguyện
+lang_skill.db,Skill,254,"<color=#ffffff><color=#d4bf5f>雷痕</color>
+携带雷痕的目标受到的伤害提升。
+雷痕层数越高，受到伤害越高，效果持续12秒，上限3层。
+
+<color=#d4bf5f>憾雷之痕</color>
+憾雷之痕将雷痕的效果全面提升，其威力为雷痕的2倍。
+携带憾雷之痕的目标受到的伤害提升。
+憾雷之痕层数越高，受到伤害越高，效果持续12秒，上限3层。
+
+<color=#d4bf5f>雷芒获取规则</color>
+场上存在<color=#f4d582>共鸣技能·枯夜之楔</color>时，自身会缓慢恢复【雷芒】，该效果在渊武处于后台时依然生效。
+<color=#f4d582>共鸣技能·枯夜之楔</color>协同攻击命中目标时，恢复5点【雷芒】。
+<color=#f4d582>连携技能·难逝之忆</color>命中目标时，恢复20点【雷芒】。
+
+【雷芒】充满时，渊武自身攻击将目标击退到<color=#f4d582>共鸣技能·枯夜之楔</color>上时，会引爆<color=#f4d582>共鸣技能·枯夜之楔</color>，造成导电伤害，并为目标附加1层<color=#f4d582>雷痕</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Lôi Ngấn</color>
+Mục tiêu mang Lôi Ngấn sẽ nhận thêm sát thương.
+Số tầng Lôi Ngấn càng cao, sát thương nhận được càng lớn, hiệu ứng kéo dài 12 giây, tối đa 3 tầng.
+
+<color=#d4bf5f>Hám Lôi Chi Ngấn</color>
+Hám Lôi Chi Ngấn nâng cấp toàn diện hiệu ứng Lôi Ngấn, uy lực gấp 2 lần Lôi Ngấn.
+Mục tiêu mang Hám Lôi Chi Ngấn sẽ nhận thêm sát thương.
+Số tầng Hám Lôi Chi Ngấn càng cao, sát thương nhận được càng lớn, hiệu ứng kéo dài 12 giây, tối đa 3 tầng.
+
+<color=#d4bf5f>Quy tắc nhận Lôi Mang</color>
+Khi trên trận tồn tại <color=#f4d582>Kỹ Năng Cộng Hưởng - Khô Dạ Chi Tiết</color>, bản thân sẽ từ từ hồi phục [Lôi Mang], hiệu ứng này vẫn có tác dụng khi Yuanwu ở hậu trường.
+Khi tấn công hiệp đồng của <color=#f4d582>Kỹ Năng Cộng Hưởng - Khô Dạ Chi Tiết</color> đánh trúng mục tiêu, hồi phục 5 điểm [Lôi Mang].
+Khi <color=#f4d582>Liên Hiệp Kỹ - Nan Thệ Chi Ức</color> đánh trúng mục tiêu, hồi phục 20 điểm [Lôi Mang].
+
+Khi [Lôi Mang] đầy, nếu tấn công của Yuanwu đánh bật mục tiêu vào <color=#f4d582>Kỹ Năng Cộng Hưởng - Khô Dạ Chi Tiết</color>, sẽ kích nổ <color=#f4d582>Kỹ Năng Cộng Hưởng - Khô Dạ Chi Tiết</color>, gây sát thương Dẫn Điện, đồng thời gắn 1 tầng <color=#f4d582>Lôi Ngấn</color> lên mục tiêu.</color>"
+lang_skill.db,Skill,255,巧手烹调,,Khéo Tay Nấu Nướng
+lang_skill.db,Skill,256,<color=#ffffff>烹饪辅助战斗类菜肴时，有20%概率返还所有食材。</color>,,"<color=#ffffff>Khi nấu món ăn hỗ trợ chiến đấu, có 20% xác suất hoàn trả toàn bộ nguyên liệu.</color>"
+lang_skill.db,Skill,258,"<color=#ffffff><color=#d4bf5f>普攻</color>
+进行最多4段连续攻击，第4段攻击命中目标时，造成<color=#46c3d4ff>气动伤害</color>，获得1声【流响】。
+
+<color=#d4bf5f>重击</color>
+消耗一定耐力，向前突刺，造成<color=#46c3d4ff>气动伤害</color>。
+
+<color=#d4bf5f>重击·风吟</color>
+重击后一定时间内使用普攻，秧秧会挥出1道风刃，造成<color=#46c3d4ff>气动伤害</color>，获得1声【流响】。
+
+<color=#d4bf5f>空中攻击</color>
+消耗一定耐力，从空中跃起下坠攻击，造成<color=#46c3d4ff>气动伤害</color>。
+
+<color=#d4bf5f>闪避反击</color>
+成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会向前突刺，造成<color=#46c3d4ff>气动伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Phổ Công</color>
+Thực hiện tối đa 4 đòn tấn công liên tục, đòn thứ 4 khi trúng mục tiêu sẽ gây <color=#46c3d4ff>sát thương Khí Động</color>, nhận 1 tầng [Lưu Hưởng].
+
+<color=#d4bf5f>Trọng Kích</color>
+Tiêu hao một lượng thể lực nhất định, đâm về phía trước, gây <color=#46c3d4ff>sát thương Khí Động</color>.
+
+<color=#d4bf5f>Trọng Kích - Phong Ngâm</color>
+Sử dụng Phổ Công trong một khoảng thời gian sau khi Trọng Kích, Yangyang sẽ phóng ra 1 đạo phong nhẫn, gây <color=#46c3d4ff>sát thương Khí Động</color>, nhận 1 tầng [Lưu Hưởng].
+
+<color=#d4bf5f>Tấn Công Trên Không</color>
+Tiêu hao một lượng thể lực nhất định, nhảy lên từ trên không lao xuống tấn công, gây <color=#46c3d4ff>sát thương Khí Động</color>.
+
+<color=#d4bf5f>Né Tránh Phản Kích</color>
+Sử dụng <color=#f4d582>Phổ Công</color> trong một khoảng thời gian sau khi <color=#f4d582>Né Tránh</color> thành công, sẽ đâm về phía trước, gây <color=#46c3d4ff>sát thương Khí Động</color>.</color>"
+lang_skill.db,Skill,260,<color=#ffffff>使用鸣刀划分风场，并将周围的目标牵引至风场中心，造成<color=#46c3d4ff>气动伤害</color>，获得1声【流响】。</color>,,"<color=#ffffff>Dùng Minh Đao phân chia trường gió, kéo các mục tiêu xung quanh về tâm trường gió, gây <color=#46c3d4ff>sát thương Khí Động</color>, nhận 1 tầng [Lưu Hưởng].</color>"
+lang_skill.db,Skill,262,<color=#ffffff>挥刃制造旋风，将周围的目标牵引至旋风中心，造成<color=#46c3d4ff>气动伤害</color>，并在最后击飞目标。</color>,,"<color=#ffffff>Vung nhẫn tạo ra toàn phong, kéo các mục tiêu xung quanh về tâm toàn phong, gây <color=#46c3d4ff>sát thương Khí Động</color>, và hất bay mục tiêu ở đòn cuối.</color>"
+lang_skill.db,Skill,264,<color=#ffffff>施放<color=#f4d582>空中攻击·释羽</color>后，队伍中所有角色的共鸣解放伤害提升20%，效果持续10秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Tấn Công Trên Không - Thích Vũ</color>, sát thương Giải Phóng Cộng Hưởng của tất cả nhân vật trong đội tăng 20%, hiệu quả kéo dài 10 giây.</color>"
+lang_skill.db,Skill,266,<color=#ffffff>施放<color=#f4d582>连携技能·湛蓝礼赞</color>后，秧秧的气动伤害加成提升15%，效果持续8秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Liên Hiệp Kỹ - Trạm Lam Lễ Tán</color>, bonus sát thương Khí Động của Yangyang tăng 15%, hiệu quả kéo dài 8 giây.</color>"
+lang_skill.db,Skill,268,<color=#ffffff>使用鸣刀击飞目标，造成<color=#46c3d4ff>气动伤害</color>，获取1声【流响】。</color>,,"<color=#ffffff>Dùng Minh Đao hất bay mục tiêu, gây <color=#46c3d4ff>sát thương Khí Động</color>, nhận 1 tầng [Lưu Hưởng].</color>"
+lang_skill.db,Skill,270,"<color=#ffffff><color=#d4bf5f>重击·风袭</color>
+当秧秧持有3声【流响】时，使用重击后可触发风袭，造成<color=#46c3d4ff>气动伤害</color>并击飞目标，此次伤害为重击伤害。
+
+<color=#d4bf5f>空中攻击·释羽</color>
+当秧秧持有3声【流响】时，在空中使用<color=#f4d582>空中攻击</color>，将消耗所有【流响】，发动连续攻击，并自空中俯冲造成<color=#46c3d4ff>气动伤害</color>。落地后，秧秧将收刀攻击，造成<color=#46c3d4ff>气动伤害</color>，此次伤害为普攻伤害。
+
+<color=#d4bf5f>流响获取规则</color>
+使用<color=#f4d582>普攻第4段</color>命中目标可获取1声【流响】。
+施放<color=#f4d582>重击·风吟</color>命中目标可获取1声【流响】。
+施放<color=#f4d582>共鸣技能·载流风域</color>命中目标可获取1声【流响】。
+施放<color=#f4d582>连携技能·湛蓝礼赞</color>命中目标可获取1声【流响】。</color>",,"<color=#ffffff><color=#d4bf5f>Trọng Kích - Phong Tập</color>
+Khi Yangyang sở hữu 3 tầng [Lưu Hưởng], sử dụng Trọng Kích có thể kích hoạt Phong Tập, gây <color=#46c3d4ff>sát thương Khí Động</color> và hất bay mục tiêu, sát thương này tính là sát thương Trọng Kích.
+
+<color=#d4bf5f>Tấn Công Trên Không - Thích Vũ</color>
+Khi Yangyang sở hữu 3 tầng [Lưu Hưởng], sử dụng <color=#f4d582>Tấn Công Trên Không</color> khi đang ở trên không, sẽ tiêu hao toàn bộ [Lưu Hưởng], phát động tấn công liên tục và lao xuống từ trên không gây <color=#46c3d4ff>sát thương Khí Động</color>. Sau khi tiếp đất, Yangyang sẽ thu đao tấn công, gây <color=#46c3d4ff>sát thương Khí Động</color>, sát thương này tính là sát thương Phổ Công.
+
+<color=#d4bf5f>Quy tắc nhận Lưu Hưởng</color>
+Sử dụng <color=#f4d582>Phổ Công đòn thứ 4</color> trúng mục tiêu có thể nhận 1 tầng [Lưu Hưởng].
+Thi triển <color=#f4d582>Trọng Kích - Phong Ngâm</color> trúng mục tiêu có thể nhận 1 tầng [Lưu Hưởng].
+Thi triển <color=#f4d582>Kỹ Năng Cộng Hưởng - Tải Lưu Phong Vực</color> trúng mục tiêu có thể nhận 1 tầng [Lưu Hưởng].
+Thi triển <color=#f4d582>Liên Hiệp Kỹ - Trạm Lam Lễ Tán</color> trúng mục tiêu có thể nhận 1 tầng [Lưu Hưởng].</color>"
+lang_skill.db,Skill,272,<color=#ffffff>纵跑减少20%耐力消耗。</color>,,<color=#ffffff>Chạy nước rút giảm 20% tiêu hao thể lực.</color>
+lang_skill.db,SkillType,1,常态攻击,,Công Thường
+lang_skill.db,SkillType,2,共鸣技能,,Kỹ Năng Cộng Hưởng
+lang_skill.db,SkillType,3,共鸣解放,Resonance Liberation,Giải Phóng Cộng Hưởng
+lang_skill.db,SkillType,4,固有技能,,Cố Hữu Kỹ
+lang_skill.db,SkillType,5,连携技能,,Liên Hiệp Kỹ
+lang_skill.db,SkillType,6,共鸣回路,,Cộng Hưởng Mạch
+lang_skill.db,SkillType,7,固有技能,,Cố Hữu Kỹ
+lang_skill.db,SkillType,8,固有技能,,Cố Hữu Kỹ
+lang_skill.db,SkillType,9,固有技能,,Cố Hữu Kỹ
+lang_skill.db,SkillType,10,固有技能,,Cố Hữu Kỹ
+lang_skill.db,SkillDescription,1,第一段伤害,,Sát thương đoạn 1
+lang_skill.db,SkillDescription,2,第二段伤害,,Sát thương đoạn 2
+lang_skill.db,SkillDescription,3,第三段伤害,,Sát thương đoạn 3
+lang_skill.db,SkillDescription,4,第四段伤害,,Sát thương đoạn 4
+lang_skill.db,SkillDescription,5,重击伤害,,Sát thương Trọng Kích
+lang_skill.db,SkillDescription,6,重击耐力消耗,,Tiêu hao thể lực Trọng Kích
+lang_skill.db,SkillDescription,7,空中攻击伤害,,Sát thương tấn công trên không
+lang_skill.db,SkillDescription,8,空中攻击耐力消耗,,Tiêu hao thể lực tấn công trên không
+lang_skill.db,SkillDescription,9,风吟伤害,,Sát thương Phong Ngâm
+lang_skill.db,SkillDescription,10,技能伤害,,Sát thương kỹ năng
+lang_skill.db,SkillDescription,11,冷却时间,,Thời gian hồi chiêu
+lang_skill.db,SkillDescription,12,{0}秒,,{0} giây
+lang_skill.db,SkillDescription,13,恢复协奏值,,Hồi phục giá trị Hiệp Tấu
+lang_skill.db,SkillDescription,14,旋风伤害,,Sát thương Toàn Phong
+lang_skill.db,SkillDescription,15,击飞伤害,,Sát thương Kích Phi
+lang_skill.db,SkillDescription,16,冷却时间,,Thời gian hồi chiêu
+lang_skill.db,SkillDescription,17,{0}秒,,{0} giây
+lang_skill.db,SkillDescription,18,恢复协奏值,,Hồi phục giá trị Hiệp Tấu
+lang_skill.db,SkillDescription,19,消耗共鸣能量,,Tiêu hao năng lượng Cộng Hưởng
+lang_skill.db,SkillDescription,20,技能伤害,,Sát thương kỹ năng
+lang_skill.db,SkillDescription,21,恢复协奏值,,Hồi phục giá trị Hiệp Tấu
+lang_skill.db,SkillDescription,22,风袭伤害,,Sát thương Phong Tập
+lang_skill.db,SkillDescription,23,释羽伤害,,Sát thương Thích Vũ
+lang_skill.db,SkillDescription,24,释羽恢复协奏值,,Thích Vũ hồi phục giá trị Hiệp Tấu
+lang_skill.db,SkillDescription,25,第一段伤害,,Sát thương đoạn 1
+lang_skill.db,SkillDescription,26,第二段伤害,,Sát thương đoạn 2
+lang_skill.db,SkillDescription,27,第三段伤害,,Sát thương đoạn 3
+lang_skill.db,SkillDescription,28,第四段伤害,,Sát thương đoạn 4
+lang_skill.db,SkillDescription,29,重击伤害,,Sát thương Trọng Kích
+lang_skill.db,SkillDescription,30,满蓄力重击伤害,,Sát thương Trọng Kích tích đầy
+lang_skill.db,SkillDescription,31,空中攻击伤害,,Sát thương tấn công trên không
+lang_skill.db,SkillDescription,32,空中攻击耐力消耗,,Tiêu hao thể lực tấn công trên không
+lang_skill.db,SkillDescription,33,极限闪避反击伤害,,Sát thương phản kích Né Tránh cực hạn
+lang_skill.db,SkillDescription,34,技能伤害,,Sát thương kỹ năng
+lang_skill.db,SkillDescription,35,冷却时间,,Thời gian hồi chiêu
+lang_skill.db,SkillDescription,36,{0}秒,,{0} giây
+lang_skill.db,SkillDescription,37,热压弹积攒数量,,Số lượng Đạn Nhiệt Áp tích lũy
+lang_skill.db,SkillDescription,38,恢复协奏值,,Hồi phục giá trị Hiệp Tấu
+lang_skill.db,SkillDescription,39,技能伤害,,Sát thương kỹ năng
+lang_skill.db,SkillDescription,40,热压弹积攒数量,,Số lượng Đạn Nhiệt Áp tích lũy
+lang_skill.db,SkillDescription,41,冷却时间,,Thời gian hồi chiêu
+lang_skill.db,SkillDescription,42,{0}秒,,{0} giây
+lang_skill.db,SkillDescription,43,消耗共鸣能量,,Tiêu hao Năng Lượng Cộng Hưởng
+lang_skill.db,SkillDescription,44,恢复协奏值,,Hồi phục giá trị Hiệp Tấu
+lang_skill.db,SkillDescription,45,热压弹伤害,,Sát thương Đạn Nhiệt Áp
+lang_skill.db,SkillDescription,46,轰轰伤害,,Sát thương Oanh Oanh
+lang_skill.db,SkillDescription,47,每发热压弹恢复协奏值,,Hồi phục giá trị Hiệp Tấu mỗi viên Đạn Nhiệt Áp
+lang_skill.db,SkillDescription,48,轰轰恢复协奏值,,Hồi phục giá trị Hiệp Tấu Oanh Oanh
+lang_skill.db,SkillDescription,49,技能伤害,,Sát thương kỹ năng
+lang_skill.db,SkillDescription,50,热压弹积攒数量,,Số lượng Đạn Nhiệt Áp tích lũy
+lang_skill.db,SkillDescription,51,恢复协奏值,,Hồi phục giá trị Hiệp Tấu
+lang_skill.db,SkillDescription,52,第一段伤害,,Sát thương đoạn 1
+lang_skill.db,SkillDescription,53,第二段伤害,,Sát thương đoạn 2
+lang_skill.db,SkillDescription,54,第三段伤害,,Sát thương đoạn 3
+lang_skill.db,SkillDescription,55,第四段伤害,,Sát thương đoạn 4
+lang_skill.db,SkillDescription,56,第五段伤害,,Sát thương đoạn 5
+lang_skill.db,SkillDescription,57,重击伤害,,Sát thương Trọng Kích
+lang_skill.db,SkillDescription,58,重击耐力消耗,,Tiêu hao thể lực Trọng Kích
+lang_skill.db,SkillDescription,59,空中攻击第一段伤害,,Sát thương tấn công trên không đoạn 1
+lang_skill.db,SkillDescription,60,空中攻击第二段伤害,,Sát thương tấn công trên không đoạn 2
+lang_skill.db,SkillDescription,61,空中攻击第三段伤害,,Sát thương tấn công trên không đoạn 3
+lang_skill.db,SkillDescription,62,空中攻击耐力消耗,,Tiêu hao thể lực tấn công trên không
+lang_skill.db,SkillDescription,63,空中重击伤害,,Sát thương Trọng Kích trên không
+lang_skill.db,SkillDescription,64,空中重击耐力消耗,,Tiêu hao thể lực Trọng Kích trên không
+lang_skill.db,SkillDescription,65,闪避反击伤害,,Sát thương Né Tránh Phản Kích
+lang_skill.db,SkillDescription,66,技能伤害,,Sát thương kỹ năng
+lang_skill.db,SkillDescription,67,冷却时间,,Thời gian hồi chiêu
+lang_skill.db,SkillDescription,68,{0}秒,,{0} giây
+lang_skill.db,SkillDescription,69,技能伤害,,Sát thương kỹ năng
+lang_skill.db,SkillDescription,70,草木生长治疗量,,Lượng hồi phục Thảo Mộc Sinh Trưởng
+lang_skill.db,SkillDescription,71,{0}攻击,,{0} tấn công
