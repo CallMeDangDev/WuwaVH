@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotNotSupportChildTag,当前槽位不支持家具tag,This slot does not support decoration tag,Ô vị trí hiện tại không hỗ trợ tag nội thất
+lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotNotSupportFurniture,当前槽位不支持家具,This slot does not support decoration tag,Ô vị trí hiện tại không hỗ trợ nội thất
+lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotSubFurnitureCount,传来的子家具数量与槽位数量不等,Numbers of sub-decoration and slot not matched,Số lượng nội thất phụ gửi lên không khớp với số ô vị trí
+lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureUnloadSubFurnitureNotEmpty,卸载家具时子家具列表长度不为0,The sub-decoration list length shouldn't be 0 when removing the decoration,Danh sách nội thất phụ không được khác 0 khi gỡ nội thất
+lang_multi_text.db,MultiText,ErrorCode_ErrGetPsnUserPlayerErr_Text,找不到玩家信息,User information not found,Không tìm thấy thông tin người chơi
+lang_multi_text.db,MultiText,ErrorCode_ErrGetSelfPsnOnlineId_Text,查询的对象不能是自己,You cannot search your own ID,Không thể tìm kiếm chính mình
+lang_multi_text.db,MultiText,ErrorCode_ErrHostSceneBlockSplitFail_Text,对方场景资源未完全下载，无法联机,The player has not completed downloading assets for the current area. Unable to enter Co-op Mode.,"Tài nguyên cảnh của đối phương chưa được tải xuống hoàn tất, không thể chơi liên mạng"
+lang_multi_text.db,MultiText,ErrorCode_ErrIllustratedNotUnlock_Text,声骸图鉴未解锁,Echo Gallery not available,Đồ giám Thanh Hài chưa mở khóa
+lang_multi_text.db,MultiText,ErrorCode_ErrIndexOutOfRange_Text,请求的节点下标越界,Requested node array index out of bounds,Chỉ số node yêu cầu vượt giới hạn
+lang_multi_text.db,MultiText,ErrorCode_ErrInstTeleportInstLimit,无法直接传送到另一个副本，请退出当前副本后再尝试。,Cannot fast travel to another challenge. Please exit and try again.,"Không thể dịch chuyển trực tiếp đến phụ bản khác, vui lòng thoát phụ bản hiện tại rồi thử lại."
 lang_multi_text.db,MultiText,ErrorCode_ErrInteracTreeSuspend_Text,流程处于挂起状态，无法继续推进,"The process is suspended, unable to proceed.","Tiến trình đang bị tạm ngưng, không thể tiếp tục."
 lang_multi_text.db,MultiText,ErrorCode_ErrLineCrossChallengeNotFound,关卡异常，请重试,Challenge error. Please try again.,"Màn chơi bất thường, vui lòng thử lại."
 lang_multi_text.db,MultiText,ErrorCode_ErrMobileSettingParamDuplicate,请求参数异常,Request parameter error.,Tham số yêu cầu bất thường
@@ -30,7 +40,7 @@ lang_multi_text.db,MultiText,ErrorCode_ErrPhantomRuleIndexRange,配置索引超�
 lang_multi_text.db,MultiText,ErrorCode_ErrPhantomSettingEmpty,请求没有规则信息,Rule information not found,Yêu cầu không có thông tin quy tắc
 lang_multi_text.db,MultiText,ErrorCode_ErrPhantomSettingIndexRange,配置索引超过范围,Index out of range,Chỉ mục cấu hình vượt quá phạm vi
 lang_multi_text.db,MultiText,ErrorCode_ErrPhantomSettingNameLength,名称长度超过限制,Name exceeds length limit,Độ dài tên vượt quá giới hạn
-lang_multi_text.db,MultiText,ErrorCode_ErrPhantomSettingNull,请求没有规则信息,Rule information not found,Không tìm thấy thông tin quy tắc trong yêu cầu
+lang_multi_text.db,MultiText,ErrorCode_ErrPhantomSettingNull,请求没有规则信息,Rule information not found,Yêu cầu không có thông tin quy tắc
 lang_multi_text.db,MultiText,ErrorCode_ErrPhantomSettingRuleDuplicate,请求规则参数重复,Duplicate rule request,Tham số quy tắc yêu cầu bị trùng lặp
 lang_multi_text.db,MultiText,ErrorCode_ErrPhantomSettingRuleNotFound,请求规则配置找不到,Rule configuration not found,Không tìm thấy cấu hình quy tắc yêu cầu
 lang_multi_text.db,MultiText,ErrorCode_ErrPhantomSettingType,请求规则类型错误,Invalid rule type,Loại quy tắc yêu cầu không hợp lệ
@@ -60,7 +70,7 @@ lang_multi_text.db,MultiText,ErrorCode_ErrTowerChallengeTeleportLocked_Text,快�
 lang_multi_text.db,MultiText,ErrorCode_ErrTowerDefenceGroupActivity,找不到关卡组数据配置,Level data configuration not found.,Không tìm thấy cấu hình dữ liệu nhóm màn chơi
 lang_multi_text.db,MultiText,ErrorCode_ErrTowerDefenceGroupActivityC,找不到关卡组数据配置,Level data configuration not found.,Không tìm thấy cấu hình dữ liệu nhóm màn chơi
 lang_multi_text.db,MultiText,ErrorCode_ErrTowerDefenceGroupConfig,找不到关卡组数据配置,Level data configuration not found.,Không tìm thấy cấu hình dữ liệu nhóm màn chơi
-lang_multi_text.db,MultiText,ErrorCode_ErrTowerDefencePreInstNotPass,前置关卡未通关,The preceding stage is not cleared.,Màn chơi tiên quyết chưa hoàn thành
+lang_multi_text.db,MultiText,ErrorCode_ErrTowerDefencePreInstNotPass,前置关卡未通关,The preceding stage is not cleared.,Màn trước chưa được hoàn thành
 lang_multi_text.db,MultiText,ErrorCode_ErrTowerDefenceRankCd,排行榜数据计算中,Ranking data is in processing,Đang xử lý dữ liệu bảng xếp hạng
 lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerBuffMax,词条选取达到上限,Buff selection limit reached,Đã đạt giới hạn chọn từ điều
 lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerBuffNoMatch,关卡无法使用该增幅,This buff cannot be applied in this stage,Màn chơi không thể sử dụng tăng cường này
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerRoleWeaponNoMatch_Text,角�
 lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerRoleWeaponPhantom_Text,角色武器或声骸占用,Resonator Weapon/Echo occupied,Vũ khí hoặc Thanh Hài của nhân vật đang bị chiếm dụng
 lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerScoreEmpty,矩阵叠兵·先行版积分奖励为空,Doubled Pawns Matrix: Pilot Point Rewards empty,Phần thưởng điểm Ma Trận Điệp Binh: Phiên Bản Tiên Hành trống
 lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerScoreNoConf,矩阵叠兵·先行版积分奖励配置找不到,Doubled Pawns Matrix: Pilot Point Rewards configuration not found,Không tìm thấy cấu hình phần thưởng điểm Ma Trận Điệp Binh: Phiên Bản Tiên Hành
-lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerScoreRepeat,矩阵叠兵·先行版积分奖励重复,Doubled Pawns Matrix: Pilot Point Rewards repeated,Phần thưởng điểm Ma Trận Điệp Binh: Phiên Bản Tiên Hành bị trùng lặp
-lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerScoreRewardMax,矩阵叠兵·先行版积分奖励超过最大数量,Doubled Pawns Matrix: Pilot Point Rewards exceed maximum,Phần thưởng điểm Ma Trận Điệp Binh: Phiên Bản Tiên Hành vượt quá số lượng tối đa
-lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerTeamIndexErr,无法跨队伍挑战,Cannot challenge across teams,Không thể thách đấu xuyên đội
-lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerTeamMax,达到队伍上限,Team limited reached,Đã đạt giới hạn đội
-lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerWaveFinish,已完成全部挑战,All challenged completed,Đã hoàn thành toàn bộ thử thách
-lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerWaveNoInfo,获取队伍记录信息失败,Failed to get team record information,Không thể lấy thông tin ghi nhận đội
-lang_multi_text.db,MultiText,ErrorCode_ErrorNoSceneComp,获取场景组件失败,Failed to get scene component,Không thể lấy thành phần cảnh
-lang_multi_text.db,MultiText,ErrorCode_ExhibitionComponentConfigNotFound,展台组件配置不存在,Display component configuration doesnot exist,Cấu hình thành phần gian trưng bày không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_ExhibitionEntityComponentNotFound,展台实体组件不存在,Display entity configuration does not exist,Thành phần thực thể gian trưng bày không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_ExhibitionEntityOverlappingRequest,重复的展台实体请求,Repeated display entity request,Yêu cầu thực thể gian trưng bày bị trùng lặp

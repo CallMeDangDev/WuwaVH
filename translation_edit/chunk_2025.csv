@@ -1,8 +1,72 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Skill_1000808_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1000805_SkillName,盈溢,Overflow,Doanh Dật
+lang_multi_text.db,MultiText,Skill_1000805_SkillResume,施放共鸣技能<color=Highlight>烬灭</color>后，丹瑾的重击伤害提升{0}，效果持续{1}秒。,"After casting Resonance Skill <color=Highlight>Sanguine Pulse</color>, Danjin's Heavy Attack DMG is increased by {0} for {1}s.","Sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Tẫn Diệt</color>, sát thương Trọng Kích của Danjin tăng {0}, hiệu quả kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1000806_SkillDescribe,将战意托于刃上，发动攻击，造成<color=Dark>湮灭伤害</color>。,"With unwavering determination, Danjin unleashes a strike, dealing <color=Dark>Havoc DMG</color>.","Gửi chiến ý lên lưỡi kiếm, phát động tấn công, gây <color=Dark>sát thương Giải Ly</color>."
+lang_multi_text.db,MultiText,Skill_1000806_SkillName,击雠,Vindication,Kích Cừu
+lang_multi_text.db,MultiText,Skill_1000806_SkillResume,造成<color=Dark>湮灭伤害</color>。,Deal <color=Dark>Havoc DMG</color>.,Gây <color=Dark>sát thương Hủy Diệt</color>.
+lang_multi_text.db,MultiText,Skill_1000807_SkillDescribe,"<size=40><color=Title>重击·缭乱</color></size>
+【彤华】积攒{0}点以上时，长按<color=Highlight>普攻</color>，将会消耗所有【彤华】施放<color=Highlight>缭乱</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害，并回复自身生命值。
+若【彤华】积攒至{1}点时，则消耗{2}点【彤华】，此次<color=Highlight>缭乱</color>和<color=Highlight>纷落</color>的伤害倍率提升。
+<size=10> </size>
+<size=40><color=Title>重击·纷落</color></size>
+重击<color=Highlight>缭乱</color>后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>纷落</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害。
+<size=10> </size>
+<size=40><color=Title>彤华获取规则</color></size>
+【彤华】上限{3}点。
+施放共鸣技能<color=Highlight>朱华残章</color>时，回复【彤华】。","<size=40><color=Title>Heavy Attack: Chaoscleave</color></size>
+After accumulating {0} ""Ruby Blossom"", long press <color=Highlight>Basic Attack</color> to consume all ""Ruby Blossom"" to cast <color=Highlight>Chaoscleave</color>, dealing <color=Dark>Havoc DMG</color>, considered as Heavy Attack DMG, and healing Danjin.
+If current ""Ruby Blossom"" reaches over {1}, {2} ""Ruby Blossom"" is consumed instead to increase the DMG multiplier of <color=Highlight>Chaoscleave</color> and <color=Highlight>Scatterbloom</color> performed this time.
+<size=10> </size>
+<size=40><color=Title>Heavy Attack: Scatterbloom</color></size>
+Use <color=Highlight>Basic Attack</color> after Heavy Attack <color=Highlight>Chaoscleave</color> to cast <color=Highlight>Scatterbloom</color> to attack the target, dealing <color=Dark>Havoc DMG</color>, considered as Heavy Attack DMG.
+<size=10> </size>
+<size=40><color=Title>Ruby Blossom</color></size>
+Danjin can hold up to {3} Ruby Blossom.
+Danjin obtains ""Ruby Blossom"" when using Resonance Skill <color=Highlight>Crimson Fragment</color>.","<size=40><color=Title>Trọng Kích - Liêu Loạn</color></size>
+Khi [Đồng Hoa] tích lũy từ {0} điểm trở lên, giữ <color=Highlight>Phổ Công</color> sẽ tiêu hao toàn bộ [Đồng Hoa] để thi triển <color=Highlight>Liêu Loạn</color> tấn công mục tiêu, gây <color=Dark>sát thương Giải Ly</color>, sát thương này được tính là sát thương Trọng Kích, đồng thời hồi phục HP bản thân.
+Nếu [Đồng Hoa] tích lũy đạt {1} điểm, sẽ tiêu hao {2} điểm [Đồng Hoa], hệ số sát thương của <color=Highlight>Liêu Loạn</color> và <color=Highlight>Phân Lạc</color> lần này được tăng.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích - Phân Lạc</color></size>
+Sau Trọng Kích <color=Highlight>Liêu Loạn</color>, nhấn <color=Highlight>Phổ Công</color> trong thời gian nhất định sẽ thi triển <color=Highlight>Phân Lạc</color> tấn công mục tiêu, gây <color=Dark>sát thương Giải Ly</color>, sát thương này được tính là sát thương Trọng Kích.
+<size=10> </size>
+<size=40><color=Title>Quy tắc nhận Đồng Hoa</color></size>
+[Đồng Hoa] tối đa {3} điểm.
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Chu Hoa Tàn Chương</color>, hồi phục [Đồng Hoa]."
+lang_multi_text.db,MultiText,Skill_1000807_SkillName,丹心昭瑾,Serene Vigil,Đan Tâm Chiêu Cẩn
+lang_multi_text.db,MultiText,Skill_1000807_SkillResume,"<size=40><color=Title>重击·缭乱</color></size>
+【彤华】积攒{0}点以上时，长按<color=Highlight>普攻</color>，将会消耗所有【彤华】施放<color=Highlight>缭乱</color>攻击目标，造成<color=Dark>湮灭伤害</color>，并回复自身生命值。
+若【彤华】积攒至{1}点时，则消耗{2}点【彤华】，此次<color=Highlight>缭乱</color>和<color=Highlight>纷落</color>的伤害倍率提升。
+<size=10></size>
+<size=40><color=Title>重击·纷落</color></size>
+重击<color=Highlight>缭乱</color>后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>纷落</color>，造成<color=Dark>湮灭伤害</color>。
+<size=10></size>
+<size=40><color=Title>彤华获取规则</color></size>
+【彤华】上限{3}点。
+施放共鸣技能<color=Highlight>朱华残章</color>时，回复【彤华】。","<size=40><color=Title>Heavy Attack: Chaoscleave</color></size>
+After accumulating {0} Ruby Blossoms, hold <color=Highlight>Basic Attack</color> to consume all Ruby Blossoms to cast <color=Highlight>Chaoscleave</color>, dealing <color=Dark>Havoc DMG</color> and healing Danjin.
+If there are more than {1} Ruby Blossoms, {2} Ruby Blossoms are consumed to increase the DMG Multiplier of <color=Highlight>Chaoscleave</color> and <color=Highlight>Scatterbloom</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack: Scatterbloom</color></size>
+Use <color=Highlight>Basic Attack</color> after Heavy Attack <color=Highlight>Chaoscleave</color> to cast <color=Highlight>Scatterbloom</color>, dealing <color=Dark>Havoc DMG</color>.
+<size=10></size>
+<size=40><color=Title>Ruby Blossom</color></size>
+Danjin can hold up to {3} Ruby Blossoms.
+Danjin gains Ruby Blossoms through Resonance Skill <color=Highlight>Crimson Fragment</color>.","<size=40><color=Title>Trọng Kích - Liêu Loạn</color></size>
+Khi [Đồng Hoa] tích lũy từ {0} điểm trở lên, nhấn giữ <color=Highlight>Phổ Công</color> sẽ tiêu hao toàn bộ [Đồng Hoa] để thi triển <color=Highlight>Liêu Loạn</color> tấn công mục tiêu, gây <color=Dark>sát thương Hủy Diệt</color> và hồi phục sinh mệnh bản thân.
+Nếu [Đồng Hoa] tích lũy đến {1} điểm, sẽ tiêu hao {2} điểm [Đồng Hoa], hệ số sát thương của <color=Highlight>Liêu Loạn</color> và <color=Highlight>Phân Lạc</color> được tăng cường.
+<size=10></size>
+<size=40><color=Title>Trọng Kích - Phân Lạc</color></size>
+Trong khoảng thời gian nhất định sau Trọng Kích <color=Highlight>Liêu Loạn</color>, nhấn nhanh <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Phân Lạc</color>, gây <color=Dark>sát thương Hủy Diệt</color>.
+<size=10></size>
+<size=40><color=Title>Quy Tắc Nhận Đồng Hoa</color></size>
+Giới hạn [Đồng Hoa] là {3} điểm.
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Chu Hoa Tàn Chương</color>, hồi phục [Đồng Hoa]."
+lang_multi_text.db,MultiText,Skill_1000808_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1000808_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1000808_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1000809_MultiSkillDescribe_1.1,附近队伍中激活丹瑾延奏技能的角色湮灭伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束,The Resonator on a nearby team that activates Danjin's Outro Skill has their Havoc DMG Amplified by {0} for {1}s or until they are switched out.,"Cộng Hưởng Giả trong đội hình gần đó kích hoạt kỹ năng Hiệp Tấu của Danjin sẽ được tăng cường sát thương Hủy Diệt thêm {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1000809_SkillDescribe,下一位登场角色湮灭伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Havoc DMG Amplified by {0} for {1}s or until they are switched out.,"Cộng Hưởng Giả tiếp theo ra trận được tăng cường sát thương Hủy Diệt thêm {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1000809_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,Skill_1000809_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Skill_1000809_SkillName,明晦,Duality,Minh Hối
 lang_multi_text.db,MultiText,Skill_1000809_SkillResume,下一位登场角色湮灭伤害加深{0}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Havoc Attack DMG Amplified by {0}. Switching Resonators ends the effect.,"Cộng Hưởng Giả tiếp theo ra trận được tăng cường sát thương Hủy Diệt thêm {0}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1000901_SkillDescribe,"<size=40><color=Title>普攻</color></size>
@@ -222,10 +286,10 @@ Sau khi thi triển Biến Tấu Kỹ <color=Highlight>Công Thủ Trận</color
 [Cương Nhu Hóa Thế] tối đa {1} điểm.
 Cách nhận [Cương Nhu Hóa Thế]: nhận được khi [Bàn Nham Hộ Bích] kết thúc hoặc bị tiêu hao.
 <color=Highlight>Phổ Công đoạn 4</color> có thể tiêu hao toàn bộ [Bàn Nham Hộ Bích]."
-lang_multi_text.db,MultiText,Skill_1000908_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt
+lang_multi_text.db,MultiText,Skill_1000908_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1000909_MultiSkillDescribe_1.1,附近队伍中激活桃祈延奏技能的角色共鸣技能伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The Resonator on a nearby team that activates Taoqi's Outro Skill has their Resonance Skill DMG Amplified by {0} for {1}s or until they are switched out.,"Nhân vật trong đội ở gần kích hoạt Hiệp Tấu Kỹ của Taoqi sẽ được tăng sát thương Kỹ Năng Cộng Hưởng thêm {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1000909_SkillDescribe,下一位登场角色共鸣技能伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Resonance Skill DMG Amplified by {0} for {1}s or until they are switched out.,"Nhân vật ra trận tiếp theo được tăng sát thương Kỹ Năng Cộng Hưởng thêm {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1000909_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Tồn tại bất thường, nếu có thắc mắc vui lòng liên hệ dịch vụ khách hàng chính thức"
+lang_multi_text.db,MultiText,Skill_1000909_SkillDescribe,下一位登场角色共鸣技能伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Resonance Skill DMG Amplified by {0} for {1}s or until they are switched out.,"Cộng Hưởng Giả tiếp theo ra sân được tăng sâu sát thương Kỹ Năng Cộng Hưởng {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1000909_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Skill_1000909_SkillName,千钧,Iron Will,Thiên Quân
 lang_multi_text.db,MultiText,Skill_1000909_SkillResume,下一位登场角色共鸣技能伤害加深{0}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Resonance Skill DMG Amplified by {0}. Switching Resonators ends the effect.,"Nhân vật ra trận tiếp theo được tăng sát thương Kỹ Năng Cộng Hưởng thêm {0}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1001001_SkillDescribe,"<size=40><color=Title>普攻</color></size>
@@ -320,7 +384,7 @@ lang_multi_text.db,MultiText,Skill_1001004_SkillName,零失误演绎,Perfect Per
 lang_multi_text.db,MultiText,Skill_1001004_SkillResume,秋水的<color=Highlight>重击</color>必定暴击，每{0}秒可触发1次。,Aalto's <color=Highlight>Heavy Attack</color> will always be Critical. Can be triggered once every {0}s.,"Đòn <color=Highlight>Trọng Kích</color> của Aalto chắc chắn bạo kích, mỗi {0} giây có thể kích hoạt 1 lần."
 lang_multi_text.db,MultiText,Skill_1001005_SkillDescribe,秋水进入共鸣回路<color=Highlight>迷雾潜行</color>时会持续回复耐力。,Aalto will continuously recover STA when he is in the Forte Circuit <color=Highlight>Miscloak Dash</color> state.,"Khi Aalto tiến vào trạng thái Cộng Hưởng Liên <color=Highlight>Ẩn Mình Trong Sương</color>, sẽ liên tục hồi phục thể lực."
 lang_multi_text.db,MultiText,Skill_1001005_SkillName,中场休息时间,Mid-game Break,Giờ Nghỉ Giữa Hiệp
-lang_multi_text.db,MultiText,Skill_1001005_SkillResume,秋水进入共鸣回路<color=Highlight>迷雾潜行</color>时会持续回复耐力。,Aalto will continuously recover STA when he is in the Forte Circuit <color=Highlight>Miscloak Dash</color>.,"Khi Aalto tiến vào Cộng Hưởng Liên <color=Highlight>Mê Vụ Tiềm Hành</color>, sẽ liên tục hồi phục thể lực."
+lang_multi_text.db,MultiText,Skill_1001005_SkillResume,秋水进入共鸣回路<color=Highlight>迷雾潜行</color>时会持续回复耐力。,Aalto will continuously recover STA when he is in the Forte Circuit <color=Highlight>Miscloak Dash</color>.,"Khi Aalto tiến vào trạng thái Cộng Hưởng Liên <color=Highlight>Ẩn Mình Trong Sương</color>, sẽ liên tục hồi phục thể lực."
 lang_multi_text.db,MultiText,Skill_1001006_SkillDescribe,秋水神出鬼没，进行快速的连续射击，造成<color=Wind>气动伤害</color>。,"Aalto shows up out of thin air to perform rapid continuous shooting, dealing <color=Wind>Aero DMG</color>.","Aalto xuất hiện thần xuất quỷ một, thực hiện loạt xạ kích nhanh liên tục, gây <color=Wind>sát thương Khí Động</color>."
 lang_multi_text.db,MultiText,Skill_1001006_SkillName,虚晃一枪,Feint Shot,Hư Hoảng Nhất Thương
 lang_multi_text.db,MultiText,Skill_1001006_SkillResume,造成<color=Wind>气动伤害</color>。,Deal <color=Wind>Aero DMG</color>.,Gây <color=Wind>sát thương Khí Động</color>.
@@ -375,10 +439,10 @@ Aalto gains Mist Drop when <color=Highlight>Basic Attack</color> or <color=Highl
 <size=40><color=Title>Quy tắc nhận Vụ Trích</color></size>
 Giới hạn [Vụ Trích] tối đa {2} điểm.
 Cách nhận [Vụ Trích]: <color=Highlight>Phổ Công</color> hoặc <color=Highlight>Tấn Công Trên Không</color> đi xuyên qua [Sương Mù] và trúng mục tiêu."
-lang_multi_text.db,MultiText,Skill_1001008_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có xác suất tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1001008_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1001009_MultiSkillDescribe_1.1,附近队伍中激活秋水延奏技能的角色气动伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The Resonator on a nearby team that activates Aalto's Outro Skill has their Aero DMG Amplified by {0} for {1}s or until they are switched out.,"Cộng Hưởng Giả trong đội gần đó kích hoạt Hiệp Tấu Kỹ của Aalto sẽ được tăng sâu sát thương Khí Động thêm {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1001009_SkillDescribe,下一位登场角色气动伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Aero DMG Amplified by {0} for {1}s or until they are switched out.,"Cộng Hưởng Giả tiếp theo lên sân được tăng sâu sát thương Khí Động thêm {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1001009_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,Skill_1001009_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Skill_1001009_SkillName,雾解,Dissolving Mist,Vụ Giải
 lang_multi_text.db,MultiText,Skill_1001009_SkillResume,下一位登场角色气动伤害加深{0}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Aero DMG Amplified by {0}. Switching Resonators ends the effect early.,"Cộng Hưởng Giả tiếp theo lên sân được tăng sâu sát thương Khí Động thêm {0}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1001101_SkillDescribe,"<size=40><color=Title>普攻</color></size>
@@ -630,10 +694,10 @@ Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Thương Cừ Bá
 [Phá Trận Trị] tối đa {6} điểm.
 Cách nhận [Phá Trận Trị]: <color=Highlight>Công Thường</color>, <color=Highlight>Biến Tấu Kỹ</color>
 Nếu trong {7} giây Jiyan không trúng mục tiêu, [Phá Trận Trị] sẽ dần giảm đi."
-lang_multi_text.db,MultiText,Skill_1001108_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt
+lang_multi_text.db,MultiText,Skill_1001108_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1001109_MultiSkillDescribe_1.1,附近队伍中激活忌炎延奏技能的角色重击命中目标时，忌炎将召唤长枪协同攻击，造成忌炎{0}攻击的<color=Wind>气动伤害</color>，该协同攻击效果持续{1}秒，每{2}秒可触发1次，最多可触发2次。,"When the Resonator on a nearby team that activates Jiyan's Outro Skill hits a target with their Heavy Attack, Jiyan will summon a lance to launch a coordinated attack, dealing <color=Wind>Aero DMG</color> equal to {0} of Jiyan's ATK for {1}s. This effect can be triggered 1 time every {2}s, up to 2 times.","Khi nhân vật kích hoạt Diên Tấu Kỹ của Jiyan trong đội hình gần đó dùng Trọng Kích trúng mục tiêu, Jiyan sẽ triệu hồi trường thương hiệp đồng tấn công, gây <color=Wind>sát thương Khí Động</color> bằng {0} tấn công của Jiyan, hiệu ứng hiệp đồng tấn công duy trì {1} giây, mỗi {2} giây có thể kích hoạt 1 lần, tối đa kích hoạt 2 lần."
 lang_multi_text.db,MultiText,Skill_1001109_SkillDescribe,下一位登场角色重击命中目标时，忌炎将召唤长枪协同攻击，造成忌炎{0}攻击的<color=Wind>气动伤害</color>，该协同攻击效果持续{1}秒，每{2}秒可触发1次，最多可触发2次。,"When the incoming Resonator's Heavy Attack hits a target, Jiyan will summon a lance to launch a coordinated attack, dealing <color=Wind>Aero DMG</color> equal to {0} of Jiyan's ATK. This attack lasts for {1}s and can be triggered once every {2}s, up to 2 times.","Khi nhân vật kế tiếp ra trận dùng Trọng Kích trúng mục tiêu, Jiyan sẽ triệu hồi trường thương hiệp đồng tấn công, gây <color=Wind>sát thương Khí Động</color> bằng {0} tấn công của Jiyan, hiệu ứng hiệp đồng tấn công duy trì {1} giây, mỗi {2} giây có thể kích hoạt 1 lần, tối đa kích hoạt 2 lần."
-lang_multi_text.db,MultiText,Skill_1001109_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,An error occurred. Please contact customer service.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,Skill_1001109_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,An error occurred. Please contact customer service.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Skill_1001109_SkillName,克己,Discipline,Khắc Kỷ
 lang_multi_text.db,MultiText,Skill_1001109_SkillResume,下一位登场角色重击命中目标时，忌炎将协同攻击，造成忌炎{0}攻击的<color=Wind>气动伤害</color>。,"When the incoming Resonator's Heavy Attack hits a target, Jiyan will launch a Coordinated Attack, dealing <color=Wind>Aero DMG</color> equal to {0} of Jiyan's ATK.","Khi nhân vật kế tiếp ra trận dùng Trọng Kích trúng mục tiêu, Jiyan sẽ hiệp đồng tấn công, gây <color=Wind>sát thương Khí Động</color> bằng {0} tấn công của Jiyan."
 lang_multi_text.db,MultiText,Skill_1001201_SkillDescribe,"<size=40><color=Title>普攻</color></size>
@@ -702,58 +766,3 @@ Tiêu hao thể lực, gây <color=Fire>sát thương Nhiệt Dung</color>.
 <size=10></size>
 <size=40><color=Title>Né Tránh Phản Kích</color></size>
 Gây <color=Fire>sát thương Nhiệt Dung</color>."
-lang_multi_text.db,MultiText,Skill_1001202_SkillDescribe,向正前方打出高速火焰闪电，造成<color=Fire>热熔伤害</color>。,"Launch a flashing lightning of flames forward, dealing <color=Fire>Fusion DMG</color>.","Bắn ra tia lửa sét tốc độ cao về phía trước, gây <color=Fire>sát thương Nhiệt Dung</color>."
-lang_multi_text.db,MultiText,Skill_1001202_SkillName,激昂变奏,Passionate Variation,Kích Ngang Biến Tấu
-lang_multi_text.db,MultiText,Skill_1001202_SkillResume,造成<color=Fire>热熔伤害</color>。,Deal <color=Fire>Fusion DMG</color>.,Gây <color=Fire>sát thương Nhiệt Dung</color>.
-lang_multi_text.db,MultiText,Skill_1001203_SkillDescribe,"造成<color=Fire>热熔伤害</color>，并为队伍中所有角色附加<color=Highlight>浮翼狂想</color>。
-<size=10> </size>
-<size=40><color=Title>浮翼狂想</color></size>
-·队伍中登场角色的<color=Highlight>普攻</color>命中目标时，进行协同攻击，打出{0}发<color=Highlight>加强音</color>；
-·队伍中登场角色的<color=Highlight>重击</color>命中目标时，进行协同攻击，打出{1}发<color=Highlight>加强音</color>；
-·每{2}秒可进行1次协同攻击。
-<size=10> </size>
-<size=40><color=Title>加强音</color></size>
-造成<color=Fire>热熔伤害</color>。","Deal <color=Fire>Fusion DMG</color>, and apply <color=Highlight>Burning Rhapsody</color> to all characters on the team.
-<size=10> </size>
-<size=40><color=Title>Burning Rhapsody</color></size>
-When the active character's <color=Highlight>Basic Attack</color> hits the target, Mortefi launches a Coordinated Attack, firing {0} <color=Highlight>Marcato</color>.
-When the active character's <color=Highlight>Heavy Attack</color> hits the target, Mortefi launches a Coordinated Attack, firing {1} <color=Highlight>Marcato</color>.
-Mortefi can launch one Coordinated Attack every {2}s.
-<size=10> </size>
-<size=40><color=Title>Marcato</color></size>
-Deals <color=Fire>Fusion DMG</color>.","Gây <color=Fire>sát thương Nhiệt Dung</color>, đồng thời phụ gia <color=Highlight>Phù Dực Cuồng Tưởng</color> cho tất cả nhân vật trong đội.
-<size=10> </size>
-<size=40><color=Title>Phù Dực Cuồng Tưởng</color></size>
-- Khi nhân vật ra trận trong đội dùng <color=Highlight>Phổ Công</color> trúng mục tiêu, tiến hành hiệp đồng tấn công, bắn ra {0} phát <color=Highlight>Gia Cường Âm</color>;
-- Khi nhân vật ra trận trong đội dùng <color=Highlight>Trọng Kích</color> trúng mục tiêu, tiến hành hiệp đồng tấn công, bắn ra {1} phát <color=Highlight>Gia Cường Âm</color>;
-- Mỗi {2} giây có thể tiến hành 1 lần hiệp đồng tấn công.
-<size=10> </size>
-<size=40><color=Title>Gia Cường Âm</color></size>
-Gây <color=Fire>sát thương Nhiệt Dung</color>."
-lang_multi_text.db,MultiText,Skill_1001203_SkillName,暴烈终曲,Violent Finale,Bạo Liệt Chung Khúc
-lang_multi_text.db,MultiText,Skill_1001203_SkillResume,"造成<color=Fire>热熔伤害</color>，并为队伍中所有角色附加<color=Highlight>浮翼狂想</color>。
-<size=10></size>
-<size=40><color=Title>浮翼狂想</color></size>
-队伍中登场角色的<color=Highlight>普攻</color>、<color=Highlight>重击</color>命中目标时，进行协同攻击，打出<color=Highlight>加强音</color>。
-<size=10></size>
-<size=40><color=Title>加强音</color></size>
-造成<color=Fire>热熔伤害</color>。","Deal <color=Fire>Fusion DMG</color>, and apply <color=Highlight>Burning Rhapsody</color> to all Resonators on the team.
-<size=10> </size>
-<size=40><color=Title>Burning Rhapsody</color></size>
-When the active Resonator's <color=Highlight>Basic Attack</color> or <color=Highlight>Heavy Attack</color> hits the target, Mortefi launches <color=Highlight>Marcato</color> as the Coordinated Attack.
-<size=10> </size>
-<size=40><color=Title>Marcato</color></size>
-Deal <color=Fire>Fusion DMG</color>.","Gây <color=Fire>sát thương Nhiệt Dung</color>, đồng thời phụ gia <color=Highlight>Phù Dực Cuồng Tưởng</color> cho tất cả nhân vật trong đội.
-<size=10></size>
-<size=40><color=Title>Phù Dực Cuồng Tưởng</color></size>
-Khi nhân vật ra trận trong đội dùng <color=Highlight>Phổ Công</color>, <color=Highlight>Trọng Kích</color> trúng mục tiêu, tiến hành hiệp đồng tấn công, bắn ra <color=Highlight>Gia Cường Âm</color>.
-<size=10></size>
-<size=40><color=Title>Gia Cường Âm</color></size>
-Gây <color=Fire>sát thương Nhiệt Dung</color>."
-lang_multi_text.db,MultiText,Skill_1001204_SkillDescribe,施放共鸣技能<color=Highlight>激昂变奏</color>后{0}秒内，共鸣技能<color=Highlight>怒火赋格</color>的伤害提升{1}。,"After casting Resonance Skill <color=Highlight>Passionate Variation</color>, the damage of Resonance Skill <color=Highlight>Fury Fugue</color> is increased by {1} for {0}s.","Trong {0} giây sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kích Ngang Biến Tấu</color>, sát thương Kỹ Năng Cộng Hưởng <color=Highlight>Nộ Hỏa Phú Cách</color> tăng {1}."
-lang_multi_text.db,MultiText,Skill_1001204_SkillName,密接和应,Harmonic Control,Mật Tiếp Hòa Ứng
-lang_multi_text.db,MultiText,Skill_1001204_SkillResume,施放共鸣技能<color=Highlight>激昂变奏</color>后{0}秒内，共鸣技能<color=Highlight>怒火赋格</color>的伤害提升{1}。,"After casting Resonance Skill <color=Highlight>Passionate Variation</color>, damage from Resonance Skill <color=Highlight>Fury Fugue</color> is increased by {1} for {0}s.","Trong vòng {0} giây sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kích Ngang Biến Tấu</color>, sát thương của Kỹ Năng Cộng Hưởng <color=Highlight>Nộ Hỏa Phú Cách</color> tăng {1}."
-lang_multi_text.db,MultiText,Skill_1001205_SkillDescribe,"共鸣解放<color=Highlight><te href=850038>浮翼狂想</te></color>持续期间，每次共鸣解放<color=Highlight>加强音</color>命中后，都会使下次的共鸣解放<color=Highlight>加强音</color>伤害提升{0}，每{1}秒可触发1次，上限{2}层。
-共鸣解放<color=Highlight><te href=850038>浮翼狂想</te></color>结束后重置效果层数。","During Resonance Liberation <color=Highlight><te href=850038>Burning Rhapsody</te></color>, each hit of Resonance Liberation <color=Highlight>Marcato</color> will increase the DMG of the next Resonance Liberation <color=Highlight>Marcato</color> by {0}, which can be triggered once every {1}s, stacking up to {2} times.
-The effect will be reset after Resonance Liberation <color=Highlight>Burning Rhapsody</color> ends.","Trong thời gian duy trì Giải Phóng Cộng Hưởng <color=Highlight><te href=850038>Phù Dực Cuồng Tưởng</te></color>, mỗi lần Giải Phóng Cộng Hưởng <color=Highlight>Gia Cường Âm</color> trúng mục tiêu, sát thương của Giải Phóng Cộng Hưởng <color=Highlight>Gia Cường Âm</color> tiếp theo tăng {0}, mỗi {1} giây có thể kích hoạt 1 lần, tối đa {2} tầng.
-Sau khi Giải Phóng Cộng Hưởng <color=Highlight><te href=850038>Phù Dực Cuồng Tưởng</te></color> kết thúc, số tầng hiệu ứng sẽ được đặt lại."

@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Text_FriendBlackListCount_Text,黑名单：{0}/{1},Blocked: {0}/{1},Danh sách chặn: {0}/{1}
+lang_multi_text.db,MultiText,Text_FriendBlackList_Text,黑名单,Blocklist,Danh sách chặn
+lang_multi_text.db,MultiText,Text_FriendClear_Text,清除,Clear,Xóa
+lang_multi_text.db,MultiText,Text_FriendCount_Text,好友：{0}/{1},Friends: {0}/{1},Bạn bè: {0}/{1}
+lang_multi_text.db,MultiText,Text_FriendFriend_Text,好友,Friends,Bạn bè
+lang_multi_text.db,MultiText,Text_FriendMultiplayerCount_Text,最近联机：{0}/{1},Recent Co-ops: {0}/{1},Liên cơ gần đây: {0}/{1}
+lang_multi_text.db,MultiText,Text_FriendMyUid_Text,特征码: {0},User ID: {0},VH by MacThanh
+lang_multi_text.db,MultiText,Text_FriendNotAvailableFriendApplication_Text,暂无好友申请,No Friend Request,Chưa có lời mời kết bạn
+lang_multi_text.db,MultiText,Text_FriendNotAvailableFriend_Text,暂无好友,No Friend,Chưa có bạn bè
+lang_multi_text.db,MultiText,Text_FriendNotAvailableRecentTeammate_Text,暂无近期队友信息,No Recent Co-ops,Chưa có đồng đội gần đây
 lang_multi_text.db,MultiText,Text_FriendOfflineInMonth_Text,1月内,This month,Trong 1 tháng
 lang_multi_text.db,MultiText,Text_FriendOfflineInWeek_Text,1周内,This week,Trong 1 tuần
 lang_multi_text.db,MultiText,Text_FriendOfflineOverMonth_Text,30天以上,Over 30 days ago,Hơn 30 ngày trước
@@ -51,7 +61,7 @@ lang_multi_text.db,MultiText,Text_GachaNoRecord_Text,暂无唤取记录。,No Co
 lang_multi_text.db,MultiText,Text_GachaOptionalDesc1_Text,选择一位共鸣者进行定向唤取,Select a Resonator for Targeted Convene,Chọn một Cộng Hưởng Giả để triệu hồi định hướng
 lang_multi_text.db,MultiText,Text_GachaOptionalDesc2_Text,选择一把武器进行定向唤取,Select a Weapon for Targeted Convene,Chọn một vũ khí để triệu hồi định hướng
 lang_multi_text.db,MultiText,Text_GachaOptionalText1_Text,已选择,Selected,Đã chọn
-lang_multi_text.db,MultiText,Text_GachaOptionalText2_Text,是否选择,Select this?,Chọn không?
+lang_multi_text.db,MultiText,Text_GachaOptionalText2_Text,是否选择,Select this?,Xác nhận chọn?
 lang_multi_text.db,MultiText,Text_GachaOptionalTitle1_Text,定向唤取,Targeted Convene,Triệu hồi định hướng
 lang_multi_text.db,MultiText,Text_GachaPoolTodayRestCount_Text,本卡池今日剩余次数:{0}/{1},Remaining Convene(s) for today: {0},Số lượt còn lại hôm nay của pool này: {0}/{1}
 lang_multi_text.db,MultiText,Text_GachaPoolTotalRestCount_Text,剩余次数:{0}/{1},Remaining Convene(s): {0},Số lượt còn lại: {0}/{1}
@@ -62,16 +72,16 @@ lang_multi_text.db,MultiText,Text_GachaTagText1_Text,-20%,20% OFF,20% OFF
 lang_multi_text.db,MultiText,Text_GachaTagText2_Text,活动,EVENT,Sự kiện
 lang_multi_text.db,MultiText,Text_GachaTagText6_Text,自选,CHOICE,Tự chọn
 lang_multi_text.db,MultiText,Text_GachaTagText7_Text,周年庆,ANNIV.,Kỷ niệm
-lang_multi_text.db,MultiText,Text_GachaTagText8_Text,新旅,STARTER,Tân hành
+lang_multi_text.db,MultiText,Text_GachaTagText8_Text,新旅,STARTER,Tân Lữ
 lang_multi_text.db,MultiText,Text_GachaTagText9_Text,更新,New,Mới
 lang_multi_text.db,MultiText,Text_GachaText_Text,唤取{0}次,Convene ×{0},Triệu hoán {0} lượt
 lang_multi_text.db,MultiText,Text_GachaTotalRestCount_Text,全卡池今日剩余次数:{0}/{1},Remaining: {0},Số lượt còn lại hôm nay của tất cả pool: {0}/{1}
 lang_multi_text.db,MultiText,Text_GachaTypeText10_Text,武器新旅唤取,New Voyage Weapon Convene,Triệu hoán Vũ Khí Tân Hành
 lang_multi_text.db,MultiText,Text_GachaTypeText1_Text,新手唤取,Novice Convene,Triệu hoán Tân Thủ
-lang_multi_text.db,MultiText,Text_GachaTypeText2_Text,角色活动唤取,Featured Resonator Convene,Triệu hoán Cộng Hưởng Giả Sự Kiện
-lang_multi_text.db,MultiText,Text_GachaTypeText3_Text,武器活动唤取,Featured Weapon Convene,Triệu hoán Vũ Khí Sự Kiện
+lang_multi_text.db,MultiText,Text_GachaTypeText2_Text,角色活动唤取,Featured Resonator Convene,Hoán Thủ Cộng Hưởng Giả Sự Kiện
+lang_multi_text.db,MultiText,Text_GachaTypeText3_Text,武器活动唤取,Featured Weapon Convene,Hoán Thủ Vũ Khí Sự Kiện
 lang_multi_text.db,MultiText,Text_GachaTypeText4_Text,角色常驻唤取,Standard Resonator Convene,Triệu hoán Cộng Hưởng Giả Thường Trú
-lang_multi_text.db,MultiText,Text_GachaTypeText5_Text,武器常驻唤取,Standard Weapon Convene,Triệu hoán Vũ Khí Thường Trú
+lang_multi_text.db,MultiText,Text_GachaTypeText5_Text,武器常驻唤取,Standard Weapon Convene,Hoán Thủ Vũ Khí Thường Trú
 lang_multi_text.db,MultiText,Text_GachaTypeText6_Text,新手自选唤取,Beginner's Choice Convene,Triệu hoán Tự Chọn Tân Thủ
 lang_multi_text.db,MultiText,Text_GachaTypeText7_Text,周年角色活动唤取,Anniversary Resonator Convene,Triệu hoán Cộng Hưởng Giả Kỷ Niệm
 lang_multi_text.db,MultiText,Text_GachaTypeText8_Text,周年武器活动唤取,Anniversary Weapon Convene,Triệu hoán Vũ Khí Kỷ Niệm
@@ -80,9 +90,9 @@ lang_multi_text.db,MultiText,Text_GachaType_Text,唤取类型,Convene Type,Loạ
 lang_multi_text.db,MultiText,Text_GachaUpList1_Text,以下4星角色出现概率提升,4-Star Resonators Rate Up,Tỷ lệ xuất hiện các Cộng Hưởng Giả 4 sao sau được tăng
 lang_multi_text.db,MultiText,Text_GachaUpList2_Text,以下4星武器出现概率提升,4-Star Weapons Rate Up,Tỷ lệ xuất hiện các vũ khí 4 sao sau được tăng
 lang_multi_text.db,MultiText,Text_GameplayEnter_Text,警告,Warning,Cảnh báo
-lang_multi_text.db,MultiText,Text_GameplayFirstPass_Text,首通成功,Domain Cleared,Thông quan lần đầu
+lang_multi_text.db,MultiText,Text_GameplayFirstPass_Text,首通成功,Domain Cleared,Thông quan lần đầu thành công!
 lang_multi_text.db,MultiText,Text_GenderTransferSuccess_Text,切换已生效。,Converted,Chuyển đổi đã có hiệu lực.
-lang_multi_text.db,MultiText,Text_GenderTransfer_Text,切换漂泊者后，24小时内不能再做切换,You will not be able to switch Rover's appearance again in 24 hours.,"Sau khi chuyển đổi Lữ Khách, không thể chuyển đổi lại trong vòng 24 giờ"
+lang_multi_text.db,MultiText,Text_GenderTransfer_Text,切换漂泊者后，24小时内不能再做切换,You will not be able to switch Rover's appearance again in 24 hours.,"Sau khi chuyển đổi Lữ Khách, không thể chuyển đổi lại trong vòng 24 giờ."
 lang_multi_text.db,MultiText,Text_GenderTransfering_Text,正在切换中……,Switching in progress...,Đang chuyển đổi...
 lang_multi_text.db,MultiText,Text_GeographyHandBookLock_Text,存在异常，如有疑问请联系官方客服。,Error. Please contact Customer Service.,"Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
 lang_multi_text.db,MultiText,Text_GetAllItem_Text,全部领取,Claim All,Nhận tất cả
@@ -96,24 +106,14 @@ lang_multi_text.db,MultiText,Text_GetUpdateInfoFail_Text,获取更新信息失�
 lang_multi_text.db,MultiText,Text_Girl_Text,漂泊者（女）,Rover (Female),Lữ Khách (Nữ)
 lang_multi_text.db,MultiText,Text_GoDownText_Text,换下,Unselect,Thay ra
 lang_multi_text.db,MultiText,Text_GoNextSelectArea_Text,前往选择区域,Proceed to selected area,Đi đến khu vực đã chọn
-lang_multi_text.db,MultiText,Text_GoToDownload_Text,前往下载,Go to download,Đi đến tải xuống
+lang_multi_text.db,MultiText,Text_GoToDownload_Text,前往下载,Go to download,Đi tới tải xuống
 lang_multi_text.db,MultiText,Text_GongDuoLaCallingFailed_Text,无法在此处呼唤呼姆,Cannot summon Phaom here,Không thể triệu hồi Phaom tại đây
-lang_multi_text.db,MultiText,Text_GongDuoLaCarpoolingForbid_Text,当前状态下无法使用该功能,You cannot currently use this function,Không thể sử dụng chức năng này trong trạng thái hiện tại
+lang_multi_text.db,MultiText,Text_GongDuoLaCarpoolingForbid_Text,当前状态下无法使用该功能,You cannot currently use this function,Không thể sử dụng chức năng này ở trạng thái hiện tại
 lang_multi_text.db,MultiText,Text_GongMingJieFang_Text,存在异常，如有疑问请联系官方客服,Resonance Liberation,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Text_GoodsName_Text,{0}x{1},{0} x{1},{0} x{1}
 lang_multi_text.db,MultiText,Text_GuidePageText_Text,{0}<color=#a1a1a1>/{1}</color>,{0}<color=#a1a1a1>/{1}</color>,{0}<color=#a1a1a1>/{1}</color>
 lang_multi_text.db,MultiText,Text_GymContinueChallenge_Text,继续挑战,Continue Challenge,Tiếp tục thử thách
 lang_multi_text.db,MultiText,Text_GymDead_Text,失去意识,Defeated,Mất ý thức
 lang_multi_text.db,MultiText,Text_GymFail_Text,挑战失败,Challenge Failed,Thử thách thất bại
-lang_multi_text.db,MultiText,Text_GymReChallenge_Text,重新挑战,Retry Challenge,Thử thách lại
+lang_multi_text.db,MultiText,Text_GymReChallenge_Text,重新挑战,Retry Challenge,Thử lại
 lang_multi_text.db,MultiText,Text_GymReturnToLordGym_Text,返回选择领主,Select another Challenge,Quay lại chọn Lãnh Chủ
-lang_multi_text.db,MultiText,Text_GymReturnToWorld_Text,返回大世界,Leave,Trở về thế giới
-lang_multi_text.db,MultiText,Text_GymShopNew_Text,试炼纹币：{0}/{1},Trial Coin: {0}/{1},Thí Luyện Văn Tệ: {0}/{1}
-lang_multi_text.db,MultiText,Text_HandBookEntrance_Text,万物图鉴,Gallery,Vạn Vật Đồ Giám
-lang_multi_text.db,MultiText,Text_HandBookGet_Text,收录日期:{0},Entry Unlock Date: {0},Ngày thu thập: {0}
-lang_multi_text.db,MultiText,Text_HandBookItemHaveNum_Text,获得次数:{0},Acquisition Count: {0},Số lần nhận được: {0}
-lang_multi_text.db,MultiText,Text_Handle_Text,控制器,Controller,Tay cầm
-lang_multi_text.db,MultiText,Text_HasClearDifficult_Text,已完成“{0}”探索,"""{0}"" exploration has been completed","Đã hoàn thành khám phá ""{0}"""
-lang_multi_text.db,MultiText,Text_HasExploreDifficult_Text,已完成“{0}”探索,"""{0}"" exploration has been completed","Đã hoàn thành khám phá ""{0}"""
-lang_multi_text.db,MultiText,Text_HasGetRewardTips_Text,探索奖励已提前获得,Exploration rewards have been obtained in advance,Phần thưởng khám phá đã được nhận trước
-lang_multi_text.db,MultiText,Text_HasInviteChallengeAgain_Text,{0}发出了重新挑战的邀请,{0} has issued an invitation to challenge again,{0} đã gửi lời mời thử thách lại

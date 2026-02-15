@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Text_CorePlugin_Text,觉醒模块：{0},Awakening Module(s): {0},Mô-đun Giác Tỉnh: {0}
+lang_multi_text.db,MultiText,Text_CostSkillPoint_Text,消耗异能点：{0},Consume: {0},Tiêu hao Điểm Dị Năng: {0}
+lang_multi_text.db,MultiText,Text_CumulativeProficiency_Text,<color=#adadad>累计{0}/{1}</color>,<color=#adadad>Total {0}/{1}</color>,<color=#adadad>Tích lũy {0}/{1}</color>
+lang_multi_text.db,MultiText,Text_CurGeographyHandBookLock_Text,当前风光纪录未获取,Locked,Chưa thu thập bản ghi phong cảnh này
+lang_multi_text.db,MultiText,Text_CurPlotHandBookLock_Text,当前留影未解锁,Locked,Chưa mở khóa lưu ảnh này
+lang_multi_text.db,MultiText,Text_CurrentDifficultHasFinished_Text,该层探索已全部完成,The exploration of this layer has been completed,Đã hoàn thành toàn bộ khám phá tầng này
+lang_multi_text.db,MultiText,Text_CurrentPoint_Text,当前探索度 {0}/{1},Current exploration degree {0}/{1},Tiến độ khám phá hiện tại {0}/{1}
+lang_multi_text.db,MultiText,Text_CurrentQuestOccupied_Text,当前任务角色已被占用，无法继续进行任务。,Necessary characters unavailable. Cannot continue this quest.,"Nhân vật nhiệm vụ hiện đang bận, không thể tiếp tục nhiệm vụ."
+lang_multi_text.db,MultiText,Text_CurrentTeam_Text,当前队伍,Current team,Đội hình hiện tại
+lang_multi_text.db,MultiText,Text_CycleTowerAreaTips_Text,{0}·{1}·第{2}间层,{0} - {1} - Floor {2},{0} - {1} - Tầng {2}
 lang_multi_text.db,MultiText,Text_CycleTowerDetailBossTips_Text,幻声之主,Master of Phantom Sound,Chủ Nhân Ảo Thanh
 lang_multi_text.db,MultiText,Text_CycleTowerDetailBuffTips_Text,异质余音,Heterogeneous Residual Sound,Dư Âm Dị Chất
 lang_multi_text.db,MultiText,Text_CycleTowerProgress_Text,总探索度 {0},Total Exploration Progress {0},Tổng tiến độ khám phá {0}
@@ -49,7 +59,7 @@ lang_multi_text.db,MultiText,Text_EditBattleTeamCant_Text,当前阵容中有角�
 lang_multi_text.db,MultiText,Text_EditBattleTeamForbitClimb_Text,攀爬时无法进行编队,Cannot adjust the team lineup while climbing,Không thể chỉnh đội hình khi đang leo trèo
 lang_multi_text.db,MultiText,Text_EditBattleTeamForbitJump_Text,跳跃时无法进行编队,Cannot adjust the team lineup while jumping,Không thể chỉnh đội hình khi đang nhảy
 lang_multi_text.db,MultiText,Text_EditBattleTeamForbitNear_Text,战斗中无法进行编队,Cannot adjust the team lineup in combat,Không thể chỉnh đội hình khi đang chiến đấu
-lang_multi_text.db,MultiText,Text_EditBattleTeamForbitState_Text,当前状态无法进行编队,Cannot adjust the team lineup in the current state,Không thể chỉnh đội hình ở trạng thái hiện tại
+lang_multi_text.db,MultiText,Text_EditBattleTeamForbitState_Text,当前状态无法进行编队,Cannot adjust the team lineup in the current state,Không thể sắp xếp đội hình trong trạng thái hiện tại
 lang_multi_text.db,MultiText,Text_EditBattleTeamForbitSwim_Text,游泳时无法进行编队,Cannot adjust the team lineup while swimming,Không thể chỉnh đội hình khi đang bơi
 lang_multi_text.db,MultiText,Text_EditBattleTeamInCD_Text,冷却状态下无法切换角色,Cannot switch characters in cooldown state,Không thể chuyển nhân vật khi đang hồi chiêu
 lang_multi_text.db,MultiText,Text_EditBattleTeamInTeam_Text,角色已出战,Character has been deployed,Nhân vật đã xuất trận
@@ -57,7 +67,7 @@ lang_multi_text.db,MultiText,Text_EditBattleTeamLastRole_Text,队伍中至少需
 lang_multi_text.db,MultiText,Text_EditBattleTeamNoRole_Text,当前队伍无可用角色，无法出战,"There are no available characters in the current team, unable to deploy","Đội hình hiện tại không có nhân vật khả dụng, không thể xuất trận"
 lang_multi_text.db,MultiText,Text_EditBattleTeamOtherPlayer_Text,无法改变他人的角色,Cannot change other's character,Không thể thay đổi nhân vật của người khác
 lang_multi_text.db,MultiText,Text_EditBattleTeamRoleEmpty_Text,当前队伍无可用角色，无法换下,"There are no available characters in the current team, unable to switch","Đội hình hiện tại không có nhân vật khả dụng, không thể thay ra"
-lang_multi_text.db,MultiText,Text_EditBattleTeamRoleFull_Text,当前队伍角色已满,Current team is full.,Đội hình hiện tại đã đầy
+lang_multi_text.db,MultiText,Text_EditBattleTeamRoleFull_Text,当前队伍角色已满,Current team is full.,Đội hiện tại đã đủ nhân vật.
 lang_multi_text.db,MultiText,Text_EditBattleTeamTitle_Text,编辑队伍,Edit Team,Chỉnh sửa đội hình
 lang_multi_text.db,MultiText,Text_EditFormationAllDead_Text,至少需要一名未失去意识的角色,Needs at least one non-downed Resonator,Cần ít nhất một nhân vật chưa bất tỉnh
 lang_multi_text.db,MultiText,Text_EditFormationCancelMarch_Text,取消匹配,Cancel matching,Hủy ghép trận
@@ -78,7 +88,7 @@ lang_multi_text.db,MultiText,Text_Element_2_Text,热熔,Fusion,Nhiệt Dung
 lang_multi_text.db,MultiText,Text_Element_3_Text,导电,Electro,Dẫn Điện
 lang_multi_text.db,MultiText,Text_Element_4_Text,气动,Aero,Khí Động
 lang_multi_text.db,MultiText,Text_Element_5_Text,衍射,Spectro,Nhiễu Xạ
-lang_multi_text.db,MultiText,Text_Element_6_Text,湮灭,Havoc,Hủy Diệt
+lang_multi_text.db,MultiText,Text_Element_6_Text,湮灭,Havoc,Yên Diệt
 lang_multi_text.db,MultiText,Text_EmptySign_Text,尚未设置个性签名,No bio yet...,Chưa thiết lập chữ ký cá nhân
 lang_multi_text.db,MultiText,Text_End_Text,结束,End,Kết thúc
 lang_multi_text.db,MultiText,Text_Enemy_Text,敌人,Enemy,Kẻ địch
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,Text_ExChangeCountDescribe_Text,{0}x{1},{0} x{1},{0
 lang_multi_text.db,MultiText,Text_ExChangeCount_Text,兑换次数:{0},Redemption Amount: {0},Số lần đổi: {0}
 lang_multi_text.db,MultiText,Text_ExChangeTitle_Text,兑换{0},Redeem {0},Đổi {0}
 lang_multi_text.db,MultiText,Text_ExchangeSuccess_Text,兑换成功,Redeemed,Đổi thành công
-lang_multi_text.db,MultiText,Text_Exchange_Text,置换,Conversion,Chuyển đổi
-lang_multi_text.db,MultiText,Text_Execution_Error_Die_Text,该角色已死亡，无法进行处决,Cannot perform order. Character already fallen.,"Nhân vật đã tử trận, không thể thực hiện xử quyết"
-lang_multi_text.db,MultiText,Text_Execution_Text,处决,Execution,Xử quyết
-lang_multi_text.db,MultiText,Text_ExitInstance_Text,退出副本,Exit,Thoát phụ bản
-lang_multi_text.db,MultiText,Text_ExitOnlineTeam_Text,{0}已离开队伍,{0} has left the team,{0} đã rời đội
-lang_multi_text.db,MultiText,Text_ExitWorld_Text,退出队伍,Exit,Rời đội
-lang_multi_text.db,MultiText,Text_ExpShow_Text,{0}/{1},{0}/{1},{0}/{1}
-lang_multi_text.db,MultiText,Text_ExpText_Text,{0}/{1},{0}/{1},{0}/{1}
-lang_multi_text.db,MultiText,Text_ExplorationDegree_Text,{0}%,{0}%,{0}%
-lang_multi_text.db,MultiText,Text_ExploreFail_Text,探索失败,Exploration failed,Khám phá thất bại

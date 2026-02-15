@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_skillTree.db,SkillTree,471,攻击提升,,Tấn công tăng
+lang_skillTree.db,SkillTree,472,<color=#ffffff>攻击提升1.5%。</color>,,<color=#ffffff>Tấn công tăng 1.5%.</color>
+lang_skillTree.db,SkillTree,473,攻击提升,,Tấn công tăng
+lang_skillTree.db,SkillTree,474,<color=#ffffff>攻击提升1.5%。</color>,,<color=#ffffff>Tấn công tăng 1.5%.</color>
+lang_skillTree.db,SkillTree,475,攻击提升,,Tấn công tăng
+lang_skillTree.db,SkillTree,476,<color=#ffffff>攻击提升1.5%。</color>,,<color=#ffffff>Tấn công tăng 1.5%.</color>
+lang_skillTree.db,SkillCondition,1,激活前置节点解锁,Activate predecessor node to unlock,Kích hoạt nút tiên quyết để mở khóa
+lang_skillTree.db,SkillCondition,2,前置技能达到1级解锁,Reach Level 1 for previous skill to unlock,Mở khóa khi kỹ năng tiên quyết đạt cấp 1
+lang_skillTree.db,SkillCondition,3,前置技能达到2级解锁,Reach Level 2 for previous skill to unlock,Mở khóa khi kỹ năng tiên quyết đạt cấp 2
+lang_skillTree.db,SkillCondition,4,前置技能达到2级解锁,Reach Level 2 for previous skill to unlock,Mở khóa khi kỹ năng tiên quyết đạt cấp 2
 lang_skillTree.db,SkillCondition,5,前置技能达到1级解锁,Reach Level 1 for previous skill to unlock,Mở khóa khi kỹ năng tiên quyết đạt cấp 1
 lang_skillTree.db,SkillCondition,6,前置技能达到2级解锁,Reach Level 2 for previous skill to unlock,Mở khóa khi kỹ năng tiên quyết đạt cấp 2
 lang_skillTree.db,RoleSkillTreeInfo,1,风声羽息,Of Wind and Feathers,Thanh Phong Vũ Tức
@@ -75,19 +85,17 @@ Sound Blade - Sonata: {0} while the effect trigger after Heavy attack/the 3rd no
 Sound Blade - Reverberation"" {0} after hitting with Sonata.","<color=#f4d582>*Trọng Kích - Minh Tấu: Sau đoạn thứ ba Phổ Công hoặc Trọng Kích, đúng thời điểm {0} 
 *Trọng Kích - Dư Âm: Sau khi Trọng Kích - Minh Tấu trúng mục tiêu {0}
 </color>"
-lang_skillTree.db,SkillInput,3,<color=#f4d582></color>,Floating Sound Wave: {0},Floating Sound Wave: {0}
-lang_skillTree.db,SkillInput,4,<color=#f4d582></color>,Extreme Sound: {0} after fully charging,Extreme Sound: {0} after fully charging
-lang_skillTree.db,SkillInput,5,<color=#f4d582></color>,"Tremor: After fully charging Concerto Vibrancy, {0} within limited time.","Tremor: After fully charging Concerto Vibrancy, {0} within limited time."
+lang_skillTree.db,SkillInput,3,<color=#f4d582></color>,Floating Sound Wave: {0},Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,4,<color=#f4d582></color>,Extreme Sound: {0} after fully charging,Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,5,<color=#f4d582></color>,"Tremor: After fully charging Concerto Vibrancy, {0} within limited time.",Don't Bother: Concerto Vibrancy reach {0}
 lang_skillTree.db,SkillInput,6,<color=#f4d582>*咔咔压制：长按{0}，消耗30发【热压弹】时{1}</color>,"Stifle Fire: Hold {0} when have Thermobaric Bullet remain.
 Boom: Tap {1} after consuming 50 Thermobaric Bullets.","<color=#f4d582>*Khắc Khắc Áp Chế: Giữ {0}, khi tiêu hao 30 viên [Nhiệt Áp Đạn] {1}</color>"
 lang_skillTree.db,SkillInput,7,<color=#f4d582></color>,"Take This - Normal Attack: {0}{0}{0}{0}
 Take This - Heavy Attack: Hold {0} then release
-Take This - Midair Attack: Continuously tap {0} in midair","Take This - Normal Attack: {0}{0}{0}{0}
-Take This - Heavy Attack: Hold {0} then release
-Take This - Midair Attack: Continuously tap {0} in midair"
-lang_skillTree.db,SkillInput,8,<color=#f4d582></color>,Fighting Spirit: Tap {0},Fighting Spirit: Tap {0}
-lang_skillTree.db,SkillInput,9,<color=#f4d582></color>,Let It Burn: {0} after fully charged,Let It Burn: {0} after fully charged
-lang_skillTree.db,SkillInput,10,<color=#f4d582></color>,"Hero Landing: After fully charging Concerto Vibrancy, {0} within limited time.","Hero Landing: After fully charging Concerto Vibrancy, {0} within limited time."
+Take This - Midair Attack: Continuously tap {0} in midair",Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,8,<color=#f4d582></color>,Fighting Spirit: Tap {0},Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,9,<color=#f4d582></color>,Let It Burn: {0} after fully charged,Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,10,<color=#f4d582></color>,"Hero Landing: After fully charging Concerto Vibrancy, {0} within limited time.",Don't Bother: Concerto Vibrancy reach {0}
 lang_skillTree.db,SkillInput,11,"<color=#f4d582>*拥有3声【流响】时：
     *重击·风袭：长按{0}
     *空中攻击·释羽：空中状态<color=#ffffff> + </color>{0}</color>","Sound of the Winds - Wind Strike: Hold {0} when having 3 Cleaving Winds.
@@ -99,15 +107,15 @@ lang_skillTree.db,SkillInput,12,"<color=#f4d582>*重击·风吟：重击期间{0
 Wind Blade - Holding {0} and then release.
 Wind Blade - Midair Attack: {0} in midair","<color=#f4d582>*Trọng Kích - Phong Ngâm: Trong lúc Trọng Kích {0}
 </color>"
-lang_skillTree.db,SkillInput,13,<color=#f4d582></color>,Carrying Winds: {0},Carrying Winds: {0}
-lang_skillTree.db,SkillInput,14,<color=#f4d582></color>,New Wind Breeze: {0} after fully charging,New Wind Breeze: {0} after fully charging
-lang_skillTree.db,SkillInput,15,<color=#f4d582></color>,"Azure Hymn: After fully charging Concerto Vibrancy, {0} within limited time.","Azure Hymn: After fully charging Concerto Vibrancy, {0} within limited time."
-lang_skillTree.db,SkillInput,16,<color=#f4d582></color>,Icy Lotus: {0} when having Chilling Veins remain.,Icy Lotus: {0} when having Chilling Veins remain.
+lang_skillTree.db,SkillInput,13,<color=#f4d582></color>,Carrying Winds: {0},Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,14,<color=#f4d582></color>,New Wind Breeze: {0} after fully charging,Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,15,<color=#f4d582></color>,"Azure Hymn: After fully charging Concerto Vibrancy, {0} within limited time.",Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,16,<color=#f4d582></color>,Icy Lotus: {0} when having Chilling Veins remain.,Don't Bother: Concerto Vibrancy reach {0}
 lang_skillTree.db,SkillInput,17,<color=#f4d582>*重击：长按{0}，松开{0}时结束</color>,"Draw the Line - Normal Attack: {0}{0}{0}{0}
 Draw the Line - Holding {0} and then release.
 Draw the Line - Midair Attack: {0} in midair","<color=#f4d582>*Trọng Kích: Giữ {0}, thả {0} để kết thúc</color>"
-lang_skillTree.db,SkillInput,18,<color=#f4d582></color>,Fading Warmth: {0},Fading Warmth: {0}
-lang_skillTree.db,SkillInput,19,<color=#f4d582></color>,Fading Warmth: {0},Fading Warmth: {0}
+lang_skillTree.db,SkillInput,18,<color=#f4d582></color>,Fading Warmth: {0},Don't Bother: Concerto Vibrancy reach {0}
+lang_skillTree.db,SkillInput,19,<color=#f4d582></color>,Fading Warmth: {0},Don't Bother: Concerto Vibrancy reach {0}
 lang_skillTree.db,SkillInput,20,<color=#f4d582></color>,Don't Bother: Concerto Vibrancy reach {0},Don't Bother: Concerto Vibrancy reach {0}
 lang_skillTree.db,SkillInput,21,"<color=#f4d582>*重击·爆裂：长按{0}，指针在【冰痕】区域内松开{0}
 *冰爆：使用重击·爆裂穿过冰棱或冰川
@@ -156,27 +164,3 @@ lang_skillTree.db,SkillInput,53,"<color=#f4d582>*万壑雷：雷芒充满时，�
 </color>"
 lang_skillTree.db,SkillInput,54,<color=#f4d582></color>,Don't Bother: Concerto Vibrancy reach {0},Don't Bother: Concerto Vibrancy reach {0}
 lang_skillTree.db,SkillInput,55,<color=#f4d582></color>,Don't Bother: Concerto Vibrancy reach {0},Don't Bother: Concerto Vibrancy reach {0}
-lang_skillTree.db,SkillInput,56,"<color=#f4d582>*【失序值】达到100时：
-    *白咩·失控之炎：长按{0}
-    *黑咩·暴走之炎：暴走黑咩期间，长按{1}</color>",,"<color=#f4d582>*Khi [Thất Tự Trị] đạt 100:
-    *Bạch Mê - Thất Khống Chi Viêm: Giữ {0}
-    *Hắc Mê - Bạo Tẩu Chi Viêm: Trong thời gian Bạo Tẩu Hắc Mê, giữ {1}</color>"
-lang_skillTree.db,SkillInput,57,"<color=#f4d582>*普攻·咩咩：普攻第四段后，恰当时机{0}
-</color>",,"<color=#f4d582>*Phổ Công - Mê Mê: Sau đoạn thứ tư Phổ Công, đúng thời điểm {0}
-</color>"
-lang_skillTree.db,SkillInput,58,<color=#f4d582>*剪羊毛：施放羊咩剪刀后，恰当时机{0}</color>,,"<color=#f4d582>*Xén Lông Cừu: Sau khi thi triển Dương Mê Tiễn Đao, đúng thời điểm {0}</color>"
-lang_skillTree.db,SkillInput,59,<color=#f4d582></color>,Don't Bother: Concerto Vibrancy reach {0},Don't Bother: Concerto Vibrancy reach {0}
-lang_skillTree.db,SkillInput,60,<color=#f4d582></color>,Don't Bother: Concerto Vibrancy reach {0},Don't Bother: Concerto Vibrancy reach {0}
-lang_skillTree.db,SkillInput,61,<color=#f4d582>*苍躣八荒·后动：【破阵值】大于30时，使用{0}</color>,,"<color=#f4d582>*Thương Cừ Bát Hoang - Hậu Động: Khi [Phá Trận Trị] lớn hơn 30, sử dụng {0}</color>"
-lang_skillTree.db,SkillInput,62,"<color=#f4d582>*重击：长按{0}，在突刺动作期间：
-    *凌空击：按住{0}
-    *潜渊斩：松开{0}
-</color>",,"<color=#f4d582>*Trọng Kích: Giữ {0}, trong lúc thực hiện đòn đột thích:
-    *Lăng Không Kích: Giữ {0}
-    *Tiềm Uyên Trảm: Thả {0}
-</color>"
-lang_skillTree.db,SkillInput,63,<color=#f4d582></color>,Don't Bother: Concerto Vibrancy reach {0},Don't Bother: Concerto Vibrancy reach {0}
-lang_skillTree.db,SkillInput,64,"<color=#f4d582>*苍躣八荒·谋定：【破阵值】小于30时，使用{0}
-</color>",,"<color=#f4d582>*Thương Cừ Bát Hoang - Mưu Định: Khi [Phá Trận Trị] nhỏ hơn 30, sử dụng {0}
-</color>"
-lang_skillTree.db,SkillInput,65,<color=#f4d582></color>,Don't Bother: Concerto Vibrancy reach {0},Don't Bother: Concerto Vibrancy reach {0}

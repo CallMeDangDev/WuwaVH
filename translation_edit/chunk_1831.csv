@@ -1,4 +1,62 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc_1,存在异常，如有疑问请联系官方客服,Resonance Skill Enhancement,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
+·满血时，暴击提升{0}。
+·满血时，施放共鸣技能会扣除自身{1}生命值，在自身自身前后左右各施放1次「蔓生」，造成攻击{2}的衍射伤害，此次伤害为共鸣技能伤害，并且该伤害无视目标{3}防御。","<color=#c49e55>[Resonance Skill]</color>
+- While Verina is at full HP, her Crit. Rate is increased by {0}.
+- While Verina is at full HP, casting Resonance Skill consumes {1} of her max HP and triggers 1 Overgrowth around her, dealing Spectro DMG equal to {2} of her ATK. This DMG is considered Resonance Skill DMG and ignores {3} of the target's DEF.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+- Khi đầy máu, tỷ lệ bạo kích tăng {0}.
+- Khi đầy máu, thi triển Kỹ Năng Cộng Hưởng sẽ trừ {1} sinh mệnh bản thân, đồng thời thi triển 1 lần ""Mạn Sinh"" ở bốn phía trước sau trái phải, gây sát thương Nhiễu Xạ bằng {2} tấn công. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng và bỏ qua {3} phòng thủ mục tiêu."
+lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
+·满血时，暴击提升。
+·满血时，施放共鸣技能会扣除自身一定生命值，在自身自身前后左右各施放1次「蔓生」，造成衍射伤害，并且该伤害无视目标一定防御。","<color=#c49e55>[Resonance Skill]</color>
+- While Verina is at full HP, her Crit. Rate is increased.
+- While Verina is at full HP, casting Resonance Skill consumes a certain amount of her max HP and triggers 1 Overgrowth around her, dealing Spectro DMG that ignores a certain amount of the target's DEF.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+- Khi đầy máu, tỷ lệ bạo kích tăng.
+- Khi đầy máu, thi triển Kỹ Năng Cộng Hưởng sẽ trừ một lượng sinh mệnh nhất định, đồng thời thi triển 1 lần ""Mạn Sinh"" ở bốn phía xung quanh, gây sát thương Nhiễu Xạ và bỏ qua một lượng phòng thủ nhất định của mục tiêu."
+lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc_1,萌芽一瞬,Moment of Emergence,Khoảnh Khắc Nảy Mầm
+lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc,"<color=#c49e55>【普攻】</color>
+·普攻循环只保留第四段和第五段，并且每次命中额外获得1点光合能量。
+·重击命中时会在前方施放1次「盛放花蕾」，造成攻击{0}的衍射伤害，此次伤害为共鸣技能伤害，每{1}秒可触发1次。
+·维里奈衍射伤害加成提升{2}。","<color=#c49e55>[Basic Attack]</color>
+- Basic Attack cycle now starts from Stage 4, and restores 1 additional Photosynthesis Energy on each hit.
+- Upon hitting a target with Heavy Attack, Verina casts 1 Bloombud in front of her, dealing Spectro DMG equal to {0} of her ATK, which is considered Resonance Skill DMG. This effect can be triggered once every {1}s.
+- Verina gains {2} Spectro DMG Bonus.","<color=#c49e55>[Phổ Công]</color>
+- Chuỗi Phổ Công chỉ giữ lại đoạn thứ tư và thứ năm, đồng thời mỗi lần trúng sẽ nhận thêm 1 điểm năng lượng quang hợp.
+- Khi Trọng Kích trúng mục tiêu, thi triển 1 lần ""Thịnh Phóng Hoa Lôi"" phía trước, gây sát thương Nhiễu Xạ bằng {0} tấn công. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng, mỗi {1} giây có thể kích hoạt 1 lần.
+- Verina tăng {2} gia tăng sát thương Nhiễu Xạ."
+lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc_0,"<color=#c49e55>【普攻】</color>
+·普攻循环只保留第四段和第五段，并且每次命中额外获得光合能量。
+·重击命中时会在前方施放「盛放花蕾」造成衍射伤害。
+·维里奈衍射伤害加成提升。","<color=#c49e55>[Basic Attack]</color>
+- Basic Attack cycle now starts from Stage 4, and restores additional Photosynthesis Energy on each hit.
+- Upon hitting a target with Heavy Attack, Verina casts Bloombud in front of her, dealing Spectro DMG.
+- Verina gains Spectro DMG Bonus.","<color=#c49e55>[Phổ Công]</color>
+- Chuỗi Phổ Công chỉ giữ lại đoạn thứ tư và thứ năm, đồng thời mỗi lần trúng sẽ nhận thêm năng lượng quang hợp.
+- Khi Trọng Kích trúng mục tiêu, thi triển ""Thịnh Phóng Hoa Lôi"" phía trước, gây sát thương Nhiễu Xạ.
+- Verina tăng gia tăng sát thương Nhiễu Xạ."
+lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc_1,盛放拥抱,Blossoming Embrace,Vòng Tay Nở Rộ
+lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc,"<color=#c49e55>【共鸣回路】</color>
+·每次消耗光合能量时，共鸣技能的冷却时间减少{0}秒。
+·施放共鸣技能时，会额外造成4次共计攻击{1}的大范围衍射伤害，此次伤害为共鸣技能伤害，并且可以回复{2}点光合能量。
+·维里奈衍射伤害加成提升{3}。","<color=#c49e55>[Forte Circuit]</color>
+- Verina's Resonance Skill Cooldown is reduced by {0}s each time she consumes Photosynthesis Energy.
+- Casting Resonance Skill also deals an additional Spectro DMG equal to {1} of Verina's ATK, striking a large area 4 times, which is considered Resonance Skill DMG, and recovers {2} Photosynthesis Energy.
+- Verina gains {3} Spectro DMG Bonus.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
+- Mỗi lần tiêu hao năng lượng quang hợp, thời gian hồi chiêu Kỹ Năng Cộng Hưởng giảm {0} giây.
+- Khi thi triển Kỹ Năng Cộng Hưởng, gây thêm 4 lần sát thương Nhiễu Xạ diện rộng tổng cộng bằng {1} tấn công. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng và hồi phục {2} điểm năng lượng quang hợp.
+- Verina tăng {3} gia tăng sát thương Nhiễu Xạ."
+lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>
+·每次消耗光合能量时，共鸣技能的冷却时间减少.
+·施放共鸣技能时，会额外造成范围伤害并回复光合能量。
+·维里奈衍射伤害加成提升。","<color=#c49e55>[Forte Circuit]</color>
+- Verina's Resonance Skill Cooldown is reduced each time she consumes Photosynthesis Energy.
+- Casting Resonance Skill also deals an additional DMG over a large area and recovers Photosynthesis Energy.
+- Verina gains Spectro DMG Bonus.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
+- Mỗi lần tiêu hao năng lượng quang hợp, thời gian hồi chiêu Kỹ Năng Cộng Hưởng giảm.
+- Khi thi triển Kỹ Năng Cộng Hưởng, gây thêm sát thương diện rộng và hồi phục năng lượng quang hợp.
+- Verina tăng gia tăng sát thương Nhiễu Xạ."
+lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc_1,晒足太阳,Bask in the Sunlight!,Tắm Đủ Ánh Nắng
 lang_multi_text.db,MultiText,RogueBuffPool_150304_BuffDesc,"<color=#c49e55>【共鸣回路】</color>
 ·普攻、共鸣技能命中目标时，会给目标附加「光合标记」，持续{0}秒。
 ·维里奈衍射伤害加成提升{1}。","<color=#c49e55>[Forte Circuit]</color>
@@ -502,29 +560,3 @@ lang_multi_text.db,MultiText,RogueBuffPool_1507666401_BuffDesc_2_8_0,"<color=Hig
 Khi đòn cuối Trọng Chém - Tận Dạ gây sát thương, có tỷ lệ thay thế Phổ Công tiếp theo bằng Trọng Chém - Tận Dạ."
 lang_multi_text.db,MultiText,RogueBuffPool_1507666500_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>重斩·终夜最后一击造成伤害时降低目标<color=Highlight>{0}</color>衍射抗性，持续<color=Highlight>{1}</color>秒。,"<color=Highlight>[Forte Circuit]</color>
 Dealing damage with the last hit of Heavy Slash - Nightfall reduces the target's Spectro RES by <color=Highlight>{0}</color> for <color=Highlight>{1}s</color>.","<color=Highlight>[Cộng Hưởng Liên]</color>Khi đòn cuối Trọng Chém - Tận Dạ gây sát thương, giảm <color=Highlight>{0}</color> kháng Nhiễu Xạ của mục tiêu, duy trì <color=Highlight>{1}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_1507666500_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>重斩·终夜最后一击造成伤害时降低目标衍射抗性。,"<color=Highlight>[Forte Circuit]</color>
-Dealing damage with the last hit of Heavy Slash - Nightfall reduces the target's Spectro RES.","<color=Highlight>[Cộng Hưởng Liên]</color>Khi đòn cuối Trọng Chém - Tận Dạ gây sát thương, giảm kháng Nhiễu Xạ của mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_150801_BuffDesc,<color=Highlight>【共鸣回路】</color>每命中敌人<color=Highlight>{0}</color>次，触发「崩落命弦」：造成攻击<color=Highlight>{1}</color>的湮灭伤害，此次伤害为共鸣解放伤害，并附加虚湮效应。每秒可生效<color=Highlight>{2}</color>次。,"<color=Highlight>[Forte Circuit]</color>
-Whenever Chisa deals damage <color=Highlight>{0}</color> times, Shredded Fate is triggered, dealing Havoc DMG equal to <color=Highlight>{1}</color> of Chisa's ATK (considered Resonance Liberation DMG) and inflicting Havoc Bane. This effect can be triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per second.","<color=Highlight>[Cộng Hưởng Liên]</color>Mỗi khi trúng địch <color=Highlight>{0}</color> lần, kích hoạt ""Băng Lạc Mệnh Huyền"": gây sát thương Hủy Diệt bằng <color=Highlight>{1}</color> tấn công, sát thương này được tính là sát thương Giải Phóng Cộng Hưởng, đồng thời áp dụng hiệu ứng Hư Diệt. Mỗi giây kích hoạt tối đa <color=Highlight>{2}</color> lần."
-lang_multi_text.db,MultiText,RogueBuffPool_150801_BuffDesc_0,<color=Highlight>【共鸣回路】</color>每命中敌人<color=Highlight>{0}</color>次，触发「崩落命弦」：造成湮灭伤害，并附加虚湮效应。,"<color=Highlight>[Forte Circuit]</color>
-Whenever Chisa deals damage <color=Highlight>{0}</color> times, Shredded Fate is triggered, dealing Havoc DMG and inflicting Havoc Bane.","<color=Highlight>[Cộng Hưởng Liên]</color>Mỗi khi trúng địch <color=Highlight>{0}</color> lần, kích hoạt ""Băng Lạc Mệnh Huyền"": gây sát thương Hủy Diệt và áp dụng hiệu ứng Hư Diệt."
-lang_multi_text.db,MultiText,RogueBuffPool_150801_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>每命中敌人<color=Highlight>{0}</color>次，触发「崩落命弦」：造成攻击<color=Highlight>{1}</color>的湮灭伤害，此次伤害为共鸣解放伤害，并附加虚湮效应。每秒可生效<color=Highlight>{2}</color>次。,"<color=Highlight>[Forte Circuit]</color>
-Whenever Chisa deals damage <color=Highlight>{0}</color> times, Shredded Fate is triggered, dealing Havoc DMG equal to <color=Highlight>{1}</color> of Chisa's ATK (considered Resonance Liberation DMG) and inflicting Havoc Bane. This effect can be triggered <color=Highlight><SapTag=2>{2}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} per second.","<color=Highlight>[Cộng Hưởng Liên]</color>Mỗi khi trúng địch <color=Highlight>{0}</color> lần, kích hoạt ""Băng Lạc Mệnh Huyền"": gây sát thương Hủy Diệt bằng <color=Highlight>{1}</color> tấn công, sát thương này được tính là sát thương Giải Phóng Cộng Hưởng, đồng thời áp dụng hiệu ứng Hư Diệt. Mỗi giây kích hoạt tối đa <color=Highlight>{2}</color> lần."
-lang_multi_text.db,MultiText,RogueBuffPool_150801_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>每命中敌人<color=Highlight>{0}</color>次，触发「崩落命弦」：造成湮灭伤害，并附加虚湮效应。,"<color=Highlight>[Forte Circuit]</color>
-Whenever Chisa deals damage <color=Highlight>{0}</color> times, Shredded Fate is triggered, dealing Havoc DMG and inflicting Havoc Bane.","<color=Highlight>[Cộng Hưởng Liên]</color>Mỗi khi trúng địch <color=Highlight>{0}</color> lần, kích hoạt ""Băng Lạc Mệnh Huyền"": gây sát thương Hủy Diệt và áp dụng hiệu ứng Hư Diệt."
-lang_multi_text.db,MultiText,RogueBuffPool_150802_BuffDesc,<color=#c49e55>【共鸣回路】</color>电锯模式下，施放「锯环·终结」后，短按普攻可继续施放「锯环·断裁」：造成攻击<color=Highlight>{0}</color>的湮灭伤害，该伤害为共鸣解放伤害，回复<color=Highlight>{1}</color>点共鸣能量。,"<color=#c49e55>[Forte Circuit]</color>
-When in Chainsaw Mode and after casting Sawring - Eradication, use Basic Attack to cast Sawring - Retribution, dealing Havoc DMG equal to <color=Highlight>{0}</color> of Chisa's ATK (considered Resonance Liberation DMG) and restoring <color=Highlight>{1}</color> points of Resonance Energy.","<color=#c49e55>[Cộng Hưởng Liên]</color>Trong chế độ Cưa Điện, sau khi thi triển ""Cưa Hoàn - Kết Liễu"", nhấn nhanh Phổ Công để tiếp tục thi triển ""Cưa Hoàn - Đoạn Tài"": gây sát thương Hủy Diệt bằng <color=Highlight>{0}</color> tấn công, sát thương này được tính là sát thương Giải Phóng Cộng Hưởng, hồi phục <color=Highlight>{1}</color> điểm năng lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_150802_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>电锯模式下，施放「锯环·终结」后，短按普攻可继续施放「锯环·断裁」。,"<color=#c49e55>[Forte Circuit]</color>
-When in Chainsaw Mode and after casting Sawring - Eradication, use Basic Attack to cast Sawring - Retribution.","<color=#c49e55>[Cộng Hưởng Liên]</color>Trong chế độ Cưa Điện, sau khi thi triển ""Cưa Hoàn - Kết Liễu"", nhấn nhanh Phổ Công để tiếp tục thi triển ""Cưa Hoàn - Đoạn Tài""."
-lang_multi_text.db,MultiText,RogueBuffPool_150802_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>电锯模式下，施放「锯环·终结」后，短按普攻可继续施放「锯环·断裁」：造成攻击<color=Highlight>{0}</color>的湮灭伤害，该伤害为共鸣解放伤害，回复<color=Highlight>{1}</color>点共鸣能量。,"<color=Highlight>[Forte Circuit]</color>
-When in Chainsaw Mode and after casting Sawring - Eradication, use Basic Attack to cast Sawring - Retribution, dealing Havoc DMG equal to <color=Highlight>{0}</color> of Chisa's ATK (considered Resonance Liberation DMG) and restoring <color=Highlight>{1}</color> points of Resonance Energy.","<color=Highlight>[Cộng Hưởng Liên]</color>Trong chế độ Cưa Điện, sau khi thi triển ""Cưa Hoàn - Kết Liễu"", nhấn nhanh Phổ Công để tiếp tục thi triển ""Cưa Hoàn - Đoạn Tài"": gây sát thương Hủy Diệt bằng <color=Highlight>{0}</color> tấn công, sát thương này được tính là sát thương Giải Phóng Cộng Hưởng, hồi phục <color=Highlight>{1}</color> điểm năng lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_150802_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>电锯模式下，施放「锯环·终结」后，短按普攻可继续施放「锯环·断裁」。,"<color=Highlight>[Forte Circuit]</color>
-When in Chainsaw Mode and after casting Sawring - Eradication, use Basic Attack to cast Sawring - Retribution.","<color=Highlight>[Cộng Hưởng Liên]</color>Trong chế độ Cưa Điện, sau khi thi triển ""Cưa Hoàn - Kết Liễu"", nhấn nhanh Phổ Công để tiếp tục thi triển ""Cưa Hoàn - Đoạn Tài""."
-lang_multi_text.db,MultiText,RogueBuffPool_150803_BuffDesc,"<color=Highlight>【共鸣技能】</color>「共鸣技能·解弦之眼」冷却时间减少<color=Highlight>{0}</color>秒。
-施放「共鸣技能·解弦之眼」时，回复<color=Highlight>{1}</color>点共鸣能量，获得<color=Highlight>{4}</color>点「锯环残响」。
-施放「共鸣技能·齿轨轮回」时，湮灭伤害加成提升<color=Highlight>{2}</color>，持续<color=Highlight>{3}</color>秒。","<color=Highlight>[Forte Circuit]</color>
-- Cooldown of Resonance Skill - Eye of Unraveling is reduced by <color=Highlight>{0}</color>s.
-- Casting Resonance Skill - Eye of Unraveling restores <color=Highlight>{1}</color> points of Resonance Energy and generates <color=Highlight><SapTag=4>{4}</SapTag></color> {Cus:Sap,S=point P=points SapTag=4} of Ring of Chainsaw.
-- Casting Resonance Skill - Serrated Loop grants <color=Highlight>{2}</color> Havoc DMG Bonus for <color=Highlight>{3}s</color>.","<color=Highlight>[Kỹ Năng Cộng Hưởng]</color> ""Kỹ Năng Cộng Hưởng - Giải Huyền Chi Nhãn"" giảm thời gian hồi chiêu <color=Highlight>{0}</color> giây.
-Khi thi triển ""Kỹ Năng Cộng Hưởng - Giải Huyền Chi Nhãn"", hồi phục <color=Highlight>{1}</color> điểm Năng Lượng Cộng Hưởng, nhận được <color=Highlight>{4}</color> điểm ""Cứ Hoàn Tàn Hưởng"".
-Khi thi triển ""Kỹ Năng Cộng Hưởng - Xỉ Quỹ Luân Hồi"", tăng thêm sát thương Giải Ly <color=Highlight>{2}</color>, duy trì <color=Highlight>{3}</color> giây."

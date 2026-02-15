@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,MenuConfig_20027_Desc,使用光线追踪为游戏中需要反射的材质提供高质量反射,Enable Ray Tracing to render more accurate reflections of objects on reflective surfaces in the game.,Sử dụng dò tia để cung cấp phản chiếu chất lượng cao cho các chất liệu cần phản chiếu trong game.
+lang_multi_text.db,MultiText,MenuConfig_20027_Name,光追反射,Ray-Traced Reflections,Phản chiếu dò tia
+lang_multi_text.db,MultiText,MenuConfig_20028_Desc,使用光线追踪计算游戏中的间接光照，较高的设置需要更高的图形处理性能和显存,Enable Ray Tracing to calculate indirect lighting for more realistic lighting in the game. Higher settings will result in higher performance costs.,Sử dụng dò tia để tính toán ánh sáng gián tiếp trong game. Cài đặt càng cao thì yêu cầu hiệu năng xử lý đồ họa và bộ nhớ video càng lớn.
+lang_multi_text.db,MultiText,MenuConfig_20028_Name,光追全局光照,Ray-Traced Global Illumination,Chiếu sáng toàn cục dò tia
+lang_multi_text.db,MultiText,MenuConfig_20029_Desc,使用光线追踪提升游戏中阴影的质量,Enable Ray Tracing to improve the quality of shadows in the game.,Sử dụng dò tia để nâng cao chất lượng bóng đổ trong game.
+lang_multi_text.db,MultiText,MenuConfig_20029_Name,光追阴影,Ray-Traced Shadows,Đổ bóng Ray Tracing
+lang_multi_text.db,MultiText,MenuConfig_20030_Name,联机队友特效,Co-op Teammate VFX,Hiệu ứng đồng đội Liên cơ
+lang_multi_text.db,MultiText,MenuConfig_20030_OptionsName_0,完全屏蔽,Off,Tắt hoàn toàn
+lang_multi_text.db,MultiText,MenuConfig_20030_OptionsName_1,部分屏蔽,Partially Off,Tắt một phần
+lang_multi_text.db,MultiText,MenuConfig_20030_OptionsName_2,完全展示,On,Hiển thị đầy đủ
 lang_multi_text.db,MultiText,MenuConfig_20031_Name,受伤表现,Wounded Effect,Hiệu ứng bị thương
 lang_multi_text.db,MultiText,MenuConfig_20032_Name,插帧,Frame Generation,Nội suy khung hình
 lang_multi_text.db,MultiText,MenuConfig_20033_Desc,开启后，环境元素会对玩家攻击、技能等行为产生反馈。具体效果将根据画质设置自动调整。,"Once enabled, the environment objects have physics-based responses to the player's behaviors, such as attacks and skills. The effect will be adjusted automatically to the graphic settings.","Sau khi bật, các yếu tố môi trường sẽ phản hồi lại hành vi tấn công, kỹ năng... của người chơi. Hiệu ứng cụ thể sẽ được tự động điều chỉnh theo cài đặt chất lượng hình ảnh."
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,MenuConfig_302_SubName,载具,Mounted,Phương ti�
 lang_multi_text.db,MultiText,MenuConfig_30_KeyMap,M,M,M
 lang_multi_text.db,MultiText,MenuConfig_30_Name,地图,Map,Bản đồ
 lang_multi_text.db,MultiText,MenuConfig_30_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_31_KeyMap,J,J,J
-lang_multi_text.db,MultiText,MenuConfig_31_Name,任务,Quests,Nhiệm vụ
-lang_multi_text.db,MultiText,MenuConfig_31_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_32_KeyMap,Esc,Esc,Esc
-lang_multi_text.db,MultiText,MenuConfig_32_Name,功能菜单,Menu,Menu chức năng
-lang_multi_text.db,MultiText,MenuConfig_32_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_33_KeyMap,L,L,L
-lang_multi_text.db,MultiText,MenuConfig_33_Name,编辑队伍,Team Setup,Chỉnh sửa đội hình
-lang_multi_text.db,MultiText,MenuConfig_33_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_34_KeyMap,B,B,B

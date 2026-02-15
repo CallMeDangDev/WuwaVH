@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_700138_Text,不是物资箱,Not Supplies,Không phải hòm vật tư
+lang_multi_text.db,MultiText,ErrorCode_700139_Text,物资箱数据没有初始化,Supply data not initialized,Dữ liệu hòm vật tư chưa được khởi tạo
+lang_multi_text.db,MultiText,ErrorCode_700140_Text,物资箱没有配置,Supplies not configured,Hòm vật tư chưa được cấu hình
+lang_multi_text.db,MultiText,ErrorCode_700141_Text,物资箱已领取,Supplies claimed,Hòm vật tư đã được nhận
+lang_multi_text.db,MultiText,ErrorCode_700142_Text,物资箱不可交互,Supply is not interactive,Hòm vật tư không thể tương tác
+lang_multi_text.db,MultiText,ErrorCode_700143_Text,物资箱掉落id不存在,Supply drop id does not exist,ID rơi đồ hòm vật tư không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_700144_Text,物资箱掉落失败,Supplies failed to drop,Rơi đồ hòm vật tư thất bại
+lang_multi_text.db,MultiText,ErrorCode_700145_Text,物资箱实体不存在,Supply entity does not exist,Thực thể hòm vật tư không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_700146_Text,无效物资箱标签,Invalid Supply tag,Nhãn hòm vật tư không hợp lệ
+lang_multi_text.db,MultiText,ErrorCode_700147_Text,物资箱实体已有该标签,Supplies already have this tag,Thực thể hòm vật tư đã có nhãn này
 lang_multi_text.db,MultiText,ErrorCode_700148_Text,物资箱实体没有该标签,Missing Supply tags,Thực thể hòm vật tư không có nhãn này
 lang_multi_text.db,MultiText,ErrorCode_700149_Text,潜行未开启,Stealth disabled,Lén lút chưa được kích hoạt
 lang_multi_text.db,MultiText,ErrorCode_700150_Text,潜行重复完成,Stealth reset complete,Lén lút đã hoàn thành lặp lại
@@ -88,14 +98,4 @@ lang_multi_text.db,MultiText,ErrorCode_700233_Text,行为实体没有交互组�
 lang_multi_text.db,MultiText,ErrorCode_700234_Text,行为Id不存在,Behavior ID does not exist,ID hành vi không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_700235_Text,行为黑板不存在,Behavior blackboard does not exist,Bảng đen hành vi không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_700236_Text,行为树节点不存在,Behavior tree nodes do not exist,Nút cây hành vi không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_700237_Text,不是子任务节点,Incorrect subtask node,Không phải nút nhiệm vụ con
-lang_multi_text.db,MultiText,ErrorCode_700238_Text,行为参数转换错误,Error behavior parameter conversion,Lỗi chuyển đổi tham số hành vi
-lang_multi_text.db,MultiText,ErrorCode_700239_Text,行为上下文不是实体,Behavior context is not an entity,Ngữ cảnh hành vi không phải thực thể
-lang_multi_text.db,MultiText,ErrorCode_700240_Text,找不到行为执行者,Behavior performer not found,Không tìm thấy đối tượng thực thi hành vi
-lang_multi_text.db,MultiText,ErrorCode_700241_Text,找不到行为会话,Behavior dialog not found,Không tìm thấy phiên hành vi
-lang_multi_text.db,MultiText,ErrorCode_700242_Text,创建行为会话Id失败,Failed to create behavior dialog ID,Tạo ID phiên hành vi thất bại
-lang_multi_text.db,MultiText,ErrorCode_700243_Text,行为路径转换失败,Failed to converge behavior path,Chuyển đổi đường dẫn hành vi thất bại
-lang_multi_text.db,MultiText,ErrorCode_700244_Text,找不到行为配置,Behavior configuration not found,Không tìm thấy cấu hình hành vi
-lang_multi_text.db,MultiText,ErrorCode_700245_Text,找不到行为处理函数,Behavior processing function not found,Không tìm thấy hàm xử lý hành vi
-lang_multi_text.db,MultiText,ErrorCode_700246_Text,行为内部错误,Internal behavior error,Lỗi nội bộ hành vi
-lang_multi_text.db,MultiText,ErrorCode_700247_Text,非法行为下标,Restricted behavior subscript,Chỉ mục hành vi không hợp lệ
+lang_multi_text.db,MultiText,ErrorCode_700237_Text,不是子任务节点,Incorrect subtask node,Không phải nút nhiệm vụ phụ

@@ -1,4 +1,54 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Term850023_Desc,持续为处于<color=Highlight>星域</color>生效范围内的附近队伍中登场角色回复生命值，每3秒可触发1次。,Generate a <color=Highlight>Stellarealm</color> to restore HP for all party members within its effective range continuously. This effect can be triggered once every 3s.,"Liên tục hồi phục sinh mệnh cho nhân vật đang ra sân trong đội ở phạm vi hiệu lực của <color=Highlight>Tinh Vực</color>, mỗi 3 giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Term850023_Title,星域,Stellarealm,Tinh Vực
+lang_multi_text.db,MultiText,Term850024_Desc,持续为处于<color=Highlight>星域</color>生效范围内的附近队伍中登场角色回复生命值，每3秒可触发1次。,Generate a <color=Highlight>Stellarealm</color> to restore HP for all party members within its effective range continuously. This effect can be triggered once every 3s.,"Liên tục hồi phục sinh mệnh cho nhân vật đang ra sân trong đội ở phạm vi hiệu lực của <color=Highlight>Tinh Vực</color>, mỗi 3 giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Term850024_Title,浅析星域,Outer Stellarealm,Thiển Tích Tinh Vực
+lang_multi_text.db,MultiText,Term850025_Desc,"在<color=Highlight>洞见</color>状态下：
+·获得3个幻方，施放共鸣技能<color=Highlight>万方法则</color>时消耗1个幻方，消耗完所有幻方时结束<color=Highlight>洞见</color>状态；
+·<color=Highlight>普攻</color>和<color=Highlight>重击</color>替换为普攻<color=Highlight>枢机·勘破</color>，进行最多3段连续攻击，造成<color=Thunder>导电伤害</color>；
+·共鸣技能<color=Highlight>基本推衍</color>替换为共鸣技能<color=Highlight>一相万殊</color>，造成<color=Thunder>导电伤害</color>；
+·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>知无定形</color>，此次伤害为共鸣解放伤害。","When in the <color=Highlight>Intuition</color> state:
+- Gain 3 Hypercubes. Each time Resonance Skill <color=Highlight>Law of Reigns</color> is cast, consume 1 Hypercube. <color=Highlight>Intuition</color> ends once all Hypercubes are consumed.
+- <color=Highlight>Basic Attack</color> and <color=Highlight>Heavy Attack</color> are replaced with Basic Attack <color=Highlight>Pivot - Impale</color>, dealing <color=Thunder>Electro DMG</color>.
+- Resonance Skill <color=Highlight>Deduction</color> becomes Resonance Skill <color=Highlight>Divergence</color>, dealing <color=Thunder>Electro DMG</color>.
+- <color=Highlight>Dodge Counter</color> becomes Dodge Counter <color=Highlight>Unfathomed</color>, dealing Resonance Liberation DMG.","Trong trạng thái <color=Highlight>Động Kiến</color>:
+- Nhận 3 Ảo Phương. Mỗi lần thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Vạn Phương Pháp Tắc</color>, tiêu hao 1 Ảo Phương. Trạng thái <color=Highlight>Động Kiến</color> kết thúc khi tiêu hao hết tất cả Ảo Phương.
+- <color=Highlight>Phổ Công</color> và <color=Highlight>Trọng Kích</color> được thay thế bằng Phổ Công <color=Highlight>Xu Cơ - Khám Phá</color>, thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Thunder>sát thương Dẫn Điện</color>.
+- Kỹ Năng Cộng Hưởng <color=Highlight>Cơ Bản Suy Diễn</color> được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Nhất Tướng Vạn Thù</color>, gây <color=Thunder>sát thương Dẫn Điện</color>.
+- <color=Highlight>Phản Kích Né Tránh</color> được thay thế bằng Phản Kích Né Tránh <color=Highlight>Tri Vô Định Hình</color>, sát thương lần này được tính là sát thương Giải Phóng Cộng Hưởng."
+lang_multi_text.db,MultiText,Term850025_Title,洞见,Intuition,Động Kiến
+lang_multi_text.db,MultiText,Term850026_Desc,"<size=40><color=Title>共鸣技能·神来之笔</color></size>
+ 折枝附近存在<color=Highlight>鹤影</color>时，共鸣技能替换为<color=Highlight>神来之笔</color>。施放时：
+ ·移动到<color=Highlight>鹤影</color>的位置并将它清除，然后召唤白鹤攻击目标，造成<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害。若移动到处于空中的<color=Highlight>鹤影</color>，可重置空中闪避次数。
+ ·获得1层【极意】，持续8秒，可叠加2层。
+ ·可在空中施放。
+ <size=10> </size>
+ <size=40><color=Title>共鸣技能·极意·神来之笔</color></size>
+ 折枝附近存在<color=Highlight>鹤影</color>，且【极意】层数为2时，<color=Highlight>神来之笔</color>替换为<color=Highlight>极意·神来之笔</color>。施放时：
+ ·移除全部【极意】。
+ ·移动到<color=Highlight>鹤影</color>的位置并将它清除，然后召唤白鹤攻击目标，造成更高的<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害，并且让折枝的普攻伤害加成提升18%，持续27秒。若移动到处于空中的<color=Highlight>鹤影</color>，可重置空中闪避次数。
+ ·可在空中施放。","<size=40><color=Title>Resonance Skill - Stroke of Genius</color></size>
+When a <color=Highlight>Phatasmic Imprint</color> is nearby, Zhezhi's Resonance Skill is replaced with <color=Highlight>Stroke of Genius</color>, which can be cast while in mid-air. When it is cast, Zhezhi will:
+- Move to the location of the <color=Highlight>Phatasmic Imprint</color>, remove it, and then summon an Ivory Herald to attack the target, dealing <color=Ice>Glacio DMG</color>, considered as Basic Attack DMG. Refresh the mid-air Dodge attempts if the target <color=Highlight>Phatasmic Imprint</color> is in mid-air.
+- Gain 1 stack of Painter's Delight, lasting for 8s and stacking up to 2 times.
+<size=10></size>
+<size=40><color=Title>Resonance Skill - Creation's Zenith</color></size>
+When a <color=Highlight>Phantasmic Imprint</color> is nearby and there are 2 stacks of Painter's Delight, <color=Highlight>Stroke of Genius</color> is replaced with <color=Highlight>Creation's Zenith</color>, which can be cast while in mid-air. When it is cast, Zhezhi will:
+- Lose all stacks of Painter's Delight
+- Move to the location of the <color=Highlight>Phantasmic Imprint</color>, remove it, and then summon an Ivory Herald to attack the target, dealing greater <color=Ice>Glacio DMG</color>, considered as Basic Attack DMG, additionally increasing the Basic Attack DMG Bonus by 18% for 27s. Refresh the mid-air Dodge attempts if the target <color=Highlight>Phatasmic Imprint</color> is in mid-air.","<size=40><color=Title>Kỹ Năng Cộng Hưởng - Thần Lai Chi Bút</color></size>
+Khi gần Zhezhi tồn tại <color=Highlight>Hạc Ảnh</color>, Kỹ Năng Cộng Hưởng được thay thế bằng <color=Highlight>Thần Lai Chi Bút</color>. Khi thi triển:
+- Di chuyển đến vị trí <color=Highlight>Hạc Ảnh</color> và xóa bỏ nó, sau đó triệu hồi bạch hạc tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>, sát thương lần này được tính là sát thương Phổ Công. Nếu di chuyển đến <color=Highlight>Hạc Ảnh</color> đang ở trên không, có thể đặt lại số lần Né Tránh trên không.
+- Nhận 1 tầng [Cực Ý], duy trì 8 giây, cộng dồn tối đa 2 tầng.
+- Có thể thi triển trên không.
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Cực Ý - Thần Lai Chi Bút</color></size>
+Khi gần Zhezhi tồn tại <color=Highlight>Hạc Ảnh</color>, và số tầng [Cực Ý] đạt 2, <color=Highlight>Thần Lai Chi Bút</color> được thay thế bằng <color=Highlight>Cực Ý - Thần Lai Chi Bút</color>. Khi thi triển:
+- Xóa bỏ toàn bộ [Cực Ý].
+- Di chuyển đến vị trí <color=Highlight>Hạc Ảnh</color> và xóa bỏ nó, sau đó triệu hồi bạch hạc tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color> cao hơn, sát thương lần này được tính là sát thương Phổ Công, đồng thời tăng bonus sát thương Phổ Công của Zhezhi thêm 18%, duy trì 27 giây. Nếu di chuyển đến <color=Highlight>Hạc Ảnh</color> đang ở trên không, có thể đặt lại số lần Né Tránh trên không.
+- Có thể thi triển trên không."
+lang_multi_text.db,MultiText,Term850026_Title,鹤影,Phatasmic Imprint,Hạc Ảnh
+lang_multi_text.db,MultiText,Term850027_Desc,当共鸣能量达到峰值时，可施放<color=Highlight>共鸣解放</color>。,"When Resonance Energy is full, the powerful <color=Highlight>Resonance Liberation</color> becomes available.","Khi Năng Lượng Cộng Hưởng đạt đỉnh, có thể thi triển <color=Highlight>Giải Phóng Cộng Hưởng</color>."
+lang_multi_text.db,MultiText,Term850027_Title,共鸣能量,Resonance Energy,Năng Lượng Cộng Hưởng
 lang_multi_text.db,MultiText,Term850028_Desc,"【灵韵】上限为90点。
 常态攻击造成伤害可回复【灵韵】。
 施放变奏技能可回复【灵韵】。","Zhezhi can hold up to 90 Afflatus.
@@ -299,22 +349,3 @@ In Tacet Fields, the mark becomes the focal point where chaotic energy coalesces
 Đối với Cộng Hưởng Giả, Thanh Ngân trên cơ thể là kênh dẫn dị năng bùng phát, tượng trưng cho sự tái sinh sau cộng hưởng.
 Đối với Vùng Vô Thanh, năng lượng cuồn cuộn bất ổn hóa thành huyền tuyến trắng, vô số Tàn Tượng từ đó sinh ra."
 lang_multi_text.db,MultiText,Term850072_Title,声痕,Tacet Mark,Thanh Ngân
-lang_multi_text.db,MultiText,Term850073_Desc,"过度使用自身的力量、或是为执念所困，都会导致共鸣者的精神与异能超负荷，继而引发超频。
-超频状态能够得到抑制，但尚无治愈的方法。","Overuse of power or obsession can overload a Resonator's mind and Forte, leading to Overclocking.
-While Overclocking can be controlled, there is currently no known permanent cure.","Lạm dụng sức mạnh bản thân hoặc bị chấp niệm trói buộc đều có thể khiến tinh thần và dị năng Cộng Hưởng Giả quá tải, từ đó dẫn đến Vượt Tần.
-Trạng thái Vượt Tần có thể được kiềm chế, nhưng hiện vẫn chưa có phương pháp chữa trị."
-lang_multi_text.db,MultiText,Term850073_Title,超频,Overclocking,Vượt Tần
-lang_multi_text.db,MultiText,Term850074_Desc,"为了摧毁文明发展中人类引以为傲的精神，以人类崩塌的意志为自身的“食粮”，伴随着「悲鸣」诞生的可怖残象。
-如果说文明是人类集体意志的凝聚，那么「鸣式」便会折射集体意志的隐忧与心魔，具现为盘踞于世界各处的毁灭性的残象灾害。","Threnodians are formidable creatures born from the Laments, with the power to destroy human spirit and feed off of their collapsed will. If civilizations represent mankind's collective will, the Threnodians embody our fears and struggles. They manifest as destructive Tacet Discord disasters spreading across the planet.","Nhằm phá hủy tinh thần mà nhân loại tự hào trong quá trình phát triển văn minh, lấy ý chí sụp đổ của con người làm ""lương thực"" cho bản thân, đây là loại Tàn Tượng đáng sợ sinh ra cùng với ""Bi Minh"".
-Nếu văn minh là sự ngưng kết ý chí tập thể của nhân loại, thì ""Minh Thức"" sẽ khúc xạ những nỗi lo ẩn giấu và tâm ma trong ý chí tập thể ấy, hiện hình thành những thảm họa Tàn Tượng mang tính hủy diệt trấn giữ khắp nơi trên thế giới."
-lang_multi_text.db,MultiText,Term850074_Title,鸣式,Threnodian,Minh Thức
-lang_multi_text.db,MultiText,Term850075_Desc,"「悲鸣」是索拉里斯一切灾变态势的统称。
-人们牢记一切产生变化的时间，那是从第一声悲鸣开始，而「悲鸣」从未结束。
-浪潮不止，悲鸣永不停歇。","The term ""Lament"" refers to the ongoing catastrophic events on Solaris-3. Since the onset of the first Lament, the cycle of destruction has persisted relentlessly. The tide of devastation remains ceaseless, with no signs of stopping.","""Bi Minh"" là tên gọi chung cho mọi thảm họa trên Solaris-3.
-Con người ghi nhớ rõ thời điểm mọi thứ bắt đầu thay đổi - đó là khi tiếng Bi Minh đầu tiên vang lên, và ""Bi Minh"" chưa bao giờ kết thúc.
-Sóng triều không ngừng, Bi Minh mãi không dứt."
-lang_multi_text.db,MultiText,Term850075_Title,悲鸣,Lament,Bi Minh
-lang_multi_text.db,MultiText,Term850076_Desc,一种纯净、完整的频率能量形态，其记录的信息能够超越时空以某种形式稳定存在。,"A form of pure energy with complete frequencies. The information it carries transcends time and space, enduring in a stable, unchanging state.","Một dạng năng lượng tần số thuần khiết, hoàn chỉnh. Thông tin mà nó ghi lại có thể vượt qua thời không, tồn tại ổn định dưới một hình thức nhất định."
-lang_multi_text.db,MultiText,Term850076_Title,回音,Remnant Energy,Hồi Âm
-lang_multi_text.db,MultiText,Term850077_Desc,「回音」富集形成的超自然空间区域，学界称之为「索诺拉」。,Transdimensional spaces where Remnant Energy is abundant are known as the Sonoro Spheres.,"Vùng không gian siêu nhiên hình thành từ sự tập trung của ""Hồi Âm"", giới học thuật gọi đó là ""Sonoro""."
-lang_multi_text.db,MultiText,Term850077_Title,索诺拉,Sonoro Sphere,Sonoro

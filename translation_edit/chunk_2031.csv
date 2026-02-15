@@ -1,4 +1,137 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Skill_1002909_SkillDescribe,下一位登场角色热熔伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,Amplify the incoming Resonator's Fusion DMG by {0} and Resonance Skill DMG by {1} for {2}s or until the Resonator is switched out.,"Nhân vật đăng trường tiếp theo được tăng sâu Sát Thương Nhiệt Dung {0}, tăng sâu Sát Thương Kỹ Năng Cộng Hưởng {1}, hiệu ứng kéo dài {2} giây. Chuyển sang nhân vật khác sẽ kết thúc hiệu ứng sớm."
+lang_multi_text.db,MultiText,Skill_1002909_SkillName,航向确定！,The Course is Set!,Xác Định Hành Trình!
+lang_multi_text.db,MultiText,Skill_1002909_SkillResume,下一位登场角色热熔伤害加深{0}，共鸣技能伤害加深{1}，若切换至其他角色则该效果提前结束。,Amplify the incoming Resonator's Fusion DMG by {0} and Resonance Skill DMG by {1}. Switching Resonators ends this effect.,"Nhân vật đăng trường tiếp theo được tăng sâu Sát Thương Nhiệt Dung {0}, tăng sâu Sát Thương Kỹ Năng Cộng Hưởng {1}. Chuyển sang nhân vật khác sẽ kết thúc hiệu ứng sớm."
+lang_multi_text.db,MultiText,Skill_1003001_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+释放圣辉，进行最多3段的连续攻击，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，乘着手杖向下俯冲，滑翔并进行攻击，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中重击</color></size>
+消耗耐力，乘着手杖往前滑翔一段距离。
+·空中闪避或使用钩索后可以重新施放。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>时，一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。
+·菲比处于【<te href=850007>镜之环</te>】内时，替换为<color=Highlight>夏弥尔之星·闪避反击</color>。","<size=40><color=Title>Basic Attack</color></size>
+Perform up to 3 consecutive attacks of Holy Light, dealing <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Heavy Attack</color></size>
+Consume STA to attack the target, dealing <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to ride the staff and dive down from mid-air to attack the target, dealing <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Heavy Attack</color></size>
+Consume STA to ride on the staff for a distance.
+- Can be re-cast after a Mid-Air Dodge or using Grapple.
+<size=10> </size>
+<size=40><color=Title>Dodge Counter</color></size>
+After a successful <color=Highlight>Dodge</color>, quickly use <color=Highlight>Basic Attack</color> to attack the target, dealing <color=Light>Spectro DMG</color>.
+- When Phoebe is inside the <te href=850007>Ring of Mirrors</te>, Dodge Counter becomes <color=Highlight>Chamuel's Star: Dodge Counter</color>.","<size=40><color=Title>Phổ Công</color></size>
+Giải phóng thánh huy, thực hiện tối đa 3 đoạn tấn công liên tiếp, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực tấn công mục tiêu, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, cưỡi quyền trượng lao xuống, lướt và tấn công, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích Trên Không</color></size>
+Tiêu hao thể lực, cưỡi quyền trượng lướt về phía trước một đoạn.
+- Có thể thi triển lại sau khi Né Tránh trên không hoặc sử dụng Móc Câu.
+<size=10> </size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Phổ Công</color> trong thời gian nhất định để tấn công mục tiêu, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+- Khi Phoebe ở trong [<te href=850007>Gương Chi Hoàn</te>], thay thế bằng <color=Highlight>Sao Chamuel: Phản Kích Né Tránh</color>."
+lang_multi_text.db,MultiText,Skill_1003001_SkillName,敬请光辉降落,O Come Divine Light,Kính Mời Quang Huy Giáng Hạ
+lang_multi_text.db,MultiText,Skill_1003001_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中重击</color></size>
+消耗耐力，滑翔一段距离。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Heavy Attack</color></size>
+Deal <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Heavy Attack</color></size>
+Consume STA to ride on the staff for a distance.
+<size=10> </size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Light>Spectro DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích</color></size>
+Gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích Trên Không</color></size>
+Tiêu hao thể lực, lướt một đoạn.
+<size=10> </size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Gây <color=Light>Sát Thương Nhiễu Xạ</color>."
+lang_multi_text.db,MultiText,Skill_1003002_SkillDescribe,"在目标位置召唤【镜之环】，并使命中的目标停滞{2}秒，造成<color=Light>衍射伤害</color>。同一个【镜之环】最多可对12个目标施加停滞效果。施放后一定时间内短按<color=Highlight>共鸣技能</color>，可传送至【镜之环】位置，造成<color=Light>衍射伤害</color>。
+·距离【镜之环】过远时无法传送。
+<size=10> </size>
+<size=40><color=Title>【镜之环】</color></size>
+·【镜之环】持续{0}秒；菲比召唤新的【镜之环】时，会移除之前的【镜之环】。
+·菲比处于【镜之环】外时，<color=Highlight>普攻</color>、<color=Highlight>闪避反击</color>命中【镜之环】时会折射圣辉，对【镜之环】内目标造成<color=Light>衍射伤害</color>，并将命中的目标牵引至<color=Highlight>【镜之环】</color>中央，此次伤害为普攻伤害。每{1}秒可触发一次。
+·菲比处于【镜之环】内时，<color=Highlight>普攻</color>替换为普攻<color=Highlight>夏弥尔之星</color>，进行最多3段的连续攻击，造成<color=Light>衍射伤害</color>，此次伤害为普攻伤害。","Summon a Ring of Mirrors at the target location, making the target hit stagnate for {2}s and dealing <color=Light>Spectro DMG</color>. The stagnation effect can be applied to 12 targets max for each Ring of Mirrors. Using <color=Highlight>Resonance Skill</color> again shortly after the summoning teleports Phoebe to the Ring of Mirrors' location, dealing <color=Light>Spectro DMG</color>.
+Unable to teleport if Phoebe is too far from the Ring of Mirrors.
+<size=10> </size>
+<size=40><color=Title>Ring of Mirrors</color></size>
+- Ring of Mirrors lasts for {0}s. When Phoebe summons a new Ring of Mirrors, the existing Ring of Mirrors disappears.
+- When Phoebe is outside of the Ring of Mirrors, a <color=Highlight>Basic Attack</color> or <color=Highlight>Dodge Counter</color> that hits the Ring of Mirrors will refract Holy Light, which deals <color=Light>Spectro DMG</color> to targets inside the <color=Highlight>Ring of Mirrors</color> and pulls the targets hit to the center of the ring. The DMG dealt is considered Basic Attack DMG. Can be triggered once every {1}s.
+- When Phoebe is inside the Ring of Mirrors, <color=Highlight>Basic Attack</color> becomes Basic Attack <color=Highlight>Chamuel's Star</color>, which performs up to 3 consecutive attacks, dealing <color=Light>Spectro DMG</color>, considered Basic Attack DMG.","Triệu hồi [Gương Chi Hoàn] tại vị trí mục tiêu, khiến mục tiêu trúng chiêu đình trệ trong {2} giây, gây <color=Light>Sát Thương Nhiễu Xạ</color>. Mỗi [Gương Chi Hoàn] tối đa áp dụng hiệu ứng đình trệ lên 12 mục tiêu. Trong thời gian ngắn sau khi thi triển, nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color> để dịch chuyển đến vị trí [Gương Chi Hoàn], gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+- Không thể dịch chuyển khi cách [Gương Chi Hoàn] quá xa.
+<size=10> </size>
+<size=40><color=Title>[Gương Chi Hoàn]</color></size>
+- [Gương Chi Hoàn] tồn tại {0} giây; khi Phoebe triệu hồi [Gương Chi Hoàn] mới, [Gương Chi Hoàn] trước đó sẽ bị xóa.
+- Khi Phoebe ở ngoài [Gương Chi Hoàn], <color=Highlight>Phổ Công</color>, <color=Highlight>Phản Kích Né Tránh</color> trúng [Gương Chi Hoàn] sẽ khúc xạ thánh huy, gây <color=Light>Sát Thương Nhiễu Xạ</color> lên mục tiêu trong <color=Highlight>[Gương Chi Hoàn]</color> và kéo mục tiêu trúng chiêu về trung tâm, sát thương này tính là Sát Thương Phổ Công. Mỗi {1} giây kích hoạt một lần.
+- Khi Phoebe ở trong [Gương Chi Hoàn], <color=Highlight>Phổ Công</color> được thay thế bằng Phổ Công <color=Highlight>Sao Chamuel</color>, thực hiện tối đa 3 đoạn tấn công liên tiếp, gây <color=Light>Sát Thương Nhiễu Xạ</color>, tính là Sát Thương Phổ Công."
+lang_multi_text.db,MultiText,Skill_1003002_SkillName,追寻光芒之所,To Where Light Shines,Truy Tầm Nơi Ánh Sáng
+lang_multi_text.db,MultiText,Skill_1003002_SkillResume,"在目标位置召唤【镜之环】，使命中的目标停滞，造成<color=Light>衍射伤害</color>。施放后短按<color=Highlight>共鸣技能</color>，传送至【镜之环】位置，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>【镜之环】</color></size>
+·【镜之环】持续{0}秒；菲比召唤新的【镜之环】时，会移除之前的【镜之环】。
+·菲比处于【镜之环】外时，<color=Highlight>普攻</color>、<color=Highlight>闪避反击</color>命中【镜之环】时造成额外伤害，并牵引目标至<color=Highlight>【镜之环】</color>中央。
+·菲比处于【镜之环】内时，<color=Highlight>普攻</color>替换为普攻<color=Highlight>夏弥尔之星</color>，造成<color=Light>衍射伤害</color>。","Summon a Ring of Mirrors at the target location, making the target hit stagnate and dealing <color=Light>Spectro DMG</color>. Using <color=Highlight>Resonance Skill</color> again shortly after the summoning teleports Phoebe to the Ring of Mirrors' location, dealing <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Ring of Mirrors</color></size>
+- Ring of Mirrors lasts for {0}s. When Phoebe summons a new Ring of Mirrors, the existing Ring of Mirrors disappears.
+- When Phoebe is outside of the Ring of Mirrors, a <color=Highlight>Basic Attack</color> or <color=Highlight>Dodge Counter</color> that hits the Ring of Mirrors will deal extra DMG and pull the targets hit to the center of the <color=Highlight>Ring of Mirrors</color>.
+- When Phoebe is inside the Ring of Mirrors, <color=Highlight>Basic Attack</color> becomes Basic Attack <color=Highlight>Chamuel's Star</color>, dealing <color=Light>Spectro DMG</color>.","Triệu hồi [Gương Chi Hoàn] tại vị trí mục tiêu, khiến mục tiêu trúng chiêu đình trệ, gây <color=Light>Sát Thương Nhiễu Xạ</color>. Sau khi thi triển, nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color> để dịch chuyển đến vị trí [Gương Chi Hoàn], gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+<size=10> </size>
+<size=40><color=Title>[Gương Chi Hoàn]</color></size>
+- [Gương Chi Hoàn] tồn tại {0} giây; khi Phoebe triệu hồi [Gương Chi Hoàn] mới, [Gương Chi Hoàn] trước đó sẽ bị xóa.
+- Khi Phoebe ở ngoài [Gương Chi Hoàn], <color=Highlight>Phổ Công</color>, <color=Highlight>Phản Kích Né Tránh</color> trúng [Gương Chi Hoàn] sẽ gây thêm sát thương và kéo mục tiêu về trung tâm <color=Highlight>[Gương Chi Hoàn]</color>.
+- Khi Phoebe ở trong [Gương Chi Hoàn], <color=Highlight>Phổ Công</color> được thay thế bằng Phổ Công <color=Highlight>Sao Chamuel</color>, gây <color=Light>Sát Thương Nhiễu Xạ</color>."
+lang_multi_text.db,MultiText,Skill_1003003_SkillDescribe,"菲比将手中的光辉凝聚为启明之镜，用力敲碎，造成<color=Light>衍射伤害</color>。
+·<color=Highlight>赦罪</color>状态：伤害倍率提升{0}。
+·<color=Highlight>告解</color>状态：为命中的目标附加{1}层<color=Highlight>【<te href=850008>光噪效应</te>】</color>。","Phoebe concentrates the light in her hands into the Mirror of Enlightenment and smashes it, dealing <color=Light>Spectro DMG</color>.
+- <color=Highlight>Absolution</color> Enhancement: Increase DMG Multiplier by {0}.
+- <color=Highlight>Confession</color> Enhancement: Apply <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=Highlight><te href=850008>Spectro Frazzle</te></color> to targets hit.","Phoebe ngưng tụ quang huy trong tay thành Gương Khải Minh, dùng sức đập vỡ, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
+- Trạng thái <color=Highlight>Xá Tội</color>: Hệ số sát thương tăng {0}.
+- Trạng thái <color=Highlight>Giải Tội</color>: Áp dụng {1} tầng <color=Highlight>[<te href=850008>Hiệu Ứng Quang Nhiễu</te>]</color> lên mục tiêu trúng chiêu."
 lang_multi_text.db,MultiText,Skill_1003003_SkillName,启明之誓愿,Dawn of Enlightenment,Thệ Nguyện Khải Minh
 lang_multi_text.db,MultiText,Skill_1003003_SkillResume,"造成<color=Light>衍射伤害</color>。
 ·<color=Highlight>赦罪</color>状态：伤害倍率更高。
@@ -123,7 +256,7 @@ Tự động nhận theo thời gian, mỗi giây nhận {7} điểm.
 Giới hạn [Phúc Âm]: {8} điểm.
 Cách nhận [Phúc Âm]: <color=Highlight>Thánh Đảo Xá Tội</color>, <color=Highlight>Hiển Minh Giải Tội</color>."
 lang_multi_text.db,MultiText,Skill_1003008_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1003008_SkillName,巧手烹调,Skillful Cooking,Nấu Nướng Khéo Tay
+lang_multi_text.db,MultiText,Skill_1003008_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
 lang_multi_text.db,MultiText,Skill_1003008_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1003009_MultiSkillDescribe,<color=Highlight>告解</color>状态下，若触发延奏技能的角色不处于<color=Highlight>赦罪</color>状态，则获得<color=Highlight>默祷</color>效果：使一定范围内的目标衍射伤害抗性减少{2}，<color=Highlight>【光噪效应】</color>伤害加深{3}。目标身上的<color=Highlight>【光噪效应】</color>触发伤害后，<color=Highlight>【光噪效应】</color>下一次造成伤害的周期延长{4}。效果持续{5}秒，若菲比进入<color=Highlight>赦罪</color>状态则该效果提前结束。,"While Phoebe's in <color=Highlight>Confession</color>, Resonators activating Phoebe's Outro Skill while not in the <color=Highlight>Absolution</color> status gain <color=Highlight>Silent Prayer</color>, which provides the following effects:
 - Reduce the Spectro RES of targets in a certain range by {2}.
@@ -545,7 +678,7 @@ Khi bản thân ở dưới nước, mỗi {11} giây hồi phục {12} điểm 
 Giới hạn {13} điểm.
 Khi Phổ Công <color=Highlight>Chập Huyễn</color> trúng, hồi phục {14} điểm [Chiến Lật].
 Khi tấn công trên không <color=Highlight>Ám Dũng Toàn Oa</color> hoặc Né Tránh Phản Kích <color=Highlight>Lược Ảnh</color> trúng mục tiêu, hồi phục {15} điểm [Chiến Lật]."
-lang_multi_text.db,MultiText,Skill_1003108_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có xác suất tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1003108_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1003109_MultiSkillDescribe,附近队伍中激活延奏技能的角色湮灭伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,"When a nearby Resonator in the team activates Cantarella's Outro Skill, their Havoc DMG is Amplified by {0} and Resonance Skill DMG Amplified by {1} for {2}s or until they are switched out.","Nhân vật trong đội gần đó kích hoạt Diên Tấu Kỹ sẽ được tăng sâu sát thương Hủy Diệt {0}, tăng sâu sát thương Kỹ Năng Cộng Hưởng {1}, hiệu ứng kéo dài {2} giây. Nếu chuyển sang nhân vật khác thì hiệu ứng kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1003109_SkillDescribe,下一位登场角色湮灭伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,Amplify the incoming Resonator's Havoc DMG by {0} and Resonance Skill DMG by {1} for {2}s. Switching Resonators ends this effect.,"Nhân vật tiếp theo đăng trường được tăng sâu sát thương Hủy Diệt {0}, tăng sâu sát thương Kỹ Năng Cộng Hưởng {1}, hiệu ứng kéo dài {2} giây. Nếu chuyển sang nhân vật khác thì hiệu ứng kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1003109_SkillName,柔软触手,Gentle Tentacles,Xúc Thủ Nhu Mềm
@@ -677,7 +810,7 @@ Can be cast in mid-air close to the ground.","Gây <color=Wind>sát thương Kh�
 Có thể thi triển khi ở trên không gần mặt đất."
 lang_multi_text.db,MultiText,Skill_1003204_SkillDescribe,施放变奏技能<color=Highlight>狂岚未尽</color>时，攻击提升{0}，持续{1}秒。,Casting Intro Skill <color=Highlight>Relentless Squall</color> increases ATK by {0} for {1}s.,"Khi thi triển Biến Tấu Kỹ <color=Highlight>Cuồng Lan Vị Tận</color>, tấn công tăng {0}, kéo dài {1} giây."
 lang_multi_text.db,MultiText,Skill_1003204_SkillName,空渡浮尘,Sand in the Storm,Không Độ Phù Trần
-lang_multi_text.db,MultiText,Skill_1003204_SkillResume,施放变奏技能时，攻击提升{0}，持续{1}秒。,Casting Intro Skill increases ATK by {0} for {1}s.,"Khi thi triển Biến Tấu Kỹ, tấn công tăng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1003204_SkillResume,施放变奏技能时，攻击提升{0}，持续{1}秒。,Casting Intro Skill increases ATK by {0} for {1}s.,"Khi thi triển kỹ năng Biến Tấu, tấn công tăng {0}, duy trì {1} giây."
 lang_multi_text.db,MultiText,Skill_1003205_SkillDescribe,共鸣解放<color=Highlight>万象归墟</color>治疗量提升{0}。,Increase Healing from Resonance Liberation <color=Highlight>Omega Storm</color> by {0}.,Lượng hồi phục của Giải Phóng Cộng Hưởng <color=Highlight>Vạn Tượng Quy Khư</color> tăng {0}.
 lang_multi_text.db,MultiText,Skill_1003205_SkillName,无垠之风,Boundless Winds,Vô Ngần Chi Phong
 lang_multi_text.db,MultiText,Skill_1003205_SkillResume,共鸣解放治疗量提升{0}。,Increase Healing from Resonance Liberation by {0}.,Lượng hồi phục của Giải Phóng Cộng Hưởng tăng {0}.
@@ -1025,183 +1158,3 @@ Sau khi thi triển <color=Highlight>Tập Trung Áp Chế</color> hoặc <color
 Mỗi 1 tầng <color=Highlight>[<te href=850008>Quang Tạo Hiệu Ứng</te>]</color> chuyển hóa thành [Liệt Dương Dư Tẫn], nhận được 5 điểm [Diễm Quang].
 Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Tái Bùng Cháy</color>, nhận được 50 điểm [Diễm Quang]."
 lang_multi_text.db,MultiText,Skill_1003307_SkillName,黯夜将明,There Will Be A Light,Đêm Tối Sắp Sáng
-lang_multi_text.db,MultiText,Skill_1003307_SkillResume,"<size=40><color=Title>特殊能量【焰光】</color></size>
-·附近队伍中的角色对目标附加<color=Highlight>【光噪效应】</color>将立即结算伤害，并对目标附加<color=Highlight>烈阳余烬</color>，同时赞妮获得<color=Highlight>【焰光】</color>。
-·<color=Highlight>共鸣解放</color>、<color=Highlight>强化共鸣技能</color>也可获得<color=Highlight>【焰光】</color>。
-·处于<color=Highlight>强化状态</color>且<color=Highlight>【焰光】</color>高于刻度线时，可施放<color=Highlight>重斩</color>。
-<size=10></size>
-<size=40><color=Title>【烈阳余烬】</color></size>
-用于提高延奏技能的伤害。该层数可触发「此间永驻之光」合鸣效果。
-<size=10></size>
-<size=40><color=Title>重斩</color></size>
-·可通过短按<color=Highlight>普攻</color>或按住<color=Highlight>共鸣技能</color>施放。
-·按住<color=Highlight>共鸣技能</color>可进行<color=Highlight>蓄力</color>，期间免疫打断。一定时间内可格挡攻击，格挡成功时，受到伤害降低，并进行反击。提前松开或<color=Highlight>蓄力</color>结束后可直接攻击目标。
-·造成<color=Light>衍射伤害</color>，此次伤害为<color=Highlight>重击伤害</color>，同时视为<color=Highlight>【光噪效应】伤害</color>。","<size=40><color=Title>Forte Gauge - Blaze</color></size>
-- When a nearby Resonator in the team inflicts <color=Highlight>Spectro Frazzle</color> upon a target, trigger the damage effect immediately and inflict <color=Highlight>Heliacal Ember</color> upon the target. Meanwhile, Zani restores <color=Highlight>Blaze</color>.
-- Casting <color=Highlight>Resonance Liberation </color> or <color=Highlight>Enhanced Resonance Skill</color> grants <color=Highlight>Blazes</color>.
-- When in the <color=Highlight>Enhanced State</color> and <color=Highlight>Blaze</color> is higher than the tick mark, <color=Highlight>Heavy Slashes</color> become available.
-<size=10></size>
-<size=40><color=Title>Heliacal Ember</color></size>
-Increases Outro Skill DMG. Its stacks count towards the Eternal Radiance Sonata Effect.
-<size=10></size>
-<size=40><color=Title>Heavy Slash</color></size>
-- {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight> Normal Attack</color> or hold <color=Highlight>Resonance Skill</color> to cast.
-- Hold <color=Highlight>Resonance Skill</color> to <color=Highlight>charge up</color>, during which Zani is immune to interruptions and blocks attacks. A successful block reduces DMG taken and triggers a counterattack. Release the button in advance or fully <color=Highlight>charge up</color> to attack the target directly.
-- Deal <color=Light>Spectro DMG</color>, considered both <color=Highlight>Heavy Attak DMG</color> and <color=Highlight>Spectro Frazzle DMG</color>.","<size=40><color=Title>Năng Lượng Đặc Biệt [Diễm Quang]</color></size>
-- Khi các nhân vật trong đội ở gần gắn <color=Highlight>[Quang Tạo Hiệu Ứng]</color> lên mục tiêu sẽ lập tức kết toán sát thương, đồng thời gắn <color=Highlight>Liệt Dương Dư Tẫn</color> lên mục tiêu, Zani nhận được <color=Highlight>[Diễm Quang]</color>.
-- <color=Highlight>Giải Phóng Cộng Hưởng</color>, <color=Highlight>Kỹ Năng Cộng Hưởng Cường Hóa</color> cũng có thể nhận được <color=Highlight>[Diễm Quang]</color>.
-- Khi ở trong <color=Highlight>Trạng Thái Cường Hóa</color> và <color=Highlight>[Diễm Quang]</color> cao hơn vạch chia, có thể thi triển <color=Highlight>Trọng Trảm</color>.
-<size=10></size>
-<size=40><color=Title>[Liệt Dương Dư Tẫn]</color></size>
-Dùng để nâng cao sát thương Kỹ Năng Hiệp Tấu. Số tầng này có thể kích hoạt hiệu ứng Hợp Minh ""Ánh Sáng Vĩnh Cửu Nơi Đây"".
-<size=10></size>
-<size=40><color=Title>Trọng Trảm</color></size>
-- Có thể thi triển bằng cách nhấn ngắn <color=Highlight>Phổ Công</color> hoặc giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>.
-- Giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color> để tiến hành <color=Highlight>tích lực</color>, trong thời gian đó miễn dịch gián đoạn. Trong một khoảng thời gian có thể đỡ đòn tấn công, khi đỡ thành công, sát thương nhận vào giảm và tiến hành phản kích. Thả sớm hoặc sau khi <color=Highlight>tích lực</color> kết thúc sẽ trực tiếp tấn công mục tiêu.
-- Gây <color=Light>sát thương Nhiễu Xạ</color>, sát thương này được tính là <color=Highlight>sát thương Trọng Kích</color>, đồng thời được tính là <color=Highlight>sát thương [Quang Tạo Hiệu Ứng]</color>."
-lang_multi_text.db,MultiText,Skill_1003308_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1003308_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
-lang_multi_text.db,MultiText,Skill_1003309_MultiSkillDescribe,攻击目标，造成赞妮{0}攻击的<color=Light>衍射伤害</color>并清空其拥有的【烈阳余烬】。造成伤害前目标每拥有1层【烈阳余烬】受到该伤害提升{1}，此次伤害同时视为<color=Highlight>【光噪效应】</color>伤害。附近队伍中除赞妮以外的角色对拥有【烈阳余烬】的目标造成的衍射伤害加深{2}，持续{3}秒。,"Attack the target, dealing <color=Light>Spectro DMG</color> equal to {0} of Zani's ATK and removing all stacks of Heliacal Ember inflicted upon the target. Each stack increases the DMG dealt by {1}. This DMG is considered <color=Highlight>Spectro Frazzle</color> DMG. The Spectro DMG dealt by other Resonators in the team to the target marked by <color=Highlight>Heliacal Ember</color> is Amplified by {2} for {3}s.","Tấn công mục tiêu, gây <color=Light>sát thương Nhiễu Xạ</color> bằng {0} tấn công của Zani và xóa toàn bộ [Liệt Dương Dư Tẫn] trên mục tiêu. Trước khi gây sát thương, mỗi 1 tầng [Liệt Dương Dư Tẫn] trên mục tiêu tăng sát thương nhận vào thêm {1}, sát thương lần này đồng thời được tính là sát thương <color=Highlight>[Quang Tạo Hiệu Ứng]</color>. Các nhân vật trong đội ngoài Zani gây sát thương Nhiễu Xạ lên mục tiêu có [Liệt Dương Dư Tẫn] được gia tăng {2}, kéo dài {3} giây."
-lang_multi_text.db,MultiText,Skill_1003309_SkillDescribe,攻击目标，造成赞妮{0}攻击的<color=Light>衍射伤害</color>并清空其拥有的【<te href=850066>烈阳余烬</te>】。造成伤害前目标每拥有1层【<te href=850066>烈阳余烬</te>】受到该伤害提升{1}，此次伤害同时视为<color=Highlight>【<te href=850008>光噪效应</te>】</color>伤害。队伍中除赞妮以外的角色对拥有【<te href=850066>烈阳余烬</te>】的目标造成的衍射伤害加深{2}，持续{3}秒。,"Attack the target, dealing <color=Light>Spectro DMG</color> equal to {0} of Zani's ATK and removing all stacks of <te href=850066>Heliacal Ember</te> inflicted upon the target. Each stack increases the DMG dealt by {1}. This DMG is considered <color=Highlight><te href=850008>Spectro Frazzle</te></color> DMG. The Spectro DMG dealt by other Resonators in the team to the target marked by <color=Highlight>Heliacal Ember</color> is Amplified by {2} for {3}s.","Tấn công mục tiêu, gây <color=Light>sát thương Nhiễu Xạ</color> bằng {0} tấn công của Zani và xóa toàn bộ [<te href=850066>Liệt Dương Dư Tẫn</te>] trên mục tiêu. Trước khi gây sát thương, mỗi 1 tầng [<te href=850066>Liệt Dương Dư Tẫn</te>] trên mục tiêu tăng sát thương nhận vào thêm {1}, sát thương lần này đồng thời được tính là sát thương <color=Highlight>[<te href=850008>Quang Tạo Hiệu Ứng</te>]</color>. Các nhân vật trong đội ngoài Zani gây sát thương Nhiễu Xạ lên mục tiêu có [<te href=850066>Liệt Dương Dư Tẫn</te>] được gia tăng {2}, kéo dài {3} giây."
-lang_multi_text.db,MultiText,Skill_1003309_SkillName,来日道标,Beacon For the Future,Mốc Dẫn Đường Ngày Mai
-lang_multi_text.db,MultiText,Skill_1003309_SkillResume,"造成<color=Light>衍射伤害</color>，目标<color=Highlight>【烈阳余烬】</color>层数越高，受到本次伤害越高。
-此次伤害同时视为<color=Highlight>【光噪效应】伤害</color>。
-队伍中其他角色对拥有<color=Highlight>【烈阳余烬】</color>的目标造成的衍射伤害加深。","Deal <color=Light>Spectro DMG</color>. <color=Highlight>Heliacal Ember</color> stacks increase the DMG the targets taken.
-This instance of damage is considered <color=Highlight>Spectro Frazzle DMG</color>.
-Amplify Spectro DMG dealt by other Resonators in the team to the target with <color=Highlight>Heliacal Ember</color>.","Gây <color=Light>sát thương Nhiễu Xạ</color>, số tầng <color=Highlight>[Liệt Dương Dư Tẫn]</color> trên mục tiêu càng cao, sát thương nhận vào lần này càng lớn.
-Sát thương lần này đồng thời được tính là <color=Highlight>sát thương [Quang Tạo Hiệu Ứng]</color>.
-Sát thương Nhiễu Xạ mà các nhân vật khác trong đội gây lên mục tiêu có <color=Highlight>[Liệt Dương Dư Tẫn]</color> được gia tăng."
-lang_multi_text.db,MultiText,Skill_1003401_SkillDescribe,"<size=40><color=Title> 普攻</color></size>
-进行最多4段的连续攻击，造成<color=Wind>气动伤害</color>。普攻第4段可为命中的目标添加一层<color=Highlight>【<te href=850009>风蚀效应</te>】</color>。
-·使用闪避打断普攻前三段时，一定时间内短按普攻，将会施放对应段数的普攻。
-·普攻第4段结束后，夏空会进入<color=Highlight>音律独奏</color>状态。夏空在主动或被动打断普攻第4段或<color=Highlight>音律独奏</color>状态时，会生成一个<color=Highlight>合奏音影</color>。
-
-<size=40><color=Title>音律独奏</color></size>
-夏空或合奏音影在进入音律独奏状态时能够以自身为中心，使附近队伍中所有角色的气动伤害加成提升24%，该效果不可叠加。
-
-<size=40><color=Title>合奏音影</color></size>
-场上最多存在2个合奏音影。
-若夏空的<color=Highlight>普攻第4段</color>被打断，合奏音影将代替夏空完成这次攻击，并进入<color=Highlight>音律独奏</color>状态。
-若夏空的<color=Highlight>音律独奏</color>状态被打断，合奏音影将代替夏空继续<color=Highlight>音律独奏</color>状态。
-通过<color=Highlight>共鸣技能</color>生成合奏音影时，除上述两种情况外，合奏音影将代替夏空完成这次攻击，但不进入<color=Highlight>音律独奏</color>状态。
-
-<size=40><color=Title>重击</color></size>
-消耗耐力并跃向空中，攻击目标，造成<color=Wind>气动伤害</color>。
-
-<size=40><color=Title>瞄准攻击</color></size>
-短按瞄准键，进入瞄准状态，可以进行射击。
-蓄力完成后攻击目标，造成<color=Wind>气动伤害</color>，此次伤害为重击伤害。
-
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力进行最多2段的攻击，造成<color=Wind>气动伤害</color>。
-施放第2段空中攻击后一定时间内短按普攻，将会施放第4段普攻。
-
-<size=40><color=Title>闪避反击</color></size>
-成功<color=Highlight>闪避</color>时，一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Wind>气动伤害</color>。","<size=40><color=Title> Basic Attack</color></size>
-Perform up to 4 consecutive attacks, dealing <color=Wind>Aero DMG</color>. Basic Attack Stage 4 inflicts 1 stack of <color=Highlight><te href=850009>Aero Erosion</te></color> upon the target hit.
-- When the first three stages of Ciaccona's Basic Attack are interrupted by dodging, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Basic Attack in time to resume the attack cycle and cast the corresponding Basic Attack stage.
-- After Basic Attack Stage 4, Ciaccona starts a <color=Highlight>Solo Concert</color>. If Ciaccona's Basic Attack Stage 4 or <color=Highlight>Solo Concert</color> ends early (proactively or being interrupted), an <color=Highlight>Ensemble Sylph</color> is generated.
-
-<size=40><color=Title>Solo Concert</color></size>
-When Ciaccona or Ensemble Sylph performs Solo Concert, they give 24% Aero DMG Bonus to all nearby Resonators in the team. This effect is not stackable.
-
-<size=40><color=Title>Ensemble Sylph</color></size>
-Up to 2 Ensemble Sylphs may exist simultaneously.
-If Ciaccona's <color=Highlight>Basic Attack Stage 4</color> is interrupted, the Ensemble Sylphs generated will finish the attack for Ciaccona and enter <color=Highlight>Solo Concert</color>.
-If Ciaccona's <color=Highlight>Solo Concert</color> is interrupted, the <color=Highlight>Ensemble Sylphs</color> generated will continue the <color=Highlight>Solo Concert</color> for Ciaccona.
-Aside from the two situations mentioned above, Ensemble Sylphs generated by <color=Highlight>Resonance Skill</color> will finish Ciaccona's current attack without entering <color=Highlight>Solo Concert</color>.
-
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to jump into mid-air and attack the target, dealing <color=Wind>Aero DMG</color>.
-
-<size=40><color=Title>Aimed Attack</color></size>
-{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Aim to enter Aiming Mode to fire charged shots, dealing <color=Wind>Aero DMG</color>, considered Heavy Attack DMG.
-
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to perform up to 2 consecutive attacks, dealing <color=Wind>Aero DMG</color>.
-{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack after Mid-air Attack Stage 2 to cast Basic Attack Stage 4.
-
-<size=40><color=Title>Dodge Counter</color></size>
-Follow up successful <color=Highlight>Dodges</color> with <color=Highlight>Basic Attack</color> to attack the target, dealing <color=Wind>Aero DMG</color>.","<size=40><color=Title> Phổ Công</color></size>
-Thực hiện tối đa 4 đoạn tấn công liên tục, gây <color=Wind>sát thương Khí Động</color>. Phổ Công đoạn 4 có thể gắn một tầng <color=Highlight>[<te href=850009>Phong Thực Hiệu Ứng</te>]</color> lên mục tiêu trúng.
-- Khi dùng Né Tránh ngắt ba đoạn Phổ Công đầu, trong một khoảng thời gian nhấn ngắn Phổ Công sẽ thi triển đoạn Phổ Công tương ứng.
-- Sau khi Phổ Công đoạn 4 kết thúc, Ciaccona sẽ vào trạng thái <color=Highlight>Âm Luật Độc Tấu</color>. Khi Ciaccona chủ động hoặc bị động ngắt Phổ Công đoạn 4 hoặc trạng thái <color=Highlight>Âm Luật Độc Tấu</color>, sẽ tạo ra một <color=Highlight>Hợp Tấu Âm Ảnh</color>.
-
-<size=40><color=Title>Âm Luật Độc Tấu</color></size>
-Khi Ciaccona hoặc Hợp Tấu Âm Ảnh vào trạng thái Âm Luật Độc Tấu, lấy bản thân làm trung tâm, tăng bonus sát thương Khí Động cho tất cả nhân vật trong đội ở gần thêm 24%, hiệu ứng này không cộng dồn.
-
-<size=40><color=Title>Hợp Tấu Âm Ảnh</color></size>
-Trên sân tối đa tồn tại 2 Hợp Tấu Âm Ảnh.
-Nếu <color=Highlight>Phổ Công đoạn 4</color> của Ciaccona bị ngắt, Hợp Tấu Âm Ảnh sẽ thay Ciaccona hoàn thành đòn tấn công này và vào trạng thái <color=Highlight>Âm Luật Độc Tấu</color>.
-Nếu trạng thái <color=Highlight>Âm Luật Độc Tấu</color> của Ciaccona bị ngắt, Hợp Tấu Âm Ảnh sẽ thay Ciaccona tiếp tục trạng thái <color=Highlight>Âm Luật Độc Tấu</color>.
-Khi Hợp Tấu Âm Ảnh được tạo ra thông qua <color=Highlight>Kỹ Năng Cộng Hưởng</color>, ngoài hai trường hợp trên, Hợp Tấu Âm Ảnh sẽ thay Ciaccona hoàn thành đòn tấn công này nhưng không vào trạng thái <color=Highlight>Âm Luật Độc Tấu</color>.
-
-<size=40><color=Title>Trọng Kích</color></size>
-Tiêu hao thể lực và nhảy lên không trung, tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>.
-
-<size=40><color=Title>Tấn Công Ngắm</color></size>
-Nhấn ngắn phím ngắm để vào trạng thái ngắm, có thể tiến hành bắn.
-Sau khi tích lực hoàn thành, tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>, sát thương lần này là sát thương Trọng Kích.
-
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực thực hiện tối đa 2 đoạn tấn công, gây <color=Wind>sát thương Khí Động</color>.
-Sau khi thi triển đoạn 2 tấn công trên không, trong một khoảng thời gian nhấn ngắn Phổ Công sẽ thi triển Phổ Công đoạn 4.
-
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Khi <color=Highlight>Né Tránh</color> thành công, trong một khoảng thời gian nhấn ngắn <color=Highlight>Phổ Công</color> sẽ tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>."
-lang_multi_text.db,MultiText,Skill_1003401_SkillName,四拍的舞曲,Quadruple Time Steps,Vũ Khúc Bốn Nhịp
-lang_multi_text.db,MultiText,Skill_1003401_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Wind>气动伤害</color>，<color=Highlight>普攻第4段</color>可对目标附加<color=Highlight>【风蚀效应】</color>。
-<color=Highlight>普攻第4段</color>被打断时会生成<color=Highlight>合奏音影</color>。
-<size=10></size>
-<size=40><color=Title>合奏音影</color></size>
-生成时会代替夏空完成被打断的攻击。
-当夏空或<color=Highlight>合奏音影</color>脚下出现绿色光圈时，可使附近队伍中所有角色的气动伤害加成提升。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-造成<color=Wind>气动伤害</color>。
-<size=10></size>
-<size=40><color=Title>瞄准攻击</color></size>
-造成<color=Wind>气动伤害</color>，此次伤害为<color=Highlight>重击伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-造成<color=Wind>气动伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Wind>气动伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Wind>Aero DMG</color>. <color=Highlight>Basic Attack 4</color> inflicts <color=Highlight>Aero Erosion</color> on the target.
-Interruptions to <color=Highlight>Basic Attack 4</color> generate <color=Highlight>Ensemble Sylph</color>.
-<size=10></size>
-<size=40><color=Title>Ensemble Sylph</color></size>
-Finishes Ciaccona's interrupted attack after being generated.
-All nearby Resonators in the team gain Aero DMG bonus when a green light circle appears beneath Ciaccona or <color=Highlight>Ensemble Sylph</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Deal <color=Wind>Aero DMG</color>.
-<size=10></size>
-<size=40><color=Title>Aimed Attack</color></size>
-Deal <color=Wind>Aero DMG</color>, considered <color=Highlight>Heavy Attack DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Deal <color=Wind>Aero DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Wind>Aero DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
-Gây <color=Wind>sát thương Khí Động</color>, <color=Highlight>Phổ Công đoạn 4</color> có thể gắn <color=Highlight>[Phong Thực Hiệu Ứng]</color> lên mục tiêu.
-Khi <color=Highlight>Phổ Công đoạn 4</color> bị ngắt sẽ tạo ra <color=Highlight>Hợp Tấu Âm Ảnh</color>.
-<size=10></size>
-<size=40><color=Title>Hợp Tấu Âm Ảnh</color></size>
-Khi được tạo ra sẽ thay Ciaccona hoàn thành đòn tấn công bị ngắt.
-Khi vòng sáng xanh xuất hiện dưới chân Ciaccona hoặc <color=Highlight>Hợp Tấu Âm Ảnh</color>, tăng bonus sát thương Khí Động cho tất cả nhân vật trong đội ở gần.
-<size=10></size>
-<size=40><color=Title>Trọng Kích</color></size>
-Gây <color=Wind>sát thương Khí Động</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Ngắm</color></size>
-Gây <color=Wind>sát thương Khí Động</color>, được tính là <color=Highlight>sát thương Trọng Kích</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Gây <color=Wind>sát thương Khí Động</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Wind>sát thương Khí Động</color>."

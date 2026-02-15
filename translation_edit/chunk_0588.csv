@@ -1,10 +1,20 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,FWNPC_QQYC_8_9,你要是和他角斗，光是愿意给他们家族做代理人的职业角斗士都能从英灵古道排到总督宫去。,"Even if you do try to pick a fight with him, you'd have to get through a small army of pro-Gladiators on his family's payroll before you'd even see the guy.","Anh mà đấu với hắn, chỉ riêng mấy đấu sĩ chuyên nghiệp sẵn sàng làm đại diện cho gia tộc hắn thôi cũng đủ xếp hàng từ Anh Linh Cổ Đạo tới tận Tổng Đốc Cung luôn đấy."
+lang_multi_text.db,MultiText,FWNPC_QQYC_9_1,啊，大海啊，你全是水！啊，岁主啊，你八条腿——,"O great sea, you're nothing but water! O Sentinel, you've got eight legs—","Ôi, biển lớn ơi, ngươi toàn là nước! Ôi, Tuế Chủ ơi, ngươi tám cái chân..."
+lang_multi_text.db,MultiText,FWNPC_QQYC_9_2,说啥呢，你是不是泡汤太久了脑子发瘟了。,What're you blabbering about? All that bath water's gotten into your head?,"Nói cái gì vậy, mày ngâm nước nóng lâu quá nên não bị ẩm à?"
+lang_multi_text.db,MultiText,FWNPC_QQYC_9_3,你下午不是还痛骂了浴场一番么？,Weren't you cursing about the place just this afternoon?,Chiều nay chẳng phải mày còn chửi nhà tắm một trận đấy sao?
+lang_multi_text.db,MultiText,FWNPC_QQYC_9_4,哈哈，骂就骂了，骂完记得明天继续排队啊。,"Haha, curse all you want. Just don't forget to line up again tomorrow.","Haha, chửi thì cứ chửi, chửi xong nhớ ngày mai tiếp tục xếp hàng nhé."
+lang_multi_text.db,MultiText,FarmCannotBeModified,此梦境属性已锁定,This Dream Attribute is locked.,Thuộc tính mộng cảnh này đã bị khóa
+lang_multi_text.db,MultiText,FarmGoldCurrentPoint,本次查获款项,Coins Collected,Khoản thu giữ lần này
+lang_multi_text.db,MultiText,FarmGoldEnterText,前往,Go,Đi đến
+lang_multi_text.db,MultiText,FarmGoldFullPoint,已查获总款项 {0},Total Coins Collected: {0},Tổng khoản đã thu giữ {0}
+lang_multi_text.db,MultiText,FarmGoldFullScoreTips,已查获总款项达到 {0},Collect {0} Coins in total,Tổng khoản đã thu giữ đạt {0}
 lang_multi_text.db,MultiText,FarmGoldHighestPoint,最高查获款项：{0},Highest Record: {0},Khoản thu giữ cao nhất: {0}
 lang_multi_text.db,MultiText,FarmGoldLevelRewardText,关卡奖励,Stage Rewards,Phần thưởng màn chơi
 lang_multi_text.db,MultiText,FarmGoldLevelScoreTips,关卡查获款项达到 {0},Collect {0} Coins in the stage,Khoản thu giữ trong màn chơi đạt {0}
 lang_multi_text.db,MultiText,FarmGoldPointMultiply,款项倍率*{0},Coins x{0},Hệ số khoản x{0}
 lang_multi_text.db,MultiText,FarmGoldScoreRewardText,查获奖励,Coin Rewards,Phần thưởng thu giữ
-lang_multi_text.db,MultiText,FarmGoldUnLockTime,{0}后解锁该关卡,This stage unlocks in {0}.,Mở khóa màn chơi này sau {0}
+lang_multi_text.db,MultiText,FarmGoldUnLockTime,{0}后解锁该关卡,This stage unlocks in {0}.,Quan ải này mở khóa sau {0}
 lang_multi_text.db,MultiText,FarmGoldUnlockCondition,前一关卡查获款项达到80000后解锁,"Collect 80,000 Coins in the previous stage to unlock.",Mở khóa sau khi khoản thu giữ ở màn trước đạt 80000
 lang_multi_text.db,MultiText,FarmGold_reward_8701,“莫塔里人”关卡最高查获款项达到8000,"Collect 8000 Coins in ""The Montellis""","Số tiền tịch thu tối đa đạt 8000 trong màn ""The Montellis"""
 lang_multi_text.db,MultiText,FarmGold_reward_8702,“愚人小说”关卡最高查获款项达到8000,"Collect 8000 Coins in ""Fool's Fiction""","Số tiền tịch thu tối đa đạt 8000 trong màn ""Fool's Fiction"""
@@ -86,16 +96,6 @@ lang_multi_text.db,MultiText,Farm_ContinueGame,继续游戏,Resume,Tiếp tục
 lang_multi_text.db,MultiText,Farm_DayLast,剩余{0}天,Remaining Days: {0},Còn lại {0} ngày
 lang_multi_text.db,MultiText,Farm_DaySum,第{0}天,Day {0},Ngày {0}
 lang_multi_text.db,MultiText,Farm_Difficulty1,简单,Easy,Đơn giản
-lang_multi_text.db,MultiText,Farm_Difficulty2,普通,Normal,Bình thường
+lang_multi_text.db,MultiText,Farm_Difficulty2,普通,Normal,Thường
 lang_multi_text.db,MultiText,Farm_Difficulty3,困难,Difficult,Khó
 lang_multi_text.db,MultiText,Farm_Dungeon1,乐园·试运行,Test Run,Lạc Viên - Chạy Thử
-lang_multi_text.db,MultiText,Farm_Dungeon10,梦境·无尽III,Dream: Infinite III,Mộng Cảnh - Vô Tận III
-lang_multi_text.db,MultiText,Farm_Dungeon2,乐园·云霄阶梯,Celestial Stairway,Lạc Viên - Vân Tiêu Giai Thang
-lang_multi_text.db,MultiText,Farm_Dungeon3,乐园·涡流激浪,Whirling Rapids,Lạc Viên - Oa Lưu Kích Lãng
-lang_multi_text.db,MultiText,Farm_Dungeon4,梦境·无尽I,Dream: Infinite I,Mộng Cảnh - Vô Tận I
-lang_multi_text.db,MultiText,Farm_Dungeon5,乐园·易物街区,Barter Street,Lạc Viên - Dịch Vật Nhai Khu
-lang_multi_text.db,MultiText,Farm_Dungeon6,乐园·变幻剧场,Scriptless Show,Lạc Viên - Biến Huyễn Kịch Trường
-lang_multi_text.db,MultiText,Farm_Dungeon7,梦境·无尽II,Dream: Infinite II,Mộng Cảnh - Vô Tận II
-lang_multi_text.db,MultiText,Farm_Dungeon8,乐园·夜场祭宴,Sacrifice Night,Lạc Viên - Dạ Trường Tế Yến
-lang_multi_text.db,MultiText,Farm_Dungeon9,乐园·迷宫镜廊,Mirror Maze,Lạc Viên - Mê Cung Kính Lang
-lang_multi_text.db,MultiText,Farm_DungeonLock,通关前置关卡任意难度后解锁,Complete the previous Stage at any difficulty to unlock,Hoàn thành màn trước ở bất kỳ độ khó nào để mở khóa

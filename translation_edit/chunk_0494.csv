@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerScoreRepeat,矩阵叠兵·先行版积分奖励重复,Doubled Pawns Matrix: Pilot Point Rewards repeated,Phần thưởng điểm Ma Trận Điệp Binh: Phiên Bản Tiên Hành bị trùng lặp
+lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerScoreRewardMax,矩阵叠兵·先行版积分奖励超过最大数量,Doubled Pawns Matrix: Pilot Point Rewards exceed maximum,Phần thưởng điểm Ma Trận Điệp Binh: Phiên Bản Tiên Hành vượt quá số lượng tối đa
+lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerTeamIndexErr,无法跨队伍挑战,Cannot challenge across teams,Không thể thách đấu xuyên đội
+lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerTeamMax,达到队伍上限,Team limited reached,Đã đạt giới hạn đội
+lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerWaveFinish,已完成全部挑战,All challenged completed,Đã hoàn thành toàn bộ thử thách
+lang_multi_text.db,MultiText,ErrorCode_ErrorNewTowerWaveNoInfo,获取队伍记录信息失败,Failed to get team record information,Không thể lấy thông tin ghi nhận đội
+lang_multi_text.db,MultiText,ErrorCode_ErrorNoSceneComp,获取场景组件失败,Failed to get scene component,Không thể lấy thành phần cảnh
+lang_multi_text.db,MultiText,ErrorCode_ExhibitionComponentConfigNotFound,展台组件配置不存在,Display component configuration doesnot exist,Cấu hình thành phần gian trưng bày không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_ExhibitionEntityComponentNotFound,展台实体组件不存在,Display entity configuration does not exist,Thành phần thực thể gian trưng bày không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_ExhibitionEntityOverlappingRequest,重复的展台实体请求,Repeated display entity request,Yêu cầu thực thể gian trưng bày bị trùng lặp
 lang_multi_text.db,MultiText,ErrorCode_ExhibitionPhantomConfigNotFound,展台声骸配置不存在,Display Echo configuration does not exist,Cấu hình Thanh Hài gian trưng bày không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_ExhibitionTypeInvalid,展台类型非法,Invalid display type,Loại gian trưng bày không hợp lệ
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchActivitysNotFind_Text,活动不存在,Event does not exist,Sự kiện không tồn tại
@@ -10,7 +20,7 @@ lang_multi_text.db,MultiText,ErrorCode_FloroRanchCardGroupNotExist_Text,梦盒�
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchCardGroupTableNotExist_Text,梦盒不存在,Dream Box does not exist,Hộp Mộng không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchCardNotExistInGacha_Text,声骸不在当前征聘中,Echo not in Echo Recruitment,Thanh Hài không có trong đợt Chiêu Mộ hiện tại
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchCardTableNotExist_Text,声骸不存在,Echo does not exist,Thanh Hài không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_FloroRanchDiamondNotEnough_Text,频率晶体不足,Insufficient Frequency Crystals,Không đủ Tinh Thể Tần Số
+lang_multi_text.db,MultiText,ErrorCode_FloroRanchDiamondNotEnough_Text,频率晶体不足,Insufficient Frequency Crystals,Tinh Thể Tần Số không đủ
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchGamePlayGachaNotExist_Text,声骸征聘已完成,Echo Recruitment complete,Chiêu Mộ Thanh Hài đã hoàn thành
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchGamePlayNotExist_Text,关卡不存在,Stage does not exist,Màn chơi không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchGamePlayShopItemNotExist_Text,商店道具不存在,Shop item does not exist,Vật phẩm cửa hàng không tồn tại
@@ -39,7 +49,7 @@ lang_multi_text.db,MultiText,ErrorCode_FloroRanchSubInsLock_Text,关卡未解锁
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchTerrainTableNotExist_Text,梦块不存在,Dream Block does not exist,Khối Mộng không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchToyCreateFail_Text,道具创建失败,Failed to create item,Tạo đạo cụ thất bại
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchToyNumLimit_Text,道具数量限制,Item quantity exceeds limit,Đã đạt giới hạn số lượng đạo cụ
-lang_multi_text.db,MultiText,ErrorCode_FloroRanchToyTableNotExist_Text,道具不存在,Item does not exist,Đạo cụ không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_FloroRanchToyTableNotExist_Text,道具不存在,Item does not exist,Vật phẩm không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchToyWeightConfErr_Text,道具权重异常,Item weight configuration error,Cấu hình trọng số đạo cụ bị lỗi
 lang_multi_text.db,MultiText,ErrorCode_FloroRanchTributeCoinLimit_Text,缴纳乐园券不足,Insufficient Dreamland Coupons,Không đủ Phiếu Lạc Viên để nộp
 lang_multi_text.db,MultiText,ErrorCode_FunctionUnlocked,功能未解锁,Function locked,Chức năng chưa mở khóa
@@ -71,9 +81,9 @@ lang_multi_text.db,MultiText,ErrorCode_MotorParkourGetTimeRecordFailed,无法获
 lang_multi_text.db,MultiText,ErrorCode_MotorParkourInstComponentNotExist,实例组件未知,Component instance unknown,Thành phần thực thể không xác định
 lang_multi_text.db,MultiText,ErrorCode_MotorParkourLevelNoOpen,未到关卡开启日期,Not yet available,Chưa đến ngày mở màn chơi
 lang_multi_text.db,MultiText,ErrorCode_MotorParkourNoConfig,活动配置未知,Event configuration unknown,Cấu hình sự kiện không xác định
-lang_multi_text.db,MultiText,ErrorCode_MotorPlayerClimbing_Text,提示：攀爬中无法进行该操作,Notice: This action cannot be performed while climbing.,Lưu ý: Không thể thực hiện thao tác này khi đang leo trèo.
-lang_multi_text.db,MultiText,ErrorCode_MotorPlayerInAir_Text,提示：空中无法进行该操作,Notice: This action cannot be performed while in mid-air.,Lưu ý: Không thể thực hiện thao tác này khi đang ở trên không.
-lang_multi_text.db,MultiText,ErrorCode_MotorPlayerInWater_Text,提示：游泳中无法进行该操作,Notice: This action cannot be performed while swimming.,Lưu ý: Không thể thực hiện thao tác này khi đang bơi.
+lang_multi_text.db,MultiText,ErrorCode_MotorPlayerClimbing_Text,提示：攀爬中无法进行该操作,Notice: This action cannot be performed while climbing.,Gợi ý: Không thể thực hiện thao tác này khi đang leo trèo
+lang_multi_text.db,MultiText,ErrorCode_MotorPlayerInAir_Text,提示：空中无法进行该操作,Notice: This action cannot be performed while in mid-air.,Gợi ý: Không thể thực hiện thao tác này khi đang trên không
+lang_multi_text.db,MultiText,ErrorCode_MotorPlayerInWater_Text,提示：游泳中无法进行该操作,Notice: This action cannot be performed while swimming.,Gợi ý: Không thể thực hiện thao tác này khi đang bơi
 lang_multi_text.db,MultiText,ErrorCode_MotorPlayerOnMotor_Text,提示：骑行中无法进行该操作,Notice: This action cannot be performed while riding.,Lưu ý: Không thể thực hiện thao tác này khi đang cưỡi xe.
 lang_multi_text.db,MultiText,ErrorCode_MotorPlayerUsingSkill_Text,当前状态下无法进行该操作,Cannot perform this action in current state,Không thể thực hiện thao tác này trong trạng thái hiện tại
 lang_multi_text.db,MultiText,ErrorCode_MotorStickerCfgNotFound_Text,摩托涂装配置未找到,Motorbike Livery not found.,Không tìm thấy cấu hình sơn mô tô.
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_MotorTechLevelMax_Text,当前模块等级
 lang_multi_text.db,MultiText,ErrorCode_MotorTechNotUnlocked_Text,当前模块尚未解锁,The current Module is locked.,Module hiện tại chưa được mở khóa.
 lang_multi_text.db,MultiText,ErrorCode_MotorTechPreNodeLock_Text,前置模块尚未解锁，无法进行操作,Invalid Action. The prerequisite Module is still locked.,"Module tiên quyết chưa được mở khóa, không thể thực hiện thao tác."
 lang_multi_text.db,MultiText,ErrorCode_MotorTechPreNotUpgraded_Text,前置模块尚未升级，无法进行操作,Invalid Action. The preceding Module has not been upgraded.,"Module tiên quyết chưa được nâng cấp, không thể thực hiện thao tác."
-lang_multi_text.db,MultiText,ErrorCode_MotorTechTreeCfgNotFound_Text,找不到模块配置,Module configuration not found.,Không tìm thấy cấu hình module.
-lang_multi_text.db,MultiText,ErrorCode_MotorTechTreeLocked_Text,拓展模块功能未解锁,You haven't unlocked the Expansion Module feature yet.,Tính năng Module Mở Rộng chưa được mở khóa.
-lang_multi_text.db,MultiText,ErrorCode_NoAttriConfirmable,没有可以确认的属性,No stat to be confirmed,Không có thuộc tính nào để xác nhận.
-lang_multi_text.db,MultiText,ErrorCode_NoValidPhantom,当前无可调谐至目标属性的声骸,This list contains no Echoes whose Mainstat can be tuned to the target Mainstat.,Danh sách không có Thanh Hài nào có thể điều chỉnh thuộc tính chính sang thuộc tính mục tiêu.
-lang_multi_text.db,MultiText,ErrorCode_PhantomMainAttriNotMatched,声骸主属性不匹配,The mainstat of this Echo does not match,Thuộc tính chính của Thanh Hài không khớp.
-lang_multi_text.db,MultiText,ErrorCode_PhantomSubRefineFailed,属性重构失败,Stat reconstruction failed,Tái cấu trúc thuộc tính thất bại.
-lang_multi_text.db,MultiText,ErrorCode_PhantomTargetInvalid,该声骸不可重构,This Echo cannot be reconstructed,Thanh Hài này không thể tái cấu trúc.
-lang_multi_text.db,MultiText,ErrorCode_PlayerNotInMotorArea_Text,不在摩托车可用区域,This area is inaccessible by motorbike.,Không nằm trong khu vực có thể sử dụng xe máy.
-lang_multi_text.db,MultiText,ErrorCode_QuestFocusModeCannotAcceptQuest,副本中禁止取消专注模式,Unable to cancel Focus Mode in Domain.,Không thể hủy Chế Độ Tập Trung trong Phụ Bản.
-lang_multi_text.db,MultiText,ErrorCode_QuestWaitConfirmResource_Text,该任务缺少资源，请打开任务界面前往下载缺失资源,Story assets are missing for this quest. Please open the Quest page and proceed to download the missing assets.,Nhiệm vụ này thiếu tài nguyên. Vui lòng mở giao diện Nhiệm Vụ để tải xuống tài nguyên còn thiếu.

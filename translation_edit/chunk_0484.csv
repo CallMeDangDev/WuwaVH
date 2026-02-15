@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_300197_Text,传送存在异常，请稍后再试,"Anomaly exists in teleport, please try again later","Dịch chuyển gặp bất thường, vui lòng thử lại sau"
+lang_multi_text.db,MultiText,ErrorCode_300198_Text,正在加载中，无法复活,Cannot resurrect during loading,"Đang trong quá trình tải, không thể hồi sinh"
+lang_multi_text.db,MultiText,ErrorCode_300199_Text,正在传送中，无法复活,Cannot resurrect during teleport,"Đang trong quá trình dịch chuyển, không thể hồi sinh"
+lang_multi_text.db,MultiText,ErrorCode_300200_Text,玩家正在传送中，无法执行当前操作,"The player is teleporting, unable to perform the current operation","Người chơi đang dịch chuyển, không thể thực hiện thao tác hiện tại"
+lang_multi_text.db,MultiText,ErrorCode_300201_Text,队伍中有玩家正在传送，无法解散,"A player in the team is teleporting, unable to disband","Có người chơi trong đội đang dịch chuyển, không thể giải tán"
+lang_multi_text.db,MultiText,ErrorCode_300202_Text,正在传送中，无法申请进入,You can't send Co-op request during teleportation,"Đang trong quá trình dịch chuyển, không thể gửi yêu cầu tham gia"
+lang_multi_text.db,MultiText,ErrorCode_300203_Text,当前正在传送中，无法同意申请,"Currently teleporting, unable to accept the application","Hiện đang dịch chuyển, không thể chấp nhận yêu cầu"
+lang_multi_text.db,MultiText,ErrorCode_30_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_3100001_Text,关卡信息错误，请重试,"Error in loading stage info, please try again","Thông tin màn chơi bị lỗi, vui lòng thử lại"
+lang_multi_text.db,MultiText,ErrorCode_3100002_Text,活动未开启,Event unavailable,Sự kiện chưa mở.
 lang_multi_text.db,MultiText,ErrorCode_3100003_Text,战斗信息丢失,Battle data missing,Dữ liệu chiến đấu bị mất
 lang_multi_text.db,MultiText,ErrorCode_3100004_Text,组配置找不到,Configuration does not exist,Không tìm thấy cấu hình nhóm
 lang_multi_text.db,MultiText,ErrorCode_3100005_Text,关卡未到开启时间,Not yet available,Màn chơi chưa đến thời gian mở
@@ -15,7 +25,7 @@ lang_multi_text.db,MultiText,ErrorCode_31_Text,系统错误，请稍后再试。
 lang_multi_text.db,MultiText,ErrorCode_32_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
 lang_multi_text.db,MultiText,ErrorCode_33_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
 lang_multi_text.db,MultiText,ErrorCode_34_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_35_Text,玩家已登录,The player has logged in.,Người chơi đã đăng nhập.
+lang_multi_text.db,MultiText,ErrorCode_35_Text,玩家已登录,The player has logged in.,Người chơi đã đăng nhập
 lang_multi_text.db,MultiText,ErrorCode_36_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
 lang_multi_text.db,MultiText,ErrorCode_37_Text,重新登录,Re-login,Đăng nhập lại
 lang_multi_text.db,MultiText,ErrorCode_3_Text,未知错误，请联系客服。,Unknown error. Please contact Customer Service,"Lỗi không xác định, vui lòng liên hệ bộ phận hỗ trợ."
@@ -48,11 +58,11 @@ lang_multi_text.db,MultiText,ErrorCode_400025_Text,商品栏不存在,Product li
 lang_multi_text.db,MultiText,ErrorCode_400026_Text,商品不展示,Products not displayed,Sản phẩm không được hiển thị
 lang_multi_text.db,MultiText,ErrorCode_400027_Text,商店版本有更新,Update available for store version,Cửa hàng có bản cập nhật mới
 lang_multi_text.db,MultiText,ErrorCode_400028_Text,商店非法参数,Store invalid parameter,Tham số cửa hàng không hợp lệ
-lang_multi_text.db,MultiText,ErrorCode_400029_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_400029_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_400030_Text,等级已满,Max level reached,Đã đạt cấp tối đa
 lang_multi_text.db,MultiText,ErrorCode_400031_Text,物品配置错误,Item configuration error,Lỗi cấu hình vật phẩm
 lang_multi_text.db,MultiText,ErrorCode_400032_Text,物品不足,Insufficient items,Không đủ vật phẩm
-lang_multi_text.db,MultiText,ErrorCode_400033_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_400033_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_400034_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_400035_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_400036_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_400066_Text,购买数量不合法,Invalid
 lang_multi_text.db,MultiText,ErrorCode_400067_Text,指定商品是直购商品,Specified product can be purchased directly,Sản phẩm chỉ định là sản phẩm mua trực tiếp
 lang_multi_text.db,MultiText,ErrorCode_400068_Text,指定商品不是直购商品,Specified product cannot be purchased directly,Sản phẩm chỉ định không phải sản phẩm mua trực tiếp
 lang_multi_text.db,MultiText,ErrorCode_400069_Text,指定商品页签不可用,Specified product tab cannot be used,Tab sản phẩm chỉ định không khả dụng
-lang_multi_text.db,MultiText,ErrorCode_400070_Text,不在月相观测卡订阅有效期内,Not in the valid period of Lunite Subscription.,Không trong thời hạn hiệu lực của Thẻ Quan Trắc Nguyệt Tướng
-lang_multi_text.db,MultiText,ErrorCode_400071_Text,月相观测卡每日更新时间配置不存在,Lunite Subscription daily update configuration does not exist.,Cấu hình cập nhật hàng ngày của Thẻ Quan Trắc Nguyệt Tướng không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_400072_Text,月相观测卡天数已达上限,Lunite Subscription max days reached.,Số ngày Thẻ Quan Trắc Nguyệt Tướng đã đạt giới hạn tối đa
-lang_multi_text.db,MultiText,ErrorCode_400073_Text,月相观测卡每日奖励已领取,Lunite Subscription daily rewards claimed.,Phần thưởng hàng ngày của Thẻ Quan Trắc Nguyệt Tướng đã được nhận
-lang_multi_text.db,MultiText,ErrorCode_400074_Text,月相观测卡配置不存在,Lunite Subscription configuration does not exist.,Cấu hình Thẻ Quan Trắc Nguyệt Tướng không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_400075_Text,该道具不是特殊道具,This item is not an event item,Đạo cụ này không phải đạo cụ đặc biệt
-lang_multi_text.db,MultiText,ErrorCode_400076_Text,没有装备的特殊道具,No event items equipped,Không có đạo cụ đặc biệt được trang bị
-lang_multi_text.db,MultiText,ErrorCode_400077_Text,当前没有可用的先约电台,No available Pioneer Podcast,Hiện không có Đài Tiên Ước khả dụng
-lang_multi_text.db,MultiText,ErrorCode_400078_Text,没有找到对应的奖励,Corresponding rewards not found,Không tìm thấy phần thưởng tương ứng
-lang_multi_text.db,MultiText,ErrorCode_400079_Text,先约电台寰宇频道未解锁,Pioneer Podcast locked,Kênh Hoàn Vũ của Đài Tiên Ước chưa được mở khóa

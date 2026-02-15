@@ -1,19 +1,29 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,GenericPrompt_MailOutOfDate_TipsText,邮件已过期，无法领取附件,Rewards in expired mails cannot be claimed.,"Thư đã hết hạn, không thể nhận tệp đính kèm."
+lang_multi_text.db,MultiText,GenericPrompt_MailOverLimit_TipsText,领取附件数量已超过背包上限,Your Backpack is full.,Số lượng tệp đính kèm nhận được đã vượt quá giới hạn ba lô.
+lang_multi_text.db,MultiText,GenericPrompt_MailRecall_TipsText,邮件已被撤回,Mail recalled,Thư đã bị thu hồi
+lang_multi_text.db,MultiText,GenericPrompt_MailReceive_TipsText,领取成功,Rewards Claimed,Nhận thành công
+lang_multi_text.db,MultiText,GenericPrompt_MaterialShort_TipsText,材料不足,Insufficient Materials,Không đủ nguyên liệu
+lang_multi_text.db,MultiText,GenericPrompt_NameNotEmpty_TipsText,dnt/输入名字不能为空,Void name,Tên không được để trống
+lang_multi_text.db,MultiText,GenericPrompt_NeedMinusOneRole_TipsText,队伍中至少需要一名角色,You need to set at least one character in the party,Đội hình cần ít nhất một nhân vật
+lang_multi_text.db,MultiText,GenericPrompt_NoDailyTaskCanFinish_TipsText,当前没有已完成任务可交付,No completed mission,Hiện không có nhiệm vụ hoàn thành nào để giao
+lang_multi_text.db,MultiText,GenericPrompt_NoJumpTo_TipsText,索拉指南尚未开启，目前无法查看,Guidebook not available yet.,"Sổ tay Solaris chưa mở khóa, hiện không thể xem"
+lang_multi_text.db,MultiText,GenericPrompt_NotAllowOpenPhotograph_TipsText,当前状态无法使用,You cannot currently use this function,Hiện không thể sử dụng chức năng này
 lang_multi_text.db,MultiText,GenericPrompt_NotEdit_TipsText,该按键不可修改,Keys unavailable to reset,Phím này không thể thay đổi
 lang_multi_text.db,MultiText,GenericPrompt_NotModify_TipsText,当前状态下无法修改,Cannot reset,Không thể thay đổi ở trạng thái hiện tại
 lang_multi_text.db,MultiText,GenericPrompt_NotOnFriendList_TipsText,对方不在好友列表中,This player is not in your Friend List,Người chơi này không có trong danh sách bạn bè
 lang_multi_text.db,MultiText,GenericPrompt_NotOpenArea_TipsText,未知区域，请勿贸然前行。,Unknown area ahead. Access restricted.,"Khu vực chưa xác định, vui lòng không tiến vào."
-lang_multi_text.db,MultiText,GenericPrompt_NotOpen_TipsText,功能尚未开启,This function is currently unavailable.,Chức năng chưa được mở khóa
+lang_multi_text.db,MultiText,GenericPrompt_NotOpen_TipsText,功能尚未开启,This function is currently unavailable.,Chức năng chưa được mở
 lang_multi_text.db,MultiText,GenericPrompt_OnlineInvalidUserId_TipsText,对方已下线或特征码输入错误,Invalid UID or the player is currently offline,Người chơi đã ngoại tuyến hoặc UID nhập không chính xác
-lang_multi_text.db,MultiText,GenericPrompt_OnlineUserIdIsNull_TipsText,请输入特征码,Please enter the User ID,Vui lòng nhập UID
+lang_multi_text.db,MultiText,GenericPrompt_OnlineUserIdIsNull_TipsText,请输入特征码,Please enter the User ID,Vui lòng nhập mã đặc trưng
 lang_multi_text.db,MultiText,GenericPrompt_OverCreateAdviceMax_TipsText,溯言超过上限，请删减后重试,Too many Memos placed. Delete some and try again,"Số lượng ghi chú đã đạt giới hạn, vui lòng xóa bớt rồi thử lại"
 lang_multi_text.db,MultiText,GenericPrompt_OverMaxLock_TipsText,无法出战更多角色,You cannot set more character,Không thể xuất chiến thêm nhân vật
 lang_multi_text.db,MultiText,GenericPrompt_OverMaxRole_TipsText,无法出战更多角色,You cannot set more character,Không thể xuất chiến thêm nhân vật
 lang_multi_text.db,MultiText,GenericPrompt_PictureConfigOverload_TipsText,设备性能负载过高，为避免严重发热/卡顿，请调整图像设置,"Device performance is overloaded. To avoid serious overheating/lag, please adjust the graphics settings.","Thiết bị đang quá tải hiệu suất. Để tránh quá nhiệt/giật lag nghiêm trọng, vui lòng điều chỉnh cài đặt đồ họa."
 lang_multi_text.db,MultiText,GenericPrompt_PleaseSelectedLeftGrid_TipsText,请先选择左侧格子,Please select the slot on the left.,Vui lòng chọn ô bên trái trước.
 lang_multi_text.db,MultiText,GenericPrompt_QuestRangeFailWarning_TipsText,离开区域将中断剧情体验，后续可从最后的存档点处继续。,"Leaving the area will stop your current quest progress. When you return, you can resume this quest from the last archive point.",Rời khỏi khu vực sẽ gián đoạn tiến trình cốt truyện. Bạn có thể tiếp tục từ điểm lưu cuối cùng sau đó.
-lang_multi_text.db,MultiText,GenericPrompt_QuestRecommendAccept_TipsText,存在异常，如有疑问请联系官方客服,test/Progress through main quests or reach the specific area to accept the target quest.,test/Progress through main quests or reach the specific area to accept the target quest.
-lang_multi_text.db,MultiText,GenericPrompt_RecipientFriendListFull_TipsText,接收方申请列表已满,This Player's Friend List is full,Danh sách lời mời kết bạn của đối phương đã đầy
+lang_multi_text.db,MultiText,GenericPrompt_QuestRecommendAccept_TipsText,存在异常，如有疑问请联系官方客服,test/Progress through main quests or reach the specific area to accept the target quest.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,GenericPrompt_RecipientFriendListFull_TipsText,接收方申请列表已满,This Player's Friend List is full,Danh sách yêu cầu của bên nhận đã đầy
 lang_multi_text.db,MultiText,GenericPrompt_RemoveFromBlackListSucceeded_TipsText,已将{0}移出黑名单,You've removed {0} from blocklist,Đã xóa {0} khỏi danh sách chặn
 lang_multi_text.db,MultiText,GenericPrompt_ResetPositionTip2_TipsText,当前状态无法使用控物，已返回原处,Levitator unavailable. Object returned to its original location.,"Không thể sử dụng điều khiển vật thể ở trạng thái hiện tại, vật thể đã trở về vị trí ban đầu."
 lang_multi_text.db,MultiText,GenericPrompt_ResetPositionTip_TipsText,被控物脱离目标范围，已返回原处,Out of range. Object returned to its original location.,"Vật thể đã ra khỏi phạm vi mục tiêu, đã trở về vị trí ban đầu."
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,GeographyHandBook_8_Name,愁永昼,Eternal Blue,S�
 lang_multi_text.db,MultiText,GeographyHandBook_9_Name,云销雨霁,Daybreak,Vân Tiêu Vũ Tễ
 lang_multi_text.db,MultiText,GeographyRound_1001_Descrtption,「直视着炉芯的目光，此刻也在直视着你。」,"""The gaze that once beheld the Reactor Drive now fixes itself upon you.""","""Ánh mắt trực nhìn vào lõi lò, lúc này cũng đang trực nhìn vào ngươi."""
 lang_multi_text.db,MultiText,GeographyRound_1001_Name,海维夏之眼,Hyvatia's Eye,Mắt Của Hyvatia
-lang_multi_text.db,MultiText,GeographyRound_1002_Descrtption,「长眠于深空的九次心跳。」,"""Nine heartbeats lie dormant in the silent deep space.""","""Chín nhịp tim trường miên trong thâm không."""
-lang_multi_text.db,MultiText,GeographyRound_1002_Name,九星的徽记,Sigil of the Nine Stars,Huy Ký Cửu Tinh
-lang_multi_text.db,MultiText,GeographyRound_1003_Descrtption,「生于、困于、衰于日隙之兽。」,"""A creature born, confined, and withered beneath a failing sunbeam.""","""Con thú sinh ra, bị giam cầm, và suy tàn nơi kẽ nắng."""
-lang_multi_text.db,MultiText,GeographyRound_1003_Name,非理想光源,Non-Ideal Light Source,Nguồn Sáng Phi Lý Tưởng
-lang_multi_text.db,MultiText,GeographyRound_1004_Descrtption,「她与它们并肩而立，呼吸相融。」,"""She stands among them, side by side, breaths intertwining.""","""Nàng sánh vai cùng chúng, hơi thở hòa quyện."""
-lang_multi_text.db,MultiText,GeographyRound_1004_Name,光形物语,The Shape of Light,Quang Hình Vật Ngữ
-lang_multi_text.db,MultiText,GeographyRound_1005_Descrtption,「骑在游空鲼的背上，飞往命运的砂漠。」,"""Ride a Jetray and glide toward the desert where fate awaits.""","""Cưỡi trên lưng Du Không Phấn, bay đến sa mạc của định mệnh."""
-lang_multi_text.db,MultiText,GeographyRound_1005_Name,砂上飞行,Flight Over Sand,Bay Trên Cát
-lang_multi_text.db,MultiText,GeographyRound_1006_Descrtption,「比黑潮还难吃！一百倍，一千倍！」,"""Worse than the Dark Tide! One hundred times, no, a thousand!""","""Còn khó nuốt hơn cả Hắc Triều! Gấp trăm lần, gấp ngàn lần!"""
-lang_multi_text.db,MultiText,GeographyRound_1006_Name,虚诞的幽影,Shadow of the Void,U Ảnh Hư Đản

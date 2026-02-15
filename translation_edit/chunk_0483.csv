@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_300097_Text,设置重复角色,Character already on team is set,Nhân vật đã được thiết lập trùng lặp
+lang_multi_text.db,MultiText,ErrorCode_300098_Text,没有移出权限,No permission to remove,Không có quyền loại bỏ
+lang_multi_text.db,MultiText,ErrorCode_300099_Text,被移出者不在队伍中,Player being removed is not on team,Người bị loại bỏ không trong đội
+lang_multi_text.db,MultiText,ErrorCode_300100_Text,没有开始战斗权限,No permission to begin battle,Không có quyền bắt đầu chiến đấu
+lang_multi_text.db,MultiText,ErrorCode_300101_Text,有玩家未准备,Player(s) not Ready,Có người chơi chưa sẵn sàng
+lang_multi_text.db,MultiText,ErrorCode_300102_Text,副本id不存在,Dungeon id does not exist,ID phụ bản không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_300103_Text,未拥有指定角色，无法匹配,You do not have designated Character to begin matching,"Chưa sở hữu nhân vật chỉ định, không thể ghép trận"
+lang_multi_text.db,MultiText,ErrorCode_300104_Text,单人副本无法匹配,Cannot match Players for Single-Player Dungeon,Phụ bản đơn người không thể ghép trận
+lang_multi_text.db,MultiText,ErrorCode_300105_Text,等待其他玩家进入场景， 无法匹配,Cannot begin matching when waiting for other Players to enter the scene,"Đang chờ người chơi khác vào cảnh, không thể ghép trận"
+lang_multi_text.db,MultiText,ErrorCode_300106_Text,进入他人世界中， 无法匹配,Cannot begin matching when entering other World,"Đang vào thế giới người khác, không thể ghép trận"
 lang_multi_text.db,MultiText,ErrorCode_300107_Text,副本行为树节点未找到,Behavior tree node not found for Dungeon,Không tìm thấy nút cây hành vi phụ bản
 lang_multi_text.db,MultiText,ErrorCode_300108_Text,玩法未完成,Not complete yet,Chế độ chơi chưa hoàn thành
 lang_multi_text.db,MultiText,ErrorCode_300109_Text,已领取奖励,Reward Claimed,Đã nhận thưởng
@@ -14,8 +24,8 @@ lang_multi_text.db,MultiText,ErrorCode_300118_Text,正在进入他人世界， �
 lang_multi_text.db,MultiText,ErrorCode_300119_Text,等待他人进入世界， 无法进入副本,Cannot enter Dungeon when waiting for other Players to enter the World,"Đang chờ người khác vào thế giới, không thể vào phụ bản"
 lang_multi_text.db,MultiText,ErrorCode_300120_Text,进入副本类型不匹配,Type mismatch for the Dungeon you are entering,Loại phụ bản không khớp
 lang_multi_text.db,MultiText,ErrorCode_300121_Text,没有剩余领奖次数,No reward claims available,Không còn lượt nhận thưởng
-lang_multi_text.db,MultiText,ErrorCode_300122_Text,匹配中,Matching,Đang ghép đội
-lang_multi_text.db,MultiText,ErrorCode_300123_Text,不在匹配中,Not matching,Không trong trạng thái ghép đội
+lang_multi_text.db,MultiText,ErrorCode_300122_Text,匹配中,Matching,Đang ghép trận
+lang_multi_text.db,MultiText,ErrorCode_300123_Text,不在匹配中,Not matching,Không trong quá trình ghép trận
 lang_multi_text.db,MultiText,ErrorCode_300124_Text,未找到合适的匹配服,Worthy matching server not found,Không tìm thấy máy chủ ghép đội phù hợp
 lang_multi_text.db,MultiText,ErrorCode_300125_Text,匹配服连接失效,Failed to connect to matching server,Kết nối máy chủ ghép đội thất bại
 lang_multi_text.db,MultiText,ErrorCode_300126_Text,没有匹配队伍信息,No matching team info,Không có thông tin đội ghép
@@ -61,12 +71,12 @@ lang_multi_text.db,MultiText,ErrorCode_300165_Text,队友加入中，无法移�
 lang_multi_text.db,MultiText,ErrorCode_300166_Text,等待队友加载完成后可退出，最多等时间3分钟,Party member joining. Cannot exit Co-op Mode witin 3 minutes.,"Vui lòng chờ đồng đội tải xong để thoát, thời gian chờ tối đa 3 phút."
 lang_multi_text.db,MultiText,ErrorCode_300167_Text,场景加载中，无法离开队伍。,Scene loading. Cannot leave the team.,"Đang tải cảnh, không thể rời đội."
 lang_multi_text.db,MultiText,ErrorCode_300168_Text,场景加载中，无法进行挑战。,Scene loading. Cannot start the challenge.,"Đang tải cảnh, không thể bắt đầu thử thách."
-lang_multi_text.db,MultiText,ErrorCode_300169_Text,存在异常，如有疑问请联系官方客服,"There is an exception, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,ErrorCode_300169_Text,存在异常，如有疑问请联系官方客服,"There is an exception, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_300170_Text,世界所有者正在加载场景，无法进入世界,The world owner is loading scenes. Currently unable to access the world.,"Chủ thế giới đang tải cảnh, không thể vào thế giới."
 lang_multi_text.db,MultiText,ErrorCode_300171_Text,世界所有者正在加载场景，无法申请进入,The world owner is loading scenes. Currently unable to request access to the world.,"Chủ thế giới đang tải cảnh, không thể gửi yêu cầu tham gia."
 lang_multi_text.db,MultiText,ErrorCode_300172_Text,场景加载中，无法同意多人游戏申请,Loading scenes. Unable to approve Co-op requests.,"Đang tải cảnh, không thể chấp nhận yêu cầu chơi nhiều người."
 lang_multi_text.db,MultiText,ErrorCode_300173_Text,未成功连接到主机,Failed to connect to the host,Kết nối đến máy chủ thất bại.
-lang_multi_text.db,MultiText,ErrorCode_300174_Text,存在异常，如有疑问请联系官方客服,"There is an exception, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,ErrorCode_300174_Text,存在异常，如有疑问请联系官方客服,"There is an exception, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_300175_Text,死亡状态下，无法同意申请,Cannot join Co-op when defeated,"Đang trong trạng thái bất tỉnh, không thể chấp nhận yêu cầu."
 lang_multi_text.db,MultiText,ErrorCode_300176_Text,主机处于死亡状态，暂无法进入,The host is in a state of death and cannot enter temporarily,"Máy chủ đang trong trạng thái bất tỉnh, tạm thời không thể vào."
 lang_multi_text.db,MultiText,ErrorCode_300177_Text,场景正在加载中，暂时无法离开,The scene is loading and cannot leave temporarily,"Đang tải cảnh, tạm thời không thể rời đi."
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_300193_Text,正在查询好友信息，�
 lang_multi_text.db,MultiText,ErrorCode_300194_Text,正在查询玩家信息，无法重复操作,"Querying player information, unable to repeat the operation","Đang truy vấn thông tin người chơi, không thể thao tác lặp lại"
 lang_multi_text.db,MultiText,ErrorCode_300195_Text,加载过程中无法使用传送功能，请稍后再试,"Cannot use the teleport function during the loading process, please try again later","Không thể sử dụng chức năng dịch chuyển trong quá trình tải, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_300196_Text,传送过程不能重复执行传送，请稍后再试,"Cannot repeat the teleport process, please try again later","Không thể dịch chuyển liên tục trong quá trình dịch chuyển, vui lòng thử lại sau"
-lang_multi_text.db,MultiText,ErrorCode_300197_Text,传送存在异常，请稍后再试,"Anomaly exists in teleport, please try again later","Dịch chuyển gặp bất thường, vui lòng thử lại sau"
-lang_multi_text.db,MultiText,ErrorCode_300198_Text,正在加载中，无法复活,Cannot resurrect during loading,"Đang trong quá trình tải, không thể hồi sinh"
-lang_multi_text.db,MultiText,ErrorCode_300199_Text,正在传送中，无法复活,Cannot resurrect during teleport,"Đang trong quá trình dịch chuyển, không thể hồi sinh"
-lang_multi_text.db,MultiText,ErrorCode_300200_Text,玩家正在传送中，无法执行当前操作,"The player is teleporting, unable to perform the current operation","Người chơi đang dịch chuyển, không thể thực hiện thao tác hiện tại"
-lang_multi_text.db,MultiText,ErrorCode_300201_Text,队伍中有玩家正在传送，无法解散,"A player in the team is teleporting, unable to disband","Có người chơi trong đội đang dịch chuyển, không thể giải tán"
-lang_multi_text.db,MultiText,ErrorCode_300202_Text,正在传送中，无法申请进入,You can't send Co-op request during teleportation,"Đang trong quá trình dịch chuyển, không thể gửi yêu cầu tham gia"
-lang_multi_text.db,MultiText,ErrorCode_300203_Text,当前正在传送中，无法同意申请,"Currently teleporting, unable to accept the application","Hiện đang dịch chuyển, không thể chấp nhận yêu cầu"
-lang_multi_text.db,MultiText,ErrorCode_30_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_3100001_Text,关卡信息错误，请重试,"Error in loading stage info, please try again","Thông tin màn chơi bị lỗi, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_3100002_Text,活动未开启,Event unavailable,Sự kiện chưa mở

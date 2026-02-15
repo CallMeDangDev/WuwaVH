@@ -1,4 +1,34 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,RogueBuffPool_140605_BuffDesc,"<color=#c49e55>【共鸣解放】</color>共鸣解放·万象归墟造成额外{0}次攻击{1}的气动伤害，且共鸣解放·万象归墟命中会降低目标{2}气动抗性，持续{3}秒，不可叠加。
+施放共鸣解放·万象归墟后漂泊者·气动获得延奏强化：攻击命中使怪物「风蚀效应」叠加层数上限加{4}，持续{5}秒。","<color=#c49e55>[Resonance Liberation]</color>
+Resonance Liberation - Omega Storm additionally deals Aero DMG equal to {1} of Rover: Aero's ATK <SapTag=0>{0}</SapTag> {Cus:Sap,S=time P=times SapTag=0} and reduces the target's Aero RES by {2} for {3}s on hit. This effect is unstackable.
+After casting Omega Storm, Rover: Aero's Outro Skill is enhanced: Hitting the target increases the maximum stack of Aero Erosion the target can receive by {4} for {5}s.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng - Vạn Tượng Quy Khư gây thêm {0} lần sát thương Khí Động bằng {1} tấn công, đồng thời khi Giải Phóng Cộng Hưởng - Vạn Tượng Quy Khư đánh trúng sẽ giảm {2} kháng Khí Động của mục tiêu, duy trì {3} giây, không cộng dồn.
+Sau khi thi triển Giải Phóng Cộng Hưởng - Vạn Tượng Quy Khư, Lữ Khách - Khí Động nhận được cường hóa Hiệp Tấu: Tấn công đánh trúng tăng giới hạn tầng ""Hiệu Ứng Phong Thực"" của quái vật thêm {4}, duy trì {5} giây."
+lang_multi_text.db,MultiText,RogueBuffPool_140605_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放·万象归墟获得特殊强化。,"<color=#c49e55>[Resonance Liberation]</color>
+Resonance Liberation - Omega Storm gains special enhancements.",<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng - Vạn Tượng Quy Khư nhận được cường hóa đặc biệt.
+lang_multi_text.db,MultiText,RogueBuffPool_140605_BuffDesc_1,风吟霁色,Whispers of Sky,Phong Ngâm Tễ Sắc
+lang_multi_text.db,MultiText,RogueBuffPool_140605_BuffDesc_2_8,"<color=Highlight>【共鸣解放】</color>共鸣解放·万象归墟造成额外<color=Highlight>{0}</color>次攻击<color=Highlight>{1}</color>的气动伤害，且共鸣解放·万象归墟命中会降低目标<color=Highlight>{2}</color>气动抗性，持续<color=Highlight>{3}</color>秒，不可叠加。
+施放共鸣解放·万象归墟后漂泊者·气动获得延奏强化：攻击命中使怪物「风蚀效应」叠加层数上限加<color=Highlight>{4}</color>，持续<color=Highlight>{5}</color>秒。","<color=Highlight>[Resonance Liberation]</color>
+- Resonance Liberation - Omega Storm additionally deals <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=instance P=instances SapTag=0} of Aero DMG equal to <color=Highlight>{1}</color> of Rover: Aero's ATK and reduces the target's Aero RES by <color=Highlight>{2}</color> on hit for <color=Highlight>{3}s</color>. This effect is not stackable.
+- Casting Resonance Liberation - Omega Storm enhances Rover: Aero's Outro Skill: Upon hitting a target, increase the maximum stacks of Aero Erosion the target can receive by <color=Highlight>{4}</color> for <color=Highlight>{5}s</color>.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng - Vạn Tượng Quy Khư gây thêm <color=Highlight>{0}</color> lần sát thương Khí Động bằng <color=Highlight>{1}</color> tấn công, đồng thời khi Giải Phóng Cộng Hưởng - Vạn Tượng Quy Khư đánh trúng sẽ giảm <color=Highlight>{2}</color> kháng Khí Động của mục tiêu, duy trì <color=Highlight>{3}</color> giây, không cộng dồn.
+Sau khi thi triển Giải Phóng Cộng Hưởng - Vạn Tượng Quy Khư, Lữ Khách - Khí Động nhận được cường hóa Hiệp Tấu: Tấn công đánh trúng tăng giới hạn tầng ""Hiệu Ứng Phong Thực"" của quái vật thêm <color=Highlight>{4}</color>, duy trì <color=Highlight>{5}</color> giây."
+lang_multi_text.db,MultiText,RogueBuffPool_140605_BuffDesc_2_8_0,<color=Highlight>【共鸣解放】</color>共鸣解放·万象归墟获得特殊强化。,"<color=Highlight>[Resonance Liberation]</color>
+Resonance Liberation - Omega Storm is enhanced.",<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng - Vạn Tượng Quy Khư nhận được cường hóa đặc biệt.
+lang_multi_text.db,MultiText,RogueBuffPool_140701_BuffDesc,<color=#c49e55>【共鸣解放】</color>夏空共鸣解放伤害加成提升{0}，被共鸣解放命中的目标的气动抗性降低{1}，持续{2}秒。,"<color=#c49e55>[Resonance Liberation]</color>
+Ciaccona gains {0} Resonance Liberation DMG Bonus. Resonance Liberation additionally reduces the targets' Aero RES by {1} for {2}s.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Bonus sát thương Giải Phóng Cộng Hưởng của Ciaccona tăng {0}, mục tiêu bị Giải Phóng Cộng Hưởng đánh trúng giảm {1} kháng Khí Động, duy trì {2} giây."
+lang_multi_text.db,MultiText,RogueBuffPool_140701_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放伤害加成提升，共鸣解放命中的目标的气动抗性降低。,"<color=#c49e55>[Resonance Liberation]</color>
+Resonance Liberation DMG Bonus is increased. Resonance Liberation reduces the target's Aero RES on hit.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Bonus sát thương Giải Phóng Cộng Hưởng tăng, mục tiêu bị Giải Phóng Cộng Hưởng đánh trúng giảm kháng Khí Động."
+lang_multi_text.db,MultiText,RogueBuffPool_140701_BuffDesc_1,命运变奏的舞台,Stage of Shifting Fate,Sân Khấu Biến Tấu Vận Mệnh
+lang_multi_text.db,MultiText,RogueBuffPool_140702_BuffDesc,"<color=#c49e55>【共鸣回路】</color>施放第4段普攻落地后，生成「风域」对周围敌人造成{0}的气动伤害。
+夏空的第二段普攻、地面施放共鸣技能后可直接衔接第4段普攻。夏空施放共鸣解放期间可自由行动，交响诗·主音倍率提升并可以为目标同时添加【风蚀效应】和【光噪效应】。","<color=#c49e55>[Forte Circuit]</color>
+When Ciaccona lands after casting Basic Attack Stage 4, generate a Zephyr Field that deals {0} Aero DMG to nearby targets. 
+When Ciaccona casts Basic Attack Stage 2 or Resonance Skill on the ground, her next Basic Attack becomes Basic Attack Stage 4. When casting Resonance Liberation, Ciaccona can move freely. Symphonic Poem: Tonic's DMG Multiplier is increased, and the skill inflicts both Aero Erosion and Spectro Frazzle upon the target.","<color=#c49e55>[Cộng Hưởng Liên]</color>Sau khi thi triển đoạn Phổ Công thứ 4 và tiếp đất, tạo ""Phong Vực"" gây {0} sát thương Khí Động cho kẻ địch xung quanh.
+Đoạn Phổ Công thứ 2, thi triển Kỹ Năng Cộng Hưởng trên mặt đất của Ciaccona có thể nối tiếp trực tiếp đoạn Phổ Công thứ 4. Trong thời gian Ciaccona thi triển Giải Phóng Cộng Hưởng có thể tự do di chuyển, hệ số Giao Hưởng Thi - Chủ Âm tăng và có thể đồng thời áp dụng ""Hiệu Ứng Phong Thực"" và ""Hiệu Ứng Quang Tạo"" lên mục tiêu."
+lang_multi_text.db,MultiText,RogueBuffPool_140702_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>施放第4段普攻落地后，生成「风域」造成范围伤害。
+夏空的第二段普攻、地面施放共鸣技能后可直接衔接第4段普攻，且夏空施放共鸣解放期间可自由行动。","<color=#c49e55>[Forte Circuit]</color>
+When Ciaccona lands after casting Basic Attack 4, generate a Zephyr Field that deals AoE damage. 
+When Ciaccona casts Basic Attack Stage 2 or Resonance Skill on the ground, her next Basic Attack becomes Basic Attack 4. She can move freely when casting Resonance Liberation.","<color=#c49e55>[Cộng Hưởng Liên]</color>Sau khi thi triển đoạn Phổ Công thứ 4 và tiếp đất, tạo ""Phong Vực"" gây sát thương phạm vi.
+Đoạn Phổ Công thứ 2, thi triển Kỹ Năng Cộng Hưởng trên mặt đất của Ciaccona có thể nối tiếp trực tiếp đoạn Phổ Công thứ 4, đồng thời Ciaccona có thể tự do di chuyển trong thời gian thi triển Giải Phóng Cộng Hưởng."
 lang_multi_text.db,MultiText,RogueBuffPool_140702_BuffDesc_1,岚音颂,Ode to Zephyr,Lam Âm Tụng
 lang_multi_text.db,MultiText,RogueBuffPool_140703_BuffDesc,"<color=#c49e55>【重击】</color>施放重击·四拍重奏时：
 召唤合奏音影进行额外攻击，共造成{0}的气动伤害；
@@ -323,7 +353,7 @@ lang_multi_text.db,MultiText,RogueBuffPool_1501700010_BuffDesc_0,<color=#c49e55>
 lang_multi_text.db,MultiText,RogueBuffPool_1501700010_BuffDesc_1,尘声,Dusty Sound,Trần Thanh
 lang_multi_text.db,MultiText,RogueBuffPool_1501700060_BuffDesc,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置共鸣技能的冷却时间，每10s可触发一次。,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill. This can be triggered once every 10s.,"<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color> Thi triển Kỹ Năng Cộng Hưởng đã cường hóa sẽ đặt lại thời gian hồi chiêu Kỹ Năng Cộng Hưởng, có thể kích hoạt mỗi 10 giây một lần."
 lang_multi_text.db,MultiText,RogueBuffPool_1501700060_BuffDesc_0,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置其冷却时间,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill.,<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color> Thi triển Kỹ Năng Cộng Hưởng đã cường hóa sẽ đặt lại thời gian hồi chiêu.
-lang_multi_text.db,MultiText,RogueBuffPool_1501700060_BuffDesc_1,存在异常，如有疑问请联系官方客服,Resonance Skill Enhancement,"Tồn tại bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_1501700060_BuffDesc_1,存在异常，如有疑问请联系官方客服,Resonance Skill Enhancement,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,RogueBuffPool_1502700001_BuffDesc,<color=#c49e55>【普攻】</color><color=#c49e55>【重击】</color>普攻第{0}段、重击会额外召唤{1}把「飞剑」，造成{2}伤害。,"<color=#c49e55>[Basic Attack]</color> <color=#c49e55>[Heavy Attack]</color> Basic Attack {0} and Heavy Attack will summon {1} additional ""flying swords"", dealing {2} DMG.","<color=#c49e55>[Phổ Công]</color> <color=#c49e55>[Trọng Kích]</color> Phổ Công đoạn {0}, Trọng Kích sẽ triệu hồi thêm {1} thanh ""Phi Kiếm"", gây {2} sát thương."
 lang_multi_text.db,MultiText,RogueBuffPool_1502700001_BuffDesc_0,<color=#c49e55>【普攻】</color><color=#c49e55>【重击】</color>普攻、重击召唤的「飞剑」变为三把,"<color=#c49e55>[Basic Attack]</color> <color=#c49e55>[Heavy Attack]</color> Basic Attack and Heavy Attack now summon 3 ""Flying Swords"".","<color=#c49e55>[Phổ Công]</color> <color=#c49e55>[Trọng Kích]</color> Số ""Phi Kiếm"" được Phổ Công, Trọng Kích triệu hồi tăng lên ba thanh."
 lang_multi_text.db,MultiText,RogueBuffPool_1502700001_BuffDesc_1,回锋,Blade Returning,Hồi Phong
@@ -335,70 +365,12 @@ lang_multi_text.db,MultiText,RogueBuffPool_1502700020_BuffDesc_0,<color=#c49e55>
 lang_multi_text.db,MultiText,RogueBuffPool_1502700020_BuffDesc_1,折影,Folding Shadow,Chiết Ảnh
 lang_multi_text.db,MultiText,RogueBuffPool_1502700030_BuffDesc,<color=#ffd12f>【重击】</color>「重击·余音」会额外造成2次爆炸，每次造成150%衍射伤害。,"<color=#ffd12f>[Heavy Attack]</color> Heavy Attack: Aftertune will cause 2 extra explosions, each dealing 150% Spectro DMG.","<color=#ffd12f>[Trọng Kích]</color>""Trọng Kích - Dư Âm"" sẽ gây thêm 2 lần nổ, mỗi lần gây 150% sát thương Nhiễu Xạ."
 lang_multi_text.db,MultiText,RogueBuffPool_1502700030_BuffDesc_0,<color=#ffd12f>【重击】</color>增加重击后的爆炸次数,<color=#ffd12f>[Heavy Attack]</color> Increase the number of explosions after Heavy Attack.,<color=#ffd12f>[Trọng Kích]</color>Tăng số lần nổ sau Trọng Kích.
-lang_multi_text.db,MultiText,RogueBuffPool_1502700030_BuffDesc_1,存在异常，如有疑问请联系官方客服,Basic Attack Enhancement,Cường Hóa Phổ Công
+lang_multi_text.db,MultiText,RogueBuffPool_1502700030_BuffDesc_1,存在异常，如有疑问请联系官方客服,Basic Attack Enhancement,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,RogueBuffPool_1502700040_BuffDesc,<color=#c49e55>【共鸣技能】</color>「浮生千斩·旋音」会召唤{0}个额外的「剑轮」，每个「剑轮」造成{1}伤害。,"<color=#c49e55>[Resonance Skill]</color> ""Resonating Echoes"" will generate {0} additional Sword Wheels, each dealing {1} DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>""Phù Sinh Thiên Trảm - Toàn Âm"" sẽ triệu hồi thêm {0} ""Kiếm Luân"", mỗi ""Kiếm Luân"" gây {1} sát thương."
 lang_multi_text.db,MultiText,RogueBuffPool_1502700040_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>派生共鸣技能召唤额外「剑轮」,<color=#c49e55>[Resonance Skill]</color> The Chain Basic Attack following the Resonance Skill generates additional Sword Wheels.,"<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>Kỹ Năng Cộng Hưởng phái sinh triệu hồi thêm ""Kiếm Luân""."
 lang_multi_text.db,MultiText,RogueBuffPool_1502700040_BuffDesc_1,剑铓,Sword Point,Kiếm Mang
 lang_multi_text.db,MultiText,RogueBuffPool_1502700050_BuffDesc,<color=#c49e55>【共鸣解放】</color>共鸣解放可以消耗所有的特殊能量，每消耗一半可以提升一次共鸣解放的爆炸次数。,<color=#c49e55>[Resonance Liberation]</color> Resonance Liberation consumes all Diminutive Sound and causes one extra explosion for each half consumed.,"<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng có thể tiêu hao toàn bộ năng lượng đặc biệt, mỗi khi tiêu hao một nửa sẽ tăng thêm một lần nổ cho Giải Phóng Cộng Hưởng."
 lang_multi_text.db,MultiText,RogueBuffPool_1502700050_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放可消耗特殊能量提升爆炸次数,<color=#c49e55>[Resonance Liberation]</color> Resonance Liberation consumes all Diminutive Sound to cause extra explosions.,<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng có thể tiêu hao năng lượng đặc biệt để tăng số lần nổ.
 lang_multi_text.db,MultiText,RogueBuffPool_1502700050_BuffDesc_1,重鸣,Heavy Hum,Trọng Minh
-lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置共鸣技能的冷却时间，每10s可触发一次。,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill. This can be triggered once every 10s.,"<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color>Thi triển Kỹ Năng Cộng Hưởng sau cường hóa sẽ đặt lại thời gian hồi chiêu Kỹ Năng Cộng Hưởng, mỗi 10 giây có thể kích hoạt một lần."
-lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc_0,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置其冷却时间,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill.,<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color>Thi triển Kỹ Năng Cộng Hưởng sau cường hóa sẽ đặt lại thời gian hồi chiêu.
-lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc_1,存在异常，如有疑问请联系官方客服,Resonance Skill Enhancement,Cường Hóa Kỹ Năng Cộng Hưởng
-lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·满血时，暴击提升{0}。
-·满血时，施放共鸣技能会扣除自身{1}生命值，在自身自身前后左右各施放1次「蔓生」，造成攻击{2}的衍射伤害，此次伤害为共鸣技能伤害，并且该伤害无视目标{3}防御。","<color=#c49e55>[Resonance Skill]</color>
-- While Verina is at full HP, her Crit. Rate is increased by {0}.
-- While Verina is at full HP, casting Resonance Skill consumes {1} of her max HP and triggers 1 Overgrowth around her, dealing Spectro DMG equal to {2} of her ATK. This DMG is considered Resonance Skill DMG and ignores {3} of the target's DEF.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-- Khi đầy máu, tỷ lệ bạo kích tăng {0}.
-- Khi đầy máu, thi triển Kỹ Năng Cộng Hưởng sẽ trừ {1} sinh mệnh bản thân, đồng thời thi triển 1 lần ""Mạn Sinh"" ở bốn phía trước sau trái phải, gây sát thương Nhiễu Xạ bằng {2} tấn công. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng và bỏ qua {3} phòng thủ mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·满血时，暴击提升。
-·满血时，施放共鸣技能会扣除自身一定生命值，在自身自身前后左右各施放1次「蔓生」，造成衍射伤害，并且该伤害无视目标一定防御。","<color=#c49e55>[Resonance Skill]</color>
-- While Verina is at full HP, her Crit. Rate is increased.
-- While Verina is at full HP, casting Resonance Skill consumes a certain amount of her max HP and triggers 1 Overgrowth around her, dealing Spectro DMG that ignores a certain amount of the target's DEF.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-- Khi đầy máu, tỷ lệ bạo kích tăng.
-- Khi đầy máu, thi triển Kỹ Năng Cộng Hưởng sẽ trừ một lượng sinh mệnh nhất định, đồng thời thi triển 1 lần ""Mạn Sinh"" ở bốn phía xung quanh, gây sát thương Nhiễu Xạ và bỏ qua một lượng phòng thủ nhất định của mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc_1,萌芽一瞬,Moment of Emergence,Khoảnh Khắc Nảy Mầm
-lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc,"<color=#c49e55>【普攻】</color>
-·普攻循环只保留第四段和第五段，并且每次命中额外获得1点光合能量。
-·重击命中时会在前方施放1次「盛放花蕾」，造成攻击{0}的衍射伤害，此次伤害为共鸣技能伤害，每{1}秒可触发1次。
-·维里奈衍射伤害加成提升{2}。","<color=#c49e55>[Basic Attack]</color>
-- Basic Attack cycle now starts from Stage 4, and restores 1 additional Photosynthesis Energy on each hit.
-- Upon hitting a target with Heavy Attack, Verina casts 1 Bloombud in front of her, dealing Spectro DMG equal to {0} of her ATK, which is considered Resonance Skill DMG. This effect can be triggered once every {1}s.
-- Verina gains {2} Spectro DMG Bonus.","<color=#c49e55>[Phổ Công]</color>
-- Chuỗi Phổ Công chỉ giữ lại đoạn thứ tư và thứ năm, đồng thời mỗi lần trúng sẽ nhận thêm 1 điểm năng lượng quang hợp.
-- Khi Trọng Kích trúng mục tiêu, thi triển 1 lần ""Thịnh Phóng Hoa Lôi"" phía trước, gây sát thương Nhiễu Xạ bằng {0} tấn công. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng, mỗi {1} giây có thể kích hoạt 1 lần.
-- Verina tăng {2} gia tăng sát thương Nhiễu Xạ."
-lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·普攻循环只保留第四段和第五段，并且每次命中额外获得光合能量。
-·重击命中时会在前方施放「盛放花蕾」造成衍射伤害。
-·维里奈衍射伤害加成提升。","<color=#c49e55>[Basic Attack]</color>
-- Basic Attack cycle now starts from Stage 4, and restores additional Photosynthesis Energy on each hit.
-- Upon hitting a target with Heavy Attack, Verina casts Bloombud in front of her, dealing Spectro DMG.
-- Verina gains Spectro DMG Bonus.","<color=#c49e55>[Phổ Công]</color>
-- Chuỗi Phổ Công chỉ giữ lại đoạn thứ tư và thứ năm, đồng thời mỗi lần trúng sẽ nhận thêm năng lượng quang hợp.
-- Khi Trọng Kích trúng mục tiêu, thi triển ""Thịnh Phóng Hoa Lôi"" phía trước, gây sát thương Nhiễu Xạ.
-- Verina tăng gia tăng sát thương Nhiễu Xạ."
-lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc_1,盛放拥抱,Blossoming Embrace,Vòng Tay Nở Rộ
-lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc,"<color=#c49e55>【共鸣回路】</color>
-·每次消耗光合能量时，共鸣技能的冷却时间减少{0}秒。
-·施放共鸣技能时，会额外造成4次共计攻击{1}的大范围衍射伤害，此次伤害为共鸣技能伤害，并且可以回复{2}点光合能量。
-·维里奈衍射伤害加成提升{3}。","<color=#c49e55>[Forte Circuit]</color>
-- Verina's Resonance Skill Cooldown is reduced by {0}s each time she consumes Photosynthesis Energy.
-- Casting Resonance Skill also deals an additional Spectro DMG equal to {1} of Verina's ATK, striking a large area 4 times, which is considered Resonance Skill DMG, and recovers {2} Photosynthesis Energy.
-- Verina gains {3} Spectro DMG Bonus.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
-- Mỗi lần tiêu hao năng lượng quang hợp, thời gian hồi chiêu Kỹ Năng Cộng Hưởng giảm {0} giây.
-- Khi thi triển Kỹ Năng Cộng Hưởng, gây thêm 4 lần sát thương Nhiễu Xạ diện rộng tổng cộng bằng {1} tấn công. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng và hồi phục {2} điểm năng lượng quang hợp.
-- Verina tăng {3} gia tăng sát thương Nhiễu Xạ."
-lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>
-·每次消耗光合能量时，共鸣技能的冷却时间减少.
-·施放共鸣技能时，会额外造成范围伤害并回复光合能量。
-·维里奈衍射伤害加成提升。","<color=#c49e55>[Forte Circuit]</color>
-- Verina's Resonance Skill Cooldown is reduced each time she consumes Photosynthesis Energy.
-- Casting Resonance Skill also deals an additional DMG over a large area and recovers Photosynthesis Energy.
-- Verina gains Spectro DMG Bonus.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
-- Mỗi lần tiêu hao năng lượng quang hợp, thời gian hồi chiêu Kỹ Năng Cộng Hưởng giảm.
-- Khi thi triển Kỹ Năng Cộng Hưởng, gây thêm sát thương diện rộng và hồi phục năng lượng quang hợp.
-- Verina tăng gia tăng sát thương Nhiễu Xạ."
-lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc_1,晒足太阳,Bask in the Sunlight!,Tắm Đủ Ánh Nắng
+lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置共鸣技能的冷却时间，每10s可触发一次。,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill. This can be triggered once every 10s.,"<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color> Thi triển Kỹ Năng Cộng Hưởng đã cường hóa sẽ đặt lại thời gian hồi chiêu Kỹ Năng Cộng Hưởng, có thể kích hoạt mỗi 10 giây một lần."
+lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc_0,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置其冷却时间,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill.,<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color> Thi triển Kỹ Năng Cộng Hưởng đã cường hóa sẽ đặt lại thời gian hồi chiêu.

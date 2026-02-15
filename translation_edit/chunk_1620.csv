@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,PhantomBattle_1168,请选择要放回卡组的手牌,Select the Card(s) to Shuffle Back,Hãy chọn lá bài muốn trả về bộ bài
+lang_multi_text.db,MultiText,PhantomBattle_1169,请选择一张手牌，进行召唤,Select a card from your hand to deploy.,Hãy chọn một lá bài trên tay để tiến hành triệu hồi.
+lang_multi_text.db,MultiText,PhantomBattle_1170,不能将更多的声骸进行重构,You can't Reconstruct any more Echoes.,Không thể tái cấu trúc thêm Thanh Hài nào nữa.
+lang_multi_text.db,MultiText,PhantomBattle_1171,选择要保留的卡牌,Select the Card(s) to Keep,Chọn lá bài muốn giữ lại
+lang_multi_text.db,MultiText,PhantomBattle_1172,无法保留更多的卡牌,Cannot keep more cards.,Không thể giữ thêm lá bài.
+lang_multi_text.db,MultiText,PhantomBattle_1173,选择要重构的卡牌,Select the Card(s) to Reconstruct,Chọn lá bài muốn tái cấu trúc
+lang_multi_text.db,MultiText,PhantomBattle_1174,无法重构更多的卡牌,Cannot Reconstruct more cards.,Không thể tái cấu trúc thêm lá bài.
+lang_multi_text.db,MultiText,PhantomBattle_1175,在潮汐任务「冰原下的星炬」中解锁星炬学院的中枢信标后解锁,"Activate the Resonance Nexus in Startorch Academy in the Main Quest ""What Burns Beneath Frostlands"" to unlock.","Mở khóa Tín Hiệu Trung Khu của Học Viện Tinh Cự trong nhiệm vụ Triều Tịch ""Tinh Cự Dưới Băng Nguyên"" để mở khóa."
+lang_multi_text.db,MultiText,PhantomBattle_1176,联觉等级达到14级,Reach Union Level 14,Đạt Liên Giác cấp 14
+lang_multi_text.db,MultiText,PhantomBattle_1180,奇藏只能被放置于召唤区,Novelties must be placed in the Deployment Zone,Kỳ Tàng chỉ có thể được đặt vào khu triệu hồi.
 lang_multi_text.db,MultiText,PhantomBattle_1181,奇藏无法进行调谐,Novelty cannot be Modulated,Kỳ Tàng không thể tiến hành điều hưởng.
 lang_multi_text.db,MultiText,PhantomBattle_1182,完成活动任务「荣耀之丘：激斗重燃」后，解锁地区赛挑战,"Complete Event Quest ""Peaks of Prestige: Rekindled Duel"" to unlock","Hoàn thành nhiệm vụ hoạt động ""Đồi Vinh Quang: Kích Đấu Tái Bùng"" để mở khóa thử thách giải đấu khu vực."
 lang_multi_text.db,MultiText,PhantomBattle_1183,前往任务,Go,Đi đến nhiệm vụ
@@ -83,7 +93,7 @@ lang_multi_text.db,MultiText,PhantomFetter_155_EffectDescription,角色拥有护
 lang_multi_text.db,MultiText,PhantomFetter_155_SimplyEffectDesc,角色拥有护盾时，生命上限提升；角色生命值减少时，当前角色暴击率提升。,Having a shield increases max HP. Crit. Rate is increased upon losing HP.,"Khi nhân vật sở hữu khiên, sinh mệnh tối đa tăng; khi sinh mệnh nhân vật giảm, tỷ lệ bạo kích của nhân vật hiện tại tăng."
 lang_multi_text.db,MultiText,PhantomFetter_15_EffectDescription,共鸣效率提升{0},Energy Regen + {0}.,Hiệu suất Cộng Hưởng tăng {0}.
 lang_multi_text.db,MultiText,PhantomFetter_15_Name,海渊孽生之威,Wrath of the Deep,Uy Nghiệt Sinh Hải Uyên
-lang_multi_text.db,MultiText,PhantomFetter_15_SimplyEffectDesc,共鸣效率提升,Energy Regen+,Hiệu suất Cộng Hưởng tăng
+lang_multi_text.db,MultiText,PhantomFetter_15_SimplyEffectDesc,共鸣效率提升,Energy Regen+,Hiệu suất Cộng Hưởng tăng.
 lang_multi_text.db,MultiText,PhantomFetter_162_EffectDescription,气动伤害提升{0},Aero DMG + {0},Sát thương Khí Động tăng {0}
 lang_multi_text.db,MultiText,PhantomFetter_162_SimplyEffectDesc,气动伤害提升,Aero DMG+,Sát thương Khí Động tăng
 lang_multi_text.db,MultiText,PhantomFetter_165_EffectDescription,角色为敌人添加【风蚀效应】时，队伍中角色气动伤害提升{0}，自身气动伤害额外提升{1}，持续{2}秒。,"Inflicting Aero Erosion upon enemies increases Aero DMG for all Resonators in the team by {0}, and for the Resonator triggering this effect by an additional {1}, lasting for {2}s.","Khi nhân vật gây [Hiệu ứng Phong Thực] lên kẻ địch, sát thương Khí Động của các nhân vật trong đội tăng {0}, sát thương Khí Động bản thân tăng thêm {1}, kéo dài {2} giây."
@@ -92,13 +102,3 @@ lang_multi_text.db,MultiText,PhantomFetter_16_EffectDescription,使用延奏技�
 lang_multi_text.db,MultiText,PhantomFetter_16_Name,流云逝尽之空,Gusts of Welkin,Bầu Trời Mây Trôi Tận
 lang_multi_text.db,MultiText,PhantomFetter_16_SimplyEffectDesc,使用延奏技能后，下一个登场的共鸣者攻击提升,"Upon using Outro Skill, increase ATK of the next Resonator","Sau khi sử dụng kỹ năng Biến Tấu, tấn công của Cộng Hưởng Giả tiếp theo ra sân tăng"
 lang_multi_text.db,MultiText,PhantomFetter_172_EffectDescription,气动伤害提升{0},Aero DMG + {0},Sát thương Khí Động tăng {0}
-lang_multi_text.db,MultiText,PhantomFetter_172_SimplyEffectDesc,气动伤害提升,Aero DMG+,Sát thương Khí Động tăng
-lang_multi_text.db,MultiText,PhantomFetter_175_EffectDescription,攻击命中存在【风蚀效应】的敌人时，自身暴击提升{0}，气动伤害提升{1}，持续{2}秒。,"Hitting a target with Aero Erosion increases Crit. Rate by {0} and grants {1} Aero DMG Bonus, lasting for {2}s.","Khi tấn công trúng kẻ địch có [Hiệu ứng Phong Thực], bản thân tăng bạo kích {0}, sát thương Khí Động tăng {1}, kéo dài {2} giây."
-lang_multi_text.db,MultiText,PhantomFetter_175_SimplyEffectDesc,攻击命中存在【风蚀效应】的敌人时，自身暴击提升，气动伤害提升。,Hitting a target with Aero Erosion increases Crit. Rate and grants additional Aero DMG Bonus.,"Khi tấn công trúng kẻ địch có [Hiệu ứng Phong Thực], bản thân tăng bạo kích, sát thương Khí Động tăng."
-lang_multi_text.db,MultiText,PhantomFetter_17_EffectDescription,攻击提升10%,ATK +10%,Tấn công tăng 10%
-lang_multi_text.db,MultiText,PhantomFetter_17_Name,愿戴荣光之旅,Windward Pilgrimage,Hành Trình Vinh Quang
-lang_multi_text.db,MultiText,PhantomFetter_17_SimplyEffectDesc,攻击提升,ATK increases,Tấn công tăng
-lang_multi_text.db,MultiText,PhantomFetter_182_EffectDescription,热熔伤害提升{0},Fusion DMG + {0},Sát thương Nhiệt Dung tăng {0}
-lang_multi_text.db,MultiText,PhantomFetter_182_SimplyEffectDesc,热熔伤害提升,Fusion DMG+,Sát thương Nhiệt Dung tăng
-lang_multi_text.db,MultiText,PhantomFetter_185_EffectDescription,施放共鸣解放时，队伍中角色热熔伤害提升{0}，自身共鸣解放伤害提升{1}，持续{2}秒。,"Casting Resonance Liberation grants all Resonators in the team {0} Fusion DMG Bonus and the caster {1} Resonance Liberation DMG Bonus, lasting for {2}s.","Khi thi triển Giải Phóng Cộng Hưởng, sát thương Nhiệt Dung của các nhân vật trong đội tăng {0}, sát thương Giải Phóng Cộng Hưởng bản thân tăng {1}, kéo dài {2} giây."
-lang_multi_text.db,MultiText,PhantomFetter_185_SimplyEffectDesc,施放共鸣解放时，队伍中角色热熔伤害提升，自身共鸣解放伤害提升。,Casting Resonance Liberation grants Fusion DMG Bonus to all Resonators in the team and Resonance Liberation DMG Bonus to the caster.,"Khi thi triển Giải Phóng Cộng Hưởng, sát thương Nhiệt Dung của các nhân vật trong đội tăng, sát thương Giải Phóng Cộng Hưởng bản thân tăng."

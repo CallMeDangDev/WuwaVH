@@ -1,8 +1,18 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_1600026_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_1600027_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_16_Text,敏感词接口响应内容为空，请重试。,Response from Word Screening API is null. Please try again.,"Phản hồi từ giao diện lọc từ nhạy cảm trống, vui lòng thử lại."
+lang_multi_text.db,MultiText,ErrorCode_1700000_Text,状态切换错误,Status toggle error,Lỗi chuyển đổi trạng thái
+lang_multi_text.db,MultiText,ErrorCode_1700001_Text,状态切换错误,Status toggle error,Lỗi chuyển đổi trạng thái
+lang_multi_text.db,MultiText,ErrorCode_1700002_Text,状态切换错误,Status toggle error,Lỗi chuyển đổi trạng thái
+lang_multi_text.db,MultiText,ErrorCode_1700003_Text,状态切换错误,State switch error,Lỗi chuyển đổi trạng thái
+lang_multi_text.db,MultiText,ErrorCode_1700004_Text,状态切换错误,State switch error,Lỗi chuyển đổi trạng thái
+lang_multi_text.db,MultiText,ErrorCode_1700005_Text,状态切换错误,State switch error,Lỗi chuyển đổi trạng thái
+lang_multi_text.db,MultiText,ErrorCode_1700006_Text,状态切换错误,State switch error,Lỗi chuyển đổi trạng thái
 lang_multi_text.db,MultiText,ErrorCode_1700007_Text,状态切换错误,State switch error,Lỗi chuyển đổi trạng thái
 lang_multi_text.db,MultiText,ErrorCode_1700008_Text,测试自动生成提交,Test auto-generated submission,Gửi tự động tạo bởi kiểm thử
 lang_multi_text.db,MultiText,ErrorCode_1700009_Text,测试自动生成提交,Test auto-generated submission,Gửi tự động tạo bởi kiểm thử
-lang_multi_text.db,MultiText,ErrorCode_1700010_Text,测试自动生成提交,Activity function disabled,Kiểm tra tự động tạo gửi
+lang_multi_text.db,MultiText,ErrorCode_1700010_Text,测试自动生成提交,Activity function disabled,Gửi tự động tạo bởi kiểm thử
 lang_multi_text.db,MultiText,ErrorCode_1700011_Text,状态切换错误,Activity mission configuration not found,Lỗi chuyển đổi trạng thái
 lang_multi_text.db,MultiText,ErrorCode_1700012_Text,执行状态机行为错误,Activity mission not accepted,Lỗi thực thi hành vi máy trạng thái
 lang_multi_text.db,MultiText,ErrorCode_1700013_Text,执行状态机行为错误,Activity mission incomplete,Lỗi thực thi hành vi máy trạng thái
@@ -35,7 +45,7 @@ lang_multi_text.db,MultiText,ErrorCode_17_Text,敏感词检测异常，请重试
 lang_multi_text.db,MultiText,ErrorCode_1800000_Text,当前未处于联机状态，请稍后再试,"Currently not in the online state, please try again later","Hiện không trong trạng thái trực tuyến, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_1800001_Text,玩家当前队伍没有队员,No Team Members Now,Đội hiện tại không có thành viên
 lang_multi_text.db,MultiText,ErrorCode_1800002_Text,玩家不是主机,The player is not the host,Người chơi không phải chủ phòng
-lang_multi_text.db,MultiText,ErrorCode_1800003_Text,邀请已失效,The invitation has expired,Lời mời đã hết hạn
+lang_multi_text.db,MultiText,ErrorCode_1800003_Text,邀请已失效,The invitation has expired,Lời mời đã hết hiệu lực
 lang_multi_text.db,MultiText,ErrorCode_1800004_Text,玩家没有匹配队伍信息，请稍后再试,"The player does not have team match information, please try again later","Người chơi không có thông tin đội ghép, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_1800005_Text,主机匹配队伍没有队员，请稍后再试,"The host's match team has no members, please try again later","Đội ghép của chủ phòng không có thành viên, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_1800006_Text,玩家已在匹配队伍中,The player is already in the match team,Người chơi đã ở trong đội ghép
@@ -59,9 +69,9 @@ lang_multi_text.db,MultiText,ErrorCode_1800023_Text,对方已在联机状态中,
 lang_multi_text.db,MultiText,ErrorCode_1800024_Text,要切换角色不在当前编队中,The Resonator to be switched is not in the current team,Cộng Hưởng Giả cần chuyển không nằm trong đội hình hiện tại.
 lang_multi_text.db,MultiText,ErrorCode_1800025_Text,当前不能更改出战角色,The current character cannot be changed,Hiện tại không thể thay đổi nhân vật ra trận.
 lang_multi_text.db,MultiText,ErrorCode_1800026_Text,当前玩家处于联机模式无法使用,The current player cannot use the online mode,"Người chơi đang ở chế độ trực tuyến, không thể sử dụng."
-lang_multi_text.db,MultiText,ErrorCode_1800027_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Phát hiện bất thường. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức."
-lang_multi_text.db,MultiText,ErrorCode_1800028_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Phát hiện bất thường. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức."
-lang_multi_text.db,MultiText,ErrorCode_1800029_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Phát hiện bất thường. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,ErrorCode_1800027_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_1800028_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_1800029_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_1800030_Text,玩家当前角色死亡，无法进入多人游戏。,Revive the current Resonator before you join Co-op,"Nhân vật hiện tại đã tử vong, không thể tham gia chế độ nhiều người. Vui lòng hồi sinh trước."
 lang_multi_text.db,MultiText,ErrorCode_1800031_Text,玩家当前角色死亡，无法进入多人游戏。,Revive the current Resonator before you join Co-op,"Nhân vật hiện tại đã tử vong, không thể tham gia chế độ nhiều người. Vui lòng hồi sinh trước."
 lang_multi_text.db,MultiText,ErrorCode_1800032_Text,玩家当前角色死亡，无法进入多人游戏。,Revive the current Resonator before you join Co-op,"Nhân vật hiện tại đã tử vong, không thể tham gia chế độ nhiều người. Vui lòng hồi sinh trước."
@@ -88,14 +98,4 @@ lang_multi_text.db,MultiText,ErrorCode_18_Text,{0}组件不存在，如有疑问
 lang_multi_text.db,MultiText,ErrorCode_1900000_Text,数据坞等级未解锁，如有疑问请联系官方客服,"The Data Bank level is not unlocked, if you have any questions, please contact the official customer service","Cấp Kho Dữ Liệu chưa được mở khóa, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_1900001_Text,数据坞等级奖励已获取,The Data Bank level reward has been obtained,Phần thưởng cấp Kho Dữ Liệu đã được nhận
 lang_multi_text.db,MultiText,ErrorCode_1900002_Text,数据坞存在异常，如有疑问请联系官方客服,"The Data Bank has an abnormality, if you have any questions, please contact the official customer service","Kho Dữ Liệu có lỗi bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_1900003_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Có lỗi bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_1900004_Text,加载好友系统数据失败,Failed to load the friend system data,Tải dữ liệu hệ thống bạn bè thất bại
-lang_multi_text.db,MultiText,ErrorCode_1900005_Text,还未加载私聊系统数据,The private chat system data has not been loaded,Dữ liệu hệ thống nhắn tin riêng chưa được tải
-lang_multi_text.db,MultiText,ErrorCode_1900006_Text,探索工具存在未知异常，如有疑问请联系官方客服,"The Utility has an unknown abnormality, if you have any questions, please contact the official customer service","Công cụ khám phá có lỗi bất thường không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_1900007_Text,探索工具存在未知异常，如有疑问请联系官方客服,"The Utility has an unknown abnormality, if you have any questions, please contact the official customer service","Công cụ khám phá có lỗi bất thường không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_1900008_Text,战斗中无法使用,Unavailable in combat,Không thể sử dụng trong chiến đấu
-lang_multi_text.db,MultiText,ErrorCode_1900009_Text,未获得当前区域授权凭证,You have not obtained the Use Permit for this utility in the current region,Chưa nhận được chứng nhận ủy quyền khu vực hiện tại
-lang_multi_text.db,MultiText,ErrorCode_1900010_Text,探索工具存在未知异常，如有疑问请联系官方客服,"The Utility has an unknown abnormality, if you have any questions, please contact the official customer service","Công cụ khám phá có lỗi bất thường không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_1900011_Text,当前授权区域内未探测到特殊收集物,No special collectibles are detected in the authorized area.,Không phát hiện vật phẩm thu thập đặc biệt trong khu vực được ủy quyền.
-lang_multi_text.db,MultiText,ErrorCode_1900012_Text,探索工具存在未知异常，如有疑问请联系官方客服,"The Utility has an unknown abnormality, if you have any questions, please contact the official customer service","Công cụ khám phá có lỗi bất thường không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_1900013_Text,探索工具存在未知异常，如有疑问请联系官方客服,"The Utility has an unknown abnormality, if you have any questions, please contact the official customer service","Công cụ khám phá có lỗi bất thường không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_1900003_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"

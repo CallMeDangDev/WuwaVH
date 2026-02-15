@@ -1,8 +1,59 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,RogueBuffPool_110702_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放·死兆与闪避反击替换为「共鸣解放·安息日」，并额外造成伤害，期间免疫打断。,"<color=#c49e55>[Resonance Liberation]</color>
+Resonance Liberation - Death Knell and Dodge Counter become Resonance Liberation - Final Solace, dealing additional damage, during which Carlotta is immune to interruption.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
+Giải Phóng Cộng Hưởng - Tử Triệu và Né Tránh Phản Kích được thay thế bằng ""Giải Phóng Cộng Hưởng - An Tức Nhật"", gây thêm sát thương, trong thời gian đó miễn nhiễm gián đoạn."
+lang_multi_text.db,MultiText,RogueBuffPool_110702_BuffDesc_1,送葬悼约,Wailed Farewell,Tống Táng Điệu Ước
+lang_multi_text.db,MultiText,RogueBuffPool_110703_BuffDesc,"<color=#c49e55>【共鸣技能】</color>共鸣技能·暴力美学命中目标时，额外获得{0}点「灵萃」。普攻·必要性手段命中目标时，也会给目标添加「解离」。
+「解离」效果获得强化：
+给目标添加「解离」时，若处于「枪花轮舞」状态，则召唤{1}把「晶塑铳」攻击目标，分别造成攻击{2}的伤害；若不处于「枪花轮舞」状态，则召唤{3}个「欧泊」攻击目标，分别造成攻击{4}的冷凝伤害，此处伤害为共鸣技能伤害。
+共鸣回路·揭幕者效果常驻。","<color=#c49e55>[Resonance Skill]</color>
+Hitting a target with Resonance Skill - Art of Violence additionally recovers <SapTag=0>{0}</SapTag> {Cus:Sap,S=point P=points SapTag=0} Substance. Hitting a target with Basic Attack - Necessary Measures now inflicts Deconstruction on the target.
+Deconstruction gains the following enhancements:
+When inflicting Deconstruction on the target, if Carlotta is in Resonance Liberation - Twilight Tango, she summons {1} Crystal Muskets to attack the target, each dealing DMG equal to {2} of Carlotta's ATK. If Carlotta is not in Twilight Tango, she summons {3} Opals to attack the target, each dealing Glacio DMG equal to {4} of Carlotta's ATK, considered Resonance Skill DMG.
+Effects provided by Forte Circuit - Final Bow become constantly active.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+Khi Kỹ Năng Cộng Hưởng - Bạo Lực Mỹ Học trúng mục tiêu, nhận thêm {0} điểm ""Linh Tụy"". Khi Phổ Công - Biện Pháp Tất Yếu trúng mục tiêu, cũng sẽ áp dụng ""Giải Ly"" lên mục tiêu.
+Hiệu quả ""Giải Ly"" được cường hóa:
+Khi áp dụng ""Giải Ly"" lên mục tiêu, nếu đang trong trạng thái ""Thương Hoa Luân Vũ"", triệu hồi {1} khẩu ""Tinh Tố Súng"" tấn công mục tiêu, mỗi khẩu gây sát thương bằng {2} tấn công; nếu không trong trạng thái ""Thương Hoa Luân Vũ"", triệu hồi {3} viên ""Âu Bách"" tấn công mục tiêu, mỗi viên gây sát thương Ngưng Băng bằng {4} tấn công, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
+Hiệu quả Cộng Hưởng Hồi Lộ - Yết Mạc Giả được kích hoạt thường trực."
+lang_multi_text.db,MultiText,RogueBuffPool_110703_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>共鸣技能·暴力美学额外获得特殊能量，普攻·必要性手段命中目标时额外添加「解离」。
+「解离」效果获得强化。","<color=#c49e55>[Resonance Skill]</color>
+Resonance Skill - Art of Violence additionally recovers Forte Gauge. Basic Attack - Necessary Measures additionally inflicts Deconstruction upon the target on hit.
+Deconstruction gains enhancements.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+Kỹ Năng Cộng Hưởng - Bạo Lực Mỹ Học nhận thêm năng lượng đặc biệt, Phổ Công - Biện Pháp Tất Yếu khi trúng mục tiêu sẽ áp dụng thêm ""Giải Ly"".
+Hiệu quả ""Giải Ly"" được cường hóa."
+lang_multi_text.db,MultiText,RogueBuffPool_110703_BuffDesc_1,美学解构,Aesthetic Deconstruction,Mỹ Học Giải Cấu
+lang_multi_text.db,MultiText,RogueBuffPool_110704_BuffDesc,"<color=#c49e55>【共鸣回路】</color>共鸣回路·重击·末路见行也能对命中的目标施加共鸣技能·变彩效果。
+移除「镀色晶」冷却。
+「枪花轮舞」状态下，施放共鸣技能·示我璀璨后{0}秒内：空中攻击·礼节性问候会替换为共鸣回路·重击·末路见行。","<color=#c49e55>[Forte Circuit]</color>
+Heavy Attack - Imminent Oblivion from Forte Circuit now inflicts Resonance Skill - Dispersion upon the target on hit.
+Tinted Crystal has no Cooldown.
+When in Resonance Liberation - Twilight Tango and within {0}s after casting Resonance Skill - Chromatic Splendor, Mid-air Attack - Customary Greetings becomes Heavy Attack - Imminent Oblivion.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
+Cộng Hưởng Hồi Lộ - Trọng Kích - Mạt Lộ Kiến Hành cũng có thể áp dụng hiệu quả Kỹ Năng Cộng Hưởng - Biến Thải lên mục tiêu bị trúng.
+Xóa bỏ thời gian hồi chiêu của ""Độ Sắc Tinh"".
+Trong trạng thái ""Thương Hoa Luân Vũ"", trong vòng {0} giây sau khi thi triển Kỹ Năng Cộng Hưởng - Thị Ngã Thôi Xán: Tấn Công Trên Không - Lễ Tiết Tính Vấn Hầu sẽ được thay thế bằng Cộng Hưởng Hồi Lộ - Trọng Kích - Mạt Lộ Kiến Hành."
+lang_multi_text.db,MultiText,RogueBuffPool_110704_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>共鸣回路·重击·末路见行获得特殊强化。,"<color=#c49e55>[Forte Circuit]</color>
+Heavy Attack - Imminent Oblivion from Forte Circuit gains special enhancements.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
+Cộng Hưởng Hồi Lộ - Trọng Kích - Mạt Lộ Kiến Hành nhận được cường hóa đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_110704_BuffDesc_1,舞者终幕,Dancer's Finale,Vũ Giả Chung Mạc
+lang_multi_text.db,MultiText,RogueBuffPool_110705_BuffDesc,"<color=#c49e55>【共鸣技能】</color>共鸣技能·暴力美学的攻击范围扩大。
+「变彩」效果获得强化：
+目标的冷凝伤害抗性降低{0}，持续{1}秒。","<color=#c49e55>[Resonance Skill]</color>
+Resonance Skill - Art of Violence has an expanded attack range.
+Dispersion gains the following effect:
+The target's Glacio RES is reduced by {0} for {1}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+Phạm vi tấn công của Kỹ Năng Cộng Hưởng - Bạo Lực Mỹ Học được mở rộng.
+Hiệu quả ""Biến Thải"" được cường hóa:
+Kháng sát thương Ngưng Băng của mục tiêu giảm {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,RogueBuffPool_110705_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>共鸣技能·暴力美学的攻击范围扩大。
+「变彩」效果获得强化。","<color=#c49e55>[Resonance Skill]</color>
+Resonance Skill - Art of Violence has an expanded attack range.
+Dispersion gains enhancement.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+Phạm vi tấn công của Kỹ Năng Cộng Hưởng - Bạo Lực Mỹ Học được mở rộng.
+Hiệu quả ""Biến Thải"" được cường hóa."
 lang_multi_text.db,MultiText,RogueBuffPool_110705_BuffDesc_1,变彩流溢,Chroma Cascade,Biến Thải Lưu Dật
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffDesc,存在异常，如有疑问请联系官方客服,<color=#ffd12f>[Companion's Aid]</color> Summon Chixia for assistance.,<color=#ffd12f>[Trợ Giúp Đồng Hành]</color> Triệu hồi Chixia hỗ trợ.
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffDesc_0,存在异常，如有疑问请联系官方客服,<color=#ffd12f>[Companion's Aid]</color> Summon Chixia for assistance.,<color=#ffd12f>[Trợ Giúp Đồng Hành]</color> Triệu hồi Chixia hỗ trợ.
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffName,存在异常，如有疑问请联系官方客服,Chixia's Token,Tín Vật của Chixia
+lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffDesc,存在异常，如有疑问请联系官方客服,<color=#ffd12f>[Companion's Aid]</color> Summon Chixia for assistance.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffDesc_0,存在异常，如有疑问请联系官方客服,<color=#ffd12f>[Companion's Aid]</color> Summon Chixia for assistance.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffName,存在异常，如有疑问请联系官方客服,Chixia's Token,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,RogueBuffPool_120301_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
 ·共鸣技能、「梦境·白咩」、「梦境·黑咩」造成的伤害能无视目标{0}防御。
 ·召唤「梦境·白咩」的时候，会同时召唤「梦境·黑咩」，共造成攻击{1}的热熔伤害，此次伤害为普攻伤害，该效果每{2}秒可触发1次。","<color=#c49e55>[Resonance Skill]</color>
@@ -325,60 +376,3 @@ lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc,"<color=#c49e55>【�
 - Each time casting Hellstride grants <color=Highlight>{3}</color> Fusion DMG Bonus for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{5}</color> times.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
 - Trong ""Trạng Thái Ngưỡng Giới"", thi triển Địa Ngục Xuyên Hành sẽ gây thêm sát thương Nhiệt Dung bằng <color=Highlight>{0}</color> tấn công, sát thương này tính là sát thương Trọng Kích, khiến kẻ địch xung quanh đình trệ <color=Highlight>{1}</color> giây, và lần nhấn Phổ Công tiếp theo sẽ thi triển đoạn 3, 4 Phổ Công, đồng thời hồi phục <color=Highlight>{2}</color> điểm ""Tội Hỏa"".
 - Mỗi lần thi triển Địa Ngục Xuyên Hành, tăng <color=Highlight>{3}</color> bonus sát thương Nhiệt Dung, kéo dài <color=Highlight>{4}</color> giây, cộng dồn tối đa <color=Highlight>{5}</color> tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>「地狱穿行」获得特殊强化。
-「阈限状态」期间，施放「地狱穿行」后短按普攻可回复「罪火」。","<color=#c49e55>[Forte Circuit]</color>
-- Hellstride is enhanced.
-- While in Threshold State, using Basic Attack after casting Hellstride restores Sinflame.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
-- ""Địa Ngục Xuyên Hành"" được cường hóa đặc biệt.
-- Trong ""Trạng Thái Ngưỡng Giới"", thi triển ""Địa Ngục Xuyên Hành"" rồi nhấn Phổ Công sẽ hồi phục ""Tội Hỏa""."
-lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc_2_8,"<color=Highlight>【共鸣回路】</color>「阈限状态」期间施放地狱穿行，可额外造成攻击<color=Highlight>{0}</color>的热熔伤害，此次伤害为重击伤害，使周围敌人停滞<color=Highlight>{1}</color>秒，且下次短按普攻可施放普攻第3、4段，并回复<color=Highlight>{2}</color>点「罪火」。
-每次地狱穿行后，提升<color=Highlight>{3}</color>热熔伤害加成，持续<color=Highlight>{4}</color>秒，可叠加<color=Highlight>{5}</color>层。","<color=Highlight>[Forte Circuit]</color>
-- Casting Hellstride while in Threshold State additionally deals Fusion DMG equal to <color=Highlight>{0}</color> of Galbrena's ATK (considered Heavy Attack DMG) and stagnates nearby enemies for <color=Highlight>{1}s</color>. Using Basic Attack the next time casts Basic Attack Stages 3 and 4 and restores <color=Highlight>{2}</color> points of Sinflame.
-- Each time casting Hellstride grants <color=Highlight>{3}</color> Fusion DMG Bonus for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{5}</color> times.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>
-- Trong ""Trạng Thái Ngưỡng Giới"", thi triển Địa Ngục Xuyên Hành sẽ gây thêm sát thương Nhiệt Dung bằng <color=Highlight>{0}</color> tấn công, sát thương này tính là sát thương Trọng Kích, khiến kẻ địch xung quanh đình trệ <color=Highlight>{1}</color> giây, và lần nhấn Phổ Công tiếp theo sẽ thi triển đoạn 3, 4 Phổ Công, đồng thời hồi phục <color=Highlight>{2}</color> điểm ""Tội Hỏa"".
-- Mỗi lần thi triển Địa Ngục Xuyên Hành, tăng <color=Highlight>{3}</color> bonus sát thương Nhiệt Dung, kéo dài <color=Highlight>{4}</color> giây, cộng dồn tối đa <color=Highlight>{5}</color> tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc_2_8_0,"<color=Highlight>【共鸣回路】</color>「地狱穿行」获得特殊强化。
-「阈限状态」期间，施放「地狱穿行」后短按普攻可回复「罪火」。","<color=Highlight>[Forte Circuit]</color>
-- Hellstride is enhanced.
-- While in Threshold State, using Basic Attack after casting Hellstride restores Sinflame.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>
-- ""Địa Ngục Xuyên Hành"" được cường hóa đặc biệt.
-- Trong ""Trạng Thái Ngưỡng Giới"", thi triển ""Địa Ngục Xuyên Hành"" rồi nhấn Phổ Công sẽ hồi phục ""Tội Hỏa""."
-lang_multi_text.db,MultiText,RogueBuffPool_120802_BuffDesc,"<color=Highlight>【共鸣回路】</color>「内燃烧」期间，暴击提升<color=Highlight>{0}</color>。
-每次刷新「内燃烧」效果，回复<color=Highlight>{1}</color>点共鸣能量。","<color=Highlight>[Forte Circuit]</color>
-- While in Burning Drive, Crit. Rate is increased by <color=Highlight>{0}</color>.
-- Each Burning Drive reset restores <color=Highlight>{1}</color> points of Resonance Energy.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>
-- Trong ""Nội Nhiên Thiêu"", tỷ lệ bạo kích tăng <color=Highlight>{0}</color>.
-- Mỗi lần làm mới hiệu ứng ""Nội Nhiên Thiêu"", hồi phục <color=Highlight>{1}</color> điểm năng lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120802_BuffDesc_0,<color=Highlight>【共鸣回路】</color>「内燃烧」期间暴击提升，每次刷新时回复共鸣能量。,"<color=Highlight>[Forte Circuit]</color>
-- While in Burning Drive, Crit. Rate is increased.
-- Each Burning Drive reset restores Resonance Energy.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>
-- Trong ""Nội Nhiên Thiêu"", tỷ lệ bạo kích tăng.
-- Mỗi lần làm mới sẽ hồi phục năng lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120802_BuffDesc_2_8,"<color=Highlight>【共鸣回路】</color>「内燃烧」期间，暴击提升<color=Highlight>{0}</color>。
-每次刷新「内燃烧」效果，回复<color=Highlight>{1}</color>点共鸣能量。","<color=Highlight>[Forte Circuit]</color>
-- While in Burning Drive, Crit. Rate is increased by <color=Highlight>{0}</color>.
-- Each Burning Drive reset restores <color=Highlight>{1}</color> points of Resonance Energy.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>
-- Trong ""Nội Nhiên Thiêu"", tỷ lệ bạo kích tăng <color=Highlight>{0}</color>.
-- Mỗi lần làm mới hiệu ứng ""Nội Nhiên Thiêu"", hồi phục <color=Highlight>{1}</color> điểm năng lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120802_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>「内燃烧」期间暴击提升，每次刷新时回复共鸣能量。,"<color=Highlight>[Forte Circuit]</color>
-- While in Burning Drive, Crit. Rate is increased.
-- Each Burning Drive reset restores Resonance Energy.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>
-- Trong ""Nội Nhiên Thiêu"", tỷ lệ bạo kích tăng.
-- Mỗi lần làm mới sẽ hồi phục năng lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120803_BuffDesc,"<color=Highlight>【共鸣解放】</color>「共鸣解放·炼净」冷却时间减少<color=Highlight>{0}</color>秒。
-施放时每<color=Highlight>{1}</color>点「罪火」或「净炼火」可额外回复<color=Highlight>{2}</color>点「余火」，每点「罪火」或「净炼火」使自身伤害加成提升<color=Highlight>{3}</color>，持续<color=Highlight>{4}</color>秒。","<color=Highlight>[Resonance Liberation]</color>
-- The cooldown of Resonance Liberation - Hellfire Absolution is reduced by <color=Highlight>{0}s</color>.
-- When casting the skill, every <color=Highlight>{1}</color> points of Sinflame or Purging Flame available additionally restores <color=Highlight>{2}</color> points of Afterflame. Each point of Sinflame or Purging Flame grants <color=Highlight>{3}</color> DMG Bonus for <color=Highlight>{4}s</color>.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>
-- Thời gian hồi chiêu ""Giải Phóng Cộng Hưởng - Luyện Tịnh"" giảm <color=Highlight>{0}</color> giây.
-- Khi thi triển, cứ mỗi <color=Highlight>{1}</color> điểm ""Tội Hỏa"" hoặc ""Tịnh Luyện Hỏa"" sẽ hồi phục thêm <color=Highlight>{2}</color> điểm ""Dư Hỏa"", mỗi điểm ""Tội Hỏa"" hoặc ""Tịnh Luyện Hỏa"" tăng <color=Highlight>{3}</color> bonus sát thương bản thân, kéo dài <color=Highlight>{4}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120803_BuffDesc_0,<color=Highlight>【共鸣解放】</color>共鸣解放冷却时间减少，额外回复「余火」并使自身伤害加成提升。,"<color=Highlight>[Resonance Liberation]</color>
-- The cooldown of Resonance Liberation is reduced.
-- Casting Resonance Liberation additionally restores Afterflame and increases DMG dealt.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>
-- Thời gian hồi chiêu Giải Phóng Cộng Hưởng giảm.
-- Thi triển Giải Phóng Cộng Hưởng sẽ hồi phục thêm ""Dư Hỏa"" và tăng bonus sát thương bản thân."
-lang_multi_text.db,MultiText,RogueBuffPool_120803_BuffDesc_2_8,"<color=Highlight>【共鸣解放】</color>「共鸣解放·炼净」冷却时间减少<color=Highlight>{0}</color>秒。
-施放时每<color=Highlight>{1}</color>点「罪火」或「净炼火」可额外回复<color=Highlight>{2}</color>点「余火」，每点「罪火」或「净炼火」使自身伤害加成提升<color=Highlight>{3}</color>，持续<color=Highlight>{4}</color>秒。","<color=Highlight>[Resonance Liberation]</color>
-- The cooldown of Resonance Liberation - Hellfire Absolution is reduced by <color=Highlight>{0}s</color>.
-- When casting the skill, every <color=Highlight>{1}</color> points of Sinflame or Purging Flame available additionally restores <color=Highlight>{2}</color> points of Afterflame. Each point of Sinflame or Purging Flame grants <color=Highlight>{3}</color> DMG Bonus for <color=Highlight>{4}s</color>.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>
-- Thời gian hồi chiêu ""Giải Phóng Cộng Hưởng - Luyện Tịnh"" giảm <color=Highlight>{0}</color> giây.
-- Khi thi triển, cứ mỗi <color=Highlight>{1}</color> điểm ""Tội Hỏa"" hoặc ""Tịnh Luyện Hỏa"" sẽ hồi phục thêm <color=Highlight>{2}</color> điểm ""Dư Hỏa"", mỗi điểm ""Tội Hỏa"" hoặc ""Tịnh Luyện Hỏa"" tăng <color=Highlight>{3}</color> bonus sát thương bản thân, kéo dài <color=Highlight>{4}</color> giây."

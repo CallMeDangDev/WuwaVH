@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_property.db,PropertyIndex,84,共振度上限,Max Plangency,Giới hạn Cộng Chấn
+lang_property.db,PropertyIndex,85,共振度恢复速度,Plangency Recovery Rate,Tốc độ hồi phục Cộng Chấn
+lang_property.db,PropertyIndex,86,空共振度惩罚时间,Extra zero Plangency time,Thời gian phạt khi hết Cộng Chấn
+lang_property.db,PropertyIndex,87,破共振度倍率,Plangency Reduction multiplier,Hệ số giảm Cộng Chấn
+lang_property.db,PropertyIndex,88,被破共振度倍率,Passive Plangency Reduction multiplier,Hệ số bị giảm Cộng Chấn
+lang_property.db,PropertyIndex,89,韧性上限,Max Toughness,Giới hạn Nhẫn Tính
+lang_property.db,PropertyIndex,90,韧性,Toughness,Nhẫn Tính
+lang_property.db,PropertyIndex,91,韧性恢复速度,Toughness Recovery Speed,Tốc độ hồi phục Nhẫn Tính
+lang_property.db,PropertyIndex,92,削韧倍率,Toughness Reduction multiplier,Hệ số giảm Nhẫn Tính
+lang_property.db,PropertyIndex,93,被削韧倍率,Passive Toughness Reduction multiplier,Hệ số bị giảm Nhẫn Tính
 lang_property.db,PropertyIndex,104,无视防御率,Defense Penetration Ratio,Tỷ lệ xuyên phòng thủ
 lang_property.db,PropertyIndex,118,移动速率,Movement Speed,Tốc độ di chuyển
 lang_property.db,PropertyIndex,119,声骸技能伤害加成,Wutrelic skill DMG bonus,Tăng sát thương Thanh Hài Kỹ
@@ -7,30 +17,30 @@ lang_property.db,PropertyIndex,121,重击速度,Charged Attack Speed,Tốc độ
 lang_property.db,PropertyIndex,139,等级,Level,Cấp
 lang_property.db,PropertyIndex,140,生命,HP,Sinh Mệnh
 lang_property.db,PropertyIndex,141,生命,HP,Sinh Mệnh
-lang_property.db,PropertyIndex,142,护盾值,Shield,Giá trị khiên
+lang_property.db,PropertyIndex,142,护盾值,Shield,Giá trị hộ thuẫn
 lang_property.db,PropertyIndex,143,test/破盾倍率,DEF Down Multiplier,DEF Down Multiplier
 lang_property.db,PropertyIndex,144,test/被破盾倍率,Passive DEF Down Multiplier,Passive DEF Down Multiplier
 lang_property.db,PropertyIndex,145,攻击,Attack,Tấn Công
-lang_property.db,PropertyIndex,146,暴击,Crit. Rate,Tỷ lệ bạo kích
-lang_property.db,PropertyIndex,147,暴击伤害,Critical DMG,Sát thương bạo kích
-lang_property.db,PropertyIndex,148,防御,Defense,Phòng Thủ
-lang_property.db,PropertyIndex,149,共鸣效率,Resonance Efficiency,Hiệu suất Cộng Hưởng
-lang_property.db,PropertyIndex,150,冷却时间降低,Cooldown Reduction,Giảm thời gian hồi chiêu
+lang_property.db,PropertyIndex,146,暴击,Crit. Rate,Bạo Kích
+lang_property.db,PropertyIndex,147,暴击伤害,Critical DMG,Sát Thương Bạo Kích
+lang_property.db,PropertyIndex,148,防御,Defense,Phòng Ngự
+lang_property.db,PropertyIndex,149,共鸣效率,Resonance Efficiency,Hiệu Suất Cộng Hưởng
+lang_property.db,PropertyIndex,150,冷却时间降低,Cooldown Reduction,Giảm Thời Gian Hồi
 lang_property.db,PropertyIndex,151,test/协奏升华,Concerto Sublimation,Concerto Sublimation
 lang_property.db,PropertyIndex,152,共鸣技能伤害加成,Resonance skill damage bonus,Gia tăng sát thương Kỹ Năng Cộng Hưởng
 lang_property.db,PropertyIndex,153,通用伤害加成,General DMG bonus,Gia tăng sát thương chung
-lang_property.db,PropertyIndex,154,通用受伤减免,General Injury Reduction,Giảm sát thương chung
+lang_property.db,PropertyIndex,154,通用受伤减免,General Injury Reduction,Giảm sát thương nhận chung
 lang_property.db,PropertyIndex,155,普攻伤害加成,Normal Attack bonus,Gia tăng sát thương Phổ Công
-lang_property.db,PropertyIndex,156,蓄力攻击伤害加成,Charged Attack bonus,Gia tăng sát thương Tích Lực
+lang_property.db,PropertyIndex,156,蓄力攻击伤害加成,Charged Attack bonus,Gia tăng sát thương Trọng Kích
 lang_property.db,PropertyIndex,157,共鸣解放伤害加成,Resonance liberation DMG bonus,Gia tăng sát thương Giải Phóng Cộng Hưởng
 lang_property.db,PropertyIndex,158,连携技能伤害加成,Combo skill DMG bonus,Gia tăng sát thương Liên Hiệp Kỹ
 lang_property.db,PropertyIndex,159,物理伤害加成,Physical DMG bonus,Gia tăng sát thương Vật Lý
 lang_property.db,PropertyIndex,160,冷凝伤害加成,Frozen DMG bonus,Gia tăng sát thương Ngưng Băng
 lang_property.db,PropertyIndex,161,热熔伤害加成,Smelt DMG bonus,Gia tăng sát thương Nhiệt Dung
-lang_property.db,PropertyIndex,162,导电伤害加成,Conduction DMG bonus,Gia tăng sát thương Dẫn Điện
-lang_property.db,PropertyIndex,163,气动伤害加成,Aerodynamic DMG bonus,Gia tăng sát thương Khí Động
-lang_property.db,PropertyIndex,164,衍射伤害加成,Diffusion DMG bonus,Gia tăng sát thương Nhiễu Xạ
-lang_property.db,PropertyIndex,165,解离伤害加成,Dissociation DMG bonus,Gia tăng sát thương Giải Ly
+lang_property.db,PropertyIndex,162,导电伤害加成,Conduction DMG bonus,Tăng sát thương Dẫn Điện
+lang_property.db,PropertyIndex,163,气动伤害加成,Aerodynamic DMG bonus,Tăng sát thương Khí Động
+lang_property.db,PropertyIndex,164,衍射伤害加成,Diffusion DMG bonus,Tăng sát thương Nhiễu Xạ
+lang_property.db,PropertyIndex,165,解离伤害加成,Dissociation DMG bonus,Tăng sát thương Giải Ly
 lang_property.db,PropertyIndex,166,物理伤害抗性,Physical DMG Resistance,Kháng sát thương Vật Lý
 lang_property.db,PropertyIndex,167,冷凝伤害抗性,Frozen DMG Resistance,Kháng sát thương Ngưng Băng
 lang_property.db,PropertyIndex,168,热熔伤害抗性,Smelt DMG Resistance,Kháng sát thương Nhiệt Dung
@@ -38,8 +48,8 @@ lang_property.db,PropertyIndex,169,导电伤害抗性,Conduction DMG Resistance,
 lang_property.db,PropertyIndex,170,气动伤害抗性,Aerodynamic DMG Resistance,Kháng sát thương Khí Động
 lang_property.db,PropertyIndex,171,衍射伤害抗性,Diffusion DMG Resistance,Kháng sát thương Nhiễu Xạ
 lang_property.db,PropertyIndex,172,解离伤害抗性,Dissociation DMG Resistance,Kháng sát thương Giải Ly
-lang_property.db,PropertyIndex,173,治疗效果加成,Healing Effect bonus,Gia tăng hiệu quả trị liệu
-lang_property.db,PropertyIndex,174,受治疗效果加成,Recovery Effect bonus,Gia tăng hiệu quả được trị liệu
+lang_property.db,PropertyIndex,173,治疗效果加成,Healing Effect bonus,Tăng hiệu quả trị liệu
+lang_property.db,PropertyIndex,174,受治疗效果加成,Recovery Effect bonus,Tăng hiệu quả nhận trị liệu
 lang_property.db,PropertyIndex,175,物理伤害减免,Physical DMG Immunity,Giảm sát thương Vật Lý
 lang_property.db,PropertyIndex,176,冷凝伤害减免,Element 1 DMG Immunity,Giảm sát thương Ngưng Băng
 lang_property.db,PropertyIndex,177,热熔伤害减免,Element 2 DMG Immunity,Giảm sát thương Nhiệt Dung
@@ -76,26 +86,16 @@ lang_property.db,PropertyIndex,207,耐力上限,Stamina Limit,Giới hạn Thể
 lang_property.db,PropertyIndex,208,耐力,Stamina,Thể Lực
 lang_property.db,PropertyIndex,209,test/耐力恢复速度,Stamina Recovery,Stamina Recovery
 lang_property.db,PropertyIndex,210,test/空耐力惩罚时间,Zero stamina penalty time,Zero stamina penalty time
-lang_property.db,PropertyIndex,216,共振度上限,Max Plangency,Cộng Chấn tối đa
-lang_property.db,PropertyIndex,217,共振度上限,Max Plangency,Cộng Chấn tối đa
+lang_property.db,PropertyIndex,216,共振度上限,Max Plangency,Giới hạn Cộng Chấn
+lang_property.db,PropertyIndex,217,共振度上限,Max Plangency,Giới hạn Cộng Chấn
 lang_property.db,PropertyIndex,218,共振度恢复速度,Plangency Recovery Rate,Tốc độ hồi phục Cộng Chấn
-lang_property.db,PropertyIndex,219,空共振度惩罚时间,Extra zero Plangency time,Thời gian phạt khi Cộng Chấn về 0
+lang_property.db,PropertyIndex,219,空共振度惩罚时间,Extra zero Plangency time,Thời gian phạt khi hết Cộng Chấn
 lang_property.db,PropertyIndex,220,破共振度倍率,Plangency Reduction multiplier,Hệ số giảm Cộng Chấn
 lang_property.db,PropertyIndex,221,被破共振度倍率,Passive Plangency Reduction multiplier,Hệ số bị giảm Cộng Chấn
-lang_property.db,PropertyIndex,222,韧性上限,Max Toughness,Nhẫn Tính tối đa
+lang_property.db,PropertyIndex,222,韧性上限,Max Toughness,Giới hạn Nhẫn Tính
 lang_property.db,PropertyIndex,223,韧性,Toughness,Nhẫn Tính
 lang_property.db,PropertyIndex,224,韧性恢复速度,Toughness Recovery Speed,Tốc độ hồi phục Nhẫn Tính
 lang_property.db,PropertyIndex,225,削韧倍率,Toughness Reduction multiplier,Hệ số giảm Nhẫn Tính
 lang_property.db,PropertyIndex,226,被削韧倍率,Passive Toughness Reduction multiplier,Hệ số bị giảm Nhẫn Tính
-lang_property.db,PropertyIndex,237,无视防御率,Defense Penetration Ratio,Tỷ lệ xuyên Phòng Thủ
+lang_property.db,PropertyIndex,237,无视防御率,Defense Penetration Ratio,Tỷ lệ xuyên phòng thủ
 lang_property.db,PropertyIndex,251,移动速率,Movement Speed,Tốc độ di chuyển
-lang_property.db,PropertyIndex,252,声骸技能伤害加成,Wutrelic skill DMG bonus,Tăng sát thương Thanh Hài Kỹ
-lang_property.db,PropertyIndex,253,普攻速度,Normal Attack Speed,Tốc độ Phổ Công
-lang_property.db,PropertyIndex,254,重击速度,Charged Attack Speed,Tốc độ Trọng Kích
-lang_quest.db,Quest,1,残鸣初奏,,Tàn Minh Sơ Tấu
-lang_quest.db,Quest,2,残鸣已然奏响……跟随它的指引，你将走向全新的未知，也将找到属于自己的过往。,,"Tàn Minh đã vang lên... Theo sự dẫn dắt của nó, ngươi sẽ bước đến những điều chưa biết, và cũng sẽ tìm lại quá khứ thuộc về chính mình."
-lang_quest.db,Quest,3,残鸣初奏,,Tàn Minh Sơ Tấu
-lang_quest.db,Quest,4,残鸣已然奏响……跟随它的指引，你将走向全新的未知，也将找到属于自己的过往。,,"Tàn Minh đã vang lên... Theo sự dẫn dắt của nó, ngươi sẽ bước đến những điều chưa biết, và cũng sẽ tìm lại quá khứ thuộc về chính mình."
-lang_quest.db,Quest,5,无人监测站-黑石高原,,Trạm Giám Sát Vô Nhân - Hắc Thạch Cao Nguyên
-lang_quest.db,Quest,6,重启黑石高原的监测站,,Khởi động lại trạm giám sát Hắc Thạch Cao Nguyên
-lang_quest.db,Quest,7,七舍立体机动计时赛,,Giải đua cơ động lập thể Thất Xá

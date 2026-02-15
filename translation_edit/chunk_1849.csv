@@ -1,4 +1,41 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001001_3,普攻、重击命中目标，或者成功闪避时额外获得{0}层「无形」。,"Hitting the target with Basic Attack or Heavy Attack or a successful Dodge grants <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Invisibility.","Phổ Công, Trọng Kích trúng mục tiêu hoặc Né Tránh thành công sẽ nhận thêm <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} ""Vô Hình""."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001001_4,「大手」的伤害倍率提高至攻击{0}。当打出「大手」时，会获得基于最大生命{1}的护盾以及免疫打断，持续{2}秒。,Clench's DMG Multiplier is increased to {0} of ATK. Triggering Clench grants a Shield equal to {1} of Max HP and immunity to interruption for {2}s.,"Hệ số sát thương ""Đại Thủ"" tăng lên thành {0} tấn công. Khi tung ""Đại Thủ"", nhận được khiên dựa trên {1} HP tối đa cùng miễn nhiễm gián đoạn, kéo dài {2} giây."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001001_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
+「融觉爆发」状态下:
+·下1次普攻、重击命中目标，或者成功闪避时将触发「连环手」，持续痛击前方目标，造成{0}次攻击{1}的物理伤害，此次伤害为普攻伤害。
+·普攻、重击命中目标，或者成功闪避时额外获得{2}层「无形」。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
+When in Synergy Burst:
+- The next Basic Attack or Heavy Attack hit, or a successful Dodge triggers Consecutive Punches, continuously striking the target ahead, dealing Physical DMG equal to {1} of ATK {0} times, considered Basic Attack DMG.
+- When hitting a target with Basic Attack or Heavy Attack or performing a successful Dodge, gain <SapTag=2>{2}</SapTag> additional {Cus:Sap,S=stack P=stacks SapTag=2} of Invisibility.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
+Trong trạng thái ""Dung Giác Bộc Phát"":
+- Lần Phổ Công, Trọng Kích trúng mục tiêu tiếp theo hoặc Né Tránh thành công sẽ kích hoạt ""Liên Hoàn Thủ"", liên tục đánh mạnh mục tiêu phía trước, gây sát thương Vật Lý bằng {1} tấn công {0} lần, sát thương này được tính là sát thương Phổ Công.
+- Phổ Công, Trọng Kích trúng mục tiêu hoặc Né Tránh thành công sẽ nhận thêm <SapTag=2>{2}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} ""Vô Hình""."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001001_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
+「融觉爆发」状态下:「连环手」、「大手」造成的最终伤害结果提升{0}。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
+When in Synergy Burst, the total DMG of Consecutive Punches and Clench is increased by {0}.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
+Trong trạng thái ""Dung Giác Bộc Phát"": sát thương cuối cùng của ""Liên Hoàn Thủ"" và ""Đại Thủ"" tăng {0}."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001002_1,造成伤害时，获得「武艺」，每层使攻击提升{0}，可叠加{1}层，持续{2}秒，每{3}秒可获得1层。,"Dealing damage grants a stack of Martial Art every {3}s, each stack increasing ATK by {0} for {2}s, stacking up to <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1}.","Khi gây sát thương, nhận ""Võ Nghệ"", mỗi tầng tăng tấn công {0}, cộng dồn tối đa {1} tầng, duy trì {2} giây, mỗi {3} giây nhận được 1 tầng."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001002_2,"运用不同的武艺攻击目标！每{0}秒在以下「大师姿态」中轮替：
+·「雷火齐鸣」：造成普攻/重击/共鸣技能/共鸣解放伤害时，会额外造成攻击{1}的热熔伤害和攻击{2}导电伤害，每{3}秒可生效1次。
+·「光暗相生」：造成普攻/重击/共鸣技能/共鸣解放伤害时，会额外造成攻击{4}的衍射伤害和攻击{5}湮灭伤害，每{6}秒可生效1次。
+·「风雪交加」：造成普攻/重击/共鸣技能/共鸣解放伤害时，会额外造成攻击{7}的气动伤害和攻击{8}冷凝伤害，每{9}秒可生效1次。","Use different Martial Arts to attack the target! Every {0}s, Master Stance's effect changes in turn as follows:
+- Thunder and Flame Resonance: Dealing damage with Basic Attack/Heavy Attack/Resonance Skill/Resonance Liberation additionally deals Fusion DMG equal to {1} of ATK and Electro DMG equal to {2} of ATK, triggered once every {3}s.
+- Light and Dark Convergence: Dealing damage with Basic Attack/Heavy Attack/Resonance Skill/Resonance Liberation additionally deals Spectro DMG equal to {4} of ATK and Havoc DMG equal to {5} of ATK, triggered once every {6}s.
+- Wind and Frost Assault: Dealing damage with Basic Attack/Heavy Attack/Resonance Skill/Resonance Liberation additionally deals Aero DMG equal to {7} of ATK and Glacio DMG equal to {8} of ATK, triggered once every {9}s.","Vận dụng các Võ Nghệ khác nhau để tấn công mục tiêu! Mỗi {0} giây sẽ luân chuyển giữa các ""Tư Thế Đại Sư"" sau:
+- ""Lôi Hỏa Tề Minh"": Khi gây sát thương bằng Phổ Công/Trọng Kích/Kỹ Năng Cộng Hưởng/Giải Phóng Cộng Hưởng, gây thêm sát thương Nhiệt Dung bằng {1} tấn công và sát thương Dẫn Điện bằng {2} tấn công, mỗi {3} giây kích hoạt 1 lần.
+- ""Quang Ám Tương Sinh"": Khi gây sát thương bằng Phổ Công/Trọng Kích/Kỹ Năng Cộng Hưởng/Giải Phóng Cộng Hưởng, gây thêm sát thương Nhiễu Xạ bằng {4} tấn công và sát thương Giải Ly bằng {5} tấn công, mỗi {6} giây kích hoạt 1 lần.
+- ""Phong Tuyết Giao Gia"": Khi gây sát thương bằng Phổ Công/Trọng Kích/Kỹ Năng Cộng Hưởng/Giải Phóng Cộng Hưởng, gây thêm sát thương Khí Động bằng {7} tấn công và sát thương Ngưng Băng bằng {8} tấn công, mỗi {9} giây kích hoạt 1 lần."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001002_3,「武艺」的攻击提升效果升级为{0}每层。,Each stack of Martial Arts now increases ATK by {0}.,"Hiệu quả tăng tấn công của ""Võ Nghệ"" nâng cấp thành {0} mỗi tầng."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001002_4,「武艺」的层数上限提高至{0}层。,The maximum stacks of Martial Arts are increased to {0}.,"Số tầng tối đa của ""Võ Nghệ"" tăng lên {0} tầng."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001002_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
+「融觉爆发」状态下，获得所有「大师姿态」，且「大师姿态」造成的伤害倍率从攻击{0}提升至{1}。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
+When in Synergy Burst, gain all Master Stance effects, and the DMG Multiplier of Master Stance is increased from {0} to {1} of ATK.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
+Trong trạng thái ""Dung Giác Bộc Phát"", nhận tất cả ""Tư Thế Đại Sư"", và hệ số sát thương của ""Tư Thế Đại Sư"" tăng từ {0} tấn công lên {1} tấn công."
+lang_multi_text.db,MultiText,RogueResSynergyDesc_1001002_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
+「融觉爆发」状态下，「大师姿态」造成的伤害无视目标{0}防御。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
+When in Synergy Burst, DMG dealt by Master Stance ignores {0} DEF of the target.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
+Trong trạng thái ""Dung Giác Bộc Phát"", sát thương của ""Tư Thế Đại Sư"" bỏ qua {0} phòng thủ mục tiêu."
 lang_multi_text.db,MultiText,RogueResSynergyLV,Lv.{0},Lv. {0},Lv. {0}
 lang_multi_text.db,MultiText,RogueResSynergyName_1001001,无形的大手,Invisible Clench,Bàn Tay Vô Hình
 lang_multi_text.db,MultiText,RogueResSynergyName_1001002,百般武艺,True Martial Arts,Bách Ban Võ Nghệ
@@ -18,7 +55,7 @@ lang_multi_text.db,MultiText,RogueResSynergyName_1001003_L2,"<color=Highlight>�
 「融觉爆发」状态下：协同攻击造成伤害时，额外造成1次攻击{0}的物理伤害，每{1}秒可生效1次。「轨道扫射」、「轨道扫射」造成伤害时伤害加深{2}。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
 When in Synergy Burst, dealing Coordinated Attack DMG launches an extra attack that deals Physical DMG equal to {0} of ATK, triggered once every {1}s. DMG dealt by Orbital Strike is Amplified by {2}.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
 Trong trạng thái ""Dung Giác Bùng Phát"": Khi Hiệp Đồng Tấn Công gây sát thương, gây thêm 1 lần sát thương Vật Lý bằng {0} Tấn Công, có thể kích hoạt 1 lần mỗi {1} giây. Sát thương gây ra bởi ""Quét Quỹ Đạo"" được Khuếch Đại thêm {2}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001004,童梦的终结,Fairy Tale's Finale,Kết Cục Giấc Mơ Thơ Ấu
+lang_multi_text.db,MultiText,RogueResSynergyName_1001004,童梦的终结,Fairy Tale's Finale,Kết Thúc Giấc Mơ Đồng Thoại
 lang_multi_text.db,MultiText,RogueResSynergyName_1001004_1,"队伍里至少有{0}个「童梦的终结」角色：
 ·闪避成功时，召唤「幻梦藤」击飞附近目标，造成攻击{1}的衍射伤害，并治疗当前角色最大生命{2}的生命值，每{3}秒可生效1次。
 ·施放共鸣技能时，在短暂延迟后，召唤1次「勇士连击」，共计造成攻击{4}的热熔伤害，每{5}秒可生效1次。","When the team has at least <SapTag=0>{0}</SapTag> {Cus:Sap,S=Resonator P=Resonators SapTag=0} with the Bond Fairy Tale's Finale:
@@ -332,13 +369,3 @@ Trong trạng thái ""Dung Giác Bùng Phát"":
 Thời gian hồi Giải Phóng Cộng Hưởng giảm {0}. Khi nhân vật thi triển Giải Phóng Cộng Hưởng, lập tức hồi phục toàn bộ năng lượng cộng hưởng."
 lang_multi_text.db,MultiText,RogueResSynergyTypeName_2,羁绊一览,Bond Overview,Tổng Quan Ràng Buộc
 lang_multi_text.db,MultiText,RogueRes_AccuracyNumShow,x {0},x{0},x{0}
-lang_multi_text.db,MultiText,RogueRes_AddRole_Desc,{0}加入了你的队伍,{0} joined your team,{0} đã gia nhập đội của bạn
-lang_multi_text.db,MultiText,RogueRes_Block_Capture,dnt/占领,test/Occupy,test/Occupy
-lang_multi_text.db,MultiText,RogueRes_Block_Capture_Buff,事件加成,Event Bonus,Gia tăng sự kiện
-lang_multi_text.db,MultiText,RogueRes_Block_Captured,已完成事件,Completed Events,Sự kiện đã hoàn thành
-lang_multi_text.db,MultiText,RogueRes_Block_Captured_Buff,事件加成（已激活）,Scene Bonus (Activated),Tăng ích sự kiện (Đã kích hoạt)
-lang_multi_text.db,MultiText,RogueRes_Block_Level,Lv{0},Lv. {0},Lv. {0}
-lang_multi_text.db,MultiText,RogueRes_Block_Move,前往,Proceed,Đi đến
-lang_multi_text.db,MultiText,RogueRes_Block_Null,路径,Path,Lối đi
-lang_multi_text.db,MultiText,RogueRes_Block_Null_Desc,可通行的道路，非常安全,"A clear, safe path.","Con đường có thể đi qua, rất an toàn."
-lang_multi_text.db,MultiText,RogueRes_Block_Recommend_Level,推荐队伍等级：{0},Suggested Team Level: {0},Cấp đội ngũ đề nghị: {0}

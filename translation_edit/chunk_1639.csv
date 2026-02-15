@@ -1,4 +1,17 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Poker_system_Jinxi_SkillDes,放弃当前抽选的牌，并重新抽一次牌。,Give up this draw and do a redraw.,Bỏ lá bài vừa rút và rút lại một lần.
+lang_multi_text.db,MultiText,Poker_system_Jinxi_SkillName,逆转时序,Time Reverse,Nghịch Chuyển Thời Tự
+lang_multi_text.db,MultiText,Poker_system_Luhesi_SkillDes,抽牌时不容易抽到无冠者牌。,Lower chances of drawing the Crownless Card.,"Khi rút bài, ít có khả năng rút trúng lá Crownless."
+lang_multi_text.db,MultiText,Poker_system_Luhesi_SkillName,洞彻人心,Mind Scalpel,Đỗng Triệt Nhân Tâm
+lang_multi_text.db,MultiText,Poker_system_zhujue_SkillDes,"当对手抽取漂泊者手中的变化牌时，可使这次抽取无效并重新抽一次牌。
+每局游戏中最多能够使用一次。","Active Effect: Cancel the opponent's current draw and make them draw again.
+Passive Effect: Rover instantly wins the game by playing a pair of Crownless Cards.","Khi đối thủ rút lá bài biến hóa từ tay Lữ Khách, có thể vô hiệu lần rút đó và buộc đối thủ rút lại.
+Mỗi ván chỉ có thể sử dụng tối đa một lần."
+lang_multi_text.db,MultiText,Poker_system_zhujue_SkillDes02,使对手此次抽选无效，并重新抽一次牌。,Cancel the opponent's current draw and make them draw again.,Vô hiệu hóa lượt rút bài của đối thủ và bắt họ rút lại một lần.
+lang_multi_text.db,MultiText,Poker_system_zhujue_SkillName,即刻否决,Instant Veto,Phủ Quyết Tức Thì
+lang_multi_text.db,MultiText,PowerLowCannotExchange,结晶单质不足，无法补充,Insufficient Waveplate Crystals,"Không đủ Tinh Thể Kết Tinh, không thể bổ sung"
+lang_multi_text.db,MultiText,PowerMax,已达上限,Maxed Out,Đã đạt giới hạn
+lang_multi_text.db,MultiText,PowerMaxCannotExchange,已达结晶波片上限,Waveplates are full,Đã đạt giới hạn Ba Phiến Kết Tinh
 lang_multi_text.db,MultiText,PowerNextRecovery,下次恢复:{0},Recover in: {0},Hồi phục sau: {0}
 lang_multi_text.db,MultiText,PowerNumTips,{0},{0},{0}
 lang_multi_text.db,MultiText,PowerPropsCannotExchange,<color=#c19f51>{0}</color>不足，无法补充,Insufficient <color=#c19f51>{0}</color>,"Không đủ <color=#c19f51>{0}</color>, không thể bổ sung"
@@ -57,7 +70,7 @@ lang_multi_text.db,MultiText,PrefabTextItem_1037780331_Text,存在异常，如�
 lang_multi_text.db,MultiText,PrefabTextItem_1039945215_Text,已获得区域授权凭证,Regional Use Permit Obtained,Đã nhận chứng nhận ủy quyền khu vực
 lang_multi_text.db,MultiText,PrefabTextItem_1041086014_Text,存在异常，如有疑问请联系官方客服,Please contact our Customer Service for assistance,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,PrefabTextItem_1041763284_Text,存在异常，如有疑问请联系官方客服,Please contact our Customer Service for assistance,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,PrefabTextItem_1042794940_Text,派对装潢,Party Decor,Trang trí tiệc
+lang_multi_text.db,MultiText,PrefabTextItem_1042794940_Text,派对装潢,Party Decor,Trang Trí Tiệc
 lang_multi_text.db,MultiText,PrefabTextItem_1043489893_Text,前往挑战,Proceed,Đi thử thách
 lang_multi_text.db,MultiText,PrefabTextItem_1043860515_Text,存在异常，如有疑问请联系官方客服,Please contact our Customer Service for assistance,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,PrefabTextItem_1046032326_Text,联觉经验,Union EXP,Kinh nghiệm Liên Giác
@@ -79,7 +92,7 @@ lang_multi_text.db,MultiText,PrefabTextItem_1065299915_Text,点击空白处返�
 lang_multi_text.db,MultiText,PrefabTextItem_1065668629_Text,空,Empty,Trống
 lang_multi_text.db,MultiText,PrefabTextItem_1066738085_Text,主动效果,Active Skill,Hiệu ứng chủ động
 lang_multi_text.db,MultiText,PrefabTextItem_1067458501_Text,暂无道具,No Items,Chưa có đạo cụ
-lang_multi_text.db,MultiText,PrefabTextItem_1068241340_Text,暂无搜索结果,- No Search Result -,- Không có kết quả tìm kiếm -
+lang_multi_text.db,MultiText,PrefabTextItem_1068241340_Text,暂无搜索结果,- No Search Result -,Chưa có kết quả tìm kiếm
 lang_multi_text.db,MultiText,PrefabTextItem_106836825_Text,重连中……,Reconnecting...,Đang kết nối lại...
 lang_multi_text.db,MultiText,PrefabTextItem_1070635555_Text,语音音量,Dialog Volume,Âm lượng thoại
 lang_multi_text.db,MultiText,PrefabTextItem_1071653578_Text,进行中,Ongoing,Đang tiến hành
@@ -90,13 +103,3 @@ lang_multi_text.db,MultiText,PrefabTextItem_1074149106_Text,通讯中,Contacting
 lang_multi_text.db,MultiText,PrefabTextItem_1076800470_Text,成员,Member,Thành viên
 lang_multi_text.db,MultiText,PrefabTextItem_1078809430_Text,限时奖励,Limited-Time Rewards,Phần thưởng giới hạn
 lang_multi_text.db,MultiText,PrefabTextItem_1080100827_Text,生日快乐,Happy Birthday,Chúc mừng sinh nhật
-lang_multi_text.db,MultiText,PrefabTextItem_1080198995_Text,存在异常，如有疑问请联系官方客服,Please contact our Customer Service for assistance,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,PrefabTextItem_1080261723_Text,存在异常，如有疑问请联系官方客服,Please contact our Customer Service for assistance,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,PrefabTextItem_108028491_Text,奖励领取,Rewards,Nhận thưởng
-lang_multi_text.db,MultiText,PrefabTextItem_1083865003_Text,进行中,Ongoing,Đang tiến hành
-lang_multi_text.db,MultiText,PrefabTextItem_1084020975_Text,存在异常，如有疑问请联系官方客服,Please contact our Customer Service for assistance,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,PrefabTextItem_1084279929_Text,存在异常，如有疑问请联系官方客服,Please contact our Customer Service for assistance,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,PrefabTextItem_1085044405_Text,存在异常，如有疑问请联系官方客服,Please contact our Customer Service for assistance,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,PrefabTextItem_1085053461_Text,怪物名称,Enemy Name,Tên quái vật
-lang_multi_text.db,MultiText,PrefabTextItem_1085494062_Text,已同意继续挑战玩家,Players agreed to continue,Người chơi đồng ý tiếp tục
-lang_multi_text.db,MultiText,PrefabTextItem_1086764526_Text,执行,Execute,Chấp hành

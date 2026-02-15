@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ConfirmBox_101_Title,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_102_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_102_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_102_Content,当前队伍玩家人数少于3人，是否继续开启,The current party has less than 3 players. Do you wish to continue anyway?,"Đội hiện tại có ít hơn 3 người chơi, bạn có muốn tiếp tục không?"
+lang_multi_text.db,MultiText,ConfirmBox_102_Title,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_103_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_103_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_103_Content,检测到按键之间存在重合情况，是否保存该设置？,"Detected overlap between keys, do you want to save this setting?","Phát hiện trùng lặp giữa các phím, bạn có muốn lưu cài đặt này không?"
+lang_multi_text.db,MultiText,ConfirmBox_103_Title,提示,Notice,Thông báo
+lang_multi_text.db,MultiText,ConfirmBox_104_ButtonText_0,取消,Cancel,Hủy
 lang_multi_text.db,MultiText,ConfirmBox_104_ButtonText_1,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_104_Content,您的按键设置未保存，是否保存并退出？,"Your key settings have not been saved, do you want to save and exit?","Cài đặt phím chưa được lưu, bạn có muốn lưu và thoát không?"
 lang_multi_text.db,MultiText,ConfirmBox_104_Title,提示,Notice,Thông báo
@@ -19,7 +29,7 @@ lang_multi_text.db,MultiText,ConfirmBox_108_Content,队友完成挑战后仍可�
 lang_multi_text.db,MultiText,ConfirmBox_108_Title,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_109_ButtonText_0,取消,Cancel,Hủy
 lang_multi_text.db,MultiText,ConfirmBox_109_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_109_Content,设置生日后将不可更改,You cannot edit your birthday once set. Do you wish to continue?,Sau khi thiết lập ngày sinh sẽ không thể thay đổi.
+lang_multi_text.db,MultiText,ConfirmBox_109_Content,设置生日后将不可更改,You cannot edit your birthday once set. Do you wish to continue?,Sau khi thiết lập sinh nhật sẽ không thể thay đổi
 lang_multi_text.db,MultiText,ConfirmBox_109_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_10_ButtonText_0,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_10_Content,{0},{0},{0}
@@ -67,7 +77,7 @@ lang_multi_text.db,MultiText,ConfirmBox_125_Content,确定要使用本次调优�
 lang_multi_text.db,MultiText,ConfirmBox_129_ButtonText_0,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_129_Content,本卡池唤取次数已达上限,You have run out of Convene attempts in this Banner,Số lần triệu hoán của Banner này đã đạt giới hạn.
 lang_multi_text.db,MultiText,ConfirmBox_129_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_12_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Đã xảy ra lỗi bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,ConfirmBox_12_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
 lang_multi_text.db,MultiText,ConfirmBox_12_Title,确认替换,Confirm replacement,Xác nhận thay thế
 lang_multi_text.db,MultiText,ConfirmBox_130_ButtonText_0,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_130_Content,全卡池今日唤取次数已达上限,The number of Convene in the entire Banner has reached the limit today,Số lần triệu hoán hôm nay của tất cả Banner đã đạt giới hạn.
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ConfirmBox_134_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_135_ButtonText_0,结束并结算,End and Finalize,Kết thúc và thanh toán
 lang_multi_text.db,MultiText,ConfirmBox_135_ButtonText_1,继续挑战,Continue Challenge,Tiếp tục thử thách
 lang_multi_text.db,MultiText,ConfirmBox_135_Content,当前调查进度数{0}/{1}，是否退出当前玩法？,The current investigation progress is {0}/{1}. Do you want to end the current challenge?,"Tiến độ điều tra hiện tại: {0}/{1}, bạn có muốn thoát khỏi chế độ chơi hiện tại không?"
-lang_multi_text.db,MultiText,ConfirmBox_135_Title,退出确认,Exit confirmation,Xác nhận thoát
-lang_multi_text.db,MultiText,ConfirmBox_136_ButtonText_0,退出游戏,Exit Game,Thoát trò chơi
-lang_multi_text.db,MultiText,ConfirmBox_136_Content,加载发生错误，请重新启动游戏,Loading error. Please restart the game.,"Đã xảy ra lỗi khi tải, vui lòng khởi động lại trò chơi."
-lang_multi_text.db,MultiText,ConfirmBox_137_Content,是否离开逆境深塔，返回大世界？,Do you want to leave the Tower of Adversity and return to the overworld?,Bạn có muốn rời khỏi Tháp Nghịch Cảnh và quay về thế giới mở không?
-lang_multi_text.db,MultiText,ConfirmBox_138_ButtonText_0,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_138_Content,商城数据已刷新，请查看最新数据,"The Store data has been refreshed, please check the latest data","Dữ liệu Cửa hàng đã được làm mới, vui lòng kiểm tra dữ liệu mới nhất."
-lang_multi_text.db,MultiText,ConfirmBox_138_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_139_ButtonText_0,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_139_ButtonText_1,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_139_Content,是否消耗【{0}】X{1}激活寻音声呐？,Do you want to consume [{0}] x{1} to activate Casket Sonar?,Bạn có muốn tiêu hao [{0}] x{1} để kích hoạt Thanh Nạp Tầm Âm không?

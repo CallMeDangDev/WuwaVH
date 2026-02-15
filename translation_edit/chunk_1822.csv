@@ -1,4 +1,17 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,RestoreFrequency_Title_5,独特聚落,Unique Settlement,Khu Định Cư Độc Đáo
+lang_multi_text.db,MultiText,RestoreFrequency_Title_6,报时之鸟,Alarm Bird,Chim Báo Giờ
+lang_multi_text.db,MultiText,RestoreFrequency_Title_7,冰原巨影,Colossal Shadow in the Frostlands,Bóng Khổng Lồ Trên Băng Nguyên
+lang_multi_text.db,MultiText,RestoreFrequency_Unlock_0,{0}后解锁,Unlocked in {0},Mở khóa sau {0}
+lang_multi_text.db,MultiText,RestoreFrequency_Unlock_1,还原前置频率后解锁,Restore the prerequisite frequency to unlock,Hoàn nguyên tần số tiên quyết để mở khóa
+lang_multi_text.db,MultiText,ReviveCountdownTime,将在{0}后复活,To be revived in {0},Sẽ hồi sinh sau {0}
+lang_multi_text.db,MultiText,Revive_1_ReviveContent,意识逐渐模糊，下次更加谨慎地行动吧。,Your energy fades... Be more cautious next time.,"Ý thức dần mờ nhạt, lần sau hãy hành động cẩn thận hơn nhé."
+lang_multi_text.db,MultiText,Revive_1_ReviveTitle,失去意识,Defeated,Mất ý thức
+lang_multi_text.db,MultiText,Revive_200750024_ReviveContent,"意识逐渐模糊，下次更加谨慎地行动吧。
+复活次数耗尽前可继续挑战。","Your energy fades... Be more cautious next time.
+You may retry until you run out of Revive Chances.","Ý thức dần mờ nhạt, lần sau hãy hành động cẩn thận hơn nhé.
+Có thể tiếp tục thử thách cho đến khi hết số lần hồi sinh."
+lang_multi_text.db,MultiText,Revive_2_ReviveContent,意识逐渐模糊，下次更加谨慎地行动吧。,Your energy fades... Be more cautious next time.,"Ý thức dần mờ nhạt, lần sau hãy hành động cẩn thận hơn nhé."
 lang_multi_text.db,MultiText,Revive_2_ReviveTitle,失去意识,Defeated,Mất ý thức
 lang_multi_text.db,MultiText,Revive_3100001_ReviveContent,意识逐渐模糊，下次更加谨慎地行动吧。,Your energy fades... Be more cautious next time.,"Ý thức dần mờ nhạt, lần sau hãy hành động cẩn thận hơn nhé."
 lang_multi_text.db,MultiText,Revive_3100001_ReviveTitle,失去意识,Defeated,Mất ý thức
@@ -23,7 +36,7 @@ lang_multi_text.db,MultiText,RiskHarvest_Monsterpoint,战略数据,Tactic Points
 lang_multi_text.db,MultiText,RiskHarvest_PointTap,数据奖励,Data Rewards,Thưởng dữ liệu
 lang_multi_text.db,MultiText,RiskHarvest_Score,本关总计获得战略数据,Tactic Points obtained in this stage,Tổng dữ liệu chiến lược đạt được ở màn này
 lang_multi_text.db,MultiText,RiskHarvest_Scorelimit,本关获得战略数据已达上限,The number of Tactic Points obtained in this challenge is maxed.,Dữ liệu chiến lược đạt được ở màn này đã đạt giới hạn
-lang_multi_text.db,MultiText,RiskHarvest_StarRewardTap,阶段奖励,Stage Rewards,Thưởng giai đoạn
+lang_multi_text.db,MultiText,RiskHarvest_StarRewardTap,阶段奖励,Stage Rewards,Phần thưởng giai đoạn
 lang_multi_text.db,MultiText,RiskHarvest_Timepoint,时间折算数据,Time Bonus Points,Dữ liệu quy đổi thời gian
 lang_multi_text.db,MultiText,RiskHarvest_TitleUnlock,???,???,???
 lang_multi_text.db,MultiText,RiskHarvest_TotleScore,累计获得战略数据：{0},Total Tactic Points Obtained: {0},Tổng dữ liệu chiến lược đạt được: {0}
@@ -101,13 +114,3 @@ lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1201,生命上限提升{0}。,
 lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1202,防御提升{0}。,DEF is increased by {0}.,Phòng thủ tăng {0}.
 lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1203,冷凝伤害抗性提升{0}。,Glacio RES is increased by {0}.,Kháng sát thương Ngưng Băng tăng {0}.
 lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1204,热熔伤害抗性提升{0}。,Fusion RES is increased by {0}.,Kháng sát thương Nhiệt Dung tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1205,导电伤害抗性提升{0}。,Electro RES is increased by {0}.,Kháng sát thương Dẫn Điện tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1206,气动伤害抗性提升{0}。,Aero RES is increased by {0}.,Kháng sát thương Khí Động tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1207,衍射伤害抗性提升{0}。,Spectro RES is increased by {0}.,Kháng sát thương Nhiễu Xạ tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1208,湮灭伤害抗性提升{0}。,Havoc RES is increased by {0}.,Kháng sát thương Giải Ly tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1230,攻击力提升{0}。,ATK is increased by {0}.,Tấn công tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1231,暴击提升{0}。,Crit. Rate is increased by {0}.,Bạo kích tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1232,暴击伤害提升{0}。,Crit. DMG is increased by {0}.,Sát thương bạo kích tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1233,普攻伤害加成提升{0}。,Basic DMG Bonus is increased by {0}.,Gia tăng sát thương Phổ Công tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1234,重击伤害加成提升{0}。,Heavy DMG Bonus is increased by {0}.,Gia tăng sát thương Trọng Kích tăng {0}.
-lang_multi_text.db,MultiText,RiskHarvest_buffDesc_1235,共鸣技能伤害加成提升{0}。,Resonance Skill DMG Bonus is increased by {0}.,Gia tăng sát thương Kỹ Năng Cộng Hưởng tăng {0}.

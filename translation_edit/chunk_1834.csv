@@ -1,4 +1,16 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,RogueBuffPool_26100701_BuffDesc,角色每次获得「时能」可以额外获得2层。此外，「徽记·时驭」造成伤害时可以回复5%的「梦境能量」。,"Each time the active Resonator gains a stack of [Temporal Power], they gain 2 extra stacks. When [Time Sigil] deals damage, it restores 5% Dreamscape Energy.","Mỗi lần nhân vật nhận được ""Thời Năng"" có thể nhận thêm 2 tầng. Ngoài ra, khi ""Huy Ký - Thời Ngự"" gây sát thương có thể hồi phục 5% ""Năng Lượng Mộng Cảnh""."
+lang_multi_text.db,MultiText,RogueBuffPool_26100701_BuffDesc_0,获取「时能」的效率更高，「徽记·时驭」造成伤害可以回复「梦境能量」。,[Temporal Power] is obtained more efficiently. [Time Sigil] restores Dreamscape Energy when it deals damage.,"Hiệu suất nhận ""Thời Năng"" cao hơn, ""Huy Ký - Thời Ngự"" gây sát thương có thể hồi phục ""Năng Lượng Mộng Cảnh""."
+lang_multi_text.db,MultiText,RogueBuffPool_26100701_BuffName,时驭·流逝,Time - Flow,Thời Ngự - Lưu Thệ
+lang_multi_text.db,MultiText,RogueBuffPool_26100702_BuffDesc,「解梦状态」下角色造成伤害时，「徽记·时驭」还会额外进行一次攻击，仅能造成当前「时能」层数所计算伤害20%的衍射伤害，每0.5秒可触发1次。,"When in [Divined Dream], targets damaged by the active Resonator are additionally struck by [Time Sigil] once, dealing Spectro DMG equal to 20% of the DMG that would be dealt by removing the current [Temporal Power] stacks. This effect can be triggered once every 0.5s.","Khi nhân vật gây sát thương trong ""Trạng thái Giải Mộng"", ""Huy Ký - Thời Ngự"" sẽ thực hiện thêm một lần tấn công, chỉ gây sát thương Nhiễu Xạ bằng 20% sát thương tính theo số tầng ""Thời Năng"" hiện tại, có thể kích hoạt 1 lần mỗi 0.5 giây."
+lang_multi_text.db,MultiText,RogueBuffPool_26100702_BuffDesc_0,「解梦状态」下造成伤害时，「徽记·时驭」可以额外进行一次攻击造成衍射伤害。,"When dealing damage in [Divined Dream], [Time Sigil] additionally deals Spectro DMG once.","Khi gây sát thương trong ""Trạng thái Giải Mộng"", ""Huy Ký - Thời Ngự"" có thể thực hiện thêm một lần tấn công gây sát thương Nhiễu Xạ."
+lang_multi_text.db,MultiText,RogueBuffPool_26100702_BuffName,时驭·隙能,Time - Rift,Thời Ngự - Kích Năng
+lang_multi_text.db,MultiText,RogueBuffPool_26100703_BuffDesc,"不处于「解梦状态」下时，角色每次造成伤害也可以获得「时能」。
+「解梦状态」下，角色的攻击速度提升30%，「徽记·时驭」造成的最终伤害提升30%。","When not in [Divined Dream], dealing damage still grants a stack of [Temporal Power]. When in [Divined Dream], the attack speed of all Resonators in the team is increased by 30%, and the total DMG dealt by [Time Sigil] is increased by 30%.","Khi không ở trong ""Trạng thái Giải Mộng"", nhân vật mỗi lần gây sát thương cũng có thể nhận được ""Thời Năng"".
+Trong ""Trạng thái Giải Mộng"", tốc độ tấn công của nhân vật tăng 30%, sát thương cuối cùng của ""Huy Ký - Thời Ngự"" tăng 30%."
+lang_multi_text.db,MultiText,RogueBuffPool_26100703_BuffDesc_0,不处于「解梦状态」下时也可以获得「时能」。「解梦状态」下角色攻击速度提升，「徽记·时驭」造成的最终伤害提升。,"[Temporal Power] can be gained out of [Divined Dream]. When in [Divined Dream], Resonators attack faster, and [Time Sigil] deals more total DMG.","Có thể nhận ""Thời Năng"" ngay cả khi không ở trong ""Trạng thái Giải Mộng"". Trong ""Trạng thái Giải Mộng"", tốc độ tấn công nhân vật tăng, sát thương cuối cùng của ""Huy Ký - Thời Ngự"" tăng."
+lang_multi_text.db,MultiText,RogueBuffPool_26100703_BuffName,时驭·积蓄,Time - Stock,Thời Ngự - Tích Trữ
+lang_multi_text.db,MultiText,RogueBuffPool_26100704_BuffDesc,退出「解梦状态」后，每消耗10层「时能」回复8%的「梦境能量」。,"Upon ending [Divined Dream], every 10 stacks of [Temporal Power] removed restores Dreamscape Energy by 8%.","Sau khi thoát ""Trạng thái Giải Mộng"", mỗi 10 tầng ""Thời Năng"" tiêu hao sẽ hồi phục 8% ""Năng Lượng Mộng Cảnh""."
 lang_multi_text.db,MultiText,RogueBuffPool_26100704_BuffDesc_0,退出「解梦状态」后，返还一定的「梦境能量」。,"After [Divined Dream] ends, a certain amount of Dreamscape Energy is restored.","Sau khi thoát ""Trạng thái Giải Mộng"", hoàn trả một lượng ""Năng Lượng Mộng Cảnh"" nhất định."
 lang_multi_text.db,MultiText,RogueBuffPool_26100704_BuffName,时驭·星移,Time - Shift,Thời Ngự - Tinh Di
 lang_multi_text.db,MultiText,RogueBuffPool_261007_BuffDesc,"「解梦状态」下，周围时间流速减缓90%，角色每次造成伤害可以获得1层「时能」，可叠加100层。
@@ -84,10 +96,10 @@ lang_multi_text.db,MultiText,RogueBuffPool_2690002_BuffDesc_0,角色造成伤害
 lang_multi_text.db,MultiText,RogueBuffPool_2690002_BuffName,复合齿轮,Compound Gear,Bánh Răng Phức Hợp
 lang_multi_text.db,MultiText,RogueBuffPool_2690003_BuffDesc,队伍中登场角色每击杀一个敌人，生命上限降低0.5%，但自身暴击溢出100%的部分，每溢出1%暴击提升0.02%暴击伤害，可叠加100层。,"When the active Resonator defeats an enemy, reduce their Max HP by 0.5% and increase their Crit. DMG by 0.02% for every 1% Crit. Rate that exceeds 100% Crit. Rate, stacking up to 100 times.","Mỗi khi nhân vật ra trận hạ gục một kẻ địch, HP tối đa giảm 0.5%, nhưng phần tỷ lệ bạo kích vượt quá 100%, cứ mỗi 1% vượt quá sẽ tăng 0.02% sát thương bạo kích, cộng dồn tối đa 100 tầng."
 lang_multi_text.db,MultiText,RogueBuffPool_2690003_BuffDesc_0,角色每击杀一个敌人，生命上限降低，自身暴击溢出的部分转化为暴击伤害。,"When the active Resonator defeats an enemy, reduce their Max HP and increase their Crit. DMG for the amount of Crit. Rate that exceeds 100% Crit. Rate.","Mỗi khi nhân vật hạ gục một kẻ địch, HP tối đa giảm, phần tỷ lệ bạo kích vượt quá 100% sẽ được chuyển hóa thành sát thương bạo kích."
-lang_multi_text.db,MultiText,RogueBuffPool_2690003_BuffName,友谊的小鸟,Bird of Friendship,Chim Nhỏ Hữu Nghị
+lang_multi_text.db,MultiText,RogueBuffPool_2690003_BuffName,友谊的小鸟,Bird of Friendship,Chim Non Hữu Nghị
 lang_multi_text.db,MultiText,RogueBuffPool_2690004_BuffDesc,队伍中登场角色每击杀一个敌人，生命上限提升0.5%，可叠100层。,"When the active Resonator defeats an enemy, increase their Max HP by 0.5%, stacking up to 100 times.","Mỗi khi nhân vật ra trận hạ gục một kẻ địch, HP tối đa tăng 0.5%, cộng dồn tối đa 100 tầng."
 lang_multi_text.db,MultiText,RogueBuffPool_2690004_BuffDesc_0,角色每击杀一个敌人，生命上限小幅提升。,"When the active Resonator defeats an enemy, slightly increase their Max HP.","Mỗi khi nhân vật hạ gục một kẻ địch, HP tối đa tăng nhẹ."
-lang_multi_text.db,MultiText,RogueBuffPool_2690004_BuffName,燥热拯救者,Torridity Rescuer,Cứu Tinh Nóng Bức
+lang_multi_text.db,MultiText,RogueBuffPool_2690004_BuffName,燥热拯救者,Torridity Rescuer,Cứu Tinh Nóng Bỏng
 lang_multi_text.db,MultiText,RogueBuffPool_2690005_BuffDesc,击杀敌人时获得40点「梦境能量」。,Gain 40 points of Dreamscape Energy upon defeating a target.,"Nhận 40 điểm ""Năng Lượng Mộng Cảnh"" khi hạ gục kẻ địch."
 lang_multi_text.db,MultiText,RogueBuffPool_2690005_BuffDesc_0,击杀敌人时获得「梦境能量」。,Gain Dreamscape Energy upon defeating a target.,"Nhận ""Năng Lượng Mộng Cảnh"" khi hạ gục kẻ địch."
 lang_multi_text.db,MultiText,RogueBuffPool_2690005_BuffName,残破梳篦,Timeworn Comb,Lược Chải Tàn Cũ
@@ -111,18 +123,8 @@ lang_multi_text.db,MultiText,RogueBuffPool_2690011_BuffDesc_0,重击伤害小幅
 lang_multi_text.db,MultiText,RogueBuffPool_2690011_BuffName,紧急呼叫,Emergency Call,Cuộc Gọi Khẩn Cấp
 lang_multi_text.db,MultiText,RogueBuffPool_2690012_BuffDesc,共鸣技能伤害提升22.5%。,Resonance Skill DMG is increased by 22.5%.,Sát thương Kỹ Năng Cộng Hưởng tăng 22.5%.
 lang_multi_text.db,MultiText,RogueBuffPool_2690012_BuffDesc_0,共鸣技能伤害小幅提升。,Resonance Skill DMG slightly increases.,Sát thương Kỹ Năng Cộng Hưởng tăng nhẹ.
-lang_multi_text.db,MultiText,RogueBuffPool_2690012_BuffName,劣质弹簧,Inferior Spring,Lò Xo Kém Chất
+lang_multi_text.db,MultiText,RogueBuffPool_2690012_BuffName,劣质弹簧,Inferior Spring,Lò Xo Kém Chất Lượng
 lang_multi_text.db,MultiText,RogueBuffPool_2690013_BuffDesc,共鸣解放伤害提升22.5%。,Resonance Liberation DMG is increased by 22.5%.,Sát thương Giải Phóng Cộng Hưởng tăng 22.5%.
 lang_multi_text.db,MultiText,RogueBuffPool_2690013_BuffDesc_0,共鸣解放伤害小幅提升。,Resonance Liberation DMG slightly increases.,Sát thương Giải Phóng Cộng Hưởng tăng nhẹ.
 lang_multi_text.db,MultiText,RogueBuffPool_2690013_BuffName,玲珑黑石花,Petite Tacetite Bloom,Hoa Hắc Thạch Lung Linh
 lang_multi_text.db,MultiText,RogueBuffPool_2690014_BuffDesc,普攻速度提升10%。,Basic Attack speed is increased by 10%.,Tốc độ Phổ Công tăng 10%.
-lang_multi_text.db,MultiText,RogueBuffPool_2690014_BuffDesc_0,普攻速度小幅提升。,Basic Attack speed slightly increases.,Tốc độ Phổ Công tăng nhẹ.
-lang_multi_text.db,MultiText,RogueBuffPool_2690014_BuffName,残破香薰,Irregular Aromatherapy,Hương Liệu Tàn Khuyết
-lang_multi_text.db,MultiText,RogueBuffPool_2690015_BuffDesc,普攻命中时回复10点「梦境能量」，每0.5秒可触发1次。,"Basic Attack recovers 10 points of Dreamscape Energy on hit, triggered once every 0.5s.","Phổ Công khi trúng mục tiêu hồi phục 10 điểm ""Năng Lượng Mộng Cảnh"", mỗi 0.5 giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_2690015_BuffDesc_0,普攻命中时回复少量「梦境能量」。,Basic Attack recovers a small amount of Dreamscape Energy on hit.,"Phổ Công khi trúng mục tiêu hồi phục một lượng nhỏ ""Năng Lượng Mộng Cảnh""."
-lang_multi_text.db,MultiText,RogueBuffPool_2690015_BuffName,守护的证明,Guardian's Proof,Chứng Minh Thủ Hộ
-lang_multi_text.db,MultiText,RogueBuffPool_2690016_BuffDesc,「解梦状态」持续时间延长100%。,The duration of [Divined Dream] is extended by 100%.,"Thời gian duy trì ""Trạng Thái Giải Mộng"" kéo dài thêm 100%."
-lang_multi_text.db,MultiText,RogueBuffPool_2690016_BuffDesc_0,「解梦状态」持续时间延长。,The duration of [Divined Dream] is extended.,"Thời gian duy trì ""Trạng Thái Giải Mộng"" được kéo dài."
-lang_multi_text.db,MultiText,RogueBuffPool_2690016_BuffName,奇境梦蝶,Wonderland Phantasm,Mộng Điệp Kỳ Cảnh
-lang_multi_text.db,MultiText,RogueBuffPool_2690017_BuffDesc,角色造成伤害时，回复自身4%已损失生命值，每0.1秒可触发1次。,"Dealing damage restores 4% of lost HP, triggered once every 0.1s.","Khi nhân vật gây sát thương, hồi phục 4% sinh mệnh đã mất, mỗi 0.1 giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_2690017_BuffDesc_0,角色造成伤害时回复生命值。,Dealing damage restores HP.,Khi nhân vật gây sát thương sẽ hồi phục sinh mệnh.

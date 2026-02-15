@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_200198_Text,可用COST不足，无法装配,"Insufficient available COST, cannot be equipped.","COST khả dụng không đủ, không thể trang bị."
+lang_multi_text.db,MultiText,ErrorCode_200199_Text,装备声骸重复，请重新尝试,"Echo equipped repeatedly, please try again.","Thanh Hài trang bị bị trùng, vui lòng thử lại."
+lang_multi_text.db,MultiText,ErrorCode_200200_Text,声骸已被其他角色装备,Echo has been equipped by another character.,Thanh Hài đã được nhân vật khác trang bị.
+lang_multi_text.db,MultiText,ErrorCode_200201_Text,消耗道具数量错误，请重新尝试,"The number of items consumed is incorrect, please try again.","Số lượng vật phẩm tiêu hao không đúng, vui lòng thử lại."
+lang_multi_text.db,MultiText,ErrorCode_200202_Text,消耗道具重复，请重新尝试,"Consumption of the same item repeated, please try again","Vật phẩm tiêu hao bị trùng, vui lòng thử lại."
+lang_multi_text.db,MultiText,ErrorCode_200203_Text,消耗道具重复，请重新尝试,"Consumption of the same item repeated, please try again","Vật phẩm tiêu hao bị trùng, vui lòng thử lại."
+lang_multi_text.db,MultiText,ErrorCode_200204_Text,消耗道具错误，请重新尝试,"Consumption of item error, please try again","Lỗi vật phẩm tiêu hao, vui lòng thử lại."
+lang_multi_text.db,MultiText,ErrorCode_200205_Text,消耗声骸没有经验，请重新尝试,"Consumption of Echo without experience, please try again","Thanh Hài tiêu hao không có kinh nghiệm, vui lòng thử lại."
+lang_multi_text.db,MultiText,ErrorCode_200206_Text,调谐槽位错误，请重新尝试,"Tuning slot error, please try again","Lỗi ô điều hưởng, vui lòng thử lại."
+lang_multi_text.db,MultiText,ErrorCode_200207_Text,有上一次的调谐结果尚未确认,There are unconfirmed Tuning results,Có kết quả điều hưởng trước đó chưa được xác nhận.
 lang_multi_text.db,MultiText,ErrorCode_200208_Text,消耗道具品质错误，请重新尝试,"Consumption of item of wrong quality, please try again","Phẩm chất vật phẩm tiêu hao không đúng, vui lòng thử lại."
 lang_multi_text.db,MultiText,ErrorCode_200209_Text,调谐经验不足,Tuning EXP insufficient,Không đủ EXP điều hưởng.
 lang_multi_text.db,MultiText,ErrorCode_200210_Text,未放入同名声骸，请重新尝试,"No same name Echo put in, please try again","Chưa đặt Thanh Hài cùng tên, vui lòng thử lại."
@@ -45,14 +55,14 @@ lang_multi_text.db,MultiText,ErrorCode_200250_Text,逆境深塔前置关卡未�
 lang_multi_text.db,MultiText,ErrorCode_200251_Text,服务器数据统计中，请稍后再试,"Server data is being counted, please try again later","Máy chủ đang thống kê dữ liệu, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_200252_Text,奖励数据异常，如有疑问请联系官方客服,"Reward data is abnormal, if you have any questions, please contact official customer service","Dữ liệu phần thưởng bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_200253_Text,奖励数据异常，如有疑问请联系官方客服,"Reward data is abnormal, if you have any questions, please contact official customer service","Dữ liệu phần thưởng bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_200254_Text,奖励已领取,The reward has been received,Phần thưởng đã được nhận
+lang_multi_text.db,MultiText,ErrorCode_200254_Text,奖励已领取,The reward has been received,Phần thưởng đã được nhận.
 lang_multi_text.db,MultiText,ErrorCode_200255_Text,未达到该奖励目标,The reward target has not been reached,Chưa đạt mục tiêu phần thưởng này
 lang_multi_text.db,MultiText,ErrorCode_200256_Text,当前逆境深塔周期已刷新,The current Tower of Adversity cycle has been refreshed,Chu kỳ Tháp Nghịch Cảnh hiện tại đã được làm mới
 lang_multi_text.db,MultiText,ErrorCode_200257_Text,全息挑战·强袭配置索引失败，如有疑问请联系官方客服,"Holographic challenge: Calamity configuration index failed, if you have any questions, please contact official customer service","Thử thách Toàn Tức - Cường Tập: Lỗi chỉ mục cấu hình, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_200258_Text,全息挑战·强袭玩开启,Holographic challenge: Calamity is open,Thử thách Toàn Tức - Cường Tập đã mở
 lang_multi_text.db,MultiText,ErrorCode_200259_Text,全息挑战·强袭未解锁,Holographic challenge: Calamity is not unlocked,Thử thách Toàn Tức - Cường Tập chưa mở khóa
 lang_multi_text.db,MultiText,ErrorCode_200260_Text,全息挑战·强袭未开启,Holographic challenge: Calamity is not open,Thử thách Toàn Tức - Cường Tập chưa mở
-lang_multi_text.db,MultiText,ErrorCode_200261_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact official customer service","Có lỗi bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_200261_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_200262_Text,声骸副属性未解锁，请稍后再试,"Echo's Substat is not unlocked, please try again later","Phụ thuộc tính Thanh Hài chưa được mở khóa, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_200263_Text,声骸消耗配置错误，请稍后再试,"Echo's consumption configuration is wrong, please try again later","Cấu hình tiêu hao Thanh Hài bị lỗi, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_200264_Text,礼包类型存在异常，如有疑问请联系官方客服,"The type of gift package is abnormal, if you have any questions, please contact official customer service","Loại gói quà bị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_200311_Text,当前登录设备因{0}被�
 lang_multi_text.db,MultiText,ErrorCode_200312_Text,角色名字长度不符，请重新尝试。,"Character name length does not match, please try again.","Độ dài tên nhân vật không phù hợp, vui lòng thử lại."
 lang_multi_text.db,MultiText,ErrorCode_200313_Text,文本长度不符，请重新尝试。,"The text length does not match, please try again.","Độ dài văn bản không phù hợp, vui lòng thử lại."
 lang_multi_text.db,MultiText,ErrorCode_200314_Text,道具数量错误。,Wrong number of props.,Số lượng vật phẩm không chính xác.
-lang_multi_text.db,MultiText,ErrorCode_200315_Text,融合配置不存在。,Data Merge configurations do not exist.,Cấu hình dung hợp không tồn tại.
-lang_multi_text.db,MultiText,ErrorCode_200316_Text,融合配置不存在。,Data Merge configurations do not exist.,Cấu hình dung hợp không tồn tại.
-lang_multi_text.db,MultiText,ErrorCode_200317_Text,含有已强化声骸，无法融合。,Data Merge failed because an enhanced Echo has been selected.,"Chứa Thanh Hài đã cường hóa, không thể dung hợp."
-lang_multi_text.db,MultiText,ErrorCode_200318_Text,配置获取失败，请重新尝试。,Failed to retrieve configuration. Please try again.,"Không thể tải cấu hình, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_200319_Text,功能未开启。,Function not available,Chức năng chưa mở.
-lang_multi_text.db,MultiText,ErrorCode_200320_Text,记忆收集未解锁。,Memory Collection function yet to unlock,Thu thập ký ức chưa được mở khóa.
-lang_multi_text.db,MultiText,ErrorCode_200321_Text,奖励已领取。,You've already claimed the rewards.,Phần thưởng đã được nhận.
-lang_multi_text.db,MultiText,ErrorCode_200322_Text,角色数据加载异常，如有疑问请联系官方客服。,"Character data error. If you have any questions, please contact customer service","Dữ liệu nhân vật tải bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
-lang_multi_text.db,MultiText,ErrorCode_200323_Text,配方已解锁，无法重复购买,Recipe already unlocked. Unable to purchase again.,"Công thức đã mở khóa, không thể mua lại."
-lang_multi_text.db,MultiText,ErrorCode_200324_Text,配方已解锁，无法重复购买,Recipe already unlocked. Unable to purchase again.,"Công thức đã mở khóa, không thể mua lại."

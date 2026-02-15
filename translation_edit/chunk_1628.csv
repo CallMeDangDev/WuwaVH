@@ -1,4 +1,29 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,PhantomSkill_200089_DescriptionEx,"使用声骸技能，召唤小翼龙·热熔，造成五次每次{0}的热熔伤害。
+技能冷却：{1}秒","Summon a Fusion Drake to attack enemies, dealing {0} Fusion DMG 3 times.
+CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Tiểu Dực Long - Nhiệt Dung, gây 5 lần sát thương Nhiệt Dung, mỗi lần {0}.
+Hồi chiêu: {1} giây"
+lang_multi_text.db,MultiText,PhantomSkill_200089_SimplyDescription,召唤小翼龙·热熔，造成热熔伤害。,Summon a Fusion Drake to deal Fusion DMG to enemies.,"Triệu hồi Tiểu Dực Long - Nhiệt Dung, gây sát thương Nhiệt Dung."
+lang_multi_text.db,MultiText,PhantomSkill_200090_DescriptionEx,"使用声骸技能，召唤小翼龙·衍射，造成三次每次{0}的衍射伤害。
+技能冷却：{1}秒","Summon a Spectro Drake to attack enemies, dealing {0} Spectro DMG 3 times.
+CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Tiểu Dực Long - Nhiễu Xạ, gây 3 lần sát thương Nhiễu Xạ, mỗi lần {0}.
+Hồi chiêu: {1} giây"
+lang_multi_text.db,MultiText,PhantomSkill_200090_SimplyDescription,召唤小翼龙·衍射，造成衍射伤害。,Summon a Spectro Drake to deal Spectro DMG to enemies.,"Triệu hồi Tiểu Dực Long - Nhiễu Xạ, gây sát thương Nhiễu Xạ."
+lang_multi_text.db,MultiText,PhantomSkill_200091_DescriptionEx,"使用声骸技能，召唤小翼龙·湮灭，造成{0}的湮灭伤害。
+技能冷却：{1}秒","Summon a Havoc Drake to attack enemies, dealing {0} Havoc DMG 3 times.
+CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Tiểu Dực Long - Hủy Diệt, gây {0} sát thương Hủy Diệt.
+Hồi chiêu: {1} giây"
+lang_multi_text.db,MultiText,PhantomSkill_200091_SimplyDescription,召唤小翼龙·湮灭，造成湮灭伤害。,Summon a Havoc Drake to deal Havoc DMG to enemies.,"Triệu hồi Tiểu Dực Long - Hủy Diệt, gây sát thương Hủy Diệt."
+lang_multi_text.db,MultiText,PhantomSkill_200092_DescriptionEx,"使用声骸技能，召唤苦信者的作俑，造成三次每次{0}的气动伤害。
+技能冷却：{1}秒","Summon a Devotee's Flesh to attack enemies, dealing {0} Aero DMG 3 times.
+CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Tác Dũng của Khổ Tín Giả, gây 3 lần sát thương Khí Động, mỗi lần {0}.
+Hồi chiêu: {1} giây"
+lang_multi_text.db,MultiText,PhantomSkill_200092_SimplyDescription,召唤苦信者的作俑，造成气动伤害。,Summon a Devotee's Flesh to deal Aero DMG to enemies.,"Triệu hồi Tác Dũng của Khổ Tín Giả, gây sát thương Khí Động."
+lang_multi_text.db,MultiText,PhantomSkill_200093_DescriptionEx,"使用声骸技能，幻形为传道者的遗形，对周围敌人造成{0}的气动伤害。
+技能冷却：{1}秒","Transform into a Pilgrim's Shell to attack nearby enemies, dealing {0} Aero DMG.
+CD: {1}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Di Hình của Truyền Đạo Giả, gây {0} sát thương Khí Động lên kẻ địch xung quanh.
+Hồi chiêu: {1} giây"
+lang_multi_text.db,MultiText,PhantomSkill_200093_SimplyDescription,幻形为传道者的遗形，对周围敌人造成气动伤害。,Transform into a Pilgrim's Shell to attack nearby enemies and deal Aero DMG.,"Hóa hình thành Di Hình của Truyền Đạo Giả, gây sát thương Khí Động lên kẻ địch xung quanh."
 lang_multi_text.db,MultiText,PhantomSkill_200094_DescriptionEx,"使用声骸技能，幻形为角鳄，跃起后下砸造成{0}的气动伤害；一段时间内再次短按声骸技能，可冲向敌人造成{1}的气动伤害。
 在首位装配该声骸技能时，自身气动伤害加成提升{2}，共鸣解放伤害加成提升{3}。
 技能冷却：{4}秒","Transform into Kerasaur to leap into the air and slam down, dealing {0} Aero DMG. Shortly after hitting the target, cast Echo Skill again to charge at the target, dealing {1} Aero DMG.
@@ -438,49 +463,3 @@ lang_multi_text.db,MultiText,PhantomSkill_280023_SimplyDescription,"幻形为梦
 长按声骸技能可以持续幻形为骑行状态的梦魇·燎照之骑。","Transform into Nightmare: Inferno Rider and deal Fusion DMG to enemies. Equipping this Echo in the main slot grants Fusion DMG Bonus and Resonance Skill DMG Bonus.
 Hold Echo Skill to transform into Nightmare: Inferno Rider and enter Riding Mode.","Hóa hình thành Mộng Yểm - Liêu Chiếu Chi Kỵ, gây sát thương Nhiệt Dung cho kẻ địch phía trước. Trang bị ở vị trí chính sẽ tăng sát thương Nhiệt Dung và sát thương Kỹ Năng Cộng Hưởng.
 Giữ Thanh Hài Kỹ để duy trì hóa hình thành Mộng Yểm - Liêu Chiếu Chi Kỵ ở trạng thái cưỡi."
-lang_multi_text.db,MultiText,PhantomSkill_280024_DescriptionEx,"使用声骸技能，召唤梦魇·哀声鸷，对周围敌人造成{0}的衍射伤害。若敌人处于受「光噪效应」影响状态时，哀声鸷造成的伤害提升{1}。
-在首位装配该声骸技能时，自身衍射伤害加成提升{2}。
-技能冷却：{3}秒","Summon a Nightmare: Mourning Aix to attack surrounding enemies, dealing {0} Spectro DMG. DMG dealt to enemies inflicted by Spectro Frazzle is increased by {1}.
-The Resonator with this Echo equipped in their main slot gains {2} Spectro DMG Bonus.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Mộng Yểm - Ai Thanh Chí, gây {0} sát thương Nhiễu Xạ cho kẻ địch xung quanh. Nếu kẻ địch đang chịu ảnh hưởng ""Hiệu Ứng Quang Tạp"", sát thương gây ra bởi Ai Thanh Chí tăng {1}.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {2} bonus sát thương Nhiễu Xạ.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280024_SimplyDescription,召唤梦魇·哀声鸷，对周围敌人造成衍射伤害，对受「光噪效应」影响的敌人造成更多伤害。 在首位装配时提高自身的衍射伤害。,Summon a Nightmare: Mourning Aix to deal Spectro DMG to enemies. Deal increased DMG to enemies inflicted by Spectro Frazzle. Equipping this Echo in the main slot grants Spectro DMG Bonus.,"Triệu hồi Mộng Yểm - Ai Thanh Chí, gây sát thương Nhiễu Xạ cho kẻ địch xung quanh, gây thêm sát thương cho kẻ địch đang chịu ảnh hưởng ""Hiệu Ứng Quang Tạp"". Trang bị ở vị trí chính sẽ tăng sát thương Nhiễu Xạ."
-lang_multi_text.db,MultiText,PhantomSkill_280025_DescriptionEx,"使用声骸技能，召唤梦魇·辉萤军势，对周围敌人造成{0}的冷凝伤害。
-在首位装配该声骸技能时，自身冷凝伤害加成提升{1}，协同攻击造成的伤害提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Lampylumen Myriad and attack surrounding enemies, dealing {0} Glacio DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Glacio DMG Bonus and deals {2} more Coordinated Attack DMG.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Mộng Yểm - Huy Huỳnh Quân Thế, gây {0} sát thương Ngưng Băng cho kẻ địch xung quanh.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {1} bonus sát thương Ngưng Băng và tăng {2} sát thương Hiệp Đồng Công Kích.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280025_SimplyDescription,召唤梦魇·辉萤军势，对周围敌人造成冷凝伤害。 在首位装配时提高自身的冷凝伤害和协同攻击造成的伤害。,Summon a Nightmare: Lampylumen Myriad and deal Glacio DMG to nearby enemies. Equipping this Echo in the main slot grants Glacio DMG Bonus and increases Coordinated Attack DMG.,"Triệu hồi Mộng Yểm - Huy Huỳnh Quân Thế, gây sát thương Ngưng Băng cho kẻ địch xung quanh. Trang bị ở vị trí chính sẽ tăng sát thương Ngưng Băng và sát thương Hiệp Đồng Công Kích."
-lang_multi_text.db,MultiText,PhantomSkill_280026_DescriptionEx,"使用声骸技能，召唤【破空幻刃】，攻击目标，造成八段{0}和一段{1}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{2}，当装配角色为漂泊者·气动或卡提希娅时，自身气动伤害加成额外提升{3}。
-技能冷却：{4}秒","Summon Windcleaver and attack the target, dealing {0} Aero DMG 8 times and {1} Aero DMG once.
-The Resonator with this Echo equipped in the main slot gains {2} Aero DMG Bonus. When Resonator: Aero or Cartethyia equips this Echo, they gain {3} more Aero DMG Bonus.
-CD: {4}s.","Sử dụng Thanh Hài Kỹ, triệu hồi [Phá Không Huyễn Nhẫn], tấn công mục tiêu, gây 8 đoạn {0} và 1 đoạn {1} sát thương Khí Động.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {2} bonus sát thương Khí Động. Khi nhân vật trang bị là Lữ Khách - Khí Động hoặc Cartethyia, bonus sát thương Khí Động tăng thêm {3}.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280026_SimplyDescription,召唤【破空幻刃】，对敌人造成气动伤害。在首位装配时提高自身的气动伤害，漂泊者·气动和卡提希娅在首位装配时气动伤害加成额外提高。,"Summon the Windercleaver to deal Aero DMG. Equipping this Echo in the main slot grants Aero DMG Bonus. If equipped by Rover: Aero or Cartethyia, grant an extra Aero DMG bonus.","Triệu hồi [Phá Không Huyễn Nhẫn], gây sát thương Khí Động cho kẻ địch. Trang bị ở vị trí chính sẽ tăng sát thương Khí Động. Lữ Khách - Khí Động và Cartethyia trang bị ở vị trí chính sẽ được tăng thêm bonus sát thương Khí Động."
-lang_multi_text.db,MultiText,PhantomSkill_280027_DescriptionEx,"使用声骸技能，幻形为梦魇·凯尔匹，对周围敌人造成{0}的冷凝伤害。
-在首位装配该声骸技能时，自身冷凝伤害加成提升{2}，气动伤害加成提升{3}；使用延奏技能离场时可召唤梦魇·凯尔匹，对敌人造成{1}的气动伤害。
-技能冷却：{4}秒","Transform into Nightmare: Kelpie to attack nearby targets, dealing {0} Glacio DMG.
-The Resonator with this Echo equipped in the main slot gains {2} Glacio DMG Bonus and {3} Aero DMG Bonus. Switching out the Resonator with Outro Skill summons Nightmare: Kelpie to deal {1} Aero DMG.
-CD: {4}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Mộng Yểm - Kelpie, gây {0} sát thương Ngưng Băng cho kẻ địch xung quanh.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {2} bonus sát thương Ngưng Băng và {3} bonus sát thương Khí Động; khi sử dụng kỹ năng Hiệp Tấu để rời sân có thể triệu hồi Mộng Yểm - Kelpie, gây {1} sát thương Khí Động cho kẻ địch.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280027_SimplyDescription,"幻形为梦魇·凯尔匹，对周围敌人造成冷凝伤害。
-在首位装配时，提高自身冷凝和气动伤害；使用延奏技能离场时可召唤梦魇·凯尔匹，对敌人造成气动伤害。","Transform into Nightmare: Kelpie to attack nearby targets, dealing Glacio DMG.
-The Resonator with this Echo equipped in the main slot gains Glacio and Aero DMG Bonus. Switching out the Resonator with Outro Skill summons Nightmare: Kelpie to deal Aero DMG.","Hóa hình thành Mộng Yểm - Kelpie, gây sát thương Ngưng Băng cho kẻ địch xung quanh.
-Trang bị ở vị trí chính sẽ tăng sát thương Ngưng Băng và Khí Động; khi sử dụng kỹ năng Hiệp Tấu để rời sân có thể triệu hồi Mộng Yểm - Kelpie, gây sát thương Khí Động cho kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_280028_DescriptionEx,"使用声骸技能，召唤【荣光之戟】，对周围敌人造成{0}的热熔伤害，一定时间后再造成{1}的热熔伤害。
-在首位装配该声骸技能时，自身热熔伤害加成提升{2}，共鸣解放伤害加成提升{3}。
-技能冷却：{4}秒","Summon the Halberd of Glory to crush an area, dealing {0} Fusion DMG to nearby targets, and then blast off after a short delay, dealing {1} Fusion DMG.
-The Resonator with this Echo equipped in the main slot gains {2} Fusion DMG Bonus and {3} Resonance Liberation DMG Bonus.
-CD: {4}s","Sử dụng Thanh Hài Kỹ, triệu hồi [Vinh Quang Chi Kích], gây {0} sát thương Nhiệt Dung cho kẻ địch xung quanh, sau một khoảng thời gian gây thêm {1} sát thương Nhiệt Dung.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {2} bonus sát thương Nhiệt Dung và {3} bonus sát thương Giải Phóng Cộng Hưởng.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280028_SimplyDescription,"使用声骸技能，召唤【荣光之戟】，对周围敌人造成热熔伤害。
-在首位装配时，提高自身热熔和共鸣解放伤害。","Summon the Halberd of Glory to deal Fusion DMG to nearby targets.
-The Resonator with this Echo equipped in the main slot gains Fusion and Resonance Liberation DMG Bonus.","Sử dụng Thanh Hài Kỹ, triệu hồi [Vinh Quang Chi Kích], gây sát thương Nhiệt Dung cho kẻ địch xung quanh.
-Trang bị ở vị trí chính sẽ tăng sát thương Nhiệt Dung và sát thương Giải Phóng Cộng Hưởng."

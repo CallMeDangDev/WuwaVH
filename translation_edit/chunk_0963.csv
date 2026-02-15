@@ -1,10 +1,41 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,InstanceDungeon_8189_Description,“二流的商人贩卖产品，一流的商人贩卖梦想。”,"""A mediocre merchant sells products. An ace merchant sells dreams.""","""Thương nhân hạng hai bán sản phẩm, thương nhân hạng nhất bán giấc mơ."""
+lang_multi_text.db,MultiText,InstanceDungeon_8189_MonsterTips,"复苏时间（单人模式）：15秒
+复苏时间（联机模式）：10秒
+入场时60秒内，敌人的攻击力提升50%","Revival Time: 15s (Solo)/10s (Co-op)
+The enemy's ATK increases by 50% in the first 60 seconds.","Thời gian hồi sinh (Chế độ đơn): 15 giây
+Thời gian hồi sinh (Chế độ liên cơ): 10 giây
+Trong 60 giây đầu sau khi vào trận, tấn công của kẻ địch tăng 50%"
+lang_multi_text.db,MultiText,InstanceDungeon_8189_Name,虚妄金殿·挑战,Palace of Illusion: Challenge,Kim Điện Hư Vọng - Thử Thách
+lang_multi_text.db,MultiText,InstanceDungeon_8190_Description,“你知道一切终将于时光中消逝。一如眼泪消失在雨中。”,"""You realize that everything will eventually fade away in time. Just like a drop of tear disappearing in the rain.""","""Bạn biết rằng tất cả rồi sẽ tan biến theo thời gian. Như nước mắt hòa lẫn trong mưa."""
+lang_multi_text.db,MultiText,InstanceDungeon_8190_MonsterTips,"复苏时间（单人模式）：15秒
+复苏时间（联机模式）：10秒
+敌人生命值首次低于50%时获得护盾，30秒后若护盾仍然存在，敌人获得100%攻击力提升","Revival Time: 15s (Solo)/10s (Co-op)
+The enemy gains a shield the first time its HP drops below 50%. If the shield still exists after 30 seconds, their ATK increases by 100%.","Thời gian hồi sinh (Chế độ đơn): 15 giây
+Thời gian hồi sinh (Chế độ liên cơ): 10 giây
+Khi HP địch lần đầu giảm xuống dưới 50%, địch nhận được giáp chắn. Sau 30 giây nếu giáp chắn vẫn tồn tại, tấn công lực của địch tăng 100%."
+lang_multi_text.db,MultiText,InstanceDungeon_8190_Name,荒芜田垄·挑战,Barren Pasture: Challenge,Hoang Vu Điền Lũng - Thử Thách
+lang_multi_text.db,MultiText,InstanceDungeon_8191_Description,“背负所有名字的人，奔赴明天。”,"""The person bearing all names heads off into tomorrow.""","""Người mang trên mình tất cả những cái tên, tiến bước về ngày mai."""
+lang_multi_text.db,MultiText,InstanceDungeon_8191_MonsterTips,"复苏时间（单人模式）：15秒
+复苏时间（联机模式）：10秒
+敌人伤害减免提高50%，在首次进入瘫痪状态后移除","Revival Time: 15s (Solo)/10s (Co-op)
+The enemy's DMG Reduction increases by 50%, which will be removed after it is immobilized for the first time.","Thời gian hồi sinh (Chế độ đơn): 15 giây
+Thời gian hồi sinh (Chế độ liên cơ): 10 giây
+Giảm sát thương nhận vào của địch tăng 50%, sẽ bị loại bỏ sau khi địch lần đầu rơi vào trạng thái tê liệt."
+lang_multi_text.db,MultiText,InstanceDungeon_8191_Name,毕业典礼·挑战,Commencement: Challenge,Lễ Tốt Nghiệp - Thử Thách
+lang_multi_text.db,MultiText,InstanceDungeon_8301_MonsterTips,"仿声：仿声战略活动中，所有敌人的抗性为0
+充盈：进入战斗时回复全部共鸣能量
+涌流：击败敌人时回复50点共鸣能量","Simulation: All enemies have 0 RES during the Tactical Simulacra event.
+Abundance: Recover all Resonance Energy when entering combat.
+Surge: Recover 50 Resonance Energy when defeating an enemy.","Phỏng Thanh: Trong hoạt động Phỏng Thanh Chiến Lược, tất cả địch có kháng tính bằng 0.
+sung Doanh: Hồi phục toàn bộ Năng Lượng Cộng Hưởng khi vào chiến đấu.
+Dũng Lưu: Hồi phục 50 điểm Năng Lượng Cộng Hưởng khi đánh bại địch."
 lang_multi_text.db,MultiText,InstanceDungeon_8302_MonsterTips,"仿声：仿声战略活动中，所有敌人的抗性为0
 充盈：进入战斗时回复全部共鸣能量
 涌流：击败敌人时回复50点共鸣能量","Simulation: All enemies have 0 RES during the Tactical Simulacra event.
 Abundance: Recover all Resonance Energy when entering combat.
 Surge: Recover 50 Resonance Energy when defeating an enemy.","Phỏng Thanh: Trong hoạt động Phỏng Thanh Chiến Lược, tất cả địch có kháng tính bằng 0.
-Sung Doanh: Hồi phục toàn bộ Năng Lượng Cộng Hưởng khi vào chiến đấu.
+sung Doanh: Hồi phục toàn bộ Năng Lượng Cộng Hưởng khi vào chiến đấu.
 Dũng Lưu: Hồi phục 50 điểm Năng Lượng Cộng Hưởng khi đánh bại địch."
 lang_multi_text.db,MultiText,InstanceDungeon_8303_MonsterTips,"仿声：仿声战略活动中，所有敌人的抗性为0
 充盈：进入战斗时回复全部共鸣能量
@@ -365,8 +396,8 @@ Tăng ích cốt lõi: Khi <color=Highlight>Biến Tấu kỹ năng nhập trư�
 lang_multi_text.db,MultiText,InstanceDungeon_8522_DungeonDesc,"黑海岸似乎在研发海算沙盘方面取得了新的突破，更逼真的地图与更刺激的战斗接踵而来……
 这次，场地被置于了悲叹墓岛，那个曾接纳无数被流放之人的……荒岛。","It seems the Black Shores has made breakthroughs in its Infinite Reality Sandbox, now offering more immersive environments and thrilling battles.
 
-This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Hắc Hải Ngạn dường như đã đạt được bước đột phá mới trong việc phát triển Sa Bàn Hải Toán, bản đồ chân thực hơn và trận chiến kịch tính hơn liên tiếp ập đến...
-Lần này, địa điểm được đặt tại Đảo Mộ Bi Thán, hòn đảo hoang từng tiếp nhận vô số kẻ bị lưu đày..."
+This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Hắc Hải Ngạn dường như đã đạt được bước đột phá mới trong việc phát triển Sa bàn Hải Toán, bản đồ chân thực hơn và trận chiến kịch tính hơn lần lượt xuất hiện...
+Lần này, địa điểm được đặt tại Bi Thán Mộ Đảo, hòn đảo hoang từng tiếp nhận vô số người bị lưu đày..."
 lang_multi_text.db,MultiText,InstanceDungeon_8522_MapName,悲叹墓岛-IV,Penitent's End IV,Đảo Mộ Bi Thán - IV
 lang_multi_text.db,MultiText,InstanceDungeon_8522_MonsterTips,"该关卡内，<color=Highlight>长离</color>将一直处于<color=Highlight>心眼</color>状态。
 该关卡内，翱翔体力消耗减少。
@@ -382,8 +413,8 @@ Tăng ích cốt lõi: Khi thực hiện <color=Highlight>tấn công trên khô
 lang_multi_text.db,MultiText,InstanceDungeon_8523_DungeonDesc,"黑海岸似乎在研发海算沙盘方面取得了新的突破，更逼真的地图与更刺激的战斗接踵而来……
 这次，场地被置于了悲叹墓岛，那个曾接纳无数被流放之人的……荒岛。","It seems the Black Shores has made breakthroughs in its Infinite Reality Sandbox, now offering more immersive environments and thrilling battles.
 
-This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Hắc Hải Ngạn dường như đã đạt được bước đột phá mới trong việc phát triển Sa Bàn Hải Toán, bản đồ chân thực hơn và trận chiến kịch tính hơn liên tiếp ập đến...
-Lần này, địa điểm được đặt tại Đảo Mộ Bi Thán, hòn đảo hoang từng tiếp nhận vô số kẻ bị lưu đày..."
+This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Hắc Hải Ngạn dường như đã đạt được bước đột phá mới trong việc phát triển Sa bàn Hải Toán, bản đồ chân thực hơn và trận chiến kịch tính hơn lần lượt xuất hiện...
+Lần này, địa điểm được đặt tại Bi Thán Mộ Đảo, hòn đảo hoang từng tiếp nhận vô số người bị lưu đày..."
 lang_multi_text.db,MultiText,InstanceDungeon_8523_MapName,悲叹墓岛-V,Penitent's End V,Đảo Mộ Bi Thán - V
 lang_multi_text.db,MultiText,InstanceDungeon_8523_MonsterTips,"该关卡内，<color=Highlight>灯灯</color>的<color=Highlight>黄灯·疾奔</color>不消耗耐力。
 该关卡内，翱翔体力消耗减少。
@@ -459,45 +490,3 @@ Thời gian hồi sinh (chế độ liên cơ): 10 giây
 Địch nhận được 5 tầng [Kiên Ngạnh], mỗi tầng [Kiên Ngạnh] tăng 20% phòng ngự, mỗi lần chịu sát thương mất 1 tầng [Kiên Ngạnh]
 <color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
 lang_multi_text.db,MultiText,InstanceDungeon_8614_Name,戴珍珠耳环的教士,Acolyte with the Pearl Earrings,Giáo Sĩ Đeo Hoa Tai Ngọc Trai
-lang_multi_text.db,MultiText,InstanceDungeon_8615_Description,"灾难来临时，拉古那的人民团结在她的圣旗下同仇敌忾。
-“万福英白拉多！”","In times of peril, the people of Ragunna rally under her banner to resist the invaders. 
-""Praise be to Imperator!""","Khi tai họa ập đến, nhân dân Ragunna đoàn kết dưới thánh kỳ của Ngài cùng chung lòng chống giặc.
-""Vạn phúc Imperator!"""
-lang_multi_text.db,MultiText,InstanceDungeon_8615_MonsterTips,"复苏时间（单人模式）：10秒
-复苏时间（联机模式）：10秒
-角色使用声骸技能时，会对自己造成20%最大生命值的伤害
-<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
-Using Echo Skills costs the Resonator 20% of their Max HP. 
-<color=#c25757>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (chế độ đơn): 10 giây
-Thời gian hồi sinh (chế độ liên cơ): 10 giây
-Khi nhân vật sử dụng Thanh Hài Kỹ, sẽ gây cho bản thân sát thương bằng 20% sinh mệnh tối đa
-<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
-lang_multi_text.db,MultiText,InstanceDungeon_8615_Name,信仰引导人民,Faith Leading the People,Tín Ngưỡng Dẫn Dắt Nhân Dân
-lang_multi_text.db,MultiText,InstanceDungeon_8616_Description,"翡萨烈其实并不知道英白拉多来自何处，但在他们的梦里，祂高于这世上的一切。
-“祂命海水冲洗尘世的崖岸，静静地俯视荒原与群山。”","The Fisalias do not know of Sentinel Imperator's origins, but in their dreams, there is no higher authority.
-""Silent above the wastelands and the mountains, They command the sea to dash upon the cliffs.""","Người Fisalia thực ra không biết Imperator đến từ đâu, nhưng trong giấc mơ của họ, Ngài cao hơn tất thảy mọi thứ trên thế gian.
-""Ngài truyền lệnh cho sóng biển xô vào vách đá trần thế, lặng lẽ nhìn xuống hoang nguyên và quần sơn."""
-lang_multi_text.db,MultiText,InstanceDungeon_8616_MonsterTips,"复苏时间（单人模式）：10秒
-复苏时间（联机模式）：10秒
-高难度挑战关卡，请做好充分的准备。
-完成挑战可获得隐藏道具。
-<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
-This is a high-difficulty challenge. Please be fully prepared. Hidden rewards await those who finish the challenge. 
-<color=#c25757>Trial Resonators will be available in Solo mode</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
-Thời gian hồi sinh (Chế độ liên cơ): 10 giây
-Đây là thử thách độ khó cao, hãy chuẩn bị thật kỹ.
-Hoàn thành thử thách có thể nhận được vật phẩm ẩn.
-<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
-lang_multi_text.db,MultiText,InstanceDungeon_8616_Name,英白拉多的诞生,The Birth of Imperator,Sự Khai Sinh Của Imperator
-lang_multi_text.db,MultiText,InstanceDungeon_8620_Description,"“他只是不想遵守向死亡做出的承诺。”
-请帮助多萝西击败门内的怪物吧。","""No, he made a promise to death that he didn't keep.""
-Help Dorothy defeat the monster behind the door.","""Anh ta chỉ không muốn giữ lời hứa đã dành cho cái chết.""
-Hãy giúp Dorothy đánh bại quái vật bên trong cánh cửa."
-lang_multi_text.db,MultiText,InstanceDungeon_8620_MonsterTips,"复苏时间（单人模式）：10秒
-复苏时间（联机模式）：10秒
-<color=#aa9b6a>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
-<color=#aa9b6a>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
-Thời gian hồi sinh (Chế độ liên cơ): 10 giây
-<color=#aa9b6a>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
-lang_multi_text.db,MultiText,InstanceDungeon_8620_Name,三元悖论,The Triangle,Nghịch Lý Tam Nguyên
-lang_multi_text.db,MultiText,InstanceDungeon_8620_Title,迷失海上,Lost at Sea,Lạc Giữa Biển Khơi

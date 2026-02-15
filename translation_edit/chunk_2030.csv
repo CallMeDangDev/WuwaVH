@@ -1,4 +1,91 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Skill_1002604_SkillName,寻路,Pathfinding,Tầm Lộ
+lang_multi_text.db,MultiText,Skill_1002604_SkillResume,红灯模式期间，灯灯导电伤害加成提升{0}。,Gain {0} Electro DMG Bonus when in Red Light Mode.,"Trong chế độ Đèn Đỏ, tăng thêm {0} bonus sát thương Dẫn Điện cho Lumi."
+lang_multi_text.db,MultiText,Skill_1002605_SkillDescribe,施放<color=Highlight>强化·前扑</color>或<color=Highlight>强化·后撤</color>时，{0}秒内灯灯攻击力提升{1}。,Casting <color=Highlight>Energized Pounce</color> or <color=Highlight>Energized Rebound</color> increases ATK by {1} for {0}s.,"Khi thi triển <color=Highlight>Cường Hóa - Tiền Phác</color> hoặc <color=Highlight>Cường Hóa - Hậu Triệt</color>, tấn công lực của Lumi tăng {1} trong {0} giây."
+lang_multi_text.db,MultiText,Skill_1002605_SkillName,奔赴,Expediting,Bôn Phó
+lang_multi_text.db,MultiText,Skill_1002605_SkillResume,施放<color=Highlight>强化·前扑</color>或<color=Highlight>强化·后撤</color>时，{0}秒内灯灯攻击力提升{1}。,"When performing <color=Highlight>Energized Pounce</color> or <color=Highlight>Energized Rebound</color>, ATK is increased by {1} for {0}s.","Khi thi triển <color=Highlight>Cường Hóa - Tiền Phác</color> hoặc <color=Highlight>Cường Hóa - Hậu Triệt</color>, tấn công lực của Lumi tăng {1} trong {0} giây."
+lang_multi_text.db,MultiText,Skill_1002606_SkillDescribe,进入<color=Highlight><te href=850043>黄灯模式</te></color>，攻击目标，造成<color=Thunder>导电伤害</color>。,"Enter <color=Highlight><te href=850043>Yellow Light Mode</te></color> and attack the target, dealing <color=Thunder>Electro DMG</color>.","Tiến vào chế độ <color=Highlight><te href=850043>Đèn Vàng</te></color>, tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>."
+lang_multi_text.db,MultiText,Skill_1002606_SkillName,专项派送,Special Delivery,Chuyên Hạng Phái Tống
+lang_multi_text.db,MultiText,Skill_1002606_SkillResume,进入<color=Highlight>黄灯</color>模式，造成<color=Thunder>导电伤害</color>。,Enter <color=Highlight>Yellow Light Mode</color> and deal <color=Thunder>Electro DMG</color>.,"Tiến vào chế độ <color=Highlight>Đèn Vàng</color>, gây <color=Thunder>sát thương Dẫn Điện</color>."
+lang_multi_text.db,MultiText,Skill_1002607_SkillDescribe,"<size=40><color=Title>强化·前扑</color></size>
+当【黄灯光能】满时，共鸣技能替换为<color=Highlight>强化·前扑</color>，造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>红灯聚光</color>模式，此次伤害为普攻伤害。
+<color=Highlight>红灯聚光</color>模式期间，<color=Highlight>红灯·普攻</color>和<color=Highlight>红灯·重击</color>造成伤害的倍率提升，回复的【光能】增加。
+施放4次普攻或重击后，退出<color=Highlight>红灯聚光</color>模式。
+
+<size=40><color=Title>强化·后撤</color></size>
+当【红灯光能】满时，共鸣技能替换为<color=Highlight>强化·后撤</color>，造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>黄灯聚光</color>模式，此次伤害为普攻伤害。
+<color=Highlight>黄灯聚光</color>模式期间，<color=Highlight>飞星</color>替换为<color=Highlight>强光</color>，造成伤害的倍率提升，回复的【光能】增加。
+施放6次<color=Highlight>强光</color>后，退出<color=Highlight>黄灯聚光</color>模式。
+
+<size=40><color=Title>强光穿射</color></size>
+灯灯施放延奏技能时，消耗当前模式的全部【光能】。
+消耗的【光能】大于等于{0}点时，可施放强光穿射，造成<color=Thunder>导电伤害</color>，此次伤害为普攻伤害。
+每{0}点【光能】可使强光穿射的伤害段数加{1}，最多{2}段。
+
+<size=40><color=Title>黄灯光能获取规则</color></size>
+上限{3}点。
+<color=Highlight>黄灯·普攻</color>命中目标，可获得【黄灯光能】。
+<color=Highlight>飞星</color>命中目标，可获得【黄灯光能】。
+<color=Highlight>强光</color>命中目标，可获得【黄灯光能】。
+共鸣技能<color=Highlight>强化·后撤</color>命中目标，可获得【黄灯光能】。
+施放变奏技能<color=Highlight>专项派送</color>时，可获得【黄灯光能】。
+
+<size=40><color=Title>红灯光能获取规则</color></size>
+上限{3}点。
+<color=Highlight>红灯</color>或<color=Highlight>红灯聚光</color>模式期间，常态攻击<color=Highlight>前路领航</color>命中目标，可获得【红灯光能】。","<size=40><color=Title>Energized Pounce</color></size>
+When Yellow Light Spark is fully recovered, replace Resonance Skill with Resonance Skill <color=Highlight>Energized Pounce</color> that deals <color=Thunder>Electro DMG</color> and enter <color=Highlight>Red Spotlight Mode</color>. The DMG dealt is considered Basic Attack DMG.
+When in <color=Highlight>Red Spotlight Mode</color>, the DMG Multiplier of <color=Highlight>Red Light: Basic Attack</color> and <color=Highlight>Red Light: Heavy Attack</color> is increased, with an extra amount of Sparks recovered.
+<color=Highlight>Red Spotlight Mode</color> ends after performing altogether 4 Basic Attacks and/or Heavy Attacks.
+
+<size=40><color=Title>Energized Rebound</color></size>
+When Red Light Spark is fully recovered, replace Resonance Skill with Resonance Skill <color=Highlight>Energized Rebound</color> that deals <color=Thunder>Electro DMG</color> and enter <color=Highlight>Yellow Spotlight Mode</color>. The DMG dealt is considered Basic Attack DMG.
+When in <color=Highlight>Yellow Spotlight Mode</color>, <color=Highlight>Glitter</color> is replaced by <color=Highlight>Glare</color>, with an increased DMG Multiplier and an extra amount of Sparks recovered.
+<color=Highlight>Yellow Spotlight Mode</color> ends after shooting 6 <color=Highlight>Glares</color>.
+
+<size=40><color=Title>Laser</color></size>
+Casting Outro Skill consumes all Sparks obtained in the current mode.
+Laser can be cast when the amount of consumed Sparks is greater than or equal to {0}, dealing <color=Thunder>Electro DMG</color>.  The DMG dealt is considered Basic Attack DMG. 
+Every {0} Sparks consumed generates {1} extra Laser beam, up to {2} Laser beams.
+
+<size=40><color=Title>Yellow Light Spark</color></size>
+Lumi can hold up to {3} Yellow Light Sparks.
+Lumi obtains Yellow Light Spark under the following conditions: 
+When <color=Highlight>Yellow Light: Basic Attack</color> hits the target;
+When <color=Highlight>Glitter</color> hits the target;
+When <color=Highlight>Glare</color> hits the target;
+When Resonance Skill <color=Highlight>Energized Rebound</color> hits the target;
+When casting Intro Skill <color=Highlight>Special Delivery</color>.
+
+<size=40><color=Title>Red Light Spark</color></size>
+Lumi can hold up to {3} Red Light Sparks.
+Lumi obtains Red Light Spark under the following conditions:
+When Normal Attack <color=Highlight>Navigation Support</color> hits the target in <color=Highlight>Red Light Mode</color> or <color=Highlight>Red Spotlight Mode</color>.","<size=40><color=Title>Cường Hóa - Tiền Phác</color></size>
+Khi [Quang Năng Đèn Vàng] đầy, Kỹ Năng Cộng Hưởng được thay thế bằng <color=Highlight>Cường Hóa - Tiền Phác</color>, gây <color=Thunder>sát thương Dẫn Điện</color> và tiến vào chế độ <color=Highlight>Đèn Đỏ Tụ Quang</color>, sát thương này được tính là sát thương Phổ Công.
+Trong chế độ <color=Highlight>Đèn Đỏ Tụ Quang</color>, hệ số sát thương của <color=Highlight>Đèn Đỏ - Phổ Công</color> và <color=Highlight>Đèn Đỏ - Trọng Kích</color> được tăng, [Quang Năng] hồi phục cũng tăng thêm.
+Sau khi thi triển tổng cộng 4 lần Phổ Công hoặc Trọng Kích, thoát khỏi chế độ <color=Highlight>Đèn Đỏ Tụ Quang</color>.
+
+<size=40><color=Title>Cường Hóa - Hậu Triệt</color></size>
+Khi [Quang Năng Đèn Đỏ] đầy, Kỹ Năng Cộng Hưởng được thay thế bằng <color=Highlight>Cường Hóa - Hậu Triệt</color>, gây <color=Thunder>sát thương Dẫn Điện</color> và tiến vào chế độ <color=Highlight>Đèn Vàng Tụ Quang</color>, sát thương này được tính là sát thương Phổ Công.
+Trong chế độ <color=Highlight>Đèn Vàng Tụ Quang</color>, <color=Highlight>Phi Tinh</color> được thay thế bằng <color=Highlight>Cường Quang</color>, hệ số sát thương tăng, [Quang Năng] hồi phục cũng tăng thêm.
+Sau khi thi triển 6 lần <color=Highlight>Cường Quang</color>, thoát khỏi chế độ <color=Highlight>Đèn Vàng Tụ Quang</color>.
+
+<size=40><color=Title>Cường Quang Xuyên Xạ</color></size>
+Khi Lumi thi triển Biến Tấu Kỹ, tiêu hao toàn bộ [Quang Năng] của chế độ hiện tại.
+Khi [Quang Năng] tiêu hao lớn hơn hoặc bằng {0} điểm, có thể thi triển Cường Quang Xuyên Xạ, gây <color=Thunder>sát thương Dẫn Điện</color>, sát thương này được tính là sát thương Phổ Công.
+Mỗi {0} điểm [Quang Năng] tăng thêm {1} đoạn sát thương cho Cường Quang Xuyên Xạ, tối đa {2} đoạn.
+
+<size=40><color=Title>Quy Tắc Nhận Quang Năng Đèn Vàng</color></size>
+Giới hạn {3} điểm.
+<color=Highlight>Đèn Vàng - Phổ Công</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Vàng].
+<color=Highlight>Phi Tinh</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Vàng].
+<color=Highlight>Cường Quang</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Vàng].
+Kỹ Năng Cộng Hưởng <color=Highlight>Cường Hóa - Hậu Triệt</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Vàng].
+Khi thi triển Hiệp Tấu Kỹ <color=Highlight>Chuyên Hạng Phái Tống</color> sẽ nhận được [Quang Năng Đèn Vàng].
+
+<size=40><color=Title>Quy Tắc Nhận Quang Năng Đèn Đỏ</color></size>
+Giới hạn {3} điểm.
+Trong chế độ <color=Highlight>Đèn Đỏ</color> hoặc <color=Highlight>Đèn Đỏ Tụ Quang</color>, Công Thường <color=Highlight>Tiền Lộ Lĩnh Hàng</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Đỏ]."
+lang_multi_text.db,MultiText,Skill_1002607_SkillName,信号闪耀,Signal Light,Tín Hiệu Thiểm Diệu
 lang_multi_text.db,MultiText,Skill_1002607_SkillResume,"<size=40><color=Title>强化·前扑</color></size>
 当【黄灯光能】满时，共鸣技能替换为<color=Highlight>强化·前扑</color>，造成<color=Thunder>导电伤害</color>，并进入强化版的<color=Highlight>红灯模式</color>：<color=Highlight>红灯聚光</color>模式。
 
@@ -49,13 +136,13 @@ Giới hạn {3} điểm.
 <size=40><color=Title>Quy Tắc Nhận Quang Năng Đèn Đỏ</color></size>
 Giới hạn {3} điểm.
 Trong chế độ <color=Highlight>Đèn Đỏ</color> hoặc <color=Highlight>Đèn Đỏ Tụ Quang</color>, <color=Highlight>Công Thường</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Đỏ]."
-lang_multi_text.db,MultiText,Skill_1002608_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1002608_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1002608_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
-lang_multi_text.db,MultiText,Skill_1002608_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1002608_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1002609_MultiSkillDescribe,附近队伍中激活灯灯延奏技能的角色共鸣技能伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The nearby party member that activates Lumi's Outro Skill has their Resonance Skill DMG Amplified by {0} for {1}s or until they are switched out.,"Cộng Hưởng Giả trong đội hình gần đó kích hoạt Kỹ Năng Hiệp Tấu của Lumi sẽ được tăng sâu sát thương Kỹ Năng Cộng Hưởng {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1002609_SkillDescribe,下一位登场角色共鸣技能伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Resonance Skill DMG Amplified by {0} for {1}s or until they are switched out.,"Cộng Hưởng Giả tiếp theo ra sân được tăng sâu sát thương Kỹ Năng Cộng Hưởng {0}, hiệu quả kéo dài {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1002609_SkillName,护航,Escorting,Hộ Hàng
-lang_multi_text.db,MultiText,Skill_1002609_SkillResume,下一位登场角色共鸣技能伤害加深{0}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Resonance Skill DMG Amplified by {0}. Switching Resonators ends the effect early.,"Cộng Hưởng Giả tiếp theo ra sân được tăng sâu sát thương Kỹ Năng Cộng Hưởng {0}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002609_SkillResume,下一位登场角色共鸣技能伤害加深{0}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Resonance Skill DMG Amplified by {0}. Switching Resonators ends the effect early.,"Nhân vật ra trận tiếp theo được tăng sát thương Kỹ Năng Cộng Hưởng thêm {0}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1002701_SkillDescribe,"<size=40><color=Title>普攻</color></size>
 进行最多4段的连续攻击，造成<color=Dark>湮灭伤害</color>。
 <size=10> </size>
@@ -170,7 +257,7 @@ lang_multi_text.db,MultiText,Skill_1002705_SkillResume,"施放延奏技能后，
 - [Hộp Trân Kỳ] tồn tại {0} giây, nếu chuyển sang nhân vật khác thì [Hộp Trân Kỳ] biến mất sớm."
 lang_multi_text.db,MultiText,Skill_1002706_SkillDescribe,攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第4段</color>。,"Attack the target, dealing <color=Dark>Havoc DMG</color>. Use <color=Highlight>Basic Attack</color> right after casting this skill to cast <color=Highlight>Basic Attack Stage 4</color>.","Tấn công mục tiêu, gây <color=Dark>sát thương Hủy Diệt</color>. Sau khi thi triển kỹ năng này, nhấn nhanh <color=Highlight>Phổ Công</color> trong khoảng thời gian nhất định để thi triển <color=Highlight>Phổ Công đoạn 4</color>."
 lang_multi_text.db,MultiText,Skill_1002706_SkillName,佩洛，来帮忙,"Pero, Help","Pero, lại giúp nào"
-lang_multi_text.db,MultiText,Skill_1002706_SkillResume,攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第4段</color>。,"Attack the target, dealing <color=Dark>Havoc DMG</color>. Use <color=Highlight>Basic Attack</color> right after casting this skill to cast <color=Highlight>Basic Attack Stage 4</color>.","Tấn công mục tiêu, gây <color=Dark>sát thương Hủy Diệt</color>. Sau khi thi triển kỹ năng này, nhấn nhanh <color=Highlight>Phổ Công</color> trong thời gian nhất định để thi triển <color=Highlight>Phổ Công đoạn 4</color>."
+lang_multi_text.db,MultiText,Skill_1002706_SkillResume,攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第4段</color>。,"Attack the target, dealing <color=Dark>Havoc DMG</color>. Use <color=Highlight>Basic Attack</color> right after casting this skill to cast <color=Highlight>Basic Attack Stage 4</color>.","Tấn công mục tiêu, gây <color=Dark>sát thương Hủy Diệt</color>. Sau khi thi triển kỹ năng này, nhấn nhanh <color=Highlight>Phổ Công</color> trong khoảng thời gian nhất định để thi triển <color=Highlight>Phổ Công đoạn 4</color>."
 lang_multi_text.db,MultiText,Skill_1002707_SkillDescribe,"<size=40><color=Title>飞跃幻想</color></size>
 ·洛可可处于<color=Highlight>飞跃幻想</color>状态时，若至少拥有{0}点【想象力】，可短按<color=Highlight>普攻</color>，消耗{0}点【想象力】施放普攻<color=Highlight>幻想照进现实</color>。
 ·该状态会在洛可可不处于空中状态、或处于后台时解除。
@@ -238,7 +325,7 @@ Roccia can hold up to {1} Imagination.
 - Giới hạn [Tưởng Tượng Lực]: {1} điểm
 - Cách nhận [Tưởng Tượng Lực]: Công Thường, Kỹ Năng Cộng Hưởng <color=Highlight>Thiết Kế Cao Độ</color>, Biến Tấu Kỹ <color=Highlight>Pero, lại giúp nào</color>."
 lang_multi_text.db,MultiText,Skill_1002708_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1002708_SkillName,巧手烹调,Skillful Cooking,Nấu nướng khéo léo
+lang_multi_text.db,MultiText,Skill_1002708_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
 lang_multi_text.db,MultiText,Skill_1002708_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1002709_MultiSkillDescribe,附近队伍中激活洛可可延奏技能角色的湮灭伤害加深{0}，普攻伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,"When a nearby Resonator in the team activates Roccia's Outro Skill, their Havoc DMG is Amplified by {0} and Basic Attack DMG Amplified by {1} for {2}s or until they are switched out.","Khi Cộng Hưởng Giả trong đội ở gần kích hoạt Hiệp Tấu Kỹ của Roccia, sát thương Hủy Diệt được gia tăng {0}, sát thương Phổ Công được gia tăng {1}, hiệu quả kéo dài {2} giây; nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1002709_SkillDescribe,下一位登场角色湮灭伤害加深{0}，普攻伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Havoc DMG Amplified by {0} and Basic Attack DMG Amplified by {1} for {2}s or until the Resonator is switched out.,"Nhân vật tiếp theo lên sân có sát thương Hủy Diệt được gia tăng {0}, sát thương Phổ Công được gia tăng {1}, hiệu quả kéo dài {2} giây; nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
@@ -966,140 +1053,7 @@ Khi thi triển <color=Highlight>Hỏa Diệm Quy Vong Khúc</color>, tiêu hao 
 <size=40><color=Title>Quy Tắc Nhận [Tán Dương]</color></size>
 [Tán Dương] tối đa {7} điểm.
 Cách nhận [Tán Dương]: Công Thường, Biến Tấu Kỹ và Kỹ Năng Cộng Hưởng."
-lang_multi_text.db,MultiText,Skill_1002908_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
-lang_multi_text.db,MultiText,Skill_1002908_SkillName,巧手烹调,Skillful Cooking,Nấu Nướng Khéo Tay
-lang_multi_text.db,MultiText,Skill_1002908_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1002908_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1002908_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1002908_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1002909_MultiSkillDescribe,附近队伍中激活布兰特延奏技能角色的热熔伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,"When a nearby Resonator activates Brant's Outro Skill, they have their Fusion DMG Amplified by {0} and Resonance Skill DMG Amplified by {1} for {2}s or until the Resonator is switched out.","Nhân vật kích hoạt Hiệp Tấu Kỹ của Brant trong đội gần đó được tăng sâu Sát Thương Nhiệt Dung {0}, tăng sâu Sát Thương Kỹ Năng Cộng Hưởng {1}, hiệu ứng kéo dài {2} giây. Chuyển sang nhân vật khác sẽ kết thúc hiệu ứng sớm."
-lang_multi_text.db,MultiText,Skill_1002909_SkillDescribe,下一位登场角色热熔伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,Amplify the incoming Resonator's Fusion DMG by {0} and Resonance Skill DMG by {1} for {2}s or until the Resonator is switched out.,"Nhân vật đăng trường tiếp theo được tăng sâu Sát Thương Nhiệt Dung {0}, tăng sâu Sát Thương Kỹ Năng Cộng Hưởng {1}, hiệu ứng kéo dài {2} giây. Chuyển sang nhân vật khác sẽ kết thúc hiệu ứng sớm."
-lang_multi_text.db,MultiText,Skill_1002909_SkillName,航向确定！,The Course is Set!,Xác Định Hành Trình!
-lang_multi_text.db,MultiText,Skill_1002909_SkillResume,下一位登场角色热熔伤害加深{0}，共鸣技能伤害加深{1}，若切换至其他角色则该效果提前结束。,Amplify the incoming Resonator's Fusion DMG by {0} and Resonance Skill DMG by {1}. Switching Resonators ends this effect.,"Nhân vật đăng trường tiếp theo được tăng sâu Sát Thương Nhiệt Dung {0}, tăng sâu Sát Thương Kỹ Năng Cộng Hưởng {1}. Chuyển sang nhân vật khác sẽ kết thúc hiệu ứng sớm."
-lang_multi_text.db,MultiText,Skill_1003001_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-释放圣辉，进行最多3段的连续攻击，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，乘着手杖向下俯冲，滑翔并进行攻击，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中重击</color></size>
-消耗耐力，乘着手杖往前滑翔一段距离。
-·空中闪避或使用钩索后可以重新施放。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-成功<color=Highlight>闪避</color>时，一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。
-·菲比处于【<te href=850007>镜之环</te>】内时，替换为<color=Highlight>夏弥尔之星·闪避反击</color>。","<size=40><color=Title>Basic Attack</color></size>
-Perform up to 3 consecutive attacks of Holy Light, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to attack the target, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to ride the staff and dive down from mid-air to attack the target, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Heavy Attack</color></size>
-Consume STA to ride on the staff for a distance.
-- Can be re-cast after a Mid-Air Dodge or using Grapple.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-After a successful <color=Highlight>Dodge</color>, quickly use <color=Highlight>Basic Attack</color> to attack the target, dealing <color=Light>Spectro DMG</color>.
-- When Phoebe is inside the <te href=850007>Ring of Mirrors</te>, Dodge Counter becomes <color=Highlight>Chamuel's Star: Dodge Counter</color>.","<size=40><color=Title>Phổ Công</color></size>
-Giải phóng thánh huy, thực hiện tối đa 3 đoạn tấn công liên tiếp, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-<size=10> </size>
-<size=40><color=Title>Trọng Kích</color></size>
-Tiêu hao thể lực tấn công mục tiêu, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, cưỡi quyền trượng lao xuống, lướt và tấn công, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-<size=10> </size>
-<size=40><color=Title>Trọng Kích Trên Không</color></size>
-Tiêu hao thể lực, cưỡi quyền trượng lướt về phía trước một đoạn.
-- Có thể thi triển lại sau khi Né Tránh trên không hoặc sử dụng Móc Câu.
-<size=10> </size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Phổ Công</color> trong thời gian nhất định để tấn công mục tiêu, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-- Khi Phoebe ở trong [<te href=850007>Gương Chi Hoàn</te>], thay thế bằng <color=Highlight>Sao Chamuel: Phản Kích Né Tránh</color>."
-lang_multi_text.db,MultiText,Skill_1003001_SkillName,敬请光辉降落,O Come Divine Light,Kính Mời Quang Huy Giáng Hạ
-lang_multi_text.db,MultiText,Skill_1003001_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中重击</color></size>
-消耗耐力，滑翔一段距离。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Deal <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Heavy Attack</color></size>
-Consume STA to ride on the staff for a distance.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Light>Spectro DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
-Gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-<size=10> </size>
-<size=40><color=Title>Trọng Kích</color></size>
-Gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-<size=10> </size>
-<size=40><color=Title>Trọng Kích Trên Không</color></size>
-Tiêu hao thể lực, lướt một đoạn.
-<size=10> </size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Light>Sát Thương Nhiễu Xạ</color>."
-lang_multi_text.db,MultiText,Skill_1003002_SkillDescribe,"在目标位置召唤【镜之环】，并使命中的目标停滞{2}秒，造成<color=Light>衍射伤害</color>。同一个【镜之环】最多可对12个目标施加停滞效果。施放后一定时间内短按<color=Highlight>共鸣技能</color>，可传送至【镜之环】位置，造成<color=Light>衍射伤害</color>。
-·距离【镜之环】过远时无法传送。
-<size=10> </size>
-<size=40><color=Title>【镜之环】</color></size>
-·【镜之环】持续{0}秒；菲比召唤新的【镜之环】时，会移除之前的【镜之环】。
-·菲比处于【镜之环】外时，<color=Highlight>普攻</color>、<color=Highlight>闪避反击</color>命中【镜之环】时会折射圣辉，对【镜之环】内目标造成<color=Light>衍射伤害</color>，并将命中的目标牵引至<color=Highlight>【镜之环】</color>中央，此次伤害为普攻伤害。每{1}秒可触发一次。
-·菲比处于【镜之环】内时，<color=Highlight>普攻</color>替换为普攻<color=Highlight>夏弥尔之星</color>，进行最多3段的连续攻击，造成<color=Light>衍射伤害</color>，此次伤害为普攻伤害。","Summon a Ring of Mirrors at the target location, making the target hit stagnate for {2}s and dealing <color=Light>Spectro DMG</color>. The stagnation effect can be applied to 12 targets max for each Ring of Mirrors. Using <color=Highlight>Resonance Skill</color> again shortly after the summoning teleports Phoebe to the Ring of Mirrors' location, dealing <color=Light>Spectro DMG</color>.
-Unable to teleport if Phoebe is too far from the Ring of Mirrors.
-<size=10> </size>
-<size=40><color=Title>Ring of Mirrors</color></size>
-- Ring of Mirrors lasts for {0}s. When Phoebe summons a new Ring of Mirrors, the existing Ring of Mirrors disappears.
-- When Phoebe is outside of the Ring of Mirrors, a <color=Highlight>Basic Attack</color> or <color=Highlight>Dodge Counter</color> that hits the Ring of Mirrors will refract Holy Light, which deals <color=Light>Spectro DMG</color> to targets inside the <color=Highlight>Ring of Mirrors</color> and pulls the targets hit to the center of the ring. The DMG dealt is considered Basic Attack DMG. Can be triggered once every {1}s.
-- When Phoebe is inside the Ring of Mirrors, <color=Highlight>Basic Attack</color> becomes Basic Attack <color=Highlight>Chamuel's Star</color>, which performs up to 3 consecutive attacks, dealing <color=Light>Spectro DMG</color>, considered Basic Attack DMG.","Triệu hồi [Gương Chi Hoàn] tại vị trí mục tiêu, khiến mục tiêu trúng chiêu đình trệ trong {2} giây, gây <color=Light>Sát Thương Nhiễu Xạ</color>. Mỗi [Gương Chi Hoàn] tối đa áp dụng hiệu ứng đình trệ lên 12 mục tiêu. Trong thời gian ngắn sau khi thi triển, nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color> để dịch chuyển đến vị trí [Gương Chi Hoàn], gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-- Không thể dịch chuyển khi cách [Gương Chi Hoàn] quá xa.
-<size=10> </size>
-<size=40><color=Title>[Gương Chi Hoàn]</color></size>
-- [Gương Chi Hoàn] tồn tại {0} giây; khi Phoebe triệu hồi [Gương Chi Hoàn] mới, [Gương Chi Hoàn] trước đó sẽ bị xóa.
-- Khi Phoebe ở ngoài [Gương Chi Hoàn], <color=Highlight>Phổ Công</color>, <color=Highlight>Phản Kích Né Tránh</color> trúng [Gương Chi Hoàn] sẽ khúc xạ thánh huy, gây <color=Light>Sát Thương Nhiễu Xạ</color> lên mục tiêu trong <color=Highlight>[Gương Chi Hoàn]</color> và kéo mục tiêu trúng chiêu về trung tâm, sát thương này tính là Sát Thương Phổ Công. Mỗi {1} giây kích hoạt một lần.
-- Khi Phoebe ở trong [Gương Chi Hoàn], <color=Highlight>Phổ Công</color> được thay thế bằng Phổ Công <color=Highlight>Sao Chamuel</color>, thực hiện tối đa 3 đoạn tấn công liên tiếp, gây <color=Light>Sát Thương Nhiễu Xạ</color>, tính là Sát Thương Phổ Công."
-lang_multi_text.db,MultiText,Skill_1003002_SkillName,追寻光芒之所,To Where Light Shines,Truy Tầm Nơi Ánh Sáng
-lang_multi_text.db,MultiText,Skill_1003002_SkillResume,"在目标位置召唤【镜之环】，使命中的目标停滞，造成<color=Light>衍射伤害</color>。施放后短按<color=Highlight>共鸣技能</color>，传送至【镜之环】位置，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>【镜之环】</color></size>
-·【镜之环】持续{0}秒；菲比召唤新的【镜之环】时，会移除之前的【镜之环】。
-·菲比处于【镜之环】外时，<color=Highlight>普攻</color>、<color=Highlight>闪避反击</color>命中【镜之环】时造成额外伤害，并牵引目标至<color=Highlight>【镜之环】</color>中央。
-·菲比处于【镜之环】内时，<color=Highlight>普攻</color>替换为普攻<color=Highlight>夏弥尔之星</color>，造成<color=Light>衍射伤害</color>。","Summon a Ring of Mirrors at the target location, making the target hit stagnate and dealing <color=Light>Spectro DMG</color>. Using <color=Highlight>Resonance Skill</color> again shortly after the summoning teleports Phoebe to the Ring of Mirrors' location, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Ring of Mirrors</color></size>
-- Ring of Mirrors lasts for {0}s. When Phoebe summons a new Ring of Mirrors, the existing Ring of Mirrors disappears.
-- When Phoebe is outside of the Ring of Mirrors, a <color=Highlight>Basic Attack</color> or <color=Highlight>Dodge Counter</color> that hits the Ring of Mirrors will deal extra DMG and pull the targets hit to the center of the <color=Highlight>Ring of Mirrors</color>.
-- When Phoebe is inside the Ring of Mirrors, <color=Highlight>Basic Attack</color> becomes Basic Attack <color=Highlight>Chamuel's Star</color>, dealing <color=Light>Spectro DMG</color>.","Triệu hồi [Gương Chi Hoàn] tại vị trí mục tiêu, khiến mục tiêu trúng chiêu đình trệ, gây <color=Light>Sát Thương Nhiễu Xạ</color>. Sau khi thi triển, nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color> để dịch chuyển đến vị trí [Gương Chi Hoàn], gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-<size=10> </size>
-<size=40><color=Title>[Gương Chi Hoàn]</color></size>
-- [Gương Chi Hoàn] tồn tại {0} giây; khi Phoebe triệu hồi [Gương Chi Hoàn] mới, [Gương Chi Hoàn] trước đó sẽ bị xóa.
-- Khi Phoebe ở ngoài [Gương Chi Hoàn], <color=Highlight>Phổ Công</color>, <color=Highlight>Phản Kích Né Tránh</color> trúng [Gương Chi Hoàn] sẽ gây thêm sát thương và kéo mục tiêu về trung tâm <color=Highlight>[Gương Chi Hoàn]</color>.
-- Khi Phoebe ở trong [Gương Chi Hoàn], <color=Highlight>Phổ Công</color> được thay thế bằng Phổ Công <color=Highlight>Sao Chamuel</color>, gây <color=Light>Sát Thương Nhiễu Xạ</color>."
-lang_multi_text.db,MultiText,Skill_1003003_SkillDescribe,"菲比将手中的光辉凝聚为启明之镜，用力敲碎，造成<color=Light>衍射伤害</color>。
-·<color=Highlight>赦罪</color>状态：伤害倍率提升{0}。
-·<color=Highlight>告解</color>状态：为命中的目标附加{1}层<color=Highlight>【<te href=850008>光噪效应</te>】</color>。","Phoebe concentrates the light in her hands into the Mirror of Enlightenment and smashes it, dealing <color=Light>Spectro DMG</color>.
-- <color=Highlight>Absolution</color> Enhancement: Increase DMG Multiplier by {0}.
-- <color=Highlight>Confession</color> Enhancement: Apply <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=Highlight><te href=850008>Spectro Frazzle</te></color> to targets hit.","Phoebe ngưng tụ quang huy trong tay thành Gương Khải Minh, dùng sức đập vỡ, gây <color=Light>Sát Thương Nhiễu Xạ</color>.
-- Trạng thái <color=Highlight>Xá Tội</color>: Hệ số sát thương tăng {0}.
-- Trạng thái <color=Highlight>Giải Tội</color>: Áp dụng {1} tầng <color=Highlight>[<te href=850008>Hiệu Ứng Quang Nhiễu</te>]</color> lên mục tiêu trúng chiêu."

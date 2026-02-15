@@ -1,4 +1,47 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Term850173_Desc,"赞妮处于下列两种状态，按住<color=Highlight>共鸣技能</color>可进入<color=Highlight>准备架势</color>。
+·未进入<color=Highlight>灼焰形态</color>且【冗余动能】充满时。
+·处于<color=Highlight>灼焰形态</color>时。","When Zani is under the following states, hold <color=Highlight>Resonance Skill</color> to enter <color=Highlight>Ready Stance</color>.
+- While not in the <color=Highlight>Inferno Mode</color> and Redundant Energy is full.
+- While in the <color=Highlight>Inferno Mode</color>.","Khi Zani ở trong hai trạng thái dưới đây, giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color> để tiến vào <color=Highlight>Tư Thế Chuẩn Bị</color>.
+- Chưa vào <color=Highlight>Trạng Thái Chước Diễm</color> và [Dư Động Năng] đã đầy.
+- Đang ở trong <color=Highlight>Trạng Thái Chước Diễm</color>."
+lang_multi_text.db,MultiText,Term850173_Title,准备架势,Ready Stance,Tư Thế Chuẩn Bị
+lang_multi_text.db,MultiText,Term850174_Desc,"<size=40><color=Title>【狼焰】获取规则</color></size>
+【狼焰】上限100点
+常态攻击命中目标时，回复【狼焰】。
+共鸣技能施放期间，回复【狼焰】。
+共鸣解放施放时，回复【狼焰】。","<size=40><color=Title>Wolflame</color></size>
+Lupa can hold up to 100 points of Wolflame.
+- Restore Wolflame when Normal Attacks hit the target.
+- Restore Wolflame while casting Resonance Skill.
+- Restore Wolflame while casting Resonance Liberation.","<size=40><color=Title>Quy tắc nhận [Lang Diễm]</color></size>
+[Lang Diễm] tối đa 100 điểm
+Khi Công Thường trúng mục tiêu, hồi phục [Lang Diễm].
+Trong quá trình thi triển Kỹ Năng Cộng Hưởng, hồi phục [Lang Diễm].
+Khi thi triển Giải Phóng Cộng Hưởng, hồi phục [Lang Diễm]."
+lang_multi_text.db,MultiText,Term850174_Title,狼焰,Wolflame,Lang Viêm
+lang_multi_text.db,MultiText,Term850175_Desc,"<size=40><color=Title>【狼魂】获取规则</color></size>
+【狼魂】上限2点
+【狼魂】持续10秒，重复获得时刷新时间，持续时间结束后，每点未消耗的【狼魂】返还50点【狼焰】。
+施放<color=Highlight>重击·狼咬</color>、<color=Highlight>重击·锐爪</color>、<color=Highlight>空中攻击·焰袭</color>时，获得1点。","<size=40><color=Title>Wolfaith</color></size>
+Lupa can hold up to 2 points of Wolfaith.
+Wolfaith lasts for 10s. The duration is reset when Wolfaith is restored. At the end of its duration, each remaining point of Wolfaith yields 50 points of Wolflame.
+Gain1 point of Wolfaith when casting <color=Highlight>Heavy Attack - Wolf's Gnawing</color>, <color=Highlight>Heavy Attack - Wolf's Claw</color>, or <color=Highlight>Mid-air Attack - Firestrike</color>.","<size=40><color=Title>[Lang Hồn] Quy tắc nhận</color></size>
+[Lang Hồn] tối đa 2 điểm.
+[Lang Hồn] tồn tại 10 giây, nhận lại sẽ làm mới thời gian. Khi hết thời gian, mỗi điểm [Lang Hồn] chưa tiêu hao sẽ hoàn trả 50 điểm [Lang Viêm].
+Khi thi triển <color=Highlight>Trọng Kích - Sói Cắn</color>, <color=Highlight>Trọng Kích - Vuốt Sắc</color>, <color=Highlight>Tấn Công Trên Không - Viêm Tập</color>, nhận được 1 điểm."
+lang_multi_text.db,MultiText,Term850175_Title,狼魂,Wolfaith,Lang Hồn
+lang_multi_text.db,MultiText,Term850176_Desc,"<size=40><color=Title>追猎</color></size>
+持有<color=Highlight>追猎</color>的角色攻击提升6%，且攻击怒涛级或海啸级目标时热熔伤害加成提升10%，无法叠加。若队伍中的热熔属性角色达到3名时，攻击怒涛级或海啸级目标时的热熔伤害加成效果额外增加10%。队伍中登场角色施放<color=Highlight>变奏技能</color>时，会强化追猎效果，队伍中的角色<color=Highlight>追猎</color>的攻击提升效果额外增加6%，上限为18%。
+露帕<color=Highlight>追猎</color>效果达到上限后，在<color=Highlight>追猎</color>持续时间内，进入<color=Highlight>追杀状态</color>，可施放变奏技能<color=Highlight>你无法逃离！</color>。同一个<color=Highlight>追猎</color>仅可进入一次<color=Highlight>追杀状态</color>。","<size=40><color=Title>Pack Hunt</color></size>
+Resonators with <color=Highlight>Pack Hunt</color> gain a 6% ATK increase, and 10% Fusion DMG Bonus when they attack Overlord Class or Calamity Class targets (Both are non-stackable). If there are 3 Fusion Resonators in the team, the Fusion DMG Bonus against Overlord Class or Calamity Class targets additionally increases by 10%. When the active Resonator casts <color=Highlight>Intro Skill</color>, <color=Highlight>Pack Hunt</color> is enhanced, granting an additional 6% ATK increase to all Resonators in the team, up to a maximum of 18%.
+If Lupa's <color=Highlight>Pack Hunt</color> reaches its cap within its duration, she enters <color=Highlight>Wild Hunt</color> and Intro Skill - <color=Highlight>Nowhere to Run!</color> becomes available. <color=Highlight>Wild Hunt</color> can be triggered once during <color=Highlight>Pack Hunt</color>.","<size=40><color=Title>Truy Liệp</color></size>
+Nhân vật sở hữu <color=Highlight>Truy Liệp</color> được tăng 6% tấn công, đồng thời khi tấn công mục tiêu cấp Nộ Đào hoặc Hải Tiếu sẽ tăng thêm 10% bonus sát thương Nhiệt Dung, không cộng dồn. Nếu đội có 3 nhân vật thuộc tính Nhiệt Dung, bonus sát thương Nhiệt Dung khi tấn công mục tiêu cấp Nộ Đào hoặc Hải Tiếu tăng thêm 10%. Khi nhân vật đang ra trận trong đội thi triển <color=Highlight>Biến Tấu Kỹ</color>, hiệu quả Truy Liệp được cường hóa, tấn công của các nhân vật trong đội từ <color=Highlight>Truy Liệp</color> tăng thêm 6%, tối đa 18%.
+Khi hiệu quả <color=Highlight>Truy Liệp</color> của Lupa đạt giới hạn, trong thời gian <color=Highlight>Truy Liệp</color> còn hiệu lực, sẽ tiến vào <color=Highlight>Trạng thái Truy Sát</color>, có thể thi triển Biến Tấu Kỹ <color=Highlight>Ngươi Không Thể Chạy Thoát!</color>. Mỗi lần <color=Highlight>Truy Liệp</color> chỉ có thể tiến vào <color=Highlight>Trạng thái Truy Sát</color> một lần."
+lang_multi_text.db,MultiText,Term850176_Title,追猎,Pack Hunt,Truy Liệp
+lang_multi_text.db,MultiText,Term850177_Desc,常态攻击命中时获取【狼焰】效率提升500%，且无法施放共鸣技能<color=Highlight>围猎</color>、共鸣技能<color=Highlight>凶噬</color>。,Normal Attacks increase Wolflame Regen by 500% on hit. Cannot perform Resonance Skill <color=Highlight>Shewolf's Hunt</color> and Resonance Skill <color=Highlight>Feral Fang</color> in this state.,"Hiệu suất nhận [Lang Viêm] khi Công Thường trúng mục tiêu tăng 500%, đồng thời không thể thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Vi Liệp</color> và Kỹ Năng Cộng Hưởng <color=Highlight>Hung Phệ</color>."
+lang_multi_text.db,MultiText,Term850177_Title,赛点沸腾,Burning Matchpoint,Sôi Sục Điểm Quyết
 lang_multi_text.db,MultiText,Term850178_Desc,"<size=40><color=Title>共鸣解放·荣光</color></size>
 施放共鸣解放<color=Highlight>荣光欢酣于火</color>时，额外获得<color=Highlight>荣光</color>效果，35秒内：
 队伍中的角色攻击时无视3%热熔抗性，并且队伍中每有一名除露帕外的热熔属性角色，无视热熔抗性效果增加3%，上限为9%，当队伍中的热熔属性角色达到3名时，无视热熔抗性的效果额外增加6%。","<size=40><color=Title>Resonance Liberation - Glory</color></size>
@@ -116,13 +159,3 @@ lang_multi_text.db,MultiText,Term851034_Desc,每天第1只声骸发起融合时�
 lang_multi_text.db,MultiText,Term851034_Title,镜中万花,Kaleidoscope,Vạn Hoa Trong Gương
 lang_multi_text.db,MultiText,Term851035_Desc,下阶段开始，商店中随机1个梦盒免费,The shop offers 1 random Dream Box for free starting from the next phase.,"Từ giai đoạn tiếp theo, 1 Hộp Mộng ngẫu nhiên trong cửa hàng sẽ miễn phí."
 lang_multi_text.db,MultiText,Term851035_Title,惊喜盲盒,Surprise Box,Hộp Bất Ngờ
-lang_multi_text.db,MultiText,Term851036_Desc,非声骸的【每日乐园券】途径获取的乐园券数量+10%,Dreamland Coupon gained through sources other than Echoe Daily Coupon yield is increased by 10%.,Lượng vé Lạc Viên nhận được từ các nguồn ngoài [Vé Lạc Viên Hàng Ngày] của Thanh Hài tăng 10%.
-lang_multi_text.db,MultiText,Term851036_Title,发条灯偶,Clockwork Illuminator,Nhân Ngẫu Đèn Dây Cót
-lang_multi_text.db,MultiText,Term851037_Desc,每次发生吞噬时获得5张乐园券,Gain 5 Dreamland Coupons each time Devouring occurs.,"Mỗi lần xảy ra nuốt chửng, nhận được 5 Vé Lạc Viên."
-lang_multi_text.db,MultiText,Term851037_Title,乐园人偶·遁地鼠,Figurine: Excarat,Nhân Ngẫu Lạc Viên - Chuột Excarat
-lang_multi_text.db,MultiText,Term851038_Desc,声骸移除自身或融合成新声骸时，额外获得与其【每日乐园券】获取量等额的乐园券,"When an Echo Removes itself or is Integrated into a new Echo, gain additional Dreamland Coupons equal to its own Daily Coupon yield.","Khi Thanh Hài tự loại bỏ hoặc dung hợp thành Thanh Hài mới, nhận thêm lượng vé Lạc Viên tương đương với sản lượng [Vé Lạc Viên Hàng Ngày] của nó."
-lang_multi_text.db,MultiText,Term851038_Title,梦境列车,Dreamscape Train,Chuyến Tàu Mộng Cảnh
-lang_multi_text.db,MultiText,Term851039_Desc,除【声骸征聘】、商店和幻梦祝福途径外，每获得10只声骸，获得500张乐园券,"For every 10 Echoes obtained (except from Echo Recruitment, Shop or Phantasma Blessing), receive an extra 500 Dreamland Coupons.","Ngoại trừ các nguồn [Chiêu Mộ Thanh Hài], Cửa hàng và Chúc Phúc Ảo Mộng, cứ mỗi 10 Thanh Hài nhận được sẽ được thưởng thêm 500 vé Lạc Viên."
-lang_multi_text.db,MultiText,Term851039_Title,集章纪念册,Stamp Book,Sổ Sưu Tập Dấu
-lang_multi_text.db,MultiText,Term851040_Desc,每阶段获得与频率晶体数量等额的乐园券,Receive Dreamland Coupons equal to the number of Frequency Crystals in each Phase.,Mỗi giai đoạn nhận lượng vé Lạc Viên tương đương với số lượng Tinh Thể Tần Số.
-lang_multi_text.db,MultiText,Term851040_Title,乐园人偶·叮咚咚,Figurine: Clang Bang,Nhân Ngẫu Lạc Viên - Clang Bang

@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_700238_Text,行为参数转换错误,Error behavior parameter conversion,Lỗi chuyển đổi tham số hành vi
+lang_multi_text.db,MultiText,ErrorCode_700239_Text,行为上下文不是实体,Behavior context is not an entity,Ngữ cảnh hành vi không phải thực thể
+lang_multi_text.db,MultiText,ErrorCode_700240_Text,找不到行为执行者,Behavior performer not found,Không tìm thấy đối tượng thực thi hành vi
+lang_multi_text.db,MultiText,ErrorCode_700241_Text,找不到行为会话,Behavior dialog not found,Không tìm thấy phiên hành vi
+lang_multi_text.db,MultiText,ErrorCode_700242_Text,创建行为会话Id失败,Failed to create behavior dialog ID,Tạo ID phiên hành vi thất bại
+lang_multi_text.db,MultiText,ErrorCode_700243_Text,行为路径转换失败,Failed to converge behavior path,Chuyển đổi đường dẫn hành vi thất bại
+lang_multi_text.db,MultiText,ErrorCode_700244_Text,找不到行为配置,Behavior configuration not found,Không tìm thấy cấu hình hành vi
+lang_multi_text.db,MultiText,ErrorCode_700245_Text,找不到行为处理函数,Behavior processing function not found,Không tìm thấy hàm xử lý hành vi
+lang_multi_text.db,MultiText,ErrorCode_700246_Text,行为内部错误,Internal behavior error,Lỗi nội bộ hành vi
+lang_multi_text.db,MultiText,ErrorCode_700247_Text,非法行为下标,Restricted behavior subscript,Chỉ mục hành vi không hợp lệ
 lang_multi_text.db,MultiText,ErrorCode_700248_Text,行为下标不是服务端行为,Not a server-side behavior subscript,Chỉ mục hành vi không phải hành vi phía server
 lang_multi_text.db,MultiText,ErrorCode_700249_Text,剩余服务端行为未完成,Remaining server-side behavior incomplete,Hành vi phía server còn lại chưa hoàn thành
 lang_multi_text.db,MultiText,ErrorCode_700250_Text,行为执行者不是行为树,A non-behavior tree performer,Đối tượng thực thi hành vi không phải cây hành vi
@@ -26,8 +36,8 @@ lang_multi_text.db,MultiText,ErrorCode_700271_Text,时间控制器：没有控�
 lang_multi_text.db,MultiText,ErrorCode_700272_Text,时间控制器：控制方向错误,Time selector: Selector direction error,Bộ điều khiển thời gian: Hướng điều khiển sai
 lang_multi_text.db,MultiText,ErrorCode_700273_Text,时间控制器：组完成条件不成立,Time selector: Invalid component completion condition,Bộ điều khiển thời gian: Điều kiện hoàn thành nhóm không thành lập
 lang_multi_text.db,MultiText,ErrorCode_700274_Text,时间控制器：控制组没有处于控制状态,Time selector: Selector component not in selector mode,Bộ điều khiển thời gian: Nhóm điều khiển không ở trạng thái điều khiển
-lang_multi_text.db,MultiText,ErrorCode_700275_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Tồn tại bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_700276_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Tồn tại bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_700275_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_700276_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_700277_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_700278_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_700279_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_900023_Text,无法进入索拉等级高�
 lang_multi_text.db,MultiText,ErrorCode_900024_Text,世界所有者未开启多人游戏功能,The world owner has disabled Co-op Mode,Chủ thế giới chưa bật tính năng chơi nhiều người
 lang_multi_text.db,MultiText,ErrorCode_900025_Text,当前世界所有者在其他世界中,The world owner is currently in another world,Chủ thế giới hiện đang ở trong thế giới khác
 lang_multi_text.db,MultiText,ErrorCode_900026_Text,当前世界所有者处在无法多人游戏的任务中,The world owner is currently in a Single-player only quest,Chủ thế giới hiện đang trong nhiệm vụ không hỗ trợ chơi nhiều người
-lang_multi_text.db,MultiText,ErrorCode_900027_Text,你已在多人游戏中,Already in Co-op Mode,Bạn đang trong chế độ chơi nhiều người
-lang_multi_text.db,MultiText,ErrorCode_900028_Text,当前处在无法多人游戏的任务中,Currently in a Single-player only quest,Hiện đang trong nhiệm vụ không hỗ trợ chơi nhiều người
-lang_multi_text.db,MultiText,ErrorCode_900029_Text,当前未开启多人游戏功能,Co-op Mode disabled,Hiện chưa bật tính năng chơi nhiều người
-lang_multi_text.db,MultiText,ErrorCode_900030_Text,已经申请该世界,Request to join Solaris sent,Đã gửi yêu cầu đến thế giới này
-lang_multi_text.db,MultiText,ErrorCode_900031_Text,无法加入自己的世界,Cannot join your own Solaris,Không thể tham gia thế giới của chính mình
-lang_multi_text.db,MultiText,ErrorCode_900032_Text,请输入其他玩家的特征码,Please enter the player's UID,Vui lòng nhập mã đặc trưng của người chơi khác
-lang_multi_text.db,MultiText,ErrorCode_900033_Text,请求已过期,Request timed out,Yêu cầu đã hết hạn
-lang_multi_text.db,MultiText,ErrorCode_900034_Text,正在进入他人的世界中， 请稍后,"Entering player Solaris, please wait","Đang tiến vào thế giới của người khác, vui lòng chờ"
-lang_multi_text.db,MultiText,ErrorCode_900035_Text,正在等待他人加入世界， 请稍后,"Waiting for player(s) to join Solaris, please wait","Đang chờ người khác tham gia thế giới, vui lòng chờ"
-lang_multi_text.db,MultiText,ErrorCode_900036_Text,加入等待队列已满， 请稍后再试,"Join queue full, please wait","Hàng chờ tham gia đã đầy, vui lòng thử lại sau"

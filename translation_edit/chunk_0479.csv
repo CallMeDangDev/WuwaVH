@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_2500095_Text,支援模组不在关卡选择范围,The Support Module selected is not in applicable in the current stage.,Mô-đun Hỗ trợ không nằm trong phạm vi chọn của màn chơi.
+lang_multi_text.db,MultiText,ErrorCode_2500096_Text,选择支援模组数量非法,Illegal quantity of Support Module selected.,Số lượng Mô-đun Hỗ trợ đã chọn không hợp lệ.
+lang_multi_text.db,MultiText,ErrorCode_2500097_Text,超过支援模组最大选择限制,Max quantity of Support Module selected.,Đã vượt quá giới hạn chọn Mô-đun Hỗ trợ tối đa.
+lang_multi_text.db,MultiText,ErrorCode_2500098_Text,没有危机情景玩法组件,No gameplay modules for Crisis Trial found.,Không tìm thấy thành phần gameplay Tình huống Nguy cơ.
+lang_multi_text.db,MultiText,ErrorCode_2500099_Text,当前关卡没有数据选择,No data selection available for selection in the current stage.,Không có dữ liệu để chọn ở màn chơi hiện tại.
+lang_multi_text.db,MultiText,ErrorCode_2500100_Text,选择支援模组未解锁,The selected Support Module is not unlocked.,Mô-đun Hỗ trợ đã chọn chưa được mở khóa.
+lang_multi_text.db,MultiText,ErrorCode_2500101_Text,选择支援模组未解锁,The selected Support Module is not unlocked.,Mô-đun Hỗ trợ đã chọn chưa được mở khóa.
+lang_multi_text.db,MultiText,ErrorCode_2500102_Text,当前场景不是灾难场景,Currently not in a Crisis Trial scene.,Cảnh hiện tại không phải cảnh Thử thách Nguy cơ.
+lang_multi_text.db,MultiText,ErrorCode_25_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_2600001_Text,活动ID和赛季ID不匹配,Event ID and Season ID mismatch,ID sự kiện và ID mùa giải không khớp.
 lang_multi_text.db,MultiText,ErrorCode_2600002_Text,比赛数据丢失,Match data lost,Dữ liệu trận đấu bị mất.
 lang_multi_text.db,MultiText,ErrorCode_2600003_Text,活动任务数据错误,Event Quest data error,Dữ liệu nhiệm vụ sự kiện bị lỗi.
 lang_multi_text.db,MultiText,ErrorCode_2600004_Text,找不到任务ID,Quest ID not found,Không tìm thấy ID nhiệm vụ.
@@ -28,7 +38,7 @@ lang_multi_text.db,MultiText,ErrorCode_2600027_Text,找不到小组赛,Cannot fi
 lang_multi_text.db,MultiText,ErrorCode_2600028_Text,找不到小组赛比赛信息,Cannot find Group Stage info,Không tìm thấy thông tin trận đấu vòng bảng
 lang_multi_text.db,MultiText,ErrorCode_2600029_Text,小组赛比赛信息错误,Group Stage match info error,Lỗi thông tin trận đấu vòng bảng
 lang_multi_text.db,MultiText,ErrorCode_2600030_Text,玩法未开启，请重试,Unavailable. Pleasetry again,"Chế độ chưa mở, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_2600031_Text,人气值不足,Insufficient Popularity,Không đủ giá trị nhân khí
+lang_multi_text.db,MultiText,ErrorCode_2600031_Text,人气值不足,Insufficient Popularity,Không đủ điểm Popularity
 lang_multi_text.db,MultiText,ErrorCode_2600032_Text,结算人气值计算失败,Popularity calculation error,Tính toán nhân khí kết toán thất bại
 lang_multi_text.db,MultiText,ErrorCode_2600033_Text,当前比赛未开始,Current match not yet started,Trận đấu hiện tại chưa bắt đầu
 lang_multi_text.db,MultiText,ErrorCode_2600034_Text,团子行为类型异常,Cube action error,Loại hành vi Cube bất thường
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_2624016_Text,找不到选择声骸,Echo s
 lang_multi_text.db,MultiText,ErrorCode_2624017_Text,找不到声骸配置,Echo configuration missing.,Không tìm thấy cấu hình Thanh Hài.
 lang_multi_text.db,MultiText,ErrorCode_2624018_Text,声骸调谐次数校验失败,Failed to verify Echo Modulation.,Xác minh lượt điều chỉnh Thanh Hài thất bại.
 lang_multi_text.db,MultiText,ErrorCode_2624019_Text,技能能量消耗失败,Failed to consume Energy for the Skill.,Tiêu hao năng lượng kỹ năng thất bại.
-lang_multi_text.db,MultiText,ErrorCode_2624020_Text,没有声骸角色配置,Resonator—Echo configuration null.,Không có cấu hình Thanh Hài - nhân vật.
-lang_multi_text.db,MultiText,ErrorCode_2624021_Text,选择技能非法,Invalid skill chosen.,Kỹ năng được chọn không hợp lệ.
-lang_multi_text.db,MultiText,ErrorCode_2624022_Text,没有技能配置,Skill configuration null.,Không có cấu hình kỹ năng.
-lang_multi_text.db,MultiText,ErrorCode_2624023_Text,不满足声骸前置条件,Echo precondition not met.,Không đáp ứng điều kiện tiên quyết của Thanh Hài.
-lang_multi_text.db,MultiText,ErrorCode_2624024_Text,操作过于频繁，请稍后再试,Operation too frequent. Please try again later,"Thao tác quá thường xuyên, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_2624025_Text,不属于部署阶段,Not in Deployment Stage.,Không thuộc giai đoạn triển khai.
-lang_multi_text.db,MultiText,ErrorCode_2624026_Text,操作过于频繁，请稍后再试,Operation too frequent. Please try again later.,"Thao tác quá thường xuyên, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_2624027_Text,客户端操作参数不匹配,Client operation parameters mismatch.,Tham số thao tác phía client không khớp.
-lang_multi_text.db,MultiText,ErrorCode_2624028_Text,客户端操作参数不匹配,Client operation parameters mismatch.,Tham số thao tác phía client không khớp.
-lang_multi_text.db,MultiText,ErrorCode_2624029_Text,客户端替换数据错误,Client data substitution error.,Lỗi dữ liệu thay thế phía client.

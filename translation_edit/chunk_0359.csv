@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,CycleTowerBuff_511_Name,衍射抵抗,Spectro resistance,Kháng Nhiễu Xạ
+lang_multi_text.db,MultiText,CycleTowerBuff_601_Desc,幻声之主湮灭属性抗性降低15%,Master of Echo's Havoc RES decreases by 15%,Kháng tính thuộc tính Giải Ly của Chúa Ảo Thanh giảm 15%
+lang_multi_text.db,MultiText,CycleTowerBuff_601_Name,湮灭抵抗,Havoc resistance,Kháng Hủy Diệt
+lang_multi_text.db,MultiText,CycleTowerBuff_611_Desc,幻声之主湮灭属性抗性提高40%,Master of Echo's Havoc RES increases by 40%,Kháng tính Hủy Diệt của Chúa Ảo Thanh tăng 40%
+lang_multi_text.db,MultiText,CycleTowerBuff_611_Name,湮灭抵抗,Havoc resistance,Kháng Hủy Diệt
+lang_multi_text.db,MultiText,CycleTowerBuff_701_Desc,幻声之主血量提高10%,Master of Echo's HP increases by 10%,Máu của Chúa Ảo Thanh tăng 10%
+lang_multi_text.db,MultiText,CycleTowerBuff_701_Name,生命强化,HP Enhancement,Cường hóa Sinh Mệnh
+lang_multi_text.db,MultiText,CycleTowerBuff_702_Desc,幻声之主血量提高15%,Master of Echo's HP increases by 15%,Máu của Chúa Ảo Thanh tăng 15%
+lang_multi_text.db,MultiText,CycleTowerBuff_702_Name,生命强化,HP Enhancement,Cường hóa Sinh Mệnh
+lang_multi_text.db,MultiText,CycleTowerBuff_801_Desc,幻声之主攻击提高10%,Master of Echo's ATK increases by 10%,Tấn công của Chúa Ảo Thanh tăng 10%
 lang_multi_text.db,MultiText,CycleTowerBuff_801_Name,攻击强化,ATK Enhancement,Cường hóa Tấn Công
 lang_multi_text.db,MultiText,CycleTowerBuff_802_Desc,幻声之主攻击提高15%,Master of Echo's ATK increases by 15%,Tấn công của Chúa Ảo Thanh tăng 15%
 lang_multi_text.db,MultiText,CycleTowerBuff_802_Name,攻击强化,ATK Enhancement,Cường hóa Tấn Công
@@ -17,14 +27,14 @@ lang_multi_text.db,MultiText,CycleTowerChallengeConfig_34_AreaName,动力模组,
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_37_AreaName,顶驱轨道,Top Drive Track,Quỹ Đạo Đỉnh Dẫn
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_40_AreaName,导向单元,Navigation Unit,Đơn Vị Dẫn Hướng
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_43_AreaName,动力模组,Power Module,Mô-đun Động Lực
-lang_multi_text.db,MultiText,CycleTowerChallengeConfig_46_AreaName,顶驱轨道,Top Drive Track,Quỹ Đạo Đỉnh Khu
+lang_multi_text.db,MultiText,CycleTowerChallengeConfig_46_AreaName,顶驱轨道,Top Drive Track,Quỹ Đạo Đỉnh Dẫn
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_49_AreaName,导向单元,Navigation Unit,Đơn Vị Dẫn Hướng
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_4_AreaName,导向单元,Navigation Unit,Đơn Vị Dẫn Hướng
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_52_AreaName,动力模组,Power Module,Mô-đun Động Lực
-lang_multi_text.db,MultiText,CycleTowerChallengeConfig_55_AreaName,顶驱轨道,Top Drive Track,Quỹ Đạo Đỉnh Khu
+lang_multi_text.db,MultiText,CycleTowerChallengeConfig_55_AreaName,顶驱轨道,Top Drive Track,Quỹ Đạo Đỉnh Dẫn
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_58_AreaName,导向单元,Navigation Unit,Đơn Vị Dẫn Hướng
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_61_AreaName,动力模组,Power Module,Mô-đun Động Lực
-lang_multi_text.db,MultiText,CycleTowerChallengeConfig_64_AreaName,顶驱轨道,Top Drive Track,Quỹ Đạo Đỉnh Khu
+lang_multi_text.db,MultiText,CycleTowerChallengeConfig_64_AreaName,顶驱轨道,Top Drive Track,Quỹ Đạo Đỉnh Dẫn
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_67_AreaName,导向单元,Navigation Unit,Đơn Vị Dẫn Hướng
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_70_AreaName,动力模组,Power Module,Mô-đun Động Lực
 lang_multi_text.db,MultiText,CycleTowerChallengeConfig_7_AreaName,动力模组,Power Module,Mô-đun Động Lực
@@ -79,23 +89,13 @@ lang_multi_text.db,MultiText,DIY_CameraName_9,放映厅·三,Screening Room III,
 lang_multi_text.db,MultiText,DIY_DecComplete_Content,已布置完毕,Decoration Complete,Đã bố trí xong
 lang_multi_text.db,MultiText,DIY_DecorateSuccess_Tip,陈设布置成功,Decoration placed,Bố trí trần thiết thành công
 lang_multi_text.db,MultiText,DIY_Decoration_Button,区域布置,Area Decoration,Bố trí khu vực
-lang_multi_text.db,MultiText,DIY_Decoration_LockedButton,尚未拥有该陈设,Decoration not obtained,Chưa sở hữu trần thiết này
+lang_multi_text.db,MultiText,DIY_Decoration_LockedButton,尚未拥有该陈设,Decoration not obtained,Chưa sở hữu vật trang trí này
 lang_multi_text.db,MultiText,DIY_Dic_AtmoLockedState,聚乐值{0}级可获得,Reach Vibe Level {0} to obtain,Đạt Tụ Lạc trị cấp {0} để nhận
 lang_multi_text.db,MultiText,DIY_Dictionary_FurnitureAtmosphere_Title,聚乐值,Vibe Gauge,Tụ Lạc Trị
 lang_multi_text.db,MultiText,DIY_Dictionary_FurnitureLocked_Desc,？？？,???,???
 lang_multi_text.db,MultiText,DIY_Dictionary_FurnitureTypee_Title,陈设类型,Type,Loại trần thiết
-lang_multi_text.db,MultiText,DIY_Dictionary_Name,陈设图集,Decor Catalogue,Đồ giám trần thiết
+lang_multi_text.db,MultiText,DIY_Dictionary_Name,陈设图集,Decor Catalogue,Tập tranh trang trí
 lang_multi_text.db,MultiText,DIY_FilterOption_1,全部,All,Tất cả
 lang_multi_text.db,MultiText,DIY_FilterOption_2,台面·桌椅,Tables & Chairs,Bàn ghế
 lang_multi_text.db,MultiText,DIY_FilterOption_3,大型摆件,Large Decorations,Vật trang trí lớn
 lang_multi_text.db,MultiText,DIY_FilterOption_4,桌面摆件,Tabletop Decorations,Vật trang trí bàn
-lang_multi_text.db,MultiText,DIY_FilterOption_5,中型摆件,Medium Decorations,Vật trang trí vừa
-lang_multi_text.db,MultiText,DIY_FilterOption_6,植被·花,Plants - Flowers,Thực vật - Hoa
-lang_multi_text.db,MultiText,DIY_FilterOption_7,植被·草,Plants - Grass,Thực vật - Cỏ
-lang_multi_text.db,MultiText,DIY_FilterOption_8,植被·树,Plants - Trees,Thực vật - Cây
-lang_multi_text.db,MultiText,DIY_FoolproofStyle_Title_1,宴戏厅,Hall of Revelry,Yến Hí Sảnh
-lang_multi_text.db,MultiText,DIY_FoolproofStyle_Title_2,豪饮之地,Land of Indulgence,Vùng Đất Hào Ẩm
-lang_multi_text.db,MultiText,DIY_FoolproofStyle_Title_3,荣光馆,Vault of Glory,Vinh Quang Quán
-lang_multi_text.db,MultiText,DIY_FoolproofStyle_Title_4,摘星水场,Sanctum of Starfall,Trích Tinh Thủy Trường
-lang_multi_text.db,MultiText,DIY_FoolproofStyle_Title_5,永夜花园,Garden of Nightbloom,Vĩnh Dạ Hoa Viên
-lang_multi_text.db,MultiText,DIY_FoolproofStyle_Title_6,奇旅之庭,Courtyard of Adventure,Kỳ Lữ Chi Đình

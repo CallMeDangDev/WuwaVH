@@ -1,5 +1,17 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_text.db,Text,517,封禁剩余时间{0},,Thời gian cấm còn lại: {0}
+lang_text.db,Text,506,额外赠送{0},,Tặng thêm {0}
+lang_text.db,Text,508,每档首次购入时将返还双倍奖励,,Mua lần đầu ở mỗi mức sẽ nhận thưởng gấp đôi
+lang_text.db,Text,509,无法继续购买,,Không thể mua thêm
+lang_text.db,Text,510,剩余{0}天（当日已领取）,,Còn {0} ngày (hôm nay đã nhận)
+lang_text.db,Text,511,剩余{0}天,,Còn {0} ngày
+lang_text.db,Text,512,以交易所的信誉为背书，约定按月为单位以固定价格对标的资产进行交易，在到期日前每日根据差额补足价款，补偿形式为承兑特权或铸潮票券，并不涉及实物交割。,"Backed by the creditworthiness of the Exchange, it is agreed that the underlying assets will be traded on a monthly basis at a fixed price, and the price will be made up daily before the maturity date based on the difference, with compensation in the form of acceptance privileges or cast tide notes, and no physical delivery is involved.","Được bảo chứng bởi uy tín của Sở Giao Dịch, thỏa thuận giao dịch tài sản theo tháng với giá cố định. Trước ngày đáo hạn, mỗi ngày sẽ bù trừ chênh lệch giá, hình thức bồi thường là Đặc Quyền Thừa Đoái hoặc Phiếu Chú Triều, không liên quan đến giao nhận vật phẩm thực tế."
+lang_text.db,Text,513,"有效期持续30天
+累计可获得300承兑特权和2700铸潮票券",,"Hiệu lực kéo dài 30 ngày
+Tổng cộng nhận được 300 Đặc Quyền Thừa Đoái và 2700 Phiếu Chú Triều"
+lang_text.db,Text,514,已达最大天数,,Đã đạt số ngày tối đa
+lang_text.db,Text,515,点击领取今日月度期权奖励,,Nhấn để nhận thưởng Quyền Chọn Tháng hôm nay
+lang_text.db,Text,516,连续30日，每日登录领取。,,"Liên tục 30 ngày, đăng nhập mỗi ngày để nhận."
+lang_text.db,Text,517,封禁剩余时间{0},,Thời gian cấm còn lại {0}
 lang_text.db,Text,518,封禁剩余时间{0},,Thời gian cấm còn lại {0}
 lang_text.db,Text,519,封禁剩余时间{0},,Thời gian cấm còn lại {0}
 lang_text.db,Text,520,禁言剩余时间{0},,Thời gian cấm chat còn lại {0}
@@ -47,7 +59,7 @@ lang_text.db,Text,563,已申请,,Đã gửi yêu cầu
 lang_text.db,Text,564,需要全部队员都失去意识后才可重新挑战,,Cần tất cả thành viên đều bất tỉnh mới có thể thử lại
 lang_text.db,Text,565,继续挑战,,Tiếp tục thử thách
 lang_text.db,Text,566,提议继续挑战,,Đề nghị tiếp tục thử thách
-lang_text.db,Text,567,重新挑战,,Thử lại
+lang_text.db,Text,567,重新挑战,,Thử thách lại
 lang_text.db,Text,568,提议重新挑战,,Đề nghị thử lại
 lang_text.db,Text,569,邀请继续挑战,,Mời tiếp tục thử thách
 lang_text.db,Text,570,邀请重新挑战,,Mời thử thách lại
@@ -65,11 +77,11 @@ lang_text.db,Text,583,首通成功,,Thông quan lần đầu thành công
 lang_text.db,Text,584,达到意识恢复次数上限,,Đã đạt giới hạn số lần hồi phục ý thức
 lang_text.db,Text,585,钩索,Grapple Cord,Móc Dây
 lang_text.db,Text,586,邀请附近玩家,,Mời người chơi gần đây
-lang_text.db,Text,587,存在异常，如有疑问请联系官方客服。,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_text.db,Text,587,存在异常，如有疑问请联系官方客服。,,"Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
 lang_text.db,Text,588,邀请好友,,Mời bạn bè
 lang_text.db,Text,589,他,,Anh ấy
 lang_text.db,Text,590,她,,Cô ấy
-lang_text.db,Text,591,存在异常，如有疑问请联系官方客服。,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_text.db,Text,591,存在异常，如有疑问请联系官方客服。,,"Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
 lang_text.db,Text,592,交付道具数量已达最大值,,Số lượng vật phẩm giao nộp đã đạt giới hạn tối đa
 lang_text.db,Text,593,交付道具不足,,Không đủ vật phẩm giao nộp
 lang_text.db,Text,594,所需交付物品,,Vật phẩm cần giao nộp
@@ -89,17 +101,3 @@ lang_text.db,Text,607,暂停中,,Đang tạm dừng
 lang_text.db,Text,608,未下载,,Chưa tải xuống
 lang_text.db,Text,609,未完成,,Chưa hoàn thành
 lang_text.db,Text,610,已下载,,Đã tải xuống
-lang_text.db,Text,611,使用中的语音不可卸载,,Không thể gỡ cài đặt giọng nói đang sử dụng
-lang_text.db,Text,612,{0}语音包已下载完成,,Gói giọng nói {0} đã tải xuống hoàn tất
-lang_text.db,Text,613,键鼠,,Bàn phím & Chuột
-lang_text.db,Text,614,手柄,,Tay cầm
-lang_text.db,Text,618,匹配就绪,,Ghép trận sẵn sàng
-lang_text.db,Text,619,"{0}
- 已成功匹配共鸣者小队
- 点击确认按钮以开启挑战",,"{0}
- Đã ghép thành công đội Cộng Hưởng Giả
- Nhấn nút xác nhận để bắt đầu thử thách"
-lang_text.db,Text,620,退出匹配,,Thoát ghép trận
-lang_text.db,Text,621,确认,,Xác nhận
-lang_text.db,Text,622,{0}秒后自动退出匹配,,Tự động thoát ghép trận sau {0} giây
-lang_text.db,Text,623,等待其他玩家确认,,Đang chờ người chơi khác xác nhận

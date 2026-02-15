@@ -1,9 +1,19 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_InitialShield,初始力场强度,Initial Force Field Strength,Cường độ Lực trường Ban đầu
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_Level,开发等级,Modding Level,Cấp độ Phát triển
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_RewardPreview,奖励预览,Rewards Preview,Xem trước phần thưởng
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldAmount,防御力场强度,Shield Strength,Cường độ Lực trường Phòng ngự
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldAmount_Detail,该属性受索拉等级影响。,Dependent on SOL3 Phase.,Thuộc tính này chịu ảnh hưởng bởi cấp SOL3.
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldCoolDown,力场冷却时间,Force Field Cooldown,Thời gian hồi lực trường
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldCoolDown_Detail,脱离战斗或摩托防御力场归零后，防御力场重新恢复的冷却时间。,The time needed before the motorbike Force Field regenerates after exiting the combat state or when the Force Field is down.,Thời gian hồi phục lực trường phòng thủ sau khi thoát chiến đấu hoặc khi lực trường phòng thủ giảm về 0.
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldRecoverRate,力场恢复速率,Force Field Regen Rate,Tốc độ hồi phục lực trường
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_Speed,速度,Speed,Tốc độ
+lang_multi_text.db,MultiText,MotorBike_MotorStatus_Title,摩托性能,Motorbike Specs,Thông số mô tô
 lang_multi_text.db,MultiText,MotorBike_RewardDetail_Desc,通过提升摩托开发等级，总共可获得以下奖励。,Increase Modding Level to obtain the following rewards,Nâng cấp độ cải trang mô tô để nhận được tổng cộng các phần thưởng sau.
 lang_multi_text.db,MultiText,MotorBike_RewardDetail_Title,奖励详情,Rewards,Chi tiết phần thưởng
 lang_multi_text.db,MultiText,MotorBike_RewardStatus_Collect,领取,Claim,Nhận
 lang_multi_text.db,MultiText,MotorBike_RewardStatus_Collected,已领取,Claimed,Đã nhận
-lang_multi_text.db,MultiText,MotorBike_RewardStatus_NotAvailable,未达到当前等级,Conditions not met,Chưa đạt cấp độ yêu cầu
+lang_multi_text.db,MultiText,MotorBike_RewardStatus_NotAvailable,未达到当前等级,Conditions not met,Chưa đạt đến cấp này
 lang_multi_text.db,MultiText,MotorBike_Shop_CloseButton,关闭,Close,Đóng
 lang_multi_text.db,MultiText,MotorBike_Shop_EquipButton,应用,Apply,Áp dụng
 lang_multi_text.db,MultiText,MotorBike_Status_Speed_Lv,Lv.{0},Lv. {0},Lv. {0}
@@ -24,7 +34,7 @@ lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301002,完成潮汐任务�
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301003,完成潮汐任务「致第二次日出」,"Complete Main Quest ""Ode to the Second Sunrise""","Hoàn thành nhiệm vụ Triều Tịch ""Gửi Lần Bình Minh Thứ Hai"""
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301004,解锁拉海洛地区所有信标,Activate all Resonance Beacons in Lahai-Roi,Mở khóa tất cả tín hiệu đài trong khu vực Lahai-Roi
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301005,在活动「开辟测界之路」完成深空测界台重建工程,"Completely rebuild the Spacetrek Observatory in ""Operation: Frontier Renewal""","Hoàn thành công trình tái thiết Đài Trắc Giới Thâm Không trong sự kiện ""Khai Phá Con Đường Trắc Giới"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301006,在活动「荣耀之丘：激斗重燃」中，赛程积分等级达到8级,"Reach Rank Level 8 in ""Peaks of Prestige: Rekindled Duel""","Đạt cấp tích điểm giải đấu 8 trong sự kiện ""Đồi Vinh Quang: Kích Đấu Tái Nhiên"""
+lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301006,在活动「荣耀之丘：激斗重燃」中，赛程积分等级达到8级,"Reach Rank Level 8 in ""Peaks of Prestige: Rekindled Duel""","Đạt cấp Điểm Giải Đấu 8 trong sự kiện ""Vinh Quang Chi Khâu: Kích Đấu Tái Nhiên"""
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301007,解锁拉海洛地区任意3个中枢信标,Unlock any 3 Resonance Nexus in Lahai-Roi,Mở khóa 3 trung khu tín hiệu đài bất kỳ trong khu vực Lahai-Roi
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301008,拉海洛地区任意3个地块探索度达到25%,Reach 25% Exploration Progress in any 3 areas in Lahai-Roi,Đạt 25% tiến độ khám phá ở 3 khu vực bất kỳ trong Lahai-Roi
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301009,拉海洛地区任意6个地块探索度达到25%,Reach 25% Exploration Progress in any 6 areas in Lahai-Roi,Đạt 25% tiến độ khám phá ở 6 khu vực bất kỳ trong Lahai-Roi
@@ -49,7 +59,7 @@ lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312003,在活动「银河�
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312004,通关「奔驰！箭速与激情！」活动精英赛第1关,"Pass Elite Track 1 in ""Full Throttle! Bolt & Blitz!""","Vượt qua ải thứ 1 Giải Đấu Tinh Anh trong sự kiện ""Phi Nước Đại! Tốc Độ Và Đam Mê!"""
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312005,通关「奔驰！箭速与激情！」活动精英赛第2关,"Pass Elite Track 2 in ""Full Throttle! Bolt & Blitz!""","Vượt qua ải thứ 2 Giải Đấu Tinh Anh trong sự kiện ""Phi Nước Đại! Tốc Độ Và Đam Mê!"""
 lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312006,在活动「平息！慌乱的迁徙！」中，通关慌乱的迁徙·VII（简单）,"Pass Migration Mayhem VII (Normal) in ""Rein Back! Migration Mayhem!""","Vượt qua Cuộc Di Cư Hoảng Loạn VII (Đơn Giản) trong sự kiện ""Bình Định! Cuộc Di Cư Hoảng Loạn!"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_313001,累计获得1000活跃度,"Obtain 1,000 Activity Points in total",Tích lũy đạt 1000 Hoạt Độ
+lang_multi_text.db,MultiText,MotorBike_TechCube_Task_313001,累计获得1000活跃度,"Obtain 1,000 Activity Points in total",Tích lũy đạt 1000 điểm hoạt động
 lang_multi_text.db,MultiText,MotorBike_TechCube_Title,摩托改装任务,Motorbike Modding Tasks,Nhiệm Vụ Cải Trang Mô Tô
 lang_multi_text.db,MultiText,MotorBike_TechTag_Combat,作战模块,Combat Module,Mô-đun chiến đấu
 lang_multi_text.db,MultiText,MotorBike_TechTag_Explore,探索模块,Exploration Modules,Mô-đun khám phá
@@ -107,22 +117,3 @@ Khi chịu ảnh hưởng của Bão Từ Hư Chất, sát thương nhận vào 
 lang_multi_text.db,MultiText,MotorBike_TechTree_11002_Name,对虚反应装甲,Antivoid Armor,Giáp Phản Hư
 lang_multi_text.db,MultiText,MotorBike_TechTree_110030_Desc,施放冲角动力后，队伍中角色获得防御力场强度100%的护盾，持续30秒。,"After unleashing Ram Dynamics, Resonators in the team gain a Shield equal to 100% of the motorbike's Force Field for 30s.","Sau khi thi triển Xung Giác Động Lực, các nhân vật trong đội nhận được khiên bằng 100% cường độ Trường Lực Phòng Ngự, kéo dài 30 giây."
 lang_multi_text.db,MultiText,MotorBike_TechTree_11003_Desc,施放冲角动力后，队伍中的角色将获得护盾。,"After unleashing Ram Dynamics, Resonators in the team gain a Shield.","Sau khi thi triển Xung Giác Động Lực, các nhân vật trong đội sẽ nhận được khiên."
-lang_multi_text.db,MultiText,MotorBike_TechTree_11003_LevelUpPreview,"模块升级后：
-施放冲角动力后，队伍中的角色获得摩托防御力场强度100%的护盾。","Upgrade Effect:
-After unleashing Ram Dynamics, Resonators in the team gain a Shield equal to 100% of the motorbike's Force Field.","Hiệu quả sau khi nâng cấp module:
-Sau khi thi triển Xung Giác Động Lực, các nhân vật trong đội nhận được khiên bằng 100% cường độ Trường Lực Phòng Ngự của mô tô."
-lang_multi_text.db,MultiText,MotorBike_TechTree_11003_Name,维生模块,Life Support Mode,Module Duy Sinh
-lang_multi_text.db,MultiText,MotorBike_TechTree_110040_Desc,处于虚质磁暴影响下，队伍中的角色的偏谐值累积效率提升10%。,"When under the influence of a Void Storm, Resonators in the team have their Off-Tune Buildup Rate increased by 10%.","Khi chịu ảnh hưởng của Bão Từ Hư Chất, hiệu suất tích lũy Thiên Hài trị của các nhân vật trong đội tăng 10%."
-lang_multi_text.db,MultiText,MotorBike_TechTree_110041_Desc,处于虚质磁暴影响下，队伍中的角色的偏谐值累积效率提升20%。,"When under the influence of a Void Storm, Resonators in the team have their Off-Tune Buildup Rate increased by 20%.","Khi chịu ảnh hưởng của Bão Từ Hư Chất, hiệu suất tích lũy Thiên Hài trị của các nhân vật trong đội tăng 20%."
-lang_multi_text.db,MultiText,MotorBike_TechTree_11004_Desc,处于虚质磁暴影响下，队伍中的角色偏谐值累积效率提升。,"When under the influence of a Void Storm, Resonators in the team have a higher Off-Tune Buildup Rate.","Khi chịu ảnh hưởng của Bão Từ Hư Chất, hiệu suất tích lũy Thiên Hài trị của các nhân vật trong đội được tăng cao."
-lang_multi_text.db,MultiText,MotorBike_TechTree_11004_LevelUpPreview,"模块升级后：
-处于虚质磁暴影响下，队伍中的角色的偏谐值累积效率提升10%。","Upgrade Effect:
-When under the influence of a Void Storm, Resonators in the team have their Off-Tune Buildup Rate increased by 10%.","Hiệu quả sau khi nâng cấp module:
-Khi chịu ảnh hưởng của Bão Từ Hư Chất, hiệu suất tích lũy Thiên Hài trị của các nhân vật trong đội tăng 10%."
-lang_multi_text.db,MultiText,MotorBike_TechTree_11004_Name,对虚偏谐模块,Antivoid Off-Tuning Module,Module Thiên Hài Phản Hư
-lang_multi_text.db,MultiText,MotorBike_TechTree_110050_Desc,施放冲角动力后，队伍中的角色的暴击提升20%，持续30秒,"After unleashing Ram Dynamics, Resonators in the team have their Crit. Rate increased by 20% for 30s.","Sau khi thi triển Xung Giác Động Lực, tỷ lệ bạo kích của các nhân vật trong đội tăng 20%, kéo dài 30 giây."
-lang_multi_text.db,MultiText,MotorBike_TechTree_11005_Desc,施放冲角动力后，队伍中的角色的暴击提升。,"After unleashing Ram Dynamics, Crit. Rate is increased for Resonators in the team.","Sau khi thi triển Xung Giác Động Lực, tỷ lệ bạo kích của các nhân vật trong đội được tăng cao."
-lang_multi_text.db,MultiText,MotorBike_TechTree_11005_LevelUpPreview,"模块升级后：
-施放冲角动力后，队伍中的角色的暴击提升20%，持续30秒","Upgrade Effect:
-After unleashing Ram Dynamics, Resonators in the team have their Crit. Rate increased by 20% for 30s.","Hiệu quả sau khi nâng cấp module:
-Sau khi thi triển Xung Giác Động Lực, tỷ lệ bạo kích của các nhân vật trong đội tăng 20%, kéo dài 30 giây."

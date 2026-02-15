@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ConfirmBox_164_Title,提示,Notice,Thông báo
+lang_multi_text.db,MultiText,ConfirmBox_165_ButtonText_0,确定,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_165_Content,本轮测试支付功能暂未开启,The payment function is not open for this round of testing,Chức năng thanh toán chưa được mở trong đợt thử nghiệm này
+lang_multi_text.db,MultiText,ConfirmBox_165_Title,提示,Notice,Thông báo
+lang_multi_text.db,MultiText,ConfirmBox_166_ButtonText_0,确定,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_166_Content,{0}材料不足，可前往商城→海市兑换商店进行兑换,"{0} Material is not enough, you can go to Store → Item Exchange to exchange","Không đủ vật liệu {0}, có thể đến Cửa hàng → Cửa hàng Đổi vật phẩm để đổi"
+lang_multi_text.db,MultiText,ConfirmBox_166_Title,提示,Notice,Thông báo
+lang_multi_text.db,MultiText,ConfirmBox_167_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_167_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_167_Content,物品中含有高品质物品，回收后无法恢复，是否确认？,Confirm to remove the selected items?,"Vật phẩm chứa đồ phẩm chất cao, sau khi thu hồi sẽ không thể khôi phục. Xác nhận?"
 lang_multi_text.db,MultiText,ConfirmBox_167_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_168_ButtonText_0,取消,Cancel,Hủy
 lang_multi_text.db,MultiText,ConfirmBox_168_ButtonText_1,确认,Confirm,Xác nhận
@@ -68,7 +78,7 @@ lang_multi_text.db,MultiText,ConfirmBox_184_ButtonText_1,确认,Confirm,Xác nh�
 lang_multi_text.db,MultiText,ConfirmBox_184_Content,潮汐觅闻已刷新， 勘察任务已重置,Wuthering Exploration's Survey Tasks have been refreshed,"Triều Tịch Mịch Văn đã làm mới, nhiệm vụ khảo sát đã được đặt lại"
 lang_multi_text.db,MultiText,ConfirmBox_184_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_185_Content,客户端需要更新，请重新登录游戏。,Please log in again for the client updates to be applied.,"Ứng dụng cần được cập nhật, vui lòng đăng nhập lại trò chơi."
-lang_multi_text.db,MultiText,ConfirmBox_185_Title,更新,Update,Cập nhật
+lang_multi_text.db,MultiText,ConfirmBox_185_Title,更新,Update,Mới
 lang_multi_text.db,MultiText,ConfirmBox_186_Content,"正在清除，请耐心等待
 清除完成后将会重新启动游戏","Removal in progress... Please wait...
 The game will restart once the removal is complete.","Đang xóa, vui lòng chờ đợi...
@@ -88,7 +98,7 @@ lang_multi_text.db,MultiText,ConfirmBox_196_Content,解锁该心愿委托需要�
 lang_multi_text.db,MultiText,ConfirmBox_197_Content,是否前往查看关联任务？,View associated quests now?,Có muốn đi xem nhiệm vụ liên quan không?
 lang_multi_text.db,MultiText,ConfirmBox_198_Content,解锁该任务需要建造「{0}」，是否前往解锁？,You need to set up {0} to unlock this quest. Unlock it now?,"Mở khóa nhiệm vụ này cần xây dựng ""{0}"", có muốn đi mở khóa không?"
 lang_multi_text.db,MultiText,ConfirmBox_199_Content,解锁该心愿委托需要完成任务「{0}」，是否前往解锁？,You need to complete the quest {0} to unlock this Wish. Unlock it now?,"Mở khóa ủy thác tâm nguyện này cần hoàn thành nhiệm vụ ""{0}"", có muốn đi mở khóa không?"
-lang_multi_text.db,MultiText,ConfirmBox_19_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Phát hiện bất thường, nếu có thắc mắc xin liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,ConfirmBox_19_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
 lang_multi_text.db,MultiText,ConfirmBox_19_Title,转录确认,Transcription Confirm,Xác nhận chuyển tả
 lang_multi_text.db,MultiText,ConfirmBox_1_ButtonText_0,取消,Cancel,Hủy
 lang_multi_text.db,MultiText,ConfirmBox_1_ButtonText_1,确认,Confirm,Xác nhận
@@ -112,17 +122,4 @@ lang_multi_text.db,MultiText,ConfirmBox_207_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_208_ButtonText_0,重试,Retry,Thử lại
 lang_multi_text.db,MultiText,ConfirmBox_208_Content,网络异常，请检测后重试,"Network error, please check your connection and try again later.","Lỗi mạng, vui lòng kiểm tra kết nối và thử lại."
 lang_multi_text.db,MultiText,ConfirmBox_209_Content,启动游戏失败，请检查“PlayStation Network”的账号在线状态！,Failed to start the game. Please check the login status of your account for PlayStation™Network!,"Khởi động game thất bại, vui lòng kiểm tra trạng thái đăng nhập tài khoản PlayStation™Network!"
-lang_multi_text.db,MultiText,ConfirmBox_20_Content,存在异常，如有疑问请联系官方客服。,An error happened. Please contact Customer Service,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ConfirmBox_20_Title,转录确认,Transcription Confirm,Xác nhận chuyển mã
-lang_multi_text.db,MultiText,ConfirmBox_211_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_211_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_211_Content,您即将进入一个独立的任务流程，在该任务完成前将无法进行联机，是否确认继续进行任务流程？,"You are about to enter an independent storyline, where co-op mode is temporarily disabled. Confirm to proceed?","Bạn sắp bước vào một chuỗi nhiệm vụ độc lập, trong thời gian thực hiện nhiệm vụ này sẽ không thể chơi trực tuyến. Xác nhận tiếp tục?"
-lang_multi_text.db,MultiText,ConfirmBox_211_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_212_ButtonText_0,暂不,Cancel,Để sau
-lang_multi_text.db,MultiText,ConfirmBox_212_Content,"检测到已连接控制器设备，是否切换至控制器模式？
-（在<color=Highlight>系统设置</color> →<color=Highlight>按键</color> 界面中可进行切换）","Controller detected. Switch to the Controller mode?
-(You may switch manually via <color=Highlight>Settings</color> - <color=Highlight>Key Bindings</color>)","Phát hiện tay cầm đã kết nối, bạn có muốn chuyển sang chế độ tay cầm không?
-(Có thể chuyển đổi tại <color=Highlight>Cài đặt hệ thống</color> → <color=Highlight>Phím điều khiển</color>)"
-lang_multi_text.db,MultiText,ConfirmBox_212_Title,操作模式切换,Switch Operation Mode,Chuyển chế độ điều khiển
-lang_multi_text.db,MultiText,ConfirmBox_213_ButtonText_0,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_213_Content,找不到商品信息,Item information not found,Không tìm thấy thông tin sản phẩm.
+lang_multi_text.db,MultiText,ConfirmBox_20_Content,存在异常，如有疑问请联系官方客服。,An error happened. Please contact Customer Service,"Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."

@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Text_GymReturnToWorld_Text,返回大世界,Leave,Trở về thế giới
+lang_multi_text.db,MultiText,Text_GymShopNew_Text,试炼纹币：{0}/{1},Trial Coin: {0}/{1},Thí Luyện Văn Tệ: {0}/{1}
+lang_multi_text.db,MultiText,Text_HandBookEntrance_Text,万物图鉴,Gallery,Vạn Vật Đồ Giám
+lang_multi_text.db,MultiText,Text_HandBookGet_Text,收录日期:{0},Entry Unlock Date: {0},Ngày thu thập: {0}
+lang_multi_text.db,MultiText,Text_HandBookItemHaveNum_Text,获得次数:{0},Acquisition Count: {0},Số lần nhận được: {0}
+lang_multi_text.db,MultiText,Text_Handle_Text,控制器,Controller,Tay cầm
+lang_multi_text.db,MultiText,Text_HasClearDifficult_Text,已完成“{0}”探索,"""{0}"" exploration has been completed","Đã hoàn thành khám phá ""{0}"""
+lang_multi_text.db,MultiText,Text_HasExploreDifficult_Text,已完成“{0}”探索,"""{0}"" exploration has been completed","Đã hoàn thành khám phá ""{0}"""
+lang_multi_text.db,MultiText,Text_HasGetRewardTips_Text,探索奖励已提前获得,Exploration rewards have been obtained in advance,Phần thưởng khám phá đã được nhận trước
+lang_multi_text.db,MultiText,Text_HasInviteChallengeAgain_Text,{0}发出了重新挑战的邀请,{0} has issued an invitation to challenge again,{0} đã gửi lời mời thử thách lại
 lang_multi_text.db,MultiText,Text_HasInviteContinueChallenge_Text,{0}发出了继续挑战的邀请,{0} has issued an invitation to continue,{0} đã gửi lời mời tiếp tục thử thách
 lang_multi_text.db,MultiText,Text_HaveApplyFriend_Text,已申请,Request Sent,Đã gửi yêu cầu
 lang_multi_text.db,MultiText,Text_HaveInvite_Text,已发起邀请,Invitation sent,Đã gửi lời mời
@@ -14,7 +24,7 @@ lang_multi_text.db,MultiText,Text_Hour_Text,小时,h,giờ
 lang_multi_text.db,MultiText,Text_HttpClosedRegister_Text,注册已关闭。,Registration has been closed.,Đăng ký đã bị đóng.
 lang_multi_text.db,MultiText,Text_HttpHadBan_Text,该账号已被封禁。,This account has been banned.,Tài khoản này đã bị cấm.
 lang_multi_text.db,MultiText,Text_HttpInternalError_Text,服务器出现未知错误，请尝试重启客户端并重新登录。,An unknown server-side error occurred. Please consider restarting the client and login again.,"Máy chủ gặp lỗi không xác định, vui lòng thử khởi động lại ứng dụng và đăng nhập lại."
-lang_multi_text.db,MultiText,Text_HttpInvalidGateway_Text,网络异常，请重新尝试。,Network error. Please try again later.,"Mạng bất thường, vui lòng thử lại."
+lang_multi_text.db,MultiText,Text_HttpInvalidGateway_Text,网络异常，请重新尝试。,Network error. Please try again later.,"Lỗi mạng, vui lòng thử lại."
 lang_multi_text.db,MultiText,Text_HttpInvalidLoginType_Text,登录失败，请尝试重启客户端并重新登录。,"Log in failed, please try to restart the client and log in again.","Đăng nhập thất bại, vui lòng thử khởi động lại ứng dụng và đăng nhập lại."
 lang_multi_text.db,MultiText,Text_HttpInvalidToken_Text,无效的token，请尝试重启客户端并重新登录。,"Invalid token, please try to restart the client and log in again.","Token không hợp lệ, vui lòng thử khởi động lại ứng dụng và đăng nhập lại."
 lang_multi_text.db,MultiText,Text_HttpInvalidUserId_Text,无效的用户id，请尝试重启客户端并重新登录。,Invalid User ID. Please relaunch your client and login again.,"ID người dùng không hợp lệ, vui lòng khởi động lại ứng dụng và đăng nhập lại."
@@ -26,7 +36,7 @@ lang_multi_text.db,MultiText,Text_HttpServerMaintenance_Text,服务器维护中�
 lang_multi_text.db,MultiText,Text_HttpServerNotOpen_Text,服务器暂未开放，开放时间敬请关注官方公告。,"The server is not open yet, please pay attention to the official announcement for the opening time.","Máy chủ chưa mở, thời gian mở cửa vui lòng theo dõi thông báo chính thức."
 lang_multi_text.db,MultiText,Text_HttpTimeout_Text,网络请求超时，无法连接服务器，请稍后再尝试。,Request timed out. Failed to connect to the server. Please try again later.,"Yêu cầu mạng đã hết thời gian chờ, không thể kết nối máy chủ. Vui lòng thử lại sau."
 lang_multi_text.db,MultiText,Text_HttpTokenNotAuthrized_Text,登录超时，请尝试重启客户端并重新登录。,"The log in timed out, please try to restart the client and log in again.","Đăng nhập đã hết thời gian chờ, vui lòng thử khởi động lại ứng dụng và đăng nhập lại."
-lang_multi_text.db,MultiText,Text_HttpUnknownError_Text,存在异常，如有疑问请联系官方客服,Unknown error,"Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,Text_HttpUnknownError_Text,存在异常，如有疑问请联系官方客服,Unknown error,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Text_Immune_Text,免疫,Immune,Miễn Dịch
 lang_multi_text.db,MultiText,Text_ImportantMail_Text,重要邮件,Starred Mails,Thư Quan Trọng
 lang_multi_text.db,MultiText,Text_InUseCanNotDelete_Text,使用中的语音不可卸载,The voiceover in use cannot be uninstalled,Không thể gỡ bỏ gói lồng tiếng đang sử dụng
@@ -36,7 +46,7 @@ lang_multi_text.db,MultiText,Text_InfluenceBelongTips_Text,归属势力无需积
 lang_multi_text.db,MultiText,Text_InfluenceHostilityTips_Text,敌对势力无法积累影响力,The hostile faction cannot accumulate Influence,Thế lực thù địch không thể tích lũy ảnh hưởng
 lang_multi_text.db,MultiText,Text_InfluenceLockName_Text,???,???,???
 lang_multi_text.db,MultiText,Text_InfluenceLockTips_Text,该势力尚未解锁,The faction has not been unlocked yet,Thế lực này chưa được mở khóa
-lang_multi_text.db,MultiText,Text_InputChatContent_Text,请输入聊天内容,Please enter chat content,Vui lòng nhập nội dung trò chuyện
+lang_multi_text.db,MultiText,Text_InputChatContent_Text,请输入聊天内容,Please enter chat content,Nhập nội dung trò chuyện
 lang_multi_text.db,MultiText,Text_InsertAll_Text,一键放入,Quick Selection,Bỏ Vào Nhanh
 lang_multi_text.db,MultiText,Text_InstallTips_Text,安装过程中请勿关闭游戏,Please do not close the game during the installation,Vui lòng không tắt trò chơi trong quá trình cài đặt
 lang_multi_text.db,MultiText,Text_Install_Text,正在安装更新包,Installing the update package,Đang cài đặt gói cập nhật
@@ -72,7 +82,7 @@ lang_multi_text.db,MultiText,Text_InviteFriend_Text,邀请好友,Invite Friend,M
 lang_multi_text.db,MultiText,Text_InviteNearby_Text,邀请附近玩家,Invite nearby players,Mời người chơi lân cận
 lang_multi_text.db,MultiText,Text_IsEnteringWorld_Text,<color=Highlight>{0}</color>正在进入世界,<color=Highlight>{0}</color> is joining,<color=Highlight>{0}</color> đang tiến vào thế giới
 lang_multi_text.db,MultiText,Text_IsInTeam_Text,所选角色已在出战队伍中,The selected Character is already in the combat team,Nhân vật đã chọn đang trong đội hình xuất chiến
-lang_multi_text.db,MultiText,Text_IsInUiViewText_Text,已处于查找目标界面，无法继续跳转,"Already in the target search interface, unable to continue to jump","Đang ở giao diện tìm mục tiêu, không thể tiếp tục chuyển hướng"
+lang_multi_text.db,MultiText,Text_IsInUiViewText_Text,已处于查找目标界面，无法继续跳转,"Already in the target search interface, unable to continue to jump","Đã ở giao diện mục tiêu tìm kiếm, không thể chuyển tiếp"
 lang_multi_text.db,MultiText,Text_IsMyFriend_Text,已添加好友,Friend Added,Đã thêm bạn bè
 lang_multi_text.db,MultiText,Text_IsNotMyRole_Text,只能更换自己的角色,You can only switch your characters,Chỉ có thể thay đổi nhân vật của mình
 lang_multi_text.db,MultiText,Text_IsNotOpenOnline_Text,多人游戏尚未开启，联觉等级22级开启,Co-op Mode currently unavailable. Unlocked after reaching Union Level 22,Chế độ nhiều người chơi chưa mở khóa. Mở khóa khi đạt Cấp Liên Giác 22
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,Text_ItemLockSuccess_Text,物品锁定成功,Item L
 lang_multi_text.db,MultiText,Text_ItemNameShowCount_Text,{0}x{1},{0} x{1},{0} x{1}
 lang_multi_text.db,MultiText,Text_ItemNotEnoughText_Text,<color=#c25757>{0}</color>/{1},<color=#c25757>{0}</color>/{1},<color=#c25757>{0}</color>/{1}
 lang_multi_text.db,MultiText,Text_ItemRecycleChooseTip_text,请选择需要回收的物品,Select items to remove,Vui lòng chọn vật phẩm cần thu hồi
-lang_multi_text.db,MultiText,Text_ItemRecycleChosenTotal_text,已选：{0}/{1},Selected: {0}/{1},Đã chọn: {0}/{1}
-lang_multi_text.db,MultiText,Text_ItemRecycleChosen_text,{0}/{1},{0}/{1},{0}/{1}
-lang_multi_text.db,MultiText,Text_ItemRecycleConfirmToggle_text,本次登录不再提示,Do not show again,Không hiển thị lại trong phiên đăng nhập này
-lang_multi_text.db,MultiText,Text_ItemRecycleCount_text,回收数量：{0},Amount: {0},Số lượng thu hồi: {0}
-lang_multi_text.db,MultiText,Text_ItemRecycleLimited_text,该物品无法被回收,Selected item cannot be removed.,Vật phẩm này không thể thu hồi.
-lang_multi_text.db,MultiText,Text_ItemRecycle_text,数据回收,Remove,Thu hồi dữ liệu
-lang_multi_text.db,MultiText,Text_ItemReturnTitle_Text,返还材料,Returned Materials,Hoàn trả nguyên liệu
-lang_multi_text.db,MultiText,Text_ItemSelectCookQuantityTip_text,烹饪数量 <color=Highlight>{0}</color>,Quantity: <color=Highlight>{0}</color>,Số lượng nấu ăn <color=Highlight>{0}</color>
-lang_multi_text.db,MultiText,Text_ItemSelectCookUnlockTip_text,暂无法研究，请继续解锁配料线索,Locked recipe. Please find more clues,"Tạm thời chưa thể nghiên cứu, vui lòng tiếp tục mở khóa manh mối nguyên liệu"
-lang_multi_text.db,MultiText,Text_ItemSelectCookUnlock_text,???,???,???

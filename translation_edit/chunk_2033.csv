@@ -1,5 +1,136 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Skill_1003708_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt
+lang_multi_text.db,MultiText,Skill_1003704_SkillResume,"施放<color=Highlight>声骸技能</color>时，抗打断能力提升，受到伤害降低。
+施放<color=Highlight>变奏技能</color>、<color=Highlight>强化变奏技能</color>、<color=Highlight>声骸技能</color>时，下一枚获得的<color=Highlight>【特殊能量】</color>将变为<color=Highlight>【特殊能量·彩】</color>。","Casting <color=Highlight>Echo Skill</color> grants increased resistance to interruption and reduces damage taken.
+Casting <color=Highlight>Intro Skill</color>, <color=Highlight>Enhanced Intro Skill</color>, and <color=Highlight>Echo Skill</color> replaces the next <color=Highlight>Forte Gauge</color> with <color=Highlight>Forte Gauge - Combined</color>.","Khi thi triển <color=Highlight>Thanh Hài Kỹ</color>, khả năng kháng gián đoạn tăng, sát thương nhận vào giảm.
+Khi thi triển <color=Highlight>Biến Tấu Kỹ</color>, <color=Highlight>Cường Hóa Biến Tấu Kỹ</color>, <color=Highlight>Thanh Hài Kỹ</color>, <color=Highlight>[Năng Lượng Đặc Biệt]</color> tiếp theo nhận được sẽ trở thành <color=Highlight>[Năng Lượng Đặc Biệt - Thái]</color>."
+lang_multi_text.db,MultiText,Skill_1003705_SkillDescribe,"进入战斗状态获得{0}层<color=Highlight><te href=160803>余响</te></color>，退出战斗状态{1}秒内无法触发该效果。
+每拥有{2}层<color=Highlight>余响</color>，暴击伤害提升{3}。
+<color=Highlight>余响</color>层数达上限时，再次获得<color=Highlight>余响</color>，每溢出1层<color=Highlight>余响</color>，弗洛洛暴击伤害提升{4}，最多通过该方式提升{5}，<color=Highlight>余响</color>层数清除时，同时清除该方式提供的暴击伤害提升效果。","Obtain {0} stacks of <color=Highlight><te href=160803>Aftersound</te></color> upon entering battle. This effect cannot be triggered again within {1}s after exiting the combat state. For every {2} stacks of <color=Highlight>Aftersound</color>, Crit. DMG is increased by {3}.
+When <color=Highlight>Aftersound</color> reaches the max, each new stack of <color=Highlight>Aftersound</color> increases Phrolova's Crit. DMG by {4}, up to {5}. The increased Crit. DMG is removed when <color=Highlight>Aftersound</color> stacks are cleared.","Khi tiến vào trạng thái chiến đấu, nhận {0} tầng <color=Highlight><te href=160803>Dư Hưởng</te></color>, sau khi thoát khỏi trạng thái chiến đấu, trong {1} giây không thể kích hoạt lại hiệu quả này.
+Cứ mỗi {2} tầng <color=Highlight>Dư Hưởng</color>, sát thương bạo kích tăng {3}.
+Khi số tầng <color=Highlight>Dư Hưởng</color> đạt giới hạn, nếu tiếp tục nhận <color=Highlight>Dư Hưởng</color>, mỗi tầng tràn ra sẽ tăng sát thương bạo kích của Phrolova thêm {4}, tối đa tăng {5} theo cách này. Khi số tầng <color=Highlight>Dư Hưởng</color> bị xóa, đồng thời xóa hiệu quả tăng sát thương bạo kích từ cách này."
+lang_multi_text.db,MultiText,Skill_1003705_SkillName,八重奏,Octet,Bát Trùng Tấu
+lang_multi_text.db,MultiText,Skill_1003705_SkillResume,"进入<color=Highlight>战斗状态</color>获得<color=Highlight>余响</color>。
+<color=Highlight>余响</color>可提升暴击伤害。
+<color=Highlight>余响</color>层数达上限时，再次获得<color=Highlight>余响</color>，可小幅提升暴击伤害。","Entering the <color=Highlight>combat state</color> grants <color=Highlight>Aftersound</color>.
+<color=Highlight>Aftersound</color> increases Crit. DMG. Gaining new <color=Highlight>Aftersound</color> at max stacks additionally boosts Crit. DMG.","Tiến vào <color=Highlight>trạng thái chiến đấu</color> nhận được <color=Highlight>Dư Hưởng</color>.
+<color=Highlight>Dư Hưởng</color> có thể tăng sát thương bạo kích.
+Khi số tầng <color=Highlight>Dư Hưởng</color> đạt giới hạn, tiếp tục nhận <color=Highlight>Dư Hưởng</color> có thể tăng thêm một lượng nhỏ sát thương bạo kích."
+lang_multi_text.db,MultiText,Skill_1003706_SkillDescribe,"<size=40><color=Title>致命组歌</color></size>
+攻击目标，造成<color=Dark>湮灭伤害</color>。
+施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第3段</color>。
+<size=10></size>
+<size=40><color=Title>永生组歌</color></size>
+进入<color=Highlight><te href=160804>指挥状态</te></color>后，下次<color=Highlight>致命组歌</color>替换为<color=Highlight>永生组歌</color>，期间施放<color=Highlight>谢幕</color>将取消本次替换。
+施放<color=Highlight>永生组歌</color>，停滞目标，造成<color=Dark>湮灭伤害</color>，本次伤害为<color=Highlight>共鸣技能伤害</color>。
+施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第3段</color>。","<size=40><color=Title>Suite of Quietus</color></size>
+Attack the target, dealing <color=Dark>Havoc DMG</color>.
+{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> shortly after casting this skill to cast <color=Highlight>Basic Attack Stage 3</color>.
+<size=10></size>
+<size=40><color=Title>Suite of Immortality</color></size>
+When in the <color=Highlight><te href=160804>Maestro</te></color> state, the next <color=Highlight>Suite of Quietus</color> is replaced with <color=Highlight>Suite of Immortality</color>. This replacement is cancelled if <color=Highlight>Curtain Call</color> is cast while in this state. <color=Highlight>Suite of Immortality</color> deals <color=Dark>Havoc DMG</color> (considered <color=Highlight>Resonance Skill DMG</color>) and Stagnates the target.
+{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> shortly after casting this skill to cast <color=Highlight>Basic Attack Stage 3</color>.","<size=40><color=Title>Trí Mệnh Tổ Ca</color></size>
+Tấn công mục tiêu, gây <color=Dark>sát thương Giải Ly</color>.
+Sau khi thi triển kỹ năng này, trong khoảng thời gian nhất định nhấn nhanh <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Phổ Công đoạn 3</color>.
+<size=10></size>
+<size=40><color=Title>Vĩnh Sinh Tổ Ca</color></size>
+Sau khi tiến vào <color=Highlight><te href=160804>Trạng Thái Chỉ Huy</te></color>, lần <color=Highlight>Trí Mệnh Tổ Ca</color> tiếp theo được thay thế bằng <color=Highlight>Vĩnh Sinh Tổ Ca</color>, trong thời gian đó nếu thi triển <color=Highlight>Hạ Màn</color> sẽ hủy bỏ lần thay thế này.
+Thi triển <color=Highlight>Vĩnh Sinh Tổ Ca</color>, đình trệ mục tiêu, gây <color=Dark>sát thương Giải Ly</color>, sát thương này được tính là <color=Highlight>sát thương Kỹ Năng Cộng Hưởng</color>.
+Sau khi thi triển kỹ năng này, trong khoảng thời gian nhất định nhấn nhanh <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Phổ Công đoạn 3</color>."
+lang_multi_text.db,MultiText,Skill_1003706_SkillName,致命组歌,Suite of Quietus,Trí Mệnh Tổ Ca
+lang_multi_text.db,MultiText,Skill_1003706_SkillResume,"<size=40><color=Title>变奏技能</color></size>
+造成<color=Dark>湮灭伤害</color>，可衔接施放<color=Highlight>普攻第3段</color>。
+<size=10></size>
+<size=40><color=Title>强化变奏技能</color></size>
+进入<color=Highlight>强化状态</color>后，下次<color=Highlight>变奏技能</color>替换为<color=Highlight>强化变奏技能</color>，造成<color=Dark>湮灭伤害</color>，本次伤害为<color=Highlight>共鸣技能伤害</color>。
+施放<color=Highlight>强化变奏技能</color>后，可衔接施放<color=Highlight>普攻第3段</color>。","<size=40><color=Title>Intro Skill</color></size>
+Deal <color=Dark>Havoc DMG</color>. Can be followed by <color=Highlight>Basic Attack Stage 3</color>.
+<size=10></size>
+<size=40><color=Title>Enhanced Intro Skill</color></size>
+In the <color=Highlight>Enhanced State</color>, the next <color=Highlight>Intro Skill</color> is replaced with <color=Highlight>Enhanced Intro Skill</color>, deailng <color=Dark>Havoc DMG</color> (considered <color=Highlight>Resonance Skill DMG</color>).
+<color=Highlight>Enhanced Intro Skill</color> can be followed by <color=Highlight>Basic Attack Stage 3</color>.","<size=40><color=Title>Biến Tấu Kỹ</color></size>
+Gây <color=Dark>sát thương Giải Ly</color>, có thể nối tiếp thi triển <color=Highlight>Phổ Công đoạn 3</color>.
+<size=10></size>
+<size=40><color=Title>Cường Hóa Biến Tấu Kỹ</color></size>
+Sau khi tiến vào <color=Highlight>Trạng Thái Cường Hóa</color>, lần <color=Highlight>Biến Tấu Kỹ</color> tiếp theo được thay thế bằng <color=Highlight>Cường Hóa Biến Tấu Kỹ</color>, gây <color=Dark>sát thương Giải Ly</color>, sát thương này được tính là <color=Highlight>sát thương Kỹ Năng Cộng Hưởng</color>.
+Sau khi thi triển <color=Highlight>Cường Hóa Biến Tấu Kỹ</color>, có thể nối tiếp thi triển <color=Highlight>Phổ Công đoạn 3</color>."
+lang_multi_text.db,MultiText,Skill_1003707_SkillDescribe,"<size=40><color=Title>普攻·亡与死的乐章</color></size>
+处于<color=Highlight>重世</color>状态时，地面短按<color=Highlight>普攻</color>施放<color=Highlight>亡与死的乐章</color>，使命中的目标停滞，随后对目标造成<color=Dark>湮灭伤害</color>，本次伤害为<color=Highlight>共鸣技能伤害</color>。
+施放时退出<color=Highlight>重世</color>状态。
+<size=10></size>
+<size=40><color=Title>共鸣技能·永不消逝的梦呓</color></size>
+处于<color=Highlight>重世</color>状态时，地面短按<color=Highlight>共鸣技能</color>施放<color=Highlight>永不消逝的梦呓</color>，造成<color=Dark>湮灭伤害</color>，本次伤害为<color=Highlight>共鸣技能伤害</color>。
+施放时退出<color=Highlight>重世</color>状态。
+<size=10></size>
+<size=40><color=Title>余响获取规则</color></size>
+余响上限为{0}层。
+弗洛洛不为队伍中登场角色，施放<color=Highlight>强化攻击·弦乐·赫卡忒</color>、<color=Highlight>强化攻击·管乐·赫卡忒</color>、<color=Highlight>强化攻击·彩乐·赫卡忒</color>时，可获得{1}层余响。
+弗洛洛处于非战斗状态时，每{2}秒会清除全部余响层数。
+<size=10></size>
+<size=40><color=Title>【乐声】获取规则</color></size>
+<color=Highlight>【乐声】</color>上限6枚，达上限时，再次获取<color=Highlight>【乐声】</color>，所有<color=Highlight>【乐声】</color>将左移1格，最左侧<color=Highlight>【乐声·弦乐】</color>、<color=Highlight>【乐声·管乐】</color>将被移除。
+<color=Highlight>普攻第3段</color>、<color=Highlight>亡与死的乐章</color>命中目标时，可获取1枚<color=Highlight>【乐声·弦乐】</color>。
+共鸣技能<color=Highlight>稍纵即逝的梦呓</color>、共鸣技能<color=Highlight>永不消逝的梦呓</color>命中目标时，可获取1枚<color=Highlight>【乐声·管乐】</color>。
+激活<color=Highlight>固有技能·变音符</color>后，施放致命组歌、永生组歌、声骸技能时，下一枚获得的乐声会变为<color=Highlight>【乐声·彩乐】</color>。
+处于<color=Highlight>【定音】</color>状态时，无法获取<color=Highlight>【乐声】</color>。","<size=40><color=Title>Basic Attack - Movement of Fate and Finality</color></size>
+When in <color=Highlight>Reincarnate</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> on the ground to cast <color=Highlight>Movement of Fate and Finality</color>, which Stagnates the target, dealing <color=Dark>Havoc DMG</color> (considered <color=Highlight>Resonance Skill DMG</color>) and ending <color=Highlight>Reincarnate</color> afterward.
+<size=10></size>
+<size=40><color=Title>Resonance Skill - Murmurs in a Haunting Dream</color></size>
+When in <color=Highlight>Reincarnate</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Resonance Skill</color> on the ground to cast <color=Highlight>Murmurs in a Haunting Dream</color>, dealing <color=Dark>Havoc DMG</color> (considered <color=Highlight>Resonance Skill DMG</color>) and ending <color=Highlight>Reincarnate</color> afterward.
+<size=10></size>
+<size=40><color=Title>Aftersound</color></size>
+Phrolova can hold up to {0} stacks of Aftersound.
+When Phrolova is not the active Resonator, casting <color=Highlight>Enhanced Attack - Hecate: Strings</color>, <color=Highlight>Enhanced Attack - Hecate: Winds</color>, and <color=Highlight>Enhanced Attack - Hecate: Cadenza</color> grants <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Aftersound.
+When Phrolova is out of combat, all stacks of Aftersound are removed every {2}s.
+<size=10></size>
+<size=40><color=Title>Volatile Note</color></size>
+Phrolova can hold up to 6 <color=Highlight>Volatile Notes</color>. When <color=Highlight>Volatile Notes</color> reach the max number, gaining new <color=Highlight>Volatile Notes</color> moves all <color=Highlight>Volatile Notes</color> one slot to the left, and the leftmost <color=Highlight>Volatile Note - Strings</color> or <color=Highlight>Volatile Note - Winds</color> will be removed.
+Hitting a target with <color=Highlight>Basic Attack Stage 3</color> or <color=Highlight>Movement of Fate and Finality</color> grants 1 <color=Highlight>Volatile Note - Strings</color>.
+Hitting a target with Resonance Skill <color=Highlight>Whispers in a Fleeting Dream</color> or Resonance Skill <color=Highlight>Murmurs in a Haunting Dream</color> grants 1 <color=Highlight>Volatile Note - Winds</color>.
+When <color=Highlight>Inherent Skill - Accidental</color> is activated, casting Suite of Quietus, Suite of Immortality, or Echo Skill grants 1 <color=Highlight>Volatile Note - Cadenza</color>.
+Phrolova cannot obtain <color=Highlight>Volatile Notes</color> during <color=Highlight>Resolving Chord</color>.","<size=40><color=Title>Phổ Công - Nhạc Chương Vong Tử</color></size>
+Khi ở trạng thái <color=Highlight>Trùng Thế</color>, trên mặt đất nhấn nhanh <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Nhạc Chương Vong Tử</color>, khiến mục tiêu trúng chiêu bị đình trệ, sau đó gây <color=Dark>sát thương Giải Ly</color> lên mục tiêu, sát thương này được tính là <color=Highlight>sát thương Kỹ Năng Cộng Hưởng</color>.
+Khi thi triển sẽ thoát khỏi trạng thái <color=Highlight>Trùng Thế</color>.
+<size=10></size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Mộng Mị Bất Diệt</color></size>
+Khi ở trạng thái <color=Highlight>Trùng Thế</color>, trên mặt đất nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ thi triển <color=Highlight>Mộng Mị Bất Diệt</color>, gây <color=Dark>sát thương Giải Ly</color>, sát thương này được tính là <color=Highlight>sát thương Kỹ Năng Cộng Hưởng</color>.
+Khi thi triển sẽ thoát khỏi trạng thái <color=Highlight>Trùng Thế</color>.
+<size=10></size>
+<size=40><color=Title>Quy Tắc Nhận Dư Hưởng</color></size>
+Giới hạn Dư Hưởng là {0} tầng.
+Khi Phrolova không phải nhân vật đăng trường trong đội, thi triển <color=Highlight>Cường Hóa Tấn Công - Huyền Nhạc - Hecate</color>, <color=Highlight>Cường Hóa Tấn Công - Quản Nhạc - Hecate</color>, <color=Highlight>Cường Hóa Tấn Công - Thái Nhạc - Hecate</color> có thể nhận {1} tầng Dư Hưởng.
+Khi Phrolova ở trạng thái ngoài chiến đấu, mỗi {2} giây sẽ xóa toàn bộ tầng Dư Hưởng.
+<size=10></size>
+<size=40><color=Title>Quy Tắc Nhận [Nhạc Thanh]</color></size>
+Giới hạn <color=Highlight>[Nhạc Thanh]</color> là 6 viên, khi đạt giới hạn, nếu tiếp tục nhận <color=Highlight>[Nhạc Thanh]</color>, toàn bộ <color=Highlight>[Nhạc Thanh]</color> sẽ dịch sang trái 1 ô, <color=Highlight>[Nhạc Thanh - Huyền Nhạc]</color>, <color=Highlight>[Nhạc Thanh - Quản Nhạc]</color> ở vị trí ngoài cùng bên trái sẽ bị loại bỏ.
+Khi <color=Highlight>Phổ Công đoạn 3</color>, <color=Highlight>Nhạc Chương Vong Tử</color> trúng mục tiêu, có thể nhận 1 <color=Highlight>[Nhạc Thanh - Huyền Nhạc]</color>.
+Khi Kỹ Năng Cộng Hưởng <color=Highlight>Mộng Mị Thoáng Qua</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Mộng Mị Bất Diệt</color> trúng mục tiêu, có thể nhận 1 <color=Highlight>[Nhạc Thanh - Quản Nhạc]</color>.
+Sau khi kích hoạt <color=Highlight>Cố Hữu Kỹ - Biến Âm Phù</color>, khi thi triển Trí Mệnh Tổ Ca, Vĩnh Sinh Tổ Ca, Thanh Hài Kỹ, Nhạc Thanh tiếp theo nhận được sẽ trở thành <color=Highlight>[Nhạc Thanh - Thái Nhạc]</color>.
+Khi ở trạng thái <color=Highlight>[Định Âm]</color>, không thể nhận <color=Highlight>[Nhạc Thanh]</color>."
+lang_multi_text.db,MultiText,Skill_1003707_SkillName,新世界狂想曲,Rhapsody of a New World,Cuồng Tưởng Khúc Tân Thế Giới
+lang_multi_text.db,MultiText,Skill_1003707_SkillResume,"<size=40><color=Title>特殊能量机制</color></size>
+施放<color=Highlight>普攻第3段</color>或<color=Highlight>共鸣技能</color>时，可选择衔接施放<color=Highlight>强化普攻</color>或<color=Highlight>强化共鸣技能</color>，造成<color=Dark>湮灭伤害</color>，本次伤害为<color=Highlight>共鸣技能伤害</color>。
+<color=Highlight>普攻第3段</color>、<color=Highlight>强化普攻</color>可获得<color=Highlight>【特殊能量·红】</color>。
+<color=Highlight>共鸣技能</color>、<color=Highlight>强化共鸣技能</color>可获得<color=Highlight>【特殊能量·紫】</color>。
+<color=Highlight>强化状态</color>下，根据当前<color=Highlight>【特殊能量】</color>的颜色，使<color=Highlight>强化攻击·赫卡忒</color>获得不同效果。
+·<color=Highlight>【特殊能量·红】</color>：<color=Highlight>强化攻击·赫卡忒</color>可停滞目标。
+·<color=Highlight>【特殊能量·紫】</color>：<color=Highlight>强化攻击·赫卡忒</color>可牵引目标。
+·<color=Highlight>【特殊能量·彩】</color>：<color=Highlight>强化攻击·赫卡忒</color>可停滞并牵引目标。","<size=40><color=Title>Forte Gauge</color></size>
+<color=Highlight>Basic Attack Stage 3</color> and <color=Highlight>Resonance Skill</color> can be chained into <color=Highlight>Enhanced Basic Attack</color> or <color=Highlight>Enhanced Resonance Skill</color>, dealing <color=Dark>Havoc DMG</color>, considered <color=Highlight>Resonance Skill DMG</color>.
+Casting <color=Highlight>Basic Attack Stage 3</color> or <color=Highlight>Enhanced Basic Attack</color> grants <color=Highlight>Forte Gauge - Red</color>.
+Casting <color=Highlight>Resonance Skill</color> and <color=Highlight>Enhanced Resonance Skill</color> grants <color=Highlight>Forte Gauge - Purple</color>.
+In <color=Highlight>Enhanced State</color>, <color=Highlight>Enhanced Attack - Hecate</color> gains different buffs based on the color of the current <color=Highlight>Forte Gauge</color>.
+- <color=Highlight>Forte Gauge - Red</color>: <color=Highlight>Enhanced Attack - Hecate</color> Stagnates the targets.
+- <color=Highlight>Forte Gauge - Purple</color>: <color=Highlight>Enhanced Attack - Hecate</color> pulls the targets in.
+- <color=Highlight>Forte Gauge - Combined</color>: <color=Highlight>Enhanced Attack - Hecate</color> Stagnates and pulls the targets in.","<size=40><color=Title>Cơ Chế Năng Lượng Đặc Biệt</color></size>
+Khi thi triển <color=Highlight>Phổ Công đoạn 3</color> hoặc <color=Highlight>Kỹ Năng Cộng Hưởng</color>, có thể chọn nối tiếp thi triển <color=Highlight>Cường Hóa Phổ Công</color> hoặc <color=Highlight>Cường Hóa Kỹ Năng Cộng Hưởng</color>, gây <color=Dark>sát thương Giải Ly</color>, sát thương này được tính là <color=Highlight>sát thương Kỹ Năng Cộng Hưởng</color>.
+<color=Highlight>Phổ Công đoạn 3</color>, <color=Highlight>Cường Hóa Phổ Công</color> có thể nhận <color=Highlight>[Năng Lượng Đặc Biệt - Hồng]</color>.
+<color=Highlight>Kỹ Năng Cộng Hưởng</color>, <color=Highlight>Cường Hóa Kỹ Năng Cộng Hưởng</color> có thể nhận <color=Highlight>[Năng Lượng Đặc Biệt - Tử]</color>.
+Trong <color=Highlight>Trạng Thái Cường Hóa</color>, dựa vào màu sắc <color=Highlight>[Năng Lượng Đặc Biệt]</color> hiện tại, <color=Highlight>Cường Hóa Tấn Công - Hecate</color> sẽ nhận hiệu quả khác nhau.
+- <color=Highlight>[Năng Lượng Đặc Biệt - Hồng]</color>: <color=Highlight>Cường Hóa Tấn Công - Hecate</color> có thể đình trệ mục tiêu.
+- <color=Highlight>[Năng Lượng Đặc Biệt - Tử]</color>: <color=Highlight>Cường Hóa Tấn Công - Hecate</color> có thể kéo mục tiêu.
+- <color=Highlight>[Năng Lượng Đặc Biệt - Thái]</color>: <color=Highlight>Cường Hóa Tấn Công - Hecate</color> có thể đình trệ và kéo mục tiêu."
+lang_multi_text.db,MultiText,Skill_1003708_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1003708_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
 lang_multi_text.db,MultiText,Skill_1003709_MultiSkillDescribe,"附近队伍中激活延奏技能的角色湮灭伤害加深{0}，重击伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。
 弗洛洛处于<color=Highlight><te href=160804>指挥状态</te></color>时施放此技能，此次<color=Highlight>指挥状态</color>期间，弗洛洛切换至其他角色时，赫卡忒将额外施放{3}次<color=Highlight>强化攻击·赫卡忒</color>。","Nearby Resonators who activate Phrolova's Outro Skill gain {0} Havoc DMG Amplification and {1} Heavy Attack DMG Amplification for {2}s or until they are switched out.
@@ -364,7 +495,7 @@ Nhân vật trong lĩnh vực <color=Highlight>Mãn Nguyệt</color>: định k�
 <size=40><color=Title>Linh Tính</color></size>
 Iuno nhận được <color=Highlight>[Linh Tính]</color> khi thi triển Biến Tấu Kỹ, Giải Phóng Cộng Hưởng, <color=Highlight>Huyên Náo Cáo Chung</color> hoặc <color=Highlight>Huyên Náo Vị Tận</color>.
 Khi đòn tấn công trạng thái <color=Highlight>Huyền Nguyệt</color> trúng mục tiêu, nhận được <color=Highlight>[Linh Tính]</color>."
-lang_multi_text.db,MultiText,Skill_1003808_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1003808_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1003808_SkillResume,dnt/尤诺技能简述占位,Skill Placeholder,Skill Placeholder
 lang_multi_text.db,MultiText,Skill_1003809_MultiSkillDescribe,"附近队伍中激活尤诺延奏技能的角色的重击伤害加深{0}，持续{1}秒，若切换至其他角色则该效果提前结束。
 ·在施放<color=Highlight>重击·至臻的完满</color>的过程中触发延奏技能时，可对目标造成{2}的气动伤害。","When a nearby Resonator in the team activates Iuno's Outro Skill, they gain {0} Heavy Attack DMG Amplification for {1}s. This effect ends early if they are switched off the field.
@@ -737,7 +868,7 @@ Khi [Quyền Bính] đầy, <color=Highlight>Kỹ Năng Cộng Hưởng</color> 
 <size=10></size>
 <size=40><color=Title>Quy tắc nhận [Quyền Bính]</color></size>
 <color=Highlight>Công Thường</color>, <color=Highlight>Kỹ Năng Cộng Hưởng - Trảm Phong</color>, <color=Highlight>Biến Tấu Kỹ - Tuần Hành Chước Kim</color>, <color=Highlight>Giải Phóng Cộng Hưởng - Thệ Phong Bất Vẫn</color> có thể nhận được [Quyền Bính]."
-lang_multi_text.db,MultiText,Skill_1003908_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1003908_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1003908_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
 lang_multi_text.db,MultiText,Skill_1003908_SkillResume,dnt/技能简述占位,Skillful Cooking,Skillful Cooking
 lang_multi_text.db,MultiText,Skill_1003909_MultiSkillDescribe,"附近队伍中激活奥古斯塔延奏技能的角色获得如下效果，持续{0}秒，若切换至其他角色则这些效果提前结束：
@@ -1173,9 +1304,9 @@ Khi thi triển <color=Highlight>Biến Tấu Kỹ</color>, <color=Highlight>Đ�
 Trong <color=Highlight>Trạng thái Ngưỡng Hạn</color>, khi tất cả nhân vật trong đội hình gần đó thi triển Thanh Hài Kỹ, Galbrena hồi phục <color=Highlight>[Dư Hỏa]</color>, Thanh Hài cùng tên chỉ có thể kích hoạt 1 lần, hiệu ứng được đặt lại khi Galbrena thoát khỏi <color=Highlight>Ác Ma Vị Cách</color>.
 Khi thoát khỏi <color=Highlight>Ác Ma Vị Cách</color>, xóa toàn bộ <color=Highlight>[Dư Hỏa]</color>.
 Trong <color=Highlight>Trạng thái Ngưỡng Hạn</color>, khi <color=Highlight>các loại kỹ năng</color> trúng mục tiêu, hồi phục <color=Highlight>[Tội Hỏa]</color>."
-lang_multi_text.db,MultiText,Skill_1004008_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
-lang_multi_text.db,MultiText,Skill_1004008_SkillName,巧手烹调,Skillful Cooking,Nấu Nướng Khéo Tay
-lang_multi_text.db,MultiText,Skill_1004008_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1004008_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1004008_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1004008_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1004009_SkillDescribe,攻击目标，造成嘉贝莉娜79.5%*3+556.5%攻击的<color=Fire>热熔伤害</color>。,"Attack the target, dealing <color=Fire>Fusion DMG</color> equal to 79.5%*3+556.5% of Galbrena's ATK.","Tấn công mục tiêu, gây <color=Fire>sát thương Nhiệt Dung</color> bằng 79.5%*3+556.5% tấn công của Galbrena."
 lang_multi_text.db,MultiText,Skill_1004009_SkillName,驱猎逐烬,Ashen Pursuit,Khu Liệp Trục Tẫn
 lang_multi_text.db,MultiText,Skill_1004009_SkillResume,攻击目标，造成<color=Fire>热熔伤害</color>。,"Attack the target, dealing <color=Fire>Fusion DMG</color>.","Tấn công mục tiêu, gây <color=Fire>sát thương Nhiệt Dung</color>."
@@ -1214,88 +1345,3 @@ Tiêu hao thể lực thực hiện tấn công đáp xuống từ trên không,
 Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Phổ Công</color> sẽ tấn công mục tiêu, gây <color=Wind>sát thương Khí Động</color>, sát thương lần này được tính là sát thương Trọng Kích.
 Sau khi thi triển <color=Highlight>Phổ Công</color> và <color=Highlight>Trọng Kích</color>, trong khoảng thời gian nhất định nếu bị mục tiêu địch tấn công, miễn nhiễm sát thương lần đó và thi triển <color=Highlight>Phản Kích Né Tránh</color>, tấn công mục tiêu và gây <color=Wind>sát thương Khí Động</color>."
 lang_multi_text.db,MultiText,Skill_1004101_SkillName,质黑相青,Inkwash,Chất Hắc Tương Thanh
-lang_multi_text.db,MultiText,Skill_1004101_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Wind>气动伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-造成<color=Wind>气动伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-造成<color=Wind>气动伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Wind>气动伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Wind>Aero DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Deal <color=Wind>Aero DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Deal <color=Wind>Aero DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Wind>Aero DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
-Gây <color=Wind>sát thương Khí Động</color>.
-<size=10></size>
-<size=40><color=Title>Trọng Kích</color></size>
-Gây <color=Wind>sát thương Khí Động</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Gây <color=Wind>sát thương Khí Động</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Wind>sát thương Khí Động</color>."
-lang_multi_text.db,MultiText,Skill_1004102_SkillDescribe,"短按<color=Highlight>共鸣技能</color>，仇远向前突进一段距离，造成<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。即将受到敌方目标攻击时，施放<color=Highlight>共鸣技能</color>，免疫此次伤害并停滞周围敌人，此次<color=Highlight>共鸣技能</color>免疫打断。
-切换至其他角色时提前清除停滞效果。
-<size=10></size>
-<size=40><color=Title>不辞远</color></size>
-长按<color=Highlight>共鸣技能</color>，仇远向前突进一段距离，对目标造成<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。
-按住<color=Highlight>共鸣技能</color>时，若周围没有目标，仇远会升入空中向前奔袭并持续消耗耐力，奔袭可持续一段时间。在空中时，耐力耗尽或松开<color=Highlight>共鸣技能</color>将提前结束奔袭，奔袭结束时若周围有目标，会对目标造成<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。此技能可在空中施放。","{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> to dash forward for a distance, dealing <color=Wind>Aero DMG</color>, considered as Echo Skill DMG. If <color=Highlight>Resonance Skill</color> is cast upon being attacked by an enemy target, Qiuyuan becomes immune to this instance of DMG and stagnates nearby enemies, while gaining immunity to interruption during this <color=Highlight>Resonance Skill</color>.
-Switching to other Resonators removes the Stagnation effect from enemies.
-<size=10></size>
-<size=40><color=Title>Undaunted Wayfarer</color></size>
-Hold <color=Highlight>Resonance Skill</color> to dash forward for a distance at the cost of STA, dealing <color=Wind>Aero DMG</color> to the target, considered as Echo Skill DMG.
-If there are no targets nearby, Qiuyuan will leap up and dash through the air by continuously consuming STA until it runs out. Release <color=Highlight>Resonance Skill</color> to immediately end the dash and land. If there are targets nearby when Qiuyuan lands, deal <color=Wind>Aero DMG</color> to nearby targets, considered as Echo Skill DMG. This skill can be cast in mid-air.","Nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color>, Qiuyuan đột tiến về phía trước một đoạn, gây <color=Wind>sát thương Khí Động</color>, sát thương lần này được tính là sát thương Thanh Hài Kỹ. Khi sắp bị mục tiêu địch tấn công, thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ miễn nhiễm sát thương lần đó và đình trệ kẻ địch xung quanh, lần <color=Highlight>Kỹ Năng Cộng Hưởng</color> này miễn nhiễm gián đoạn.
-Khi chuyển sang nhân vật khác, hiệu ứng đình trệ sẽ bị xóa sớm.
-<size=10></size>
-<size=40><color=Title>Bất Từ Viễn</color></size>
-Giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, Qiuyuan đột tiến về phía trước một đoạn, gây <color=Wind>sát thương Khí Động</color> cho mục tiêu, sát thương lần này được tính là sát thương Thanh Hài Kỹ.
-Khi giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, nếu xung quanh không có mục tiêu, Qiuyuan sẽ bay lên không trung lao về phía trước và liên tục tiêu hao thể lực, có thể duy trì trong một khoảng thời gian. Khi ở trên không, hết thể lực hoặc thả <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ kết thúc sớm, khi kết thúc nếu xung quanh có mục tiêu sẽ gây <color=Wind>sát thương Khí Động</color> cho mục tiêu, sát thương lần này được tính là sát thương Thanh Hài Kỹ. Kỹ năng này có thể thi triển trên không."
-lang_multi_text.db,MultiText,Skill_1004102_SkillName,穿林打叶,Through the Groves,Xuyên Lâm Đả Diệp
-lang_multi_text.db,MultiText,Skill_1004102_SkillResume,"造成<color=Wind>气动伤害</color>。
-<size=10></size>
-<size=40><color=Title>不辞远</color></size>
-长按<color=Highlight>共鸣技能</color>，仇远向前突进一段距离，对目标造成<color=Wind>气动伤害</color>。
-按住<color=Highlight>共鸣技能</color>时，若周围没有目标，仇远会升入空中向前奔袭并持续消耗耐力，奔袭可持续一段时间。在空中时，耐力耗尽或松开<color=Highlight>共鸣技能</color>将提前结束奔袭，奔袭结束时若周围有目标，会对目标造成<color=Wind>气动伤害</color>","Deal <color=Wind>Aero DMG</color>.
-<size=10></size>
-<size=40><color=Title>Undaunted Wayfarer</color></size>
-Hold <color=Highlight>Resonance Skill</color> to dash forward for a distance, dealing <color=Wind>Aero DMG</color> to the target.
-If there are no targets nearby, Qiuyuan will leap up and dash through the air for a distance by continuously consuming STA until it runs out. Release <color=Highlight>Resonance Skill</color> to immediately end the dash and land.  If there are targets nearby when Qiuyuan lands, deal <color=Wind>Aero DMG</color> to nearby targets.","Gây <color=Wind>sát thương Khí Động</color>.
-<size=10></size>
-<size=40><color=Title>Bất Từ Viễn</color></size>
-Giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, Qiuyuan đột tiến về phía trước một đoạn, gây <color=Wind>sát thương Khí Động</color> cho mục tiêu.
-Khi giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, nếu xung quanh không có mục tiêu, Qiuyuan sẽ bay lên không trung lao về phía trước và liên tục tiêu hao thể lực, có thể duy trì trong một khoảng thời gian. Khi ở trên không, hết thể lực hoặc thả <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ kết thúc sớm, khi kết thúc nếu xung quanh có mục tiêu sẽ gây <color=Wind>sát thương Khí Động</color> cho mục tiêu."
-lang_multi_text.db,MultiText,Skill_1004103_SkillDescribe,"对范围内的目标造成<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。
-仇远暴击高于{0}时，每多出{1}暴击，施放该技能时，附近队伍中的登场角色提升{2}暴击伤害，持续{3}秒。最高可提升{4}暴击伤害。","Deal <color=Wind>Aero DMG</color> to targets within range, considered as Echo Skill DMG.
-For every {1} of Qiuyuan's Crit. Rate over {0}, this skill increases the Crit. DMG of all nearby active Resonators in the team by {2} for {3}s, up to {4}.","Gây <color=Wind>sát thương Khí Động</color> cho mục tiêu trong phạm vi, sát thương lần này được tính là sát thương Thanh Hài Kỹ.
-Khi tỷ lệ bạo kích của Qiuyuan cao hơn {0}, cứ mỗi {1} tỷ lệ bạo kích vượt quá, khi thi triển kỹ năng này, nhân vật đang ra trận trong đội hình gần đó được tăng {2} sát thương bạo kích, duy trì {3} giây. Tối đa có thể tăng {4} sát thương bạo kích."
-lang_multi_text.db,MultiText,Skill_1004103_SkillName,万钧一断,Sundering Strike,Vạn Quân Nhất Đoạn
-lang_multi_text.db,MultiText,Skill_1004103_SkillResume,"造成<color=Wind>气动伤害</color>。
-仇远暴击高于{0}时，每多出{1}暴击，施放该技能时，附近队伍中的登场角色提升{2}暴击伤害，持续{3}秒。最高可提升{4}暴击伤害。","Deal <color=Wind>Aero DMG</color>.
-For every {1} of Qiuyuan's Crit. Rate over {0}, this skill increases the Crit. DMG of all nearby active Resonators in the team by {2} for {3}s, maxed at {4}.","Gây <color=Wind>sát thương Khí Động</color>.
-Khi tỷ lệ bạo kích của Qiuyuan cao hơn {0}, cứ mỗi {1} tỷ lệ bạo kích vượt quá, khi thi triển kỹ năng này, nhân vật đang ra trận trong đội hình gần đó được tăng {2} sát thương bạo kích, duy trì {3} giây. Tối đa có thể tăng {4} sát thương bạo kích."
-lang_multi_text.db,MultiText,Skill_1004104_SkillDescribe,"进入【<te href=141102>淋漓醉墨</te>】状态时，仇远获得<color=Highlight>且从容</color>效果，持续{0}秒，该效果每{3}秒可触发1次。
-目标受到重击<color=Highlight>答剑·弦歌不辍</color>、<color=Highlight>答剑·割股之心</color>、<color=Highlight>答剑·忠烈死节</color>的伤害提升{1}。<color=Highlight>答剑·忠烈死节</color>在命中目标时，额外回复{2}点协奏能量。
-·切换至其他角色时，效果提前结束。","Qiuyuan obtains <color=Highlight>Quietude Within</color> for {0}s upon entering the <te href=141102>Inksplash of Mind</te> state. This effect can be triggered once every {3}s.
-Heavy Attack <color=Highlight>Thus Spoke the Blade: To Teach</color>, <color=Highlight>Thus Spoke the Blade: To Save</color>, and <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> deal {1} more DMG. <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> additionally restores <SapTag=2>{2}</SapTag> {Cus:Sap,S=point P=points SapTag=2} of Concerto Energy on hit.
-- This effect ends early when Qiuyuan is switched off the field.","Khi tiến vào trạng thái [<te href=141102>Lâm Li Túy Mặc</te>], Qiuyuan nhận được hiệu ứng <color=Highlight>Thả Thung Dung</color>, duy trì {0} giây, hiệu ứng này mỗi {3} giây có thể kích hoạt 1 lần.
-Sát thương mục tiêu nhận từ Trọng Kích <color=Highlight>Đáp Kiếm - Huyền Ca Bất Xuyết</color>, <color=Highlight>Đáp Kiếm - Cát Cổ Chi Tâm</color>, <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> tăng {1}. <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> khi trúng mục tiêu, hồi phục thêm {2} điểm năng lượng Hiệp Tấu.
-- Khi chuyển sang nhân vật khác, hiệu ứng kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1004104_SkillName,且从容,Quietude Within,Thả Thung Dung
-lang_multi_text.db,MultiText,Skill_1004104_SkillResume,"进入【<te href=141102>淋漓醉墨</te>】状态时，仇远获得<color=Highlight>且从容</color>效果，持续{0}秒，该效果每{3}秒可触发1次。
-目标受到重击<color=Highlight>答剑·弦歌不辍</color>、<color=Highlight>答剑·割股之心</color>、<color=Highlight>答剑·忠烈死节</color>的伤害提升{1}。<color=Highlight>答剑·忠烈死节</color>在命中目标时，额外回复{2}点协奏能量。
-·切换至其他角色时，效果提前结束。","Qiuyuan obtains <color=Highlight>Quietude Within</color> for {0}s upon entering the <te href=141102>Inksplash of Mind</te> state. This effect can be triggered once every {3}s.
-Heavy Attack <color=Highlight>Thus Spoke the Blade: To Teach</color>, <color=Highlight>Thus Spoke the Blade: To Save</color>, and <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> deal {1} more DMG. <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> additionally restores <SapTag=2>{2}</SapTag> {Cus:Sap,S=point P=points SapTag=2} of Concerto Energy on hit.
-- This effect ends early when Qiuyuan is switched off the field.","Khi tiến vào trạng thái [<te href=141102>Lâm Li Túy Mặc</te>], Qiuyuan nhận được hiệu ứng <color=Highlight>Thả Thung Dung</color>, duy trì {0} giây, hiệu ứng này mỗi {3} giây có thể kích hoạt 1 lần.
-Sát thương mục tiêu nhận từ Trọng Kích <color=Highlight>Đáp Kiếm - Huyền Ca Bất Xuyết</color>, <color=Highlight>Đáp Kiếm - Cát Cổ Chi Tâm</color>, <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> tăng {1}. <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> khi trúng mục tiêu, hồi phục thêm {2} điểm năng lượng Hiệp Tấu.
-- Khi chuyển sang nhân vật khác, hiệu ứng kết thúc sớm."

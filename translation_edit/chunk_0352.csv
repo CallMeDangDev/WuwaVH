@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ConfirmBox_251_Content,{0},{0},{0}
+lang_multi_text.db,MultiText,ConfirmBox_252_ButtonText_0,返回海墟,Return,Trở về Hải Khư
+lang_multi_text.db,MultiText,ConfirmBox_252_ButtonText_1,重新挑战,Restart,Thử lại
+lang_multi_text.db,MultiText,ConfirmBox_252_Content,【返回海墟】将清空当前进度并结束挑战，【重新挑战】将重新开启本轮挑战,[Return] to clear your current progress and end the challenge. [Restart] to try this level again.,"[Trở về Hải Khư] sẽ xóa tiến độ hiện tại và kết thúc thử thách, [Thử lại] sẽ bắt đầu lại lượt thử thách này"
+lang_multi_text.db,MultiText,ConfirmBox_252_Title,退出确认,Leave,Xác nhận thoát
+lang_multi_text.db,MultiText,ConfirmBox_253_Content,是否下船并返回码头？,Disembark and return to the dock?,Bạn có muốn xuống thuyền và trở về bến tàu không?
+lang_multi_text.db,MultiText,ConfirmBox_253_Title,下船提示,Disembark,Xuống thuyền
+lang_multi_text.db,MultiText,ConfirmBox_254_Content,是否确认返回大世界,Do you want to leave the and return to the overworld?,Bạn có xác nhận trở về thế giới không?
+lang_multi_text.db,MultiText,ConfirmBox_254_Title,退出确认,Leave,Xác nhận thoát
+lang_multi_text.db,MultiText,ConfirmBox_255_Content,该挑战当前被其他任务或挑战占用，请先前往完成对应任务或挑战,This challenge is currently blocked by another quest or challenge. Please complete the respective quests or challenges before continuing.,"Thử thách này hiện đang bị chiếm bởi nhiệm vụ hoặc thử thách khác, vui lòng hoàn thành nhiệm vụ hoặc thử thách tương ứng trước."
 lang_multi_text.db,MultiText,ConfirmBox_255_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_256_Content,海域周期已刷新,The sea cycle has been refreshed,Chu kỳ hải vực đã được làm mới
 lang_multi_text.db,MultiText,ConfirmBox_256_Title,提示,Notice,Thông báo
@@ -7,7 +17,7 @@ lang_multi_text.db,MultiText,ConfirmBox_257_Title,使用诱饵,Use Bait,Sử d�
 lang_multi_text.db,MultiText,ConfirmBox_258_Content,已放置诱饵数量达到上限，此次放置后将销毁第一个放置的诱饵，并消耗沙虫，是否确定？,You have reached the max limit of baits you can place. The first Sandworm will be removed. Continue?,"Số lượng mồi nhử đã đặt đạt giới hạn tối đa, lần đặt này sẽ hủy mồi nhử đầu tiên đã đặt và tiêu hao Giun Cát, bạn có chắc chắn không?"
 lang_multi_text.db,MultiText,ConfirmBox_258_Title,使用诱饵,Use Bait,Sử dụng mồi nhử
 lang_multi_text.db,MultiText,ConfirmBox_259_Content,是否确认快速回港？（不损失货舱物品）,Fast Travel to the dock? (Your Cargo will not be discarded),Bạn có muốn quay nhanh về cảng không? (Không mất vật phẩm trong khoang hàng)
-lang_multi_text.db,MultiText,ConfirmBox_259_Title,快速回港,Fast Travel to Dock,Quay nhanh về cảng
+lang_multi_text.db,MultiText,ConfirmBox_259_Title,快速回港,Fast Travel to Dock,Hồi Cảng Nhanh
 lang_multi_text.db,MultiText,ConfirmBox_25_Content,所选材料已经过谐振，请确认是否消耗材料<color=#8c7e51>{0}</color>将武器<color=#8c7e51>{1}</color>的谐振等阶提升至<color=#8c7e51>{2}</color>阶？,The selected material <color=#8c7e51>{0}</color> is Syntonized. Please confirm whether to consume it to Syntonize your <color=#8c7e51>{1}</color> weapon to Rank <color=#8c7e51>{2}</color>?,"Nguyên liệu đã chọn đã được hài chấn, xác nhận tiêu hao nguyên liệu <color=#8c7e51>{0}</color> để nâng cấp hài chấn của vũ khí <color=#8c7e51>{1}</color> lên hạng <color=#8c7e51>{2}</color>?"
 lang_multi_text.db,MultiText,ConfirmBox_25_Title,谐振,Syntonize,Hài Chấn
 lang_multi_text.db,MultiText,ConfirmBox_260_Content,是否确认刷新委托？,Do you wish to refresh the Requests?,Bạn có muốn làm mới ủy thác không?
@@ -35,10 +45,10 @@ Switch to Normal Mode?","[Chế độ thường] cho phép bạn trải nghiệm
 Bạn có muốn chuyển sang [Chế độ thường] không?"
 lang_multi_text.db,MultiText,ConfirmBox_267_Content,检测到当前正在使用移动网络下载资源包，流量资源消耗较大，是否继续下载资源包？,"You're currently using mobile data to download the resources, which may consume a large amount of data. Continue?","Phát hiện bạn đang sử dụng mạng di động để tải gói tài nguyên, việc này sẽ tiêu tốn nhiều dữ liệu. Bạn có muốn tiếp tục tải không?"
 lang_multi_text.db,MultiText,ConfirmBox_268_Content,检测到当前存储空间不足，当前预下载资源大小：{0}，总计需预留{1}的空间进行资源合成，该部分预留空间为临时占用，将在新版本维护完成后释放。,Insufficient storage space. Current pre-download package size: {0}. {1} of storage space is required in total to compile the resources. Temporary files will be removed to release the storage space after the version update.,Phát hiện dung lượng lưu trữ hiện tại không đủ. Kích thước tài nguyên tải trước hiện tại: {0}. Tổng cộng cần dự trữ {1} dung lượng để tổng hợp tài nguyên. Phần dung lượng dự trữ này chỉ là tạm thời và sẽ được giải phóng sau khi bảo trì phiên bản mới hoàn tất.
-lang_multi_text.db,MultiText,ConfirmBox_269_Content,队伍中玩家人数未满三人，需满三人开启比赛,A full team of 3 players is required to begin race,"Đội chưa đủ 3 người chơi, cần đủ 3 người để bắt đầu cuộc đua."
+lang_multi_text.db,MultiText,ConfirmBox_269_Content,队伍中玩家人数未满三人，需满三人开启比赛,A full team of 3 players is required to begin race,"Đội chưa đủ 3 người chơi, cần đủ 3 người để bắt đầu trận đấu"
 lang_multi_text.db,MultiText,ConfirmBox_26_Content,所选材料已经过强化，请确认是否消耗材料<color=#8c7e51>{0}</color>将武器<color=#8c7e51>{1}</color>的谐振等阶提升至<color=#8c7e51>{2}</color>阶？,The selected material <color=#8c7e51>{0}</color> is upgraded. Please confirm whether to consume it to Syntonize your <color=#8c7e51>{1}</color> weapon to Rank <color=#8c7e51>{2}</color>?,"Vật liệu đã chọn đã được cường hóa, xác nhận tiêu hao vật liệu <color=#8c7e51>{0}</color> để nâng cấp Hài Chấn vũ khí <color=#8c7e51>{1}</color> lên bậc <color=#8c7e51>{2}</color>?"
 lang_multi_text.db,MultiText,ConfirmBox_26_Title,谐振,Syntonize,Hài Chấn
-lang_multi_text.db,MultiText,ConfirmBox_270_ButtonText_0,退出游戏,Exit,Thoát game
+lang_multi_text.db,MultiText,ConfirmBox_270_ButtonText_0,退出游戏,Exit,Thoát trò chơi
 lang_multi_text.db,MultiText,ConfirmBox_270_ButtonText_1,返回登录,Return to Login,Quay về đăng nhập
 lang_multi_text.db,MultiText,ConfirmBox_270_Content,是否确定退出游戏？,Are you sure you want to exit the game?,Bạn có chắc chắn muốn thoát game không?
 lang_multi_text.db,MultiText,ConfirmBox_270_Title,提示,Notice,Thông báo
@@ -46,7 +56,7 @@ lang_multi_text.db,MultiText,ConfirmBox_271_ButtonText_0,取消,Cancel,Hủy
 lang_multi_text.db,MultiText,ConfirmBox_271_ButtonText_1,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_271_Content,是否要清空当前选择的负荷模组？,Do you want to reset the current Stress Modules?,Bạn có muốn xóa toàn bộ Mô-đun Tải Trọng đã chọn không?
 lang_multi_text.db,MultiText,ConfirmBox_271_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_272_Content,队伍中有成员未达到活动参加条件,Some team members do not meet the participation requirements.,Có thành viên trong đội chưa đạt điều kiện tham gia hoạt động.
+lang_multi_text.db,MultiText,ConfirmBox_272_Content,队伍中有成员未达到活动参加条件,Some team members do not meet the participation requirements.,Có thành viên trong đội chưa đạt điều kiện tham gia hoạt động
 lang_multi_text.db,MultiText,ConfirmBox_273_Content,显卡驱动版本过低，光追无法正常开启，请升级驱动版本,"To enable Ray Tracing, please update your graphics driver.","Phiên bản driver card đồ họa quá thấp, không thể bật Ray Tracing. Vui lòng cập nhật driver."
 lang_multi_text.db,MultiText,ConfirmBox_274_Content,{0},{0},{0}
 lang_multi_text.db,MultiText,ConfirmBox_276_ButtonText_0,确认离开,Confirm,Xác nhận rời đi
@@ -55,7 +65,7 @@ lang_multi_text.db,MultiText,ConfirmBox_277_ButtonText_0,取消,Cancel,Hủy
 lang_multi_text.db,MultiText,ConfirmBox_277_ButtonText_1,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_277_Content,当前负荷等级小于该情景的目标负荷等级，通关后无法获取对应模组，是否继续挑战?,Your current Stress Level is lower than the target Stress Level for this trial. You won't receive the corresponding modules upon completion. Continue anyway?,"Cấp Tải Trọng hiện tại thấp hơn cấp Tải Trọng mục tiêu của tình huống này. Sau khi hoàn thành, bạn sẽ không nhận được mô-đun tương ứng. Bạn có muốn tiếp tục thử thách không?"
 lang_multi_text.db,MultiText,ConfirmBox_277_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_278_Content,当前周期已刷新,Current cycle has been reset.,Chu kỳ hiện tại đã được làm mới.
+lang_multi_text.db,MultiText,ConfirmBox_278_Content,当前周期已刷新,Current cycle has been reset.,Chu kỳ hiện tại đã được làm mới
 lang_multi_text.db,MultiText,ConfirmBox_279_ButtonText_0,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_279_Content,由于当前客户端版本与多人游戏其他玩家不一致，已返回单人游戏。请稍后重新尝试。,Your client version does not match other players in Co-op Mode. You have been returned to Single-player Mode. Please try again later.,"Do phiên bản client hiện tại không khớp với người chơi khác trong chế độ nhiều người, bạn đã được đưa về chế độ chơi đơn. Vui lòng thử lại sau."
 lang_multi_text.db,MultiText,ConfirmBox_279_Title,提示,Notice,Thông báo
@@ -113,7 +123,7 @@ lang_multi_text.db,MultiText,ConfirmBox_289_Content,"传送将中断当前剧情
 <color=#ac8839>可从任务入口重新开始剧情</color>","Using Fast Travel will halt your current story progression. Do you wish to leave?
 <color=#ac8839>You may continue the story from the quest portal.</color>","Dịch chuyển sẽ gián đoạn trải nghiệm cốt truyện hiện tại, bạn có xác nhận rời đi không?
 <color=#ac8839>Có thể bắt đầu lại cốt truyện từ lối vào nhiệm vụ</color>"
-lang_multi_text.db,MultiText,ConfirmBox_28_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,ConfirmBox_28_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
 lang_multi_text.db,MultiText,ConfirmBox_28_Title,注入确认,Injection Confirm,Xác nhận tiêm
 lang_multi_text.db,MultiText,ConfirmBox_290_Content,当前关卡已完成，是否确认退出？,Stage completed. Do you wish to quit?,"Màn chơi hiện tại đã hoàn thành, bạn có xác nhận thoát không?"
 lang_multi_text.db,MultiText,ConfirmBox_291_Content,当前剧情已结束，是否确认退出？,Stage completed. Do you wish to quit?,"Cốt truyện hiện tại đã kết thúc, bạn có xác nhận thoát không?"
@@ -124,19 +134,3 @@ lang_multi_text.db,MultiText,ConfirmBox_294_Content,<alignleft/>开启该选项�
 lang_multi_text.db,MultiText,ConfirmBox_294_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_295_Content,现在退出演绎将不会保存进度，是否确认退出？,Your progress will not be saved. Continue?,"Thoát diễn dịch ngay bây giờ sẽ không lưu tiến trình, bạn có xác nhận thoát không?"
 lang_multi_text.db,MultiText,ConfirmBox_295_Title,退出演绎,Quit,Thoát diễn dịch
-lang_multi_text.db,MultiText,ConfirmBox_296_Content,当前为试玩关卡，退出将下载剩余完整内容，是否继续？,This is a preview level. Exit this level will download the full content. Continue?,"Đây là màn chơi thử, thoát sẽ tải xuống nội dung đầy đủ còn lại, bạn có muốn tiếp tục không?"
-lang_multi_text.db,MultiText,ConfirmBox_297_Content,"是否确认应援？
-
-*比赛将在今日服务器时间20:00正式开始","Confirm Support for this Cube?
-
-*The match will begin at 20:00 server time","Bạn có xác nhận ủng hộ không?
-
-*Trận đấu sẽ chính thức bắt đầu lúc 20:00 giờ máy chủ hôm nay"
-lang_multi_text.db,MultiText,ConfirmBox_297_Title,小团快跑,Cubie Derby,Cubie Derby
-lang_multi_text.db,MultiText,ConfirmBox_298_Content,是否确认取消应援？,Cancel Support for this Cube?,Bạn có xác nhận hủy ủng hộ không?
-lang_multi_text.db,MultiText,ConfirmBox_298_Title,小团快跑,Cubie Derby,Cubie Derby
-lang_multi_text.db,MultiText,ConfirmBox_299_Content,界面信息已过期，请刷新界面,Page info timed out. Please refresh this page,"Thông tin giao diện đã hết hạn, vui lòng làm mới giao diện"
-lang_multi_text.db,MultiText,ConfirmBox_299_Title,小团快跑,Cubie Derby,Cubie Derby
-lang_multi_text.db,MultiText,ConfirmBox_29_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
-lang_multi_text.db,MultiText,ConfirmBox_29_Title,确认替换,Confirm Replacement,Xác nhận thay thế
-lang_multi_text.db,MultiText,ConfirmBox_2_Content,武器强化材料中包含<color=#8c7e51>{0}</color>和<color=#8c7e51>{1}</color>的武器，请确认是否继续？,The selected material includes a <color=#8c7e51>{0}</color> and <color=#8c7e51>{1}</color> weapon. Please confirm whether to continue?,"Vật liệu cường hóa vũ khí bao gồm vũ khí <color=#8c7e51>{0}</color> và <color=#8c7e51>{1}</color>, bạn có xác nhận tiếp tục không?"

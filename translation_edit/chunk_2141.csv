@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Text_Quest_Chapter_Name_Text,{0}·{1},{0} - {1},{0} . {1}
+lang_multi_text.db,MultiText,Text_QuickInsertion_Text,快捷放入,Add All,Bỏ nhanh
+lang_multi_text.db,MultiText,Text_QuitExplore_Text,退出探索,Exit Exploration,Thoát Khám Phá
+lang_multi_text.db,MultiText,Text_ReChallenge_Text,重新挑战,Retry Challenge,Thử lại
+lang_multi_text.db,MultiText,Text_ReachInputMaxNum_Text,已达到可输入字符上限，只能输入 {0} 个字符。,"Reached the maximum number of characters that can be entered, only {0} characters can be entered.","Đã đạt giới hạn ký tự có thể nhập, chỉ được nhập tối đa {0} ký tự."
+lang_multi_text.db,MultiText,Text_ReachMaxLevelStage_Text,已到当前等阶上限,Max Rank Reached,Đã đạt giới hạn cấp bậc hiện tại
+lang_multi_text.db,MultiText,Text_ReachMaxLevel_Text,已到当前等级上限,Max level reached,Đã đạt giới hạn cấp độ hiện tại
+lang_multi_text.db,MultiText,Text_ReachReviveCount_Text,达到意识恢复次数上限,Limit for knockout revival reached,Đã đạt giới hạn số lần hồi phục ý thức
+lang_multi_text.db,MultiText,Text_ReagentProduction_Text,药剂制作,Potion Making,Chế tạo dược phẩm
+lang_multi_text.db,MultiText,Text_RebornTime_Text,{0}后自动恢复意识,Automatically revive after {0}...,Tự động hồi phục ý thức sau {0}
 lang_multi_text.db,MultiText,Text_ReceiveLevelPlayPowerNotEnough_Text,结晶波片不足，无法获取奖励，请补充结晶波片后再尝试。,"Insufficient Waveplate, unable to obtain rewards, please replenish Waveplate and try again.","Không đủ Kết Tinh Ba Phiến, không thể nhận thưởng. Vui lòng bổ sung Kết Tinh Ba Phiến rồi thử lại."
 lang_multi_text.db,MultiText,Text_ReceivedCountWindowTips_Text,本周剩余可收取次数：{0}/{1},Challenge Attempts This Week: {0}/{1},Số lượt thu thập còn lại trong tuần: {0}/{1}
 lang_multi_text.db,MultiText,Text_ReceivedCount_Text,本周收取次数：<color=#c19f51>{0}</color>,Weekly Limit: <color=#c19f51>{0}</color>,Số lượt thu thập trong tuần: <color=#c19f51>{0}</color>
@@ -9,7 +19,7 @@ lang_multi_text.db,MultiText,Text_RecoverySelect_Text,已选择模块{0}/{1},Sel
 lang_multi_text.db,MultiText,Text_RecoveryTimes_Text,获得团子特制曲奇：{0}个,Acquired Special Cube Cookies: {0},Nhận được Bánh quy đặc chế Đoàn Tử: {0} cái
 lang_multi_text.db,MultiText,Text_RefreshText_Text,{0}后刷新,Resets after {0},Làm mới sau {0}
 lang_multi_text.db,MultiText,Text_RefreshText_Text01,将在1分钟内刷新,Refresh in 1 minute,Sẽ làm mới trong 1 phút
-lang_multi_text.db,MultiText,Text_RefreshTime_Text,刷新倒计时：{0},Reset In: {0},Đếm ngược làm mới: {0}
+lang_multi_text.db,MultiText,Text_RefreshTime_Text,刷新倒计时：{0},Reset In: {0},Thời gian làm mới: {0}
 lang_multi_text.db,MultiText,Text_RefuseInviteMatch_Text,{0}拒绝了邀请,{0} has declined the invitation,{0} đã từ chối lời mời
 lang_multi_text.db,MultiText,Text_RegionFirstOpenTips_Text,存在异常，如有疑问请联系官方客服。,"An anomaly has occurred, please contact the official customer service if you have any questions.","Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
 lang_multi_text.db,MultiText,Text_RegionQuestAccept_Text,存在异常，如有疑问请联系官方客服。,"An anomaly has occurred, please contact the official customer service if you have any questions.","Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
@@ -48,11 +58,11 @@ lang_multi_text.db,MultiText,Text_ReviveItemNotClick_Text,请选择用于恢复�
 lang_multi_text.db,MultiText,Text_ReviveItemTips_Text,{0}秒后恢复意识,Revival in {0} seconds...,Hồi phục ý thức sau {0} giây
 lang_multi_text.db,MultiText,Text_ReviveTrainingItemBad_Text,亟需提升,NOVICE,Cần nâng cấp gấp
 lang_multi_text.db,MultiText,Text_ReviveTrainingItemEquipLevel_Text,声骸等级,Echoes Level,Cấp Thanh Hài
-lang_multi_text.db,MultiText,Text_ReviveTrainingItemGood_Text,建议提升,INTERMEDIATE,Nên nâng cấp
+lang_multi_text.db,MultiText,Text_ReviveTrainingItemGood_Text,建议提升,INTERMEDIATE,Đề xuất nâng cấp
 lang_multi_text.db,MultiText,Text_ReviveTrainingItemGreat_Text,可提升,ADVANCED,Có thể nâng cấp
 lang_multi_text.db,MultiText,Text_ReviveTrainingItemNormal_Text,推荐提升,AVERAGE,Khuyến nghị nâng cấp
-lang_multi_text.db,MultiText,Text_ReviveTrainingItemRoleLevel_Text,角色等级,Character Level,Cấp nhân vật
-lang_multi_text.db,MultiText,Text_ReviveTrainingItemSkillLevel_Text,技能等级,Skill Level,Cấp kỹ năng
+lang_multi_text.db,MultiText,Text_ReviveTrainingItemRoleLevel_Text,角色等级,Character Level,Cấp Nhân Vật
+lang_multi_text.db,MultiText,Text_ReviveTrainingItemSkillLevel_Text,技能等级,Skill Level,Cấp Kỹ Năng
 lang_multi_text.db,MultiText,Text_ReviveTrainingItemWeaponLevel_Text,武器等级,Weapon Level,Cấp vũ khí
 lang_multi_text.db,MultiText,Text_RewardPreview_Text,奖励预览,Rewards Preview,Xem trước phần thưởng
 lang_multi_text.db,MultiText,Text_RightAreaTeamText_Text,右侧,To the right,Bên phải
@@ -61,7 +71,7 @@ lang_multi_text.db,MultiText,Text_Rogue_Achievement_Count,异常调查,Anomaly I
 lang_multi_text.db,MultiText,Text_Rogue_ChallengeSuccess_Text,首次通关,First Clear,Thông quan lần đầu
 lang_multi_text.db,MultiText,Text_Rogue_Difficulty_Process,当前难度,Current Difficulty,Độ khó hiện tại
 lang_multi_text.db,MultiText,Text_Rogue_Score,<color=#c49e55>{0}</color>/{1},<color=#c49e55>{0}</color>/{1},<color=#c49e55>{0}</color>/{1}
-lang_multi_text.db,MultiText,Text_Rogue_Shop_Count,异想商店,Illusive Store,Cửa hàng Dị Tưởng
+lang_multi_text.db,MultiText,Text_Rogue_Shop_Count,异想商店,Illusive Store,Cửa Hàng Dị Tưởng
 lang_multi_text.db,MultiText,Text_Rogue_Time,剩余时间,Time Remaining,Thời gian còn lại
 lang_multi_text.db,MultiText,Text_Rogue_Week_Score,异想标本,Illusive Specimen,Tiêu bản Dị Tưởng
 lang_multi_text.db,MultiText,Text_RoleActiveRoleFirst_Text,存在异常，如有疑问请联系官方客服。,An error occurred. For inquiries please contact customer support.,"Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,Text_RoleLevelUp_Text,升级,Level Up,Nâng cấp
 lang_multi_text.db,MultiText,Text_RoleLevel_Text,%s,%s,%s
 lang_multi_text.db,MultiText,Text_RoleMaxLevel01_Text,已满级,Max Level Reached,Đã đạt cấp tối đa
 lang_multi_text.db,MultiText,Text_RoleMaxLevel02_Text,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_RoleMaxLevelPreview_Text,满级预览,Max Level Preview,Xem trước cấp tối đa
-lang_multi_text.db,MultiText,Text_RoleNewEffect_Text,新效果,New Effect,Hiệu ứng mới
-lang_multi_text.db,MultiText,Text_RoleNoMaterial_Text,材料不足,Insufficient Materials,Không đủ nguyên liệu
-lang_multi_text.db,MultiText,Text_RoleNoMoney_Text,贝币不足,Insufficient Shell Credit,Không đủ Bối Tệ
-lang_multi_text.db,MultiText,Text_RolePhantomTrialTips_Text,试用角色无法查看声骸详情,Cannot check Echo details of Trial Character,Không thể xem chi tiết Thanh Hài của nhân vật dùng thử
-lang_multi_text.db,MultiText,Text_RoleQuestGoto_Text,前往,Proceed,Đi đến
-lang_multi_text.db,MultiText,Text_RoleReachMaxLevel_Text,已到达当前等级上限,Max level reached,Đã đạt giới hạn cấp độ hiện tại
-lang_multi_text.db,MultiText,Text_RoleResonActive_Text,激活,Activate,Kích hoạt
-lang_multi_text.db,MultiText,Text_RoleResonMaxValue_Text,达到最大值,Reach the maximum value,Đã đạt giá trị tối đa
-lang_multi_text.db,MultiText,Text_RoleResonNeedActive_Text,需要先激活{0},Activate {0} first,Cần kích hoạt {0} trước

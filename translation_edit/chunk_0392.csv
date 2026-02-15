@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillDes_Jinxi,如果头顶堆叠其他团子，有40%的概率移动到所有团子的最上方。,"If other Cubes are stacked on top of Jinhsi, there is a 40% chance she will move to the top of the stack.","Nếu có Dango khác xếp chồng trên đầu, có 40% xác suất di chuyển lên trên cùng của tất cả Dango."
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillDes_Kakaluo,开始移动时，如果在最后一名，额外前进3格。,"If Calcharo is the last to move, he advances 3 extra pads.","Khi bắt đầu di chuyển, nếu đang ở vị trí cuối cùng, tiến thêm 3 ô."
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillDes_Kanteleila,移动过程中首次遇到团子时，会和此格子所有团子堆叠，在本回合一起移动。每场比赛最多触发1次。,"The first time Cantarella passes by other Cubes, she stacks with them and carries them forward. This can only be triggered once per match.","Lần đầu tiên gặp viên đoàn tử khác trong quá trình di chuyển, sẽ xếp chồng với tất cả đoàn tử trên ô đó và cùng di chuyển trong lượt này. Mỗi trận tối đa kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillDes_Katixiya,每场比赛最多触发1次。自身移动结束后，若处于最后一名，本场比赛剩余回合都会60%概率额外前进2格。,"If ranked last after own action, there is a 60% chance to advance 2 extra pads in all remaining turns. This can only be triggered once in each match.","Mỗi trận tối đa kích hoạt 1 lần. Sau khi kết thúc di chuyển, nếu đang ở vị trí cuối cùng, tất cả lượt còn lại trong trận sẽ có 60% xác suất tiến thêm 2 ô."
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillDes_Kelaita,28%概率以骰子的步数前进2次。,There is a 28% chance to advance twice with the rolled number.,28% xác suất tiến 2 lần với số bước từ xúc xắc.
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillDes_Luokeke,如果是最后一个移动，额外前进2格。,"If Roccia is the last to move, she advances 2 extra pads.","Nếu là người di chuyển cuối cùng, tiến thêm 2 ô."
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillDes_Shouanren,骰子只会掷出2或3。,The dice will only roll a 2 or 3.,Xúc xắc chỉ tung ra 2 hoặc 3.
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillDes_Zanni,骰子只会掷出1或3。开始移动时，如果处于堆叠状态，下回合有40%概率额外前进2格。,"The dice will only roll a 1 or 3. When moving with other Cubes stacking above, there is a 40% chance to advance 2 extra pads next turn.","Xúc xắc chỉ tung ra 1 hoặc 3. Khi bắt đầu di chuyển, nếu đang ở trạng thái xếp chồng, lượt tiếp theo có 40% xác suất tiến thêm 2 ô."
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillShortDes_Bulante,第一个移动，<color=Highlight>额外前进2格</color>,<color=Highlight>Advance 2 extra pads</color>  as the first one to move.,"Di chuyển đầu tiên, <color=Highlight>tiến thêm 2 ô</color>"
+lang_multi_text.db,MultiText,Dango_SkillPage_SkillShortDes_Changli,下一回合<color=Highlight>最后一个行动</color>,<color=Highlight>Become the last one to move</color> in next round.,Lượt tiếp theo <color=Highlight>hành động cuối cùng</color>
 lang_multi_text.db,MultiText,Dango_SkillPage_SkillShortDes_Chun,独自行动，额外前进当前格子团子数量的步数,Move separately and advance extra pads equal to the number of other Cubes on the pad.,"Hành động riêng lẻ, tiến thêm số bước bằng số đoàn tử trên ô hiện tại"
 lang_multi_text.db,MultiText,Dango_SkillPage_SkillShortDes_Feibi,本回合<color=Highlight>额外前进1格</color>,Advance <color=Highlight>1 extra pad</color> in this turn.,Lượt này <color=Highlight>tiến thêm 1 ô</color>
 lang_multi_text.db,MultiText,Dango_SkillPage_SkillShortDes_Jinxi,移动到所有团子的<color=Highlight>最上方</color>,Stack <color=Highlight>on top of all Cubes</color>,Di chuyển lên <color=Highlight>trên cùng</color> của tất cả đoàn tử
@@ -14,26 +24,26 @@ lang_multi_text.db,MultiText,Dango_Title,周年庆典,Anniversary,Lễ Kỷ Ni�
 lang_multi_text.db,MultiText,DarkCoastDelivery_Desc_1,"特殊个体。因数据异常而诞生的咕咕河豚，拥有巨大的体型和恐怖的破坏力。
 咕咕河豚本是常见的轻波级残像，然而在异常数据的影响下，该个体获得了超群的战斗力和暴躁的脾性，建议各位共鸣者保持安全距离。","A unique Tacet Discord. This Gulpuff is born from anomalous data, possessing an enormous size and terrifying destructive power. 
 
-While Gulpuffs are generally regarded as Common Class Tacet Discords, this one has acquired exceptional combat ability and a violent temper due to the influence of anomalous data. Maintaining a safe distance is advised.","Cá thể đặc biệt. Một con Cá Nóc Gù Gù sinh ra từ dữ liệu dị thường, sở hữu thân hình khổng lồ và sức phá hoại đáng sợ.
-Cá Nóc Gù Gù vốn là loại Tàn Tượng cấp Khinh Ba thường gặp, nhưng dưới ảnh hưởng của dữ liệu dị thường, cá thể này đã có được sức chiến đấu vượt trội và tính tình hung bạo. Khuyến cáo các Cộng Hưởng Giả hãy giữ khoảng cách an toàn."
+While Gulpuffs are generally regarded as Common Class Tacet Discords, this one has acquired exceptional combat ability and a violent temper due to the influence of anomalous data. Maintaining a safe distance is advised.","Cá thể đặc biệt. Một con Cá Nóc Cù Cù sinh ra từ dữ liệu dị thường, sở hữu thân hình khổng lồ và sức phá hủy kinh hoàng.
+Cá Nóc Cù Cù vốn là Tàn Tượng cấp Khinh Ba phổ biến, tuy nhiên dưới ảnh hưởng của dữ liệu dị thường, cá thể này đã có được sức chiến đấu vượt trội và tính khí hung bạo, khuyến cáo các Cộng Hưởng Giả giữ khoảng cách an toàn."
 lang_multi_text.db,MultiText,DarkCoastDelivery_Desc_2,"特殊群体。因数据异常而聚集起来的游弋蝶们，拥有一定组织协作能力。
 游弋蝶这种残像个体实力弱小，聚集在一起却能化为风暴。
 具有难以忽视的强大战斗力。","Unique cluster of Tacet Discords. A swarm of Cruisewings bunched together due to anomalous data, exhibiting a certain extent of teamwork.
 
 While individual Cruisewings are weak, their combined forces can create a powerful storm.
 
-This swarm possesses formidable combat abilities that should not be underestimated.","Nhóm đặc biệt. Những con Bướm Du Duệ tụ tập lại do dữ liệu dị thường, sở hữu khả năng phối hợp tổ chức nhất định.
-Bướm Du Duệ là loại Tàn Tượng có sức chiến đấu cá thể yếu ớt, nhưng khi tụ lại có thể hóa thành bão tố.
-Chúng có sức chiến đấu mạnh mẽ không thể xem thường."
+This swarm possesses formidable combat abilities that should not be underestimated.","Nhóm đặc biệt. Những con Bướm Du Dịch tập hợp lại do dữ liệu dị thường, sở hữu khả năng phối hợp tổ chức nhất định.
+Tàn Tượng Bướm Du Dịch đơn lẻ thực lực yếu ớt, nhưng khi tụ lại có thể hóa thành bão tố.
+Sở hữu sức chiến đấu mạnh mẽ không thể xem thường."
 lang_multi_text.db,MultiText,DarkCoastDelivery_Desc_3,"特殊个体。因数据异常而诞生的鸣泣战士，拥有超乎想象的战斗技巧。
 手上的双刃如同拥有生命般，精准地寻觅着对手攻击架势中的空隙。
 究竟是模仿了谁的频率，才能使剑术达到这种境界。","A unique Tacet Discord. This Fusion Warrior is born from anomalous data, possessing combat skills beyond imagination.
 
 Its dual-wielded blades, replacing its arms, appear almost sentient, exploiting every weakness in an opponent's stance.
 
-The specific frequency it mimicked to achieve such mastery in swordsmanship remains a mystery.","Cá thể đặc biệt. Một Minh Khấp Chiến Sĩ sinh ra từ dữ liệu dị thường, sở hữu kỹ thuật chiến đấu vượt xa trí tưởng tượng.
-Đôi lưỡi kiếm trên tay nó như thể có sinh mệnh riêng, chính xác tìm ra kẽ hở trong thế tấn công của đối thủ.
-Rốt cuộc đã mô phỏng tần số của ai mà có thể đạt đến cảnh giới kiếm thuật như vậy."
+The specific frequency it mimicked to achieve such mastery in swordsmanship remains a mystery.","Cá thể đặc biệt. Một Chiến Sĩ Minh Khấp sinh ra từ dữ liệu dị thường, sở hữu kỹ thuật chiến đấu vượt ngoài sức tưởng tượng.
+Đôi lưỡi trên tay nó như có sinh mệnh riêng, chính xác tìm ra kẽ hở trong thế tấn công của đối thủ.
+Rốt cuộc nó đã mô phỏng tần số của ai mà kiếm thuật có thể đạt đến cảnh giới này."
 lang_multi_text.db,MultiText,DarkCoastDelivery_Desc_4,"特殊个体。因数据异常而诞生的磐石守卫。拥有能够一拳打穿层岩的能力。
 动作缓慢，却与之相对地暗藏了毁灭性的力道。
 最朴实的攻击，最纯粹的暴力。","A unique Tacet Discord. This Rocksteady Guardian is born from anomalous data, capable of smashing through multiple rock layers with a single blow. 
@@ -47,15 +57,15 @@ lang_multi_text.db,MultiText,DarkCoastDelivery_Desc_5,"特殊群体。因数据�
 它们手中乐器的声音像是来自地狱的嗟叹和怨愤。
 仿佛只要听到那个声音，就会沾染不幸。","Unique group of Tacet Discords. Two Tambourinists are fused together due to anomalous data, possessing frequencies of unimaginable intensity.
 
-The sounds of their musical instruments are like the wails and resentments from the abyss—so haunting that merely hearing them might bring misfortune.","Nhóm đặc biệt. Hai Chấn Đạc Nhạc Sư tụ lại do dữ liệu dị thường, sở hữu cường độ tần số vượt xa trí tưởng tượng.
-Âm thanh từ nhạc cụ trong tay chúng như tiếng than thở và oán hận vọng ra từ địa ngục.
-Dường như chỉ cần nghe thấy âm thanh ấy, người ta sẽ nhiễm phải bất hạnh."
+The sounds of their musical instruments are like the wails and resentments from the abyss—so haunting that merely hearing them might bring misfortune.","Nhóm đặc biệt. Hai Nhạc Sư Chấn Đạc tập hợp lại do dữ liệu dị thường, sở hữu cường độ tần số vượt ngoài sức tưởng tượng.
+Âm thanh từ nhạc cụ trong tay chúng như tiếng than thở và oán hận từ địa ngục.
+Dường như chỉ cần nghe thấy thanh âm ấy, sẽ bị vấy bẩn bởi bất hạnh."
 lang_multi_text.db,MultiText,DarkCoastDelivery_Item_0,背包中没有库卡斯卡带,No KU-Cass Cartridge Found in the Backpack,Không có Băng KU-Cass trong ba lô
-lang_multi_text.db,MultiText,DarkCoastDelivery_Name_1,棘刺河豚,Hedgepuff,Hà Đồn Gai Nhọn
-lang_multi_text.db,MultiText,DarkCoastDelivery_Name_2,游弋风暴,Cyclone Swarm,Bão Du Duệ
+lang_multi_text.db,MultiText,DarkCoastDelivery_Name_1,棘刺河豚,Hedgepuff,Cá Nóc Gai
+lang_multi_text.db,MultiText,DarkCoastDelivery_Name_2,游弋风暴,Cyclone Swarm,Bão Tố Du Duệ
 lang_multi_text.db,MultiText,DarkCoastDelivery_Name_3,鸣泣之刃,Blazing Cutlass,Lưỡi Minh Khấp
 lang_multi_text.db,MultiText,DarkCoastDelivery_Name_4,山脉护卫,Alptop Champion,Hộ Vệ Sơn Mạch
-lang_multi_text.db,MultiText,DarkCoastDelivery_Name_5,嗟怨乐师,Tambourine Duo,Nhạc Sư Oán Thán
+lang_multi_text.db,MultiText,DarkCoastDelivery_Name_5,嗟怨乐师,Tambourine Duo,Nhạc Sư Ta Oán
 lang_multi_text.db,MultiText,DarkCoastDelivery_Reward,数据中心等级{0}级,Data Hub Lv. {0},Trung Tâm Dữ Liệu cấp {0}
 lang_multi_text.db,MultiText,DarkCoastDelivery_Unlock_1,数据中心等级Lv.1解锁,Reach Data Hub Lv. 1 to unlock,Mở khóa khi Trung Tâm Dữ Liệu đạt Lv.1
 lang_multi_text.db,MultiText,DarkCoastDelivery_Unlock_2,数据中心等级Lv.2解锁,Reach Data Hub Lv. 2 to unlock,Mở khóa khi Trung Tâm Dữ Liệu đạt Lv.2
@@ -63,7 +73,7 @@ lang_multi_text.db,MultiText,DarkCoastDelivery_Unlock_3,数据中心等级Lv.3�
 lang_multi_text.db,MultiText,DarkCoastDelivery_Unlock_4,数据中心等级Lv.4解锁,Reach Data Hub Lv. 4 to unlock,Mở khóa khi Trung Tâm Dữ Liệu đạt Lv.4
 lang_multi_text.db,MultiText,DarkCoastDelivery_Unlock_5,数据中心等级Lv.5解锁,Reach Data Hub Lv. 5 to unlock,Mở khóa khi Trung Tâm Dữ Liệu đạt Lv.5
 lang_multi_text.db,MultiText,DarkShoreBossFirst_Text,首通奖励,First-Clear Rewards,Phần thưởng thông quan lần đầu
-lang_multi_text.db,MultiText,DarkShoreBossRewardGet,已首通,First Clear Completed,Đã thông quan lần đầu
+lang_multi_text.db,MultiText,DarkShoreBossRewardGet,已首通,First Clear Completed,Đã hoàn thành lần đầu
 lang_multi_text.db,MultiText,DarkShoreBossRewardNotGet,奖励待领取,Unclaimed reward,Phần thưởng chờ nhận
 lang_multi_text.db,MultiText,DarkShoreBossReward_Text,宝箱,Supply Chest,Rương báu
 lang_multi_text.db,MultiText,DarkShoreRewardGet,领取,Claim,Nhận
@@ -90,31 +100,31 @@ lang_multi_text.db,MultiText,Day_birthday_18,18,18,18
 lang_multi_text.db,MultiText,Day_birthday_19,19,19,19
 lang_multi_text.db,MultiText,Day_birthday_2,2,2,2
 lang_multi_text.db,MultiText,Day_birthday_20,20,20,20
-lang_multi_text.db,MultiText,Day_birthday_21,21,21,21
+lang_multi_text.db,MultiText,Day_birthday_21,21,21,21.0
 lang_multi_text.db,MultiText,Day_birthday_22,22,22,22
-lang_multi_text.db,MultiText,Day_birthday_23,23,23,23
-lang_multi_text.db,MultiText,Day_birthday_24,24,24,24
+lang_multi_text.db,MultiText,Day_birthday_23,23,23,23.0
+lang_multi_text.db,MultiText,Day_birthday_24,24,24,24.0
 lang_multi_text.db,MultiText,Day_birthday_25,25,25,25
 lang_multi_text.db,MultiText,Day_birthday_26,26,26,26
 lang_multi_text.db,MultiText,Day_birthday_27,27,27,27
 lang_multi_text.db,MultiText,Day_birthday_28,28,28,28
 lang_multi_text.db,MultiText,Day_birthday_29,29,29,29
 lang_multi_text.db,MultiText,Day_birthday_3,3,3,3
-lang_multi_text.db,MultiText,Day_birthday_30,30,30,30
+lang_multi_text.db,MultiText,Day_birthday_30,30,30,30.0
 lang_multi_text.db,MultiText,Day_birthday_31,31,31,31
 lang_multi_text.db,MultiText,Day_birthday_4,4,4,4
 lang_multi_text.db,MultiText,Day_birthday_5,5,5,5
 lang_multi_text.db,MultiText,Day_birthday_6,6,6,6
 lang_multi_text.db,MultiText,Day_birthday_7,7,7,7
 lang_multi_text.db,MultiText,Day_birthday_8,8,8,8
-lang_multi_text.db,MultiText,Day_birthday_9,9,9,9
+lang_multi_text.db,MultiText,Day_birthday_9,9,9,9.0
 lang_multi_text.db,MultiText,DefaultLoginNotice,登录失败，请尝试重启客户端并重新登录。,"Login failed, please try to restart the client and log in again.","Đăng nhập thất bại, vui lòng thử khởi động lại ứng dụng và đăng nhập lại."
 lang_multi_text.db,MultiText,DefaultLoginTitle,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,DeleteSelect,清除,Remove,Xóa
 lang_multi_text.db,MultiText,DeliverSlotCountNotEnough,<color=#c25757>{0}</color>/{1},<color=#c25757>{0}</color>/{1},<color=#c25757>{0}</color>/{1}
-lang_multi_text.db,MultiText,DetectionDropDownType_title_1,筛选查看各等级奖励,Filter to view rewards for each Phase,Lọc xem phần thưởng từng cấp
+lang_multi_text.db,MultiText,DetectionDropDownType_title_1,筛选查看各等级奖励,Filter to view rewards for each Phase,Lọc để xem phần thưởng từng cấp độ.
 lang_multi_text.db,MultiText,DetectionDropDownType_title_2,合鸣套装筛选,Sonata set filter,Lọc bộ Hợp Minh
-lang_multi_text.db,MultiText,DetectionText_0_Text,轻波级,Common Class,Hạng Khinh Ba
+lang_multi_text.db,MultiText,DetectionText_0_Text,轻波级,Common Class,Khinh Ba Cấp
 lang_multi_text.db,MultiText,DetectionText_10_Text,中型无音区·递质（废弃）,Medium Tacet Field - Transmitter,Vùng Vô Thanh trung - Đệ Chất (Đã hủy)
 lang_multi_text.db,MultiText,DetectionText_11_Text,中型无音区·武器（废弃）,Medium Tacet Field - Weapon,Vùng Vô Thanh trung - Vũ Khí (Đã hủy)
 lang_multi_text.db,MultiText,DetectionText_12_Text,中型无音区·声骸（废弃）,Medium Tacet Field - Echo,Vùng Vô Thanh trung - Thanh Hài (Đã hủy)
@@ -122,14 +132,4 @@ lang_multi_text.db,MultiText,DetectionText_13_Text,中型无音区·黑石（废
 lang_multi_text.db,MultiText,DetectionText_14_Text,异变生物,Mutant Organism,Sinh vật dị biến
 lang_multi_text.db,MultiText,DetectionText_15_Text,人类,Human,Con người
 lang_multi_text.db,MultiText,DetectionText_16_Text,残象,Tacet Discord,Tàn Tượng
-lang_multi_text.db,MultiText,DetectionText_17_Text,存在异常，如有疑问请联系官方客服,Major Tacet Field,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ hỗ trợ chính thức"
-lang_multi_text.db,MultiText,DetectionText_18_Text,异想奇境,Illusive Realm,Dị Tưởng Kỳ Cảnh
-lang_multi_text.db,MultiText,DetectionText_19_SubText,产出经验材料,EXP Materials,Nhận vật liệu kinh nghiệm
-lang_multi_text.db,MultiText,DetectionText_19_Text,模拟领域,Simulation Challenge,Mô Phỏng Lĩnh Vực
-lang_multi_text.db,MultiText,DetectionText_1_Text,巨浪级,Elite Class,Hạng Cự Lãng
-lang_multi_text.db,MultiText,DetectionText_20_Text,其他,Other,Khác
-lang_multi_text.db,MultiText,DetectionText_21_SubText,产出共鸣者突破材料,Resonator Ascension Materials,Sản xuất vật liệu đột phá Cộng Hưởng Giả
-lang_multi_text.db,MultiText,DetectionText_21_Text,讨伐强敌,Boss Challenge,Thảo Phạt Cường Địch
-lang_multi_text.db,MultiText,DetectionText_22_SubText,产出声骸材料,Echo Materials,Sản xuất vật liệu Thanh Hài
-lang_multi_text.db,MultiText,DetectionText_22_Text,无音清剿,Tacet Suppression,Vô Thanh Truy Quét
-lang_multi_text.db,MultiText,DetectionText_23_Text,梦魇,Nightmare,Mộng Yểm
+lang_multi_text.db,MultiText,DetectionText_17_Text,存在异常，如有疑问请联系官方客服,Major Tacet Field,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"

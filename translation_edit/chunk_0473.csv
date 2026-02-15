@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_2000071_Text,队伍中有试用角色时，无法邀请同行,Trial Resonator on the team. Cannot invite,Không thể mời đồng hành khi trong đội có nhân vật dùng thử.
+lang_multi_text.db,MultiText,ErrorCode_2000077_Text,深联车队物资箱领取超过上限,Spacetrek Convoy Supply Chest claim limit reached,Đã nhận vượt giới hạn rương vật tư Đoàn Xe Thâm Liên.
+lang_multi_text.db,MultiText,ErrorCode_200007_Text,"角色未激活, 无法操作",Player not activated. Operation failed.,"Nhân vật chưa kích hoạt, không thể thao tác."
+lang_multi_text.db,MultiText,ErrorCode_200008_Text,突破等级不足,Level too low for Rank up,Cấp đột phá không đủ
+lang_multi_text.db,MultiText,ErrorCode_200009_Text,"等级不足, 无法突破",Level too low for Rank up,"Cấp không đủ, không thể đột phá"
+lang_multi_text.db,MultiText,ErrorCode_200010_Text,执行函数异常,Execution function error,Lỗi thực thi hàm
+lang_multi_text.db,MultiText,ErrorCode_200011_Text,角色不可兑换,Character not available for exchange,Nhân vật không thể đổi
+lang_multi_text.db,MultiText,ErrorCode_200012_Text,角色共鸣未激活,Resonance unactivated,Cộng hưởng nhân vật chưa kích hoạt
+lang_multi_text.db,MultiText,ErrorCode_200013_Text,角色共鸣已激活,Resonance activated,Cộng hưởng nhân vật đã kích hoạt
+lang_multi_text.db,MultiText,ErrorCode_200014_Text,经验物品配置错误,EXP item configuration error,Lỗi cấu hình vật phẩm kinh nghiệm
 lang_multi_text.db,MultiText,ErrorCode_200015_Text,"等级达到最高, 无法升级",Level limit reached. Cannot level up,"Đã đạt cấp tối đa, không thể nâng cấp"
 lang_multi_text.db,MultiText,ErrorCode_200016_Text,角色前置共鸣未激活,Prerequisite Resonance unactivated,Cộng hưởng tiên quyết của nhân vật chưa kích hoạt
 lang_multi_text.db,MultiText,ErrorCode_200017_Text,角色解锁条件找不到,Failed to find unlock condition,Không tìm thấy điều kiện mở khóa nhân vật
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_200094_Text,声骸技能操作错误,Oper
 lang_multi_text.db,MultiText,ErrorCode_200095_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_200096_Text,技能轮盘中有重复技能,You cannot pick the same Skill multiple times on Skill Wheel,Có kỹ năng trùng lặp trong vòng xoay kỹ năng
 lang_multi_text.db,MultiText,ErrorCode_200097_Text,道具配置不存在,Item configuration does not exist,Cấu hình vật phẩm không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_200098_Text,道具不存在,Item does not exist,Vật phẩm không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_200099_Text,道具数量不足,Insufficient item,Số lượng vật phẩm không đủ
-lang_multi_text.db,MultiText,ErrorCode_200100_Text,道具不支持分解操作,Item cannot be salvaged,Vật phẩm không hỗ trợ thao tác phân giải
-lang_multi_text.db,MultiText,ErrorCode_200101_Text,"等级不足, 无法使用道具",Level too low to use Item,"Cấp độ không đủ, không thể sử dụng vật phẩm"
-lang_multi_text.db,MultiText,ErrorCode_200102_Text,道具不支持锁定操作,Item cannot be locked,Vật phẩm không hỗ trợ thao tác khóa
-lang_multi_text.db,MultiText,ErrorCode_200103_Text,"道具添加失败, 参数错误",Failed to add Item. Parameter error,"Thêm vật phẩm thất bại, lỗi tham số"
-lang_multi_text.db,MultiText,ErrorCode_200104_Text,"道具分解失败, 参数错误",Failed to salvage Item. Parameter error,"Phân giải vật phẩm thất bại, lỗi tham số"
-lang_multi_text.db,MultiText,ErrorCode_200105_Text,"道具使用失败, 参数错误",Failed to use Item. Parameter error,"Sử dụng vật phẩm thất bại, lỗi tham số"
-lang_multi_text.db,MultiText,ErrorCode_200106_Text,结晶波片不足，无法获取奖励，请补充结晶波片后再尝试,Insufficient Waveplates. Please refill your Waveplates to claim rewards,"Không đủ Kết Tinh Ba Phiến, không thể nhận thưởng. Vui lòng bổ sung Kết Tinh Ba Phiến rồi thử lại"
-lang_multi_text.db,MultiText,ErrorCode_200107_Text,"消耗{0}{1}, 成功兑换奖励",Reward claimed for {0}{1},"Tiêu hao {0}{1}, đổi thưởng thành công"

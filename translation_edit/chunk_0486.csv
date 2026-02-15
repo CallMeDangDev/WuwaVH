@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_500035_Text,不是子任务节点,Not a subtask node,Không phải nút nhiệm vụ phụ
+lang_multi_text.db,MultiText,ErrorCode_500036_Text,节点找不到该行为,Node cannot find this behavior,Không tìm thấy hành vi tại nút này
+lang_multi_text.db,MultiText,ErrorCode_500037_Text,该节点行为已经完成,This node behavior has been completed,Hành vi của nút này đã hoàn thành
+lang_multi_text.db,MultiText,ErrorCode_500038_Text,获取任务道具行为道具类型不对,Mission item claiming behavior incorrect item type,Loại đạo cụ trong hành vi nhận đạo cụ nhiệm vụ không đúng
+lang_multi_text.db,MultiText,ErrorCode_500039_Text,获取任务道具行为背包空间不足,Mission item claiming behavior insufficient backpack space,Hành vi nhận đạo cụ nhiệm vụ không đủ dung lượng ba lô
+lang_multi_text.db,MultiText,ErrorCode_500040_Text,无效的Blackboard类型,Invalid Blackboard type,Loại Blackboard không hợp lệ
+lang_multi_text.db,MultiText,ErrorCode_500041_Text,找不到定时器,Timer not found,Không tìm thấy bộ hẹn giờ
+lang_multi_text.db,MultiText,ErrorCode_500042_Text,前置条件不满足,Preconditions not met,Điều kiện tiên quyết chưa đáp ứng
+lang_multi_text.db,MultiText,ErrorCode_500043_Text,找不交付道具数据,Data of item to be delivered not found,Không tìm thấy dữ liệu đạo cụ cần giao nộp
+lang_multi_text.db,MultiText,ErrorCode_500044_Text,不是失败节点,Not a failed node,Không phải nút thất bại
 lang_multi_text.db,MultiText,ErrorCode_500045_Text,没有失败配置,No failed configuration,Không có cấu hình thất bại
 lang_multi_text.db,MultiText,ErrorCode_500046_Text,没有配置为可放弃,No configuration is disposable,Không được cấu hình là có thể từ bỏ
 lang_multi_text.db,MultiText,ErrorCode_500047_Text,当前任务状态不可以回退,Current mission states cannot be rolled back,Trạng thái nhiệm vụ hiện tại không thể hoàn tác
@@ -19,13 +29,13 @@ lang_multi_text.db,MultiText,ErrorCode_50_Text,没有对应用户信息，请重
 lang_multi_text.db,MultiText,ErrorCode_51_Text,用户信息查询失败，请重新尝试。,"User information query failed, please try again.","Truy vấn thông tin người dùng thất bại, vui lòng thử lại."
 lang_multi_text.db,MultiText,ErrorCode_52_Text,区服选择失败，请尝试其他区服。,"Zone selection failed, please try another zone.","Chọn khu vực máy chủ thất bại, vui lòng thử khu vực khác."
 lang_multi_text.db,MultiText,ErrorCode_53_Text,服务器异常，请稍后再试。,"Server exception, please try again later.","Máy chủ gặp sự cố, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_54_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Lỗi mạng, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_55_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Lỗi mạng, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_56_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Lỗi mạng, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_54_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Mạng bất thường, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_55_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Mạng bất thường, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_56_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Mạng bất thường, vui lòng thử lại sau."
 lang_multi_text.db,MultiText,ErrorCode_57_Text,操作频率过快，请稍后再试。,Request too frequent. Please try again later.,"Thao tác quá nhanh, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_58_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Lỗi mạng, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_59_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Lỗi mạng, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_5_Text,服务器当前人数已满载，请耐心等候。,Max capacity reached in current server. Please try again later.,"Máy chủ hiện tại đã đầy, vui lòng kiên nhẫn chờ đợi."
+lang_multi_text.db,MultiText,ErrorCode_58_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Mạng bất thường, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_59_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Mạng bất thường, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_5_Text,服务器当前人数已满载，请耐心等候。,Max capacity reached in current server. Please try again later.,"Máy chủ hiện đã đầy, vui lòng kiên nhẫn chờ đợi."
 lang_multi_text.db,MultiText,ErrorCode_600000_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_600001_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_600002_Text,角色未激活,Resonator not activated,Nhân vật chưa được kích hoạt
@@ -68,7 +78,7 @@ lang_multi_text.db,MultiText,ErrorCode_600038_Text,玩法没有被创建,Gamepla
 lang_multi_text.db,MultiText,ErrorCode_600039_Text,玩家已领取玩法奖励,Gameplay rewards already claimed,Người chơi đã nhận phần thưởng gameplay
 lang_multi_text.db,MultiText,ErrorCode_600040_Text,玩法不是交互类型,Gameplay is not interactive,Gameplay không thuộc loại tương tác
 lang_multi_text.db,MultiText,ErrorCode_600041_Text,玩法找不到玩家,Gameplay cannot find player,Gameplay không tìm thấy người chơi
-lang_multi_text.db,MultiText,ErrorCode_600042_Text,玩法未完成,Not complete yet,Gameplay chưa hoàn thành
+lang_multi_text.db,MultiText,ErrorCode_600042_Text,玩法未完成,Not complete yet,Chế độ chơi chưa hoàn thành
 lang_multi_text.db,MultiText,ErrorCode_600043_Text,玩法奖励兑换失败,Failed to redeem gameplay rewards,Đổi phần thưởng gameplay thất bại
 lang_multi_text.db,MultiText,ErrorCode_600044_Text,玩法状态不是Wait,Gameplay not waiting,Trạng thái gameplay không phải Wait
 lang_multi_text.db,MultiText,ErrorCode_600045_Text,玩法行为参数转换错误,Gameplay behavior parameter conversion error,Lỗi chuyển đổi tham số hành vi gameplay
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_600059_Text,存在异常，如有疑问�
 lang_multi_text.db,MultiText,ErrorCode_600060_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_600061_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,ErrorCode_600062_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600063_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600064_Text,联机状态下无法进行交互,Unable to interact in Co-Op Mode,Không thể tương tác trong trạng thái liên mạng
-lang_multi_text.db,MultiText,ErrorCode_600065_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600066_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600067_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600068_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600069_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600070_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600071_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,ErrorCode_600072_Text,存在异常，如有疑问请联系官方客服,An exception occurred. Please contact customer support for help.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"

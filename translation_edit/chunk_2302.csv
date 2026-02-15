@@ -1,4 +1,64 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_skill.db,Skill,106,<color=#ffffff>每次施放<color=#f4d582>普攻·咩咩</color>或<color=#f4d582>共鸣技能·剪羊毛</color>，热熔伤害加成提升20%。</color>,,"<color=#ffffff>Mỗi lần thi triển <color=#f4d582>Phổ Công - Bê Bê</color> hoặc <color=#f4d582>Kỹ Năng Cộng Hưởng - Xén Lông Cừu</color>, sát thương Nhiệt Dung tăng thêm 20%.</color>"
+lang_skill.db,Skill,107,咩咩队集合,,Đội Bê Bê Tập Hợp
+lang_skill.db,Skill,108,<color=#ffffff>与黑咩一起从天而降，攻击目标，造成<color=#e15226ff>热熔伤害</color>。</color>,,"<color=#ffffff>Cùng Cừu Đen giáng xuống từ trên cao, tấn công mục tiêu, gây <color=#e15226ff>sát thương Nhiệt Dung</color>.</color>"
+lang_skill.db,Skill,109,黑白羊咩,,Cừu Bê Đen Trắng
+lang_skill.db,Skill,110,"<color=#ffffff><color=#d4bf5f>重击·白咩·失控之炎</color>
+当安可【失序值】攒满时，使用<color=#f4d582>重击</color>后，安可会进入失序状态，并触发队友的<color=#f4d582>连携技能</color>。
+失控状态结束后，安可会施放失控之炎，造成<color=#e15226ff>热熔伤害</color>，此次伤害为重击伤害。
+
+<color=#d4bf5f>重击·黑咩·暴走之炎</color>
+暴走黑咩期间，长按<color=#f4d582>共鸣解放·羊咩大暴走</color>，安可会进入黑咩无序状态，并触发队友的<color=#f4d582>连携技能</color>。
+黑咩无序状态结束后，安可消耗所有的【失序值】，施放暴走之炎，造成<color=#e15226ff>热熔伤害</color>，此次伤害为重击伤害。
+
+<color=#d4bf5f>失序值获取规则</color>
+<color=#f4d582>常态攻击</color>命中目标时，恢复【失序值】。
+<color=#f4d582>共鸣技能·羊咩剪刀</color>命中目标时，恢复【失序值】。
+<color=#f4d582>共鸣技能·剪羊毛</color>命中目标时，恢复【失序值】。
+<color=#f4d582>共鸣解放·羊咩大暴走</color>期间命中目标时，恢复【失序值】。</color>",,"<color=#ffffff><color=#d4bf5f>Trọng Kích - Cừu Trắng - Ngọn Lửa Mất Kiểm</color>
+Khi [Thất Tự Trị] của Encore đầy, sau khi sử dụng <color=#f4d582>Trọng Kích</color>, Encore sẽ rơi vào trạng thái thất tự và kích hoạt <color=#f4d582>Liên Hiệp Kỹ</color> của đồng đội.
+Sau khi trạng thái mất kiểm soát kết thúc, Encore sẽ thi triển Ngọn Lửa Mất Kiểm, gây <color=#e15226ff>sát thương Nhiệt Dung</color>, sát thương này tính là sát thương Trọng Kích.
+
+<color=#d4bf5f>Trọng Kích - Cừu Đen - Ngọn Lửa Bạo Tẩu</color>
+Trong thời gian Cừu Đen bạo tẩu, nhấn giữ <color=#f4d582>Giải Phóng Cộng Hưởng - Cừu Bê Đại Bạo Tẩu</color>, Encore sẽ rơi vào trạng thái Cừu Đen vô tự và kích hoạt <color=#f4d582>Liên Hiệp Kỹ</color> của đồng đội.
+Sau khi trạng thái Cừu Đen vô tự kết thúc, Encore tiêu hao toàn bộ [Thất Tự Trị], thi triển Ngọn Lửa Bạo Tẩu, gây <color=#e15226ff>sát thương Nhiệt Dung</color>, sát thương này tính là sát thương Trọng Kích.
+
+<color=#d4bf5f>Quy tắc nhận Thất Tự Trị</color>
+Khi <color=#f4d582>Công Thường</color> trúng mục tiêu, hồi phục [Thất Tự Trị].
+Khi <color=#f4d582>Kỹ Năng Cộng Hưởng - Kéo Cừu Bê</color> trúng mục tiêu, hồi phục [Thất Tự Trị].
+Khi <color=#f4d582>Kỹ Năng Cộng Hưởng - Xén Lông Cừu</color> trúng mục tiêu, hồi phục [Thất Tự Trị].
+Trong thời gian <color=#f4d582>Giải Phóng Cộng Hưởng - Cừu Bê Đại Bạo Tẩu</color> trúng mục tiêu, hồi phục [Thất Tự Trị].</color>"
+lang_skill.db,Skill,111,巧手烹调,,Khéo Tay Nấu Nướng
+lang_skill.db,Skill,112,<color=#ffffff>烹饪强化生存类菜肴时，有20%概率返还所有食材。</color>,,"<color=#ffffff>Khi nấu món ăn loại sinh tồn cường hóa, có 20% tỷ lệ hoàn trả toàn bộ nguyên liệu.</color>"
+lang_skill.db,Skill,113,飞花落叶,,Phi Hoa Lạc Diệp
+lang_skill.db,Skill,114,"<color=#ffffff><color=#d4bf5f>普攻</color>
+丹槿依照古谱·飞花落叶的招式，进行最多3段连续攻击。
+
+<color=#d4bf5f>重击</color>
+丹槿将自身异能与手中之刃结合，消耗一定耐力，发动连续攻击。
+
+<color=#d4bf5f>空中攻击</color>
+消耗一定耐力，从空中向下攻击，造成<color=#e649a6>解离伤害</color>。
+
+<color=#d4bf5f>闪避反击</color>
+<color=#f4d582>闪避</color>成功后一定时间内，丹槿可参照剑谱使用<color=#f4d582>普攻</color>，发动攻击。
+
+<color=#d4bf5f>闪避反击·逐影</color>
+闪避反击成功后，丹槿可接上<color=#f4d582>共鸣技能·朱华残章</color>，点按2次共鸣技能触发<color=#f4d582>共鸣技能·朱蚀</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Phổ Công</color>
+Danjin theo chiêu thức cổ phổ - Phi Hoa Lạc Diệp, thực hiện tối đa 3 đoạn tấn công liên tục.
+
+<color=#d4bf5f>Trọng Kích</color>
+Danjin kết hợp dị năng bản thân với lưỡi kiếm trong tay, tiêu hao một lượng thể lực nhất định, phát động tấn công liên tục.
+
+<color=#d4bf5f>Tấn công trên không</color>
+Tiêu hao một lượng thể lực nhất định, tấn công xuống từ trên không, gây <color=#e649a6>sát thương Giải Ly</color>.
+
+<color=#d4bf5f>Né Phản Kích</color>
+Sau khi <color=#f4d582>Né Tránh</color> thành công trong khoảng thời gian nhất định, Danjin có thể tham chiếu kiếm phổ sử dụng <color=#f4d582>Phổ Công</color> để phát động tấn công.
+
+<color=#d4bf5f>Né Phản Kích - Trục Ảnh</color>
+Sau khi Né Phản Kích thành công, Danjin có thể nối tiếp <color=#f4d582>Kỹ Năng Cộng Hưởng - Chu Hoa Tàn Chương</color>, nhấn 2 lần Kỹ Năng Cộng Hưởng để kích hoạt <color=#f4d582>Kỹ Năng Cộng Hưởng - Chu Thực</color>.</color>"
+lang_skill.db,Skill,115,朱华残章,,Chu Hoa Tàn Chương
 lang_skill.db,Skill,116,"<color=#ffffff>每次使用朱华残章的招式，丹槿消耗当前生命值20%。
 
 <color=#d4bf5f>花殷</color>
@@ -368,8 +428,8 @@ Khi <color=#f4d582>Công Thường - Áp Ức Tự Khúc</color>, <color=#f4d582
 </color>"
 lang_skill.db,Skill,191,精密纯化,,Tinh Mật Thuần Hóa
 lang_skill.db,Skill,192,<color=#ffffff>纯化武器升级材料时，有10%概率获得双倍相同材料。</color>,,"<color=#ffffff>Khi thuần hóa vật liệu nâng cấp vũ khí, có 10% xác suất nhận được gấp đôi vật liệu tương tự.</color>"
-lang_skill.db,Skill,207,巧手烹调,,Nấu Nướng Khéo Tay
-lang_skill.db,Skill,223,巧手烹调,,Nấu Nướng Khéo Tay
+lang_skill.db,Skill,207,巧手烹调,,Khéo Tay Nấu Nướng
+lang_skill.db,Skill,223,巧手烹调,,Khéo Tay Nấu Nướng
 lang_skill.db,Skill,225,悬丝寻迹,,Huyền Ti Tầm Tích
 lang_skill.db,Skill,226,"<color=#ffffff><color=#d4bf5f>普攻</color>
 操纵小家伙进行最多4段连续攻击，造成<color=#9656d8ff>导电伤害</color>。第4段命中目标时，为1个目标附加【罚印】。
@@ -407,81 +467,3 @@ lang_skill.db,Skill,232,<color=#ffffff>【罚印】附着的持续时间延长�
 lang_skill.db,Skill,233,潜在目标,,Mục Tiêu Tiềm Tàng
 lang_skill.db,Skill,234,<color=#ffffff>吟霖未登场时，其导电伤害加成每秒提升3%，最多可叠加6层，效果持续4秒。</color>,,"<color=#ffffff>Khi Yinlin không ra trận, bonus sát thương Dẫn Điện của cô tăng 3% mỗi giây, tối đa cộng dồn 6 tầng, hiệu ứng kéo dài 4 giây.</color>"
 lang_skill.db,Skill,235,指尖悲叹,,Bi Thán Đầu Ngón Tay
-lang_skill.db,Skill,236,"<color=#ffffff>吟霖操纵小家伙攻击目标，造成<color=#9656d8ff>导电伤害</color>，并为自身恢复2个【罚印】，命中携带【罚印】的目标时，回收【罚印】。
-回收【罚印】时，额外造成<color=#9656d8ff>导电伤害</color>，此次伤害为普攻伤害。</color>",,"<color=#ffffff>Yinlin điều khiển tiểu gia hỏa tấn công mục tiêu, gây <color=#9656d8ff>sát thương Dẫn Điện</color>, đồng thời hồi phục 2 [Phạt Ấn] cho bản thân. Khi đánh trúng mục tiêu mang [Phạt Ấn], sẽ thu hồi [Phạt Ấn].
-Khi thu hồi [Phạt Ấn], gây thêm <color=#9656d8ff>sát thương Dẫn Điện</color>, sát thương này tính là sát thương Phổ Công.</color>"
-lang_skill.db,Skill,237,审判室哀鸣,,Ai Minh Phòng Phán Xét
-lang_skill.db,Skill,238,"<color=#ffffff>吟霖离场时，消耗所有【罚印】，每消耗1点【罚印】，小家伙会额外进行1段攻击，造成<color=#9656d8ff>导电伤害</color>，此次伤害为共鸣技能伤害。
-
-<color=#d4bf5f>罚印的附加规则</color>
-<color=#f4d582>普攻第4段</color>命中目标时，为1个目标附加1层【罚印】。
-<color=#f4d582>共鸣技能·掌中之物</color>命中目标时，至多为2个目标分别附加1层【罚印】。
-单个目标最多可以叠加2层【罚印】。
-
-<color=#d4bf5f>【罚印】的回收规则</color>
-<color=#f4d582>重击</color>命中目标时，回收【罚印】。
-<color=#f4d582>连携技能·指尖悲叹</color>命中目标时，回收【罚印】。</color>",,"<color=#ffffff>Khi Yinlin rời trận, tiêu hao toàn bộ [Phạt Ấn], mỗi 1 điểm [Phạt Ấn] tiêu hao, tiểu gia hỏa sẽ thực hiện thêm 1 đợt tấn công, gây <color=#9656d8ff>sát thương Dẫn Điện</color>, sát thương này tính là sát thương Kỹ Năng Cộng Hưởng.
-
-<color=#d4bf5f>Quy tắc gắn Phạt Ấn</color>
-Khi <color=#f4d582>Phổ Công đoạn 4</color> đánh trúng mục tiêu, gắn 1 tầng [Phạt Ấn] lên 1 mục tiêu.
-Khi <color=#f4d582>Kỹ Năng Cộng Hưởng - Vật Trong Tay</color> đánh trúng mục tiêu, gắn tối đa 1 tầng [Phạt Ấn] lên mỗi mục tiêu, tối đa 2 mục tiêu.
-Mỗi mục tiêu tối đa cộng dồn 2 tầng [Phạt Ấn].
-
-<color=#d4bf5f>Quy tắc thu hồi [Phạt Ấn]</color>
-Khi <color=#f4d582>Trọng Kích</color> đánh trúng mục tiêu, thu hồi [Phạt Ấn].
-Khi <color=#f4d582>Liên Hiệp Kỹ - Bi Thán Đầu Ngón Tay</color> đánh trúng mục tiêu, thu hồi [Phạt Ấn].</color>"
-lang_skill.db,Skill,239,精密纯化,,Tinh Mật Thuần Hóa
-lang_skill.db,Skill,240,<color=#ffffff>纯化异能升级材料时，有10%概率返还所有原材料。</color>,,"<color=#ffffff>Khi nâng cấp vật liệu dị năng thuần hóa, có 10% xác suất hoàn trả toàn bộ nguyên liệu.</color>"
-lang_skill.db,Skill,241,雷煌拳,,Lôi Hoàng Quyền
-lang_skill.db,Skill,242,"<color=#ffffff><color=#d4bf5f>普攻</color>
-以刚劲有力的拳脚，进行最多5段连续攻击。
-
-<color=#d4bf5f>重击</color>
-消耗一定耐力，向前冲撞攻击目标。
-
-<color=#d4bf5f>空中攻击</color>
-消耗一定耐力，从空中跃起向下攻击，造成<color=#9656d8ff>导电伤害</color>。
-
-<color=#d4bf5f>闪避反击</color>
-成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会攻击目标，造成<color=#9656d8ff>导电伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Phổ Công</color>
-Dùng quyền cước cương mãnh, thực hiện tối đa 5 đợt tấn công liên tục.
-
-<color=#d4bf5f>Trọng Kích</color>
-Tiêu hao một lượng thể lực nhất định, lao về phía trước tấn công mục tiêu.
-
-<color=#d4bf5f>Tấn Công Trên Không</color>
-Tiêu hao một lượng thể lực nhất định, bật nhảy từ trên không tấn công xuống dưới, gây <color=#9656d8ff>sát thương Dẫn Điện</color>.
-
-<color=#d4bf5f>Phản Kích Né Tránh</color>
-Sau khi <color=#f4d582>Né Tránh</color> thành công, sử dụng <color=#f4d582>Phổ Công</color> trong khoảng thời gian nhất định sẽ tấn công mục tiêu, gây <color=#9656d8ff>sát thương Dẫn Điện</color>.</color>"
-lang_skill.db,Skill,243,拳震凌武,,Quyền Chấn Lăng Vũ
-lang_skill.db,Skill,244,"<color=#ffffff><color=#d4bf5f>枯夜之楔</color>
-点按拳震凌武，渊武召唤枯夜之楔，造成<color=#9656d8ff>导电伤害</color>，并以枯夜之楔为中心，形成<color=#f4d582>无光雷区</color>。
-枯夜之楔持续时间10秒。
-
-<color=#d4bf5f>无光雷区</color>
-队伍中登场角色处于无光雷区内攻击时，<color=#f4d582>枯夜之楔</color>会进行协同攻击，造成<color=#9656d8ff>导电伤害</color>，每2.5秒可触发1次。
-
-<color=#d4bf5f>万壑雷</color>
-【雷芒】充满时，长按拳震凌武可以消耗所有【雷芒】，施放万壑雷，造成<color=#9656d8ff>导电伤害</color>，并为目标附加1层<color=#f4d582>共鸣回路·雷痕</color>。
-万壑雷会引爆渊武自身5米范围内的<color=#f4d582>枯夜之楔</color>，造成<color=#9656d8ff>导电伤害</color>，并额外附加1层<color=#f4d582>共鸣回路·雷痕</color>。
-
-<color=#d4bf5f>舍身无我</color>
-施放<color=#f4d582>万壑雷</color>后，渊武会进入持续6秒的舍身无我状态，在该状态下，渊武的攻击能力将大幅提升：
-<color=#f4d582>普攻</color>的攻击范围扩大，攻击伤害提升，并造成<color=#9656d8ff>导电伤害</color>，此次伤害为普攻伤害，削减怪物共振度的能力提升；
-<color=#f4d582>重击</color>将以磅薄之势持续向前冲锋攻击，造成<color=#9656d8ff>导电伤害</color>，此次伤害为重击伤害，削减怪物共振度的能力提升。</color>",,"<color=#ffffff><color=#d4bf5f>Khô Dạ Chi Tiết</color>
-Nhấn Quyền Chấn Lăng Vũ, Yuanwu triệu hồi Khô Dạ Chi Tiết, gây <color=#9656d8ff>sát thương Dẫn Điện</color>, đồng thời lấy Khô Dạ Chi Tiết làm trung tâm, hình thành <color=#f4d582>Vô Quang Lôi Khu</color>.
-Khô Dạ Chi Tiết tồn tại trong 10 giây.
-
-<color=#d4bf5f>Vô Quang Lôi Khu</color>
-Khi nhân vật ra trận trong đội tấn công trong Vô Quang Lôi Khu, <color=#f4d582>Khô Dạ Chi Tiết</color> sẽ thực hiện tấn công hiệp đồng, gây <color=#9656d8ff>sát thương Dẫn Điện</color>, mỗi 2.5 giây có thể kích hoạt 1 lần.
-
-<color=#d4bf5f>Vạn Hác Lôi</color>
-Khi [Lôi Mang] đầy, giữ Quyền Chấn Lăng Vũ sẽ tiêu hao toàn bộ [Lôi Mang], thi triển Vạn Hác Lôi, gây <color=#9656d8ff>sát thương Dẫn Điện</color>, đồng thời gắn 1 tầng <color=#f4d582>Cộng Hưởng Liên - Lôi Ngấn</color> lên mục tiêu.
-Vạn Hác Lôi sẽ kích nổ <color=#f4d582>Khô Dạ Chi Tiết</color> trong phạm vi 5 mét quanh Yuanwu, gây <color=#9656d8ff>sát thương Dẫn Điện</color>, đồng thời gắn thêm 1 tầng <color=#f4d582>Cộng Hưởng Liên - Lôi Ngấn</color>.
-
-<color=#d4bf5f>Xả Thân Vô Ngã</color>
-Sau khi thi triển <color=#f4d582>Vạn Hác Lôi</color>, Yuanwu sẽ tiến vào trạng thái Xả Thân Vô Ngã kéo dài 6 giây, trong trạng thái này, năng lực tấn công của Yuanwu được tăng mạnh:
-Phạm vi <color=#f4d582>Phổ Công</color> mở rộng, sát thương tấn công tăng, đồng thời gây <color=#9656d8ff>sát thương Dẫn Điện</color>, sát thương này tính là sát thương Phổ Công, khả năng giảm cộng chấn độ quái vật tăng;
-<color=#f4d582>Trọng Kích</color> sẽ liên tục xung phong tấn công về phía trước với khí thế bàng bạc, gây <color=#9656d8ff>sát thương Dẫn Điện</color>, sát thương này tính là sát thương Trọng Kích, khả năng giảm cộng chấn độ quái vật tăng.</color>"
-lang_skill.db,Skill,245,寂土重明,,Tịch Thổ Trùng Minh

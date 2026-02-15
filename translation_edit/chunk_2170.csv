@@ -1,9 +1,19 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,VisionLevel_ConfirmBox_2_Content_Special,"消耗材料中包含<color=#8c7e51>{0}</color>和<color=#8c7e51>{1}</color>的声骸，且本次强化的材料溢出,将转化为以下材料，请确认是否继续？",The selected materials include <color=#8c7e51>{0}</color> and <color=#8c7e51>{1}</color> Echoes. The excessive EXP will be converted into the following material(s). Do you wish to continue?,"Nguyên liệu tiêu hao bao gồm Thanh Hài <color=#8c7e51>{0}</color> và <color=#8c7e51>{1}</color>, và nguyên liệu cường hóa lần này bị dư thừa, sẽ được chuyển đổi thành nguyên liệu sau. Xác nhận tiếp tục?"
+lang_multi_text.db,MultiText,VisionLevel_ConfirmBox_3_Content,消耗材料中包含<color=#8c7e51>{0}</color>的声骸，请确认是否继续？,Includes <color=#8c7e51>{0}</color> materials. Do you wish to continue?,"Nguyên liệu tiêu hao bao gồm Thanh Hài <color=#8c7e51>{0}</color>, xác nhận tiếp tục?"
+lang_multi_text.db,MultiText,VisionLevel_ConfirmBox_3_Content_Special,消耗材料中包含<color=#8c7e51>{0}</color>的声骸，且本次强化的材料溢出，将转化为以下材料，请确认是否继续？,The selected materials include <color=#8c7e51>{0}</color> Echoes. The excessive EXP will be converted into the following material(s). Do you wish to continue?,"Nguyên liệu tiêu hao bao gồm Thanh Hài <color=#8c7e51>{0}</color>, và nguyên liệu cường hóa lần này bị dư thừa, sẽ được chuyển đổi thành nguyên liệu sau. Xác nhận tiếp tục?"
+lang_multi_text.db,MultiText,VisionNeedLevelTen,声骸强化至10级解锁调优,Upgrade to +10 to unlock Tuning,Cường hóa Thanh Hài đến cấp 10 để mở khóa Điều Ưu
+lang_multi_text.db,MultiText,VisionNormalSkill,通用技能,Common Skill,Kỹ năng chung
+lang_multi_text.db,MultiText,VisionNotMain,未装配到主声骸,Not equipped to Main Slot,Chưa trang bị vào ô Thanh Hài chính
+lang_multi_text.db,MultiText,VisionNotPersonalRoleEquip,非{0}装备中，无法装备专属技能,Not {0} Equipped. Cannot equip the exclusive skill,"Không phải {0} đang trang bị, không thể trang bị kỹ năng chuyên thuộc"
+lang_multi_text.db,MultiText,VisionNotSelectItem,请先选择材料,Select materials,Vui lòng chọn nguyên liệu trước
+lang_multi_text.db,MultiText,VisionRecoveryTabView_Btn_AimModel,定向融合,Targeted Merge,Dung hợp định hướng
+lang_multi_text.db,MultiText,VisionRecoveryTabView_Btn_RandomModel,标准融合,Standard Merge,Dung hợp tiêu chuẩn
 lang_multi_text.db,MultiText,VisionRecoveryTabView_Out_Btn_AimModel,定向融合,Targeted Merge,Dung hợp định hướng
 lang_multi_text.db,MultiText,VisionRecoveryTabView_Out_Btn_RandomModel,标准融合,Standard Merge,Dung hợp tiêu chuẩn
 lang_multi_text.db,MultiText,VisionRefineAttributeLack,请确认重构目标,Please confirm your selection,Vui lòng xác nhận mục tiêu tái cấu trúc
 lang_multi_text.db,MultiText,VisionRefineAttributeSelect,可选主音属性,Mainstats Available,Thuộc tính chủ âm khả dụng
-lang_multi_text.db,MultiText,VisionRefineAttributeSelectTitle,数据重构,Data Modify,Tái cấu trúc dữ liệu
+lang_multi_text.db,MultiText,VisionRefineAttributeSelectTitle,数据重构,Data Modify,Tái Cấu Trúc Dữ Liệu
 lang_multi_text.db,MultiText,VisionRefineChooseCheck,仅可放入未强化过的五星声骸,Only unboosted 5-Star Echoes can be selected,Chỉ có thể đặt vào Thanh Hài năm sao chưa được cường hóa
 lang_multi_text.db,MultiText,VisionRefineMaterialLack,所需材料不足,Insufficient materials,Không đủ vật liệu cần thiết
 lang_multi_text.db,MultiText,VisionSkillTitle,声骸技能,Echo Skill,Thanh Hài Kỹ
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,WDSXD_21_18,这也不是我摆的姿势啊。,This 
 lang_multi_text.db,MultiText,WDSXD_21_19,我干等着实在太担心，于是决定去找他俩。但我又放不下石料，索性就背着石料去找他们，结果人还没找到，我摔了一跤把石料都摔到悬崖下面去了……,"I got really worried waiting around, so I decided to go looking for them. But I couldn't leave the stone behind, so I carried it with me, and in the end, I tripped and the stone fell off a cliff...","Tớ đợi mãi mà lo quá, nên quyết định đi tìm hai người kia. Nhưng tớ lại không yên tâm bỏ đá lại, thế là vác luôn đá đi tìm họ, kết quả chưa tìm được người thì tớ vấp ngã, đá rơi hết xuống vách đá rồi..."
 lang_multi_text.db,MultiText,WDSXD_21_2,这根本就不是雕像。,This isn't a statue at all.,Cái này hoàn toàn không phải tượng.
 lang_multi_text.db,MultiText,WDSXD_21_20,其实也还好啦，对吧！,"It's actually not that bad, right?","Thật ra cũng được mà, đúng không!"
-lang_multi_text.db,MultiText,WDSXD_21_21,嗯嗯，感觉跟小镇很搭！,"Yeah, it does match the vibe of the town!","Ừ ừ, cảm giác rất hợp với thị trấn!"
-lang_multi_text.db,MultiText,WDSXD_21_3,本来是准备按你的样子去修雕像的，不过，那个，出了点意外。,"It was supposed to be a statue, but, well, something went a little wrong.","Ban đầu định làm tượng theo hình cậu, nhưng mà, cái đó, xảy ra chút sự cố."
-lang_multi_text.db,MultiText,WDSXD_21_4,石料运到之后我怕有人偷，所以就守在这里，让沃德尔戈去给石匠送你的画像。,"After the stone arrived, I was worried someone would steal it, so I stayed here and had Fratello deliver your portrait to the sculptor.","Sau khi đá được chở đến, tớ sợ có người trộm nên ở lại canh giữ, để Fratello đi giao chân dung của cậu cho thợ đá."
-lang_multi_text.db,MultiText,WDSXD_21_5,然后我一路跑啊跑！跑啊跑！结果就迷路了，哈哈！,"That's right. I almost ran my life out delivering it, and then... I got lost! Haha!","Rồi tớ chạy miết! Chạy miết! Kết quả bị lạc đường luôn, haha!"
-lang_multi_text.db,MultiText,WDSXD_21_6,二哥一直没回来，我就猜他是迷路了。于是我就拿着你的备份画像找石匠。,"I figured Fratello was lost when he didn't come back, so I grabbed the backup portrait and went to find the sculptor.","Anh hai mãi không quay lại, tớ đoán chắc anh ấy bị lạc rồi. Thế là tớ cầm bản sao chân dung dự phòng đi tìm thợ đá."
-lang_multi_text.db,MultiText,WDSXD_21_7,结果我人到了，画像又好像落在哪里了……,But I dropped the portrait somewhere along the way...,"Kết quả tớ đến nơi rồi, mà bức chân dung lại bị rơi đâu mất rồi..."
-lang_multi_text.db,MultiText,WDSXD_21_8,石料和画像都没了，我们只好用请石匠的钱买了个投影，然后大概摆了动作。,"With the stone gone, we had no choice but to use the commission fee to buy a projector and display your pose here instead.","Đá và chân dung đều mất hết, bọn tớ đành lấy tiền thuê thợ đá đi mua một cái máy chiếu, rồi đại khái bày lại tư thế."
-lang_multi_text.db,MultiText,WDSXD_21_9,也行吧……,Alright...,Cũng được đi...
-lang_multi_text.db,MultiText,WDSXD_22_1,哦，是你啊，有什么事嘛？,"Oh, it's you. What can I do for you?","Ồ, là cậu à, có chuyện gì không?"
-lang_multi_text.db,MultiText,WDSXD_22_2,为什么想加入先行公约呢？,Why do you want to join the Pioneer Association?,Tại sao lại muốn gia nhập Tiên Hành Công Ước vậy?

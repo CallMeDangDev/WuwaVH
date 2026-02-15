@@ -1,6 +1,73 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Skill_1000105_SkillName,怀悯,Lazuline Mercy,Hoài Mẫn
+lang_multi_text.db,MultiText,Skill_1000105_SkillResume,施放变奏技能<color=Highlight>湛蓝礼赞</color>后，秧秧的气动伤害加成提升{0}，效果持续{1}秒。,Increase Aero DMG Bonus by {0} for {1}s after casting Intro Skill <color=Highlight>Cerulean Song</color>.,"Sau khi thi triển Biến Tấu Kỹ <color=Highlight>Trạm Lam Lễ Tán</color>, bonus sát thương Khí Động của Yangyang tăng {0}, hiệu quả kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1000106_SkillDescribe,使用迅刀击飞目标，造成<color=Wind>气动伤害</color>。,"Yangyang sends the target into the air, dealing <color=Wind>Aero DMG</color>.","Dùng tấn đao hất tung mục tiêu, gây <color=Wind>sát thương Khí Động</color>."
+lang_multi_text.db,MultiText,Skill_1000106_SkillName,湛蓝礼赞,Cerulean Song,Trạm Lam Lễ Tán
+lang_multi_text.db,MultiText,Skill_1000106_SkillResume,造成<color=Wind>气动伤害</color>。,Deal <color=Wind>Aero DMG</color>.,Gây <color=Wind>sát thương Khí Động</color>.
+lang_multi_text.db,MultiText,Skill_1000107_SkillDescribe,"<size=40><color=Title>重击·风袭</color></size>
+当秧秧持有{0}声【流响】时，施放<color=Highlight>重击</color>或<color=Highlight>闪避反击</color>后可触发<color=Highlight>风袭</color>，造成<color=Wind>气动伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击·释羽</color></size>
+当秧秧持有{1}声【流响】时，在空中使用<color=Highlight>普攻</color>，将消耗所有【流响】，发动连续攻击，并自空中俯冲造成<color=Wind>气动伤害</color>。落地后，秧秧将收刀攻击，造成<color=Wind>气动伤害</color>，此次伤害为普攻伤害。
+<size=10> </size>
+<size=40><color=Title>流响获取规则</color></size>
+【流响】上限{2}声。
+<color=Highlight>第4段普攻</color>命中目标时，获取{3}声【流响】。
+重击<color=Highlight>风吟</color>命中目标时，获取{4}声【流响】。
+共鸣技能<color=Highlight>流风载域</color>命中目标时，获取{5}声【流响】。
+施放变奏技能<color=Highlight>湛蓝礼赞</color>时，获取{6}声【流响】。","<size=40><color=Title>Heavy Attack: Stormy Strike</color></size>
+When Yangyang has {0} Melodies, she can cast <color=Highlight>Stormy Strike</color> after <color=Highlight>Heavy Attack</color> or <color=Highlight>Dodge Counter</color>, dealing <color=Wind>Aero DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack: Feather Release</color></size>
+When Yangyang has {1} Melodies, cast <color=Highlight>Basic Attack</color> in mid-air to consume all Melodies and perform consecutive strikes, diving from mid-air, dealing <color=Wind>Aero DMG</color>. As Yangyang lands, she sheathes her sword with an attack, dealing <color=Wind>Aero DMG</color>, considered as Basic Attack DMG.
+<size=10> </size>
+<size=40><color=Title>Melody</color></size>
+Yangyang can hold up to {2} Melodies
+Yangyang obtains {3} Melody with every <color=Highlight>Basic Attack 4</color> on hit.
+Yangyang obtains {4} Melody for every Heavy Attack <color=Highlight>Zephyr Song</color> on hit.
+Yangyang obtains {5} Melody for every Resonance Skill <color=Highlight>Zephyr Domain</color> on hit.
+Yangyang obtains {6} Melody upon casting Intro Skill <color=Highlight>Cerulean Song</color>.","<size=40><color=Title>Trọng Kích - Phong Tập</color></size>
+Khi Yangyang sở hữu {0} thanh [Lưu Hưởng], thi triển <color=Highlight>Trọng Kích</color> hoặc <color=Highlight>Phản Kích Né Tránh</color> có thể kích hoạt <color=Highlight>Phong Tập</color>, gây <color=Wind>sát thương Khí Động</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không - Thích Vũ</color></size>
+Khi Yangyang sở hữu {1} thanh [Lưu Hưởng], sử dụng <color=Highlight>Phổ Công</color> trên không sẽ tiêu hao toàn bộ [Lưu Hưởng], phát động tấn công liên tiếp và bổ nhào từ trên không, gây <color=Wind>sát thương Khí Động</color>. Sau khi tiếp đất, Yangyang sẽ thu đao tấn công, gây <color=Wind>sát thương Khí Động</color>, sát thương này tính là sát thương Phổ Công.
+<size=10> </size>
+<size=40><color=Title>Quy Tắc Nhận Lưu Hưởng</color></size>
+[Lưu Hưởng] tối đa {2} thanh.
+Khi <color=Highlight>Phổ Công đoạn 4</color> trúng mục tiêu, nhận {3} thanh [Lưu Hưởng].
+Khi Trọng Kích <color=Highlight>Phong Ngâm</color> trúng mục tiêu, nhận {4} thanh [Lưu Hưởng].
+Khi Kỹ Năng Cộng Hưởng <color=Highlight>Lưu Phong Tải Vực</color> trúng mục tiêu, nhận {5} thanh [Lưu Hưởng].
+Khi thi triển Biến Tấu Kỹ <color=Highlight>Trạm Lam Lễ Tán</color>, nhận {6} thanh [Lưu Hưởng]."
+lang_multi_text.db,MultiText,Skill_1000107_SkillName,覆声裁羽,Echoing Feathers,Phúc Thanh Tài Vũ
+lang_multi_text.db,MultiText,Skill_1000107_SkillResume,"<size=40><color=Title>重击·风袭</color></size>
+当秧秧持有{0}声【流响】时，施放<color=Highlight>重击</color>或<color=Highlight>闪避反击</color>后可触发<color=Highlight>风袭</color>，造成<color=Wind>气动伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击·释羽</color></size>
+当秧秧持有{1}声【流响】时，在空中使用<color=Highlight>普攻</color>，将消耗所有【流响】，造成<color=Wind>气动伤害</color>。
+<size=10></size>
+<size=40><color=Title>流响获取规则</color></size>
+【流响】上限{2}点。
+【流响】的获取途径：<color=Highlight>普攻</color>、<color=Highlight>重击·风吟</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>。","<size=40><color=Title>Heavy Attack: Stormy Strike</color></size>
+When Yangyang has {0} Melodies, she can cast <color=Highlight>Stormy Strike</color> after <color=Highlight>Heavy Attack</color> or <color=Highlight>Dodge Counter</color>, dealing <color=Wind>Aero DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack: Feather Release</color></size>
+When Yangyang has {1} Melodies, she can cast <color=Highlight>Basic Attack</color> in mid-air to consume all Melodies and deal <color=Wind>Aero DMG</color>.
+<size=10></size>
+<size=40><color=Title>Melody</color></size>
+Yangyang can hold up to {2} Melodies.
+Yangyang gains Melody through <color=Highlight>Basic Attack</color>, <color=Highlight>Heavy Attack: Zephyr Song</color>, <color=Highlight>Resonance Skill</color>, and <color=Highlight>Intro Skill</color>.","<size=40><color=Title>Trọng Kích - Phong Tập</color></size>
+Khi Yangyang sở hữu {0} điểm [Lưu Hưởng], sau khi thi triển <color=Highlight>Trọng Kích</color> hoặc <color=Highlight>Phản Kích Né Tránh</color> có thể kích hoạt <color=Highlight>Phong Tập</color>, gây <color=Wind>sát thương Khí Động</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không - Thích Vũ</color></size>
+Khi Yangyang sở hữu {1} điểm [Lưu Hưởng], sử dụng <color=Highlight>Phổ Công</color> trên không sẽ tiêu hao toàn bộ [Lưu Hưởng], gây <color=Wind>sát thương Khí Động</color>.
+<size=10></size>
+<size=40><color=Title>Quy Tắc Nhận Lưu Hưởng</color></size>
+Giới hạn [Lưu Hưởng] tối đa {2} điểm.
+Cách nhận [Lưu Hưởng]: <color=Highlight>Phổ Công</color>, <color=Highlight>Trọng Kích - Phong Ngâm</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>, <color=Highlight>Kỹ Năng Biến Tấu</color>."
+lang_multi_text.db,MultiText,Skill_1000108_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1000109_MultiSkillDescribe_1.1,为附近队伍中激活秧秧延奏技能的角色回复共鸣能量，每秒回复{0}点共鸣能量，持续{1}秒。,Restore {0} Resonance Energy for the Resonator on a nearby team that activates Yangyang's Outro Skill every second for {1}s.,"Hồi phục Năng Lượng Cộng Hưởng cho nhân vật trong đội gần đó đã kích hoạt Hiệp Tấu Kỹ của Yangyang, mỗi giây hồi phục {0} điểm Năng Lượng Cộng Hưởng, kéo dài {1} giây."
 lang_multi_text.db,MultiText,Skill_1000109_SkillDescribe,持续为下一位登场角色回复共鸣能量，每秒回复{0}点共鸣能量，持续{1}秒。,Restore {0} Resonance Energy per second for {1}s for the incoming Resonator.,"Liên tục hồi phục Năng Lượng Cộng Hưởng cho nhân vật tiếp theo đăng trường, mỗi giây hồi phục {0} điểm Năng Lượng Cộng Hưởng, kéo dài {1} giây."
-lang_multi_text.db,MultiText,Skill_1000109_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,Skill_1000109_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Skill_1000109_SkillName,衍息,Whispering Breeze,Diễn Tức
 lang_multi_text.db,MultiText,Skill_1000109_SkillResume,持续为下一位登场角色回复共鸣能量。,Restore Resonance Energy for the incoming Resonator.,Liên tục hồi phục Năng Lượng Cộng Hưởng cho nhân vật tiếp theo đăng trường.
 lang_multi_text.db,MultiText,Skill_1000201_SkillDescribe,"<size=40><color=Title>普攻</color></size>
@@ -187,7 +254,7 @@ Cách nhận [Đạn Nhiệt Áp]: <color=Highlight>Công Thường</color>, <co
 lang_multi_text.db,MultiText,Skill_1000208_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1000209_MultiSkillDescribe_1.1,以技能目标为中心，释放冲击波，对范围内的目标造成炽霞{0}攻击的<color=Fire>热熔伤害</color>。,"Release a shock wave centered around the target, dealing <color=Fire>Fusion DMG</color> equal to {0} of Chixia's ATK to the enemies within the range.","Lấy mục tiêu kỹ năng làm tâm, giải phóng sóng xung kích, gây <color=Fire>sát thương Nhiệt Dung</color> bằng {0} tấn công của Chixia lên các mục tiêu trong phạm vi."
 lang_multi_text.db,MultiText,Skill_1000209_SkillDescribe,以技能目标为中心，释放冲击波，对范围内的目标造成炽霞{0}攻击的<color=Fire>热熔伤害</color>。,"Chixia releases a shock wave surrounding the target, dealing <color=Fire>Fusion DMG</color> equal to {0} of Chixia's ATK to enemies within the range.","Lấy mục tiêu kỹ năng làm tâm, giải phóng sóng xung kích, gây <color=Fire>sát thương Nhiệt Dung</color> bằng {0} tấn công của Chixia lên các mục tiêu trong phạm vi."
-lang_multi_text.db,MultiText,Skill_1000209_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,Skill_1000209_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Skill_1000209_SkillName,跃焰,Leaping Flames,Diệu Diễm
 lang_multi_text.db,MultiText,Skill_1000209_SkillResume,对范围内的目标造成炽霞{0}攻击的<color=Fire>热熔伤害</color>。,Deal <color=Fire>Fusion DMG</color> equal to {0} of Chixia's ATK to enemies within range.,Gây <color=Fire>sát thương Nhiệt Dung</color> bằng {0} tấn công của Chixia lên các mục tiêu trong phạm vi.
 lang_multi_text.db,MultiText,Skill_1000301_SkillDescribe,"<size=40><color=Title>普攻</color></size>
@@ -379,12 +446,12 @@ Sau khi thi triển <color=Highlight>Trọng Kích Tinh Tinh Hoa Trán Phóng</c
 <size=40><color=Title>Quy Tắc Nhận Quang Hợp Năng Lượng</color></size>
 [Quang Hợp Năng Lượng] tối đa {1} tầng.
 Cách nhận [Quang Hợp Năng Lượng]: <color=Highlight>Phổ Công</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>, <color=Highlight>Biến Tấu Kỹ</color>."
-lang_multi_text.db,MultiText,Skill_1000308_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt
+lang_multi_text.db,MultiText,Skill_1000308_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1000308_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
-lang_multi_text.db,MultiText,Skill_1000308_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt
+lang_multi_text.db,MultiText,Skill_1000308_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1000309_MultiSkillDescribe_1.1,持续为附近队伍中激活维里奈延奏技能的角色回复生命值，每秒回复维里奈{0}攻击的生命值，持续{1}秒。附近队伍中所有角色全伤害加深{2}，持续{3}秒。,Heals the Resonator on a nearby team that activates Verina's Outro Skill by {1} of her Max HP every {0}s for {2}s. All Resonators on nearby teams have their DMG Amplified by {2} for {3}s.,"Liên tục hồi phục sinh mệnh cho nhân vật kích hoạt Diên Tấu Kỹ của Verina trong đội hình gần đó, mỗi giây hồi phục {0} tấn công của Verina, kéo dài {1} giây. Tất cả nhân vật trong đội hình gần đó được gia tăng toàn sát thương {2}, kéo dài {3} giây."
 lang_multi_text.db,MultiText,Skill_1000309_SkillDescribe,持续为下一位登场角色回复生命值，每秒回复维里奈{0}攻击的生命值，持续{1}秒。附近队伍中所有角色全伤害加深{2}，持续{3}秒。,Heal the incoming Resonator by {0} of Verina's ATK per second for {1}s. All Resonators on nearby teams have their DMG Amplified by {2} for {3}s.,"Liên tục hồi phục sinh mệnh cho nhân vật kế tiếp ra trận, mỗi giây hồi phục {0} tấn công của Verina, kéo dài {1} giây. Tất cả nhân vật trong đội hình gần đó được gia tăng toàn sát thương {2}, kéo dài {3} giây."
-lang_multi_text.db,MultiText,Skill_1000309_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Tồn tại bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,Skill_1000309_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Skill_1000309_SkillName,盛放,Blossom,Thịnh Phóng
 lang_multi_text.db,MultiText,Skill_1000309_SkillResume,持续为下一位登场角色回复生命值。附近队伍中所有角色全伤害加深{2}。,Continuously heal the incoming Resonator. All nearby party members have their DMG Amplified by {2}.,Liên tục hồi phục sinh mệnh cho nhân vật kế tiếp ra trận. Tất cả nhân vật trong đội hình gần đó được gia tăng toàn sát thương {2}.
 lang_multi_text.db,MultiText,Skill_1000401_SkillDescribe,"<size=40><color=Title>普攻</color></size>
@@ -494,7 +561,7 @@ lang_multi_text.db,MultiText,Skill_1000404_SkillResume,"施放共鸣技能<color
 ATK of Resonators who pick up Euphonia is increased by {1} for {2}s.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Ứng Cấp Dự Án</color>, Ưu Đàm sẽ để lại một vùng <color=Highlight>Thiên Lại</color>, tồn tại trong {0} giây.
 <size=10> </size>
 <size=40><color=Title>Thiên Lại</color></size>
-Nhân vật nhặt được Thiên Lại sẽ tăng tấn công thêm {1}, duy trì {2} giây."
+Nhân vật nhặt được Thiên Lại sẽ tăng tấn công {1}, kéo dài {2} giây."
 lang_multi_text.db,MultiText,Skill_1000405_SkillDescribe,<color=Highlight>重击</color>每次命中目标时，都能为附近队伍中生命值最少的角色回复生命值，回复量为白芷自身{0}生命上限。,Baizhi's <color=Highlight>Heavy Attack</color> on hit heals the character with the lowest HP on a nearby team by {0} of her Max HP.,"Mỗi lần <color=Highlight>Trọng Kích</color> trúng mục tiêu, hồi phục sinh mệnh cho nhân vật có HP thấp nhất trong đội hình lân cận, lượng hồi phục bằng {0} HP tối đa của Baizhi."
 lang_multi_text.db,MultiText,Skill_1000405_SkillName,激策回馈,Stimulus Feedback,Kích Sách Hồi Quỹ
 lang_multi_text.db,MultiText,Skill_1000405_SkillResume,<color=Highlight>重击</color>每次命中目标时，都能为附近队伍中生命值最少的角色回复生命值，回复量为白芷自身{0}生命上限。,<color=Highlight>Heavy Attack</color> on hit heals the nearby party member with the lowest HP by {0} of Baizhi's own Max HP.,"Mỗi lần <color=Highlight>Trọng Kích</color> trúng mục tiêu, hồi phục sinh mệnh cho nhân vật có HP thấp nhất trong đội hình lân cận, lượng hồi phục bằng {0} HP tối đa của Baizhi."
@@ -564,12 +631,12 @@ Khi Kỹ Năng Cộng Hưởng <color=Highlight>Ứng Cấp Dự Án</color> ti�
 <size=40><color=Title>Quy tắc nhận Niệm Ý</color></size>
 Giới hạn [Niệm Ý] tối đa {3} điểm.
 Cách nhận [Niệm Ý]: <color=Highlight>Phổ Công</color>."
-lang_multi_text.db,MultiText,Skill_1000408_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có xác suất tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1000408_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1000408_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
-lang_multi_text.db,MultiText,Skill_1000408_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có xác suất tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1000408_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1000409_MultiSkillDescribe_1.1,持续为附近队伍中激活白芷延奏技能的角色回复生命值，每{0}秒回复白芷{1}生命上限的生命值，持续{2}秒。受到此治疗效果时，角色全伤害加深{3}，持续{4}秒。,Heals the Resonator on a nearby team that activates Baizhi's Outro Skill by {1} of her Max HP every {0}s for {2}s. The healed Resonator also has their Attribute DMG Amplified by {3} for {4}s.,"Liên tục hồi phục sinh mệnh cho nhân vật kích hoạt Biến Tấu Kỹ của Baizhi trong đội hình lân cận, mỗi {0} giây hồi phục lượng sinh mệnh bằng {1} HP tối đa của Baizhi, duy trì {2} giây. Khi nhận hiệu quả trị liệu này, toàn bộ sát thương của nhân vật được gia tăng {3}, duy trì {4} giây."
 lang_multi_text.db,MultiText,Skill_1000409_SkillDescribe,持续为下一位登场角色回复生命值，每{0}秒回复白芷{1}生命上限的生命值，持续{2}秒。受到此治疗效果时，角色全伤害加深{3}，持续{4}秒。,Heal the incoming Resonator by {1} of Baizhi's max HP every {0}s for {2}s. The healed Resonator has their DMG Amplified by {3} for {4}s.,"Liên tục hồi phục sinh mệnh cho nhân vật kế tiếp đăng trường, mỗi {0} giây hồi phục lượng sinh mệnh bằng {1} HP tối đa của Baizhi, duy trì {2} giây. Khi nhận hiệu quả trị liệu này, toàn bộ sát thương của nhân vật được gia tăng {3}, duy trì {4} giây."
-lang_multi_text.db,MultiText,Skill_1000409_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,Skill_1000409_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Skill_1000409_SkillName,命源输送,Rejuvinating Flow,Mệnh Nguyên Du Tống
 lang_multi_text.db,MultiText,Skill_1000409_SkillResume,持续为下一位登场角色回复生命值。受到此治疗效果时，角色全伤害加深{3}。,Continuously heal the incoming Resonator. The healed Resonator has their DMG Amplified by {3}.,"Liên tục hồi phục sinh mệnh cho nhân vật kế tiếp đăng trường. Khi nhận hiệu quả trị liệu này, toàn bộ sát thương của nhân vật được gia tăng {3}."
 lang_multi_text.db,MultiText,Skill_1000501_SkillDescribe,"<size=40><color=Title>普攻</color></size>
@@ -603,43 +670,3 @@ Tiêu hao thể lực thực hiện tấn công bổ nhào, gây <color=Ice>sát
 <size=10> </size>
 <size=40><color=Title>Phản Kích Né Tránh</color></size>
 Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Phổ Công</color> trong khoảng thời gian nhất định để tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Skill_1000501_SkillName,寒光,Frigid Light,Hàn Quang
-lang_multi_text.db,MultiText,Skill_1000501_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
-Gây <color=Ice>sát thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Trọng Kích</color></size>
-Tiêu hao thể lực, gây <color=Ice>sát thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, gây <color=Ice>sát thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Ice>sát thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Skill_1000502_SkillDescribe,造成<color=Ice>冷凝伤害</color>，剑气会留下{0}道【<te href=850035>冰棱</te>】。,"Sanhua sends an air blade to create {0} <te href=850035>Ice Prism</te> on the ground, dealing <color=Ice>Glacio DMG</color>.","Gây <color=Ice>sát thương Ngưng Băng</color>, kiếm khí để lại {0} đạo [<te href=850035>Băng Lăng</te>]."
-lang_multi_text.db,MultiText,Skill_1000502_SkillName,朔雪永冻,Eternal Frost,Sóc Tuyết Vĩnh Đông
-lang_multi_text.db,MultiText,Skill_1000502_SkillResume,造成<color=Ice>冷凝伤害</color>，剑气会留下{0}道【冰棱】。,Deal <color=Ice>Glacio DMG</color> and create {0} Ice Prism.,"Gây <color=Ice>sát thương Ngưng Băng</color>, kiếm khí để lại {0} đạo [Băng Lăng]."
-lang_multi_text.db,MultiText,Skill_1000503_SkillDescribe,造成<color=Ice>冷凝伤害</color>，并形成{0}道【<te href=850037>冰川</te>】。,Sanhua deals <color=Ice>Glacio DMG</color> and creates {0} <te href=850037>Glacier</te>.,"Gây <color=Ice>sát thương Ngưng Băng</color>, đồng thời hình thành {0} đạo [<te href=850037>Băng Xuyên</te>]."
-lang_multi_text.db,MultiText,Skill_1000503_SkillName,焦瞑冻土,Glacial Gaze,Tiêu Minh Đống Thổ
-lang_multi_text.db,MultiText,Skill_1000503_SkillResume,造成<color=Ice>冷凝伤害</color>，并形成{0}道【冰川】。,Deal <color=Ice>Glacio DMG</color> and create {0} Glacier.,"Gây <color=Ice>sát thương Ngưng Băng</color>, đồng thời tạo ra {0} [Băng Xuyên]."
-lang_multi_text.db,MultiText,Skill_1000504_SkillDescribe,施放变奏技能时，散华的共鸣技能伤害提升{0}，持续{1}秒。,Damage dealt by Sanhua's Resonance Skill increased by {0} for {1}s after casting her Intro Skill.,"Khi thi triển Biến Tấu Kỹ, sát thương Kỹ Năng Cộng Hưởng của Sanhua tăng {0}, kéo dài {1} giây."
-lang_multi_text.db,MultiText,Skill_1000504_SkillName,凝冰,Condensation,Ngưng Băng

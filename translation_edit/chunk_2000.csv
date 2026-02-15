@@ -1,6 +1,16 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,SkillDescription_1106029_Description,{0}攻击,{0} ATK,{0} tấn công
-lang_multi_text.db,MultiText,SkillDescription_1106030_AttributeName,回复协奏能量,Concerto Regen,Hồi năng lượng Hiệp Tấu
+lang_multi_text.db,MultiText,SkillDescription_1106022_AttributeName,技能伤害,Skill DMG,Sát thương kỹ năng
+lang_multi_text.db,MultiText,SkillDescription_1106023_AttributeName,冷却时间,Cooldown,Thời gian hồi chiêu
+lang_multi_text.db,MultiText,SkillDescription_1106023_Description,{0}秒,{0}s,{0} giây
+lang_multi_text.db,MultiText,SkillDescription_1106024_AttributeName,回复协奏能量,Concerto Regen,Hồi phục năng lượng Hiệp Tấu
+lang_multi_text.db,MultiText,SkillDescription_1106025_AttributeName,技能伤害,Skill DMG,Sát thương kỹ năng
+lang_multi_text.db,MultiText,SkillDescription_1106026_AttributeName,回复协奏能量,Concerto Regen,Hồi phục năng lượng Hiệp Tấu
+lang_multi_text.db,MultiText,SkillDescription_1106027_AttributeName,诗中物技能伤害,Poetic Essence Skill DMG,Sát thương kỹ năng Thi Trung Vật
+lang_multi_text.db,MultiText,SkillDescription_1106028_AttributeName,诗中物治疗量,Poetic Essence Healing,Lượng hồi phục Thi Trung Vật
+lang_multi_text.db,MultiText,SkillDescription_1106028_Description,{0}攻击,{0} ATK,{0} Tấn Công
+lang_multi_text.db,MultiText,SkillDescription_1106029_AttributeName,双关额外治疗量,Double Pun Bonus Healing,Lượng hồi phục thêm Song Quan
+lang_multi_text.db,MultiText,SkillDescription_1106029_Description,{0}攻击,{0} ATK,{0} Tấn Công
+lang_multi_text.db,MultiText,SkillDescription_1106030_AttributeName,回复协奏能量,Concerto Regen,Hồi phục năng lượng Hiệp Tấu
 lang_multi_text.db,MultiText,SkillDescription_1106031_AttributeName,消耗共鸣能量,Resonance Cost,Tiêu hao năng lượng Cộng Hưởng
 lang_multi_text.db,MultiText,SkillDescription_1107001_AttributeName,普攻第一段伤害,Basic Attack Stage 1,Sát thương Phổ Công đoạn 1
 lang_multi_text.db,MultiText,SkillDescription_1107002_AttributeName,普攻第二段伤害,Basic Attack Stage 2,Sát thương Phổ Công đoạn 2
@@ -11,7 +21,7 @@ lang_multi_text.db,MultiText,SkillDescription_1107006_AttributeName,重击伤害
 lang_multi_text.db,MultiText,SkillDescription_1107007_AttributeName,限制性策略伤害,Containment Tactics DMG,Sát thương Sách Lược Hạn Chế
 lang_multi_text.db,MultiText,SkillDescription_1107008_AttributeName,空中攻击伤害,Mid-air Attack DMG,Sát thương tấn công trên không
 lang_multi_text.db,MultiText,SkillDescription_1107009_AttributeName,礼节性问候伤害,Customary Greetings DMG,Sát thương Lễ Tiết Vấn Hầu
-lang_multi_text.db,MultiText,SkillDescription_1107010_AttributeName,闪避反击伤害,Dodge Counter DMG,Sát thương Né Tránh phản kích
+lang_multi_text.db,MultiText,SkillDescription_1107010_AttributeName,闪避反击伤害,Dodge Counter DMG,Sát thương Phản Kích Né Tránh
 lang_multi_text.db,MultiText,SkillDescription_1107011_AttributeName,重击耐力消耗,Heavy Attack STA Cost,Tiêu hao thể lực Trọng Kích
 lang_multi_text.db,MultiText,SkillDescription_1107012_AttributeName,空中攻击耐力消耗,Mid-air Attack STA Cost,Tiêu hao thể lực tấn công trên không
 lang_multi_text.db,MultiText,SkillDescription_1107013_AttributeName,技能伤害,Skill DMG,Sát thương kỹ năng
@@ -23,7 +33,7 @@ lang_multi_text.db,MultiText,SkillDescription_1107017_AttributeName,示我璀璨
 lang_multi_text.db,MultiText,SkillDescription_1107018_AttributeName,技能伤害,Skill DMG,Sát thương kỹ năng
 lang_multi_text.db,MultiText,SkillDescription_1107019_AttributeName,死兆伤害,Death Knell DMG,Sát thương Tử Triệu
 lang_multi_text.db,MultiText,SkillDescription_1107021_AttributeName,致死以终伤害,Fatal Finale DMG,Sát thương Trí Tử Dĩ Chung
-lang_multi_text.db,MultiText,SkillDescription_1107022_AttributeName,技能冷却,Skill Cooldown,Hồi chiêu kỹ năng
+lang_multi_text.db,MultiText,SkillDescription_1107022_AttributeName,技能冷却,Skill Cooldown,Hồi chiêu
 lang_multi_text.db,MultiText,SkillDescription_1107023_AttributeName,消耗共鸣能量,Resonance Cost,Tiêu hao năng lượng Cộng Hưởng
 lang_multi_text.db,MultiText,SkillDescription_1107024_AttributeName,回复协奏能量,Concerto Regen,Hồi phục năng lượng Hiệp Tấu
 lang_multi_text.db,MultiText,SkillDescription_1107024_Description,{0}秒,{0}s,{0} giây
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,SkillDescription_1203038_AttributeName,普攻第四
 lang_multi_text.db,MultiText,SkillDescription_1203039_AttributeName,咩咩·失序值,Woolies: Mayhem,Miên Miên - Giá trị Thất Tự
 lang_multi_text.db,MultiText,SkillDescription_1203040_AttributeName,重击·失序值,Heavy Attack: Mayhem,Trọng Kích - Giá trị Thất Tự
 lang_multi_text.db,MultiText,SkillDescription_1203041_AttributeName,空中攻击·失序值,Mid-air Attack: Mayhem,Tấn công trên không - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203042_AttributeName,咩咩帮手·失序值,Woolies Helpers: Mayhem,Miên Miên Trợ Thủ - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203043_AttributeName,热力羊咩·失序值,Flaming Woolies: Mayhem,Dương Miên Nhiệt Lực - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203044_AttributeName,热情欢迎试·失序值,Energetic Welcome: Mayhem,Nhiệt Tình Hoan Nghênh - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203045_AttributeName,黑咩·胡闹第一段·失序值,Cosmos: Frolicking Stage 1 - Mayhem,Hắc Miên - Nghịch Ngợm đoạn 1 - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203046_AttributeName,黑咩·胡闹第二段·失序值,Cosmos: Frolicking Stage 2: Mayhem,Hắc Mee - Nghịch Phá đoạn 2 - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203047_AttributeName,黑咩·胡闹第三段·失序值,Cosmos: Frolicking Stage 3: Mayhem,Hắc Mee - Nghịch Phá đoạn 3 - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203048_AttributeName,黑咩·胡闹第四段·失序值,Cosmos: Frolicking Stage 4: Mayhem,Hắc Mee - Nghịch Phá đoạn 4 - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203049_AttributeName,黑咩·重击·失序值,Cosmos: Heavy Attack: Mayhem,Hắc Mee - Trọng Kích - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1203050_AttributeName,黑咩·狂热·失序值,Cosmos Rampage: Mayhem,Hắc Mee - Cuồng Nhiệt - Giá trị Thất Tự
-lang_multi_text.db,MultiText,SkillDescription_1205001_AttributeName,普攻第一段伤害,Basic Attack 1 DMG,Sát thương Phổ Công đoạn 1

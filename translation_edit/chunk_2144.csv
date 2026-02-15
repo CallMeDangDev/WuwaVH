@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Text_TextAndExpression_Text,文本和表情,Text and Emotes,Văn bản và biểu cảm
+lang_multi_text.db,MultiText,Text_Three_Text,三,III,III
+lang_multi_text.db,MultiText,Text_TimeOfDayCantOpenView_Text,当前状态无法使用,You cannot currently use this function,Hiện không thể sử dụng chức năng này
+lang_multi_text.db,MultiText,Text_TimeOfDayConfirmTextOff_Text,调整时间不能小于30分钟,Time adjustment cannot be less than 30 minutes,Thời gian điều chỉnh không được nhỏ hơn 30 phút
+lang_multi_text.db,MultiText,Text_TimeOfDayConfirmTextOn_Text,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,Text_TimeOfDayPlusTwoDay_Text,+2日,+2 days,+2 ngày
+lang_multi_text.db,MultiText,Text_TimeOfDayToday_Text,今日,Today,Hôm nay
+lang_multi_text.db,MultiText,Text_TimeOfDayTomorrow_Text,次日,Next day,Ngày mai
+lang_multi_text.db,MultiText,Text_Today_Text,今天,Today,Hôm nay
+lang_multi_text.db,MultiText,Text_ToolsClosePC_Text,松开{0}关闭轮盘,Release {0} to close the Wheel menu,Thả {0} để đóng vòng xoay
 lang_multi_text.db,MultiText,Text_TowerAreaFloor_Text,{0}·第{1}层,{0} - Floor {1},{0}.Tầng {1}
 lang_multi_text.db,MultiText,Text_TowerFailDesc_Text,战斗失败，已与深塔断开链接。,"Battle failed, you are disconnected from the Tower.","Chiến đấu thất bại, đã ngắt kết nối với Thâm Tháp."
 lang_multi_text.db,MultiText,Text_TowerFail_Text,挑战失败,Challenge Failed,Thử thách thất bại
@@ -8,7 +18,7 @@ lang_multi_text.db,MultiText,Text_TowerOnlyFloor_Text,第{0}层,Floor {0},Tầng
 lang_multi_text.db,MultiText,Text_TowerRemainTime_Text,通关剩余时间{0}秒,Clear the challenge with at least {0}s left,Hoàn thành với thời gian còn lại {0} giây
 lang_multi_text.db,MultiText,Text_TowerSuccess_Text,挑战成功,Challenge Complete,Thử thách thành công
 lang_multi_text.db,MultiText,Text_TowerTeamDie_Text,通关挑战,Clear the challenge,Hoàn thành thử thách
-lang_multi_text.db,MultiText,Text_TowerTeamNoDie_Text,全员存活通关,Clear the challenge with all team members standing,Hoàn thành với toàn đội còn sống
+lang_multi_text.db,MultiText,Text_TowerTeamNoDie_Text,全员存活通关,Clear the challenge with all team members standing,Vượt qua với toàn đội còn sống
 lang_multi_text.db,MultiText,Text_TowerThree_Text,深境之塔,Hazard Tower,Tháp Thâm Cảnh
 lang_multi_text.db,MultiText,Text_TowerTwo_Text,回音之塔,Echoing Tower,Tháp Hồi Âm
 lang_multi_text.db,MultiText,Text_TriggerMission_Text,触发委托,New Quest,Kích hoạt ủy thác
@@ -17,7 +27,7 @@ lang_multi_text.db,MultiText,Text_TurnToBreach_Text,点击任意位置前往突�
 lang_multi_text.db,MultiText,Text_TurnToRoleBreach_Text,点击任意位置前往突破,Tap anywhere to proceed,Nhấn vào bất kỳ vị trí nào để tiến hành đột phá
 lang_multi_text.db,MultiText,Text_Two_Text,二,II,II
 lang_multi_text.db,MultiText,Text_UnDiscovered_Text,未发现,Unknown,Chưa phát hiện
-lang_multi_text.db,MultiText,Text_UnEquip_Text,卸载,Unequip,Tháo
+lang_multi_text.db,MultiText,Text_UnEquip_Text,卸载,Unequip,Gỡ cài đặt
 lang_multi_text.db,MultiText,Text_UnReadMail_Text,未读邮件,Unread Mails,Thư chưa đọc
 lang_multi_text.db,MultiText,Text_UnableSystem_Text,地图功能暂时无法使用,The map function is temporarily unavailable,Chức năng bản đồ tạm thời không khả dụng
 lang_multi_text.db,MultiText,Text_UnableToAdd_Text,材料不足，无法再增加数量,Insufficient materials. Unable to add more.,"Không đủ nguyên liệu, không thể thêm số lượng"
@@ -66,7 +76,7 @@ lang_multi_text.db,MultiText,Text_WeaponHandBookLock_Text,尚未获得该武器,
 lang_multi_text.db,MultiText,Text_WeaponHasLevelUp_Text,经过强化,upgraded,Đã cường hóa
 lang_multi_text.db,MultiText,Text_WeaponHasResonance_Text,经过谐振,Syntonized,Đã hài chấn
 lang_multi_text.db,MultiText,Text_WeaponHighQuality_Text,品质较高,High quality,Phẩm chất cao
-lang_multi_text.db,MultiText,Text_WeaponLevelUpAddText_Text,0,0.0,0.0
+lang_multi_text.db,MultiText,Text_WeaponLevelUpAddText_Text,0,0.0,0
 lang_multi_text.db,MultiText,Text_WeaponLevelUpHighLevelText_Text,升级材料中包含已被强化的武器，请确认是否继续升级？,Upgraded weapon will be consumed. Are you sure to proceed?,"Vật liệu nâng cấp có chứa vũ khí đã được cường hóa, xác nhận tiếp tục nâng cấp?"
 lang_multi_text.db,MultiText,Text_WeaponLevelUpHighQualityHighLevelText_Text,升级材料中包含品质较高，已被强化的武器，请确认是否继续升级？,Upgraded Rare weapon will be consumed. Are you sure to proceed?,"Vật liệu nâng cấp có chứa vũ khí phẩm chất cao đã được cường hóa, xác nhận tiếp tục nâng cấp?"
 lang_multi_text.db,MultiText,Text_WeaponLevelUpHighQualityText_Text,升级材料中包含品质较高的武器，请确认是否继续升级？,Rare weapon will be consumed. Are you sure to proceed?,"Vật liệu nâng cấp có chứa vũ khí phẩm chất cao, xác nhận tiếp tục nâng cấp?"
@@ -81,21 +91,11 @@ lang_multi_text.db,MultiText,Text_WeaponLevelUpTwoCondition_Text,升级材料中
 lang_multi_text.db,MultiText,Text_WeaponLevel_Text,Lv. {0},Lv. {0},Lv. {0}
 lang_multi_text.db,MultiText,Text_WeaponLockResonanceText_Text,该武器无法进行谐振,Syntonization unavailable for this weapon.,Vũ khí này không thể tiến hành hài chấn.
 lang_multi_text.db,MultiText,Text_WeaponLockTipsText_Text,此道具已锁定，请先解锁再进行操作。,Item locked. Unlock to continue,"Vật phẩm đã bị khóa, vui lòng mở khóa trước khi thao tác."
-lang_multi_text.db,MultiText,Text_WeaponMaking_Text,印造,Craft,Chế tạo
+lang_multi_text.db,MultiText,Text_WeaponMaking_Text,印造,Craft,Ấn Tạo
 lang_multi_text.db,MultiText,Text_WeaponMaterialLengthText_Text,强化消耗材料（{0}/{1}）,Upgrade Consumption ({0}/{1}),Vật liệu tiêu hao cường hóa ({0}/{1})
-lang_multi_text.db,MultiText,Text_WeaponMaterialType_Text,武器材料,Weapon Materials,Vật liệu vũ khí
+lang_multi_text.db,MultiText,Text_WeaponMaterialType_Text,武器材料,Weapon Materials,Nguyên liệu vũ khí
 lang_multi_text.db,MultiText,Text_WeaponMaxLevelText_Text,{0},{0},{0}
 lang_multi_text.db,MultiText,Text_WeaponNoEnoughMoneyText_Text,强化所需贝币不足,Insufficient Shell Credit for enhancement.,Không đủ Bối Tệ để cường hóa.
 lang_multi_text.db,MultiText,Text_WeaponNoMaterial_Text,当前没有强化材料,Insufficient upgrade materials,Hiện không có vật liệu cường hóa
 lang_multi_text.db,MultiText,Text_WeaponReplaceContrastText_Text,收起,Collapse,Thu gọn
 lang_multi_text.db,MultiText,Text_WeaponReplacePackUpText_Text,对比,Compare,So sánh
-lang_multi_text.db,MultiText,Text_WeaponReplaceTipsContentText_Text,{0}已被{1}装备，是否替换？,{0} is equipped by {1}. Do you want to replace it?,"{0} đang được {1} trang bị, bạn có muốn thay thế không?"
-lang_multi_text.db,MultiText,Text_WeaponReplaceTipsTitleText_Text,武器替换,Weapon replacement,Thay thế vũ khí
-lang_multi_text.db,MultiText,Text_WeaponResonanceCurrentEffectText_Text,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_WeaponResonanceHasLevelUpAndResonance_Text,所选材料已经过强化和谐振，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes tuned and upgraded items. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,Vật liệu đã chọn đã được cường hóa và hài chấn. Xác nhận tiêu hao vật liệu {0} để nâng cấp hài chấn vũ khí {1} lên bậc {2}?
-lang_multi_text.db,MultiText,Text_WeaponResonanceHasLevelUp_Text,所选材料已经过强化，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes upgraded item. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,Vật liệu đã chọn đã được cường hóa. Xác nhận tiêu hao vật liệu {0} để nâng cấp hài chấn vũ khí {1} lên bậc {2}?
-lang_multi_text.db,MultiText,Text_WeaponResonanceHasResonance_Text,所选材料已经过谐振，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes Syntonized item. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,Vật liệu đã chọn đã được hài chấn. Xác nhận tiêu hao vật liệu {0} để nâng cấp hài chấn vũ khí {1} lên bậc {2}?
-lang_multi_text.db,MultiText,Text_WeaponResonanceItemLevelText_Text,{0}阶,Rank {0},Bậc {0}
-lang_multi_text.db,MultiText,Text_WeaponResonanceLevelText_Text,{0}阶,Rank {0},Bậc {0}
-lang_multi_text.db,MultiText,Text_WeaponResonanceMaterialNotEnough_Text,没有可用于谐振的材料,Insufficient Syntonize materials,Không có vật liệu khả dụng để hài chấn
-lang_multi_text.db,MultiText,Text_WeaponResonanceNextEffectText_Text,{0},{0},{0}

@@ -1,4 +1,74 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Skill_1002208_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1002208_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1002208_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1002209_MultiSkillDescribe_1.1,附近队伍中激活折枝延奏技能的角色冷凝伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,"When nearby Resonators in the party activate Zhezhi's Outro Skill, their Glacio DMG is Amplified by {0}, and Resonance Skill DMG is Amplified by {1}, lasting for {2}s or until they are switched out.","Khi Cộng Hưởng Giả trong đội ở gần kích hoạt Hiệp Tấu Kỹ của Zhezhi, sát thương Ngưng Băng được gia tăng {0}, sát thương Kỹ Năng Cộng Hưởng được gia tăng {1}, hiệu quả duy trì {2} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002209_SkillDescribe,下一位登场角色冷凝伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Glacio DMG Amplified by {0} and Resonance Skill DMG Amplified by {1} for {2}s or until they are switched out.,"Nhân vật tiếp theo lên sân được gia tăng sát thương Ngưng Băng {0}, sát thương Kỹ Năng Cộng Hưởng được gia tăng {1}, hiệu quả duy trì {2} giây, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002209_SkillName,提白,Carve and Draw,Đề Bạch
+lang_multi_text.db,MultiText,Skill_1002209_SkillResume,下一位登场角色冷凝伤害加深{0}，共鸣技能伤害加深{1}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Glacio DMG Amplified by {0} and Resonance Skill DMG Amplified by {1}. Switching Resonators ends the effect.,"Nhân vật tiếp theo lên sân được gia tăng sát thương Ngưng Băng {0}, sát thương Kỹ Năng Cộng Hưởng được gia tăng {1}, nếu chuyển sang nhân vật khác thì hiệu quả kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1002301_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+进行最多5段连续攻击，造成<color=Thunder>导电伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+消耗耐力攻击目标，造成<color=Thunder>导电伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Perform up to 5 consecutive attacks, dealing <color=Thunder>Electro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Heavy Attack</color></size>
+Perform a charged attack at the cost of STA, dealing <color=Thunder>Electro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Perform a Plunging Attack from mid-air at the cost of STA, dealing <color=Thunder>Electro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Dodge Counter</color></size>
+Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Thực hiện tối đa 5 đoạn tấn công liên tục, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10> </size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực thực hiện đòn tấn công hạ xuống từ trên không, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10> </size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn <color=Highlight>Phổ Công</color> trong khoảng thời gian ngắn sẽ tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>."
+lang_multi_text.db,MultiText,Skill_1002301_SkillName,问难,Probe,Vấn Nạn
+lang_multi_text.db,MultiText,Skill_1002301_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Thunder>导电伤害</color>。
+<size=10></size>
+<size=40><color=Title>重击</color></size>
+消耗耐力，造成<color=Thunder>导电伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Thunder>导电伤害</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Thunder>Electro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Consume STA to deal <color=Thunder>Electro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Thunder>Electro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10></size>
+<size=40><color=Title>Trọng Kích</color></size>
+Tiêu hao thể lực, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, gây <color=Thunder>sát thương Dẫn Điện</color>.
+<size=10></size>
+<size=40><color=Title>Né Tránh Phản Kích</color></size>
+Gây <color=Thunder>sát thương Dẫn Điện</color>."
 lang_multi_text.db,MultiText,Skill_1002302_SkillDescribe,攻击目标，造成<color=Thunder>导电伤害</color>。,"Attack the target, dealing <color=Thunder>Electro DMG</color>.","Tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>."
 lang_multi_text.db,MultiText,Skill_1002302_SkillName,基本推衍,Deduction,Cơ Bản Suy Diễn
 lang_multi_text.db,MultiText,Skill_1002302_SkillResume,攻击目标，造成<color=Thunder>导电伤害</color>。,Deal <color=Thunder>Electro DMG</color>.,"Tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>."
@@ -167,8 +237,8 @@ Cách nhận [Diễn Toán Hiệu Năng]: <color=Highlight>Công Thường</colo
 <size=40><color=Title>Quy Tắc Nhận Siêu Toán Hiệu Năng</color></size>
 Giới hạn {3} điểm.
 Cách nhận [Siêu Toán Hiệu Năng] trong trạng thái <color=Highlight>Động Kiến</color>: <color=Highlight>Phổ Công</color>, Tấn Công Trên Không <color=Highlight>Giải Liệt Trùng Cấu</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Nhất Tướng Vạn Thù</color>, Né Tránh Phản Kích <color=Highlight>Tri Vô Định Hình</color>"
-lang_multi_text.db,MultiText,Skill_1002308_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
-lang_multi_text.db,MultiText,Skill_1002308_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1002308_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1002308_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1002309_MultiSkillDescribe_1.2,附近队伍中激活相里要延奏技能的角色<color=Highlight>普攻</color>命中目标时，相里要将攻击目标，造成相里要{1}攻击的<color=Thunder>导电伤害</color>，持续{2}秒，每{0}秒可触发1次，最多可触发3次。,"When nearby Resonators in the party activate Xiangli Yao's Outro Skill, Xiangli Yao calls down a laser beam upon the first target their <color=Highlight>Basic Attack</color> hits, dealing <color=Thunder>Electro DMG</color> equal to {1} of Xiangli Yao's ATK to an area. This effect lasts for {2}s and the attack can be triggered once every {0}s, up to 3 times.","Khi nhân vật trong đội ở gần kích hoạt Hiệp Tấu Kỹ của Xiangli Yao, mỗi khi <color=Highlight>Phổ Công</color> của nhân vật đó trúng mục tiêu, Xiangli Yao sẽ tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color> bằng {1} tấn công của Xiangli Yao, duy trì {2} giây, mỗi {0} giây có thể kích hoạt 1 lần, tối đa kích hoạt 3 lần."
 lang_multi_text.db,MultiText,Skill_1002309_SkillDescribe,下一位登场角色<color=Highlight>普攻</color>命中目标时，相里要将攻击目标，造成相里要{1}攻击的<color=Thunder>导电伤害</color>，持续{2}秒，每{0}秒可触发1次，最多可触发3次。,"Xiangli Yao will call down a laser beam upon the first target the incoming Resonator's <color=Highlight>Basic Attack</color> hits, dealing <color=Thunder>Electro DMG</color> equal to {1} of Xiangli Yao's ATK to an area. This effect lasts for {2}s and can be triggered once every {0}s, up to 3 times.","Khi <color=Highlight>Phổ Công</color> của nhân vật ra sân tiếp theo trúng mục tiêu, Xiangli Yao sẽ tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color> bằng {1} tấn công của Xiangli Yao, duy trì {2} giây, mỗi {0} giây có thể kích hoạt 1 lần, tối đa kích hoạt 3 lần."
 lang_multi_text.db,MultiText,Skill_1002309_SkillName,链式,Chain Rule,Liên Thức
@@ -442,7 +512,7 @@ Sau khi thi triển <color=Highlight>Thi Trung Vật</color>, xóa toàn bộ [C
 <size=40><color=Title>Quy tắc nhận [Cát Triệu]</color></size>
 Cách nhận [Cát Triệu]: Thi triển <color=Highlight>Kỳ Trân Thưởng</color> để nhận [Cát Triệu] tương ứng."
 lang_multi_text.db,MultiText,Skill_1002408_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1002408_SkillName,巧手烹调,Skillful Cooking,Xảo Thủ Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1002408_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
 lang_multi_text.db,MultiText,Skill_1002408_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1002409_MultiSkillDescribe_1.3,附近队伍中激活釉瑚延奏技能的角色协同攻击伤害加深{0}，效果持续{1}秒。,"When nearby Resonators in the party activate Youhu's Outro Skill, their Coordinated Attack DMG is Amplified by {0} for {1}s.","Nhân vật trong đội gần đó kích hoạt Hiệp Tấu Kỹ của Youhu sẽ được gia tăng sát thương Hiệp Đồng Công Kích thêm {0}, hiệu ứng kéo dài {1} giây."
 lang_multi_text.db,MultiText,Skill_1002409_SkillDescribe,下一位登场角色的协同攻击伤害加深{0}，效果持续{1}秒。,The incoming Resonator has their Coordinated Attack DMG Amplified by {0} for {1}s.,"Nhân vật tiếp theo đăng trường được gia tăng sát thương Hiệp Đồng Công Kích thêm {0}, hiệu ứng kéo dài {1} giây."
@@ -707,8 +777,8 @@ Khi sở hữu 5 đoạn [Dữ Liệu Thực Luận], thi triển <color=Highlig
 [Dữ Liệu Thực Luận] tối đa 5 đoạn.
 Cách nhận [Dữ Liệu Thực Luận]: <color=Highlight>Công Thường</color>."
 lang_multi_text.db,MultiText,Skill_1002508_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1002508_SkillName,巧手烹调,Skillful Cooking,Xảo Thủ Nấu Nướng
-lang_multi_text.db,MultiText,Skill_1002508_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1002508_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1002508_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1002509_MultiSkillDescribe_1.3,"守岸人召唤一只<color=Highlight>耀星·蝶</color>和一只<color=Highlight>黯星·蝶</color>环绕激活守岸人延奏技能的角色，最多存在{0}秒，并获得以下效果：
 ·若该角色队伍中登场角色处于受击或被击飞状态中，点按<color=Highlight>闪避</color>将脱离受击状态或被击飞状态，并视为闪避成功，若处于低空，则会回到地面。该效果最多可触发{1}次。
 ·该角色队伍中所有角色全伤害加深{2}。","Shorekeeper summons 1 <color=Highlight>Flare Star Butterfly</color> and 1 <color=Highlight>Dim Star Butterfly</color> to circle the party member who triggers Shorekeeper's Outro Skill for up to {0}s, granting the following effects:  
@@ -939,90 +1009,3 @@ lang_multi_text.db,MultiText,Skill_1002603_SkillDescribe,灯灯将啾啾巨大�
 lang_multi_text.db,MultiText,Skill_1002603_SkillName,啾啾专送,Squeakie Express,Squeakie Chuyên Tống
 lang_multi_text.db,MultiText,Skill_1002603_SkillResume,造成<color=Thunder>导电伤害</color>。,Deal <color=Thunder>Electro DMG</color>.,Gây <color=Thunder>sát thương Dẫn Điện</color>.
 lang_multi_text.db,MultiText,Skill_1002604_SkillDescribe,<te href=850044>红灯模式</te>期间，灯灯导电伤害加成提升{0}。,Gain {0} Electro DMG Bonus when in <te href=850044>Red Light Mode</te>.,"Trong chế độ <te href=850044>Đèn Đỏ</te>, tăng thêm {0} bonus sát thương Dẫn Điện cho Lumi."
-lang_multi_text.db,MultiText,Skill_1002604_SkillName,寻路,Pathfinding,Tầm Lộ
-lang_multi_text.db,MultiText,Skill_1002604_SkillResume,红灯模式期间，灯灯导电伤害加成提升{0}。,Gain {0} Electro DMG Bonus when in Red Light Mode.,"Trong chế độ Đèn Đỏ, tăng thêm {0} bonus sát thương Dẫn Điện cho Lumi."
-lang_multi_text.db,MultiText,Skill_1002605_SkillDescribe,施放<color=Highlight>强化·前扑</color>或<color=Highlight>强化·后撤</color>时，{0}秒内灯灯攻击力提升{1}。,Casting <color=Highlight>Energized Pounce</color> or <color=Highlight>Energized Rebound</color> increases ATK by {1} for {0}s.,"Khi thi triển <color=Highlight>Cường Hóa - Tiền Phác</color> hoặc <color=Highlight>Cường Hóa - Hậu Triệt</color>, tấn công lực của Lumi tăng {1} trong {0} giây."
-lang_multi_text.db,MultiText,Skill_1002605_SkillName,奔赴,Expediting,Bôn Phó
-lang_multi_text.db,MultiText,Skill_1002605_SkillResume,施放<color=Highlight>强化·前扑</color>或<color=Highlight>强化·后撤</color>时，{0}秒内灯灯攻击力提升{1}。,"When performing <color=Highlight>Energized Pounce</color> or <color=Highlight>Energized Rebound</color>, ATK is increased by {1} for {0}s.","Khi thi triển <color=Highlight>Cường Hóa - Tiền Phác</color> hoặc <color=Highlight>Cường Hóa - Hậu Triệt</color>, tấn công lực của Lumi tăng {1} trong {0} giây."
-lang_multi_text.db,MultiText,Skill_1002606_SkillDescribe,进入<color=Highlight><te href=850043>黄灯模式</te></color>，攻击目标，造成<color=Thunder>导电伤害</color>。,"Enter <color=Highlight><te href=850043>Yellow Light Mode</te></color> and attack the target, dealing <color=Thunder>Electro DMG</color>.","Tiến vào chế độ <color=Highlight><te href=850043>Đèn Vàng</te></color>, tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>."
-lang_multi_text.db,MultiText,Skill_1002606_SkillName,专项派送,Special Delivery,Chuyên Hạng Phái Tống
-lang_multi_text.db,MultiText,Skill_1002606_SkillResume,进入<color=Highlight>黄灯</color>模式，造成<color=Thunder>导电伤害</color>。,Enter <color=Highlight>Yellow Light Mode</color> and deal <color=Thunder>Electro DMG</color>.,"Tiến vào chế độ <color=Highlight>Đèn Vàng</color>, gây <color=Thunder>sát thương Dẫn Điện</color>."
-lang_multi_text.db,MultiText,Skill_1002607_SkillDescribe,"<size=40><color=Title>强化·前扑</color></size>
-当【黄灯光能】满时，共鸣技能替换为<color=Highlight>强化·前扑</color>，造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>红灯聚光</color>模式，此次伤害为普攻伤害。
-<color=Highlight>红灯聚光</color>模式期间，<color=Highlight>红灯·普攻</color>和<color=Highlight>红灯·重击</color>造成伤害的倍率提升，回复的【光能】增加。
-施放4次普攻或重击后，退出<color=Highlight>红灯聚光</color>模式。
-
-<size=40><color=Title>强化·后撤</color></size>
-当【红灯光能】满时，共鸣技能替换为<color=Highlight>强化·后撤</color>，造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>黄灯聚光</color>模式，此次伤害为普攻伤害。
-<color=Highlight>黄灯聚光</color>模式期间，<color=Highlight>飞星</color>替换为<color=Highlight>强光</color>，造成伤害的倍率提升，回复的【光能】增加。
-施放6次<color=Highlight>强光</color>后，退出<color=Highlight>黄灯聚光</color>模式。
-
-<size=40><color=Title>强光穿射</color></size>
-灯灯施放延奏技能时，消耗当前模式的全部【光能】。
-消耗的【光能】大于等于{0}点时，可施放强光穿射，造成<color=Thunder>导电伤害</color>，此次伤害为普攻伤害。
-每{0}点【光能】可使强光穿射的伤害段数加{1}，最多{2}段。
-
-<size=40><color=Title>黄灯光能获取规则</color></size>
-上限{3}点。
-<color=Highlight>黄灯·普攻</color>命中目标，可获得【黄灯光能】。
-<color=Highlight>飞星</color>命中目标，可获得【黄灯光能】。
-<color=Highlight>强光</color>命中目标，可获得【黄灯光能】。
-共鸣技能<color=Highlight>强化·后撤</color>命中目标，可获得【黄灯光能】。
-施放变奏技能<color=Highlight>专项派送</color>时，可获得【黄灯光能】。
-
-<size=40><color=Title>红灯光能获取规则</color></size>
-上限{3}点。
-<color=Highlight>红灯</color>或<color=Highlight>红灯聚光</color>模式期间，常态攻击<color=Highlight>前路领航</color>命中目标，可获得【红灯光能】。","<size=40><color=Title>Energized Pounce</color></size>
-When Yellow Light Spark is fully recovered, replace Resonance Skill with Resonance Skill <color=Highlight>Energized Pounce</color> that deals <color=Thunder>Electro DMG</color> and enter <color=Highlight>Red Spotlight Mode</color>. The DMG dealt is considered Basic Attack DMG.
-When in <color=Highlight>Red Spotlight Mode</color>, the DMG Multiplier of <color=Highlight>Red Light: Basic Attack</color> and <color=Highlight>Red Light: Heavy Attack</color> is increased, with an extra amount of Sparks recovered.
-<color=Highlight>Red Spotlight Mode</color> ends after performing altogether 4 Basic Attacks and/or Heavy Attacks.
-
-<size=40><color=Title>Energized Rebound</color></size>
-When Red Light Spark is fully recovered, replace Resonance Skill with Resonance Skill <color=Highlight>Energized Rebound</color> that deals <color=Thunder>Electro DMG</color> and enter <color=Highlight>Yellow Spotlight Mode</color>. The DMG dealt is considered Basic Attack DMG.
-When in <color=Highlight>Yellow Spotlight Mode</color>, <color=Highlight>Glitter</color> is replaced by <color=Highlight>Glare</color>, with an increased DMG Multiplier and an extra amount of Sparks recovered.
-<color=Highlight>Yellow Spotlight Mode</color> ends after shooting 6 <color=Highlight>Glares</color>.
-
-<size=40><color=Title>Laser</color></size>
-Casting Outro Skill consumes all Sparks obtained in the current mode.
-Laser can be cast when the amount of consumed Sparks is greater than or equal to {0}, dealing <color=Thunder>Electro DMG</color>.  The DMG dealt is considered Basic Attack DMG. 
-Every {0} Sparks consumed generates {1} extra Laser beam, up to {2} Laser beams.
-
-<size=40><color=Title>Yellow Light Spark</color></size>
-Lumi can hold up to {3} Yellow Light Sparks.
-Lumi obtains Yellow Light Spark under the following conditions: 
-When <color=Highlight>Yellow Light: Basic Attack</color> hits the target;
-When <color=Highlight>Glitter</color> hits the target;
-When <color=Highlight>Glare</color> hits the target;
-When Resonance Skill <color=Highlight>Energized Rebound</color> hits the target;
-When casting Intro Skill <color=Highlight>Special Delivery</color>.
-
-<size=40><color=Title>Red Light Spark</color></size>
-Lumi can hold up to {3} Red Light Sparks.
-Lumi obtains Red Light Spark under the following conditions:
-When Normal Attack <color=Highlight>Navigation Support</color> hits the target in <color=Highlight>Red Light Mode</color> or <color=Highlight>Red Spotlight Mode</color>.","<size=40><color=Title>Cường Hóa - Tiền Phác</color></size>
-Khi [Quang Năng Đèn Vàng] đầy, Kỹ Năng Cộng Hưởng được thay thế bằng <color=Highlight>Cường Hóa - Tiền Phác</color>, gây <color=Thunder>sát thương Dẫn Điện</color> và tiến vào chế độ <color=Highlight>Đèn Đỏ Tụ Quang</color>, sát thương này được tính là sát thương Phổ Công.
-Trong chế độ <color=Highlight>Đèn Đỏ Tụ Quang</color>, hệ số sát thương của <color=Highlight>Đèn Đỏ - Phổ Công</color> và <color=Highlight>Đèn Đỏ - Trọng Kích</color> được tăng, [Quang Năng] hồi phục cũng tăng thêm.
-Sau khi thi triển tổng cộng 4 lần Phổ Công hoặc Trọng Kích, thoát khỏi chế độ <color=Highlight>Đèn Đỏ Tụ Quang</color>.
-
-<size=40><color=Title>Cường Hóa - Hậu Triệt</color></size>
-Khi [Quang Năng Đèn Đỏ] đầy, Kỹ Năng Cộng Hưởng được thay thế bằng <color=Highlight>Cường Hóa - Hậu Triệt</color>, gây <color=Thunder>sát thương Dẫn Điện</color> và tiến vào chế độ <color=Highlight>Đèn Vàng Tụ Quang</color>, sát thương này được tính là sát thương Phổ Công.
-Trong chế độ <color=Highlight>Đèn Vàng Tụ Quang</color>, <color=Highlight>Phi Tinh</color> được thay thế bằng <color=Highlight>Cường Quang</color>, hệ số sát thương tăng, [Quang Năng] hồi phục cũng tăng thêm.
-Sau khi thi triển 6 lần <color=Highlight>Cường Quang</color>, thoát khỏi chế độ <color=Highlight>Đèn Vàng Tụ Quang</color>.
-
-<size=40><color=Title>Cường Quang Xuyên Xạ</color></size>
-Khi Lumi thi triển Biến Tấu Kỹ, tiêu hao toàn bộ [Quang Năng] của chế độ hiện tại.
-Khi [Quang Năng] tiêu hao lớn hơn hoặc bằng {0} điểm, có thể thi triển Cường Quang Xuyên Xạ, gây <color=Thunder>sát thương Dẫn Điện</color>, sát thương này được tính là sát thương Phổ Công.
-Mỗi {0} điểm [Quang Năng] tăng thêm {1} đoạn sát thương cho Cường Quang Xuyên Xạ, tối đa {2} đoạn.
-
-<size=40><color=Title>Quy Tắc Nhận Quang Năng Đèn Vàng</color></size>
-Giới hạn {3} điểm.
-<color=Highlight>Đèn Vàng - Phổ Công</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Vàng].
-<color=Highlight>Phi Tinh</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Vàng].
-<color=Highlight>Cường Quang</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Vàng].
-Kỹ Năng Cộng Hưởng <color=Highlight>Cường Hóa - Hậu Triệt</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Vàng].
-Khi thi triển Hiệp Tấu Kỹ <color=Highlight>Chuyên Hạng Phái Tống</color> sẽ nhận được [Quang Năng Đèn Vàng].
-
-<size=40><color=Title>Quy Tắc Nhận Quang Năng Đèn Đỏ</color></size>
-Giới hạn {3} điểm.
-Trong chế độ <color=Highlight>Đèn Đỏ</color> hoặc <color=Highlight>Đèn Đỏ Tụ Quang</color>, Công Thường <color=Highlight>Tiền Lộ Lĩnh Hàng</color> trúng mục tiêu sẽ nhận được [Quang Năng Đèn Đỏ]."
-lang_multi_text.db,MultiText,Skill_1002607_SkillName,信号闪耀,Signal Light,Tín Hiệu Thiểm Diệu

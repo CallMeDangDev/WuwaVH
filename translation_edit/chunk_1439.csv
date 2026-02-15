@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,MenuConfig_105_OptionsName_2,关闭,Off,Đóng
+lang_multi_text.db,MultiText,MenuConfig_106_Name,走跑灵敏度,Walk-Run Threshold,Độ nhạy đi/chạy
+lang_multi_text.db,MultiText,MenuConfig_107_ButtonText,前往,Go,Đi đến
+lang_multi_text.db,MultiText,MenuConfig_107_Name,日志上传,Log Upload,Tải nhật ký lên
+lang_multi_text.db,MultiText,MenuConfig_108_Name,摇杆模式,Joystick Mode,Chế độ cần điều khiển
+lang_multi_text.db,MultiText,MenuConfig_108_OptionsName_0,静态摇杆,Static Joystick,Cần điều khiển tĩnh
+lang_multi_text.db,MultiText,MenuConfig_108_OptionsName_1,动态摇杆,Dynamic Joystick,Cần điều khiển động
+lang_multi_text.db,MultiText,MenuConfig_109_Name,自动切换战斗模式UI,Auto-Switch to Combat UI,Tự động chuyển UI chế độ chiến đấu
+lang_multi_text.db,MultiText,MenuConfig_109_OptionsName_0,开,On,Bật
+lang_multi_text.db,MultiText,MenuConfig_109_OptionsName_1,关,Off,Tắt
 lang_multi_text.db,MultiText,MenuConfig_10_KeyMap,D,D,D
 lang_multi_text.db,MultiText,MenuConfig_10_Name,向右移动,Move Right,Di chuyển sang phải
 lang_multi_text.db,MultiText,MenuConfig_10_SubName,操作,Actions,Thao tác
@@ -8,7 +18,7 @@ lang_multi_text.db,MultiText,MenuConfig_112_OptionsName,兑换,Redeem,Đổi
 lang_multi_text.db,MultiText,MenuConfig_112_SubName,账户,Account,Tài khoản
 lang_multi_text.db,MultiText,MenuConfig_113_Name,用户中心,User Center,Trung tâm người dùng
 lang_multi_text.db,MultiText,MenuConfig_113_SubName,账户设置,Account Settings,Cài đặt tài khoản
-lang_multi_text.db,MultiText,MenuConfig_114_Name,用户协议,Terms of Use,Điều khoản sử dụng
+lang_multi_text.db,MultiText,MenuConfig_114_Name,用户协议,Terms of Use,Thỏa thuận người dùng
 lang_multi_text.db,MultiText,MenuConfig_115_Name,隐私政策,Privacy Policy,Chính sách bảo mật
 lang_multi_text.db,MultiText,MenuConfig_116_Name,儿童隐私政策,Children's Privacy Policy,Chính sách bảo mật trẻ em
 lang_multi_text.db,MultiText,MenuConfig_117_Name,第三方信息共享清单,Third-party Information Sharing List,Danh sách chia sẻ thông tin bên thứ ba
@@ -52,7 +62,7 @@ lang_multi_text.db,MultiText,MenuConfig_142_SubName,操作模式,Modality,Chế 
 lang_multi_text.db,MultiText,MenuConfig_145_Desc,开启后，当性能压力过大时，将自动调整最高帧率和最高画质来减轻性能压力,"When enabled, Graphics Quality and Max FPS will be dialed back if the current setup load is too high.","Khi bật, nếu áp lực hiệu năng quá cao, hệ thống sẽ tự động điều chỉnh khung hình tối đa và chất lượng hình ảnh để giảm tải."
 lang_multi_text.db,MultiText,MenuConfig_145_Name,自动调节,Auto FPS,Tự động điều chỉnh
 lang_multi_text.db,MultiText,MenuConfig_145_Set_Tips,开启自动调节,Enable Auto FPS,Bật tự động điều chỉnh
-lang_multi_text.db,MultiText,MenuConfig_146_ButtonText,前往,Go,Đi tới
+lang_multi_text.db,MultiText,MenuConfig_146_ButtonText,前往,Go,Đi đến
 lang_multi_text.db,MultiText,MenuConfig_146_Name,ICP备案号:粤ICP备18069368号-8A,ICP License: 粤ICP备18069368号-8A,ICP License: 粤ICP备18069368号-8A
 lang_multi_text.db,MultiText,MenuConfig_146_SubName,ICP备案号:粤ICP备18069368号-8A,ICP License: 粤ICP备18069368号-8A,ICP License: 粤ICP备18069368号-8A
 lang_multi_text.db,MultiText,MenuConfig_147_Name,翱翔输入方式,Flight Controls,Phương thức điều khiển bay
@@ -76,7 +86,7 @@ lang_multi_text.db,MultiText,MenuConfig_18_SubName,操作,Actions,Thao tác
 lang_multi_text.db,MultiText,MenuConfig_19_KeyMap,T,T,T
 lang_multi_text.db,MultiText,MenuConfig_19_Name,探索工具,Utility,Công cụ khám phá
 lang_multi_text.db,MultiText,MenuConfig_19_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_1_Name,语音音量,Voice Volume,Âm lượng giọng nói
+lang_multi_text.db,MultiText,MenuConfig_1_Name,语音音量,Voice Volume,Âm lượng thoại
 lang_multi_text.db,MultiText,MenuConfig_1_SubName,音量,Volume,Âm lượng
 lang_multi_text.db,MultiText,MenuConfig_20023_Name,伤害飘字,Damage Numbers,Số sát thương
 lang_multi_text.db,MultiText,MenuConfig_20024_Name,飘带动画,Physics-Based Animation,Hiệu ứng vật lý trang phục
@@ -85,17 +95,7 @@ lang_multi_text.db,MultiText,MenuConfig_20025_OptionsName_0,全屏,Full Screen,T
 lang_multi_text.db,MultiText,MenuConfig_20025_OptionsName_1,保留黑边,Letterbox,Giữ viền đen
 lang_multi_text.db,MultiText,MenuConfig_20026_Name,光线追踪,Ray Tracing,Dò tia
 lang_multi_text.db,MultiText,MenuConfig_20026_SubName,光追,Ray Tracing,Dò tia
-lang_multi_text.db,MultiText,MenuConfig_200271_OptionsName_0,关闭,Close,Tắt
+lang_multi_text.db,MultiText,MenuConfig_200271_OptionsName_0,关闭,Close,Đóng
 lang_multi_text.db,MultiText,MenuConfig_200271_OptionsName_1,2x,2x,2x
 lang_multi_text.db,MultiText,MenuConfig_200271_OptionsName_2,3x,3x,3x
 lang_multi_text.db,MultiText,MenuConfig_200271_OptionsName_3,4x,4x,4x
-lang_multi_text.db,MultiText,MenuConfig_20027_Desc,使用光线追踪为游戏中需要反射的材质提供高质量反射,Enable Ray Tracing to render more accurate reflections of objects on reflective surfaces in the game.,Sử dụng dò tia để cung cấp phản chiếu chất lượng cao cho các chất liệu cần phản chiếu trong game.
-lang_multi_text.db,MultiText,MenuConfig_20027_Name,光追反射,Ray-Traced Reflections,Phản chiếu dò tia
-lang_multi_text.db,MultiText,MenuConfig_20028_Desc,使用光线追踪计算游戏中的间接光照，较高的设置需要更高的图形处理性能和显存,Enable Ray Tracing to calculate indirect lighting for more realistic lighting in the game. Higher settings will result in higher performance costs.,Sử dụng dò tia để tính toán ánh sáng gián tiếp trong game. Cài đặt càng cao thì yêu cầu hiệu năng xử lý đồ họa và bộ nhớ video càng lớn.
-lang_multi_text.db,MultiText,MenuConfig_20028_Name,光追全局光照,Ray-Traced Global Illumination,Chiếu sáng toàn cục dò tia
-lang_multi_text.db,MultiText,MenuConfig_20029_Desc,使用光线追踪提升游戏中阴影的质量,Enable Ray Tracing to improve the quality of shadows in the game.,Sử dụng dò tia để nâng cao chất lượng bóng đổ trong game.
-lang_multi_text.db,MultiText,MenuConfig_20029_Name,光追阴影,Ray-Traced Shadows,Đổ bóng Ray Tracing
-lang_multi_text.db,MultiText,MenuConfig_20030_Name,联机队友特效,Co-op Teammate VFX,Hiệu ứng đồng đội Liên cơ
-lang_multi_text.db,MultiText,MenuConfig_20030_OptionsName_0,完全屏蔽,Off,Chặn hoàn toàn
-lang_multi_text.db,MultiText,MenuConfig_20030_OptionsName_1,部分屏蔽,Partially Off,Chặn một phần
-lang_multi_text.db,MultiText,MenuConfig_20030_OptionsName_2,完全展示,On,Hiển thị đầy đủ

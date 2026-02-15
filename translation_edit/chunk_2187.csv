@@ -1,4 +1,17 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,WeaponReson_94_Name,无归,Valiance,Vô Quy
+lang_multi_text.db,MultiText,WeaponReson_95_Name,无归,Valiance,Vô Quy
+lang_multi_text.db,MultiText,WeaponReson_96_Name,无归,Valiance,Vô Quy
+lang_multi_text.db,MultiText,WeaponReson_97_Name,无归,Valiance,Vô Quy
+lang_multi_text.db,MultiText,WeaponReson_98_Name,无归,Valiance,Vô Quy
+lang_multi_text.db,MultiText,WeaponReson_99_Name,无归,Valiance,Vô Quy
+lang_multi_text.db,MultiText,WeaponReson_9_Name,dnt/刻苦,Persevere,Persevere
+lang_multi_text.db,MultiText,WeaponSkinConf_80080001_AttributesDescription,可以更改武器外观的投影道具。,A projection device that allows you to change the weapon's appearance.,Đạo cụ phóng chiếu có thể thay đổi ngoại hình vũ khí.
+lang_multi_text.db,MultiText,WeaponSkinConf_80080001_BgDescription,"纯粹的概念投影，宛若无物的透明长刃。
+在心之集域中，武器的外观形制不过是表象，其概念的核心是用于战斗的工具。","A conceptual projection, a transparent broadblade as if it were made of nothing.
+In Somnoire, a weapon's form is but a mirage, while its purpose—a tool of war—holds true as ever.","Phóng chiếu khái niệm thuần túy, một Trọng Kiếm trong suốt tựa hư vô.
+Trong Tâm Chi Tập Vực, hình dáng bề ngoài của vũ khí chỉ là biểu tượng, cốt lõi khái niệm của nó là công cụ dùng để chiến đấu."
+lang_multi_text.db,MultiText,WeaponSkinConf_80080001_Name,投影·心象长刃,Projection: Formless Broadblade,Phóng Chiếu - Tâm Tượng Trọng Kiếm
 lang_multi_text.db,MultiText,WeaponSkinConf_80080001_TypeDescription,武器投影,Weapon Projection,Phóng Chiếu Vũ Khí
 lang_multi_text.db,MultiText,WeaponSkinConf_80080002_AttributesDescription,可以更改武器外观的投影道具。,A projection device that allows you to change the weapon's appearance.,Đạo cụ phóng chiếu có thể thay đổi ngoại hình vũ khí.
 lang_multi_text.db,MultiText,WeaponSkinConf_80080002_BgDescription,"纯粹的概念投影，宛若无物的透明迅刀。
@@ -38,7 +51,7 @@ Nguyên mẫu của vũ khí này là thiết bị neo định mà Thủ Môn Nh
 Sau khi Thủ Môn Nhân Trắng bị biến thành hình dạng mèo trắng, ngoại hình của thiết bị này cũng có chút thay đổi..."
 lang_multi_text.db,MultiText,WeaponSkinConf_80080006_Name,投影·心之锚,Projection: Somnoire Anchor,Phóng Chiếu - Tâm Chi Mão
 lang_multi_text.db,MultiText,WeaponSkinConf_80080006_TypeDescription,武器投影,Weapon Projection,Phóng Chiếu Vũ Khí
-lang_multi_text.db,MultiText,WeaponSkinConf_80080007_AttributesDescription,可以更改武器外观的投影道具。,A projection device that allows you to change the weapon's appearance.,Đạo cụ phóng chiếu có thể thay đổi ngoại quan của vũ khí.
+lang_multi_text.db,MultiText,WeaponSkinConf_80080007_AttributesDescription,可以更改武器外观的投影道具。,A projection device that allows you to change the weapon's appearance.,Đạo cụ phóng chiếu có thể thay đổi ngoại hình vũ khí.
 lang_multi_text.db,MultiText,WeaponSkinConf_80080007_BgDescription,"长刃·时和岁稔的概念投影，艳若桃花。
 当春风吹动四季轮转，剑柄上的时序玉珠也如同少女的心事般，被花瓣浸染成了粉色。","A projection of Broadblade - Ages of Harvest, as lovely as peach blossoms.
 With spring's arrival, the temporal pearl on the hilt turns pink, dyed by petals, like the heart of a girl in bloom.","Phóng chiếu khái niệm của Trường Nhận - Thời Hòa Tuế Nhẫm, diễm lệ tựa hoa đào.
@@ -94,7 +107,7 @@ lang_multi_text.db,MultiText,WeeklyBossInfo_Text,挑战详情,Details,Chi tiết
 lang_multi_text.db,MultiText,WeeklyBossInfo_Title,敌人抗性详情,Enemy Info,Chi tiết kháng tính kẻ địch
 lang_multi_text.db,MultiText,WeeklyRogueSettleProgressTitle,通关进度,Progress,Tiến độ thông quan
 lang_multi_text.db,MultiText,WeeklyRogueSettleScoreReward,获得异想积分,Illusive Points Obtained,Dị Tưởng Tích Phân nhận được
-lang_multi_text.db,MultiText,WeeklyRogueTag,积分150%,Points x150%,Tích phân 150%
+lang_multi_text.db,MultiText,WeeklyRogueTag,积分150%,Points x150%,Điểm 150%
 lang_multi_text.db,MultiText,WeeklyRogue_Activity_Score,{0}/{1},{0}/{1},{0}/{1}
 lang_multi_text.db,MultiText,WeeklyRogue_Activity_Time,本期剩余时间：{0},Remaining: {0},Thời gian còn lại kỳ này: {0}
 lang_multi_text.db,MultiText,WeeklyRoguelikeShopItemType0,隐喻,Metaphor,Ẩn Dụ
@@ -205,133 +218,3 @@ Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
 . Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Dẫn Điện;</color>
 . Phổ Công trúng địch nhận 20 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần; <color=#ffd12f>khi thi triển kỹ năng Biến Tấu, nhận 100 điểm ""Năng Lượng Mộng Cảnh"", mỗi 10 giây kích hoạt một lần; khi gây sát thương Dẫn Điện, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
 . Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2203,"本期梦境援护角色：<color=#ffd12f>椿、洛可可、丹瑾、白芷、坎特蕾拉</color>，使用至少1位梦境援护角色可<color=#ffd12f>获得150%「异想积分」加成</color>！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>湮灭伤害加成提升30%；</color>
-· 普攻命中敌人时获得20点「梦境能量」，每秒可触发一次； <color=#ffd12f>重击命中时，获得10点「梦境能量」，每秒可触发一次；造成湮灭伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Camellya, Roccia, Danjin, Baizhi, and Cantarella</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects:
-- All Resonators in the team <color=#ffd12f>gain 30% Havoc DMG Bonus</color>.
-- Hitting a target with Basic Attack grants 20 Dreamscape Energy. This effect can be triggered once every second. <color=#ffd12f>Hitting a target with Heavy Attack grants 10 Dreamscape Energy. This effect can be triggered once every second. Dealing Havoc DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color>
-- Enter Lucid Dream mode when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Camellya, Roccia, Danjin, Baizhi, Cantarella</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để <color=#ffd12f>nhận 150% bonus ""Dị Tưởng Tích Phân""</color>!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Giải Ly;</color>
-. Phổ Công trúng địch nhận 20 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần; <color=#ffd12f>Trọng Kích trúng mục tiêu nhận 10 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần; khi gây sát thương Giải Ly, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2301,"本期梦境援护角色：<color=#ffd12f>赞妮、今汐、菲比、守岸人、维里奈</color>，使用至少1位梦境援护角色可<color=#ffd12f>获得150%「异想积分」加成</color>！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>衍射伤害加成提升30%；</color>
-· 普攻命中敌人时获得20点「梦境能量」，每秒可触发一次；<color=#ffd12f>施放共鸣技能时，获得100点「梦境能量」，每10秒可触发一次；造成衍射伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Zani, Jinhsi, Phoebe, Shorekeeper, and Verina</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects:
-- All Resonators in the team <color=#ffd12f>gain 30% Spectro DMG Bonus.</color> 
-- Hitting a target with Basic Attack grants 20 Dreamscape Energy. This effect can be triggered once every second. <color=#ffd12f>Casting Resonance Skill grants 100 Dreamscape Energy. This effect can be triggered once every 10s. Dealing Spectro DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color>
-- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Zani, Jinhsi, Phoebe, Shorekeeper, Verina</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để <color=#ffd12f>nhận 150% bonus ""Dị Tưởng Tích Phân""</color>!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Nhiễu Xạ;</color>
-. Phổ Công trúng địch nhận 20 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần; <color=#ffd12f>khi thi triển Kỹ Năng Cộng Hưởng, nhận 100 điểm ""Năng Lượng Mộng Cảnh"", mỗi 10 giây kích hoạt một lần; khi gây sát thương Nhiễu Xạ, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2302,"本期梦境援护角色：<color=#ffd12f>布兰特、长离、安可、炽霞、莫特斐</color>，使用至少1位梦境援护角色可<color=#ffd12f>获得150%「异想积分」加成</color>！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>热熔伤害加成提升30%；</color>
-· <color=#ffd12f>造成热熔伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Brant, Changli, Encore, Chixia, and Mortefi</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects:
-- All Resonators in the team <color=#ffd12f>gain 30% Fusion DMG Bonus.</color> 
-- <color=#ffd12f>Dealing Fusion DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color> 
-- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Brant, Changli, Encore, Chixia, Mortefi</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để <color=#ffd12f>nhận 150% bonus ""Dị Tưởng Tích Phân""</color>!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Nhiệt Dung;</color>
-. <color=#ffd12f>Khi gây sát thương Nhiệt Dung, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2303,"本期梦境援护角色：<color=#ffd12f>椿、洛可可、丹瑾、白芷、坎特蕾拉</color>，使用至少1位梦境援护角色可<color=#ffd12f>获得150%「异想积分」加成</color>！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>湮灭伤害加成提升30%；</color>
-· <color=#ffd12f>造成湮灭伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Camellya, Roccia, Danjin, Baizhi, and Cantarella</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects:
-- All Resonators in the team <color=#ffd12f>gain 30% Havoc DMG Bonus.</color> 
-- <color=#ffd12f>Dealing Havoc DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color> 
-- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Camellya, Roccia, Danjin, Baizhi, Cantarella</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để <color=#ffd12f>nhận 150% bonus ""Dị Tưởng Tích Phân""</color>!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Giải Ly;</color>
-. <color=#ffd12f>Khi gây sát thương Giải Ly, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2304,"本期梦境援护角色：<color=#ffd12f>卡提希娅、夏空、忌炎、鉴心、秧秧、秋水</color>，使用至少1位梦境援护角色可获得150%积分加成！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>气动伤害加成提升30%；</color>
-· <color=#ffd12f>造成气动伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Cartethyia, Ciaccona, Jiyan, Jianxin, Yangyang, and Aalto</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects:
-- All Resonators in the team <color=#ffd12f>gain 30% Aero DMG Bonus.</color> 
-- <color=#ffd12f>Dealing Aero DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color> 
-- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Cartethyia, Ciaccona, Jiyan, Jianxin, Yangyang, Aalto</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để nhận 150% bonus tích phân!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Khí Động;</color>
-. <color=#ffd12f>Khi gây sát thương Khí Động, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2305,"本期梦境援护角色：<color=#ffd12f>相里要、吟霖、卡卡罗、渊武</color>，使用至少1位梦境援护角色可获得150%积分加成！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>导电伤害加成提升30%；</color>
-· <color=#ffd12f>造成导电伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Xiangli Yao, Yinlin, Calcharo, and Yuanwu</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects:
-- All Resonators in the team <color=#ffd12f>gain 30% Electro DMG Bonus.</color> 
-- <color=#ffd12f>Dealing Electro DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color> 
-- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Xiangli Yao, Yinlin, Calcharo, Yuanwu</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để nhận 150% bonus tích phân!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Dẫn Điện;</color>
-. <color=#ffd12f>Khi gây sát thương Dẫn Điện, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2306,"本期梦境援护角色：<color=#ffd12f>珂莱塔、折枝、凌阳、散华、釉瑚</color>，使用至少1位梦境援护角色可<color=#ffd12f>获得150%「异想积分」加成</color>！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>冷凝伤害加成提升30%；</color>
-· <color=#ffd12f>造成冷凝伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Carlotta, Zhezhi, Lingyang, Sanhua, and Youhu</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects: 
-- All Resonators in the team <color=#ffd12f>gain 30% Glacio DMG Bonus.</color> 
-- <color=#ffd12f>Dealing Glacio DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color> 
-- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Carlotta, Zhezhi, Lingyang, Sanhua, Youhu</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để <color=#ffd12f>nhận 150% bonus ""Dị Tưởng Tích Phân""</color>!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Ngưng Băng;</color>
-. <color=#ffd12f>Khi gây sát thương Ngưng Băng, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2401,"本期梦境援护角色：<color=#ffd12f>卡提希娅、夏空、忌炎、鉴心、秧秧、秋水</color>，使用至少1位梦境援护角色可获得150%积分加成！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>气动伤害加成提升30%；</color>
-· <color=#ffd12f>造成气动伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Cartethyia, Ciaccona, Jiyan, Jianxin, Yangyang, and Aalto</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects:
-- All Resonators in the team <color=#ffd12f>gain 30% Aero DMG Bonus.</color> 
-- <color=#ffd12f>Dealing Aero DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color> 
-- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Cartethyia, Ciaccona, Jiyan, Jianxin, Yangyang, Aalto</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để nhận 150% bonus tích phân!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Khí Động;</color>
-. <color=#ffd12f>Khi gây sát thương Khí Động, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2404,"本期梦境援护角色：<color=#ffd12f>露帕、布兰特、长离、安可、炽霞、莫特斐</color>，使用至少1位梦境援护角色可<color=#ffd12f>获得150%「异想积分」加成</color>！
-本期梦境援护效果：
-· 全队角色<color=#ffd12f>热熔伤害加成提升30%；</color>
-· <color=#ffd12f>造成热熔伤害时，获得30点「梦境能量」，每秒可触发一次；</color>
-· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。","Current Dreamscape Aid Resonators: <color=#ffd12f>Lupa, Brant, Changli, Encore, Chixia, and Mortefi</color>. Use at least one Dreamscape Aid Resonator to <color=#ffd12f>gain a 150% Point Bonus!</color>
-
-Current Dreamscape Aid Effects:
-- All Resonators in the team <color=#ffd12f>gain 30% Fusion DMG Bonus.</color> 
-- <color=#ffd12f>Dealing Fusion DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.</color> 
-- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, the Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Certain Metaphors will be enhanced in this mode. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.","Cộng Hưởng Giả hỗ trợ Mộng Cảnh kỳ này: <color=#ffd12f>Lupa, Brant, Changli, Encore, Chixia, Mortefi</color>, sử dụng ít nhất 1 Cộng Hưởng Giả hỗ trợ Mộng Cảnh để <color=#ffd12f>nhận 150% bonus ""Dị Tưởng Tích Phân""</color>!
-Hiệu ứng hỗ trợ Mộng Cảnh kỳ này:
-. Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Nhiệt Dung;</color>
-. <color=#ffd12f>Khi gây sát thương Nhiệt Dung, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;</color>
-. Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ tiến vào trạng thái ""Minh Tích Mộng"", trong trạng thái ""Minh Tích Mộng"", một số ẩn dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% bạo kích, tăng 100% hiệu suất cộng hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Minh Tích Mộng"" kéo dài 10 giây, khi hết thời gian ""Năng Lượng Mộng Cảnh"" giảm về 0."
-lang_multi_text.db,MultiText,Werouge_BuffDesc_2601,"· 全队角色<color=#ffd12f>衍射伤害加成提升30%</color>；
-· 造成<color=#ffd12f>衍射伤害</color>时，可额外获得「梦境能量」；","* All Resonators in the team gain <color=#ffd12f>30% Spectro DMG Bonus</color>.
-* Dealing <color=#ffd12f>Spectro DMG</color> grants extra Dreamscape Energy.",". Toàn đội <color=#ffd12f>tăng 30% bonus sát thương Nhiễu Xạ</color>;
-. Khi gây <color=#ffd12f>sát thương Nhiễu Xạ</color>, nhận thêm ""Năng Lượng Mộng Cảnh"";"

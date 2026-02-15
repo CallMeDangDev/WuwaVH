@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Fishing_Entrust_80121501_Target,捕获「太阳鱼」,Catch Sunfish,"Bắt ""Sunfish"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121502_Target,捕获「摄神虾」,Catch Legilimens Shrimp,"Bắt ""Legilimens Shrimp"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121503_Target,捕获「帆蜥鱼」,Catch Lancetfish,"Bắt ""Lancetfish"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121504_Target,捕获「星声蟹」,Catch Astrite Crab,"Bắt ""Astrite Crab"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121505_Target,捕获「三足鼎鳢」,Catch Tripod Fish,"Bắt ""Tripod Fish"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121506_Target,捕获「斑斓鲯鳅」,Catch Rainbow Dolphinfish,"Bắt ""Rainbow Dolphinfish"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121507_Target,捕获「长号菊石」,Catch Trombone Ammonoid,"Bắt ""Trombone Ammonoid"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121508_Target,捕获「地震皇带」,Catch Reinfish,"Bắt ""Reinfish"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121601_Target,捕获「描金鲨」,Catch Aureo Shark,"Bắt ""Aureo Shark"""
+lang_multi_text.db,MultiText,Fishing_Entrust_80121602_Target,捕获「粉黛珐琅鳐」,Catch Pink Hallowfin,"Bắt ""Pink Hallowfin"""
 lang_multi_text.db,MultiText,Fishing_Entrust_80121603_Target,捕获「潜渊海龙」,Catch Pelagic Wyrm,"Bắt ""Pelagic Wyrm"""
 lang_multi_text.db,MultiText,Fishing_Entrust_80121604_Target,捕获「龙鲡」,Catch Draco Cobia,"Bắt ""Draco Cobia"""
 lang_multi_text.db,MultiText,Fishing_Entrust_80121605_Target,捕获「冥王乌贼」,Catch Overlord Squid,"Bắt ""Overlord Squid"""
@@ -78,7 +88,7 @@ lang_multi_text.db,MultiText,Fishing_ProcessSelectingItem,请先处理选中物�
 lang_multi_text.db,MultiText,Fishing_QTE_Catch,捕捞成功 X{0},Catch x{0},Đánh bắt thành công x{0}
 lang_multi_text.db,MultiText,Fishing_QTE_Count,{0}/{1},{0}/{1},{0}/{1}
 lang_multi_text.db,MultiText,Fishing_QTE_Finish,捕捞结束,Finished,Kết thúc đánh bắt
-lang_multi_text.db,MultiText,Fishing_QTE_Guide,在鱼枪位于发光区域时点击，可以增加捕捞进度,Hit the button while the speargun is within the highlight areas to boost the progress,Nhấn khi súng phóng nằm trong vùng phát sáng để tăng tiến độ đánh bắt
+lang_multi_text.db,MultiText,Fishing_QTE_Guide,在鱼枪位于发光区域时点击，可以增加捕捞进度,Hit the button while the speargun is within the highlight areas to boost the progress,Nhấn khi súng bắn cá nằm trong vùng phát sáng để tăng tiến độ đánh bắt.
 lang_multi_text.db,MultiText,Fishing_QTE_Start,开始捕捞,Fishing Time,Bắt đầu đánh bắt
 lang_multi_text.db,MultiText,Fishing_QTE_Unfish,剩余捕捞轮数：{0},Attempts Left: {0},Số lượt đánh bắt còn lại: {0}
 lang_multi_text.db,MultiText,Fishing_RecommendQuestTip,前置任务「叶落无声」完成后体验更佳,"Complete ""Silent as a Falling Leaf"" for a better experience","Hoàn thành nhiệm vụ tiên quyết ""Lá Rơi Vô Thanh"" để có trải nghiệm tốt hơn"
@@ -95,13 +105,3 @@ lang_multi_text.db,MultiText,Fishing_SizeDes,cm,cm,cm
 lang_multi_text.db,MultiText,Fishing_SkillTip1,“甜味烟花”数量不足，无法使用,"Insufficient ""Sweet Puffs""","Không đủ ""Pháo Hoa Ngọt"", không thể sử dụng"
 lang_multi_text.db,MultiText,Fishing_SkillTip2,技能冷却中,The skill is on cooldown,Kỹ năng đang hồi chiêu
 lang_multi_text.db,MultiText,Fishing_SkillTip3,沙虫数量不足，请前往商店购买,Insufficient Sandworms. Go to the shop to purchase more.,"Không đủ Sâu Cát, hãy đến cửa hàng để mua thêm."
-lang_multi_text.db,MultiText,Fishing_SkillTip4,沙虫使用成功,Sandworm launched,Sử dụng Sâu Cát thành công
-lang_multi_text.db,MultiText,Fishing_SkillTip5,“甜味烟花”使用成功,"""Sweet Puff"" launched","Sử dụng ""Pháo Hoa Ngọt"" thành công"
-lang_multi_text.db,MultiText,Fishing_SkillTip6,当前沙虫捕捞点已达到数量上限，请完成捕捞后再使用,Cannot generate more Sandworm Fishing Spots. Please harvest a Fishing Spot first.,"Điểm câu Sâu Cát hiện tại đã đạt giới hạn số lượng, hãy hoàn thành đánh bắt rồi sử dụng tiếp."
-lang_multi_text.db,MultiText,Fishing_SkillUnlock,未解锁,Locked,Chưa mở khóa
-lang_multi_text.db,MultiText,Fishing_SkillUnlockTech,未解锁对应捕捞能力,The corresponding Ability is not acquired,Chưa mở khóa khả năng đánh bắt tương ứng
-lang_multi_text.db,MultiText,Fishing_SkinInfo1,「拉结号」使用的船篷，陈旧，没有什么特殊效果，但耐用。,A time-worn awning for Rachel. Provides no special effects but its durability.,"Mái che dùng cho tàu ""Rachel"", cũ kỹ, không có hiệu ứng đặc biệt nhưng rất bền."
-lang_multi_text.db,MultiText,Fishing_SkinInfo2,「拉结号」使用的船篷，可提升航速。,An awning for Rachel. Increases sailing speed.,"Mái che dùng cho tàu ""Rachel"", có thể tăng tốc độ di chuyển."
-lang_multi_text.db,MultiText,Fishing_SkinInfo3,「拉结号」使用的船篷，可增加获得高品质渔获的概率。,An awning for Rachel. Increases the chance to yield high-quality catches.,"Mái che dùng cho tàu ""Rachel"", tăng xác suất nhận được cá chất lượng cao."
-lang_multi_text.db,MultiText,Fishing_SkinInfo4,「拉结号」使用的船篷，夜晚出航时可避免幽灵水母攻击。,An awning for Rachel. Helps avoid attacks from Ghost Medusas at night.,"Mái che dùng cho tàu ""Rachel"", khi ra khơi ban đêm có thể tránh bị Sứa Ma tấn công."
-lang_multi_text.db,MultiText,Fishing_SkinInfo5,「拉结号」使用的船篷，可提高捕捞到金杯银杯尺寸渔获的概率。,An awning for Rachel. Increases the chance to gain catches of Gold and Silver Trophy sizes.,"Mái che dùng cho tàu ""Rachel"", tăng xác suất đánh bắt được cá kích thước Cúp Vàng và Cúp Bạc."

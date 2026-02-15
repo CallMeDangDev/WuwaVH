@@ -1,8 +1,18 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Text_WeaponReplaceTipsContentText_Text,{0}已被{1}装备，是否替换？,{0} is equipped by {1}. Do you want to replace it?,"{0} đang được {1} trang bị, bạn có muốn thay thế không?"
+lang_multi_text.db,MultiText,Text_WeaponReplaceTipsTitleText_Text,武器替换,Weapon replacement,Thay thế vũ khí
+lang_multi_text.db,MultiText,Text_WeaponResonanceCurrentEffectText_Text,{0},{0},{0}
+lang_multi_text.db,MultiText,Text_WeaponResonanceHasLevelUpAndResonance_Text,所选材料已经过强化和谐振，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes tuned and upgraded items. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,Vật liệu đã chọn đã được cường hóa và hài chấn. Xác nhận tiêu hao vật liệu {0} để nâng cấp hài chấn vũ khí {1} lên bậc {2}?
+lang_multi_text.db,MultiText,Text_WeaponResonanceHasLevelUp_Text,所选材料已经过强化，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes upgraded item. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,Vật liệu đã chọn đã được cường hóa. Xác nhận tiêu hao vật liệu {0} để nâng cấp hài chấn vũ khí {1} lên bậc {2}?
+lang_multi_text.db,MultiText,Text_WeaponResonanceHasResonance_Text,所选材料已经过谐振，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes Syntonized item. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,Vật liệu đã chọn đã được hài chấn. Xác nhận tiêu hao vật liệu {0} để nâng cấp hài chấn vũ khí {1} lên bậc {2}?
+lang_multi_text.db,MultiText,Text_WeaponResonanceItemLevelText_Text,{0}阶,Rank {0},Bậc {0}
+lang_multi_text.db,MultiText,Text_WeaponResonanceLevelText_Text,{0}阶,Rank {0},Bậc {0}
+lang_multi_text.db,MultiText,Text_WeaponResonanceMaterialNotEnough_Text,没有可用于谐振的材料,Insufficient Syntonize materials,Không có vật liệu khả dụng để hài chấn
+lang_multi_text.db,MultiText,Text_WeaponResonanceNextEffectText_Text,{0},{0},{0}
 lang_multi_text.db,MultiText,Text_WeaponResonanceNoEnoughMoneyText_Text,谐振所需贝币不足,Insufficient Shell Credit for Syntonize,Không đủ Bối Tệ để hài chấn.
-lang_multi_text.db,MultiText,Text_WeaponResonanceText_Text,谐振,Syntonize,Hài chấn
+lang_multi_text.db,MultiText,Text_WeaponResonanceText_Text,谐振,Syntonize,Hài Chấn
 lang_multi_text.db,MultiText,Text_WeaponResonanceTipsText_Text,请确认是否消耗材料{0}将武器{1}的谐振等阶提升至{2}阶？,Do you wish to consume {0} to Syntonize weapon {1} to Rank {2}?,Xác nhận tiêu hao vật liệu {0} để nâng cấp hài chấn vũ khí {1} lên bậc {2}?
-lang_multi_text.db,MultiText,Text_WeaponSelectMaterialTipsText_Text,请先选择材料,Select materials,Vui lòng chọn vật liệu trước
+lang_multi_text.db,MultiText,Text_WeaponSelectMaterialTipsText_Text,请先选择材料,Select materials,Vui lòng chọn nguyên liệu trước
 lang_multi_text.db,MultiText,Text_WeaponSkinTip,{0}装备中,{0} Equipped,{0} đang trang bị
 lang_multi_text.db,MultiText,Text_WeaponStrengthMaterialNotEnough_Text,没有可用于强化的材料,Insufficient upgrade materials,Không có vật liệu khả dụng để cường hóa
 lang_multi_text.db,MultiText,Text_WeaponTipsRoleText_Text,{0}装备中,{0} Equipped,{0} đang trang bị
@@ -16,7 +26,7 @@ lang_multi_text.db,MultiText,Text_WeeklyRogue_FreeTime_Title,本周剩余「回�
 lang_multi_text.db,MultiText,Text_WeeklyRogue_ScoreReward_ItemName,本期异想积分累计达到{0}完成,Reach {0} Current Illusive Points,Tích lũy đạt {0} Dị Tưởng Tích Phân kỳ này để hoàn thành
 lang_multi_text.db,MultiText,Text_WeeklyRogue_ScoreReward_Title,本期异想积分奖励,Current Rewards,Phần thưởng Dị Tưởng Tích Phân kỳ này
 lang_multi_text.db,MultiText,Text_Weekly_Rogue_Score,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_Weekly_Rogue_Week_Score,本期异想积分,Current Illusive Points,Dị Tưởng Tích Phân kỳ này
+lang_multi_text.db,MultiText,Text_Weekly_Rogue_Week_Score,本期异想积分,Current Illusive Points,Điểm Dị Tưởng kỳ này
 lang_multi_text.db,MultiText,Text_WorldCurrentLevelTag_Text,索拉等级{0}（当前）,SOL3 Phase {0} (Current),Cấp Solaris {0} (Hiện tại)
 lang_multi_text.db,MultiText,Text_WorldLevelAdjustTo_Text,索拉等级调整至{0}阶,SOL3 Phase adjusted to Rank {0}.,Cấp Solaris đã điều chỉnh đến bậc {0}.
 lang_multi_text.db,MultiText,Text_WorldLevelDownReject_Text,战斗中无法使用该功能,This function is unavailable in combat.,Không thể sử dụng chức năng này trong chiến đấu.
@@ -47,7 +57,7 @@ Có thể điều chỉnh cấp Solaris thủ công qua thiết bị đầu cu�
 <color=HighlightB>Việc điều chỉnh này chỉ có thể thực hiện 1 lần mỗi 12 giờ.</color>"
 lang_multi_text.db,MultiText,Text_WorldLevelNum_Text,{0}阶,Rank {0},Bậc {0}
 lang_multi_text.db,MultiText,Text_WorldLevelRestore_Text,重置索拉等级,Reset SOL3 Phase,Đặt lại cấp Solaris
-lang_multi_text.db,MultiText,Text_WorldLevelTag_Text,索拉等级{0},SOL3 Phase {0},Cấp Solaris {0}
+lang_multi_text.db,MultiText,Text_WorldLevelTag_Text,索拉等级{0},SOL3 Phase {0},Cấp SOL3 {0}
 lang_multi_text.db,MultiText,Text_WorldLevelUpTo_Text,索拉等级提高至{0}阶。,SOL3 Phase raised to Rank {0}.,Cấp Solaris đã nâng lên bậc {0}.
 lang_multi_text.db,MultiText,Text_WorldLevel_Text,索拉等级,SOL3 Phase,Cấp Solaris
 lang_multi_text.db,MultiText,Text_WorldMapTagFull_Text,自定义标记已满，无法添加。,"Custom marker is full, unable to add.","Đánh dấu tùy chỉnh đã đầy, không thể thêm."
@@ -111,13 +121,3 @@ lang_multi_text.db,MultiText,TowerChallengeBuff_92007105_Desc,角色<color=Dark>
 lang_multi_text.db,MultiText,TowerChallengeBuff_92007106_Desc,角色全属性伤害加成提升30%,Resonators gain 30% Attribute DMG Bonus.,Nhân vật tăng 30% bonus sát thương toàn thuộc tính.
 lang_multi_text.db,MultiText,TowerChallengeBuff_92007110_Desc,敌方<color=Ice>冷凝抗性</color>降低10%,Enemy <color=Ice>Glacio RES</color> decreases by 10%,Địch giảm 10% <color=Ice>kháng Ngưng Băng</color>.
 lang_multi_text.db,MultiText,TowerChallengeBuff_92007111_Desc,敌方<color=Fire>热熔抗性</color>降低10%,Enemy <color=Fire>Fusion RES</color> decreases by 10%,Địch giảm 10% <color=Fire>kháng Nhiệt Dung</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007112_Desc,敌方<color=Thunder>导电抗性</color>降低10%,Enemy <color=Thunder>Electro RES</color> decreases by 10%,Địch giảm 10% <color=Thunder>kháng Dẫn Điện</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007113_Desc,敌方<color=Wind>气动抗性</color>降低10%,Enemy <color=Wind>Aero RES</color> decreases by 10%,Địch giảm 10% <color=Wind>kháng Khí Động</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007114_Desc,敌方<color=Light>衍射抗性</color>降低10%,Enemy <color=Light>Spectro RES</color> decreases by 10%,Địch giảm 10% <color=Light>kháng Nhiễu Xạ</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007115_Desc,敌方<color=Dark>湮灭抗性</color>降低10%,Enemy <color=Dark>Havoc RES</color> decreases by 10%,Địch giảm 10% <color=Dark>kháng Giải Ly</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007116_Desc,敌方<color=Ice>冷凝抗性</color>提高10%,Enemy <color=Ice>Glacio RES</color> increases by 10%,Địch tăng 10% <color=Ice>kháng Ngưng Băng</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007117_Desc,敌方<color=Fire>热熔抗性</color>提高10%,Enemy <color=Fire>Fusion RES</color> increases by 10%,Địch tăng 10% <color=Fire>kháng Nhiệt Dung</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007118_Desc,敌方<color=Thunder>导电抗性</color>提高10%,Enemy <color=Thunder>Electro RES</color> increases by 10%,Địch tăng 10% <color=Thunder>kháng Dẫn Điện</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007119_Desc,敌方<color=Wind>气动抗性</color>提高10%,Enemy <color=Wind>Aero RES</color> increases by 10%,Địch tăng 10% <color=Wind>kháng Khí Động</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007120_Desc,敌方<color=Light>衍射抗性</color>提高10%,Enemy <color=Light>Spectro RES</color> increases by 10%,Địch tăng 10% <color=Light>kháng Nhiễu Xạ</color>.
-lang_multi_text.db,MultiText,TowerChallengeBuff_92007121_Desc,敌方<color=Dark>湮灭抗性</color>提高10%,Enemy <color=Dark>Havoc RES</color> increases by 10%,Kháng tính <color=Dark>Giải Ly</color> của địch tăng 10%

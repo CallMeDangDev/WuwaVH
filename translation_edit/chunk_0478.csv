@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_2200158_Text,频率中和器数量不足,Insufficient Frequency Neutralizers,Số lượng Bộ Trung Hòa Tần Số không đủ
+lang_multi_text.db,MultiText,ErrorCode_2200159_Text,道具逻辑配置错误,Item logic configuration error,Lỗi cấu hình logic vật phẩm
+lang_multi_text.db,MultiText,ErrorCode_2200160_Text,特殊地块类型不同,Unmatched special area type,Loại khu vực đặc biệt không khớp
+lang_multi_text.db,MultiText,ErrorCode_2200161_Text,不是潮蚀模拟特殊地块,Not a special area in Tidal Defense Simulator,Không phải khu vực đặc biệt trong Mô Phỏng Phòng Thủ Triều Tích
+lang_multi_text.db,MultiText,ErrorCode_2200162_Text,超过最大部署上限,Deployment cap reached,Đã vượt giới hạn triển khai tối đa
+lang_multi_text.db,MultiText,ErrorCode_2200164_Text,作战装置无法销毁,Combat Machine cannot be destroyed,Thiết Bị Tác Chiến không thể phá hủy
+lang_multi_text.db,MultiText,ErrorCode_2200165_Text,战术抽取结果为空,Tactic drawing result is empty,Kết quả rút chiến thuật trống
+lang_multi_text.db,MultiText,ErrorCode_2200166_Text,战术已经达到最大等级,The Tactic has reached the highest level,Chiến thuật đã đạt cấp tối đa
+lang_multi_text.db,MultiText,ErrorCode_2200167_Text,无法消耗矩阵耐久,Energy Matrix Durability cannot be depleted,Không thể tiêu hao độ bền Ma Trận Năng Lượng
+lang_multi_text.db,MultiText,ErrorCode_2200223_Text,智造立方重启进度次数过于频繁,Smartprint Cube rebooted too frequently,Khối Lập Phương Trí Tạo khởi động lại quá thường xuyên
 lang_multi_text.db,MultiText,ErrorCode_2200229_Text,当前场景无法进入副本,Cannot enter Dungeon currently,Không thể vào Phụ Bản trong cảnh hiện tại
 lang_multi_text.db,MultiText,ErrorCode_22_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
 lang_multi_text.db,MultiText,ErrorCode_2300000_Text,登录失败，该服务器无法进入。,Login failed. Server unavailable.,"Đăng nhập thất bại, không thể truy cập máy chủ này."
@@ -15,7 +25,7 @@ lang_multi_text.db,MultiText,ErrorCode_2500005_Text,获取活动数据失败，�
 lang_multi_text.db,MultiText,ErrorCode_2500006_Text,获取活动数据失败，活动未开启。,Failed to retrieve the event data. Event not available.,"Không thể lấy dữ liệu sự kiện, sự kiện chưa mở."
 lang_multi_text.db,MultiText,ErrorCode_2500007_Text,获取活动数据失败，未知错误。,Failed to retrieve the event data. Unknown error.,"Không thể lấy dữ liệu sự kiện, lỗi không xác định."
 lang_multi_text.db,MultiText,ErrorCode_2500008_Text,活动id错误,Event id error,ID sự kiện không hợp lệ
-lang_multi_text.db,MultiText,ErrorCode_2500009_Text,活动未开启,Event unavailable,Sự kiện chưa mở
+lang_multi_text.db,MultiText,ErrorCode_2500009_Text,活动未开启,Event unavailable,Sự kiện chưa mở.
 lang_multi_text.db,MultiText,ErrorCode_2500010_Text,未知错误,Unknown error,Lỗi không xác định
 lang_multi_text.db,MultiText,ErrorCode_2500011_Text,领取奖励的玩法错误,Gameplay error,Lỗi chế độ chơi khi nhận thưởng
 lang_multi_text.db,MultiText,ErrorCode_2500012_Text,领取奖励的活动未开启,Event not available,Sự kiện nhận thưởng chưa mở
@@ -28,7 +38,7 @@ lang_multi_text.db,MultiText,ErrorCode_2500018_Text,传送错误，玩法未开�
 lang_multi_text.db,MultiText,ErrorCode_2500019_Text,传送错误，活动未开始,Teleportation error. Event has not started.,"Lỗi dịch chuyển, sự kiện chưa bắt đầu."
 lang_multi_text.db,MultiText,ErrorCode_2500020_Text,传送错误，没找到传送配置,Teleportation error. Teleportation configuration not found.,"Lỗi dịch chuyển, không tìm thấy cấu hình dịch chuyển."
 lang_multi_text.db,MultiText,ErrorCode_2500021_Text,道具不支持弃置操作,This item cannot be discarded,Vật phẩm này không thể vứt bỏ
-lang_multi_text.db,MultiText,ErrorCode_2500022_Text,道具不支持弃置操作,This item cannot be discarded,Vật phẩm không hỗ trợ thao tác vứt bỏ
+lang_multi_text.db,MultiText,ErrorCode_2500022_Text,道具不支持弃置操作,This item cannot be discarded,Vật phẩm này không thể vứt bỏ
 lang_multi_text.db,MultiText,ErrorCode_2500023_Text,超过批量融合最大数量,Exceeded the max number for Batch Merge,Vượt quá số lượng dung hợp hàng loạt tối đa
 lang_multi_text.db,MultiText,ErrorCode_2500024_Text,融合道具重复,Echo already existed,Vật phẩm dung hợp bị trùng lặp
 lang_multi_text.db,MultiText,ErrorCode_2500025_Text,非普通声骸不可添加,Non-regular Echoes cannot be added,Không thể thêm Thanh Hài không phải loại thường
@@ -38,8 +48,8 @@ lang_multi_text.db,MultiText,ErrorCode_2500032_Text,收集进度尚未达到目�
 lang_multi_text.db,MultiText,ErrorCode_2500033_Text,此奖励已领取，无法重复领取,The reward has been claimed and cannot be claimed again.,"Phần thưởng này đã được nhận, không thể nhận lại"
 lang_multi_text.db,MultiText,ErrorCode_2500034_Text,此奖励已领取，无法重复领取,The reward has been claimed and cannot be claimed again.,"Phần thưởng này đã được nhận, không thể nhận lại"
 lang_multi_text.db,MultiText,ErrorCode_2500041_Text,系统异常，请稍后再试,System error. Please try again later.,"Lỗi hệ thống, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_2500042_Text,奖励已领取,Rewards have already been claimed,Phần thưởng đã được nhận
-lang_multi_text.db,MultiText,ErrorCode_2500043_Text,探历札记不足,Insufficient Adventure Logs,Không đủ Nhật Ký Thám Hiểm
+lang_multi_text.db,MultiText,ErrorCode_2500042_Text,奖励已领取,Rewards have already been claimed,Phần thưởng đã được nhận.
+lang_multi_text.db,MultiText,ErrorCode_2500043_Text,探历札记不足,Insufficient Adventure Logs,Không đủ Thám Lịch Trát Ký
 lang_multi_text.db,MultiText,ErrorCode_2500044_Text,当前轮次尚未解锁,Current round is not yet unlocked,Lượt hiện tại chưa được mở khóa
 lang_multi_text.db,MultiText,ErrorCode_2500045_Text,活动尚未开启,The event has not started,Sự kiện chưa mở
 lang_multi_text.db,MultiText,ErrorCode_2500046_Text,未达到活动开启时间,Event not available yet,Chưa đến thời gian mở sự kiện
@@ -63,10 +73,10 @@ lang_multi_text.db,MultiText,ErrorCode_2500063_Text,不在钳形激战无双版�
 lang_multi_text.db,MultiText,ErrorCode_2500064_Text,未找到奖励配置,Reward configuration not found.,Không tìm thấy cấu hình phần thưởng
 lang_multi_text.db,MultiText,ErrorCode_2500065_Text,活动过期,Event expired,Sự kiện đã hết hạn
 lang_multi_text.db,MultiText,ErrorCode_2500066_Text,当前未上阵角色,No Resonators deployed,Chưa bố trí nhân vật ra trận
-lang_multi_text.db,MultiText,ErrorCode_2500067_Text,活动未开启,The event has not started.,Sự kiện chưa mở
-lang_multi_text.db,MultiText,ErrorCode_2500068_Text,活动未开启,The event has not started.,Sự kiện chưa mở
+lang_multi_text.db,MultiText,ErrorCode_2500067_Text,活动未开启,The event has not started.,Sự kiện chưa mở.
+lang_multi_text.db,MultiText,ErrorCode_2500068_Text,活动未开启,The event has not started.,Sự kiện chưa mở.
 lang_multi_text.db,MultiText,ErrorCode_2500069_Text,活动玩法未完成,You have not yet completed the event task.,Chưa hoàn thành nhiệm vụ sự kiện
-lang_multi_text.db,MultiText,ErrorCode_2500070_Text,活动奖励已领取,You've already claimed the event rewards,Phần thưởng sự kiện đã được nhận
+lang_multi_text.db,MultiText,ErrorCode_2500070_Text,活动奖励已领取,You've already claimed the event rewards,Phần thưởng sự kiện đã được nhận.
 lang_multi_text.db,MultiText,ErrorCode_2500071_Text,数据重构功能未开启,Data Modify function not activated,Chức năng Tái Cấu Trúc Dữ Liệu chưa mở
 lang_multi_text.db,MultiText,ErrorCode_2500072_Text,声骸已强化,Echo upgraded,Thanh Hài đã được cường hóa
 lang_multi_text.db,MultiText,ErrorCode_2500073_Text,声骸非五星品质,Not a 5-Star Echo,Thanh Hài không phải phẩm chất 5 sao
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_2500091_Text,奖励未完成,The reward r
 lang_multi_text.db,MultiText,ErrorCode_2500092_Text,奖励已领取,The reward has been received,Phần thưởng đã được nhận.
 lang_multi_text.db,MultiText,ErrorCode_2500093_Text,角色武器类型限制，不可选择,No selectable due to Resonator weapon type limit.,Không thể chọn do giới hạn loại vũ khí của nhân vật.
 lang_multi_text.db,MultiText,ErrorCode_2500094_Text,没有支援模组配置,No Support Module configuration found.,Không tìm thấy cấu hình Mô-đun Hỗ trợ.
-lang_multi_text.db,MultiText,ErrorCode_2500095_Text,支援模组不在关卡选择范围,The Support Module selected is not in applicable in the current stage.,Mô-đun Hỗ trợ không nằm trong phạm vi chọn của màn chơi.
-lang_multi_text.db,MultiText,ErrorCode_2500096_Text,选择支援模组数量非法,Illegal quantity of Support Module selected.,Số lượng Mô-đun Hỗ trợ đã chọn không hợp lệ.
-lang_multi_text.db,MultiText,ErrorCode_2500097_Text,超过支援模组最大选择限制,Max quantity of Support Module selected.,Đã vượt quá giới hạn chọn Mô-đun Hỗ trợ tối đa.
-lang_multi_text.db,MultiText,ErrorCode_2500098_Text,没有危机情景玩法组件,No gameplay modules for Crisis Trial found.,Không tìm thấy thành phần gameplay Tình huống Nguy cơ.
-lang_multi_text.db,MultiText,ErrorCode_2500099_Text,当前关卡没有数据选择,No data selection available for selection in the current stage.,Không có dữ liệu để chọn ở màn chơi hiện tại.
-lang_multi_text.db,MultiText,ErrorCode_2500100_Text,选择支援模组未解锁,The selected Support Module is not unlocked.,Mô-đun Hỗ trợ đã chọn chưa được mở khóa.
-lang_multi_text.db,MultiText,ErrorCode_2500101_Text,选择支援模组未解锁,The selected Support Module is not unlocked.,Mô-đun Hỗ trợ đã chọn chưa được mở khóa.
-lang_multi_text.db,MultiText,ErrorCode_2500102_Text,当前场景不是灾难场景,Currently not in a Crisis Trial scene.,Cảnh hiện tại không phải cảnh Thử thách Nguy cơ.
-lang_multi_text.db,MultiText,ErrorCode_25_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_2600001_Text,活动ID和赛季ID不匹配,Event ID and Season ID mismatch,ID sự kiện và ID mùa giải không khớp.

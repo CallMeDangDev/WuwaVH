@@ -1,4 +1,26 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ResonantChain_232_NodeIndex,共鸣4-4,Resonance 4-4,Cộng Hưởng 4-4
+lang_multi_text.db,MultiText,ResonantChain_232_NodeName,于荣辉中孤行,Ascent in Sun and Glory,Cô hành giữa vinh quang
+lang_multi_text.db,MultiText,ResonantChain_233_AttributesDescription,<color=Highlight>固有技能·荣誉的加护</color>获得护盾量提升{0}。,The Shield provided by <color=Highlight>Inherent Skill - Glory's Favor</color> is increased by {0}.,Lượng hộ thuẫn từ <color=Highlight>Cố Hữu Kỹ - Gia Hộ Vinh Dự</color> tăng {0}.
+lang_multi_text.db,MultiText,ResonantChain_233_NodeName,于怒潮中卓立,Unshaken in Wrathful Tides,Sừng sững giữa nộ triều
+lang_multi_text.db,MultiText,ResonantChain_234_AttributesDescription,"·【<te href=130601>以众愿为冕</te>】的上限提升至{0}层。
+·奥古斯塔暴击高于{1}时，每多出{2}暴击，奥古斯塔暴击伤害提升{3}，最高可提升{4}暴击伤害。
+·奥古斯塔施放<color=Highlight>重击·烁雷·旋切</color>、<color=Highlight>重击·烁雷·升拳</color>时，可以获得{5}层【以众愿为冕】，每{6}秒仅可通过<color=Highlight>于耀光中刻名</color>的效果获得{8}层【以众愿为冕】。
+·施放<color=Highlight>重击·烁雷·旋切</color>、<color=Highlight>重击·烁雷·升拳</color>过程中，会在原地额外引发【怒霆】，造成两次奥古斯塔攻击{7}的<color=Thunder>导电伤害</color>，此次伤害为重击伤害。","- Augusta can now hold up to {0} stacks of <te href=130601>Crown of Wills</te>. 
+- For every {2} of Crit. Rate over {1}, Augusta gains {3} Crit. DMG increase, up to {4}.
+- When Augusta performs <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color> or <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, she obtains <SapTag=5>{5}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=5} of Crown of Wills. Augusta can only obtain <SapTag=8>{8}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=8} of Crown of Wills every {6}s via <color=Highlight>Engraved in Radiant Light</color>. 
+- While casting <color=Highlight>Heavy Attack - Thunderoar: Spinslash</color> or <color=Highlight>Heavy Attack - Thunderoar: Uppercut</color>, Thunder Rage is triggered at the spot, dealing two instances of <color=Thunder>Electro DMG</color>, with each instance equal to {7} of Augusta's ATK, considered as Heavy Attack DMG.","- Giới hạn [<te href=130601>Dĩ Chúng Nguyện Vi Miện</te>] tăng lên {0} tầng.
+- Khi tỷ lệ bạo kích của Augusta cao hơn {1}, cứ mỗi {2} tỷ lệ bạo kích vượt quá, sát thương bạo kích của Augusta tăng {3}, tối đa tăng {4} sát thương bạo kích.
+- Khi Augusta thi triển <color=Highlight>Trọng Kích - Thước Lôi - Toàn Thiết</color>, <color=Highlight>Trọng Kích - Thước Lôi - Thăng Quyền</color>, có thể nhận được {5} tầng [Dĩ Chúng Nguyện Vi Miện], mỗi {6} giây chỉ có thể nhận được {8} tầng [Dĩ Chúng Nguyện Vi Miện] thông qua hiệu quả <color=Highlight>Vu Diệu Quang Trung Khắc Danh</color>.
+- Trong quá trình thi triển <color=Highlight>Trọng Kích - Thước Lôi - Toàn Thiết</color>, <color=Highlight>Trọng Kích - Thước Lôi - Thăng Quyền</color>, sẽ kích hoạt thêm [Nộ Đình] tại chỗ, gây hai lần <color=Thunder>sát thương Dẫn Điện</color> bằng {7} tấn công của Augusta, sát thương này được tính là sát thương Trọng Kích."
+lang_multi_text.db,MultiText,ResonantChain_234_NodeName,于耀光中刻名,Engraved in Radiant Light,Khắc tên giữa hào quang
+lang_multi_text.db,MultiText,ResonantChain_235_AttributesDescription,"<color=Highlight>答剑·弦歌不辍</color>、<color=Highlight>答剑·割股之心</color>、<color=Highlight>答剑·忠烈死节</color>免疫打断。
+仇远暴击提升{0}。","<color=Highlight>Thus Spoke the Blade: To Teach</color>, <color=Highlight>Thus Spoke the Blade: To Save</color>, and <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> can no longer be interrupted.
+Qiuyuan gains {0} Crit. Rate increase.","<color=Highlight>Đáp Kiếm - Huyền Ca Bất Chuyết</color>, <color=Highlight>Đáp Kiếm - Cát Cổ Chi Tâm</color>, <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> miễn dịch gián đoạn.
+Tỷ lệ bạo kích của Qiuyuan tăng {0}."
+lang_multi_text.db,MultiText,ResonantChain_235_NodeName,如剑不动，相由心生,"Sword Sheathed, Mind Unclouded","Kiếm bất động, tướng do tâm sinh"
+lang_multi_text.db,MultiText,ResonantChain_236_AttributesDescription,【<te href=141103>竹照</te>】获得时增加额外效果：附近队伍中的角色声骸技能伤害加深{0}。,<te href=141103>Bamboo's Shade</te> now grants an additional {0} Echo Skill DMG Amplification to all nearby Resonators in the team.,"Khi nhận được [<te href=141103>Trúc Chiếu</te>], tăng thêm hiệu quả: sát thương Thanh Hài Kỹ của các nhân vật trong đội ở gần được khuếch đại {0}."
+lang_multi_text.db,MultiText,ResonantChain_236_NodeIndex,共鸣5-4,Resonance 5-4,Cộng Hưởng 5-4
 lang_multi_text.db,MultiText,ResonantChain_236_NodeName,剑啊，谓我弃绝弦歌不辍,"O Blade, I, Who Teach No More","Kiếm hỡi, ta từ bỏ huyền ca bất chuyết"
 lang_multi_text.db,MultiText,ResonantChain_237_AttributesDescription,"共鸣解放<color=Highlight>万钧一断</color>伤害倍率增加{0}。
 协奏能量充满且不处于【淋漓醉墨】状态下时，仇远的<color=Highlight>共鸣技能</color>替换为共鸣技能<color=Highlight>荷蓑出林</color>，每20秒可施放1次。
@@ -64,14 +86,14 @@ lang_multi_text.db,MultiText,ResonantChain_248_NodeName,符法通玄，神鬼咸
 lang_multi_text.db,MultiText,ResonantChain_249_AttributesDescription,<color=Highlight>【<te href=130703>五雷荡煞阵</te>】</color>持续期间，队伍中的角色生命值低于{0}时，立即回复{1}+{2}卜灵攻击的生命值，该效果每24秒可生效1次。,"While <color=Highlight><te href=130703>Five Thunders Spell Array</te></color> lasts, whenever the HP of Resonators in the team drops below {0}, immediately restore their HP by {1}+{2} of Buling's ATK. This effect can be triggered once every 24s.","Trong thời gian <color=Highlight>[<te href=130703>Ngũ Lôi Đãng Sát Trận</te>]</color> duy trì, khi sinh mệnh của nhân vật trong đội thấp hơn {0}, lập tức hồi phục {1}+{2} tấn công của Buling sinh mệnh. Hiệu ứng này có thể kích hoạt 1 lần mỗi 24 giây."
 lang_multi_text.db,MultiText,ResonantChain_249_NodeName,召灵遣将，窥探天机,"Summoner of Spirits, Seeker of Fate","Triệu Linh Khiển Tướng, Khuy Thám Thiên Cơ"
 lang_multi_text.db,MultiText,ResonantChain_24_AttributesDescription,引爆【<te href=850035>冰棱</te>】或【<te href=850037>冰川</te>】后，队伍中的角色攻击提升{0}，持续{1}秒，可叠加{2}层。,"After an <te href=850035>Ice Prism</te> or a <te href=850037>Glacier</te> is detonated, all team members' ATK is increased by {0} for {1}s, stacking up to {2} times.","Sau khi kích nổ [<te href=850035>Băng Lăng</te>] hoặc [<te href=850037>Băng Xuyên</te>], tấn công của nhân vật trong đội tăng {0}, duy trì {1} giây, cộng dồn tối đa {2} tầng."
-lang_multi_text.db,MultiText,ResonantChain_24_NodeIndex,共鸣6-4,Resonance 6-4,Cộng Hưởng VI-IV
+lang_multi_text.db,MultiText,ResonantChain_24_NodeIndex,共鸣6-4,Resonance 6-4,Cộng Hưởng 6-4
 lang_multi_text.db,MultiText,ResonantChain_24_NodeName,曙色天光,Daybreak Radiance,Thự Sắc Thiên Quang
 lang_multi_text.db,MultiText,ResonantChain_250_AttributesDescription,卜灵的治疗效果加成提升{0}%。,Buling gains {0}% Healing Bonus.,Gia tăng hiệu quả trị liệu của Buling thêm {0}%.
 lang_multi_text.db,MultiText,ResonantChain_250_NodeName,索拉云游，气运加身,"Wanderer of Solaris, Blessed by Fortune","Solaris Vân Du, Khí Vận Gia Thân"
 lang_multi_text.db,MultiText,ResonantChain_251_AttributesDescription,<color=Highlight>【<te href=130703>五雷荡煞阵</te>】</color>生成时，立即对范围内所有目标附加{0}层<color=Highlight>【<te href=850013>电磁效应</te>】</color>。,<color=Highlight><te href=130703>Five Thunders Spell Array</te></color> instantly inflicts another {0} stacks of <color=Highlight><te href=850013>Electro Flare</te></color> on all targets within its range upon generation.,"Khi <color=Highlight>[<te href=130703>Ngũ Lôi Đãng Sát Trận</te>]</color> được tạo ra, lập tức phụ thêm {0} tầng <color=Highlight>[<te href=850013>Điện Từ Hiệu Ứng</te>]</color> lên tất cả mục tiêu trong phạm vi."
 lang_multi_text.db,MultiText,ResonantChain_251_NodeName,论坛禁言，速换马甲,Forum Ban? New Account!,"Bị Cấm Diễn Đàn, Nhanh Đổi Nick!"
 lang_multi_text.db,MultiText,ResonantChain_252_AttributesDescription,<color=Highlight>【<te href=130704>雷法·三才合一</te>】</color>状态持续期间，队伍中登场的角色获得的<color=Highlight>共鸣技能</color>伤害加成效果提升至{0}。,"The <color=Highlight><te href=130704>Thunder Spell - Heaven, Earth, Mind</te></color> state now grants {0} <color=Highlight>Resonance Skill</color> DMG Bonus to the active Resonator in the team.","Trong thời gian trạng thái <color=Highlight>[<te href=130704>Lôi Pháp - Tam Tài Hợp Nhất</te>]</color> duy trì, nhân vật đang xuất trận trong đội nhận được gia tăng thương <color=Highlight>Kỹ Năng Cộng Hưởng</color> lên {0}."
-lang_multi_text.db,MultiText,ResonantChain_252_NodeIndex,共鸣3-4,Resonance 3-4,Cộng Hưởng III-IV
+lang_multi_text.db,MultiText,ResonantChain_252_NodeIndex,共鸣3-4,Resonance 3-4,Cộng Hưởng 3-4
 lang_multi_text.db,MultiText,ResonantChain_252_NodeName,“天地混元雷符水帖天尊”,"""Almighty Forum Lord of Thunder Spell""","""Thiên Địa Hỗn Nguyên Lôi Phù Thủy Thiếp Thiên Tôn"""
 lang_multi_text.db,MultiText,ResonantChain_253_AttributesDescription,"千咲施放<color=Highlight>锯环·疾攻</color>、<color=Highlight>锯环·终结</color>、<color=Highlight>电锯模式·闪避反击</color>期间，免疫打断。
 
@@ -104,7 +126,7 @@ lang_multi_text.db,MultiText,ResonantChain_256_AttributesDescription,"<color=Hig
 拥有<color=Highlight><te href=150801>虚无绞痕</te></color>的目标受到角色直接造成的伤害时，千咲为目标附加{0}层<color=Highlight>【<te href=850012>虚湮效应</te>】</color>，该效果每{1}秒最多触发1次。","The effect of <color=Highlight><te href=150801>Unseen Snare</te></color> becomes:
 When targets marked by <color=Highlight><te href=150801>Unseen Snare</te></color> take direct damage from Resonators, Chisa inflicts <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of <color=Highlight><te href=850012>Havoc Bane</te></color> on them. This effect is triggered up to once every {1}s.","Hiệu ứng <color=Highlight><te href=150801>Hư Vô Giảo Ngấn</te></color> được thay thế thành:
 Khi mục tiêu mang <color=Highlight><te href=150801>Hư Vô Giảo Ngấn</te></color> chịu thương sát trực tiếp từ nhân vật, Chisa phụ thêm <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} tầng <color=Highlight>[<te href=850012>Hư Yên Hiệu Ứng</te>]</color> lên mục tiêu. Hiệu ứng này kích hoạt tối đa 1 lần mỗi {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_256_NodeIndex,共鸣4-4,Resonance 4-4,Cộng Hưởng IV-IV
+lang_multi_text.db,MultiText,ResonantChain_256_NodeIndex,共鸣4-4,Resonance 4-4,Cộng Hưởng 4-4
 lang_multi_text.db,MultiText,ResonantChain_256_NodeName,斩断循环的劫章,Severing the Endless Cycle of Tragic Fate,Chém Đứt Kiếp Chương Tuần Hoàn
 lang_multi_text.db,MultiText,ResonantChain_257_AttributesDescription,"共鸣解放<color=Highlight>即刻·归无</color>的伤害加成提升{0}。
 <color=Highlight>命弦·掠行</color>消耗的<color=Highlight>【<te href=150804>命弦·本流</te>】</color>降低{1}。","Resonance Liberation <color=Highlight>Moment of Nihility</color> gains {0} DMG Bonus.
@@ -261,82 +283,3 @@ Khi ở trong <color=Highlight>Cộng Hưởng Mô Thái - Tụ Bạo</color> nh
 - Hiệu quả tăng hệ số sát thương <color=Highlight>[<te href=850011>Tụ Bạo Hiệu Ứng</te>]</color> do <color=Highlight><te href=121013>Tụ Bạo Quỹ Tích</te></color> đối với Kỹ Năng Cộng Hưởng <color=Highlight><te href=121007>Quang Dực Cộng Tấu</te></color> kích nổ được tăng cường, mỗi tầng tăng hệ số sát thương đối với mục tiêu chính của <color=Highlight>[<te href=850011>Tụ Bạo Hiệu Ứng</te>]</color> tăng lên {5}.
 - Trong trạng thái chiến đấu, khi kẻ địch gần nhân vật đang ra trận trong đội bị đánh bại, lập tức kích nổ <color=Highlight>[<te href=850011>Tụ Bạo Hiệu Ứng</te>]</color> theo giới hạn tầng <color=Highlight>[<te href=850011>Tụ Bạo Hiệu Ứng</te>]</color>."
 lang_multi_text.db,MultiText,ResonantChain_272_NodeIndex,共鸣2-4,Resonance 2-4,Cộng Hưởng 2-4
-lang_multi_text.db,MultiText,ResonantChain_272_NodeName,如雪绒般漂浮的音符,Downy Notes of Snowfluff,Nốt Nhạc Phiêu Bồng Như Tuyết Nhung
-lang_multi_text.db,MultiText,ResonantChain_273_AttributesDescription,"共鸣解放<color=Highlight>星辉破界而来·终结</color>倍率提升{0}。
-共鸣解放<color=Highlight>星辉破界而来·过载</color>倍率提升{3}。
-<size=10></size>
-处于<color=Highlight><te href=121001>即刻响应</te></color>状态，<color=Highlight>重击·爱弥斯</color>、<color=Highlight>重击·机兵</color>蓄力期间，根据自身处于<color=Highlight>共鸣模态·震谐</color>/<color=Highlight>共鸣模态·聚爆</color>，为目标附加<color=Highlight><te href=100002>【震谐·偏移】</te></color>/<color=Highlight>【<te href=850011>聚爆效应</te>】</color>。
-<size=10></size>
-固有技能<color=Highlight>星与星之间</color>替换为以下效果：
-<size=10></size>
-·处于<color=Highlight>共鸣模态·震谐</color>时，队伍中的角色附加<color=Highlight><te href=100002>【震谐·偏移】</te></color>或造成<color=Highlight>震谐伤害</color>时，爱弥斯暴击伤害提升{1}，共鸣解放<color=Highlight>星辉破界而来·终结</color>伤害加深{2}。
-角色编入队伍或切换模态时，重置该效果。
-<size=10></size>
-·处于<color=Highlight>共鸣模态·聚爆</color>时，队伍中的角色附加<color=Highlight>【<te href=850180>异常效应</te>】</color>时，爱弥斯暴击伤害提升{1}，共鸣解放<color=Highlight>星辉破界而来·终结</color>伤害加深{2}。
-角色编入队伍或切换模态时，重置该效果。","Resonance Liberation <color=Highlight>Heavenfall Edict: Finale</color>'s DMG Multiplier is increased by {0}.
-<size=10></size>
-In <color=Highlight><te href=121001>Instant Response</te></color>, Aemeath now inflicts <color=Highlight><te href=100002>Tune Rupture - Shifting</te></color> or <color=Highlight><te href=850011>Fusion Burst</te></color> while charging <color=Highlight>Heavy Attack - Aemeath</color> or <color=Highlight>Heavy Attack - Mech</color>, based on her current Resonance Mode.
-<size=10></size>
-Inherent Skill <color=Highlight>Between the Stars</color> is replaced with the following effects:
-<size=10></size>
-- In <color=Highlight>Resonance Mode - Tune Rupture</color>, when Resonators in the team inflict <color=Highlight><te href=100002>Tune Rupture - Shifting</te></color> or deal <color=Highlight>Tune Rupture DMG</color>, Aemeath's Crit. DMG is increased by {1}, and Resonance Liberation <color=Highlight>Heavenfall Edict: Finale</color> now ignores {2} of DEF.
-<size=10></size>
-- In <color=Highlight>Resonance Mode - Fusion Burst</color>, when Resonators in the team inflict <color=Highlight><te href=850180>Negative Status</te></color>, Aemeath's Crit. DMG is increased by {1}, and Resonance Liberation <color=Highlight>Heavenfall Edict: Finale</color> now ignores {2} of DEF.","Hệ số sát thương của Giải Phóng Cộng Hưởng <color=Highlight>Tinh Huy Phá Giới Nhi Lai - Chung Kết</color> tăng {0}.
-Hệ số sát thương của Giải Phóng Cộng Hưởng <color=Highlight>Tinh Huy Phá Giới Nhi Lai - Quá Tải</color> tăng {3}.
-<size=10></size>
-Trong trạng thái <color=Highlight><te href=121001>Tức Khắc Hưởng Ứng</te></color>, khi <color=Highlight>Trọng Kích - Aemeath</color>, <color=Highlight>Trọng Kích - Cơ Binh</color> đang tích năng, dựa theo <color=Highlight>Cộng Hưởng Mô Thái - Chấn Hài</color>/<color=Highlight>Cộng Hưởng Mô Thái - Tụ Bạo</color> hiện tại, phụ gia <color=Highlight><te href=100002>[Chấn Hài - Thiên Di]</te></color>/<color=Highlight>[<te href=850011>Tụ Bạo Hiệu Ứng</te>]</color> lên mục tiêu.
-<size=10></size>
-Cố Hữu Kỹ <color=Highlight>Giữa Các Vì Sao</color> được thay thế bằng hiệu quả sau:
-<size=10></size>
-- Khi ở trong <color=Highlight>Cộng Hưởng Mô Thái - Chấn Hài</color>, khi nhân vật trong đội phụ gia <color=Highlight><te href=100002>[Chấn Hài - Thiên Di]</te></color> hoặc gây <color=Highlight>sát thương Chấn Hài</color>, sát thương bạo kích của Aemeath tăng {1}, sát thương Giải Phóng Cộng Hưởng <color=Highlight>Tinh Huy Phá Giới Nhi Lai - Chung Kết</color> xuyên thấu {2} phòng thủ.
-Khi nhân vật được biên chế vào đội hoặc chuyển đổi mô thái, đặt lại hiệu quả này.
-<size=10></size>
-- Khi ở trong <color=Highlight>Cộng Hưởng Mô Thái - Tụ Bạo</color>, khi nhân vật trong đội phụ gia <color=Highlight>[<te href=850180>Dị Thường Hiệu Ứng</te>]</color>, sát thương bạo kích của Aemeath tăng {1}, sát thương Giải Phóng Cộng Hưởng <color=Highlight>Tinh Huy Phá Giới Nhi Lai - Chung Kết</color> xuyên thấu {2} phòng thủ.
-Khi nhân vật được biên chế vào đội hoặc chuyển đổi mô thái, đặt lại hiệu quả này."
-lang_multi_text.db,MultiText,ResonantChain_273_NodeName,炽烈在静默间延展如初,Fervor Sightly Burns Bright as New,Sự Sục Sôi Lan Tỏa Trong Tĩnh Lặng Như Thuở Ban Đầu
-lang_multi_text.db,MultiText,ResonantChain_274_AttributesDescription,施放变奏技能<color=Highlight>以旋律穿越长空</color>、变奏技能<color=Highlight>携星辉降临于此</color>、共鸣技能<color=Highlight><te href=121008>合击·突刺</te></color>、共鸣技能<color=Highlight><te href=121007>光翼共奏</te></color>时，队伍中的角色全属性伤害加成提升{0}，持续{1}秒。,"When casting Intro Skill <color=Highlight>Songs Across the Universe</color>, Intro Skill <color=Highlight>Debut of Meteoric Radiance</color>, Resonance Skill <color=Highlight><te href=121008>Sync Strike</te></color> and Resonance Skill <color=Highlight><te href=121007>Seraphic Duet</te></color>, Resonators in the team gain {0} All-Attribute DMG Bonus for {1}s.","Khi thi triển Biến Tấu Kỹ <color=Highlight>Dùng Giai Điệu Xuyên Qua Trường Không</color>, Biến Tấu Kỹ <color=Highlight>Mang Tinh Huy Giáng Lâm Tại Đây</color>, Kỹ Năng Cộng Hưởng <color=Highlight><te href=121008>Hợp Kích - Đột Thích</te></color>, Kỹ Năng Cộng Hưởng <color=Highlight><te href=121007>Quang Dực Cộng Tấu</te></color>, toàn bộ nhân vật trong đội tăng thêm sát thương toàn thuộc tính {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_274_NodeName,于无垠电子海间轻舞,Ethereal Waltz on Binary Tides,Nhẹ Nhàng Múa Giữa Biển Điện Tử Vô Ngần
-lang_multi_text.db,MultiText,ResonantChain_275_AttributesDescription,"爱弥斯自身技能直接造成的伤害击败目标时，<color=Highlight>【<te href=121009>流溢辉光</te>】</color>重置为{0}。
-<size=10></size>
-爱弥斯受到致命伤害时，将失去意识并进入<color=Highlight>二维电子幽灵</color>状态，持续{2}秒。
-进入<color=Highlight>二维电子幽灵</color>状态时，为队伍中的角色提供爱弥斯{1}攻击的护盾，持续{3}秒。退出<color=Highlight>二维电子幽灵</color>状态时，爱弥斯将恢复意识并回复{4}生命值与{5}点共鸣能量。该效果每{6}分钟可触发1次。
-爱弥斯恢复意识时，退出<color=Highlight>二维电子幽灵</color>状态并移除该效果提供的护盾。","When Aemeath's defeats a target directly with her skills, <color=Highlight><te href=121009>Starflux</te></color> is reset to {0}.
-<size=10></size>
-When taking fatal damage, Aemeath is knocked out and turns into <color=Highlight>2D Digital Ghost</color> for {2}s.
-In the <color=Highlight>2D Digital Ghost</color> state, Aemeath grants Resonators in the team a Shield equal to {1} of her ATK for {3}. As she exits from the <color=Highlight>2D Digital Ghost</color> state, she revives and recovers {4} of her Max HP and {5} points of Resonance Energy. This effect can be triggered once every {6}m.
-When Aemeath revives, she exits the <color=Highlight>2D Digital Ghost</color> state and removes the shield provided.","Khi sát thương trực tiếp từ kỹ năng của Aemeath đánh bại mục tiêu, <color=Highlight>[<te href=121009>Lưu Dật Huy Quang</te>]</color> đặt lại về {0}.
-<size=10></size>
-Khi Aemeath nhận sát thương chí mạng, sẽ mất ý thức và đi vào trạng thái <color=Highlight>U Linh Điện Tử Nhị Chiều</color>, duy trì {2} giây.
-Khi đi vào trạng thái <color=Highlight>U Linh Điện Tử Nhị Chiều</color>, cung cấp cho nhân vật trong đội một lá chắn bằng {1} tấn công của Aemeath, duy trì {3} giây. Khi thoát khỏi trạng thái <color=Highlight>U Linh Điện Tử Nhị Chiều</color>, Aemeath hồi phục ý thức và phục hồi {4} sinh mệnh cùng {5} điểm năng lượng cộng hưởng. Hiệu quả này mỗi {6} phút có thể kích hoạt 1 lần.
-Khi Aemeath hồi phục ý thức, thoát trạng thái <color=Highlight>U Linh Điện Tử Nhị Chiều</color> và xóa bỏ lá chắn được cung cấp."
-lang_multi_text.db,MultiText,ResonantChain_275_NodeName,远航至那星海尽处,Voyage to the Astral Shore,Viễn Hành Đến Tận Cùng Biển Sao
-lang_multi_text.db,MultiText,ResonantChain_276_AttributesDescription,"目标受到爱弥斯的共鸣解放伤害提升{0}。
-<size=10></size>
-处于<color=Highlight>共鸣模态·震谐</color>时，爱弥斯的震谐伤害可暴击，暴击率固定为{1}，暴击伤害固定为{2}。
-<size=10></size>
-处于<color=Highlight>共鸣模态·聚爆</color>，并处于战斗状态，队伍中登场角色附近的敌人受到聚爆效应触发的伤害可暴击，暴击率固定为{3}，暴击伤害固定为{4}。
-<size=10></size>
-共鸣回路<color=Highlight>为寂静赋形</color>为目标附加<color=Highlight><te href=121012>震谐轨迹</te></color>、<color=Highlight><te href=121013>聚爆轨迹</te></color>层数翻倍。
-<size=10></size>
-处于<color=Highlight>共鸣模态·震谐</color>/<color=Highlight>共鸣模态·聚爆</color>，并处于战斗状态，队伍中登场角色附近的敌人<color=Highlight><te href=121012>震谐轨迹</te></color>/<color=Highlight><te href=121013>聚爆轨迹</te></color>层数上限提升至{5}层。爱弥斯施放共鸣技能<color=Highlight><te href=121007>光翼共奏</te></color>时，对范围内目标附加{6}层<color=Highlight><te href=121012>震谐轨迹</te></color>/<color=Highlight><te href=121013>聚爆轨迹</te></color>，持续{7}秒。
-<size=10></size>","Targets takes {0} more Resonance Liberation DMG from Aemeath.
-<size=10></size>
-When in <color=Highlight>Resonance Mode - Tune Rupture</a></color>, Aemeath's Tune Rupture DMG can critically hit, with a fixed Crit. Rate of {1}, and fixed Crit. DMG of {2}.
-<size=10></size>
-When in <color=Highlight>Resonance Mode - Fusion Burst</color> and out of combat, Fusion Burst DMG triggered on targets near the active Resonator in the team can critically hit, with a fixed Crit. Rate of {3}, and fixed Crit. DMG of {4}.
-<size=10></size>
-The stacks of <color=Highlight><te href=121012>Rupturous Trail</te></color> and <color=Highlight><te href=121013>Fusion Trail</te></color> inflicted on the target through Forte Circuit <color=Highlight>To Sculpt the Silence</color> is doubled.
-<size=10></size>
-In <color=Highlight>Resonance Mode - Tune Rupture</color> or <color=Highlight>Resonance Mode - Fusion Burst</color> and out of combat, the max stack limit of <color=Highlight><te href=121012>Rupturous Trail</te></color> or <color=Highlight><te href=121013>Fusion Trail</te></color> on the targets near the active Resonator in the team is increased to {5}. When Aemeath casts Resonance Skill <color=Highlight><te href=121007>Seraphic Duet</te></color>, she inflicts {6} stacks of <color=Highlight>Rupturous Trail</color> or <color=Highlight>Fusion Trail</color> on the targets within the range, lasting for {7}s.
-<size=10></size>","Sát thương Giải Phóng Cộng Hưởng mà mục tiêu nhận từ Aemeath tăng {0}.
-<size=10></size>
-Khi ở trong <color=Highlight>Cộng Hưởng Mô Thái - Chấn Hài</color>, sát thương Chấn Hài của Aemeath có thể bạo kích, tỉ lệ bạo kích cố định {1}, sát thương bạo kích cố định {2}.
-<size=10></size>
-Khi ở trong <color=Highlight>Cộng Hưởng Mô Thái - Tụ Bạo</color> và trong trạng thái chiến đấu, sát thương do Tụ Bạo Hiệu Ứng kích hoạt lên kẻ địch gần nhân vật đang ra trận trong đội có thể bạo kích, tỉ lệ bạo kích cố định {3}, sát thương bạo kích cố định {4}.
-<size=10></size>
-Cộng Hưởng Hồi Lộ <color=Highlight>Phú Hình Cho Tịch Tĩnh</color> phụ gia số tầng <color=Highlight><te href=121012>Chấn Hài Quỹ Tích</te></color>, <color=Highlight><te href=121013>Tụ Bạo Quỹ Tích</te></color> lên mục tiêu được nhân đôi.
-<size=10></size>
-Khi ở trong <color=Highlight>Cộng Hưởng Mô Thái - Chấn Hài</color>/<color=Highlight>Cộng Hưởng Mô Thái - Tụ Bạo</color> và trong trạng thái chiến đấu, giới hạn tầng <color=Highlight><te href=121012>Chấn Hài Quỹ Tích</te></color>/<color=Highlight><te href=121013>Tụ Bạo Quỹ Tích</te></color> trên kẻ địch gần nhân vật đang ra trận trong đội tăng lên {5} tầng. Khi Aemeath thi triển Kỹ Năng Cộng Hưởng <color=Highlight><te href=121007>Quang Dực Cộng Tấu</te></color>, phụ gia {6} tầng <color=Highlight><te href=121012>Chấn Hài Quỹ Tích</te></color>/<color=Highlight><te href=121013>Tụ Bạo Quỹ Tích</te></color> lên mục tiêu trong phạm vi, duy trì {7} giây.
-<size=10></size>"
-lang_multi_text.db,MultiText,ResonantChain_276_NodeIndex,共鸣3-4,Resonance 3-4,Cộng Hưởng 3-4
-lang_multi_text.db,MultiText,ResonantChain_276_NodeName,春风祝颂你的旅途,A Zephyr-Kissed Journey to You,Gió Xuân Chúc Phúc Hành Trình Của Ngươi

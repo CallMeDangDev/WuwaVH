@@ -1,7 +1,17 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,DIY_FurnitureDic_Name_96,玛格烈特套餐,Margherita's Combo,Set Margherita
+lang_multi_text.db,MultiText,DIY_FurnitureDic_Name_97,角斗士盛宴,Gladiator's Feast,Thịnh Yến Giác Đấu Sĩ
+lang_multi_text.db,MultiText,DIY_FurnitureDic_Name_98,甜食天堂,Dessert Paradise,Thiên Đường Đồ Ngọt
+lang_multi_text.db,MultiText,DIY_FurnitureDic_Name_99,烈日套餐,Solis Combo,Set Liệt Nhật
+lang_multi_text.db,MultiText,DIY_FurnitureDic_Process,收集进度：{0}/{1},Collection Progress: {0}/{1},Tiến độ thu thập: {0}/{1}
+lang_multi_text.db,MultiText,DIY_Furniture_Atmosphere,{0},{0},{0}
+lang_multi_text.db,MultiText,DIY_Furniture_Empty_Tip,暂未获得陈设,Decoration not obtained,Chưa nhận được vật trang trí
+lang_multi_text.db,MultiText,DIY_Furniture_Gain_AtmoLockedState,聚乐值阶段{0}级后，于聚乐值详情界面领取,Reach Vibe Level {0} and claim on the Vibe Gauge page,"Đạt cấp Chỉ Số Vui Nhộn giai đoạn {0}, nhận tại giao diện chi tiết Chỉ Số Vui Nhộn"
+lang_multi_text.db,MultiText,DIY_Furniture_Num,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,DIY_Furniture_Obtain_AtmoLockedState,聚乐值{0}级后，即可购买,Reach Vibe Level {0} to purchase,Đạt cấp Chỉ Số Vui Nhộn {0} để mua
 lang_multi_text.db,MultiText,DIY_Furniture_Obtain_PresentLockedState,角色赠礼未开放,Resonator's Gift not available,Quà tặng Cộng Hưởng Giả chưa mở
-lang_multi_text.db,MultiText,DIY_Furniture_Obtain_PresentState,角色赠礼,Resonator's Gift,Quà tặng Cộng Hưởng Giả
-lang_multi_text.db,MultiText,DIY_Furniture_Obtain_ShopState,前往陈设采购,Go to Decor Shop,Đến Cửa Hàng Trang Trí
+lang_multi_text.db,MultiText,DIY_Furniture_Obtain_PresentState,角色赠礼,Resonator's Gift,Quà tặng nhân vật
+lang_multi_text.db,MultiText,DIY_Furniture_Obtain_ShopState,前往陈设采购,Go to Decor Shop,Đến Cửa hàng Trang trí
 lang_multi_text.db,MultiText,DIY_Gameplay_Name,派对装潢,Party Decor,Trang Trí Tiệc
 lang_multi_text.db,MultiText,DIY_OccupiedWindow_DecButton,从原位置移至此处,Relocate Here,Di chuyển từ vị trí cũ đến đây
 lang_multi_text.db,MultiText,DIY_OccupiedWindow_OccState_1,已被放置在【{0}】,Currently placed in {0},Đã được đặt tại [{0}]
@@ -12,7 +22,7 @@ lang_multi_text.db,MultiText,DIY_QuitWindow_Quit_Button,退出,Exit,Thoát
 lang_multi_text.db,MultiText,DIY_QuitWindow_Title,退出并保存布置,Exit and Save Design,Thoát và lưu bố trí
 lang_multi_text.db,MultiText,DIY_RegionAtmosphere_Content_1,{0}/{1},{0}/{1},{0}/{1}
 lang_multi_text.db,MultiText,DIY_RegionAtmosphere_Content_2,区域聚乐值：{0}/{1},Area Vibe Gauge: {0}/{1},Chỉ Số Vui Nhộn khu vực: {0}/{1}
-lang_multi_text.db,MultiText,DIY_RegionAtmosphere_Title,区域聚乐值,Area Vibe Gauge,Chỉ Số Vui Nhộn khu vực
+lang_multi_text.db,MultiText,DIY_RegionAtmosphere_Title,区域聚乐值,Area Vibe Gauge,Chỉ số vui nhộn khu vực
 lang_multi_text.db,MultiText,DIY_RegionDesc_Content_1,空间开阔的前厅，种植着令人赏心悦目的绿植。在松软的沙发上略微小憩，或是与朋友来几局纸牌游戏，似乎都是不错的选择。,"A spacious lobby filled with soothing greenery. It's the perfect place to unwind, whether you're taking a moment of rest on the plush sofas or enjoying a friendly card game with companions.","Sảnh trước rộng rãi, trồng nhiều cây xanh dễ chịu. Nghỉ ngơi một chút trên chiếc sofa êm ái, hay chơi vài ván bài với bạn bè, dường như đều là lựa chọn tuyệt vời."
 lang_multi_text.db,MultiText,DIY_RegionDesc_Content_2,这里供应各种饮品和小吃。在呜呜物流的努力下，来自索拉里斯各地的原材料全都汇聚于此。,"A wide selection of drinks and snacks is served here. Thanks to the tireless efforts of Lollo Logistics, ingredients from across Solaris all find their way here.","Nơi đây phục vụ đủ loại đồ uống và đồ ăn nhẹ. Nhờ nỗ lực của Lollo Logistics, nguyên liệu từ khắp Solaris đều được tập hợp tại đây."
 lang_multi_text.db,MultiText,DIY_RegionDesc_Content_3,那些原本被收藏于此的物品早已消失在时光之中。也许，你的个人收藏能用来填补这些展柜的空白。,The items once displayed here have long since vanished into the passage of time. Perhaps your own collection could be used to fill these empty display cases once more.,"Những món đồ từng được cất giữ nơi đây đã biến mất theo dòng thời gian. Có lẽ, bộ sưu tập cá nhân của bạn có thể lấp đầy những tủ trưng bày trống này."
@@ -31,10 +41,10 @@ lang_multi_text.db,MultiText,DIY_RegionName_6,放映厅,Screening Room,Phòng ch
 lang_multi_text.db,MultiText,DIY_RegionName_7,书房,Study,Thư phòng
 lang_multi_text.db,MultiText,DIY_RegionShiftWindow_Content,当前布置尚未保存，是否要在切换区域前进行保存？,You have not saved the current design. Save it before switching to another area?,"Bố trí hiện tại chưa được lưu, bạn có muốn lưu trước khi chuyển khu vực không?"
 lang_multi_text.db,MultiText,DIY_RegionShiftWindow_ShiftAndSave_Button,保存并切换,Save and Switch,Lưu và chuyển
-lang_multi_text.db,MultiText,DIY_RegionShiftWindow_Shift_Button,切换,Switch,Chuyển
+lang_multi_text.db,MultiText,DIY_RegionShiftWindow_Shift_Button,切换,Switch,Chuyển đổi
 lang_multi_text.db,MultiText,DIY_RegionShiftWindow_Title,切换区域,Switch Area,Chuyển khu vực
 lang_multi_text.db,MultiText,DIY_RegionSlotState_Content,{0}/{1},{0}/{1},{0}/{1}
-lang_multi_text.db,MultiText,DIY_RegionSlotState_Title,派对装潢,Party Decor,Trang trí tiệc
+lang_multi_text.db,MultiText,DIY_RegionSlotState_Title,派对装潢,Party Decor,Trang Trí Tiệc
 lang_multi_text.db,MultiText,DIY_RemoveBannedTips,此类型陈设不支持卸下，只可进行替换。,This type of decoration cannot be removed and can only be replaced.,"Loại vật trang trí này không thể tháo xuống, chỉ có thể thay thế."
 lang_multi_text.db,MultiText,DIY_RolePresentTip,完成任务<color=Highlight>{0}</color>，于霎那之书领取,Complete the quest <color=Highlight>{0}</color> accepted from the Book of Moments,"Hoàn thành nhiệm vụ <color=Highlight>{0}</color>, nhận tại Sát Na Chi Thư"
 lang_multi_text.db,MultiText,DIY_SaveSuccess_Tip,当前布置已保存,Current design saved,Đã lưu bố trí hiện tại
@@ -43,7 +53,7 @@ lang_multi_text.db,MultiText,DIY_ShopItem_Window_LackMoney_Tip,银河古币不�
 lang_multi_text.db,MultiText,DIY_ShopItem_Window_Title,陈设详情,Decor Details,Chi tiết vật trang trí
 lang_multi_text.db,MultiText,DIY_Shop_Name,柯布·科波,Cobb Copo,Cobb Copo
 lang_multi_text.db,MultiText,DIY_Shop_Talk,欢迎来到魔术陈设商店。,Welcome to the Magical Decor Shop.,Chào mừng đến Cửa hàng Trang trí Ma thuật.
-lang_multi_text.db,MultiText,DIY_Shop_Title,陈设采购,Decor Shop,Mua sắm trang trí
+lang_multi_text.db,MultiText,DIY_Shop_Title,陈设采购,Decor Shop,Cửa hàng trang trí
 lang_multi_text.db,MultiText,DIY_Stair_Button_1F,1F,1F,1F
 lang_multi_text.db,MultiText,DIY_Stair_Button_2F,2F,2F,2F
 lang_multi_text.db,MultiText,DRINKS_AnotherNeed_01,使用橄榄制成的果汁,Use Olive Juice,Nước ép làm từ ô liu
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,DRINKS_DrinkEnd_ButtonText_Lupa,送上饮品,Delive
 lang_multi_text.db,MultiText,DRINKS_DrinkEnd_ButtonText_Moning,送上饮品,Deliver Drink,Mời thức uống
 lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_AfterDesc_Katixiya,加入日冕蜜露的红茶，总能让卡提希娅回忆起她童年时的午后——阳光明媚的埃格拉小镇，以及似乎永远都不会停息的微风。,"Black tea infused with Sunflare Nectar always carries Cartethyia back to the afternoons of her childhood—the sunlit streets of Egla Town, and a gentle breeze that felt as though it might last forever.","Hồng trà pha Nhật Miện Mật Lộ luôn khiến Cartethyia nhớ về những buổi chiều thời thơ ấu - thị trấn Egla tràn ngập nắng, cùng cơn gió nhẹ dường như chẳng bao giờ ngừng thổi."
 lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_AfterDesc_Lupa,加入橄榄汁的冰茶清爽解渴，是角斗士训练之余的必备佳品。据说，在七丘大受好评的“饮心”也正是以此为灵感制作而成。,A chilled iced tea with a hint of olive juice is the perfect refresher for gladiators after a grueling training session. It's said the famous Heartpour of Septimont was inspired by this very blend.,"Trà đá pha nước ô liu thanh mát giải khát, là thức uống không thể thiếu của các đấu sĩ sau giờ luyện tập. Nghe nói, món ""Ẩm Tâm"" nổi tiếng ở Thất Khâu cũng chính là lấy cảm hứng từ thức uống này mà ra."
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_AfterDesc_Moning,在加入大量植物奶后，咖啡那醇厚而细腻的质感萦绕于舌尖，让莫宁紧张的神经稍作放松。随后，她会以充足的精力再次投入到研究之中。,"Enriched with a generous pour of plant milk, the coffee's velvety richness lingers long after each sip, allowing Mornye's frayed nerves to finally relax. Reinvigorated, she returns to her research with reignited energy.","Sau khi thêm một lượng lớn sữa thực vật, hương vị đậm đà và mịn màng của cà phê lan tỏa nơi đầu lưỡi, giúp thần kinh căng thẳng của Mornye được thư giãn đôi chút. Sau đó, cô sẽ lấy lại đầy đủ tinh lực để tiếp tục dấn thân vào nghiên cứu."
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_BeforeDesc_Katixiya,对于卡提希娅而言，拉古那的经典饮品应该更符合她的喜好。,"For Cartethyia, a classic Ragunna drink would likely be more to her taste.","Đối với Cartethyia, một thức uống truyền thống của Ragunna có lẽ sẽ hợp khẩu vị cô hơn."
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_BeforeDesc_Lupa,作为角斗士，露帕可能比较喜欢口味清爽又解渴的饮品。,"As a Gladiator, Lupa likely prefers drinks that are refreshing and truly thirst-quenching.","Là một Giác Đấu Sĩ, Lupa có lẽ sẽ thích những thức uống có vị thanh mát và giải khát."
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_BeforeDesc_Moning,口感醇厚，且具有拉海洛特色的饮品应该会得到莫宁的喜爱。,Mornye would likely appreciate a drink with a rich flavor that carries the unique character of Lahai-Roi.,"Những thức uống có hương vị đậm đà, mang đặc trưng của Lahai-Roi chắc hẳn sẽ được Mornye yêu thích."
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_Katixiya,蜜露红茶,Nectar Black Tea,Hồng Trà Mật Lộ
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_Lupa,橄榄冰茶,Olive Iced Tea,Trà Đá Ô Liu
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_ActorPerferlike_Moning,雪域拿铁,Frostland Latte,Latte Tuyết Vực
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_Actor_Katixiya,卡提希娅,Cartethyia,Cartethyia
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_Actor_Lupa,露帕,Lupa,Lupa
-lang_multi_text.db,MultiText,DRINKS_DrinkInvite_Actor_Moning,莫宁,Mornye,Mornye

@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,PhantomBattle_1068,选择{0}个目标（{1}/{2}）,"Select <SapTag=0>{0}</SapTag> {Cus:Sap,S=target P=targets SapTag=0} ({1}/{2})",Chọn {0} mục tiêu ({1}/{2})
+lang_multi_text.db,MultiText,PhantomBattle_1069,无法选择空卡组,Cannot select an empty deck,Không thể chọn bộ bài trống.
+lang_multi_text.db,MultiText,PhantomBattle_1070,无法删除空卡组,Cannot delete an empty deck,Không thể xóa bộ bài trống.
+lang_multi_text.db,MultiText,PhantomBattle_1071,该声骸尚未解锁，无法添加,This Echo is locked. Cannot be added.,"Thanh Hài này chưa được mở khóa, không thể thêm."
+lang_multi_text.db,MultiText,PhantomBattle_1072,COST4声骸无法被弃置,Cost 4 Echo cannot be discarded,Thanh Hài COST4 không thể bị loại bỏ.
+lang_multi_text.db,MultiText,PhantomBattle_1073,卡组已有核心声骸，无法添加更多的核心声骸,Core Echo already selected. Unable to add more Core Echoes.,"Bộ bài đã có Thanh Hài cốt lõi, không thể thêm Thanh Hài cốt lõi khác."
+lang_multi_text.db,MultiText,PhantomBattle_1074,卡组中的通常声骸已满，无法添加更多的通常声骸,Normal Echo cap reached. Unable to add more.,"Thanh Hài thường trong bộ bài đã đầy, không thể thêm nữa."
+lang_multi_text.db,MultiText,PhantomBattle_1075,当前决斗使用预设卡组，无需构筑卡组,"Default deck is employed in this duel, no need to build your own deck.","Trận quyết đấu này sử dụng bộ bài mặc định, không cần xây dựng bộ bài."
+lang_multi_text.db,MultiText,PhantomBattle_1076,卡组名称,Deck Title,Tên bộ bài
+lang_multi_text.db,MultiText,PhantomBattle_1077,最长可输入20字符,20 characters max,Tối đa 20 ký tự
 lang_multi_text.db,MultiText,PhantomBattle_1078,<color=#e2524c>{0}</color>/{1},<color=#e2524c>{0}</color>/{1},<color=#e2524c>{0}</color>/{1}
 lang_multi_text.db,MultiText,PhantomBattle_1079,已达到最大选择上限，需先取消选择才能选择新目标,Max selection limit reached. Deselect to choose a new target.,"Đã đạt giới hạn chọn tối đa, cần bỏ chọn trước khi chọn mục tiêu mới."
 lang_multi_text.db,MultiText,PhantomBattle_1080,声骸数量不足，无法完成快速构筑，需手动完成构筑,Insufficient Echoes to Quick Build your deck. Please build it manually.,"Không đủ Thanh Hài để xây dựng nhanh, vui lòng xây dựng thủ công."
@@ -7,19 +17,19 @@ lang_multi_text.db,MultiText,PhantomBattle_1082,回合：<color=#ffffff>{0}</col
 lang_multi_text.db,MultiText,PhantomBattle_1083,荣耀之路,Path of Prestige,Con Đường Vinh Quang
 lang_multi_text.db,MultiText,PhantomBattle_1084,历战回响,Duelist Upgrade,Hồi Vang Lịch Chiến
 lang_multi_text.db,MultiText,PhantomBattle_1085,藏品收集,Collections,Bộ Sưu Tập
-lang_multi_text.db,MultiText,PhantomBattle_1086,决斗挑战,Challenges,Thách Đấu
-lang_multi_text.db,MultiText,PhantomBattle_1087,挑战奖励,Challenge Rewards,Phần Thưởng Thách Đấu
-lang_multi_text.db,MultiText,PhantomBattle_1088,决斗奖励,Duel Rewards,Phần Thưởng Quyết Đấu
-lang_multi_text.db,MultiText,PhantomBattle_1089,获得新卡牌,New Card(s),Nhận thẻ bài mới
+lang_multi_text.db,MultiText,PhantomBattle_1086,决斗挑战,Challenges,Thử Thách Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattle_1087,挑战奖励,Challenge Rewards,Phần thưởng thử thách
+lang_multi_text.db,MultiText,PhantomBattle_1088,决斗奖励,Duel Rewards,Phần thưởng Quyết Đấu
+lang_multi_text.db,MultiText,PhantomBattle_1089,获得新卡牌,New Card(s),Nhận được thẻ bài mới
 lang_multi_text.db,MultiText,PhantomBattle_1090,获得新外观,New Card Frame,Nhận ngoại hình mới
 lang_multi_text.db,MultiText,PhantomBattle_1091,该声骸已全部使用,Already used up,Thanh Hài này đã được sử dụng hết.
 lang_multi_text.db,MultiText,PhantomBattle_1092,当前卡组属性已达上限，无法添加其他属性的声骸,Deck Attribute limit reached. Unable to add Echoes of a new Attribute.,"Thuộc tính bộ bài hiện tại đã đạt giới hạn, không thể thêm Thanh Hài thuộc tính khác."
-lang_multi_text.db,MultiText,PhantomBattle_1093,活动任务,Event Quest,Nhiệm Vụ Sự Kiện
+lang_multi_text.db,MultiText,PhantomBattle_1093,活动任务,Event Quest,Nhiệm vụ sự kiện
 lang_multi_text.db,MultiText,PhantomBattle_1094,耀日特选,Radiant Selection,Diệu Nhật Đặc Tuyển
 lang_multi_text.db,MultiText,PhantomBattle_1095,声骸,Echo,Thanh Hài
 lang_multi_text.db,MultiText,PhantomBattle_1096,战术,Tactics,Chiến thuật
 lang_multi_text.db,MultiText,PhantomBattle_1097,图鉴,Index,Đồ giám
-lang_multi_text.db,MultiText,PhantomBattle_1098,限时奖励,Limited-Time Reward,Phần Thưởng Giới Hạn
+lang_multi_text.db,MultiText,PhantomBattle_1098,限时奖励,Limited-Time Reward,Phần thưởng giới hạn
 lang_multi_text.db,MultiText,PhantomBattle_1099,<color=#f09f4e>{0}</color>/{1},<color=#f09f4e>{0}</color>/{1},<color=#f09f4e>{0}</color>/{1}
 lang_multi_text.db,MultiText,PhantomBattle_1100,<color=#f09f4e>{0}</color>/{1},<color=#f09f4e>{0}</color>/{1},<color=#f09f4e>{0}</color>/{1}
 lang_multi_text.db,MultiText,PhantomBattle_1101,<color=#c7fe96>{0}</color>,<color=#c7fe96>{0}</color>,<color=#c7fe96>{0}</color>
@@ -35,7 +45,7 @@ lang_multi_text.db,MultiText,PhantomBattle_1110,声骸升级功能尚未解锁�
 lang_multi_text.db,MultiText,PhantomBattle_1111,无尽挑战·普通难度尚未解锁，请提升决斗家等级,Endless Challenge - Normal locked. Level up to proceed.,"Thử Thách Vô Tận - Độ khó Thường chưa mở khóa, vui lòng nâng cấp đẳng cấp Quyết Đấu Gia."
 lang_multi_text.db,MultiText,PhantomBattle_1112,无尽挑战·困难难度尚未解锁，请提升决斗家等级,Endless Challenge - Difficult locked. Level up to proceed.,"Thử Thách Vô Tận - Độ khó Khó chưa mở khóa, vui lòng nâng cấp đẳng cấp Quyết Đấu Gia."
 lang_multi_text.db,MultiText,PhantomBattle_1113,本局决斗中不再提示,Do not show in this duel,Không hiển thị lại trong trận đấu này
-lang_multi_text.db,MultiText,PhantomBattle_1114,无尽挑战·普通难度,Endless Challenge - Normal,Thử Thách Vô Tận - Thường
+lang_multi_text.db,MultiText,PhantomBattle_1114,无尽挑战·普通难度,Endless Challenge - Normal,Thử Thách Vô Tận - Độ Khó Thường
 lang_multi_text.db,MultiText,PhantomBattle_1115,无尽挑战·困难难度,Endless Challenge - Difficult,Thử Thách Vô Tận - Khó
 lang_multi_text.db,MultiText,PhantomBattle_1116,激斗余响每周获取上限,Duel Resonance Weekly Limit,Giới hạn nhận Dư Hưởng Kịch Đấu hàng tuần
 lang_multi_text.db,MultiText,PhantomBattle_1117,<color=#ffc802>{0}</color>/{1},<color=#ffc802>{0}</color>/{1},<color=#ffc802>{0}</color>/{1}
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,PhantomBattle_1164,未知决斗家,Unknown Duelist,
 lang_multi_text.db,MultiText,PhantomBattle_1165,拉海洛地区的《荣耀之丘》地区赛选手，目前无法查询到其具体身份。,A contestant from the Peaks of Prestige Lahai-Roi Division. Their identity cannot be determined at this time.,"Tuyển thủ giải khu vực ""Đồi Vinh Quang"" vùng Lahai-Roi, hiện không thể truy vấn danh tính cụ thể."
 lang_multi_text.db,MultiText,PhantomBattle_1166,目前无法与该决斗家再次决斗。完成活动任务「荣耀之丘：激斗重燃」后，才能够与这名决斗家再次决斗。是否仍前往该位置？,"Rematch with the Duelist is available after completing Event Quest ""Peaks of Prestige: Rekindled Duel."" Proceed to the location anyway?","Hiện không thể tái đấu với đấu sĩ này. Cần hoàn thành nhiệm vụ sự kiện ""Đồi Vinh Quang: Kích Đấu Tái Nhiên"" mới có thể tái đấu. Vẫn muốn đến vị trí đó không?"
 lang_multi_text.db,MultiText,PhantomBattle_1167,选择想要召唤的手牌,Select a Card to Deploy,Chọn lá bài trên tay muốn triệu hồi
-lang_multi_text.db,MultiText,PhantomBattle_1168,请选择要放回卡组的手牌,Select the Card(s) to Shuffle Back,Hãy chọn lá bài muốn trả về bộ bài
-lang_multi_text.db,MultiText,PhantomBattle_1169,请选择一张手牌，进行召唤,Select a card from your hand to deploy.,Hãy chọn một lá bài trên tay để tiến hành triệu hồi.
-lang_multi_text.db,MultiText,PhantomBattle_1170,不能将更多的声骸进行重构,You can't Reconstruct any more Echoes.,Không thể tái cấu trúc thêm Thanh Hài nào nữa.
-lang_multi_text.db,MultiText,PhantomBattle_1171,选择要保留的卡牌,Select the Card(s) to Keep,Chọn lá bài muốn giữ lại
-lang_multi_text.db,MultiText,PhantomBattle_1172,无法保留更多的卡牌,Cannot keep more cards.,Không thể giữ thêm lá bài.
-lang_multi_text.db,MultiText,PhantomBattle_1173,选择要重构的卡牌,Select the Card(s) to Reconstruct,Chọn lá bài muốn tái cấu trúc
-lang_multi_text.db,MultiText,PhantomBattle_1174,无法重构更多的卡牌,Cannot Reconstruct more cards.,Không thể tái cấu trúc thêm lá bài.
-lang_multi_text.db,MultiText,PhantomBattle_1175,在潮汐任务「冰原下的星炬」中解锁星炬学院的中枢信标后解锁,"Activate the Resonance Nexus in Startorch Academy in the Main Quest ""What Burns Beneath Frostlands"" to unlock.","Mở khóa Tín Hiệu Trung Khu của Học Viện Tinh Cự trong nhiệm vụ Triều Tịch ""Tinh Cự Dưới Băng Nguyên"" để mở khóa."
-lang_multi_text.db,MultiText,PhantomBattle_1176,联觉等级达到14级,Reach Union Level 14,Đạt cấp Liên Giác 14
-lang_multi_text.db,MultiText,PhantomBattle_1180,奇藏只能被放置于召唤区,Novelties must be placed in the Deployment Zone,Kỳ Tàng chỉ có thể được đặt vào khu triệu hồi.

@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,PhantomManage_Tips01,未选中任何声骸,No Echo selected,Chưa chọn Thanh Hài nào
+lang_multi_text.db,MultiText,PhantomManage_Title,声骸批量管理,Batch Management,Quản lý Thanh Hài hàng loạt
+lang_multi_text.db,MultiText,PhantomManage_UnLock,解除锁定,Unlock,Mở khóa
+lang_multi_text.db,MultiText,PhantomManage_Warning01,当前选择中包含已被锁定的声骸，是否仍要批量弃置？,Current selection contains locked Echo. Continue with the Batch Discard?,"Lựa chọn hiện tại bao gồm Thanh Hài đã khóa, vẫn tiếp tục bỏ hàng loạt?"
+lang_multi_text.db,MultiText,PhantomProject_AddChose,添加,Add,Thêm
+lang_multi_text.db,MultiText,PhantomProject_CheckButton,仅检索,Search Only,Chỉ tìm kiếm
+lang_multi_text.db,MultiText,PhantomProject_ConfirmButton,启用,Activate,Kích hoạt
+lang_multi_text.db,MultiText,PhantomProject_DiscardProject,自动弃置方案设置,Auto-discard Settings,Cài đặt phương án tự động bỏ
+lang_multi_text.db,MultiText,PhantomProject_DiscardProjectTip,按本方案自动弃置,Auto-discard by this plan,Tự động bỏ theo phương án này
+lang_multi_text.db,MultiText,PhantomProject_EditButton,编辑,Edit,Chỉnh sửa
 lang_multi_text.db,MultiText,PhantomProject_EmptyChose,不限,All,Không giới hạn
 lang_multi_text.db,MultiText,PhantomProject_EmptyProject,空方案,Empty Plan,Phương án trống
 lang_multi_text.db,MultiText,PhantomProject_GetPhantomTips01,查看（已自动弃置）,View (Auto-discarded),Xem (Đã tự động bỏ)
@@ -220,33 +230,3 @@ lang_multi_text.db,MultiText,PhantomSkill_200031_DescriptionEx,"使用声骸技�
 CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Baby Roseshroom bắn một tia laser, gây {0} sát thương Giải Ly.
 Hồi chiêu: {1} giây"
 lang_multi_text.db,MultiText,PhantomSkill_200031_SimplyDescription,召唤刺玫菇（稚形），发射激光，造成湮灭伤害。,"Summon a Baby Roseshroom to fire a laser, and deal Havoc DMG.","Triệu hồi Baby Roseshroom, bắn laser, gây sát thương Giải Ly."
-lang_multi_text.db,MultiText,PhantomSkill_200032_DescriptionEx,"使用声骸技能，召唤刺玫菇，发射一道激光，最多造成{0}次{1}的湮灭伤害。
-技能冷却：{2}秒","Summon a Roseshroom that fires a laser, dealing {1} Havoc DMG up to {0} times.
- 
-CD: {2}s","Sử dụng Thanh Hài Kỹ, triệu hồi Roseshroom bắn một tia laser, gây tối đa {0} lần sát thương Giải Ly {1}.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200032_SimplyDescription,召唤刺玫菇，发射激光，造成湮灭伤害。,"Summon a Roseshroom to fire a laser, and deal Havoc DMG.","Triệu hồi Roseshroom, bắn laser, gây sát thương Giải Ly."
-lang_multi_text.db,MultiText,PhantomSkill_200033_DescriptionEx,"使用声骸技能，幻形为寒霜陆龟，同时缓慢回复生命值。幻形过程中再次使用声骸技能可退出幻形状态。
-技能冷却：{0}秒","Transform into Hoartoise and slowly restore HP. Use the Echo skill again to exit the transformation state.
-
-CD: {0}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Hoartoise, đồng thời từ từ hồi phục sinh lực. Trong trạng thái hóa hình, sử dụng lại Thanh Hài Kỹ để thoát khỏi trạng thái hóa hình.
-Hồi chiêu: {0} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200033_SimplyDescription,幻形为寒霜陆龟，期间缓慢回复生命值。,Transform into a Hoartoise and slowly restore HP.,"Hóa hình thành Hoartoise, trong thời gian đó từ từ hồi phục sinh lực."
-lang_multi_text.db,MultiText,PhantomSkill_200034_DescriptionEx,"使用声骸技能，召唤箭簇熊使用连续五段爪击，前四段每段造成{0}的物理伤害，最后一段造成{1}的物理伤害。
-技能冷却：{2}秒","Summon a Spearback to perform 5 consecutive attacks. The first 4 attacks deal {0} Physical DMG, and the last deals {1} Physical DMG.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, triệu hồi Spearback thực hiện năm đòn vuốt liên tiếp, bốn đòn đầu mỗi đòn gây {0} sát thương Vật Lý, đòn cuối gây {1} sát thương Vật Lý.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200034_SimplyDescription,召唤箭簇熊，连续爪击，造成物理伤害。,"Summon a Spearback to perform continuous claw strikes, dealing Physical DMG.","Triệu hồi Spearback, liên tục tấn công bằng vuốt, gây sát thương Vật Lý."
-lang_multi_text.db,MultiText,PhantomSkill_200037_DescriptionEx,"使用声骸技能，幻形为暗鬃狼进行尾部打击，可连续使用最多2次。每次攻击造成{0}湮灭伤害，命中敌人时会额外生成一次湮灭打击，造成{1}湮灭伤害。
-技能冷却：{2}秒","Transform into a Havoc Dreadmane to perform up to 2 tail strikes. Each strike deals {0} Havoc DMG and inflicts an additional instance of {1} Havoc DMG upon hitting the target.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Havoc Dreadmane tấn công bằng đuôi, có thể sử dụng liên tiếp tối đa 2 lần. Mỗi đòn gây {0} sát thương Giải Ly, khi trúng kẻ địch sẽ tạo thêm một đòn đánh Giải Ly, gây {1} sát thương Giải Ly.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200037_SimplyDescription,幻形为暗鬃狼，发动甩尾攻击，造成湮灭伤害。,"Transform into a Havoc Dreadmane to launch tail strikes, dealing Havoc DMG.","Hóa hình thành Havoc Dreadmane, phát động đòn quật đuôi, gây sát thương Giải Ly."
-lang_multi_text.db,MultiText,PhantomSkill_200039_DescriptionEx,"使用声骸技能，召唤火鬃狼撕咬敌人，造成{0}热熔伤害。
-技能冷却：{1}秒","Summon a Fusion Dreadmane that fiercely strikes the enemy, dealing {0} Fusion DMG.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Fusion Dreadmane cắn xé kẻ địch, gây {0} sát thương Nhiệt Dung.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200039_SimplyDescription,召唤火鬃狼，撕咬敌人，造成热熔伤害,"Summon a Fusion Dreadmane to fiercely strike the enemies, dealing Fusion DMG.","Triệu hồi Fusion Dreadmane, cắn xé kẻ địch, gây sát thương Nhiệt Dung."

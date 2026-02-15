@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,MenuConfig_51101_Name,沉浸模式,Immersion Mode,Chế độ nhập vai
+lang_multi_text.db,MultiText,MenuConfig_51101_SubName,界面设置,HUD Interface,Cài đặt giao diện
+lang_multi_text.db,MultiText,MenuConfig_51102_Name,显示联机玩家名,Show Username in Co-op,Hiển thị tên người chơi trong chế độ liên mạng
+lang_multi_text.db,MultiText,MenuConfig_51103_Desc,开启设置后，将不再显示速度和动能余量仪表盘,"Once enabled, the vehicle dashboard will not be displayed.","Sau khi bật, bảng đồng hồ tốc độ và năng lượng sẽ không còn hiển thị."
+lang_multi_text.db,MultiText,MenuConfig_51103_Name,摩托驾驶界面隐藏,Hide Motorbike HUD,Ẩn giao diện lái xe mô tô
+lang_multi_text.db,MultiText,MenuConfig_51506_SubName,版本检测,Check Version,Kiểm tra phiên bản
+lang_multi_text.db,MultiText,MenuConfig_51_KeyMap,V,V,V
+lang_multi_text.db,MultiText,MenuConfig_51_Name,追踪任务,Track Quest,Theo dõi nhiệm vụ
+lang_multi_text.db,MultiText,MenuConfig_51_SubName,菜单,Menu,Menu
+lang_multi_text.db,MultiText,MenuConfig_521_OptionsName_0,关,Off,Tắt
 lang_multi_text.db,MultiText,MenuConfig_521_OptionsName_1,低,Low,Thấp
 lang_multi_text.db,MultiText,MenuConfig_521_OptionsName_2,中,Medium,Trung bình
 lang_multi_text.db,MultiText,MenuConfig_521_OptionsName_3,高,High,Cao
@@ -49,8 +59,8 @@ lang_multi_text.db,MultiText,MenuConfig_5_OptionsName_04,极致画质,Ultra Qual
 lang_multi_text.db,MultiText,MenuConfig_5_OptionsName_1,低级,Low,Thấp
 lang_multi_text.db,MultiText,MenuConfig_5_OptionsName_2,中级,Medium,Trung Bình
 lang_multi_text.db,MultiText,MenuConfig_5_OptionsName_3,高级,Advanced,Cao
-lang_multi_text.db,MultiText,MenuConfig_5_OptionsName_4,自定义,Custom,Tùy Chỉnh
-lang_multi_text.db,MultiText,MenuConfig_5_SubName,基础,Basic,Cơ Bản
+lang_multi_text.db,MultiText,MenuConfig_5_OptionsName_4,自定义,Custom,Tùy chỉnh
+lang_multi_text.db,MultiText,MenuConfig_5_SubName,基础,Basic,Cơ bản
 lang_multi_text.db,MultiText,MenuConfig_60207_Desc,翻转后，将颠倒翱翔时的上下操作输入方式,The up/down controls for Flight will be inverted.,"Khi bật, thao tác lên/xuống trong lúc bay lượn sẽ bị đảo ngược."
 lang_multi_text.db,MultiText,MenuConfig_60207_Name,翱翔垂直输入翻转,Invert Vertical Axis in Flight,Đảo Trục Dọc Khi Bay Lượn
 lang_multi_text.db,MultiText,MenuConfig_60208_Desc,开启后，首次进入疾跑状态并持续一定时间后，角色将自动维持疾跑状态，直到被其他行为打断。,"When this option is enabled, when the Resonator starts Sprinting, they will sustain the Sprinting state until they're interrupted by the other actions.","Khi bật, sau khi nhân vật bắt đầu chạy nước rút và duy trì trong một khoảng thời gian, nhân vật sẽ tự động duy trì trạng thái chạy nước rút cho đến khi bị gián đoạn bởi hành động khác."
@@ -73,15 +83,15 @@ lang_multi_text.db,MultiText,MenuConfig_60_SubName,音量,Volume,Âm lượng
 lang_multi_text.db,MultiText,MenuConfig_61_Name,动态范围,Dynamic Range,Dải động
 lang_multi_text.db,MultiText,MenuConfig_61_OptionsName_0,中等,Medium,Trung bình
 lang_multi_text.db,MultiText,MenuConfig_61_OptionsName_1,高,High,Cao
-lang_multi_text.db,MultiText,MenuConfig_61_OptionsName_2,极高,Very High,Rất cao
+lang_multi_text.db,MultiText,MenuConfig_61_OptionsName_2,极高,Very High,Cực cao
 lang_multi_text.db,MultiText,MenuConfig_61_SubName,高级设置,Advanced Settings,Cài đặt nâng cao
 lang_multi_text.db,MultiText,MenuConfig_62_Name,音频兼容API,Audio API Compatibility Mode,API tương thích âm thanh
-lang_multi_text.db,MultiText,MenuConfig_62_OptionsName_0,关闭,Off,Tắt
-lang_multi_text.db,MultiText,MenuConfig_62_OptionsName_1,开启,On,Bật
+lang_multi_text.db,MultiText,MenuConfig_62_OptionsName_0,关闭,Off,Đóng
+lang_multi_text.db,MultiText,MenuConfig_62_OptionsName_1,开启,On,Mở
 lang_multi_text.db,MultiText,MenuConfig_62_SubName,高级设置,Advanced Settings,Cài đặt nâng cao
 lang_multi_text.db,MultiText,MenuConfig_63_Name,声音震动反馈,Audio/Vibration Feedback,Phản hồi rung âm thanh
-lang_multi_text.db,MultiText,MenuConfig_63_OptionsName_0,关闭,Off,Tắt
-lang_multi_text.db,MultiText,MenuConfig_63_OptionsName_1,开启,On,Bật
+lang_multi_text.db,MultiText,MenuConfig_63_OptionsName_0,关闭,Off,Đóng
+lang_multi_text.db,MultiText,MenuConfig_63_OptionsName_1,开启,On,Mở
 lang_multi_text.db,MultiText,MenuConfig_63_SubName,高级设置,Advanced Settings,Cài đặt nâng cao
 lang_multi_text.db,MultiText,MenuConfig_64_Name,空间音频,Spatial Audio,Âm thanh không gian
 lang_multi_text.db,MultiText,MenuConfig_64_OptionsName_0,关闭,Off,Đóng
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,MenuConfig_64_OptionsName_1,开启,On,Mở
 lang_multi_text.db,MultiText,MenuConfig_64_SubName,性能与体验,Performance and Experience,Hiệu năng & Trải nghiệm
 lang_multi_text.db,MultiText,MenuConfig_65_Name,杜比全景声,Dolby Atmos,Dolby Atmos
 lang_multi_text.db,MultiText,MenuConfig_65_OptionsName_0,关闭,Off,Đóng
-lang_multi_text.db,MultiText,MenuConfig_65_OptionsName_1,开启,On,Mở
-lang_multi_text.db,MultiText,MenuConfig_65_SubName,性能与体验,Performance and Experience,Hiệu năng & Trải nghiệm
-lang_multi_text.db,MultiText,MenuConfig_66_Name,输出设备,Sound Output Device,Thiết bị xuất âm
-lang_multi_text.db,MultiText,MenuConfig_66_OptionsName_0,默认模式,Default,Mặc định
-lang_multi_text.db,MultiText,MenuConfig_66_OptionsName_1,耳机,Headphones,Tai nghe
-lang_multi_text.db,MultiText,MenuConfig_66_OptionsName_2,扬声器,Speaker,Loa
-lang_multi_text.db,MultiText,MenuConfig_66_SubName,性能与体验,Performance and Experience,Hiệu năng & Trải nghiệm
-lang_multi_text.db,MultiText,MenuConfig_67_Name,输出设置,Sound Output Setting,Cài đặt xuất âm
-lang_multi_text.db,MultiText,MenuConfig_67_OptionsName_0,双声道,Stereo,Âm thanh nổi
-lang_multi_text.db,MultiText,MenuConfig_67_OptionsName_1,环绕声,Surround Sound,Âm thanh vòm

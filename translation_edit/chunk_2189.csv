@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,WheelBattle_EnhanceSkillDesc2,角色最终伤害提升{0}。施放共鸣解放时，队伍中的角色共鸣解放加成提升{1}，持续{2}秒。,Resonators deal {0} more total DMG. Casting Resonance Liberation grants the Resonators in the team {1} Resonance Liberation DMG Bonus for {2}s.,"Sát thương cuối cùng của nhân vật tăng {0}. Khi thi triển Giải Phóng Cộng Hưởng, gia tăng Giải Phóng Cộng Hưởng của các nhân vật trong đội thêm {1}, duy trì {2} giây."
+lang_multi_text.db,MultiText,WheelBattle_EnhanceSkillDesc3,角色最终伤害提升{0}。,Resonators deal {0} more total DMG.,Sát thương cuối cùng của nhân vật tăng {0}.
+lang_multi_text.db,MultiText,WheelBattle_EnhanceSkillDesc4,角色最终伤害提升{0}。,Resonators deal {0} more total DMG.,Sát thương cuối cùng của nhân vật tăng {0}.
+lang_multi_text.db,MultiText,WheelBattle_EnhanceSkillDesc5,角色最终伤害提升{0}。,Resonators deal {0} more total DMG.,Sát thương cuối cùng của nhân vật tăng {0}.
+lang_multi_text.db,MultiText,WheelBattle_EnhanceSkillDesc6,角色最终伤害提升{0}。,Resonators deal {0} more total DMG.,Sát thương cuối cùng của nhân vật tăng {0}.
+lang_multi_text.db,MultiText,WheelBattle_Reward1,稳态协议积分达到4800分,"Reach 4,800 points in Stability Accords",Đạt 4800 điểm trong Ổn Thái Hiệp Nghị
+lang_multi_text.db,MultiText,WheelBattle_Reward10,奇点扩张积分达到58000分,"Reach 58,000 points in Singularity Expansion",Đạt 58000 điểm trong Kỳ Điểm Mở Rộng
+lang_multi_text.db,MultiText,WheelBattle_Reward11,奇点扩张存在3个积分达到5000分的队伍,"Reach 5,000 points with 3 teams in Singularity Expansion",Có 3 đội đạt 5000 điểm trong Kỳ Điểm Mở Rộng
+lang_multi_text.db,MultiText,WheelBattle_Reward12,奇点扩张存在4个积分达到5000分的队伍,"Reach 5,000 points with 4 teams in Singularity Expansion",Có 4 đội đạt 5000 điểm trong Kỳ Điểm Mở Rộng
+lang_multi_text.db,MultiText,WheelBattle_Reward13,奇点扩张存在6个积分达到5000分的队伍,"Reach 5,000 points with 6 teams in Singularity Expansion",Có 6 đội đạt 5000 điểm trong Kỳ Điểm Mở Rộng
 lang_multi_text.db,MultiText,WheelBattle_Reward2,稳态协议积分达到7200分,"Reach 7,200 points in Stability Accords",Đạt 7200 điểm trong Ổn Thái Hiệp Nghị
 lang_multi_text.db,MultiText,WheelBattle_Reward3,稳态协议积分达到10000分,"Reach 10,000 points in Stability Accords",Đạt 10000 điểm trong Ổn Thái Hiệp Nghị
 lang_multi_text.db,MultiText,WheelBattle_Reward4,奇点扩张积分达到12000分,"Reach 12,000 points in Singularity Expansion",Đạt 12000 điểm trong Kỳ Điểm Mở Rộng
@@ -22,10 +32,10 @@ lang_multi_text.db,MultiText,WheelTowerRecordPopupTotalScore,当前总积分,Tot
 lang_multi_text.db,MultiText,WheelTowerRecordPopup_Title,是否覆盖{0}队伍{1}的记录？,Do you wish to update Team {0}'s record of {1}?,Bạn có muốn ghi đè kỷ lục của Đội {0} - {1} không?
 lang_multi_text.db,MultiText,WheelTower_ActivityLimitTimeText,剩余时间：{0},Remaining: {0},Thời gian còn lại: {0}
 lang_multi_text.db,MultiText,WheelTower_EndlessCondition,稳态协议积分达到10000分解锁,"Reach 10,000 points in Stability Accords to unlock","Đạt 10,000 điểm trong Ổn Thái Hiệp Nghị để mở khóa"
-lang_multi_text.db,MultiText,WheelTower_EndlessModeUnlockTips,奇点扩张已解锁,Singularity Expansion is unlocked,Kỳ Điểm Mở Rộng đã mở khóa
+lang_multi_text.db,MultiText,WheelTower_EndlessModeUnlockTips,奇点扩张已解锁,Singularity Expansion is unlocked,Đã mở khóa Kỳ Điểm Mở Rộng
 lang_multi_text.db,MultiText,WheelTower_NextRoundName,轮次,Round,Lượt
 lang_multi_text.db,MultiText,WheelTower_NextRoundTips,敌人已获得强化!,Enemies have become stronger!,Kẻ địch đã được tăng cường!
-lang_multi_text.db,MultiText,WheelTower_NonCycle,暂未开启,Not available yet,Chưa mở
+lang_multi_text.db,MultiText,WheelTower_NonCycle,暂未开启,Not available yet,Chưa mở khóa
 lang_multi_text.db,MultiText,WheelTower_Result_Back,返回,Return,Quay lại
 lang_multi_text.db,MultiText,WheelTower_Result_Endless,前往奇点扩张,Singularity Expansion,Đến Kỳ Điểm Mở Rộng
 lang_multi_text.db,MultiText,WheelTower_Result_Next,下一队伍,Next Team,Đội tiếp theo
@@ -38,7 +48,7 @@ lang_multi_text.db,MultiText,WheelTower_TeamSelectFullTips,当前队伍角色已
 lang_multi_text.db,MultiText,WheelTower_TimeLimit,{0}后解锁,Unlocks in {0},Mở khóa sau {0}
 lang_multi_text.db,MultiText,WheelTower_TowerLocked,矩阵叠兵·先行版尚未解锁,Doubled Pawns Matrix: Pilot is locked,Ma Trận Điệp Binh - Tiên Hành Bản chưa mở khóa
 lang_multi_text.db,MultiText,Wheel_Explore,探索工具,Utility,Công cụ khám phá
-lang_multi_text.db,MultiText,Wheel_Function,功能入口,Function,Chức năng
+lang_multi_text.db,MultiText,Wheel_Function,功能入口,Function,Lối Vào Chức Năng
 lang_multi_text.db,MultiText,Wheel_Viechel,载具,Vehicle,Phương tiện
 lang_multi_text.db,MultiText,WorldLevelTips,联觉等级上限{0}-><color=Highlight>{1}</color>,Union Level Cap {0}-><color=Highlight>{1}</color>,Giới hạn cấp Liên Giác {0}-><color=Highlight>{1}</color>
 lang_multi_text.db,MultiText,WorldLevelUpgradeNotice,索拉等级可突破，可打开任务界面追踪任务,SOL3 Phase Ascension available. Track it on the Quests menu,"Có thể đột phá cấp SOL3, mở giao diện nhiệm vụ để theo dõi"
@@ -49,11 +59,11 @@ lang_multi_text.db,MultiText,WorldNewJourney_100003_SourceDesc,完成<color=#c19
 lang_multi_text.db,MultiText,WorldNewJourney_100004_SourceDesc,通关<color=#c19f51>逆境深塔</color>稳定区后领取,Clear <color=#c19f51>Tower of Adversity</color>: Stable Zone,Vượt qua Khu Ổn Định của <color=#c19f51>Nghịch Cảnh Thâm Tháp</color> để nhận
 lang_multi_text.db,MultiText,WorldNewJourney_100005_SourceDesc,完成危行任务<color=#c19f51>「使命必达·归墟港市」</color>后领取,"Clear Exploration Quest <color=#c19f51>""We Promise, We Deliver: Port City of Guixu""</color>","Hoàn thành nhiệm vụ Nguy Hành <color=#c19f51>""Sứ Mệnh Tất Đạt - Cảng Thị Quy Khư""</color> để nhận"
 lang_multi_text.db,MultiText,WorldNewJourney_100006_SourceDesc,完成<color=#c19f51>漂泊日志</color>第五阶段后领取,Complete Stage 5 in <color=#c19f51>Milestones</color>,Hoàn thành giai đoạn 5 trong <color=#c19f51>Nhật Ký Phiêu Bạt</color> để nhận
-lang_multi_text.db,MultiText,WorldRun_Button_State1,前往挑战,Challenge,Đi thách đấu
-lang_multi_text.db,MultiText,WorldRun_Button_State2,再次挑战,Challenge Again,Thách đấu lại
+lang_multi_text.db,MultiText,WorldRun_Button_State1,前往挑战,Challenge,Đi thử thách
+lang_multi_text.db,MultiText,WorldRun_Button_State2,再次挑战,Challenge Again,Thử thách lại
 lang_multi_text.db,MultiText,WorldRun_Settlement,消耗时间,Time Taken,Thời gian tiêu hao
 lang_multi_text.db,MultiText,World_Level_Text,索拉等级{0},SOL3 Phase {0},Cấp SOL3 {0}
-lang_multi_text.db,MultiText,WuWangZheWarning _1407399318_Text,「梦魇」来袭,"""Nightmare"" Incursion","""Ác Mộng"" tập kích"
+lang_multi_text.db,MultiText,WuWangZheWarning _1407399318_Text,「梦魇」来袭,"""Nightmare"" Incursion","""Mộng Yểm"" tập kích"
 lang_multi_text.db,MultiText,XCLST_10_1,喔！不愧是以人的力量为本的七丘，跟我们那的状态完全不同。,"Ah, Septimont! Where strength reigns supreme. Everything here feels different than back home.","Ồ! Không hổ danh là Thất Khâu, nơi lấy sức mạnh con người làm gốc, hoàn toàn khác với bên chỗ chúng tớ."
 lang_multi_text.db,MultiText,XCLST_10_2,换到拉古那，方阵就会以卫冕节使为主，现在他们好像要外出行猎？好想跟去看看。,"In Ragunna, such formations would be comprised mostly of La Guardia. Seems like they're heading out on a hunt. Wish I could tag along.",Nếu ở Ragunna thì đội hình sẽ lấy Vệ Miện Tiết Sứ làm chủ lực. Giờ hình như họ chuẩn bị ra ngoài đi săn? Muốn đi theo xem quá.
 lang_multi_text.db,MultiText,XCLST_10_3,请游客们不要靠近我们的阵列，以防意外受伤。,"Visitors, please keep clear of the formation to avoid any accidents.","Xin du khách không đến gần đội hình của chúng tôi, tránh bị thương ngoài ý muốn."
@@ -95,13 +105,3 @@ lang_multi_text.db,MultiText,XCLST_22_1,冠军赛之后半年内会迎来「涨�
 lang_multi_text.db,MultiText,XCLST_22_2,家族的产业必须有人管理，如果我们都回七丘城，庄园就只能靠外人来经营。,"Someone from the house must stay behind and manage the business. If we all leave for the city, we'd have no choice but to entrust the estate to outsiders.","Sản nghiệp gia tộc phải có người quản lý, nếu tất cả chúng ta đều về Thất Khâu Thành, trang viên chỉ có thể giao cho người ngoài vận hành."
 lang_multi_text.db,MultiText,XCLST_22_3,产业和安全，孰轻孰重？姐姐，我们没什么可犹豫的。,"Between business and our own lives. Which is more important, sister? I believe the choice is clear.","Sản nghiệp và an toàn, cái nào nặng cái nào nhẹ? Chị à, chúng ta không có gì phải do dự cả."
 lang_multi_text.db,MultiText,XCLST_23_1,老先生，最近有看到可疑的人吗？尤其是谈论隐海修会、岁主这些话题的七丘人。,"Hello, good sir. Have you encountered any suspicious individuals of late? Especially a Septimontian who speaks of The Order of the Deep and the Sentinel?","Thưa lão tiên sinh, gần đây ngài có thấy người khả nghi nào không? Đặc biệt là người Thất Khâu bàn luận về Ẩn Hải Tu Hội, Tuế Chủ hay những chủ đề tương tự."
-lang_multi_text.db,MultiText,XCLST_23_2,什么？什么隐会？,What's that now? The Deep what?,Cái gì? Ẩn gì cơ?
-lang_multi_text.db,MultiText,XCLST_23_3,隐海修会！岁主！有见到七丘人在说这些吗？,The Order of the Deep! The Sentinel! Have you come across any Septimontians discussing these topics?,Ẩn Hải Tu Hội! Tuế Chủ! Có thấy người Thất Khâu nào nói về những thứ này không?
-lang_multi_text.db,MultiText,XCLST_23_4,什么海主？,What's a Deep Sentinel?,Hải chủ gì cơ?
-lang_multi_text.db,MultiText,XCLST_23_5,我——唉。,I... Nevermind.,Tôi... haizz.
-lang_multi_text.db,MultiText,XCLST_24_1,他们对岁主的指引居然……简直不可理喻！,"The Sentinel's guidance, how dare they... This is outrageous!",Chỉ dẫn của Tuế Chủ mà bọn họ lại dám... Thật không thể chấp nhận được!
-lang_multi_text.db,MultiText,XCLST_24_2,嗯？这位女士，我想和你谈谈。,"Hmm? Ma'am, a moment of your time, please.","Hm? Thưa cô, tôi muốn nói chuyện với cô một chút."
-lang_multi_text.db,MultiText,XCLST_25_1,这位女士，近期有伪装成七丘人的隐海修会传教士，我正在调查，请问你能——,"Ma'am, we’ve recently received reports of Acolytes of the Order of the Deep disguised as Septimontians to promote their beliefs. I'm here to investigate this matter. Do you—","Thưa cô, gần đây có giáo sĩ Ẩn Hải Tu Hội giả dạng người Thất Khâu, tôi đang điều tra, xin hỏi cô có thể..."
-lang_multi_text.db,MultiText,XCLST_25_2,少来烦我！别以为你又高又帅，就能来跟我搭讪，我现在正烦着。,Leave me alone! You think you can flirt with me just because you're tall and handsome? I am not in the mood.,"Đừng có làm phiền tôi! Đừng tưởng vừa cao vừa đẹp trai là có thể đến bắt chuyện với tôi, tôi đang bực đây!"
-lang_multi_text.db,MultiText,XCLST_25_3,就算你全副武装我也不怕，真生气了随便几下就把你打飞，我走了！,I don't care if you're fully armed. I'll send you flying with a single punch if you push me. Goodbye to you!,"Cho dù anh có vũ trang đầy đủ tôi cũng không sợ, nổi giận lên tôi vài phát là đánh bay anh đó, tôi đi đây!"
-lang_multi_text.db,MultiText,XCLST_25_4,唔，如此勇武果决，想必一定是流淌七丘之血的本地人，看来是我误会了。,Hmm. So much fire. Only a true Septimontian would have such vigor coursing through their veins. Appears I’ve mistaken her.,"Ừm, dũng mãnh quả quyết như vậy, hẳn là người bản địa mang dòng máu Thất Khâu, xem ra ta đã nhầm rồi."

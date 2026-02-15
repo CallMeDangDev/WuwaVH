@@ -1,5 +1,15 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ErrorCode_ErrAbyssSysthesisConsumeItemDuplicate,消耗道具重复,Synthesis item already selected,Đạo cụ tiêu hao bị trùng lặp
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssRoleMaxPluginCount,超过可佩戴数量限制,Equip limit reached,Vượt quá giới hạn số lượng trang bị
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssRoleNotEquip,没有装备团子,No Cube equipped,Chưa trang bị Cube
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssRoleUpItem,道具数量不足,Insufficient item,Số lượng vật phẩm không đủ
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssRoleUpLevel,请求等级参数异常,Request parameter error,Tham số cấp độ yêu cầu bất thường
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssRoleUpNoComsume,升级配置异常,Upgrade configuration error,Cấu hình nâng cấp bất thường
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssRoomConfig,找不到房间配置数据,Room configuration not found,Không tìm thấy dữ liệu cấu hình phòng
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssRoomNoBox,房间宝箱没有配置,Room reward not configured,Rương thưởng phòng chưa được cấu hình
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssSettled,已结算,Finalized,Đã kết toán
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssSlotConfig,插件位置找不到配置,Module location configuration not found,Không tìm thấy cấu hình vị trí module
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssSlotNotMatch,插件类型不匹配,Module type not matched,Loại module không khớp
+lang_multi_text.db,MultiText,ErrorCode_ErrAbyssSysthesisConsumeItemDuplicate,消耗道具重复,Synthesis item already selected,Vật phẩm tiêu hao bị trùng lặp
 lang_multi_text.db,MultiText,ErrorCode_ErrAbyssSysthesisItemDuplicate,道具重复,Item already selected,Đạo cụ bị trùng lặp
 lang_multi_text.db,MultiText,ErrorCode_ErrAbyssSysthesisMaxCount,超过合成数量限制,Synthesis limit reached,Vượt quá giới hạn số lượng tổng hợp
 lang_multi_text.db,MultiText,ErrorCode_ErrAccountDeactivation,账号已注销,Account has been deleted,Tài khoản đã bị hủy
@@ -13,7 +23,7 @@ lang_multi_text.db,MultiText,ErrorCode_ErrActivitylineCrossPreLocked,前置关�
 lang_multi_text.db,MultiText,ErrorCode_ErrAreaTerminalPinExist_Text,操作过快，请稍后重试,Operation too fast. Please try again later,"Thao tác quá nhanh, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_ErrAreaTerminalPinNotExist_Text,操作过快，请稍后重试,Operation too fast. Please try again later,"Thao tác quá nhanh, vui lòng thử lại sau"
 lang_multi_text.db,MultiText,ErrorCode_ErrArtemisActivityNotExist_Text,活动不存在,Event does not exist,Sự kiện không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_ErrArtemisActivityNotOpen_Text,活动未开启,Event not available,Sự kiện chưa mở
+lang_multi_text.db,MultiText,ErrorCode_ErrArtemisActivityNotOpen_Text,活动未开启,Event not available,Sự kiện chưa mở.
 lang_multi_text.db,MultiText,ErrorCode_ErrArtemisInvalidUpdate_Text,节点更新错误,Node update error,Lỗi cập nhật nút
 lang_multi_text.db,MultiText,ErrorCode_ErrArtemisNodeAlreadyFinished_Text,节点已完成,Node completed,Nút đã hoàn thành
 lang_multi_text.db,MultiText,ErrorCode_ErrArtemisNodeAlreadyFixed_Text,节点已经修复,Node already repaired,Nút đã được sửa chữa
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotConfigNotExist,槽位配�
 lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotConfigSlotCountError,地图上的槽位存在多个实体,Multiple entities exist in the map slot,Ô vị trí trên bản đồ tồn tại nhiều thực thể
 lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotDuplicateInRequest,家具槽位重复,Decoration slot already exists,Ô nội thất bị trùng lặp
 lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotNotBelongToArea,槽位不属于区域,Slot does not belong to this area,Ô vị trí không thuộc khu vực này
-lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotNotSupportChildTag,当前槽位不支持家具tag,This slot does not support decoration tag,Ô vị trí hiện tại không hỗ trợ tag nội thất
-lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotNotSupportFurniture,当前槽位不支持家具,This slot does not support decoration tag,Ô vị trí hiện tại không hỗ trợ nội thất
-lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureSlotSubFurnitureCount,传来的子家具数量与槽位数量不等,Numbers of sub-decoration and slot not matched,Số lượng nội thất phụ gửi lên không khớp với số ô vị trí
-lang_multi_text.db,MultiText,ErrorCode_ErrFurnitureUnloadSubFurnitureNotEmpty,卸载家具时子家具列表长度不为0,The sub-decoration list length shouldn't be 0 when removing the decoration,Danh sách nội thất phụ không được khác 0 khi gỡ nội thất
-lang_multi_text.db,MultiText,ErrorCode_ErrGetPsnUserPlayerErr_Text,找不到玩家信息,User information not found,Không tìm thấy thông tin người chơi
-lang_multi_text.db,MultiText,ErrorCode_ErrGetSelfPsnOnlineId_Text,查询的对象不能是自己,You cannot search your own ID,Không thể tìm kiếm chính mình
-lang_multi_text.db,MultiText,ErrorCode_ErrHostSceneBlockSplitFail_Text,对方场景资源未完全下载，无法联机,The player has not completed downloading assets for the current area. Unable to enter Co-op Mode.,"Tài nguyên cảnh của đối phương chưa được tải xuống hoàn tất, không thể chơi liên mạng"
-lang_multi_text.db,MultiText,ErrorCode_ErrIllustratedNotUnlock_Text,声骸图鉴未解锁,Echo Gallery not available,Đồ giám Thanh Hài chưa mở khóa
-lang_multi_text.db,MultiText,ErrorCode_ErrIndexOutOfRange_Text,请求的节点下标越界,Requested node array index out of bounds,Chỉ số node yêu cầu vượt giới hạn
-lang_multi_text.db,MultiText,ErrorCode_ErrInstTeleportInstLimit,无法直接传送到另一个副本，请退出当前副本后再尝试。,Cannot fast travel to another challenge. Please exit and try again.,"Không thể dịch chuyển trực tiếp đến phụ bản khác, vui lòng thoát phụ bản hiện tại rồi thử lại."

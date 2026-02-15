@@ -1,4 +1,116 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Skill_1004407_SkillName,质能等价,Mass-Energy Equivalence,Chất Năng Đẳng Giá
+lang_multi_text.db,MultiText,Skill_1004407_SkillResume,"<size=40><color=Title>【特殊能量】机制</color></size>
+莫宁处于地面时，可获得<color=Highlight>【地面模式能量】</color>。
+莫宁处于空中时，可获得<color=Highlight>【空中模式能量】</color>。
+<size=10></size>
+<size=40><color=Title>地面强化重击</color></size>
+<color=Highlight>【地面模式能量】</color>满时可施放<color=Highlight>地面强化重击</color>。
+消耗全部<color=Highlight>【地面模式能量】</color>，造成<color=Fire>热熔伤害</color>，进入<color=Highlight>空中模式</color>。
+<size=10></size>
+<size=40><color=Title>空中模式</color></size>
+<color=Highlight>空中模式</color>持续{11}秒。进入该模式时展开<color=Highlight>领域</color>，造成<color=Fire>热熔伤害</color>。
+<size=10></size>
+<size=40><color=Title>领域</color></size>
+·<color=Highlight>领域</color>持续{1}秒。
+·持续回复附近队伍中登场角色的生命值。
+·附近队伍中所有角色<color=Highlight>偏谐值累积效率</color>提升，附近队伍中登场角色抗打断提升。
+<size=10></size>
+<size=40><color=Title>空中强化重击</color></size>
+<color=Highlight>【空中模式能量】</color>满时可施放<color=Highlight>空中强化重击</color>。
+消耗全部<color=Highlight>【空中模式能量】</color>，造成<color=Fire>热熔伤害</color>，为目标附加<color=Highlight>标记</color>，持续{4}秒。
+<size=10></size>
+<size=40><color=Title>标记</color></size>
+对被<color=Highlight>标记</color>的目标造成<color=Highlight>【谐度破坏】</color>伤害后，为其附加<color=Highlight>强化标记</color>，持续{5}秒。
+<size=10></size>
+<size=40><color=Title>强化标记</color></size>
+若目标处于<color=Highlight>【震谐·干涉】</color>或<color=Highlight>【集谐·干涉】</color>状态，则附近队伍中所有角色对其造成的伤害提升。
+<size=10></size>
+<size=40><color=Title>视域</color></size>
+拥有<color=Highlight>标记</color>或<color=Highlight>强化标记</color>状态的目标被击败后，一定时间内队伍中的角色造成伤害后对目标附加<color=Highlight>标记</color>。
+<size=10></size>
+<size=40><color=Title>震谐响应·粒子射流</color></size>
+莫宁对目标造成<color=Fire>热熔伤害</color>，视为<color=Highlight>震谐伤害</color>。","<size=40><color=Title>Forte Gauge</color></size>
+Mornye gains <color=Highlight>Ground Mode Energy</color> while on the ground, and <color=Highlight>Hovering Mode Energy</color> while in the air.
+<size=10></size>
+<size=40><color=Title>Enhanced Ground Heavy Attack</color></size>
+With full <color=Highlight>Ground Mode Energy</color>, <color=Highlight>Enhanced Ground Heavy Attack</color> becomes available.
+Consume all <color=Highlight>Ground Mode Energy</color> to cast <color=Highlight>Enhanced Ground Heavy Attack</color>, dealing <color=Fire>Fusion DMG</color>. Afterward, enter <color=Highlight>Hovering Mode</color>.
+<size=10></size>
+<size=40><color=Title>Hovering Mode</color></size>
+<color=Highlight>Hovering Mode</color> lasts for {11}s.
+- Upon entering this mode, generate a <color=Highlight>Field</color>, dealing <color=Fire>Fusion DMG</color>.
+<size=10></size>
+<size=40><color=Title>Field</color></size>
+- <color=Highlight>Field</color> lasts for {1}s.
+- Continuously restores HP for nearby active Resonators in the team.
+- Increases the <color=Highlight>Off-Tune Buildup Rate</color> of all nearby Resonators in the team. Increases resistance to interruption of the nearby active Resonators in the team.
+<size=10></size>
+<size=40><color=Title>Enhanced Mid-air Heavy Attack</color></size>
+With full <color=Highlight>Hovering Mode Energy</color>, <color=Highlight>Enhanced Mid-air Heavy Attack</color> becomes available.
+Consume all <color=Highlight>Hovering Mode Energy</color> to cast <color=Highlight>Enhanced Mid-air Heavy Attack</color>, dealing <color=Fire>Fusion DMG</color> and <color=Highlight>Marking</color> the target for {4}s.
+<size=10></size>
+<size=40><color=Title>Marker</color></size>
+Upon dealing <color=Highlight>Tune Break</color> DMG to a <color=Highlight>Marked</color> target, inflict an <color=Highlight>Enhanced Marker</color> on the target for {5}s.
+<size=10></size>
+<size=40><color=Title>Enhanced Marker</color></size>
+All nearby Resonators in the team deal more DMG to targets affected by <color=Highlight>Tune Rupture - Interfered</color> or <color=Highlight>Tune Strain - Interfered</color>.
+<size=10></size>
+<size=40><color=Title>Visual Field</color></size>
+When a target with <color=Highlight>Marker</color> or <color=Highlight>Enhanced Marker</color> is defeated, within a certain period of time, whenever a Resonator in the team deals damage, Mornye <color=Highlight>Marks</color> the targets hit.
+<size=10></size>
+<size=40><color=Title>Tune Rupture Response - Particle Jet</color></size>
+Mornye deals <color=Fire>Fusion DMG</color>, considered <color=Highlight>Tune Rupture DMG</color>.","<size=40><color=Title>Cơ chế[Năng Lượng Đặc Biệt]</color></size>
+Khi Mornye ở mặt đất, có thể tích lũy <color=Highlight>[Năng Lượng Chế Độ Mặt Đất]</color>.
+Khi Mornye ở trên không, có thể tích lũy <color=Highlight>[Năng Lượng Chế Độ Trên Không]</color>.
+<size=10></size>
+<size=40><color=Title>Trọng Kích Cường Hóa Mặt Đất</color></size>
+Khi <color=Highlight>[Năng Lượng Chế Độ Mặt Đất]</color> đầy, có thể thi triển <color=Highlight>Trọng Kích Cường Hóa Mặt Đất</color>.
+Tiêu hao toàn bộ <color=Highlight>[Năng Lượng Chế Độ Mặt Đất]</color>, gây <color=Fire>sát thương Nhiệt Dung</color>, tiến vào <color=Highlight>Chế Độ Trên Không</color>.
+<size=10></size>
+<size=40><color=Title>Chế Độ Trên Không</color></size>
+<color=Highlight>Chế Độ Trên Không</color> duy trì {11} giây. Khi tiến vào chế độ này, triển khai <color=Highlight>Lĩnh Vực</color>, gây <color=Fire>sát thương Nhiệt Dung</color>.
+<size=10></size>
+<size=40><color=Title>Lĩnh Vực</color></size>
+- <color=Highlight>Lĩnh Vực</color> duy trì {1} giây.
+- Liên tục hồi phục sinh lực cho nhân vật đang ra trận trong đội ở gần.
+- Tất cả nhân vật trong đội ở gần được tăng <color=Highlight>hiệu suất tích lũy giá trị Thiên Hài</color>, nhân vật đang ra trận trong đội ở gần được tăng kháng gián đoạn.
+<size=10></size>
+<size=40><color=Title>Trọng Kích Cường Hóa Trên Không</color></size>
+Khi <color=Highlight>[Năng Lượng Chế Độ Trên Không]</color> đầy, có thể thi triển <color=Highlight>Trọng Kích Cường Hóa Trên Không</color>.
+Tiêu hao toàn bộ <color=Highlight>[Năng Lượng Chế Độ Trên Không]</color>, gây <color=Fire>sát thương Nhiệt Dung</color>, gắn <color=Highlight>Dấu Ấn</color> cho mục tiêu, duy trì {4} giây.
+<size=10></size>
+<size=40><color=Title>Dấu Ấn</color></size>
+Sau khi gây sát thương <color=Highlight>[Hài Độ Phá Hoại]</color> lên mục tiêu mang <color=Highlight>Dấu Ấn</color>, sẽ gắn <color=Highlight>Dấu Ấn Cường Hóa</color> cho mục tiêu, duy trì {5} giây.
+<size=10></size>
+<size=40><color=Title>Dấu Ấn Cường Hóa</color></size>
+Nếu mục tiêu ở trạng thái <color=Highlight>[Chấn Hài - Can Thiệp]</color> hoặc <color=Highlight>[Tập Hài - Can Thiệp]</color>, thì tất cả nhân vật trong đội ở gần gây sát thương lên mục tiêu được tăng.
+<size=10></size>
+<size=40><color=Title>Thị Vực</color></size>
+Sau khi mục tiêu mang <color=Highlight>Dấu Ấn</color> hoặc <color=Highlight>Dấu Ấn Cường Hóa</color> bị đánh bại, trong một khoảng thời gian nhất định, khi nhân vật trong đội gây sát thương sẽ gắn <color=Highlight>Dấu Ấn</color> lên mục tiêu.
+<size=10></size>
+<size=40><color=Title>Phản Ứng Chấn Hài - Tia Hạt Tử</color></size>
+Mornye gây <color=Fire>sát thương Nhiệt Dung</color> lên mục tiêu, được coi là <color=Highlight>sát thương Chấn Hài</color>."
+lang_multi_text.db,MultiText,Skill_1004408_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1004408_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1004408_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1004409_MultiSkillDescribe,"附近队伍中激活莫宁延奏技能的角色获得以下效果：
+队伍中的角色全伤害加深{0}，持续{1}秒。","Nearby Resonators in the team who activate Mornye's Outro Skill gain the following effect:
+Resonators in the team gain {0} All DMG Amplification for {1}s.","Nhân vật trong đội ở gần kích hoạt Diên Tấu Kỹ của Mornye nhận được hiệu ứng sau:
+Tất cả nhân vật trong đội được tăng toàn bộ sát thương {0}, duy trì {1} giây."
+lang_multi_text.db,MultiText,Skill_1004409_SkillDescribe,队伍中的角色全伤害加深{0}，持续{1}秒。,Resonators in the team gain {0} All DMG Amplification for {1}s.,"Tất cả nhân vật trong đội được tăng toàn bộ sát thương {0}, duy trì {1} giây."
+lang_multi_text.db,MultiText,Skill_1004409_SkillName,递归,Recursion,Đệ Quy
+lang_multi_text.db,MultiText,Skill_1004409_SkillResume,队伍中的角色全伤害加深，持续{1}秒。,Resonators in the team gain All DMG Amplification for {1}s.,"Tất cả nhân vật trong đội được tăng toàn bộ sát thương, duy trì {1} giây."
+lang_multi_text.db,MultiText,Skill_1004410_SkillDescribe,"莫宁拥有响应<color=Highlight><te href=100004>【震谐·干涉】</te></color>和<color=Highlight><te href=100005>【集谐·干涉】</te></color>的能力。
+响应<color=Highlight><te href=100004>【震谐·干涉】</te></color>：队伍中的角色对目标造成<color=Highlight><te href=100001>【谐度破坏】</te></color>伤害并使其进入<color=Highlight><te href=100004>【震谐·干涉】</te></color>状态时，莫宁将施放<color=Highlight>震谐响应·粒子射流</color>，同一目标每{0}秒仅可受到1次该伤害。
+响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>：目标每有一层<color=Highlight><te href=100005>【集谐·干涉】</te></color>可使莫宁对其造成的最终伤害提升，莫宁的每点<color=Highlight>谐度破坏增幅</color>计入{1}的最终伤害提升。莫宁处于编队中时，目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>层数上限增加{2}层。
+此外，目标<color=Highlight>【偏谐值】</color>满时，莫宁可对其施放<color=Highlight><te href=100001>【谐度破坏】</te></color>。","Mornye can respond to <color=Highlight><te href=100004>Tune Rupture - Interfered</te></color> and <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>.
+- Responding to <color=Highlight><te href=100004>Tune Rupture - Interfered</te></color>: When any Resonator in the team deals <color=Highlight><te href=100001>Tune Break</te></color> DMG and inflicts <color=Highlight><te href=100004>Tune Rupture - Interfered</te></color>, Mornye casts <color=Highlight>Tune Rupture Response - Particle Jet</color>. Each target can be damaged by this skill up to once every {0}s.
+- Responding to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>: Each stack of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target increases Mornye's total DMG against them. Each point of Mornye's <color=Highlight>Tune Break Boost</color> increases the total DMG by {1}. While Mornye is in the team, the max stack limit of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on a target is increased by {2}.
+Mornye can perform <color=Highlight><te href=100001>Tune Break</te></color> against the targets with full <color=Highlight>Off-Tune Level</color>.","Mornye có khả năng phản ứng với <color=Highlight><te href=100004>[Chấn Hài - Can Thiệp]</te></color> và <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>.
+Phản ứng <color=Highlight><te href=100004>[Chấn Hài - Can Thiệp]</te></color>: khi nhân vật trong đội gây sát thương <color=Highlight><te href=100001>[Hài Độ Phá Hoại]</te></color> lên mục tiêu và khiến mục tiêu tiến vào trạng thái <color=Highlight><te href=100004>[Chấn Hài - Can Thiệp]</te></color>, Mornye sẽ thi triển <color=Highlight>Phản Ứng Chấn Hài - Tia Hạt Tử</color>, cùng một mục tiêu mỗi {0} giây chỉ có thể nhận 1 lần sát thương này.
+Phản ứng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>: mỗi tầng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu giúp tăng sát thương cuối cùng mà Mornye gây ra cho mục tiêu đó, mỗi điểm <color=Highlight>Hài Độ Phá Hoại Tăng Phúc</color> của Mornye được tính thành {1} tăng sát thương cuối cùng. Khi Mornye ở trong đội, giới hạn tầng tối đa <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu tăng thêm {2} tầng.
+Ngoài ra, khi <color=Highlight>[Giá Trị Thiên Hài]</color> của mục tiêu đầy, Mornye có thể thi triển <color=Highlight><te href=100001>[Hài Độ Phá Hoại]</te></color> lên mục tiêu."
 lang_multi_text.db,MultiText,Skill_1004410_SkillName,解耦,Decoupling,Giải Ngẫu
 lang_multi_text.db,MultiText,Skill_1004410_SkillResume,"莫宁拥有响应<color=Highlight>【震谐·干涉】</color>和<color=Highlight>【集谐·干涉】</color>的能力。
 此外，目标<color=Highlight>【偏谐值】</color>满时，莫宁可对其施放<color=Highlight>【谐度破坏】</color>。","Mornye can respond to <color=Highlight>Tune Rupture - Interfered</color> and <color=Highlight>Tune Strain - Interfered</color>.
@@ -445,9 +557,9 @@ Khi ở <color=Highlight>Hình Thái Trượt Patin</color>, duy trì di chuyể
 <size=10></size>
 <size=40><color=Title>[Bản Sắc]</color></size>
 Trong trạng thái chiến đấu, mỗi lần thi triển <color=Highlight>Phổ Công - Huyễn Quang Chiết Dược</color>, nhận 1 điểm <color=Highlight>[Bản Sắc]</color>."
-lang_multi_text.db,MultiText,Skill_1004508_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt
-lang_multi_text.db,MultiText,Skill_1004508_SkillName,巧手烹调,Skillful Cooking,Nấu Nướng Khéo Tay
-lang_multi_text.db,MultiText,Skill_1004508_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt
+lang_multi_text.db,MultiText,Skill_1004508_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1004508_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1004508_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1004509_MultiSkillDescribe,附近队伍中激活延奏技能的角色全伤害加深{0}，共鸣解放伤害加深{1}，持续14秒，若切换至其他角色则该效果提前结束。,"Nearby Resonators in the team who activate Lynae's Outro Skill gain {0} All DMG Amplification, and {1} Resonance Liberation DMG Amplification for 14s or until they are switched out.","Nhân vật trong đội hình gần đó kích hoạt Hiệp Tấu Kỹ nhận Khuếch Đại Toàn Sát Thương {0}, Khuếch Đại Sát Thương Giải Phóng Cộng Hưởng {1}, kéo dài 14 giây, nếu chuyển sang nhân vật khác thì hiệu ứng kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1004509_SkillDescribe,"造成{0}的<color=Light>衍射伤害</color>。下一个登场的角色全伤害加深{1}，共鸣解放伤害加深{2}，持续14秒，若切换至其他角色则该效果提前结束。 
 施放延奏技能时，退出<color=Highlight><te href=150902>绮彩巡游</te></color>状态。","Attack the target and deal {0} <color=Light>Spectro DMG</color>. The next incoming Resonator gain {1} All DMG Amplification and {2} Resonance Liberation DMG Amplification for 14s or until they are switched out.
@@ -1056,9 +1168,9 @@ Gây <color=Fire>sát thương Nhiệt Dung</color>, sát thương này được
 <size=10></size>
 <size=40><color=Title>Cơ chế [Tỷ Lệ Cộng Hưởng]</color></size>
 <color=Highlight>Hợp Kích Cường Hóa</color>, <color=Highlight>Giải Phóng Cộng Hưởng</color> sẽ nhận được <color=Highlight>[Tỷ Lệ Cộng Hưởng]</color>."
-lang_multi_text.db,MultiText,Skill_1004608_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1004608_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1004608_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
-lang_multi_text.db,MultiText,Skill_1004608_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1004608_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1004609_SkillDescribe,"施放该技能时，根据爱弥斯所处的<color=Highlight>共鸣模态</color>触发不同的效果：
 ·处于<color=Highlight>共鸣模态·震谐</color>时，队伍中除爱弥斯以外的角色全伤害加深{0}，持续{1}秒。角色附加<color=Highlight><te href=100002>【震谐·偏移】</te></color>时，该角色的该全伤害加深效果提升至{2}。
 ·处于<color=Highlight>共鸣模态·聚爆</color>时，队伍中除爱弥斯以外的角色全伤害加深{0}，持续{1}秒。角色附加<color=Highlight>【<te href=850011>聚爆效应</te>】</color>时，该角色的该全伤害加深效果提升至{2}。
@@ -1474,30 +1586,8 @@ Khi ở trạng thái phi chiến đấu hơn {1} giây hoặc thi triển Biế
 <size=40><color=Title>Quang Vũ Tài Hạ</color></size>
 Khi Né Tránh trên không, phóng ra phi nhận, gây <color=Light>sát thương Nhiễu Xạ</color> cố định."
 lang_multi_text.db,MultiText,Skill_1004708_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1004708_SkillName,巧手烹调,Skillful Cooking,Nấu Nướng Khéo Tay
+lang_multi_text.db,MultiText,Skill_1004708_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
 lang_multi_text.db,MultiText,Skill_1004708_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1004709_SkillDescribe,造成陆·赫斯{0}攻击的<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color> equal to {0} Luuk Herssen's ATK.,Gây <color=Light>sát thương Nhiễu Xạ</color> bằng {0} tấn công của Luuk Herssen.
 lang_multi_text.db,MultiText,Skill_1004709_SkillName,致濒死以答,Nod to Dying Moment,Đáp Lại Khoảnh Khắc Hấp Hối
 lang_multi_text.db,MultiText,Skill_1004709_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,Gây <color=Light>sát thương Nhiễu Xạ</color>.
-lang_multi_text.db,MultiText,Skill_1004710_SkillDescribe,"陆·赫斯拥有为目标附加<color=Highlight><te href=100003>【集谐·偏移】</te></color>的能力。
-陆·赫斯拥有响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>的能力。
-响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>：目标每有一层<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果，陆·赫斯自身的每点谐度破坏增幅会使自身对该目标造成的最终伤害提升{1}。陆·赫斯在编队中时，目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果的层数上限增加{2}层。
-此外，目标<color=Highlight>【偏谐值】</color>满时，陆·赫斯可对其施放<color=Highlight><te href=100001>【谐度破坏】</te></color>。","Luuk Herssen can inflict <color=Highlight><te href=100003>Tune Strain - Shifting</te></color> on targets.
-Luuk Herssen can respond to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>.
-- Responding to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>: Every <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target increases Luuk Herssen's total DMG against them. Each point of Luuk Herssen's Tune Break Boost increases the total DMG by {1}. While Luuk Herssen is in the team, the max stack limit of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on a target is increased by {2}.
-Additionally, when the target's <color=Highlight>Off-Tune Level</color> is full, Luuk can cast <color=Highlight><te href=100001>Tune Break</te></color> on the target.","Luuk Herssen có khả năng gán <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> lên mục tiêu.
-Luuk Herssen có khả năng hưởng ứng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>.
-Hưởng ứng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>: Mỗi tầng hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu, mỗi điểm gia tăng phá hài độ của Luuk Herssen sẽ tăng sát thương cuối cùng mà bản thân gây ra lên mục tiêu đó thêm {1}. Khi Luuk Herssen có trong đội, giới hạn tầng của hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu tăng thêm {2} tầng.
-Ngoài ra, khi <color=Highlight>[Thiên Hài Trị]</color> của mục tiêu đầy, Luuk Herssen có thể thi triển <color=Highlight><te href=100001>[Hài Độ Phá Hoại]</te></color> lên mục tiêu."
-lang_multi_text.db,MultiText,Skill_1004710_SkillName,一场关于光的默辩,Silent Debate of Light,Một Cuộc Mặc Biện Về Ánh Sáng
-lang_multi_text.db,MultiText,Skill_1004710_SkillResume,"陆·赫斯拥有为目标附加<color=Highlight>【集谐·偏移】</color>的能力。
-陆·赫斯拥有响应<color=Highlight>【集谐·干涉】</color>的能力。","Luuk Herssen can inflict <color=Highlight>Tune Strain - Shifting</color>.
-Luuk Herssen can respond to <color=Highlight>Tune Strain - Interfered</color>.","Luuk Herssen có khả năng gán <color=Highlight>[Tập Hài - Thiên Di]</color> lên mục tiêu.
-Luuk Herssen có khả năng hưởng ứng <color=Highlight>[Tập Hài - Can Thiệp]</color>."
-lang_multi_text.db,MultiText,SkipTask_Prevent,当前界面无法进行跳转，请回到其他界面再尝试,You cannot navigate from the current interface. Please switch to another interface and try again.,"Không thể chuyển hướng từ giao diện hiện tại, vui lòng quay lại giao diện khác rồi thử lại."
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen1,击杀所有残象，获得“焚潮”加成,"Defeat all Tacet Discords to gain the ""Burning Waves"" buff.","Hạ gục tất cả Tàn Tượng để nhận tăng cường ""Phần Triều""."
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen2,进入焚潮状态，<color=#fee388>暴击率提升至100%</color>,"Entering Burning Waves state, <color=#fee388>Crit. Rate is increased to 100%</color>.","Tiến vào trạng thái Phần Triều, <color=#fee388>tỷ lệ bạo kích tăng lên 100%</color>."
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen3,进入焚潮状态，<color=#fee388>共鸣能量回复至100%</color>,"Entering Burning Waves state, <color=#fee388>Resonance Energy is restored to 100%</color>.","Tiến vào trạng thái Phần Triều, <color=#fee388>năng lượng Cộng Hưởng hồi phục lên 100%</color>."
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text1,气动抗性增加20%,Increase Aero RES by 20%,Kháng Khí Động tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text2,导电抗性增加20%,Increase Electro RES by 20%,Kháng Dẫn Điện tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text3,热熔抗性增加20%,Increase Fusion RES by 20%,Kháng Nhiệt Dung tăng 20%

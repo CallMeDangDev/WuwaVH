@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,TrapDefenseMonsterName4,云海妖精,Nimbus Wraith,Vân Hải Yêu Tinh
+lang_multi_text.db,MultiText,TrapDefenseMonsterName5,游弋蝶,Cruisewing,Du Duệ Điệp
+lang_multi_text.db,MultiText,TrapDefenseMonsterName6,小翼龙·导电,Electro Drake,Tiểu Dực Long - Dẫn Điện
+lang_multi_text.db,MultiText,TrapDefenseMonsterName7,小翼龙·热熔,Fusion Drake,Tiểu Dực Long - Nhiệt Dung
+lang_multi_text.db,MultiText,TrapDefenseMonsterName8,惊蛰猎手,Electro Predator,Kinh Trập Liệp Thủ
+lang_multi_text.db,MultiText,TrapDefenseMonsterName9,巡徊猎手,Aero Predator,Tuần Hồi Liệp Thủ
+lang_multi_text.db,MultiText,TrapDefenseMonsterRiskBoss,高威胁残象,Dangerous Tacet Discords,Tàn Tượng nguy hiểm cao
+lang_multi_text.db,MultiText,TrapDefenseMonsterRiskElite,精英残象,Elite Tacet Discords,Tàn Tượng tinh anh
+lang_multi_text.db,MultiText,TrapDefenseMonsterRiskSmall,普通残象,Standard Tacet Discords,Tàn Tượng thường
+lang_multi_text.db,MultiText,TrapDefenseMonsterTagDesc1001,该残象受到减速效果时不会减速，而是会提升移动速度。移动速度提升期间免疫减速效果。,"When Slowed, this Tacet Discord moves faster instead, during which it is immune to Slow.","Khi bị giảm tốc, Tàn Tượng này không bị chậm lại mà thay vào đó sẽ tăng tốc độ di chuyển. Trong thời gian tăng tốc, miễn nhiễm hiệu ứng giảm tốc."
 lang_multi_text.db,MultiText,TrapDefenseMonsterTagDesc1002,该残象的生命值额外提升，但会持续失去生命。,This Tacet Discord has higher HP but continuously loses it over time.,"Tàn Tượng này có sinh mệnh tăng thêm, nhưng sẽ liên tục mất sinh mệnh theo thời gian."
 lang_multi_text.db,MultiText,TrapDefenseMonsterTagDesc1003,该残象在首次生命下降到<color=#fde7a1ff>50%</color>以下后，对麻痹/减速/冰冻/混乱效果免疫。,This Tacet Discord becomes immune to Paralysis/Frozen/Confusion when its HP drops below <color=#fde7a1ff>50%</color> for the first time.,"Sau khi sinh mệnh lần đầu giảm xuống dưới <color=#fde7a1ff>50%</color>, Tàn Tượng này miễn nhiễm hiệu ứng Tê Liệt/Giảm Tốc/Đóng Băng/Hỗn Loạn."
 lang_multi_text.db,MultiText,TrapDefenseMonsterTagDesc1004,该残象不会触发部署于墙壁和天花板的作战装置。,This Tacet Discord doesn't trigger Combat Machines on the wall and ceiling.,Tàn Tượng này không kích hoạt các Thiết Bị Tác Chiến được triển khai trên tường và trần nhà.
@@ -40,7 +50,7 @@ lang_multi_text.db,MultiText,TrapDefenseMonsterTagName9,激怒,Wrath,Kích Nộ
 lang_multi_text.db,MultiText,TrapDefenseNotEnoughGold,拟像贝币不足,Insufficient Sim Credits,Không đủ Bối Tệ Nghĩ Tượng
 lang_multi_text.db,MultiText,TrapDefenseRougeModeNotOpen,解锁条件未满足,Unlock requirements not met,Chưa đáp ứng điều kiện mở khóa
 lang_multi_text.db,MultiText,TrapDefenseShopBuffViewEntry,查看战术,View Tactics,Xem chiến thuật
-lang_multi_text.db,MultiText,TrapDefenseShopGoodsBuff,战术,Tactics,Chiến Thuật
+lang_multi_text.db,MultiText,TrapDefenseShopGoodsBuff,战术,Tactics,Chiến thuật
 lang_multi_text.db,MultiText,TrapDefenseShopGoodsInventoryCountReachLimit,已达到携带上限,Cannot carry more,Đã đạt giới hạn mang theo
 lang_multi_text.db,MultiText,TrapDefenseShopGoodsItem,特殊物品,Special Items,Vật phẩm đặc biệt
 lang_multi_text.db,MultiText,TrapDefenseShopGoodsRefresh,剩余刷新次数{0},Refresh Attempts {0},Lượt làm mới còn lại {0}
@@ -50,7 +60,7 @@ lang_multi_text.db,MultiText,TrapDefenseShopNoCost,拟像贝币不足,Insufficie
 lang_multi_text.db,MultiText,TrapDefenseShopPurchase,购买,Purchase,Mua
 lang_multi_text.db,MultiText,TrapDefenseShopPurchaseSuccess,购买成功,Purchased,Mua thành công
 lang_multi_text.db,MultiText,TrapDefenseShopRefreshSuccess,刷新成功,Shop refreshed,Làm mới thành công
-lang_multi_text.db,MultiText,TrapDefenseTalentNodeNeedUnlockPre,需解锁前置协议,Unlock prerequisite Protocol first,Cần mở khóa Giao thức tiên quyết
+lang_multi_text.db,MultiText,TrapDefenseTalentNodeNeedUnlockPre,需解锁前置协议,Unlock prerequisite Protocol first,Cần mở khóa Hiệp Ước tiên quyết trước
 lang_multi_text.db,MultiText,TrapDefenseTalentNodeUnlock,解锁协议,Unlock,Mở khóa Giao thức
 lang_multi_text.db,MultiText,TrapDefenseTalentNodeUnlocked,协议已解锁,Unlocked,Giao thức đã mở khóa
 lang_multi_text.db,MultiText,TrapDefenseTalentNodeUpgradeTips,协议已解锁,Protocol Unlocked,Giao thức đã mở khóa
@@ -91,13 +101,3 @@ lang_multi_text.db,MultiText,TrapDefense_ItemName_1,频率中和器,Frequency Ne
 lang_multi_text.db,MultiText,TrapDefense_ItemName_2,冻结脉冲,Freezing Pulse,Xung Đóng Băng
 lang_multi_text.db,MultiText,TrapDefense_ItemName_3,冲击脉冲,Shock Pulse,Xung Chấn
 lang_multi_text.db,MultiText,TrapDefense_ItemName_4,矩阵指令：调谐,Matrix Command: Modulation,Chỉ Lệnh Ma Trận: Điều Chỉnh
-lang_multi_text.db,MultiText,TrapDefense_ItemName_5,武器强化,Weapon Upgrade,Cường Hóa Vũ Khí
-lang_multi_text.db,MultiText,TrapDefense_ItemName_6,增效信标,Amplifier Beacon,Tín Hiệu Tăng Cường
-lang_multi_text.db,MultiText,TrapDefense_ItemName_7,熔火脉冲,Magma Pulse,Xung Dung Hỏa
-lang_multi_text.db,MultiText,TrapDefense_ItemName_8,矩阵指令：过载,Matrix Command: Overload,Chỉ Lệnh Ma Trận: Quá Tải
-lang_multi_text.db,MultiText,TrapDefense_LevelChange,库默尼已抵达,KU-Money has arrived,KU-Money đã đến
-lang_multi_text.db,MultiText,TrapDefense_MonsterType,残象类型,TD Types,Loại Tàn Tượng
-lang_multi_text.db,MultiText,TrapDefense_MonsterWave,波次,Waves,Đợt
-lang_multi_text.db,MultiText,TrapDefense_Result_Continue,前往下一模拟,Next Stage,Đến mô phỏng tiếp theo
-lang_multi_text.db,MultiText,TrapDefense_Result_Retry,重新开始,Restart,Bắt đầu lại
-lang_multi_text.db,MultiText,TrapDefense_RewardType_Endless,极限挑战,Over the Edge,Thử thách cực hạn

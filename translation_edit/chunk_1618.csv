@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2007,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2008,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2009,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2010,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2011,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2012,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2013,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2014,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2015,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
+lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2016,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
 lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2017,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
 lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2018,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
 lang_multi_text.db,MultiText,PhantomBattleNPCSkill_2019,决斗家特性,Duelist Traits,Đặc tính Đấu Sĩ
@@ -36,7 +46,7 @@ lang_multi_text.db,MultiText,PhantomBattle_1003,耐久,CON,Nội lực
 lang_multi_text.db,MultiText,PhantomBattle_1004,暴击,Crit. Rate,Bạo kích
 lang_multi_text.db,MultiText,PhantomBattle_1005,暴击伤害,Crit. DMG,Sát thương bạo kích
 lang_multi_text.db,MultiText,PhantomBattle_1006,未激活,Unactivated,Chưa kích hoạt
-lang_multi_text.db,MultiText,PhantomBattle_1007,移除,Remove,Gỡ bỏ
+lang_multi_text.db,MultiText,PhantomBattle_1007,移除,Remove,Loại Bỏ
 lang_multi_text.db,MultiText,PhantomBattle_1008,加入,Add,Thêm
 lang_multi_text.db,MultiText,PhantomBattle_1009,可用数量：{0},Available: {0},Số lượng khả dụng: {0}
 lang_multi_text.db,MultiText,PhantomBattle_1010,解锁,Unlock,Mở khóa
@@ -54,14 +64,14 @@ lang_multi_text.db,MultiText,PhantomBattle_1024,COST,COST,COST
 lang_multi_text.db,MultiText,PhantomBattle_1025,{0}/{1},{0}/{1},{0}/{1}
 lang_multi_text.db,MultiText,PhantomBattle_1026,{0}/{1},{0}/{1},{0}/{1}
 lang_multi_text.db,MultiText,PhantomBattle_1027,选择要替换的手牌,Select Echo(es) to Swap Out,Chọn lá bài muốn thay thế
-lang_multi_text.db,MultiText,PhantomBattle_1028,如果对手牌满意，可以不进行替换,The switch is not a must if you are happy with the cards,"Nếu đã hài lòng với bài trên tay, bạn có thể không cần thay thế"
+lang_multi_text.db,MultiText,PhantomBattle_1028,如果对手牌满意，可以不进行替换,The switch is not a must if you are happy with the cards,"Nếu hài lòng với bài trên tay, bạn có thể không thay đổi."
 lang_multi_text.db,MultiText,PhantomBattle_1029,战斗开始,Duel Begins,Trận đấu bắt đầu
 lang_multi_text.db,MultiText,PhantomBattle_1030,第{0}回合,Round {0},Hiệp {0}
 lang_multi_text.db,MultiText,PhantomBattle_1031,替换,Switch,Thay thế
 lang_multi_text.db,MultiText,PhantomBattle_1036,"{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}"
 lang_multi_text.db,MultiText,PhantomBattle_1038,默认卡组名称,New Deck,Tên bộ bài mặc định
 lang_multi_text.db,MultiText,PhantomBattle_1039,未解锁,Locked,Chưa mở khóa
-lang_multi_text.db,MultiText,PhantomBattle_1040,上次使用,Last Deck,Dùng lần trước
+lang_multi_text.db,MultiText,PhantomBattle_1040,上次使用,Last Deck,Lần sử dụng trước
 lang_multi_text.db,MultiText,PhantomBattle_1041,未完成卡组构筑,Deck Incomplete,Chưa hoàn thành xây dựng bộ bài
 lang_multi_text.db,MultiText,PhantomBattle_1042,<color=#e2524c>{0}</color>/{1},<color=#e2524c>{0}</color>/{1},<color=#e2524c>{0}</color>/{1}
 lang_multi_text.db,MultiText,PhantomBattle_1043,进度：{0}/{1},Progress: {0}/{1},Tiến độ: {0}/{1}
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,PhantomBattle_1064,此声骸没有变幻技能，�
 lang_multi_text.db,MultiText,PhantomBattle_1065,无法从召唤区将声骸直接拖入变幻区,You can't drag a deployed Echo into the Transform Area.,Không thể kéo trực tiếp Thanh Hài từ khu vực triệu hồi vào khu vực biến hóa.
 lang_multi_text.db,MultiText,PhantomBattle_1066,COST3声骸无法直接召唤，只能通过调谐召唤,Cost 3 Echoes can only be deployed through Modulation,"Thanh Hài COST3 không thể triệu hồi trực tiếp, chỉ có thể triệu hồi thông qua điều hưởng."
 lang_multi_text.db,MultiText,PhantomBattle_1067,尚未完成决斗准备，请在完成卡组构筑，并选择角色战术后进行挑战,You have not fully prepared for the duel. Please build your deck and select a set of Resonator Tactics before the duel.,"Chưa hoàn tất chuẩn bị quyết đấu, vui lòng xây dựng bộ bài và chọn chiến thuật nhân vật trước khi thách đấu."
-lang_multi_text.db,MultiText,PhantomBattle_1068,选择{0}个目标（{1}/{2}）,"Select <SapTag=0>{0}</SapTag> {Cus:Sap,S=target P=targets SapTag=0} ({1}/{2})",Chọn {0} mục tiêu ({1}/{2})
-lang_multi_text.db,MultiText,PhantomBattle_1069,无法选择空卡组,Cannot select an empty deck,Không thể chọn bộ bài trống.
-lang_multi_text.db,MultiText,PhantomBattle_1070,无法删除空卡组,Cannot delete an empty deck,Không thể xóa bộ bài trống.
-lang_multi_text.db,MultiText,PhantomBattle_1071,该声骸尚未解锁，无法添加,This Echo is locked. Cannot be added.,"Thanh Hài này chưa được mở khóa, không thể thêm."
-lang_multi_text.db,MultiText,PhantomBattle_1072,COST4声骸无法被弃置,Cost 4 Echo cannot be discarded,Thanh Hài COST4 không thể bị loại bỏ.
-lang_multi_text.db,MultiText,PhantomBattle_1073,卡组已有核心声骸，无法添加更多的核心声骸,Core Echo already selected. Unable to add more Core Echoes.,"Bộ bài đã có Thanh Hài cốt lõi, không thể thêm Thanh Hài cốt lõi khác."
-lang_multi_text.db,MultiText,PhantomBattle_1074,卡组中的通常声骸已满，无法添加更多的通常声骸,Normal Echo cap reached. Unable to add more.,"Thanh Hài thường trong bộ bài đã đầy, không thể thêm nữa."
-lang_multi_text.db,MultiText,PhantomBattle_1075,当前决斗使用预设卡组，无需构筑卡组,"Default deck is employed in this duel, no need to build your own deck.","Trận quyết đấu này sử dụng bộ bài mặc định, không cần xây dựng bộ bài."
-lang_multi_text.db,MultiText,PhantomBattle_1076,卡组名称,Deck Title,Tên bộ bài
-lang_multi_text.db,MultiText,PhantomBattle_1077,最长可输入20字符,20 characters max,Tối đa 20 ký tự

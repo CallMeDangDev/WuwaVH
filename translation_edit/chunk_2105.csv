@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10008_Name,“财富震摄”,Wealth Shock,"""Uy Chấn Tài Phú"""
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10009_Description,击杀怪物时，有1.5%的概率生成一个强化拾取物。,"When defeating an enemy, there is a 1.5% chance to spawn a Buff Token.","Khi hạ gục quái vật, có 1.5% xác suất tạo ra một vật phẩm cường hóa."
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10009_Name,“回收利用”,Recycling,"""Tái Chế Tận Dụng"""
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10010_Description,拾取强化模块时，造成的伤害永久提升0.02%。,"When picking up an Enhancement Module, DMG dealt is permanently increased by 0.02%.","Khi nhặt Mô-đun Cường Hóa, ST gây ra tăng vĩnh viễn 0.02%."
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10010_Name,“量化交易”,Quantitative Trading,"""Giao Dịch Lượng Hóa"""
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10011_Description,拾取强化模块时，有5%的几率使生命值上限永久提升1%。,"When picking up an Enhancement Module, there is a 5% chance to permanently increase Max HP by 1%.","Khi nhặt Mô-đun Cường Hóa, có 5% xác suất tăng vĩnh viễn HP tối đa thêm 1%."
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10011_Name,“医疗保险”,Health Insurance,"""Bảo Hiểm Y Tế"""
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10012_Description,拾取强化模块时，有5%的几率额外获取1点强化模块。,"When picking up an Enhancement Module, there is a 5% chance to gain 1 extra Enhancement Module.","Khi nhặt Mô-đun Cường Hóa, có 5% xác suất nhận thêm 1 Mô-đun Cường Hóa."
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10012_Name,“意外之财”,Windfall,"""Của Trời Cho"""
+lang_multi_text.db,MultiText,SurvivorsTalentItem_10013_Description,商店免费刷新次数+2，每波次重置。,"Gain 2 extra free Shop refreshes, which are reset every wave.","Số lần làm mới miễn phí cửa hàng +2, đặt lại mỗi đợt."
 lang_multi_text.db,MultiText,SurvivorsTalentItem_10013_Name,“流动市场”,Liquid Market,"""Thị Trường Lưu Động"""
 lang_multi_text.db,MultiText,SurvivorsTalentItem_10014_Description,每波次结束后场上强化模块不再有50%的几率清除。,Enhancement Modules have a 50% chance to remain on the field at the end of each wave.,Module cường hóa trên sân không còn bị xóa với tỷ lệ 50% sau mỗi đợt kết thúc.
 lang_multi_text.db,MultiText,SurvivorsTalentItem_10014_Name,“追加演出”,Encore,"""Diễn Thêm"""
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,SurvivorsTalentItem_16010_Name,召唤强化,Summon 
 lang_multi_text.db,MultiText,SurvivorsTalentItem_16011_Description,<color=#c49e55><te href=800027>【召唤】</te></color>该类型的武装对减速的怪物造成伤害时，使其全伤害抗性降低40%，持续4秒。,"When <color=#c49e55><te href=800027>Summon Weapons</te></color> deal damage to slowed enemies, their DMG RES of all Attributes is reduced by 40% for 4s.","<color=#c49e55><te href=800027>[Triệu Hồi]</te></color> Khi loại vũ trang này gây sát thương cho quái vật bị giảm tốc, giảm kháng toàn bộ sát thương của mục tiêu 40%, kéo dài 4 giây."
 lang_multi_text.db,MultiText,SurvivorsTalentItem_16011_Name,抗性剥离,Resistance Break,Bóc Tách Kháng Tính
 lang_multi_text.db,MultiText,SurvivorsTalentItem_16012_Description,<color=#c49e55><te href=800027>【召唤】</te></color>该类型的武装造成伤害时，目标受到的伤害提升1%，持续6秒，可叠加50层。,"Each time <color=#c49e55><te href=800027>Summon Weapons</te></color> deal damage, the hit enemies take 1% more DMG for 6s, stacking up to 50 times.","<color=#c49e55><te href=800027>[Triệu Hồi]</te></color> Khi loại vũ trang này gây sát thương, sát thương mục tiêu nhận vào tăng 1%, kéo dài 6 giây, cộng dồn tối đa 50 tầng."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16012_Name,召唤祝颂,Summon Blessing,Chúc Tụng Triệu Hồi
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16013_Description,衍射伤害提升50%。,Spectro DMG is increased by 50%.,Sát thương Nhiễu Xạ tăng 50%.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16013_Name,衍射强化,Spectro Boost,Cường Hóa Nhiễu Xạ
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16014_Description,湮灭伤害提升50%。,Havoc DMG is increased by 50%.,Sát thương Hủy Diệt tăng 50%.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16014_Name,湮灭强化,Havoc Boost,Cường Hóa Hủy Diệt
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16015_Description,气动伤害提升50%。,Aero DMG is increased by 50%.,Sát thương Khí Động tăng 50%.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16015_Name,气动强化,Aero Boost,Cường Hóa Khí Động
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16016_Description,热熔伤害提升50%。,Fusion DMG is increased by 50%.,Sát thương Nhiệt Dung tăng 50%.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16016_Name,热熔强化,Fusion Boost,Cường Hóa Nhiệt Dung
-lang_multi_text.db,MultiText,SurvivorsTalentItem_16017_Description,冷凝伤害提升50%。,Glacio DMG is increased by 50%.,Sát thương Ngưng Băng tăng 50%.

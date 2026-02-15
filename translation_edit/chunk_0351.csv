@@ -1,4 +1,17 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ConfirmBox_20_Title,转录确认,Transcription Confirm,Xác nhận chuyển tả
+lang_multi_text.db,MultiText,ConfirmBox_211_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_211_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_211_Content,您即将进入一个独立的任务流程，在该任务完成前将无法进行联机，是否确认继续进行任务流程？,"You are about to enter an independent storyline, where co-op mode is temporarily disabled. Confirm to proceed?","Bạn sắp bước vào một chuỗi nhiệm vụ độc lập, trong thời gian thực hiện nhiệm vụ này sẽ không thể chơi trực tuyến. Xác nhận tiếp tục?"
+lang_multi_text.db,MultiText,ConfirmBox_211_Title,提示,Notice,Thông báo
+lang_multi_text.db,MultiText,ConfirmBox_212_ButtonText_0,暂不,Cancel,Để sau
+lang_multi_text.db,MultiText,ConfirmBox_212_Content,"检测到已连接控制器设备，是否切换至控制器模式？
+（在<color=Highlight>系统设置</color> →<color=Highlight>按键</color> 界面中可进行切换）","Controller detected. Switch to the Controller mode?
+(You may switch manually via <color=Highlight>Settings</color> - <color=Highlight>Key Bindings</color>)","Phát hiện tay cầm đã kết nối, bạn có muốn chuyển sang chế độ tay cầm không?
+(Có thể chuyển đổi tại <color=Highlight>Cài đặt hệ thống</color> → <color=Highlight>Phím điều khiển</color>)"
+lang_multi_text.db,MultiText,ConfirmBox_212_Title,操作模式切换,Switch Operation Mode,Chuyển chế độ điều khiển
+lang_multi_text.db,MultiText,ConfirmBox_213_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_213_Content,找不到商品信息,Item information not found,Không tìm thấy thông tin sản phẩm.
 lang_multi_text.db,MultiText,ConfirmBox_213_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_214_ButtonText_0,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_214_Content,网络异常，请检测后重试！,Network error. Please check your connection and try again.,"Lỗi mạng, vui lòng kiểm tra kết nối và thử lại!"
@@ -26,13 +39,13 @@ lang_multi_text.db,MultiText,ConfirmBox_21_Content,请确认是否消耗材料<c
 lang_multi_text.db,MultiText,ConfirmBox_21_Title,谐振,Syntonize,Hài Chấn
 lang_multi_text.db,MultiText,ConfirmBox_220_ButtonText_0,取消,Cancel,Hủy
 lang_multi_text.db,MultiText,ConfirmBox_220_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_220_Content,离开区域将中断剧情体验，后续可从最后的存档点处继续。,"Leaving the area will stop your current quest progress. When you return, you can resume this quest from the last archive point.","Rời khỏi khu vực sẽ gián đoạn trải nghiệm cốt truyện, sau đó bạn có thể tiếp tục từ điểm lưu cuối cùng."
+lang_multi_text.db,MultiText,ConfirmBox_220_Content,离开区域将中断剧情体验，后续可从最后的存档点处继续。,"Leaving the area will stop your current quest progress. When you return, you can resume this quest from the last archive point.",Rời khỏi khu vực sẽ gián đoạn tiến trình cốt truyện. Bạn có thể tiếp tục từ điểm lưu cuối cùng sau đó.
 lang_multi_text.db,MultiText,ConfirmBox_220_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_221_ButtonText_0,取消,Cancel,Hủy
 lang_multi_text.db,MultiText,ConfirmBox_221_ButtonText_1,确认,Confirm,Xác nhận
 lang_multi_text.db,MultiText,ConfirmBox_221_Content,设备性能负载过高，为避免严重发热/卡顿，建议您调整图像设置或开启自动调节功能,"Device performance is overloaded. To avoid serious overheating or lagging, please adjust your graphics settings or enable the Auto FPS function.","Hiệu năng thiết bị đang quá tải. Để tránh tình trạng nóng máy/giật lag nghiêm trọng, vui lòng điều chỉnh cài đặt đồ họa hoặc bật chức năng tự động điều chỉnh FPS."
 lang_multi_text.db,MultiText,ConfirmBox_221_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_222_ButtonText_0,下次一定,Not Now,Để sau
+lang_multi_text.db,MultiText,ConfirmBox_222_ButtonText_0,下次一定,Not Now,Lần sau nhất định
 lang_multi_text.db,MultiText,ConfirmBox_222_ButtonText_1,前往评分,Rate Now,Đánh giá ngay
 lang_multi_text.db,MultiText,ConfirmBox_222_Content,您的评价能给予我们巨大动力，请评分鼓励一下吧(～￣▽￣)～,Your feedback is crucial in helping us enhance the game. We'd greatly appreciate if you could rate us.,"Đánh giá của bạn là động lực to lớn đối với chúng tôi, hãy cho điểm để khích lệ chúng tôi nhé (~￣▽￣)~"
 lang_multi_text.db,MultiText,ConfirmBox_222_Title,评分,Rating,Đánh giá
@@ -60,7 +73,7 @@ lang_multi_text.db,MultiText,ConfirmBox_230_Title,沉浸模式,Immersion Mode,Ch
 lang_multi_text.db,MultiText,ConfirmBox_231_Content,【典藏套装】类型服饰会额外附带专属的武器投影，开启该选项即可启用。,All Premium Outfits come with exclusive weapon projection. Enable this option to activate it.,"Trang phục loại [Bộ sưu tập cao cấp] sẽ đi kèm hình chiếu vũ khí chuyên dụng, bật tùy chọn này để kích hoạt."
 lang_multi_text.db,MultiText,ConfirmBox_231_Title,装备武器投影,Equip Weapon Projection,Trang bị hình chiếu vũ khí
 lang_multi_text.db,MultiText,ConfirmBox_232_Content,确认退出挑战？,Exit challenge now?,Xác nhận thoát thử thách?
-lang_multi_text.db,MultiText,ConfirmBox_232_Title,声骸挑战·怪力布偶拳,Echo Challenge: Plushie Punch,Thử thách Thanh Hài: Quyền Búp Bê Quái Lực
+lang_multi_text.db,MultiText,ConfirmBox_232_Title,声骸挑战·怪力布偶拳,Echo Challenge: Plushie Punch,Thử Thách Thanh Hài: Quái Lực Búp Bê Quyền
 lang_multi_text.db,MultiText,ConfirmBox_233_Content,尚未获得该角色，请在拥有该角色后再尝试。,You do not own the Resonator yet. Please try again after obtaining this Resonator.,"Bạn chưa sở hữu nhân vật này, vui lòng thử lại sau khi có được nhân vật."
 lang_multi_text.db,MultiText,ConfirmBox_233_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_234_ButtonText_0,确认,Confirm,Xác nhận
@@ -69,7 +82,7 @@ lang_multi_text.db,MultiText,ConfirmBox_234_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_235_Content,是否丢弃选中物品？,Discard selected item?,Bạn có muốn vứt bỏ vật phẩm đã chọn không?
 lang_multi_text.db,MultiText,ConfirmBox_235_Title,丢弃物品,Discarded Items,Vứt bỏ vật phẩm
 lang_multi_text.db,MultiText,ConfirmBox_236_Content,未放入船舱的渔获在离开后将会自动清空，是否继续？,Items not stored into the cargo will be discarded. Continue?,"Cá chưa được đưa vào khoang tàu sẽ tự động bị xóa sau khi rời đi, bạn có muốn tiếp tục không?"
-lang_multi_text.db,MultiText,ConfirmBox_236_Title,退出捕捞,Leave,Thoát đánh bắt
+lang_multi_text.db,MultiText,ConfirmBox_236_Title,退出捕捞,Leave,Thoát câu cá
 lang_multi_text.db,MultiText,ConfirmBox_237_Content,是否前往查看推荐任务？,View recommended quests now?,Bạn có muốn xem nhiệm vụ được đề xuất không?
 lang_multi_text.db,MultiText,ConfirmBox_238_Content,提前到达目标位置可能影响剧情体验，是否确认前往？,Arriving at the destination in advance may influence your story experience. Proceed anyway?,"Đến vị trí mục tiêu trước thời điểm có thể ảnh hưởng đến trải nghiệm cốt truyện, bạn có xác nhận muốn đến không?"
 lang_multi_text.db,MultiText,ConfirmBox_239_Content,溢彩画的频率正趋于稳定，是否需要降低染色难度？,The Overflowing Palette's frequencies are stabilizing. Would you like to lower the difficulty?,"Tần số của Dật Thải Họa đang dần ổn định, bạn có muốn giảm độ khó nhuộm màu không?"
@@ -96,13 +109,3 @@ lang_multi_text.db,MultiText,ConfirmBox_249_Title,出售确认,Confirm,Xác nh�
 lang_multi_text.db,MultiText,ConfirmBox_24_Content,本次强化的材料溢出，将转化为以下材料，请确认是否继续？,Unused EXP will be returned to you as the items shown. Proceed?,"Nguyên liệu cường hóa lần này bị dư, sẽ được chuyển đổi thành các nguyên liệu sau, xác nhận tiếp tục?"
 lang_multi_text.db,MultiText,ConfirmBox_24_Title,提示,Notice,Thông báo
 lang_multi_text.db,MultiText,ConfirmBox_250_ButtonText_0,确认离开,Leave,Xác nhận rời đi
-lang_multi_text.db,MultiText,ConfirmBox_251_Content,{0},{0},{0}
-lang_multi_text.db,MultiText,ConfirmBox_252_ButtonText_0,返回海墟,Return,Trở về Hải Khư
-lang_multi_text.db,MultiText,ConfirmBox_252_ButtonText_1,重新挑战,Restart,Thử lại
-lang_multi_text.db,MultiText,ConfirmBox_252_Content,【返回海墟】将清空当前进度并结束挑战，【重新挑战】将重新开启本轮挑战,[Return] to clear your current progress and end the challenge. [Restart] to try this level again.,"[Trở về Hải Khư] sẽ xóa tiến độ hiện tại và kết thúc thử thách, [Thử lại] sẽ bắt đầu lại lượt thử thách này"
-lang_multi_text.db,MultiText,ConfirmBox_252_Title,退出确认,Leave,Xác nhận thoát
-lang_multi_text.db,MultiText,ConfirmBox_253_Content,是否下船并返回码头？,Disembark and return to the dock?,Bạn có muốn xuống thuyền và trở về bến tàu không?
-lang_multi_text.db,MultiText,ConfirmBox_253_Title,下船提示,Disembark,Xuống thuyền
-lang_multi_text.db,MultiText,ConfirmBox_254_Content,是否确认返回大世界,Do you want to leave the and return to the overworld?,Bạn có muốn trở về thế giới bên ngoài không?
-lang_multi_text.db,MultiText,ConfirmBox_254_Title,退出确认,Leave,Xác nhận thoát
-lang_multi_text.db,MultiText,ConfirmBox_255_Content,该挑战当前被其他任务或挑战占用，请先前往完成对应任务或挑战,This challenge is currently blocked by another quest or challenge. Please complete the respective quests or challenges before continuing.,"Thử thách này hiện đang bị chiếm bởi nhiệm vụ hoặc thử thách khác, vui lòng hoàn thành nhiệm vụ hoặc thử thách tương ứng trước."

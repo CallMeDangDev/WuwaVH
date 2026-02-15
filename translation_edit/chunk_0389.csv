@@ -1,10 +1,20 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,DangoMonopoly_title_15,偶遇{0},It's {0},Tình cờ gặp {0}
+lang_multi_text.db,MultiText,DangoMonopoly_title_16,{0}后解锁新赛程,New Round unlocks in {0},Mở khóa vòng đấu mới sau {0}
+lang_multi_text.db,MultiText,DangoMonopoly_title_17,当前赛程尚未解锁,Current Round not unlocked yet,Vòng đấu hiện tại chưa được mở khóa
+lang_multi_text.db,MultiText,DangoMonopoly_title_18,已完成全部赛程,All Rounds completed,Đã hoàn thành toàn bộ vòng đua
+lang_multi_text.db,MultiText,DangoMonopoly_title_19,双倍,Double,Gấp đôi
+lang_multi_text.db,MultiText,DangoMonopoly_title_2,特性触发：<color=#ffd339>{0}</color>,Bonus Triggered: <color=#ffd339>{0}</color>,Kích hoạt đặc tính: <color=#ffd339>{0}</color>
+lang_multi_text.db,MultiText,DangoMonopoly_title_20,{0}后刷新,Resets after {0},Làm mới sau {0}
+lang_multi_text.db,MultiText,DangoMonopoly_title_21,奖励已全部领取,All rewards claimed,Đã nhận toàn bộ phần thưởng
+lang_multi_text.db,MultiText,DangoMonopoly_title_22,每日服务器时间04:00刷新,Reset daily at 4:00 AM server time,Làm mới hàng ngày lúc 04:00 giờ máy chủ
+lang_multi_text.db,MultiText,DangoMonopoly_title_23,每周一服务器时间04:00刷新,Reset every Monday at 4:00 AM server time,Làm mới vào thứ Hai hàng tuần lúc 04:00 giờ máy chủ
 lang_multi_text.db,MultiText,DangoMonopoly_title_3,热身赛程第{0}轮,Warmup Round {0},Vòng khởi động lần {0}
 lang_multi_text.db,MultiText,DangoMonopoly_title_4,训练任务,Training Tasks,Nhiệm vụ huấn luyện
 lang_multi_text.db,MultiText,DangoMonopoly_title_5,每日任务,Daily Tasks,Nhiệm vụ hàng ngày
 lang_multi_text.db,MultiText,DangoMonopoly_title_6,每周任务,Weekly Tasks,Nhiệm vụ hàng tuần
 lang_multi_text.db,MultiText,DangoMonopoly_title_7,版本任务,Version Tasks,Nhiệm vụ phiên bản
-lang_multi_text.db,MultiText,DangoMonopoly_title_8,可领取,Claim,Nhận
+lang_multi_text.db,MultiText,DangoMonopoly_title_8,可领取,Claim,Có thể nhận
 lang_multi_text.db,MultiText,DangoMonopoly_title_9,前往,Go,Đi đến
 lang_multi_text.db,MultiText,DangoTagMaxValueFormat_1001,<color=#ff0000>{0}级</color>/{1}级,<color=#ff0000>Lv. {0}</color>/Lv. {1},<color=#ff0000>Cấp {0}</color>/Cấp {1}
 lang_multi_text.db,MultiText,DangoTagMaxValueFormat_1002,<color=#ff0000>{0}%</color>/{1}%,<color=#ff0000>{0}%</color>/{1}%,<color=#ff0000>{0}%</color>/{1}%
@@ -22,7 +32,7 @@ lang_multi_text.db,MultiText,DangoTagValueFormat_1002,{0}%/{1}%,{0}%/{1}%,{0}%/{
 lang_multi_text.db,MultiText,DangoTagValueFormat_1003,{0}级/{1}级,Lv. {0}/Lv. {1},Cấp {0}/Cấp {1}
 lang_multi_text.db,MultiText,DangoTagValueFormat_1004,{0}s/{1}s,{0}s/{1}s,{0}s/{1}s
 lang_multi_text.db,MultiText,DangoTagValueFormat_1005,{0}%/{1}%,{0}%/{1}%,{0}%/{1}%
-lang_multi_text.db,MultiText,Dango_ActivityName,小团快跑,Cubie Derby,Cubie Derby
+lang_multi_text.db,MultiText,Dango_ActivityName,小团快跑,Cubie Derby,Đoàn Tử Chạy Nhanh
 lang_multi_text.db,MultiText,Dango_ActivityPage_BetStatus_RaceEnd,比赛已结束,The Race Has Ended,Cuộc đua đã kết thúc
 lang_multi_text.db,MultiText,Dango_ActivityPage_MoveToActivity,前往,Go,Đi đến
 lang_multi_text.db,MultiText,Dango_ActivityPage_StatusTime_Bet,剩余应援时间:{0},Support Phase Ends In: {0},Thời gian cổ vũ còn lại: {0}
@@ -32,14 +42,14 @@ lang_multi_text.db,MultiText,Dango_ActivityPage_StatusTime_RaceEnd,距离下场�
 lang_multi_text.db,MultiText,Dango_ActivityPage_StatusTime_Wait,距离比赛开始：{0},Match Begins In: {0},Cuộc đua bắt đầu sau: {0}
 lang_multi_text.db,MultiText,Dango_BetPage_BetSuccess,应援成功！,Support Sent!,Cổ vũ thành công!
 lang_multi_text.db,MultiText,Dango_BetPage_CancelSuccess,取消成功,Cancelled,Đã hủy thành công
-lang_multi_text.db,MultiText,Dango_BetPage_CurrentBetRate,当前黑马值,Underdog Odds,Chỉ số ngựa ô hiện tại
-lang_multi_text.db,MultiText,Dango_BetPage_Function_Bet,应援团子,Support Cube,Cổ vũ Cubie
-lang_multi_text.db,MultiText,Dango_BetPage_Function_BetAmount,应援人气值,Total Popularity,Tổng điểm nhân khí
+lang_multi_text.db,MultiText,Dango_BetPage_CurrentBetRate,当前黑马值,Underdog Odds,Tỉ lệ Ngựa Ô hiện tại
+lang_multi_text.db,MultiText,Dango_BetPage_Function_Bet,应援团子,Support Cube,Ủng hộ Đoàn Tử
+lang_multi_text.db,MultiText,Dango_BetPage_Function_BetAmount,应援人气值,Total Popularity,Nhân Khí ủng hộ
 lang_multi_text.db,MultiText,Dango_BetPage_Function_BetDango,正在应援,Supporting,Đang cổ vũ
 lang_multi_text.db,MultiText,Dango_BetPage_Function_BetRate,人气值比例,Popularity Ratio,Tỷ lệ nhân khí
 lang_multi_text.db,MultiText,Dango_BetPage_Function_Betted,已应援,Supported,Đã cổ vũ
 lang_multi_text.db,MultiText,Dango_BetPage_Function_CancelBet,取消应援,Cancel Support,Hủy cổ vũ
-lang_multi_text.db,MultiText,Dango_BetPage_Function_ExpectedBenefits,人气值收益,Popularity Return,Lợi nhuận nhân khí
+lang_multi_text.db,MultiText,Dango_BetPage_Function_ExpectedBenefits,人气值收益,Popularity Return,Thu nhập Nhân Khí
 lang_multi_text.db,MultiText,Dango_BetPage_Function_NextBetRate,黑马值刷新时间,Underdog Odds Reset Time,Thời gian làm mới chỉ số ngựa ô
 lang_multi_text.db,MultiText,Dango_BetPage_Function_NextBetRate_Last,距离应援结束,Support Phase Ends In,Thời gian cổ vũ còn lại
 lang_multi_text.db,MultiText,Dango_BetPage_OldBetRate,应援黑马值,Support Underdog Odds,Tỷ lệ ủng hộ ngựa ô
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,Dango_Broadcast_Kelaita_GroupStage_1,珂莱塔小�
 lang_multi_text.db,MultiText,Dango_Broadcast_Kelaita_GroupStage_2,珂莱塔小姐表示自己期待每一位参赛选手精彩发挥，每一位选手都有待发掘的潜力！,"Carlotta looks forward to seeing each contender's performance, believing every one of them has untapped potential!","Cô Carlotta cho biết mình mong chờ màn thể hiện xuất sắc của từng tuyển thủ, mỗi người đều có tiềm năng chờ được khai phá!"
 lang_multi_text.db,MultiText,Dango_Broadcast_Kelaita_Win,恭喜珂莱塔小姐在比赛中拔得头筹，也感谢珂莱塔小姐赠送的礼盒，珂莱塔小姐加油！,"Congratulations to Carlotta for taking first place! And special thanks for the gifts. Keep up the great work, Carlotta!","Chúc mừng cô Carlotta đã giành ngôi đầu trong cuộc đua, cũng xin cảm ơn hộp quà tặng từ cô Carlotta, cô Carlotta cố lên!"
 lang_multi_text.db,MultiText,Dango_Broadcast_Luokeke_FinalStage_1,洛可可表示胜利的秘诀就是喂饱佩洛的肚子。,Roccia reveals that her secret to victory is keeping Pero's belly full.,Roccia cho biết bí quyết chiến thắng chính là cho Pero ăn no bụng.
-lang_multi_text.db,MultiText,Dango_Broadcast_Luokeke_FinalStage_2,洛可可表示佩洛肚子饿啦，赛道两旁的观众如果有不需要的东西届时可以投喂！,"Roccia says Pero is hungry! Spectators, feel free to toss anything you don't need her way!","Roccia cho biết Pero đói bụng rồi, khán giả hai bên đường đua nếu có thứ gì không cần thì hãy ném cho Pero nhé!"
-lang_multi_text.db,MultiText,Dango_Broadcast_Luokeke_GroupStage_1,洛可可作为知名道具赛选手，不知道会在本次比赛中给我带来什么惊喜呢？,"As a contender known for using power-up items, what kind of surprises will Roccia bring to the race this time?","Roccia với tư cách là tuyển thủ nổi tiếng trong các cuộc đua dùng đạo cụ, không biết lần này sẽ mang đến cho chúng ta bất ngờ gì nhỉ?"
-lang_multi_text.db,MultiText,Dango_Broadcast_Luokeke_GroupStage_2,洛可可希望被淘汰的选手们别灰心，一起为赛场上的伙伴们加油！,Roccia encourages the eliminated contenders not to feel down and to cheer on the ones still racing!,"Roccia mong các tuyển thủ bị loại đừng nản lòng, hãy cùng cổ vũ cho các đồng đội trên đường đua nào!"
-lang_multi_text.db,MultiText,Dango_Broadcast_Luokeke_Win,恭喜洛可可小姐在比赛中拔得头筹，由她的伙伴佩洛接受采访：“佩洛，佩洛佩洛！”,"Congratulations to Roccia for taking first place! We now have her partner, Pero, on camera: ""Pero. Pero, Pero!""","Chúc mừng cô nàng Roccia đã giành được vị trí đầu tiên trong cuộc đua! Hiện tại, đối tác của cô ấy, Pero, đang trả lời phỏng vấn: ""Pero, Pero Pero!"""
-lang_multi_text.db,MultiText,Dango_Broadcast_Shouanren_FinalStage_1,守岸人小姐表示因为团子的主要成分为淀粉，赛跑时过度出汗可能会导致身体糊化，所以获胜的秘诀在于维持稳定的体温和形状。,"Shorekeeper explains that since Cubes are mostly starch, too much sweat can make them break down. The trick to winning is keeping your body temperature and shape steady.","Cô Shorekeeper cho biết vì thành phần chính của Bánh Nếp là tinh bột, nên đổ mồ hôi quá nhiều khi chạy đua có thể khiến cơ thể bị hồ hóa. Vì vậy, bí quyết chiến thắng nằm ở việc duy trì nhiệt độ cơ thể và hình dạng ổn định."
-lang_multi_text.db,MultiText,Dango_Broadcast_Shouanren_FinalStage_2,守岸人小姐根据既有赛事的数据分析，推荐风险偏好型观众押宝爆发力更强的选手。而稳健型观众则可以选择投资自己这类稳定续航型选手。,"Based on race data, Shorekeeper suggests thrill seekers bet on the more explosive contenders, while those who play it safe might want to back endurance racers like herself.","Dựa trên phân tích dữ liệu các cuộc đua trước, cô Shorekeeper khuyên khán giả ưa mạo hiểm nên đặt cược vào các tay đua có sức bùng nổ mạnh. Còn khán giả thận trọng có thể chọn đầu tư vào các tay đua bền bỉ như cô ấy."
-lang_multi_text.db,MultiText,Dango_Broadcast_Shouanren_GroupStage_1,守岸人小姐表示对团子身体的适应程度因人而异，她并非是身体素质强于被淘汰的选手，自己只是比他们更擅长做一只团子。,Shorekeeper says everyone adapts to the Cube form differently. It's not that she has better physical abilities than those eliminated. She's just better at being a Cube.,"Cô Shorekeeper cho biết mức độ thích nghi với cơ thể Bánh Nếp mỗi người mỗi khác. Không phải cô ấy có thể lực vượt trội hơn những tay đua bị loại, mà đơn giản là cô ấy giỏi làm một viên Bánh Nếp hơn họ thôi."
-lang_multi_text.db,MultiText,Dango_Broadcast_Shouanren_GroupStage_2,据库乐乐分享，上一次让守岸人小姐如此积极准备的还是迎接漂泊者来黑海岸，让我们期待她的发挥！,KU-Lolo mentions the last time Shorekeeper prepared this much was to welcome Rover to the Black Shores. Let's all look forward to her performance in the race!,"Theo KU-Lolo chia sẻ, lần cuối cùng cô Shorekeeper chuẩn bị tích cực đến vậy là khi đón Lữ Khách đến Hắc Hải Ngạn. Hãy cùng mong chờ màn thể hiện của cô ấy nào!"
-lang_multi_text.db,MultiText,Dango_Broadcast_Shouanren_Win,守岸人小姐表示相比确定的结果，自己更喜欢和大家一起在不确定的赛道上奔跑的感觉。,Shorekeeper says she enjoys racing alongside others on an uncertain track more than knowing the outcome ahead of time.,"Cô Shorekeeper cho biết so với một kết quả đã được định sẵn, cô ấy thích cảm giác cùng mọi người chạy trên đường đua đầy bất định hơn."
-lang_multi_text.db,MultiText,Dango_Broadcast_Zanni_FinalStage_1,赞妮小姐表示只要继续带薪比赛，她就不会停下来。,Zani states that she won't stop as long as paid competitions continue to exist.,"Cô Zani tuyên bố rằng chỉ cần còn được trả lương để thi đấu, cô ấy sẽ không bao giờ dừng lại."

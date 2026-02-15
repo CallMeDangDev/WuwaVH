@@ -1,4 +1,199 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,HelpText_48_Content,"【数据坞等级】
+更多声骸数据可以帮助终端提升解算能力。
+漂泊者可以通过解锁新声骸来获得数据坞经验、提升数据坞等级，从而领取相应奖励。
+解锁已有声骸的更高品质，同样可以获得数据坞经验。
+解锁新声骸或解锁已有声骸的更高品质时，也可以获得联觉经验。
+数据坞的等级上限为30级。
+
+【基础吸收概率】
+残象被击败时，有概率会保留一部分特征频率的信息，可供唤醒和利用，此即声骸。
+提升数据坞等级，可以提高掉落声骸的概率。
+ 
+【强化吸收概率】
+对于指定危险等级的残象，终端可以消耗额外的算力大幅提升其声骸掉落概率。
+目前的算力支持有限，在总计强化吸收有限次数之后会耗尽，需要一定时间重新累积。
+不同危险等级残象的强化吸收次数分别计算。
+*每周一服务器时间04:00更新
+ 
+【最高可吸收品质】
+提升数据坞等级，可以提升获得更高品质声骸的概率。
+ 
+【COST上限】
+共鸣者可装配声骸会受到负载/COST约束，当前装配声骸的COST之和不可超过COST上限。
+提升数据坞等级，可以提升声骸装配的COST上限。","[Data Bank Level]
+More Echo data can help the Terminal improve its computational capabilities.
+Rovers can unlock new Echoes to gain Data Bank EXP, improve Data Bank level, and receive corresponding rewards.
+Unlocking higher quality of existing Echoes also grants Data Bank EXP
+The Data Bank Level maxes out at 30.
+
+[Base Drop Rate]
+When a Tacet Discord is defeated, there's a chance to retain and convert its lingering frequencies into an Echo. Upgrade the Terminal Data Bank to increase your chance of getting Echo drops (Base Drop Rate).
+
+[Enhanced Drop Rate]
+For certain classes of Tacet Discords, your Terminal can consume extra computational power to enhance its Echo absorption and increase your chances of getting Echo drops. It can perform a limited number of enhanced absorptions, and then it will need time to recharge.
+The enhanced absorption attempts of different classes are counted separately.
+*Cooldown resets at server time 04:00 a.m. every Monday.
+
+[Highest Drop Rarity]
+Upgrade the Terminal Data Bank to increase your chance of getting Echoes of higher Rarity.
+
+[COST Limit]
+The total COST of equipped Echoes must not exceed your current COST Limit.
+Upgrade the Terminal Data Bank to raise your COST Limit and equip more powerful Echoes.","[Cấp Dữ Liệu Ổ]
+Nhiều dữ liệu Thanh Hài hơn có thể giúp thiết bị đầu cuối nâng cao năng lực tính toán.
+Lữ Khách có thể mở khóa Thanh Hài mới để nhận kinh nghiệm Dữ Liệu Ổ, nâng cấp Dữ Liệu Ổ, từ đó nhận phần thưởng tương ứng.
+Mở khóa phẩm chất cao hơn cho Thanh Hài đã có cũng có thể nhận kinh nghiệm Dữ Liệu Ổ.
+Khi mở khóa Thanh Hài mới hoặc mở khóa phẩm chất cao hơn cho Thanh Hài đã có, cũng có thể nhận kinh nghiệm Liên Giác.
+Giới hạn cấp Dữ Liệu Ổ là cấp 30.
+
+[Xác Suất Hấp Thu Cơ Bản]
+Khi Tàn Tượng bị đánh bại, có xác suất giữ lại một phần thông tin tần số đặc trưng, có thể được đánh thức và sử dụng - đó chính là Thanh Hài.
+Nâng cấp Dữ Liệu Ổ có thể tăng xác suất rơi Thanh Hài.
+ 
+[Xác Suất Hấp Thu Tăng Cường]
+Đối với Tàn Tượng ở cấp nguy hiểm chỉ định, thiết bị đầu cuối có thể tiêu hao thêm sức tính toán để tăng đáng kể xác suất rơi Thanh Hài.
+Hiện tại sức tính toán hỗ trợ có hạn, sau khi sử dụng hết số lần hấp thu tăng cường sẽ cần thời gian để tích lũy lại.
+Số lần hấp thu tăng cường cho các cấp nguy hiểm Tàn Tượng khác nhau được tính riêng.
+*Cập nhật vào lúc 04:00 giờ máy chủ mỗi thứ Hai hàng tuần.
+ 
+[Phẩm Chất Hấp Thu Tối Đa]
+Nâng cấp Dữ Liệu Ổ có thể tăng xác suất nhận được Thanh Hài phẩm chất cao hơn.
+ 
+[Giới Hạn COST]
+Thanh Hài trang bị cho Cộng Hưởng Giả chịu ràng buộc tải trọng/COST, tổng COST của các Thanh Hài đang trang bị không được vượt quá giới hạn COST.
+Nâng cấp Dữ Liệu Ổ có thể nâng giới hạn COST trang bị Thanh Hài."
+lang_multi_text.db,MultiText,HelpText_48_Title,数据坞说明,Data Bank,Hướng Dẫn Dữ Liệu Ổ
+lang_multi_text.db,MultiText,HelpText_492_Content,"【周度演算卡】
+周度演算卡贩售期间，漂泊者可参与购买，限购 1 次。
+
+购买并激活周度演算卡后，有效期为15天。于有效期内，特定天数及之后登录可解锁特定奖励。最多可获取月相*680、星声*1600和频整器*1。
+
+具体奖励解锁规则如下：
+· 周度演算卡有效期首日，漂泊者可立即解锁月相*680和频整器*1的奖励。
+· 周度演算卡有效期内，漂泊者在第3日及之后的天数登录可解锁星声*800的奖励。
+· 周度演算卡有效期内，漂泊者在第7日及之后的天数登录可解锁星声*800的奖励。
+· 奖励在满足条件解锁后即可领取，未解锁的奖励暂时无法领取。
+<b>周度演算卡有效期满时，若存在已解锁但未领取的奖励，请在有效期满后30天内登录游戏，奖励将通过邮件补发，若超过30天未登录游戏将无法补发奖励，请漂泊者注意及时领取。</b>
+
+【特殊说明】
+· 购买并激活周度演算卡后，有效期为15天，且不受原本下架时间影响。
+如，漂泊者在下架前三天购买并激活周度演算卡的，可于有效期15天内继续登录以解锁并领取奖励。
+· 通过游戏外购买周度演算卡(如网页充值中心)，需在周度演算卡下架前登录游戏激活，有效期自完成购买后首次登录游戏之日起算。
+· 通过游戏外购买周度演算卡(如网页充值中心)，且<b>下架前未登录游戏的，周度演算卡将无法激活，漂泊者将获得返还的月相*750。</b>
+· 如果因特殊情况导致重复购买，周度演算卡不会叠加，每次重复购买漂泊者将获得返还的月相*750。","[Weekly Subscription]
+The Weekly Subscription is limited to 1 purchase during availability.
+
+The Weekly Subscription is valid for 15 days from the date of activation. Log in on the specific day during the subscription period to claim rewards, earning up to Lunite x680, Astrite x1600, and Transducer x1.
+
+Reward unlock rules:
+· Activating the Weekly Subscription unlocks Lunite x680 and Transducer x1.
+· During the subscription period, log in on the 3rd day or later to unlock Astrite x800.
+· During the subscription period, log in on the 7th day or later to unlock Astrite x800.
+· Rewards can only be claimed after unlock.
+<b>If you have unlocked but unclaimed rewards when the Weekly Subscription expires, please log in to the game within 30 days after the expiration, and the rewards will be sent via mail. Rewards will not be reissued past these 30 days. Please claims your rewards in time</b>
+
+[Note]
+· The Weekly Subscription is valid for 15 days upon activation and is not affected by the availability period.
+e.g., if you purchase and activate the subscription three days before it is removed from the store, you can still log in during the 15 days to unlock and claim your rewards.
+· For purchases made outside the game (e.g., web purchases), the subscription must be activated by logging into the game before it is removed from the store, with the activation time starting from the first login after your purchase.
+· For purchases made outside the game (e.g., web purchases), <b>but you have not logged into the game before it is removed from the store, the Weekly Subscription cannot be activated, and you will receive a refund of Lunite x750.</b>
+· In case of accidental multiple purchases, the Weekly Subscription will not stack, and each extra purchase will result in a refund of Lunite x750.","[Thẻ Diễn Toán Tuần]
+Trong thời gian bán Thẻ Diễn Toán Tuần, Lữ Khách có thể tham gia mua, giới hạn mua 1 lần.
+
+Sau khi mua và kích hoạt Thẻ Diễn Toán Tuần, thời hạn hiệu lực là 15 ngày. Trong thời hạn hiệu lực, đăng nhập vào ngày cụ thể trở đi sẽ mở khóa phần thưởng tương ứng. Tối đa có thể nhận Nguyệt Tướng x680, Tinh Thanh x1600 và Tần Chỉnh Khí x1.
+
+Quy tắc mở khóa phần thưởng cụ thể như sau:
+. Ngày đầu tiên của thời hạn hiệu lực Thẻ Diễn Toán Tuần, Lữ Khách có thể mở khóa ngay phần thưởng Nguyệt Tướng x680 và Tần Chỉnh Khí x1.
+. Trong thời hạn hiệu lực, Lữ Khách đăng nhập từ ngày thứ 3 trở đi có thể mở khóa phần thưởng Tinh Thanh x800.
+. Trong thời hạn hiệu lực, Lữ Khách đăng nhập từ ngày thứ 7 trở đi có thể mở khóa phần thưởng Tinh Thanh x800.
+. Phần thưởng sau khi đáp ứng điều kiện mở khóa mới có thể nhận, phần thưởng chưa mở khóa tạm thời không thể nhận.
+<b>Khi Thẻ Diễn Toán Tuần hết hạn, nếu còn phần thưởng đã mở khóa nhưng chưa nhận, vui lòng đăng nhập game trong vòng 30 ngày sau khi hết hạn, phần thưởng sẽ được gửi bù qua thư. Nếu quá 30 ngày không đăng nhập game sẽ không thể gửi bù phần thưởng, Lữ Khách hãy lưu ý nhận kịp thời.</b>
+
+[Lưu Ý Đặc Biệt]
+. Sau khi mua và kích hoạt Thẻ Diễn Toán Tuần, thời hạn hiệu lực là 15 ngày và không bị ảnh hưởng bởi thời gian gỡ bán.
+Ví dụ: Lữ Khách mua và kích hoạt Thẻ Diễn Toán Tuần trước 3 ngày gỡ bán, vẫn có thể tiếp tục đăng nhập trong 15 ngày hiệu lực để mở khóa và nhận phần thưởng.
+. Mua Thẻ Diễn Toán Tuần từ ngoài game (ví dụ: trung tâm nạp web), cần đăng nhập game trước khi gỡ bán để kích hoạt, thời hạn hiệu lực tính từ ngày đăng nhập game lần đầu sau khi hoàn tất mua.
+. Mua Thẻ Diễn Toán Tuần từ ngoài game (ví dụ: trung tâm nạp web), và <b>chưa đăng nhập game trước khi gỡ bán, Thẻ Diễn Toán Tuần sẽ không thể kích hoạt, Lữ Khách sẽ nhận hoàn trả Nguyệt Tướng x750.</b>
+. Nếu do tình huống đặc biệt dẫn đến mua trùng, Thẻ Diễn Toán Tuần sẽ không cộng dồn, mỗi lần mua trùng Lữ Khách sẽ nhận hoàn trả Nguyệt Tướng x750."
+lang_multi_text.db,MultiText,HelpText_492_Title,周度演算卡,Weekly Subscription,Thẻ Diễn Toán Tuần
+lang_multi_text.db,MultiText,HelpText_493_Content,"【基础流程】
+ 使用共有16张牌的卡组来进行游戏。在游戏开始时，每位玩家各抽取8张牌，并通过硬币决定每回合中玩家的行动顺序。在每轮的玩家回合中，该玩家按照顺序从对手手中抽一张牌，若手牌中有两张同样的牌，则可以将其作为对子打出。
+当满足任意胜利条件时，游戏结束。
+
+ 【胜利条件】
+ 1. 每位玩家有2点生命值，当玩家抽到无冠者牌时，会扣除1点生命值。生命值为0的玩家输掉游戏。
+ 2.若任意玩家手牌数量为0，且对手手牌中有无冠者牌，则手牌数量为0的玩家获胜。
+
+
+ 【卡牌详细说明】
+1.变化牌：每回合会随机变化为手牌中的另一张牌，每回合变化的牌不会重复，且不会变化为已经打出过的牌或无冠者牌。
+变化牌可以视为正常的牌组成对子并打出。
+2.无冠者牌：卡组中只有一张无冠者牌。每位玩家都有2点生命，每当任一玩家抽到无冠者牌时，都会失去1点生命。
+当任一玩家的生命归零时，就会输掉这局游戏。","[Basic Gameplay]
+The game is played with a deck of 16 cards. Each player starts by drawing 8 cards, and turn order is determined by a coin flip at the beginning of each round.
+During a player's turn, they draw one card from their opponent's hand. If a player has two identical cards in hand, they may play them as a pair.
+The game ends when any of the victory conditions are met.
+
+[Victory Conditions]
+1. HP Depletion: Each player starts with 2 HP. Drawing the Crownless Card costs 1 HP. If a player's HP drops to 0, they lose the game.
+2. Card Depletion: If a player empties their hand while their opponent is still holding the Crownless Card, the player with no cards wins.
+
+[Card Details]
+1. Crownless Card: There is only one Crownless Card in the deck. Drawing it causes the player to lose 1 HP.
+2. Wild Card: The Wild Card randomly changes into another number card in the player's hand at the start of each turn. A Wild Card will not change into a card that has already been played or repeat the same transformation in the same turn. Wild Cards can be used to form pairs, as with standard cards.","[Lưu Trình Cơ Bản]
+Sử dụng bộ bài gồm 16 lá để chơi. Khi bắt đầu, mỗi người chơi rút 8 lá bài, và thứ tự hành động mỗi lượt được quyết định bằng cách tung đồng xu. Trong lượt của mình mỗi vòng, người chơi rút một lá bài từ tay đối thủ theo thứ tự. Nếu trong tay có hai lá bài giống nhau, có thể đánh ra như một cặp.
+Khi đáp ứng bất kỳ điều kiện chiến thắng nào, trò chơi kết thúc.
+
+[Điều Kiện Chiến Thắng]
+1. Mỗi người chơi có 2 điểm sinh mệnh. Khi người chơi rút được lá Crownless, sẽ bị trừ 1 điểm sinh mệnh. Người chơi có sinh mệnh về 0 sẽ thua cuộc.
+2. Nếu bất kỳ người chơi nào hết bài trên tay, và đối thủ đang giữ lá Crownless, thì người chơi hết bài sẽ chiến thắng.
+
+
+[Chi Tiết Lá Bài]
+1. Lá Biến Hóa: Mỗi lượt sẽ ngẫu nhiên biến thành một lá bài khác trong tay, lá biến hóa mỗi lượt sẽ không trùng lặp, và không biến thành lá đã đánh ra hoặc lá Crownless.
+Lá Biến Hóa có thể được coi như lá bình thường để tạo cặp và đánh ra.
+2. Lá Crownless: Trong bộ bài chỉ có một lá Crownless. Mỗi người chơi đều có 2 điểm sinh mệnh. Mỗi khi bất kỳ người chơi nào rút được lá Crownless, sẽ mất 1 điểm sinh mệnh.
+Khi sinh mệnh của bất kỳ người chơi nào về 0, người đó sẽ thua cuộc."
+lang_multi_text.db,MultiText,HelpText_493_Title,纸牌游戏玩法说明,Card Game,Hướng Dẫn Chơi Trò Bài
+lang_multi_text.db,MultiText,HelpText_494_Content,"【玩法简介】
+每位友人对饮品的喜好各不相同，请尝试在对话中确认对方喜欢的饮品原料及风味，搭配出最适合她们的饮品。
+【玩法说明】
+饮品调制分4个步骤：
+1.选择第一份饮品基底。
+2.选择第二份饮品基底。
+3.选择配料。
+4.选择装饰。
+其中，饮品基底和配料会影响饮品的风味，基底的搭配会产生不同的饮品种类。
+根据饮品订单的风味需求，以及饮品种类是否符合友人喜好，友人将对饮品做出评价。若友人对饮品的评价为满意或更高，则可获得首通奖励。
+成功制作出友人非常满意的饮品后，会出现额外的对话选项。","[About]
+Each companion has her own preferences for drinks. Try to find out their favorite ingredients and flavors through conversation, then create the drink they like best.
+
+[Instructions]
+Making a drink consists of four steps:
+1. Select the first drink base.
+2. Select the second drink base.
+3. Select add-ins.
+4. Select toppings.
+The flavor of a drink depends on the combination of bases and add-ins you use, which also determines its type.
+Your companion will rate each drink based on how well its flavor matches the order and whether its type is her personal preference. To receive the first-clear rewards, you must earn a rating of ""Satisfied"" or higher.
+Earn a ""Very Satisfied"" rating to unlock bonus dialogue.","[Giới thiệu]
+Mỗi người bạn có sở thích đồ uống khác nhau, hãy thử xác nhận nguyên liệu và hương vị đồ uống mà đối phương yêu thích qua cuộc trò chuyện, rồi pha chế đồ uống phù hợp nhất cho họ.
+[Hướng dẫn]
+Pha chế đồ uống gồm 4 bước:
+1. Chọn nguyên liệu nền thứ nhất.
+2. Chọn nguyên liệu nền thứ hai.
+3. Chọn phụ liệu.
+4. Chọn trang trí.
+Trong đó, nguyên liệu nền và phụ liệu sẽ ảnh hưởng đến hương vị đồ uống, sự kết hợp nguyên liệu nền sẽ tạo ra các loại đồ uống khác nhau.
+Dựa trên yêu cầu hương vị trong đơn đồ uống, cũng như loại đồ uống có phù hợp sở thích của bạn bè hay không, bạn bè sẽ đánh giá đồ uống. Nếu đánh giá đạt mức Hài lòng trở lên, bạn sẽ nhận được phần thưởng lần đầu hoàn thành.
+Sau khi pha chế thành công đồ uống khiến bạn bè Rất hài lòng, sẽ xuất hiện thêm lựa chọn hội thoại bổ sung."
+lang_multi_text.db,MultiText,HelpText_494_Title,【饮品制作】说明,Drink Making,Hướng dẫn [Pha Chế Đồ Uống]
+lang_multi_text.db,MultiText,HelpText_495_Content,"1. 完成活动任务，在宴会中邀约同伴、布置陈设，可以提升聚乐值。
+2. 聚乐值达到一定量后，将提升聚乐值阶段。随着聚乐值阶段提升，宴会将解锁更多玩法内容及阶段奖励。","1. Complete event quests, invite companions, and place decorations to increase the Vibe Gauge.
+2. Reaching certain Vibe Gauge thresholds increases your Vibe Level, unlocking additional content and rewards.","1. Hoàn thành nhiệm vụ hoạt động, mời bạn đồng hành tham dự yến hội, bày trí đồ trang trí để tăng Điểm Vui Nhộn.
+2. Khi Điểm Vui Nhộn đạt đến mức nhất định, cấp độ Điểm Vui Nhộn sẽ được nâng lên. Khi cấp độ tăng, yến hội sẽ mở khóa thêm nội dung chơi và phần thưởng giai đoạn."
+lang_multi_text.db,MultiText,HelpText_495_Title,无尽宴会聚乐值说明,Forever Fest Vibe Gauge,Hướng dẫn Điểm Vui Nhộn - Yến Hội Bất Tận
 lang_multi_text.db,MultiText,HelpText_496_Content,盖泽尔曾使用的武器展示台，共有五个，可任意将你获取的武器摆上去进行展示。让宾客们尽情欣赏那些英武与荣光吧。,"Geisel once had five Weapon Display Stands. Display your collected weapons upon them, and let their glory and valor speak to all who attend.","Bệ trưng bày vũ khí mà Geisel từng sử dụng, tổng cộng có năm cái. Bạn có thể tùy ý đặt các vũ khí đã thu thập lên để trưng bày. Hãy để khách mời thỏa sức chiêm ngưỡng sự oai hùng và vinh quang ấy."
 lang_multi_text.db,MultiText,HelpText_496_Title,武器展示台说明,Weapon Display Stands,Hướng dẫn Bệ Trưng Bày Vũ Khí
 lang_multi_text.db,MultiText,HelpText_497_Content,盖泽尔曾使用的声骸展示台，共有五个，可任意将你解锁的声骸摆上去进行展示。让宾客们尽情欣赏这些可爱或勇猛的声骸吧。,"Geisel once had five Echo Display Stands. Display your collected Echoes upon them, and let their glory and valor speak to all who attend.","Bệ trưng bày Thanh Hài mà Geisel từng sử dụng, tổng cộng có năm cái. Bạn có thể tùy ý đặt các Thanh Hài đã mở khóa lên để trưng bày. Hãy để khách mời thỏa sức chiêm ngưỡng những Thanh Hài đáng yêu hoặc dũng mãnh này."
@@ -119,32 +314,32 @@ Obtain 1600 Moonlit Rings to claim: Cosmetics Set x1 (Full set includes Avatar: 
 [Note]
 - If you make purchases through any non–in-game channel, such as the official website's top-up center, please log in to the game while the event is ongoing to receive your purchases, as well as the corresponding Moonlit Rings. If you log in after the event ends, you will not receive the corresponding Moonlit Rings.","[Giới thiệu hoạt động]
 
-Trong thời gian hoạt động, tích lũy ""Nguyệt Ảnh Tố Hoàn"" để mở khóa phần thưởng tương ứng ở các mốc. Mua sản phẩm có gắn nhãn <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity31/CumulativeRecharge/Common/T_TempScoreIcon.T_TempScoreIcon,0.5/> trong các mục <color=#ad893a>Đề Xuất Đặc Biệt - Thẻ Diễn Toán Tuần, Đề Xuất Đặc Biệt - Thẻ Quan Trắc Nguyệt Tướng, Trung Tâm Gói Quà - Khu Ưu Đãi Đặc Biệt, Tủ Trang Phục - Ngoại Hình Phương Tiện, Ngưng Khắc Nguyệt Tướng</color> để nhận ""Nguyệt Ảnh Tố Hoàn"".
-Khi hoạt động Ngưng Nguyệt Huy Đồ kết thúc, ""Nguyệt Ảnh Tố Hoàn"" sẽ hết hiệu lực và không thể đổi thành vật phẩm khác.
+Trong thời gian hoạt động, tích lũy ""Moonlit Ring"" để mở khóa phần thưởng tương ứng. Mua các sản phẩm có gắn nhãn <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity31/CumulativeRecharge/Common/T_TempScoreIcon.T_TempScoreIcon,0.5/> trong mục <color=#ad893a>Đề Xuất Đặc Biệt - Thẻ Diễn Toán Tuần, Đề Xuất Đặc Biệt - Thẻ Quan Sát Nguyệt Tướng, Trung Tâm Gói Quà - Khu Ưu Đãi, Tủ Trang Phục - Ngoại Hình Phương Tiện, Ngưng Khắc Nguyệt Tướng</color> để nhận ""Moonlit Ring"".
+Khi hoạt động Moonlit Path kết thúc, ""Moonlit Ring"" sẽ mất hiệu lực và không được đổi thành vật phẩm khác.
 
-Sau khi hoạt động kết thúc, nếu còn phần thưởng đủ điều kiện nhận nhưng chưa nhận, hãy đăng nhập game trong vòng 30 ngày sau khi hoạt động kết thúc, phần thưởng sẽ được gửi bù qua thư. Nếu quá 30 ngày không đăng nhập, phần thưởng sẽ không được gửi bù, Lữ Khách hãy lưu ý nhận thưởng.
+Sau khi hoạt động kết thúc, nếu có phần thưởng đủ điều kiện nhận nhưng chưa nhận, vui lòng đăng nhập game trong vòng 30 ngày sau khi hoạt động kết thúc, phần thưởng sẽ được gửi bù qua thư. Nếu quá 30 ngày không đăng nhập, phần thưởng sẽ không được gửi bù. Lữ Khách hãy lưu ý nhận thưởng.
 
 [Điều kiện tham gia]
-- Đạt cấp Liên Giác 5.
-- Hoặc hoàn thành kiểm tra thực chiến trong Nhiệm Vụ Triều Tịch ""Anh Minh Sơ Tương Triệu"".
-- Hoặc thông qua chức năng [Trải Nghiệm Nhanh Nhiệm Vụ Triều Tịch], theo hướng dẫn đến mốc Nhiệm Vụ Triều Tịch tương ứng.
+- Cấp Liên Giác đạt 5.
+- Hoặc hoàn thành kiểm tra thực chiến trong Nhiệm Vụ Triều Tịch ""First Resonance"".
+- Hoặc sử dụng chức năng [Trải Nghiệm Nhanh Nhiệm Vụ Triều Tịch], theo hướng dẫn đến nút nhiệm vụ tương ứng.
 
-[Hướng dẫn quy tắc]
-Trong thời gian hoạt động, tích lũy ""Nguyệt Ảnh Tố Hoàn"" để mở khóa phần thưởng ở các mốc tương ứng.
+[Quy tắc]
+Trong thời gian hoạt động, tích lũy ""Moonlit Ring"" để mở khóa phần thưởng tương ứng.
 
-Đăng nhập và vào ""Ngưng Nguyệt Huy Đồ"" để nhận trực tiếp: Hoán Thanh Oa Văn x1
-Tích lũy 30 Nguyệt Ảnh Tố Hoàn: Phù Kim Ba Văn x1
-Tích lũy 88 Nguyệt Ảnh Tố Hoàn: Phụ kiện mô tô - ""Tiểu Cứu Thế Chủ""
-Tích lũy 198 Nguyệt Ảnh Tố Hoàn: Đúc Triều Ba Văn x2
-Tích lũy 328 Nguyệt Ảnh Tố Hoàn: Sơn tùy chỉnh - Thâm Không Dữ Ca Giả (Trọn bộ gồm sơn tấm chắn trái, sơn tấm chắn phải, sơn đầu đuôi)
-Tích lũy 450 Nguyệt Ảnh Tố Hoàn: Hộp cung cấp vũ khí 5 sao - Cộng Sinh Vũ Trang x1 (Chọn một trong: Lôi Xạ Thiết Biến, Nguyên Năng Cơ Phong, Tương Vị Liên Y, Mạch Xung Hiệp Tý, Bose Tinh Nghi)
-Tích lũy 680 Nguyệt Ảnh Tố Hoàn: Tần Chỉnh Khí x3
-Tích lũy 980 Nguyệt Ảnh Tố Hoàn: Hồi Ức Tinh Miêu x1 (Chọn một trong Shorekeeper, Camellya, Jinhsi, hoặc Tần Chỉnh Khí x8)
-Tích lũy 1600 Nguyệt Ảnh Tố Hoàn: Bộ trang phục tùy chỉnh x1 (Trọn bộ gồm khung avatar ""Tinh Chi Chúc Yến"", danh thiếp ""Tinh Chi Lân Ái"", phụ kiện tùy chỉnh ""Tinh Thái Ánh Chiếu Vạn Âm"")
+Đăng nhập và vào ""Moonlit Path"" để nhận trực tiếp: Lustrous Tide x1
+Tích lũy 30 Moonlit Ring: Radiant Tide x1
+Tích lũy 88 Moonlit Ring: Phụ kiện mô tô - ""Little Savior""
+Tích lũy 198 Moonlit Ring: Forging Tide x2
+Tích lũy 328 Moonlit Ring: Sơn tùy chỉnh - Singer in Deepspace (Bộ đầy đủ gồm sơn tấm chắn trái, sơn tấm chắn phải, sơn đầu đuôi)
+Tích lũy 450 Moonlit Ring: Rương Bổ Cấp Vũ Khí 5 sao - Synth Armament x1 (Chọn một trong: Laser Shearer, Radiance Cleaver, Phasic Homogenizer, Pulsation Bracer hoặc Boson Astrolabe)
+Tích lũy 680 Moonlit Ring: Transducer x3
+Tích lũy 980 Moonlit Ring: Stellar Anchor of Memories x1 (Đổi lấy Shorekeeper, Camellya hoặc Jinhsi, hoặc Transducer x8)
+Tích lũy 1600 Moonlit Ring: Bộ Trang Phục Tùy Chỉnh x1 (Bộ đầy đủ gồm khung avatar ""Choir of Stars"", danh thiếp ""Favor of Stars"", phụ kiện tùy chỉnh ""Starbright Resonance"")
 
 [Lưu ý đặc biệt]
-- Nạp tiền qua kênh ngoài game (như trang web nạp tiền), cần đăng nhập game trong thời gian hoạt động để hoàn tất giao hàng, mới được tính vào tiến trình hoạt động. Nếu Lữ Khách không đăng nhập game hoàn tất giao hàng trong thời gian hoạt động, sẽ không được tính vào tiến trình."
-lang_multi_text.db,MultiText,HelpText_503_Title,凝月辉途,Moonlit Path,Ngưng Nguyệt Huy Đồ
+- Nếu nạp qua kênh ngoài game (như trang web nạp tiền), cần đăng nhập game trong thời gian hoạt động để hoàn tất giao nhận, mới được tính vào tiến độ hoạt động. Nếu Lữ Khách không đăng nhập game trong thời gian hoạt động để hoàn tất giao nhận, sẽ không được tính vào tiến độ hoạt động."
+lang_multi_text.db,MultiText,HelpText_503_Title,凝月辉途,Moonlit Path,Moonlit Path
 lang_multi_text.db,MultiText,HelpText_507_Content,"【难度说明】
 本关卡分为简单与困难两种难度：简单难度包含 1 只迷失的隧群，困难难度则包含 2 只。
 
@@ -268,7 +463,7 @@ Khóa 4 chỉ số: tiêu hao 3 [Tần Chỉnh Khí].
 Đối với kết quả tái cấu trúc chỉ số phụ chưa xác nhận do thoát đột ngột, máy chủ sẽ lưu tối đa 30 ngày, Lữ Khách vui lòng xử lý kịp thời."
 lang_multi_text.db,MultiText,HelpText_512_Title,数据重构,Data Modify,Tái Cấu Trúc Dữ Liệu
 lang_multi_text.db,MultiText,HelpText_513_Content,本次活动支持在战胜首领敌人后保存进度，下次进入该比赛关卡时，可选择读取保存进度，或选择重新开始比赛。,"In this event, your progress can be saved after you defeat the boss. The next time you enter, you can continue from where you left off or start a new run.","Sự kiện lần này hỗ trợ lưu tiến độ sau khi đánh bại thủ lĩnh. Lần tiếp theo vào màn chơi, bạn có thể chọn tải tiến độ đã lưu hoặc bắt đầu lại từ đầu."
-lang_multi_text.db,MultiText,HelpText_513_Title,存档功能说明,Save Feature,Hướng dẫn Tính Năng Lưu Trữ
+lang_multi_text.db,MultiText,HelpText_513_Title,存档功能说明,Save Feature,Hướng dẫn Chức Năng Lưu Trữ
 lang_multi_text.db,MultiText,HelpText_514_Content,"1.变化牌：每回合会随机变化为手牌中的另一张牌，每回合变化的牌不会重复，且不会变化为已经打出过的牌或无冠者牌。
 变化牌可以视为正常的牌组成对子并打出。
 2.无冠者牌：卡组中只有一张无冠者牌。每位玩家都有2点生命，每当任一玩家抽到无冠者牌时，都会失去1点生命。
@@ -387,14 +582,14 @@ lang_multi_text.db,MultiText,HelpText_521_Content,"当今汐抽到无冠者牌�
 每局游戏中最多能够使用1次。","Jinhsi may use this skill when she draws the Crownless Card. After using it, she gives up this draw and does a redraw.
 Can be used once per game.","Khi Jinhsi rút được lá Crownless, cô ấy có thể sử dụng kỹ năng này. Sau khi sử dụng, Jinhsi sẽ bỏ lá bài đã rút và rút lại một lá mới.
 Mỗi ván chỉ có thể sử dụng tối đa 1 lần."
-lang_multi_text.db,MultiText,HelpText_521_Title,逆转时序,Time Reverse,Đảo Ngược Thời Tự
+lang_multi_text.db,MultiText,HelpText_521_Title,逆转时序,Time Reverse,Nghịch Chuyển Thời Tự
 lang_multi_text.db,MultiText,HelpText_522_Content,"当对手手牌数量为3～5时，嘉贝莉娜可能会使用该技能。使用技能后，嘉贝莉娜将查看一张对手的手牌。
 每局游戏中最多能够使用1次。","Galbrena may use this skill when her opponent has 3–5 cards in hand. After using it, she may check one of the opponent's cards.
 Can be used once per game.","Khi đối thủ có 3~5 lá bài trên tay, Galbrena có thể sử dụng kỹ năng này. Sau khi sử dụng, Galbrena sẽ xem một lá bài trên tay đối thủ.
 Mỗi ván chỉ có thể sử dụng tối đa 1 lần."
-lang_multi_text.db,MultiText,HelpText_522_Title,锐目直觉,Sharp Instinct,Nhãn Lực Trực Giác
+lang_multi_text.db,MultiText,HelpText_522_Title,锐目直觉,Sharp Instinct,Nhuệ Mục Trực Giác
 lang_multi_text.db,MultiText,HelpText_523_Content,被动效果：陆·赫斯在抽牌时，有更高的几率抽到其他牌，而不是无冠者牌。开局时手牌中不会包含无冠者牌。,"Luuk Herssen has a reduced chance of drawing the Crownless Card, and his initial hand is guaranteed not to contain it.","Hiệu ứng bị động: Luuk Herssen khi rút bài có xác suất cao hơn rút được các lá bài khác thay vì lá bài Crownless. Khi bắt đầu ván, bài trên tay sẽ không chứa lá bài Crownless."
-lang_multi_text.db,MultiText,HelpText_523_Title,洞彻人心,Mind Scalpel,Thấu Triệt Nhân Tâm
+lang_multi_text.db,MultiText,HelpText_523_Title,洞彻人心,Mind Scalpel,Đỗng Triệt Nhân Tâm
 lang_multi_text.db,MultiText,HelpText_527_Content,【登录游戏】天数刷新时间为服务器所在时区0点，漂泊者在0点后登录就会增加1天登录游戏天数。,The number of days you have <b>logged into the game</b> refreshes at 00:00 (server time). Logging in after 00:00 will count as an additional login day.,Số ngày <b>đăng nhập vào game</b> sẽ làm mới vào lúc 0:00 theo múi giờ máy chủ. Lữ Khách đăng nhập sau 0:00 sẽ được tính thêm 1 ngày đăng nhập.
 lang_multi_text.db,MultiText,HelpText_527_Title,登录天数说明,Login Days,Giải thích Số Ngày Đăng Nhập
 lang_multi_text.db,MultiText,HelpText_52_Content,"【初醒之征程】
@@ -584,7 +779,7 @@ lang_multi_text.db,MultiText,HelpText_69_Content,"1.部分角色拥有属于自�
 2. Companion Stories are unlocked when certain requirements are met. You can claim abundant rewards after completing them.","1. Một số nhân vật sở hữu nhiệm vụ Bạn Tinh riêng, trong đó bạn có thể trải nghiệm câu chuyện liên quan đến nhân vật.
 2. Nhiệm vụ Bạn Tinh sẽ mở khóa khi đạt điều kiện nhất định, hoàn thành sẽ nhận được phần thưởng hậu hĩnh."
 lang_multi_text.db,MultiText,HelpText_69_Title,伴星任务说明,Companion Stories,Hướng dẫn Nhiệm vụ Bạn Tinh
-lang_multi_text.db,MultiText,HelpText_6_Content,<color=yellow>角色介绍：</color>,<color=yellow>Character Introduction: </color>,<color=yellow>Giới thiệu nhân vật: </color>
+lang_multi_text.db,MultiText,HelpText_6_Content,<color=yellow>角色介绍：</color>,<color=yellow>Character Introduction: </color>,<color=yellow>Giới thiệu nhân vật:</color>
 lang_multi_text.db,MultiText,HelpText_6_Title,角色介绍-桃祈,Character Introduction: Taoqi,Giới thiệu nhân vật - Taoqi
 lang_multi_text.db,MultiText,HelpText_70_Content,"【标准融合】
 终端可以将5个未强化声骸转化为1个随机新声骸，支持批量融合。
@@ -647,7 +842,7 @@ Phẩm chất và COST của Thanh Hài đưa vào càng cao, xác suất xuất
 
 [Tự động đưa vào]
 Trong Dung Hợp Dữ Liệu, nhấn Tự động đưa vào sẽ lần lượt đưa các Thanh Hài chưa cường hóa theo thứ tự trên giao diện chọn nguyên liệu. Lữ Khách có thể thay đổi bộ lọc và sắp xếp tại đây để kiểm soát chi tiết hơn việc tự động đưa vào."
-lang_multi_text.db,MultiText,HelpText_70_Title,数据融合,Data Merge,Dung Hợp Dữ Liệu
+lang_multi_text.db,MultiText,HelpText_70_Title,数据融合,Data Merge,Dung hợp dữ liệu
 lang_multi_text.db,MultiText,HelpText_71_Content,"【活动规则】
 先行公约将中曲台地选为了新一期《潮汐地理》杂志的主题地区。 为此，先约组织了针对中曲台地的专项勘察活动。
 完成勘察任务，积累勘察点数，即可获得先约提供的珍贵奖励。
@@ -667,7 +862,7 @@ Hoàn thành nhiệm vụ khảo sát, tích lũy điểm khảo sát để nh�
 [Làm mới nhiệm vụ]
 Nhiệm vụ khảo sát được làm mới hàng ngày lúc 4:00. Khi làm mới, điểm khảo sát chưa nhận sẽ được tự động nhận, nhiệm vụ chưa hoàn thành sẽ không thể hoàn thành lại.
 Sau khi hoạt động kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sau khi kết thúc sẽ được bổ sung phần thưởng qua thư."
-lang_multi_text.db,MultiText,HelpText_71_Title,【潮汐觅闻】活动说明,[Wuthering Exploration] Event Description,Hướng dẫn hoạt động [Triều Tịch Mịch Văn]
+lang_multi_text.db,MultiText,HelpText_71_Title,【潮汐觅闻】活动说明,[Wuthering Exploration] Event Description,[Triều Tịch Mịch Văn] Mô tả hoạt động
 lang_multi_text.db,MultiText,HelpText_72_Content,"对于指定危险等级的残象，终端可以消耗额外的算力大幅提升其声骸掉落概率。
 目前的算力支持有限，在总计强化吸收有限次数之后会耗尽，需要一定时间重新累积。
 不同危险等级残象的强化吸收次数分别计算。
@@ -789,121 +984,3 @@ Lữ Khách có thể vào ""Trường Lộ Lân Tích"" bằng cách trang bị
 Hãy theo sự chỉ dẫn của manh mối, đến khu vực tương ứng để khám phá và thu thập các Đình Ảnh rải rác.
 Hoàn thành thu thập còn có thể nhận được các loại phần thưởng bao gồm ""Tinh Thanh"".
 Trong tương lai sẽ có thêm nhiều Đình Ảnh ở các khu vực khác chờ Lữ Khách khám phá..."
-lang_multi_text.db,MultiText,HelpText_75_Title,【长路鳞迹】功能说明,About Scale of Past,Hướng dẫn chức năng [Trường Lộ Lân Tích]
-lang_multi_text.db,MultiText,HelpText_76_Content,"【调梦模因】
-在开始「异想奇境」的探索前，可以选用「调梦模因」调整探索的难度及奖励倍率。（「调梦模因」仅在难度Ⅳ、V、VI可选用。）
-「调梦模因」会影响本次探索中共鸣者在「异想奇境」中的战斗体验以及敌人的能力，其奖励获得倍率会同时作用于完成探索后获取的「异想标本」与「记忆点」。
-
-「美梦模因」：降低本次探索的整体难度，同时降低探索后奖励获得倍率。
-「噩梦模因」：增加本次探索的整体难度，同时增加探索后奖励获得倍率。","[Memetic Tuning]
-Before exploring the Illusive Realm, Memetic Tuning can be selected to adjust the difficulty of the exploration and the reward rate (Memetic Tuning can only be used in Difficulty Ⅳ, V, and VI).
-Memetic Tuning affects Resonators' combat experience and enemies' abilities in the upcoming Illusive Realm exploration. The reward rate will be applied to the Illusive Specimens and Memory Points obtained after completing the upcoming exploration.
-
-Reverie Memes: Reduce the overall difficulty and the reward rate of the upcoming exploration.
-Nightmare Memes: Increase the overall difficulty and the reward rate of the upcoming exploration.","[Điều Mộng Mô Nhân]
-Trước khi bắt đầu khám phá ""Dị Tưởng Kỳ Cảnh"", có thể chọn dùng ""Điều Mộng Mô Nhân"" để điều chỉnh độ khó và hệ số thưởng của cuộc khám phá. (""Điều Mộng Mô Nhân"" chỉ khả dụng ở độ khó IV, V, VI.)
-""Điều Mộng Mô Nhân"" sẽ ảnh hưởng đến trải nghiệm chiến đấu của Cộng Hưởng Giả trong ""Dị Tưởng Kỳ Cảnh"" cùng năng lực của kẻ thù trong lần khám phá này. Hệ số thưởng sẽ đồng thời tác động lên ""Dị Tưởng Tiêu Bản"" và ""Ký Ức Điểm"" nhận được sau khi hoàn thành khám phá.
-
-""Mô Nhân Mỹ Mộng"": Giảm độ khó tổng thể của lần khám phá, đồng thời giảm hệ số thưởng.
-""Mô Nhân Ác Mộng"": Tăng độ khó tổng thể của lần khám phá, đồng thời tăng hệ số thưởng."
-lang_multi_text.db,MultiText,HelpText_76_Title,调梦模因说明,About Memetic Tuning,Hướng dẫn Điều Mộng Mô Nhân
-lang_multi_text.db,MultiText,HelpText_77_Content,"【活动简介】
-完成今州呜呜物流管理员马计的「呜呜企划」，即可获得呜呜物流的谢礼——「呜呜邮币」。
-「呜呜邮币」可用于兑换呜呜物流回赠的「助呜为乐」特别邮递。
-
-【参与条件】
-联觉等级达到14级。
-
-【活动规则】
-活动期间，漂泊者每天可完成一次「呜呜企划」，获得一定数目的呜呜邮币；
-每次消耗一枚呜呜邮币，可随机获赠一份「助呜为乐」特别邮递。
-「助呜为乐」特别邮递总计三轮库存，获得前序库存内的全部邮递后，将开启下一库存；
-若于本轮中选「呜闪达」专送服务，即刻获得当前库存内的全部邮递；
-活动结束时，未参与的「呜呜企划」将无法体验，并统一回收未兑换的呜呜邮币。","[About]
-Complete the Lollo Campaigns proposed by Maji, the administrator of Jinzhou Lollo Logistics, to claim your Lollo Stamps—a gift of gratitude from Lollo Logistics.
-Lollo Stamps can be exchanged for a Lollo Helper special delivery.
-
-[Eligibility]
-Reach Union Level 14.
-
-[Event Rules]
-During the event, you can complete Lollo Campaigns once per day to obtain a set number of Lollo Stamps.
-Each Lollo Stamp can be exchanged for a Lollo Helper special delivery.
-There are 3 Inventories for the Lollo Helper special deliveries. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.
-If you win the Lollo Express special delivery service, you can claim all deliveries in the current Inventory.
-After the event ends, the unfinished Lollo Campaigns will not be available, and all the remaining Lollo Stamps will be recycled.","[Giới thiệu hoạt động]
-Hoàn thành ""Vu Vu Xí Hoạch"" của Mã Kế - quản lý Vu Vu Vật Lưu tại Kim Châu, để nhận được quà cảm ơn từ Vu Vu Vật Lưu - ""Vu Vu Bưu Tệ"".
-""Vu Vu Bưu Tệ"" có thể dùng để đổi lấy bưu kiện đặc biệt ""Trợ Vu Vi Lạc"" từ Vu Vu Vật Lưu.
-
-[Điều kiện tham gia]
-Cấp Liên Giác đạt cấp 14.
-
-[Quy tắc hoạt động]
-Trong thời gian hoạt động, Lữ Khách mỗi ngày có thể hoàn thành một lần ""Vu Vu Xí Hoạch"" để nhận một số lượng Vu Vu Bưu Tệ nhất định;
-Mỗi lần tiêu hao một Vu Vu Bưu Tệ, có thể nhận ngẫu nhiên một phần bưu kiện đặc biệt ""Trợ Vu Vi Lạc"".
-Bưu kiện đặc biệt ""Trợ Vu Vi Lạc"" có tổng cộng ba vòng kho hàng, sau khi nhận hết toàn bộ bưu kiện trong kho trước đó sẽ mở kho tiếp theo;
-Nếu trong vòng hiện tại chọn dịch vụ chuyển phát ""Vu Thiểm Đạt"", sẽ lập tức nhận được toàn bộ bưu kiện trong kho hiện tại;
-Khi hoạt động kết thúc, các ""Vu Vu Xí Hoạch"" chưa tham gia sẽ không thể trải nghiệm, đồng thời thu hồi toàn bộ Vu Vu Bưu Tệ chưa đổi."
-lang_multi_text.db,MultiText,HelpText_77_Title,呜呜企划说明,About Lollo Campaign,Hướng dẫn Vu Vu Xí Hoạch
-lang_multi_text.db,MultiText,HelpText_78_Content,"【活动规则】
-先行公约将乘霄山选为了新一期《潮汐地理》杂志的主题地区。 为此，先约组织了针对乘霄山的专项勘察活动。
-完成勘察任务，积累勘察点数，即可获得先约提供的珍贵奖励。
-
-【任务刷新】
-勘察任务每日4点刷新。刷新时，未领取的勘察点数会自动领取，未完成的任务无法再次完成。
-活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Event Rules]
-The Pioneer Association has picked Mt. Firmament as the theme for an upcoming edition of <i>Wutherium Geographic</i>. To that end, the association has organized a special survey of Mt. Firmament.
-Complete Survey Tasks and accumulate Survey Points to secure valuable rewards offered by the Pioneer Association.
-
-[Task Reset]
-Survey Tasks reset daily at 04:00. Upon reset, any unclaimed Survey Points will be automatically claimed, and uncompleted tasks will expire.
-If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to claim them in your Mail.","[Quy tắc hoạt động]
-Tiên Hành Công Ước đã chọn Thừa Tiêu Sơn làm chủ đề cho kỳ mới của tạp chí ""Triều Tịch Địa Lý"". Vì vậy, Tiên Ước đã tổ chức hoạt động khảo sát chuyên biệt cho Thừa Tiêu Sơn.
-Hoàn thành nhiệm vụ khảo sát, tích lũy điểm khảo sát để nhận phần thưởng quý giá từ Tiên Ước.
-
-[Làm mới nhiệm vụ]
-Nhiệm vụ khảo sát được làm mới hàng ngày lúc 4:00. Khi làm mới, điểm khảo sát chưa nhận sẽ được tự động nhận, nhiệm vụ chưa hoàn thành sẽ không thể hoàn thành lại.
-Sau khi hoạt động kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sau khi kết thúc sẽ được bổ sung phần thưởng qua thư."
-lang_multi_text.db,MultiText,HelpText_79_Content,"【活动简介】
-乘霄山，一片与世隔绝的秘境。据说，岁主「角」的初次降临便是在此处……
-完成活动任务即可获得丰厚的奖励。
-
-【参与条件】
-联觉等级达到14级，且在潮汐任务【远赴乘霄】中抵达乘霄山后解锁。
-
-【活动规则】
-整个活动共分为四个阶段，根据潮汐任务的进度依次解锁；
-完成活动任务即可领取丰厚的奖励；
-活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发；
-请注意部分活动任务联机情况下无法完成；部分游戏内场景无法进行任务追踪。","[About]
-Mt. Firmament is a secluded haven, detached from the rest of the world. It is rumored to be the very place where the Sentinel Jué descended...
-Complete event quests to earn great rewards.
-
-[Eligibility]
-Reach Union Level 14 and arrive at Mt. Firmament in the main quest ""Voyage to Firmament.""
-
-[Event Rules]
-The event consists of four phases, with each phase unlocking progressively as you advance through the main quests.
-Complete event quests to earn great rewards.
-If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to receive the rewards via mail.
-Please note that certain content of the event is not available while in Co-op mode. Quest Tracking is not available while in certain game scenes.","[Giới thiệu hoạt động]
-Thừa Tiêu Sơn, một bí cảnh tách biệt với thế giới bên ngoài. Tương truyền, lần giáng lâm đầu tiên của Tuế Chủ ""Giác"" chính là tại nơi đây...
-Hoàn thành nhiệm vụ hoạt động để nhận phần thưởng hậu hĩnh.
-
-[Điều kiện tham gia]
-Cấp Liên Giác đạt 14 và mở khóa sau khi đến Thừa Tiêu Sơn trong nhiệm vụ Triều Tịch [Viễn Phó Thừa Tiêu].
-
-[Quy tắc hoạt động]
-Toàn bộ hoạt động chia thành bốn giai đoạn, mở khóa lần lượt theo tiến độ nhiệm vụ Triều Tịch;
-Hoàn thành nhiệm vụ hoạt động để nhận phần thưởng hậu hĩnh;
-Sau khi hoạt động kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sau khi hoạt động kết thúc sẽ được bổ phát phần thưởng qua thư;
-Xin lưu ý một số nhiệm vụ hoạt động không thể hoàn thành khi chơi liên cơ; một số cảnh trong game không hỗ trợ theo dõi nhiệm vụ."
-lang_multi_text.db,MultiText,HelpText_79_Title,霄山源记活动说明,About the Tales from Mt. Firmament,Hướng dẫn hoạt động Tiêu Sơn Nguyên Ký
-lang_multi_text.db,MultiText,HelpText_7_Content,"<color=yellow>桃祈特色能力：防守反击</color>
-当桃祈使用【重击】时，如果攻击动作被打断，可消耗1点殇能再次普攻打出【玄武反击】，触发【玄武冥域】造成范围减速并为队伍全体恢复血量
-通过【普攻连段】、【变奏技能】、【下落攻击】、【共鸣解放】亦可触发【玄武冥域】","<color=yellow>Taoqi's Special Ability: Defensive Counterattack</color>
-When Taoqi uses a [Heavy Attack], if the attack action is interrupted, she can consume 1 point of Shangneng to launch a [Black Tortoise Counterattack] with a [Basic Attack], triggering [Black Tortoise's Underworld] to slow down the range and restore HP for the entire team.
-[Black Tortoise's Underworld] can also be triggered through [Basic Attack Combo], [Intro Skill], [Plunging Attack], and [Resonance Liberation].","<color=yellow>Năng lực đặc biệt của Taoqi: Phòng thủ phản kích</color>
-Khi Taoqi sử dụng [Trọng Kích], nếu động tác tấn công bị gián đoạn, có thể tiêu hao 1 điểm Thương Năng để Phổ Công tung ra [Huyền Vũ Phản Kích], kích hoạt [Huyền Vũ Minh Vực] gây giảm tốc phạm vi và hồi máu cho toàn đội.
-Thông qua [Phổ Công liên đoạn], [Biến Tấu Kỹ], [Tấn công khi rơi], [Giải Phóng Cộng Hưởng] cũng có thể kích hoạt [Huyền Vũ Minh Vực]."
-lang_multi_text.db,MultiText,HelpText_7_Title,角色介绍-桃祈,Character Introduction: Taoqi,Giới thiệu nhân vật - Taoqi

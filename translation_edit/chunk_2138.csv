@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Text_ItemRecycleChosenTotal_text,已选：{0}/{1},Selected: {0}/{1},Đã chọn: {0}/{1}
+lang_multi_text.db,MultiText,Text_ItemRecycleChosen_text,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,Text_ItemRecycleConfirmToggle_text,本次登录不再提示,Do not show again,Không hiển thị lại trong lần đăng nhập này
+lang_multi_text.db,MultiText,Text_ItemRecycleCount_text,回收数量：{0},Amount: {0},Số lượng thu hồi: {0}
+lang_multi_text.db,MultiText,Text_ItemRecycleLimited_text,该物品无法被回收,Selected item cannot be removed.,Vật phẩm này không thể thu hồi.
+lang_multi_text.db,MultiText,Text_ItemRecycle_text,数据回收,Remove,Thu hồi dữ liệu
+lang_multi_text.db,MultiText,Text_ItemReturnTitle_Text,返还材料,Returned Materials,Hoàn trả nguyên liệu
+lang_multi_text.db,MultiText,Text_ItemSelectCookQuantityTip_text,烹饪数量 <color=Highlight>{0}</color>,Quantity: <color=Highlight>{0}</color>,Số lượng nấu ăn <color=Highlight>{0}</color>
+lang_multi_text.db,MultiText,Text_ItemSelectCookUnlockTip_text,暂无法研究，请继续解锁配料线索,Locked recipe. Please find more clues,"Tạm thời chưa thể nghiên cứu, vui lòng tiếp tục mở khóa manh mối nguyên liệu"
+lang_multi_text.db,MultiText,Text_ItemSelectCookUnlock_text,???,???,???
 lang_multi_text.db,MultiText,Text_ItemSelectForgeQuantityTip_text,印造数量 <color=Highlight>{0}</color>,Quantity: <color=Highlight>{0}</color>,Số lượng chế tạo <color=Highlight>{0}</color>
 lang_multi_text.db,MultiText,Text_ItemSelectShopQuantityTip_text,购买数量 <color=Highlight>{0}</color>,Quantity: <color=Highlight>{0}</color>,Số lượng mua <color=Highlight>{0}</color>
 lang_multi_text.db,MultiText,Text_ItemSelectSynthesisQuantityTip_text,合成数量 <color=Highlight>{0}</color>,Quantity: <color=Highlight>{0}</color>,Số lượng hợp thành <color=Highlight>{0}</color>
@@ -10,9 +20,9 @@ lang_multi_text.db,MultiText,Text_ItemToolsBlank_Text,当前暂无可装配道�
 lang_multi_text.db,MultiText,Text_ItemToolsSubTitle_Text,道具装配,Item assembly,Trang bị đạo cụ
 lang_multi_text.db,MultiText,Text_ItemUnlockSuccess_Text,物品解锁成功,Item Unlocked,Mở khóa vật phẩm thành công
 lang_multi_text.db,MultiText,Text_ItemUseCount_Text,道具使用:{0},Item used: {0},Đạo cụ đã dùng: {0}
-lang_multi_text.db,MultiText,Text_JoinText_Text,加入,Select,Tham gia
+lang_multi_text.db,MultiText,Text_JoinText_Text,加入,Select,Thêm
 lang_multi_text.db,MultiText,Text_KeepOnButton_Text,继续副本,Continue,Tiếp tục phụ bản
-lang_multi_text.db,MultiText,Text_KeyBoard_Text,键鼠,Keyboard and Mouse,Bàn phím và chuột
+lang_multi_text.db,MultiText,Text_KeyBoard_Text,键鼠,Keyboard and Mouse,Bàn phím & Chuột
 lang_multi_text.db,MultiText,Text_KillCount_Text,击败次数:{0},Defeat times: {0},Số lần đánh bại: {0}
 lang_multi_text.db,MultiText,Text_LanguageDownloadFinished_Text,{0}语音包已下载完成,{0} voice pack has been downloaded,Gói giọng nói {0} đã tải xong
 lang_multi_text.db,MultiText,Text_LeaderCancelMatch_Text,匹配已取消,Matchmaking canceled,Đã hủy ghép trận
@@ -48,7 +58,7 @@ lang_multi_text.db,MultiText,Text_LoginRequestFail_Text,请求登录失败，请
 lang_multi_text.db,MultiText,Text_LordGymNewDifficultyUnlock_Text,新难度已解锁,New difficulty unlocked,Đã mở khóa độ khó mới
 lang_multi_text.db,MultiText,Text_LowRiskAreaFloor_Text,是否覆盖 稳定区·{0}·第{1}层 的挑战成绩,Updating results of Stable Zone: {0} - Floor {1}. Do you confirm?,Bạn có muốn ghi đè thành tích thử thách Khu Ổn Định - {0} - Tầng {1} không?
 lang_multi_text.db,MultiText,Text_LowRisk_Text,稳定区·{0},Stable Zone: {0},Khu Ổn Định - {0}
-lang_multi_text.db,MultiText,Text_LvString_Text,{0}阶,{0} Stage,Giai đoạn {0}
+lang_multi_text.db,MultiText,Text_LvString_Text,{0}阶,{0} Stage,Bậc {0}
 lang_multi_text.db,MultiText,Text_LvlUnknown_Text,等级 ???,Level ???,Cấp ???
 lang_multi_text.db,MultiText,Text_MachiningStudy_Text,美食研究,Culinary Research,Nghiên cứu ẩm thực
 lang_multi_text.db,MultiText,Text_Machining_Text,切配加工,Cutting and Processing,Cắt và chế biến
@@ -93,15 +103,5 @@ lang_multi_text.db,MultiText,Text_Meter_Text,{0}米,{0}m,{0}m
 lang_multi_text.db,MultiText,Text_MiddleRequirementDefault__Text,获得,Items Obtained,Nhận được
 lang_multi_text.db,MultiText,Text_MingSuTi_Text1_Text,<color=#ac8549>{0}</color>/{1},<color=#ac8549>{0}</color>/{1},<color=#ac8549>{0}</color>/{1}
 lang_multi_text.db,MultiText,Text_MingSuTi_Text2_Text,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_MingSuTi_Text3_Text,全部交付,Deliver All,Giao nộp tất cả
+lang_multi_text.db,MultiText,Text_MingSuTi_Text3_Text,全部交付,Deliver All,Giao tất cả
 lang_multi_text.db,MultiText,Text_MingSuTi_Text4_Text,返回当前,Return to Current Level,Quay về cấp hiện tại
-lang_multi_text.db,MultiText,Text_MingSuTi_Text5_Text,返回当前,Return to Current Level,Quay về cấp hiện tại
-lang_multi_text.db,MultiText,Text_MingSuTi_Text6_Text,材料不足,Insufficient Materials,Không đủ Nguyên Liệu
-lang_multi_text.db,MultiText,Text_MinuteText_Text,分钟,m,phút
-lang_multi_text.db,MultiText,Text_Minute_Text,分钟,m,phút
-lang_multi_text.db,MultiText,Text_MobileAutoPickUp_Text,点击屏幕右半空白区域可全部拾取,Click right half of screen to auto pick,Chạm vào vùng trống bên phải màn hình để nhặt tất cả
-lang_multi_text.db,MultiText,Text_MonsterHandBookLock_Text,尚未遭遇该敌人,Enemy gallery locked,Chưa từng chạm trán kẻ địch này
-lang_multi_text.db,MultiText,Text_MonsterInformation_Text,怪物信息,Enemy Info,Thông tin quái vật
-lang_multi_text.db,MultiText,Text_MonsterTimeRemain_Text,后刷新,Reset after,sau sẽ làm mới
-lang_multi_text.db,MultiText,Text_MonthCardShopTitle_Text,连续30日，每日登录领取。,Log in daily for 30 consecutive days to receive rewards.,Đăng nhập mỗi ngày trong 30 ngày liên tục để nhận thưởng.
-lang_multi_text.db,MultiText,Text_MonthlyCardDesc_Text,以交易所的信誉为背书，约定按月为单位以固定价格对标的资产进行交易，在到期日前每日根据差额补足价款，补偿形式为月相或星声，并不涉及实物交割。,"A monthly trade contract of the underlying assets at a fixed price, backed by the credit of the Exchange. A compensation will be paid daily before the expiration to settle the balance in the form of Special Acceptance Rights or Tacetreite Voucher. No physical delivery is involved.","Được bảo chứng bởi uy tín của Sở Giao Dịch, đây là hợp đồng giao dịch tài sản theo tháng với giá cố định. Trước ngày đáo hạn, mỗi ngày sẽ thanh toán phần chênh lệch dưới dạng Nguyệt Tướng hoặc Tinh Thanh, không liên quan đến giao nhận vật phẩm thực tế."

@@ -1,9 +1,19 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_2200006_Text,活动积分奖励目标尚未达成,The goal for the event points reward has not been reached.,Mục tiêu phần thưởng điểm sự kiện chưa đạt được.
+lang_multi_text.db,MultiText,ErrorCode_2200007_Text,活动奖励已经领取,Event reward already claimed.,Phần thưởng sự kiện đã được nhận.
+lang_multi_text.db,MultiText,ErrorCode_2200008_Text,活动增益选择不合法,The selected event buff is invalid.,Lựa chọn tăng ích sự kiện không hợp lệ.
+lang_multi_text.db,MultiText,ErrorCode_2200009_Text,活动配置不存在,Event configuration not found.,Cấu hình sự kiện không tồn tại.
+lang_multi_text.db,MultiText,ErrorCode_2200010_Text,活动角色选择不合法,The selected event character is invalid.,Lựa chọn nhân vật sự kiện không hợp lệ.
+lang_multi_text.db,MultiText,ErrorCode_2200011_Text,活动组件不存在,Event component not found.,Thành phần sự kiện không tồn tại.
+lang_multi_text.db,MultiText,ErrorCode_2200012_Text,请至少选择一个角色再开始挑战,Please select at least one character to start the challenge.,Vui lòng chọn ít nhất một nhân vật trước khi bắt đầu thử thách.
+lang_multi_text.db,MultiText,ErrorCode_2200013_Text,有增益词条未选择，请选择后再开启挑战,You have unselected buff stats. Please select them before starting the challenge.,"Còn từ điều tăng ích chưa chọn, hãy chọn trước khi bắt đầu thử thách"
+lang_multi_text.db,MultiText,ErrorCode_2200014_Text,活动关卡尚未开启,This event stage is currently unavailable.,Màn chơi sự kiện chưa mở.
+lang_multi_text.db,MultiText,ErrorCode_2200015_Text,不能销毁伴生物,Cannot destroy conjured entity,Không thể tiêu hủy thực thể đồng sinh.
 lang_multi_text.db,MultiText,ErrorCode_22000168_Text,该场景不是潮蚀模拟中的场景,This is not a Tidal Defense Simulator environment,Cảnh này không phải cảnh trong Mô Phỏng Triều Thực.
 lang_multi_text.db,MultiText,ErrorCode_2200016_Text,战斗异常，请联系客服反馈。,An exception occurred. Please contact Customer Support for assistance.,"Lỗi chiến đấu, vui lòng liên hệ bộ phận hỗ trợ để phản hồi."
 lang_multi_text.db,MultiText,ErrorCode_2200053_Text,"dnt/客户端行为被跳过,原因:{0},拥有者:{1},行为名:{2},序号:{3}",,"dnt/Hành vi phía client bị bỏ qua, nguyên nhân: {0}, chủ sở hữu: {1}, tên hành vi: {2}, số thứ tự: {3}"
-lang_multi_text.db,MultiText,ErrorCode_2200054_Text,当前状态无法使用,You cannot currently use this function,Không thể sử dụng trong trạng thái hiện tại.
-lang_multi_text.db,MultiText,ErrorCode_2200060_Text,处于异常的重力环境，无法进入多人游戏。,"Currently influenced by abnormal gravity, unable to join Co-op.","Đang ở trong môi trường trọng lực bất thường, không thể tham gia chế độ nhiều người."
+lang_multi_text.db,MultiText,ErrorCode_2200054_Text,当前状态无法使用,You cannot currently use this function,Hiện không thể sử dụng chức năng này
+lang_multi_text.db,MultiText,ErrorCode_2200060_Text,处于异常的重力环境，无法进入多人游戏。,"Currently influenced by abnormal gravity, unable to join Co-op.","Đang chịu ảnh hưởng của môi trường trọng lực bất thường, không thể tham gia chế độ nhiều người."
 lang_multi_text.db,MultiText,ErrorCode_2200061_Text,多人游戏中无法旅行至异常的重力环境区域的信标。,Cannot Fast Travel to areas with abnormal gravity in Co-op.,"Trong chế độ nhiều người, không thể dịch chuyển đến tín hiệu tại khu vực có trọng lực bất thường."
 lang_multi_text.db,MultiText,ErrorCode_2200062_Text,扶风转标请求的重力方向索引与当前一致。,The Gravity Calibrator already points to the gravity direction requested.,Hướng trọng lực yêu cầu từ Trụ Chỉnh Trọng Lực trùng với hướng hiện tại.
 lang_multi_text.db,MultiText,ErrorCode_2200063_Text,扶风转标请求的重力方向索引不存在。,The gravity direction requested by the Gravity Calibrator does not exist.,Hướng trọng lực yêu cầu từ Trụ Chỉnh Trọng Lực không tồn tại.
@@ -30,11 +40,11 @@ lang_multi_text.db,MultiText,ErrorCode_2200095_Text,未处于准备阶段,You ar
 lang_multi_text.db,MultiText,ErrorCode_2200096_Text,战术集配置不存在,Tactic Set not configured,Cấu hình bộ chiến thuật không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_2200097_Text,构建的战术集随机池内为空,Established random Tactic Set pool is empty,Pool ngẫu nhiên của bộ chiến thuật đã tạo đang trống
 lang_multi_text.db,MultiText,ErrorCode_2200098_Text,构建的品质随机池内为空,Established random rarity pool is empty,Pool ngẫu nhiên phẩm chất đã tạo đang trống
-lang_multi_text.db,MultiText,ErrorCode_2200099_Text,请求参数错误,Invalid query parameter,Lỗi tham số yêu cầu
+lang_multi_text.db,MultiText,ErrorCode_2200099_Text,请求参数错误,Invalid query parameter,Tham số yêu cầu không hợp lệ
 lang_multi_text.db,MultiText,ErrorCode_2200100_Text,请求参数重复,Duplicate query parameter,Tham số yêu cầu bị trùng lặp
 lang_multi_text.db,MultiText,ErrorCode_2200101_Text,奖励配置找不到,Reward configuration not found,Không tìm thấy cấu hình phần thưởng
 lang_multi_text.db,MultiText,ErrorCode_2200102_Text,不在可领奖时间,Not the time to claim rewards,Chưa đến thời gian nhận thưởng
-lang_multi_text.db,MultiText,ErrorCode_2200103_Text,奖励已领取,The reward has been received,Phần thưởng đã được nhận
+lang_multi_text.db,MultiText,ErrorCode_2200103_Text,奖励已领取,The reward has been received,Phần thưởng đã được nhận.
 lang_multi_text.db,MultiText,ErrorCode_2200104_Text,条件未达成,Condition not met yet,Chưa đạt điều kiện
 lang_multi_text.db,MultiText,ErrorCode_2200105_Text,不在活动副本内,Not in the event instance,Không ở trong phụ bản sự kiện
 lang_multi_text.db,MultiText,ErrorCode_2200106_Text,缺少进入副本参数,Parameter to enter the instance is missing,Thiếu tham số để vào phụ bản
@@ -45,14 +55,14 @@ lang_multi_text.db,MultiText,ErrorCode_2200110_Text,库洛洛武器未解锁,Thi
 lang_multi_text.db,MultiText,ErrorCode_2200111_Text,装备索引超过范围,Equipment index out of range,Chỉ số trang bị vượt quá phạm vi
 lang_multi_text.db,MultiText,ErrorCode_2200112_Text,无法重复装备同一作战装置,Cannot repeatedly equip the same Combat Machine,Không thể trang bị trùng lặp cùng một thiết bị tác chiến
 lang_multi_text.db,MultiText,ErrorCode_2200113_Text,无法重复索引同一作战装置,Cannot repeatedly request the same Combat Machine,Không thể yêu cầu trùng lặp cùng một thiết bị tác chiến
-lang_multi_text.db,MultiText,ErrorCode_2200114_Text,作战装置配置不存在,Combat Machine not configured,Không tồn tại cấu hình thiết bị tác chiến
+lang_multi_text.db,MultiText,ErrorCode_2200114_Text,作战装置配置不存在,Combat Machine not configured,Cấu hình thiết bị tác chiến không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_2200115_Text,库洛洛武器配置不存在,KU-Roro's Weapon not configured,Không tồn tại cấu hình vũ khí KU-Roro
 lang_multi_text.db,MultiText,ErrorCode_2200116_Text,无法重复装备同一库洛洛武器,Cannot repeatedly equip the same KU-Roro's Weapon,Không thể trang bị trùng lặp cùng một vũ khí KU-Roro
 lang_multi_text.db,MultiText,ErrorCode_2200117_Text,缺少必须装备的作战装置,Necessary Combat Machine not equipped,Thiếu thiết bị tác chiến bắt buộc
 lang_multi_text.db,MultiText,ErrorCode_2200118_Text,缺少必须装备的库洛洛武器,Necessary KU-Roro's Weapon not equipped,Thiếu vũ khí KU-Roro bắt buộc
 lang_multi_text.db,MultiText,ErrorCode_2200119_Text,作战装置等级配置不存在,Combat Machine level not configured,Không tồn tại cấu hình cấp độ thiết bị tác chiến
 lang_multi_text.db,MultiText,ErrorCode_2200120_Text,作战装置已达到最高等级,The Combat Machine has reached the highest level,Thiết bị tác chiến đã đạt cấp độ tối đa
-lang_multi_text.db,MultiText,ErrorCode_2200121_Text,活动配置不存在,Event configuration missing,Không tồn tại cấu hình sự kiện
+lang_multi_text.db,MultiText,ErrorCode_2200121_Text,活动配置不存在,Event configuration missing,Cấu hình sự kiện không tồn tại.
 lang_multi_text.db,MultiText,ErrorCode_2200122_Text,库洛洛武器等级配置不存在,KU-Roro's Weapon level not configured,Cấu hình cấp độ vũ khí KU-Roro không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_2200123_Text,库洛洛武器已达到最高等级,The KU-Roro's Weapon has reached the highest level,Vũ khí KU-Roro đã đạt cấp độ tối đa
 lang_multi_text.db,MultiText,ErrorCode_2200124_Text,库洛洛武器没有当前选择分支,No current option for the KU-Roro's Weapon,Vũ khí KU-Roro không có nhánh đang chọn
@@ -62,7 +72,7 @@ lang_multi_text.db,MultiText,ErrorCode_2200127_Text,作战装置重置操作无�
 lang_multi_text.db,MultiText,ErrorCode_2200128_Text,守望协议节点配置找不到,Overwatch Protocol configuration is missing,Không tìm thấy cấu hình nút Giao Thức Thủ Vọng
 lang_multi_text.db,MultiText,ErrorCode_2200129_Text,守望协议已解锁,The Overwatch Protocol is unlocked,Giao Thức Thủ Vọng đã được mở khóa
 lang_multi_text.db,MultiText,ErrorCode_2200130_Text,守望协议节点配置找不到,Overwatch Protocol configuration is missing,Không tìm thấy cấu hình nút Giao Thức Thủ Vọng
-lang_multi_text.db,MultiText,ErrorCode_2200131_Text,前置节点未解锁,Prerequisite Protocol is not activated,Nút tiên quyết chưa được mở khóa
+lang_multi_text.db,MultiText,ErrorCode_2200131_Text,前置节点未解锁,Prerequisite Protocol is not activated,Node tiên quyết chưa mở khóa
 lang_multi_text.db,MultiText,ErrorCode_2200132_Text,作战评级不足,Insufficient Rating Stars,Đánh giá tác chiến không đủ
 lang_multi_text.db,MultiText,ErrorCode_2200133_Text,活动道具配置不存在,Event item not configured,Cấu hình vật phẩm sự kiện không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_2200134_Text,活动道具超过携带上限,Event item capacity exceeded,Vật phẩm sự kiện vượt quá giới hạn mang theo
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_2200154_Text,战术抽取刷新数量不�
 lang_multi_text.db,MultiText,ErrorCode_2200155_Text,特殊地块配置不存在,Special area not configured,Cấu hình khu vực đặc biệt không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_2200156_Text,特定等级的特殊地块配置不存在,Special area of specific level not configured,Cấu hình khu vực đặc biệt cấp độ cụ thể không tồn tại
 lang_multi_text.db,MultiText,ErrorCode_2200157_Text,dnt/行为执行时 实体对象不存在 行为名:{0} 对象:{1} 拥有者:{2},,"dnt/Khi thực thi hành vi, đối tượng thực thể không tồn tại. Tên hành vi: {0} Đối tượng: {1} Chủ sở hữu: {2}"
-lang_multi_text.db,MultiText,ErrorCode_2200158_Text,频率中和器数量不足,Insufficient Frequency Neutralizers,Số lượng Bộ Trung Hòa Tần Số không đủ
-lang_multi_text.db,MultiText,ErrorCode_2200159_Text,道具逻辑配置错误,Item logic configuration error,Lỗi cấu hình logic vật phẩm
-lang_multi_text.db,MultiText,ErrorCode_2200160_Text,特殊地块类型不同,Unmatched special area type,Loại khu vực đặc biệt không khớp
-lang_multi_text.db,MultiText,ErrorCode_2200161_Text,不是潮蚀模拟特殊地块,Not a special area in Tidal Defense Simulator,Không phải khu vực đặc biệt trong Mô Phỏng Phòng Thủ Triều Tích
-lang_multi_text.db,MultiText,ErrorCode_2200162_Text,超过最大部署上限,Deployment cap reached,Đã vượt giới hạn triển khai tối đa
-lang_multi_text.db,MultiText,ErrorCode_2200164_Text,作战装置无法销毁,Combat Machine cannot be destroyed,Thiết Bị Tác Chiến không thể phá hủy
-lang_multi_text.db,MultiText,ErrorCode_2200165_Text,战术抽取结果为空,Tactic drawing result is empty,Kết quả rút chiến thuật trống
-lang_multi_text.db,MultiText,ErrorCode_2200166_Text,战术已经达到最大等级,The Tactic has reached the highest level,Chiến thuật đã đạt cấp tối đa
-lang_multi_text.db,MultiText,ErrorCode_2200167_Text,无法消耗矩阵耐久,Energy Matrix Durability cannot be depleted,Không thể tiêu hao độ bền Ma Trận Năng Lượng
-lang_multi_text.db,MultiText,ErrorCode_2200223_Text,智造立方重启进度次数过于频繁,Smartprint Cube rebooted too frequently,Khối Lập Phương Trí Tạo khởi động lại quá thường xuyên

@@ -1,4 +1,26 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Skill_1004710_SkillDescribe,"陆·赫斯拥有为目标附加<color=Highlight><te href=100003>【集谐·偏移】</te></color>的能力。
+陆·赫斯拥有响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>的能力。
+响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>：目标每有一层<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果，陆·赫斯自身的每点谐度破坏增幅会使自身对该目标造成的最终伤害提升{1}。陆·赫斯在编队中时，目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果的层数上限增加{2}层。
+此外，目标<color=Highlight>【偏谐值】</color>满时，陆·赫斯可对其施放<color=Highlight><te href=100001>【谐度破坏】</te></color>。","Luuk Herssen can inflict <color=Highlight><te href=100003>Tune Strain - Shifting</te></color> on targets.
+Luuk Herssen can respond to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>.
+- Responding to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>: Every <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target increases Luuk Herssen's total DMG against them. Each point of Luuk Herssen's Tune Break Boost increases the total DMG by {1}. While Luuk Herssen is in the team, the max stack limit of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on a target is increased by {2}.
+Additionally, when the target's <color=Highlight>Off-Tune Level</color> is full, Luuk can cast <color=Highlight><te href=100001>Tune Break</te></color> on the target.","Luuk Herssen có khả năng gán <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> lên mục tiêu.
+Luuk Herssen có khả năng hưởng ứng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>.
+Hưởng ứng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>: Mỗi tầng hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu, mỗi điểm gia tăng phá hài độ của Luuk Herssen sẽ tăng sát thương cuối cùng mà bản thân gây ra lên mục tiêu đó thêm {1}. Khi Luuk Herssen có trong đội, giới hạn tầng của hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu tăng thêm {2} tầng.
+Ngoài ra, khi <color=Highlight>[Thiên Hài Trị]</color> của mục tiêu đầy, Luuk Herssen có thể thi triển <color=Highlight><te href=100001>[Hài Độ Phá Hoại]</te></color> lên mục tiêu."
+lang_multi_text.db,MultiText,Skill_1004710_SkillName,一场关于光的默辩,Silent Debate of Light,Một Cuộc Mặc Biện Về Ánh Sáng
+lang_multi_text.db,MultiText,Skill_1004710_SkillResume,"陆·赫斯拥有为目标附加<color=Highlight>【集谐·偏移】</color>的能力。
+陆·赫斯拥有响应<color=Highlight>【集谐·干涉】</color>的能力。","Luuk Herssen can inflict <color=Highlight>Tune Strain - Shifting</color>.
+Luuk Herssen can respond to <color=Highlight>Tune Strain - Interfered</color>.","Luuk Herssen có khả năng gán <color=Highlight>[Tập Hài - Thiên Di]</color> lên mục tiêu.
+Luuk Herssen có khả năng hưởng ứng <color=Highlight>[Tập Hài - Can Thiệp]</color>."
+lang_multi_text.db,MultiText,SkipTask_Prevent,当前界面无法进行跳转，请回到其他界面再尝试,You cannot navigate from the current interface. Please switch to another interface and try again.,"Không thể chuyển hướng từ giao diện hiện tại, vui lòng quay lại giao diện khác rồi thử lại."
+lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen1,击杀所有残象，获得“焚潮”加成,"Defeat all Tacet Discords to gain the ""Burning Waves"" buff.","Hạ gục tất cả Tàn Tượng để nhận tăng cường ""Phần Triều""."
+lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen2,进入焚潮状态，<color=#fee388>暴击率提升至100%</color>,"Entering Burning Waves state, <color=#fee388>Crit. Rate is increased to 100%</color>.","Tiến vào trạng thái Phần Triều, <color=#fee388>tỷ lệ bạo kích tăng lên 100%</color>."
+lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen3,进入焚潮状态，<color=#fee388>共鸣能量回复至100%</color>,"Entering Burning Waves state, <color=#fee388>Resonance Energy is restored to 100%</color>.","Tiến vào trạng thái Phần Triều, <color=#fee388>năng lượng Cộng Hưởng hồi phục lên 100%</color>."
+lang_multi_text.db,MultiText,SlashTowerTagDesc_Text1,气动抗性增加20%,Increase Aero RES by 20%,Kháng Khí Động tăng 20%
+lang_multi_text.db,MultiText,SlashTowerTagDesc_Text2,导电抗性增加20%,Increase Electro RES by 20%,Kháng Dẫn Điện tăng 20%
+lang_multi_text.db,MultiText,SlashTowerTagDesc_Text3,热熔抗性增加20%,Increase Fusion RES by 20%,Kháng Nhiệt Dung tăng 20%
 lang_multi_text.db,MultiText,SlashTowerTagDesc_Text4,冷凝抗性增加20%,Increase Glacio RES by 20%,Kháng Ngưng Băng tăng 20%
 lang_multi_text.db,MultiText,SlashTowerTagDesc_Text5,湮灭抗性增加20%,Increase Havoc RES by 20%,Kháng Yên Diệt tăng 20%
 lang_multi_text.db,MultiText,SlashTowerTagDesc_Text6,衍射抗性增加20%,Increase Spectro RES by 20%,Kháng Nhiễu Xạ tăng 20%
@@ -46,7 +68,7 @@ lang_multi_text.db,MultiText,SortConfig_2_4_SortName,调谐状态顺序,Sort by 
 lang_multi_text.db,MultiText,SortConfig_2_5_SortName,是否可制作,Show Available Item First,Có thể chế tạo
 lang_multi_text.db,MultiText,SortConfig_2_6_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
 lang_multi_text.db,MultiText,SortConfig_2_7_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_2_8_SortName,成品道具品阶,Sort by Rarity,Theo phẩm cấp thành phẩm
+lang_multi_text.db,MultiText,SortConfig_2_8_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
 lang_multi_text.db,MultiText,SortConfig_2_9_SortName,类型顺序,Sort by Type,Theo loại
 lang_multi_text.db,MultiText,SortConfig_30_4_SortName,副属性暴击伤害,Sub: Crit. DMG,Phụ: ST bạo kích
 lang_multi_text.db,MultiText,SortConfig_30_SortName,主属性冷凝伤害加成,Main: Glacio DMG+,Chính: Tăng ST Ngưng Băng
@@ -63,7 +85,7 @@ lang_multi_text.db,MultiText,SortConfig_3_4_SortName,品质顺序,Sort by Rarity
 lang_multi_text.db,MultiText,SortConfig_3_5_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
 lang_multi_text.db,MultiText,SortConfig_3_6_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
 lang_multi_text.db,MultiText,SortConfig_3_7_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
-lang_multi_text.db,MultiText,SortConfig_3_8_SortName,是否可以制作,Show Available Item First,Ưu tiên có thể chế tạo
+lang_multi_text.db,MultiText,SortConfig_3_8_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
 lang_multi_text.db,MultiText,SortConfig_3_9_SortName,道具Id,Sort by Item ID,ID vật phẩm
 lang_multi_text.db,MultiText,SortConfig_3_SortName,基础经验顺序,Sort by Base EXP,Thứ tự EXP cơ bản
 lang_multi_text.db,MultiText,SortConfig_40_4_SortName,基础经验排序,Sort by Base EXP,Sắp xếp theo EXP cơ bản
@@ -71,7 +93,7 @@ lang_multi_text.db,MultiText,SortConfig_41_4_SortName,经验道具优先,Show EX
 lang_multi_text.db,MultiText,SortConfig_42_4_SortName,未装备优先,Show Unequipped First,Ưu tiên chưa trang bị
 lang_multi_text.db,MultiText,SortConfig_43_4_SortName,已装配优先,Show Equipped First,Ưu tiên đã trang bị
 lang_multi_text.db,MultiText,SortConfig_44_4_SortName,已拥有优先,Show Owned First,Ưu tiên đã sở hữu
-lang_multi_text.db,MultiText,SortConfig_45_4_SortName,默认排序,Default,Mặc định
+lang_multi_text.db,MultiText,SortConfig_45_4_SortName,默认排序,Default,Sắp xếp mặc định
 lang_multi_text.db,MultiText,SortConfig_45_SortName,副属性共鸣效率,Sub: Energy Regen,Phụ: Hiệu suất Cộng Hưởng
 lang_multi_text.db,MultiText,SortConfig_46_4_SortName,异相声骸优先,Show Phantom Echoes First,Ưu tiên Thanh Hài dị tướng
 lang_multi_text.db,MultiText,SortConfig_47_4_SortName,副属性共鸣技能伤害加成,Sub: Reson. Skill DMG+,Phụ: Tăng sát thương Kỹ Năng Cộng Hưởng
@@ -89,13 +111,3 @@ lang_multi_text.db,MultiText,SortConfig_51_SortName,副属性衍射伤害加成,
 lang_multi_text.db,MultiText,SortConfig_52_SortName,副属性湮灭伤害加成,Sub: Havoc DMG+,Phụ: Sát thương Giải Ly+
 lang_multi_text.db,MultiText,SortConfig_53_SortName,已弃置优先,Show Discarded First,Ưu tiên đã loại bỏ
 lang_multi_text.db,MultiText,SortConfig_54_SortName,五星优先,5-Star First,Ưu tiên 5 sao
-lang_multi_text.db,MultiText,SortConfig_55_SortName,未升级优先,Unleveled First,Ưu tiên chưa nâng cấp
-lang_multi_text.db,MultiText,SortConfig_5_15_SortName,防御力,DEF,DEF
-lang_multi_text.db,MultiText,SortConfig_5_3_SortName,排序序号,Sort by Item ID,Theo số thứ tự
-lang_multi_text.db,MultiText,SortConfig_5_4_SortName,获得时间顺序,Sort by Time Added,Theo thời gian nhận
-lang_multi_text.db,MultiText,SortConfig_5_SortName,品质顺序,Sort by Rarity,Theo phẩm chất
-lang_multi_text.db,MultiText,SortConfig_62_SortName,共鸣时间顺序,Sort by Acquisition Order,Theo thời gian Cộng Hưởng
-lang_multi_text.db,MultiText,SortConfig_64_SortName,好感度顺序,Sort by Intimacy,Theo Hảo Cảm
-lang_multi_text.db,MultiText,SortConfig_65_SortName,生命上限顺序,Sort by Max HP,Theo HP tối đa
-lang_multi_text.db,MultiText,SortConfig_66_SortName,攻击力顺序,Sort by ATK,Theo ATK
-lang_multi_text.db,MultiText,SortConfig_67_SortName,防御力顺序,Sort by DEF,Theo DEF

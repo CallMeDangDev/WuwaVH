@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_1,主动技能({0})：向对手造成{1}点伤害。,Active Tactic ({0}): Deal {1} point of DMG to your opponent.,Kỹ năng chủ động ({0}): Gây {1} điểm sát thương cho đối thủ.
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_2,被动技能：在我方回合的战斗阶段开始时，我方声骸的伤害+{0}，持续1回合。,Passive Tactic: Increase your Echoes' DMG by {0} at the start of the Battle Stage for one round.,"Kỹ năng bị động: Vào đầu Giai đoạn Chiến đấu trong lượt phe ta, sát thương Thanh Hài phe ta +{0}, duy trì 1 lượt."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_1,主动技能({0})：将一张手牌重构，在下回合抽卡时，必定抽到这张手牌。,Active Tactic ({0}): Reconstruct a card on hand. You're bound to draw this card in the next round.,"Kỹ năng chủ động ({0}): Tái cấu trúc một lá bài trên tay, trong lượt rút bài tiếp theo, chắc chắn rút được lá bài này."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_2,被动技能：在本场决斗的前三回合开始时，额外抽一张牌。,Passive Tactic: Draw one additional card at the start of the first three rounds.,"Kỹ năng bị động: Vào đầu ba lượt đầu tiên của trận đấu, rút thêm một lá bài."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_1,主动技能({0})：于本回合中，我方声骸的力量+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' STR by {1}.","Kỹ năng chủ động ({0}): Trong lượt này, Sức mạnh Thanh Hài phe ta +{1}."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_2,被动技能：每当我方进行一次调谐时，使随机一个我方声骸力量+{0}直到回合结束。,"Passive Tactic: Each time you Modulate, randomly increase the STR of one of your Echoes by {0} until the end of the round.","Kỹ năng bị động: Mỗi khi phe ta thực hiện một lần Điều hợp, ngẫu nhiên tăng Sức mạnh một Thanh Hài phe ta +{0} đến cuối lượt."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_1,主动技能({0})：我方声骸力量与耐久均+{1}，持续1回合。,Active Tactic ({0}): Increase your Echoes' STR and CON by {1} for one round.,"Kỹ năng chủ động ({0}): Sức mạnh và Sức bền Thanh Hài phe ta +{1}, duy trì 1 lượt."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_2,被动技能：每次进行特殊召唤时，我方决斗家获得{0}点生命。,"Passive Tactic: For each Quick-Deploy, you gain {0} points of HP.","Kỹ năng bị động: Mỗi lần thực hiện Triệu hồi đặc biệt, đấu thủ phe ta nhận được {0} điểm sinh mệnh."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1501_1,本回合中，受到的生命值伤害减少1,Take 1 less DMG as duelist in this round.,"Trong lượt này, sát thương sinh mệnh nhận vào giảm 1."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_1,主动技能({0})：于本回合中，我方声骸伤害+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' DMG by {1}.","Kỹ năng chủ động ({0}): Trong lượt này, sát thương Thanh Hài phe ta +{1}."
 lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_2,被动技能：在战斗阶段中，我方能量消耗为{0}的声骸提升{1}暴击。,"Passive Tactic: In the Battle Stage, increase Crit. Rate of your Cost {0} Echoes by {1}.","Kỹ năng bị động: Trong Giai đoạn Chiến đấu, Thanh Hài phe ta có năng lượng tiêu hao {0} được tăng {1} Bạo kích."
 lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_1,主动技能({0})：抽一张牌。,Active Tactic ({0}): Draw a card.,Kỹ năng chủ động ({0}): Rút một lá bài.
 lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_2,被动技能：在我方回合开始时，额外获得{0}点能量。,Passive Tactic: Gain {0} additional point of Energy at the start of each round.,"Kỹ năng bị động: Vào đầu lượt phe ta, nhận thêm {0} điểm năng lượng."
@@ -290,19 +300,3 @@ lang_multi_text.db,MultiText,PhantomBattleMapDes_3014,"“这些都是必要损�
 Duelist Traits: None","""Đây đều là hao tổn cần thiết!""
 
 Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3015,"准时宝会梦到电子流卡组吗？
-
-决斗家特性：无特殊效果","Do Tard-E Units dream of electric decks?
-
-Duelist Traits: None","Liệu Tard-E có mơ về bộ bài điện tử không?
-
-Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt."
-lang_multi_text.db,MultiText,PhantomBattleMapName_2001,阿希尔德,Ashild,Ashild
-lang_multi_text.db,MultiText,PhantomBattleMapName_2002,丹尼斯,Dennis,Dennis
-lang_multi_text.db,MultiText,PhantomBattleMapName_2003,菲斯塔,Festa,Festa
-lang_multi_text.db,MultiText,PhantomBattleMapName_2004,切斯特,Chessa,Chessa
-lang_multi_text.db,MultiText,PhantomBattleMapName_2005,卡利斯,Calith,Calith
-lang_multi_text.db,MultiText,PhantomBattleMapName_2006,安妮塔,Anita,Anita
-lang_multi_text.db,MultiText,PhantomBattleMapName_2007,绫,Aya,Aya
-lang_multi_text.db,MultiText,PhantomBattleMapName_2008,N.A.N.A.,N.A.N.A.,N.A.N.A.
-lang_multi_text.db,MultiText,PhantomBattleMapName_2009,I.R.I.S.,I.R.I.S.,I.R.I.S.

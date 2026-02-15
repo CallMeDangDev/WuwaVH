@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Text_Exchange_Text,置换,Conversion,Chuyển đổi
+lang_multi_text.db,MultiText,Text_Execution_Error_Die_Text,该角色已死亡，无法进行处决,Cannot perform order. Character already fallen.,"Nhân vật đã tử trận, không thể thực hiện xử quyết"
+lang_multi_text.db,MultiText,Text_Execution_Text,处决,Execution,Xử quyết
+lang_multi_text.db,MultiText,Text_ExitInstance_Text,退出副本,Exit,Thoát phụ bản
+lang_multi_text.db,MultiText,Text_ExitOnlineTeam_Text,{0}已离开队伍,{0} has left the team,{0} đã rời đội
+lang_multi_text.db,MultiText,Text_ExitWorld_Text,退出队伍,Exit,Rời đội
+lang_multi_text.db,MultiText,Text_ExpShow_Text,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,Text_ExpText_Text,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,Text_ExplorationDegree_Text,{0}%,{0}%,{0}%
+lang_multi_text.db,MultiText,Text_ExploreFail_Text,探索失败,Exploration failed,Khám phá thất bại
 lang_multi_text.db,MultiText,Text_ExploreFinish_Text,探索完成,Exploration completed,Khám phá hoàn tất
 lang_multi_text.db,MultiText,Text_ExploreLowTips_Text,探索度未达到目标，请再接再厉,Insufficient Exploration progress. Go and explore a bit more!,"Tiến độ khám phá chưa đạt mục tiêu, hãy cố gắng thêm nhé!"
 lang_multi_text.db,MultiText,Text_ExploreProgress_Text,探索度达到{0},Exploration progress reach {0},Tiến độ khám phá đạt {0}
@@ -14,26 +24,26 @@ lang_multi_text.db,MultiText,Text_ExploreToolsSwitchMobile_Text,松开手指以�
 lang_multi_text.db,MultiText,Text_ExploreToolsSwitchPCBlank_Text,松开{0}取消切换,Release {0} to cancel,Thả {0} để hủy chuyển đổi
 lang_multi_text.db,MultiText,Text_ExploreToolsSwitchPC_Text,松开以切换,Release to switch,Thả để chuyển đổi
 lang_multi_text.db,MultiText,Text_ExploreToolsSwitchPC_Text02,松开以使用,Release to use,Thả để sử dụng
-lang_multi_text.db,MultiText,Text_ExploreToolsTitle_Text,探索工具轮盘,Utility Wheel,Mở vòng xoay công cụ khám phá
+lang_multi_text.db,MultiText,Text_ExploreToolsTitle_Text,探索工具轮盘,Utility Wheel,Vòng xoay công cụ khám phá
 lang_multi_text.db,MultiText,Text_ExploreToolsUnChooseTitle_Text,未选择格子,No grid selected,Chưa chọn ô
 lang_multi_text.db,MultiText,Text_ExploreToolsUnChoose_Text,请选择左侧轮盘格子进行装配,Please select a grid from the left wheel for assembly,Vui lòng chọn ô trên vòng xoay bên trái để trang bị
 lang_multi_text.db,MultiText,Text_Explore_Text,探索类,Exploration,Khám phá
 lang_multi_text.db,MultiText,Text_FastTravelConfirmToggle_text,本次登录不再提示,Do not show again,Không hiển thị lại trong lần đăng nhập này
-lang_multi_text.db,MultiText,Text_FavorAction_Text,动作,Character Animations,Hành động
+lang_multi_text.db,MultiText,Text_FavorAction_Text,动作,Character Animations,Tư thế
 lang_multi_text.db,MultiText,Text_FavorActiveSucced_Text,激活成功,Activated,Kích hoạt thành công
 lang_multi_text.db,MultiText,Text_FavorBaseInfo_Text,基础信息,Basic Information,Thông tin cơ bản
 lang_multi_text.db,MultiText,Text_FavorExp_Text,好感度,Intimacy,Hảo cảm
-lang_multi_text.db,MultiText,Text_FavorExperience_Text,经历,Backstory,Quá khứ
+lang_multi_text.db,MultiText,Text_FavorExperience_Text,经历,Backstory,Trải nghiệm
 lang_multi_text.db,MultiText,Text_FavorFightAction_Text,战斗动作,Combat Animation,Hành động chiến đấu
 lang_multi_text.db,MultiText,Text_FavorFightVoice_Text,战斗语音,Battle Voicelines,Thoại chiến đấu
-lang_multi_text.db,MultiText,Text_FavorFilePower_Text,存在异常，如有疑问请联系官方客服,Archive-Echo,"Tồn tại bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,Text_FavorFilePower_Text,存在异常，如有疑问请联系官方客服,Archive-Echo,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Text_FavorFileRoleName_Text,档案-{0},Archive-{0},Hồ sơ-{0}
 lang_multi_text.db,MultiText,Text_FavorIdleAction_Text,休闲动作,Idle Animation,Hành động nghỉ ngơi
 lang_multi_text.db,MultiText,Text_FavorLevel_Text,好感等级{0},Intimacy: {0},Cấp hảo cảm {0}
 lang_multi_text.db,MultiText,Text_FavorLockTips_Text,该条目尚未解锁,This entry has not been unlocked,Mục này chưa được mở khóa
 lang_multi_text.db,MultiText,Text_FavorNatureVoice_Text,个性语音,Personal Voicelines,Thoại cá nhân
 lang_multi_text.db,MultiText,Text_FavorPowerFile_Text,共鸣能力鉴定报告,Forte Examination Report,Báo cáo giám định năng lực Cộng Hưởng
-lang_multi_text.db,MultiText,Text_FavorPreciousItem_Text,珍贵之物,Cherished Items,Vật quý giá
+lang_multi_text.db,MultiText,Text_FavorPreciousItem_Text,珍贵之物,Cherished Items,Vật phẩm quý giá
 lang_multi_text.db,MultiText,Text_FavorRoleInfo_Text,共鸣者档案,Archives,Hồ sơ Cộng Hưởng Giả
 lang_multi_text.db,MultiText,Text_FavorRoleStory_Text,共鸣者故事,Character Stories,Câu Chuyện Cộng Hưởng Giả
 lang_multi_text.db,MultiText,Text_FavorUnlcokNewFightAction_Text,解锁新增战斗动作,Unlock new Combat Animation,Mở khóa Động tác Chiến đấu mới
@@ -42,13 +52,13 @@ lang_multi_text.db,MultiText,Text_FavorUnlockNewIdleAction_Text,解锁新增待�
 lang_multi_text.db,MultiText,Text_FavorUnlockPreciousItemCondition_Text,解锁珍贵之物条件,Entry Locked,Điều kiện mở khóa vật phẩm quý
 lang_multi_text.db,MultiText,Text_FavorUnlockVoiceCondition_Text,解锁语音条件,Entry Locked,Điều kiện mở khóa giọng nói
 lang_multi_text.db,MultiText,Text_FavorUnlockkStoryCondition_Text,解锁故事条件,Entry Locked,Điều kiện mở khóa câu chuyện
-lang_multi_text.db,MultiText,Text_FavorVoice_Text,语音,Character Voicelines,Giọng Nói
+lang_multi_text.db,MultiText,Text_FavorVoice_Text,语音,Character Voicelines,Giọng nói
 lang_multi_text.db,MultiText,Text_FavorVolume_Text,当前音量为0,Current volume is 0,Âm lượng hiện tại là 0
 lang_multi_text.db,MultiText,Text_FbMatching_Text,匹配副本,Match Dungeon,Ghép Phụ Bản
-lang_multi_text.db,MultiText,Text_FetterEffectDefineDescription_Text,存在异常，如有疑问请联系官方客服,Resonance Background Description,"Có bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,Text_FetterEffectDefineDescription_Text,存在异常，如有疑问请联系官方客服,Resonance Background Description,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
 lang_multi_text.db,MultiText,Text_FetterEffectDescription_Text,合鸣效果,Sonata Effect,Hiệu Ứng Hợp Minh
 lang_multi_text.db,MultiText,Text_Fetter_Text,合鸣,Sonata,Hợp Minh
-lang_multi_text.db,MultiText,Text_FightSkill_Text,战斗技巧,Combat Skills,Kỹ Năng Chiến Đấu
+lang_multi_text.db,MultiText,Text_FightSkill_Text,战斗技巧,Combat Skills,Kỹ năng chiến đấu
 lang_multi_text.db,MultiText,Text_FightStateCanNotUse_Text,战斗中无法使用该物品,Cannot use this item in combat,Không thể sử dụng vật phẩm này trong chiến đấu
 lang_multi_text.db,MultiText,Text_FilterComponentText_Text,筛选,Filter,Lọc
 lang_multi_text.db,MultiText,Text_FilterResetAll_Text,全部重置,Reset All,Đặt lại tất cả
@@ -62,7 +72,7 @@ lang_multi_text.db,MultiText,Text_FilterTextAll_Text,全部,All,Tất cả
 lang_multi_text.db,MultiText,Text_FilterText_Text,筛选,Filter,Lọc
 lang_multi_text.db,MultiText,Text_FindAllConditionsFalse_Text,未完成拍摄目标,Target Photo Not Captured,Chưa hoàn thành mục tiêu chụp ảnh
 lang_multi_text.db,MultiText,Text_FindAllConditionsTrue_Text,已完成拍摄目标,Target photo captured,Đã hoàn thành mục tiêu chụp ảnh
-lang_multi_text.db,MultiText,Text_FirstBonus1_Text,双倍,Bonus,Nhân đôi
+lang_multi_text.db,MultiText,Text_FirstBonus1_Text,双倍,Bonus,Gấp đôi
 lang_multi_text.db,MultiText,Text_FirstBonus2_Text,双倍:{0},Bonus: {0},Nhân đôi: {0}
 lang_multi_text.db,MultiText,Text_FirstReward_Text,首通获得,First-Clear Rewards,Phần thưởng lần đầu
 lang_multi_text.db,MultiText,Text_Five_Text,五,V,V
@@ -76,7 +86,7 @@ lang_multi_text.db,MultiText,Text_ForbiddenActionInSwimming_Text,提示：游泳
 lang_multi_text.db,MultiText,Text_ForbiddenActionMidair_Text,提示：空中无法进行该操作,This action cannot be performed in mid-air,Gợi ý: Không thể thực hiện thao tác này khi đang trên không
 lang_multi_text.db,MultiText,Text_ForeverValid_Text,永久有效,Permanent,Vĩnh viễn
 lang_multi_text.db,MultiText,Text_ForgingRole_Text,选择印造协助角色,Select the character to assist in the Crafting,Chọn nhân vật hỗ trợ Ấn Tạo
-lang_multi_text.db,MultiText,Text_ForgingSuccess_Text,印造完成,Crafting Completed,Ấn Tạo hoàn thành
+lang_multi_text.db,MultiText,Text_ForgingSuccess_Text,印造完成,Crafting Completed,Chế tạo hoàn tất
 lang_multi_text.db,MultiText,Text_ForgingWeaponLevel_Text,等级：{0}/{1},Level: {0}/{1},Cấp: {0}/{1}
 lang_multi_text.db,MultiText,Text_Forging_Text,印造制作,Crafting,Ấn Tạo
 lang_multi_text.db,MultiText,Text_Formula_Text,配方,Recipe,Công thức
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,Text_FriendAllIgnore_Text,全部忽略,Ignore All,B
 lang_multi_text.db,MultiText,Text_FriendApplicationCount_Text,好友申请：{0}/{1},Friend Requests: {0}/{1},Lời mời kết bạn: {0}/{1}
 lang_multi_text.db,MultiText,Text_FriendApplicationList_Text,好友申请,Friend Request,Lời mời kết bạn
 lang_multi_text.db,MultiText,Text_FriendApplyJoin_Text,申请联机,Join Co-op,Xin tham gia liên cơ
-lang_multi_text.db,MultiText,Text_FriendBlackListCount_Text,黑名单：{0}/{1},Blocked: {0}/{1},Danh sách chặn: {0}/{1}
-lang_multi_text.db,MultiText,Text_FriendBlackList_Text,黑名单,Blocklist,Danh sách chặn
-lang_multi_text.db,MultiText,Text_FriendClear_Text,清除,Clear,Xóa
-lang_multi_text.db,MultiText,Text_FriendCount_Text,好友：{0}/{1},Friends: {0}/{1},Bạn bè: {0}/{1}
-lang_multi_text.db,MultiText,Text_FriendFriend_Text,好友,Friends,Bạn bè
-lang_multi_text.db,MultiText,Text_FriendMultiplayerCount_Text,最近联机：{0}/{1},Recent Co-ops: {0}/{1},Liên cơ gần đây: {0}/{1}
-lang_multi_text.db,MultiText,Text_FriendMyUid_Text,特征码: {0},User ID: {0},VH by MacThanh
-lang_multi_text.db,MultiText,Text_FriendNotAvailableFriendApplication_Text,暂无好友申请,No Friend Request,Chưa có lời mời kết bạn
-lang_multi_text.db,MultiText,Text_FriendNotAvailableFriend_Text,暂无好友,No Friend,Chưa có bạn bè
-lang_multi_text.db,MultiText,Text_FriendNotAvailableRecentTeammate_Text,暂无近期队友信息,No Recent Co-ops,Chưa có đồng đội gần đây

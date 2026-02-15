@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,SurvivorsNowProgress,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,SurvivorsPickupRange_Name,拾取范围加成,Pickup Range,Bonus phạm vi nhặt
+lang_multi_text.db,MultiText,SurvivorsProgress,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,SurvivorsPropAttribute_PropNum,已获得道具：{0},Items Acquired: {0},Đạo cụ đã nhận: {0}
+lang_multi_text.db,MultiText,SurvivorsPropCatalogue_Title,道具图鉴,Items,Đồ giám đạo cụ
+lang_multi_text.db,MultiText,SurvivorsReward,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,SurvivorsRoleCatalogue_Title,共鸣者图鉴,Resonators,Đồ giám Cộng Hưởng Giả
+lang_multi_text.db,MultiText,SurvivorsRoleConfirmationDialog_PrompText,不再提示,Do not show again,Không nhắc lại
+lang_multi_text.db,MultiText,SurvivorsRoleEvolution_Title,共鸣者技能进化,Resonator Skill Evolved,Tiến hóa kỹ năng Cộng Hưởng Giả
+lang_multi_text.db,MultiText,SurvivorsRoleLv_20001_Describe,所有武装暴击伤害+14.5%,All Weapons +14.5% Crit. DMG,Tất cả vũ trang +14.5% ST bạo kích
 lang_multi_text.db,MultiText,SurvivorsRoleLv_20002_Describe,所有武装暴击伤害+18%,All Weapons +18% Crit. DMG,Tất cả vũ khí sát thương bạo kích +18%
 lang_multi_text.db,MultiText,SurvivorsRoleLv_20003_Describe,所有武装暴击伤害+24%,All Weapons +24% Crit. DMG,Tất cả vũ khí sát thương bạo kích +24%
 lang_multi_text.db,MultiText,SurvivorsRoleLv_20004_Describe,所有武装攻击+11%,All Weapons +11% ATK,Tất cả vũ khí tấn công +11%
@@ -41,13 +51,13 @@ lang_multi_text.db,MultiText,SurvivorsShop_NextLevelButton,购买,Purchase,Mua
 lang_multi_text.db,MultiText,SurvivorsShop_PurchaseButton,<color=#c49e55><te href=800030>可助力进化</te></color>,<color=#c49e55><te href=800030>Synergistic Evo</te></color>,<color=#c49e55><te href=800030>Hỗ trợ Tiến Hóa</te></color>
 lang_multi_text.db,MultiText,SurvivorsShop_RefreshButton,前往下一波次,Next Wave,Đến đợt tiếp theo
 lang_multi_text.db,MultiText,SurvivorsSkillTree,{0}/{1},{0}/{1},{0}/{1}
-lang_multi_text.db,MultiText,SurvivorsStore_InsufficientCurrencyTips,强化模块不足,Insufficient Enhancement Modules,Không đủ Module Cường Hóa
+lang_multi_text.db,MultiText,SurvivorsStore_InsufficientCurrencyTips,强化模块不足,Insufficient Enhancement Modules,Không đủ Mô-đun Cường Hóa
 lang_multi_text.db,MultiText,SurvivorsTalentEffect_10_Desc,生命再生+12%,HP Regen +12%.,Hồi phục sinh mệnh +12%
 lang_multi_text.db,MultiText,SurvivorsTalentEffect_11_Desc,攻击速度+8%,Attack Speed +8%.,Tốc độ tấn công +8%
 lang_multi_text.db,MultiText,SurvivorsTalentEffect_12_Desc,拾取范围+30%,Pickup Range +30%.,Phạm vi nhặt +30%
 lang_multi_text.db,MultiText,SurvivorsTalentEffect_13_Desc,拾取时有5%的几率额外获取1点强化模块,5% chance to gain 1 extra Enhancement Module on pickup.,"Khi nhặt vật phẩm, có 5% xác suất nhận thêm 1 Module Cường Hóa"
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_14_Desc,解锁道具,Unlock Items,Mở khóa đạo cụ
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_15_Desc,解锁道具,Unlock Items,Mở khóa đạo cụ
+lang_multi_text.db,MultiText,SurvivorsTalentEffect_14_Desc,解锁道具,Unlock Items,Mở khóa vật phẩm
+lang_multi_text.db,MultiText,SurvivorsTalentEffect_15_Desc,解锁道具,Unlock Items,Mở khóa vật phẩm
 lang_multi_text.db,MultiText,SurvivorsTalentEffect_16_Desc,商店免费刷新次数+1,Free Shop Refresh +1.,Số lần làm mới miễn phí cửa hàng +1
 lang_multi_text.db,MultiText,SurvivorsTalentEffect_17_Desc,移动速度+8%,Movement Speed +8%.,Tốc độ di chuyển +8%
 lang_multi_text.db,MultiText,SurvivorsTalentEffect_18_Desc,暴击+6%,Crit. Rate +6%.,Bạo kích +6%.
@@ -95,13 +105,3 @@ lang_multi_text.db,MultiText,SurvivorsTalentItem_10006_Name,“莫塔里融资�
 lang_multi_text.db,MultiText,SurvivorsTalentItem_10007_Description,5个波次内，获取的强化模块降低50%。5个波次后，获取的强化模块提升50%。,"Enhancement Module gain is reduced by 50% for the next 5 waves, and will be increased by 50% after the next 5 waves.","Trong 5 đợt tiếp theo, Mô-đun Cường Hóa nhận được giảm 50%. Sau 5 đợt, Mô-đun Cường Hóa nhận được tăng 50%."
 lang_multi_text.db,MultiText,SurvivorsTalentItem_10007_Name,“期权交易”,Options Trading,"""Giao Dịch Quyền Chọn"""
 lang_multi_text.db,MultiText,SurvivorsTalentItem_10008_Description,拾取强化模块时，对附近的怪物造成角色攻击20%的物理伤害，每0.2秒可触发一次。,"When picking up Enhancement Modules, deal Physical DMG equal to 20% of the Resonator's ATK to nearby enemies, triggered once every 0.2s.","Khi nhặt Mô-đun Cường Hóa, gây ST Vật Lý bằng 20% ATK nhân vật lên quái vật xung quanh, kích hoạt tối đa mỗi 0.2 giây."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10008_Name,“财富震摄”,Wealth Shock,"""Uy Chấn Tài Phú"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10009_Description,击杀怪物时，有1.5%的概率生成一个强化拾取物。,"When defeating an enemy, there is a 1.5% chance to spawn a Buff Token.","Khi hạ gục quái vật, có 1.5% xác suất tạo ra một vật phẩm cường hóa."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10009_Name,“回收利用”,Recycling,"""Tái Chế Tận Dụng"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10010_Description,拾取强化模块时，造成的伤害永久提升0.02%。,"When picking up an Enhancement Module, DMG dealt is permanently increased by 0.02%.","Khi nhặt Mô-đun Cường Hóa, ST gây ra tăng vĩnh viễn 0.02%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10010_Name,“量化交易”,Quantitative Trading,"""Giao Dịch Lượng Hóa"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10011_Description,拾取强化模块时，有5%的几率使生命值上限永久提升1%。,"When picking up an Enhancement Module, there is a 5% chance to permanently increase Max HP by 1%.","Khi nhặt Mô-đun Cường Hóa, có 5% xác suất tăng vĩnh viễn HP tối đa thêm 1%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10011_Name,“医疗保险”,Health Insurance,"""Bảo Hiểm Y Tế"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10012_Description,拾取强化模块时，有5%的几率额外获取1点强化模块。,"When picking up an Enhancement Module, there is a 5% chance to gain 1 extra Enhancement Module.","Khi nhặt Mô-đun Cường Hóa, có 5% xác suất nhận thêm 1 Mô-đun Cường Hóa."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10012_Name,“意外之财”,Windfall,"""Của Trời Cho"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10013_Description,商店免费刷新次数+2，每波次重置。,"Gain 2 extra free Shop refreshes, which are reset every wave.","Số lần làm mới miễn phí cửa hàng +2, đặt lại mỗi đợt."

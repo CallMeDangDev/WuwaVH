@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Raid_19_Chanllenge_2,节点目标二：击败浮灵偶的相隔时间不超过15秒,Goal 2: Defeat 2 Chop Chops in a row within 15s.,Mục tiêu 2: Đánh Bại 2 Chop Chop liên tiếp trong vòng 15 giây
+lang_multi_text.db,MultiText,Raid_19_Chanllenge_3,节点目标三：完成6次闪避反击,Goal 3: Perform 6 Dodge Counters,Mục tiêu 3: Thực hiện 6 lần Né Tránh Phản Kích
+lang_multi_text.db,MultiText,Raid_1_Chanllenge_1,测试目标一：成功闪避敌人攻击1次,Goal 1: Dodge 1 attack,Mục tiêu thử nghiệm 1: Né tránh thành công 1 đòn tấn công của địch
+lang_multi_text.db,MultiText,Raid_1_Chanllenge_2,测试目标二：打翻寒霜陆龟6次,Goal 2: Knock over Hoartoise 6 times,Mục tiêu thử nghiệm 2: Lật Đổ Hàn Sương Lục Quy 6 lần
+lang_multi_text.db,MultiText,Raid_1_Chanllenge_3,测试目标三：完成测试时剩余时间大于30秒,Goal 3: Finish the trial with at least 30s left,Mục tiêu thử nghiệm 3: Hoàn thành thử nghiệm với thời gian còn lại hơn 30 giây
+lang_multi_text.db,MultiText,Raid_20_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
+lang_multi_text.db,MultiText,Raid_20_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_20_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
+lang_multi_text.db,MultiText,Raid_21_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu 1: Duy trì cấp chiến đấu S trở lên liên tục 6 giây
+lang_multi_text.db,MultiText,Raid_21_Chanllenge_2,节点目标二：击败毒冠贵族相隔时间少于10秒,Goal 2: Defeat 2 Abyssal Patricius in a row within 10s,Mục tiêu nút 2: Đánh Bại các Độc Quán Quý Tộc cách nhau dưới 10 giây
 lang_multi_text.db,MultiText,Raid_21_Chanllenge_3,节点目标三：被冰冻的次数少于2次,Goal 3: Be Frozen less than 2 times,Mục tiêu nút 3: Số lần bị đóng băng ít hơn 2 lần
 lang_multi_text.db,MultiText,Raid_22_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s,Mục tiêu nút 1: Thời gian đạt hạng chiến đấu S nhiều hơn 10 giây
 lang_multi_text.db,MultiText,Raid_22_Chanllenge_2,节点目标二：完成6次闪避反击,Goal 2: Perform 6 Dodge Counters,Mục tiêu nút 2: Thực hiện 6 lần Né Tránh Phản Kích
@@ -6,96 +16,86 @@ lang_multi_text.db,MultiText,Raid_22_Chanllenge_3,节点目标三：最后击败
 lang_multi_text.db,MultiText,Raid_23_Chanllenge_1,节点目标一：挑战中战斗等级达到S,Goal 1: Reach Battle Rank S,Mục tiêu nút 1: Đạt hạng chiến đấu S trong thử thách
 lang_multi_text.db,MultiText,Raid_23_Chanllenge_2,节点目标二：完成4次成功闪避,Goal 2: Perform 4 Dodges,Mục tiêu nút 2: Thực hiện 4 lần Né Tránh thành công
 lang_multi_text.db,MultiText,Raid_23_Chanllenge_3,节点目标三：被浮灵偶抓取的次数少于5次,Node Objective 3: Be caught by Chop Chop less than 5 times,Mục tiêu nút 3: Số lần bị Phù Linh Ngẫu bắt ít hơn 5 lần
-lang_multi_text.db,MultiText,Raid_24_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu nút 1: Mộng Cảnh Khu Nữu không bị phá hủy
-lang_multi_text.db,MultiText,Raid_24_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu nút 2: Độ nguyên vẹn Mộng Cảnh Khu Nữu lớn hơn 30%
-lang_multi_text.db,MultiText,Raid_24_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu nút 3: Độ nguyên vẹn Mộng Cảnh Khu Nữu lớn hơn 60%
+lang_multi_text.db,MultiText,Raid_24_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
+lang_multi_text.db,MultiText,Raid_24_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_24_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
 lang_multi_text.db,MultiText,Raid_25_Chanllenge_1,节点目标一：战斗等级达到S的时间多于8秒,Goal 1: Reach Battle Rank S for more than 8s,Mục tiêu nút 1: Thời gian đạt hạng chiến đấu S nhiều hơn 8 giây
 lang_multi_text.db,MultiText,Raid_25_Chanllenge_2,节点目标二：用逆势回击击碎全部琉璃刀伶的武器,Goal 2: Use Counterattacks to break all of the Vitreum Dancers' weapons,Mục tiêu nút 2: Dùng Nghịch Thế Hồi Kích Phá Hủy toàn bộ vũ khí của Lưu Ly Đao Linh
 lang_multi_text.db,MultiText,Raid_25_Chanllenge_3,节点目标三：用共鸣解放伤害击败1个敌人,Goal 3: Use Resonance Liberation DMG to defeat 1 enemy,Mục tiêu nút 3: Dùng sát thương Giải Phóng Cộng Hưởng Đánh Bại 1 kẻ địch
-lang_multi_text.db,MultiText,Raid_26_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu nút 1: Đạt hạng chiến đấu S khi thử thách kết thúc
+lang_multi_text.db,MultiText,Raid_26_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu 1: Đạt hạng chiến đấu S khi thử thách kết thúc
 lang_multi_text.db,MultiText,Raid_26_Chanllenge_2,节点目标二：强行解除巨布偶和工头布偶的合体,Goal 2: Forcibly end the synergy between Cuddle Wuddle and Diggy Duggy,Mục tiêu nút 2: Cưỡng chế giải trừ hợp thể của Cự Bố Ngẫu và Công Đầu Bố Ngẫu
 lang_multi_text.db,MultiText,Raid_26_Chanllenge_3,节点目标三：被布偶的铲子冲撞命中少于3次,Goal 3: Take less than 3 shovel hits from Diggy Duggy,Mục tiêu nút 3: Bị xẻng của Bố Ngẫu đâm trúng ít hơn 3 lần
-lang_multi_text.db,MultiText,Raid_27_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu nút 1: Mộng Cảnh Khu Nữu không bị phá hủy
-lang_multi_text.db,MultiText,Raid_27_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu nút 2: Độ nguyên vẹn Mộng Cảnh Khu Nữu lớn hơn 30%
-lang_multi_text.db,MultiText,Raid_27_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu nút 3: Độ nguyên vẹn Mộng Cảnh Khu Nữu lớn hơn 60%
-lang_multi_text.db,MultiText,Raid_28_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu nút 1: Duy trì hạng chiến đấu S trở lên liên tục 6 giây
+lang_multi_text.db,MultiText,Raid_27_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
+lang_multi_text.db,MultiText,Raid_27_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_27_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
+lang_multi_text.db,MultiText,Raid_28_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu 1: Duy trì cấp chiến đấu S trở lên liên tục 6 giây
 lang_multi_text.db,MultiText,Raid_28_Chanllenge_2,节点目标二：使用4次变奏技能,Goal 2: Use Intro Skill 4 times,Mục tiêu nút 2: Sử dụng 4 lần Biến Tấu Kỹ
-lang_multi_text.db,MultiText,Raid_28_Chanllenge_3,节点目标三：被攻击少于10次,Goal 3: Take less than 10 hits,Mục tiêu nút 3: Bị tấn công ít hơn 10 lần
+lang_multi_text.db,MultiText,Raid_28_Chanllenge_3,节点目标三：被攻击少于10次,Goal 3: Take less than 10 hits,Mục tiêu 3: Bị tấn công ít hơn 10 lần
 lang_multi_text.db,MultiText,Raid_29_Chanllenge_1,节点目标一：挑战中战斗等级到达SS,Goal 1: Reach Battle Rank SS,Mục tiêu nút 1: Đạt hạng chiến đấu SS trong thử thách
 lang_multi_text.db,MultiText,Raid_29_Chanllenge_2,节点目标二：用逆势回击直接击败欺诈奇藏2次,Goal 2: Use Counterattacks to defeat 2 Chest Mimics,Mục tiêu nút 2: Dùng Phản Kích trực tiếp đánh bại Rương Giả Dạng 2 lần
 lang_multi_text.db,MultiText,Raid_29_Chanllenge_3,节点目标三：挑战中没有角色死亡,Goal 3: No Resonators are downed during the challenge,Mục tiêu nút 3: Không có nhân vật tử vong trong thử thách
 lang_multi_text.db,MultiText,Raid_2_Chanllenge_1,测试目标一：闪避反击2次,Goal 1: Perform 2 Dodge Counters,Mục tiêu thử nghiệm 1: Né tránh phản kích 2 lần
 lang_multi_text.db,MultiText,Raid_2_Chanllenge_2,测试目标二：使用1次变奏技能,Goal 2: Use Intro Skill 1 time,Mục tiêu thử nghiệm 2: Sử dụng 1 lần Biến Tấu Kỹ
-lang_multi_text.db,MultiText,Raid_2_Chanllenge_3,测试目标三：完成测试时剩余时间大于30秒,Goal 3: Finish the trial with at least 30s left,Mục tiêu thử nghiệm 3: Hoàn thành thử nghiệm với thời gian còn lại lớn hơn 30 giây
-lang_multi_text.db,MultiText,Raid_30_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu nút 1: Đạt hạng chiến đấu S khi kết thúc thử thách
+lang_multi_text.db,MultiText,Raid_2_Chanllenge_3,测试目标三：完成测试时剩余时间大于30秒,Goal 3: Finish the trial with at least 30s left,Mục tiêu thử nghiệm 3: Hoàn thành thử nghiệm với thời gian còn lại hơn 30 giây
+lang_multi_text.db,MultiText,Raid_30_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu 1: Đạt hạng chiến đấu S khi thử thách kết thúc
 lang_multi_text.db,MultiText,Raid_30_Chanllenge_2,节点目标二：使碎獠猪撞击障碍物而眩晕2次,Goal 2: Stun Sabyr Boars by making them run into obstacles 2 times,Mục tiêu nút 2: Khiến Toái Liêu Trư lao vào chướng ngại vật và choáng 2 lần
 lang_multi_text.db,MultiText,Raid_30_Chanllenge_3,节点目标三：完成6次成功闪避,Goal 3: Perform 6 Dodges,Mục tiêu nút 3: Hoàn thành 6 lần né tránh thành công
-lang_multi_text.db,MultiText,Raid_31_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu nút 1: Mộng Cảnh Khu Nữu không bị phá hủy
-lang_multi_text.db,MultiText,Raid_31_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu nút 2: Độ nguyên vẹn Mộng Cảnh Khu Nữu lớn hơn 30%
-lang_multi_text.db,MultiText,Raid_31_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu nút 3: Độ nguyên vẹn Mộng Cảnh Khu Nữu lớn hơn 60%
+lang_multi_text.db,MultiText,Raid_31_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
+lang_multi_text.db,MultiText,Raid_31_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_31_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
 lang_multi_text.db,MultiText,Raid_32_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s,Mục tiêu nút 1: Thời gian đạt hạng chiến đấu S nhiều hơn 10 giây
 lang_multi_text.db,MultiText,Raid_32_Chanllenge_2,节点目标二：用共鸣解放伤害击败3个敌人,Goal 2: Use Resonance Liberation DMG to defeat 3 enemies,Mục tiêu nút 2: Dùng sát thương Giải Phóng Cộng Hưởng đánh bại 3 kẻ địch
 lang_multi_text.db,MultiText,Raid_32_Chanllenge_3,节点目标三：释放4次变奏技能,Goal 3: Cast Intro Skills 4 times,Mục tiêu nút 3: Thi triển 4 lần Biến Tấu Kỹ
 lang_multi_text.db,MultiText,Raid_33_Chanllenge_1,节点目标一：挑战中战斗等级达到SS,Goal 1: Reach Battle Rank SS,Mục tiêu nút 1: Đạt hạng chiến đấu SS trong thử thách
 lang_multi_text.db,MultiText,Raid_33_Chanllenge_2,节点目标二：打断幽翎火的火球蓄力3次,Goal 2: Interrupt the Fae Ignis' fireball charge 3 times,Mục tiêu nút 2: Gián đoạn tích lũy hỏa cầu của U Linh Hỏa 3 lần
 lang_multi_text.db,MultiText,Raid_33_Chanllenge_3,节点目标三：完成4次成功闪避,Goal 3: Perform 4 Dodges,Mục tiêu nút 3: Hoàn thành 4 lần né tránh thành công
-lang_multi_text.db,MultiText,Raid_34_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục 6 giây
+lang_multi_text.db,MultiText,Raid_34_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu 1: Duy trì cấp chiến đấu S trở lên liên tục 6 giây
 lang_multi_text.db,MultiText,Raid_34_Chanllenge_2,节点目标二：被魔术先生的光束命中少于8次,Goal 2: Take less than 8 laser hits from Hocus Pocus,Mục tiêu 2: Bị trúng tia sáng của Hocus Pocus ít hơn 8 lần
 lang_multi_text.db,MultiText,Raid_34_Chanllenge_3,节点目标三：最后击败巨布偶,Goal 3: Defeat Cuddle Wuddle last,Mục tiêu 3: Đánh Bại Cuddle Wuddle cuối cùng
 lang_multi_text.db,MultiText,Raid_35_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
-lang_multi_text.db,MultiText,Raid_35_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Độ nguyên vẹn Đầu Mối Mộng Cảnh lớn hơn 30%
-lang_multi_text.db,MultiText,Raid_35_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Độ nguyên vẹn Đầu Mối Mộng Cảnh lớn hơn 60%
-lang_multi_text.db,MultiText,Raid_36_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s,Mục tiêu 1: Thời gian đạt hạng chiến đấu S nhiều hơn 10 giây
-lang_multi_text.db,MultiText,Raid_36_Chanllenge_2,节点目标二：完成8次成功闪避,Goal 2: Perform 8 Dodges,Mục tiêu 2: Thực hiện 8 lần Né Tránh thành công
-lang_multi_text.db,MultiText,Raid_36_Chanllenge_3,节点目标三：用变奏技能伤害瘫痪敌人1次,Goal 3: Use Intro Skill DMG to immobilize an enemy 1 time,Mục tiêu 3: Dùng sát thương Biến Tấu Kỹ làm tê liệt địch 1 lần
-lang_multi_text.db,MultiText,Raid_37_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục 8 giây
-lang_multi_text.db,MultiText,Raid_37_Chanllenge_2,节点目标二：完成3次逆势回击,Goal 2: Perform 3 Counterattacks,Mục tiêu 2: Thực hiện 3 lần Phản Kích nghịch thế
-lang_multi_text.db,MultiText,Raid_37_Chanllenge_3,节点目标三：完成6次闪避反击,Goal 3: Perform 6 Dodge Counters,Mục tiêu 3: Thực hiện 6 lần Phản Kích né tránh
-lang_multi_text.db,MultiText,Raid_38_Chanllenge_1,节点目标一：挑战中战斗等级达到SS,Goal 1: Reach Battle Rank SS,Mục tiêu 1: Đạt hạng chiến đấu SS trong thử thách
-lang_multi_text.db,MultiText,Raid_38_Chanllenge_2,节点目标二：被巨布偶扔出的工头布偶砸中少于3次,Goal 2: Take less than 3 hits from flying Diggy Duggies flung by Cuddle Wuddle,Mục tiêu 2: Bị trúng búp bê Diggy Duggy do Cuddle Wuddle ném ít hơn 3 lần
-lang_multi_text.db,MultiText,Raid_38_Chanllenge_3,节点目标三：用共鸣解放伤害击败2个敌人,Goal 3: Use Resonance Liberation DMG to defeat 2 enemies,Mục tiêu 3: Dùng sát thương Giải Phóng Cộng Hưởng Đánh Bại 2 kẻ địch
+lang_multi_text.db,MultiText,Raid_35_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_35_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
+lang_multi_text.db,MultiText,Raid_36_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s,Mục tiêu nút 1: Thời gian đạt hạng chiến đấu S nhiều hơn 10 giây
+lang_multi_text.db,MultiText,Raid_36_Chanllenge_2,节点目标二：完成8次成功闪避,Goal 2: Perform 8 Dodges,Mục tiêu nút 2: Hoàn thành 8 lần Né Tránh thành công
+lang_multi_text.db,MultiText,Raid_36_Chanllenge_3,节点目标三：用变奏技能伤害瘫痪敌人1次,Goal 3: Use Intro Skill DMG to immobilize an enemy 1 time,Mục tiêu nút 3: Dùng kỹ năng Biến Tấu gây sát thương làm tê liệt kẻ địch 1 lần
+lang_multi_text.db,MultiText,Raid_37_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục trong 8 giây
+lang_multi_text.db,MultiText,Raid_37_Chanllenge_2,节点目标二：完成3次逆势回击,Goal 2: Perform 3 Counterattacks,Mục tiêu 2: Thực hiện 3 lần Phản Kích Nghịch Thế
+lang_multi_text.db,MultiText,Raid_37_Chanllenge_3,节点目标三：完成6次闪避反击,Goal 3: Perform 6 Dodge Counters,Mục tiêu 3: Thực hiện 6 lần Né Tránh Phản Kích
+lang_multi_text.db,MultiText,Raid_38_Chanllenge_1,节点目标一：挑战中战斗等级达到SS,Goal 1: Reach Battle Rank SS,Mục tiêu nút 1: Đạt hạng chiến đấu SS trong thử thách
+lang_multi_text.db,MultiText,Raid_38_Chanllenge_2,节点目标二：被巨布偶扔出的工头布偶砸中少于3次,Goal 2: Take less than 3 hits from flying Diggy Duggies flung by Cuddle Wuddle,Mục tiêu nút 2: Bị trúng Bù Nhìn Công Đầu do Cự Bù Nhìn ném ra ít hơn 3 lần
+lang_multi_text.db,MultiText,Raid_38_Chanllenge_3,节点目标三：用共鸣解放伤害击败2个敌人,Goal 3: Use Resonance Liberation DMG to defeat 2 enemies,Mục tiêu nút 3: Dùng sát thương Giải Phóng Cộng Hưởng đánh bại 2 kẻ địch
 lang_multi_text.db,MultiText,Raid_39_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
-lang_multi_text.db,MultiText,Raid_39_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Độ nguyên vẹn Đầu Mối Mộng Cảnh lớn hơn 30%
-lang_multi_text.db,MultiText,Raid_39_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Độ nguyên vẹn Đầu Mối Mộng Cảnh lớn hơn 60%
+lang_multi_text.db,MultiText,Raid_39_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_39_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
 lang_multi_text.db,MultiText,Raid_3_Chanllenge_1,测试目标一：被攻击不大于5次,Goal 1: Take fewer than 5 hits.,Mục tiêu 1: Bị tấn công không quá 5 lần
 lang_multi_text.db,MultiText,Raid_3_Chanllenge_2,测试目标二：利用紫羽鹭或青羽鹭击败聚核棱镜,Goal 2: Defeat the Prisms via Violet-Feathered Heron or Cyan-Feathered Heron,Mục tiêu 2: Dùng Diệc Lông Tím hoặc Diệc Lông Xanh Đánh Bại Tụ Hạch Lăng Kính
 lang_multi_text.db,MultiText,Raid_3_Chanllenge_3,测试目标三：45秒内击败所有聚核棱镜,Goal 3: Defeat all Prisms within 45s,Mục tiêu 3: Đánh Bại tất cả Tụ Hạch Lăng Kính trong 45 giây
-lang_multi_text.db,MultiText,Raid_40_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s.,Mục tiêu 1: Thời gian đạt hạng chiến đấu S nhiều hơn 10 giây
-lang_multi_text.db,MultiText,Raid_40_Chanllenge_2,节点目标二：用3次逆势回击打断骑士的武器增益,Goal 2: Perform 3 Counterattacks that interrupt the Knight's weapon enhancement,Mục tiêu 2: Dùng 3 lần Phản Kích nghịch thế ngắt tăng cường vũ khí của Kỵ Sĩ
-lang_multi_text.db,MultiText,Raid_40_Chanllenge_3,节点目标三：用共鸣解放伤害瘫痪1次敌人,Goal 3: Use Resonance Liberation DMG to immobilize an enemy 1 time,Mục tiêu 3: Dùng sát thương Giải Phóng Cộng Hưởng làm tê liệt địch 1 lần
-lang_multi_text.db,MultiText,Raid_41_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu nút 1: Đạt hạng chiến đấu S khi kết thúc thử thách
-lang_multi_text.db,MultiText,Raid_41_Chanllenge_2,节点目标二：通过射击打断刺玫菇成体的蓄力状态,Goal 2: Interrupt the Roseshroom's charging state by shooting it,Mục tiêu nút 2: Bắn để gián đoạn trạng thái tích lực của Thích Mai Cô trưởng thành
-lang_multi_text.db,MultiText,Raid_41_Chanllenge_3,节点目标三：使用4次共鸣技能,Goal 3: Use Resonance Skills 4 times,Mục tiêu nút 3: Sử dụng 4 lần Kỹ Năng Cộng Hưởng
-lang_multi_text.db,MultiText,Raid_42_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu nút 1: Duy trì hạng chiến đấu S trở lên liên tục 8 giây
-lang_multi_text.db,MultiText,Raid_42_Chanllenge_2,节点目标二：不被幽翎火的自爆命中,Goal 2: Don't get caught in the Fae Ignis explosion,Mục tiêu nút 2: Không bị trúng vụ tự hủy của Fae Ignis
-lang_multi_text.db,MultiText,Raid_42_Chanllenge_3,节点目标三：最后击败浮灵偶,Goal 3: Defeat Chop Chop last,Mục tiêu nút 3: Đánh Bại Chop Chop cuối cùng
-lang_multi_text.db,MultiText,Raid_43_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu nút 1: Không để Mộng Cảnh Xu Nữu bị phá hủy
-lang_multi_text.db,MultiText,Raid_43_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu nút 2: Độ nguyên vẹn Mộng Cảnh Xu Nữu lớn hơn 30%
-lang_multi_text.db,MultiText,Raid_43_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu nút 3: Độ nguyên vẹn Mộng Cảnh Xu Nữu lớn hơn 60%
-lang_multi_text.db,MultiText,Raid_44_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu nút 1: Duy trì hạng chiến đấu S trở lên liên tục 8 giây
-lang_multi_text.db,MultiText,Raid_44_Chanllenge_2,节点目标二：在骑士强化武器3次前击败骑士,Goal 2: Defeat the Knight before they perform 3 weapon enhancements,Mục tiêu nút 2: Đánh Bại Kỵ Sĩ trước khi chúng cường hóa vũ khí 3 lần
-lang_multi_text.db,MultiText,Raid_44_Chanllenge_3,节点目标三：被攻击少于10次,Goal 3: Take less than 10 hits.,Mục tiêu nút 3: Bị tấn công ít hơn 10 lần
+lang_multi_text.db,MultiText,Raid_40_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s.,Mục tiêu nút 1: Thời gian đạt hạng chiến đấu S nhiều hơn 10 giây
+lang_multi_text.db,MultiText,Raid_40_Chanllenge_2,节点目标二：用3次逆势回击打断骑士的武器增益,Goal 2: Perform 3 Counterattacks that interrupt the Knight's weapon enhancement,Mục tiêu 2: Thực hiện 3 lần Phản Kích nghịch thế để gián đoạn tăng cường vũ khí của Kỵ Sĩ
+lang_multi_text.db,MultiText,Raid_40_Chanllenge_3,节点目标三：用共鸣解放伤害瘫痪1次敌人,Goal 3: Use Resonance Liberation DMG to immobilize an enemy 1 time,Mục tiêu 3: Dùng sát thương Giải Phóng Cộng Hưởng để làm tê liệt địch 1 lần
+lang_multi_text.db,MultiText,Raid_41_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu 1: Đạt hạng chiến đấu S khi thử thách kết thúc
+lang_multi_text.db,MultiText,Raid_41_Chanllenge_2,节点目标二：通过射击打断刺玫菇成体的蓄力状态,Goal 2: Interrupt the Roseshroom's charging state by shooting it,Mục tiêu 2: Bắn để gián đoạn trạng thái tích lực của Thích Mai Cô thể trưởng thành
+lang_multi_text.db,MultiText,Raid_41_Chanllenge_3,节点目标三：使用4次共鸣技能,Goal 3: Use Resonance Skills 4 times,Mục tiêu 3: Sử dụng 4 lần Kỹ Năng Cộng Hưởng
+lang_multi_text.db,MultiText,Raid_42_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục trong 8 giây
+lang_multi_text.db,MultiText,Raid_42_Chanllenge_2,节点目标二：不被幽翎火的自爆命中,Goal 2: Don't get caught in the Fae Ignis explosion,Mục tiêu 2: Không bị trúng vụ tự hủy của Fae Ignis
+lang_multi_text.db,MultiText,Raid_42_Chanllenge_3,节点目标三：最后击败浮灵偶,Goal 3: Defeat Chop Chop last,Mục tiêu 3: Đánh Bại Chop Chop cuối cùng
+lang_multi_text.db,MultiText,Raid_43_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
+lang_multi_text.db,MultiText,Raid_43_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_43_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
+lang_multi_text.db,MultiText,Raid_44_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục trong 8 giây
+lang_multi_text.db,MultiText,Raid_44_Chanllenge_2,节点目标二：在骑士强化武器3次前击败骑士,Goal 2: Defeat the Knight before they perform 3 weapon enhancements,Mục tiêu 2: Đánh Bại Kỵ Sĩ trước khi chúng tăng cường vũ khí 3 lần
+lang_multi_text.db,MultiText,Raid_44_Chanllenge_3,节点目标三：被攻击少于10次,Goal 3: Take less than 10 hits.,Mục tiêu 3: Bị tấn công ít hơn 10 lần
 lang_multi_text.db,MultiText,Raid_45_Chanllenge_1,节点目标一：挑战中战斗等级达到SS,Goal 1: Reach Battle Rank SS,Mục tiêu nút 1: Đạt hạng chiến đấu SS trong thử thách
-lang_multi_text.db,MultiText,Raid_45_Chanllenge_2,节点目标二：用逆势回击反击4次浮灵偶的激光,Goal 2: Counterattack Chop Chop's laser beam 4 times,Mục tiêu nút 2: Dùng Phản Kích nghịch thế phản đòn 4 lần laser của Chop Chop
-lang_multi_text.db,MultiText,Raid_45_Chanllenge_3,节点目标三：被攻击少于6次,Goal 3: Take less than 6 hits,Mục tiêu nút 3: Bị tấn công ít hơn 6 lần
-lang_multi_text.db,MultiText,Raid_46_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到SS,Goal 1: Be at Battle Rank SS when the challenge ends,Mục tiêu nút 1: Đạt hạng chiến đấu SS khi kết thúc thử thách
-lang_multi_text.db,MultiText,Raid_46_Chanllenge_2,节点目标二：击飞魔术先生的时间达到4秒,Goal 2: Launch a Hocus Pocus into the air for a total of 4s,Mục tiêu nút 2: Hất bay Hocus Pocus tổng cộng 4 giây
-lang_multi_text.db,MultiText,Raid_46_Chanllenge_3,节点目标三：被巨布偶击中少于8次,Goal 3: Take less than 8 hits from Cuddle Wuddle,Mục tiêu nút 3: Bị Cuddle Wuddle đánh trúng ít hơn 8 lần
-lang_multi_text.db,MultiText,Raid_47_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu nút 1: Duy trì hạng chiến đấu S trở lên liên tục 8 giây
-lang_multi_text.db,MultiText,Raid_47_Chanllenge_2,节点目标二：击败浮灵偶的相隔时间不超过15秒,Goal 2: Defeat 2 Chop Chops in a row within 15s,Mục tiêu nút 2: Khoảng cách Đánh Bại giữa các Chop Chop không quá 15 giây
-lang_multi_text.db,MultiText,Raid_47_Chanllenge_3,节点目标三：完成6次闪避反击,Goal 3: Perform 6 Dodge Counters,Mục tiêu nút 3: Thực hiện 6 lần Né Tránh Phản Kích
-lang_multi_text.db,MultiText,Raid_48_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu nút 1: Không để Mộng Cảnh Xu Nữu bị phá hủy
-lang_multi_text.db,MultiText,Raid_48_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu nút 2: Độ nguyên vẹn Mộng Cảnh Xu Nữu lớn hơn 30%
-lang_multi_text.db,MultiText,Raid_48_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu nút 3: Độ nguyên vẹn Mộng Cảnh Xu Nữu lớn hơn 60%
+lang_multi_text.db,MultiText,Raid_45_Chanllenge_2,节点目标二：用逆势回击反击4次浮灵偶的激光,Goal 2: Counterattack Chop Chop's laser beam 4 times,Mục tiêu 2: Dùng Phản Kích nghịch thế để phản đòn laser của Chop Chop 4 lần
+lang_multi_text.db,MultiText,Raid_45_Chanllenge_3,节点目标三：被攻击少于6次,Goal 3: Take less than 6 hits,Mục tiêu 3: Bị tấn công ít hơn 6 lần
+lang_multi_text.db,MultiText,Raid_46_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到SS,Goal 1: Be at Battle Rank SS when the challenge ends,Mục tiêu 1: Đạt hạng chiến đấu SS khi thử thách kết thúc
+lang_multi_text.db,MultiText,Raid_46_Chanllenge_2,节点目标二：击飞魔术先生的时间达到4秒,Goal 2: Launch a Hocus Pocus into the air for a total of 4s,Mục tiêu 2: Hất bay Hocus Pocus với tổng thời gian đạt 4 giây
+lang_multi_text.db,MultiText,Raid_46_Chanllenge_3,节点目标三：被巨布偶击中少于8次,Goal 3: Take less than 8 hits from Cuddle Wuddle,Mục tiêu 3: Bị Cuddle Wuddle đánh trúng ít hơn 8 lần
+lang_multi_text.db,MultiText,Raid_47_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục trong 8 giây
+lang_multi_text.db,MultiText,Raid_47_Chanllenge_2,节点目标二：击败浮灵偶的相隔时间不超过15秒,Goal 2: Defeat 2 Chop Chops in a row within 15s,Mục tiêu 2: Đánh Bại 2 Chop Chop liên tiếp trong vòng 15 giây
+lang_multi_text.db,MultiText,Raid_47_Chanllenge_3,节点目标三：完成6次闪避反击,Goal 3: Perform 6 Dodge Counters,Mục tiêu 3: Thực hiện 6 lần Né Tránh Phản Kích
+lang_multi_text.db,MultiText,Raid_48_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
+lang_multi_text.db,MultiText,Raid_48_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_48_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
 lang_multi_text.db,MultiText,Raid_49_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu 1: Duy trì cấp chiến đấu S trở lên liên tục 6 giây
-lang_multi_text.db,MultiText,Raid_49_Chanllenge_2,节点目标二：击败毒冠贵族相隔时间少于10秒,Goal 2: Defeat 2 Abyssal Patricius in a row within 10s,Mục tiêu 2: Đánh bại 2 Độc Quán Quý Tộc cách nhau không quá 10 giây
-lang_multi_text.db,MultiText,Raid_49_Chanllenge_3,节点目标三：被冰冻的次数少于2次,Goal 3: Be Frozen less than 2 times,Mục tiêu 3: Bị đóng băng ít hơn 2 lần
-lang_multi_text.db,MultiText,Raid_4_Chanllenge_1,测试目标一：闪避反击3次,Goal 1: Perform 3 Dodge Counters,Mục tiêu 1: Thực hiện 3 lần né tránh phản kích
-lang_multi_text.db,MultiText,Raid_4_Chanllenge_2,测试目标二：使用下落攻击阻止遁地鼠钻地3次,Goal 2: Force the Excarats to surface with Plunging Attacks 3 times,Mục tiêu 2: Dùng tấn công đổ bộ buộc Độn Địa Thử trồi lên 3 lần
-lang_multi_text.db,MultiText,Raid_4_Chanllenge_3,测试目标三：最后击败碎獠猪,Goal 3: Defeat the Sabyr Boar last,Mục tiêu 3: Đánh bại Toái Liêu Trư cuối cùng
-lang_multi_text.db,MultiText,Raid_50_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s,Mục tiêu 1: Đạt cấp chiến đấu S trong hơn 10 giây
-lang_multi_text.db,MultiText,Raid_50_Chanllenge_2,节点目标二：完成6次闪避反击,Goal 2: Perform 6 Dodge Counters,Mục tiêu 2: Thực hiện 6 lần né tránh phản kích
-lang_multi_text.db,MultiText,Raid_50_Chanllenge_3,节点目标三：最后击败处刑人,Goal 3: Defeat the Fractsidus Executioner last,Mục tiêu 3: Đánh bại Xử Hình Nhân cuối cùng
-lang_multi_text.db,MultiText,Raid_51_Chanllenge_1,节点目标一：挑战中战斗等级达到S,Goal 1: Reach Battle Rank S,Mục tiêu 1: Đạt cấp chiến đấu S trong thử thách
-lang_multi_text.db,MultiText,Raid_51_Chanllenge_2,节点目标二：完成4次成功闪避,Goal 2: Perform 4 Dodges,Mục tiêu 2: Thực hiện 4 lần né tránh thành công
-lang_multi_text.db,MultiText,Raid_51_Chanllenge_3,节点目标三：被浮灵偶抓取的次数少于5次,Node Objective 3: Get caught by Chop Chop less than 5 times,Mục tiêu 3: Bị Phù Linh Ngẫu bắt ít hơn 5 lần
+lang_multi_text.db,MultiText,Raid_49_Chanllenge_2,节点目标二：击败毒冠贵族相隔时间少于10秒,Goal 2: Defeat 2 Abyssal Patricius in a row within 10s,Mục tiêu nút 2: Đánh Bại các Độc Quán Quý Tộc cách nhau dưới 10 giây

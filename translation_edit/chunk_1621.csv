@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,PhantomFetter_172_SimplyEffectDesc,气动伤害提升,Aero DMG+,Sát thương Khí Động tăng
+lang_multi_text.db,MultiText,PhantomFetter_175_EffectDescription,攻击命中存在【风蚀效应】的敌人时，自身暴击提升{0}，气动伤害提升{1}，持续{2}秒。,"Hitting a target with Aero Erosion increases Crit. Rate by {0} and grants {1} Aero DMG Bonus, lasting for {2}s.","Khi tấn công trúng kẻ địch có [Hiệu ứng Phong Thực], bản thân tăng bạo kích {0}, sát thương Khí Động tăng {1}, kéo dài {2} giây."
+lang_multi_text.db,MultiText,PhantomFetter_175_SimplyEffectDesc,攻击命中存在【风蚀效应】的敌人时，自身暴击提升，气动伤害提升。,Hitting a target with Aero Erosion increases Crit. Rate and grants additional Aero DMG Bonus.,"Khi tấn công trúng kẻ địch có [Hiệu ứng Phong Thực], bản thân tăng bạo kích, sát thương Khí Động tăng."
+lang_multi_text.db,MultiText,PhantomFetter_17_EffectDescription,攻击提升10%,ATK +10%,Tấn công tăng 10%
+lang_multi_text.db,MultiText,PhantomFetter_17_Name,愿戴荣光之旅,Windward Pilgrimage,Hành Trình Vinh Quang
+lang_multi_text.db,MultiText,PhantomFetter_17_SimplyEffectDesc,攻击提升,ATK increases,Tấn công tăng
+lang_multi_text.db,MultiText,PhantomFetter_182_EffectDescription,热熔伤害提升{0},Fusion DMG + {0},Tăng sát thương Nhiệt Dung {0}
+lang_multi_text.db,MultiText,PhantomFetter_182_SimplyEffectDesc,热熔伤害提升,Fusion DMG+,Sát thương Nhiệt Dung tăng
+lang_multi_text.db,MultiText,PhantomFetter_185_EffectDescription,施放共鸣解放时，队伍中角色热熔伤害提升{0}，自身共鸣解放伤害提升{1}，持续{2}秒。,"Casting Resonance Liberation grants all Resonators in the team {0} Fusion DMG Bonus and the caster {1} Resonance Liberation DMG Bonus, lasting for {2}s.","Khi thi triển Giải Phóng Cộng Hưởng, sát thương Nhiệt Dung của các nhân vật trong đội tăng {0}, sát thương Giải Phóng Cộng Hưởng bản thân tăng {1}, kéo dài {2} giây."
+lang_multi_text.db,MultiText,PhantomFetter_185_SimplyEffectDesc,施放共鸣解放时，队伍中角色热熔伤害提升，自身共鸣解放伤害提升。,Casting Resonance Liberation grants Fusion DMG Bonus to all Resonators in the team and Resonance Liberation DMG Bonus to the caster.,"Khi thi triển Giải Phóng Cộng Hưởng, sát thương Nhiệt Dung của các nhân vật trong đội tăng, sát thương Giải Phóng Cộng Hưởng bản thân tăng."
 lang_multi_text.db,MultiText,PhantomFetter_18_EffectDescription,在场时，自身攻击每1.5秒提升5%，该效果最多叠加四层。延奏技能伤害提升60%,"While on the field, ATK increases by 5% every 1.5s. This effect stacks up to 4 times. Outro Skill DMG + 60%.","Khi ở trên sân, tấn công bản thân mỗi 1.5 giây tăng 5%, hiệu ứng này cộng dồn tối đa 4 tầng. Sát thương kỹ năng Biến Tấu tăng 60%"
 lang_multi_text.db,MultiText,PhantomFetter_18_Name,奔狼燎原之焰,Flaming Clawprint,Ngọn Lửa Bôn Lang Liêu Nguyên
 lang_multi_text.db,MultiText,PhantomFetter_18_SimplyEffectDesc,在场时，自身攻击提升，延奏技能伤害提升,The equipper's ATK and Outro Skill DMG is increased when on the field,"Khi ở trên sân, tấn công bản thân tăng, sát thương kỹ năng Biến Tấu tăng"
@@ -29,27 +39,27 @@ lang_multi_text.db,MultiText,PhantomFetter_245_EffectDescription,角色施放延
 lang_multi_text.db,MultiText,PhantomFetter_245_SimplyEffectDesc,施放延奏技能后，使下一个登场的角色攻击提升，并基于其谐度破坏增幅获得额外的攻击提升。,Casting Outro Skill increases the incoming Resonator's ATK and grants additional ATK increase based on their Tune Break Boost.,"Sau khi thi triển kỹ năng Hiệp Tấu, tấn công của nhân vật đăng trường tiếp theo tăng, đồng thời nhận thêm tấn công dựa trên gia tăng phá hủy hài hòa."
 lang_multi_text.db,MultiText,PhantomFetter_24_Name,逆光跃彩之约,Pact of Neonlight Leap,Nghịch Quang Dược Thải Chi Ước
 lang_multi_text.db,MultiText,PhantomFetter_252_EffectDescription,治疗效果提升{0},Healing Bonus + {0}.,Hiệu quả trị liệu tăng {0}
-lang_multi_text.db,MultiText,PhantomFetter_252_SimplyEffectDesc,治疗效果提升,Healing+,Hiệu quả trị liệu tăng
+lang_multi_text.db,MultiText,PhantomFetter_252_SimplyEffectDesc,治疗效果提升,Healing+,Hiệu quả hồi phục tăng.
 lang_multi_text.db,MultiText,PhantomFetter_255_EffectDescription,为队伍中角色提供治疗时，自身每{0}的偏谐值累积效率使队伍中角色攻击提升{1}，上限{2}，持续{3}秒，同名效果之间不可叠加。,"When healing a Resonator in the team, every {0} of Off-Tune Buildup Rate grants a {1} ATK increase to all Resonators in the team for {3}s, up to {2}. Effects of the same name cannot be stacked.","Khi trị liệu cho nhân vật trong đội, cứ mỗi {0} hiệu suất tích lũy thiên hài của bản thân sẽ giúp tấn công nhân vật trong đội tăng {1}, tối đa {2}, kéo dài {3} giây. Hiệu ứng cùng tên không thể cộng dồn."
 lang_multi_text.db,MultiText,PhantomFetter_255_SimplyEffectDesc,角色提供治疗时，基于当前角色的偏谐值累积效率，使队伍中角色攻击提升。,Healing an ally increases ATK for Resonators in the team based on the current Off-Tune Buildup Rate.,"Khi nhân vật trị liệu, dựa trên hiệu suất tích lũy thiên hài của nhân vật hiện tại, tấn công nhân vật trong đội tăng."
 lang_multi_text.db,MultiText,PhantomFetter_25_Name,星构寻辉之环,Halo of Starry Radiance,Tinh Cấu Tầm Huy Chi Hoàn
-lang_multi_text.db,MultiText,PhantomFetter_262_EffectDescription,衍射伤害提升{0},Spectro DMG + {0},Tăng sát thương Nhiễu Xạ {0}
-lang_multi_text.db,MultiText,PhantomFetter_262_SimplyEffectDesc,衍射伤害提升,Spectro DMG+,Tăng sát thương Nhiễu Xạ
+lang_multi_text.db,MultiText,PhantomFetter_262_EffectDescription,衍射伤害提升{0},Spectro DMG + {0},Sát thương Nhiễu Xạ tăng {0}
+lang_multi_text.db,MultiText,PhantomFetter_262_SimplyEffectDesc,衍射伤害提升,Spectro DMG+,Sát thương Nhiễu Xạ tăng
 lang_multi_text.db,MultiText,PhantomFetter_265_EffectDescription,角色造成普攻伤害时，自身衍射伤害提升{0}，该效果可叠加{1}层，持续{2}秒。叠至{1}层时，施放共鸣解放时，普攻伤害加成提升{3}。,"Dealing Basic Attack DMG increases Spectro DMG by {0} for {2}s, stacking up to {1} times. With {1} stacks, casting Resonance Liberation grants {3} Basic Attack DMG Bonus.","Khi nhân vật gây sát thương Phổ Công, sát thương Nhiễu Xạ của bản thân tăng {0}, hiệu ứng này cộng dồn tối đa {1} tầng, duy trì {2} giây. Khi đạt {1} tầng, thi triển Giải Phóng Cộng Hưởng sẽ tăng bonus sát thương Phổ Công thêm {3}."
 lang_multi_text.db,MultiText,PhantomFetter_265_SimplyEffectDesc,角色造成普攻伤害时，衍射伤害提升，可叠加。叠至满层时，施放共鸣解放时普攻伤害提升。,"Dealing Basic Attack DMG increases Spectro DMG, stackable. With max stacks, casting Resonance Liberation increases Basic Attack DMG.","Khi nhân vật gây sát thương Phổ Công, sát thương Nhiễu Xạ được tăng, có thể cộng dồn. Khi đạt tối đa tầng, thi triển Giải Phóng Cộng Hưởng sẽ tăng sát thương Phổ Công."
 lang_multi_text.db,MultiText,PhantomFetter_26_Name,流金溯真之式,Rite of Gilded Revelation,Lưu Kim Tố Chân Chi Thức
 lang_multi_text.db,MultiText,PhantomFetter_272_EffectDescription,热熔伤害提升{0},Fusion DMG + {0},Tăng sát thương Nhiệt Dung {0}
-lang_multi_text.db,MultiText,PhantomFetter_272_SimplyEffectDesc,热熔伤害提升,Fusion DMG+,Tăng sát thương Nhiệt Dung
+lang_multi_text.db,MultiText,PhantomFetter_272_SimplyEffectDesc,热熔伤害提升,Fusion DMG+,Sát thương Nhiệt Dung tăng
 lang_multi_text.db,MultiText,PhantomFetter_275_EffectDescription,角色为敌人添加【聚爆效应】或【震谐·偏移】时，自身暴击提升{0}，热熔伤害提升{1}，持续{2}秒。,Inflicting Fusion Burst or Tune Rupture - Shifting increases the Resonator's Crit. Rate by {0} and grants {1} Fusion DMG Bonus for {2}s.,"Khi nhân vật áp dụng [Tụ Bạo Hiệu Ứng] hoặc [Chấn Hài - Thiên Di] lên kẻ địch, bản thân tăng bạo kích {0}, sát thương Nhiệt Dung tăng {1}, duy trì {2} giây."
 lang_multi_text.db,MultiText,PhantomFetter_275_SimplyEffectDesc,角色为敌人添加【聚爆效应】或【震谐·偏移】时，自身暴击提升，热熔伤害提升。,Inflicting Fusion Burst or Tune Rupture - Shifting increases Crit. Rate and grants Fusion DMG Bonus.,"Khi nhân vật áp dụng [Tụ Bạo Hiệu Ứng] hoặc [Chấn Hài - Thiên Di] lên kẻ địch, bản thân tăng bạo kích và sát thương Nhiệt Dung."
 lang_multi_text.db,MultiText,PhantomFetter_27_Name,长路启航之星,Trailblazing Star,Trường Lộ Khải Hàng Chi Tinh
 lang_multi_text.db,MultiText,PhantomFetter_282_EffectDescription,热熔伤害提升{0},Fusion DMG + {0},Tăng sát thương Nhiệt Dung {0}
-lang_multi_text.db,MultiText,PhantomFetter_282_SimplyEffectDesc,热熔伤害提升,Fusion DMG+,Tăng sát thương Nhiệt Dung
+lang_multi_text.db,MultiText,PhantomFetter_282_SimplyEffectDesc,热熔伤害提升,Fusion DMG+,Sát thương Nhiệt Dung tăng
 lang_multi_text.db,MultiText,PhantomFetter_285_EffectDescription,角色为敌人添加【聚爆效应】时，自身获得下述效果：热熔伤害提升{0}，持续{1}秒。持续期间内施放延奏技能后，下一个变奏技能登场的角色热熔伤害提升{2}，持续{3}秒。,"When the Resonator inflicts Fusion Burst on the enemies, they gain the following effects: Gain {0} Fusion DMG Bonus for {1} s. While this effect is active, casting an Outro Skill grants the incoming Resonator {2} Fusion DMG Bonus for {3}s or until they're switched out.","Khi nhân vật áp dụng [Tụ Bạo Hiệu Ứng] lên kẻ địch, bản thân nhận được hiệu ứng sau: sát thương Nhiệt Dung tăng {0}, duy trì {1} giây. Trong thời gian hiệu lực, sau khi thi triển Diên Tấu Kỹ, nhân vật tiếp theo đăng trường qua Biến Tấu Kỹ được tăng sát thương Nhiệt Dung {2}, duy trì {3} giây."
 lang_multi_text.db,MultiText,PhantomFetter_285_SimplyEffectDesc,角色为敌人添加【聚爆效应】时，自身热熔伤害提升，期间施放延奏技能使下一个登场的角色热熔伤害提升。,"Inflicting Fusion Burst grants Fusion DMG Bonus. During this time, using an Outro Skill grants Fusion DMG Bonus to the incoming Resonator.","Khi nhân vật áp dụng [Tụ Bạo Hiệu Ứng] lên kẻ địch, sát thương Nhiệt Dung của bản thân tăng. Trong thời gian đó, thi triển Diên Tấu Kỹ sẽ tăng sát thương Nhiệt Dung cho nhân vật đăng trường tiếp theo."
 lang_multi_text.db,MultiText,PhantomFetter_28_Name,斑驳粉饰之沫,Chromatic Foam,Ban Bác Phấn Sức Chi Mạt
-lang_multi_text.db,MultiText,PhantomFetter_292_EffectDescription,气动伤害提升{0},Aero DMG + {0},Tăng sát thương Khí Động {0}
-lang_multi_text.db,MultiText,PhantomFetter_292_SimplyEffectDesc,气动伤害提升,Aero DMG+,Tăng sát thương Khí Động
+lang_multi_text.db,MultiText,PhantomFetter_292_EffectDescription,气动伤害提升{0},Aero DMG + {0},Sát thương Khí Động tăng {0}
+lang_multi_text.db,MultiText,PhantomFetter_292_SimplyEffectDesc,气动伤害提升,Aero DMG+,Sát thương Khí Động tăng
 lang_multi_text.db,MultiText,PhantomFetter_295_EffectDescription,角色造成声骸技能伤害时，声骸技能伤害的暴击提升{0}，自身气动伤害提升{1}，持续{2}秒。,"Dealing Echo Skill DMG to enemies increases the Resonator's Echo Skill Crit. Rate by {0}, and grants {1} Aero DMG Bonus for {2}s.","Khi nhân vật gây sát thương Thanh Hài Kỹ, bạo kích Thanh Hài Kỹ tăng {0}, sát thương Khí Động của bản thân tăng {1}, duy trì {2} giây."
 lang_multi_text.db,MultiText,PhantomFetter_295_SimplyEffectDesc,角色造成声骸技能伤害的暴击提升，自身气动伤害提升。,Dealing Echo Skill DMG increases Echo Skill Crit. Rate and grants Aero DMG Bonus.,"Tăng bạo kích khi gây sát thương Thanh Hài Kỹ, đồng thời tăng sát thương Khí Động của bản thân."
 lang_multi_text.db,MultiText,PhantomFetter_29_Name,听唤语义之愿,Sound of True Name,Thính Hoán Ngữ Nghĩa Chi Nguyện
@@ -83,7 +93,7 @@ lang_multi_text.db,MultiText,PhantomFetter_8_SimplyEffectDesc,使用变奏技能
 lang_multi_text.db,MultiText,PhantomFetter_9_EffectDefineDescription,旋律简单而美妙的和鸣。对于重新踏上旅途的漂泊者而言，用来调整战斗节奏再合适不过了。,"A Sonata for the returning Rover, its harmonious melody to guide and steady their battle rhythm on the journey.","Hòa minh có giai điệu giản đơn mà tuyệt diệu. Đối với Lữ Khách vừa bước lại trên hành trình, dùng để điều chỉnh nhịp chiến đấu thì thích hợp không gì bằng."
 lang_multi_text.db,MultiText,PhantomFetter_9_EffectDescription,衍射伤害提升10%,Spectro DMG + 10%.,Sát thương Nhiễu Xạ tăng 10%
 lang_multi_text.db,MultiText,PhantomFetter_9_Name,不绝余音,Lingering Tunes,Dư Âm Bất Tuyệt
-lang_multi_text.db,MultiText,PhantomFetter_9_SimplyEffectDesc,衍射伤害提升,Spectro DMG+,Tăng sát thương Nhiễu Xạ
+lang_multi_text.db,MultiText,PhantomFetter_9_SimplyEffectDesc,衍射伤害提升,Spectro DMG+,Sát thương Nhiễu Xạ tăng
 lang_multi_text.db,MultiText,PhantomGain_Progress,邮贴收集进度:<color=#fde7a1>{0}</color>/{1}<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_05_UI.T_IconA80_Act_05_UI/>,Stamp Collection: <color=#fde7a1>{0}</color>/{1}<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_05_UI.T_IconA80_Act_05_UI/>,Tiến độ thu thập tem: <color=#fde7a1>{0}</color>/{1}<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_05_UI.T_IconA80_Act_05_UI/>
 lang_multi_text.db,MultiText,PhantomHandBook_390070051_Descrtption1,"【攻击】
 【生命】
@@ -97,27 +107,7 @@ lang_multi_text.db,MultiText,PhantomHandBook_390070051_Descrtption1,"【攻击�
 [Hiệu Suất Cộng Hưởng]
 [Gia tăng Sát thương Vật Lý]"
 lang_multi_text.db,MultiText,PhantomHandBook_390070051_Descrtption2,召唤先锋幼岩向前扑击，对路径上的敌人造成物理伤害。,"Summon Vanguard Junrock to rush forward, causing physical DMG to enemies on the path.","Triệu hồi Ấu Nham Tiên Phong lao về phía trước, gây sát thương Vật Lý cho kẻ địch trên đường đi."
-lang_multi_text.db,MultiText,PhantomHandBook_390070051_Intensity,轻波级,Common Class,Cấp Khinh Ba
-lang_multi_text.db,MultiText,PhantomHandBook_390070051_Name,先锋幼岩,Vanguard Junrock,Ấu Nham Tiên Phong
+lang_multi_text.db,MultiText,PhantomHandBook_390070051_Intensity,轻波级,Common Class,Khinh Ba Cấp
+lang_multi_text.db,MultiText,PhantomHandBook_390070051_Name,先锋幼岩,Vanguard Junrock,Tiên Phong Ấu Nham
 lang_multi_text.db,MultiText,PhantomHandBook_390070051_Place,瑝珑,Huanglong,Hoàng Long
-lang_multi_text.db,MultiText,PhantomHandBook_390070051_Title1,主音属性池,Mainstats,Kho thuộc tính Chủ Âm
-lang_multi_text.db,MultiText,PhantomHandBook_390070051_Title2,技能效果,Skill effect,Hiệu quả kỹ năng
-lang_multi_text.db,MultiText,PhantomHandBook_390070051_TypeDescrtption,残象-自然种,Tacet Discord - Natural Kind,Tàn Tượng - Tự Nhiên Chủng
-lang_multi_text.db,MultiText,PhantomHandBook_390070052_Descrtption1,"【攻击】
-【生命】
-【防御】
-【暴击】
-【共鸣效率】
-【物理伤害加成】",[ATK] [HP] [DEF] [Crit. Rate] [Energy Regen] [Physical DMG Bonus],"[Tấn Công]
-[Sinh Mệnh]
-[Phòng Thủ]
-[Bạo Kích]
-[Hiệu Suất Cộng Hưởng]
-[Gia tăng Sát thương Vật Lý]"
-lang_multi_text.db,MultiText,PhantomHandBook_390070052_Descrtption2,召唤裂变幼岩，进行治疗。,Summon Fission Junrock for healing.,"Triệu hồi Ấu Nham Liệt Biến, tiến hành hồi phục."
-lang_multi_text.db,MultiText,PhantomHandBook_390070052_Intensity,轻波级,Common Class,Cấp Khinh Ba
-lang_multi_text.db,MultiText,PhantomHandBook_390070052_Name,裂变幼岩,Fission Junrock,Ấu Nham Liệt Biến
-lang_multi_text.db,MultiText,PhantomHandBook_390070052_Place,瑝珑,Huanglong,Hoàng Long
-lang_multi_text.db,MultiText,PhantomHandBook_390070052_Title1,主音属性池,Mainstats,Kho thuộc tính Chủ Âm
-lang_multi_text.db,MultiText,PhantomHandBook_390070052_Title2,技能效果,Skill effect,Hiệu quả kỹ năng
-lang_multi_text.db,MultiText,PhantomHandBook_390070052_TypeDescrtption,残象-自然种,Tacet Discord - Natural Kind,Tàn Tượng - Tự Nhiên Chủng
+lang_multi_text.db,MultiText,PhantomHandBook_390070051_Title1,主音属性池,Mainstats,Bể Thuộc Tính Chủ Âm

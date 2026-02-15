@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_28_Text,创建角色失败,Player profile creation failed,Tạo nhân vật thất bại
+lang_multi_text.db,MultiText,ErrorCode_29_Text,系统错误，请稍后再试。,"System error, please try again later.","Lỗi hệ thống, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_2_Text,系统错误，请稍后再试。,System error. Please try again later.,"Lỗi hệ thống, vui lòng thử lại sau."
+lang_multi_text.db,MultiText,ErrorCode_300000_Text,存在异常，如有疑问请联系官方客服,"There is an exception, if you have any questions, please contact the official customer service","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
+lang_multi_text.db,MultiText,ErrorCode_300001_Text,地图标记数量限制,Max Pins reached,Đã đạt giới hạn số lượng đánh dấu bản đồ
+lang_multi_text.db,MultiText,ErrorCode_300002_Text,没有地图迷雾配置,No Map Fog configuration,Không có cấu hình sương mù bản đồ
+lang_multi_text.db,MultiText,ErrorCode_300003_Text,迷雾已解锁,Map Fog unlocked,Sương mù đã được mở khóa
+lang_multi_text.db,MultiText,ErrorCode_300004_Text,编队为空,Empty team,Đội hình trống
+lang_multi_text.db,MultiText,ErrorCode_300005_Text,未知编队,Unknown team,Đội hình không xác định
+lang_multi_text.db,MultiText,ErrorCode_300006_Text,编队角色失去意识,Downed Resonators cannot join the team,Cộng Hưởng Giả đã bất tỉnh không thể tham gia đội hình
 lang_multi_text.db,MultiText,ErrorCode_300007_Text,编队角色重复,Resonator already on the team,Cộng Hưởng Giả đã có trong đội hình
 lang_multi_text.db,MultiText,ErrorCode_300008_Text,编队角色未激活,Selected Resonator locked,Cộng Hưởng Giả được chọn chưa mở khóa
 lang_multi_text.db,MultiText,ErrorCode_300009_Text,编队角色索引越界,Resonator index out of bound,Chỉ mục Cộng Hưởng Giả vượt giới hạn
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_300093_Text,世界所有者无法准备,W
 lang_multi_text.db,MultiText,ErrorCode_300094_Text,重复设置准备状态,Ready State reset,Trạng thái sẵn sàng đã được thiết lập
 lang_multi_text.db,MultiText,ErrorCode_300095_Text,队伍中有相同角色,Same Character on team,Trong đội có nhân vật trùng lặp
 lang_multi_text.db,MultiText,ErrorCode_300096_Text,准备状态下不能换人,Cannot edit Team lineup in the Ready state,Không thể đổi người khi đang ở trạng thái sẵn sàng
-lang_multi_text.db,MultiText,ErrorCode_300097_Text,设置重复角色,Character already on team is set,Nhân vật đã được thiết lập trùng lặp
-lang_multi_text.db,MultiText,ErrorCode_300098_Text,没有移出权限,No permission to remove,Không có quyền loại bỏ
-lang_multi_text.db,MultiText,ErrorCode_300099_Text,被移出者不在队伍中,Player being removed is not on team,Người bị loại bỏ không trong đội
-lang_multi_text.db,MultiText,ErrorCode_300100_Text,没有开始战斗权限,No permission to begin battle,Không có quyền bắt đầu chiến đấu
-lang_multi_text.db,MultiText,ErrorCode_300101_Text,有玩家未准备,Player(s) not Ready,Có người chơi chưa sẵn sàng
-lang_multi_text.db,MultiText,ErrorCode_300102_Text,副本id不存在,Dungeon id does not exist,ID phụ bản không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_300103_Text,未拥有指定角色，无法匹配,You do not have designated Character to begin matching,"Chưa sở hữu nhân vật chỉ định, không thể ghép trận"
-lang_multi_text.db,MultiText,ErrorCode_300104_Text,单人副本无法匹配,Cannot match Players for Single-Player Dungeon,Phụ bản đơn người không thể ghép trận
-lang_multi_text.db,MultiText,ErrorCode_300105_Text,等待其他玩家进入场景， 无法匹配,Cannot begin matching when waiting for other Players to enter the scene,"Đang chờ người chơi khác vào cảnh, không thể ghép trận"
-lang_multi_text.db,MultiText,ErrorCode_300106_Text,进入他人世界中， 无法匹配,Cannot begin matching when entering other World,"Đang vào thế giới người khác, không thể ghép trận"

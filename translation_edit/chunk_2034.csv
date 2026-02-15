@@ -1,4 +1,89 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,Skill_1004101_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Wind>气动伤害</color>。
+<size=10></size>
+<size=40><color=Title>重击</color></size>
+造成<color=Wind>气动伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+造成<color=Wind>气动伤害</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Wind>气动伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Wind>Aero DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Deal <color=Wind>Aero DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Deal <color=Wind>Aero DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Wind>Aero DMG</color>.","<size=40><color=Title>Phổ Công</color></size>
+Gây <color=Wind>sát thương Khí Động</color>.
+<size=10></size>
+<size=40><color=Title>Trọng Kích</color></size>
+Gây <color=Wind>sát thương Khí Động</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Gây <color=Wind>sát thương Khí Động</color>.
+<size=10></size>
+<size=40><color=Title>Phản Kích Né Tránh</color></size>
+Gây <color=Wind>sát thương Khí Động</color>."
+lang_multi_text.db,MultiText,Skill_1004102_SkillDescribe,"短按<color=Highlight>共鸣技能</color>，仇远向前突进一段距离，造成<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。即将受到敌方目标攻击时，施放<color=Highlight>共鸣技能</color>，免疫此次伤害并停滞周围敌人，此次<color=Highlight>共鸣技能</color>免疫打断。
+切换至其他角色时提前清除停滞效果。
+<size=10></size>
+<size=40><color=Title>不辞远</color></size>
+长按<color=Highlight>共鸣技能</color>，仇远向前突进一段距离，对目标造成<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。
+按住<color=Highlight>共鸣技能</color>时，若周围没有目标，仇远会升入空中向前奔袭并持续消耗耐力，奔袭可持续一段时间。在空中时，耐力耗尽或松开<color=Highlight>共鸣技能</color>将提前结束奔袭，奔袭结束时若周围有目标，会对目标造成<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。此技能可在空中施放。","{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Resonance Skill</color> to dash forward for a distance, dealing <color=Wind>Aero DMG</color>, considered as Echo Skill DMG. If <color=Highlight>Resonance Skill</color> is cast upon being attacked by an enemy target, Qiuyuan becomes immune to this instance of DMG and stagnates nearby enemies, while gaining immunity to interruption during this <color=Highlight>Resonance Skill</color>.
+Switching to other Resonators removes the Stagnation effect from enemies.
+<size=10></size>
+<size=40><color=Title>Undaunted Wayfarer</color></size>
+Hold <color=Highlight>Resonance Skill</color> to dash forward for a distance at the cost of STA, dealing <color=Wind>Aero DMG</color> to the target, considered as Echo Skill DMG.
+If there are no targets nearby, Qiuyuan will leap up and dash through the air by continuously consuming STA until it runs out. Release <color=Highlight>Resonance Skill</color> to immediately end the dash and land. If there are targets nearby when Qiuyuan lands, deal <color=Wind>Aero DMG</color> to nearby targets, considered as Echo Skill DMG. This skill can be cast in mid-air.","Nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color>, Qiuyuan đột tiến về phía trước một đoạn, gây <color=Wind>sát thương Khí Động</color>, sát thương lần này được tính là sát thương Thanh Hài Kỹ. Khi sắp bị mục tiêu địch tấn công, thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ miễn nhiễm sát thương lần đó và đình trệ kẻ địch xung quanh, lần <color=Highlight>Kỹ Năng Cộng Hưởng</color> này miễn nhiễm gián đoạn.
+Khi chuyển sang nhân vật khác, hiệu ứng đình trệ sẽ bị xóa sớm.
+<size=10></size>
+<size=40><color=Title>Bất Từ Viễn</color></size>
+Giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, Qiuyuan đột tiến về phía trước một đoạn, gây <color=Wind>sát thương Khí Động</color> cho mục tiêu, sát thương lần này được tính là sát thương Thanh Hài Kỹ.
+Khi giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, nếu xung quanh không có mục tiêu, Qiuyuan sẽ bay lên không trung lao về phía trước và liên tục tiêu hao thể lực, có thể duy trì trong một khoảng thời gian. Khi ở trên không, hết thể lực hoặc thả <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ kết thúc sớm, khi kết thúc nếu xung quanh có mục tiêu sẽ gây <color=Wind>sát thương Khí Động</color> cho mục tiêu, sát thương lần này được tính là sát thương Thanh Hài Kỹ. Kỹ năng này có thể thi triển trên không."
+lang_multi_text.db,MultiText,Skill_1004102_SkillName,穿林打叶,Through the Groves,Xuyên Lâm Đả Diệp
+lang_multi_text.db,MultiText,Skill_1004102_SkillResume,"造成<color=Wind>气动伤害</color>。
+<size=10></size>
+<size=40><color=Title>不辞远</color></size>
+长按<color=Highlight>共鸣技能</color>，仇远向前突进一段距离，对目标造成<color=Wind>气动伤害</color>。
+按住<color=Highlight>共鸣技能</color>时，若周围没有目标，仇远会升入空中向前奔袭并持续消耗耐力，奔袭可持续一段时间。在空中时，耐力耗尽或松开<color=Highlight>共鸣技能</color>将提前结束奔袭，奔袭结束时若周围有目标，会对目标造成<color=Wind>气动伤害</color>","Deal <color=Wind>Aero DMG</color>.
+<size=10></size>
+<size=40><color=Title>Undaunted Wayfarer</color></size>
+Hold <color=Highlight>Resonance Skill</color> to dash forward for a distance, dealing <color=Wind>Aero DMG</color> to the target.
+If there are no targets nearby, Qiuyuan will leap up and dash through the air for a distance by continuously consuming STA until it runs out. Release <color=Highlight>Resonance Skill</color> to immediately end the dash and land.  If there are targets nearby when Qiuyuan lands, deal <color=Wind>Aero DMG</color> to nearby targets.","Gây <color=Wind>sát thương Khí Động</color>.
+<size=10></size>
+<size=40><color=Title>Bất Từ Viễn</color></size>
+Giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, Qiuyuan đột tiến về phía trước một đoạn, gây <color=Wind>sát thương Khí Động</color> cho mục tiêu.
+Khi giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, nếu xung quanh không có mục tiêu, Qiuyuan sẽ bay lên không trung lao về phía trước và liên tục tiêu hao thể lực, có thể duy trì trong một khoảng thời gian. Khi ở trên không, hết thể lực hoặc thả <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ kết thúc sớm, khi kết thúc nếu xung quanh có mục tiêu sẽ gây <color=Wind>sát thương Khí Động</color> cho mục tiêu."
+lang_multi_text.db,MultiText,Skill_1004103_SkillDescribe,"对范围内的目标造成<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。
+仇远暴击高于{0}时，每多出{1}暴击，施放该技能时，附近队伍中的登场角色提升{2}暴击伤害，持续{3}秒。最高可提升{4}暴击伤害。","Deal <color=Wind>Aero DMG</color> to targets within range, considered as Echo Skill DMG.
+For every {1} of Qiuyuan's Crit. Rate over {0}, this skill increases the Crit. DMG of all nearby active Resonators in the team by {2} for {3}s, up to {4}.","Gây <color=Wind>sát thương Khí Động</color> cho mục tiêu trong phạm vi, sát thương lần này được tính là sát thương Thanh Hài Kỹ.
+Khi tỷ lệ bạo kích của Qiuyuan cao hơn {0}, cứ mỗi {1} tỷ lệ bạo kích vượt quá, khi thi triển kỹ năng này, nhân vật đang ra trận trong đội hình gần đó được tăng {2} sát thương bạo kích, duy trì {3} giây. Tối đa có thể tăng {4} sát thương bạo kích."
+lang_multi_text.db,MultiText,Skill_1004103_SkillName,万钧一断,Sundering Strike,Vạn Quân Nhất Đoạn
+lang_multi_text.db,MultiText,Skill_1004103_SkillResume,"造成<color=Wind>气动伤害</color>。
+仇远暴击高于{0}时，每多出{1}暴击，施放该技能时，附近队伍中的登场角色提升{2}暴击伤害，持续{3}秒。最高可提升{4}暴击伤害。","Deal <color=Wind>Aero DMG</color>.
+For every {1} of Qiuyuan's Crit. Rate over {0}, this skill increases the Crit. DMG of all nearby active Resonators in the team by {2} for {3}s, maxed at {4}.","Gây <color=Wind>sát thương Khí Động</color>.
+Khi tỷ lệ bạo kích của Qiuyuan cao hơn {0}, cứ mỗi {1} tỷ lệ bạo kích vượt quá, khi thi triển kỹ năng này, nhân vật đang ra trận trong đội hình gần đó được tăng {2} sát thương bạo kích, duy trì {3} giây. Tối đa có thể tăng {4} sát thương bạo kích."
+lang_multi_text.db,MultiText,Skill_1004104_SkillDescribe,"进入【<te href=141102>淋漓醉墨</te>】状态时，仇远获得<color=Highlight>且从容</color>效果，持续{0}秒，该效果每{3}秒可触发1次。
+目标受到重击<color=Highlight>答剑·弦歌不辍</color>、<color=Highlight>答剑·割股之心</color>、<color=Highlight>答剑·忠烈死节</color>的伤害提升{1}。<color=Highlight>答剑·忠烈死节</color>在命中目标时，额外回复{2}点协奏能量。
+·切换至其他角色时，效果提前结束。","Qiuyuan obtains <color=Highlight>Quietude Within</color> for {0}s upon entering the <te href=141102>Inksplash of Mind</te> state. This effect can be triggered once every {3}s.
+Heavy Attack <color=Highlight>Thus Spoke the Blade: To Teach</color>, <color=Highlight>Thus Spoke the Blade: To Save</color>, and <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> deal {1} more DMG. <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> additionally restores <SapTag=2>{2}</SapTag> {Cus:Sap,S=point P=points SapTag=2} of Concerto Energy on hit.
+- This effect ends early when Qiuyuan is switched off the field.","Khi tiến vào trạng thái [<te href=141102>Lâm Li Túy Mặc</te>], Qiuyuan nhận được hiệu ứng <color=Highlight>Thả Thung Dung</color>, duy trì {0} giây, hiệu ứng này mỗi {3} giây có thể kích hoạt 1 lần.
+Sát thương mục tiêu nhận từ Trọng Kích <color=Highlight>Đáp Kiếm - Huyền Ca Bất Xuyết</color>, <color=Highlight>Đáp Kiếm - Cát Cổ Chi Tâm</color>, <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> tăng {1}. <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> khi trúng mục tiêu, hồi phục thêm {2} điểm năng lượng Hiệp Tấu.
+- Khi chuyển sang nhân vật khác, hiệu ứng kết thúc sớm."
+lang_multi_text.db,MultiText,Skill_1004104_SkillName,且从容,Quietude Within,Thả Thung Dung
+lang_multi_text.db,MultiText,Skill_1004104_SkillResume,"进入【<te href=141102>淋漓醉墨</te>】状态时，仇远获得<color=Highlight>且从容</color>效果，持续{0}秒，该效果每{3}秒可触发1次。
+目标受到重击<color=Highlight>答剑·弦歌不辍</color>、<color=Highlight>答剑·割股之心</color>、<color=Highlight>答剑·忠烈死节</color>的伤害提升{1}。<color=Highlight>答剑·忠烈死节</color>在命中目标时，额外回复{2}点协奏能量。
+·切换至其他角色时，效果提前结束。","Qiuyuan obtains <color=Highlight>Quietude Within</color> for {0}s upon entering the <te href=141102>Inksplash of Mind</te> state. This effect can be triggered once every {3}s.
+Heavy Attack <color=Highlight>Thus Spoke the Blade: To Teach</color>, <color=Highlight>Thus Spoke the Blade: To Save</color>, and <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> deal {1} more DMG. <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> additionally restores <SapTag=2>{2}</SapTag> {Cus:Sap,S=point P=points SapTag=2} of Concerto Energy on hit.
+- This effect ends early when Qiuyuan is switched off the field.","Khi tiến vào trạng thái [<te href=141102>Lâm Li Túy Mặc</te>], Qiuyuan nhận được hiệu ứng <color=Highlight>Thả Thung Dung</color>, duy trì {0} giây, hiệu ứng này mỗi {3} giây có thể kích hoạt 1 lần.
+Sát thương mục tiêu nhận từ Trọng Kích <color=Highlight>Đáp Kiếm - Huyền Ca Bất Xuyết</color>, <color=Highlight>Đáp Kiếm - Cát Cổ Chi Tâm</color>, <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> tăng {1}. <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color> khi trúng mục tiêu, hồi phục thêm {2} điểm năng lượng Hiệp Tấu.
+- Khi chuyển sang nhân vật khác, hiệu ứng kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1004105_SkillDescribe,"仇远施放声骸技能时，仇远的竹壶会吸收溢散的能量转化为<color=Highlight>【金药玉馔】</color>。
 下次获得【<te href=141101>挑灯问剑</te>】时，消耗<color=Highlight>【金药玉馔】</color>，仇远攻击提升{0}，持续{1}秒。","When casting Echo Skill, Qiuyuan's bamboo flask absorbs the overflowing energy and brews it into <color=Highlight>Flowing Panacea</color>.
 The next time <te href=141101>Swordster's Soliloquy</te> is obtained, the <color=Highlight>Flowing Panacea</color> is consumed to gain {0} ATK increase for {1}s.","Khi Qiuyuan thi triển Thanh Hài Kỹ, bình trúc của Qiuyuan sẽ hấp thu năng lượng tràn ra và chuyển hóa thành <color=Highlight>[Kim Dược Ngọc Soạn]</color>.
@@ -120,7 +205,7 @@ Giới hạn [Khiêu Đăng Vấn Kiếm] là {5} điểm.
 - Trong trạng thái [Lâm Ly Túy Mặc], không thể nhận [Khiêu Đăng Vấn Kiếm].
 - Khi trạng thái [Lâm Ly Túy Mặc] kết thúc, [Khiêu Đăng Vấn Kiếm] bị xóa sạch."
 lang_multi_text.db,MultiText,Skill_1004108_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1004108_SkillName,巧手烹调,Skillful Cooking,Xảo Thủ Phanh Điều
+lang_multi_text.db,MultiText,Skill_1004108_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
 lang_multi_text.db,MultiText,Skill_1004109_MultiSkillDescribe,附近队伍中激活延奏技能的角色声骸技能伤害加深{1}，持续{2}秒，若切换至其他角色则该效果提前结束。,"Grant {1} Echo Skill DMG Amplification to the nearby Resonator who activates Qiuyuan's Outro Skill, lasting for {2}s or until the Resonator is switched out.","Nhân vật trong đội hình gần đó kích hoạt Hiệp Tấu Kỹ sẽ nhận gia tăng khuếch đại sát thương Thanh Hài Kỹ {1}, kéo dài {2} giây, nếu chuyển sang nhân vật khác thì hiệu ứng kết thúc sớm."
 lang_multi_text.db,MultiText,Skill_1004109_SkillDescribe,"攻击目标，造成仇远自身{0}攻击的<color=Wind>气动伤害</color>，此次伤害视为声骸技能伤害。
 下一个登场角色声骸技能伤害加深{1}，持续{2}秒，若切换至其他角色则该效果提前结束。","Attack the target, dealing <color=Wind>Aero DMG</color> equal to {0} of Qiuyuan's ATK, considered as Echo Skill DMG.
@@ -697,7 +782,7 @@ Trong trạng thái <color=Highlight>Kéo Lê Huyền Chung Cục</color>:
 - Sau khi tấn công trúng, tăng giới hạn tầng <color=Highlight>[<te href=850180>Dị Thường Hiệu Ứng</te>]</color> và <color=Highlight>[<te href=150806>Điện Từ Bộc Phát</te>]</color> trên mục tiêu thêm {1} tầng, kéo dài {2} giây. Hiệu ứng này không cộng dồn.
 - Sau khi gắn <color=Highlight>[<te href=850180>Dị Thường Hiệu Ứng</te>]</color> hoặc gây <color=Highlight><te href=150811>sát thương Dị Thường Hiệu Ứng</te></color>, nhận được <color=Highlight><te href=150802>Hư Diệt Chi Tuyến</te></color>, kéo dài {3} giây."
 lang_multi_text.db,MultiText,Skill_1004208_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1004208_SkillName,巧手烹调,Skillful Cooking,Xảo Thủ Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1004208_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
 lang_multi_text.db,MultiText,Skill_1004208_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1004209_SkillDescribe,"附近队伍中所有角色获得<color=Highlight>拖曳终焉之弦</color>，持续{0}秒。
 <color=Highlight>拖曳终焉之弦</color>状态下：
@@ -987,9 +1072,9 @@ Tấn công mục tiêu, gây <color=Thunder>sát thương Dẫn Điện</color>
 <size=40><color=Title>Quy tắc nhận [Thiếu Dương] và [Thiếu Âm]</color></size>
 - Nhận được [Thiếu Dương] sau khi thi triển <color=Highlight>Trọng Kích - Sơn Lôi Di</color> hoặc <color=Highlight>Trọng Kích - Lôi Sơn Tiểu Quá</color>.
 - Nhận được [Thiếu Âm] sau khi thi triển <color=Highlight>Trọng Kích - Cấn Vi Sơn</color> hoặc <color=Highlight>Trọng Kích - Chấn Vi Lôi</color>."
-lang_multi_text.db,MultiText,Skill_1004308_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1004308_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1004308_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
-lang_multi_text.db,MultiText,Skill_1004308_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại có xác suất tạo ra món ăn đặc biệt khi nấu ăn.
+lang_multi_text.db,MultiText,Skill_1004308_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
 lang_multi_text.db,MultiText,Skill_1004309_MultiSkillDescribe,附近队伍中激活卜灵延奏技能的角色每秒回复卜灵{0}攻击的生命值，持续{1}秒。附近队伍中所有角色全伤害加深{2}，持续{3}秒。,The nearby Resonator in the team who activates Buling's Outro Skill is healed by {0} of Buling's ATK per second for {1}s. All nearby Resonators in the team have their DMG Amplified by {2} for {3}s.,"Nhân vật kích hoạt Hiệp Tấu Kỹ của Buling trong đội hình gần đó mỗi giây hồi phục lượng sinh mệnh bằng {0} tấn công của Buling, kéo dài {1} giây. Tất cả nhân vật trong đội hình gần đó được Khuếch Đại toàn bộ sát thương thêm {2}, kéo dài {3} giây."
 lang_multi_text.db,MultiText,Skill_1004309_SkillDescribe,持续为队伍中登场角色回复生命值，每秒回复卜灵{0}攻击的生命值，持续{1}秒。附近队伍中所有角色全伤害加深{2}，持续{3}秒。,Heal the active Resonator in the team by {0} of Buling's ATK per second for {1}s. All nearby Resonators in the team have their DMG Amplified by {2} for {3}s.,"Liên tục hồi phục sinh mệnh cho nhân vật đang xuất trận trong đội hình, mỗi giây hồi phục lượng sinh mệnh bằng {0} tấn công của Buling, kéo dài {1} giây. Tất cả nhân vật trong đội hình gần đó được Khuếch Đại toàn bộ sát thương thêm {2}, kéo dài {3} giây."
 lang_multi_text.db,MultiText,Skill_1004309_SkillName,役将驱邪,Exorcism Spell,Dịch Tướng Khu Tà
@@ -1364,115 +1449,3 @@ Khi ở trong <color=Highlight><te href=120901>Chế Độ Cơ Chuẩn</te></col
 <color=Highlight>[Tương Đối Động Năng]</color> giới hạn tối đa {0} điểm.
 Khi ở trong <color=Highlight><te href=120902>Chế Độ Quan Trắc Quảng Vực</te></color>, khi <color=Highlight>Phổ Công - Chế Độ Quan Trắc Quảng Vực</color>, <color=Highlight>Phản Kích Né Tránh - Chế Độ Quan Trắc Quảng Vực</color>, <color=Highlight>Kỹ Năng Cộng Hưởng - Trận Liệt Phân Tán</color> trúng mục tiêu, nhận được <color=Highlight>[Tương Đối Động Năng]</color>.
 Trong quá trình thi triển <color=Highlight>Trọng Kích - Phản Diễn</color>, không thể nhận <color=Highlight>[Tương Đối Động Năng]</color>."
-lang_multi_text.db,MultiText,Skill_1004407_SkillName,质能等价,Mass-Energy Equivalence,Chất Năng Đẳng Giá
-lang_multi_text.db,MultiText,Skill_1004407_SkillResume,"<size=40><color=Title>【特殊能量】机制</color></size>
-莫宁处于地面时，可获得<color=Highlight>【地面模式能量】</color>。
-莫宁处于空中时，可获得<color=Highlight>【空中模式能量】</color>。
-<size=10></size>
-<size=40><color=Title>地面强化重击</color></size>
-<color=Highlight>【地面模式能量】</color>满时可施放<color=Highlight>地面强化重击</color>。
-消耗全部<color=Highlight>【地面模式能量】</color>，造成<color=Fire>热熔伤害</color>，进入<color=Highlight>空中模式</color>。
-<size=10></size>
-<size=40><color=Title>空中模式</color></size>
-<color=Highlight>空中模式</color>持续{11}秒。进入该模式时展开<color=Highlight>领域</color>，造成<color=Fire>热熔伤害</color>。
-<size=10></size>
-<size=40><color=Title>领域</color></size>
-·<color=Highlight>领域</color>持续{1}秒。
-·持续回复附近队伍中登场角色的生命值。
-·附近队伍中所有角色<color=Highlight>偏谐值累积效率</color>提升，附近队伍中登场角色抗打断提升。
-<size=10></size>
-<size=40><color=Title>空中强化重击</color></size>
-<color=Highlight>【空中模式能量】</color>满时可施放<color=Highlight>空中强化重击</color>。
-消耗全部<color=Highlight>【空中模式能量】</color>，造成<color=Fire>热熔伤害</color>，为目标附加<color=Highlight>标记</color>，持续{4}秒。
-<size=10></size>
-<size=40><color=Title>标记</color></size>
-对被<color=Highlight>标记</color>的目标造成<color=Highlight>【谐度破坏】</color>伤害后，为其附加<color=Highlight>强化标记</color>，持续{5}秒。
-<size=10></size>
-<size=40><color=Title>强化标记</color></size>
-若目标处于<color=Highlight>【震谐·干涉】</color>或<color=Highlight>【集谐·干涉】</color>状态，则附近队伍中所有角色对其造成的伤害提升。
-<size=10></size>
-<size=40><color=Title>视域</color></size>
-拥有<color=Highlight>标记</color>或<color=Highlight>强化标记</color>状态的目标被击败后，一定时间内队伍中的角色造成伤害后对目标附加<color=Highlight>标记</color>。
-<size=10></size>
-<size=40><color=Title>震谐响应·粒子射流</color></size>
-莫宁对目标造成<color=Fire>热熔伤害</color>，视为<color=Highlight>震谐伤害</color>。","<size=40><color=Title>Forte Gauge</color></size>
-Mornye gains <color=Highlight>Ground Mode Energy</color> while on the ground, and <color=Highlight>Hovering Mode Energy</color> while in the air.
-<size=10></size>
-<size=40><color=Title>Enhanced Ground Heavy Attack</color></size>
-With full <color=Highlight>Ground Mode Energy</color>, <color=Highlight>Enhanced Ground Heavy Attack</color> becomes available.
-Consume all <color=Highlight>Ground Mode Energy</color> to cast <color=Highlight>Enhanced Ground Heavy Attack</color>, dealing <color=Fire>Fusion DMG</color>. Afterward, enter <color=Highlight>Hovering Mode</color>.
-<size=10></size>
-<size=40><color=Title>Hovering Mode</color></size>
-<color=Highlight>Hovering Mode</color> lasts for {11}s.
-- Upon entering this mode, generate a <color=Highlight>Field</color>, dealing <color=Fire>Fusion DMG</color>.
-<size=10></size>
-<size=40><color=Title>Field</color></size>
-- <color=Highlight>Field</color> lasts for {1}s.
-- Continuously restores HP for nearby active Resonators in the team.
-- Increases the <color=Highlight>Off-Tune Buildup Rate</color> of all nearby Resonators in the team. Increases resistance to interruption of the nearby active Resonators in the team.
-<size=10></size>
-<size=40><color=Title>Enhanced Mid-air Heavy Attack</color></size>
-With full <color=Highlight>Hovering Mode Energy</color>, <color=Highlight>Enhanced Mid-air Heavy Attack</color> becomes available.
-Consume all <color=Highlight>Hovering Mode Energy</color> to cast <color=Highlight>Enhanced Mid-air Heavy Attack</color>, dealing <color=Fire>Fusion DMG</color> and <color=Highlight>Marking</color> the target for {4}s.
-<size=10></size>
-<size=40><color=Title>Marker</color></size>
-Upon dealing <color=Highlight>Tune Break</color> DMG to a <color=Highlight>Marked</color> target, inflict an <color=Highlight>Enhanced Marker</color> on the target for {5}s.
-<size=10></size>
-<size=40><color=Title>Enhanced Marker</color></size>
-All nearby Resonators in the team deal more DMG to targets affected by <color=Highlight>Tune Rupture - Interfered</color> or <color=Highlight>Tune Strain - Interfered</color>.
-<size=10></size>
-<size=40><color=Title>Visual Field</color></size>
-When a target with <color=Highlight>Marker</color> or <color=Highlight>Enhanced Marker</color> is defeated, within a certain period of time, whenever a Resonator in the team deals damage, Mornye <color=Highlight>Marks</color> the targets hit.
-<size=10></size>
-<size=40><color=Title>Tune Rupture Response - Particle Jet</color></size>
-Mornye deals <color=Fire>Fusion DMG</color>, considered <color=Highlight>Tune Rupture DMG</color>.","<size=40><color=Title>Cơ chế[Năng Lượng Đặc Biệt]</color></size>
-Khi Mornye ở mặt đất, có thể tích lũy <color=Highlight>[Năng Lượng Chế Độ Mặt Đất]</color>.
-Khi Mornye ở trên không, có thể tích lũy <color=Highlight>[Năng Lượng Chế Độ Trên Không]</color>.
-<size=10></size>
-<size=40><color=Title>Trọng Kích Cường Hóa Mặt Đất</color></size>
-Khi <color=Highlight>[Năng Lượng Chế Độ Mặt Đất]</color> đầy, có thể thi triển <color=Highlight>Trọng Kích Cường Hóa Mặt Đất</color>.
-Tiêu hao toàn bộ <color=Highlight>[Năng Lượng Chế Độ Mặt Đất]</color>, gây <color=Fire>sát thương Nhiệt Dung</color>, tiến vào <color=Highlight>Chế Độ Trên Không</color>.
-<size=10></size>
-<size=40><color=Title>Chế Độ Trên Không</color></size>
-<color=Highlight>Chế Độ Trên Không</color> duy trì {11} giây. Khi tiến vào chế độ này, triển khai <color=Highlight>Lĩnh Vực</color>, gây <color=Fire>sát thương Nhiệt Dung</color>.
-<size=10></size>
-<size=40><color=Title>Lĩnh Vực</color></size>
-- <color=Highlight>Lĩnh Vực</color> duy trì {1} giây.
-- Liên tục hồi phục sinh lực cho nhân vật đang ra trận trong đội ở gần.
-- Tất cả nhân vật trong đội ở gần được tăng <color=Highlight>hiệu suất tích lũy giá trị Thiên Hài</color>, nhân vật đang ra trận trong đội ở gần được tăng kháng gián đoạn.
-<size=10></size>
-<size=40><color=Title>Trọng Kích Cường Hóa Trên Không</color></size>
-Khi <color=Highlight>[Năng Lượng Chế Độ Trên Không]</color> đầy, có thể thi triển <color=Highlight>Trọng Kích Cường Hóa Trên Không</color>.
-Tiêu hao toàn bộ <color=Highlight>[Năng Lượng Chế Độ Trên Không]</color>, gây <color=Fire>sát thương Nhiệt Dung</color>, gắn <color=Highlight>Dấu Ấn</color> cho mục tiêu, duy trì {4} giây.
-<size=10></size>
-<size=40><color=Title>Dấu Ấn</color></size>
-Sau khi gây sát thương <color=Highlight>[Hài Độ Phá Hoại]</color> lên mục tiêu mang <color=Highlight>Dấu Ấn</color>, sẽ gắn <color=Highlight>Dấu Ấn Cường Hóa</color> cho mục tiêu, duy trì {5} giây.
-<size=10></size>
-<size=40><color=Title>Dấu Ấn Cường Hóa</color></size>
-Nếu mục tiêu ở trạng thái <color=Highlight>[Chấn Hài - Can Thiệp]</color> hoặc <color=Highlight>[Tập Hài - Can Thiệp]</color>, thì tất cả nhân vật trong đội ở gần gây sát thương lên mục tiêu được tăng.
-<size=10></size>
-<size=40><color=Title>Thị Vực</color></size>
-Sau khi mục tiêu mang <color=Highlight>Dấu Ấn</color> hoặc <color=Highlight>Dấu Ấn Cường Hóa</color> bị đánh bại, trong một khoảng thời gian nhất định, khi nhân vật trong đội gây sát thương sẽ gắn <color=Highlight>Dấu Ấn</color> lên mục tiêu.
-<size=10></size>
-<size=40><color=Title>Phản Ứng Chấn Hài - Tia Hạt Tử</color></size>
-Mornye gây <color=Fire>sát thương Nhiệt Dung</color> lên mục tiêu, được coi là <color=Highlight>sát thương Chấn Hài</color>."
-lang_multi_text.db,MultiText,Skill_1004408_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1004408_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
-lang_multi_text.db,MultiText,Skill_1004408_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
-lang_multi_text.db,MultiText,Skill_1004409_MultiSkillDescribe,"附近队伍中激活莫宁延奏技能的角色获得以下效果：
-队伍中的角色全伤害加深{0}，持续{1}秒。","Nearby Resonators in the team who activate Mornye's Outro Skill gain the following effect:
-Resonators in the team gain {0} All DMG Amplification for {1}s.","Nhân vật trong đội ở gần kích hoạt Diên Tấu Kỹ của Mornye nhận được hiệu ứng sau:
-Tất cả nhân vật trong đội được tăng toàn bộ sát thương {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1004409_SkillDescribe,队伍中的角色全伤害加深{0}，持续{1}秒。,Resonators in the team gain {0} All DMG Amplification for {1}s.,"Tất cả nhân vật trong đội được tăng toàn bộ sát thương {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1004409_SkillName,递归,Recursion,Đệ Quy
-lang_multi_text.db,MultiText,Skill_1004409_SkillResume,队伍中的角色全伤害加深，持续{1}秒。,Resonators in the team gain All DMG Amplification for {1}s.,"Tất cả nhân vật trong đội được tăng toàn bộ sát thương, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1004410_SkillDescribe,"莫宁拥有响应<color=Highlight><te href=100004>【震谐·干涉】</te></color>和<color=Highlight><te href=100005>【集谐·干涉】</te></color>的能力。
-响应<color=Highlight><te href=100004>【震谐·干涉】</te></color>：队伍中的角色对目标造成<color=Highlight><te href=100001>【谐度破坏】</te></color>伤害并使其进入<color=Highlight><te href=100004>【震谐·干涉】</te></color>状态时，莫宁将施放<color=Highlight>震谐响应·粒子射流</color>，同一目标每{0}秒仅可受到1次该伤害。
-响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>：目标每有一层<color=Highlight><te href=100005>【集谐·干涉】</te></color>可使莫宁对其造成的最终伤害提升，莫宁的每点<color=Highlight>谐度破坏增幅</color>计入{1}的最终伤害提升。莫宁处于编队中时，目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>层数上限增加{2}层。
-此外，目标<color=Highlight>【偏谐值】</color>满时，莫宁可对其施放<color=Highlight><te href=100001>【谐度破坏】</te></color>。","Mornye can respond to <color=Highlight><te href=100004>Tune Rupture - Interfered</te></color> and <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>.
-- Responding to <color=Highlight><te href=100004>Tune Rupture - Interfered</te></color>: When any Resonator in the team deals <color=Highlight><te href=100001>Tune Break</te></color> DMG and inflicts <color=Highlight><te href=100004>Tune Rupture - Interfered</te></color>, Mornye casts <color=Highlight>Tune Rupture Response - Particle Jet</color>. Each target can be damaged by this skill up to once every {0}s.
-- Responding to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>: Each stack of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target increases Mornye's total DMG against them. Each point of Mornye's <color=Highlight>Tune Break Boost</color> increases the total DMG by {1}. While Mornye is in the team, the max stack limit of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on a target is increased by {2}.
-Mornye can perform <color=Highlight><te href=100001>Tune Break</te></color> against the targets with full <color=Highlight>Off-Tune Level</color>.","Mornye có khả năng phản ứng với <color=Highlight><te href=100004>[Chấn Hài - Can Thiệp]</te></color> và <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>.
-Phản ứng <color=Highlight><te href=100004>[Chấn Hài - Can Thiệp]</te></color>: khi nhân vật trong đội gây sát thương <color=Highlight><te href=100001>[Hài Độ Phá Hoại]</te></color> lên mục tiêu và khiến mục tiêu tiến vào trạng thái <color=Highlight><te href=100004>[Chấn Hài - Can Thiệp]</te></color>, Mornye sẽ thi triển <color=Highlight>Phản Ứng Chấn Hài - Tia Hạt Tử</color>, cùng một mục tiêu mỗi {0} giây chỉ có thể nhận 1 lần sát thương này.
-Phản ứng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>: mỗi tầng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu giúp tăng sát thương cuối cùng mà Mornye gây ra cho mục tiêu đó, mỗi điểm <color=Highlight>Hài Độ Phá Hoại Tăng Phúc</color> của Mornye được tính thành {1} tăng sát thương cuối cùng. Khi Mornye ở trong đội, giới hạn tầng tối đa <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu tăng thêm {2} tầng.
-Ngoài ra, khi <color=Highlight>[Giá Trị Thiên Hài]</color> của mục tiêu đầy, Mornye có thể thi triển <color=Highlight><te href=100001>[Hài Độ Phá Hoại]</te></color> lên mục tiêu."

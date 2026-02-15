@@ -1,4 +1,41 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,GuideTutorialPage_37014_Content,「领域」是在拉海洛版本《荣耀之丘》中新增加的卡牌类别。「领域」具有相当强大的力量，足以影响决斗的胜负。,Domain is a new card category added to the Lahai-Roi version of Peaks of Prestige. These cards possess extremely powerful abilities that can shift the tide of any duel.,"""Lãnh Vực"" là loại thẻ bài mới được thêm vào phiên bản Lahai-Roi của ""Đỉnh Vinh Quang"". ""Lãnh Vực"" sở hữu sức mạnh vô cùng to lớn, đủ để thay đổi cục diện trận đấu."
+lang_multi_text.db,MultiText,GuideTutorialPage_3701602_Content,"使用<color=#ffd12f>方向输入</color>来控制阻断器移动方向，操控<color=#ffd12f>立方阻断器</color>移动到<color=#ffd12f>线路终点模块</color>即可使智造立方恢复成正常的工作状态。
+长型立方阻断器（1x2）需要完全对准才能触发智造立方的编译。
+使用<color=#ffd12f>重置</color>按钮，可以刷新当前进度。","Use <color=#ffd12f>Directional Input</color> to control the Blocker's movements. Move the <color=#ffd12f>Cube Blocker</color> to the <color=#ffd12f>Endpoint Module</color> to bring the Smartprint Cube back online.
+Long Cube Blockers (1x2) must be perfectly aligned to trigger the Smartprint Cube's compilation.
+Use the <color=#ffd12f>Reset</color> button to reset the progress.","Sử dụng <color=#ffd12f>Nhập hướng</color> để điều khiển hướng di chuyển của Bộ Chặn, điều khiển <color=#ffd12f>Bộ Chặn Lập Phương</color> di chuyển đến <color=#ffd12f>Mô-đun Điểm Cuối</color> để khôi phục Khối Trí Tạo về trạng thái hoạt động bình thường.
+Bộ Chặn Lập Phương dạng dài (1x2) cần căn chỉnh hoàn toàn mới có thể kích hoạt biên dịch của Khối Trí Tạo.
+Sử dụng nút <color=#ffd12f>Đặt lại</color> để làm mới tiến trình hiện tại."
+lang_multi_text.db,MultiText,GuideTutorialPage_37016_Content,"<color=#ffd12f>立方阻断器</color>是智造立方的核心元件，可沿着设施内部的线路模块移动，移动时需要目标线路模块存在足够的安全空间。
+<color=#ffd12f>立方阻断器</color>存在两种形状，移动时所需占据的安全空间也不同。","<color=#ffd12f>Cube Blocker</color> is the core component of the Smartprint Cube. It can be moved along the circuit as long as there is enough secure space along its path.
+<color=#ffd12f>Cube Blockers</color> come in two forms, each with different secure space requirements to move.","<color=#ffd12f>Bộ Chặn Lập Phương</color> là linh kiện cốt lõi của Khối Trí Tạo, có thể di chuyển dọc theo các mô-đun mạch bên trong thiết bị, khi di chuyển cần có đủ không gian an toàn tại mô-đun mạch đích.
+<color=#ffd12f>Bộ Chặn Lập Phương</color> có hai dạng hình dáng, không gian an toàn cần chiếm dụng khi di chuyển cũng khác nhau."
+lang_multi_text.db,MultiText,GuideTutorialPage_37017_Content,"会将立方阻断器向箭头方向弹跳两格距离，可跨过线路模块上的故障元件。
+长型立方阻断器需要完全对准才能触发。
+如果目标线路模块没有足够的安全空间，弹跳不会触发。","Bounce Modules launch the Cube Blocker two blocks in the arrow's direction, allowing the Blocker to bypass faulty components on circuit modules.
+Long Cube Blockers must be perfectly aligned to trigger this module.
+The module will not be triggered if there is not enough secure space for the Blocker in the target direction.","Sẽ đẩy Bộ Chặn Lập Phương bật nhảy hai ô theo hướng mũi tên, có thể vượt qua linh kiện hỏng trên mô-đun mạch.
+Bộ Chặn Lập Phương dạng dài cần căn chỉnh hoàn toàn mới có thể kích hoạt.
+Nếu mô-đun mạch đích không có đủ không gian an toàn, hiệu ứng bật nhảy sẽ không kích hoạt."
+lang_multi_text.db,MultiText,GuideTutorialPage_3701802_Content,"移动到按钮位置上，会将连线的故障元件破坏掉。
+长型立方阻断器需要完全对准才能触发。","Move the Blocker to the button connected to the Faulty Component to break the component.
+Long Cube Blockers must be perfectly aligned to trigger the module.","Di chuyển đến vị trí nút bấm sẽ phá hủy linh kiện hỏng được kết nối.
+Bộ Chặn Lập Phương dạng dài cần căn chỉnh hoàn toàn mới có thể kích hoạt."
+lang_multi_text.db,MultiText,GuideTutorialPage_37018_Content,线路模块上的故障元件，不可通行，可通过其它机制破坏。,Faulty Components in the circuit cannot be passed through and can be destroyed through other means.,"Linh kiện hỏng trên mô-đun mạch không thể đi qua, có thể phá hủy thông qua các cơ chế khác."
+lang_multi_text.db,MultiText,GuideTutorialPage_37019_Content,立方阻断器经过该模块后，模块会破裂消失。,The module will crack and disappear after the Cube Blocker passes through.,"Sau khi Bộ Chặn Lập Phương đi qua mô-đun này, mô-đun sẽ vỡ nứt và biến mất."
+lang_multi_text.db,MultiText,GuideTutorialPage_37020_Content,"部分编译过程将存在多个立方阻断器，需要同时到达线路终点模块才能完成编译。
+此外，移动中只能操控一个立方阻断器，使用<color=#ffd12f>切换</color>按钮可以切换当前操控的阻断器。","Some compilation processes will involve multiple Cube Blockers. All Cube Blockers must reach the corresponding Endpoint Module to complete compilation.
+You can only control one Cube Blocker at a time. Use the <color=#ffd12f>Switch</color> button to change between Blockers.","Một số quá trình biên dịch sẽ có nhiều Bộ Chặn Lập Phương, tất cả cần đồng thời đến được Mô-đun Điểm Cuối mới hoàn thành biên dịch.
+Ngoài ra, trong quá trình di chuyển chỉ có thể điều khiển một Bộ Chặn Lập Phương, sử dụng nút <color=#ffd12f>Chuyển đổi</color> để chuyển sang Bộ Chặn đang điều khiển khác."
+lang_multi_text.db,MultiText,GuideTutorialPage_3702603_Content,核心声骸十分强大，建议优先完成核心挑战，来使用核心声骸奠定胜局,Core Echoes are extremely powerful. It is recommended that you complete the Trial so that you can use the Core Echo to win the duel.,Thanh Hài Cốt Lõi vô cùng mạnh mẽ. Khuyến nghị ưu tiên hoàn thành thử thách cốt lõi để sử dụng Thanh Hài Cốt Lõi giành chiến thắng.
+lang_multi_text.db,MultiText,GuideTutorialPage_3702802_Content,"当阻断器经过<color=#ffd12f>数据扩散模块</color>时，线路模块场地上所有的<color=#ffd12f>数据虚影模块</color>都会进行<color=#ffd12f>形态切换</color>
+但如若已经有阻断器停留在<color=#ffd12f>数据虚影模块</color>上，则该<color=#ffd12f>数据虚影模块</color>不会进行<color=#ffd12f>形态切换</color>
+长型立方阻断器（1x2）需要完全对准数据扩散模块才能触发。","When a Blocker passes through a <color=#ffd12f>Data Expansion Module</color>, all <color=#ffd12f>Digital Shadow Modules</color> on the circuit will undergo a <color=#ffd12f>Form Shift</color>.
+However, if another Blocker is already positioned on a <color=#ffd12f>Quantum General Module</color>, the corresponding <color=#ffd12f>Digital Shadow Module</color> will not shift forms.
+Long Cube Blockers (1×2) must be perfectly aligned with the Data Expansion Module to trigger its effect.","Khi Bộ Chặn đi qua <color=#ffd12f>Mô-đun Khuếch Tán Dữ Liệu</color>, tất cả <color=#ffd12f>Mô-đun Ảo Ảnh Dữ Liệu</color> trên sân mô-đun mạch sẽ tiến hành <color=#ffd12f>chuyển đổi hình thái</color>.
+Tuy nhiên, nếu đã có Bộ Chặn đang dừng trên <color=#ffd12f>Mô-đun Ảo Ảnh Dữ Liệu</color>, thì <color=#ffd12f>Mô-đun Ảo Ảnh Dữ Liệu</color> đó sẽ không tiến hành <color=#ffd12f>chuyển đổi hình thái</color>.
+Bộ Chặn Lập Phương dạng dài (1x2) cần căn chỉnh hoàn toàn với Mô-đun Khuếch Tán Dữ Liệu mới có thể kích hoạt."
 lang_multi_text.db,MultiText,GuideTutorialPage_37028_Content,"线路模块场地上存在多样化的<color=#ffd12f>数据虚影模块</color>
 <color=#ffd12f>数据虚影模块</color>存在两种形态：
 <color=#ffd12f>实体态</color>下的<color=#ffd12f>数据虚影模块</color>会阻拦立方阻断器经过
@@ -69,7 +106,7 @@ Levitator allows you to control highlighted objects and throw them at specific t
 Nhân vật có thể điều khiển một số vật thể đặc biệt trong cảnh. Vật thể có thể điều khiển có ngoại quan đặc biệt hoặc mang ký hiệu riêng. Sau khi nắm bắt vật thể, có thể ném về phía mục tiêu chỉ định trong cảnh, tạo ra nhiều hiệu ứng khác nhau."
 lang_multi_text.db,MultiText,GuideTutorialPage_5008_Content,激活小型信标后，打开地图界面，可选择已激活的信标进行快速旅行。,"After activating a Resonance Beacon, you can open the Map and fast travel to the activated Resonance Beacon.","Sau khi kích hoạt Tín Hiệu Nhỏ, mở giao diện bản đồ, có thể chọn tín hiệu đã kích hoạt để di chuyển nhanh."
 lang_multi_text.db,MultiText,GuideTutorialPage_5009_Content,中枢信标储存着周边区域的信息，激活后可获取对应的地图数据。,The Resonance Nexus stores information on the surrounding area. Activate it to obtain the corresponding Map data.,"Tín Hiệu Trung Khu lưu trữ thông tin khu vực xung quanh, kích hoạt để nhận dữ liệu bản đồ tương ứng."
-lang_multi_text.db,MultiText,GuideTutorialPage_5010_Content,受伤或失去意识的共鸣者可以在中枢信标处修整，以便<color=#ffd12f>恢复</color>至最佳状态。,Head to a Resonance Nexus to <color=#ffd12f>heal</color> injured or downed Resonators.,"Cộng Hưởng Giả bị thương hoặc mất ý thức có thể đến Tín Hiệu Trung Khu để chỉnh đốn, nhằm <color=#ffd12f>hồi phục</color> về trạng thái tốt nhất."
+lang_multi_text.db,MultiText,GuideTutorialPage_5010_Content,受伤或失去意识的共鸣者可以在中枢信标处修整，以便<color=#ffd12f>恢复</color>至最佳状态。,Head to a Resonance Nexus to <color=#ffd12f>heal</color> injured or downed Resonators.,Cộng Hưởng Giả bị thương hoặc mất ý thức có thể nghỉ ngơi tại Tín Hiệu Trung Tâm để <color=#ffd12f>hồi phục</color> trạng thái tốt nhất.
 lang_multi_text.db,MultiText,GuideTutorialPage_5011_Content,"受伤或失去意识的共鸣者可以在<color=#b49f50>中枢信标</color>处休整，以便恢复至最佳状态。
 如果一时无法前往最近的中枢信标，也可以通过<color=#b49f50>烹饪</color>将收集到的材料制成食物，吃下后可以补充体力，缓解伤情。","Injured or downed Resonators can rally at a<color=#b49f50>Resonance Nexus</color> to recover to their optimal state. 
 If you're temporarily unable to reach the nearest Resonance Nexus, you can <color=#b49f50>Cook</color> and consume food to restore Resonators' HP.","Cộng Hưởng Giả bị thương hoặc mất ý thức có thể đến <color=#b49f50>Tín Hiệu Trung Khu</color> để chỉnh đốn, nhằm hồi phục về trạng thái tốt nhất.
@@ -91,17 +128,17 @@ lang_multi_text.db,MultiText,GuideTutorial_30002_GroupName,共鸣解放,Resonanc
 lang_multi_text.db,MultiText,GuideTutorial_30003_GroupName,小型信标,Resonance Beacon,Tín hiệu nhỏ
 lang_multi_text.db,MultiText,GuideTutorial_30004_GroupName,声匣,Sonance Casket,Thanh Hạp
 lang_multi_text.db,MultiText,GuideTutorial_30005_GroupName,合成台,Synthesizer,Bàn Hợp Thành
-lang_multi_text.db,MultiText,GuideTutorial_30006_GroupName,中枢信标,Resonance Nexus,Tín hiệu Trung Khu
+lang_multi_text.db,MultiText,GuideTutorial_30006_GroupName,中枢信标,Resonance Nexus,Trung Khu Tín Tiêu
 lang_multi_text.db,MultiText,GuideTutorial_30007_GroupName,瘫痪,Immobilize,Tê Liệt
 lang_multi_text.db,MultiText,GuideTutorial_30008_GroupName,逆势回击,Counterattack,Nghịch Thế Phản Kích
 lang_multi_text.db,MultiText,GuideTutorial_30009_GroupName,成功闪避,Dodge,Né Tránh Thành Công
 lang_multi_text.db,MultiText,GuideTutorial_30010_GroupName,瘫痪,Immobilize,Tê Liệt
 lang_multi_text.db,MultiText,GuideTutorial_30011_GroupName,钩索与钩索点,Grapple & Grapple Point,Móc Câu và Điểm Móc Câu
 lang_multi_text.db,MultiText,GuideTutorial_30012_GroupName,爆炸果+控物,Explosive Charge & Levitator,Quả Nổ và Khống Vật
-lang_multi_text.db,MultiText,GuideTutorial_30013_GroupName,感知,Sensor,Cảm Tri
+lang_multi_text.db,MultiText,GuideTutorial_30013_GroupName,感知,Sensor,Cảm nhận
 lang_multi_text.db,MultiText,GuideTutorial_30014_GroupName,延奏技能与变奏技能,Outro Skill & Intro Skill,Hiệp Tấu Kỹ và Biến Tấu Kỹ
-lang_multi_text.db,MultiText,GuideTutorial_30015_GroupName,联觉经验与联觉等级,Union EXP & Union Level,Kinh Nghiệm Liên Giác và Cấp Liên Giác
-lang_multi_text.db,MultiText,GuideTutorial_30016_GroupName,探索工具,Utility,Công Cụ Khám Phá
+lang_multi_text.db,MultiText,GuideTutorial_30015_GroupName,联觉经验与联觉等级,Union EXP & Union Level,Kinh nghiệm Liên Giác & Cấp Liên Giác
+lang_multi_text.db,MultiText,GuideTutorial_30016_GroupName,探索工具,Utility,Công cụ khám phá
 lang_multi_text.db,MultiText,GuideTutorial_30017_GroupName,快速旅行,Fast Travel,Du Hành Nhanh
 lang_multi_text.db,MultiText,GuideTutorial_30018_GroupName,演算中枢,Resonance Nexus,Diễn Toán Trung Khu
 lang_multi_text.db,MultiText,GuideTutorial_30019_GroupName,势态重整,Rally,Thế Thái Trùng Chỉnh
@@ -111,10 +148,10 @@ lang_multi_text.db,MultiText,GuideTutorial_30022_GroupName,无音区·奖励,Tac
 lang_multi_text.db,MultiText,GuideTutorial_30023_GroupName,声匣交付,Sonance Casket Delivery,Giao Nạp Thanh Hạp
 lang_multi_text.db,MultiText,GuideTutorial_30024_GroupName,模拟训练场,Simulation Training Ground,Trường Huấn Luyện Mô Phỏng
 lang_multi_text.db,MultiText,GuideTutorial_30025_GroupName,声匣,Sonance Casket,Thanh Hạp
-lang_multi_text.db,MultiText,GuideTutorial_30026_GroupName,隙声蝶,Mutterfly,Điệp Thanh Khe
+lang_multi_text.db,MultiText,GuideTutorial_30026_GroupName,隙声蝶,Mutterfly,Khích Thanh Điệp
 lang_multi_text.db,MultiText,GuideTutorial_30027_GroupName,强击阵列,Training Dummy,Cường Kích Trận Liệt
 lang_multi_text.db,MultiText,GuideTutorial_30028_GroupName,速射标靶,Hover Target,Tốc Xạ Tiêu Bả
-lang_multi_text.db,MultiText,GuideTutorial_30029_GroupName,重力串流,Propulsion Flux,Dòng Trọng Lực
+lang_multi_text.db,MultiText,GuideTutorial_30029_GroupName,重力串流,Propulsion Flux,Trọng Lực Xuyến Lưu
 lang_multi_text.db,MultiText,GuideTutorial_30030_GroupName,联觉等级与联觉经验,Union Level & Union EXP,Cấp Liên Giác & Kinh Nghiệm Liên Giác
 lang_multi_text.db,MultiText,GuideTutorial_30031_GroupName,数据坞等级,Data Bank Level,Cấp Dữ Liệu Ổ
 lang_multi_text.db,MultiText,GuideTutorial_30032_GroupName,声骸挑战·咕咕河豚,Echo Challenge: Gulpuff,Thử Thách Thanh Hài: Gulpuff
@@ -122,28 +159,18 @@ lang_multi_text.db,MultiText,GuideTutorial_30033_GroupName,捕获频率信号,Ca
 lang_multi_text.db,MultiText,GuideTutorial_30034_GroupName,寻音溯源,Track Acoustic Print,Tầm Âm Truy Nguồn
 lang_multi_text.db,MultiText,GuideTutorial_30035_GroupName,深感相机,Zoom Camera,Camera Thâm Cảm
 lang_multi_text.db,MultiText,GuideTutorial_30036_GroupName,高能黑石与裂纹岩,Tacetite Fulminate & Fissured Ledge,Hắc Thạch Cao Năng & Nham Vết Nứt
-lang_multi_text.db,MultiText,GuideTutorial_31002_GroupName,风蚀效应,Aero Erosion Effect,Hiệu Ứng Phong Thực
+lang_multi_text.db,MultiText,GuideTutorial_31002_GroupName,风蚀效应,Aero Erosion Effect,Phong Thực Hiệu Ứng
 lang_multi_text.db,MultiText,GuideTutorial_31003_GroupName,电磁效应,Electro Flare Effect,Hiệu Ứng Điện Từ
 lang_multi_text.db,MultiText,GuideTutorial_31004_GroupName,霜渐效应,Glacio Chafe Effect,Hiệu Ứng Sương Tiệm
 lang_multi_text.db,MultiText,GuideTutorial_31005_GroupName,聚爆效应,Fusion Burst Effect,Hiệu Ứng Tụ Bạo
-lang_multi_text.db,MultiText,GuideTutorial_31006_GroupName,光噪效应,Spectro Frazzle Effect,Hiệu Ứng Quang Tạp
+lang_multi_text.db,MultiText,GuideTutorial_31006_GroupName,光噪效应,Spectro Frazzle Effect,Quang Tạo Hiệu Ứng
 lang_multi_text.db,MultiText,GuideTutorial_31007_GroupName,虚湮效应,Havoc Bane Effect,Hiệu Ứng Hư Yên
-lang_multi_text.db,MultiText,GuideTutorial_31008_GroupName,漂泊者·湮灭,Rover: Havoc,Lữ Khách - Yên Diệt
+lang_multi_text.db,MultiText,GuideTutorial_31008_GroupName,漂泊者·湮灭,Rover: Havoc,Lữ Khách: Yên Diệt
 lang_multi_text.db,MultiText,GuideTutorial_31009_GroupName,对策技,Counter Skill,Đối Sách Kỹ
 lang_multi_text.db,MultiText,GuideTutorial_31011_GroupName,谐度,Tunability,Hài Độ
 lang_multi_text.db,MultiText,GuideTutorial_31012_GroupName,爱弥斯·与你同行,Aemeath -  Journey With You,Aemeath - Đồng Hành Cùng Bạn
 lang_multi_text.db,MultiText,GuideTutorial_31013_GroupName,爱弥斯,Aemeath,Aemeath
 lang_multi_text.db,MultiText,GuideTutorial_32001_GroupName,无冠者,Crownless,Crownless
 lang_multi_text.db,MultiText,GuideTutorial_32002_GroupName,朔雷之鳞,Tempest Mephis,Sóc Lôi Chi Lân
-lang_multi_text.db,MultiText,GuideTutorial_32003_GroupName,无常凶鹭,Impermanence Heron,Vô Thường Hung Lộ
+lang_multi_text.db,MultiText,GuideTutorial_32003_GroupName,无常凶鹭,Impermanence Heron,Impermanence Heron
 lang_multi_text.db,MultiText,GuideTutorial_32004_GroupName,燎照之骑,Inferno Rider,Liêu Chiếu Chi Kỵ
-lang_multi_text.db,MultiText,GuideTutorial_32005_GroupName,飞廉之猩,Feilian Beringal,Phi Liêm Chi Tinh
-lang_multi_text.db,MultiText,GuideTutorial_32006_GroupName,辉萤军势,Lampylumen Myriad,Huy Huỳnh Quân Thế
-lang_multi_text.db,MultiText,GuideTutorial_32007_GroupName,哀声鸷,Mourning Aix,Ai Thanh Chí
-lang_multi_text.db,MultiText,GuideTutorial_32008_GroupName,聚械机偶,Mech Abomination,Tụ Giới Cơ Ngẫu
-lang_multi_text.db,MultiText,GuideTutorial_32009_GroupName,鸣钟之龟,Bell-Borne Geochelone,Minh Chung Chi Quy
-lang_multi_text.db,MultiText,GuideTutorial_32010_GroupName,紫羽鹭,Violet-Feathered Heron,Tử Vũ Lộ
-lang_multi_text.db,MultiText,GuideTutorial_32011_GroupName,青羽鹭,Cyan-Feathered Heron,Thanh Vũ Lộ
-lang_multi_text.db,MultiText,GuideTutorial_32012_GroupName,磐石守卫,Rocksteady Guardian,Bàn Thạch Thủ Vệ
-lang_multi_text.db,MultiText,GuideTutorial_32013_GroupName,刺玫菇,Roseshroom,Thích Mai Cô
-lang_multi_text.db,MultiText,GuideTutorial_32014_GroupName,嚣风戏猿,Hoochief Cyclone,Hiêu Phong Hí Viên

@@ -1,4 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
+lang_multi_text.db,MultiText,ErrorCode_200098_Text,道具不存在,Item does not exist,Vật phẩm không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_200099_Text,道具数量不足,Insufficient item,Số lượng vật phẩm không đủ
+lang_multi_text.db,MultiText,ErrorCode_200100_Text,道具不支持分解操作,Item cannot be salvaged,Vật phẩm không hỗ trợ thao tác phân giải
+lang_multi_text.db,MultiText,ErrorCode_200101_Text,"等级不足, 无法使用道具",Level too low to use Item,"Cấp độ không đủ, không thể sử dụng vật phẩm"
+lang_multi_text.db,MultiText,ErrorCode_200102_Text,道具不支持锁定操作,Item cannot be locked,Vật phẩm không hỗ trợ thao tác khóa
+lang_multi_text.db,MultiText,ErrorCode_200103_Text,"道具添加失败, 参数错误",Failed to add Item. Parameter error,"Thêm vật phẩm thất bại, lỗi tham số"
+lang_multi_text.db,MultiText,ErrorCode_200104_Text,"道具分解失败, 参数错误",Failed to salvage Item. Parameter error,"Phân giải vật phẩm thất bại, lỗi tham số"
+lang_multi_text.db,MultiText,ErrorCode_200105_Text,"道具使用失败, 参数错误",Failed to use Item. Parameter error,"Sử dụng vật phẩm thất bại, lỗi tham số"
+lang_multi_text.db,MultiText,ErrorCode_200106_Text,结晶波片不足，无法获取奖励，请补充结晶波片后再尝试,Insufficient Waveplates. Please refill your Waveplates to claim rewards,"Không đủ Kết Tinh Ba Phiến, không thể nhận thưởng. Vui lòng bổ sung Kết Tinh Ba Phiến rồi thử lại"
+lang_multi_text.db,MultiText,ErrorCode_200107_Text,"消耗{0}{1}, 成功兑换奖励",Reward claimed for {0}{1},"Tiêu hao {0}{1}, đổi thưởng thành công"
 lang_multi_text.db,MultiText,ErrorCode_200108_Text,背包容量已满，请清理后再次尝试,Backpack full. Please free up some space and try again.,"Túi đồ đã đầy, vui lòng dọn dẹp rồi thử lại"
 lang_multi_text.db,MultiText,ErrorCode_200109_Text,礼包自选数量错误,Wrong quantity for reward of your choice,Số lượng tự chọn gói quà không đúng
 lang_multi_text.db,MultiText,ErrorCode_200110_Text,礼包自选内容不存在,The reward you chose does not exist,Nội dung tự chọn gói quà không tồn tại
@@ -62,11 +72,11 @@ lang_multi_text.db,MultiText,ErrorCode_200167_Text,升级条件不满足,Level u
 lang_multi_text.db,MultiText,ErrorCode_200168_Text,该合成配方不可解锁,Cannot unlock this Synthesis Recipe,Công thức tổng hợp này không thể mở khóa
 lang_multi_text.db,MultiText,ErrorCode_200169_Text,合成配方重复解锁,Synthesis Recipe already unlocked,Công thức tổng hợp đã được mở khóa
 lang_multi_text.db,MultiText,ErrorCode_200170_Text,角色试用中不可匹配,"Trial character, unavailable for matching","Đang dùng thử nhân vật, không thể ghép trận"
-lang_multi_text.db,MultiText,ErrorCode_200171_Text,当前状态无法使用传送,You cannot currently teleport,Trạng thái hiện tại không thể sử dụng dịch chuyển
-lang_multi_text.db,MultiText,ErrorCode_200172_Text,当前状态无法进入副本,Cannot enter Dungeon currently,Trạng thái hiện tại không thể vào phụ bản
+lang_multi_text.db,MultiText,ErrorCode_200171_Text,当前状态无法使用传送,You cannot currently teleport,Không thể dịch chuyển trong trạng thái hiện tại
+lang_multi_text.db,MultiText,ErrorCode_200172_Text,当前状态无法进入副本,Cannot enter Dungeon currently,Không thể vào phụ bản trong trạng thái hiện tại
 lang_multi_text.db,MultiText,ErrorCode_200173_Text,当前状态无法进入联机模式,Cannot enter Co-op currently,Trạng thái hiện tại không thể vào chế độ liên cơ
 lang_multi_text.db,MultiText,ErrorCode_200174_Text,当前状态不可用,Unavailable currently,Trạng thái hiện tại không khả dụng
-lang_multi_text.db,MultiText,ErrorCode_200175_Text,当前状态无法进行编队,Cannot adjust the team lineup in the current state,Trạng thái hiện tại không thể chỉnh sửa đội hình
+lang_multi_text.db,MultiText,ErrorCode_200175_Text,当前状态无法进行编队,Cannot adjust the team lineup in the current state,Không thể sắp xếp đội hình trong trạng thái hiện tại
 lang_multi_text.db,MultiText,ErrorCode_200176_Text,当前状态不可用,Unavailable currently,Trạng thái hiện tại không khả dụng
 lang_multi_text.db,MultiText,ErrorCode_200177_Text,切换编队失败,Failed to switch team,Chuyển đội hình thất bại
 lang_multi_text.db,MultiText,ErrorCode_200178_Text,角色切换失败,Failed to switch character,Chuyển nhân vật thất bại
@@ -89,13 +99,3 @@ lang_multi_text.db,MultiText,ErrorCode_200194_Text,功能未开启,Function unav
 lang_multi_text.db,MultiText,ErrorCode_200195_Text,当前状态不可操作，请稍后再试,"The current status is not operable, please try again later.","Trạng thái hiện tại không thể thao tác, vui lòng thử lại sau."
 lang_multi_text.db,MultiText,ErrorCode_200196_Text,该道具不可摧毁,This item cannot be destroyed.,Vật phẩm này không thể phá hủy.
 lang_multi_text.db,MultiText,ErrorCode_200197_Text,可用COST不足，无法装配,"Insufficient available COST, cannot be equipped.","COST khả dụng không đủ, không thể trang bị."
-lang_multi_text.db,MultiText,ErrorCode_200198_Text,可用COST不足，无法装配,"Insufficient available COST, cannot be equipped.","COST khả dụng không đủ, không thể trang bị."
-lang_multi_text.db,MultiText,ErrorCode_200199_Text,装备声骸重复，请重新尝试,"Echo equipped repeatedly, please try again.","Thanh Hài trang bị bị trùng, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_200200_Text,声骸已被其他角色装备,Echo has been equipped by another character.,Thanh Hài đã được nhân vật khác trang bị.
-lang_multi_text.db,MultiText,ErrorCode_200201_Text,消耗道具数量错误，请重新尝试,"The number of items consumed is incorrect, please try again.","Số lượng vật phẩm tiêu hao không đúng, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_200202_Text,消耗道具重复，请重新尝试,"Consumption of the same item repeated, please try again","Vật phẩm tiêu hao bị trùng, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_200203_Text,消耗道具重复，请重新尝试,"Consumption of the same item repeated, please try again","Vật phẩm tiêu hao bị trùng, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_200204_Text,消耗道具错误，请重新尝试,"Consumption of item error, please try again","Lỗi vật phẩm tiêu hao, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_200205_Text,消耗声骸没有经验，请重新尝试,"Consumption of Echo without experience, please try again","Thanh Hài tiêu hao không có kinh nghiệm, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_200206_Text,调谐槽位错误，请重新尝试,"Tuning slot error, please try again","Lỗi ô điều hưởng, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_200207_Text,有上一次的调谐结果尚未确认,There are unconfirmed Tuning results,Có kết quả điều hưởng trước đó chưa được xác nhận.
