@@ -1,136 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ConfirmBox_251_Content,{0},{0},{0}
-lang_multi_text.db,MultiText,ConfirmBox_252_ButtonText_0,返回海墟,Return,Trở về Hải Khư
-lang_multi_text.db,MultiText,ConfirmBox_252_ButtonText_1,重新挑战,Restart,Thử lại
-lang_multi_text.db,MultiText,ConfirmBox_252_Content,【返回海墟】将清空当前进度并结束挑战，【重新挑战】将重新开启本轮挑战,[Return] to clear your current progress and end the challenge. [Restart] to try this level again.,"[Trở về Hải Khư] sẽ xóa tiến độ hiện tại và kết thúc thử thách, [Thử lại] sẽ bắt đầu lại lượt thử thách này"
-lang_multi_text.db,MultiText,ConfirmBox_252_Title,退出确认,Leave,Xác nhận thoát
-lang_multi_text.db,MultiText,ConfirmBox_253_Content,是否下船并返回码头？,Disembark and return to the dock?,Bạn có muốn xuống thuyền và trở về bến tàu không?
-lang_multi_text.db,MultiText,ConfirmBox_253_Title,下船提示,Disembark,Xuống thuyền
-lang_multi_text.db,MultiText,ConfirmBox_254_Content,是否确认返回大世界,Do you want to leave the and return to the overworld?,Bạn có xác nhận trở về thế giới không?
-lang_multi_text.db,MultiText,ConfirmBox_254_Title,退出确认,Leave,Xác nhận thoát
-lang_multi_text.db,MultiText,ConfirmBox_255_Content,该挑战当前被其他任务或挑战占用，请先前往完成对应任务或挑战,This challenge is currently blocked by another quest or challenge. Please complete the respective quests or challenges before continuing.,"Thử thách này hiện đang bị chiếm bởi nhiệm vụ hoặc thử thách khác, vui lòng hoàn thành nhiệm vụ hoặc thử thách tương ứng trước."
-lang_multi_text.db,MultiText,ConfirmBox_255_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_256_Content,海域周期已刷新,The sea cycle has been refreshed,Chu kỳ hải vực đã được làm mới
-lang_multi_text.db,MultiText,ConfirmBox_256_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_257_Content,是否消耗沙虫放置诱饵？,Use Sandworm as bait?,Bạn có muốn tiêu hao Giun Cát để đặt mồi nhử không?
-lang_multi_text.db,MultiText,ConfirmBox_257_Title,使用诱饵,Use Bait,Sử dụng mồi nhử
-lang_multi_text.db,MultiText,ConfirmBox_258_Content,已放置诱饵数量达到上限，此次放置后将销毁第一个放置的诱饵，并消耗沙虫，是否确定？,You have reached the max limit of baits you can place. The first Sandworm will be removed. Continue?,"Số lượng mồi nhử đã đặt đạt giới hạn tối đa, lần đặt này sẽ hủy mồi nhử đầu tiên đã đặt và tiêu hao Giun Cát, bạn có chắc chắn không?"
-lang_multi_text.db,MultiText,ConfirmBox_258_Title,使用诱饵,Use Bait,Sử dụng mồi nhử
-lang_multi_text.db,MultiText,ConfirmBox_259_Content,是否确认快速回港？（不损失货舱物品）,Fast Travel to the dock? (Your Cargo will not be discarded),Bạn có muốn quay nhanh về cảng không? (Không mất vật phẩm trong khoang hàng)
-lang_multi_text.db,MultiText,ConfirmBox_259_Title,快速回港,Fast Travel to Dock,Hồi Cảng Nhanh
-lang_multi_text.db,MultiText,ConfirmBox_25_Content,所选材料已经过谐振，请确认是否消耗材料<color=#8c7e51>{0}</color>将武器<color=#8c7e51>{1}</color>的谐振等阶提升至<color=#8c7e51>{2}</color>阶？,The selected material <color=#8c7e51>{0}</color> is Syntonized. Please confirm whether to consume it to Syntonize your <color=#8c7e51>{1}</color> weapon to Rank <color=#8c7e51>{2}</color>?,"Nguyên liệu đã chọn đã được hài chấn, xác nhận tiêu hao nguyên liệu <color=#8c7e51>{0}</color> để nâng cấp hài chấn của vũ khí <color=#8c7e51>{1}</color> lên hạng <color=#8c7e51>{2}</color>?"
-lang_multi_text.db,MultiText,ConfirmBox_25_Title,谐振,Syntonize,Hài Chấn
-lang_multi_text.db,MultiText,ConfirmBox_260_Content,是否确认刷新委托？,Do you wish to refresh the Requests?,Bạn có muốn làm mới ủy thác không?
-lang_multi_text.db,MultiText,ConfirmBox_260_Title,委托刷新,Refresh Request,Làm mới ủy thác
-lang_multi_text.db,MultiText,ConfirmBox_261_ButtonText_0,继续出行,Continue,Tiếp tục
-lang_multi_text.db,MultiText,ConfirmBox_261_ButtonText_1,夜晚出行,Night Fishing,Câu cá đêm
-lang_multi_text.db,MultiText,ConfirmBox_261_Content,当前委托目标仅在夜晚出没，是否改为夜晚出行？,The Request target only appears during nighttime. Switch to Night Fishing?,"Mục tiêu ủy thác hiện tại chỉ xuất hiện vào ban đêm, bạn có muốn chuyển sang câu cá đêm không?"
-lang_multi_text.db,MultiText,ConfirmBox_261_Title,夜晚出行,Night Fishing,Câu cá đêm
-lang_multi_text.db,MultiText,ConfirmBox_262_Content,<alignleft/>通过消耗「调频仪」使用数据重构功能，可将指定声骸的<color=HighlightB>首条主音属性</color>重构为指定属性。仅<color=HighlightB>未强化过的五星声骸</color>可进行数据重构。,"<alignleft/>Use a ""Modifier"" to adjust the <color=HighlightB>first Mainstat</color> of a selected Echo into the designated stat. This can only be done on <color=HighlightB>unenhanced 5-star Echoes</color>.","<alignleft/>Tiêu hao ""Điều Tần Nghi"" để sử dụng chức năng tái cấu trúc dữ liệu, có thể chuyển đổi <color=HighlightB>thuộc tính chính đầu tiên</color> của Thanh Hài được chỉ định thành thuộc tính mong muốn. Chỉ <color=HighlightB>Thanh Hài 5 sao chưa cường hóa</color> mới có thể tái cấu trúc dữ liệu."
-lang_multi_text.db,MultiText,ConfirmBox_262_Title,数据重构说明,Data Modify,Hướng dẫn tái cấu trúc dữ liệu
-lang_multi_text.db,MultiText,ConfirmBox_263_Content,销毁后不返还消耗材料，是否继续？,Destroying items will not return upgrade materials. Continue anyway?,"Sau khi tiêu hủy sẽ không hoàn trả vật liệu đã tiêu hao, bạn có muốn tiếp tục không?"
-lang_multi_text.db,MultiText,ConfirmBox_263_Title,销毁确认,Confirm Destruction,Xác nhận tiêu hủy
-lang_multi_text.db,MultiText,ConfirmBox_264_ButtonText_0,下载,Download,Tải xuống
-lang_multi_text.db,MultiText,ConfirmBox_264_Content,当前预下载资源大小：{0}，需预留{1}的空间进行资源合成，该部分预留空间为临时占用，将在新版本维护完成后释放。,Current pre-download package size: {0}. {1} of storage space is required to compile the resources. Temporary files will be removed to release the storage space after the version update.,Kích thước tài nguyên tải trước hiện tại: {0}. Cần dự trữ {1} dung lượng để tổng hợp tài nguyên. Phần dung lượng dự trữ này chỉ là tạm thời và sẽ được giải phóng sau khi bảo trì phiên bản mới hoàn tất.
-lang_multi_text.db,MultiText,ConfirmBox_264_Title,预下载资源包,Pre-download Resources,Tải trước gói tài nguyên
-lang_multi_text.db,MultiText,ConfirmBox_265_Content,"【全速模式】下需停留在下载界面至资源包下载完成，退出界面将默认切换【普通模式】进行后台下载。
-是否切换为【全速模式】？","The download window must stay onscreen for game resources to be downloaded in Full Speed Mode. Downloading will revert to Normal Mode and continue in the background if you exit the download window.
-
-Switch to Full-Speed Mode?","[Chế độ toàn tốc] yêu cầu ở lại giao diện tải xuống cho đến khi gói tài nguyên tải xong. Thoát giao diện sẽ tự động chuyển sang [Chế độ thường] để tải nền.
-Bạn có muốn chuyển sang [Chế độ toàn tốc] không?"
-lang_multi_text.db,MultiText,ConfirmBox_266_Content,"【普通模式】下载期间可正常体验游戏内容，退出界面后将保持后台下载。
-是否切换为【普通模式】？","Normal Mode lets you play while game resources are being downloaded. Downloading will continue in the background after exiting the download window.
-
-Switch to Normal Mode?","[Chế độ thường] cho phép bạn trải nghiệm game bình thường trong quá trình tải xuống. Sau khi thoát giao diện, quá trình tải sẽ tiếp tục ở nền.
-Bạn có muốn chuyển sang [Chế độ thường] không?"
-lang_multi_text.db,MultiText,ConfirmBox_267_Content,检测到当前正在使用移动网络下载资源包，流量资源消耗较大，是否继续下载资源包？,"You're currently using mobile data to download the resources, which may consume a large amount of data. Continue?","Phát hiện bạn đang sử dụng mạng di động để tải gói tài nguyên, việc này sẽ tiêu tốn nhiều dữ liệu. Bạn có muốn tiếp tục tải không?"
-lang_multi_text.db,MultiText,ConfirmBox_268_Content,检测到当前存储空间不足，当前预下载资源大小：{0}，总计需预留{1}的空间进行资源合成，该部分预留空间为临时占用，将在新版本维护完成后释放。,Insufficient storage space. Current pre-download package size: {0}. {1} of storage space is required in total to compile the resources. Temporary files will be removed to release the storage space after the version update.,Phát hiện dung lượng lưu trữ hiện tại không đủ. Kích thước tài nguyên tải trước hiện tại: {0}. Tổng cộng cần dự trữ {1} dung lượng để tổng hợp tài nguyên. Phần dung lượng dự trữ này chỉ là tạm thời và sẽ được giải phóng sau khi bảo trì phiên bản mới hoàn tất.
-lang_multi_text.db,MultiText,ConfirmBox_269_Content,队伍中玩家人数未满三人，需满三人开启比赛,A full team of 3 players is required to begin race,"Đội chưa đủ 3 người chơi, cần đủ 3 người để bắt đầu trận đấu"
-lang_multi_text.db,MultiText,ConfirmBox_26_Content,所选材料已经过强化，请确认是否消耗材料<color=#8c7e51>{0}</color>将武器<color=#8c7e51>{1}</color>的谐振等阶提升至<color=#8c7e51>{2}</color>阶？,The selected material <color=#8c7e51>{0}</color> is upgraded. Please confirm whether to consume it to Syntonize your <color=#8c7e51>{1}</color> weapon to Rank <color=#8c7e51>{2}</color>?,"Vật liệu đã chọn đã được cường hóa, xác nhận tiêu hao vật liệu <color=#8c7e51>{0}</color> để nâng cấp Hài Chấn vũ khí <color=#8c7e51>{1}</color> lên bậc <color=#8c7e51>{2}</color>?"
-lang_multi_text.db,MultiText,ConfirmBox_26_Title,谐振,Syntonize,Hài Chấn
-lang_multi_text.db,MultiText,ConfirmBox_270_ButtonText_0,退出游戏,Exit,Thoát trò chơi
-lang_multi_text.db,MultiText,ConfirmBox_270_ButtonText_1,返回登录,Return to Login,Quay về đăng nhập
-lang_multi_text.db,MultiText,ConfirmBox_270_Content,是否确定退出游戏？,Are you sure you want to exit the game?,Bạn có chắc chắn muốn thoát game không?
-lang_multi_text.db,MultiText,ConfirmBox_270_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_271_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_271_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_271_Content,是否要清空当前选择的负荷模组？,Do you want to reset the current Stress Modules?,Bạn có muốn xóa toàn bộ Mô-đun Tải Trọng đã chọn không?
-lang_multi_text.db,MultiText,ConfirmBox_271_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_272_Content,队伍中有成员未达到活动参加条件,Some team members do not meet the participation requirements.,Có thành viên trong đội chưa đạt điều kiện tham gia hoạt động
-lang_multi_text.db,MultiText,ConfirmBox_273_Content,显卡驱动版本过低，光追无法正常开启，请升级驱动版本,"To enable Ray Tracing, please update your graphics driver.","Phiên bản driver card đồ họa quá thấp, không thể bật Ray Tracing. Vui lòng cập nhật driver."
-lang_multi_text.db,MultiText,ConfirmBox_274_Content,{0},{0},{0}
-lang_multi_text.db,MultiText,ConfirmBox_276_ButtonText_0,确认离开,Confirm,Xác nhận rời đi
-lang_multi_text.db,MultiText,ConfirmBox_276_Content,是否离开并结束当前的挑战？,Confirm to leave and end the current challenge?,Bạn có muốn rời đi và kết thúc thử thách hiện tại không?
-lang_multi_text.db,MultiText,ConfirmBox_277_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_277_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_277_Content,当前负荷等级小于该情景的目标负荷等级，通关后无法获取对应模组，是否继续挑战?,Your current Stress Level is lower than the target Stress Level for this trial. You won't receive the corresponding modules upon completion. Continue anyway?,"Cấp Tải Trọng hiện tại thấp hơn cấp Tải Trọng mục tiêu của tình huống này. Sau khi hoàn thành, bạn sẽ không nhận được mô-đun tương ứng. Bạn có muốn tiếp tục thử thách không?"
-lang_multi_text.db,MultiText,ConfirmBox_277_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_278_Content,当前周期已刷新,Current cycle has been reset.,Chu kỳ hiện tại đã được làm mới
-lang_multi_text.db,MultiText,ConfirmBox_279_ButtonText_0,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_279_Content,由于当前客户端版本与多人游戏其他玩家不一致，已返回单人游戏。请稍后重新尝试。,Your client version does not match other players in Co-op Mode. You have been returned to Single-player Mode. Please try again later.,"Do phiên bản client hiện tại không khớp với người chơi khác trong chế độ nhiều người, bạn đã được đưa về chế độ chơi đơn. Vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ConfirmBox_279_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_27_Content,所选材料已经过强化和谐振，请确认是否消耗材料<color=#8c7e51>{0}</color>将武器<color=#8c7e51>{1}</color>的谐振等阶提升至<color=#8c7e51>{2}</color>阶？,The selected material <color=#8c7e51>{0}</color> is upgraded and Syntonized. Please confirm whether to consume it to Syntonize your weapon <color=#8c7e51>{1}</color> to Rank <color=#8c7e51>{2}</color>?,Vật liệu đã chọn đã được cường hóa và Hài Chấn. Xác nhận tiêu hao vật liệu <color=#8c7e51>{0}</color> để nâng cấp Hài Chấn vũ khí <color=#8c7e51>{1}</color> lên bậc <color=#8c7e51>{2}</color>?
-lang_multi_text.db,MultiText,ConfirmBox_27_Title,谐振,Syntonize,Hài Chấn
-lang_multi_text.db,MultiText,ConfirmBox_280_ButtonText_0,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_280_Content,由于当前客户端版本与多人游戏其他玩家不一致，已离开多人匹配。请稍后重新尝试。,Your client version does not match other players in Co-op Mode. You have been removed from the matchmaking. Please try again later.,"Do phiên bản client hiện tại không khớp với người chơi khác trong chế độ nhiều người, bạn đã rời khỏi hàng chờ ghép trận. Vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ConfirmBox_280_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_281_ButtonText_0,重新开始,Restart,Bắt đầu lại
-lang_multi_text.db,MultiText,ConfirmBox_281_ButtonText_1,继续,Continue,Tiếp tục
-lang_multi_text.db,MultiText,ConfirmBox_281_Content,"是否从上次退出时保存的进度继续当前关卡？
-<color=#ac8839>重新开始将清除当前关卡进度</color>","Do you wish to continue from your previous saved progress?
-<color=#ac8839>Starting over will erase your current progress</color>","Bạn có muốn tiếp tục màn chơi từ tiến trình đã lưu lần trước không?
-<color=#ac8839>Bắt đầu lại sẽ xóa toàn bộ tiến trình màn chơi hiện tại</color>"
-lang_multi_text.db,MultiText,ConfirmBox_281_Title,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_282_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_282_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_282_Content,"是否消耗一次复活次数复活？
-剩余复活次数：{0}/{1}","Do you wish to use one Revive Chance?
-Remaining Revive Chances: {0}/{1}","Bạn có muốn sử dụng một lượt hồi sinh không?
-Số lượt hồi sinh còn lại: {0}/{1}"
-lang_multi_text.db,MultiText,ConfirmBox_282_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_283_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_283_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_283_Content,"是否结算副本？
-中途退出仅会获得已拾取物品。","Do you wish to end and finalize this challenge?
-You may only keep the items you collected.","Bạn có muốn kết toán phụ bản không?
-Thoát giữa chừng sẽ chỉ nhận được vật phẩm đã thu thập."
-lang_multi_text.db,MultiText,ConfirmBox_283_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_284_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_284_ButtonText_1,确认退出,Confirm,Xác nhận thoát
-lang_multi_text.db,MultiText,ConfirmBox_284_Content,"当前关卡支持在退出时保存进度，是否确认退出？
-<color=#ac8839>下次进入可继续进度</color>","Your progress will be saved upon quitting. Quit now?
-<color=#ac8839>You will continue from here when you come back.</color>","Màn chơi hiện tại hỗ trợ lưu tiến trình khi thoát, bạn có xác nhận thoát không?
-<color=#ac8839>Lần vào tiếp theo có thể tiếp tục tiến trình</color>"
-lang_multi_text.db,MultiText,ConfirmBox_284_Title,退出确认,Quit Now?,Xác nhận thoát
-lang_multi_text.db,MultiText,ConfirmBox_285_Content,"当前关卡不支持保存进度，是否确认退出？
-<color=#ac8839>退出后将重置关卡进度</color>","Your progress will not be saved. Quit now?
-<color=#ac8839> Any unsaved progress will be lost.</color>","Màn chơi hiện tại không hỗ trợ lưu tiến trình, bạn có xác nhận thoát không?
-<color=#ac8839>Thoát ra sẽ đặt lại tiến trình màn chơi</color>"
-lang_multi_text.db,MultiText,ConfirmBox_286_Content,"退出将中断当前剧情体验，是否确认退出？
-<color=#ac8839>可从任务入口继续当前剧情</color>","Quitting now will halt current story progression. Do you wish to quit?
-<color=#ac8839>You may continue the story from the quest portal.</color>","Thoát ra sẽ gián đoạn trải nghiệm cốt truyện hiện tại, bạn có xác nhận thoát không?
-<color=#ac8839>Có thể tiếp tục cốt truyện hiện tại từ lối vào nhiệm vụ</color>"
-lang_multi_text.db,MultiText,ConfirmBox_287_Content,"退出将中断当前剧情体验，是否确认退出？
-<color=#ac8839>可从任务入口重新开始剧情</color>","Quitting now will halt current story progression. Do you wish to quit?
-<color=#ac8839>You may continue the story from the quest portal.</color>","Thoát ra sẽ gián đoạn trải nghiệm cốt truyện hiện tại, bạn có xác nhận thoát không?
-<color=#ac8839>Có thể bắt đầu lại cốt truyện từ lối vào nhiệm vụ</color>"
-lang_multi_text.db,MultiText,ConfirmBox_288_ButtonText_1,确认离开,Leave,Xác nhận rời đi
-lang_multi_text.db,MultiText,ConfirmBox_288_Content,"传送将中断当前剧情体验，是否确认离开？
-<color=#ac8839>可从任务入口继续当前剧情</color>","Using Fast Travel will halt your current story progression. Do you wish to leave?
-<color=#ac8839>You may continue the story from the quest portal.</color>","Dịch chuyển sẽ gián đoạn trải nghiệm cốt truyện hiện tại, bạn có xác nhận rời đi không?
-<color=#ac8839>Có thể tiếp tục cốt truyện hiện tại từ lối vào nhiệm vụ</color>"
-lang_multi_text.db,MultiText,ConfirmBox_289_Content,"传送将中断当前剧情体验，是否确认离开？
-<color=#ac8839>可从任务入口重新开始剧情</color>","Using Fast Travel will halt your current story progression. Do you wish to leave?
-<color=#ac8839>You may continue the story from the quest portal.</color>","Dịch chuyển sẽ gián đoạn trải nghiệm cốt truyện hiện tại, bạn có xác nhận rời đi không?
-<color=#ac8839>Có thể bắt đầu lại cốt truyện từ lối vào nhiệm vụ</color>"
-lang_multi_text.db,MultiText,ConfirmBox_28_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Đã phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
-lang_multi_text.db,MultiText,ConfirmBox_28_Title,注入确认,Injection Confirm,Xác nhận tiêm
-lang_multi_text.db,MultiText,ConfirmBox_290_Content,当前关卡已完成，是否确认退出？,Stage completed. Do you wish to quit?,"Màn chơi hiện tại đã hoàn thành, bạn có xác nhận thoát không?"
-lang_multi_text.db,MultiText,ConfirmBox_291_Content,当前剧情已结束，是否确认退出？,Stage completed. Do you wish to quit?,"Cốt truyện hiện tại đã kết thúc, bạn có xác nhận thoát không?"
-lang_multi_text.db,MultiText,ConfirmBox_292_Content,如需启用DLSS帧生成功能，请首先在操作系统的图形设置中启用硬件加速GPU计划,"To enable DLSS Frame Generation, please first enable Hardware-Accelerated GPU Scheduling in your system's graphics settings.","Để bật tính năng DLSS Frame Generation, vui lòng bật Hardware-Accelerated GPU Scheduling trong cài đặt đồ họa của hệ điều hành trước."
-lang_multi_text.db,MultiText,ConfirmBox_293_Content,将应用至当前所有角色，是否继续？,Apply to all Resonators?,"Sẽ áp dụng cho tất cả nhân vật hiện có, bạn có muốn tiếp tục không?"
-lang_multi_text.db,MultiText,ConfirmBox_293_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_294_Content,<alignleft/>开启该选项后，切换滑翔/翱翔换影将会对当前所有角色生效，在此之后获得的角色不受影响。,"<alignleft/>Once activated, the Glide/Flight Aspect will take effect on all current Resonators. Future obtained Resonators will not be affected.","<alignleft/>Sau khi bật tùy chọn này, việc chuyển đổi Lướt gió/Bay lượn Hoán Ảnh sẽ áp dụng cho tất cả nhân vật hiện có, các nhân vật nhận được sau đó sẽ không bị ảnh hưởng."
-lang_multi_text.db,MultiText,ConfirmBox_294_Title,提示,Notice,Thông báo
-lang_multi_text.db,MultiText,ConfirmBox_295_Content,现在退出演绎将不会保存进度，是否确认退出？,Your progress will not be saved. Continue?,"Thoát diễn dịch ngay bây giờ sẽ không lưu tiến trình, bạn có xác nhận thoát không?"
-lang_multi_text.db,MultiText,ConfirmBox_295_Title,退出演绎,Quit,Thoát diễn dịch
+lang_multi_text.db,MultiText,Condition_12700152_Description,联觉等级达到14级,Reach Union Level 14,Đạt cấp Liên Giác 14
+lang_multi_text.db,MultiText,Condition_12800105_Description,完成潮汐任务「如一叶小舟穿行于茫茫海洋」后解锁,"Complete Main Quest ""Through the Sea Thou Break"" to unlock","Hoàn thành nhiệm vụ Triều Tịch ""Như Chiếc Thuyền Nhỏ Vượt Đại Dương Mênh Mông"" để mở khóa"
+lang_multi_text.db,MultiText,Condition_12803005_Description,在潮汐任务「灼我以烈阳」中完成首次行猎后解锁,"Complete the first hunt in Main Quest ""By Sun's Burning Hand""","Hoàn thành lần săn đầu tiên trong nhiệm vụ Triều Tịch ""Thiêu Đốt Ta Bằng Nắng Gắt"" để mở khóa"
+lang_multi_text.db,MultiText,Condition_12900301_Description,"完成潮汐任务第二章第四幕「圣者,忤逆者,告死者」","Complete Main Quest Chapter II Act IV ""The Maiden, The Defier, The Death Crier.""","Hoàn thành Chương II Hồi IV nhiệm vụ Triều Tịch ""Thánh Giả, Kẻ Nghịch, Người Báo Tử"""
+lang_multi_text.db,MultiText,Condition_12900302_Description,完成潮汐任务第二章第三幕「昔我悲伤，今却歌唱」,"Complete Main Quest Chapter II Act III ""What Yesterday Wept, Today Doth Sing""","Hoàn thành Chương II Hồi III nhiệm vụ Triều Tịch ""Xưa Ta Bi Thương, Nay Lại Hát Ca"""
+lang_multi_text.db,MultiText,Condition_12901101_Description,联觉等级达到20级,Reach Union Level 20,Đạt cấp Liên Giác 20
+lang_multi_text.db,MultiText,Condition_12901102_Description,于潮汐任务「燃烧的心」中抵达钟楼,"Reach the Bell Tower in the Main Quest ""Flames of Heart""","Đến Tháp Chuông trong nhiệm vụ Triều Tịch ""Trái Tim Bùng Cháy"""
+lang_multi_text.db,MultiText,Condition_12901103_Description,联觉等级达到35级,Reach Union Level 35,Đạt cấp Liên Giác 35
+lang_multi_text.db,MultiText,Condition_12901400_Description,完成潮汐任务第二章序幕后可提前解锁,Complete Main Quest Chapter II Prologue to experience in advance,Hoàn thành Chương II Mở Màn nhiệm vụ Triều Tịch để mở khóa sớm
+lang_multi_text.db,MultiText,Condition_12901621_Description,完成潮汐任务「如一叶小舟穿行于茫茫海洋」后解锁,"Complete Main Quest ""Through the Sea Thou Break"" to unlock","Hoàn thành nhiệm vụ Triều Tịch ""Như Chiếc Thuyền Nhỏ Vượt Đại Dương Mênh Mông"" để mở khóa"
+lang_multi_text.db,MultiText,Condition_12901801_Description,在潮汐任务「荣耀暗面」中完成实验装置坠落任务,"Collapse the experimental unit during Main Quest ""Shadow of Glory""","Hoàn thành nhiệm vụ thiết bị thí nghiệm rơi trong nhiệm vụ Triều Tịch ""Mặt Tối Vinh Quang"""
+lang_multi_text.db,MultiText,Condition_12901802_Description,联觉等级达到14级,Reach Union Level 14,Đạt cấp Liên Giác 14
+lang_multi_text.db,MultiText,Condition_12901803_Description,完成潮汐任务「如一叶小舟穿行于茫茫海洋」后解锁,"Complete Main Quest ""Through the Sea Thou Break"" to unlock","Hoàn thành nhiệm vụ Triều Tịch ""Như Chiếc Thuyền Nhỏ Vượt Đại Dương Mênh Mông"" để mở khóa"
+lang_multi_text.db,MultiText,Condition_12901804_Description,联觉等级达到14级,Reach Union Level 14,Đạt cấp Liên Giác 14
+lang_multi_text.db,MultiText,Condition_12901805_Description,完成潮汐任务「荣耀暗面」,"Complete Main Quest ""Shadow of Glory""","Hoàn thành nhiệm vụ Triều Tịch ""Mặt Tối Vinh Quang"""
+lang_multi_text.db,MultiText,Condition_12901806_Description,联觉等级达到14级,Reach Union Level 14,Đạt cấp Liên Giác 14
+lang_multi_text.db,MultiText,Condition_12902001_Description,无冠者,Crownless,Vô Quán Giả
+lang_multi_text.db,MultiText,Condition_12902002_Description,鸣钟之龟,Bell-Borne Geochelone,Minh Chung Chi Quy
+lang_multi_text.db,MultiText,Condition_12902003_Description,溯海之鲸,Cetus the Tidebreaker,Tố Hải Chi Kình
+lang_multi_text.db,MultiText,Condition_12902004_Description,云闪之鳞,Thundering Mephis,Vân Thiểm Chi Lân
+lang_multi_text.db,MultiText,Condition_12902005_Description,燎照之骑,Inferno Rider,Liêu Chiếu Chi Kỵ
+lang_multi_text.db,MultiText,Condition_12902006_Description,辉萤军势,Lampylumen Myriad,Huy Huỳnh Quân Thế
+lang_multi_text.db,MultiText,Condition_12902007_Description,飞廉之猩,Feilian Beringal,Phi Liêm Chi Tinh
+lang_multi_text.db,MultiText,Condition_12902008_Description,无常凶鹭,Impermanence Heron,Vô Thường Hung Lộ
+lang_multi_text.db,MultiText,Condition_12902009_Description,热熔棱镜,Fusion Prism,Lăng Kính Hỏa Liệt
+lang_multi_text.db,MultiText,Condition_12902010_Description,冷凝棱镜,Glacio Prism,Lăng Kính Ngưng Băng
+lang_multi_text.db,MultiText,Condition_12902011_Description,衍射棱镜,Spectro Prism,Lăng Kính Quang Phổ
+lang_multi_text.db,MultiText,Condition_12902012_Description,湮灭棱镜,Havoc Prism,Lăng Kính Hủy Diệt
+lang_multi_text.db,MultiText,Condition_12902013_Description,奏谕乐师,Flautist,Tấu Dụ Nhạc Sư
+lang_multi_text.db,MultiText,Condition_12902014_Description,振铎乐师,Tambourinist,Chấn Đạc Nhạc Sư
+lang_multi_text.db,MultiText,Condition_12902015_Description,磐石护卫,Rocksteady Guardian,Bàn Thạch Hộ Vệ
+lang_multi_text.db,MultiText,Condition_12902016_Description,冥渊守卫,Chasm Guardian,Minh Uyên Thủ Vệ
+lang_multi_text.db,MultiText,Condition_12902017_Description,坚岩斗士,Stonewall Bracer,Kiên Nham Đấu Sĩ
+lang_multi_text.db,MultiText,Condition_12902018_Description,气悬怪（原呼咻咻）,Chi Suspended Monster (originally Whiff Whaff),Quái Khí Huyền (tên cũ: Hô Xìu Xìu)
+lang_multi_text.db,MultiText,Condition_12902019_Description,炉钳兽（原咔嚓嚓）,Furnace Pincer Beast (originally Snip Snap),Lô Kiềm Thú (tên cũ: Cách Xách Xách)
+lang_multi_text.db,MultiText,Condition_12902020_Description,无心俑（原阿嗞嗞）,Heartless Puppet (originally A Zizi),Vô Tâm Dũng (tên cũ: A Tư Tư)
+lang_multi_text.db,MultiText,Condition_12902021_Description,贪胃怪（原呜咔咔）,Whiff Whaff,Tham Vị Quái (tên cũ: Ô Cách Cách)
+lang_multi_text.db,MultiText,Condition_12902022_Description,鸣泣战士,Fusion Warrior,Minh Khấp Chiến Sĩ
+lang_multi_text.db,MultiText,Condition_12902023_Description,审判战士,Havoc Warrior,Thẩm Phán Chiến Sĩ
+lang_multi_text.db,MultiText,Condition_12902024_Description,破霜猎手,Glacio Predator,Phá Sương Liệp Thủ
+lang_multi_text.db,MultiText,Condition_12902025_Description,巡徊猎手,Aero Predator,Tuần Hồi Liệp Thủ
+lang_multi_text.db,MultiText,Condition_12902026_Description,惊蛰猎手,Electro Predator,Kinh Trập Liệp Thủ
+lang_multi_text.db,MultiText,Condition_12902027_Description,刺玫菇,Roseshroom,Thích Mai Cô
+lang_multi_text.db,MultiText,Condition_12902028_Description,遁地鼠,Excarat,Độn Địa Thử
+lang_multi_text.db,MultiText,Condition_12902029_Description,咕咕河豚,Gulpuff,Cu Cu Hà Đồn
+lang_multi_text.db,MultiText,Condition_12902030_Description,啾啾河豚,Chirpuff,Tửu Tửu Hà Đồn
+lang_multi_text.db,MultiText,Condition_12902031_Description,青羽鹭,Cyan-Feathered Heron,Thanh Vũ Lộ
+lang_multi_text.db,MultiText,Condition_12902032_Description,紫羽鹭,Violet-Feathered Heron,Tử Vũ Lộ
+lang_multi_text.db,MultiText,Condition_12902033_Description,石化蜥,Geohide Saurian,Thạch Hóa Tích
+lang_multi_text.db,MultiText,Condition_12902034_Description,碎獠猪,Sabyr Boar,Lợn Toái Liêu
+lang_multi_text.db,MultiText,Condition_12902035_Description,游弋蝶,Cruisewing,Bướm Du Dịch
+lang_multi_text.db,MultiText,Condition_12902036_Description,捣蛋猿,Hoochief,Đảo Đản Viên
+lang_multi_text.db,MultiText,Condition_12902037_Description,箭簇熊,Spearback,Gấu Tiễn Thốc
+lang_multi_text.db,MultiText,Condition_12902038_Description,寒霜陆龟,Hoartoise,Rùa Cạn Hàn Sương
+lang_multi_text.db,MultiText,Condition_12902039_Description,晶螯蝎,Diamondclaw,Bọ Cạp Tinh Ngao
+lang_multi_text.db,MultiText,Condition_12902040_Description,暗鬃狼,Havoc Dreadmane,Sói Ám Tông
+lang_multi_text.db,MultiText,Condition_12902041_Description,流放者首领,Exile Leader,Thủ lĩnh Kẻ Lưu Đày
+lang_multi_text.db,MultiText,Condition_12902042_Description,共鸣流放者,Resonance Exiles,Kẻ Lưu Đày Cộng Hưởng
+lang_multi_text.db,MultiText,Condition_12902043_Description,处刑人,Fractsidus Executioner,Đao phủ
+lang_multi_text.db,MultiText,Condition_12902044_Description,小火狼,Little Fire Wolf,Sói lửa nhỏ
+lang_multi_text.db,MultiText,Condition_12902045_Description,人类流放者-男空手,Human Exiles - Male Barehand,Kẻ Lưu Đày loài người - Nam tay không
+lang_multi_text.db,MultiText,Condition_12902046_Description,人类流放者-女空手,Human Exiles - Female Barehand,Kẻ Lưu Đày loài người - Nữ tay không
+lang_multi_text.db,MultiText,Condition_12902047_Description,人类流放者-男狙击枪,Human Exiles - Male Sniper,Kẻ Lưu Đày loài người - Nam bắn tỉa
+lang_multi_text.db,MultiText,Condition_12902048_Description,人类流放者-女撬棍,Human Exiles - Female Crowbar,Kẻ Lưu Đày loài người - Nữ xà beng
+lang_multi_text.db,MultiText,Condition_12902049_Description,人类流放者-女喷火器,Human Exiles - Female Flamethrower,Kẻ Lưu Đày loài người - Nữ phun lửa
+lang_multi_text.db,MultiText,Condition_12902050_Description,人类流放者-女电锯,Human Exiles - Female Chainsaw,Kẻ Lưu Đày loài người - Nữ cưa máy
+lang_multi_text.db,MultiText,Condition_12902051_Description,人类流放者-女电刃,Human Exiles - Female Electric Blade,Kẻ Lưu Đày loài người - Nữ lưỡi điện
+lang_multi_text.db,MultiText,Condition_12902052_Description,小刺玫菇,Little Thorny Mushroom,Nấm gai hồng nhỏ
+lang_multi_text.db,MultiText,Condition_12902053_Description,残星·重锤造匠,Fractsidus Thruster,Tàn Tinh - Thợ Rèn Chùy Nặng
+lang_multi_text.db,MultiText,Condition_12902054_Description,咔擦嚓,Zig Zag,Cắc Chách
+lang_multi_text.db,MultiText,Condition_12902055_Description,阿嗞嗞,Zig Zag,A Xì Xì
+lang_multi_text.db,MultiText,Condition_12902056_Description,呼咻咻,Whiff Whaff,Hù Xiu Xiu
+lang_multi_text.db,MultiText,Condition_12902057_Description,呜咔咔,Tick Tack,Ù Cắc Cắc
+lang_multi_text.db,MultiText,Condition_12902058_Description,裂变幼岩,Fission Junrock,Nham non phân liệt
+lang_multi_text.db,MultiText,Condition_12902059_Description,车刃镰,Carapace,Xa Nhẫn Liêm
+lang_multi_text.db,MultiText,Condition_12902060_Description,哀声鸷,Mourning Aix,Ái Thanh Chí
+lang_multi_text.db,MultiText,Condition_12902061_Description,游弋蝶,Cruisewing,Bướm Du Dịch
+lang_multi_text.db,MultiText,Condition_12903131_Description,在活动任务「荣耀之丘：激斗重燃」中，击败阿希尔德,"Defeat Ashild in ""Peaks of Prestige: Rekindled Duel""","Trong nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"", đánh bại Ashild"
+lang_multi_text.db,MultiText,Condition_12903132_Description,在活动任务「荣耀之丘：激斗重燃」中，击败丹尼斯,"Defeat Dennis in ""Peaks of Prestige: Rekindled Duel""","Trong nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"", đánh bại Dennis"
+lang_multi_text.db,MultiText,Condition_12903133_Description,在活动任务「荣耀之丘：激斗重燃」中，击败菲斯塔,"Defeat Festa in ""Peaks of Prestige: Rekindled Duel""","Trong nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"", đánh bại Festa"
+lang_multi_text.db,MultiText,Condition_12903134_Description,在活动任务「荣耀之丘：激斗重燃」中，击败切斯特,"Defeat Chessa in ""Peaks of Prestige: Rekindled Duel""","Trong nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"", đánh bại Chessa"
+lang_multi_text.db,MultiText,Condition_12903135_Description,在活动任务「荣耀之丘：激斗重燃」中，击败卡利斯,"Defeat Calith in ""Peaks of Prestige: Rekindled Duel""","Trong nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"", đánh bại Calith"
+lang_multi_text.db,MultiText,Condition_12903136_Description,在活动任务「荣耀之丘：激斗重燃」中，击败安妮塔,"Defeat Anita in ""Peaks of Prestige: Rekindled Duel""","Trong nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"", đánh bại Anita"
+lang_multi_text.db,MultiText,Condition_12903137_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903138_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903139_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903140_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903141_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903142_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903143_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903144_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903145_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903146_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903147_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903148_Description,完成活动任务「荣耀之丘：激斗重燃」,"Complete the Event Quest ""Peaks of Prestige: Rekindled Duel""","Hoàn thành nhiệm vụ sự kiện ""Đỉnh Vinh Quang: Kịch Chiến Tái Bùng"""
+lang_multi_text.db,MultiText,Condition_12903149_Description,赛程积分等级达到1级「入围选手」,"Reach Rank Level 1 as ""Qualified Duelist""","Cấp điểm giải đấu đạt cấp 1 ""Tuyển Thủ Vòng Loại"""
+lang_multi_text.db,MultiText,Condition_12903150_Description,赛程积分等级达到2级「认证选手」,"Reach Rank Level 2 as ""Certified Duelist""","Cấp điểm giải đấu đạt cấp 2 ""Tuyển Thủ Chứng Nhận"""
+lang_multi_text.db,MultiText,Condition_12903151_Description,赛程积分等级达到3级「认证选手」,"Reach Rank Level 3 as ""Certified Duelist""","Cấp điểm giải đấu đạt cấp 3 ""Tuyển Thủ Chứng Nhận"""
+lang_multi_text.db,MultiText,Condition_12903152_Description,赛程积分等级达到4级「新秀选手」,"Reach Rank Level 4 as ""Promising Duelist""","Cấp điểm giải đấu đạt cấp 4 ""Tuyển Thủ Tân Binh"""
+lang_multi_text.db,MultiText,Condition_12903153_Description,赛程积分等级达到5级「新秀选手」,"Reach Rank Level 5 as ""Promising Duelist""","Cấp điểm giải đấu đạt cấp 5 ""Tuyển Thủ Tân Binh"""

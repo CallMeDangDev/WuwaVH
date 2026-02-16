@@ -1,113 +1,642 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Skill_1004710_SkillDescribe,"陆·赫斯拥有为目标附加<color=Highlight><te href=100003>【集谐·偏移】</te></color>的能力。
-陆·赫斯拥有响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>的能力。
-响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>：目标每有一层<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果，陆·赫斯自身的每点谐度破坏增幅会使自身对该目标造成的最终伤害提升{1}。陆·赫斯在编队中时，目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果的层数上限增加{2}层。
-此外，目标<color=Highlight>【偏谐值】</color>满时，陆·赫斯可对其施放<color=Highlight><te href=100001>【谐度破坏】</te></color>。","Luuk Herssen can inflict <color=Highlight><te href=100003>Tune Strain - Shifting</te></color> on targets.
-Luuk Herssen can respond to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>.
-- Responding to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>: Every <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target increases Luuk Herssen's total DMG against them. Each point of Luuk Herssen's Tune Break Boost increases the total DMG by {1}. While Luuk Herssen is in the team, the max stack limit of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on a target is increased by {2}.
-Additionally, when the target's <color=Highlight>Off-Tune Level</color> is full, Luuk can cast <color=Highlight><te href=100001>Tune Break</te></color> on the target.","Luuk Herssen có khả năng gán <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> lên mục tiêu.
-Luuk Herssen có khả năng hưởng ứng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>.
-Hưởng ứng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>: Mỗi tầng hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu, mỗi điểm gia tăng phá hài độ của Luuk Herssen sẽ tăng sát thương cuối cùng mà bản thân gây ra lên mục tiêu đó thêm {1}. Khi Luuk Herssen có trong đội, giới hạn tầng của hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> trên mục tiêu tăng thêm {2} tầng.
-Ngoài ra, khi <color=Highlight>[Thiên Hài Trị]</color> của mục tiêu đầy, Luuk Herssen có thể thi triển <color=Highlight><te href=100001>[Hài Độ Phá Hoại]</te></color> lên mục tiêu."
-lang_multi_text.db,MultiText,Skill_1004710_SkillName,一场关于光的默辩,Silent Debate of Light,Một Cuộc Mặc Biện Về Ánh Sáng
-lang_multi_text.db,MultiText,Skill_1004710_SkillResume,"陆·赫斯拥有为目标附加<color=Highlight>【集谐·偏移】</color>的能力。
-陆·赫斯拥有响应<color=Highlight>【集谐·干涉】</color>的能力。","Luuk Herssen can inflict <color=Highlight>Tune Strain - Shifting</color>.
-Luuk Herssen can respond to <color=Highlight>Tune Strain - Interfered</color>.","Luuk Herssen có khả năng gán <color=Highlight>[Tập Hài - Thiên Di]</color> lên mục tiêu.
-Luuk Herssen có khả năng hưởng ứng <color=Highlight>[Tập Hài - Can Thiệp]</color>."
-lang_multi_text.db,MultiText,SkipTask_Prevent,当前界面无法进行跳转，请回到其他界面再尝试,You cannot navigate from the current interface. Please switch to another interface and try again.,"Không thể chuyển hướng từ giao diện hiện tại, vui lòng quay lại giao diện khác rồi thử lại."
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen1,击杀所有残象，获得“焚潮”加成,"Defeat all Tacet Discords to gain the ""Burning Waves"" buff.","Hạ gục tất cả Tàn Tượng để nhận tăng cường ""Phần Triều""."
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen2,进入焚潮状态，<color=#fee388>暴击率提升至100%</color>,"Entering Burning Waves state, <color=#fee388>Crit. Rate is increased to 100%</color>.","Tiến vào trạng thái Phần Triều, <color=#fee388>tỷ lệ bạo kích tăng lên 100%</color>."
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen3,进入焚潮状态，<color=#fee388>共鸣能量回复至100%</color>,"Entering Burning Waves state, <color=#fee388>Resonance Energy is restored to 100%</color>.","Tiến vào trạng thái Phần Triều, <color=#fee388>năng lượng Cộng Hưởng hồi phục lên 100%</color>."
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text1,气动抗性增加20%,Increase Aero RES by 20%,Kháng Khí Động tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text2,导电抗性增加20%,Increase Electro RES by 20%,Kháng Dẫn Điện tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text3,热熔抗性增加20%,Increase Fusion RES by 20%,Kháng Nhiệt Dung tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text4,冷凝抗性增加20%,Increase Glacio RES by 20%,Kháng Ngưng Băng tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text5,湮灭抗性增加20%,Increase Havoc RES by 20%,Kháng Yên Diệt tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text6,衍射抗性增加20%,Increase Spectro RES by 20%,Kháng Nhiễu Xạ tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagName_Text1,气动抗性,Aero RES,Kháng Khí Động
-lang_multi_text.db,MultiText,SlashTowerTagName_Text2,导电抗性,Electro RES,Kháng Dẫn Điện
-lang_multi_text.db,MultiText,SlashTowerTagName_Text3,热熔抗性,Fusion RES,Kháng Nhiệt Dung
-lang_multi_text.db,MultiText,SlashTowerTagName_Text4,冷凝抗性,Glacio RES,Kháng Ngưng Băng
-lang_multi_text.db,MultiText,SlashTowerTagName_Text5,湮灭抗性,Havoc RES,Kháng Hủy Diệt
-lang_multi_text.db,MultiText,SlashTowerTagName_Text6,衍射抗性,Spectro RES,Kháng Nhiễu Xạ
-lang_multi_text.db,MultiText,SmallAreaName,<size=36>{0}</size>,<size=36>{0}</size>,<size=36>{0}</size>
-lang_multi_text.db,MultiText,SoarWingSkin_EquipmentStatus_Equip,切换翱翔换影,Switch,Chuyển đổi ngoại hình lượn
-lang_multi_text.db,MultiText,SoarWingSkin_EquipmentStatus_IsEquipped,切换翱翔换影,Switch,Chuyển đổi ngoại hình lượn
-lang_multi_text.db,MultiText,SoldOut,已售罄,SOLD OUT,Đã bán hết
-lang_multi_text.db,MultiText,SortConfig_10_4_SortName,主属性防御力,Main: DEF,Chỉ số chính: Phòng Thủ
-lang_multi_text.db,MultiText,SortConfig_11_4_SortName,主属性防御力百分比,Main: DEF%,Chỉ số chính: Phòng Thủ%
-lang_multi_text.db,MultiText,SortConfig_12_4_SortName,主属性暴击率,Main: Crit. Rate,Chỉ số chính: Tỷ lệ Bạo Kích
-lang_multi_text.db,MultiText,SortConfig_13_1_SortName,危险等级,Sort by Threat Level,Cấp nguy hiểm
-lang_multi_text.db,MultiText,SortConfig_13_4_SortName,主属性暴击伤害,Main: Crit. DMG,Chỉ số chính: Sát Thương Bạo Kích
-lang_multi_text.db,MultiText,SortConfig_14_4_SortName,主属性治疗效果加成,Main: Healing Bonus,Chỉ số chính: Tăng Hiệu Quả Hồi Phục
-lang_multi_text.db,MultiText,SortConfig_15_4_SortName,主属性物理伤害加成,Main: Physical DMG+,Chỉ số chính: Tăng Sát Thương Vật Lý
-lang_multi_text.db,MultiText,SortConfig_16_SortName,已解锁图鉴,Show Recorded Entries,Đã mở khóa đồ giám
-lang_multi_text.db,MultiText,SortConfig_17_SortName,图鉴编号,Sort by Index Number,Số thứ tự đồ giám
-lang_multi_text.db,MultiText,SortConfig_19_SortName,默认排序,Default,Sắp xếp mặc định
-lang_multi_text.db,MultiText,SortConfig_1_15_SortName,生命值,HP,Sinh Lực
-lang_multi_text.db,MultiText,SortConfig_1_3_SortName,物品配置Id,Sort by Item ID,ID vật phẩm
-lang_multi_text.db,MultiText,SortConfig_1_4_SortName,等级顺序,Sort by Level,Theo cấp độ
-lang_multi_text.db,MultiText,SortConfig_1_5_SortName,是否是食谱道具,Show Available Item First,Ưu tiên hiển thị vật phẩm khả dụng
-lang_multi_text.db,MultiText,SortConfig_1_6_SortName,是否是配方道具,Show Available Item First,Ưu tiên hiển thị vật phẩm khả dụng
-lang_multi_text.db,MultiText,SortConfig_1_7_SortName,是否是配方道具,Show Available Item First,Ưu tiên hiển thị vật phẩm khả dụng
-lang_multi_text.db,MultiText,SortConfig_1_8_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_1_9_SortName,是否可以印造,Show Available Item First,Có thể ấn tạo
-lang_multi_text.db,MultiText,SortConfig_1_SortName,等级顺序,Sort by Level,Theo cấp độ
-lang_multi_text.db,MultiText,SortConfig_21_SortName,品质排序,Sort by Quality,Theo phẩm chất
-lang_multi_text.db,MultiText,SortConfig_23_4_SortName,副属性生命值,Sub: HP,Phụ: HP
-lang_multi_text.db,MultiText,SortConfig_24_4_SortName,副属性生命值百分比,Sub: HP%,Phụ: HP%
-lang_multi_text.db,MultiText,SortConfig_25_4_SortName,副属性攻击力,Sub: ATK,Phụ: ATK
-lang_multi_text.db,MultiText,SortConfig_26_4_SortName,副属性攻击力百分比,Sub: ATK%,Phụ: ATK%
-lang_multi_text.db,MultiText,SortConfig_27_4_SortName,副属性防御力,Sub: DEF,Phụ: DEF
-lang_multi_text.db,MultiText,SortConfig_28_4_SortName,副属性防御力百分比,Sub: DEF%,Phụ: DEF%
-lang_multi_text.db,MultiText,SortConfig_28_SortName,主属性共鸣效率,Main: Energy Regen,Chính: Hiệu Suất Cộng Hưởng
-lang_multi_text.db,MultiText,SortConfig_29_4_SortName,副属性暴击率,Sub: Crit. Rate,Phụ: Tỷ lệ bạo kích
-lang_multi_text.db,MultiText,SortConfig_2_15_SortName,生命值百分比,HP%,HP%
-lang_multi_text.db,MultiText,SortConfig_2_3_SortName,物品等级,Sort by Level,Theo cấp độ
-lang_multi_text.db,MultiText,SortConfig_2_4_SortName,调谐状态顺序,Sort by Tuning Status,Theo trạng thái điều hưởng
-lang_multi_text.db,MultiText,SortConfig_2_5_SortName,是否可制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_2_6_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_2_7_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_2_8_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
-lang_multi_text.db,MultiText,SortConfig_2_9_SortName,类型顺序,Sort by Type,Theo loại
-lang_multi_text.db,MultiText,SortConfig_30_4_SortName,副属性暴击伤害,Sub: Crit. DMG,Phụ: ST bạo kích
-lang_multi_text.db,MultiText,SortConfig_30_SortName,主属性冷凝伤害加成,Main: Glacio DMG+,Chính: Tăng ST Ngưng Băng
-lang_multi_text.db,MultiText,SortConfig_31_4_SortName,副属性治疗效果加成,Sub: Healing Bonus,Phụ: Tăng hiệu quả trị liệu
-lang_multi_text.db,MultiText,SortConfig_31_SortName,主属性热熔伤害加成,Main: Fusion DMG+,Chính: Tăng ST Nhiệt Dung
-lang_multi_text.db,MultiText,SortConfig_32_4_SortName,副属性物理伤害加成,Sub: Physical DMG+,Phụ: Tăng ST vật lý
-lang_multi_text.db,MultiText,SortConfig_32_SortName,主属性导电伤害加成,Main: Electro DMG+,Chính: Tăng sát thương Dẫn Điện
-lang_multi_text.db,MultiText,SortConfig_33_SortName,主属性气动伤害加成,Main: Aero DMG+,Chính: Tăng sát thương Khí Động
-lang_multi_text.db,MultiText,SortConfig_34_SortName,主属性衍射伤害加成,Main: Spectro DMG+,Chính: Tăng sát thương Nhiễu Xạ
-lang_multi_text.db,MultiText,SortConfig_35_SortName,主属性湮灭伤害加成,Main: Havoc DMG+,Chính: Tăng sát thương Giải Ly
-lang_multi_text.db,MultiText,SortConfig_3_15_SortName,攻击力,ATK,Sức tấn công
-lang_multi_text.db,MultiText,SortConfig_3_3_SortName,物品品质,Sort by Rarity,Phẩm chất vật phẩm
-lang_multi_text.db,MultiText,SortConfig_3_4_SortName,品质顺序,Sort by Rarity,Thứ tự phẩm chất
-lang_multi_text.db,MultiText,SortConfig_3_5_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
-lang_multi_text.db,MultiText,SortConfig_3_6_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
-lang_multi_text.db,MultiText,SortConfig_3_7_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
-lang_multi_text.db,MultiText,SortConfig_3_8_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_3_9_SortName,道具Id,Sort by Item ID,ID vật phẩm
-lang_multi_text.db,MultiText,SortConfig_3_SortName,基础经验顺序,Sort by Base EXP,Thứ tự EXP cơ bản
-lang_multi_text.db,MultiText,SortConfig_40_4_SortName,基础经验排序,Sort by Base EXP,Sắp xếp theo EXP cơ bản
-lang_multi_text.db,MultiText,SortConfig_41_4_SortName,经验道具优先,Show EXP Material First,Ưu tiên vật phẩm EXP
-lang_multi_text.db,MultiText,SortConfig_42_4_SortName,未装备优先,Show Unequipped First,Ưu tiên chưa trang bị
-lang_multi_text.db,MultiText,SortConfig_43_4_SortName,已装配优先,Show Equipped First,Ưu tiên đã trang bị
-lang_multi_text.db,MultiText,SortConfig_44_4_SortName,已拥有优先,Show Owned First,Ưu tiên đã sở hữu
-lang_multi_text.db,MultiText,SortConfig_45_4_SortName,默认排序,Default,Sắp xếp mặc định
-lang_multi_text.db,MultiText,SortConfig_45_SortName,副属性共鸣效率,Sub: Energy Regen,Phụ: Hiệu suất Cộng Hưởng
-lang_multi_text.db,MultiText,SortConfig_46_4_SortName,异相声骸优先,Show Phantom Echoes First,Ưu tiên Thanh Hài dị tướng
-lang_multi_text.db,MultiText,SortConfig_47_4_SortName,副属性共鸣技能伤害加成,Sub: Reson. Skill DMG+,Phụ: Tăng sát thương Kỹ Năng Cộng Hưởng
-lang_multi_text.db,MultiText,SortConfig_47_SortName,副属性冷凝伤害加成,Sub: Glacio DMG+,Phụ: Tăng sát thương Ngưng Băng
-lang_multi_text.db,MultiText,SortConfig_48_4_SortName,副属性普攻伤害加成,Sub: BA DMG+,Phụ: Tăng sát thương Phổ Công
-lang_multi_text.db,MultiText,SortConfig_48_SortName,副属性热熔伤害加成,Sub: Fusion DMG+,Phụ: Tăng sát thương Nhiệt Dung
-lang_multi_text.db,MultiText,SortConfig_49_4_SortName,副属性重击伤害加成,Sub: HA DMG+,Phụ: Sát thương Trọng Kích+
-lang_multi_text.db,MultiText,SortConfig_49_SortName,副属性导电伤害加成,Sub: Electro DMG+,Phụ: Sát thương Dẫn Điện+
-lang_multi_text.db,MultiText,SortConfig_4_15_SortName,攻击力百分比,ATK%,ATK%
-lang_multi_text.db,MultiText,SortConfig_4_3_SortName,物品数量,Sort by Amount,Theo số lượng
-lang_multi_text.db,MultiText,SortConfig_4_4_SortName,怪物排序Id,Monster Sorting ID,ID sắp xếp quái vật
-lang_multi_text.db,MultiText,SortConfig_50_4_SortName,副属性共鸣解放伤害加成,Sub: Reson. Liberation DMG+,Phụ: Sát thương Giải Phóng Cộng Hưởng+
-lang_multi_text.db,MultiText,SortConfig_50_SortName,副属性气动伤害加成,Sub: Aero DMG+,Phụ: Sát thương Khí Động+
-lang_multi_text.db,MultiText,SortConfig_51_SortName,副属性衍射伤害加成,Sub: Spectro DMG+,Phụ: Sát thương Nhiễu Xạ+
-lang_multi_text.db,MultiText,SortConfig_52_SortName,副属性湮灭伤害加成,Sub: Havoc DMG+,Phụ: Sát thương Giải Ly+
-lang_multi_text.db,MultiText,SortConfig_53_SortName,已弃置优先,Show Discarded First,Ưu tiên đã loại bỏ
-lang_multi_text.db,MultiText,SortConfig_54_SortName,五星优先,5-Star First,Ưu tiên 5 sao
+lang_multi_text.db,MultiText,Skill_1000103_SkillName,朔风旋涌,Wind Spirals,Sóc Phong Toàn Dũng
+lang_multi_text.db,MultiText,Skill_1000103_SkillResume,牵引目标，造成<color=Wind>气动伤害</color>。,"Pull enemies together, dealing <color=Wind>Aero DMG</color>.","Kéo mục tiêu lại, gây <color=Wind>sát thương Khí Động</color>."
+lang_multi_text.db,MultiText,Skill_1000104_SkillDescribe,施放空中攻击<color=Highlight>释羽</color>后，回复{0}点耐力。,Yangyang recovers {0} STA after she casts a Mid-air Attack <color=Highlight>Feather Release</color>.,"Sau khi thi triển tấn công trên không <color=Highlight>Tung Vũ</color>, hồi phục {0} điểm thể lực."
+lang_multi_text.db,MultiText,Skill_1000104_SkillName,解意,Compassion,Giải Ý
+lang_multi_text.db,MultiText,Skill_1000104_SkillResume,施放空中攻击<color=Highlight>释羽</color>后，回复{0}点耐力。,Recover {0} STA after casting Mid-air Attack <color=Highlight>Feather Release</color>.,"Sau khi thi triển tấn công trên không <color=Highlight>Tung Vũ</color>, hồi phục {0} điểm thể lực."
+lang_multi_text.db,MultiText,Skill_1000105_SkillDescribe,施放变奏技能<color=Highlight>湛蓝礼赞</color>后，秧秧的气动伤害加成提升{0}，效果持续{1}秒。,Yangyang's Aero DMG Bonus is increased by {0} for {1}s after casting Intro Skill <color=Highlight>Cerulean Song</color>.,"Sau khi thi triển kỹ năng Biến Tấu <color=Highlight>Trạm Lam Lễ Tán</color>, bonus sát thương Khí Động của Ương Ương tăng {0}, hiệu quả kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1000105_SkillName,怀悯,Lazuline Mercy,Hoài Mẫn
+lang_multi_text.db,MultiText,Skill_1000105_SkillResume,施放变奏技能<color=Highlight>湛蓝礼赞</color>后，秧秧的气动伤害加成提升{0}，效果持续{1}秒。,Increase Aero DMG Bonus by {0} for {1}s after casting Intro Skill <color=Highlight>Cerulean Song</color>.,"Sau khi thi triển kỹ năng Biến Tấu <color=Highlight>Trạm Lam Lễ Tán</color>, bonus sát thương Khí Động của Ương Ương tăng {0}, hiệu quả kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1000106_SkillDescribe,使用迅刀击飞目标，造成<color=Wind>气动伤害</color>。,"Yangyang sends the target into the air, dealing <color=Wind>Aero DMG</color>.","Dùng kiếm hất tung mục tiêu, gây <color=Wind>sát thương Khí Động</color>."
+lang_multi_text.db,MultiText,Skill_1000106_SkillName,湛蓝礼赞,Cerulean Song,Trạm Lam Lễ Tán
+lang_multi_text.db,MultiText,Skill_1000106_SkillResume,造成<color=Wind>气动伤害</color>。,Deal <color=Wind>Aero DMG</color>.,Gây <color=Wind>sát thương Khí Động</color>.
+lang_multi_text.db,MultiText,Skill_1000107_SkillDescribe,"<size=40><color=Title>重击·风袭</color></size>
+当秧秧持有{0}声【流响】时，施放<color=Highlight>重击</color>或<color=Highlight>闪避反击</color>后可触发<color=Highlight>风袭</color>，造成<color=Wind>气动伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击·释羽</color></size>
+当秧秧持有{1}声【流响】时，在空中使用<color=Highlight>普攻</color>，将消耗所有【流响】，发动连续攻击，并自空中俯冲造成<color=Wind>气动伤害</color>。落地后，秧秧将收刀攻击，造成<color=Wind>气动伤害</color>，此次伤害为普攻伤害。
+<size=10> </size>
+<size=40><color=Title>流响获取规则</color></size>
+【流响】上限{2}声。
+<color=Highlight>第4段普攻</color>命中目标时，获取{3}声【流响】。
+重击<color=Highlight>风吟</color>命中目标时，获取{4}声【流响】。
+共鸣技能<color=Highlight>流风载域</color>命中目标时，获取{5}声【流响】。
+施放变奏技能<color=Highlight>湛蓝礼赞</color>时，获取{6}声【流响】。","<size=40><color=Title>Heavy Attack: Stormy Strike</color></size>
+When Yangyang has {0} Melodies, she can cast <color=Highlight>Stormy Strike</color> after <color=Highlight>Heavy Attack</color> or <color=Highlight>Dodge Counter</color>, dealing <color=Wind>Aero DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack: Feather Release</color></size>
+When Yangyang has {1} Melodies, cast <color=Highlight>Basic Attack</color> in mid-air to consume all Melodies and perform consecutive strikes, diving from mid-air, dealing <color=Wind>Aero DMG</color>. As Yangyang lands, she sheathes her sword with an attack, dealing <color=Wind>Aero DMG</color>, considered as Basic Attack DMG.
+<size=10> </size>
+<size=40><color=Title>Melody</color></size>
+Yangyang can hold up to {2} Melodies
+Yangyang obtains {3} Melody with every <color=Highlight>Basic Attack 4</color> on hit.
+Yangyang obtains {4} Melody for every Heavy Attack <color=Highlight>Zephyr Song</color> on hit.
+Yangyang obtains {5} Melody for every Resonance Skill <color=Highlight>Zephyr Domain</color> on hit.
+Yangyang obtains {6} Melody upon casting Intro Skill <color=Highlight>Cerulean Song</color>.","<size=40><color=Title>Đánh Mạnh - Phong Tập</color></size>
+Khi Ương Ương sở hữu {0} điểm [Lưu Hưởng], sau khi thi triển <color=Highlight>Đánh Mạnh</color> hoặc <color=Highlight>Né Tránh Phản Công</color> có thể kích hoạt <color=Highlight>Phong Tập</color>, gây <color=Wind>sát thương Khí Động</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không - Thích Vũ</color></size>
+Khi Ương Ương sở hữu {1} điểm [Lưu Hưởng], sử dụng <color=Highlight>Đánh Thường</color> trên không sẽ tiêu hao toàn bộ [Lưu Hưởng], thực hiện tấn công liên tục và lao xuống từ trên không, gây <color=Wind>sát thương Khí Động</color>. Sau khi tiếp đất, Ương Ương sẽ thu kiếm tấn công, gây <color=Wind>sát thương Khí Động</color>, sát thương này tính là sát thương Đánh Thường.
+<size=10> </size>
+<size=40><color=Title>Quy tắc nhận Lưu Hưởng</color></size>
+[Lưu Hưởng] tối đa {2} điểm.
+<color=Highlight>Đánh Thường đoạn 4</color> trúng mục tiêu, nhận {3} điểm [Lưu Hưởng].
+Đánh Mạnh <color=Highlight>Phong Ngâm</color> trúng mục tiêu, nhận {4} điểm [Lưu Hưởng].
+Kỹ Năng Cộng Hưởng <color=Highlight>Lưu Phong Tải Vực</color> trúng mục tiêu, nhận {5} điểm [Lưu Hưởng].
+Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Trạm Lam Lễ Tán</color>, nhận {6} điểm [Lưu Hưởng]."
+lang_multi_text.db,MultiText,Skill_1000107_SkillName,覆声裁羽,Echoing Feathers,Phúc Thanh Tài Vũ
+lang_multi_text.db,MultiText,Skill_1000107_SkillResume,"<size=40><color=Title>重击·风袭</color></size>
+当秧秧持有{0}声【流响】时，施放<color=Highlight>重击</color>或<color=Highlight>闪避反击</color>后可触发<color=Highlight>风袭</color>，造成<color=Wind>气动伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击·释羽</color></size>
+当秧秧持有{1}声【流响】时，在空中使用<color=Highlight>普攻</color>，将消耗所有【流响】，造成<color=Wind>气动伤害</color>。
+<size=10></size>
+<size=40><color=Title>流响获取规则</color></size>
+【流响】上限{2}点。
+【流响】的获取途径：<color=Highlight>普攻</color>、<color=Highlight>重击·风吟</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>。","<size=40><color=Title>Heavy Attack: Stormy Strike</color></size>
+When Yangyang has {0} Melodies, she can cast <color=Highlight>Stormy Strike</color> after <color=Highlight>Heavy Attack</color> or <color=Highlight>Dodge Counter</color>, dealing <color=Wind>Aero DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack: Feather Release</color></size>
+When Yangyang has {1} Melodies, she can cast <color=Highlight>Basic Attack</color> in mid-air to consume all Melodies and deal <color=Wind>Aero DMG</color>.
+<size=10></size>
+<size=40><color=Title>Melody</color></size>
+Yangyang can hold up to {2} Melodies.
+Yangyang gains Melody through <color=Highlight>Basic Attack</color>, <color=Highlight>Heavy Attack: Zephyr Song</color>, <color=Highlight>Resonance Skill</color>, and <color=Highlight>Intro Skill</color>.","<size=40><color=Title>Đánh Mạnh - Phong Tập</color></size>
+Khi Ương Ương sở hữu {0} điểm [Lưu Hưởng], sau khi thi triển <color=Highlight>Đánh Mạnh</color> hoặc <color=Highlight>Né Tránh Phản Công</color> có thể kích hoạt <color=Highlight>Phong Tập</color>, gây <color=Wind>sát thương Khí Động</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không - Thích Vũ</color></size>
+Khi Ương Ương sở hữu {1} điểm [Lưu Hưởng], sử dụng <color=Highlight>Đánh Thường</color> trên không sẽ tiêu hao toàn bộ [Lưu Hưởng], gây <color=Wind>sát thương Khí Động</color>.
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận Lưu Hưởng</color></size>
+[Lưu Hưởng] tối đa {2} điểm.
+Cách nhận [Lưu Hưởng]: <color=Highlight>Đánh Thường</color>, <color=Highlight>Đánh Mạnh - Phong Ngâm</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>, <color=Highlight>Kỹ Năng Biến Tấu</color>."
+lang_multi_text.db,MultiText,Skill_1000108_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1000109_MultiSkillDescribe_1.1,为附近队伍中激活秧秧延奏技能的角色回复共鸣能量，每秒回复{0}点共鸣能量，持续{1}秒。,Restore {0} Resonance Energy for the Resonator on a nearby team that activates Yangyang's Outro Skill every second for {1}s.,"Hồi phục năng lượng cộng hưởng cho nhân vật trong đội gần đó đã kích hoạt Kỹ Năng Hiệp Tấu của Ương Ương, mỗi giây hồi phục {0} điểm năng lượng cộng hưởng, kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1000109_SkillDescribe,持续为下一位登场角色回复共鸣能量，每秒回复{0}点共鸣能量，持续{1}秒。,Restore {0} Resonance Energy per second for {1}s for the incoming Resonator.,"Liên tục hồi phục năng lượng cộng hưởng cho nhân vật tiếp theo ra trận, mỗi giây hồi phục {0} điểm năng lượng cộng hưởng, kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1000109_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,Skill_1000109_SkillName,衍息,Whispering Breeze,Diễn Tức
+lang_multi_text.db,MultiText,Skill_1000109_SkillResume,持续为下一位登场角色回复共鸣能量。,Restore Resonance Energy for the incoming Resonator.,Liên tục hồi phục năng lượng cộng hưởng cho nhân vật tiếp theo ra trận.
+lang_multi_text.db,MultiText,Skill_1000201_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+进行最多4段连续射击，造成<color=Fire>热熔伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+进入瞄准状态，可以进行更强力的射击。
+蓄力完成后攻击目标，造成<color=Fire>热熔伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，在空中进行连续攻击，造成<color=Fire>热熔伤害</color>。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Chixia fires up to 4 consecutive shots, dealing <color=Fire>Fusion DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Heavy Attack</color></size>
+Chixia enters the aiming state for a more powerful shot.
+The aimed shot fired after charging finishes deals <color=Fire>Fusion DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Chixia consumes STA to perform consecutive shots at the target in mid-air, dealing <color=Fire>Fusion DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Dodge Counter</color></size>
+Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Fire>Fusion DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
+Bắn liên tục tối đa 4 phát, gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10> </size>
+<size=40><color=Title>Đánh Mạnh</color></size>
+Vào trạng thái ngắm bắn, có thể thực hiện phát bắn mạnh hơn.
+Sau khi tích lực hoàn tất, tấn công mục tiêu, gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, thực hiện tấn công liên tục trên không, gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10> </size>
+<size=40><color=Title>Né Tránh Phản Công</color></size>
+Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Đánh Thường</color> trong thời gian ngắn sẽ tấn công mục tiêu, gây <color=Fire>sát thương Hỏa Liệt</color>."
+lang_multi_text.db,MultiText,Skill_1000201_SkillName,砰砰,POW POW,Bùm Bùm
+lang_multi_text.db,MultiText,Skill_1000201_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Fire>热熔伤害</color>。
+<size=10></size>
+<size=40><color=Title>重击</color></size>
+进入瞄准状态，造成<color=Fire>热熔伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Fire>热熔伤害</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Fire>热熔伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Fire>Fusion DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Enter the aiming state to deal <color=Fire>Fusion DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Fire>Fusion DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Fire>Fusion DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
+Gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10></size>
+<size=40><color=Title>Đánh Mạnh</color></size>
+Vào trạng thái ngắm bắn, gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10></size>
+<size=40><color=Title>Né Tránh Phản Công</color></size>
+Gây <color=Fire>sát thương Hỏa Liệt</color>."
+lang_multi_text.db,MultiText,Skill_1000202_SkillDescribe,"燃起斗志对目标进行高速连射，造成<color=Fire>热熔伤害</color>。
+<size=10> </size>
+<color=Highlight>咻咻斗意</color>初始拥有2次可使用次数。","Chixia unleashes a flurry of shots, dealing <color=Fire>Fusion DMG</color>.
+<size=10> </size>
+<color=Highlight>Whizzing Fight Spirit</color> has 2 initial charges.","Bùng cháy đấu chí, bắn liên tục tốc độ cao vào mục tiêu, gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10> </size>
+<color=Highlight>Xíu Xíu Đấu Ý</color> ban đầu có 2 lần sử dụng."
+lang_multi_text.db,MultiText,Skill_1000202_SkillName,咻咻斗意,Whizzing Fight Spirit,Xíu Xíu Đấu Ý
+lang_multi_text.db,MultiText,Skill_1000202_SkillResume,"高速连射，造成<color=Fire>热熔伤害</color>。
+<size=10></size>
+<color=Highlight>咻咻斗意</color>初始拥有2次可使用次数。","Unleash a flurry of shots, dealing <color=Fire>Fusion DMG</color>.
+<size=10></size>
+<color=Highlight>Whizzing Fight Spirit</color> has 2 initial charges.","Bắn liên tục tốc độ cao, gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10></size>
+<color=Highlight>Xíu Xíu Đấu Ý</color> ban đầu có 2 lần sử dụng."
+lang_multi_text.db,MultiText,Skill_1000203_SkillDescribe,体内热流涌现，对附近目标进行快速射击，造成<color=Fire>热熔伤害</color>。,"Chixia fires up fast shots at nearby enemies, dealing <color=Fire>Fusion DMG</color>.","Dòng nhiệt trong cơ thể trào dâng, bắn nhanh vào các mục tiêu gần đó, gây <color=Fire>sát thương Hỏa Liệt</color>."
+lang_multi_text.db,MultiText,Skill_1000203_SkillName,炽烈焰火,Blazing Flames,Sí Liệt Diễm Hỏa
+lang_multi_text.db,MultiText,Skill_1000203_SkillResume,造成<color=Fire>热熔伤害</color>。,Deal <color=Fire>Fusion DMG</color>.,Gây <color=Fire>sát thương Hỏa Liệt</color>.
+lang_multi_text.db,MultiText,Skill_1000204_SkillDescribe,【<te href=850041>热压弹</te>】容量上限扩充{0}发，共鸣技能<color=Highlight>轰轰</color>伤害提升{1}。,Max <te href=850041>Thermobaric Bullets</te> is increased by {0} rounds. The damage of Resonance Skill <color=Highlight>Boom Boom</color> is increased by {1}.,"Dung lượng tối đa [<te href=850041>Nhiệt Áp Đạn</te>] tăng thêm {0} viên, sát thương Kỹ Năng Cộng Hưởng <color=Highlight>Oanh Oanh</color> tăng {1}."
+lang_multi_text.db,MultiText,Skill_1000204_SkillName,灼热弹匣,Scorching Magazine,Chước Nhiệt Đạn Hạp
+lang_multi_text.db,MultiText,Skill_1000204_SkillResume,【热压弹】容量上限扩充{0}发，共鸣技能<color=Highlight>轰轰</color>伤害提升{1}。,Increase Max Thermobaric Bullets by {0} rounds. Increase damage from Resonance Skill <color=Highlight>Boom Boom</color> by {1}.,"Dung lượng tối đa [Nhiệt Áp Đạn] tăng thêm {0} viên, sát thương Kỹ Năng Cộng Hưởng <color=Highlight>Oanh Oanh</color> tăng {1}."
+lang_multi_text.db,MultiText,Skill_1000205_SkillDescribe,共鸣技能<color=Highlight>咔咔压制</color>持续期间，每发【<te href=850041>热压弹</te>】命中可使攻击提升{0}，持续{1}秒，可叠加{2}层。,"Each <te href=850041>Thermobaric Bullet</te> that hits a target during Resonance Skill <color=Highlight>DAKA DAKA!</color> increases ATK by {0} for {1}s, stacking up to {2} times.","Trong thời gian Kỹ Năng Cộng Hưởng <color=Highlight>Khách Khách Áp Chế</color> kéo dài, mỗi viên [<te href=850041>Nhiệt Áp Đạn</te>] trúng mục tiêu sẽ tăng tấn công {0}, kéo dài {1} giây, cộng dồn tối đa {2} tầng."
+lang_multi_text.db,MultiText,Skill_1000205_SkillName,加麻加辣,Numbingly Spicy!,Thêm Tê Thêm Cay
+lang_multi_text.db,MultiText,Skill_1000205_SkillResume,共鸣技能<color=Highlight>咔咔压制</color>持续期间，每发【热压弹】命中可使攻击提升{0}，持续{1}秒，可叠加{2}层。,"Each Thermobaric Bullet that hits a target during Resonance Skill <color=Highlight>DAKA DAKA!</color> increases ATK by {0} for {1}s, stacking up to {2} times.","Trong thời gian Kỹ Năng Cộng Hưởng <color=Highlight>Khách Khách Áp Chế</color> kéo dài, mỗi viên [Nhiệt Áp Đạn] trúng mục tiêu sẽ tăng tấn công {0}, kéo dài {1} giây, cộng dồn tối đa {2} tầng."
+lang_multi_text.db,MultiText,Skill_1000206_SkillDescribe,飒爽登场，对目标进行快速射击，造成<color=Fire>热熔伤害</color>。,"Chixia makes a heroic entrance and fires rapidly with her dual pistols at the target, dealing <color=Fire>Fusion DMG</color>.","Oai phong xuất hiện, bắn nhanh vào mục tiêu, gây <color=Fire>sát thương Hỏa Liệt</color>."
+lang_multi_text.db,MultiText,Skill_1000206_SkillName,堂堂登场,Grand Entrance,Xuất Hiện Hoành Tráng
+lang_multi_text.db,MultiText,Skill_1000206_SkillResume,造成<color=Fire>热熔伤害</color>。,Deal <color=Fire>Fusion DMG</color>.,Gây <color=Fire>sát thương Hỏa Liệt</color>.
+lang_multi_text.db,MultiText,Skill_1000207_SkillDescribe,"<size=40><color=Title>共鸣技能·咔咔压制</color></size>
+长按共鸣技能<color=Highlight>咻咻斗意</color>，进入<color=Highlight>咔咔压制</color>状态，在该状态下：
+·持续消耗【热压弹】攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为共鸣技能伤害；
+·短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第4段普攻</color>攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为普攻伤害，并退出咔咔压制；
+·若短按<color=Highlight>普攻</color>时已消耗{0}发【热压弹】，将会施放共鸣技能<color=Highlight>轰轰</color>，并退出咔咔压制；
+·当【热压弹】消耗完毕后，退出咔咔压制。
+<size=10> </size>
+<size=40><color=Title>共鸣技能·轰轰</color></size>
+造成<color=Fire>热熔伤害</color>，此次伤害为共鸣技能伤害。
+<size=10> </size>
+<size=40><color=Title>热压弹获取规则</color></size>
+【热压弹】容量上限{1}发。
+固有技能<color=Highlight>灼热弹匣</color>可将【热压弹】容量上限扩充{2}发。
+常态攻击<color=Highlight>砰砰</color>命中目标时，可积攒【热压弹】。
+施放变奏技能<color=Highlight>堂堂登场</color>时，可积攒【热压弹】。
+施放共鸣技能<color=Highlight>咻咻斗意</color>时，可积攒【热压弹】。","<size=40><color=Title>Resonance Skill: DAKA DAKA!</color></size>
+Hold Resonance Skill <color=Highlight>Whizzing Fight Spirit</color> to enter <color=Highlight>DAKA DAKA!</color>. In this state:
+- Chixia continuously consumes ""Thermobaric Bullets"" to attack the target, dealing <color=Fire>Fusion DMG</color>, considered as Resonance Skill DMG.
+- Tap <color=Highlight>Basic Attack</color> to cast <color=Highlight>Basic Attack 4</color>, dealing <color=Fire>Fusion DMG</color>, considered as Basic Attack DMG. Then she exits the ""DAKA DAKA!"" state.
+- If {0} ""Thermobaric Bullets"" have been fired when <color=Highlight>Basic Attack</color> is activated, Chixia will cast Resonance Skill <color=Highlight>Boom Boom</color> and exit ""DAKA DAKA!"" state.
+- Chixia exits the ""DAKA DAKA!"" state when all ""Thermobaric Bullets"" are consumed.
+<size=10> </size>
+<size=40><color=Title>Resonance Skill: Boom Boom</color></size>
+Deal <color=Fire>Fusion DMG</color>, considered as Resonance Skill DMG.
+<size=10> </size>
+<size=40><color=Title>Thermobaric Bullets</color></size>
+Chixia can hold up to {1} ""Thermobaric Bullets"".
+Inherent Skill <color=Highlight>Scorching Magazine</color> increases Max ""Thermobaric Bullets"" by {2}.
+Chixia obtains ""Thermobaric Bullets"" for every Normal Attack <color=Highlight>POW POW</color> on hit.
+Chixia obtains ""Thermobaric Bullets"" upon casting Intro Skill <color=Highlight>Grand Entrance</color> and Resonance Skill <color=Highlight>Whizzing Fight Spirit</color>.","<size=40><color=Title>Kỹ Năng Cộng Hưởng - Rát Rát Áp Chế</color></size>
+Giữ Kỹ Năng Cộng Hưởng <color=Highlight>Xìu Xìu Đấu Chí</color>, đi vào trạng thái <color=Highlight>Rát Rát Áp Chế</color>, trong trạng thái này:
+- Liên tục tiêu hao [Đạn Nhiệt Áp] để tấn công mục tiêu, gây <color=Fire>sát thương Hỏa Liệt</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng;
+- Nhấn <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường đoạn 4</color> tấn công mục tiêu, gây <color=Fire>sát thương Hỏa Liệt</color>, sát thương này được tính là sát thương Đánh Thường, đồng thời thoát Rát Rát Áp Chế;
+- Nếu khi nhấn <color=Highlight>Đánh Thường</color> đã tiêu hao {0} viên [Đạn Nhiệt Áp], sẽ thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Ầm Ầm</color>, đồng thời thoát Rát Rát Áp Chế;
+- Khi [Đạn Nhiệt Áp] tiêu hao hết, thoát Rát Rát Áp Chế.
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Ầm Ầm</color></size>
+Gây <color=Fire>sát thương Hỏa Liệt</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
+<size=10> </size>
+<size=40><color=Title>Quy tắc nhận Đạn Nhiệt Áp</color></size>
+Sức chứa tối đa [Đạn Nhiệt Áp] là {1} viên.
+Kỹ Năng Nội Tại <color=Highlight>Băng Đạn Thiêu Đốt</color> có thể mở rộng sức chứa tối đa [Đạn Nhiệt Áp] thêm {2} viên.
+Đánh Thường <color=Highlight>Bành Bành</color> trúng mục tiêu sẽ tích lũy [Đạn Nhiệt Áp].
+Khi thi triển Biến Tấu <color=Highlight>Xuất Hiện Hoành Tráng</color> sẽ tích lũy [Đạn Nhiệt Áp].
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Xìu Xìu Đấu Chí</color> sẽ tích lũy [Đạn Nhiệt Áp]."
+lang_multi_text.db,MultiText,Skill_1000207_SkillName,英魂炽火流,Heroic Bullets,Anh Hồn Xích Hỏa Lưu
+lang_multi_text.db,MultiText,Skill_1000207_SkillResume,"<size=40><color=Title>共鸣技能·咔咔压制</color></size>
+长按共鸣技能<color=Highlight>咻咻斗意</color>，进入<color=Highlight>咔咔压制</color>状态，在该状态下：
+
+·持续消耗【热压弹】攻击目标，造成<color=Fire>热熔伤害</color>；
+·短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第4段普攻</color>攻击目标，造成<color=Fire>热熔伤害</color>，并退出咔咔压制；
+·若短按<color=Highlight>普攻</color>时已消耗{0}发【热压弹】，将会施放共鸣技能<color=Highlight>轰轰</color>，并退出咔咔压制；
+·当【热压弹】消耗完毕后，退出咔咔压制。
+<size=10></size>
+<size=40><color=Title>共鸣技能·轰轰</color></size>
+造成<color=Fire>热熔伤害</color>。
+<size=10></size>
+<size=40><color=Title>热压弹获取规则</color></size>
+【热压弹】容量上限{1}发。
+固有技能<color=Highlight>灼热弹匣</color>可将【热压弹】容量上限扩充{2}发。
+【热压弹】获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>、<color=Highlight>共鸣技能</color>。","<size=40><color=Title>Resonance Skill: DAKA DAKA!</color></size>
+Hold Resonance Skill <color=Highlight>Whizzing Fight Spirit</color> to enter <color=Highlight>DAKA DAKA!</color>. In this state:
+-Chixia continuously fires Thermobaric Bullets to attack the target, dealing <color=Fire>Fusion DMG</color>.
+-Use <color=Highlight>Basic Attack</color> to cast <color=Highlight>Basic Attack 4</color>, dealing <color=Fire>Fusion DMG</color> and exiting the DAKA DAKA! state.
+-If {0} Thermobaric Bullets have been fired when <color=Highlight>Basic Attack</color> is used, Chixia will cast Resonance Skill <color=Highlight>Boom Boom</color> and exit the DAKA DAKA! state.
+-Chixia exits the DAKA DAKA! state when all Thermobaric Bullets are fired.
+<size=10></size>
+<size=40><color=Title>Resonance Skill: Boom Boom</color></size>
+Deal <color=Fire>Fusion DMG</color>.
+<size=10></size>
+<size=40><color=Title>Thermobaric Bullets</color></size>
+Chixia can hold up to {1} Thermobaric Bullets.
+Inherent Skill <color=Highlight>Scorching Magazine</color> increases Max Thermobaric Bullets by {2}.
+Chixia gains Thermobaric Bullets through <color=Highlight>Normal Attack</color>, <color=Highlight>Intro Skill</color>, and <color=Highlight>Resonance Skill</color>.","<size=40><color=Title>Kỹ Năng Cộng Hưởng - Rát Rát Áp Chế</color></size>
+Giữ Kỹ Năng Cộng Hưởng <color=Highlight>Xìu Xìu Đấu Chí</color>, đi vào trạng thái <color=Highlight>Rát Rát Áp Chế</color>, trong trạng thái này:
+
+- Liên tục tiêu hao [Đạn Nhiệt Áp] để tấn công mục tiêu, gây <color=Fire>sát thương Hỏa Liệt</color>;
+- Nhấn <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường đoạn 4</color> tấn công mục tiêu, gây <color=Fire>sát thương Hỏa Liệt</color>, đồng thời thoát Rát Rát Áp Chế;
+- Nếu khi nhấn <color=Highlight>Đánh Thường</color> đã tiêu hao {0} viên [Đạn Nhiệt Áp], sẽ thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Ầm Ầm</color>, đồng thời thoát Rát Rát Áp Chế;
+- Khi [Đạn Nhiệt Áp] tiêu hao hết, thoát Rát Rát Áp Chế.
+<size=10></size>
+<size=40><color=Title>Kỹ Năng Cộng Hưởng - Ầm Ầm</color></size>
+Gây <color=Fire>sát thương Hỏa Liệt</color>.
+<size=10></size>
+<size=40><color=Title>Quy tắc nhận Đạn Nhiệt Áp</color></size>
+Sức chứa tối đa [Đạn Nhiệt Áp] là {1} viên.
+Kỹ Năng Nội Tại <color=Highlight>Băng Đạn Thiêu Đốt</color> có thể mở rộng sức chứa tối đa [Đạn Nhiệt Áp] thêm {2} viên.
+Cách nhận [Đạn Nhiệt Áp]: <color=Highlight>Đánh Thường</color>, <color=Highlight>Biến Tấu</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>."
+lang_multi_text.db,MultiText,Skill_1000208_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt
+lang_multi_text.db,MultiText,Skill_1000209_MultiSkillDescribe_1.1,以技能目标为中心，释放冲击波，对范围内的目标造成炽霞{0}攻击的<color=Fire>热熔伤害</color>。,"Release a shock wave centered around the target, dealing <color=Fire>Fusion DMG</color> equal to {0} of Chixia's ATK to the enemies within the range.","Lấy mục tiêu kỹ năng làm tâm, giải phóng sóng xung kích, gây <color=Fire>sát thương Hỏa Liệt</color> bằng {0} tấn công của Xích Hà lên các mục tiêu trong phạm vi."
+lang_multi_text.db,MultiText,Skill_1000209_SkillDescribe,以技能目标为中心，释放冲击波，对范围内的目标造成炽霞{0}攻击的<color=Fire>热熔伤害</color>。,"Chixia releases a shock wave surrounding the target, dealing <color=Fire>Fusion DMG</color> equal to {0} of Chixia's ATK to enemies within the range.","Lấy mục tiêu kỹ năng làm tâm, giải phóng sóng xung kích, gây <color=Fire>sát thương Hỏa Liệt</color> bằng {0} tấn công của Xích Hà lên các mục tiêu trong phạm vi."
+lang_multi_text.db,MultiText,Skill_1000209_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,Skill_1000209_SkillName,跃焰,Leaping Flames,Nhảy Lửa
+lang_multi_text.db,MultiText,Skill_1000209_SkillResume,对范围内的目标造成炽霞{0}攻击的<color=Fire>热熔伤害</color>。,Deal <color=Fire>Fusion DMG</color> equal to {0} of Chixia's ATK to enemies within range.,Gây <color=Fire>sát thương Hỏa Liệt</color> bằng {0} tấn công của Xích Hà lên các mục tiêu trong phạm vi.
+lang_multi_text.db,MultiText,Skill_1000301_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+培育藤蔓进行最多5段攻击，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+消耗耐力往前冲刺，并造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，在空中进行最多3段的连续攻击，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>空中重击</color></size>
+在空中长按<color=Highlight>普攻</color>，消耗耐力进行空中下落攻击，造成<color=Light>衍射伤害</color>。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Verina performs up to 5 consecutive attacks with vines, dealing <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Heavy Attack</color></size>
+Verina consumes STA to charge forward, dealing <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Verina consumes STA to perform up to 3 consecutive attacks in mid-air, dealing <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Mid-air Heavy Attack</color></size>
+Hold <color=Highlight>Basic Attack</color> to consume STA and perform a mid-air Plunging Attack, dealing <color=Light>Spectro DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Dodge Counter</color></size>
+Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Light>Spectro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
+Điều khiển dây leo thực hiện tối đa 5 đoạn tấn công, gây <color=Light>sát thương Quang Phổ</color>.
+<size=10> </size>
+<size=40><color=Title>Đánh Mạnh</color></size>
+Tiêu hao thể lực lao về phía trước, gây <color=Light>sát thương Quang Phổ</color>.
+<size=10> </size>
+<size=40><color=Title>Tấn công trên không</color></size>
+Tiêu hao thể lực, thực hiện tối đa 3 đoạn tấn công liên tiếp trên không, gây <color=Light>sát thương Quang Phổ</color>.
+<size=10> </size>
+<size=40><color=Title>Đánh Mạnh trên không</color></size>
+Giữ <color=Highlight>Đánh Thường</color> trên không, tiêu hao thể lực thực hiện tấn công bổ nhào, gây <color=Light>sát thương Quang Phổ</color>.
+<size=10> </size>
+<size=40><color=Title>Phản Công Né Tránh</color></size>
+Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn <color=Highlight>Đánh Thường</color> trong thời gian nhất định sẽ tấn công mục tiêu, gây <color=Light>sát thương Quang Phổ</color>."
+lang_multi_text.db,MultiText,Skill_1000301_SkillName,育苗,Cultivation,Ươm Mầm
+lang_multi_text.db,MultiText,Skill_1000301_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>重击</color></size>
+消耗耐力，造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中重击</color></size>
+在空中长按<color=Highlight>普攻</color>，消耗耐力，造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Consume STA to deal <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Heavy Attack</color></size>
+Hold <color=Highlight>Basic Attack</color> to consume STA to deal <color=Light>Spectro DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Light>Spectro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
+Gây <color=Light>sát thương Quang Phổ</color>.
+<size=10></size>
+<size=40><color=Title>Đánh Mạnh</color></size>
+Tiêu hao thể lực, gây <color=Light>sát thương Quang Phổ</color>.
+<size=10></size>
+<size=40><color=Title>Tấn công trên không</color></size>
+Tiêu hao thể lực, gây <color=Light>sát thương Quang Phổ</color>.
+<size=10></size>
+<size=40><color=Title>Đánh Mạnh trên không</color></size>
+Giữ <color=Highlight>Đánh Thường</color> trên không, tiêu hao thể lực, gây <color=Light>sát thương Quang Phổ</color>.
+<size=10></size>
+<size=40><color=Title>Phản Công Né Tránh</color></size>
+Gây <color=Light>sát thương Quang Phổ</color>."
+lang_multi_text.db,MultiText,Skill_1000302_SkillDescribe,向前方集聚能量，让部分植物急速生长，在范围内造成<color=Light>衍射伤害</color>。,"Verina converges an energy field in front to grow foliage, dealing <color=Light>Spectro DMG</color> within the range.","Tập trung năng lượng về phía trước, khiến một số thực vật sinh trưởng nhanh chóng, gây <color=Light>sát thương Quang Phổ</color> trong phạm vi."
+lang_multi_text.db,MultiText,Skill_1000302_SkillName,扩繁试验,Botany Experiment,Thí Nghiệm Nhân Giống
+lang_multi_text.db,MultiText,Skill_1000302_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,Gây <color=Light>sát thương Quang Phổ</color>.
+lang_multi_text.db,MultiText,Skill_1000303_SkillDescribe,"促使周围的草木急速生长，造成<color=Light>衍射伤害</color>，回复附近队伍中所有角色的生命值，命中目标时给目标附加<color=Highlight>光合标记</color>。
+<size=10> </size>
+<size=40><color=Title>光合标记</color></size>
+附近队伍中所有角色攻击命中携带<color=Highlight>光合标记</color>的目标时，维里奈都会进行协同攻击，造成<color=Light>衍射伤害</color>，并为造成伤害的附近队伍登场角色回复生命值，每秒可触发1次。","Verina nourishes nearby foliage at rapid speed, dealing <color=Light>Spectro DMG</color> while healing all Characters on teams nearby. A <color=Highlight>Photosynthesis Mark</color> is applied to the target on hit.
+<size=10> </size>
+<size=40><color=Title>Photosynthesis Mark</color></size>
+Whenever a Character on a team nearby performs an attack on targets with a <color=Highlight>Photosynthesis Mark</color>, Verina performs a Coordinated Attack, dealing <color=Light>Spectro DMG</color> while healing the active Character dealing damage on a team nearby, triggered 1 time per second.","Thúc đẩy cây cỏ xung quanh sinh trưởng nhanh chóng, gây <color=Light>sát thương Quang Phổ</color>, hồi phục sinh lực cho tất cả nhân vật trong đội hình gần đó, khi trúng mục tiêu sẽ gắn <color=Highlight>Dấu Quang Hợp</color> lên mục tiêu.
+<size=10> </size>
+<size=40><color=Title>Dấu Quang Hợp</color></size>
+Khi bất kỳ nhân vật nào trong đội hình gần đó tấn công trúng mục tiêu mang <color=Highlight>Dấu Quang Hợp</color>, Verina sẽ thực hiện tấn công phối hợp, gây <color=Light>sát thương Quang Phổ</color>, đồng thời hồi phục sinh lực cho nhân vật đang ra trận gần đó đã gây sát thương, mỗi giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Skill_1000303_SkillName,草木生长,Arboreal Flourish,Cỏ Cây Sinh Trưởng
+lang_multi_text.db,MultiText,Skill_1000303_SkillResume,"造成<color=Light>衍射伤害</color>，回复附近队伍中所有角色的生命值，给命中目标附加<color=Highlight>光合标记</color>。
+<size=10></size>
+<size=40><color=Title>光合标记</color></size>
+队伍中所有角色攻击命中携带光合标记的目标时，进行协同攻击，造成<color=Light>衍射伤害</color>，为造成伤害的附近队伍登场角色回复生命值。","Deal <color=Light>Spectro DMG</color> and heal nearby party members. A <color=Highlight> Photosynthesis Mark</color> is applied to the target on hit.
+<size=10></size>
+<size=40><color=Title>Photosynthesis Mark</color></size>
+When her own team members attack targets with a <color=Highlight>Photosynthesis Mark</color>, Verina performs a Coordinated Attack, dealing <color=Light>Spectro DMG</color>, and heals party members who are dealing damage nearby.","Gây <color=Light>sát thương Quang Phổ</color>, hồi phục sinh lực cho tất cả nhân vật trong đội hình gần đó, gắn <color=Highlight>Dấu Quang Hợp</color> lên mục tiêu bị trúng.
+<size=10></size>
+<size=40><color=Title>Dấu Quang Hợp</color></size>
+Khi bất kỳ nhân vật nào trong đội tấn công trúng mục tiêu mang Dấu Quang Hợp, sẽ thực hiện tấn công phối hợp, gây <color=Light>sát thương Quang Phổ</color>, hồi phục sinh lực cho nhân vật đang ra trận gần đó đã gây sát thương."
+lang_multi_text.db,MultiText,Skill_1000304_SkillDescribe,队伍中有角色受到致死伤害时，此次伤害不会使该角色倒下，并获得基于维里奈{0}攻击的护盾，护盾持续{1}秒，该效果每{2}分钟可触发1次。,"Verina protects a team member from fatal damage and grants a shield with strength equal to {0} of Verina's ATK, lasting for {1}s. This can be triggered 1 time every {2} minutes.","Khi có nhân vật trong đội nhận sát thương chí mạng, lần sát thương này sẽ không khiến nhân vật đó gục ngã, đồng thời nhận được lá chắn dựa trên {0} tấn công của Verina, lá chắn tồn tại {1} giây, hiệu ứng này mỗi {2} phút có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Skill_1000304_SkillName,生命的恩惠,Grace of Life,Ân Huệ Sự Sống
+lang_multi_text.db,MultiText,Skill_1000304_SkillResume,队伍中有角色受到致死伤害时，此次伤害不会使该角色倒下，并获得基于维里奈{0}攻击的护盾，护盾持续{1}秒，该效果每{2}分钟可触发1次。,"Verina protects her own team members from fatal damage and grants them a shield equal to {0} of her ATK, lasting for {1}s. This can be triggered 1 time every {2} minutes.","Khi có nhân vật trong đội nhận sát thương chí mạng, lần sát thương này sẽ không khiến nhân vật đó gục ngã, đồng thời nhận được lá chắn dựa trên {0} tấn công của Verina, lá chắn tồn tại {1} giây, hiệu ứng này mỗi {2} phút có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Skill_1000305_SkillDescribe,施放重击<color=Highlight>星星花绽放</color>、空中攻击<color=Highlight>星星花绽放</color>、共鸣解放<color=Highlight>草木生长</color>或延奏技能<color=Highlight>盛放</color>时，队伍中的角色攻击提升{0}，持续{1}秒。,"When Verina casts Heavy Attack <color=Highlight>Starflower Blooms</color>, Mid-air Attack <color=Highlight>Starflower Blooms</color>, Resonance Liberation <color=Highlight>Arboreal Flourish</color> or Outro Skill <color=Highlight>Blossom</color>, all team members' ATK are increased by {0} for {1}s.","Khi thi triển Đánh Mạnh <color=Highlight>Hoa Sao Nở Rộ</color>, tấn công trên không <color=Highlight>Hoa Sao Nở Rộ</color>, Giải Phóng Cộng Hưởng <color=Highlight>Cỏ Cây Sinh Trưởng</color> hoặc Hiệp Tấu <color=Highlight>Nở Rộ</color>, tấn công của tất cả nhân vật trong đội tăng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1000305_SkillName,自然的献礼,Gift of Nature,Món Quà Thiên Nhiên
+lang_multi_text.db,MultiText,Skill_1000305_SkillResume,施放重击<color=Highlight>星星花绽放</color>、空中攻击<color=Highlight>星星花绽放</color>、共鸣解放<color=Highlight>草木生长</color>或延奏技能<color=Highlight>盛放</color>时，队伍中的角色攻击提升{0}，持续{1}秒。,"When Verina casts Heavy Attack <color=Highlight>Starflower Blooms</color>, Mid-air Attack <color=Highlight>Starflower Blooms</color>, Resonance Liberation <color=Highlight>Arboreal Flourish</color> or Outro Skill <color=Highlight>Blossom</color>, her own team members' ATK are increased by {0} for {1}s.","Khi thi triển Đánh Mạnh <color=Highlight>Tinh Tinh Hoa Nở Rộ</color>, Tấn Công Trên Không <color=Highlight>Tinh Tinh Hoa Nở Rộ</color>, Giải Phóng Cộng Hưởng <color=Highlight>Cỏ Cây Sinh Trưởng</color> hoặc Kỹ Năng Hiệp Tấu <color=Highlight>Nở Rộ</color>, tấn công của tất cả nhân vật trong đội tăng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,Skill_1000306_SkillDescribe,攻击目标，造成<color=Light>衍射伤害</color>。,"Verina attacks the target, dealing <color=Light>Spectro DMG</color>.","Tấn công mục tiêu, gây <color=Light>sát thương Quang Phổ</color>."
+lang_multi_text.db,MultiText,Skill_1000306_SkillName,蔓延,Verdant Growth,Lan Rộng
+lang_multi_text.db,MultiText,Skill_1000306_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,Gây <color=Light>sát thương Quang Phổ</color>.
+lang_multi_text.db,MultiText,Skill_1000307_SkillDescribe,"<size=40><color=Title>重击·星星花绽放</color></size>
+施放<color=Highlight>重击</color>时，若拥有【光合能量】，则消耗{0}层【光合能量】，回复协奏能量，并回复附近队伍中所有角色的生命值；
+重击<color=Highlight>星星花绽放</color>命中目标时，造成<color=Light>衍射伤害</color>，此次伤害为重击伤害。
+<size=10> </size>
+<size=40><color=Title>空中攻击·星星花绽放</color></size>
+施放<color=Highlight>空中攻击</color>时，若拥有【光合能量】，则消耗{0}层【光合能量】，回复协奏能量，并回复附近队伍中所有角色的生命值；
+空中攻击<color=Highlight>星星花绽放</color>命中目标时，造成<color=Light>衍射伤害</color>，此次伤害为普攻伤害。
+施放重击<color=Highlight>星星花绽放</color>后短按<color=Highlight>普攻</color>，可以施放空中攻击<color=Highlight>星星花绽放</color>。
+<size=10> </size>
+<size=40><color=Title>光合能量获取规则</color></size>
+【光合能量】上限{1}层。
+<color=Highlight>第5段普攻</color>命中目标时，获得{2}层【光合能量】。
+施放共鸣技能<color=Highlight>扩繁试验</color>时，获得{3}层【光合能量】。
+施放变奏技能<color=Highlight>蔓延</color>时，获得{4}层【光合能量】。","<size=40><color=Title>Heavy Attack: Starflower Blooms</color></size>
+When casting <color=Highlight>Heavy Attack</color>, if Verina carries ""Photosynthesis Energy"", Verina consumes {0} stack of ""Photosynthesis Energy"" to recover Concerto Energy and heal all characters on a nearby team.
+<color=Highlight>Heavy Attack: Starflower Blooms</color> deals <color=Light>Spectro DMG</color>, considered as Heavy Attack DMG.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack: Starflower Blooms</color></size>
+When casting <color=Highlight>Mid-air Attack</color>, if Verina carries ""Photosynthesis Energy"", Verina consumes {0} stack of ""Photosynthesis Energy"" to recover Concerto Energy and heal all characters on a nearby team.
+<color=Highlight>Mid-air Attack: Starflower Blooms</color> deals <color=Light>Spectro DMG</color>, considered as Basic Attack DMG.
+Verina can cast <color=Highlight>Mid-air Attack: Starflower Blooms</color> by using <color=Highlight>Basic Attack</color> after casting <color=Highlight>Heavy Attack: Starflower Blooms</color>.
+<size=10> </size>
+<size=40><color=Title>Photosynthesis Energy</color></size>
+Verina can hold up to {1} stacks of ""Photosynthesis Energy"".
+Verina obtains {2} stack of ""Photosynthesis Energy"" for every <color=Highlight>Basic Attack 5</color> on hit.
+Verina obtains {3} stack of ""Photosynthesis Energy"" after casting Resonance Skill <color=Highlight>Botany Experiment</color>.
+Verina obtains {4} stack of ""Photosynthesis Energy"" after casting Intro Skill <color=Highlight>Verdant Growth</color>.","<size=40><color=Title>Đánh Mạnh - Tinh Tinh Hoa Nở Rộ</color></size>
+Khi thi triển <color=Highlight>Đánh Mạnh</color>, nếu có [Năng Lượng Quang Hợp], tiêu hao {0} tầng [Năng Lượng Quang Hợp], hồi phục năng lượng Hiệp Tấu và hồi phục sinh lực cho tất cả nhân vật trong đội ở gần;
+Đánh Mạnh <color=Highlight>Tinh Tinh Hoa Nở Rộ</color> trúng mục tiêu sẽ gây <color=Light>sát thương Quang Phổ</color>, sát thương này được tính là sát thương Đánh Mạnh.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không - Tinh Tinh Hoa Nở Rộ</color></size>
+Khi thi triển <color=Highlight>Tấn Công Trên Không</color>, nếu có [Năng Lượng Quang Hợp], tiêu hao {0} tầng [Năng Lượng Quang Hợp], hồi phục năng lượng Hiệp Tấu và hồi phục sinh lực cho tất cả nhân vật trong đội ở gần;
+Tấn Công Trên Không <color=Highlight>Tinh Tinh Hoa Nở Rộ</color> trúng mục tiêu sẽ gây <color=Light>sát thương Quang Phổ</color>, sát thương này được tính là sát thương Đánh Thường.
+Sau khi thi triển Đánh Mạnh <color=Highlight>Tinh Tinh Hoa Nở Rộ</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> có thể thi triển Tấn Công Trên Không <color=Highlight>Tinh Tinh Hoa Nở Rộ</color>.
+<size=10> </size>
+<size=40><color=Title>Cách nhận Năng Lượng Quang Hợp</color></size>
+[Năng Lượng Quang Hợp] tối đa {1} tầng.
+<color=Highlight>Đánh Thường đoạn 5</color> trúng mục tiêu sẽ nhận được {2} tầng [Năng Lượng Quang Hợp].
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Thí Nghiệm Nhân Giống</color>, nhận được {3} tầng [Năng Lượng Quang Hợp].
+Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Lan Rộng</color>, nhận được {4} tầng [Năng Lượng Quang Hợp]."
+lang_multi_text.db,MultiText,Skill_1000307_SkillName,星星花绽放,Starflower Blooms,Tinh Tinh Hoa Nở Rộ
+lang_multi_text.db,MultiText,Skill_1000307_SkillResume,"<size=40><color=Title>重击·星星花绽放</color></size>
+施放<color=Highlight>重击</color>时，若拥有【光合能量】，则消耗{0}层【光合能量】，回复协奏能量，并回复附近队伍中所有角色的生命值；
+重击<color=Highlight>星星花绽放</color>命中目标时，造成<color=Light>衍射伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击·星星花绽放</color></size>
+施放<color=Highlight>空中攻击</color>时，若拥有【光合能量】，则消耗{0}层【光合能量】，回复协奏能量，并回复附近队伍中所有角色的生命值；
+空中攻击<color=Highlight>星星花绽放</color>命中目标时，造成<color=Light>衍射伤害</color>。
+施放重击<color=Highlight>星星花绽放</color>后短按<color=Highlight>普攻</color>，可以施放空中攻击<color=Highlight>星星花绽放</color>。
+<size=10></size>
+<size=40><color=Title>光合能量获取规则</color></size>
+【光合能量】上限{1}层。
+【光合能量】的获取途径：<color=Highlight>普攻</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>。","<size=40><color=Title>Heavy Attack: Starflower Blooms</color></size>
+When casting <color=Highlight>Heavy Attack</color>, if Verina has Photosynthesis Energy, she consumes {0} stack of it to recover Concerto Energy and heal all nearby party members.
+<color=Highlight>Heavy Attack: Starflower Blooms</color> deals <color=Light>Spectro DMG</color> on hit.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack: Starflower Blooms</color></size>
+When casting <color=Highlight>Mid-air Attack</color>, if Verina has Photosynthesis Energy, she consumes {0} stack of it to recover Concerto Energy and heal all nearby party members.
+<color=Highlight>Mid-air Attack: Starflower Blooms</color> deals <color=Light>Spectro DMG</color> on hit.
+Verina can cast <color=Highlight>Mid-air Attack: Starflower Blooms</color> by using <color=Highlight>Basic Attack</color> shortly after casting <color=Highlight>Heavy Attack: Starflower Blooms</color>.
+<size=10></size>
+<size=40><color=Title>Photosynthesis Energy</color></size>
+Verina can hold up to {1} Photosynthesis Energy.
+Verina gains Photosynthesis Energy through <color=Highlight>Basic Attack</color>, <color=Highlight>Resonance Skill</color>, and <color=Highlight>Intro Skill</color>.","<size=40><color=Title>Đánh Mạnh - Tinh Tinh Hoa Nở Rộ</color></size>
+Khi thi triển <color=Highlight>Đánh Mạnh</color>, nếu có [Năng Lượng Quang Hợp], tiêu hao {0} tầng [Năng Lượng Quang Hợp], hồi phục năng lượng Hiệp Tấu và hồi phục sinh lực cho tất cả nhân vật trong đội ở gần;
+Đánh Mạnh <color=Highlight>Tinh Tinh Hoa Nở Rộ</color> trúng mục tiêu sẽ gây <color=Light>sát thương Quang Phổ</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không - Tinh Tinh Hoa Nở Rộ</color></size>
+Khi thi triển <color=Highlight>Tấn Công Trên Không</color>, nếu có [Năng Lượng Quang Hợp], tiêu hao {0} tầng [Năng Lượng Quang Hợp], hồi phục năng lượng Hiệp Tấu và hồi phục sinh lực cho tất cả nhân vật trong đội ở gần;
+Tấn Công Trên Không <color=Highlight>Tinh Tinh Hoa Nở Rộ</color> trúng mục tiêu sẽ gây <color=Light>sát thương Quang Phổ</color>.
+Sau khi thi triển Đánh Mạnh <color=Highlight>Tinh Tinh Hoa Nở Rộ</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> có thể thi triển Tấn Công Trên Không <color=Highlight>Tinh Tinh Hoa Nở Rộ</color>.
+<size=10></size>
+<size=40><color=Title>Cách nhận Năng Lượng Quang Hợp</color></size>
+[Năng Lượng Quang Hợp] tối đa {1} tầng.
+Cách nhận [Năng Lượng Quang Hợp]: <color=Highlight>Đánh Thường</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>, <color=Highlight>Kỹ Năng Biến Tấu</color>."
+lang_multi_text.db,MultiText,Skill_1000308_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có tỷ lệ tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1000308_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1000308_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,"Khi nhân vật hiện tại nấu ăn, có tỷ lệ tạo ra món ăn đặc biệt."
+lang_multi_text.db,MultiText,Skill_1000309_MultiSkillDescribe_1.1,持续为附近队伍中激活维里奈延奏技能的角色回复生命值，每秒回复维里奈{0}攻击的生命值，持续{1}秒。附近队伍中所有角色全伤害加深{2}，持续{3}秒。,Heals the Resonator on a nearby team that activates Verina's Outro Skill by {1} of her Max HP every {0}s for {2}s. All Resonators on nearby teams have their DMG Amplified by {2} for {3}s.,"Liên tục hồi phục sinh lực cho nhân vật kích hoạt Kỹ Năng Hiệp Tấu của Verina trong đội ở gần, mỗi giây hồi phục lượng sinh lực bằng {0} tấn công của Verina, kéo dài {1} giây. Tất cả nhân vật trong đội ở gần được tăng sát thương toàn bộ {2}, kéo dài {3} giây."
+lang_multi_text.db,MultiText,Skill_1000309_SkillDescribe,持续为下一位登场角色回复生命值，每秒回复维里奈{0}攻击的生命值，持续{1}秒。附近队伍中所有角色全伤害加深{2}，持续{3}秒。,Heal the incoming Resonator by {0} of Verina's ATK per second for {1}s. All Resonators on nearby teams have their DMG Amplified by {2} for {3}s.,"Liên tục hồi phục sinh lực cho nhân vật ra sân tiếp theo, mỗi giây hồi phục lượng sinh lực bằng {0} tấn công của Verina, kéo dài {1} giây. Tất cả nhân vật trong đội ở gần được tăng sát thương toàn bộ {2}, kéo dài {3} giây."
+lang_multi_text.db,MultiText,Skill_1000309_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
+lang_multi_text.db,MultiText,Skill_1000309_SkillName,盛放,Blossom,Nở Rộ
+lang_multi_text.db,MultiText,Skill_1000309_SkillResume,持续为下一位登场角色回复生命值。附近队伍中所有角色全伤害加深{2}。,Continuously heal the incoming Resonator. All nearby party members have their DMG Amplified by {2}.,Liên tục hồi phục sinh lực cho nhân vật ra sân tiếp theo. Tất cả nhân vật trong đội ở gần được tăng sát thương toàn bộ {2}.
+lang_multi_text.db,MultiText,Skill_1000401_SkillDescribe,"<size=40><color=Title>普攻</color></size>
+指挥忧昙进行最多4段的连续攻击，造成<color=Ice>冷凝伤害</color>。
+<size=10> </size>
+<size=40><color=Title>重击</color></size>
+持续消耗耐力，牵引忧昙攻击目标，造成<color=Ice>冷凝伤害</color>。重击期间可控制忧昙进行移动。
+<size=10> </size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，在空中召唤忧昙进行下落攻击，造成<color=Ice>冷凝伤害</color>。
+<size=10> </size>
+<size=40><color=Title>闪避反击</color></size>
+成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Baizhi instructs You'tan to perform up to 4 consecutive attacks, dealing <color=Ice>Glacio DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Heavy Attack</color></size>
+Baizhi continuously consumes STA to command You'tan to attack enemies, dealing <color=Ice>Glacio DMG</color>. During Heavy Attack, Baizhi can command You'tan to move.
+<size=10> </size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Baizhi consumes STA and summons You'tan in mid-air to perform a Plunging Attack, dealing <color=Ice>Glacio DMG</color>.
+<size=10> </size>
+<size=40><color=Title>Dodge Counter</color></size>
+Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
+Chỉ huy Ưu Đàm thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10> </size>
+<size=40><color=Title>Đánh Mạnh</color></size>
+Liên tục tiêu hao thể lực, điều khiển Ưu Đàm tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>. Trong lúc Đánh Mạnh có thể điều khiển Ưu Đàm di chuyển.
+<size=10> </size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, triệu hồi Ưu Đàm trên không thực hiện đòn tấn công lao xuống, gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10> </size>
+<size=40><color=Title>Phản Công Né Tránh</color></size>
+Sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Đánh Thường</color> trong khoảng thời gian nhất định sẽ tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Skill_1000401_SkillName,应许,Destined Promise,Lời Hứa
+lang_multi_text.db,MultiText,Skill_1000401_SkillResume,"<size=40><color=Title>普攻</color></size>
+造成<color=Ice>冷凝伤害</color>。
+<size=10></size>
+<size=40><color=Title>重击</color></size>
+持续消耗耐力，造成<color=Ice>冷凝伤害</color>。
+<size=10></size>
+<size=40><color=Title>空中攻击</color></size>
+消耗耐力，造成<color=Ice>冷凝伤害</color>。
+<size=10></size>
+<size=40><color=Title>闪避反击</color></size>
+造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Ice>Glacio DMG</color>.
+<size=10></size>
+<size=40><color=Title>Heavy Attack</color></size>
+Continuously consume STA to deal <color=Ice>Glacio DMG</color>.
+<size=10></size>
+<size=40><color=Title>Mid-air Attack</color></size>
+Consume STA to deal <color=Ice>Glacio DMG</color>.
+<size=10></size>
+<size=40><color=Title>Dodge Counter</color></size>
+Deal <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
+Gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10></size>
+<size=40><color=Title>Đánh Mạnh</color></size>
+Liên tục tiêu hao thể lực, gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10></size>
+<size=40><color=Title>Tấn Công Trên Không</color></size>
+Tiêu hao thể lực, gây <color=Ice>sát thương Ngưng Băng</color>.
+<size=10></size>
+<size=40><color=Title>Phản Công Né Tránh</color></size>
+Gây <color=Ice>sát thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Skill_1000402_SkillDescribe,呼唤忧昙攻击目标，造成<color=Ice>冷凝伤害</color>，并立即为附近队伍中所有角色回复生命值。,"Baizhi calls You'tan to attack the target, dealing <color=Ice>Glacio DMG</color> while immediately healing all characters on nearby teams.","Triệu hồi Ưu Đàm tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>, đồng thời lập tức hồi phục sinh lực cho tất cả nhân vật trong đội ở gần."
+lang_multi_text.db,MultiText,Skill_1000402_SkillName,应急预案,Emergency Plan,Phương Án Khẩn Cấp
+lang_multi_text.db,MultiText,Skill_1000402_SkillResume,造成<color=Ice>冷凝伤害</color>，为附近队伍中所有角色回复生命值。,Deal <color=Ice>Glacio DMG</color> and heal all nearby party members.,"Gây <color=Ice>sát thương Ngưng Băng</color>, hồi phục sinh lực cho tất cả nhân vật trong đội ở gần."
+lang_multi_text.db,MultiText,Skill_1000403_SkillDescribe,"召唤忧昙瞬间为附近队伍中所有角色回复生命值，并依次产生{0}段<color=Highlight>频隙回响</color>。
+<size=10> </size>
+<size=40><color=Title>频隙回响</color></size>
+频隙回响会跟随队伍中登场角色，每{1}秒会消耗{2}段<color=Highlight>频隙回响</color>进行协同攻击，命中目标时造成<color=Ice>冷凝伤害</color>，并以命中点为中心，为附近队伍中所有角色回复生命值。","Baizhi summons You'tan to heal all characters on nearby teams, generating {0} stacks of <color=Highlight>Remnant Entities</color>.
+<size=10> </size>
+<size=40><color=Title>Remnant Entities</color></size>
+Remnant Entities follow the active team members. {2} stack(s) of <color=Highlight>Remnant Entities</color> are automatically consumed to perform Coordinated Attacks every {1}s, dealing <color=Ice>Glacio DMG</color> on hit while healing all characters of the team when the active character is within the range.","Triệu hồi Ưu Đàm, lập tức hồi phục sinh lực cho tất cả nhân vật trong đội ở gần, đồng thời tạo ra lần lượt {0} đoạn <color=Highlight>Tần Khích Hồi Vang</color>.
+<size=10> </size>
+<size=40><color=Title>Tần Khích Hồi Vang</color></size>
+Tần Khích Hồi Vang sẽ đi theo nhân vật đang ra sân trong đội, mỗi {1} giây tiêu hao {2} đoạn <color=Highlight>Tần Khích Hồi Vang</color> để thực hiện tấn công phối hợp, trúng mục tiêu sẽ gây <color=Ice>sát thương Ngưng Băng</color>, lấy điểm trúng làm tâm, hồi phục sinh lực cho tất cả nhân vật trong đội ở gần."
+lang_multi_text.db,MultiText,Skill_1000403_SkillName,刹那合弥,Momentary Union,Sát Na Hợp Di
+lang_multi_text.db,MultiText,Skill_1000403_SkillResume,"为附近队伍中所有角色回复生命值，并依次产生{0}段<color=Highlight>频隙回响</color>。
+<size=10></size>
+<size=40><color=Title>频隙回响</color></size>
+频隙回响会跟随队伍中登场角色，持续消耗<color=Highlight>频隙回响</color>攻击目标，命中目标时造成<color=Ice>冷凝伤害</color>，并以命中点为中心，为附近队伍中所有角色回复生命值。","Heal all nearby party members, generating {0} stacks of <color=Highlight>Remnant Entities</color>.
+<size=10></size>
+<size=40><color=Title>Remnant Entities</color></size>
+Remnant Entities follow the active team members. <color=Highlight>Remnant Entities</color> are automatically consumed to attack targets, dealing <color=Ice>Glacio DMG</color> on hit while healing all nearby party members.","Hồi phục sinh lực cho tất cả nhân vật trong đội ở gần, đồng thời tạo ra lần lượt {0} đoạn <color=Highlight>Tần Khích Hồi Vang</color>.
+<size=10></size>
+<size=40><color=Title>Tần Khích Hồi Vang</color></size>
+Tần Khích Hồi Vang sẽ đi theo nhân vật đang ra sân trong đội, liên tục tiêu hao <color=Highlight>Tần Khích Hồi Vang</color> để tấn công mục tiêu, trúng mục tiêu sẽ gây <color=Ice>sát thương Ngưng Băng</color>, lấy điểm trúng làm tâm, hồi phục sinh lực cho tất cả nhân vật trong đội ở gần."
+lang_multi_text.db,MultiText,Skill_1000404_SkillDescribe,"施放共鸣技能<color=Highlight>应急预案</color>时，忧昙会留下一片<color=Highlight>天籁</color>，存在时间{0}秒。
+<size=10> </size>
+<size=40><color=Title>天籁</color></size>
+拾取天籁的角色攻击提升{1}，持续{2}秒。","When Baizhi casts Resonance Skill <color=Highlight>Emergency Plan</color>, You'tan generates a field of <color=Highlight>Euphonia</color> that lasts for {0}s.
+<size=10> </size>
+<size=40><color=Title>Euphonia</color></size>
+ATK of the Resonators who pick up Euphonia is increased by {1} for {2}s.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color>, Ưu Đàm sẽ để lại một mảnh <color=Highlight>Thiên Lại</color>, tồn tại trong {0} giây.
+<size=10> </size>
+<size=40><color=Title>Thiên Lại</color></size>
+Nhân vật nhặt được Thiên Lại sẽ tăng tấn công {1}, kéo dài {2} giây."
+lang_multi_text.db,MultiText,Skill_1000404_SkillName,泛音区间,Harmonic Range,Phiếm Âm Khu Gian
+lang_multi_text.db,MultiText,Skill_1000404_SkillResume,"施放共鸣技能<color=Highlight>应急预案</color>时，忧昙会留下一片<color=Highlight>天籁</color>，存在时间{0}秒。
+<size=10> </size>
+<size=40><color=Title>天籁</color></size>
+拾取天籁的角色攻击提升{1}，持续{2}秒。","When Baizhi casts Resonance Skill <color=Highlight>Emergency Plan</color>, You'tan generates a field of <color=Highlight>Euphonia</color> that lasts for {0}s.
+<size=10></size>
+<size=40><color=Title>Euphonia</color></size>
+ATK of Resonators who pick up Euphonia is increased by {1} for {2}s.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color>, Ưu Đàm sẽ để lại một vùng <color=Highlight>Thiên Lại</color>, tồn tại trong {0} giây.
+<size=10> </size>
+<size=40><color=Title>Thiên Lại</color></size>
+Nhân vật nhặt được Thiên Lại sẽ tăng tấn công thêm {1}, kéo dài {2} giây."
+lang_multi_text.db,MultiText,Skill_1000405_SkillDescribe,<color=Highlight>重击</color>每次命中目标时，都能为附近队伍中生命值最少的角色回复生命值，回复量为白芷自身{0}生命上限。,Baizhi's <color=Highlight>Heavy Attack</color> on hit heals the character with the lowest HP on a nearby team by {0} of her Max HP.,"Mỗi lần <color=Highlight>Đánh Mạnh</color> trúng mục tiêu, sẽ hồi phục sinh lực cho nhân vật có sinh lực thấp nhất trong đội hình gần đó, lượng hồi phục bằng {0} sinh lực tối đa của Bạch Chỉ."
+lang_multi_text.db,MultiText,Skill_1000405_SkillName,激策回馈,Stimulus Feedback,Kích Sách Hồi Phản
+lang_multi_text.db,MultiText,Skill_1000405_SkillResume,<color=Highlight>重击</color>每次命中目标时，都能为附近队伍中生命值最少的角色回复生命值，回复量为白芷自身{0}生命上限。,<color=Highlight>Heavy Attack</color> on hit heals the nearby party member with the lowest HP by {0} of Baizhi's own Max HP.,"Mỗi lần <color=Highlight>Đánh Mạnh</color> trúng mục tiêu, sẽ hồi phục sinh lực cho nhân vật có sinh lực thấp nhất trong đội hình gần đó, lượng hồi phục bằng {0} sinh lực tối đa của Bạch Chỉ."
+lang_multi_text.db,MultiText,Skill_1000406_SkillDescribe,白芷召唤忧昙，进行1次俯冲攻击，造成<color=Ice>冷凝伤害</color>，并为附近队伍中所有角色回复生命值。,"Baizhi calls You'tan to perform 1 plunging attack, dealing <color=Ice>Glacio DMG</color> while healing all characters on a nearby team.","Bạch Chỉ triệu hồi Ưu Đàm, thực hiện 1 đòn tấn công bổ nhào, gây <color=Ice>sát thương Ngưng Băng</color> và hồi phục sinh lực cho tất cả nhân vật trong đội hình gần đó."
+lang_multi_text.db,MultiText,Skill_1000406_SkillName,覆雪流盈,Overflowing Frost,Phủ Tuyết Lưu Doanh
+lang_multi_text.db,MultiText,Skill_1000406_SkillResume,造成<color=Ice>冷凝伤害</color>，并为附近队伍中所有角色回复生命值。,Deal <color=Ice>Glacio DMG</color> and heal all nearby party members.,Gây <color=Ice>sát thương Ngưng Băng</color> và hồi phục sinh lực cho tất cả nhân vật trong đội hình gần đó.
+lang_multi_text.db,MultiText,Skill_1000407_SkillDescribe,"<size=40><color=Title>忧昙</color></size>
+与白芷存在精神连接、能响应其意愿的回音生物，继承白芷的全部属性。白芷闪避时，忧昙会回到白芷身边。
+<size=10> </size>
+<size=40><color=Title>念意</color></size>
+通过施放<color=Highlight>重击</color>或共鸣技能<color=Highlight>应急预案</color>时，消耗所有【念意】，持续为附近队伍中所有角色回复生命值，每消耗{0}点【念意】则回复1次生命值，每次回复间隔{2}秒。
+<color=Highlight>重击</color>消耗【念意】时，白芷额外回复协奏能量和共鸣能量。
+共鸣技能<color=Highlight>应急预案</color>消耗【念意】时，白芷额外回复协奏能量。
+<size=10> </size>
+<size=40><color=Title>念意获取规则</color></size>
+【念意】上限{3}点。
+<color=Highlight>普攻</color>命中目标时，获得{4}点【念意】。","<size=40><color=Title>You'tan</color></size>
+A Remnant Creature that answers to Baizhi's mind and desires while sharing all her stats. You'tan goes back to Baizhi when Baizhi dodges.
+<size=10> </size>
+<size=40><color=Title>Concentration</color></size>
+Baizhi consumes all ""Concentration"" when casting <color=Highlight>Heavy Attack</color> or Resonance Skill <color=Highlight>Emergency Plan</color> to continuously heal all Resonators on nearby teams. Each {0} ""Concentration"" consumed provides 1 healing. The healing happens every {2}s.
+When Baizhi consumes ""Concentration"" to cast <color=Highlight>Heavy Attack</color>, Baizhi additionally restores Concerto Energy and Resonance Energy.
+When Baizhi consumes ""Concentration"" to cast Resonance Skill <color=Highlight>Emergency Plan</color>, Baizhi additionally restores Concerto Energy.
+<size=10> </size>
+<size=40><color=Title>Forte Gauge: Concentration</color></size>
+Baizhi can hold up to {3} ""Concentration"".
+Baizhi obtains {4} ""Concentration"" for every <color=Highlight>Basic Attack</color> on hit.","<size=40><color=Title>Ưu Đàm</color></size>
+Sinh vật phản hồi có liên kết tinh thần với Bạch Chỉ, có thể đáp ứng ý nguyện của cô và thừa hưởng toàn bộ thuộc tính của Bạch Chỉ. Khi Bạch Chỉ Né Tránh, Ưu Đàm sẽ quay về bên cạnh Bạch Chỉ.
+<size=10> </size>
+<size=40><color=Title>Niệm Ý</color></size>
+Khi thi triển <color=Highlight>Đánh Mạnh</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color>, tiêu hao toàn bộ [Niệm Ý], liên tục hồi phục sinh lực cho tất cả nhân vật trong đội hình gần đó. Cứ mỗi {0} điểm [Niệm Ý] tiêu hao sẽ hồi phục 1 lần, mỗi lần cách nhau {2} giây.
+Khi <color=Highlight>Đánh Mạnh</color> tiêu hao [Niệm Ý], Bạch Chỉ được hồi thêm năng lượng Hiệp Tấu và năng lượng Cộng Hưởng.
+Khi Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color> tiêu hao [Niệm Ý], Bạch Chỉ được hồi thêm năng lượng Hiệp Tấu.
+<size=10> </size>
+<size=40><color=Title>Cách nhận Niệm Ý</color></size>
+[Niệm Ý] tối đa {3} điểm.
+Khi <color=Highlight>Đánh Thường</color> trúng mục tiêu, nhận được {4} điểm [Niệm Ý]."
+lang_multi_text.db,MultiText,Skill_1000407_SkillName,溯生环复,Cycle of Life,Tố Sinh Hoàn Phục
+lang_multi_text.db,MultiText,Skill_1000407_SkillResume,"<size=40><color=Title>忧昙</color></size>
+忧昙继承白芷的全部属性。白芷闪避时，忧昙会回到白芷身边。
+<size=10></size>
+<size=40><color=Title>念意</color></size>
+施放<color=Highlight>重击</color>或共鸣技能<color=Highlight>应急预案</color>时，消耗所有【念意】，根据消耗的数量，持续为附近队伍的角色回复生命值。
+<color=Highlight>重击</color>消耗【念意】时，白芷额外回复协奏能量和共鸣能量。
+共鸣技能<color=Highlight>应急预案</color>消耗【念意】时，白芷额外回复协奏能量。
+<size=10></size>
+<size=40><color=Title>念意获取规则</color></size>
+【念意】上限{3}点。
+【念意】的获取途径：<color=Highlight>普攻</color>。","<size=40><color=Title>You'tan</color></size>
+You'tan shares all of Baizhi's stats. You'tan goes back to Baizhi when Baizhi dodges.
+<size=10></size>
+<size=40><color=Title>Concentration</color></size>
+When casting <color=Highlight>Heavy Attack</color> or Resonance Skill <color=Highlight>Emergency Plan</color>, Baizhi consumes all Concentration and continuously heals nearby party members based on the number of Concentration consumed.
+When Baizhi consumes Concentration to cast <color=Highlight>Heavy Attack</color>, she also regenerates Concerto Energy and Resonance Energy.
+When Baizhi consumes Concentration to cast Resonance Skill <color=Highlight>Emergency Plan</color>, she also regenerates Concerto Energy.
+<size=10></size>
+<size=40><color=Title>Forte Gauge: Concentration</color></size>
+Baizhi can hold up to {3} Concentration.
+Baizhi gains Concentration through <color=Highlight>Basic Attack</color>.","<size=40><color=Title>Ưu Đàm</color></size>
+Ưu Đàm thừa hưởng toàn bộ thuộc tính của Bạch Chỉ. Khi Bạch Chỉ Né Tránh, Ưu Đàm sẽ quay về bên cạnh Bạch Chỉ.
+<size=10></size>
+<size=40><color=Title>Niệm Ý</color></size>
+Khi thi triển <color=Highlight>Đánh Mạnh</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color>, tiêu hao toàn bộ [Niệm Ý], dựa vào số lượng tiêu hao, liên tục hồi phục sinh lực cho nhân vật trong đội hình gần đó.
+Khi <color=Highlight>Đánh Mạnh</color> tiêu hao [Niệm Ý], Bạch Chỉ được hồi thêm năng lượng Hiệp Tấu và năng lượng Cộng Hưởng.
+Khi Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color> tiêu hao [Niệm Ý], Bạch Chỉ được hồi thêm năng lượng Hiệp Tấu.
+<size=10></size>
+<size=40><color=Title>Cách nhận Niệm Ý</color></size>
+[Niệm Ý] tối đa {3} điểm.
+Cách nhận [Niệm Ý]: <color=Highlight>Đánh Thường</color>."
+lang_multi_text.db,MultiText,Skill_1000408_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.
+lang_multi_text.db,MultiText,Skill_1000408_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Nấu Nướng
+lang_multi_text.db,MultiText,Skill_1000408_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Nhân vật hiện tại khi nấu ăn có xác suất tạo ra món ăn đặc biệt.

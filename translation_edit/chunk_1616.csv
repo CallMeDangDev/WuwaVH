@@ -1,302 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_1,主动技能({0})：向对手造成{1}点伤害。,Active Tactic ({0}): Deal {1} point of DMG to your opponent.,Kỹ năng chủ động ({0}): Gây {1} điểm sát thương cho đối thủ.
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_2,被动技能：在我方回合的战斗阶段开始时，我方声骸的伤害+{0}，持续1回合。,Passive Tactic: Increase your Echoes' DMG by {0} at the start of the Battle Stage for one round.,"Kỹ năng bị động: Vào đầu Giai đoạn Chiến đấu trong lượt phe ta, sát thương Thanh Hài phe ta +{0}, duy trì 1 lượt."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_1,主动技能({0})：将一张手牌重构，在下回合抽卡时，必定抽到这张手牌。,Active Tactic ({0}): Reconstruct a card on hand. You're bound to draw this card in the next round.,"Kỹ năng chủ động ({0}): Tái cấu trúc một lá bài trên tay, trong lượt rút bài tiếp theo, chắc chắn rút được lá bài này."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_2,被动技能：在本场决斗的前三回合开始时，额外抽一张牌。,Passive Tactic: Draw one additional card at the start of the first three rounds.,"Kỹ năng bị động: Vào đầu ba lượt đầu tiên của trận đấu, rút thêm một lá bài."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_1,主动技能({0})：于本回合中，我方声骸的力量+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' STR by {1}.","Kỹ năng chủ động ({0}): Trong lượt này, Sức mạnh Thanh Hài phe ta +{1}."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_2,被动技能：每当我方进行一次调谐时，使随机一个我方声骸力量+{0}直到回合结束。,"Passive Tactic: Each time you Modulate, randomly increase the STR of one of your Echoes by {0} until the end of the round.","Kỹ năng bị động: Mỗi khi phe ta thực hiện một lần Điều hợp, ngẫu nhiên tăng Sức mạnh một Thanh Hài phe ta +{0} đến cuối lượt."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_1,主动技能({0})：我方声骸力量与耐久均+{1}，持续1回合。,Active Tactic ({0}): Increase your Echoes' STR and CON by {1} for one round.,"Kỹ năng chủ động ({0}): Sức mạnh và Sức bền Thanh Hài phe ta +{1}, duy trì 1 lượt."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_2,被动技能：每次进行特殊召唤时，我方决斗家获得{0}点生命。,"Passive Tactic: For each Quick-Deploy, you gain {0} points of HP.","Kỹ năng bị động: Mỗi lần thực hiện Triệu hồi đặc biệt, đấu thủ phe ta nhận được {0} điểm sinh mệnh."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1501_1,本回合中，受到的生命值伤害减少1,Take 1 less DMG as duelist in this round.,"Trong lượt này, sát thương sinh mệnh nhận vào giảm 1."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_1,主动技能({0})：于本回合中，我方声骸伤害+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' DMG by {1}.","Kỹ năng chủ động ({0}): Trong lượt này, sát thương Thanh Hài phe ta +{1}."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_2,被动技能：在战斗阶段中，我方能量消耗为{0}的声骸提升{1}暴击。,"Passive Tactic: In the Battle Stage, increase Crit. Rate of your Cost {0} Echoes by {1}.","Kỹ năng bị động: Trong Giai đoạn Chiến đấu, Thanh Hài phe ta có năng lượng tiêu hao {0} được tăng {1} Bạo kích."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_1,主动技能({0})：抽一张牌。,Active Tactic ({0}): Draw a card.,Kỹ năng chủ động ({0}): Rút một lá bài.
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_2,被动技能：在我方回合开始时，额外获得{0}点能量。,Passive Tactic: Gain {0} additional point of Energy at the start of each round.,"Kỹ năng bị động: Vào đầu lượt phe ta, nhận thêm {0} điểm năng lượng."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1607_1,主动技能({0})：选择一个我方声骸。该声骸在本回合的战斗阶段中所受的伤害减少{1}，持续{2}秒。,Active Tactic ({0}): Select one of your Echoes to make it take {1} less DMG for {2}s in the Battle Stage of the current round.,"Kỹ năng chủ động ({0}): Chọn một Thanh Hài phe ta. Thanh Hài đó giảm {1} sát thương nhận vào trong Giai đoạn Chiến đấu lượt này, duy trì {2} giây."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1607_2,被动技能：在本场决斗的前三回合，我方决斗家在战斗阶段受到的伤害-{0}。,"Passive Tactic: In the first three rounds, you take {0} less DMG as the duelist in the Battle Stage.","Kỹ năng bị động: Trong ba lượt đầu tiên của trận đấu, đấu thủ phe ta giảm {0} sát thương nhận vào trong Giai đoạn Chiến đấu."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1107_1,致命弱点,Fatal Flaw,Tử Huyệt Chí Mạng
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1107_2,枪弹轮舞,Crystal Tango,Vũ Điệu Đạn Dược
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1203_1,小咩快长大,"Grow, Woolies!",Bé Cừu Mau Lớn
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1203_2,羊咩梦幻乐园,Woolies' Wonderland,Lạc Viên Mộng Ảo Cừu Non
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1208_1,自由射击,Weapons Free,Xạ Kích Tự Do
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1208_2,无尽追猎,Hunt Without End,Truy Sát Vô Tận
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1305_1,物质重构,Matter Reconstruction,Tái Cấu Trúc Vật Chất
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1305_2,系统过载,System Overload,Hệ Thống Quá Tải
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1406_1,声庇吾身,Resonant Blessing,Thanh Âm Hộ Thân
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1406_2,"{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}"
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1410_1,时刻将至,Time Draws Near,Thời Khắc Sắp Đến
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1410_2,月相轮转,Lunar Sequence,Nguyệt Tướng Luân Chuyển
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1507_1,强制加班,Mandatory Overtime,Cưỡng Chế Tăng Ca
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1507_2,适当激励,Productivity Boost,Khích Lệ Đúng Lúc
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1508_1,视限解明,Infinite Visability,Giải Minh Thị Giới
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1508_2,洞察诸弦,Vision of Threads,Thấu Suốt Chư Huyền
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1607_1,适者生存,Survival of the Fittest,Kẻ Thích Nghi Tồn Tại
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1607_2,慢性满足,Slow-Burn Satisfaction,Mãn Nguyện Chậm Rãi
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1,赛程积分等级达到2级「认证选手」后解锁,"Unlocked after reaching Rank Level 2 as ""Certified Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 2 ""Tuyển Thủ Chứng Nhận"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1107,取得与“荣光王”的决赛资格,Qualify for the final against Conqueror of Prestige,"Giành được tư cách vào chung kết với ""Vinh Quang Vương"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1203,击败“梦魇”加卢斯,Defeat Gallus the Nightmare,"Đánh Bại ""Mộng Yểm"" Gallus"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1305,击败“梦魇”加卢斯,Defeat Gallus the Nightmare,"Đánh Bại ""Mộng Yểm"" Gallus"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1501,击败“铸铁”阿格里帕,Defeat Agrippa the Ironheart,"Đánh Bại ""Đúc Thiết"" Agrippa"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1507,击败“尘土”劳尔,Defeat Raul the Dustbound,"Đánh Bại ""Trần Thổ"" Raul"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1607,击败“甘霖”玛尔茜亚,Defeat Marcia the Lifespring,"Đánh Bại ""Cam Lâm"" Marcia"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_2,赛程积分等级达到5级「知名选手」后解锁,"Unlocked after reaching Rank Level 5 as ""Popular Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 5 ""Tuyển Thủ Nổi Tiếng"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_3,赛程积分等级达到6级「资深选手」后解锁,"Unlocked after reaching Rank Level 6 as ""Veteran Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 6 ""Tuyển Thủ Kỳ Cựu"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_4,赛程积分等级达到7级「明星选手」后解锁,"Unlocked after reaching Rank Level 7 as ""All-Star Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 7 ""Tuyển Thủ Ngôi Sao"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_5,赛程积分等级达到8级「传奇选手」后解锁,"Unlocked after reaching Rank Level 8 as ""Legendary Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 8 ""Tuyển Thủ Huyền Thoại"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_6,赛程积分等级达到9级「传奇选手」后解锁,"Unlocked after reaching Rank Level 9 as ""Legendary Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 9 ""Tuyển Thủ Huyền Thoại"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_7,赛程积分等级达到3级「新秀选手」后解锁,"Unlocked after reaching Rank Level 3 as ""Promising Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 3 ""Tuyển Thủ Tân Tú"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_8,赛程积分等级达到4级「老练选手」后解锁,"Unlocked after reaching Rank Level 4 as ""Experienced Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 4 ""Tuyển Thủ Lão Luyện"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_9,赛程积分等级达到4级「老练选手」后解锁,"Unlocked after reaching Rank Level 4 as ""Experienced Duelist""","Mở khóa sau khi đạt cấp tích điểm giải đấu cấp 4 ""Tuyển Thủ Lão Luyện"""
-lang_multi_text.db,MultiText,PhantomBattleLVDes_1,解锁图鉴,Echo Collection Unlocked,Mở khóa Đồ giám
-lang_multi_text.db,MultiText,PhantomBattleLVDes_10,解锁无尽挑战·困难难度；解锁练习者之勋,Endless Challenge - Difficult and Trainee Medal Unlocked,Mở khóa Thử thách Vô tận - Độ khó Khó; Mở khóa Huân chương Luyện tập giả
-lang_multi_text.db,MultiText,PhantomBattleLVDes_11,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_12,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_13,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_14,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_15,解锁进阶者之勋,Adept Medal Unlocked,Mở khóa Huân chương Tiến giai giả
-lang_multi_text.db,MultiText,PhantomBattleLVDes_16,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_17,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_18,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_19,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_2,解锁战术,Resonator Tactics Unlocked,Mở khóa Chiến thuật
-lang_multi_text.db,MultiText,PhantomBattleLVDes_20,解锁老练者之勋,Veteran Medal Unlocked,Mở khóa Huân chương Lão luyện giả
-lang_multi_text.db,MultiText,PhantomBattleLVDes_3,无新功能开放,No New Feature Available,Không có tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleLVDes_4,解锁自由创建卡组及声骸功能,Free Deck Building and Echo Setup Unlocked,Mở khóa tự do tạo bộ bài và tính năng Thanh Hài
-lang_multi_text.db,MultiText,PhantomBattleLVDes_5,解锁初学者之勋,Novice Medal Unlocked,Mở khóa Huân chương Sơ học giả
-lang_multi_text.db,MultiText,PhantomBattleLVDes_6,解锁战斗阶段加速,Battle Stage Acceleration Unlocked,Mở khóa Tăng tốc giai đoạn chiến đấu
-lang_multi_text.db,MultiText,PhantomBattleLVDes_7,无新功能开放,No New Feature Available,Không có tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleLVDes_8,解锁无尽挑战·普通难度；解锁声骸外观升级,Endless Challenge - Normal and Echo Appearance Upgrade Unlocked,Mở khóa Thử thách Vô tận - Độ khó Thường; Mở khóa Nâng cấp ngoại quan Thanh Hài
-lang_multi_text.db,MultiText,PhantomBattleLVDes_9,无新功能开放,No New Feature Available,Không có tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2001,"阿希尔德为同好会的命运感到担忧。虽然她对会长安妮塔无比信任，但直到现在为止，她都没能在任何同好会成员那里看到击败教授们的希望。
-
-决斗家特性：无特性","Ashild is worried about the fate of the fan club. Although she places great trust in the fan club's leader, Anita, she still sees no hope of defeating the professors from any of the members up until now.
-
-Duelist Traits: None","Ashild lo lắng cho vận mệnh của đồng hảo hội. Dù cô tin tưởng tuyệt đối vào hội trưởng Anita, nhưng đến giờ, cô vẫn chưa thấy bất kỳ thành viên nào có hy vọng đánh bại các giáo sư.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2002,"丹尼斯老师认为，同好会成员的所谓决斗缺乏必要的优雅，也毫无艺术美感。他决定按照自己的意志来重塑这一切。
-
-决斗家特性：无特性","Professor Dennis believes that the fan club members' duels lack the necessary elegance and artistic beauty. He is now committed to reshaping it all based on his own ideal.
-
-Duelist Traits: None","Giáo sư Dennis cho rằng những cuộc quyết đấu của các thành viên đồng hảo hội thiếu sự thanh nhã cần thiết và không có chút mỹ cảm nghệ thuật nào. Ông quyết định tái tạo lại tất cả theo ý chí của mình.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2003,"菲斯塔教授认为自己找到了完美的决斗算法——能够让她在任何情况下都立于不败之地。然而，总有些东西是算法无法预测的。
-
-决斗家特性：无特性","Professor Festa believes she has found the perfect algorithm for dueling—one that would make her undefeated under any scenario. However, there are always variables that algorithms cannot predict.
-
-Duelist Traits: None","Giáo sư Festa tin rằng mình đã tìm ra thuật toán quyết đấu hoàn hảo - một thuật toán có thể giúp bà bất bại trong mọi tình huống. Tuy nhiên, luôn có những thứ mà thuật toán không thể dự đoán được.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2004,"切斯特对决斗毫无兴趣，也并不关心同好会的命运如何。对她来说，摧毁同好会只是她平淡无奇的工作中一个无法拒绝的额外差事而已。
-
-决斗家特性：无特性","Chessa has no interest in dueling, and cares little about the fan club's future. To her, destroying the fan club is just an unavoidable extra work in her normal, boring job.
-
-Duelist Traits: None","Chessa không hề hứng thú với quyết đấu, cũng chẳng quan tâm đến số phận của đồng hảo hội. Với cô, hủy diệt đồng hảo hội chỉ là một việc vặt không thể từ chối trong công việc nhàm chán thường ngày mà thôi.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2005,"卡利斯教授将荣耀之丘的创始人富里乌斯视为宿敌。他坚持要解散《荣耀之丘》同好会，很难说这是为了不让学生们重蹈富里乌斯的覆辙，还是单纯因仇恨使然。
-
-决斗家特性：无特性","Professor Calith sees Furius, the founder of Peaks of Prestige, as his archenemy. His campaign to disband the fan club might stem from a desire to shield his students from following… or it might be fueled by pure, personal animosity.
-
-Duelist Traits: None","Giáo sư Calith coi Furius, người sáng lập ""Peaks of Prestige"", là kẻ thù không đội trời chung. Ông khăng khăng giải tán đồng hảo hội ""Peaks of Prestige"" - khó nói rằng đây là để ngăn sinh viên đi vào vết xe đổ của Furius, hay đơn thuần vì lòng thù hận.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2006,"《荣耀之丘》拉海洛赛区负责人，安妮塔。在此发起决斗请求。
-
-决斗家特性：无特性","Anita, the Division Manager for the Peaks of Prestige Lahai-Roi Ranked Tournament, challenges you to a duel.
-
-Duelist Traits: None","Anita, người phụ trách khu vực Lahai-Roi của ""Peaks of Prestige"", gửi lời thách đấu tại đây.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2007,"对绫而言，《荣耀之丘》是缓解学习压力的方式，也是生活中不可缺少的一部分。
-
-决斗家特性：无特性","To Aya, Peaks of Prestige is a way to relieve stress from her schoolwork and an indispensable part of her life.
-
-Duelist Traits: None","Với Aya, ""Peaks of Prestige"" là cách xả bớt áp lực học tập, cũng là phần không thể thiếu trong cuộc sống.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2008,"机器护士会使出电子组合技吗？让我们拭目以待吧！
-
-决斗家特性：无特性","Do mech nurses use electric combos? Stay tuned right here on Peaks of Prestige!
-
-Duelist Traits: None","Y tá máy có sử dụng combo điện tử không? Hãy cùng chờ xem nhé!
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2009,"I.R.I.S.似乎切换了一个奇怪而又似曾相识的人格，虽然有点在意……但还是先决斗吧。
-
-决斗家特性：无特性","Looks like I.R.I.S. might have switched to a strange but familiar personality. It's a bit concerning... but let's duel first.
-
-Duelist Traits: None","I.R.I.S. dường như đã chuyển sang một nhân cách kỳ lạ nhưng lại rất quen thuộc. Tuy hơi bận tâm... nhưng cứ quyết đấu trước đã.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2010,"扎希拉将《荣耀之丘》从学院带到了罗伊族，她并没想到这款游戏在这么短的时间内就能在整个浮光林流传开来。
-
-决斗家特性：无特性","When Zahira brought Peaks of Prestige from the Academy to her Roya tribe, she never imagined it would sweep through Bjartr Woods like wildfire.
-
-Duelist Traits: None","Zahira mang ""Peaks of Prestige"" từ học viện về bộ tộc Roya, cô không ngờ trò chơi này lại lan truyền khắp Rừng Phù Quang nhanh đến vậy.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2011,"为了守护重要之物，拉格希尔德一直在追求力量。而《荣耀之丘》似乎已经成为了她的力量来源之一。
-
-决斗家特性：无特性","Lagerith has been pursuing power to protect something precious to her. Now, Peaks of Prestige seems to have become one of her sources of power.
-
-Duelist Traits: None","Để bảo vệ điều quan trọng, Lagerith luôn theo đuổi sức mạnh. Và ""Peaks of Prestige"" dường như đã trở thành một trong những nguồn sức mạnh của cô.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2012,"卡塔丽娜想要离开拉海洛，成为一名七丘角斗士……也许某一天，她真的能实现自己的愿望。
-
-决斗家特性：无特性","Katrina wants to leave Lahai-Roi and become a Septimont Gladiator... Perhaps one day her dreams will come true.
-
-Duelist Traits: None","Katrina muốn rời khỏi Lahai-Roi, trở thành một đấu sĩ Septimont... Có lẽ một ngày nào đó, cô ấy sẽ thực hiện được ước mơ của mình.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2013,"和乔娜决斗吧！让你看看谁才是真正的狠角色！
-
-决斗家特性：该技能持有者，每当召唤声骸时，使该声骸获得【不屈】技能。","Challenge Jonna! Let her see who's the real Duelist!
-
-Duelist Traits: Each time the duelist deploys an Echo, the Echo gains Resilience.","Hãy quyết đấu với Jonna! Để xem ai mới là tay chơi thực thụ!
-
-Đặc tính Đấu sĩ: Mỗi khi triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Bất Khuất]."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2014,"太好了！终于有人来和伊温德决斗了！
-
-决斗家特性：该技能持有者，每当在部署阶段与战斗阶段失去生命时，失去的生命-1。","Great! Finally, someone has come to challenge Eyvind!
-
-Duelist Traits: The duelist loses 1 less HP each time they lose HP during the Deployment Stage and Battle Stage.","Tuyệt vời! Cuối cùng cũng có người đến quyết đấu với Eyvind rồi!
-
-Đặc tính Đấu sĩ: Mỗi khi mất sinh mệnh trong Giai đoạn Triển Khai và Giai đoạn Chiến Đấu, lượng sinh mệnh mất đi giảm 1."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2015,"日灵也会玩《荣耀之丘》吗？还是说，它们仅仅是伊洛妮对于自己战术的伪装呢？
-
-决斗家特性：该技能持有者，在战斗阶段受到的伤害-5。","Do Soliskin also play Peaks of Prestige? Or are they just acting as Eloni's tactical disguise?
-
-Duelist Traits: The duelist takes 5 less DMG during the Battle Stage.","Nhật linh cũng chơi ""Peaks of Prestige"" sao? Hay chúng chỉ là lớp ngụy trang chiến thuật của Eloni?
-
-Đặc tính Đấu sĩ: Sát thương nhận được trong Giai đoạn Chiến Đấu giảm 5."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2016,"奥德吉尔听从来自内心深处的呼唤。他独自在旷野追逐隧群，希望从它们那里获得野性的智慧。
-
-决斗家特性：该技能持有者，每当召唤声骸时，使该声骸获得【坚韧】技能。","Odgier heeds the calling from deep within his heart. Alone, he pursues the Exoswarm in the wilderness, hoping to gain wild wisdom from them.
-
-Duelist Traits: Each time the duelist deploys an Echo, the Echo gains Toughness.","Odgier lắng nghe tiếng gọi từ sâu thẳm nội tâm. Một mình giữa hoang dã, anh truy đuổi bầy Toại, mong thu được trí tuệ hoang dại từ chúng.
-
-Đặc tính Đấu sĩ: Mỗi khi triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Kiên Nhẫn]."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2017,"来，一决胜负吧。
-
-决斗家特性：该技能持有者，每回合开始时，使对方失去7点生命。","Come, let's settle this once and for all.
-
-Duelist Traits: The duelist's opponent loses 7 HP at the start of each round.","Đến, phân thắng bại nào.
-
-Đặc tính Đấu sĩ: Đầu mỗi lượt, đối thủ mất 7 điểm sinh mệnh."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2018,"阿尔多对拉海洛的古代生物很感兴趣，并将自己对它们的想象添加到了卡组之中。
-
-决斗家特性：
-	该技能持有者，每当召唤声骸时，使该声骸获得【不屈】与【坚韧】技能。
-每当在部署阶段与战斗阶段失去生命时，失去的生命-1。
-回合结束时，所操控的声骸的力量与耐久均+X，X为当前回合数。","Aldo takes great interest in the ancient creatures of Lahai-Roi and has implemented his imagination of them in his deck.
-
-Duelist Traits:
-Each time the duelist deploys an Echo, the Echo gains Resilience and Toughness.
-The duelist loses 1 less HP each time they lose HP during the Deployment Stage and Battle Stage.
-At the end of each round, the duelist's Echoes gain X points of STR and CON, with X being the current round number.","Aldo rất hứng thú với các sinh vật cổ đại ở Lahai-Roi và đã đưa trí tưởng tượng về chúng vào bộ bài của mình.
-
-Đặc tính Đấu sĩ:
-	Mỗi khi triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Bất Khuất] và [Kiên Nhẫn].
-Mỗi khi mất sinh mệnh trong Giai đoạn Triển Khai và Giai đoạn Chiến Đấu, lượng sinh mệnh mất đi giảm 1.
-Cuối mỗi lượt, Sức mạnh và Nội lực của các Thanh Hài đang điều khiển đều tăng thêm X, X bằng số lượt hiện tại."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3001,"伊塔洛是来自拉古那的留学生，虽然他在拉海洛亲眼见到了许多神奇的科技，但他仍觉得声骸才是最强的。
-
-决斗家特性：无特殊效果","Italo is an exchange student from Ragunna. Despite having seen the technological wonders of Lahai-Roi, he still believes that nothing is stronger than an Echo.
-
-Duelist Traits: None","Italo là du học sinh đến từ Ragunna. Dù đã tận mắt chứng kiến nhiều công nghệ kỳ diệu tại Lahai-Roi, anh vẫn cho rằng Thanh Hài mới là mạnh nhất.
-
-Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3002,"安德鲁是他所在的科研小组中的技术员，也负责整个团队的后勤调配——但据认识他的人说，他似乎并不是个特别靠谱的人。
-
-决斗家特性：本场决斗的最大回合数为1！","Andrius is the technician and logistics coordinator for his research expedition team. However, people who know him say he's not particularly reliable.
-
-Duelist Traits: This duel only lasts 1 round!","Andrius là kỹ thuật viên trong nhóm nghiên cứu, đồng thời phụ trách hậu cần cho cả đội - nhưng theo những người quen biết, anh ta dường như không phải người đáng tin cậy cho lắm.
-
-Đặc tính Đấu sĩ: Trận đấu này chỉ có tối đa 1 lượt!"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3003,"峦泉意识到自己在前来冰原时落下了一个至关重要的东西，这让她的科考之旅变得黯然失色。
-
-决斗家特性：无特殊效果","Luanquan realized that she had left a crucial item behind on the way to frostlands. This mistake cast a shadow over her scientific expedition.
-
-Duelist Traits: None","Luanquan nhận ra mình đã bỏ quên một thứ vô cùng quan trọng khi đến vùng băng nguyên, khiến chuyến khảo sát khoa học trở nên kém vui hẳn.
-
-Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3004,"作为罗伊族，兰娜对星炬学院的科考摩托特别感兴趣。而因为某个传言，她产生了一个相当疯狂的创意……
-
-决斗家特性：技能持有者的对手每次召唤声骸时，技能持有者失去5点生命","As a Roya, Lana is particularly interested in Startorch Academy's expedition motorbikes. A certain rumor led her to come up with a rather crazy idea…
-
-Duelist Traits: The duelist's opponent loses 5 HP whenever the opponent deploys an Echo.","Là người Roya, Lana đặc biệt hứng thú với xe mô tô khảo sát của Học viện Tinh Cự. Và vì một lời đồn đại nào đó, cô đã nảy ra một ý tưởng khá điên rồ...
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ triệu hồi Thanh Hài, đấu sĩ mất 5 điểm sinh mệnh."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3005,"乔安娜目前正在罗伊冰原负责数据收集工作，为了在这枯燥的工作中打发时间，她急需一个强大的对手。
-
-决斗家特性：技能持有者每次受到的伤害-5","Joanna is currently responsible for data collection in the Roya Frostlands. The job is monotonous, and she desperately needs a strong opponent to kill time.
-
-Duelist Traits: Every instance of DMG taken by the duelist is reduced by 5.","Joanna hiện đang phụ trách công tác thu thập dữ liệu tại Băng Nguyên Roya. Để giết thời gian trong công việc buồn tẻ này, cô rất cần một đối thủ mạnh.
-
-Đặc tính Đấu sĩ: Mỗi lần sát thương nhận được giảm 5."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3006,"乌苏拉追寻强者，为此踏上了环境严酷的罗伊冰原。也许她在此能够找到她所期望的荣誉和乐趣。
-
-决斗家特性：技能持有者的对手每上阵一张卡牌，技能持有者失去66点生命","Ursula ventured into the harsh Roya Frostlands in search of a strong opponent. Perhaps here, she will find honor and joy.
-
-Duelist Traits: The duelist's opponent loses 66 HP whenever the opponent deploys a card.","Ursula theo đuổi kẻ mạnh, vì thế đã đặt chân đến Băng Nguyên Roya khắc nghiệt. Có lẽ tại đây cô sẽ tìm được vinh quang và niềm vui mà mình mong đợi.
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ ra một lá bài, đấu sĩ mất 66 điểm sinh mệnh."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3007,"罗伊人相信，环境越是恶劣的地方，就越有可能藏着美食。对布里姆而言当然也不例外。
-
-决斗家特性：每次召唤声骸时，技能持有者的一个随机声骸力量与耐久均+1","The Roya believe that delicious quarry is only found in the harshest environments. Bream is no exception.
-
-Duelist Traits: One of the duelist's Echoes gains 1 STR and CON whenever the duelist deploys an Echo.","Người Roya tin rằng, nơi nào môi trường càng khắc nghiệt, nơi đó càng có thể ẩn giấu mỹ thực. Với Bream, điều này đương nhiên cũng không ngoại lệ.
-
-Đặc tính Đấu sĩ: Mỗi khi triệu hồi Thanh Hài, một Thanh Hài ngẫu nhiên được tăng 1 điểm Sức mạnh và Nội lực."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3008,"吉尔森一直在守望沉眠的隧者，而随着拉海洛新的太阳升起，他预感到自己的守望也即将结束。
-
-决斗家特性：技能持有者在战斗阶段受到的伤害-15，但是只有1点生命","Gilson has been watching over the slumbering Exostrider. With the rise of the new sun over Lahai-Roi, he knows his watch is coming to an end.
-
-Duelist Traits: Damage taken by the duelist in the Battle Stage is reduced by 15, but the duelist only has 1 HP.","Gilson vẫn luôn canh giữ Exostrider đang say giấc, và khi mặt trời mới mọc lên trên Lahai-Roi, anh linh cảm rằng nhiệm vụ canh gác của mình sắp kết thúc.
-
-Đặc tính Đấu sĩ: Sát thương nhận được trong Giai đoạn Chiến đấu giảm 15, nhưng chỉ có 1 điểm sinh mệnh."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3009,"瓦尔正在构思一个有趣的小说，而它的灵感似乎来源于隧者的传说……
-
-决斗家特性：每当技能持有者的对手使用主动技能时，使其场上所有声骸力量与耐久均-1","Varr is brainstorming ideas for an interesting novel. His inspiration mainly seems to come from the legend of the Exostrider.
-
-Duelist Traits: On-field Echoes belonging to the duelist's opponent lose 1 STR and CON whenever the opponent uses Active Skills.","Varr đang ấp ủ ý tưởng cho một cuốn tiểu thuyết thú vị, và nguồn cảm hứng của anh dường như bắt nguồn từ truyền thuyết về Exostrider...
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ sử dụng Kỹ năng Chủ động, tất cả Thanh Hài trên sân của đối thủ giảm 1 điểm Sức mạnh và Nội lực."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3010,"深空联合的数据库中有一条记载：某个坠毁的航天器中藏着一件拥有宇宙之力的宝物。威尔艾米娜正是被这条记载指引于此。
-
-决斗家特性：技能持有者的对手每进行一次特殊召唤时，技能持有者的对手失去4点生命","There is a record in the Spacetrek Collective's database of a crashed spacecraft that hides a treasure with the power of the cosmos. This is what drew Wilhelmina here.
-
-Duelist Traits: The duelist's opponent loses 4 HP whenever the opponent Quick-Deploys an Echo.","Trong cơ sở dữ liệu của Spacetrek Collective có một ghi chép: trong một phi thuyền rơi ẩn giấu một bảo vật mang sức mạnh vũ trụ. Wilhelmina chính là được ghi chép này dẫn đường đến đây.
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ thực hiện Triệu hồi Nhanh, đối thủ mất 4 điểm sinh mệnh."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3011,"加西亚在等待他的补给，而在补给送达之前，他决定做点什么打发时间。
-
-决斗家特性：技能持有者的对手每上阵1个奇藏卡牌时，技能持有者失去10点生命","Garcia is waiting for supplies, and before they arrive, he decides to do something to pass the time. 
-
-Duelist Traits: The duelist's opponent loses 10 HP whenever the opponent deploys a Supply Chest card.","Garcia đang chờ đợi tiếp tế, và trước khi hàng đến, anh quyết định làm gì đó để giết thời gian.
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ ra 1 lá bài Kỳ Tàng, đấu sĩ mất 10 điểm sinh mệnh."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3012,"约翰从学院的传言中得知，冰原上隐藏着某个古老的秘密。而如今正是它该被揭晓的时刻。
-
-决斗家特性：部署阶段结束时，技能持有者对手的声骸力量与耐久均-4。此效果可叠加","John heard rumors at the Academy that an ancient secret is hidden in the frostlands. And now, it is time for the truth to be revealed.
-
-Duelist Traits: After the Deployment Stage, all Echoes belonging to the duelist's opponent lose 4 STR and CON. This effect can be stacked.","John nghe được từ những lời đồn trong học viện rằng, trên băng nguyên ẩn giấu một bí mật cổ xưa. Và giờ đây chính là lúc nó được hé lộ.
-
-Đặc tính Đấu sĩ: Khi kết thúc Giai đoạn Triển khai, tất cả Thanh Hài của đối thủ giảm 4 điểm Sức mạnh và Nội lực. Hiệu ứng này có thể cộng dồn."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3013,"“什么叫非正式项目？”
-
-决斗家特性：无特殊效果","""What does informal project mean?""
-
-Duelist Traits: None","""Dự án phi chính thức là cái gì?""
-
-Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3014,"“这些都是必要损耗！”
-
-决斗家特性：无特殊效果","""These are all necessary expenses!""
-
-Duelist Traits: None","""Đây đều là hao tổn cần thiết!""
-
-Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt."
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_72051,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_72052,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_72053,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730001,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730002,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730003,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730004,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730005,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730006,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730007,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730008,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730009,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730010,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730011,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730012,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730013,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730014,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730015,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730016,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730017,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730018,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730019,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730020,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730021,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_730022,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731001,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731002,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731003,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731004,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731005,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731006,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731007,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731008,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731009,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731010,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731011,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731012,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731013,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731014,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731015,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731016,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_731017,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732001,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732002,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732003,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732004,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732005,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732006,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732007,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732008,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732009,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732010,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732011,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732012,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732013,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_732014,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733001,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733002,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733003,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733004,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733005,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733006,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733007,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733008,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733009,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733010,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733011,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733012,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733013,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733014,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_733015,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734001,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734002,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734003,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734004,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734005,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734006,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734007,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734008,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734009,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734010,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734011,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734012,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734013,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734014,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734015,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_734016,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735001,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735002,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735003,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735004,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735005,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735006,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735007,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735008,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735009,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735010,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735011,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735012,荣耀之丘游戏中使用的拟似声骸。,A simulated Echo used in Peaks of Prestige.,Thanh Hài mô phỏng được sử dụng trong Đỉnh Vinh Quang.
+lang_multi_text.db,MultiText,PhantomBattleCardFunctionDes_735013,荣耀之丘游戏中使用的拟似卡牌。,A simulated card used in Peaks of Prestige.,Thẻ bài mô phỏng được sử dụng trong Đỉnh Vinh Quang.

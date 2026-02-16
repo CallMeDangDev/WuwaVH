@@ -1,131 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_gm.db,GmOrder,42,传送到指定坐标点,,Dịch chuyển đến tọa độ chỉ định
-lang_gm.db,GmOrder,43,激活传送点,,Kích hoạt điểm dịch chuyển
-lang_gm.db,GmOrder,44,触发引导,,Kích hoạt hướng dẫn
-lang_gm.db,GmOrder,45,打开商店,,Mở cửa hàng
-lang_gm.db,GmOrder,46,初始化鸣素体状态（重登生效）,,Khởi tạo trạng thái Minh Tố Thể (có hiệu lực sau khi đăng nhập lại)
-lang_gm.db,GmOrder,47,播放剧情,,Phát kịch tình
-lang_gm.db,GmOrder,48,强制提升玩家世界等级,,Cưỡng chế nâng cấp độ thế giới người chơi
-lang_gm.db,GmOrder,49,设置常规状态旋转屏幕灵敏度,,Cài đặt độ nhạy xoay màn hình trạng thái thường
-lang_gm.db,GmOrder,50,设置瞄准状态旋转屏幕灵敏度,,Cài đặt độ nhạy xoay màn hình trạng thái ngắm bắn
-lang_gm.db,GmOrder,51,造物点重置,,Reset điểm tạo vật
-lang_gm.db,GmOrder,52,加葫芦的经验,,Thêm kinh nghiệm cho hồ lô
-lang_gm.db,GmOrder,53,武器一件毕业,,Tốt nghiệp một vũ khí
-lang_gm.db,GmOrder,54,设置复活ID,,Đặt ID hồi sinh
-lang_gm.db,GmOrder,55,增加复活区域,,Thêm khu vực hồi sinh
-lang_gm.db,GmOrder,56,删除复活区域,,Xóa khu vực hồi sinh
-lang_gm.db,GmOrder,57,取当前的复活ID,,Lấy ID hồi sinh hiện tại
-lang_gm.db,GmOrder,58,在输出日志中显示所填条件组的完成情况（不能用于需要开监听的条件）,,Hiển thị tình trạng hoàn thành của nhóm điều kiện đã điền trong nhật ký đầu ra (không thể dùng cho điều kiện cần bật giám sát)
-lang_gm.db,GmOrder,59,启动条件组监听，条件进度每有发生变化，就会在输出日志中刷新完成情况,,"Bật giám sát nhóm điều kiện, mỗi khi tiến độ điều kiện thay đổi sẽ làm mới tình trạng hoàn thành trong nhật ký đầu ra"
-lang_gm.db,GmOrder,60,打开某类通用提示,,Mở một loại gợi ý chung
-lang_gm.db,GmOrder,61,读取玩法步骤组存档,,Đọc dữ liệu lưu nhóm bước gameplay
-lang_gm.db,GmOrder,62,立即执行服务端下线,,Thực hiện ngắt kết nối server ngay lập tức
-lang_gm.db,GmOrder,63,执行指定行为组,,Thực hiện nhóm hành vi chỉ định
-lang_gm.db,GmOrder,64,清空引导,,Xóa hướng dẫn
-lang_gm.db,GmOrder,65,发送指定内容邮件,,Gửi thư với nội dung chỉ định
-lang_gm.db,GmOrder,66,通知服务器删除指定邮件,,Thông báo server xóa thư chỉ định
-lang_gm.db,GmOrder,67,打开龙池,,Mở Long Trì
-lang_gm.db,GmOrder,68,触发trigger造物（GameSever后台可看输出）,,Kích hoạt trigger tạo vật (có thể xem đầu ra trong hậu đài GameServer)
-lang_gm.db,GmOrder,69,解锁所有探索工具,,Mở khóa tất cả công cụ khám phá
-lang_gm.db,GmOrder,70,区域任务每天刷新,,Làm mới nhiệm vụ khu vực hàng ngày
-lang_gm.db,GmOrder,71,区域任务每周刷新,,Làm mới nhiệm vụ khu vực hàng tuần
-lang_gm.db,GmOrder,72,加贡献值,,Thêm điểm cống hiến
-lang_gm.db,GmOrder,73,领取区域任务奖励,,Nhận thưởng nhiệm vụ khu vực
-lang_gm.db,GmOrder,74,刷新全部区域任务,,Làm mới toàn bộ nhiệm vụ khu vực
-lang_gm.db,GmOrder,75,传送到造物点,,Dịch chuyển đến điểm tạo vật
-lang_gm.db,GmOrder,76,播放剧情（新版）,,Phát cốt truyện (phiên bản mới)
-lang_gm.db,GmOrder,77,查询造物点所属实体位置信息,,Truy vấn thông tin vị trí thực thể của điểm tạo vật
-lang_gm.db,GmOrder,78,查询玩法/步骤组所属实体位置信息,,Truy vấn thông tin vị trí thực thể của gameplay/nhóm bước
-lang_gm.db,GmOrder,79,添加一个GM角色配置表中的角色,,Thêm một nhân vật từ bảng cấu hình nhân vật GM
-lang_gm.db,GmOrder,80,添加指定角色好感度,,Thêm độ hảo cảm cho nhân vật chỉ định
-lang_gm.db,GmOrder,81,测试掉落,,Test rơi đồ
-lang_gm.db,GmOrder,82,模拟版署包,,Mô phỏng gói bản thự
-lang_gm.db,GmOrder,83,幻象道具毕业,,Hoàn tất đạo cụ Ảo Tượng
-lang_gm.db,GmOrder,84,角色深测毕业,,Hoàn tất thâm trắc nhân vật
-lang_gm.db,GmOrder,85,进入深测副本,,Vào phụ bản thâm trắc
-lang_gm.db,GmOrder,86,幻象一键毕业,,Hoàn tất Ảo Tượng một chạm
-lang_gm.db,GmOrder,87,角色试用区域激活,,Kích hoạt khu vực dùng thử nhân vật
-lang_gm.db,GmOrder,88,注销角色试用区域,,Hủy đăng ký khu vực dùng thử nhân vật
-lang_gm.db,GmOrder,89,副本角色试用激活,,Kích hoạt dùng thử nhân vật phụ bản
-lang_gm.db,GmOrder,90,副本角色试用关闭,,Tắt dùng thử nhân vật phụ bản
-lang_gm.db,GmOrder,91,打印prefab对应的资源id,,In resource id tương ứng với prefab
-lang_gm.db,GmOrder,92,打印prefab对应的ts文件名,,In tên file ts tương ứng với prefab
-lang_gm.db,GmOrder,93,创建多人副本,,Tạo phụ bản nhiều người
-lang_gm.db,GmOrder,94,进入别人副本,,Vào phụ bản người khác
-lang_gm.db,GmOrder,95,发放直购商品奖励,,Phát thưởng sản phẩm mua trực tiếp
-lang_gm.db,GmOrder,96,剧情开启跳过按钮（Debug功能）,,Bật nút bỏ qua cốt truyện (chức năng Debug)
-lang_gm.db,GmOrder,97,显示生态动物名字,,Hiển thị tên động vật sinh thái
-lang_gm.db,GmOrder,98,关闭生态动物名字,,Tắt tên động vật sinh thái
-lang_gm.db,GmOrder,99,测试抽卡,,Test gacha
-lang_gm.db,GmOrder,100,一键添加声骸相关道具,,Thêm tất cả đạo cụ liên quan đến Thanh Hài một chạm
-lang_gm.db,GmOrder,101,切换天气,,Chuyển đổi thời tiết
-lang_gm.db,GmOrder,102,暂停天气,,Tạm dừng thời tiết
-lang_gm.db,GmOrder,103,Ban天气,,Ban thời tiết
-lang_gm.db,GmOrder,104,打开信息交互界面,,Mở giao diện tương tác thông tin
-lang_gm.db,GmOrder,105,打印Entity数量,,In số lượng Entity
-lang_gm.db,GmOrder,106,Disable Entity类型,,Disable loại Entity
-lang_gm.db,GmOrder,107,Enable Entity类型,,Enable loại Entity
-lang_gm.db,GmOrder,108,解锁探索工具,,Mở khóa công cụ khám phá
-lang_gm.db,GmOrder,109,查询对应id的Entity位置,,Truy vấn vị trí Entity theo id tương ứng
-lang_gm.db,GmOrder,110,解锁全部传送点,,Mở khóa tất cả điểm dịch chuyển
-lang_gm.db,GmOrder,111,按类型一键接取任务,,Nhận nhiệm vụ theo loại một lần
-lang_guide_new.db,GuideTips,1,"按住{0}、{1}前后移动。
-按住{2}、{3}左右移动。","Hold {0}, {1} to move back and forth.
-Hold {2}, {3} to move left and right.","Giữ {0}, {1} để di chuyển tiến lùi.
-Giữ {2}, {3} để di chuyển sang trái sang phải."
-lang_guide_new.db,GuideTips,2,按下{0}跳跃,Tap {0} to jump.,Nhấn {0} để nhảy.
-lang_guide_new.db,GuideTips,3,"按住{0}和{1} / {2}
-进入冲刺状态","Hold {0} and {1}/{2}
-Start to sprint.","Giữ {0} và {1} / {2}
-để bắt đầu chạy nước rút."
-lang_guide_new.db,GuideTips,4,按住<color=#8c7e51>摇杆</color>和<color=#8c7e51>闪避</color>按钮可以进入冲刺状态,"Hold (Joystick) and (Evade)
-Start to sprint.",Giữ <color=#8c7e51>Cần điều khiển</color> và nút <color=#8c7e51>Né Tránh</color> để bắt đầu chạy nước rút.
-lang_guide_new.db,GuideTips,5,贴近墙壁按住{0}进入攀爬状态,Stand beside the walls and hold {0} to climb.,Đứng sát tường và giữ {0} để bắt đầu leo trèo.
-lang_guide_new.db,GuideTips,6,点击{0}使用普攻,Tap {0} to use Normal Attack.,Nhấn {0} để sử dụng Phổ Công.
-lang_guide_new.db,GuideTips,7,按下{0}键使用共鸣技能,Tap {0} to use Resonance Skill.,Nhấn phím {0} để sử dụng Kỹ Năng Cộng Hưởng.
-lang_guide_new.db,GuideTips,8,靠近声骸，出现交互栏时按下{0}键吸收声骸。,Stand next to Echo and tap {0} while the interface shows up to absorb the Echo.,"Đến gần Thanh Hài, khi xuất hiện thanh tương tác hãy nhấn phím {0} để hấp thu Thanh Hài."
-lang_guide_new.db,GuideTips,9,按下{0}键使用声骸异能,Tap {0} to use Echo Skill.,Nhấn phím {0} để sử dụng Thanh Hài Kỹ.
-lang_guide_new.db,GuideTips,10,按下{0}键使用共鸣解放,Tap {0} to use Resonance Liberation.,Nhấn phím {0} để sử dụng Giải Phóng Cộng Hưởng.
-lang_guide_new.db,GuideTips,11,处于空中，按下{0} 进入滑翔状态。,Tap {0} while in the air to glide.,"Khi đang ở trên không, nhấn {0} để vào trạng thái lượn."
-lang_guide_new.db,GuideTips,12,按下{0}键进入瞄准状态,Tap {0} to aim.,Nhấn phím {0} để vào trạng thái ngắm bắn.
-lang_guide_new.db,GuideTips,13,此时点击{0}/{1}可触发极限闪避,Tap {0}/{1} now to trigger extreme evasion.,Nhấn {0}/{1} ngay lúc này để kích hoạt Né Tránh cực hạn.
-lang_guide_new.db,GuideTips,14,此时点击{0}可触发逆势回击,Tap {0} now to fend the attack.,Nhấn {0} ngay lúc này để kích hoạt Phản Kích.
-lang_guide_new.db,GuideTips,15,"时间设置引导
-点击{0}打开功能菜单栏","Time Setting Guide.
-Tap {0} to open the System Menu.","Hướng dẫn cài đặt thời gian.
-Nhấn {0} để mở menu chức năng."
-lang_guide_new.db,GuideTips,16,按住{0}移动到悬崖边缘,Hold {0} to move to the edge of the cliff.,Giữ {0} để di chuyển đến mép vách đá.
-lang_guide_new.db,GuideTips,17,拖动<color=#8c7e51>摇杆</color>移动到悬崖边缘。,Hold (Joystick) to move to the edge of the cliff.,Kéo <color=#8c7e51>Cần điều khiển</color> để di chuyển đến mép vách đá.
-lang_guide_new.db,GuideTips,18,使用普攻攒满特殊能量,Gain full [Chilling Vein],Dùng Phổ Công để tích đầy năng lượng đặc biệt.
-lang_guide_new.db,GuideTips,19,使用普攻攒满特殊能量,Gain full [Chilling Vein],Dùng Phổ Công để tích đầy năng lượng đặc biệt.
-lang_guide_new.db,GuideTips,20,{0}使用共鸣技能时，消耗所有特殊能量，回复队伍中所有角色生命。,"Tap {0} to use Resonance Skill.
-Consume [Chilling Vein] to recover HP for the party. Consuming more [Chilling Vein] will recover more HP.","Nhấn {0} để sử dụng Kỹ Năng Cộng Hưởng.
-Tiêu hao toàn bộ năng lượng đặc biệt, hồi phục sinh mệnh cho tất cả nhân vật trong đội."
-lang_guide_new.db,GuideTips,21,"{0}、{1}、{2}、{3}。
-普攻第四段命中目标时，可获得1点特殊能量。","Fourth Normal Attack.
-Yangyang will get 1 Cleaving Wind if her last normal attack hits a target.","{0}, {1}, {2}, {3}.
-Khi đòn Phổ Công thứ tư trúng mục tiêu, nhận được 1 điểm năng lượng đặc biệt."
-lang_guide_new.db,GuideTips,22,普攻第四段命中目标时，可获得1点特殊能量。,"Fourth Normal Attack.
-Yangyang will get 1 Cleaving Wind if her last normal attack hits a target.","Khi đòn Phổ Công thứ tư trúng mục tiêu, nhận được 1 điểm năng lượng đặc biệt."
-lang_guide_new.db,GuideTips,23,拥有特殊能量时，<color=#8c7e51>长按共鸣技能</color>，将释放特殊能量并对敌人造成伤害。,"While special energy remain, hold [Normal Attack] to use Dual Shooting.
-Dual Shooting will continuously consume special energy.","Khi có năng lượng đặc biệt, <color=#8c7e51>giữ Kỹ Năng Cộng Hưởng</color> để giải phóng năng lượng đặc biệt và gây sát thương lên kẻ địch."
-lang_guide_new.db,GuideTips,24,拥有特殊能量时，<color=#8c7e51>长按共鸣技能</color>，将释放特殊能量并对敌人造成伤害。,"While special energy remain, hold [Normal Attack] to use Dual Shooting.
-Dual Shooting will continuously consume special energy.","Khi có năng lượng đặc biệt, <color=#8c7e51>giữ Kỹ Năng Cộng Hưởng</color> để giải phóng năng lượng đặc biệt và gây sát thương lên kẻ địch."
-lang_guide_new.db,GuideTips,25,{0}使用共鸣技能命中目标时，获得1点特殊能量。,"Tap {0} to use Resonance Skill.
-Yangyang can gain 2 Cleaving Winds by using Resonance Skill to hit a target.","Khi sử dụng Kỹ Năng Cộng Hưởng bằng {0} trúng mục tiêu, nhận được 1 điểm năng lượng đặc biệt."
-lang_guide_new.db,GuideTips,26,持有3点特殊能量时，使用<color=#8c7e51>重击</color>可造成<color=#46c3d4>气动</color>伤害并击飞目标。,"Hold [Normal Attack] to charge for Heavy Attack.
-After getting all 3 Cleaving Winds. Yangyang's Heavy Attack will raise target into air.","Khi có 3 điểm năng lượng đặc biệt, sử dụng <color=#8c7e51>Trọng Kích</color> có thể gây sát thương <color=#46c3d4>Khí Động</color> và hất tung mục tiêu."
-lang_guide_new.db,GuideTips,27,持有3点特殊能量时，使用<color=#8c7e51>重击</color>可造成<color=#46c3d4>气动</color>伤害并击飞目标。,"Hold [Normal Attack] to charge for Heavy Attack.
-After getting all 3 Cleaving Winds. Yangyang's Heavy Attack will raise target into air.","Khi có 3 điểm năng lượng đặc biệt, sử dụng <color=#8c7e51>Trọng Kích</color> có thể gây sát thương <color=#46c3d4>Khí Động</color> và hất tung mục tiêu."
-lang_guide_new.db,GuideTips,28,"贴近墙壁按住{0}和{1} / {2}，可进入纵跑状态。
-纵跑将持续消耗耐力，耐力不足时将自动停止纵跑。","Stand beside the walls and hold {0} and {1}/{2} to start Side Sprint.
-Side Sprint will continuously consume Stamina. Characters will fall if ran out of Stamina.","Đứng sát tường, giữ {0} và {1} / {2} để vào trạng thái chạy dọc tường.
-Chạy dọc tường sẽ liên tục tiêu hao thể lực, khi thể lực không đủ sẽ tự động dừng lại."
-lang_guide_new.db,GuideTips,29,"贴近墙壁按住<color=#8c7e51>摇杆</color>和<color=#8c7e51>闪避</color>按钮，可进入纵跑状态。
-纵跑将持续消耗耐力，耐力不足时将自动停止纵跑。","Stand beside the walls and hold (Joystick) and (Evade)/ to start Side Sprint.
-Side Sprint will continuously consume Stamina. Characters will fall if ran out of Stamina.","Đứng sát tường, giữ <color=#8c7e51>Cần điều khiển</color> và nút <color=#8c7e51>Né Tránh</color> để vào trạng thái chạy dọc tường.
-Chạy dọc tường sẽ liên tục tiêu hao thể lực, khi thể lực không đủ sẽ tự động dừng lại."
-lang_guide_new.db,GuideTips,30,"替换武器引导
-点击{0}打开角色界面","Weapon Switching Guide.
-Tap {0} to open Resonator page.","Hướng dẫn thay vũ khí
-Nhấn {0} để mở giao diện nhân vật"
+lang_favor.db,FavorBehavior,1,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,2,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,3,测试动作标题2,,Tiêu đề hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,4,测试动作内容2,,Nội dung hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,5,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,6,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,7,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,8,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,9,测试动作标题2,,Tiêu đề hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,10,测试动作内容2,,Nội dung hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,11,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,12,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,13,测试动作标题2,,Tiêu đề hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,14,测试动作内容2,,Nội dung hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,15,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,16,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,17,测试动作标题2,,Tiêu đề hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,18,测试动作内容2,,Nội dung hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,19,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,20,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,21,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,22,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,23,测试动作标题2,,Tiêu đề hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,24,测试动作内容2,,Nội dung hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,25,测试动作标题3,,Tiêu đề hành động thử nghiệm 3
+lang_favor.db,FavorBehavior,26,测试动作内容3,,Nội dung hành động thử nghiệm 3
+lang_favor.db,FavorBehavior,27,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,28,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,29,测试动作标题2,,Tiêu đề hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,30,测试动作内容2,,Nội dung hành động thử nghiệm 2
+lang_favor.db,FavorBehavior,31,测试动作标题1,,Tiêu đề hành động thử nghiệm 1
+lang_favor.db,FavorBehavior,32,测试动作内容1,,Nội dung hành động thử nghiệm 1
+lang_forge.db,ForgeFormula,1,超声裁决,Ultrasonic Judgement,Siêu Thanh Phán Quyết
+lang_forge.db,ForgeFormula,2,受到伤害时，增加自身3%攻击和6%防御，效果持续10秒，可叠加3层。,,"Khi nhận sát thương, tăng 3% tấn công và 6% phòng thủ của bản thân, hiệu ứng kéo dài 10 giây, cộng dồn tối đa 3 lớp."
+lang_forge.db,ForgeFormula,3,沿用了悲鸣前的锻造技法，看似笨重的刀身使用起来却相当轻巧。劈斩时伴有嗡嗡回响，如横跨亘古的低吟。,"A smith technique before the Lament is used, giving the blade a relatively light usability with its cumbersome-looking body.","Sử dụng kỹ thuật rèn từ trước thời Bi Minh, thân kiếm trông nặng nề nhưng dùng lại rất nhẹ nhàng. Mỗi nhát chém đều kèm theo tiếng vang ù ù, như lời thì thầm vọng từ thuở hồng hoang."
+lang_forge.db,ForgeFormula,4,超声锋刃,Ultrasonic Blade,Siêu Thanh Lưỡi Sắc
+lang_forge.db,ForgeFormula,5,释放共鸣解放后，普攻伤害和重击伤害增加19.2%，效果持续10秒。,,"Sau khi dùng Giải Phóng Cộng Hưởng, sát thương Đánh Thường và sát thương Đánh Mạnh tăng 19.2%, hiệu ứng kéo dài 10 giây."
+lang_forge.db,ForgeFormula,6,因多次追随战士凯旋，被公认为受到赐福的幸运之剑。那么，愿胜利与您同在。,A sword of recognized blessing since it accompanies multiple fighters' triumphs.,"Nhiều lần đồng hành cùng chiến binh khải hoàn, nên được công nhận là thanh kiếm may mắn được ban phước. Vậy thì, nguyện thắng lợi luôn ở bên ngài."
+lang_forge.db,ForgeFormula,7,超声赫轮,Ultrasonic Hellen,Siêu Thanh Hách Luân
+lang_forge.db,ForgeFormula,8,施放共鸣解放后，攻击提升18%，效果持续12秒。,,"Sau khi dùng Giải Phóng Cộng Hưởng, tấn công tăng 18%, hiệu ứng kéo dài 12 giây."
+lang_forge.db,ForgeFormula,9,以强大火力而著称的枪械，持此枪立于战场，胸中会升腾起激昂的战意。,A gun known for its strong firepower. Impassioned convictions will rise when this gun is held on the battlefield.,"Khẩu súng nổi tiếng với hỏa lực mạnh mẽ, cầm nó đứng trên chiến trường, lòng sẽ dâng lên ý chí chiến đấu sục sôi."
+lang_forge.db,ForgeFormula,10,超声碎岩,Ultrasonic rockbreaker,Siêu Thanh Phá Nham
+lang_forge.db,ForgeFormula,11,施放共鸣技能后，重击时无视目标38%防御，效果持续8秒。,,"Sau khi dùng Kỹ Năng Cộng Hưởng, Đánh Mạnh bỏ qua 38% phòng thủ của mục tiêu, hiệu ứng kéo dài 8 giây."
+lang_forge.db,ForgeFormula,12,沉重粗犷但却无比可靠的坚实拳甲。在熟练的使用者掌心能爆发出移山填海的惊人力量。,A pair of sound gauntlets with a brutal weight and ultimate reliability. It can unleash huge power enough to move mountains in the hands of proficient users.,"Đôi găng tay nặng nề thô khoáng nhưng vô cùng đáng tin cậy. Trong tay người thành thạo, nó có thể bùng nổ sức mạnh kinh hoàng đủ để dời non lấp biển."
+lang_forge.db,ForgeFormula,13,超声矩阵,Ultrasonic Matrix,Siêu Thanh Ma Trận
+lang_forge.db,ForgeFormula,14,触发协奏作用时，共鸣解放伤害提升9.6%，持续10秒，最多叠加2层。,,"Khi kích hoạt hiệu ứng Hiệp Tấu, sát thương Giải Phóng Cộng Hưởng tăng 9.6%, kéo dài 10 giây, cộng dồn tối đa 2 lớp."
+lang_forge.db,ForgeFormula,15,参考歌舞浮游灯而设计的武装，搭载了较为先进的矩阵链技术，完美的作战亦是值得欣赏的佳作。,"Carrying relatively advanced matrix chain technology, it shall make perfect operations masterpieces worthy of appreciation.","Vũ khí được thiết kế dựa trên đèn phiêu du ca vũ, trang bị công nghệ chuỗi ma trận tiên tiến, một trận chiến hoàn hảo cũng là một tác phẩm đáng để thưởng thức."
+lang_formation.db,FightFormation,1,只可出战火属性角色,,Chỉ có thể ra trận nhân vật thuộc tính Hỏa Liệt
+lang_friend.db,FriendDynamicText,1,今天内,,Hôm nay
+lang_friend.db,FriendDynamicText,2,{0}天前,,{0} ngày trước
+lang_friend.db,FriendDynamicText,3,{0}天以上,,Hơn {0} ngày
+lang_friend.db,FriendDynamicText,4,好友,,Bạn bè
+lang_friend.db,FriendDynamicText,5,好友申请,,Lời mời kết bạn
+lang_friend.db,FriendDynamicText,6,最近联机,,Chơi chung gần đây
+lang_friend.db,FriendDynamicText,7,暂无好友,,Chưa có bạn bè
+lang_friend.db,FriendDynamicText,8,暂无好友申请,,Chưa có lời mời kết bạn
+lang_friend.db,FriendDynamicText,9,暂无最近联机队友,,Chưa có đồng đội chơi chung gần đây
+lang_friend.db,FriendDynamicText,10,我的UID: {0},,UID của tôi: {0}
+lang_friend.db,FriendDynamicText,11,在线,,Trực tuyến
+lang_friend.db,FriendDynamicText,12,添加好友,,Thêm bạn bè
+lang_friend.db,FriendDynamicText,13,黑名单,,Danh sách chặn
+lang_friend.db,FriendDynamicText,14,全部接受,,Chấp nhận tất cả
+lang_friend.db,FriendDynamicText,15,全部忽略,,Bỏ qua tất cả
+lang_function.db,FunctionMenu,1,共鸣者,Resonators,Cộng Hưởng Giả
+lang_function.db,FunctionMenu,2,背包,Backpack,Ba Lô
+lang_function.db,FunctionMenu,3,鸣域终端,Resonance Terminal,Thiết Bị Minh Vực
+lang_function.db,FunctionMenu,4,任务,Missions,Nhiệm Vụ
+lang_function.db,FunctionMenu,5,test/常驻玩法,,test/Chế Độ Thường Trực
+lang_function.db,FunctionMenu,6,test/限时活动,,test/Sự Kiện Giới Hạn
+lang_function.db,FunctionMenu,7,编队,Team,Đội Hình
+lang_function.db,FunctionMenu,8,test/组队,,test/Tổ Đội
+lang_function.db,FunctionMenu,9,调谐,Modulation,Điều Hưởng
+lang_function.db,FunctionMenu,10,联合交易所,Joint Exchange,Sàn Giao Dịch Liên Hợp
+lang_function.db,FunctionMenu,11,好友,Friends,Bạn Bè
+lang_function.db,FunctionMenu,12,test/公会,,test/Công Hội
+lang_function.db,FunctionMenu,13,成就,Achievements,Thành Tựu
+lang_function.db,FunctionMenu,14,图鉴,Gallery,Đồ Giám
+lang_function.db,FunctionMenu,15,地图,Map,Bản Đồ
+lang_function.db,FunctionMenu,16,教程目录,,Danh Mục Hướng Dẫn
+lang_function.db,FunctionMenu,17,拾音辑录,Resonance Record,Tuyển Tập Thu Âm
+lang_function.db,FunctionMenu,18,探索工具,Exploration Tools,Công Cụ Khám Phá
+lang_function.db,FunctionMenu,19,反馈,Feedback,Phản Hồi
+lang_function.db,FunctionMenu,20,势力,Forces,Thế Lực
+lang_function.db,FunctionMenu,21,变星笺证,Star Align,Biến Tinh Tiên Chứng
+lang_function.db,FunctionMenu,22,数据坞,Database,Kho Dữ Liệu
+lang_function.db,FunctionMenu,23,万物图鉴,Gallery,Vạn Vật Đồ Giám
+lang_function.db,FunctionCondition,1,鸣域终端,,Thiết Bị Minh Vực
+lang_function.db,FunctionCondition,2,test\共鸣者可使用鸣域终端吸收声骸。,,test\Cộng Hưởng Giả có thể sử dụng Thiết Bị Minh Vực để hấp thu Thanh Hài.
+lang_function.db,FunctionCondition,3,调谐,Modulation,Điều Hưởng
+lang_function.db,FunctionCondition,4,通过调谐，可与不同共鸣者或武器的频率共振，或许能够借此收获称手的武器和可靠的同伴吧。,Modulation will allow you to resonate with different Resonators and Weapons. It's an efficient way for collecting powerful weapons and meeting with reliable allies.,"Thông qua Điều Hưởng, bạn có thể cộng hưởng với tần số của các Cộng Hưởng Giả hoặc vũ khí khác nhau, nhờ đó có thể tìm được vũ khí vừa tay và đồng đội đáng tin cậy."
+lang_function.db,FunctionCondition,5,多人游戏,Co-op,Chơi Nhiều Người
+lang_function.db,FunctionCondition,6,多人游戏中可与其他漂泊者相遇，友善的态度说不定能换来一段珍贵的友情。,Co-op mode will allow you meet with other Rovers. Kindness may lead you to precious friendship.,"Trong chế độ Chơi Nhiều Người, bạn có thể gặp gỡ các Lữ Khách khác. Thái độ thân thiện biết đâu sẽ mang lại một tình bạn quý giá."
+lang_function.db,FunctionCondition,7,拾音辑录,Resonance Record,Sổ Thu Âm
+lang_function.db,FunctionCondition,8,鸣域终端内载有幻象、异变生物、无音区等信息的模块，利用它可以迅速定位到需要讨伐的野外目标。,"Resonance Terminal was installed with module of Tacet Discords, Mutant Organism and Tacet Fields. Using them will allow you to locate them quickly in the wilds.","Thiết Bị Minh Vực được tích hợp module chứa thông tin về Ảo Ảnh, sinh vật dị biến, Vùng Vô Thanh và nhiều hơn nữa. Sử dụng nó để nhanh chóng xác định vị trí mục tiêu cần thảo phạt ngoài hoang dã."
+lang_function.db,FunctionCondition,9,异闻独奏,Solo Record,Dị Văn Độc Tấu
+lang_function.db,FunctionCondition,10,通过异闻独奏，可以体验到共鸣者独一无二的故事。,You can experience special story of Resonators in Solo Record.,"Thông qua Dị Văn Độc Tấu, bạn có thể trải nghiệm câu chuyện độc nhất vô nhị của các Cộng Hưởng Giả."
+lang_function.db,FunctionCondition,11,探索工具,Exploration Tools,Công Cụ Khám Phá
+lang_function.db,FunctionCondition,12,鸣域终端中搭载的探索辅助模块，使用者可以根据不同环境切换功能。,Exploration tools installed in Resonance Terminal. They're flexible for dealing with various situation.,"Module hỗ trợ khám phá được tích hợp trong Thiết Bị Minh Vực, người dùng có thể chuyển đổi chức năng tùy theo môi trường khác nhau."
+lang_function.db,FunctionCondition,13,前进基地,Progressing Base,Căn Cứ Tiền Phương
+lang_function.db,FunctionCondition,14,先行公约模拟原点科考站深井环境制造的声之领域，用于帮助共鸣者正式进入原点科考站前展开适应性训练。,Pioneer Association created this Ambience imitated from the well of Zero Point Research Station. It was used to train and test the Resonators before they enter the Zero Point Research Station.,"Lĩnh vực Âm Thanh được Hiệp Ước Tiên Phong tạo ra bằng cách mô phỏng môi trường giếng sâu của Trạm Nghiên Cứu Nguyên Điểm, nhằm giúp các Cộng Hưởng Giả tập luyện thích ứng trước khi chính thức tiến vào Trạm Nghiên Cứu Nguyên Điểm."

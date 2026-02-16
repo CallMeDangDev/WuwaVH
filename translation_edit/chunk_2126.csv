@@ -1,351 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Term850023_Desc,持续为处于<color=Highlight>星域</color>生效范围内的附近队伍中登场角色回复生命值，每3秒可触发1次。,Generate a <color=Highlight>Stellarealm</color> to restore HP for all party members within its effective range continuously. This effect can be triggered once every 3s.,"Liên tục hồi phục sinh mệnh cho nhân vật đang ra sân trong đội ở phạm vi hiệu lực của <color=Highlight>Tinh Vực</color>, mỗi 3 giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,Term850023_Title,星域,Stellarealm,Tinh Vực
-lang_multi_text.db,MultiText,Term850024_Desc,持续为处于<color=Highlight>星域</color>生效范围内的附近队伍中登场角色回复生命值，每3秒可触发1次。,Generate a <color=Highlight>Stellarealm</color> to restore HP for all party members within its effective range continuously. This effect can be triggered once every 3s.,"Liên tục hồi phục sinh mệnh cho nhân vật đang ra sân trong đội ở phạm vi hiệu lực của <color=Highlight>Tinh Vực</color>, mỗi 3 giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,Term850024_Title,浅析星域,Outer Stellarealm,Thiển Tích Tinh Vực
-lang_multi_text.db,MultiText,Term850025_Desc,"在<color=Highlight>洞见</color>状态下：
-·获得3个幻方，施放共鸣技能<color=Highlight>万方法则</color>时消耗1个幻方，消耗完所有幻方时结束<color=Highlight>洞见</color>状态；
-·<color=Highlight>普攻</color>和<color=Highlight>重击</color>替换为普攻<color=Highlight>枢机·勘破</color>，进行最多3段连续攻击，造成<color=Thunder>导电伤害</color>；
-·共鸣技能<color=Highlight>基本推衍</color>替换为共鸣技能<color=Highlight>一相万殊</color>，造成<color=Thunder>导电伤害</color>；
-·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>知无定形</color>，此次伤害为共鸣解放伤害。","When in the <color=Highlight>Intuition</color> state:
-- Gain 3 Hypercubes. Each time Resonance Skill <color=Highlight>Law of Reigns</color> is cast, consume 1 Hypercube. <color=Highlight>Intuition</color> ends once all Hypercubes are consumed.
-- <color=Highlight>Basic Attack</color> and <color=Highlight>Heavy Attack</color> are replaced with Basic Attack <color=Highlight>Pivot - Impale</color>, dealing <color=Thunder>Electro DMG</color>.
-- Resonance Skill <color=Highlight>Deduction</color> becomes Resonance Skill <color=Highlight>Divergence</color>, dealing <color=Thunder>Electro DMG</color>.
-- <color=Highlight>Dodge Counter</color> becomes Dodge Counter <color=Highlight>Unfathomed</color>, dealing Resonance Liberation DMG.","Trong trạng thái <color=Highlight>Động Kiến</color>:
-- Nhận 3 Ảo Phương. Mỗi lần thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Vạn Phương Pháp Tắc</color>, tiêu hao 1 Ảo Phương. Trạng thái <color=Highlight>Động Kiến</color> kết thúc khi tiêu hao hết tất cả Ảo Phương.
-- <color=Highlight>Phổ Công</color> và <color=Highlight>Trọng Kích</color> được thay thế bằng Phổ Công <color=Highlight>Xu Cơ - Khám Phá</color>, thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Thunder>sát thương Dẫn Điện</color>.
-- Kỹ Năng Cộng Hưởng <color=Highlight>Cơ Bản Suy Diễn</color> được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Nhất Tướng Vạn Thù</color>, gây <color=Thunder>sát thương Dẫn Điện</color>.
-- <color=Highlight>Phản Kích Né Tránh</color> được thay thế bằng Phản Kích Né Tránh <color=Highlight>Tri Vô Định Hình</color>, sát thương lần này được tính là sát thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,Term850025_Title,洞见,Intuition,Động Kiến
-lang_multi_text.db,MultiText,Term850026_Desc,"<size=40><color=Title>共鸣技能·神来之笔</color></size>
- 折枝附近存在<color=Highlight>鹤影</color>时，共鸣技能替换为<color=Highlight>神来之笔</color>。施放时：
- ·移动到<color=Highlight>鹤影</color>的位置并将它清除，然后召唤白鹤攻击目标，造成<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害。若移动到处于空中的<color=Highlight>鹤影</color>，可重置空中闪避次数。
- ·获得1层【极意】，持续8秒，可叠加2层。
- ·可在空中施放。
- <size=10> </size>
- <size=40><color=Title>共鸣技能·极意·神来之笔</color></size>
- 折枝附近存在<color=Highlight>鹤影</color>，且【极意】层数为2时，<color=Highlight>神来之笔</color>替换为<color=Highlight>极意·神来之笔</color>。施放时：
- ·移除全部【极意】。
- ·移动到<color=Highlight>鹤影</color>的位置并将它清除，然后召唤白鹤攻击目标，造成更高的<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害，并且让折枝的普攻伤害加成提升18%，持续27秒。若移动到处于空中的<color=Highlight>鹤影</color>，可重置空中闪避次数。
- ·可在空中施放。","<size=40><color=Title>Resonance Skill - Stroke of Genius</color></size>
-When a <color=Highlight>Phatasmic Imprint</color> is nearby, Zhezhi's Resonance Skill is replaced with <color=Highlight>Stroke of Genius</color>, which can be cast while in mid-air. When it is cast, Zhezhi will:
-- Move to the location of the <color=Highlight>Phatasmic Imprint</color>, remove it, and then summon an Ivory Herald to attack the target, dealing <color=Ice>Glacio DMG</color>, considered as Basic Attack DMG. Refresh the mid-air Dodge attempts if the target <color=Highlight>Phatasmic Imprint</color> is in mid-air.
-- Gain 1 stack of Painter's Delight, lasting for 8s and stacking up to 2 times.
-<size=10></size>
-<size=40><color=Title>Resonance Skill - Creation's Zenith</color></size>
-When a <color=Highlight>Phantasmic Imprint</color> is nearby and there are 2 stacks of Painter's Delight, <color=Highlight>Stroke of Genius</color> is replaced with <color=Highlight>Creation's Zenith</color>, which can be cast while in mid-air. When it is cast, Zhezhi will:
-- Lose all stacks of Painter's Delight
-- Move to the location of the <color=Highlight>Phantasmic Imprint</color>, remove it, and then summon an Ivory Herald to attack the target, dealing greater <color=Ice>Glacio DMG</color>, considered as Basic Attack DMG, additionally increasing the Basic Attack DMG Bonus by 18% for 27s. Refresh the mid-air Dodge attempts if the target <color=Highlight>Phatasmic Imprint</color> is in mid-air.","<size=40><color=Title>Kỹ Năng Cộng Hưởng - Thần Lai Chi Bút</color></size>
-Khi gần Zhezhi tồn tại <color=Highlight>Hạc Ảnh</color>, Kỹ Năng Cộng Hưởng được thay thế bằng <color=Highlight>Thần Lai Chi Bút</color>. Khi thi triển:
-- Di chuyển đến vị trí <color=Highlight>Hạc Ảnh</color> và xóa bỏ nó, sau đó triệu hồi bạch hạc tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>, sát thương lần này được tính là sát thương Phổ Công. Nếu di chuyển đến <color=Highlight>Hạc Ảnh</color> đang ở trên không, có thể đặt lại số lần Né Tránh trên không.
-- Nhận 1 tầng [Cực Ý], duy trì 8 giây, cộng dồn tối đa 2 tầng.
-- Có thể thi triển trên không.
-<size=10> </size>
-<size=40><color=Title>Kỹ Năng Cộng Hưởng - Cực Ý - Thần Lai Chi Bút</color></size>
-Khi gần Zhezhi tồn tại <color=Highlight>Hạc Ảnh</color>, và số tầng [Cực Ý] đạt 2, <color=Highlight>Thần Lai Chi Bút</color> được thay thế bằng <color=Highlight>Cực Ý - Thần Lai Chi Bút</color>. Khi thi triển:
-- Xóa bỏ toàn bộ [Cực Ý].
-- Di chuyển đến vị trí <color=Highlight>Hạc Ảnh</color> và xóa bỏ nó, sau đó triệu hồi bạch hạc tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color> cao hơn, sát thương lần này được tính là sát thương Phổ Công, đồng thời tăng bonus sát thương Phổ Công của Zhezhi thêm 18%, duy trì 27 giây. Nếu di chuyển đến <color=Highlight>Hạc Ảnh</color> đang ở trên không, có thể đặt lại số lần Né Tránh trên không.
-- Có thể thi triển trên không."
-lang_multi_text.db,MultiText,Term850026_Title,鹤影,Phatasmic Imprint,Hạc Ảnh
-lang_multi_text.db,MultiText,Term850027_Desc,当共鸣能量达到峰值时，可施放<color=Highlight>共鸣解放</color>。,"When Resonance Energy is full, the powerful <color=Highlight>Resonance Liberation</color> becomes available.","Khi Năng Lượng Cộng Hưởng đạt đỉnh, có thể thi triển <color=Highlight>Giải Phóng Cộng Hưởng</color>."
-lang_multi_text.db,MultiText,Term850027_Title,共鸣能量,Resonance Energy,Năng Lượng Cộng Hưởng
-lang_multi_text.db,MultiText,Term850028_Desc,"【灵韵】上限为90点。
-常态攻击造成伤害可回复【灵韵】。
-施放变奏技能可回复【灵韵】。","Zhezhi can hold up to 90 Afflatus.
-Normal Attacks grant Afflatus on hit.
-Casting Intro Skill grants Afflatus.","Giới hạn [Linh Vận] là 90 điểm.
-Công Thường gây sát thương sẽ hồi phục [Linh Vận].
-Thi triển Biến Tấu Kỹ sẽ hồi phục [Linh Vận]."
-lang_multi_text.db,MultiText,Term850028_Title,灵韵,Afflatus,Linh Vận
-lang_multi_text.db,MultiText,Term850029_Desc,"常态攻击<color=Highlight>悬丝华刃舞</color>、共鸣解放<color=Highlight>破天雷灭击</color>或变奏技能<color=Highlight>狂雷飓风</color>命中目标时，附加<color=Highlight>缚罪标记</color>。
-吟霖离场时<color=Highlight>缚罪标记</color>消失。","Normal Attack <color=Highlight>Zapstring's Dance</color>, Resonance Liberation <color=Highlight>Thundering Wrath</color>, and Intro Skill <color=Highlight>Raging Storm</color> will apply <color=Highlight>Sinner's Mark</color> on hit.
-<color=Highlight>Sinner's Mark</color> is removed when Yinlin leaves the field.","Khi Công Thường <color=Highlight>Huyền Ti Hoa Nhẫn Vũ</color>, Giải Phóng Cộng Hưởng <color=Highlight>Phá Thiên Lôi Diệt Kích</color> hoặc Biến Tấu Kỹ <color=Highlight>Cuồng Lôi Cự Phong</color> trúng mục tiêu, sẽ gắn <color=Highlight>Phọc Tội Tiêu Ký</color>.
-<color=Highlight>Phọc Tội Tiêu Ký</color> biến mất khi Yinlin rời sân."
-lang_multi_text.db,MultiText,Term850029_Title,缚罪标记,Sinner's Mark,Phọc Tội Tiêu Ký
-lang_multi_text.db,MultiText,Term850030_Desc,"【审判值】上限100点。
-施放变奏技能<color=Highlight>狂雷飓风</color>时，回复【审判值】。
-常态攻击<color=Highlight>悬丝华刃舞</color>命中目标时，回复【审判值】。
-施放共鸣技能<color=Highlight>磁殛咆哮</color>时，回复【审判值】。
-共鸣技能<color=Highlight>磁殛爆发</color>命中目标时，回复【审判值】。
-施放共鸣技能<color=Highlight>召雷磁爆</color>时，回复【审判值】。","Yinlin can hold up to 100 Judgement Points. Yinlin gains Judgement Points through the following ways:
-Upon casting Intro Skill <color=Highlight>Raging Storm</color>;
-When Basic Attack <color=Highlight>Zapstring's Dance</color> hits a target;
-Upon casting Resonance Skill <color=Highlight>Magnetic Roar</color>;
-When Resonance Skill <color=Highlight>Electromagnetic Blast</color> hits a target;
-Upon casting Resonance Skill <color=Highlight>Lightning Execution</color>.","Giới hạn [Thẩm Phán Trị] là 100 điểm.
-Khi thi triển Biến Tấu Kỹ <color=Highlight>Cuồng Lôi Cự Phong</color>, hồi phục [Thẩm Phán Trị].
-Khi Công Thường <color=Highlight>Huyền Ti Hoa Nhẫn Vũ</color> trúng mục tiêu, hồi phục [Thẩm Phán Trị].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Từ Kích Bào Hào</color>, hồi phục [Thẩm Phán Trị].
-Khi Kỹ Năng Cộng Hưởng <color=Highlight>Từ Kích Bộc Phát</color> trúng mục tiêu, hồi phục [Thẩm Phán Trị].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Triệu Lôi Từ Bộc</color>, hồi phục [Thẩm Phán Trị]."
-lang_multi_text.db,MultiText,Term850030_Title,审判值,Judgement Points,Thẩm Phán Trị
-lang_multi_text.db,MultiText,Term850031_Desc,"·忌炎的抗打断能力提升;
-·<color=Highlight>普攻</color>、<color=Highlight>重击</color>和<color=Highlight>闪避反击</color>替换为重击<color=Highlight>破阵之枪</color>。","- Jiyan's resistance to interruption increases.
-- <color=Highlight>Basic Attack</color>, <color=Highlight>Heavy Attack</color>, and <color=Highlight>Dodge Counter</color> are replaced with Heavy Attack <color=Highlight>Lance of Qingloong</color>.","- Khả năng kháng gián đoạn của Jiyan tăng lên.
-- <color=Highlight>Phổ Công</color>, <color=Highlight>Trọng Kích</color> và <color=Highlight>Phản Kích Né Tránh</color> được thay thế bằng Trọng Kích <color=Highlight>Phá Trận Chi Thương</color>."
-lang_multi_text.db,MultiText,Term850031_Title,破阵状态,Qingloong Mode,Trạng Thái Phá Trận
-lang_multi_text.db,MultiText,Term850032_Desc,"【破阵值】上限60点。
-常态攻击<color=Highlight>孤枪止戈</color>命中目标时积攒【破阵值】。
-变奏技能<color=Highlight>攻其不备</color>命中目标时积攒【破阵值】。
-若在15秒内，忌炎没有命中目标，【破阵值】会逐渐减少。","Jiyan can hold up to 60 Resolve.
-Jiyan gains Resolve when his Normal Attack <color=Highlight>Lone Lance</color> hits the target.
-Jiyan gains Resolve when the Intro Skill <color=Highlight>Tactical Strike</color> hits the target.
-Resolve will gradually decrease if Jiyan does not hit a target within 15s.","Giới hạn [Phá Trận Trị] là 60 điểm.
-Khi Công Thường <color=Highlight>Cô Thương Chỉ Qua</color> trúng mục tiêu, tích lũy [Phá Trận Trị].
-Khi Biến Tấu Kỹ <color=Highlight>Công Kỳ Bất Bị</color> trúng mục tiêu, tích lũy [Phá Trận Trị].
-Nếu trong 15 giây Jiyan không trúng mục tiêu, [Phá Trận Trị] sẽ dần giảm đi."
-lang_multi_text.db,MultiText,Term850032_Title,破阵值,Resolve,Phá Trận Trị
-lang_multi_text.db,MultiText,Term850033_Desc,"【念意】上限4点。
-<color=Highlight>普攻</color>命中目标时，获得1点【念意】。","Baizhi can hold up to 4 Concentration.
-Baizhi obtains 1 Concentration for every <color=Highlight>Basic Attack</color> on hit.","Giới hạn [Niệm Ý] là 4 điểm.
-Khi <color=Highlight>Phổ Công</color> trúng mục tiêu, nhận 1 điểm [Niệm Ý]."
-lang_multi_text.db,MultiText,Term850033_Title,念意,Concentration,Niệm Ý
-lang_multi_text.db,MultiText,Term850034_Desc,"施放<color=Highlight>灭音</color>后，进入<color=Highlight>暗涌</color>状态，在该状态下：
-·<color=Highlight>普攻</color>替换为<color=Highlight>强化普攻</color>，可进行最多5段的连续攻击，造成<color=Dark>湮灭伤害</color>； 
-·<color=Highlight>重击</color>替换为<color=Highlight>强化重击</color>；
-·施放<color=Highlight>强化重击</color>后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣刃</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害；
-·施放重击<color=Highlight>鸣刃</color>后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段强化普攻</color>攻击目标，造成<color=Dark>湮灭伤害</color>；
-·共鸣技能<color=Highlight>行刃</color>替换为共鸣技能<color=Highlight>破命</color>，化音为刃攻击目标，造成<color=Dark>湮灭伤害</color>。","After casting <color=Highlight>Devastation</color>, Rover enters the <color=Highlight>Dark Surge</color> state. In this state:
-- <color=Highlight>Basic Attack</color> is replaced with <color=Highlight>Enhanced Basic Attack</color>, which performs up to 5 consecutive attacks, dealing <color=Dark>Havoc DMG</color>.
-- <color=Highlight>Heavy Attack</color> is replaced with <color=Highlight>Enhanced Heavy Attack</color>;
-- Use <color=Highlight>Basic Attack</color> after casting <color=Highlight>Enhanced Heavy Attack</color> to cast Heavy Attack <color=Highlight>Thwackblade</color> to attack the target, dealing <color=Dark>Havoc DMG</color>, considered as Heavy Attack DMG.
-- Use <color=Highlight>Basic Attack</color> after casting Heavy Attack <color=Highlight>Thwackblade</color> to cast <color=Highlight>Enhanced Basic Attack 3</color> to attack the target, dealing <color=Dark>Havoc DMG</color>;
-- Resonance Skill <color=Highlight>Wingblade</color> is replaced with Resonance Skill <color=Highlight>Lifetaker</color>, transforming sounds into blades to attack the target, dealing <color=Dark>Havoc DMG</color>.","Sau khi thi triển <color=Highlight>Diệt Âm</color>, bước vào trạng thái <color=Highlight>Ám Dũng</color>, trong trạng thái này:
-- <color=Highlight>Phổ Công</color> được thay thế bằng <color=Highlight>Cường Hóa Phổ Công</color>, có thể thực hiện tối đa 5 đòn tấn công liên tiếp, gây <color=Dark>sát thương Giải Ly</color>.
-- <color=Highlight>Trọng Kích</color> được thay thế bằng <color=Highlight>Cường Hóa Trọng Kích</color>.
-- Nhấn nhanh <color=Highlight>Phổ Công</color> sau khi thi triển <color=Highlight>Cường Hóa Trọng Kích</color>, sẽ thi triển Trọng Kích <color=Highlight>Minh Nhẫn</color> tấn công mục tiêu, gây <color=Dark>sát thương Giải Ly</color>, sát thương lần này được tính là sát thương Trọng Kích.
-- Nhấn nhanh <color=Highlight>Phổ Công</color> sau khi thi triển Trọng Kích <color=Highlight>Minh Nhẫn</color>, sẽ thi triển <color=Highlight>Cường Hóa Phổ Công đoạn 3</color> tấn công mục tiêu, gây <color=Dark>sát thương Giải Ly</color>.
-- Kỹ Năng Cộng Hưởng <color=Highlight>Hành Nhẫn</color> được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Phá Mệnh</color>, hóa âm thành nhẫn tấn công mục tiêu, gây <color=Dark>sát thương Giải Ly</color>."
-lang_multi_text.db,MultiText,Term850034_Title,暗涌,Dark Surge,Ám Dũng
-lang_multi_text.db,MultiText,Term850035_Desc,可被重击<color=Highlight>爆裂</color>引爆，造成<color=Ice>冷凝伤害</color>。,"Can be detonated by Heavy Attack <color=Highlight>Detonate</color>, dealing <color=Ice>Glacio DMG</color>.","Có thể bị kích nổ bởi Trọng Kích <color=Highlight>Bộc Liệt</color>, gây <color=Ice>sát thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Term850035_Title,冰棱,Ice Prism,Băng Lăng
-lang_multi_text.db,MultiText,Term850036_Desc,可被重击<color=Highlight>爆裂</color>引爆，造成<color=Ice>冷凝伤害</color>。,"Can be detonated by Heavy Attack <color=Highlight>Detonate</color>, dealing <color=Ice>Glacio DMG</color>.","Có thể bị kích nổ bởi Trọng Kích <color=Highlight>Bộc Liệt</color>, gây <color=Ice>sát thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Term850036_Title,冰棘,Ice Thorn,Băng Cức
-lang_multi_text.db,MultiText,Term850037_Desc,可被重击<color=Highlight>爆裂</color>引爆，造成<color=Ice>冷凝伤害</color>。,"Can be detonated by Heavy Attack <color=Highlight>Detonate</color>, dealing <color=Ice>Glacio DMG</color>.","Có thể bị kích nổ bởi Trọng Kích <color=Highlight>Bộc Liệt</color>, gây <color=Ice>sát thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Term850037_Title,冰川,Glacier,Băng Hà
-lang_multi_text.db,MultiText,Term850038_Desc,"·队伍中登场角色的<color=Highlight>普攻</color>命中目标时，进行协同攻击，打出1发<color=Highlight>加强音</color>；
-·队伍中登场角色的<color=Highlight>重击</color>命中目标时，进行协同攻击，打出2发<color=Highlight>加强音</color>；
-·每0.35秒可进行1次协同攻击。","- When the active Resonator's <color=Highlight>Basic Attack</color> hits the target, Mortefi launches a Coordinated Attack, firing 1 <color=Highlight>Marcato</color>.
-- When the active Resonator's <color=Highlight>Heavy Attack</color> hits the target, Mortefi launches a Coordinated Attack, firing 2 <color=Highlight>Marcato</color>.
-Mortefi can launch one Coordinated Attack every 0.35s.","- Khi <color=Highlight>Phổ Công</color> của nhân vật đang ra trận trong đội trúng mục tiêu, tiến hành tấn công hiệp đồng, bắn ra 1 phát <color=Highlight>Gia Cường Âm</color>;
-- Khi <color=Highlight>Trọng Kích</color> của nhân vật đang ra trận trong đội trúng mục tiêu, tiến hành tấn công hiệp đồng, bắn ra 2 phát <color=Highlight>Gia Cường Âm</color>;
-- Mỗi 0.35 giây có thể tiến hành 1 lần tấn công hiệp đồng."
-lang_multi_text.db,MultiText,Term850038_Title,浮翼狂想,Burning Rhapsody,Phù Dực Cuồng Tưởng
-lang_multi_text.db,MultiText,Term850039_Desc,"【彤华】上限120点。
-施放共鸣技能<color=Highlight>朱华残章</color>时，回复【彤华】。","Danjin can hold up to 120 Ruby Blossom.
-Danjin obtains Ruby Blossom when using Resonance Skill <color=Highlight>Crimson Fragment</color>.","[Đồng Hoa] tối đa 120 điểm.
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Chu Hoa Tàn Chương</color>, hồi phục [Đồng Hoa]."
-lang_multi_text.db,MultiText,Term850039_Title,彤华,Ruby Blossom,Đồng Hoa
-lang_multi_text.db,MultiText,Term850040_Desc,丹瑾攻击携带<color=Highlight>朱蚀之刻</color>的目标时，造成的伤害提升20%。,"When Danjin attacks a target with Resonance Skill's <color=Highlight>Incinerating Will</color>, her damage dealt is increased by 20%.","Khi Danjin tấn công mục tiêu mang <color=Highlight>Chu Thực Chi Khắc</color>, sát thương gây ra tăng 20%."
-lang_multi_text.db,MultiText,Term850040_Title,朱蚀之刻,Incinerating Will,Chu Thực Chi Khắc
-lang_multi_text.db,MultiText,Term850041_Desc,"【热压弹】容量上限60发。
-固有技能<color=Highlight>灼热弹匣</color>可将【热压弹】容量上限扩充10发。
-常态攻击<color=Highlight>砰砰</color>命中目标时，可积攒【热压弹】。
-施放变奏技能<color=Highlight>堂堂登场</color>时，可积攒【热压弹】。
-施放共鸣技能<color=Highlight>咻咻斗意</color>时，可积攒【热压弹】。","Chixia can hold up to 60 Thermobaric Bullets.
-Inherent Skill <color=Highlight>Scorching Magazine</color> increases Max Thermobaric Bullets by 10.
-Chixia obtains Thermobaric Bullets for every Normal Attack <color=Highlight>POW POW</color> on hit.
-Chixia obtains Thermobaric Bullets upon casting Intro Skill <color=Highlight>Grand Entrance</color> and Resonance Skill <color=Highlight>Whizzing Fight Spirit</color>.","[Nhiệt Áp Đạn] dung lượng tối đa 60 viên.
-Cố Hữu Kỹ <color=Highlight>Chước Nhiệt Đạn Hạp</color> có thể mở rộng dung lượng tối đa [Nhiệt Áp Đạn] thêm 10 viên.
-Khi Công Thường <color=Highlight>Bằng Bằng</color> trúng mục tiêu, có thể tích lũy [Nhiệt Áp Đạn].
-Khi thi triển Biến Tấu Kỹ <color=Highlight>Đường Đường Đăng Trường</color>, có thể tích lũy [Nhiệt Áp Đạn].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Hưu Hưu Đấu Ý</color>, có thể tích lũy [Nhiệt Áp Đạn]."
-lang_multi_text.db,MultiText,Term850041_Title,热压弹,Thermobaric Bullets,Nhiệt Áp Đạn
-lang_multi_text.db,MultiText,Term850042_Desc,"【气】上限120点。
-常态攻击<color=Highlight>风仪拳术</color>命中目标时，获得【气】。
-施放共鸣技能<color=Highlight>静气循行</color>时，获得【气】。
-共鸣技能<color=Highlight>行气反击</color>或共鸣技能<color=Highlight>降气反击</color>命中目标时，获得【气】。
-变奏技能<color=Highlight>掌息之要</color>命中目标时，获得【气】。","Jianxin can hold up to 120 Chi.
-Chi is obtained when Normal Attack <color=Highlight>Fengyiquan</color> hits the target.
-Chi is obtained when the Resonance Skill <color=Highlight>Calming Air</color> is cast.
-Chi is obtained when the Resonance Skills <color=Highlight>Chi Counter</color> or <color=Highlight>Chi Parry</color> hits the target.
-Chi is obtained when the Intro Skill <color=Highlight>Essence of Tao</color> hits the target.","[Khí] tối đa 120 điểm.
-Khi Công Thường <color=Highlight>Phong Nghi Quyền Thuật</color> trúng mục tiêu, nhận được [Khí].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Tĩnh Khí Tuần Hành</color>, nhận được [Khí].
-Khi Kỹ Năng Cộng Hưởng <color=Highlight>Hành Khí Phản Kích</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Giáng Khí Phản Kích</color> trúng mục tiêu, nhận được [Khí].
-Khi Biến Tấu Kỹ <color=Highlight>Chưởng Tức Chi Yếu</color> trúng mục tiêu, nhận được [Khí]."
-lang_multi_text.db,MultiText,Term850042_Title,气,Chi,Khí
-lang_multi_text.db,MultiText,Term850043_Desc,黄灯模式期间，进行远程攻击。,Perform ranged attacks when in Yellow Light Mode.,"Trong chế độ Đèn Vàng, tiến hành tấn công tầm xa."
-lang_multi_text.db,MultiText,Term850043_Title,黄灯模式,Yellow Light Mode,Chế Độ Đèn Vàng
-lang_multi_text.db,MultiText,Term850044_Desc,红灯模式期间，进行近战攻击。,Perform melee attacks when in Red Light Mode.,"Trong chế độ Đèn Đỏ, tiến hành tấn công cận chiến."
-lang_multi_text.db,MultiText,Term850044_Title,红灯模式,Red Light Mode,Chế Độ Đèn Đỏ
-lang_multi_text.db,MultiText,Term850045_Desc,"进行<color=Highlight>问祯</color>后，有概率获得不同的<color=Highlight>祯祥</color>。
-拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>。
-拥有<color=Highlight>祯祥</color>的状态下获得新的<color=Highlight>祯祥</color>，则会用新的<color=Highlight>祯祥</color>替换掉旧的<color=Highlight>祯祥</color>。","Youhu obtains a random <color=Highlight>Antique</color> after the <color=Highlight>Lucky Draw</color>. With an <color=Highlight>Antique</color>, her next <color=Highlight>Basic Attack</color> will activate the corresponding <color=Highlight>Antique Appraisal</color>.
-Only one <color=Highlight>Antique</color> can exist at a time, and the newly drawn <color=Highlight>Antique</color> will replace the existing one.","Sau khi tiến hành <color=Highlight>Vấn Trinh</color>, có xác suất nhận được các <color=Highlight>Trinh Tường</color> khác nhau.
-Trong trạng thái sở hữu <color=Highlight>Trinh Tường</color>, khi nhấn <color=Highlight>Phổ Công</color>, sẽ tiến hành <color=Highlight>Kỳ Trân Thưởng</color> tương ứng với <color=Highlight>Trinh Tường</color>.
-Khi nhận được <color=Highlight>Trinh Tường</color> mới trong trạng thái đã có <color=Highlight>Trinh Tường</color>, <color=Highlight>Trinh Tường</color> mới sẽ thay thế <color=Highlight>Trinh Tường</color> cũ."
-lang_multi_text.db,MultiText,Term850045_Title,问祯,Lucky Draw,Vấn Trinh
-lang_multi_text.db,MultiText,Term850046_Desc,"拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>。
-拥有<color=Highlight>祯祥</color>的状态下获得新的<color=Highlight>祯祥</color>，则会用新的<color=Highlight>祯祥</color>替换掉旧的<color=Highlight>祯祥</color>。","With an <color=Highlight>Antique</color>, Youhu's next <color=Highlight>Basic Attack</color> will activate the corresponding <color=Highlight>Antique Appraisal</color>.
-Only one <color=Highlight>Antique</color> can exist at a time, and the newly drawn <color=Highlight>Antique</color> will replace the existing one.","Trong trạng thái sở hữu <color=Highlight>Trinh Tường</color>, khi nhấn <color=Highlight>Phổ Công</color>, sẽ tiến hành <color=Highlight>Kỳ Trân Thưởng</color> tương ứng với <color=Highlight>Trinh Tường</color>.
-Khi nhận được <color=Highlight>Trinh Tường</color> mới trong trạng thái đã có <color=Highlight>Trinh Tường</color>, <color=Highlight>Trinh Tường</color> mới sẽ thay thế <color=Highlight>Trinh Tường</color> cũ."
-lang_multi_text.db,MultiText,Term850046_Title,祯祥,Antique,Trinh Tường
-lang_multi_text.db,MultiText,Term850047_Desc,当队伍中登场角色受到攻击时，消耗1个【磐岩护壁】，降低此次受到的伤害。,"When the active character on the team is attacked, 1 Rocksteady Shield is consumed to reduce the damage taken.","Khi nhân vật đang ra trận trong đội bị tấn công, tiêu hao 1 [Bàn Nham Hộ Bích], giảm sát thương nhận được lần này."
-lang_multi_text.db,MultiText,Term850047_Title,磐岩护壁,Rocksteady Shield,Bàn Nham Hộ Bích
-lang_multi_text.db,MultiText,Term850048_Desc,"·当秋水穿过【雾气】或【虚实之门】时，会进入<color=Highlight>迷雾潜行</color>状态。
-·<color=Highlight>普攻</color>或<color=Highlight>空中攻击</color>穿过【雾气】命中目标时，回复1点【雾滴】。","- When Aalto passes through Mist or Gate of Quandary, he enters the <color=Highlight>Mistcloak Dash</color>.
-- When <color=Highlight>Basic Attack</color> or <color=Highlight>Mid-air Attack</color> passes through Mist and hits the target, 1 Mist Drop is recovered.","- Khi Aalto đi xuyên qua [Sương Mù] hoặc [Hư Thực Chi Môn], sẽ tiến vào trạng thái <color=Highlight>Mê Vụ Tiềm Hành</color>.
-- Khi <color=Highlight>Phổ Công</color> hoặc <color=Highlight>Tấn Công Trên Không</color> xuyên qua [Sương Mù] trúng mục tiêu, hồi phục 1 điểm [Vụ Trích]."
-lang_multi_text.db,MultiText,Term850048_Title,雾气,Mist,Sương Mù
-lang_multi_text.db,MultiText,Term850049_Desc,·当秋水穿过【雾气】或【虚实之门】时，会进入<color=Highlight>迷雾潜行</color>状态。,"When Aalto passes through Mist or Gate of Quandary, he enters the <color=Highlight>Mistcloak Dash</color>.","- Khi Aalto đi xuyên qua [Sương Mù] hoặc [Hư Thực Chi Môn], sẽ tiến vào trạng thái <color=Highlight>Mê Vụ Tiềm Hành</color>."
-lang_multi_text.db,MultiText,Term850049_Title,虚实之门,Gate of Quandary,Cổng Hư Thực
-lang_multi_text.db,MultiText,Term850050_Desc,"【喝彩】上限100点。
-常态攻击命中目标时，获得【喝彩】。
-变奏技能命中目标时，获得【喝彩】。
-共鸣技能命中目标时，获得【喝彩】。","Brant can hold up to 100 Bravo.
-- Obtain Bravo when Normal Attacks hit the target.
-- Obtain Bravo when Intro Skill hits the target.
-- Obtain Bravo when Resonance Skill hits the target.","[Hoan Hô] tối đa 100 điểm.
-Khi Công Thường trúng mục tiêu, nhận [Hoan Hô].
-Khi Biến Tấu Kỹ trúng mục tiêu, nhận [Hoan Hô].
-Khi Kỹ Năng Cộng Hưởng trúng mục tiêu, nhận [Hoan Hô]."
-lang_multi_text.db,MultiText,Term850050_Title,喝彩,Bravo,Hoan Hô
-lang_multi_text.db,MultiText,Term850051_Desc,<color=Highlight>常态攻击</color>、共鸣技能<color=Highlight>起锚！</color>命中时获取【喝彩】效率提升100%。共鸣回路<color=Highlight>戏中人生</color>替换为<color=Highlight>「我」的人生</color>。,"The efficiency of gaining Bravo is increased by 100% when <color=Highlight>Normal Attack</color> or Resonance Skill <color=Highlight>Anchors Aweigh!</color> hits the target. Meanwhile, Forte Circuit <color=Highlight>Theatrical Moment</color> is replaced by <color=Highlight>""My"" Moment</color>.","Hiệu suất nhận [Hoan Hô] khi <color=Highlight>Công Thường</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Nhổ Neo!</color> trúng mục tiêu tăng 100%. Đồng thời, Cộng Hưởng Liên <color=Highlight>Đời Trong Kịch</color> được thay thế bằng <color=Highlight>Đời Của ""Tôi""</color>."
-lang_multi_text.db,MultiText,Term850051_Title,燃焰,Aflame,Lửa Cháy
-lang_multi_text.db,MultiText,Term850052_Desc,布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于150%时，每超过1%的共鸣效率计算为12点攻击提升，上限为1560。,"Brant gains additional ATK based on his Energy Regen: For every 1% of his Energy Regen over 150%, Brant gains additional 12 points of ATK, up to 1560.","Brant nhận thêm tấn công dựa trên hiệu suất cộng hưởng: Khi hiệu suất cộng hưởng vượt quá 150%, mỗi 1% vượt quá sẽ được quy đổi thành 12 điểm tấn công, tối đa 1560."
-lang_multi_text.db,MultiText,Term850052_Title,戏中人生,Theatrical Moment,Đời Trong Kịch
-lang_multi_text.db,MultiText,Term850053_Desc,当【喝彩】达到25、50、75、100点后，会回复附近队伍所有角色的生命值。,"Heal all nearby Resonators in the team when Bravo reaches 25, 50, 75, and 100.","Khi [Hoan Hô] đạt 25, 50, 75, 100 điểm, sẽ hồi phục sinh lực cho tất cả nhân vật trong đội ở gần."
-lang_multi_text.db,MultiText,Term850053_Title,涛声喝彩,Waves of Acclaims,Sóng Hoan Hô
-lang_multi_text.db,MultiText,Term850054_Desc,"·<color=Highlight>普攻</color>替换为普攻<color=Highlight>蛰幻</color>，进行最多3段连续攻击，造成<color=Dark>湮灭伤害</color>，可在空中施放，在空中施放普攻<color=Highlight>蛰幻</color>，将会消耗耐力。此外，普攻<color=Highlight>蛰幻</color>连击段数不会被重置。
-·普攻<color=Highlight>蛰幻</color>命中目标时，消耗1点【迷离】，获得1点【颤栗】，并为附近队伍中所有角色回复生命值。
-·普攻<color=Highlight>第3段蛰幻</color>攻击目标时会进行3次协同攻击，造成<color=Dark>湮灭伤害</color>。
-·<color=Highlight>空中攻击</color>替换为<color=Highlight>暗涌漩涡</color>，短按<color=Highlight>跳跃</color>，消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。
-·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>掠影</color>，攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻蛰幻第2段</color>。
-·空中攻击<color=Highlight>暗涌漩涡</color>或<color=Highlight>闪避反击·掠影</color>命中目标时，消耗1点【迷离】，获得1点【颤栗】，并为附近队伍中所有角色回复生命值。
-·蜃境状态持续8秒；
-·消耗完所有【迷离】时结束<color=Highlight>蜃境状态</color>。","- <color=Highlight>Basic Attack</color> becomes Basic Attack <color=Highlight>Phantom Sting</color>. Perform up to 3 consecutive attacks, dealing <color=Dark>Havoc DMG</color>. Can be cast in mid-air. When cast mid-air, Basic Attack <color=Highlight>Phantom Sting</color> consumes STA, and the combo does not reset when Cantarella is airborne.
-- Hitting the target with Basic Attack <color=Highlight>Phantom Sting</color> consumes 1 point of Trance to obtain 1 point of Shiver and heal all nearby Resonators in the team.
-- The third stage of Basic Attack <color=Highlight>Phantom Sting</color> triggers 3 Coordinated Attacks, dealing <color=Dark>Havoc DMG</color>.
-- <color=Highlight>Mid-air Attack</color> becomes <color=Highlight>Abysmal Vortex</color>. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Jump</color> to perform a Plunging Attack at the cost of STA, dealing <color=Dark>Havoc DMG</color>.
-- <color=Highlight>Dodge Counter</color> becomes Dodge Counter <color=Highlight>Shadowy Sweep</color>. Attack the target, dealing <color=Dark>Havoc DMG</color>. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> right after casting the skill to cast Basic Attack <color=Highlight>Phantom Sting Stage 2</color>.
-- When Mid-air Attack <color=Highlight>Abysmal Vortex</color> or Dodge Counter <color=Highlight>Shadowy Sweep</color> hits a target, consume 1 point of Trance to obtain 1 point of Shiver and heal all nearby Resonators in the team.
-- Mirage lasts for 8s.
-- <color=Highlight>Mirage</color> ends when Trance is depleted.","- <color=Highlight>Phổ Công</color> được thay thế bằng Phổ Công <color=Highlight>Chích Huyễn</color>, thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Dark>sát thương Hủy Diệt</color>. Có thể thi triển trên không, khi thi triển trên không Phổ Công <color=Highlight>Chích Huyễn</color> sẽ tiêu hao thể lực. Ngoài ra, số đoạn combo của Phổ Công <color=Highlight>Chích Huyễn</color> sẽ không bị đặt lại.
-- Khi Phổ Công <color=Highlight>Chích Huyễn</color> trúng mục tiêu, tiêu hao 1 điểm [Mê Ly], nhận 1 điểm [Rùng Mình] và hồi phục sinh lực cho tất cả nhân vật trong đội ở gần.
-- Phổ Công <color=Highlight>Chích Huyễn đoạn 3</color> khi tấn công mục tiêu sẽ thực hiện 3 lần hiệp đồng tấn công, gây <color=Dark>sát thương Hủy Diệt</color>.
-- <color=Highlight>Tấn công trên không</color> được thay thế bằng <color=Highlight>Xoáy Ngầm</color>, nhấn ngắn <color=Highlight>Nhảy</color>, tiêu hao thể lực thực hiện tấn công hạ cánh trên không, gây <color=Dark>sát thương Hủy Diệt</color>.
-- <color=Highlight>Phản Kích Né Tránh</color> được thay thế bằng Phản Kích Né Tránh <color=Highlight>Lướt Bóng</color>, tấn công mục tiêu, gây <color=Dark>sát thương Hủy Diệt</color>. Sau khi thi triển kỹ năng này, nhấn ngắn <color=Highlight>Phổ Công</color> sẽ thi triển <color=Highlight>Phổ Công Chích Huyễn đoạn 2</color>.
-- Khi tấn công trên không <color=Highlight>Xoáy Ngầm</color> hoặc <color=Highlight>Phản Kích Né Tránh - Lướt Bóng</color> trúng mục tiêu, tiêu hao 1 điểm [Mê Ly], nhận 1 điểm [Rùng Mình] và hồi phục sinh lực cho tất cả nhân vật trong đội ở gần.
-- Trạng thái Thần Cảnh kéo dài 8 giây.
-- Khi tiêu hao hết tất cả [Mê Ly], <color=Highlight>trạng thái Thần Cảnh</color> sẽ kết thúc."
-lang_multi_text.db,MultiText,Term850054_Title,蜃境状态,Mirage,Trạng Thái Thần Cảnh
-lang_multi_text.db,MultiText,Term850055_Desc,"降低目标的行动速度，持续6.5秒。目标受到伤害时，将触发一次<color=Highlight>惊醒</color>，造成<color=Dark>湮灭伤害</color>，并清除<color=Highlight>迷梦</color>，此次伤害为普攻伤害。
-队伍中其他角色攻击处于<color=Highlight>迷梦</color>的目标时，无法触发<color=Highlight>惊醒</color>，并清除<color=Highlight>迷梦</color>。
-探索工具伤害和协同攻击不会触发惊醒。","Reduce the target's movement speed for 6.5s. When the target takes damage, <color=Highlight>Jolt</color> is triggered once, removing <color=Highlight>Hazy Dream</color> to deal <color=Dark>Havoc DMG</color>, considered Basic Attack DMG.
-Attacks by other Resonators in the team will not <color=Highlight>Jolt</color> a target influenced by <color=Highlight>Hazy Dream</color> and will remove the <color=Highlight>Hazy Dream</color>. 
-Coordinated Attacks and damage from Utilities will not trigger <color=Highlight>Jolt</color>.","Giảm tốc độ hành động của mục tiêu, kéo dài 6.5 giây. Khi mục tiêu nhận sát thương, sẽ kích hoạt một lần <color=Highlight>Kinh Tỉnh</color>, gây <color=Dark>sát thương Hủy Diệt</color> và xóa bỏ <color=Highlight>Mê Mộng</color>, sát thương này được tính là sát thương Phổ Công.
-Khi nhân vật khác trong đội tấn công mục tiêu đang chịu <color=Highlight>Mê Mộng</color>, sẽ không kích hoạt <color=Highlight>Kinh Tỉnh</color> và xóa bỏ <color=Highlight>Mê Mộng</color>.
-Sát thương từ công cụ thám hiểm và hiệp đồng tấn công sẽ không kích hoạt Kinh Tỉnh."
-lang_multi_text.db,MultiText,Term850055_Title,迷梦,Hazy Dream,Mê Mộng
-lang_multi_text.db,MultiText,Term850056_Desc,"【弦风息】上限120点。
-空中攻击<color=Highlight>抃风儛润</color>每段命中时，获得25点【弦风息】。
-施放<color=Highlight>变奏技能</color>时，获得20点【弦风息】。
-<color=Highlight>普攻第3段</color>、<color=Highlight>普攻第4段</color>、<color=Highlight>闪避反击</color>命中时，获得10点【弦风息】。","Rover can hold up to 120 Windstrings.
-Each stage of Mid-air Attack <color=Highlight>Cloudburst Dance</color> restores 25 Windstrings on hit.
-Casting <color=Highlight>Intro Skill</color> restores 20 Windstrings.
-Hitting a target with <color=Highlight>Basic Attack Stage 3 or 4</color> or <color=Highlight>Dodge Counter</color> restores 10 Windstrings.","[Huyền Phong Tức] tối đa 120 điểm.
-Mỗi đoạn tấn công trên không <color=Highlight>Biện Phong Vũ Nhuận</color> trúng mục tiêu, nhận 25 điểm [Huyền Phong Tức].
-Khi thi triển <color=Highlight>Biến Tấu Kỹ</color>, nhận 20 điểm [Huyền Phong Tức].
-Khi <color=Highlight>Phổ Công đoạn 3</color>, <color=Highlight>Phổ Công đoạn 4</color>, <color=Highlight>Phản Kích Né Tránh</color> trúng mục tiêu, nhận 10 điểm [Huyền Phong Tức]."
-lang_multi_text.db,MultiText,Term850056_Title,弦风息,Windstring,Huyền Phong Tức
-lang_multi_text.db,MultiText,Term850057_Desc,拾取天籁的角色攻击提升15%，持续20秒。,ATK of the Resonators who pick up Euphonia is increased by 15% for 20s.,"Nhân vật nhặt được Thiên Lại sẽ tăng 15% tấn công, kéo dài 20 giây."
-lang_multi_text.db,MultiText,Term850057_Title,天籁,Euphonia,Thiên Lại
-lang_multi_text.db,MultiText,Term850058_Desc,"在行狮状态中：
-·可在空中进行攻击，若回到地面，施放重击<color=Highlight>起势·纵地金光</color>可再次回到空中；
-·持续消耗【狮魂】，消耗完后将结束<color=Highlight>行狮</color>状态，<color=Highlight>行狮</color>状态可维持5秒；
-·若同时处于共鸣解放<color=Highlight>狮子奋迅</color>状态，【狮魂】消耗速率降低50%，<color=Highlight>行狮</color>状态最多可延长至10秒；
-·凌阳的<color=Highlight>普攻</color>替换为普攻<color=Highlight>狂态·摇光金狮舞</color>，进行最多2段的连续攻击，造成<color=Ice>冷凝伤害</color>；
-·凌阳的<color=Highlight>共鸣技能</color>替换为共鸣技能<color=Highlight>飞身式·翻山越涧</color>，造成<color=Ice>冷凝伤害</color>；
-·当【狮魂】消耗至10点以下时，短按<color=Highlight>普攻</color>，将会施放普攻<color=Highlight>凌云式·腿打连环</color>攻击目标，造成<color=Ice>冷凝伤害</color>；施放普攻<color=Highlight>凌云式·腿打连环</color>后，可施放空中攻击<color=Highlight>登楼·尾坠千斤</color>；
-·消耗【狮魂】时回复协奏能量。","In the <color=Highlight>Striding Lion</color> state:
-- Attacks can be launched in mid-air. If Lingyang is on the ground, use Heavy Attack <color=Highlight>Glorious Plunge</color> to get back in the air.
-- Lion's Spirit is continuously consumed before running out in 5s, and when it runs out, <color=Highlight>Striding Lion</color> ends;
-- If Lingyang is in the Resonance Liberation <color=Highlight>Lion's Vigor</color> state, the consumption speed of Lion's Spirit is reduced by 50%, extending <color=Highlight>Striding Lion</color> state by up to 10s.
-- Lingyang's <color=Highlight>Basic Attack</color> is replaced with Basic Attack <color=Highlight>Feral Gyrate</color>, which performs up to 2 consecutive attacks, dealing <color=Ice>Glacio DMG</color>;
-- Lingyang's <color=Highlight>Resonance Skill</color> is replaced with <color=Highlight>Mountain Roamer</color>, dealing <color=Ice>Glacio DMG</color>;
-- When Lion's Spirit is less than 10, use <color=Highlight>Basic Attack</color> to perform <color=Highlight>Stormy Kicks</color>, dealing <color=Ice>Glacio DMG</color>; after performing Basic Attack <color=Highlight>Stormy Kicks</color>, the Mid-air Attack <color=Highlight>Tail Strike</color> becomes available.
-- Concerto Energy is restored when Lion's Spirit is consumed.","Trong trạng thái Hành Sư:
-- Có thể tấn công trên không, nếu trở về mặt đất, thi triển Trọng Kích <color=Highlight>Khởi Thế - Tung Địa Kim Quang</color> để quay lại trên không;
-- Liên tục tiêu hao [Sư Hồn], khi tiêu hao hết sẽ kết thúc trạng thái <color=Highlight>Hành Sư</color>, trạng thái <color=Highlight>Hành Sư</color> có thể duy trì 5 giây;
-- Nếu đồng thời ở trong trạng thái Giải Phóng Cộng Hưởng <color=Highlight>Sư Tử Phấn Tấn</color>, tốc độ tiêu hao [Sư Hồn] giảm 50%, trạng thái <color=Highlight>Hành Sư</color> có thể kéo dài tối đa 10 giây;
-- <color=Highlight>Phổ Công</color> của Lingyang được thay thế bằng Phổ Công <color=Highlight>Cuồng Thái - Dao Quang Kim Sư Vũ</color>, thực hiện tối đa 2 đòn tấn công liên tiếp, gây <color=Ice>sát thương Ngưng Băng</color>;
-- <color=Highlight>Kỹ Năng Cộng Hưởng</color> của Lingyang được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Phi Thân Thức - Phiên Sơn Việt Giản</color>, gây <color=Ice>sát thương Ngưng Băng</color>;
-- Khi [Sư Hồn] giảm xuống dưới 10 điểm, nhấn ngắn <color=Highlight>Phổ Công</color> sẽ thi triển Phổ Công <color=Highlight>Lăng Vân Thức - Cước Đả Liên Hoàn</color> tấn công mục tiêu, gây <color=Ice>sát thương Ngưng Băng</color>; sau khi thi triển Phổ Công <color=Highlight>Lăng Vân Thức - Cước Đả Liên Hoàn</color>, có thể thi triển tấn công trên không <color=Highlight>Đăng Lâu - Vĩ Trụy Thiên Cân</color>;
-- Khi tiêu hao [Sư Hồn] sẽ hồi phục năng lượng Hiệp Tấu."
-lang_multi_text.db,MultiText,Term850058_Title,行狮,Striding Lion,Hành Sư
-lang_multi_text.db,MultiText,Term850059_Desc,"场上最多存在2个合奏音影。
-若夏空的<color=Highlight>普攻第4段</color>被打断，合奏音影将代替夏空完成这次攻击，并进入<color=Highlight>音律独奏</color>状态。
-若夏空的<color=Highlight>音律独奏</color>状态被打断，合奏音影将代替夏空继续<color=Highlight>音律独奏</color>状态。
-通过<color=Highlight>共鸣技能</color>生成合奏音影时，除上述两种情况外，合奏音影将代替夏空完成这次攻击，但不进入<color=Highlight>音律独奏</color>状态。","Up to 2 <color=Highlight>Ensemble Sylphs</color> may exist simultaneously.
-If Ciaccona's Basic Attack Stage 4 is interrupted, the <color=Highlight>Ensemble Sylphs</color> generated will finish the action for Ciaccona and send Ciaccona into <color=Highlight>Solo Concert</color>.
-If Ciaccona's <color=Highlight>Solo Concert</color> is interrupted, the <color=Highlight>Ensemble Sylphs</color> generated will continue the <color=Highlight>Solo Concert</color> for Ciaccona.","Tối đa 2 Hợp Tấu Âm Ảnh tồn tại trên sân.
-Nếu <color=Highlight>Phổ Công đoạn 4</color> của Ciaccona bị gián đoạn, Hợp Tấu Âm Ảnh sẽ thay Ciaccona hoàn thành đòn tấn công đó và đưa Ciaccona vào trạng thái <color=Highlight>Âm Luật Độc Tấu</color>.
-Nếu trạng thái <color=Highlight>Âm Luật Độc Tấu</color> của Ciaccona bị gián đoạn, Hợp Tấu Âm Ảnh sẽ thay Ciaccona tiếp tục trạng thái <color=Highlight>Âm Luật Độc Tấu</color>.
-Khi tạo Hợp Tấu Âm Ảnh thông qua <color=Highlight>Kỹ Năng Cộng Hưởng</color>, ngoài hai trường hợp trên, Hợp Tấu Âm Ảnh sẽ thay Ciaccona hoàn thành đòn tấn công nhưng không đưa vào trạng thái <color=Highlight>Âm Luật Độc Tấu</color>."
-lang_multi_text.db,MultiText,Term850059_Title,合奏音影,Ensemble Sylph,Hợp Tấu Âm Ảnh
-lang_multi_text.db,MultiText,Term850060_Desc,夏空或合奏音影在进入音律独奏状态时能够以自身为中心，使附近队伍中所有角色的气动伤害加成提升24%，该效果不可叠加。,"When Ciaccona or Ensemble Sylph performs Solo Concert, they give 24% Aero DMG Bonus to all nearby Resonators in the team. This effect is not stackable.","Khi Ciaccona hoặc Hợp Tấu Âm Ảnh bước vào trạng thái Âm Luật Độc Tấu, sẽ lấy bản thân làm trung tâm, tăng 24% bonus sát thương Khí Động cho tất cả nhân vật trong đội ở gần. Hiệu ứng này không cộng dồn."
-lang_multi_text.db,MultiText,Term850060_Title,音律独奏,Solo Concert,Âm Luật Độc Tấu
-lang_multi_text.db,MultiText,Term850061_Desc,"【音律】上限3格。
-施放<color=Highlight>普攻第4段</color>和<color=Highlight>变奏技能</color>时，可获得1格【音律】。","Ciaccona can hold up to 3 segments of Musical Essence.
-Casting <color=Highlight>Basic Attack Stage 4</color> and <color=Highlight>Intro Skill</color> recovers 1 segment of Musical Essence.","[Âm Luật] tối đa 3 ô.
-Khi thi triển <color=Highlight>Phổ Công đoạn 4</color> và <color=Highlight>Biến Tấu Kỹ</color>, nhận được 1 ô [Âm Luật]."
-lang_multi_text.db,MultiText,Term850061_Title,音律,Musical Essence,Âm Luật
-lang_multi_text.db,MultiText,Term850062_Desc,共振度清空时，敌人进入<color=Highlight>瘫痪状态</color>。瘫痪后敌人一段时间内无法行动。,"When the Vibration Strength is depleted, the enemy is <color=Highlight>Immobilized</color> and cannot take any action for a period of time.","Khi Cộng Chấn Độ bị làm trống, địch sẽ rơi vào <color=Highlight>trạng thái tê liệt</color>. Sau khi tê liệt, địch không thể hành động trong một khoảng thời gian."
-lang_multi_text.db,MultiText,Term850062_Title,共振度,Vibration Strength,Cộng Chấn Độ
-lang_multi_text.db,MultiText,Term850063_Desc,"【冗余动能】上限100点。
-常态攻击命中目标时，获得【冗余动能】。
-施放变奏技能<color=Highlight>即刻执行</color>时，获得【冗余动能】。
-施放共鸣技能<color=Highlight>标准防卫预案</color>时，获得【冗余动能】。
-施放共鸣技能<color=Highlight>精准反击</color>时，获得【冗余动能】。
-处于<color=Highlight>灼焰形态</color>时，无法获得【冗余动能】。","Zani can hold up to 100 Redundant Energy.
-Obtain Redundant Energy when Normal Attacks hit a target.
-Obtain Redundant Energy when Intro Skill <color=Highlight>Immediate Execution</color> hits a target.
-Obtain Redundant Energy when casting Resonance Skill <color=Highlight>Standard Defense Protocol</color>.
-Obtain Redundant Energy when casting Resonance Skill <color=Highlight>Pinpoint Strike</color>.
-Cannot obtain Redundant Energy while in <color=Highlight>Inferno Mode</color>.","Giới hạn [Động Năng Dư Thừa] là 100 điểm.
-Khi Công Thường trúng mục tiêu, nhận được [Động Năng Dư Thừa].
-Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Lập Tức Chấp Hành</color>, nhận được [Động Năng Dư Thừa].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Phòng Vệ Tiêu Chuẩn</color>, nhận được [Động Năng Dư Thừa].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phản Kích Chính Xác</color>, nhận được [Động Năng Dư Thừa].
-Khi ở trong <color=Highlight>Trạng Thái Chước Diễm</color>, không thể nhận [Động Năng Dư Thừa]."
-lang_multi_text.db,MultiText,Term850063_Title,冗余动能,Redundant Energy,Động Năng Dư Thừa
-lang_multi_text.db,MultiText,Term850064_Desc,施放共鸣解放·重燃可进入灼焰形态。,Casting Resonance Liberation Rekindle sends Zani into Infernal Mode.,Thi triển Giải Phóng Cộng Hưởng - Tái Bùng Cháy để vào Trạng Thái Chước Diễm.
-lang_multi_text.db,MultiText,Term850064_Title,灼焰形态,Inferno Mode,Trạng Thái Chước Diễm
-lang_multi_text.db,MultiText,Term850065_Desc,"赞妮未处于<color=Highlight>灼焰形态</color>时，【焰光】上限为100点。
-赞妮处于<color=Highlight>灼焰形态</color>时，【焰光】上限为150点。
-施放共鸣技能<color=Highlight>危机处理预案</color>后，获得10点【焰光】。
-每1层<color=Highlight>【光噪效应】</color>转化为【烈阳余烬】时，获得5点【焰光】。
-施放共鸣解放<color=Highlight>重燃</color>时，获得50点【焰光】。","Blaze is capped at 100 when not in <color=Highlight>Inferno Mode</color>.
-Blaze is capped at 150 in <color=Highlight>Inferno Mode</color>.
-Casting Resonance Skill <color=Highlight>Crisis Response Protocol</color> grants 10 Blazes.
-Every stack of Heliacal Ember converted from <color=Highlight>Spectro Frazzle</color> grants 5 Blazes.
-Casting Resonance Liberation <color=Highlight>Rekindle</color> grants 50 Blazes.","Khi Zani không ở trong <color=Highlight>Trạng Thái Chước Diễm</color>, giới hạn [Diễm Quang] là 100 điểm.
-Khi Zani ở trong <color=Highlight>Trạng Thái Chước Diễm</color>, giới hạn [Diễm Quang] là 150 điểm.
-Sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Xử Lý Khủng Hoảng</color>, nhận được 10 điểm [Diễm Quang].
-Mỗi 1 tầng <color=Highlight>[Quang Tạo Hiệu Ứng]</color> chuyển hóa thành [Liệt Dương Dư Tẫn], nhận được 5 điểm [Diễm Quang].
-Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Tái Bùng Cháy</color>, nhận được 50 điểm [Diễm Quang]."
-lang_multi_text.db,MultiText,Term850065_Title,焰光,Blaze,Diễm Quang
-lang_multi_text.db,MultiText,Term850066_Desc,赞妮处于编队时，附近队伍中的角色对目标附加<color=Highlight>【光噪效应】</color>时，将立刻结算全部层数伤害并转化为相同层数的【烈阳余烬】。每次发生转化，赞妮根据转化层数汲取【焰光】。【烈阳余烬】层数上限为60层，每层持续6秒。该层数可触发「此间永驻之光」 合鸣效果。,"When Zani is in the team and a nearby Resonator inflicts <color=Highlight>Spectro Frazzle</color> upon a target, immediately consume all Spectro Frazzle stacks and trigger the corresponding DMG, then convert Spectro Frazzle into equal stacks of Heliacal Ember. Every time the conversion happens, Zani obtains Blaze based on the stacks of Heliacal Ember inflicted. Heliacal Ember is capped at 60 stacks, with each stack lasting for 6s. Heliacal Ember stacks are counted toward the Spectro Frazzle stacks for the Eternal Radiance Sonata Effect.","Khi Zani ở trong đội hình, các nhân vật trong đội ở gần gắn <color=Highlight>[Quang Tạo Hiệu Ứng]</color> lên mục tiêu sẽ lập tức kết toán sát thương toàn bộ tầng và chuyển hóa thành số tầng [Liệt Dương Dư Tẫn] tương đương. Mỗi lần chuyển hóa, Zani hấp thu [Diễm Quang] dựa theo số tầng chuyển hóa. Giới hạn tầng [Liệt Dương Dư Tẫn] là 60 tầng, mỗi tầng kéo dài 6 giây. Số tầng này có thể kích hoạt hiệu ứng Hợp Minh ""Ánh Sáng Vĩnh Cửu Nơi Đây""."
-lang_multi_text.db,MultiText,Term850066_Title,烈阳余烬,Heliacal Ember,Liệt Dương Dư Tẫn
-lang_multi_text.db,MultiText,Term850067_Desc,"由史考特·拉贝尔博士发明，用于检测共鸣者状态的一种方法，简称“拉贝尔检测法”。
-因其安全性、稳定性、易用性而在各个地区得到了广泛应用。","Developed by Dr. Scott Rabelle, this method was originally designed to examine Resonators. It is also known as ""Rabelle's Test.""
-Known for its safety, reliability, and ease of use, the test has since been adopted across multiple regions.","Được phát minh bởi Tiến sĩ Scott Rabelle, đây là phương pháp dùng để kiểm tra trạng thái Cộng Hưởng Giả, gọi tắt là ""Phép Kiểm Tra Rabelle"".
-Nhờ tính an toàn, ổn định và dễ sử dụng mà phương pháp này đã được ứng dụng rộng rãi ở nhiều khu vực."
-lang_multi_text.db,MultiText,Term850067_Title,拉贝尔曲线,Rabelle's Curve,Đường Cong Rabelle
-lang_multi_text.db,MultiText,Term850068_Desc,天生拥有异能，先天性共鸣者。,A Resonator born with innate Forte.,Cộng Hưởng Giả bẩm sinh sở hữu dị năng từ khi sinh ra.
-lang_multi_text.db,MultiText,Term850068_Title,先天型共鸣者,Congenital Resonator,Cộng Hưởng Giả Tiên Thiên
-lang_multi_text.db,MultiText,Term850069_Desc,受到重大事件刺激，而导致觉醒异能。,A Resonator who awakened their Forte through a life-changing event.,Dị năng được thức tỉnh do chịu kích thích từ sự kiện trọng đại.
-lang_multi_text.db,MultiText,Term850069_Title,突变型共鸣者,Mutant Resonator,Cộng Hưởng Giả Đột Biến
-lang_multi_text.db,MultiText,Term850070_Desc,随着阅历、能力的深化逐渐觉醒异能。,A Resonator who naturally awakened their Forte during their growth.,Dị năng dần dần thức tỉnh theo quá trình tích lũy trải nghiệm và năng lực.
-lang_multi_text.db,MultiText,Term850070_Title,自然型共鸣者,Natural Resonator,Cộng Hưởng Giả Tự Nhiên
-lang_multi_text.db,MultiText,Term850071_Desc,通过人为诱导、激发有共鸣潜质的个体，使其提前觉醒为共鸣者。,A Resonator whose latent Forte was prematurely awakened via controlled artificial stimulation.,"Thông qua phương pháp dẫn dụ nhân tạo, kích phát cá thể có tiềm năng cộng hưởng, khiến họ thức tỉnh thành Cộng Hưởng Giả sớm hơn."
-lang_multi_text.db,MultiText,Term850071_Title,诱导型共鸣者,Induced Resonator,Cộng Hưởng Giả Dụ Đạo
-lang_multi_text.db,MultiText,Term850072_Desc,"在共鸣者肤表或无音区的地面留下的刻痕。
-对共鸣者而言，体表的声痕是异能涌现的通道，象征着共鸣后的新生。
-对无音区而言，奔涌不安的能量化为白色声弦，无尽的残象从中产生。","A mark found either on a Resonator's skin or the ground of a Tacet Field.
-For Resonators, these marks serve as conduits for their Forte, a sign of their rebirth after awakening.
-In Tacet Fields, the mark becomes the focal point where chaotic energy coalesces, forming the white Resonance Cord that births endless Tacet Discords into this world.","Khắc vết để lại trên bề mặt da Cộng Hưởng Giả hoặc trên mặt đất Vùng Vô Thanh.
-Đối với Cộng Hưởng Giả, Thanh Ngân trên cơ thể là kênh dẫn dị năng bùng phát, tượng trưng cho sự tái sinh sau cộng hưởng.
-Đối với Vùng Vô Thanh, năng lượng cuồn cuộn bất ổn hóa thành huyền tuyến trắng, vô số Tàn Tượng từ đó sinh ra."
-lang_multi_text.db,MultiText,Term850072_Title,声痕,Tacet Mark,Thanh Ngân
+lang_multi_text.db,MultiText,TWTPOI_59_6,这是我想投入一切的事业，谢谢你，让我能继续为之奋斗。,This is the cause I want to devote my life to. Thank you... for letting me continue this fight.,"Đây là sự nghiệp mà tôi muốn dốc hết tâm huyết. Cảm ơn bạn, đã cho tôi có thể tiếp tục phấn đấu vì nó."
+lang_multi_text.db,MultiText,TWTPOI_59_7,{PlayerName}，我代表自己，也想代表所有为了深空测界台而努力的人们向你表示感谢。,"{PlayerName}, on my behalf, and on behalf of everyone who's poured their heart into the Spacetrek Array... Thank you, from the bottom of my heart.","{PlayerName}, thay mặt bản thân mình, và cũng muốn thay mặt tất cả những người đã nỗ lực vì Đài Quan Trắc Thâm Không, tôi xin gửi lời cảm ơn đến bạn."
+lang_multi_text.db,MultiText,TWTPOI_59_8,我们会永远铭记你的贡献。,We will never forget what you've done for us.,Chúng tôi sẽ mãi ghi nhớ đóng góp của bạn.
+lang_multi_text.db,MultiText,TWTPOI_59_9,德莉珐如是说！,Says Dhalifa!,Dhalifa đã nói như vậy!
+lang_multi_text.db,MultiText,TWTPOI_5_1,你这手势的意思……圆的？,What's this gesture supposed to mean? Umm… circles?,Điệu bộ đó có nghĩa là... tròn?
+lang_multi_text.db,MultiText,TWTPOI_5_2,流民……,Outcasts…,Dân lang thang...
+lang_multi_text.db,MultiText,TWTPOI_5_3,流民怎么了？我没看到他们啊！唠叨叨快过来帮忙翻译！,What outcasts? I didn't see anyone nearby! Talkie! Get over here and translate!,Dân lang thang làm sao? Tôi có thấy ai đâu! Talkie mau lại đây dịch hộ cái!
+lang_multi_text.db,MultiText,TWTPOI_60_1,{PlayerName}！深空测界台已经重建完成了吧！哎呀，太了不起了！,{PlayerName}! The Spacetrek Observatory is back online! That's absolutely incredible!,"{PlayerName}! Đài Quan Trắc Không Gian Sâu đã tái thiết xong rồi nhỉ! Trời ơi, tuyệt vời quá!"
+lang_multi_text.db,MultiText,TWTPOI_60_2,历经三个重建阶段，还把拉海洛的路网修复得畅通无阻，不愧是你呀，趁你忙碌的时候我查看了你的行动记录，全都实现了超越预期的成果！,"After all three phases of reconstruction, you even restored Lahai-Roi's route network! Every outcome exceeded our wildest expectations!","Trải qua ba giai đoạn tái thiết, lại còn sửa chữa mạng lưới đường sá của Lahai-Roi thông suốt, quả không hổ danh là cậu! Lúc cậu bận rộn, tớ đã xem lại nhật ký hành động của cậu, tất cả đều vượt xa kỳ vọng!"
+lang_multi_text.db,MultiText,TWTPOI_60_3,不过最后发生了有些危险的情况吧？还好没人受伤，结合你回传的失控重工铁蹄的信息，或许鸣式在拉海洛的影响比我们预期的还要深远……,"Though it got a bit dicey at the end, didn't it? Thank goodness no one was hurt. Combined with the data you sent about the rogue Ironhoof... it seems the Threnodian influence here might go deeper than we thought...","Nhưng cuối cùng đã xảy ra tình huống khá nguy hiểm đúng không? May mà không ai bị thương. Kết hợp với thông tin về Sắt Vó mất kiểm soát mà cậu gửi về, có lẽ ảnh hưởng của Minh Thức ở Lahai-Roi sâu rộng hơn chúng ta tưởng..."
+lang_multi_text.db,MultiText,TWTPOI_60_4,啊，还是不说这些了，你刚完成一件伟业，好好休息吧，辛苦了！,"Ah, but let's not dwell on that now! You've just achieved something truly great. Please take a well-deserved rest!","À, thôi không nói chuyện này nữa. Cậu vừa hoàn thành một kỳ công lớn, hãy nghỉ ngơi cho tốt nhé, vất vả rồi!"
+lang_multi_text.db,MultiText,TWTPOI_60_5,阿布的日常：睡,Abby's Life: Sleepy,Nhật thường của Abby: Buồn ngủ
+lang_multi_text.db,MultiText,TWTPOI_60_6,阿布的日常：好饱,Abby's Life: Tummy Full,Nhật thường của Abby: No bụng
+lang_multi_text.db,MultiText,TWTPOI_60_7,阿布的日常：睡,Abby's Life: Sleepy,Nhật thường của Abby: Buồn ngủ
+lang_multi_text.db,MultiText,TWTPOI_60_8,阿布的日常：好饱,Abby's Life: Tummy Full,Nhật thường của Abby: No bụng
+lang_multi_text.db,MultiText,TWTPOI_61_1,唉，我这是在做什么……,Ha... what am I even doing here?,"Haiz, mình đang làm gì thế này..."
+lang_multi_text.db,MultiText,TWTPOI_62_1,唉，我这是在做什么……,Ha… what am I even doing here?,"Haiz, mình đang làm gì thế này..."
+lang_multi_text.db,MultiText,TWTPOI_62_2,你是在帮助德莉珐。,You're helping Dhalifa.,Cậu đang giúp đỡ Dhalifa mà.
+lang_multi_text.db,MultiText,TWTPOI_62_3,{PlayerName}，你每次一开口就切中重点呀。,"Always straight to the point, huh, {PlayerName}.","{PlayerName}, lần nào cậu mở miệng cũng đi thẳng vào trọng điểm nhỉ."
+lang_multi_text.db,MultiText,TWTPOI_62_4,虽然我还是希望德莉珐离开这里，但如果她决心已定，我也不能再阻挠她了。,"I still want Dhalifa to come home, but since she's made up her mind, I'll respect it.","Dù tôi vẫn muốn Dhalifa rời khỏi đây, nhưng nếu cô ấy đã quyết tâm rồi, tôi cũng không thể cản trở thêm nữa."
+lang_multi_text.db,MultiText,TWTPOI_62_5,我会继续协助重建工程，或许真的能像她说的那样，在这过程里我能渐渐理解德莉珐的想法。,"I'll do what I can to help with the reconstruction. And maybe, like she said, I'll come to understand how she feels about it.","Tôi sẽ tiếp tục hỗ trợ công trình tái thiết. Biết đâu đúng như cô ấy nói, trong quá trình này tôi sẽ dần hiểu được suy nghĩ của Dhalifa."
+lang_multi_text.db,MultiText,TWTPOI_62_6,以及……真的很抱歉之前给你们添麻烦。,Also… I do feel regret for what I did.,Và... thực sự xin lỗi vì trước đó đã gây phiền phức cho các cậu.
+lang_multi_text.db,MultiText,TWTPOI_62_9,我经历了很多才得到了日灵的认可成为牧者，现在却又……唉，我会努力挽回的。,"I went through so much to earn the Soliskin's trust and become a Shepherdess, and now look at me… Sigh. I'll do everything I can to make it right.","Tôi đã trải qua bao nhiêu chuyện mới được tinh linh công nhận và trở thành mục giả, vậy mà giờ lại... haiz, tôi sẽ cố gắng chuộc lại."
+lang_multi_text.db,MultiText,TWTPOI_63_1,{PlayerName}，深空测界台重建完毕后，原先就在规划中的大气拟造阵列调节功能也实装了。,"{PlayerName}, now that the Spacetrek Observatory is fully operational, we've also activated the Sky Projection Array feature that was always part of the plan.","{PlayerName}, sau khi Đài Quan Trắc Không Gian Sâu tái thiết xong, chức năng điều chỉnh Mảng Mô Phỏng Khí Quyển vốn đã nằm trong kế hoạch cũng đã được triển khai."
+lang_multi_text.db,MultiText,TWTPOI_63_2,你可以用悬台上的驱动桩启动这功能，也可以用你的终端远程控制，快试试吧！,"You can control it directly from the drive pylons up on the Suspension Platform, or even from your own Terminal remotely. Go on, give it a try!","Cậu có thể dùng cọc dẫn động trên Nền Treo để kích hoạt chức năng này, hoặc điều khiển từ xa bằng thiết bị đầu cuối của cậu. Thử ngay đi nào!"
+lang_multi_text.db,MultiText,TWTPOI_64_1,能源输送异常，悬台工程定位装置关机，疑似电路破损。,Energy transmission error! Platform locator apparatus offline! Possible cause: circuit damage.,"Truyền tải năng lượng bất thường, thiết bị định vị công trình Nền Treo đã tắt, nghi ngờ mạch điện bị hỏng."
+lang_multi_text.db,MultiText,TWTPOI_65_1,（台阶上有撞击的痕迹，而且是来自很沉重的物体，载具，还是……隧群？）,"(There are dents on the stairs... from something really heavy. A vehicle, maybe? Or... maybe an Exoswarm?)","(Trên bậc thang có vết va đập, mà lại từ một vật rất nặng. Phương tiện, hay là... đàn ký sinh?)"
+lang_multi_text.db,MultiText,TWTPOI_66_1,（定位装置本身没有受损，只是能源传输受阻……）,"(The locator itself is fine, but the transmission circuit is affected...)","(Bản thân thiết bị định vị không bị hư hại, chỉ là việc truyền tải năng lượng bị cản trở...)"
+lang_multi_text.db,MultiText,TWTPOI_67_1,（为信号定位装置供能的线缆就是这条吧，沿着它找找看哪里出了问题。）,"(This must be the locator's power cable. If I follow it, I can find the break.)","(Dây cáp cấp năng lượng cho thiết bị định vị tín hiệu chắc là sợi này, đi dọc theo nó xem chỗ nào có vấn đề.)"
+lang_multi_text.db,MultiText,TWTPOI_68_1,（线缆被弄断了？现在修理它要很长时间，先用噼啪啪传输电力吧。）,(The cable's been cut?! No time to fix it now. Maybe I can use the Zip Zap to transmit the power instead.),"(Dây cáp bị đứt rồi sao? Giờ sửa chữa thì tốn nhiều thời gian lắm, dùng Bí Lí truyền điện trước vậy.)"
+lang_multi_text.db,MultiText,TWTPOI_68_2,（等悬台工程完成后再修复线缆。）,(I'll do a proper repair after the Platform Phase is up and running.),(Đợi công trình Nền Treo hoàn thành rồi hãy sửa lại dây cáp sau.)
+lang_multi_text.db,MultiText,TWTPOI_69_1,西侧定位装置恢复工作，东侧定位装置仍处于关机状态中。,Westside locator back online. Eastside locator still offline.,"Thiết bị định vị phía Tây đã hoạt động trở lại, thiết bị định vị phía Đông vẫn đang tắt."
+lang_multi_text.db,MultiText,TWTPOI_69_2,另一边的线缆也出问题了吧，我去看看。,Must be another cable issue. I'll go check it out.,"Chắc dây cáp bên kia cũng có vấn đề rồi, để tôi qua xem."
+lang_multi_text.db,MultiText,TWTPOI_6_1,朝德莉珐移动，朝德莉珐移动。,Find Dhalifa. Find Dhalifa.,"Di chuyển đến chỗ Dhalifa, di chuyển đến chỗ Dhalifa."
+lang_multi_text.db,MultiText,TWTPOI_6_10,这里负责观测和记录拉海洛，对吧？,"It was built to observe and record everything happening in Lahai-Roi, right?","Nơi này chịu trách nhiệm quan trắc và ghi chép Lahai-Roi, đúng không?"
+lang_multi_text.db,MultiText,TWTPOI_6_11,是的，虽然具体的功能会更复杂，但光是这两点就足以证明深空测界台对于拉海洛的重要性了！,"Yes, though its actual capabilities can do much more. You can imagine how important it is for Lahai-Roi!","Đúng vậy, dù chức năng thực tế còn phức tạp hơn nhiều, nhưng chỉ riêng hai điểm đó cũng đủ chứng minh Đài Quan Trắc Thâm Không quan trọng thế nào với Lahai-Roi rồi!"
+lang_multi_text.db,MultiText,TWTPOI_6_12,可深空联合的资源也很有限，无法全力修复这里，很是难办啊……,"The problem is, the Spacetrek Collective's resources are stretched thin. They can't fund a full rebuild. It's a real headache.","Nhưng nguồn lực của Liên Hợp Thâm Không cũng rất hạn hẹp, không thể dồn hết sức để sửa chữa nơi này, thật khó xử..."
+lang_multi_text.db,MultiText,TWTPOI_6_13,路网……,The route network...,Mạng lưới đường...
+lang_multi_text.db,MultiText,TWTPOI_6_14,如果拉海洛断开的路网能重新连接，我和拉科萨就能向各地寻求援助。,"""If we can restore Lahai-Roi's route network, Rakosan and I can request aid from other sectors.""","""Nếu mạng lưới đường bị đứt của Lahai-Roi có thể được nối lại, tôi và Rakosan sẽ có thể tìm kiếm sự hỗ trợ từ các nơi."""
+lang_multi_text.db,MultiText,TWTPOI_6_15,（观测和记录……这里的数据能帮到黑海岸，而修复路网对于我和拉海洛的居民来说更是意义非凡。）,(Observing and recording… The Observatory's data might prove useful to the Black Shores. And rebuilding the route network would benefit everyone in Lahai-Roi.),"(Quan trắc và ghi chép... Dữ liệu ở đây có thể giúp ích cho Bờ Biển Đen, còn việc sửa chữa mạng lưới đường thì vô cùng có ý nghĩa với tôi và cư dân Lahai-Roi.)"
+lang_multi_text.db,MultiText,TWTPOI_6_16,（还有，德莉珐的情况也令人在意。）,(Besides... I'm curious about Dhalifa's story.),"(Ngoài ra, tình trạng của Dhalifa cũng khiến tôi lo lắng.)"
+lang_multi_text.db,MultiText,TWTPOI_6_17,路网的修复就交给我吧。,"Leave it to me, then.",Việc sửa chữa mạng lưới đường cứ để tôi lo.
+lang_multi_text.db,MultiText,TWTPOI_6_18,真的吗！那太好了，修复道路时，深空联合会为你发放协联点数，用它去兑换你需要的物资吧。,Really? That'd be wonderful! The Spacetrek Collective will grant you Service Credit for your work. You can exchange them for whatever supplies you need.,"Thật sao! Vậy thì tuyệt quá, khi sửa chữa đường, Liên Hợp Thâm Không sẽ cấp cho cậu điểm Hiệp Liên, hãy dùng nó để đổi lấy vật tư cần thiết nhé."
+lang_multi_text.db,MultiText,TWTPOI_6_19,谢谢你……,Thank you...,Cảm ơn bạn...
+lang_multi_text.db,MultiText,TWTPOI_6_2,德莉珐……,Dhalifa...,Dhalifa...
+lang_multi_text.db,MultiText,TWTPOI_6_20,让资源通过路网送来这里，可现在我们连修复路网的人手都不够。德莉珐如是说！,"""Resources could flow in through the routes. But right now, we don't even have the manpower to fix the network ourselves,"" says Dhalifa!","Cho nguồn lực được chuyển đến đây qua mạng lưới đường, nhưng hiện tại chúng tôi thậm chí còn không đủ người để sửa chữa mạng lưới đường. Dhalifa nói như vậy!"
+lang_multi_text.db,MultiText,TWTPOI_6_3,谢谢你救了唠叨叨，我是德莉珐，曾在深空测界台的操作小组工作，现在和拉科萨一起进行深空测界台的重建。德莉珐如是说！,"""Thank you for saving Talkie. I'm Dhalifa, a former member of the Spacetrek Observatory's operations team. Now I'm working with Rakosan to rebuild it,"" says Dhalifa!","Cảm ơn bạn đã cứu Talkie, tôi là Dhalifa, từng làm việc trong tổ vận hành của Đài Quan Trắc Thâm Không, giờ đang cùng Rakosan tiến hành tái thiết Đài Quan Trắc Thâm Không. Dhalifa nói như vậy!"
+lang_multi_text.db,MultiText,TWTPOI_6_4,你好，我是拉科萨，原本干一些修修补补的工作，现在是深空测界台重建工程的主负责人。,"Hello, I'm Rakosan. Used to be just a repair guy around here, but now I'm the one leading the Observatory's reconstruction project.","Xin chào, tôi là Rakosan, trước đây làm mấy việc sửa chữa vặt vãnh, giờ là người phụ trách chính dự án tái thiết Đài Quan Trắc Thâm Không."
+lang_multi_text.db,MultiText,TWTPOI_6_5,如你所见，德莉珐需要唠叨叨的辅助才能传达自己的想法，幸好有你帮忙。,"As you can see, Dhalifa has a hard time communicating without Talkie around... so, thank you for bringing it back.","Như cậu thấy đấy, Dhalifa cần sự hỗ trợ của Talkie mới có thể truyền đạt suy nghĩ của mình, may mà có cậu giúp đỡ."
+lang_multi_text.db,MultiText,TWTPOI_6_6,德莉珐怎么了？,What happened to Dhalifa?,Dhalifa bị sao vậy?
+lang_multi_text.db,MultiText,TWTPOI_6_7,几年前虚质磁暴摧毁深空测界台时，她就在这里，所以……,"She was here when the Void Storm hit years ago. It, uh... it left its mark.","Mấy năm trước, khi bão từ hư chất phá hủy Đài Quan Trắc Thâm Không, cô ấy đang ở đây, nên..."
+lang_multi_text.db,MultiText,TWTPOI_6_8,深空测界台……,The Spacetrek Observatory...,Đài Quan Trắc Thâm Không...
+lang_multi_text.db,MultiText,TWTPOI_6_9,这不算什么，现在我有唠叨叨帮忙，对话和行动都没问题，更重要的是我想把深空测界台修好，拉海洛很需要它。德莉珐如是说！,"""It's alright. With Talkie's help, I can work and speak just fine. The important thing is getting the Observatory back online. Lahai-Roi needs it,"" says Dhalifa!","Không có gì đâu, giờ tôi có Talkie giúp đỡ, nói chuyện và hành động đều không vấn đề gì, quan trọng hơn là tôi muốn sửa lại Đài Quan Trắc Thâm Không, Lahai-Roi rất cần nó. Dhalifa nói như vậy!"
+lang_multi_text.db,MultiText,TWTPOI_70_1,流民？是他们搞的破坏？还是想趁火打劫？,Outcasts? Are they the ones who sabotaged this? Or were they scavenging scraps?,Dân lang thang? Là bọn họ phá hoại sao? Hay là muốn thừa nước đục thả câu?
+lang_multi_text.db,MultiText,TWTPOI_71_1,唠叨叨，检测一下测界台里还有没有流民，如果想袭击这里，不会就来这么几个人的。,"Talkie, scan the area for more Outcasts. If they're planning an attack, they wouldn't send just a handful.","Lải Nhải, kiểm tra xem trong đài quan trắc còn dân lang thang nào không. Nếu muốn tấn công chỗ này, chắc chắn không chỉ đến có mấy người thôi đâu."
+lang_multi_text.db,MultiText,TWTPOI_71_2,检测中——发——,Scanning now—Targets fou—,Đang kiểm tra-- Phát hiện--
+lang_multi_text.db,MultiText,TWTPOI_71_3,{PlayerName}！西北角。瑟普。流民！,{PlayerName}! Northwest sector! Sephira! Outcasts!,{PlayerName}! Góc Tây Bắc. Sephira. Dân lang thang!
+lang_multi_text.db,MultiText,TWTPOI_71_4,德莉珐？明白了，我马上过去。,Dhalifa? Copy that. I'm on my way!,"Dhalifa? Hiểu rồi, tôi qua ngay."
+lang_multi_text.db,MultiText,TWTPOI_72_1,喂，瑟普！多亏你吸引了他们的注意力！,"Hey, Sephira! Always had a flair for chaos, didn't you?","Này, Sephira! May mà cậu thu hút được sự chú ý của bọn chúng!"
+lang_multi_text.db,MultiText,TWTPOI_72_2,就算成了牧者，你也是本性难移啊！,Some Shepherdess you are! You haven't changed a bit!,Dù có thành người chăn dắt rồi thì bản tính cũng chẳng đổi được đâu!
+lang_multi_text.db,MultiText,TWTPOI_73_1,你们怎么来了？快住手！,Why are you here? Stop it!,Sao các người lại đến đây? Dừng lại ngay!
+lang_multi_text.db,MultiText,TWTPOI_74_1,喂，瑟普！你自己搞的破坏，还要别人帮你收拾烂摊子吗？,"What now, Sephira? Expecting others to clean up your mess again?","Này, Sephira! Tự mình phá rồi lại bắt người khác dọn hậu quả cho cậu hả?"
+lang_multi_text.db,MultiText,TWTPOI_74_2,……,...,...
+lang_multi_text.db,MultiText,TWTPOI_75_1,{PlayerName}……,{PlayerName}...,{PlayerName}...
+lang_multi_text.db,MultiText,TWTPOI_75_2,瑟普，你没事吧。,"Are you alright, Sephira?","Sephira, cậu không sao chứ."
+lang_multi_text.db,MultiText,TWTPOI_75_3,我……,"I, um...",Tôi...
+lang_multi_text.db,MultiText,TWTPOI_75_4,那些流民，说的话，是真的吗？,What those just said... is that true?,"Những người lang thang kia nói, có phải là thật không?"
+lang_multi_text.db,MultiText,TWTPOI_75_5,德莉珐知道你被流民袭击的时候很担心你，一会就要赶过来了。,Dhalifa is on her way. She was really worried when she heard you were attacked.,"Dhalifa nghe tin cậu bị tấn công thì lo lắng lắm, lát nữa sẽ chạy đến ngay."
+lang_multi_text.db,MultiText,TWTPOI_75_6,不行，我不想见她，我要……我赶紧——,No… I can't face her right now. I need to... I must—,"Không được, tôi không muốn gặp cô ấy, tôi phải... tôi phải nhanh--"
+lang_multi_text.db,MultiText,TWTPOI_75_7,当面和她说吧。,You can tell her yourself.,Hãy nói trực tiếp với cô ấy đi.
+lang_multi_text.db,MultiText,TWTPOI_75_8,德莉珐等人赶来后，从你口中了解了袭击的原委。,"Dhalifa and the others arrive, learning what happened from you.","Sau khi Dhalifa và mọi người chạy đến, họ đã nghe bạn kể lại đầu đuôi vụ tấn công."
+lang_multi_text.db,MultiText,TWTPOI_76_1,检测到新的电力输送损坏点，建议携带噼啪啪协助修复！,New power supply damage detected. Recommendation: use the Zip Zap for repairs!,"Phát hiện điểm hư hỏng đường truyền điện mới, khuyến nghị mang theo Tí Tách hỗ trợ sửa chữa!"
+lang_multi_text.db,MultiText,TWTPOI_76_2,稍等，我调查一下这里的情况，噼啪啪怎么会跑到这里？,"Hold on, let me figure this out first... Why would Zip Zaps show up here?","Khoan đã, để tôi xem tình hình ở đây trước. Sao Tí Tách lại chạy ra đây được nhỉ?"
+lang_multi_text.db,MultiText,TWTPOI_77_1,能源转换阵列的储能装置被钝器破坏……那噼啪啪是被漏出的电能吸引来的？,Looks like the energy storage unit of the conversion array was struck by something blunt... So those Zip Zaps were attracted to the power leak?,Thiết bị tích năng của mảng chuyển đổi năng lượng bị phá hỏng bằng vật cứng... Vậy là Tí Tách bị thu hút bởi dòng điện rò rỉ ra sao?
+lang_multi_text.db,MultiText,TWTPOI_78_1,正在前往新的损坏点，正在前往新的损坏点。,Heading to new damage point. Heading to new damage point.,"Đang di chuyển đến điểm hư hỏng mới, đang di chuyển đến điểm hư hỏng mới."
+lang_multi_text.db,MultiText,TWTPOI_79_1,说到这个，为了一直以来辛苦工作的你，我准备了一些礼物，跟我来吧！,"Oh, that reminds me! I've got some gifts to thank you for all your hard work. Come with me!","Nói đến đây, để cảm ơn cậu vì bấy lâu nay đã làm việc vất vả, tôi đã chuẩn bị một vài món quà. Đi theo tôi nào!"
+lang_multi_text.db,MultiText,TWTPOI_7_1,{PlayerName}……,{PlayerName}...,{PlayerName}...
+lang_multi_text.db,MultiText,TWTPOI_80_1,来的时候我们走的朔尔之挽，回去的时候换条路？,We came here via Sol's Embrace. Should we take a different route back?,"Lúc đến chúng ta đi qua Sol's Embrace, lúc về đổi đường khác nhé?"
+lang_multi_text.db,MultiText,TWTPOI_80_2,好，走深光大桥看看风景吧，从那里也能回浮光林。,"Sure. The view from the Spacetrek–Bjartr Bridge is beautiful, and it'll take us right back to the Bjartr Woods.","Được, đi qua cầu Spacetrek–Bjartr ngắm cảnh đi, từ đó cũng về được Bjartr Woods."
+lang_multi_text.db,MultiText,TWTPOI_81_1,德莉珐姐姐！你回来啦！,Dhalifa! You're back!,Chị Dhalifa! Chị về rồi!
+lang_multi_text.db,MultiText,TWTPOI_81_2,德莉珐？你的病好了？,Dhalifa? Are you recovered now?,Dhalifa? Bệnh của cô đã khỏi rồi sao?
+lang_multi_text.db,MultiText,TWTPOI_82_1,爸爸，妈妈，别担心，我们永远不会忘记你们。,"Ma, Pa, don't worry. We'll always remember you.","Bố, mẹ, đừng lo, chúng con sẽ không bao giờ quên bố mẹ đâu."
+lang_multi_text.db,MultiText,TWTPOI_82_2,虚质磁暴抹不去我们的感情……,The Void Storm will never take away the bond between us...,Bão Hư Chất không thể xóa nhòa tình cảm của chúng ta...
+lang_multi_text.db,MultiText,TWTPOI_83_1,哇，太好玩啦，我还要再玩一次！,"Whoa, that was so much fun! Let me try again!","Woa, vui quá, cho con chơi thêm lần nữa!"
+lang_multi_text.db,MultiText,TWTPOI_83_2,不行，轮到我啦，我要骑上去！,My turn now! Let me ride it!,"Không được, đến lượt mình rồi, mình muốn leo lên!"
+lang_multi_text.db,MultiText,TWTPOI_8_1,{PlayerName}……,{PlayerName}...,{PlayerName}...
+lang_multi_text.db,MultiText,TWTPOI_8_10,我靠在麋鹿上，听爸爸说深空联合送来的特效药很有用，听妈妈说我很快就会有一个弟弟或妹妹，接着，就听到毁天灭地般的轰鸣。德莉珐如是说！,"""I was leaning against a mech reindeer, and Pa was saying how the Spacetrek Collective's medicine was working well. Ma was saying I'd soon have a little brother or sister. And then... that familiar roar sounded,"" says Dhalifa!","Tôi tựa vào con tuần lộc máy, nghe bố nói thuốc đặc trị từ Liên Hợp Thâm Không gửi đến rất hiệu quả, nghe mẹ nói tôi sắp có em trai hoặc em gái, rồi sau đó... tiếng gầm rung trời chuyển đất vang lên. Dhalifa đã nói như vậy!"
+lang_multi_text.db,MultiText,TWTPOI_8_11,共鸣能力……,My Forte...,Năng lực Cộng Hưởng...
+lang_multi_text.db,MultiText,TWTPOI_8_12,等我醒来时，身上的伤口被隧群零件填补，医生说我的共鸣能力有超频迹象，或许是吸收了隧群零件，并且耗尽了它们的机能，这才勉强活下来。德莉珐如是说！,"""When I came to my senses, Exoswarm material covered all the places I was injured. The doc said I might've Overclocked my Forte. I think... I must have used it to absorb the Exoswarm's components, stealing its functions. That's how I managed to survive,"" says Dhalifa!","Khi tôi tỉnh dậy, vết thương trên người đã được lấp đầy bởi các mảnh Exoswarm. Bác sĩ nói Năng lực Cộng Hưởng của tôi có dấu hiệu Vượt Tần, có lẽ đã hấp thụ các bộ phận của Exoswarm và dùng cạn năng lượng của chúng, nhờ vậy mới sống sót được. Dhalifa đã nói như vậy!"
+lang_multi_text.db,MultiText,TWTPOI_8_13,只有我，一人……,Only me...,"Chỉ có mình tôi, một mình..."
+lang_multi_text.db,MultiText,TWTPOI_8_14,只有我自己，活下来了。德莉珐……如是说……,"""I was the only survivor. Only me..."" says Dhalifa.",Chỉ có mình tôi... sống sót. Dhalifa... đã nói như vậy...
+lang_multi_text.db,MultiText,TWTPOI_8_15,应该说，幸好还有你活下来了。,Don't feel guilty. It's a good thing you survived.,"Nên nói là, may mà còn có cậu sống sót."
+lang_multi_text.db,MultiText,TWTPOI_8_16,谢谢……,Thank you...,Cảm ơn...
+lang_multi_text.db,MultiText,TWTPOI_8_17,我还想问些别的。,I have other questions to ask.,Tôi còn muốn hỏi vài điều khác.
+lang_multi_text.db,MultiText,TWTPOI_8_18,唠叨叨……,Talkie...,Talkie...
+lang_multi_text.db,MultiText,TWTPOI_8_19,遭遇虚质磁暴后，我在星炬学院里休养了一段时间，唠叨叨一直陪在我身边担任护工。德莉珐如是说！,"""After the Void Storm, I recovered at Startorch Academy. That's where I met Talkie. It's been by my side ever since,"" says Dhalifa!","Sau khi gặp nạn trong trận Bão Hư Chất, tôi đã nghỉ dưỡng một thời gian tại Học Viện Startorch, Talkie luôn ở bên cạnh tôi làm người chăm sóc. Dhalifa đã nói như vậy!"
+lang_multi_text.db,MultiText,TWTPOI_8_2,需要帮助吗？为了深空测界台能顺利修复，尽管开口吧。德莉珐如是说！,"""Need a hand? Just say the word! We're all in this to get the Observatory back on its feet!"" says Dhalifa!","Có cần giúp gì không? Để việc sửa chữa Đài Quan Trắc Thâm Không được suôn sẻ, cứ nói thẳng nhé. Dhalifa đã nói như vậy!"
+lang_multi_text.db,MultiText,TWTPOI_8_20,朋友……,Friend...,Bạn...
+lang_multi_text.db,MultiText,TWTPOI_8_21,后来，它为了提醒重载者货车避开行动缓慢的我，跳到车头前被撞到水里，等捞上岸后，它的损伤已经很难修复。德莉珐如是说！,"""One day, it jumped in front of a Hauler to warn it away from me. Got knocked into the water. By the time they got it out, the damage was extensive,"" says Dhalifa!","Sau đó, để nhắc xe tải Hauler tránh tôi vì tôi đi chậm, nó đã nhảy ra trước đầu xe và bị húc xuống nước. Khi vớt lên bờ, nó đã hỏng nặng đến mức rất khó sửa. Dhalifa đã nói như vậy!"
+lang_multi_text.db,MultiText,TWTPOI_8_22,连接……,Connected...,Kết nối...

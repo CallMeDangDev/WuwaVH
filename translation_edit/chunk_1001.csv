@@ -1,157 +1,193 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ItemInfo_70140013_BgDescription,她将群星遍览，时空穷尽，只有这一颗星星始终流转在她指尖，直至此刻，群星绽放为一朵映照永恒夜空的花，用以照亮海岸的归途。侧耳倾听时，还能听到些许她的回响。,"She has seen all the stars, journeying to the end of time and space and back. This gleaming star kept her company, a speck of blooming stardust illuminating the night sky and guiding her way home. Listen closely to hear echoes of her prescence.","Nàng đã duyệt khắp quần tinh, tận cùng thời không, chỉ có ngôi sao này mãi lưu chuyển trên đầu ngón tay nàng. Cho đến khoảnh khắc này, quần tinh nở thành một đóa hoa chiếu rọi bầu trời đêm vĩnh hằng, soi sáng con đường trở về bờ biển. Lắng tai nghe, còn có thể nghe được chút hồi vọng của nàng."
-lang_multi_text.db,MultiText,ItemInfo_70140013_Name,“群星”,"""Starlight""","""Quần Tinh"""
-lang_multi_text.db,MultiText,ItemInfo_70140013_ObtainedShowDescription,寄宿着黑海岸真正最高权限的黑花。,A Blake Bloom that symbolizes the supreme authority of the Black Shores,Hắc Hoa mang trong mình quyền hạn tối cao thực sự của Hắc Hải Ngạn.
-lang_multi_text.db,MultiText,ItemInfo_70140014_AttributesDescription,存储着黑海岸大商人库默尼私人音乐收藏的播放器。,A music player in which the Black Shores merchant KU-Money keeps a playlist of personal favorites.,Máy phát nhạc lưu trữ bộ sưu tập âm nhạc cá nhân của đại thương nhân Hắc Hải Ngạn - KU-Money.
-lang_multi_text.db,MultiText,ItemInfo_70140014_BgDescription,即便是日理万金的商人，也会在闲暇时听听音乐放松一下，当然，这个播放器的价值，现在该由你来评估了。,"Even a merchant who handles millions every day listens to music to relax. Of course, it's up to you to decide what the value of this music player is.","Dù là thương nhân bận rộn kiếm tiền cả ngày, cũng cần nghe nhạc thư giãn lúc rảnh rỗi. Tất nhiên, giá trị của chiếc máy phát này, giờ đây do cậu định đoạt."
-lang_multi_text.db,MultiText,ItemInfo_70140014_Name,库默尼特选私人收藏,KU-Money's Personal Collection,Bộ Sưu Tập Riêng Tuyển Chọn Của KU-Money
-lang_multi_text.db,MultiText,ItemInfo_70140014_ObtainedShowDescription,存储着黑海岸大商人库默尼私人音乐收藏的播放器。,A music player in which the Black Shores merchant KU-Money keeps a playlist of personal favorites.,Máy phát nhạc lưu trữ bộ sưu tập âm nhạc cá nhân của đại thương nhân Hắc Hải Ngạn - KU-Money.
-lang_multi_text.db,MultiText,ItemInfo_70140015_AttributesDescription,为黑海岸指示各地岁主状态的装置，编号为HL-1，显示状态为0。,A device used by the Black Shores to monitor the status of each of the Sentinels. This model bears the serial HL-1. The meter reads 0.,"Thiết bị chỉ thị trạng thái Tuế Chủ các nơi cho Hắc Hải Ngạn, số hiệu HL-1, trạng thái hiển thị là 0."
-lang_multi_text.db,MultiText,ItemInfo_70140015_BgDescription,作为对抗悲鸣与鸣式主要力量的岁主，黑海岸有义务确保索拉里斯各地的岁主们保持较好的状态——只不过似乎也有一些办法，能够欺骗黑海岸的侦测。,"It is the Black Shores' duty to monitor the Sentinels, who are at the forefront of keeping the Lament and Threnodians at bay—yet it seems some have found ways to evade their surveillance.","Là lực lượng chủ yếu đối kháng Bi Minh và Minh Thức, các Tuế Chủ luôn được Hắc Hải Ngạn có trách nhiệm đảm bảo duy trì trạng thái tốt trên khắp Solaris - chỉ là dường như cũng có một số cách có thể qua mặt hệ thống dò tìm của Hắc Hải Ngạn."
-lang_multi_text.db,MultiText,ItemInfo_70140015_Name,编号HL-1,Model HL-1,Số hiệu HL-1
-lang_multi_text.db,MultiText,ItemInfo_70140015_ObtainedShowDescription,为黑海岸指示各地岁主状态的装置。,A device used by the Black Shores to monitor the status of each of the Sentinels.,Thiết bị chỉ thị trạng thái Tuế Chủ các nơi cho Hắc Hải Ngạn.
-lang_multi_text.db,MultiText,ItemInfo_70140016_AttributesDescription,岁主「英白拉多」封存了自己部分力量的神剑，也是选定祂的共鸣者的共鸣仪具。,"A blade sealed with the very powers of Sentinel Imperator, and the artifact used to select Their Resonator.","Thần kiếm phong ấn một phần sức mạnh của Tuế Chủ ""Imperator"", đồng thời cũng là cộng hưởng nghi cụ dùng để chọn Cộng Hưởng Giả cho Ngài."
-lang_multi_text.db,MultiText,ItemInfo_70140016_BgDescription,"神权剑——「提尔芬」。
-岁主「英白拉多」封存了自己部分力量的神剑，也是选定祂的共鸣者的共鸣仪具。
-靠近它似乎能隐约听到风的呼啸。","The Sword of Divinity—""Tyrvine.""
+lang_multi_text.db,MultiText,ItemInfo_50010025_ObtainedShowDescription,"开启后可获得声骸。
+获得的声骸其合鸣效果为命理崩毁之弦。
+3件套：角色为敌人添加【虚湮效应】时，自身攻击提升20%，共鸣解放伤害加成提升30%，持续5秒。","Open to obtain a random Echo of the following Sonata Effect: Thread of Severed Fate.
+ 
+3pcs Set: Inflicting Havoc Bane increases the Resonator's ATK by 20% and grants 30% Resonance Liberation DMG Bonus for 5s.","Mở ra để nhận Thanh Hài.
+Thanh Hài nhận được có hiệu ứng Hợp Minh: Dây Mệnh Sụp Đổ.
+3 món: Khi nhân vật gây [Hiệu Ứng Hư Yên] lên kẻ địch, tấn công bản thân tăng 20%, sát thương Giải Phóng Cộng Hưởng tăng 30%, kéo dài 5 giây."
+lang_multi_text.db,MultiText,ItemInfo_50010026_AttributesDescription,"开启后可获得声骸。
+获得的声骸其合鸣效果为长路启航之星。
+2件套：热熔伤害提升10%。
+5件套：角色为敌人添加【聚爆效应】或【震谐·偏移】时，自身暴击提升20%，热熔伤害提升20%，持续8秒。","Open to obtain a random Echo of the following Sonata Effect: Trailblazing Star.
 
-A blade sealed with the very powers of Sentinel Imperator, and the artifact used to select Their Resonator.
+2pcs Set: Fusion DMG +10%.
 
-Approach it, and you might hear the faint howling of the wind.","Thần Quyền Kiếm - ""Tyrvine"".
-Thần kiếm phong ấn một phần sức mạnh của Tuế Chủ ""Imperator"", đồng thời cũng là cộng hưởng nghi cụ dùng để chọn Cộng Hưởng Giả cho Ngài.
-Đến gần nó, dường như có thể nghe thấy mơ hồ tiếng gió gào thét."
-lang_multi_text.db,MultiText,ItemInfo_70140016_Name,「提尔芬」,Tyrvine,"""Tyrvine"""
-lang_multi_text.db,MultiText,ItemInfo_70140016_ObtainedShowDescription,岁主「英白拉多」封存了自己部分力量的神剑。,A blade sealed with the very powers of Sentinel Imperator.,"Thần kiếm phong ấn một phần sức mạnh của Tuế Chủ ""Imperator""."
-lang_multi_text.db,MultiText,ItemInfo_70140017_AttributesDescription,长剑上散发着如深海般幽邃的气息。,The blade exudes an aura as deep and mysterious as the abyss of the sea.,Trường kiếm tỏa ra khí tức u thâm như đáy biển sâu.
-lang_multi_text.db,MultiText,ItemInfo_70140017_BgDescription,"异权剑——「赫格利」
-无人知晓来历的长剑，根据卡提希娅的记忆，似乎是解开颠倒塔封印的关键道具。
-长剑上散发着如深海般幽邃的气息。","The Sword of Discord—Hognis.
+5pcs Set: Inflicting Fusion Burst or Tune Rupture - Shifting on the enemies increases the Resonator's Crit. Rate and Fusion DMG by 20% for 8s.","Mở ra để nhận Thanh Hài.
+Thanh Hài nhận được có hiệu ứng Hợp Minh: Ngôi Sao Khởi Hành.
+2 món: Sát thương Hỏa Liệt tăng 10%.
+5 món: Khi nhân vật gây [Hiệu Ứng Tụ Bạo] hoặc [Chấn Hài - Lệch] lên kẻ địch, tỷ lệ bạo kích bản thân tăng 20%, sát thương Hỏa Liệt tăng 20%, kéo dài 8 giây."
+lang_multi_text.db,MultiText,ItemInfo_50010026_Name,未完型的长路启航之星,Morphable Echo - Trailblazing Star,Ngôi Sao Khởi Hành Chưa Hoàn Chỉnh
+lang_multi_text.db,MultiText,ItemInfo_50010026_ObtainedShowDescription,"开启后可获得声骸。
+获得的声骸其合鸣效果为长路启航之星。
+2件套：热熔伤害提升10%。
+5件套：角色为敌人添加【聚爆效应】或【震谐·偏移】时，自身暴击提升20%，热熔伤害提升20%，持续8秒。","Open to obtain a random Echo of the following Sonata Effect: Trailblazing Star.
 
-A blade of unknown origin. According to Cartethyia, it seems to be the key to unraveling the seal in the Inverted Tower.
+2pcs Set: Fusion DMG +10%.
 
-It exudes an aura as deep and mysterious as the abyss of the sea.","Dị Quyền Kiếm - ""Hognis"".
-Trường kiếm không ai biết lai lịch, theo ký ức của Cartethyia, dường như là đạo cụ then chốt để giải phong ấn Tháp Điên Đảo.
-Trường kiếm tỏa ra khí tức u thâm như đáy biển sâu."
-lang_multi_text.db,MultiText,ItemInfo_70140017_Name,「赫格利」,Hognis,"""Hognis"""
-lang_multi_text.db,MultiText,ItemInfo_70140017_ObtainedShowDescription,无人知晓来历的长剑，根据卡提希娅的记忆，似乎是解开颠倒塔封印的关键道具。,"A blade of unknown origin. According to Cartethyia, it seems to be the key to unraveling the seal in the Inverted Tower.","Trường kiếm không ai biết lai lịch, theo ký ức của Cartethyia, dường như là đạo cụ then chốt để giải phong ấn Tháp Điên Đảo."
-lang_multi_text.db,MultiText,ItemInfo_70140018_AttributesDescription,长剑上没有丝毫岁月的痕迹。,A blade that bears no traces of time.,Trường kiếm không mang chút dấu vết nào của thời gian.
-lang_multi_text.db,MultiText,ItemInfo_70140018_BgDescription,"人权剑——「奥特尔」
-卡提希娅曾经的佩剑，如今解开封印的关键之一。","The Sword of Virtue—Haultir.
+5pcs Set: Inflicting Fusion Burst or Tune Rupture - Shifting on the enemies increases the Resonator's Crit. Rate and Fusion DMG by 20% for 8s.","Mở ra để nhận Thanh Hài.
+Thanh Hài nhận được có hiệu ứng Hợp Minh: Ngôi Sao Khởi Hành.
+2 món: Sát thương Hỏa Liệt tăng 10%.
+5 món: Khi nhân vật gây [Hiệu Ứng Tụ Bạo] hoặc [Chấn Hài - Lệch] lên kẻ địch, tỷ lệ bạo kích bản thân tăng 20%, sát thương Hỏa Liệt tăng 20%, kéo dài 8 giây."
+lang_multi_text.db,MultiText,ItemInfo_50010027_AttributesDescription,"开启后可获得声骸。
+获得的声骸其合鸣效果为斑驳粉饰之沫。
+2件套：热熔伤害提升10%。
+5件套：角色为敌人添加【聚爆效应】时，自身获得下述效果：热熔伤害提升10%，持续15秒。持续期间内施放延奏技能后，下一个变奏技能登场的角色热熔伤害提升25%，持续15秒，若切换至其他角色则该效果提前结束。","Open to obtain a random Echo of the following Sonata Effect: Chromatic Foam.
+ 
+2pcs Set: Fusion DMG +10%.
+ 
+5pcs Set: When the Resonator inflicts Fusion Burst on the enemies, they gain the following effects: Fusion DMG is increased by 10% for 15s. While this effect is active, casting Outro Skill increases the incoming Resonator's Fusion DMG by 25% for 15s or until they're switched out.","Mở ra để nhận Thanh Hài.
+Thanh Hài nhận được có hiệu ứng Hợp Minh: Bọt Sắc Loang Lổ.
+2 món: Sát thương Hỏa Liệt tăng 10%.
+5 món: Khi nhân vật gây [Hiệu Ứng Tụ Bạo] lên kẻ địch, bản thân nhận được hiệu ứng sau: Sát thương Hỏa Liệt tăng 10%, kéo dài 15 giây. Trong thời gian hiệu lực, sau khi thi triển kỹ năng Hiệp Tấu, nhân vật tiếp theo đăng trường bằng kỹ năng Biến Tấu được tăng 25% sát thương Hỏa Liệt, kéo dài 15 giây. Nếu chuyển sang nhân vật khác thì hiệu ứng kết thúc sớm."
+lang_multi_text.db,MultiText,ItemInfo_50010027_Name,未完型的斑驳粉饰之沫,Morphable Echo - Chromatic Foam,Bọt Sắc Loang Lổ Chưa Hoàn Chỉnh
+lang_multi_text.db,MultiText,ItemInfo_50010027_ObtainedShowDescription,"开启后可获得声骸。
+获得的声骸其合鸣效果为斑驳粉饰之沫。
+2件套：热熔伤害提升10%。
+5件套：角色为敌人添加【聚爆效应】时，自身获得下述效果：热熔伤害提升10%，持续15秒。持续期间内施放延奏技能后，下一个变奏技能登场的角色热熔伤害提升25%，持续15秒，若切换至其他角色则该效果提前结束。","Open to obtain a random Echo of the following Sonata Effect: Chromatic Foam.
+ 
+2pcs Set: Fusion DMG +10%.
+ 
+5pcs Set: When the Resonator inflicts Fusion Burst on the enemies, they gain the following effects: Fusion DMG is increased by 10% for 15s. While this effect is active, casting Outro Skill increases the incoming Resonator's Fusion DMG by 25% for 15s or until they're switched out.","Mở ra để nhận Thanh Hài.
+Thanh Hài nhận được có hiệu ứng Hợp Minh: Bọt Sắc Loang Lổ.
+2 món: Sát thương Hỏa Liệt tăng 10%.
+5 món: Khi nhân vật gây [Hiệu Ứng Tụ Bạo] lên kẻ địch, bản thân nhận được hiệu ứng sau: Sát thương Hỏa Liệt tăng 10%, kéo dài 15 giây. Trong thời gian hiệu lực, sau khi thi triển kỹ năng Hiệp Tấu, nhân vật tiếp theo đăng trường bằng kỹ năng Biến Tấu được tăng 25% sát thương Hỏa Liệt, kéo dài 15 giây. Nếu chuyển sang nhân vật khác thì hiệu ứng kết thúc sớm."
+lang_multi_text.db,MultiText,ItemInfo_50010028_AttributesDescription,"开启后可获得声骸。
+获得的声骸其合鸣效果为听唤语义之愿。
+2件套：气动伤害提升10%。
+5件套：角色造成声骸技能伤害时，声骸技能伤害的暴击提升20%，自身气动伤害提升15%，持续5秒。","Open to obtain a random Echo of the following Sonata Effect: Sound of Ture Name.
 
-This sword once belonging to Cartethyia has now become one of the keys to unraveling the seal.","Nhân Quyền Kiếm - ""Haultir"".
-Thanh kiếm Cartethyia từng đeo bên mình, nay là một trong những chìa khóa giải phong ấn."
-lang_multi_text.db,MultiText,ItemInfo_70140018_Name,「奥特尔」,Haultir,"""Haultir"""
-lang_multi_text.db,MultiText,ItemInfo_70140018_ObtainedShowDescription,卡提希娅曾经的佩剑，如今解开封印的关键之一。,This sword once belonging to Cartethyia has now become one of the keys to unraveling the seal.,"Thanh kiếm Cartethyia từng đeo bên mình, nay là một trong những chìa khóa giải phong ấn."
-lang_multi_text.db,MultiText,ItemInfo_70140021_AttributesDescription,烟花摊出售的特制爆竹。装备到探索工具后，能够投出爆竹，对敌人造成伤害。（只能在【月华如愿】活动期间使用，并会在活动结束时从背包中移除。）,"A special firecracker sold at the Fireworks Shop. After equipping this to Utility, you can throw firecrackers to damage enemies. (Only available during the ""By Moon's Grace"" Event and will be removed from Backpack after the Event ends.)","Pháo đặc biệt được bán tại quầy pháo hoa. Sau khi trang bị vào công cụ khám phá, có thể ném pháo gây sát thương cho kẻ địch. (Chỉ sử dụng được trong sự kiện [Nguyệt Hoa Như Nguyện], và sẽ bị xóa khỏi ba lô khi sự kiện kết thúc.)"
-lang_multi_text.db,MultiText,ItemInfo_70140021_BgDescription,使用西沙所找到的秘方所制造的特殊鞭炮。威力强劲，声音洪亮，请务必在远离人群的地方燃放。,A special firecracker made by following a secret blueprint found in Xisha. Refrain from using this in crowded areas as it is both powerful and loud.,"Pháo đặc biệt được chế tạo theo bí phương mà Xisha tìm được. Uy lực mạnh mẽ, âm thanh vang dội, xin hãy đốt ở nơi cách xa đám đông."
-lang_multi_text.db,MultiText,ItemInfo_70140021_Name,震天雷,Skyshaker,Chấn Thiên Lôi
-lang_multi_text.db,MultiText,ItemInfo_70140021_ObtainedShowDescription,烟花摊出售的特制爆竹。装备到探索工具后，能够投出爆竹，对敌人造成伤害。（只能在【月华如愿】活动期间使用，并会在活动结束时从背包中移除。）,"A special firecracker sold at the Fireworks Shop. After equipping this to Utility, you can throw firecrackers to damage enemies. (Only available during the ""By Moon's Grace"" Event and will be removed from Backpack after the Event ends.)","Pháo đặc biệt được bán tại quầy pháo hoa. Sau khi trang bị vào công cụ khám phá, có thể ném pháo gây sát thương cho kẻ địch. (Chỉ sử dụng được trong sự kiện [Nguyệt Hoa Như Nguyện], và sẽ bị xóa khỏi ba lô khi sự kiện kết thúc.)"
-lang_multi_text.db,MultiText,ItemInfo_70140022_AttributesDescription,折枝为你所画的折扇。,A folding fan that Zhezhi painted for you.,Chiếc quạt gấp mà Zhezhi đã vẽ tặng bạn.
-lang_multi_text.db,MultiText,ItemInfo_70140022_BgDescription,折枝所绘制的扇面。将美好的事物与瞬间在画面上定格，构成她的愿望——希望你在看到这幅扇面时能够回忆起这份美好，不论何时何地。,Zhezhi's painting on this fan captures everything that is beautiful about this moment forever. It is her wish that you will recall this beautiful moment when you see this fan no matter where you are.,"Mặt quạt do Zhezhi vẽ. Cô lưu giữ những điều tươi đẹp và khoảnh khắc đáng nhớ trên bức họa, gửi gắm nguyện vọng - mong rằng khi nhìn thấy chiếc quạt này, bạn sẽ nhớ lại những khoảnh khắc tốt đẹp ấy, bất kể ở nơi đâu, vào lúc nào."
-lang_multi_text.db,MultiText,ItemInfo_70140022_Name,《此间烟火》,The Present,"""Thử Gian Yên Hỏa"""
-lang_multi_text.db,MultiText,ItemInfo_70140022_ObtainedShowDescription,折枝为你所画的折扇。,A folding fan that Zhezhi painted for you.,Chiếc quạt gấp mà Zhezhi đã vẽ tặng bạn.
-lang_multi_text.db,MultiText,ItemInfo_70140023_AttributesDescription,追月节时家家户户都会准备的糕点。,A cake made by every household during the Moon-Chasing Festival.,Loại bánh mà nhà nhà đều chuẩn bị trong Tết Truy Nguyệt.
-lang_multi_text.db,MultiText,ItemInfo_70140023_BgDescription,稚童从大人手中接过糕点，跑到桂树底下照月亮；老人又接过稚童递来的祝福，将追月的故事讲述一遍又一遍。此刻，大家咬下口中糕点，这满满一口沁甜，谓之「团圆」。,"After receiving this cake from adults, children run to the osmanthus trees to gaze at the moon and give their blessings to elders in exchange for tales of the Moon-Chasing Festival. As everyone takes a bite of the cake, the sweet taste brings the joy of reunion to all.","Trẻ nhỏ nhận bánh từ tay người lớn, chạy đến dưới gốc quế ngắm trăng; người già lại đón nhận lời chúc phúc từ lũ trẻ, kể đi kể lại câu chuyện truy nguyệt. Lúc này, mọi người cắn một miếng bánh, vị ngọt thơm ngập tràn ấy, gọi là ""đoàn viên""."
-lang_multi_text.db,MultiText,ItemInfo_70140023_Name,团圆饼,Plumpcake,Bánh Đoàn Viên
-lang_multi_text.db,MultiText,ItemInfo_70140023_ObtainedShowDescription,追月节时家家户户都会准备的糕点。,A cake made by every household during the Moon-Chasing Festival.,Loại bánh mà nhà nhà đều chuẩn bị trong Tết Truy Nguyệt.
-lang_multi_text.db,MultiText,ItemInfo_70140024_AttributesDescription,使用后会习得团圆饼的制作方法。,Used to learn how to cook Plumpcake.,Sử dụng để học cách chế biến Bánh Đoàn Viên.
-lang_multi_text.db,MultiText,ItemInfo_70140024_BgDescription,详尽记录着团圆饼制作方法的食谱。,A recipe that details how to make Plumpcake.,Công thức ghi chép chi tiết cách chế biến Bánh Đoàn Viên.
-lang_multi_text.db,MultiText,ItemInfo_70140024_Name,团圆饼食谱,Plumpcake Recipe,Công Thức Bánh Đoàn Viên
-lang_multi_text.db,MultiText,ItemInfo_70140024_ObtainedShowDescription,使用后会习得团圆饼的制作方法。,Used to learn how to cook Plumpcake.,Sử dụng để học cách chế biến Bánh Đoàn Viên.
-lang_multi_text.db,MultiText,ItemInfo_70140026_AttributesDescription,折枝赠予你的画卷。这是她多年后重新用共鸣能力画出的第一幅画，画中美景似乎蕴含着不同于以往的心意。,A scroll painting that Zhezhi gave you. This is the first scroll painting she has painted with her Forte in many years. The beautiful scenery depicted in the painting seems to give off a different feeling than before.,"Bức họa cuộn mà Zhezhi tặng cho bạn. Đây là bức tranh đầu tiên cô vẽ bằng năng lực cộng hưởng sau nhiều năm, cảnh đẹp trong tranh dường như chứa đựng tâm ý khác với trước kia."
-lang_multi_text.db,MultiText,ItemInfo_70140026_BgDescription,它是一场相遇的契机，一起经历的见证，一把敞开心扉的钥匙，一次难忘的共同创作。,"It is an opportunity for encounters, a testimony of shared experiences, a key that opens hearts, and an unforgettable collaboration.","Đó là khởi nguồn của một cuộc gặp gỡ, minh chứng cho những trải nghiệm cùng nhau, chiếc chìa khóa mở toang cánh cửa lòng, và một lần hợp tác sáng tạo khó quên."
-lang_multi_text.db,MultiText,ItemInfo_70140026_Name,《撷华山居图》,Serenity of Xiehua Village,"""Hiệt Hoa Sơn Cư Đồ"""
-lang_multi_text.db,MultiText,ItemInfo_70140026_ObtainedShowDescription,折枝赠予你的画卷，画中美景似乎蕴含着不同于以往的心意。,A scroll painting that Zhezhi gave you. The beautiful scenery depicted in the painting seems to give off a different feeling than before.,"Bức họa cuộn mà Zhezhi tặng cho bạn, cảnh đẹp trong tranh dường như chứa đựng tâm ý khác với trước kia."
-lang_multi_text.db,MultiText,ItemInfo_70140027_AttributesDescription,珂莱塔在战斗之前塞到你手中的虹色晶体，似乎是她的异能力产物，与她战斗时所使用的子弹是同一种，或许她是在向你传递什么信息……,"Before the battle begins, Carlotta places a handful of crystals in your hands. These are crafted from her Forte, akin to the texture of the bullets she uses in combat. Could there be a hidden message within this gesture?","Tinh thể sắc cầu vồng mà Carlotta nhét vào tay bạn trước trận chiến, dường như là sản vật từ dị năng của cô, cùng loại với đạn cô sử dụng khi chiến đấu. Có lẽ cô đang truyền đạt thông điệp gì đó cho bạn..."
-lang_multi_text.db,MultiText,ItemInfo_70140027_BgDescription,"家族成员惯于使用暗语或是以手势、动作传递信息。或许，她是在向你传达……若是她已将武器与子弹置于你的手中，那么在之后的行动里，必不会加害于你。
-相信她，配合她的表演吧。","In the Montelli family, it's common to pass on messages through coded language, gestures, and postures. By handing you her weapon and bullets, Carlotta assures you that you are safe—she has no intention of harming you during the upcoming action. 
-Trust her, and follow her lead in this performance.","Thành viên gia tộc quen dùng ám ngữ hoặc cử chỉ, hành động để truyền đạt thông tin. Có lẽ, cô ấy đang nói với bạn rằng... nếu cô đã đặt vũ khí và đạn dược vào tay bạn, thì trong hành động sắp tới, nhất định sẽ không hại bạn.
-Hãy tin tưởng cô ấy, phối hợp với màn trình diễn của cô ấy."
-lang_multi_text.db,MultiText,ItemInfo_70140027_Name,珂莱塔的“宝石”,"Carlotta's ""Gem""","""Bảo Thạch"" của Carlotta"
-lang_multi_text.db,MultiText,ItemInfo_70140027_ObtainedShowDescription,珂莱塔的“宝石”,"Carlotta's ""Gem""","""Bảo Thạch"" của Carlotta"
-lang_multi_text.db,MultiText,ItemInfo_70140028_AttributesDescription,一封带有浅浅香气的邀请函，信笺上加封的火漆印显示出“莫塔里家族”的纹样。,An invitation with a faint fragrance. The Montelli family crest embossed in the sealing wax.,"Một bức thư mời thoang thoảng hương thơm, con dấu sáp trên phong bì hiện lên hoa văn của ""Gia tộc Montelli""."
-lang_multi_text.db,MultiText,ItemInfo_70140028_BgDescription,"信中除“黎那汐塔狂欢节举办在即”外，还提到：持有此信者，将被视为莫塔里家族的特邀宾客，可前往埃弗拉德银行领取家族的资金赠礼。
-在这样一个科技时代里，依然选择以信笺传递邀请，定是希望能令受邀者感受到其中真心，与之建立更深厚的情谊吧。","The letter not only mentions that ""the Carnevale will soon return to Rinascita"" but also extends an offer to you: as the recipient, you are granted special status as an esteemed guest of the Montelli family, with access to the funds provided at Averardo Bank.
-In a world of advanced technology, sending such an invitation via traditional letter speaks to the sincerity of the sender, highlighting their desire to forge a genuine and lasting connection with the invitee.","Trong thư, ngoài việc đề cập ""Lễ hội cuồng hoan Rinascita sắp được tổ chức"", còn nhắc đến: người cầm bức thư này sẽ được coi là khách mời đặc biệt của gia tộc Montelli, có thể đến Ngân hàng Averardo để nhận quà tặng tài chính từ gia tộc.
-Trong một thời đại công nghệ như thế này, vẫn chọn cách gửi lời mời bằng thư tay, hẳn là mong muốn người được mời cảm nhận được sự chân thành trong đó, từ đó xây dựng tình bạn sâu sắc hơn."
-lang_multi_text.db,MultiText,ItemInfo_70140028_Name,带有浅浅香气的邀请函,Invitation with a Fragrance,Thư mời phảng phất hương thơm
-lang_multi_text.db,MultiText,ItemInfo_70140028_ObtainedShowDescription,一封带有浅浅香气的邀请函,An invitation with a faint fragrance,Một bức thư mời phảng phất hương thơm
-lang_multi_text.db,MultiText,ItemInfo_70140029_AttributesDescription,由神秘剧作家克里斯托弗所撰写的剧本。剧中讲述了隐海修会的旧日圣女“芙露德莉斯”的相关事迹。,"A play written by the mysterious playwright Cristoforo, telling the story of Fleurdelys, the Blessed Maiden of the Order of the Deep.","Kịch bản do nhà soạn kịch bí ẩn Cristoforo chấp bút. Vở kịch kể về sự tích của ""Fleurdelys"", vị Thánh Nữ xưa của Tu hội Ẩn Hải."
-lang_multi_text.db,MultiText,ItemInfo_70140029_BgDescription,"由神秘剧作家克里斯托弗所撰写的剧本。剧中讲述了隐海修会的旧日圣女“芙露德莉斯”的相关事迹。
-目前还处于未完成的阶段，故事只进行到圣女殉道前的一幕便戛然而止。
-可阅读。","A play written by the mysterious playwright Cristoforo, telling the story of Fleurdelys, the Blessed Maiden of the Order of the Deep.
-The script, however, is unfinished, leaving the story hanging just before the Maiden's martyrdom.","Kịch bản do nhà soạn kịch bí ẩn Cristoforo chấp bút. Vở kịch kể về sự tích của ""Fleurdelys"", vị Thánh Nữ xưa của Tu hội Ẩn Hải.
-Hiện vẫn đang trong giai đoạn chưa hoàn thành, câu chuyện dừng đột ngột ngay trước cảnh Thánh Nữ tử đạo.
-Có thể đọc."
-lang_multi_text.db,MultiText,ItemInfo_70140029_Name,《圣女芙露德莉斯的殉难（第三幕）》（未完稿）,<i>The Martyrdom of Blessed Fleurdelys - Act III</i> (Unfinished),<i>Cuộc Tử Nạn của Thánh Nữ Fleurdelys (Hồi Ba)</i> (Bản chưa hoàn thành)
-lang_multi_text.db,MultiText,ItemInfo_70140029_ObtainedShowDescription,由神秘剧作家克里斯托弗所撰写的剧本,A play written by the mysterious playwright Cristoforo,Kịch bản do nhà soạn kịch bí ẩn Cristoforo chấp bút
-lang_multi_text.db,MultiText,ItemInfo_70140030_AttributesDescription,一朵凋落的彼岸花，花瓣上隐约散发出不详的气息。,"A withered lycoris, its petals exuding an ominous aura.","Một đóa bỉ ngạn hoa đã héo tàn, cánh hoa thoang thoảng tỏa ra khí tức bất tường."
-lang_multi_text.db,MultiText,ItemInfo_70140030_BgDescription,一朵凋落的彼岸花，花瓣上隐约散发出不详的气息。你似乎在哪里见到过类似的彼岸花……,"A withered lycoris, its petals exuding an ominous aura. You feel as if you've encountered a flower like this before...","Một đóa bỉ ngạn hoa đã héo tàn, cánh hoa thoang thoảng tỏa ra khí tức bất tường. Dường như ngươi đã từng thấy một đóa bỉ ngạn hoa tương tự ở đâu đó..."
-lang_multi_text.db,MultiText,ItemInfo_70140030_Name,散发着不详气息的彼岸花,Lycoris with Ominous Aura,Bỉ ngạn hoa tỏa khí tức bất tường
-lang_multi_text.db,MultiText,ItemInfo_70140030_ObtainedShowDescription,一朵凋落的彼岸花,A withered lycoris.,Một đóa bỉ ngạn hoa đã héo tàn
-lang_multi_text.db,MultiText,ItemInfo_70140031_AttributesDescription,造云机的摇柄，曾被剧团成员拿去做了鱼竿的渔轮。,"The Cloudcaster's handle, once used as a fishing reel by the Troupe member.","Tay quay của Máy Tạo Mây, từng bị thành viên đoàn kịch mang đi làm cuộn dây cho cần câu cá."
-lang_multi_text.db,MultiText,ItemInfo_70140031_BgDescription,"造云机的摇柄，曾被剧团成员拿去做了鱼竿的渔轮。
-可与造云机的其他部件进行组装，收集完成后，去找洛可可吧。","The Cloudcaster's handle, once used as a fishing reel by the Troupe member.
-It can be assembled with other parts of the Cloudcaster. Collect all the components and go find Roccia for the next step.","Tay quay của Máy Tạo Mây, từng bị thành viên đoàn kịch mang đi làm cuộn dây cho cần câu cá.
-Có thể lắp ráp cùng các bộ phận khác của Máy Tạo Mây, sau khi thu thập đủ, hãy đến tìm Roccia."
-lang_multi_text.db,MultiText,ItemInfo_70140031_Name,造云机的摇柄,Cloudcaster's Handle,Tay quay Máy Tạo Mây
-lang_multi_text.db,MultiText,ItemInfo_70140031_ObtainedShowDescription,造云机的摇柄,Cloudcaster's Handle,Tay quay Máy Tạo Mây
-lang_multi_text.db,MultiText,ItemInfo_70140032_AttributesDescription,造云机的底台，曾被剧团成员拿去做了制谱用的桌台。,"The Cloudcaster's base, once used as a desk by the Troupe member for composing music.","Đế của Máy Tạo Mây, từng bị thành viên đoàn kịch mang đi làm bàn soạn nhạc."
-lang_multi_text.db,MultiText,ItemInfo_70140032_BgDescription,"造云机的底台，曾被剧团成员拿去做了制谱用的桌台。
-可与造云机的其他部件进行组装，收集完成后，去找洛可可吧。","The Cloudcaster's base, once used as a desk by the Troupe member for composing music.
-It can be assembled with other parts of the Cloudcaster. Collect all the components and go find Roccia for the next step.","Đế của Máy Tạo Mây, từng bị thành viên đoàn kịch mang đi làm bàn soạn nhạc.
-Có thể lắp ráp cùng các bộ phận khác của Máy Tạo Mây, sau khi thu thập đủ, hãy đến tìm Roccia."
-lang_multi_text.db,MultiText,ItemInfo_70140032_Name,造云机的底台,Cloudcaster's Base,Đế Máy Tạo Mây
-lang_multi_text.db,MultiText,ItemInfo_70140032_ObtainedShowDescription,造云机的底台,Cloudcaster's Base,Đế Máy Tạo Mây
-lang_multi_text.db,MultiText,ItemInfo_70140033_AttributesDescription,造云机的共振装置，曾被剧团成员拿去用以校正音准与节奏。,"The Cloudcaster's Resonance Unit, once used to calibrate pitch and rhythm by the Troupe member.","Thiết bị cộng hưởng của Máy Tạo Mây, từng bị thành viên đoàn kịch mang đi dùng để hiệu chỉnh âm chuẩn và nhịp điệu."
-lang_multi_text.db,MultiText,ItemInfo_70140033_BgDescription,"造云机的共振装置，曾被剧团成员拿去用以校正音准与节奏。
-可与造云机的其他部件进行组装，收集完成后，去找洛可可吧。","The Cloudcaster's Resonance Unit, once used to calibrate pitch and rhythm by the Troupe member.
-It can be assembled with other parts of the Cloudcaster. Collect all the components and go find Roccia for the next step.","Thiết bị cộng hưởng của Máy Tạo Mây, từng bị thành viên đoàn kịch mang đi dùng để hiệu chỉnh âm chuẩn và nhịp điệu.
-Có thể lắp ráp cùng các bộ phận khác của Máy Tạo Mây, sau khi thu thập đủ, hãy đến tìm Roccia."
-lang_multi_text.db,MultiText,ItemInfo_70140033_Name,造云机的共振装置,Cloudcaster's Resonance Unit,Thiết bị Cộng Hưởng Máy Tạo Mây
-lang_multi_text.db,MultiText,ItemInfo_70140033_ObtainedShowDescription,造云机的共振装置,Cloudcaster's Resonance Unit,Thiết bị Cộng Hưởng Máy Tạo Mây
-lang_multi_text.db,MultiText,ItemInfo_70140034_AttributesDescription,菲比赠予的书籍，一本有关修会如今圣典的导论，深入浅出地阐明了修会的基本教义与神明观。,"A gift from Phoebe. This book introduces the Codex of the Order and explains the basic doctrines and philosophies regarding the Divinites, written in simple terms.","Cuốn sách Phoebe tặng, một cuốn dẫn luận về Thánh Điển hiện hành của Tu hội, giải thích rõ ràng và dễ hiểu các giáo lý cơ bản cùng quan niệm về thần minh của Tu hội."
-lang_multi_text.db,MultiText,ItemInfo_70140034_BgDescription,"菲比赠予的书籍，一本有关修会如今圣典的导论，深入浅出地阐明了修会的基本教义与神明观。
-可阅读。","A gift from Phoebe. This book introduces the Codex of the Order and explains the basic doctrines and philosophies regarding the Divinites, written in simple terms.","Cuốn sách Phoebe tặng, một cuốn dẫn luận về Thánh Điển hiện hành của Tu hội, giải thích rõ ràng và dễ hiểu các giáo lý cơ bản cùng quan niệm về thần minh của Tu hội.
-Có thể đọc."
-lang_multi_text.db,MultiText,ItemInfo_70140034_Name,《隐海圣典·导论（第137次修订版）》,Codex of the Deep: Preface (137th Edition),"""Ẩn Hải Thánh Điển - Đạo Luận (Bản tu đính lần thứ 137)"""
-lang_multi_text.db,MultiText,ItemInfo_70140034_ObtainedShowDescription,菲比赠予的书籍,A Book from Phoebe,Sách do Phoebe tặng
-lang_multi_text.db,MultiText,ItemInfo_70140035_AttributesDescription,珂莱塔小姐按照对你与阿布的印象，为你们定制的狂欢节面具。,A custom-made Carnevale mask ordered by Carlotta for you. It draws inspiration from her impressions on you and Abby.,"Mặt nạ lễ hội do tiểu thư Carlotta đặt riêng cho bạn, được thiết kế dựa trên ấn tượng của cô ấy về bạn và Abby."
-lang_multi_text.db,MultiText,ItemInfo_70140035_BgDescription,"珂莱塔小姐按照对你与阿布的印象，为你们定制的狂欢节面具。
-面具采用了半遮面式设计，保有个性与神秘感的同时，又很好地考虑到了战斗时的需要，没有过多繁杂的装饰，不至于遮挡视野阻碍行动。
-可佩戴。","A custom-made Carnevale mask ordered by Carlotta for you. It draws inspiration from her impressions on you and Abby. 
-This mask covers half of the face, creating a perfect balance of personality and enigma. Minimal decorations ensure that it remains functional, offering unobstructed vision and mobility during combat.","Mặt nạ lễ hội do tiểu thư Carlotta đặt riêng cho bạn, được thiết kế dựa trên ấn tượng của cô ấy về bạn và Abby.
-Mặt nạ sử dụng thiết kế che nửa mặt, vừa giữ được cá tính và vẻ bí ẩn, vừa cân nhắc tốt nhu cầu chiến đấu, không có quá nhiều trang trí phức tạp, không che khuất tầm nhìn hay cản trở hành động.
-Có thể đeo."
-lang_multi_text.db,MultiText,ItemInfo_70140035_Name,「穿行昼夜的自由之鸽」,Unfettered Dove through Day and Night,"""Bồ câu tự do xuyên ngày đêm"""
-lang_multi_text.db,MultiText,ItemInfo_70140035_ObtainedShowDescription,珂莱塔赠予的狂欢节面具,Carnevale Mask Given by Carlotta,Mặt nạ lễ hội do Carlotta tặng
-lang_multi_text.db,MultiText,ItemInfo_70140039_AttributesDescription,一张由斐林拍摄的照片，记录了你与伙伴们一同谢幕时的情景。,"A photo captured by Fulmine, recording the moment you shared the curtain call with your companions.","Một bức ảnh do Fulmine chụp, ghi lại khoảnh khắc bạn cùng các đồng đội chào màn."
-lang_multi_text.db,MultiText,ItemInfo_70140039_BgDescription,"一张由斐林拍摄的照片，记录了你与伙伴们一同谢幕时的情景。
-可放大查看。","A photo captured by Fulmine, recording the moment you shared the curtain call with your companions.
-You can zoom in to view the photo.","Một bức ảnh do Fulmine chụp, ghi lại khoảnh khắc bạn cùng các đồng đội chào màn.
-Có thể phóng to để xem."
-lang_multi_text.db,MultiText,ItemInfo_70140039_Name,「完美谢幕」,Perfect Curtain Call,"""Hạ Màn Hoàn Hảo"""
-lang_multi_text.db,MultiText,ItemInfo_70140039_ObtainedShowDescription,谢幕之时，斐林为你与伙伴们拍摄的合影,A group photo of you and your companions taken by Fulmine.,Bức ảnh chung do Fulmine chụp cho bạn và các đồng đội khi chào màn
-lang_multi_text.db,MultiText,ItemInfo_70140040_AttributesDescription,一张由斐林拍摄的照片，记录了你与伙伴们一同谢幕时的情景。,"A photo captured by Fulmine, recording the moment you shared the curtain call with your companions.","Một bức ảnh do Fulmine chụp, ghi lại khoảnh khắc bạn cùng các đồng đội chào màn."
-lang_multi_text.db,MultiText,ItemInfo_70140040_BgDescription,"一张由斐林拍摄的照片，记录了你与伙伴们一同谢幕时的情景。
-可放大查看。","A photo captured by Fulmine, recording the moment you shared the curtain call with your companions.
-You can zoom in to view the photo.","Một bức ảnh do Fulmine chụp, ghi lại khoảnh khắc bạn cùng các đồng đội chào màn.
-Có thể phóng to để xem."
-lang_multi_text.db,MultiText,ItemInfo_70140040_Name,「完美谢幕」,Perfect Curtain Call,"""Hạ Màn Hoàn Hảo"""
-lang_multi_text.db,MultiText,ItemInfo_70140040_ObtainedShowDescription,谢幕之时，斐林为你与伙伴们拍摄的合影,A group photo of you and your companions taken by Fulmine.,Bức ảnh chung do Fulmine chụp cho bạn và các đồng đội khi chào màn
-lang_multi_text.db,MultiText,ItemInfo_70140041_AttributesDescription,漂泊者·衍射的技能已得到强化，可前往共鸣者-技能界面查看详情。,Rover: Spectro's skills have been enhanced. Go to Resonators - Forte for more details.,"Kỹ năng của Lữ Khách - Nhiễu Xạ đã được cường hóa, có thể vào giao diện Cộng Hưởng Giả - Kỹ năng để xem chi tiết."
-lang_multi_text.db,MultiText,ItemInfo_70140041_BgDescription,你在过去为自己设立了“路标”，也为自己朝着“路标”前行留下了足够的力量与信念。,"A beacon you once set for yourself, imbued with the strength and faith to keep moving forward.","Trong quá khứ, bạn đã đặt cho mình một ""cột mốc"", đồng thời để lại đủ sức mạnh và niềm tin để bản thân tiến về phía ""cột mốc"" ấy."
-lang_multi_text.db,MultiText,ItemInfo_70140041_Name,往日存念,Beacon of the Past,Vãng Nhật Tồn Niệm
-lang_multi_text.db,MultiText,ItemInfo_70140041_ObtainedShowDescription,你在过去为自己设立了“路标”，也为自己朝着“路标”前行留下了足够的力量与信念。,"A beacon you once set for yourself, imbued with the strength and faith to keep moving forward.","Trong quá khứ, bạn đã đặt cho mình một ""cột mốc"", đồng thời để lại đủ sức mạnh và niềm tin để bản thân tiến về phía ""cột mốc"" ấy."
-lang_multi_text.db,MultiText,ItemInfo_70140050_AttributesDescription,卡提希娅传授了使用方法的道具，装备到探索工具后，能够在水域附近召唤出贡多拉“呼姆”。（只能在阿维纽林区域使用）,"A whistle Cartethyia taught you how to use. When equipped in Utility, it allows you to summon the Gondola Phaom near water. (Usable only in Avinoleum)","Đạo cụ được Cartethyia hướng dẫn cách sử dụng. Sau khi trang bị vào công cụ khám phá, có thể triệu hồi thuyền Gondola ""Phaom"" gần vùng nước. (Chỉ sử dụng được trong khu vực Avinoleum)"
-lang_multi_text.db,MultiText,ItemInfo_70140050_BgDescription,卡提希娅传授了使用方法的道具,A whistle Cartethyia taught you how to use.,Đạo cụ được Cartethyia hướng dẫn cách sử dụng.
-lang_multi_text.db,MultiText,ItemInfo_70140050_Name,呼唤呼姆,Phaom Whistle,Gọi Phaom
-lang_multi_text.db,MultiText,ItemInfo_70140050_ObtainedShowDescription,卡提希娅传授了使用方法的道具，装备到探索工具后，能够在水域附近召唤出贡多拉“呼姆”。（只能在阿维纽林区域使用）,"A whistle Cartethyia taught you how to use. When equipped in Utility, it allows you to summon the Gondola Phaom near water. (Usable only in Avinoleum)","Đạo cụ được Cartethyia hướng dẫn cách sử dụng. Sau khi trang bị vào công cụ khám phá, có thể triệu hồi thuyền Gondola ""Phaom"" gần vùng nước. (Chỉ sử dụng được trong khu vực Avinoleum)"
-lang_multi_text.db,MultiText,ItemInfo_70140080_AttributesDescription,弗洛洛的指挥棒，其中蕴含着一部分她的共鸣能力。,"Phrolova's baton, imbued with part of her Forte.","Đũa chỉ huy của Phrolova, chứa đựng một phần năng lực cộng hưởng của cô ấy."
-lang_multi_text.db,MultiText,ItemInfo_70140080_BgDescription,"摇摇欲坠的合作需要付出额外的真诚维持。她将自己唯一的依靠交给了你，只想换取你短暂的相信。
-不妨将它拿在手中，即便相距遥远，也要确保暂时合作的敌人由你掌控。","A precarious alliance demands deep trust. She handed you her last hope, just to earn a moment of your faith.
-Keep it close. Even from afar, a temporarily allied enemy must remain in your grasp.","Mối hợp tác chông chênh cần thêm sự chân thành để duy trì. Cô ấy đã trao cho bạn chỗ dựa duy nhất, chỉ mong đổi lấy một khoảnh khắc tin tưởng từ bạn.
-Hãy cầm nó trong tay - dù cách xa đến mấy, cũng phải đảm bảo kẻ thù tạm thời hợp tác nằm trong tầm kiểm soát."
-lang_multi_text.db,MultiText,ItemInfo_70140080_Name,猩红指挥棒,Crimson Baton,Đũa Chỉ Huy Đỏ Thắm
-lang_multi_text.db,MultiText,ItemInfo_70140080_ObtainedShowDescription,弗洛洛的指挥棒，其中蕴含着一部分她的共鸣能力。,"Phrolova's baton, imbued with part of her Forte.","Đũa chỉ huy của Phrolova, chứa đựng một phần năng lực cộng hưởng của cô ấy."
-lang_multi_text.db,MultiText,ItemInfo_70140081_AttributesDescription,弗洛洛共鸣能力的残留物，虽无法比拟指挥棒中的能量，但也能勉强发挥调律的作用。,"A residual fragment of Phrolova's Forte. Though not nearly as strong as her baton, it remains just sufficient for Orchestrating.","Tàn dư năng lực Cộng Hưởng của Phrolova. Tuy không thể sánh với năng lượng trong đũa chỉ huy, nhưng cũng đủ để phát huy tác dụng điều luật."
+2pcs Set: Aero DMG +10%.
+
+5pcs Set: Dealing Echo Skill DMG to enemies increases the Resonator's Echo Skill Crit. Rate by 20% and Aero DMG by 15% for 5s.","Mở ra để nhận Thanh Hài.
+Thanh Hài nhận được có hiệu ứng Hợp Minh: Điều Ước Ngữ Nghĩa.
+2 món: Sát thương Khí Động tăng 10%.
+5 món: Khi nhân vật gây sát thương Kỹ Năng Thanh Hài, tỷ lệ bạo kích Kỹ Năng Thanh Hài tăng 20%, sát thương Khí Động bản thân tăng 15%, kéo dài 5 giây."
+lang_multi_text.db,MultiText,ItemInfo_50010028_Name,未完型的听唤语义之愿,Morphable Echo - Sound of True Name,Điều Ước Ngữ Nghĩa Chưa Hoàn Chỉnh
+lang_multi_text.db,MultiText,ItemInfo_50010028_ObtainedShowDescription,"开启后可获得声骸。
+获得的声骸其合鸣效果为听唤语义之愿。
+2件套：气动伤害提升10%。
+5件套：角色造成声骸技能伤害时，声骸技能伤害的暴击提升20%，自身气动伤害提升15%，持续5秒。","Open to obtain a random Echo of the following Sonata Effect: Sound of Ture Name.
+
+2pcs Set: Aero DMG +10%.
+
+5pcs Set: Dealing Echo Skill DMG to enemies increases the Resonator's Echo Skill Crit. Rate by 20% and Aero DMG by 15% for 5s.","Mở ra để nhận Thanh Hài.
+Thanh Hài nhận được có hiệu ứng Hợp Minh: Điều Ước Ngữ Nghĩa.
+2 món: Sát thương Khí Động tăng 10%.
+5 món: Khi nhân vật gây sát thương Kỹ Năng Thanh Hài, tỷ lệ bạo kích Kỹ Năng Thanh Hài tăng 20%, sát thương Khí Động bản thân tăng 15%, kéo dài 5 giây."
+lang_multi_text.db,MultiText,ItemInfo_50011_AttributesDescription,购买后，30天内可每日领取星声。,"After purchase, claim daily Astrites for 30 days.","Sau khi mua, có thể nhận Tinh Thanh mỗi ngày trong vòng 30 ngày."
+lang_multi_text.db,MultiText,ItemInfo_50011_BgDescription,在有效期内，凭此卡可自由进出观测中心进行观测活动。,Get unlimited access to the Celestial Observatory for a specified period with this pass.,"Trong thời hạn hiệu lực, dùng thẻ này để tự do ra vào Trung Tâm Quan Trắc và tham gia hoạt động quan trắc."
+lang_multi_text.db,MultiText,ItemInfo_50011_Name,月相观测卡,Lunite Subscription,Thẻ Quan Trắc Nguyệt Tướng
+lang_multi_text.db,MultiText,ItemInfo_50011_ObtainedShowDescription,月相观测卡的兑换凭证。,The redemption voucher for the Lunite Subscription.,Chứng từ đổi Thẻ Quan Trắc Nguyệt Tướng.
+lang_multi_text.db,MultiText,ItemInfo_50012_AttributesDescription,使用后，30天内可每日领取星声。,Used to claim daily Astrites for 30 days.,"Sau khi sử dụng, có thể nhận Tinh Thanh mỗi ngày trong vòng 30 ngày."
+lang_multi_text.db,MultiText,ItemInfo_50012_BgDescription,在有效期内，凭此卡可自由进出观测中心进行观测活动。,Get unlimited access to the Celestial Observatory for a specified period with this pass.,"Trong thời hạn hiệu lực, dùng thẻ này để tự do ra vào Trung Tâm Quan Trắc và tham gia hoạt động quan trắc."
+lang_multi_text.db,MultiText,ItemInfo_50012_Name,月相观测卡,Lunite Subscription,Thẻ Quan Trắc Nguyệt Tướng
+lang_multi_text.db,MultiText,ItemInfo_50012_ObtainedShowDescription,月相观测卡的兑换凭证。,The redemption voucher for the Lunite Subscription.,Chứng từ đổi Thẻ Quan Trắc Nguyệt Tướng.
+lang_multi_text.db,MultiText,ItemInfo_50013_AttributesDescription,"可用于解锁先约电台的寰宇频道。
+通过完成电台任务，可以获得丰厚奖励。","Unlocks the Insider Channel of the Pioneer Podcast.
+
+Complete the Podcast Tasks for various rewards.","Dùng để mở khóa Kênh Hoàn Vũ của Đài Phát Tiên Ước.
+Hoàn thành nhiệm vụ đài phát để nhận phần thưởng hấp dẫn."
+lang_multi_text.db,MultiText,ItemInfo_50013_BgDescription,解锁寰宇频道。,Unlock the Insider Channel.,Mở khóa Kênh Hoàn Vũ.
+lang_multi_text.db,MultiText,ItemInfo_50013_Name,寰宇频道,Insider Channel,Kênh Hoàn Vũ
+lang_multi_text.db,MultiText,ItemInfo_50013_ObtainedShowDescription,欢迎收听寰宇频道！接下来是晨间资讯速递……,Welcome to the Insider Channel! Up next is the morning news express...,Chào mừng đến với Kênh Hoàn Vũ! Tiếp theo là bản tin sáng nhanh...
+lang_multi_text.db,MultiText,ItemInfo_50014_AttributesDescription,"可用于解锁先约电台的寰宇频道，并获得额外的特权奖励。
+通过完成电台任务，可以获得丰厚奖励。","Unlocks the Insider Channel of the Pioneer Podcast and get additional privilege rewards.
+
+Complete the Podcast Tasks for various rewards.","Dùng để mở khóa Kênh Hoàn Vũ của Đài Phát Tiên Ước và nhận thêm phần thưởng đặc quyền.
+Hoàn thành nhiệm vụ đài phát để nhận phần thưởng hấp dẫn."
+lang_multi_text.db,MultiText,ItemInfo_50014_BgDescription,现在就开始收听寰宇频道吧，这些讯息准能让你在野外获得意外发现！,Start listening to the Pioneer Podcast now to gain valuable insights for your outdoor adventures!,"Hãy bắt đầu nghe Kênh Hoàn Vũ ngay, những thông tin này chắc chắn sẽ giúp bạn có những khám phá bất ngờ ngoài thực địa!"
+lang_multi_text.db,MultiText,ItemInfo_50014_Name,寰宇特约,Connoisseur,Đặc Ước Hoàn Vũ
+lang_multi_text.db,MultiText,ItemInfo_50014_ObtainedShowDescription,解锁先约电台的寰宇特约。,Unlocks the Connoisseur Channel.,Mở khóa Đặc Ước Hoàn Vũ của Đài Phát Tiên Ước.
+lang_multi_text.db,MultiText,ItemInfo_50015_AttributesDescription,"可用于解锁先约电台的寰宇频道，并获得额外的特权奖励。
+通过完成电台任务，可以获得丰厚奖励。","Unlocks the Insider Channel of the Pioneer Podcast.
+
+Complete the Podcast Tasks for various rewards.","Dùng để mở khóa Kênh Hoàn Vũ của Đài Phát Tiên Ước và nhận thêm phần thưởng đặc quyền.
+Hoàn thành nhiệm vụ đài phát để nhận phần thưởng hấp dẫn."
+lang_multi_text.db,MultiText,ItemInfo_50015_BgDescription,现在就开始收听寰宇频道吧，这些讯息准能让你在野外获得意外发现！,Start listening to the Pioneer Podcast now to gain valuable insights for your outdoor adventures!,"Hãy bắt đầu nghe Kênh Hoàn Vũ ngay, những thông tin này chắc chắn sẽ giúp bạn có những khám phá bất ngờ ngoài thực địa!"
+lang_multi_text.db,MultiText,ItemInfo_50015_Name,升级寰宇特约,Purchase Connoisseur Channel,Nâng Cấp Đặc Ước Hoàn Vũ
+lang_multi_text.db,MultiText,ItemInfo_50015_ObtainedShowDescription,解锁先约电台的寰宇特约。,Unlocks the Connoisseur Channel.,Mở khóa Đặc Ước Hoàn Vũ của Đài Phát Tiên Ước.
+lang_multi_text.db,MultiText,ItemInfo_50016_AttributesDescription,"可用于解锁先约电台的寰宇频道。
+通过完成电台任务，可以获得丰厚奖励。","Unlocks the Insider Channel of the Pioneer Podcast.
+
+Complete the Podcast Tasks for various rewards.","Dùng để mở khóa Kênh Hoàn Vũ của Đài Phát Tiên Ước.
+Hoàn thành nhiệm vụ đài phát để nhận phần thưởng hấp dẫn."
+lang_multi_text.db,MultiText,ItemInfo_50016_BgDescription,"先行公约发行的寰宇频道标准实体密钥。
+“欢迎收听寰宇频道！接下来是晨间资讯速递……”","Standard physical key issued by the Pioneer Association for the Insider Channel.
+""Welcome to the Insider Channel! Coming up next is the morning news express...""","Chìa khóa vật lý tiêu chuẩn do Hiệp Ước Tiên Phong phát hành cho Kênh Hoàn Vũ.
+""Chào mừng đến với Kênh Hoàn Vũ! Tiếp theo là bản tin sáng nhanh..."""
+lang_multi_text.db,MultiText,ItemInfo_50016_Name,寰宇频道密钥,Insider Channel Key,Chìa Khóa Kênh Hoàn Vũ
+lang_multi_text.db,MultiText,ItemInfo_50016_ObtainedShowDescription,寰宇频道的解锁凭证。,Unlocks the Insider Channel.,Chứng từ mở khóa Kênh Hoàn Vũ.
+lang_multi_text.db,MultiText,ItemInfo_50017_AttributesDescription,"可用于解锁先约电台的寰宇频道，并获得额外的特权奖励。
+通过完成电台任务，可以获得丰厚奖励。","Unlocks the Insider Channel of the Pioneer Podcast and get additional privilege rewards.
+
+Complete the Podcast Tasks for various rewards.","Dùng để mở khóa Kênh Hoàn Vũ của Đài Phát Tiên Ước và nhận thêm phần thưởng đặc quyền.
+Hoàn thành nhiệm vụ đài phát để nhận phần thưởng hấp dẫn."
+lang_multi_text.db,MultiText,ItemInfo_50017_BgDescription,"先行公约发行的寰宇特约豪华实体密钥。
+“现在就开始收听寰宇频道吧，这些讯息准能让你在野外获得意外发现！”","Special Deluxe Keycode for the Pioneer Podcast's Connoisseur Channel.
+""Start listening to the Pioneer Podcast now to gain valuable insights for your outdoor adventures!""","Chìa khóa vật lý cao cấp do Hiệp Ước Tiên Phong phát hành cho Đặc Ước Hoàn Vũ.
+""Hãy bắt đầu nghe Kênh Hoàn Vũ ngay, những thông tin này chắc chắn sẽ giúp bạn có những khám phá bất ngờ ngoài thực địa!"""
+lang_multi_text.db,MultiText,ItemInfo_50017_Name,寰宇特约密钥,Connoisseur Key,Chìa Khóa Đặc Ước Hoàn Vũ
+lang_multi_text.db,MultiText,ItemInfo_50017_ObtainedShowDescription,寰宇特约的解锁凭证。,Unlocks the Connoisseur Channel.,Chứng từ mở khóa Đặc Ước Hoàn Vũ.
+lang_multi_text.db,MultiText,ItemInfo_50018_AttributesDescription,使用后，7天内可每日领取星声。,Used to claim daily Astrites for 7 days.,"Sau khi sử dụng, có thể nhận Tinh Thanh mỗi ngày trong vòng 7 ngày."
+lang_multi_text.db,MultiText,ItemInfo_50018_BgDescription,在有效期内，凭此卡可自由进出观测中心进行观测活动。,Get unlimited access to the Celestial Observatory for a specified period with this pass.,"Trong thời hạn hiệu lực, dùng thẻ này để tự do ra vào Trung Tâm Quan Trắc và tham gia hoạt động quan trắc."
+lang_multi_text.db,MultiText,ItemInfo_50018_Name,月相观测卡（7天）,Lunite Subscription (7 days),Thẻ Quan Trắc Nguyệt Tướng (7 ngày)
+lang_multi_text.db,MultiText,ItemInfo_50018_ObtainedShowDescription,月相观测卡的兑换凭证。,The redemption voucher for the Lunite Subscription.,Chứng từ đổi Thẻ Quan Trắc Nguyệt Tướng.
+lang_multi_text.db,MultiText,ItemInfo_50019_AttributesDescription,使用后，15天内可每日领取星声。,Used to claim daily Astrites for 15 days.,"Sau khi sử dụng, có thể nhận Tinh Thanh mỗi ngày trong 15 ngày."
+lang_multi_text.db,MultiText,ItemInfo_50019_BgDescription,在有效期内，凭此卡可自由进出观测中心进行观测活动。,Get unlimited access to the Celestial Observatory for a specified period with this pass.,"Trong thời hạn hiệu lực, thẻ này cho phép tự do ra vào trung tâm quan trắc để tham gia hoạt động quan sát."
+lang_multi_text.db,MultiText,ItemInfo_50019_Name,月相观测卡（15天）,Lunite Subscription (15 days),Thẻ Quan Trắc Nguyệt Tướng (15 ngày)
+lang_multi_text.db,MultiText,ItemInfo_50019_ObtainedShowDescription,月相观测卡的兑换凭证。,The redemption voucher for the Lunite Subscription.,Chứng từ đổi Thẻ Quan Trắc Nguyệt Tướng.
+lang_multi_text.db,MultiText,ItemInfo_50020_AttributesDescription,索拉里斯通用的消费礼券，使用一张礼券购买服饰时可抵消<color=Highlight>300</color>月相。,"A special voucher issued across Solaris, valued at <color=Highlight>300</color> Lunites per voucher for outfit purchases.","Phiếu quà tặng tiêu dùng thông dụng trên Solaris, mỗi phiếu có thể khấu trừ <color=Highlight>300</color> Nguyệt Tướng khi mua trang phục."
+lang_multi_text.db,MultiText,ItemInfo_50020_BgDescription,人类的文明中，不少人钟情于收集票劵。票劵，印证了一个时代的记忆。独特的字体、花样的图案组合在一起，让票劵本身也成了历史的服饰。,"Across human civilizations, many take an interest in collecting vouchers. With unique fonts and designs from each era, these vouchers are like the outfits of history, carrying the memories of the past.","Trong nền văn minh nhân loại, không ít người say mê sưu tập phiếu vé. Phiếu vé lưu giữ ký ức của một thời đại. Kiểu chữ độc đáo, hoa văn đặc sắc hòa quyện, khiến bản thân phiếu vé cũng trở thành trang phục của lịch sử."
+lang_multi_text.db,MultiText,ItemInfo_50020_Name,服饰通用礼券·300月相,Outift Voucher - 300 Lunites,Phiếu Quà Trang Phục Thông Dụng - 300 Nguyệt Tướng
+lang_multi_text.db,MultiText,ItemInfo_50020_ObtainedShowDescription,购买服饰时可抵消<color=Highlight>300</color>月相的通用礼券。,An outfit voucher valued at <color=Highlight>300</color> Lunites.,Phiếu quà thông dụng có thể khấu trừ <color=Highlight>300</color> Nguyệt Tướng khi mua trang phục.
+lang_multi_text.db,MultiText,ItemInfo_50020_Tip,服饰通用礼券已抵扣{0}{1},Outfit Voucher has deducted {1} x{0},Phiếu Quà Trang Phục Thông Dụng đã khấu trừ {0}{1}
+lang_multi_text.db,MultiText,ItemInfo_50021_AttributesDescription,获取后解锁重奏荣礼,Obtain to unlock Reprise Bounty,Mở khóa Trùng Tấu Vinh Lễ sau khi nhận
+lang_multi_text.db,MultiText,ItemInfo_50021_BgDescription,再次聆听潮声，追寻索拉里斯遗落的奇藏珍品。,"Hear the tide again, and seek the lost treasures scattered across Solaris.","Lắng nghe lại tiếng triều, truy tìm những kho báu thất lạc trên Solaris."
+lang_multi_text.db,MultiText,ItemInfo_50021_Name,重奏荣礼,Reprise Bounty,Trùng Tấu Vinh Lễ
+lang_multi_text.db,MultiText,ItemInfo_50021_ObtainedShowDescription,获取后解锁重奏荣礼,Obtain to unlock Reprise Bounty,Mở khóa Trùng Tấu Vinh Lễ sau khi nhận
+lang_multi_text.db,MultiText,ItemInfo_50022_AttributesDescription,获得后，15天内在对应天数登录可领取特定奖励。,Used to claim daily login rewards for 15 days.,"Sau khi nhận, đăng nhập vào các ngày tương ứng trong 15 ngày để nhận phần thưởng đặc biệt."
+lang_multi_text.db,MultiText,ItemInfo_50022_BgDescription,在有效期内，凭此卡可自由进出观测中心进行观测与演算活动。,Get unlimited access to the Celestial Observatory for a specified period with this pass.,"Trong thời hạn hiệu lực, thẻ này cho phép tự do ra vào trung tâm quan trắc để tham gia hoạt động quan sát và tính toán."
+lang_multi_text.db,MultiText,ItemInfo_50022_Name,周度演算卡,Weekly Subscription,Thẻ Diễn Toán Tuần
+lang_multi_text.db,MultiText,ItemInfo_50022_ObtainedShowDescription,周度演算卡的兑换凭证。,A voucher for the Weekly Subscription.,Chứng từ đổi Thẻ Diễn Toán Tuần.
+lang_multi_text.db,MultiText,ItemInfo_50_AttributesDescription,「旌旗不落」活动中提升挑战赛进度，获得丰厚奖励,"Your progress in the ""Banners Never Fall"" event. Unlock bountiful rewards by increasing your progress.","Nâng tiến độ giải đấu trong sự kiện ""Cờ Xí Bất Diệt"" để nhận phần thưởng hậu hĩnh"
+lang_multi_text.db,MultiText,ItemInfo_50_BgDescription,勇敢的角斗士啊，去追逐最终的胜利吧。,"Valiant warriors, go claim the final victory!","Hỡi những đấu sĩ dũng cảm, hãy theo đuổi chiến thắng cuối cùng!"
+lang_multi_text.db,MultiText,ItemInfo_50_Name,挑战赛进度点数,Challenge Progress,Điểm Tiến Độ Giải Đấu
+lang_multi_text.db,MultiText,ItemInfo_50_ObtainedShowDescription,「旌旗不落」活动中提升挑战赛进度，获得丰厚奖励,"Your progress in the ""Banners Never Fall"" event. Unlock bountiful rewards by increasing your progress.","Nâng tiến độ giải đấu trong sự kiện ""Cờ Xí Bất Diệt"" để nhận phần thưởng hậu hĩnh"
+lang_multi_text.db,MultiText,ItemInfo_51001_AttributesDescription,基础经验礼包,Basic Experience Gift Pack,Gói quà kinh nghiệm cơ bản
+lang_multi_text.db,MultiText,ItemInfo_51001_BgDescription,这些资源来自索拉里斯的各地，由呜呜物流为客户准时送达。 在危险地区游历时，他人的支援是必不可少的助力。,"These resources come from all over Solaris-3, delivered on time by Lollo Logistics for customers. When traveling in dangerous areas, mutual support is indispensable for safe travel.","Những tài nguyên này đến từ khắp nơi trên Solaris, được Lollo Logistics giao đúng hẹn cho khách hàng. Khi du hành qua vùng nguy hiểm, sự hỗ trợ từ người khác là nguồn trợ lực không thể thiếu."
+lang_multi_text.db,MultiText,ItemInfo_51001_Name,远渡者的经验支援,Traveler's EXP Aid,Hỗ Trợ Kinh Nghiệm Của Người Viễn Du
+lang_multi_text.db,MultiText,ItemInfo_51001_ObtainedShowDescription,基础经验礼包,Basic Experience Package,Gói quà kinh nghiệm cơ bản
+lang_multi_text.db,MultiText,ItemInfo_51002_AttributesDescription,进阶经验礼包,Advanced Experience Package,Gói quà kinh nghiệm nâng cao
+lang_multi_text.db,MultiText,ItemInfo_51002_BgDescription,这些资源来自索拉里斯的各地，由呜呜物流为客户准时送达。 在危险地区游历时，他人的支援是必不可少的助力。,"These resources come from all over Solaris-3, delivered on time by Lollo Logistics for customers. When traveling in dangerous areas, mutual support is indispensable for safe travel.","Những tài nguyên này đến từ khắp nơi trên Solaris, được Lollo Logistics giao đúng hẹn cho khách hàng. Khi du hành qua vùng nguy hiểm, sự hỗ trợ từ người khác là nguồn trợ lực không thể thiếu."
+lang_multi_text.db,MultiText,ItemInfo_51002_Name,遍历者的经验援护,Sage's EXP Support,Tiếp Viện Kinh Nghiệm Của Người Lịch Duyệt
+lang_multi_text.db,MultiText,ItemInfo_51002_ObtainedShowDescription,进阶经验礼包,Advanced Experience Package,Gói quà kinh nghiệm nâng cao
+lang_multi_text.db,MultiText,ItemInfo_51003_AttributesDescription,基础武器技能突破材料礼包,Basic Weapon Skill Ascension Material Bundle,Gói nguyên liệu đột phá kỹ năng vũ khí cơ bản
+lang_multi_text.db,MultiText,ItemInfo_51003_BgDescription,在各种补给服务中，有些支援补给的供应商尤为神秘，比如黑海岸。 没人知道这些物资是从哪里弄来的，但质量的确上乘。,"Among various supply services, some supply providers are particularly mysterious, such as the Black Shores. No one knows how it obtains these supplies, but the quality is indeed excellent.","Trong các dịch vụ tiếp tế, một số nhà cung cấp đặc biệt bí ẩn, chẳng hạn như Bờ Biển Đen. Không ai biết những vật tư này đến từ đâu, nhưng chất lượng quả thực rất tốt."
+lang_multi_text.db,MultiText,ItemInfo_51003_Name,园丁的凝素援护,Gardener's Aid,Tiếp Viện Ngưng Tố Của Người Làm Vườn
+lang_multi_text.db,MultiText,ItemInfo_51003_ObtainedShowDescription,基础武器技能突破材料礼包,Basic Weapon Skill Ascension Material Bundle,Gói nguyên liệu đột phá kỹ năng vũ khí cơ bản
+lang_multi_text.db,MultiText,ItemInfo_51004_AttributesDescription,进阶武器技能突破材料礼包,Advanced Weapon Skill Ascension Material Bundle,Gói nguyên liệu đột phá kỹ năng vũ khí nâng cao
+lang_multi_text.db,MultiText,ItemInfo_51004_BgDescription,在各种补给服务中，有些支援补给的供应商尤为神秘，比如黑海岸。 没人知道这些物资是从哪里弄来的，但质量的确上乘。,"Among various supply services, some supply providers are particularly mysterious, such as the Black Shores. No one knows how it obtains these supplies, but the quality is indeed excellent.","Trong các dịch vụ tiếp tế, một số nhà cung cấp đặc biệt bí ẩn, chẳng hạn như Bờ Biển Đen. Không ai biết những vật tư này đến từ đâu, nhưng chất lượng quả thực rất tốt."
+lang_multi_text.db,MultiText,ItemInfo_51004_Name,黑花的凝素驰援,Blake Bloom's Aid,Chi Viện Ngưng Tố Của Hắc Hoa
+lang_multi_text.db,MultiText,ItemInfo_51004_ObtainedShowDescription,进阶武器技能突破材料礼包,Advanced Weapon Skill Ascension Material Bundle,Gói nguyên liệu đột phá kỹ năng vũ khí nâng cao
+lang_multi_text.db,MultiText,ItemInfo_51005_AttributesDescription,声骸养成礼包,Echo Development Bundle,Gói bồi dưỡng Thanh Hài
+lang_multi_text.db,MultiText,ItemInfo_51005_BgDescription,在各种补给服务中，有些支援补给的供应商尤为神秘，比如黑海岸。 没人知道这些物资是从哪里弄来的，但质量的确上乘。,"Among various supply services, some supply providers are particularly mysterious, such as the Black Shores. No one knows how it obtains these supplies, but the quality is indeed excellent.","Trong các dịch vụ tiếp tế, một số nhà cung cấp đặc biệt bí ẩn, chẳng hạn như Bờ Biển Đen. Không ai biết những vật tư này đến từ đâu, nhưng chất lượng quả thực rất tốt."
+lang_multi_text.db,MultiText,ItemInfo_51005_Name,黑花的数据驰援,Blake Bloom's Data Aid,Chi Viện Dữ Liệu Của Hắc Hoa
+lang_multi_text.db,MultiText,ItemInfo_51005_ObtainedShowDescription,声骸养成礼包,Echo Development Bundle,Gói bồi dưỡng Thanh Hài
+lang_multi_text.db,MultiText,ItemInfo_51006_AttributesDescription,获取后将获得其中包含的物品。,Obtain to receive the items inside.,Nhận để có được các vật phẩm bên trong.
+lang_multi_text.db,MultiText,ItemInfo_51006_Name,边庭的浮金驰援,Magisterial Radiant Aid,Chi Viện Phù Kim Của Biên Đình
+lang_multi_text.db,MultiText,ItemInfo_51007_AttributesDescription,获取后将获得其中包含的物品。,Obtain to receive the items inside.,Nhận để có được các vật phẩm bên trong.
+lang_multi_text.db,MultiText,ItemInfo_51007_Name,边庭的铸潮驰援,Magisterial Forging Aid,Chi Viện Đúc Triều Của Biên Đình
+lang_multi_text.db,MultiText,ItemInfo_51008_Name,黑花的浮金驰援,Blake Bloom's Radiant Aid,Chi Viện Phù Kim Của Hắc Hoa
+lang_multi_text.db,MultiText,ItemInfo_51009_Name,黑花的铸潮驰援,Blake Bloom's Forging Aid,Chi Viện Đúc Triều Của Hắc Hoa
+lang_multi_text.db,MultiText,ItemInfo_51010_Name,冠军的浮金珍藏Ⅰ,Champion's Radiant Collection I,Bộ Sưu Tập Phù Kim Của Quán Quân I
+lang_multi_text.db,MultiText,ItemInfo_51011_Name,冠军的铸潮珍藏,Champion's Forging Collection,Bộ Sưu Tập Đúc Triều Của Quán Quân
+lang_multi_text.db,MultiText,ItemInfo_51012_Name,远渡者的密音支援,Traveler's Tube Aid,Hỗ Trợ Mật Âm Của Người Viễn Du
+lang_multi_text.db,MultiText,ItemInfo_51013_Name,遍历者的密音援护,Sage's Tube Support,Tiếp Viện Mật Âm Của Người Lịch Duyệt
+lang_multi_text.db,MultiText,ItemInfo_51014_Name,遍历者的溶剂援护,Sage's Solvent Aid,Tiếp Viện Dung Môi Của Người Lịch Duyệt
+lang_multi_text.db,MultiText,ItemInfo_51015_Name,冠军的浮金珍藏Ⅱ,Champion's Radiant Collection II,Bộ Sưu Tập Phù Kim Của Quán Quân II
+lang_multi_text.db,MultiText,ItemInfo_51016_Name,金库的浮金珍藏Ⅲ,Vault's Radiant Collection III,Bộ Sưu Tập Phù Kim Của Kim Khố III
+lang_multi_text.db,MultiText,ItemInfo_51017_Name,金库的波纹珍藏,Vault's Tide Selection,Bộ Sưu Tập Ba Vân Của Kim Khố
+lang_multi_text.db,MultiText,ItemInfo_51018_Name,金库的波纹收藏,Vault's Tide Collection,Bộ Sưu Tầm Ba Vân Của Kim Khố
+lang_multi_text.db,MultiText,ItemInfo_51019_Name,先约的周期特典·一,Pioneer's Special Bounty I,Đặc Quyền Định Kỳ Tiên Ước - 1
+lang_multi_text.db,MultiText,ItemInfo_51020_Name,先约的周期特典·二,Pioneer's Special Bounty II,Đặc Quyền Định Kỳ Tiên Ước - 2

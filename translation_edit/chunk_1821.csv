@@ -1,173 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ResonantChain_66_AttributesDescription,"每次使用<color=Highlight>重击</color>、变奏技能<color=Highlight>攻其不备</color>或共鸣技能<color=Highlight>枪扫风定</color>时，获得{0}层【锐意之势】，最多可叠加{1}层。
-施放共鸣解放<color=Highlight>苍躣八荒·后动</color>会消耗所有【锐意之势】，每层【锐意之势】使共鸣解放<color=Highlight>苍躣八荒·后动</color>的伤害倍率提升{2}。","Every time <color=Highlight>Heavy Attack</color>, Intro Skill <color=Highlight>Tactical Strike</color> or Resonance Skill <color=Highlight>Windqueller</color> is used, Jiyan gains {0} stack(s) of ""Momentum"", stacking up to {1} times.
-Resonance Liberation <color=Highlight>Emerald Storm: Finale</color> will consume all ""Momentum"", and each stack consumed increases the DMG multiplier of Resonance Liberation <color=Highlight>Emerald Storm: Finale</color> by {2}.","Mỗi lần sử dụng <color=Highlight>Trọng Kích</color>, Biến Tấu Kỹ <color=Highlight>Công Kỳ Bất Bị</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Thương Tảo Phong Định</color>, nhận được {0} tầng [Nhuệ Ý Chi Thế], cộng dồn tối đa {1} tầng.
-Thi triển Giải Phóng Cộng Hưởng <color=Highlight>Thương Cù Bát Hoang - Hậu Động</color> sẽ tiêu hao toàn bộ [Nhuệ Ý Chi Thế], mỗi tầng [Nhuệ Ý Chi Thế] giúp hệ số sát thương Giải Phóng Cộng Hưởng <color=Highlight>Thương Cù Bát Hoang - Hậu Động</color> tăng {2}."
-lang_multi_text.db,MultiText,ResonantChain_66_NodeName,移山,Fortitude,Di Sơn
-lang_multi_text.db,MultiText,ResonantChain_67_AttributesDescription,共鸣技能<color=Highlight>移位戏法</color>的冷却时间减少{0}秒。,The cooldown of Resonance Skill <color=Highlight>Shift Trick</color> is reduced by {0}s.,Thời gian hồi chiêu Kỹ Năng Cộng Hưởng <color=Highlight>Di Vị Hí Pháp</color> giảm {0} giây.
-lang_multi_text.db,MultiText,ResonantChain_67_NodeName,恶作剧开场,Trickster's Opening Show,Màn Mở Đầu Nghịch Ngợm
-lang_multi_text.db,MultiText,ResonantChain_68_AttributesDescription,【雾化分身】继承的生命值提升{0}，秋水攻击被分身嘲讽的目标时，攻击提升{1}。,"""Mist Avatar"" inherits {0} more HP from Aalto. When Aalto attacks targets taunted by the ""Mist Avatar(s)"", his ATK is increased by {1}.","Sinh lực kế thừa của ""Phân Thân Sương Mù"" tăng {0}, khi Aalto tấn công mục tiêu bị phân thân khiêu khích, tấn công tăng {1}."
-lang_multi_text.db,MultiText,ResonantChain_68_NodeIndex,共鸣5-4,Resonance 5-4,Cộng Hưởng 5-4
-lang_multi_text.db,MultiText,ResonantChain_68_NodeName,织雾首秀,Mistweaver's Debut,Buổi Ra Mắt Dệt Sương
-lang_multi_text.db,MultiText,ResonantChain_69_AttributesDescription,秋水的<color=Highlight>普攻</color>或<color=Highlight>空中攻击</color>穿过【<te href=850048>雾气</te>】时，会额外生成2颗子弹，共造成<color=Highlight>普攻</color>或<color=Highlight>空中攻击</color>的{0}伤害。,"When Aalto's <color=Highlight>Basic Attack</color> or <color=Highlight>Mid-air Attack</color> passes through the <te href=850048>Mist</te>, 2 more bullets will be generated, dealing {0} of the DMG of <color=Highlight>Basic Attack</color> or <color=Highlight>Mid-air Attack</color>.","Khi <color=Highlight>Phổ Công</color> hoặc <color=Highlight>Tấn Công Trên Không</color> của Aalto xuyên qua [<te href=850048>Sương Mù</te>], sẽ tạo thêm 2 viên đạn, gây tổng cộng {0} sát thương <color=Highlight>Phổ Công</color> hoặc <color=Highlight>Tấn Công Trên Không</color>."
-lang_multi_text.db,MultiText,ResonantChain_69_NodeName,雾化转场,Hazey Transition,Chuyển Cảnh Sương Mù
-lang_multi_text.db,MultiText,ResonantChain_6_AttributesDescription,施放空中攻击<color=Highlight>释羽</color>后，队伍中的角色的攻击提升{0}，效果持续{1}秒。,"After casting Mid-air Attack <color=Highlight>Feather Release</color>, the ATK of all team members is increased by {0} for {1}s.","Sau khi thi triển Tấn Công Trên Không <color=Highlight>Thả Lông Vũ</color>, tấn công của tất cả nhân vật trong đội tăng {0}, hiệu quả kéo dài {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_6_NodeName,致美好以颂歌,A Tribute to Life's Sweet Hymn,Tụng Ca Dành Cho Những Điều Tươi Đẹp
-lang_multi_text.db,MultiText,ResonantChain_70_AttributesDescription,共鸣技能<color=Highlight>雾化子弹</color>伤害提升{0}，共鸣回路<color=Highlight>迷雾潜行</color>状态下秋水受到的伤害降低{1}。,The damage of Resonance Skill <color=Highlight>Mist Bullets</color> is increased by {0}; Aalto receives {1} less DMG in his Forte Circuit <color=Highlight>Mistcloak Dash</color> state.,"Sát thương Kỹ Năng Cộng Hưởng <color=Highlight>Đạn Sương Mù</color> tăng {0}; trong trạng thái Cộng Hưởng Mạch <color=Highlight>Ẩn Mình Trong Sương</color>, sát thương Aalto nhận vào giảm {1}."
-lang_multi_text.db,MultiText,ResonantChain_70_NodeName,终幕的黑花,Blake Bloom for Finale,Hắc Hoa Của Màn Cuối
-lang_multi_text.db,MultiText,ResonantChain_71_AttributesDescription,处于共鸣回路<color=Highlight>迷雾潜行</color>时，秋水的气动伤害加成提升{0}，效果持续{1}秒。,"In the Forte Circuit <color=Highlight>Mistcloak Dash</color> state, Aalto's Aero DMG Bonus is increased by {0} for {1}s.","Khi ở trong trạng thái Cộng Hưởng Mạch <color=Highlight>Ẩn Mình Trong Sương</color>, bonus sát thương Khí Động của Aalto tăng {0}, hiệu quả kéo dài {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_71_NodeName,迷途者喝彩,Applause of the Lost,Tán Thưởng Của Kẻ Lạc Lối
-lang_multi_text.db,MultiText,ResonantChain_72_AttributesDescription,共鸣解放<color=Highlight>雾里观花</color>的效果会使暴击额外提升{0}，秋水的重击穿过【<te href=850049>虚实之门</te>】时，伤害额外提升{1}。,"Resonance Liberation <color=Highlight>Flower in the Mist</color> now additionally increases Crit. Rate by {0}. When Aalto's Heavy Attack passes through the <te href=850049>Gate of Quandary</te>, the damage dealt is additionally increased by {1}.","Hiệu quả Giải Phóng Cộng Hưởng <color=Highlight>Ngắm Hoa Trong Sương</color> giờ còn tăng thêm tỷ lệ bạo kích {0}. Khi Trọng Kích của Aalto xuyên qua [<te href=850049>Cổng Hư Thực</te>], sát thương tăng thêm {1}."
-lang_multi_text.db,MultiText,ResonantChain_72_NodeIndex,共鸣6-4,Resonance 6-4,Cộng Hưởng 6-4
-lang_multi_text.db,MultiText,ResonantChain_72_NodeName,幕后卖家,Broker's Secrets,Kẻ Buôn Bán Hậu Trường
-lang_multi_text.db,MultiText,ResonantChain_73_AttributesDescription,"施放变奏技能<color=Highlight>八千春秋</color>时，暴击伤害提升{0}，持续{1}秒，每{2}秒可触发1次。
-共鸣回路<color=Highlight>一日花</color>免疫打断。","Casting Intro Skill <color=Highlight>Everblooming</color> increases Camellya's Crit. DMG by {0} for {1}s. This effect can be triggered once every {2}s.
-Immune to interruptions while casting <color=Highlight>Ephemeral</color>.","Khi thi triển Biến Tấu Kỹ <color=Highlight>Bát Thiên Xuân Thu</color>, sát thương bạo kích tăng {0}, kéo dài {1} giây. Hiệu quả này có thể kích hoạt 1 lần mỗi {2} giây.
-Cộng Hưởng Mạch <color=Highlight>Nhất Nhật Hoa</color> miễn dịch gián đoạn."
-lang_multi_text.db,MultiText,ResonantChain_73_NodeName,在无人知晓的秘密小径,Somewhere No One Travelled,Trên Con Đường Bí Mật Không Ai Hay Biết
-lang_multi_text.db,MultiText,ResonantChain_74_AttributesDescription,共鸣回路<color=Highlight>一日花</color>伤害倍率提升{0}。,The DMG Multiplier of Resonance Skill <color=Highlight>Ephemeral</color> is increased by {0}.,Hệ số sát thương Cộng Hưởng Mạch <color=Highlight>Nhất Nhật Hoa</color> tăng {0}.
-lang_multi_text.db,MultiText,ResonantChain_74_NodeName,呼唤那沉默之花的芬芳,Calling Upon the Silent Rose,Gọi Hương Thơm Của Đóa Hoa Câm Lặng
-lang_multi_text.db,MultiText,ResonantChain_75_AttributesDescription,共鸣解放<color=Highlight>芳华绽烬</color>伤害倍率提升{0}；<color=Highlight><te href=850021>含苞状态</te></color>期间，椿的攻击提升{1}。,"The DMG Multiplier of Resonance Liberation <color=Highlight>Fervor Efflorescent</color> is increased by {0}. When in <color=Highlight><te href=850021>Budding Mode</te></color>, Camellya's ATK is increased by {1}.","Hệ số sát thương Giải Phóng Cộng Hưởng <color=Highlight>Phương Hoa Trẫm Tẫn</color> tăng {0}; trong <color=Highlight><te href=850021>Trạng Thái Hàm Bao</te></color>, tấn công của Camellya tăng {1}."
-lang_multi_text.db,MultiText,ResonantChain_75_NodeName,一根荆棘胜过千颗花种,A Bud Adorned by Thorns,Một Cành Gai Hơn Ngàn Hạt Giống Hoa
-lang_multi_text.db,MultiText,ResonantChain_76_AttributesDescription,施放变奏技能<color=Highlight>八千春秋</color>后，队伍中的角色普攻伤害加成提升{0}，持续{1}秒。,Casting <color=Highlight>Everblooming</color> gives all team members {0} Basic Attack DMG Bonus for {1}s.,"Sau khi thi triển Biến Tấu Kỹ <color=Highlight>Bát Thiên Xuân Thu</color>, bonus sát thương Phổ Công của tất cả nhân vật trong đội tăng {0}, kéo dài {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_76_NodeIndex,共鸣1-4,Resonance 1-4,Cộng Hưởng 1-4
-lang_multi_text.db,MultiText,ResonantChain_76_NodeName,它的根茎持续到永恒中,Roots Set Deep In Eternity,Rễ Cây Vươn Tới Vĩnh Hằng
-lang_multi_text.db,MultiText,ResonantChain_77_AttributesDescription,"变奏技能<color=Highlight>八千春秋</color>伤害倍率提升{0}。
-延奏技能<color=Highlight>缠绕</color>伤害倍率提升{1}。",The DMG Multipliers of Intro Skill <color=Highlight>Everblooming</color> is increased by {0} and Outro Skill <color=Highlight>Twining</color> is increased by {1}.,"Hệ số sát thương Biến Tấu Kỹ <color=Highlight>Bát Thiên Xuân Thu</color> tăng {0}.
-Hệ số sát thương Hiệp Tấu Kỹ <color=Highlight>Quấn Quýt</color> tăng {1}."
-lang_multi_text.db,MultiText,ResonantChain_77_NodeName,将那无限置于你的手掌,Infinity Held in Your Palm,Đặt Vô Hạn Trong Lòng Bàn Tay Ngươi
-lang_multi_text.db,MultiText,ResonantChain_78_AttributesDescription,"共鸣回路<color=Highlight>酣梦</color>的伤害倍率提升效果额外提升{0}；
-共鸣回路<color=Highlight>永生花</color>：施放共鸣回路<color=Highlight>一日花</color>后{1}秒内，协奏能量充满时，若<color=Highlight>永生花</color>不处于冷却状态，共鸣技能替换为<color=Highlight>永生花</color>。
-施放<color=Highlight>永生花</color>时，消耗{2}点协奏值，回复{3}点【红椿·蕊】，造成共鸣回路<color=Highlight>一日花</color>{4}的<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害，每{5}秒可施放1次。
-施放<color=Highlight>永生花</color>后，进入<color=Highlight><te href=850021>含苞状态</te></color>，清除所有红椿·蕾，并将共鸣回路<color=Highlight>酣梦</color>的伤害倍率提升效果提升至{6}。
-共鸣回路<color=Highlight>永生花</color>免疫打断。","The DMG Multiplier of Forte Circuit's <color=Highlight>Sweet Dream</color> is additionally increased by {0}. 
-Forte Circuit <color=Highlight>Perennial</color>: Within {1}s after casting <color=Highlight>Ephemeral</color>, if Concerto Energy is full and <color=Highlight>Perennial</color> is not on cooldown, Resonance Skill is replaced with <color=Highlight>Perennial</color>.
-Casting <color=Highlight>Perennial</color> consumes {2} Concerto Energy and recovers {3} Crimson Pistils, dealing <color=Dark>Havoc DMG</color> equal to {4} of <color=Highlight>Ephemeral</color> DMG, considered Basic Attack DMG. This skill can be cast once every {5}s.
-Camellya enters <color=Highlight><te href=850021>Budding Mode</te></color> after casting <color=Highlight>Perennial</color> and removes all Crimson Buds. The bonus DMG Multiplier granted by Forte Circuit's <color=Highlight>Sweet Dream</color> is increased to {6}.
-Immune to interruptions when casting <color=Highlight>Perennial</color>.","Hiệu quả tăng hệ số sát thương của Cộng Hưởng Mạch <color=Highlight>Hàm Mộng</color> tăng thêm {0};
-Cộng Hưởng Mạch <color=Highlight>Vĩnh Sinh Hoa</color>: Trong vòng {1} giây sau khi thi triển Cộng Hưởng Mạch <color=Highlight>Nhất Nhật Hoa</color>, khi năng lượng Hiệp Tấu đầy và <color=Highlight>Vĩnh Sinh Hoa</color> không trong thời gian hồi, Kỹ Năng Cộng Hưởng được thay thế bằng <color=Highlight>Vĩnh Sinh Hoa</color>.
-Khi thi triển <color=Highlight>Vĩnh Sinh Hoa</color>, tiêu hao {2} điểm Hiệp Tấu, hồi phục {3} điểm [Hồng Xuân - Nhụy], gây <color=Dark>sát thương Hủy Diệt</color> bằng {4} sát thương Cộng Hưởng Mạch <color=Highlight>Nhất Nhật Hoa</color>, sát thương này tính là sát thương Phổ Công, mỗi {5} giây có thể thi triển 1 lần.
-Sau khi thi triển <color=Highlight>Vĩnh Sinh Hoa</color>, tiến vào <color=Highlight><te href=850021>Trạng Thái Hàm Bao</te></color>, xóa toàn bộ Hồng Xuân - Lôi, và nâng hiệu quả tăng hệ số sát thương của Cộng Hưởng Mạch <color=Highlight>Hàm Mộng</color> lên {6}.
-Cộng Hưởng Mạch <color=Highlight>Vĩnh Sinh Hoa</color> miễn dịch gián đoạn."
-lang_multi_text.db,MultiText,ResonantChain_78_NodeName,为你的千千万万次盛放,Bloom For You Thousand Times Over,Vì Ngươi Nở Rộ Muôn Ngàn Lần
-lang_multi_text.db,MultiText,ResonantChain_79_AttributesDescription,共鸣技能<color=Highlight>灭杀指令</color>命中目标时，额外回复{0}点共鸣能量，每{1}秒可触发1次。,"When Resonance Skill <color=Highlight>Extermination Order</color> hits a target, it additionally recovers {0} Resonance Energy. This can be triggered once every {1}s.","Khi Kỹ Năng Cộng Hưởng <color=Highlight>Chỉ Lệnh Diệt Sát</color> trúng mục tiêu, hồi phục thêm {0} điểm năng lượng Cộng Hưởng. Hiệu quả này có thể kích hoạt 1 lần mỗi {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_79_NodeName,隐秘谈判,Covert Negotiation,Đàm Phán Bí Mật
-lang_multi_text.db,MultiText,ResonantChain_7_AttributesDescription,施放共鸣技能<color=Highlight>轰轰</color>时，必定暴击。,Resonance Skill <color=Highlight>Boom Boom</color> hits will always be Critical Hits.,"Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Bùm Bùm</color>, chắc chắn bạo kích."
-lang_multi_text.db,MultiText,ResonantChain_7_NodeName,剧院的英雄戏,No.1 Hero Play Fan,Vở Anh Hùng Của Kịch Viện
-lang_multi_text.db,MultiText,ResonantChain_80_AttributesDescription,施放变奏技能<color=Highlight>全境通缉</color>或变奏技能<color=Highlight>「必要的手段」</color>后，共鸣技能伤害加成提升{0}，持续{1}秒。,"After Calcharo casts Intro Skill <color=Highlight>Wanted Criminal</color> or Intro Skill <color=Highlight>""Necessary Means""</color>, his Resonance Skill DMG Bonus is increased by {0} for {1}s.","Sau khi thi triển Biến Tấu Kỹ <color=Highlight>Truy Nã Toàn Cảnh</color> hoặc Biến Tấu Kỹ <color=Highlight>""Thủ Đoạn Cần Thiết""</color>, gia tăng thưởng sát thương Kỹ Năng Cộng Hưởng {0}, kéo dài {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_80_NodeIndex,共鸣2-4,Resonance 2-4,Cộng Hưởng 2-4
-lang_multi_text.db,MultiText,ResonantChain_80_NodeName,零和博弈,Zero-Sum Game,Trò Chơi Tổng Bằng Không
-lang_multi_text.db,MultiText,ResonantChain_81_AttributesDescription,共鸣解放<color=Highlight>杀戮武装</color>状态持续期间，卡卡罗的导电伤害加成提升{0}。,"During the Resonance Liberation <color=Highlight>Deathblade Gear</color> state, Calcharo's Electro DMG Bonus is increased by {0}.","Trong thời gian duy trì trạng thái Giải Phóng Cộng Hưởng <color=Highlight>Vũ Trang Sát Lục</color>, thưởng sát thương Dẫn Điện của Calcharo tăng {0}."
-lang_multi_text.db,MultiText,ResonantChain_81_NodeName,铁腕外交,Iron Fist Diplomacy,Ngoại Giao Bàn Tay Sắt
-lang_multi_text.db,MultiText,ResonantChain_82_AttributesDescription,施放延奏技能<color=Highlight>掠影奇袭</color>时，队伍中的角色导电伤害加成提升{0}，持续{1}秒。,"After casting Outro Skill <color=Highlight>Shadowy Raid</color>, Electro DMG Bonus of all team members is increased by {0} for {1}s.","Khi thi triển Hiệp Tấu Kỹ <color=Highlight>Kỳ Tập Lược Ảnh</color>, thưởng sát thương Dẫn Điện của các nhân vật trong đội tăng {0}, kéo dài {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_82_NodeName,集群威胁,Dark Alliance,Mối Đe Dọa Tập Đoàn
-lang_multi_text.db,MultiText,ResonantChain_83_AttributesDescription,变奏技能<color=Highlight>全境通缉</color>及变奏技能<color=Highlight>「必要的手段」</color>的伤害提升{0}。,"Intro Skill <color=Highlight>Wanted Criminal</color> and Intro Skill <color=Highlight>""Necessary Means""</color> deal {0} more DMG.","Sát thương của Biến Tấu Kỹ <color=Highlight>Truy Nã Toàn Cảnh</color> và Biến Tấu Kỹ <color=Highlight>""Thủ Đoạn Cần Thiết""</color> tăng {0}."
-lang_multi_text.db,MultiText,ResonantChain_83_NodeName,替代协议,Unconventional Compact,Hiệp Ước Thay Thế
-lang_multi_text.db,MultiText,ResonantChain_84_AttributesDescription,施放重击<color=Highlight>「死告」</color>时，卡卡罗将会召唤{0}个<color=Highlight>猎杀影</color>进行协同攻击，每个<color=Highlight>猎杀影</color>可造成卡卡罗{1}攻击的<color=Thunder>导电伤害</color>，此次伤害为共鸣解放伤害。,"When casting Resonance Liberation <color=Highlight>""Death Messenger""</color>, Calcharo will summon {0} <color=Highlight>Phantoms</color> to perform Coordinated Attacks. Each <color=Highlight>Phantom</color> deals <color=Thunder>Electro DMG</color> equal to {1} of Calcharo's ATK, which is considered Resonance Liberation DMG.","Khi thi triển Trọng Kích <color=Highlight>""Tử Cáo""</color>, Calcharo sẽ triệu hồi {0} <color=Highlight>Liệp Sát Ảnh</color> tiến hành hiệp đồng tấn công, mỗi <color=Highlight>Liệp Sát Ảnh</color> gây <color=Thunder>sát thương Dẫn Điện</color> bằng {1} tấn công của Calcharo, sát thương này được tính là sát thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,ResonantChain_84_NodeIndex,共鸣3-4,Resonance 3-4,Cộng Hưởng 3-4
-lang_multi_text.db,MultiText,ResonantChain_84_NodeName,最后通牒,The Ultimatum,Tối Hậu Thư
-lang_multi_text.db,MultiText,ResonantChain_85_AttributesDescription,共鸣技能<color=Highlight>磁殛咆哮</color>和<color=Highlight>召雷磁爆</color>伤害提升{0}。,Resonance Skill <color=Highlight>Magnetic Roar</color> and <color=Highlight>Lightning Execution</color> deal {0} more DMG.,Sát thương của Kỹ Năng Cộng Hưởng <color=Highlight>Từ Kích Bão Hống</color> và <color=Highlight>Triệu Lôi Từ Bạo</color> tăng {0}.
-lang_multi_text.db,MultiText,ResonantChain_85_NodeName,矛盾的抉择,Morality's Crossroads,Lựa Chọn Mâu Thuẫn
-lang_multi_text.db,MultiText,ResonantChain_86_AttributesDescription,共鸣技能<color=Highlight>磁殛爆发</color>命中时额外恢复{1}点【<te href=850030>审判值</te>】和{2}点共鸣能量。,Resonance Skill <color=Highlight>Electromagnetic Blast</color> recovers an additional {1} <te href=850030>Judgement Point(s)</te> and {2} Resonance Energy on hit.,"Khi Kỹ Năng Cộng Hưởng <color=Highlight>Từ Kích Bạo Phát</color> trúng mục tiêu, hồi phục thêm {1} điểm [<te href=850030>Thẩm Phán Trị</te>] và {2} điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,ResonantChain_86_NodeName,牵绊的俘虏,Ensnarled by Rapport,Tù Nhân Của Ràng Buộc
-lang_multi_text.db,MultiText,ResonantChain_87_AttributesDescription,共鸣回路<color=Highlight>审判之雷</color>伤害倍率提升55%。,Forte Circuit <color=Highlight>Judgment Strike</color>'s DMG multiplier is increased by 55%.,Hệ số sát thương của Cộng Hưởng Mạch <color=Highlight>Sấm Phán Quyết</color> tăng 55%.
-lang_multi_text.db,MultiText,ResonantChain_87_NodeName,无情的断罪,Unyielding Verdict,Đoạn Tội Vô Tình
-lang_multi_text.db,MultiText,ResonantChain_88_AttributesDescription,共鸣回路<color=Highlight>审判之雷</color>命中时，队伍中的角色攻击提升{0}，持续{1}秒。,"When Forte Circuit <color=Highlight>Judgment Strike</color> hits a target, the ATK of all team members is increased by {0} for {1}s.","Khi Cộng Hưởng Mạch <color=Highlight>Sấm Phán Quyết</color> trúng mục tiêu, tấn công của các nhân vật trong đội tăng {0}, kéo dài {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_88_NodeIndex,共鸣4-4,Resonance 4-4,Cộng Hưởng 4-4
-lang_multi_text.db,MultiText,ResonantChain_88_NodeName,前行的鼓舞,Steadfast Conviction,Cổ Vũ Tiến Bước
-lang_multi_text.db,MultiText,ResonantChain_89_AttributesDescription,共鸣解放<color=Highlight>破天雷灭击</color>命中带有共鸣回路<color=Highlight>缚罪标记</color>、<color=Highlight>惩罚印记</color>的目标时，伤害提升{0}。,Resonance Liberation <color=Highlight>Thundering Wrath</color> deals {0} extra DMG to targets with Forte Circuit's <color=Highlight>Sinner's Mark</color> or <color=Highlight>Punishment Mark</color>.,"Khi Giải Phóng Cộng Hưởng <color=Highlight>Phá Thiên Lôi Diệt Kích</color> trúng mục tiêu mang <color=Highlight>Phược Tội Tiêu Ký</color> hoặc <color=Highlight>Trừng Phạt Ấn Ký</color> của Cộng Hưởng Mạch, sát thương tăng {0}."
-lang_multi_text.db,MultiText,ResonantChain_89_NodeName,决意的回响,Resounding Will,Hồi Vang Quyết Ý
-lang_multi_text.db,MultiText,ResonantChain_8_AttributesDescription,施放共鸣解放<color=Highlight>炽烈焰火</color>期间，每击败{0}个目标，回复{1}点共鸣能量，每次最多可回复{2}点。,"During Resonance Liberation <color=Highlight>Blazing Flames</color>, for every {0} target defeated, Chixia recovers {1} Resonance Energy, up to {2} each time.","Trong thời gian thi triển Giải Phóng Cộng Hưởng <color=Highlight>Blazing Flames</color>, cứ mỗi {0} mục tiêu bị đánh bại, hồi phục {1} điểm Năng Lượng Cộng Hưởng, tối đa có thể hồi phục {2} điểm mỗi lần."
-lang_multi_text.db,MultiText,ResonantChain_8_NodeIndex,共鸣2-4,Resonance 2-4,Cộng Hưởng 2-4
-lang_multi_text.db,MultiText,ResonantChain_8_NodeName,跃动的火星,Leaping Sparkles,Tia Lửa Nhảy Nhót
-lang_multi_text.db,MultiText,ResonantChain_90_AttributesDescription,施放共鸣解放<color=Highlight>破天雷灭击</color>后的30秒内，吟霖的<color=Highlight>普攻</color>命中目标时额外触发<color=Highlight>疾霆昭彰</color>，造成吟霖攻击力419.59%的<color=Thunder>导电伤害</color>，每段<color=Highlight>普攻</color>可触发1次，最多触发4次，此次伤害为共鸣技能伤害。,"In the first 30s after casting Resonance Liberation <color=Highlight>Thundering Wrath</color>, when Yinlin's <color=Highlight>Basic Attack</color> hits a target, <color=Highlight>Furious Thunder</color> will be triggered, dealing <color=Thunder>Electro DMG</color> equal to 419.59% of Yinlin's ATK. Every <color=Highlight>Basic Attack</color> hit can trigger <color=Highlight>Furious Thunder</color> 1 time, up to 4 times. This is considered Resonance Skill DMG.","Trong vòng 30 giây sau khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Thundering Wrath</color>, khi <color=Highlight>Phổ Công</color> của Yinlin trúng mục tiêu sẽ kích hoạt thêm <color=Highlight>Furious Thunder</color>, gây <color=Thunder>sát thương Dẫn Điện</color> bằng 419.59% tấn công của Yinlin. Mỗi đoạn <color=Highlight>Phổ Công</color> có thể kích hoạt 1 lần, tối đa kích hoạt 4 lần. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng."
-lang_multi_text.db,MultiText,ResonantChain_90_NodeName,正义的践行,Pursuit of Justice,Thực Thi Công Lý
-lang_multi_text.db,MultiText,ResonantChain_91_AttributesDescription,渊武处在共鸣回路<color=Highlight>雷厉风行</color>状态时，自身的普攻攻速提升{0}，重击攻速提升{1}。,"When Yuanwu is in Forte Circuit's <color=Highlight>Lightning Infused</color> state, his Basic Attack Speed is increased by {0}, and his Heavy Attack Speed is increased by {1}.","Khi Yuanwu ở trạng thái <color=Highlight>Lightning Infused</color> của Cộng Hưởng Liên, tốc độ Phổ Công tăng {0}, tốc độ Trọng Kích tăng {1}."
-lang_multi_text.db,MultiText,ResonantChain_91_NodeName,点一盏清茗,Steaming Cup of Justice,Một Chén Thanh Trà
-lang_multi_text.db,MultiText,ResonantChain_92_AttributesDescription,施放变奏技能<color=Highlight>轰雷</color>时，渊武额外回复{0}点共鸣能量。,Intro Skill <color=Highlight>Thunder Bombardment</color> additionally recovers {0} Resonance Energy for Yuanwu.,"Khi thi triển Biến Tấu Kỹ <color=Highlight>Thunder Bombardment</color>, Yuanwu hồi phục thêm {0} điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,ResonantChain_92_NodeIndex,共鸣5-4,Resonance 5-4,Cộng Hưởng 5-4
-lang_multi_text.db,MultiText,ResonantChain_92_NodeName,敛狂戾之心,"Fierce Heart, Serene Mind",Thu Liễm Cuồng Tâm
-lang_multi_text.db,MultiText,ResonantChain_93_AttributesDescription,共鸣技能<color=Highlight>雷之楔</color>的协同攻击命中目标时，基于渊武{0}防御额外提升伤害。,"When the Coordinated Attacks of Resonance Skill's <color=Highlight>Thunder Wedge</color> hits a target, the damage is additionally increased by {0} of Yuanwu's DEF.","Khi đòn phối hợp tấn công của Kỹ Năng Cộng Hưởng <color=Highlight>Thunder Wedge</color> trúng mục tiêu, sát thương được tăng thêm dựa trên {0} phòng thủ của Yuanwu."
-lang_multi_text.db,MultiText,ResonantChain_93_NodeName,正周身之气,Upholder of Integrity,Chính Khí Lưu Thân
-lang_multi_text.db,MultiText,ResonantChain_94_AttributesDescription,施放共鸣解放<color=Highlight>寂土重明</color>时，队伍中在场角色获得渊武自身{0}防御的护盾，持续{1}秒。,"When casting Resonance Liberation <color=Highlight>Blazing Might</color>, the on-field character will gain a Shield equal to {0} of Yuanwu's DEF for {1}s.","Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Blazing Might</color>, nhân vật đang trên sân trong đội nhận được khiên bằng {0} phòng thủ của Yuanwu, duy trì {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_94_NodeName,挥刚猛之拳,Retributive Knuckles,Nắm Đấm Cương Mãnh
-lang_multi_text.db,MultiText,ResonantChain_95_AttributesDescription,共鸣技能<color=Highlight>雷之楔</color>在场时，渊武的共鸣解放伤害加成提升{0}。,"When Resonance Skill <color=Highlight>Thunder Wedge</color> is on the field, Yuanwu's Resonance Liberation DMG Bonus is increased by {0}.","Khi Kỹ Năng Cộng Hưởng <color=Highlight>Thunder Wedge</color> đang trên sân, gia tăng sát thương Giải Phóng Cộng Hưởng của Yuanwu thêm {0}."
-lang_multi_text.db,MultiText,ResonantChain_95_NodeName,顾一方天地,Neighborhood Protector,Chở Che Một Phương
-lang_multi_text.db,MultiText,ResonantChain_96_AttributesDescription,处在共鸣技能<color=Highlight>雷之楔</color>范围内的附近队伍中所有角色将持续获得效果：防御提升{0}，该效果持续时间{1}秒。,"All team members nearby within the range of Resonance Skill <color=Highlight>Thunder Wedge</color> will gain a {0} DEF increase, lasting {1}s.","Tất cả nhân vật trong đội ở gần phạm vi Kỹ Năng Cộng Hưởng <color=Highlight>Thunder Wedge</color> sẽ liên tục nhận hiệu ứng: tăng phòng thủ {0}, hiệu ứng duy trì {1} giây."
-lang_multi_text.db,MultiText,ResonantChain_96_NodeIndex,共鸣6-4,Resonance 6-4,Cộng Hưởng 6-4
-lang_multi_text.db,MultiText,ResonantChain_96_NodeName,保八方平安,Defender of All Realms,Bảo Vệ Bát Phương
-lang_multi_text.db,MultiText,ResonantChain_97_AttributesDescription,共鸣解放<color=Highlight>狮子奋迅</color>持续期间提升凌阳的抗打断能力。,"During Resonance Liberation <color=Highlight>Lion's Vigor</color>, Lingyang's Anti-Interruption is enhanced.","Trong thời gian duy trì Giải Phóng Cộng Hưởng <color=Highlight>Lion's Vigor</color>, tăng khả năng kháng gián đoạn của Lingyang."
-lang_multi_text.db,MultiText,ResonantChain_97_NodeName,醒狮开光，如意吉祥,"Lion of Light, Blessings Abound","Tỉnh Sư Khai Quang, Như Ý Cát Tường"
-lang_multi_text.db,MultiText,ResonantChain_98_AttributesDescription,施放变奏技能<color=Highlight>出洞·睡狮蛰醒</color>时，凌阳额外回复{0}点共鸣能量，每{1}秒可触发1次。,"Intro Skill <color=Highlight>Lion Awakens</color> additionally recovers {0} Resonance Energy for Lingyang, triggered once every {1}s.","Khi thi triển Biến Tấu Kỹ <color=Highlight>Lion Awakens</color>, Lingyang hồi phục thêm {0} điểm Năng Lượng Cộng Hưởng, mỗi {1} giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,ResonantChain_98_NodeName,威风凛凛，四方张狂,"Dominant and Fierce, 
-Power Unbound","Uy Phong Lẫm Liệt, Tứ Phương Trương Cuồng"
-lang_multi_text.db,MultiText,ResonantChain_99_AttributesDescription,共鸣解放<color=Highlight>狮子奋迅</color>持续期间，凌阳的普攻伤害加成提升{0}，共鸣技能伤害加成提升{1}。,"During Resonance Liberation <color=Highlight>Lion's Vigor</color>, Lingyang's Basic Attack DMG Bonus is increased by {0}, and Resonance Skill DMG Bonus increased by {1}.","Trong thời gian duy trì Giải Phóng Cộng Hưởng <color=Highlight>Lion's Vigor</color>, gia tăng sát thương Phổ Công của Lingyang thêm {0}, gia tăng sát thương Kỹ Năng Cộng Hưởng thêm {1}."
-lang_multi_text.db,MultiText,ResonantChain_99_NodeName,瞠目顾盼，其声昂昂,"Jaw-Dropping Feats, 
-Loud and Wide","Trợn Mắt Ngó Quanh, Tiếng Vang Hào Hùng"
-lang_multi_text.db,MultiText,ResonantChain_9_AttributesDescription,共鸣解放<color=Highlight>炽烈焰火</color>对生命值低于{0}的目标，伤害提升{1}。,Resonance Liberation <color=Highlight>Blazing Flames</color> deals {1} more DMG to targets whose HP is below {0}.,Giải Phóng Cộng Hưởng <color=Highlight>Ngọn Lửa Rực Cháy</color> gây thêm {1} sát thương lên mục tiêu có sinh mệnh dưới {0}.
-lang_multi_text.db,MultiText,ResonantChain_9_NodeName,不灭的火把,Eternal Flames,Ngọn Đuốc Bất Diệt
-lang_multi_text.db,MultiText,ResourceVerificationFailed_Text,资源校验失败，点击确认将退出游戏，重新启动后自动进行修复,Resource verification failed. Click Confirm to quit the game. Repair will be automatically initiated after the game restarts.,"Xác minh tài nguyên thất bại. Nhấn Xác nhận để thoát trò chơi, hệ thống sẽ tự động sửa chữa khi khởi động lại."
-lang_multi_text.db,MultiText,RestoreFrequency_Desc_1,"古老时代地磁极的变化使得拉海洛地区成为了索拉里斯的新极点。随着时代变迁，厚重冰层之下的地下空洞渐渐成为了人类的栖居之地。
-在这个温暖湿润的地下绿洲，人们口中的“太阳”另有其物。抬头仰望吧，██的存在带来了恒久不灭的日光。但笔者的心中始终盘桓着一个疑虑——
-若有一天██突然熄灭，我们该如何自处？","In ancient times, the shift in magnetic poles centered Solaris's planetary axis on Lahai-Roi. Gradually, over the ages, the cavern beneath layers of ice became home to human settlement.
-
-In this warm, humid underground haven, the ""sun"" the people speak of is something else entirely. Look upward. The ██ brings here constant, unyielding daylight. Yet one question lingers in the author's heart:
-If one day the ██ were to fall dark, what would become of us?","Sự thay đổi địa từ cực trong thời cổ đại đã khiến khu vực Lahai-Roi trở thành cực mới của Solaris. Theo dòng thời gian, khoảng trống ngầm dưới lớp băng dày dần trở thành nơi cư trú của loài người.
-Tại ốc đảo ngầm ấm áp và ẩm ướt này, thứ mà mọi người gọi là ""mặt trời"" lại là một thứ khác. Hãy ngước nhìn lên, sự tồn tại của ██ mang đến ánh sáng vĩnh hằng không bao giờ tắt. Nhưng trong lòng tác giả luôn vấn vương một nỗi lo -
-Nếu một ngày nào đó ██ bỗng nhiên tắt lịm, chúng ta sẽ ra sao?"
-lang_multi_text.db,MultiText,RestoreFrequency_Desc_2,"这里或许不是全索拉里斯最大的学生食堂，但肯定是全索拉里斯最先进的学生食堂。所有供应餐都遵循着严格的食品安全规范，有着最为科学的营养配比，能够适应复杂环境下的长期存储需要。
-
-热门评论【已删除】：安全，精致，耐储存……但就是不好吃啊。","It may not be the largest cafeteria in Solaris, but it is definitely the most advanced. Every meal follows rigorous safety standards, with scientifically tailored nutritional values, ready made for long-term storage in even the harshest environments.
-
-Popular Comment [Deleted]: Safe, refined, storable… but it just doesn't taste good.","Đây có lẽ không phải nhà ăn sinh viên lớn nhất toàn Solaris, nhưng chắc chắn là nhà ăn sinh viên tiên tiến nhất. Mọi bữa ăn đều tuân thủ quy chuẩn an toàn thực phẩm nghiêm ngặt, có tỷ lệ dinh dưỡng khoa học nhất, đáp ứng nhu cầu bảo quản lâu dài trong môi trường phức tạp.
-
-Bình luận nổi bật [Đã xóa]: An toàn, tinh tế, bảo quản lâu... nhưng không ngon chút nào."
-lang_multi_text.db,MultiText,RestoreFrequency_Desc_3,"（残缺的音频信息中记录了一段简短的对话）
-男声：（兴奋的呼吸声）
-男声：这座巨型运载电梯……真是索拉里斯建筑史上的奇迹。
-男声：它支撑着地下空洞的穹顶，连接了学院和研究院，源源不断地输送着自冰原而来的货物……
-女声：新生是这样的，多坐几趟你就习惯了。","(Fragmentary Audio Log of a short conversation)
-
-Male Voice: (excited, breathless)
-Male Voice: This lift... It's colossal! A miracle in the architectural history of Solaris. 
-Male Voice: It supports the cavern's dome, linking the Academy and the Research Institute, ferrying supplies nonstop from the frostlands…
-Female Voice: Typical freshman. Ride it a few more times, and you'll get used to it.","(Đoạn thông tin âm thanh không hoàn chỉnh ghi lại một cuộc hội thoại ngắn)
-Giọng nam: (tiếng thở hào hứng)
-Giọng nam: Thang nâng vận tải khổng lồ này... thật sự là kỳ tích trong lịch sử kiến trúc Solaris.
-Giọng nam: Nó nâng đỡ vòm trần của khoảng trống ngầm, kết nối Học viện và Viện nghiên cứu, liên tục vận chuyển hàng hóa từ băng nguyên...
-Giọng nữ: Tân sinh nào cũng vậy, đi thêm vài chuyến rồi sẽ quen thôi."
-lang_multi_text.db,MultiText,RestoreFrequency_Desc_4,"……为了适应地下绿洲广阔、复杂的地形，一种新型的全地形交通工具应运而生。
-尽管它名义上服务于科研考察，但其实使用手册并未禁止你乘着它在星炬学院以外的地方飙车。","...To adapt to the vast and complex terrain of the underground haven, a new type of all-terrain vehicle was developed.
-
-Though officially designed for research expeditions, the user manual contains no explicit rule against taking it for a joyride beyond the grounds of Startorch Academy.","...Để thích ứng với địa hình rộng lớn và phức tạp của ốc đảo ngầm, một loại phương tiện đa địa hình mới đã ra đời.
-Dù trên danh nghĩa phục vụ cho khảo sát khoa học, nhưng thực ra sổ tay hướng dẫn không hề cấm bạn lái nó phóng ngoài khuôn viên Học viện Tinh Cự."
-lang_multi_text.db,MultiText,RestoreFrequency_Desc_5,"……在「深空联合」出现前，这个自给自足的游牧部族——罗伊族就已生活在这片广阔的地下区域。星炬学院和研究院的建设也离不开罗伊族所提供的帮助。
-
-依托██所遗留的机械残骸，罗伊族构筑起了独特的聚落生态。据说，精通天文和历法的他们坚守着一个自古传承至今的使命——期待有一天，能修复并唤醒沉眠中的██。","Long before the Spacetrek Collective was founded, the self-sufficient nomadic Roya people had already made their home in these vast caverns. The construction of both Startorch Academy and the Research Institute would not have been possible without their help.
-
-Drawing upon mechanical remnants of the ██, the Roya forged a settlement unlike any other. Skilled in astronomy and chronology, they are said to guard an ancient mission—awaiting the day they might repair and awaken the slumbering ██.","...Trước khi ""Thâm Không Liên Hợp"" xuất hiện, bộ tộc du mục tự cung tự cấp này - tộc Roya - đã sinh sống tại vùng ngầm rộng lớn này. Việc xây dựng Học viện Tinh Cự và Viện nghiên cứu cũng không thể thiếu sự giúp đỡ của tộc Roya.
-
-Dựa vào tàn tích cơ khí mà ██ để lại, tộc Roya đã xây dựng nên một hệ sinh thái khu định cư độc đáo. Tương truyền, với kiến thức uyên thâm về thiên văn và lịch pháp, họ gìn giữ một sứ mệnh truyền thừa từ xa xưa - mong chờ ngày có thể sửa chữa và đánh thức ██ đang say giấc."
-lang_multi_text.db,MultiText,RestoreFrequency_Desc_6,"《仿生叫早鸟会梦见电子课程表吗？》（节选）
-……「叫早」的冠羽构成了“表盘”的时针和分针。到了每天的特定时刻，它便会发出清晰响亮的鸣叫。轻轻地敲击它的头部，就能使它停下歌喉。因此，罗伊族人大多将它当做计时和报时的“闹钟”。
-
-备注：请注意，携带「叫早」进入宿舍区的行为是校方严令禁止的。","<i>Do Clockatoos Dream of Electric Schedules?</i> (Excerpt)
-
-...The crown feathers of a Clockatoo form the hour and minute hands on a living ""clock face."" At fixed hours each day, it lets out a clear, piercing call. A light tap on its head will silence it. For this reason, most Roya use the Clockatoo as an ""alarm-capable"" timepiece and timer.
-
-Note: Bringing Clockatoos into the dormitory is strictly forbidden by the Academy.","""Chim Báo Thức Phỏng Sinh Có Mơ Thấy Thời Khóa Biểu Điện Tử Không?"" (Trích đoạn)
-...Mào lông của ""Chim Báo Thức"" tạo thành kim giờ và kim phút trên ""mặt đồng hồ"". Vào những thời điểm nhất định mỗi ngày, nó sẽ phát ra tiếng kêu trong trẻo vang dội. Nhẹ nhàng gõ lên đầu nó sẽ khiến nó ngừng hót. Vì vậy, người tộc Roya phần lớn dùng nó làm ""đồng hồ báo thức"" để đo và báo giờ.
-
-Ghi chú: Xin lưu ý, việc mang ""Chim Báo Thức"" vào khu ký túc xá là hành vi bị nhà trường nghiêm cấm."
-lang_multi_text.db,MultiText,RestoreFrequency_Desc_7,"昔日，祂以巨剑支撑天地，以身躯滋养生灵，以炽热不熄的██驱散了此间的黑暗。
-现于冻土之上，祂静静沉眠……","In ancient times, It held up heaven and earth with a colossal sword; Its body nourished all life, and its blazing, deathless ██ drove back darkness from this world.
-
-Now, upon the frozen land, it lies in silent slumber...","Ngày xưa, Ngài dùng cự kiếm chống đỡ trời đất, lấy thân xác nuôi dưỡng muôn loài, dùng ██ rực cháy không tắt xua tan bóng tối nơi đây.
-Giờ đây, trên lớp đất đóng băng, Ngài lặng lẽ say giấc..."
-lang_multi_text.db,MultiText,RestoreFrequency_Reward_0,还原频率可获得,Restore frequencies to obtain,Hoàn nguyên tần số để nhận
-lang_multi_text.db,MultiText,RestoreFrequency_Reward_1,频率已还原,Frequency restored,Tần số đã hoàn nguyên
-lang_multi_text.db,MultiText,RestoreFrequency_Title_0,？？？？,????,????
-lang_multi_text.db,MultiText,RestoreFrequency_Title_1,地底“太阳”,"Underground ""Sun""","""Mặt Trời"" Dưới Lòng Đất"
-lang_multi_text.db,MultiText,RestoreFrequency_Title_2,学生食堂,Student Cafeteria,Nhà Ăn Sinh Viên
-lang_multi_text.db,MultiText,RestoreFrequency_Title_3,运载电梯,Orbital Lift,Thang Nâng Vận Tải
-lang_multi_text.db,MultiText,RestoreFrequency_Title_4,出行载具,Transport Vehicle,Phương Tiện Di Chuyển
+lang_multi_text.db,MultiText,Raid_27_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
+lang_multi_text.db,MultiText,Raid_28_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục 6 giây
+lang_multi_text.db,MultiText,Raid_28_Chanllenge_2,节点目标二：使用4次变奏技能,Goal 2: Use Intro Skill 4 times,Mục tiêu 2: Sử dụng 4 lần kỹ năng Biến Tấu
+lang_multi_text.db,MultiText,Raid_28_Chanllenge_3,节点目标三：被攻击少于10次,Goal 3: Take less than 10 hits,Mục tiêu 3: Bị tấn công ít hơn 10 lần
+lang_multi_text.db,MultiText,Raid_29_Chanllenge_1,节点目标一：挑战中战斗等级到达SS,Goal 1: Reach Battle Rank SS,Mục tiêu 1: Đạt hạng chiến đấu SS trong thử thách
+lang_multi_text.db,MultiText,Raid_29_Chanllenge_2,节点目标二：用逆势回击直接击败欺诈奇藏2次,Goal 2: Use Counterattacks to defeat 2 Chest Mimics,Mục tiêu 2: Dùng Phản Công đánh bại Kỳ Tàng Lừa Đảo 2 lần
+lang_multi_text.db,MultiText,Raid_29_Chanllenge_3,节点目标三：挑战中没有角色死亡,Goal 3: No Resonators are downed during the challenge,Mục tiêu 3: Không có nhân vật nào tử trận trong thử thách
+lang_multi_text.db,MultiText,Raid_2_Chanllenge_1,测试目标一：闪避反击2次,Goal 1: Perform 2 Dodge Counters,Mục tiêu thử nghiệm 1: Né Tránh Phản Công 2 lần
+lang_multi_text.db,MultiText,Raid_2_Chanllenge_2,测试目标二：使用1次变奏技能,Goal 2: Use Intro Skill 1 time,Mục tiêu thử nghiệm 2: Sử dụng 1 lần kỹ năng Biến Tấu
+lang_multi_text.db,MultiText,Raid_2_Chanllenge_3,测试目标三：完成测试时剩余时间大于30秒,Goal 3: Finish the trial with at least 30s left,Mục tiêu thử nghiệm 3: Hoàn thành thử nghiệm khi còn hơn 30 giây
+lang_multi_text.db,MultiText,Raid_30_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu 1: Đạt hạng chiến đấu S khi kết thúc thử thách
+lang_multi_text.db,MultiText,Raid_30_Chanllenge_2,节点目标二：使碎獠猪撞击障碍物而眩晕2次,Goal 2: Stun Sabyr Boars by making them run into obstacles 2 times,Mục tiêu 2: Khiến Toái Liêu Trư đâm vào chướng ngại vật và choáng 2 lần
+lang_multi_text.db,MultiText,Raid_30_Chanllenge_3,节点目标三：完成6次成功闪避,Goal 3: Perform 6 Dodges,Mục tiêu 3: Né Tránh thành công 6 lần
+lang_multi_text.db,MultiText,Raid_31_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Đầu Mối Mộng Cảnh bị phá hủy
+lang_multi_text.db,MultiText,Raid_31_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 30%
+lang_multi_text.db,MultiText,Raid_31_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn Đầu Mối Mộng Cảnh trên 60%
+lang_multi_text.db,MultiText,Raid_32_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s,Mục tiêu 1: Duy trì hạng chiến đấu S hơn 10 giây
+lang_multi_text.db,MultiText,Raid_32_Chanllenge_2,节点目标二：用共鸣解放伤害击败3个敌人,Goal 2: Use Resonance Liberation DMG to defeat 3 enemies,Mục tiêu 2: Dùng sát thương Giải Phóng Cộng Hưởng Đánh Bại 3 kẻ địch
+lang_multi_text.db,MultiText,Raid_32_Chanllenge_3,节点目标三：释放4次变奏技能,Goal 3: Cast Intro Skills 4 times,Mục tiêu 3: Thi triển 4 lần kỹ năng Biến Tấu
+lang_multi_text.db,MultiText,Raid_33_Chanllenge_1,节点目标一：挑战中战斗等级达到SS,Goal 1: Reach Battle Rank SS,Mục tiêu 1: Đạt hạng chiến đấu SS trong thử thách
+lang_multi_text.db,MultiText,Raid_33_Chanllenge_2,节点目标二：打断幽翎火的火球蓄力3次,Goal 2: Interrupt the Fae Ignis' fireball charge 3 times,Mục tiêu 2: Ngắt quãng tích lực cầu lửa của U Linh Hỏa 3 lần
+lang_multi_text.db,MultiText,Raid_33_Chanllenge_3,节点目标三：完成4次成功闪避,Goal 3: Perform 4 Dodges,Mục tiêu 3: Né Tránh thành công 4 lần
+lang_multi_text.db,MultiText,Raid_34_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục 6 giây
+lang_multi_text.db,MultiText,Raid_34_Chanllenge_2,节点目标二：被魔术先生的光束命中少于8次,Goal 2: Take less than 8 laser hits from Hocus Pocus,Mục tiêu 2: Bị trúng tia sáng của Hocus Pocus ít hơn 8 lần
+lang_multi_text.db,MultiText,Raid_34_Chanllenge_3,节点目标三：最后击败巨布偶,Goal 3: Defeat Cuddle Wuddle last,Mục tiêu 3: Đánh Bại Cuddle Wuddle cuối cùng
+lang_multi_text.db,MultiText,Raid_35_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Dreamscape Nexus bị phá hủy
+lang_multi_text.db,MultiText,Raid_35_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn của Dreamscape Nexus trên 30%
+lang_multi_text.db,MultiText,Raid_35_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn của Dreamscape Nexus trên 60%
+lang_multi_text.db,MultiText,Raid_36_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s,Mục tiêu 1: Đạt hạng chiến đấu S trong tổng cộng hơn 10 giây
+lang_multi_text.db,MultiText,Raid_36_Chanllenge_2,节点目标二：完成8次成功闪避,Goal 2: Perform 8 Dodges,Mục tiêu 2: Né Tránh thành công 8 lần
+lang_multi_text.db,MultiText,Raid_36_Chanllenge_3,节点目标三：用变奏技能伤害瘫痪敌人1次,Goal 3: Use Intro Skill DMG to immobilize an enemy 1 time,Mục tiêu 3: Dùng sát thương kỹ năng Biến Tấu làm tê liệt kẻ địch 1 lần
+lang_multi_text.db,MultiText,Raid_37_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu 1: Duy trì hạng chiến đấu S trở lên liên tục 8 giây
+lang_multi_text.db,MultiText,Raid_37_Chanllenge_2,节点目标二：完成3次逆势回击,Goal 2: Perform 3 Counterattacks,Mục tiêu 2: Thực hiện 3 lần Phản Công
+lang_multi_text.db,MultiText,Raid_37_Chanllenge_3,节点目标三：完成6次闪避反击,Goal 3: Perform 6 Dodge Counters,Mục tiêu nút 3: Thực hiện 6 lần Phản Công khi Né Tránh
+lang_multi_text.db,MultiText,Raid_38_Chanllenge_1,节点目标一：挑战中战斗等级达到SS,Goal 1: Reach Battle Rank SS,Mục tiêu 1: Đạt hạng chiến đấu SS trong thử thách
+lang_multi_text.db,MultiText,Raid_38_Chanllenge_2,节点目标二：被巨布偶扔出的工头布偶砸中少于3次,Goal 2: Take less than 3 hits from flying Diggy Duggies flung by Cuddle Wuddle,Mục tiêu 2: Bị trúng Diggy Duggy do Cuddle Wuddle ném ít hơn 3 lần
+lang_multi_text.db,MultiText,Raid_38_Chanllenge_3,节点目标三：用共鸣解放伤害击败2个敌人,Goal 3: Use Resonance Liberation DMG to defeat 2 enemies,Mục tiêu 3: Dùng sát thương Giải Phóng Cộng Hưởng Đánh Bại 2 kẻ địch
+lang_multi_text.db,MultiText,Raid_39_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Dreamscape Nexus bị phá hủy
+lang_multi_text.db,MultiText,Raid_39_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn của Dreamscape Nexus trên 30%
+lang_multi_text.db,MultiText,Raid_39_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn của Dreamscape Nexus trên 60%
+lang_multi_text.db,MultiText,Raid_3_Chanllenge_1,测试目标一：被攻击不大于5次,Goal 1: Take fewer than 5 hits.,Mục tiêu 1: Bị tấn công không quá 5 lần
+lang_multi_text.db,MultiText,Raid_3_Chanllenge_2,测试目标二：利用紫羽鹭或青羽鹭击败聚核棱镜,Goal 2: Defeat the Prisms via Violet-Feathered Heron or Cyan-Feathered Heron,Mục tiêu 2: Dùng Violet-Feathered Heron hoặc Cyan-Feathered Heron Đánh Bại các Prism
+lang_multi_text.db,MultiText,Raid_3_Chanllenge_3,测试目标三：45秒内击败所有聚核棱镜,Goal 3: Defeat all Prisms within 45s,Mục tiêu 3: Đánh Bại tất cả Prism trong 45 giây
+lang_multi_text.db,MultiText,Raid_40_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s.,Mục tiêu 1: Đạt hạng chiến đấu S trong tổng cộng hơn 10 giây
+lang_multi_text.db,MultiText,Raid_40_Chanllenge_2,节点目标二：用3次逆势回击打断骑士的武器增益,Goal 2: Perform 3 Counterattacks that interrupt the Knight's weapon enhancement,Mục tiêu 2: Dùng 3 lần Phản Công để ngắt tăng cường vũ khí của Hiệp Sĩ
+lang_multi_text.db,MultiText,Raid_40_Chanllenge_3,节点目标三：用共鸣解放伤害瘫痪1次敌人,Goal 3: Use Resonance Liberation DMG to immobilize an enemy 1 time,Mục tiêu 3: Dùng sát thương Giải Phóng Cộng Hưởng làm tê liệt kẻ địch 1 lần
+lang_multi_text.db,MultiText,Raid_41_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu nút 1: Đạt hạng chiến đấu S khi thử thách kết thúc
+lang_multi_text.db,MultiText,Raid_41_Chanllenge_2,节点目标二：通过射击打断刺玫菇成体的蓄力状态,Goal 2: Interrupt the Roseshroom's charging state by shooting it,Mục tiêu nút 2: Bắn để ngắt trạng thái tích lực của Roseshroom trưởng thành
+lang_multi_text.db,MultiText,Raid_41_Chanllenge_3,节点目标三：使用4次共鸣技能,Goal 3: Use Resonance Skills 4 times,Mục tiêu nút 3: Sử dụng Kỹ Năng Cộng Hưởng 4 lần
+lang_multi_text.db,MultiText,Raid_42_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu nút 1: Duy trì hạng chiến đấu S trở lên liên tục 8 giây
+lang_multi_text.db,MultiText,Raid_42_Chanllenge_2,节点目标二：不被幽翎火的自爆命中,Goal 2: Don't get caught in the Fae Ignis explosion,Mục tiêu nút 2: Không bị trúng vụ tự hủy của Fae Ignis
+lang_multi_text.db,MultiText,Raid_42_Chanllenge_3,节点目标三：最后击败浮灵偶,Goal 3: Defeat Chop Chop last,Mục tiêu nút 3: Đánh Bại Chop Chop cuối cùng
+lang_multi_text.db,MultiText,Raid_43_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu nút 1: Không để Dreamscape Nexus bị phá hủy
+lang_multi_text.db,MultiText,Raid_43_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu nút 2: Giữ độ nguyên vẹn của Dreamscape Nexus trên 30%
+lang_multi_text.db,MultiText,Raid_43_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu nút 3: Giữ độ nguyên vẹn của Dreamscape Nexus trên 60%
+lang_multi_text.db,MultiText,Raid_44_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu nút 1: Duy trì hạng chiến đấu S trở lên liên tục 8 giây
+lang_multi_text.db,MultiText,Raid_44_Chanllenge_2,节点目标二：在骑士强化武器3次前击败骑士,Goal 2: Defeat the Knight before they perform 3 weapon enhancements,Mục tiêu nút 2: Đánh Bại Hiệp Sĩ trước khi hắn cường hóa vũ khí 3 lần
+lang_multi_text.db,MultiText,Raid_44_Chanllenge_3,节点目标三：被攻击少于10次,Goal 3: Take less than 10 hits.,Mục tiêu nút 3: Bị tấn công ít hơn 10 lần
+lang_multi_text.db,MultiText,Raid_45_Chanllenge_1,节点目标一：挑战中战斗等级达到SS,Goal 1: Reach Battle Rank SS,Mục tiêu nút 1: Đạt hạng chiến đấu SS trong thử thách
+lang_multi_text.db,MultiText,Raid_45_Chanllenge_2,节点目标二：用逆势回击反击4次浮灵偶的激光,Goal 2: Counterattack Chop Chop's laser beam 4 times,Mục tiêu nút 2: Dùng Phản Công đánh trả laser của Chop Chop 4 lần
+lang_multi_text.db,MultiText,Raid_45_Chanllenge_3,节点目标三：被攻击少于6次,Goal 3: Take less than 6 hits,Mục tiêu nút 3: Bị tấn công ít hơn 6 lần
+lang_multi_text.db,MultiText,Raid_46_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到SS,Goal 1: Be at Battle Rank SS when the challenge ends,Mục tiêu nút 1: Đạt hạng chiến đấu SS khi thử thách kết thúc
+lang_multi_text.db,MultiText,Raid_46_Chanllenge_2,节点目标二：击飞魔术先生的时间达到4秒,Goal 2: Launch a Hocus Pocus into the air for a total of 4s,Mục tiêu nút 2: Hất bay Hocus Pocus tổng cộng 4 giây
+lang_multi_text.db,MultiText,Raid_46_Chanllenge_3,节点目标三：被巨布偶击中少于8次,Goal 3: Take less than 8 hits from Cuddle Wuddle,Mục tiêu nút 3: Bị Cuddle Wuddle đánh trúng ít hơn 8 lần
+lang_multi_text.db,MultiText,Raid_47_Chanllenge_1,节点目标一：保持战斗等级在S以上连续8秒,Goal 1: Reach and maintain Battle Rank S or above for 8s,Mục tiêu nút 1: Duy trì hạng chiến đấu S trở lên liên tục 8 giây
+lang_multi_text.db,MultiText,Raid_47_Chanllenge_2,节点目标二：击败浮灵偶的相隔时间不超过15秒,Goal 2: Defeat 2 Chop Chops in a row within 15s,Mục tiêu nút 2: Đánh Bại 2 Chop Chop liên tiếp trong vòng 15 giây
+lang_multi_text.db,MultiText,Raid_47_Chanllenge_3,节点目标三：完成6次闪避反击,Goal 3: Perform 6 Dodge Counters,Mục tiêu nút 3: Hoàn thành 6 lần Né Tránh Phản Công
+lang_multi_text.db,MultiText,Raid_48_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu nút 1: Không để Dreamscape Nexus bị phá hủy
+lang_multi_text.db,MultiText,Raid_48_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu nút 2: Giữ độ nguyên vẹn của Dreamscape Nexus trên 30%
+lang_multi_text.db,MultiText,Raid_48_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu nút 3: Giữ độ nguyên vẹn của Dreamscape Nexus trên 60%
+lang_multi_text.db,MultiText,Raid_49_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu 1: Duy trì cấp chiến đấu S trở lên liên tục 6 giây
+lang_multi_text.db,MultiText,Raid_49_Chanllenge_2,节点目标二：击败毒冠贵族相隔时间少于10秒,Goal 2: Defeat 2 Abyssal Patricius in a row within 10s,Mục tiêu 2: Đánh Bại 2 Abyssal Patricius cách nhau dưới 10 giây
+lang_multi_text.db,MultiText,Raid_49_Chanllenge_3,节点目标三：被冰冻的次数少于2次,Goal 3: Be Frozen less than 2 times,Mục tiêu 3: Bị đóng băng ít hơn 2 lần
+lang_multi_text.db,MultiText,Raid_4_Chanllenge_1,测试目标一：闪避反击3次,Goal 1: Perform 3 Dodge Counters,Mục tiêu 1: Thực hiện 3 lần Phản Công khi Né Tránh
+lang_multi_text.db,MultiText,Raid_4_Chanllenge_2,测试目标二：使用下落攻击阻止遁地鼠钻地3次,Goal 2: Force the Excarats to surface with Plunging Attacks 3 times,Mục tiêu 2: Dùng đòn tấn công từ trên không ngăn Excarat chui xuống đất 3 lần
+lang_multi_text.db,MultiText,Raid_4_Chanllenge_3,测试目标三：最后击败碎獠猪,Goal 3: Defeat the Sabyr Boar last,Mục tiêu 3: Đánh Bại Sabyr Boar cuối cùng
+lang_multi_text.db,MultiText,Raid_50_Chanllenge_1,节点目标一：战斗等级达到S的时间多于10秒,Goal 1: Reach Battle Rank S for more than 10s,Mục tiêu 1: Đạt cấp chiến đấu S tổng cộng hơn 10 giây
+lang_multi_text.db,MultiText,Raid_50_Chanllenge_2,节点目标二：完成6次闪避反击,Goal 2: Perform 6 Dodge Counters,Mục tiêu 2: Thực hiện 6 lần Phản Công khi Né Tránh
+lang_multi_text.db,MultiText,Raid_50_Chanllenge_3,节点目标三：最后击败处刑人,Goal 3: Defeat the Fractsidus Executioner last,Mục tiêu 3: Đánh Bại Fractsidus Executioner cuối cùng
+lang_multi_text.db,MultiText,Raid_51_Chanllenge_1,节点目标一：挑战中战斗等级达到S,Goal 1: Reach Battle Rank S,Mục tiêu 1: Đạt cấp chiến đấu S trong thử thách
+lang_multi_text.db,MultiText,Raid_51_Chanllenge_2,节点目标二：完成4次成功闪避,Goal 2: Perform 4 Dodges,Mục tiêu 2: Thực hiện 4 lần Né Tránh thành công
+lang_multi_text.db,MultiText,Raid_51_Chanllenge_3,节点目标三：被浮灵偶抓取的次数少于5次,Node Objective 3: Get caught by Chop Chop less than 5 times,Mục tiêu 3: Bị Chop Chop tóm ít hơn 5 lần
+lang_multi_text.db,MultiText,Raid_52_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Dreamscape Nexus bị phá hủy
+lang_multi_text.db,MultiText,Raid_52_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn của Dreamscape Nexus trên 30%
+lang_multi_text.db,MultiText,Raid_52_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn của Dreamscape Nexus trên 60%
+lang_multi_text.db,MultiText,Raid_53_Chanllenge_1,节点目标一：战斗等级达到S的时间多于8秒,Goal 1: Reach Battle Rank S for more than 8s,Mục tiêu 1: Đạt cấp chiến đấu S tổng cộng hơn 8 giây
+lang_multi_text.db,MultiText,Raid_53_Chanllenge_2,节点目标二：用逆势回击击碎全部琉璃刀伶的武器,Goal 2: Use Counterattacks to break all of the Vitreum Dancers' weapons,Mục tiêu 2: Dùng Phản Công để Phá Hủy vũ khí của tất cả Vitreum Dancer
+lang_multi_text.db,MultiText,Raid_53_Chanllenge_3,节点目标三：用共鸣解放伤害击败1个敌人,Goal 3: Use Resonance Liberation DMG to defeat 1 enemy,Mục tiêu 3: Dùng sát thương Giải Phóng Cộng Hưởng để Đánh Bại 1 kẻ địch
+lang_multi_text.db,MultiText,Raid_54_Chanllenge_1,节点目标一：挑战结束时的战斗等级达到S,Goal 1: Reach Battle Rank S when the challenge ends,Mục tiêu 1: Đạt cấp chiến đấu S khi thử thách kết thúc
+lang_multi_text.db,MultiText,Raid_54_Chanllenge_2,节点目标二：强行解除巨布偶和工头布偶的合体,Goal 2: Forcibly end the synergy between Cuddle Wuddle and Diggy Duggy,Mục tiêu 2: Ép buộc giải tán trạng thái hợp thể của Cuddle Wuddle và Diggy Duggy
+lang_multi_text.db,MultiText,Raid_54_Chanllenge_3,节点目标三：被布偶的铲子冲撞命中少于3次,Goal 3: Take less than 3 shovel hits from Diggy Duggy,Mục tiêu 3: Bị xẻng của Diggy Duggy đâm trúng ít hơn 3 lần
+lang_multi_text.db,MultiText,Raid_55_Chanllenge_1,节点目标一：梦境枢纽不被摧毁,Goal 1: Save the Dreamscape Nexus from destruction,Mục tiêu 1: Không để Dreamscape Nexus bị phá hủy
+lang_multi_text.db,MultiText,Raid_55_Chanllenge_2,节点目标二：梦境枢纽完整度大于30%,Goal 2: Keep the Dreamscape Nexus Integrity above 30%,Mục tiêu 2: Giữ độ nguyên vẹn của Dreamscape Nexus trên 30%
+lang_multi_text.db,MultiText,Raid_55_Chanllenge_3,节点目标三：梦境枢纽完整度大于60%,Goal 3: Keep the Dreamscape Nexus Integrity above 60%,Mục tiêu 3: Giữ độ nguyên vẹn của Dreamscape Nexus trên 60%
+lang_multi_text.db,MultiText,Raid_56_Chanllenge_1,节点目标一：保持战斗等级在S以上连续6秒,Goal 1: Reach and maintain Battle Rank S or above for 6s,Mục tiêu nút 1: Duy trì hạng chiến đấu S trở lên liên tục 6 giây
+lang_multi_text.db,MultiText,Raid_56_Chanllenge_2,节点目标二：使用4次变奏技能,Goal 2: Use Intro Skill 4 times,Mục tiêu nút 2: Sử dụng 4 lần kỹ năng Biến Tấu
+lang_multi_text.db,MultiText,Raid_56_Chanllenge_3,节点目标三：被攻击少于10次,Goal 3: Take less than 10 hits,Mục tiêu nút 3: Bị trúng đòn ít hơn 10 lần
+lang_multi_text.db,MultiText,Raid_57_Chanllenge_1,节点目标一：挑战中战斗等级到达SS,Goal 1: Reach Battle Rank SS,Mục tiêu nút 1: Đạt hạng chiến đấu SS trong thử thách
+lang_multi_text.db,MultiText,Raid_57_Chanllenge_2,节点目标二：用逆势回击直接击败欺诈奇藏2次,Goal 2: Use Counterattacks to defeat 2 Chest Mimics,Mục tiêu nút 2: Dùng Phản Công để trực tiếp Đánh Bại Chest Mimic 2 lần
+lang_multi_text.db,MultiText,Raid_57_Chanllenge_3,节点目标三：挑战中没有角色死亡,Goal 3: No Resonators are downed during the challenge,Mục tiêu nút 3: Không có nhân vật nào tử trận trong thử thách

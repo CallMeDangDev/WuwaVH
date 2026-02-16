@@ -1,232 +1,122 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,PhantomManage_Tips01,未选中任何声骸,No Echo selected,Chưa chọn Thanh Hài nào
-lang_multi_text.db,MultiText,PhantomManage_Title,声骸批量管理,Batch Management,Quản lý Thanh Hài hàng loạt
-lang_multi_text.db,MultiText,PhantomManage_UnLock,解除锁定,Unlock,Mở khóa
-lang_multi_text.db,MultiText,PhantomManage_Warning01,当前选择中包含已被锁定的声骸，是否仍要批量弃置？,Current selection contains locked Echo. Continue with the Batch Discard?,"Lựa chọn hiện tại bao gồm Thanh Hài đã khóa, vẫn tiếp tục bỏ hàng loạt?"
-lang_multi_text.db,MultiText,PhantomProject_AddChose,添加,Add,Thêm
-lang_multi_text.db,MultiText,PhantomProject_CheckButton,仅检索,Search Only,Chỉ tìm kiếm
-lang_multi_text.db,MultiText,PhantomProject_ConfirmButton,启用,Activate,Kích hoạt
-lang_multi_text.db,MultiText,PhantomProject_DiscardProject,自动弃置方案设置,Auto-discard Settings,Cài đặt phương án tự động bỏ
-lang_multi_text.db,MultiText,PhantomProject_DiscardProjectTip,按本方案自动弃置,Auto-discard by this plan,Tự động bỏ theo phương án này
-lang_multi_text.db,MultiText,PhantomProject_EditButton,编辑,Edit,Chỉnh sửa
-lang_multi_text.db,MultiText,PhantomProject_EmptyChose,不限,All,Không giới hạn
-lang_multi_text.db,MultiText,PhantomProject_EmptyProject,空方案,Empty Plan,Phương án trống
-lang_multi_text.db,MultiText,PhantomProject_GetPhantomTips01,查看（已自动弃置）,View (Auto-discarded),Xem (Đã tự động bỏ)
-lang_multi_text.db,MultiText,PhantomProject_GetPhantomTips02,查看（已自动锁定）,View (Auto-locked),Xem (Đã tự động khóa)
-lang_multi_text.db,MultiText,PhantomProject_LockProject,自动锁定方案设置,Auto-lock Settings,Cài đặt phương án tự động khóa
-lang_multi_text.db,MultiText,PhantomProject_LockProjectTip,按本方案自动锁定,Auto-lock by this plan,Tự động khóa theo phương án này
-lang_multi_text.db,MultiText,PhantomProject_Name,方案命名,Name,Đặt tên phương án
-lang_multi_text.db,MultiText,PhantomProject_RecommandButton,推荐方案,Suggestion,Phương án đề xuất
-lang_multi_text.db,MultiText,PhantomProject_SaveButton01,保存方案,Save Plan,Lưu phương án
-lang_multi_text.db,MultiText,PhantomProject_SaveButton02,保存,Save,Lưu
-lang_multi_text.db,MultiText,PhantomProject_SaveButton03,仅保存,Save Only,Chỉ lưu
-lang_multi_text.db,MultiText,PhantomProject_SiftButton,检查背包,Backpack,Kiểm tra ba lô
-lang_multi_text.db,MultiText,PhantomProject_Tips01,方案名不能为空,Name cannot be empty.,Tên phương án không được để trống
-lang_multi_text.db,MultiText,PhantomProject_Tips02,请至少选择一个条件,Please select at least one filter,Vui lòng chọn ít nhất một điều kiện
-lang_multi_text.db,MultiText,PhantomProject_Title,声骸管理方案,Echo Management,Phương án quản lý Thanh Hài
-lang_multi_text.db,MultiText,PhantomProject_Warning01,是否重置空方案,Reset plan?,Đặt lại phương án trống?
-lang_multi_text.db,MultiText,PhantomProject_Warning02,是否清除所有已选词条（如方案已被启用，将会同步关闭）,Clear all selected entries? (Activated plan will be disabled),"Xóa tất cả từ điều đã chọn? (Nếu phương án đã được kích hoạt, sẽ đồng thời bị tắt)"
-lang_multi_text.db,MultiText,PhantomProject_Warning03,是否保存当前方案,Save current plan?,Lưu phương án hiện tại?
-lang_multi_text.db,MultiText,PhantomProject_Warning04,是否要启用方案,Activate plan?,Kích hoạt phương án?
-lang_multi_text.db,MultiText,PhantomProject_Warning05,已批量锁定,Batch locked,Đã khóa hàng loạt
-lang_multi_text.db,MultiText,PhantomProject_Warning06,已批量解锁,Batch unlocked,Đã mở khóa hàng loạt
-lang_multi_text.db,MultiText,PhantomProject_Warning07,已批量弃置,Batch discarded,Đã loại bỏ hàng loạt
-lang_multi_text.db,MultiText,PhantomProject_Warning08,已批量解除弃置,Batch undiscarded,Đã hủy loại bỏ hàng loạt
-lang_multi_text.db,MultiText,PhantomProject_Warning09,方案已启用,Plan activated,Phương án đã kích hoạt
-lang_multi_text.db,MultiText,PhantomProject_Warning10,方案已禁用,Plan disabled,Phương án đã vô hiệu hóa
-lang_multi_text.db,MultiText,PhantomProject_Warning11,修改已保存,Plan saved,Thay đổi đã được lưu
-lang_multi_text.db,MultiText,PhantomProject_Warning12,已导入推荐方案,Suggested plan imported,Đã nhập phương án đề xuất
-lang_multi_text.db,MultiText,PhantomRecycle_AimModel,定向融合,Targeted Merge,Dung hợp định hướng
-lang_multi_text.db,MultiText,PhantomRecycle_RandomModel,标准融合,Standard Merge,Dung hợp tiêu chuẩn
-lang_multi_text.db,MultiText,PhantomRecycle_Tips02,本周无剩余可用次数,No available attempts this week,Tuần này không còn lượt sử dụng
-lang_multi_text.db,MultiText,PhantomSkill_200001_DescriptionEx,"使用声骸技能，幻形为坚岩斗士向前冲锋，命中时造成{0}物理伤害并下砸造成{1}物理伤害，获得生命值上限{2}的护盾，持续{3}秒。幻形过程中再次使用声骸技能可退出幻形状态。
-技能冷却：{4}秒","Transform into Stonewall Bracer and charge forward, dealing {0} Physical DMG on-hit, then smash to deal {1} Physical DMG, and gain a shield of {2} of current character's Max HP that lasts {3}s. Use the Echo skill again to exit the transformation state.
-
-CD: {4}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Kiên Nham Đấu Sĩ lao về phía trước, khi trúng gây {0} sát thương Vật Lý và đập xuống gây {1} sát thương Vật Lý, nhận được khiên bằng {2} HP tối đa, duy trì {3} giây. Trong quá trình hóa hình, sử dụng lại Thanh Hài Kỹ để thoát trạng thái hóa hình.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200001_SimplyDescription,变身坚岩斗士向前冲锋，命中可接续追击并获得护盾。,Transform into Stonewall Bracer and charge forward. Successful hits grant a follow-up strike and a shield.,"Biến thành Đấu Sĩ Kiên Nham lao về phía trước, đánh trúng có thể tiếp tục truy kích và nhận khiên."
-lang_multi_text.db,MultiText,PhantomSkill_200002_DescriptionEx,"使用声骸技能，召唤先锋幼岩向前扑击，对路径上的敌人造成{0}物理伤害。
-技能冷却：{1}秒","Summon a Vanguard Junrock that charges forward, dealing {0} Physical DMG to enemies in its path.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Ấu Nham Tiên Phong lao về phía trước, gây {0} sát thương Vật Lý cho kẻ địch trên đường đi.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200002_SimplyDescription,召唤先锋幼岩向前扑击，对路径上的敌人造成物理伤害。,"Summon a Vanguard Junrock that charges forward, dealing Physical DMG to enemies in its path.","Triệu hồi Ấu Nham Tiên Phong lao về phía trước, gây sát thương Vật Lý cho kẻ địch trên đường đi."
-lang_multi_text.db,MultiText,PhantomSkill_200003_DescriptionEx,"使用声骸技能，召唤裂变幼岩。产生共鸣，每次回复友方角色{0}生命值。
-可以在非战斗情况下，拾取附近的矿物、植物。
-技能冷却：{1}秒","Summon a Fission Junrock. Generate a Resonance Effect that restores {0} HP for friendly units each time. If not in combat, you can pick up minerals or plants nearby.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Ấu Nham Phân Liệt. Tạo hiệu ứng cộng hưởng, mỗi lần hồi phục {0} Sinh Lực cho đồng đội.
-Có thể nhặt khoáng vật, thực vật gần đó khi không chiến đấu.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200003_SimplyDescription,"召唤裂变幼岩，进行治疗。
-可以在非战斗情况下，拾取附近的矿物、植物。","Summon a Fission Junrock for healing. If not in combat, it picks up minerals or plants nearby for you.","Triệu hồi Ấu Nham Phân Liệt để hồi phục.
-Có thể nhặt khoáng vật, thực vật gần đó khi không chiến đấu."
-lang_multi_text.db,MultiText,PhantomSkill_200004_DescriptionEx,"使用声骸技能，召唤咔嚓嚓对敌人投掷火球，命中时造成{0}热熔伤害。
-技能冷却：{1}秒","Summon a Snip Snap that throws fireballs at the enemy, dealing {0} Fusion DMG on-hit.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Cách Cách ném cầu lửa vào kẻ địch, khi trúng gây {0} sát thương Nhiệt Dung.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200004_SimplyDescription,召唤咔嚓嚓投掷火球，造成热熔伤害。,"Summon a Snip Snap that throws fireballs, dealing Fusion DMG.","Triệu hồi Cách Cách ném cầu lửa, gây sát thương Nhiệt Dung."
-lang_multi_text.db,MultiText,PhantomSkill_200005_DescriptionEx,"使用声骸技能，召唤呼咻咻引爆风压，造成{0}气动伤害并形成低气压区域。低压区域不断将敌人向中心聚拢，持续{1}秒，期间造成6次{2}的气动伤害伤害。
-技能冷却：{3}秒","Summon a Whiff Whaff that triggers an air explosion, dealing {0} Aero DMG and produce a Low-pressure Zone. The Low-pressure Zone continuously pulls enemies nearby towards the center for {1}s, dealing {2} Aero DMG up to 6 times.
-
-CD: {3}s","Sử dụng Thanh Hài Kỹ, triệu hồi Hô Hưu Hưu kích nổ áp suất gió, gây {0} sát thương Khí Động và tạo vùng áp suất thấp. Vùng áp suất thấp liên tục kéo kẻ địch về tâm, kéo dài {1} giây, trong thời gian đó gây 6 lần sát thương Khí Động, mỗi lần {2}.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200005_SimplyDescription,召唤呼咻咻进行引爆，造成气动伤害，并制造低压区域聚拢敌人。,Summon a Whiff Whaff that deals Aero DMG and produces a Low-pressure Zone.,"Triệu hồi Hô Hưu Hưu kích nổ, gây sát thương Khí Động và tạo vùng áp suất thấp kéo kẻ địch lại."
-lang_multi_text.db,MultiText,PhantomSkill_200006_DescriptionEx,"使用声骸技能，召唤阿嗞嗞引爆光能，造成{0}衍射伤害并制造持续1.8秒的停滞区域。
-技能冷却：{1}秒","Summon a Zig Zag that detonates Spectro energy, dealing {0} Spectro DMG and creating a Stagnation Zone that lasts 1.8s.
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi A Tư Tư kích nổ quang năng, gây {0} sát thương Nhiễu Xạ và tạo vùng đình trệ kéo dài 1.8 giây.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200006_SimplyDescription,召唤阿嗞嗞进行引爆，造成衍射伤害，并制造停滞区域。,"Summon a Zig Zag that deals Spectro DMG, and creates a Stagnation Zone.","Triệu hồi A Tư Tư kích nổ, gây sát thương Nhiễu Xạ và tạo vùng đình trệ."
-lang_multi_text.db,MultiText,PhantomSkill_200007_DescriptionEx,"使用声骸技能，召唤呜咔咔向敌人冲撞撕咬，冲撞时命中的敌人将受到{0}湮灭伤害，被撕咬命中的敌人将受到{1}湮灭伤害，并持续削减共振度，在{2}秒内共削减{3}。
-技能冷却：{4}秒","Summon a Tick Tack that charges and bites the enemy. The charge from Tick Tack will deal {0} Havoc DMG to the enemy, and the bite will deal {1} Havoc DMG to the enemy. Reduces enemy Vibration Strength by up to {3} during {2}s.
-
-CD: {4}s","Sử dụng Thanh Hài Kỹ, triệu hồi Ô Cắc Cắc lao vào cắn xé kẻ địch, khi lao trúng gây {0} sát thương Giải Ly, khi cắn trúng gây {1} sát thương Giải Ly, đồng thời liên tục giảm Cộng Hưởng Độ, tổng cộng giảm {3} trong {2} giây.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200007_SimplyDescription,召唤呜咔咔冲撞撕咬敌人造成湮灭伤害，并可削减敌人共振度。,Summon a Tick Tack that deals Havoc DMG and reduces enemy Vibration Strength.,"Triệu hồi Ô Cắc Cắc lao vào cắn xé kẻ địch, gây sát thương Giải Ly và có thể giảm Cộng Hưởng Độ của kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_200008_DescriptionEx,"使用声骸技能，召唤冷凝棱镜连续发射三枚晶片，每一枚造成{0}冷凝伤害。
-技能冷却：{1}秒","Summon a Glacio Prism that continuously fires three crystal shards, each dealing {0} Glacio DMG.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Lăng Kính Ngưng Băng liên tục bắn ra ba mảnh tinh thể, mỗi mảnh gây {0} sát thương Ngưng Băng.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200008_SimplyDescription,召唤持续存在的冷凝棱镜，发射晶片攻击敌人，造成冷凝伤害。,Summon a Glacio Prism that deals Glacio DMG with crystal shards.,"Triệu hồi Lăng Kính Ngưng Băng tồn tại liên tục, bắn mảnh tinh thể tấn công kẻ địch, gây sát thương Ngưng Băng."
-lang_multi_text.db,MultiText,PhantomSkill_200009_DescriptionEx,"使用声骸技能，召唤热熔棱镜发射一枚晶片，造成{0}热熔伤害。
-技能冷却：{1}秒","Summon a Fusion Prism to fire a crystal shard, dealing {0} Fusion DMG.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Lăng Kính Nhiệt Dung bắn ra một mảnh tinh thể, gây {0} sát thương Nhiệt Dung.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200009_SimplyDescription,召唤持续存在的热熔棱镜，发射晶片攻击敌人，造成热熔伤害。,Summon a Fusion Prism that deals Fusion DMG with crystal shards.,"Triệu hồi Lăng Kính Nhiệt Dung tồn tại liên tục, bắn mảnh tinh thể tấn công kẻ địch, gây sát thương Nhiệt Dung."
-lang_multi_text.db,MultiText,PhantomSkill_200010_DescriptionEx,"使用声骸技能，召唤衍射棱镜发射一道激光，最多造成{0}次伤害，每次造成{1}衍射伤害。
-技能冷却：{2}秒","Summon a Spectro Prism to emit a laser that hits the enemy up to {0} times, dealing {1} Spectro DMG each time.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, triệu hồi Lăng Kính Nhiễu Xạ bắn ra một tia laser, tối đa gây {0} lần sát thương, mỗi lần gây {1} sát thương Nhiễu Xạ.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200010_SimplyDescription,召唤持续存在的衍射棱镜，发射激光攻击敌人，造成衍射伤害。,Summon a Spectro Prism that deals Spectro DMG with laser.,"Triệu hồi Lăng Kính Nhiễu Xạ tồn tại liên tục, bắn laser tấn công kẻ địch, gây sát thương Nhiễu Xạ."
-lang_multi_text.db,MultiText,PhantomSkill_200011_DescriptionEx,"使用声骸技能，召唤湮灭棱镜发射五枚湮灭晶片，每段造成{0}湮灭伤害。
-技能冷却：{1}秒","Summon a Havoc Prism to fire five crystal shards, each dealing {0} Havoc DMG.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Lăng Kính Giải Ly bắn ra năm mảnh tinh thể Giải Ly, mỗi mảnh gây {0} sát thương Giải Ly.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200011_SimplyDescription,召唤持续存在的湮灭棱镜，发射晶片攻击敌人，造成湮灭伤害。,Summon a Havoc Prism that deals Havoc DMG with crystal shards.,"Triệu hồi Lăng Kính Giải Ly tồn tại liên tục, bắn mảnh tinh thể tấn công kẻ địch, gây sát thương Giải Ly."
-lang_multi_text.db,MultiText,PhantomSkill_200012_DescriptionEx,"使用声骸技能，幻形为鸣泣战士发动格挡反击，若格挡成功则立刻减少此技能{0}冷却时间，并造成{1}热熔伤害。
-技能冷却：{2}秒","Transform into Fusion Warrior to perform a Counterattack. If the Counterattack is successful, the cooldown time of this skill will be reduced by {0}, and {1} Fusion DMG will be dealt.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, hóa thân thành Chiến Sĩ Minh Khấp thực hiện đỡ đòn phản kích, nếu đỡ thành công sẽ ngay lập tức giảm {0} thời gian hồi chiêu kỹ năng này và gây {1} sát thương Nhiệt Dung.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200012_SimplyDescription,幻形为鸣泣战士，格挡敌人攻击，格挡反击时造成热熔伤害，并减少该技能的冷却时间。,"Transform into Fusion Warrior to block enemy attacks. Deal Fusion DMG and reduce this Echo Skill's CD when the block is successful,","Hóa thân thành Chiến Sĩ Minh Khấp, đỡ đòn tấn công của kẻ địch, khi đỡ thành công gây sát thương Nhiệt Dung và giảm thời gian hồi chiêu kỹ năng."
-lang_multi_text.db,MultiText,PhantomSkill_200013_DescriptionEx,"使用声骸技能，幻形为审判战士进行攻击，可连续使用最多3次，每段造成{0}湮灭伤害。
-技能冷却：{1}秒","Transform into Havoc Warrior to attack up to 3 times, dealing {0} Havoc DMG each time.
- 
-CD: {1}s","Sử dụng Thanh Hài Kỹ, hóa thân thành Chiến Sĩ Phán Quyết tấn công, có thể sử dụng liên tục tối đa 3 lần, mỗi lần gây {0} sát thương Giải Ly.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200013_SimplyDescription,幻形为审判战士，连续对敌人进行攻击造成湮灭伤害。,Transform into Havoc Warrior to continuously deal Havoc DMG.,"Hóa thân thành Chiến Sĩ Phán Quyết, liên tục tấn công kẻ địch gây sát thương Giải Ly."
-lang_multi_text.db,MultiText,PhantomSkill_200014_DescriptionEx,"使用声骸技能，召唤破霜猎手投掷冰矛，直接命中时造成{0}冷凝伤害，聚能过程造成10次{1}冷凝伤害，爆炸造成{2}冷凝伤害。
-技能冷却：{3}秒","Summon a Glacio Predator that throws an ice spear, dealing {0} Glacio DMG on hit. Deal {1} Glacio DMG up to 10 times during the charging time, and {2} Glacio DMG when the spear explodes.
-
-CD: {3}s","Sử dụng Thanh Hài Kỹ, triệu hồi Glacio Predator phóng thương băng, khi trúng trực tiếp gây {0} sát thương Ngưng Băng, trong quá trình tích năng gây 10 lần {1} sát thương Ngưng Băng, nổ gây {2} sát thương Ngưng Băng.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200014_SimplyDescription,召唤破霜猎手投掷冰枪造成冷凝伤害。,Summon a Glacio Predator to throw ice spears and deal Glacio DMG.,Triệu hồi Glacio Predator phóng thương băng gây sát thương Ngưng Băng.
-lang_multi_text.db,MultiText,PhantomSkill_200015_DescriptionEx,"使用声骸技能，召唤惊蛰猎手向敌人射击5次，前四次造成{0}导电伤害，最后一次造成{1}导电伤害。
-技能冷却：{2}秒","Summon an Electro Predator to shoot the enemy 5 times. The first 4 shots deals {0} Electro DMG, and the last deals {1} Electro DMG.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, triệu hồi Impulse Predator bắn vào kẻ địch 5 lần, 4 lần đầu gây {0} sát thương Dẫn Điện, lần cuối gây {1} sát thương Dẫn Điện.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200015_SimplyDescription,召唤惊蛰猎手发射箭雨，每次造成导电伤害。,"Summon an Electro Predator to fire a rain of arrows, dealing Electro DMG.","Triệu hồi Impulse Predator bắn mưa tên, mỗi lần gây sát thương Dẫn Điện."
-lang_multi_text.db,MultiText,PhantomSkill_200016_DescriptionEx,"使用声骸技能，召唤巡徊猎手向前方投掷一把飞镖，飞镖在命中敌人的时候会进行一次弹射，最多弹射3次，每次命中造成{0}气动伤害。
-技能冷却：{1}秒","Summon an Aero Predator that throws a dart forward. The dart will bounce between enemies up to three times, dealing {0} Aero DMG each time it hits.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Aero Predator phóng một phi tiêu về phía trước, phi tiêu khi trúng kẻ địch sẽ bật nảy, tối đa 3 lần, mỗi lần trúng gây {0} sát thương Khí Động.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200016_SimplyDescription,召唤巡徊猎手投掷飞镖，造成气动伤害。,Summon an Aero Predator to deal Aero DMG.,"Triệu hồi Aero Predator phóng phi tiêu, gây sát thương Khí Động."
-lang_multi_text.db,MultiText,PhantomSkill_200017_DescriptionEx,"使用声骸技能，幻形为紫羽鹭，在原地格挡，持续一段时间后进行反击，造成{0}导电伤害，在格挡过程中受到攻击则能提前反击，额外回复{1}点协奏能量。
-技能冷却：{2}秒","Transform into Violet-Feathered Heron and enter a Parry Stance. Counterattack when the Parry stance is over, dealing {0} Electro DMG. If attacked during Parry Stance, you can counterattack in advance and additionally recover {1} Concerto Energy.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, hóa thân thành Violet-Feathered Heron, đứng tại chỗ đỡ đòn, sau một khoảng thời gian tiến hành phản kích, gây {0} sát thương Dẫn Điện. Nếu bị tấn công trong quá trình đỡ đòn, có thể phản kích sớm hơn và hồi phục thêm {1} điểm năng lượng Hiệp Tấu.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200017_SimplyDescription,幻形为紫羽鹭，格挡敌人攻击，反击造成导电伤害并可回复协奏能量。,Transform into Violet-Feathered Heron to block enemy attacks. Counterattack to deal Electro DMG and recover Concerto Energy.,"Hóa thân thành Violet-Feathered Heron, đỡ đòn tấn công của kẻ địch, phản kích gây sát thương Dẫn Điện và có thể hồi phục năng lượng Hiệp Tấu."
-lang_multi_text.db,MultiText,PhantomSkill_200018_DescriptionEx,"使用声骸技能，幻形为青羽鹭，携卷旋风进行冲锋，造成{0}气动伤害；对施放<color=Highlight>特殊技</color>的敌人造成伤害时能够击破对方的<color=Highlight>特殊技</color>。
-技能冷却：{1}秒","Transform into Cyan-Feathered Heron and charge at the enemies, dealing {0} Aero DMG; This Echo Skill interrupts enemy <color=Highlight>Special Skills</color> upon dealing damage.
- 
-CD: {1}s","Sử dụng Thanh Hài Kỹ, hóa thân thành Cyan-Feathered Heron, cuốn theo toàn phong lao tới, gây {0} sát thương Khí Động; khi gây sát thương lên kẻ địch đang thi triển <color=Highlight>Đặc Kỹ</color> sẽ phá hủy <color=Highlight>Đặc Kỹ</color> của đối phương.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200018_SimplyDescription,幻形为青羽鹭发动旋转冲锋，造成气动伤害，击破敌人的<color=Highlight>特殊技</color>。,"Transform into Cyan-Feathered Heron to charge at the enemies, dealing Aero DMG and interrupt enemy <color=Highlight>Special Skill</color>.","Hóa thân thành Cyan-Feathered Heron phát động xoay tròn xung phong, gây sát thương Khí Động, phá hủy <color=Highlight>Đặc Kỹ</color> của kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_200019_DescriptionEx,"长按声骸技能，持续幻形为奏谕乐师，持续发射导电激光，造成10次{0}导电伤害，每次造成伤害时可以获得{1}点协奏能量。
-技能冷却：{2}秒","Transform into Flautist, continuously emitting Electro lasers, dealing {0} Electro DMG for a total of 10 times. Gain {1} Concerto Energy every time a hit lands.
-
-CD: {2}s","Nhấn giữ Thanh Hài Kỹ, liên tục hóa thân thành Flautist, liên tục phóng tia laser Dẫn Điện, gây 10 lần {0} sát thương Dẫn Điện, mỗi lần gây sát thương nhận được {1} điểm năng lượng Hiệp Tấu.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200019_SimplyDescription,幻形为奏谕乐师，施放导电激光，造成伤害时获得协奏能量。,Transform into Flautist to deal Electro DMG and recover Concerto Energy on hit.,"Hóa thân thành Flautist, phóng tia laser Dẫn Điện, khi gây sát thương nhận được năng lượng Hiệp Tấu."
-lang_multi_text.db,MultiText,PhantomSkill_200020_DescriptionEx,"使用声骸技能，召唤振铎乐师。队伍中的角色拾取湮灭回响时获得持续10秒的强化效果：攻击命中目标时，振铎乐师造成{0}湮灭伤害，最多10次。
-技能冷却：{1}秒","Summon a Tambourinist that plays out Melodies of Annihilation. Any Resonator on the team gains the following effect for 10s upon obtaining a Melody of Annihilation: When the Resonator hits a target, the Tambourinist deals {0} Havoc DMG to the target, up to 10 times.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Tambourinist. Nhân vật trong đội khi nhặt được Hồi Âm Hủy Diệt sẽ nhận hiệu ứng tăng cường kéo dài 10 giây: khi tấn công trúng mục tiêu, Tambourinist gây {0} sát thương Giải Ly, tối đa 10 lần.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200020_SimplyDescription,召唤振铎乐师，使队伍中的角色攻击附加湮灭伤害。,Summon a Tambourinist to aid the Resonators on the team in combat with Havoc DMG attacks.,"Triệu hồi Tambourinist, giúp nhân vật trong đội bổ sung sát thương Giải Ly khi tấn công."
-lang_multi_text.db,MultiText,PhantomSkill_200022_DescriptionEx,"使用声骸技能，幻形为磐石守卫。可在一段时间内进行防御，受到攻击后会对敌人直接造成一次基于自身生命上限{0}的衍射伤害，并进行一次追击造成生命上限{0}的衍射伤害。
-幻形期间可以再次使用声骸技能退出幻形。
-若受到的为<color=Highlight>特殊技</color>攻击，则会击破敌人的<color=Highlight>特殊技</color>，获得自身生命上限30%的护盾，并进行两段追击，每段造成基于自身生命上限{1}的衍射伤害，同时发射三道地裂波，每道造成生命上限{2}衍射伤害。
- 技能冷却：{3}秒","Transform into Rocksteady Guardian and enter a Parry State. Upon being attacked, deal Spectro DMG equal to {0} of the Resonator's Max HP, and perform a follow-up attack that deals Spectro DMG equal to {0} of the Resonator's Max HP.
- 
-Use the Echo Skill again to exit the transformation.
- 
-If the attack received is a <color=Highlight>Special Skill</color> attack, interrupt the enemy's <color=Highlight>Special Skill</color>, gain a Shield equal to 30% Max HP, and perform a two-stage follow-up attack, each dealing Spectro DMG equal to {1} of the Resonator's Max HP. These follow-up attacks simultaneously launch three ground-breaking waves, each dealing Spectro DMG equal to {2} of the Resonator's Max HP.
- 
-CD: {3}s","Sử dụng Thanh Hài Kỹ, hóa thân thành Rocksteady Guardian. Có thể phòng thủ trong một khoảng thời gian, khi bị tấn công sẽ trực tiếp gây một lần sát thương Nhiễu Xạ bằng {0} HP tối đa của bản thân lên kẻ địch, đồng thời truy kích gây sát thương Nhiễu Xạ bằng {0} HP tối đa.
-Trong thời gian hóa thân có thể sử dụng lại Thanh Hài Kỹ để thoát khỏi hóa thân.
-Nếu đòn tấn công nhận được là <color=Highlight>Đặc Kỹ</color>, sẽ phá hủy <color=Highlight>Đặc Kỹ</color> của kẻ địch, nhận được khiên bằng 30% HP tối đa, đồng thời truy kích hai đoạn, mỗi đoạn gây sát thương Nhiễu Xạ bằng {1} HP tối đa, và phóng ra ba đạo sóng xé đất, mỗi đạo gây sát thương Nhiễu Xạ bằng {2} HP tối đa.
- Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200022_SimplyDescription,幻形为磐石守卫，进入防御状态，受到<color=Highlight>特殊技</color>攻击时进行防御反击，击破敌人的<color=Highlight>特殊技</color>，造成基于角色生命上限的衍射伤害。,Transform into Rocksteady Guardian to enter a Parry Stance. Counterattack when hit by <color=Highlight>Special Skill</color> to interrupt enemy <color=Highlight>Special Skills</color> and deal Spectro DMG based on Max HP.,"Hóa thân thành Rocksteady Guardian, tiến vào trạng thái phòng thủ, khi bị tấn công bằng <color=Highlight>Đặc Kỹ</color> sẽ phòng thủ phản kích, phá hủy <color=Highlight>Đặc Kỹ</color> của kẻ địch, gây sát thương Nhiễu Xạ dựa trên HP tối đa của nhân vật."
-lang_multi_text.db,MultiText,PhantomSkill_200023_DescriptionEx,"使用声骸技能，幻形为冥渊守卫施放跃击。命中时造成{0}湮灭伤害，命中敌人后扣除自身{1}的生命值，{2}秒后周期性回复自身生命值，共回复生命上限{3}的生命值。
-技能冷却：{4}秒","Transform into Chasm Guardian to perform a Leap Strike that deals {0} Havoc DMG on hit. Current character loses {1} HP after the hit lands. Periodically restore current character's HP after {2}s for up to {3} of their Max HP.
-
-CD: {4}s","Sử dụng Thanh Hài Kỹ, hóa thân thành Chasm Guardian thi triển nhảy đập. Khi trúng gây {0} sát thương Giải Ly, sau khi trúng kẻ địch sẽ trừ {1} HP bản thân, sau {2} giây định kỳ hồi phục HP bản thân, tổng cộng hồi phục {3} HP tối đa.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200023_SimplyDescription,幻形为冥渊守卫，施放重击造成湮灭伤害，但会扣除部分角色生命值并稍后周期性回复。,Transform into Chasm Guardian to perform a powerful strike that deals Havoc DMG. Lose some HP on hit and then recover HP over time.,"Hóa thân thành Chasm Guardian, tung đòn trọng kích gây sát thương Giải Ly, nhưng sẽ mất một phần HP nhân vật và sau đó định kỳ hồi phục."
-lang_multi_text.db,MultiText,PhantomSkill_200024_DescriptionEx,"使用声骸技能，召唤游弋蝶，为当前队伍角色回复{0}生命上限和额外{1}点的生命值，最多可治疗4次。
-技能冷却：{2}秒","Summon a Cruisewing that restores HP for all current team characters by {0} of their Max HPs plus an additional {1} points of HP, up to 4 times.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, triệu hồi Cruisewing, hồi phục cho các nhân vật trong đội hiện tại {0} HP tối đa cùng thêm {1} điểm HP, tối đa hồi 4 lần.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200024_SimplyDescription,召唤游弋蝶，为友方角色回复生命值。,Summon a Cruisewing to heal friendly units.,"Triệu hồi Cruisewing, hồi phục HP cho nhân vật đồng đội."
-lang_multi_text.db,MultiText,PhantomSkill_200025_DescriptionEx,"使用声骸技能，召唤碎獠猪，进行一段击飞效果卓越的上撩攻击，造成{0}物理伤害。
-技能冷却：{1}秒","Summon a Sabyr Boar to headbutt the enemy into the air, dealing {0} Physical DMG.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Sabyr Boar, tung đòn húc hất tung kẻ địch lên không, gây {0} sát thương Vật Lý.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200025_SimplyDescription,召唤碎獠猪，发动冲撞，造成物理伤害。,Summon a Sabyr Boar to charge and deal Physical DMG.,"Triệu hồi Sabyr Boar, phát động xung phong, gây sát thương Vật Lý."
-lang_multi_text.db,MultiText,PhantomSkill_200026_DescriptionEx,"使用声骸技能，召唤咕咕河豚，向面前吹吐泡泡{0}次，每次造成{1}冷凝伤害。
-技能冷却：{2}秒","Summon a Gulpuff that blows bubbles {0} times, each time dealing {1} Glacio DMG.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, triệu hồi Gulpuff, phun bong bóng về phía trước {0} lần, mỗi lần gây {1} sát thương Ngưng Băng.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200026_SimplyDescription,召唤咕咕河豚，吹吐泡泡造成冷凝伤害。,Summon a Gulpuff to blow bubbles and deal Glacio DMG.,"Triệu hồi Gulpuff, phun bong bóng gây sát thương Ngưng Băng."
-lang_multi_text.db,MultiText,PhantomSkill_200027_DescriptionEx,"使用声骸技能，召唤啾啾河豚，鼓气并向前喷气{0}次，每次造成{1}气动伤害并提供击退效果。
-技能冷却：{2}秒","Summon a Chirpuff that self-inflates and blasts a powerful gust of wind forward {0} times. Each blast inflicts {1} Aero DMG and pushes enemies backwards.
-
-CD: {2}s","Sử dụng Thanh Hài Kỹ, triệu hồi Chirpuff, phồng lên rồi phun gió về phía trước {0} lần, mỗi lần gây {1} sát thương Khí Động và đẩy lùi kẻ địch.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200027_SimplyDescription,召唤啾啾河豚，吹吐泡泡造成气动伤害并击退敌人。,Summon a Chirpuff to blast a powerful gust of wind. Deals Aero DMG and knocks enemies back.,"Triệu hồi Cá Nóc Chirpuff, phun bọt gây sát thương Khí Động và đẩy lùi kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_200028_DescriptionEx,"使用声骸技能，幻形为遁地鼠向前移动，期间可调整方向，且不会受到伤害。
-技能冷却：{0}秒","Transform into an Excarat and tunnel underground to advance. In this state, you have the ability to change your direction and are immune to damage.
-
-CD: {0}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Excarat di chuyển về phía trước, trong thời gian này có thể điều chỉnh hướng và miễn nhiễm sát thương.
-Hồi chiêu: {0} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200028_SimplyDescription,幻形为遁地鼠快速移动，期间不会受到伤害。,Transform into Excarat to quickly advance and become immune to damage.,"Hóa hình thành Excarat di chuyển nhanh, trong thời gian này miễn nhiễm sát thương."
-lang_multi_text.db,MultiText,PhantomSkill_200029_DescriptionEx,"使用声骸技能，幻形为绿熔蜥（稚形），在原地休息，能够缓慢回复生命值。
-技能冷却：{0}秒","Transform into Baby Viridblaze Saurian to rest in place, and slowly restore HP.
-
-CD: {0}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Baby Viridblaze Saurian, nghỉ ngơi tại chỗ, từ từ hồi phục sinh lực.
-Hồi chiêu: {0} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200029_SimplyDescription,幻形为绿熔蜥（稚形），在原地休息回复生命值。,"Transform into Baby Viridblaze Saurian, rest in place to restore HP.","Hóa hình thành Baby Viridblaze Saurian, nghỉ ngơi tại chỗ để hồi phục sinh lực."
-lang_multi_text.db,MultiText,PhantomSkill_200030_DescriptionEx,"使用声骸技能，召唤绿熔蜥持续喷火，造成10次{0}热熔伤害。
-技能冷却：{1}秒","Summon a Viridblaze Saurian to continuously spit fire, dealing {0} Fusion DMG 10 times.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Viridblaze Saurian liên tục phun lửa, gây 10 lần sát thương Nhiệt Dung {0}.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200030_SimplyDescription,召唤绿熔蜥，持续喷火，造成热熔伤害。,"Summon a Viridblaze Saurian to continuously spit fire, dealing Fusion DMG.","Triệu hồi Viridblaze Saurian, liên tục phun lửa, gây sát thương Nhiệt Dung."
-lang_multi_text.db,MultiText,PhantomSkill_200031_DescriptionEx,"使用声骸技能，召唤刺玫菇（稚形），发射一道激光，造成{0}湮灭伤害。
-技能冷却：{1}秒","Summon a Baby Roseshroom that fires a laser, dealing {0} Havoc DMG.
-
-CD: {1}s","Sử dụng Thanh Hài Kỹ, triệu hồi Baby Roseshroom bắn một tia laser, gây {0} sát thương Giải Ly.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200031_SimplyDescription,召唤刺玫菇（稚形），发射激光，造成湮灭伤害。,"Summon a Baby Roseshroom to fire a laser, and deal Havoc DMG.","Triệu hồi Baby Roseshroom, bắn laser, gây sát thương Giải Ly."
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1021,高级决斗家,Expert Duelist,Đấu Sĩ Cao Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1022,高级决斗家,Expert Duelist,Đấu Sĩ Cao Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1023,大师决斗家,Master Duelist,Đấu Sĩ Đại Sư
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1024,大师决斗家,Master Duelist,Đấu Sĩ Đại Sư
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1025,大师决斗家,Master Duelist,Đấu Sĩ Đại Sư
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1026,大师决斗家,Master Duelist,Đấu Sĩ Đại Sư
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1027,传奇决斗家,Legendary Duelist,Đấu Sĩ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1028,传奇决斗家,Legendary Duelist,Đấu Sĩ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1029,传奇决斗家,Legendary Duelist,Đấu Sĩ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1030,巅峰决斗家,Apex Duelist,Đấu Sĩ Đỉnh Phong
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1031,巅峰决斗家,Apex Duelist,Đấu Sĩ Đỉnh Phong
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1032,巅峰决斗家,Apex Duelist,Đấu Sĩ Đỉnh Phong
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1033,巅峰决斗家,Apex Duelist,Đấu Sĩ Đỉnh Phong
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2001,入围选手,Qualified Duelist,Tuyển Thủ Vòng Loại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2002,认证选手,Certified Duelist,Tuyển Thủ Chứng Nhận
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2003,认证选手,Certified Duelist,Tuyển Thủ Chứng Nhận
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2004,新秀选手,Promising Duelist,Tuyển Thủ Tân Binh
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2005,新秀选手,Promising Duelist,Tuyển Thủ Tân Binh
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2006,老练选手,Experienced Duelist,Tuyển Thủ Lão Luyện
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2007,老练选手,Experienced Duelist,Tuyển Thủ Lão Luyện
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2008,知名选手,Popular Duelist,Tuyển Thủ Nổi Tiếng
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2009,知名选手,Popular Duelist,Tuyển Thủ Nổi Tiếng
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2010,资深选手,Veteran Duelist,Tuyển Thủ Kỳ Cựu
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2011,资深选手,Veteran Duelist,Tuyển Thủ Kỳ Cựu
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2012,明星选手,All-Star Duelist,Tuyển Thủ Ngôi Sao
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2013,明星选手,All-Star Duelist,Tuyển Thủ Ngôi Sao
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2014,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2015,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2016,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2017,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2018,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_1,"·将手牌中的声骸，通过放置在召唤区已有的声骸之上进行召唤的方式，称为调谐。调谐时，会让登场的声骸，获得被调谐的声骸的全部特殊技能，并且激活。
+·能量消耗为1的声骸，仅能调谐于，能量消耗为1且没有被调谐的声骸之上。
+·能量消耗为3的声骸，仅能调谐于，能量消耗为1且已经被调谐的声骸之上。","- Modulation is the act of Deploying an Echo from your hand by placing it on top of an Echo already on the field. The newly Deployed Echo inherits and activates all Special Skills from the Echo it was placed on.
+- Cost 1 Echoes can only be Modulated onto another Cost 1 Echo that has not been previously Modulated.
+- Cost 3 Echoes can only be Modulated onto another Cost 1 Echo that has already been Modulated.","- Đặt một Thanh Hài từ bài trên tay lên một Thanh Hài đã có trong vùng triệu hồi để triệu hồi, hành động này gọi là Điều Hòa. Khi Điều Hòa, Thanh Hài mới ra sân sẽ nhận toàn bộ kỹ năng đặc biệt của Thanh Hài bị Điều Hòa và kích hoạt chúng.
+- Thanh Hài có năng lượng tiêu hao là 1 chỉ có thể Điều Hòa lên Thanh Hài có năng lượng tiêu hao là 1 và chưa được Điều Hòa.
+- Thanh Hài có năng lượng tiêu hao là 3 chỉ có thể Điều Hòa lên Thanh Hài có năng lượng tiêu hao là 1 và đã được Điều Hòa."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_10,·我方累计死亡6个声骸，或决斗进行至第五回合,"- Have 6 of your Echoes downed in total, or reach Round 5.","- Tổng cộng 6 Thanh Hài của ta bị tiêu diệt, hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_11,·我方召唤区存在3个激活的【翼守】技能，或决斗进行至第五回合,"- Have 3 Activated ""Flank Force"" in the Deployment Zone, or reach Round 5.","- Có 3 kỹ năng [Dực Thủ] đã kích hoạt trong vùng triệu hồi của ta, hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_12,·我方累计使用6次【变幻】，或决斗进行至第五回合,"- Use Transform 6 times, or reach Round 5.","- Tổng cộng sử dụng 6 lần [Biến Huyễn], hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_13,核心挑战：我方累计进行6次重构，或决斗进行至第五回合,"Trial: Reconstruct cards 6 times, or reach Round 5.","Thử thách cốt lõi: Tổng cộng thực hiện 6 lần tái cấu trúc, hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_14,核心挑战：我方累计使用卡牌的主动技能5次，或决斗进行至第五回合,"Trial: Use Active Skill 5 times, or reach Round 5.","Thử thách cốt lõi: Tổng cộng sử dụng kỹ năng chủ động của thẻ bài 5 lần, hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_15,核心挑战：我方累计使用卡牌的主动技能5次，或决斗进行至第五回合,"Trial: Use Active Skill 5 times, or reach Round 5.","Thử thách cốt lõi: Tổng cộng sử dụng kỹ năng chủ động của thẻ bài 5 lần, hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_16,核心挑战：我方累计召唤4个能量消耗为3的声骸，或决斗进行至第五回合,"Trial: Deploy 4 Cost 3 Echoes, or reach Round 5.","Thử thách cốt lõi: Tổng cộng triệu hồi 4 Thanh Hài có năng lượng tiêu hao là 3, hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_17,核心挑战：我方累计召唤4个能量消耗为3的声骸，或决斗进行至第五回合,"Trial: Deploy 4 Cost 3 Echoes, or reach Round 5.","Thử thách cốt lõi: Tổng cộng triệu hồi 4 Thanh Hài có năng lượng tiêu hao là 3, hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_18,核心挑战：我方累计触发5次充能技能，或决斗进行至第五回合,"Trial: Trigger Recharge effect 5 times, or reach Round 5.","Thử thách cốt lõi: Tổng cộng kích hoạt 5 lần kỹ năng nạp năng, hoặc trận đấu diễn ra đến lượt thứ năm"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_19,卡牌所拥有的基础特殊能力，一般会持续生效，或是在满足某些条件后触发。,The basic unique abilities of cards. Special Effects generally remain in effect for the duration of the duel or can be triggered after meeting certain conditions.,"Khả năng đặc biệt cơ bản mà thẻ bài sở hữu, thường có hiệu lực liên tục hoặc được kích hoạt khi đáp ứng một số điều kiện nhất định."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_2,·带有变幻的声骸，可以被拖动到变幻区来使用其变幻效果。一般来说，进行变幻的声骸不会回到卡组，而是会被消耗。被消耗的声骸本场决斗中不会再被抽到。,"Echoes with Transform take effect when dragged into the Transform area. Normally, Transformed cards are not returned to your deck, but are destroyed in this duel instead.","- Thanh Hài có [Biến Huyễn] có thể được kéo vào vùng Biến Huyễn để sử dụng hiệu ứng Biến Huyễn. Thông thường, Thanh Hài thực hiện Biến Huyễn sẽ không trở lại bộ bài mà bị tiêu hao. Thanh Hài bị tiêu hao sẽ không thể rút lại trong trận đấu này."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_20,通过进行某些特定操作，或触发技能，可获得一层【充能】。在【充能】累积到一定层数后，会自动触发【爆发】技能。,Performing certain actions or triggering skills grants one stack of Recharge. Accumulating certain stacks of Recharge triggers Overburst automatically.,"Thực hiện một số thao tác nhất định hoặc kích hoạt kỹ năng sẽ nhận được một tầng [Nạp Năng]. Khi [Nạp Năng] tích lũy đến số tầng nhất định, kỹ năng [Bùng Nổ] sẽ tự động kích hoạt."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_21,在满足条件后，可以主动使用的特殊能力。主动技能每回合只能使用一次，但某些效果可以重置卡牌主动技能的使用次数。,Unique abilities that can be used after meeting certain conditions. Active Skills can only be used once per round. Some effects can reset the card's Active Skill Uses.,"Khả năng đặc biệt có thể chủ động sử dụng sau khi đáp ứng điều kiện. Kỹ năng chủ động chỉ có thể sử dụng một lần mỗi lượt, nhưng một số hiệu ứng có thể đặt lại số lần sử dụng kỹ năng chủ động."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_22,【领域】是在拉海洛版本《荣耀之丘》中新增加的卡牌类别。【领域】具有相当强大的力量，足以影响决斗的胜负。,Domain is a new card category added to the Lahai-Roi version of Peaks of Prestige. These cards possess extremely powerful abilities that can shift the tide of any duel.,"[Lĩnh Vực] là loại thẻ bài mới được thêm vào phiên bản Lahai-Roi của ""Peaks of Prestige"". [Lĩnh Vực] sở hữu sức mạnh cực kỳ mạnh mẽ, đủ để thay đổi cục diện trận đấu."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_23,除了支付费用，从手牌召唤外，通过其他方式进行的声骸召唤。这些召唤被视为【特殊召唤】，可能会触发某些能力。,Quick-Deploy refers to deploying an Echo without playing it from your hand at the standard Energy cost. These special deployments count as Quick-Deploys and can activate certain card abilities.,"Ngoài cách triệu hồi thông thường từ bài trên tay bằng cách trả chi phí, các hình thức triệu hồi Thanh Hài khác được gọi là [Triệu Hồi Đặc Biệt], có thể kích hoạt một số khả năng nhất định."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_24,【奇藏】是在拉海洛版本《荣耀之丘》中新增加的卡牌类别，指具有奇特力量的物品。【奇藏】不会如同声骸一样直接参与战斗，而是通过自身的特殊能力影响战局。,"Novelty is a new card category added to the Lahai-Roi version of Peaks of Prestige. They are items with unique powers. Novelties do not directly participate in the Battle Stage like Echoes, but instead influence the battlefield through their unique abilities.","[Kỳ Tàng] là loại thẻ bài mới được thêm vào phiên bản Lahai-Roi của ""Peaks of Prestige"", chỉ những vật phẩm có sức mạnh kỳ lạ. [Kỳ Tàng] không trực tiếp tham gia chiến đấu như Thanh Hài, mà tác động đến trận đấu thông qua khả năng đặc biệt riêng."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_25,奇藏在被放置到召唤区后，所能持续存在的回合数。当奇藏的持续时间结束后，它将被洗回卡组。,The number of rounds the Novelty can endure after being deployed. The Novelty is returned to the deck at the end of its duration.,"Số lượt mà Kỳ Tàng có thể tồn tại sau khi được đặt vào vùng triệu hồi. Khi thời gian tồn tại kết thúc, nó sẽ được trộn lại vào bộ bài."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_26,奇藏能使用主动技能的总次数。在耗尽所有使用次数后，奇藏将被洗回卡组。,The uses of the Novelty's Active Skill. The Novelty is returned to the deck after uses are depleted.,"Tổng số lần mà Kỳ Tàng có thể sử dụng kỹ năng chủ động. Sau khi dùng hết số lần sử dụng, Kỳ Tàng sẽ được trộn lại vào bộ bài."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_27,将召唤区或手牌中的卡牌拖入重构区，可使其洗回卡组。在拉海洛版本的《荣耀之丘》决斗中，重构无法获得能量，但依然可以触发与重构相关的卡牌技能。,"Placing cards from the Deployment Zone or your hand into the Reconstruction Zone shuffles it back into your deck. In the Lahai-Roi version of Peaks of Prestige, Reconstruction does not grant energy, but can still trigger Reconstruction-related card skills.","Kéo thẻ bài từ vùng triệu hồi hoặc bài trên tay vào vùng tái cấu trúc để trộn lại vào bộ bài. Trong trận đấu phiên bản Lahai-Roi của ""Peaks of Prestige"", tái cấu trúc không nhận được năng lượng, nhưng vẫn có thể kích hoạt các kỹ năng thẻ bài liên quan đến tái cấu trúc."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_28,卡牌的主动技能一回合只能使用一次，但某些具有「重置」效应的卡牌技能可以重置主动技能的使用次数，让主动技能可以在一回合中再次使用。,"Unique abilities that can only be used once per round. However, some cards with Reset effects can reset the uses of a card's Active Skill.","Kỹ năng chủ động của thẻ bài chỉ có thể sử dụng một lần mỗi lượt, nhưng một số kỹ năng thẻ bài có hiệu ứng ""Đặt lại"" có thể đặt lại số lần sử dụng kỹ năng chủ động, cho phép sử dụng lại trong cùng một lượt."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_3,"·声骸调谐后，可以激活的强大能力。
+·特殊技能初始为未激活状态，只有将其激活才能生效。
+·声骸调谐时，会激活被调谐声骸的特殊技能。","- Modulation allows Echoes to Activate powerful abilities.
+- Special Skills are Unactivated when Echoes are first Deployed and need to be Activated.
+- Modulation Activates the Special Skills of the Modulated Echo.","- Khả năng mạnh mẽ có thể kích hoạt sau khi Thanh Hài được Điều Hòa.
+- Kỹ năng đặc biệt ban đầu ở trạng thái chưa kích hoạt, chỉ có hiệu lực khi được kích hoạt.
+- Khi Điều Hòa Thanh Hài, kỹ năng đặc biệt của Thanh Hài bị Điều Hòa sẽ được kích hoạt."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_4,"·在此阶段内，可以召唤声骸、调谐声骸、使用变幻、或是将声骸拖至重构区以回复能量。
+·点击开始战斗后，会结束该阶段。","- In this stage, you can Deploy, Modulate, or Transform an Echo. You may also drag the Echo to the Reconstruction Area to recover Energy.
+- {Cus:Ipt,Touch=Tap PC=Click Gamepad=Press} ""Fight!"" to finish this stage.","- Trong giai đoạn này, bạn có thể triệu hồi Thanh Hài, Điều Hòa Thanh Hài, sử dụng Biến Huyễn, hoặc kéo Thanh Hài vào vùng tái cấu trúc để hồi phục năng lượng.
+- Nhấn bắt đầu chiến đấu để kết thúc giai đoạn này."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_5,"·声骸之间互相战斗的阶段。
+·点击开始战斗后，会进入该阶段。","- A stage where Echoes fight against each other.
+- {Cus:Ipt,Touch=Tap PC=Click Gamepad=Press} ""Fight!"" to enter this stage.","- Giai đoạn các Thanh Hài chiến đấu với nhau.
+- Nhấn bắt đầu chiến đấu để vào giai đoạn này."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_6,"·核心声骸具备超强的战斗能力以及战斗效果，是取胜的核心。
+·跟通常声骸不同，核心声骸的召唤不需要费用，但是需要完成对应的挑战。","- Core Echoes possess powerful combat abilities and effects. They are the key to securing victory.
+- Unlike Normal Echoes, Core Echoes cost no Energy to Deploy and can only be Deployed by fulfilling specific conditions.","- Thanh Hài cốt lõi sở hữu khả năng chiến đấu và hiệu ứng cực mạnh, là chìa khóa để giành chiến thắng.
+- Khác với Thanh Hài thường, việc triệu hồi Thanh Hài cốt lõi không cần chi phí, nhưng phải hoàn thành thử thách tương ứng."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_7,·我方在战斗阶段累计未获胜三次，或决斗进行至第五回合,"- Fail to win 3 Battle Stages in total, or reach Round 5.","- Tổng cộng không giành chiến thắng 3 lần trong giai đoạn chiến đấu, hoặc trận đấu diễn ra đến lượt thứ năm."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_8,·我方累计进行8次调谐，或决斗进行至第五回合,"- Modulate 8 times, or reach Round 5.","- Tổng cộng thực hiện 8 lần Điều Hòa, hoặc trận đấu diễn ra đến lượt thứ năm."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_9,·我方生命小于或等于15，或决斗进行至第五回合,"- HP is at or below 15, or reach Round 5.","- Sinh mệnh của ta nhỏ hơn hoặc bằng 15, hoặc trận đấu diễn ra đến lượt thứ năm."
+lang_multi_text.db,MultiText,PhantomBattleEntryName_1,调谐,Modulation,Điều Hưởng
+lang_multi_text.db,MultiText,PhantomBattleEntryName_10,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_11,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_12,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_13,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_14,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_15,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_16,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_17,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_18,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_19,被动技能,Passive Tactic,Kỹ Năng Bị Động
+lang_multi_text.db,MultiText,PhantomBattleEntryName_2,变幻,Transform,Biến Huyễn
+lang_multi_text.db,MultiText,PhantomBattleEntryName_20,充能技能,Recharge Effect,Kỹ Năng Nạp Năng
+lang_multi_text.db,MultiText,PhantomBattleEntryName_21,主动技能,Active Skill,Kỹ Năng Chủ Động
+lang_multi_text.db,MultiText,PhantomBattleEntryName_22,领域,Domain,Lãnh Vực
+lang_multi_text.db,MultiText,PhantomBattleEntryName_23,特殊召唤,Quick-Deploy,Triệu Hồi Đặc Biệt
+lang_multi_text.db,MultiText,PhantomBattleEntryName_24,奇藏,Novelty,Kỳ Tàng
+lang_multi_text.db,MultiText,PhantomBattleEntryName_25,奇藏·持续时间,Novelty: Duration,Kỳ Tàng: Thời Gian
+lang_multi_text.db,MultiText,PhantomBattleEntryName_26,奇藏·耐久度,Novelty: Uses,Kỳ Tàng: Độ Bền
+lang_multi_text.db,MultiText,PhantomBattleEntryName_27,重构,Reconstruction,Tái Cấu Trúc
+lang_multi_text.db,MultiText,PhantomBattleEntryName_28,重置,Reset,Đặt Lại
+lang_multi_text.db,MultiText,PhantomBattleEntryName_3,特殊技能,Special Skill,Kỹ Năng Đặc Biệt
+lang_multi_text.db,MultiText,PhantomBattleEntryName_4,部署阶段,Deployment Stage,Giai Đoạn Triển Khai
+lang_multi_text.db,MultiText,PhantomBattleEntryName_5,战斗阶段,Battle Stage,Giai Đoạn Chiến Đấu
+lang_multi_text.db,MultiText,PhantomBattleEntryName_6,核心声骸,Core Echo,Thanh Hài Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_7,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_8,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_9,核心挑战,Trial,Thử Thách Cốt Lõi
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_1,<color=#e4c69b>【隐身】</color><color=#fb6464>（未激活）</color>-在战斗阶段开始{0}秒内，直到该声骸造成伤害前，该声骸不会受到攻击。在解除隐身后的{1}秒内，该声骸造成的伤害提升{2}。,"<color=#e4c69b>Invisibility</color> <color=#fb6464>(Unactivated)</color> - For {0}s after the Battle Stage begins and until it deals damage, this Echo cannot be attacked. For {1}s after Invisibility ends, damage dealt by this Echo is increased by {2}.","<color=#e4c69b>[Tàng Hình]</color><color=#fb6464>(Chưa kích hoạt)</color> - Trong vòng {0} giây sau khi giai đoạn chiến đấu bắt đầu, cho đến khi Thanh Hài này gây sát thương, nó sẽ không bị tấn công. Trong {1} giây sau khi giải tàng hình, sát thương của Thanh Hài này tăng {2}."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_10,<color=#e4c69b>【先发】</color><color=#fb6464>（未激活）</color>-在战斗阶段开始时，该声骸造成的伤害提升{0}，持续{1}秒。,"<color=#e4c69b>Forestall</color> <color=#fb6464>(Unactivated)</color> - When the Battle Stage starts, this Echo deals {0} more DMG to enemy Echoes for {1}s.","<color=#e4c69b>[Tiên Phát]</color><color=#fb6464>(Chưa kích hoạt)</color> - Khi giai đoạn chiến đấu bắt đầu, sát thương của Thanh Hài này tăng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_11,<color=#e4c69b>【嘲讽】</color><color=#fb6464>（未激活）</color>-该声骸位于召唤区前排时，会在战斗阶段中被优先作为攻击目标。,"<color=#e4c69b>Taunt</color> <color=#fb6464>(Unactivated)</color> - When in the Frontline, enemy Echoes will attack this Echo first during the Battle Stage.","<color=#e4c69b>[Khiêu Khích]</color><color=#fb6464>(Chưa kích hoạt)</color> - Khi Thanh Hài này ở hàng trước của khu triệu hồi, nó sẽ bị ưu tiên chọn làm mục tiêu tấn công trong giai đoạn chiến đấu."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_12,<color=#e4c69b>【成长】</color><color=#fb6464>（未激活）</color>-在部署阶段结束时，该声骸力量+{0}，持续{1}回合，最多叠加{2}层。该增益会继承至调谐后的声骸上。,"<color=#e4c69b>Boost</color> <color=#fb6464>(Unactivated)</color> - When the Deployment Stage ends, this Echo's STR is increased by {0} for {1} rounds, stacking up to {2} times. This buff carries over to Modulated Echoes.","<color=#e4c69b>[Tăng Trưởng]</color><color=#fb6464>(Chưa kích hoạt)</color> - Khi giai đoạn triển khai kết thúc, sức mạnh của Thanh Hài này +{0}, kéo dài {1} lượt, tối đa cộng dồn {2} lần. Tăng ích này sẽ được kế thừa sang Thanh Hài sau khi điều chỉnh."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_13,dnt/不动【未激活】-不投,,dnt/Bất Động [Chưa kích hoạt] - Không sử dụng
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_14,<color=#e4c69b>【充能】</color><color=#fb6464>（未激活）</color>-每当我方决斗家使用【变幻】时，获得{0}点能量。,"<color=#e4c69b>Recharge</color> <color=#fb6464>(Unactivated)</color> - You gain <SapTag=0>{0}</SapTag> {Cus:Sap,S=point P=points SapTag=0} of Energy each time using Transform.","<color=#e4c69b>[Nạp Năng]</color><color=#fb6464>(Chưa kích hoạt)</color> - Mỗi khi đấu sĩ phe ta sử dụng [Biến Huyễn], nhận được {0} điểm năng lượng."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_15,<color=#e4c69b>【置换】</color><color=#fb6464>（未激活）</color>-每当我方决斗家使用【变幻】时，抽一张牌，然后将一张手牌洗回卡组。,"<color=#e4c69b>Conversion</color> <color=#fb6464>(Unactivated)</color> - Each time you use Transform, you draw a card and then put a hand card back to the deck.","<color=#e4c69b>[Hoán Đổi]</color><color=#fb6464>(Chưa kích hoạt)</color> - Mỗi khi đấu sĩ phe ta sử dụng [Biến Huyễn], rút một lá bài, sau đó trộn một lá bài trên tay về bộ bài."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_16,<color=#e4c69b>【循环】</color><color=#fb6464>（未激活）</color>-将该声骸【重构】时，额外获得{0}点能量。,<color=#e4c69b>Cycle</color> <color=#fb6464>(Unactivated)</color> - Reconstructing this Echo grants {0} more points of Energy.,"<color=#e4c69b>[Tuần Hoàn]</color><color=#fb6464>(Chưa kích hoạt)</color> - Khi [Tái Cấu Trúc] Thanh Hài này, nhận thêm {0} điểm năng lượng."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_17,<color=#e4c69b>【翼守】</color><color=#fb6464>（未激活）</color>-若该声骸处于召唤区的前排或后排，且同排中有三个声骸，则在部署阶段结束时，同排所有声骸伤害+{0}直到回合结束。,"<color=#e4c69b>Flank Force</color> <color=#fb6464>(Unactivated)</color> - When this Echo is in Deployment Zone (either Frontline or Backline) with another two Echoes, all of them gain {0} DMG when the Deployment Stage ends, until the end of the round.","<color=#e4c69b>[Hộ Dực]</color><color=#fb6464>(Chưa kích hoạt)</color> - Nếu Thanh Hài này ở hàng trước hoặc hàng sau của khu triệu hồi, và cùng hàng có ba Thanh Hài, thì khi giai đoạn triển khai kết thúc, tất cả Thanh Hài cùng hàng được tăng sát thương +{0} cho đến hết lượt."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_18,<color=#e4c69b>【超凡之力】</color><color=#fb6464>（未激活）</color>-该声骸每拥有一个【特殊技能】，在战斗阶段中造成的伤害便增加{0}，可叠加{1}层。,"<color=#e4c69b>Superpower</color> <color=#fb6464>(Unactivated)</color> - For each Special Skill this Echo has, it deals {0} more DMG to enemy Echoes during the Battle Stage, stacking up to {1} times.","<color=#e4c69b>[Sức Mạnh Phi Phàm]</color><color=#fb6464>(Chưa kích hoạt)</color> - Mỗi [Kỹ năng đặc biệt] mà Thanh Hài này sở hữu, sát thương gây ra trong giai đoạn chiến đấu tăng thêm {0}, tối đa cộng dồn {1} lần."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_19,<color=#e4c69b>【万变】</color><color=#fb6464>（未激活）</color>-在【万变】激活后，任意通常声骸可以无视规则，与该声骸进行调谐。,"<color=#e4c69b>Versatility</color> <color=#fb6464>(Unactivated)</color> - When Versatility is Activated, this Echo can be Modulated by any Normal Echo with no restrictions.","<color=#e4c69b>[Vạn Biến]</color><color=#fb6464>(Chưa kích hoạt)</color> - Sau khi [Vạn Biến] được kích hoạt, bất kỳ Thanh Hài thường nào cũng có thể bỏ qua quy tắc để tiến hành điều chỉnh với Thanh Hài này."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_2,<color=#e4c69b>【闪现】</color><color=#fb6464>（未激活）</color>-在战斗阶段开始时，将该声骸传送至对手召唤区后排的位置。,"<color=#e4c69b>Flash</color> <color=#fb6464>(Unactivated)</color> - At the start of the Battle Stage, teleport this Echo to the opponent's Backline area.","<color=#e4c69b>[Dịch Chuyển]</color><color=#fb6464>(Chưa kích hoạt)</color> - Khi giai đoạn chiến đấu bắt đầu, dịch chuyển Thanh Hài này đến vị trí hàng sau trong khu triệu hồi của đối thủ."
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_20,<color=#e4c69b>【同化】</color><color=#fb6464>（未激活）</color>-若该声骸处于召唤区的前排或后排，且同排中有三张卡牌，则在部署阶段结束时，同排所有声骸力量与耐久均+{0}直到回合结束。,"<color=#e4c69b>Attunement</color> <color=#fb6464>(Unactivated)</color> - When this Echo is in Deployment Zone (either Frontline or Backline) with another two cards, all of them gain {0} STR and CON at the end of the Deployment Stage until the round ends.","<color=#e4c69b>[Đồng Hóa]</color><color=#fb6464>(Chưa kích hoạt)</color> - Nếu Thanh Hài này ở hàng trước hoặc hàng sau của khu triệu hồi, và cùng hàng có ba lá bài, thì khi giai đoạn triển khai kết thúc, tất cả Thanh Hài cùng hàng được tăng sức mạnh và sức bền +{0} cho đến hết lượt."

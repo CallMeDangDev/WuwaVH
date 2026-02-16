@@ -1,101 +1,323 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_12,所有敌人最大生命值<color=Highlight>-{0}</color>，但获得护盾，被攻击<color=Highlight>{1}</color>次后护盾消失。,"All enemies have their Max HP reduced by <color=Highlight>{0}</color> but gain a Shield, which will be removed after taking <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=hit P=hits SapTag=1}.","HP tối đa của tất cả kẻ địch <color=Highlight>-{0}</color>, nhưng nhận được khiên, sau khi bị tấn công <color=Highlight>{1}</color> lần thì khiên biến mất."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_13,<color=Highlight>「散射组件」</color>升级：同时发射的子弹增加至<color=Highlight>{0}</color>，但子弹伤害倍率<color=Highlight>-{1}</color>。,"<color=Highlight>Shotgun Module</color> is upgraded: It now increases projectile number to <color=Highlight>{0}</color>, but projectile damage is reduced by <color=Highlight>{1}</color>.","<color=Highlight>""Mô-đun Tản Xạ""</color> nâng cấp: Số đạn bắn đồng thời tăng lên <color=Highlight>{0}</color>, nhưng hệ số sát thương đạn <color=Highlight>-{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_14,主武器模组每溢出<color=Highlight>{0}</color>暴击，则转化为<color=Highlight>{1}</color>暴击伤害。,Every <color=Highlight>{0}</color> excess Crit. Rate from the Main Weapon is converted into <color=Highlight>{1}</color> Crit. DMG.,"Mỗi khi mô-đun vũ khí chính dư thừa <color=Highlight>{0}</color> bạo kích, sẽ chuyển hóa thành <color=Highlight>{1}</color> sát thương bạo kích."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_15,主武器模组的攻击、攻速两种属性中：其中一个<color=Highlight>+{0}</color>，另外一个<color=Highlight>-{1}</color>。,The ATK and ATK SPD of Main Weapon are randomly modified: One is increased by <color=Highlight>{0}</color> while the other is reduced by <color=Highlight>{1}</color>.,"Trong hai thuộc tính tấn công và tốc độ tấn công của mô-đun vũ khí chính: một thuộc tính <color=Highlight>+{0}</color>, thuộc tính còn lại <color=Highlight>-{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_16,<color=Highlight>「追踪导弹协议」</color>升级：辅助哨戒机造成的伤害<color=Highlight>+{1}</color>，冷却时间<color=Highlight>+{0}</color>。,"<color=Highlight>Guided Missile Protocol</color> is upgraded: The Support Droid deals <color=Highlight>{1}</color> more DMG, and Cooldown is increased by <color=Highlight>{0}</color>.","<color=Highlight>""Giao Thức Tên Lửa Dẫn Đường""</color> nâng cấp: Sát thương Drone Hỗ Trợ gây ra <color=Highlight>+{1}</color>, thời gian hồi chiêu <color=Highlight>+{0}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_17,<color=Highlight>「追踪导弹协议」</color>的辅助哨戒机数量<color=Highlight>+{0}</color>。,The number of <color=Highlight>Guided Missile Protocol</color>'s Support Droid is increased by <color=Highlight>{0}</color>.,"Số lượng Drone Hỗ Trợ của <color=Highlight>""Giao Thức Tên Lửa Dẫn Đường""</color> <color=Highlight>+{0}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_18,主武器模组伤害<color=Highlight>+{0}</color>，但辅助哨戒机伤害<color=Highlight>-{1}</color>。,"<color=Highlight>Main Weapon</color> deals <color=Highlight>{0}</color> more DMG, but Support Droid deals <color=Highlight>{1}</color> less DMG.","Sát thương mô-đun vũ khí chính <color=Highlight>+{0}</color>, nhưng sát thương Drone Hỗ Trợ <color=Highlight>-{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_19,主武器模组攻击<color=Highlight>+{0}</color>。,Main Weapon ATK is increased by <color=Highlight>{0}</color>.,Tấn công mô-đun vũ khí chính <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_20,辅助哨戒机攻击<color=Highlight>+{0}</color>。,Support Droid ATK is increased by <color=Highlight>{0}</color>.,Tấn công Drone Hỗ Trợ <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_21,主武器模组暴击伤害<color=Highlight>+{0}</color>。,Main Weapon Crit. DMG is increased by <color=Highlight>{0}</color>.,Sát thương bạo kích mô-đun vũ khí chính <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_22,辅助哨戒机暴击伤害<color=Highlight>+{0}</color>。,Support Droid Crit. DMG is increased by <color=Highlight>{0}</color>.,Sát thương bạo kích Drone Hỗ Trợ <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_23,所有武器造成伤害<color=Highlight>+{0}</color>。,All weapons deal <color=Highlight>{0}</color> more DMG.,Sát thương gây ra bởi tất cả vũ khí <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_24,主武器模组攻击<color=Highlight>+{0}</color>；每次通过主武器模组或碰撞击败敌人后，主武器模组攻击<color=Highlight>+{1}</color>。,Main Weapon ATK is increased by <color=Highlight>{0}</color>. Defeating enemies with the Main Weapon or by ramming increases Main Weapon ATK by <color=Highlight>{1}</color>.,"Tấn công mô-đun vũ khí chính <color=Highlight>+{0}</color>; mỗi lần đánh bại kẻ địch bằng mô-đun vũ khí chính hoặc va chạm, tấn công mô-đun vũ khí chính <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_25,主武器模组子弹数量<color=Highlight>+{0}</color>。,Main Weapon projectile number is increased by <color=Highlight>{0}</color>.,Số lượng đạn mô-đun vũ khí chính <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_26,辅助哨戒机数量<color=Highlight>+{0}</color>。,The Support Droid number is increased by <color=Highlight>{0}</color>.,Số lượng Drone Hỗ Trợ <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_27,主武器模组攻速加成<color=Highlight>+{0}</color>。,Grants <color=Highlight>{0}</color> Main Weapon ATK SPD Bonus.,Cộng thêm tốc độ tấn công mô-đun vũ khí chính <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_28,辅助哨戒机冷却时间<color=Highlight>-{0}</color>。,Support Droid Cooldown is reduced by <color=Highlight>{0}</color>.,Thời gian hồi chiêu Drone Hỗ Trợ <color=Highlight>-{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_29,主武器模组生命汲取<color=Highlight>+{0}</color>。,Main Weapon Life Drain is increased by <color=Highlight>{0}</color>.,Hút máu mô-đun vũ khí chính <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_30,获取<color=Highlight>{0}</color>个随机补给品。,Obtains <color=Highlight>{0}</color> random Support Items,Nhận <color=Highlight>{0}</color> vật phẩm hỗ trợ ngẫu nhiên.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_31,碰撞击败敌人时，自身受到的伤害<color=Highlight>-{0}</color>。,Defeating an enemy by ramming reduces the DMG taken by <color=Highlight>{0}</color>.,"Khi đánh bại kẻ địch bằng va chạm, sát thương bản thân nhận vào <color=Highlight>-{0}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_32,受到敌人的子弹伤害<color=Highlight>-{0}</color>。,Damage taken from enemy projectiles is reduced by <color=Highlight>{0}</color>.,Sát thương nhận từ đạn kẻ địch <color=Highlight>-{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_33,治疗效果加成<color=Highlight>+{0}</color>。,Grants <color=Highlight>{0}</color> Healing Bonus.,Bonus hiệu quả hồi phục <color=Highlight>+{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_34,持续回复生命，每秒生命值<color=Highlight>+{0}</color>。,HP continuously restores by <color=Highlight>{0}</color> per second.,"Liên tục hồi phục sinh mệnh, mỗi giây sinh mệnh <color=Highlight>+{0}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_35,当前剩余生命值翻倍。,The current HP is doubled.,Sinh mệnh còn lại hiện tại được nhân đôi.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_36,每拥有<color=Highlight>{0}</color>生命值，主武器模组攻击<color=Highlight>+{1}</color>（最多<color=Highlight>+{2}</color>）。,"Every <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=point P=points SapTag=0} of current HP increases the ATK of Main Weapon by <color=Highlight>{1}</color>, up to <color=Highlight>{2}</color>.","Mỗi <color=Highlight>{0}</color> điểm sinh mệnh sở hữu, tấn công mô-đun vũ khí chính <color=Highlight>+{1}</color> (tối đa <color=Highlight>+{2}</color>)."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_37,若<color=Highlight>{0}</color>秒内没有受到过碰撞伤害，主武器模组攻击<color=Highlight>+{1}</color>。,Main Weapon ATK is increased by <color=Highlight>{1}</color> if no ramming DMG is taken for <color=Highlight>{0}</color>s.,"Nếu trong <color=Highlight>{0}</color> giây không chịu sát thương va chạm, tấn công mô-đun vũ khí chính <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_38,若<color=Highlight>{0}</color>秒内没有受到过碰撞伤害，辅助哨戒机攻击<color=Highlight>+{1}</color>。,Support Droid ATK is increased by <color=Highlight>{1}</color> if no ramming DMG is taken for <color=Highlight>{0}</color>s.,"Nếu trong <color=Highlight>{0}</color> giây không chịu sát thương va chạm, tấn công Drone Hỗ Trợ <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_39,若<color=Highlight>{0}</color>秒内没有受到过碰撞伤害，主武器模组攻速<color=Highlight>+{1}</color>。,Main Weapon ATK SPD is increased by <color=Highlight>{1}</color> if no ramming DMG is taken for <color=Highlight>{0}</color>s.,"Nếu trong <color=Highlight>{0}</color> giây không chịu sát thương va chạm, tốc độ tấn công mô-đun vũ khí chính <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_40,若<color=Highlight>{0}</color>秒内没有受到过碰撞伤害，辅助哨戒机冷却时间<color=Highlight>-{1}</color>。,Support Droid Cooldown is reduced by <color=Highlight>{1}</color> if no ramming DMG is taken for <color=Highlight>{0}</color>s.,"Nếu trong <color=Highlight>{0}</color> giây không chịu sát thương va chạm, thời gian hồi chiêu Drone Hỗ Trợ <color=Highlight>-{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_41,每隔<color=Highlight>{0}</color>秒，抵挡<color=Highlight>{1}</color>次敌人的子弹伤害。,"Block <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=instance P=instances SapTag=1} of enemies' projectile damage, activated every <color=Highlight>{0}</color>s.","Mỗi <color=Highlight>{0}</color> giây, chặn <color=Highlight>{1}</color> lần sát thương đạn từ kẻ địch."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_42,宝箱怪出现概率+<color=Highlight>{0}</color>。,The chance for Mimic Chests to appear is increased by <color=Highlight>{0}</color>.,Xác suất xuất hiện Rương Giả +<color=Highlight>{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_43,敌人生命值<color=Highlight>-{0}</color>。,Enemies' HP is reduced by <color=Highlight>{0}</color>.,Sinh mệnh kẻ địch <color=Highlight>-{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_44,敌人攻击<color=Highlight>-{0}</color>。,Enemies' ATK is reduced by <color=Highlight>{0}</color>.,Tấn công kẻ địch <color=Highlight>-{0}</color>.
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_45,击破敌人的护盾时，对其造成<color=Highlight>{0}</color>最大生命值伤害。,Breaking the Shield of enemies deals DMG equal to <color=Highlight>{0}</color> of their Max HP.,"Khi phá vỡ khiên kẻ địch, gây sát thương bằng <color=Highlight>{0}</color> sinh mệnh tối đa của chúng."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_46,主武器模组攻击<color=Highlight>+{0}</color>，辅助哨戒机攻击<color=Highlight>+{1}</color>。,Main Weapon ATK is increased by <color=Highlight>{0}</color> and Support Droid ATK is increased by <color=Highlight>{1}</color>.,"Tấn công mô-đun vũ khí chính <color=Highlight>+{0}</color>, tấn công Drone Hỗ Trợ <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_47,主武器模组攻击<color=Highlight>+{0}</color>，攻速<color=Highlight>+{1}</color>。,Main Weapon ATK is increased by <color=Highlight>{0}</color> and ATK SPD is increased by <color=Highlight>{1}</color>.,"Tấn công mô-đun vũ khí chính <color=Highlight>+{0}</color>, tốc độ tấn công <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_48,辅助哨戒机攻击<color=Highlight>+{0}</color>，冷却<color=Highlight>-{1}</color>。,Support Droid ATK is increased by <color=Highlight>{0}</color> but Cooldown is reduced by <color=Highlight>{1}</color>.,"Tấn công Drone Hỗ Trợ <color=Highlight>+{0}</color>, hồi chiêu <color=Highlight>-{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_49,主武器模组攻击<color=Highlight>+{0}</color>，辅助哨戒机攻击<color=Highlight>-{1}</color>。,Main Weapon ATK is increased by <color=Highlight>{0}</color> but Support Droid ATK is reduced by <color=Highlight>{1}</color>.,"Tấn công mô-đun vũ khí chính <color=Highlight>+{0}</color>, tấn công Drone Hỗ Trợ <color=Highlight>-{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_50,主武器模组攻击<color=Highlight>-{0}</color>，辅助哨戒机攻击<color=Highlight>+{1}</color>。,"Main Weapon ATK is reduced by <color=Highlight>{0}</color>, but Support Droid ATK is increased by <color=Highlight>{1}</color>.","Tấn công mô-đun vũ khí chính <color=Highlight>-{0}</color>, tấn công Drone Hỗ Trợ <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_51,主武器模组攻速<color=Highlight>+{0}</color>，但辅助哨戒机冷却时间<color=Highlight>+{1}</color>。,"Main Weapon ATK SPD is increased by <color=Highlight>{0}</color>, but Support Droid Cooldown is increased by <color=Highlight>{1}</color>.","Tốc độ tấn công mô-đun vũ khí chính <color=Highlight>+{0}</color>, nhưng thời gian hồi chiêu Drone Hỗ Trợ <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_52,辅助哨戒机冷却时间<color=Highlight>-{1}</color>，但主武器模组攻速<color=Highlight>-{0}</color>。,Support Droid Cooldown is reduced by <color=Highlight>{1}</color> but Main Weapon ATK SPD is reduced by <color=Highlight>{0}</color>.,"Thời gian hồi chiêu Drone Hỗ Trợ <color=Highlight>-{1}</color>, nhưng tốc độ tấn công mô-đun vũ khí chính <color=Highlight>-{0}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_53,主武器模组每有<color=Highlight>{0}</color>暴击加成，或<color=Highlight>{2}</color>暴击伤害，主武器模组攻击<color=Highlight>+{1}</color>。,"For every <color=Highlight>{0}</color> Crit. Rate Bonus or <color=Highlight>{2}</color> Crit. DMG of Main Weapon, its ATK is increased by <color=Highlight>{1}</color>.","Mô-đun vũ khí chính mỗi khi có <color=Highlight>{0}</color> bonus bạo kích, hoặc <color=Highlight>{2}</color> sát thương bạo kích, tấn công mô-đun vũ khí chính <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_54,辅助哨戒机每有<color=Highlight>{0}</color>暴击加成，或<color=Highlight>{2}</color>暴击伤害，辅助哨戒机攻击<color=Highlight>+{1}</color>。,"For every <color=Highlight>{0}</color> Crit. Rate Bonus or <color=Highlight>{2}</color> Crit. DMG of Support Droid, its ATK is increased by <color=Highlight>{1}</color>.","Drone Hỗ Trợ mỗi khi có <color=Highlight>{0}</color> bonus bạo kích, hoặc <color=Highlight>{2}</color> sát thương bạo kích, tấn công Drone Hỗ Trợ <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_55,主武器模组每有<color=Highlight>{0}</color>攻速（不计算攻速加成的影响），主武器模组攻击<color=Highlight>+{1}</color>。,"For every <color=Highlight>{0}</color> ATK SPD of Main Weapon (without ATK SPD Bonus), its ATK is increased by <color=Highlight>{1}</color>.","Mô-đun vũ khí chính mỗi khi có <color=Highlight>{0}</color> tốc độ tấn công (không tính bonus tốc độ tấn công), tấn công mô-đun vũ khí chính <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_56,辅助哨戒机每有<color=Highlight>{0}</color>冷却缩减，辅助哨戒机攻击<color=Highlight>+{1}</color>。,"For every <color=Highlight>{0}</color> Cooldown Reduction of Support Droid, its ATK is increased by <color=Highlight>{1}</color>.","Drone Hỗ Trợ mỗi khi có <color=Highlight>{0}</color> giảm hồi chiêu, tấn công Drone Hỗ Trợ <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_57,将主武器模组加装为<color=Highlight>「重击组件」</color>：每隔<color=Highlight>{0}</color>秒额外发射激光束，造成<color=Highlight>{1}</color>的伤害。,"Main Weapon is modded with <color=Highlight>Zap Module</color>: Every <color=Highlight>{0}</color>s, an additional laser beam is fired, dealing <color=Highlight>{1}</color> DMG.","Gia cố mô-đun vũ khí chính thành <color=Highlight>""Bộ Phận Trọng Kích""</color>: Mỗi <color=Highlight>{0}</color> giây phóng thêm tia laser, gây <color=Highlight>{1}</color> sát thương."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_58,将主武器模组加装为<color=Highlight>「连射组件」</color>：攻速加成<color=Highlight>+{0}</color>。,Main Weapon is modded with <color=Highlight>Repeater Module</color>: Grants <color=Highlight>{0}</color> ATK SPD Bonus.,"Gia cố mô-đun vũ khí chính thành <color=Highlight>""Bộ Phận Liên Xạ""</color>: Bonus tốc độ tấn công <color=Highlight>+{0}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_59,将主武器模组加装为<color=Highlight>「散射组件」</color>：同时发射的子弹增加至<color=Highlight>{0}</color>，可攻击其他道路上的敌人，但子弹伤害倍率<color=Highlight>-{1}</color>。,"Main Weapon is modded with <color=Highlight>Shotgun Module</color>: <color=Highlight>{0}</color> projectiles can be shot in a single attack, covering targets on multiple lanes. But projectile damage is reduced by <color=Highlight>{1}</color>.","Gia cố mô-đun vũ khí chính thành <color=Highlight>""Bộ Phận Tán Xạ""</color>: Số đạn bắn đồng thời tăng lên <color=Highlight>{0}</color>, có thể tấn công kẻ địch trên các đường khác, nhưng hệ số sát thương đạn <color=Highlight>-{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_60,将辅助哨戒机加装为<color=Highlight>「轨道打击协议」</color>：<color=Highlight>无法获得辅助哨戒机数量加成</color>，「辅助哨戒机」数量每<color=Highlight>+1</color>则攻击<color=Highlight>+{0}</color>。加装时，辅助哨戒机数量<color=Highlight>+{1}</color>。,"Support Droid now has <color=Highlight>Orbital Strike Protocol</color> activated: <color=Highlight>Support Droid's number cannot be further increased</color>. <color=Highlight>For every Support Droid currently deployed</color>, ATK is increased by <color=Highlight>{0}</color>. When activated, the number Support Droids is increased by <color=Highlight>{1}</color>.","Gia cố Drone Hỗ Trợ thành <color=Highlight>""Giao Thức Tấn Công Quỹ Đạo""</color>: <color=Highlight>Không thể nhận thêm bonus số lượng Drone Hỗ Trợ</color>, mỗi khi số lượng ""Drone Hỗ Trợ"" <color=Highlight>+1</color> thì tấn công <color=Highlight>+{0}</color>. Khi gia cố, số lượng Drone Hỗ Trợ <color=Highlight>+{1}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_61,将辅助哨戒机加装为<color=Highlight>「持续燃烧协议」</color>：持续燃烧协议首次命中敌人时，造成<color=Highlight>{0}</color>伤害；命中后点燃目标，在<color=Highlight>{1}</color>秒内每秒造成<color=Highlight>{2}</color>伤害。加装时，辅助哨戒机数量<color=Highlight>+{3}</color>。,"Support Droid now has <color=Highlight>Sustained Combustion Protocol</color> activated: Deal <color=Highlight>{0}</color> DMG upon the first hit. Set the target aflame on hit, dealing <color=Highlight>{2}</color> DMG per second for <color=Highlight>{1}</color>s. When activated, the Support Droid number is increased by <color=Highlight>{3}</color>.","Gia cố Drone Hỗ Trợ thành <color=Highlight>""Giao Thức Thiêu Đốt Liên Tục""</color>: Khi Giao Thức Thiêu Đốt Liên Tục trúng kẻ địch lần đầu, gây <color=Highlight>{0}</color> sát thương; sau khi trúng, đốt cháy mục tiêu, trong <color=Highlight>{1}</color> giây mỗi giây gây <color=Highlight>{2}</color> sát thương. Khi gia cố, số lượng Drone Hỗ Trợ <color=Highlight>+{3}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemDesc_62,将辅助哨戒机加装为<color=Highlight>「追踪导弹协议」</color>。加装时，辅助哨戒机数量<color=Highlight>+{0}</color>。,"Support Droid now has <color=Highlight>Guided Missile Protocol</color> activated. When activated, the Support Droid number is increased by <color=Highlight>{0}</color>.","Gia cố Drone Hỗ Trợ thành <color=Highlight>""Giao Thức Tên Lửa Dẫn Đường""</color>. Khi gia cố, số lượng Drone Hỗ Trợ <color=Highlight>+{0}</color>."
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_01,磁力负重战术带Lv.4,Magnetic Tactical Belt Lv. 4,Đai Chiến Thuật Từ Lực Lv.4
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_02,“完美节拍”,"""Perfect Beat""","""Nhịp Hoàn Hảo"""
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_03,过载能源方块,Overloaded Energy Cube,Khối Năng Lượng Quá Tải
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_04,压力阈值检测仪Lv.4,Stress Threshold Detector Lv. 4,Máy Dò Ngưỡng Áp Lực Lv.4
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_05,弱化相位涂料,Weakening Phase Coating,Sơn Pha Suy Yếu
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_06,超高校级的幸运骰子,The Ultimate Lucky Dice,Xúc Xắc Siêu May Mắn
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_07,速速菇浓缩果汁（试作版）Lv.4,Speedshrum Juice Sample Lv. 4,Nước Ép Cô Đặc Nấm Tốc Độ (Thử Nghiệm) Lv.4
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_08,“节奏注入”便携医疗包,"""Rhythm Injector"" Medical Kit","Bộ Y Tế Di Động ""Tiêm Nhịp Điệu"""
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_09,动态弱点透视眼镜,Dynamic Weak Point Detector,Kính Phát Hiện Điểm Yếu Động
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_10,“持久燃烧”燃料罐Lv.4,"""Sustained Combustion"" Fuel Tank Lv. 4","Bình Nhiên Liệu ""Cháy Bền Bỉ"" Lv.4"
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_101,磁力负重战术带Lv.2,Magnetic Tactical Belt Lv. 2,Đai Chiến Thuật Từ Lực Lv.2
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_102,速速菇浓缩果汁（试作版）Lv.2,Speedshrum Juice Sample Lv. 2,Nước Ép Cô Đặc Nấm Tốc Độ (Thử Nghiệm) Lv.2
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_103,弹道拓展坞Lv.2,Trajectory Docking Station Lv. 2,Trạm Mở Rộng Đạn Đạo Lv.2
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_104,压力阈值检测仪Lv.2,Stress Threshold Detector Lv. 2,Máy Dò Ngưỡng Áp Lực Lv.2
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_105,“持久燃烧”燃料罐Lv.2,"""Sustained Combustion"" Fuel Tank Lv. 2","Bình Nhiên Liệu ""Cháy Bền Bỉ"" Lv.2"
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_106,王牌导弹抽奖券Lv.2,Ace Missile Raffle Ticket Lv. 2,Vé Rút Thưởng Tên Lửa Vương Bài Lv.2
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_107,磁力负重战术带Lv.3,Magnetic Tactical Belt Lv. 3,Đai Chiến Thuật Từ Lực Lv.3
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_108,速速菇浓缩果汁（试作版）Lv.3,Speedshrum Juice Sample Lv. 3,Nước Ép Cô Đặc Nấm Tốc Độ (Thử Nghiệm) Lv.3
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_109,弹道拓展坞Lv.3,Trajectory Docking Station Lv. 3,Trạm Mở Rộng Đạn Đạo Lv.3
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_11,频域谐振放大器,Frequency Syntony Ampliflier,Bộ Khuếch Đại Cộng Hưởng Tần Số
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_110,压力阈值检测仪Lv.3,Stress Threshold Detector Lv. 3,Máy Dò Ngưỡng Áp Lực Lv.3
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_111,“持久燃烧”燃料罐Lv.3,"""Sustained Combustion"" Fuel Tank Lv. 3","Bình Nhiên Liệu ""Cháy Bền Bỉ"" Lv.3"
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_112,王牌导弹抽奖券Lv.3,Ace Missile Raffle Ticket Lv. 3,Vé Rút Thưởng Tên Lửa Vương Bài Lv.3
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_113,训练协议强化密钥-攻击,Training Protocol Enhancement Key: ATK,Mật Khóa Cường Hóa Giao Thức Huấn Luyện - Tấn Công
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_114,训练协议强化密钥-攻速,Training Protocol Enhancement Key: ATK SPD,Mật Khóa Cường Hóa Giao Thức Huấn Luyện - Tốc Đánh
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_116,罐装混沌,Canned Chaos,Hỗn Độn Đóng Hộp
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_117,数据提取·哀声鸷,Data Extraction: Mourning Aix,Trích Xuất Dữ Liệu: Ai Thanh Chí
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_118,数据提取·辉萤军势,Data Extraction: Lampylumen Myriad,Trích Xuất Dữ Liệu: Huy Huỳnh Quân Thế
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_119,数据提取·异构武装,Data Extraction: Sentry Construct,Trích Xuất Dữ Liệu: Dị Cấu Vũ Trang
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_12,“偷盗者”程式芯片,"""Burglar"" Program Chip","Chip Trình Thức ""Kẻ Trộm"""
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_13,弹道拓展坞Lv.4,Trajectory Docking Station Lv. 4,Trạm Mở Rộng Đạn Đạo Lv.4
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_14,“一键清理”大师奖杯,"""Clearing Master"" Trophy","Cúp Đại Sư ""Dọn Sạch Một Phát"""
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_15,训练协议强化密钥,Training Protocol Enhancement Key,Mật Khóa Cường Hóa Giao Thức Huấn Luyện
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_16,王牌导弹抽奖券Lv.4,Ace Missile Raffle Ticket Lv. 4,Vé Rút Thưởng Tên Lửa Vương Bài Lv.4
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_17,非欧几里得瞄准镜,Non-Euclid Scope,Ống Ngắm Phi Euclid
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_18,全域震波增幅器,Global Wave Amplifier,Bộ Khuếch Đại Chấn Ba Toàn Vực
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_19,炽烈和弦,Blazing Chord,Hòa Huyền Xích Liệt
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_20,协议增程器,Protocol Range Extender,Bộ Tăng Tầm Giao Thức
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_21,裂伤拳刃,Gashclaw,Quyền Nhẫn Liệt Thương
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_22,致命棘枪,Lance of Death,Cức Thương Tử Mệnh
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_23,强攻啫喱,Assault Gel,Gel Cường Công
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_24,“成功之母”,"""Mother of Success""","""Mẹ Của Thành Công"""
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_25,镜像终端,Mirror Terminal,Thiết Bị Đầu Cuối Gương
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_26,增援信标,Reinforcement Beacon,Tín Hiệu Chi Viện
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_27,争分夺秒面,Ever-Instant Noodle,Mì Tranh Thủ Từng Giây
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_28,清爽冻饮,Refreshing Cold Drink,Đồ Uống Lạnh Sảng Khoái
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_29,汲能匕首,Draining Dagger,Đoản Đao Hút Năng
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_30,不稳定馈赠,Unstable Gift,Quà Tặng Bất Ổn
-lang_multi_text.db,MultiText,MotorFightGame_ItemName_31,冲锋屏障,Ram Barrier,Rào Chắn Xung Phong
+lang_multi_text.db,MultiText,MonsterInfo_350000100_Name,异相·咕咕河豚,Phantom: Gulpuff,Dị Tướng - Gulpuff
+lang_multi_text.db,MultiText,MonsterInfo_350000110_Name,异相·游鳞机枢,Phantom: Lumiscale Construct,Dị Tướng - Du Lân Cơ Khu
+lang_multi_text.db,MultiText,MonsterInfo_350000120_Name,异相·燎照之骑,Phantom: Inferno Rider,Dị Tướng - Liêu Chiếu Chi Kỵ
+lang_multi_text.db,MultiText,MonsterInfo_350000130_Name,异相·工头布偶,Phantom: Diggy Duggy,Dị Tướng - Diggy Duggy
+lang_multi_text.db,MultiText,MonsterInfo_350000140_Name,异相·琉璃刀伶,Phantom: Vitreum Dancer,Dị Tướng - Vitreum Dancer
+lang_multi_text.db,MultiText,MonsterInfo_350000150_Name,异相·巡游骑士,Phantom: Questless Knight,Dị Tướng - Questless Knight
+lang_multi_text.db,MultiText,MonsterInfo_350000160_Name,异相·异构武装,Phantom: Sentry Construct,Dị Tướng - Sentry Construct
+lang_multi_text.db,MultiText,MonsterInfo_350000170_Name,异相·罗蕾莱,Phantom: Lorelei,Dị Tướng - Lorelei
+lang_multi_text.db,MultiText,MonsterInfo_350000180_DiscoveredDes,dnt/荣光节使-闪光已发现占位,Capitaneus - Discovered placeholder,dnt/Capitaneus - Biến thể đã phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000180_Name,异相·荣光节使,Phantom: Capitaneus,Dị Tướng - Capitaneus
+lang_multi_text.db,MultiText,MonsterInfo_350000180_UndiscoveredDes,dnt/荣光节使-闪光未发现占位,Capitaneus - Undiscovered placeholder,dnt/Capitaneus - Biến thể chưa phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000190_DiscoveredDes,dnt/云海妖精-闪光已发现占位,,dnt/Vân Hải Yêu Tinh - Biến thể đã phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000190_Name,异相·云海妖精,Phantom: Nimbus Wraith,Dị Tướng - Nimbus Wraith
+lang_multi_text.db,MultiText,MonsterInfo_350000190_UndiscoveredDes,dnt/云海妖精-闪光未发现占位,,dnt/Vân Hải Yêu Tinh - Biến thể chưa phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000200_DiscoveredDes,dnt/无冠者-闪光已发现占位,,dnt/Vô Quán Giả - Biến thể đã phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000200_Name,异相·无冠者,Phantom: Crownless,Dị Tướng - Vô Quán Giả
+lang_multi_text.db,MultiText,MonsterInfo_350000200_UndiscoveredDes,dnt/无冠者-闪光未发现占位,,dnt/Vô Quán Giả - Biến thể chưa phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000210_DiscoveredDes,dnt/梦魇·无冠者-闪光已发现占位,,dnt/Mộng Yểm - Vô Quán Giả - Biến thể đã phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000210_Name,异相·梦魇·无冠者,Phantom: Nightmare Crownless,Dị Tướng - Mộng Yểm - Vô Quán Giả
+lang_multi_text.db,MultiText,MonsterInfo_350000210_UndiscoveredDes,dnt/梦魇·无冠者-闪光未发现占位,,dnt/Mộng Yểm - Vô Quán Giả - Biến thể chưa phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000220_DiscoveredDes,dnt/欺诈奇藏-闪光已发现占位,,dnt/Chest Mimic - Biến thể đã phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000220_Name,异相·欺诈奇藏,Phantom: Chest Mimic,Dị Tướng - Chest Mimic
+lang_multi_text.db,MultiText,MonsterInfo_350000220_UndiscoveredDes,dnt/欺诈奇藏-闪光未发现占位,,dnt/Chest Mimic - Biến thể chưa phát hiện
+lang_multi_text.db,MultiText,MonsterInfo_350000230_Name,异相·幽翎火,Phantom: Fae Ignis,Dị Tướng - Fae Ignis
+lang_multi_text.db,MultiText,MonsterInfo_350000240_Name,异相·巨布偶,Phantom: Cuddle Wuddle,Dị Tướng - Cuddle Wuddle
+lang_multi_text.db,MultiText,MonsterInfo_350000250_Name,异相·梦魇·燎照之骑,Phantom: Nightmare Inferno Rider,Dị Tướng - Mộng Yểm - Liêu Chiếu Chi Kỵ
+lang_multi_text.db,MultiText,MonsterInfo_350000260_Name,异相·梦魇·哀声鸷,Phantom: Nightmare Mourning Aix,Dị Tướng - Mộng Yểm - Ai Thanh Chí
+lang_multi_text.db,MultiText,MonsterInfo_350000270_Name,异相·无归的谬误,Phantom: Fallacy of No Return,Dị Tướng - Fallacy of No Return
+lang_multi_text.db,MultiText,MonsterInfo_350000280_Name,异相·角鳄,Phantom: Kerasaur,Dị Tướng - Kerasaur
+lang_multi_text.db,MultiText,MonsterInfo_350000290_Name,异相·荣耀狮像,Phantom: Lioness of Glory,Dị Tướng - Lioness of Glory
+lang_multi_text.db,MultiText,MonsterInfo_350000300_Name,异相·浮灵偶,Phantom: Chop Chop,Dị Tướng - Chop Chop
+lang_multi_text.db,MultiText,MonsterInfo_350000310_Name,异相·伪作的神王,Phantom: The False Sovereign,Dị Tướng - The False Sovereign
+lang_multi_text.db,MultiText,MonsterInfo_350000320_Name,异相·海维夏,Phantom: Hyvatia,Dị Tướng - Hyvatia
+lang_multi_text.db,MultiText,MonsterInfo_350000330_Name,异相·噼啪啪,Phantom: Zip Zap,Dị Tướng - Zip Zap
+lang_multi_text.db,MultiText,MonsterInfo_350000340_Name,异相·双极·星升辉铳,Phantom: Twin Nova - Nebulous Cannon,Dị Tướng - Twin Nova - Nebulous Cannon
+lang_multi_text.db,MultiText,MonsterInfo_350000350_Name,异相·双极·渊陨重锋,Phantom: Twin Nova - Collapsar Blade,Dị Tướng - Twin Nova - Collapsar Blade
+lang_multi_text.db,MultiText,MonsterInfo_350000360_Name,异相·辛吉勒姆,Phantom: Sigillum,Dị Tướng - Sigillum
+lang_multi_text.db,MultiText,MonsterInfo_350000370_Name,异相·冰盈舞者,Phantom: Iceglint Dancer,Dị Tướng - Iceglint Dancer
+lang_multi_text.db,MultiText,MonsterInfo_360000010_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Light>衍射伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+幻形为今汐团子，持续引导「光束」轰击面前的区域，每秒造成{1}的<color=Light>衍射伤害</color>，持续{2}秒。技能冷却：{6}秒
+·在引导期间可以操纵「光束」轰击的方向
+<size=10> </size>
+<size=40><color=Title>升级效果</color></size>
+子弹数量等级{4}：「光束」数量增加{5}
+持续时间等级{3}：「光束」持续时间增加{9}秒","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Light>Spectro DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10> </size>
+<size=40><color=Title>Core Skill</color></size>
+Transform into Jinhsi Cube and cast Light Beam to bombard the front area for {2}s, dealing <color=Light>Spectro DMG</color> equal to {1} of the active Resonator's ATK per second. Skill Cooldown: {6}s.
+- Jinhsi Cube can control the direction of the Light Beam.
+<size=10> </size>
+<size=40><color=Title>Enhanced Effect</color></size>
+Skill Projectiles Level {4}: The number of Light Beam is increased by {5}.
+Skill Duration Level {3}: The skill duration is increased by {9}s.","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Light>sát thương Quang Phổ</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Biến hình thành viên Kim Hề, liên tục dẫn ""Tia Sáng"" bắn phá khu vực phía trước, mỗi giây gây {1} <color=Light>sát thương Quang Phổ</color>, kéo dài {2} giây. Hồi chiêu: {6} giây
+- Trong lúc dẫn có thể điều khiển hướng bắn của ""Tia Sáng""
+<size=10> </size>
+<size=40><color=Title>Hiệu Quả Nâng Cấp</color></size>
+Cấp số đạn {4}: Số lượng ""Tia Sáng"" tăng thêm {5}
+Cấp thời lượng {3}: Thời gian duy trì ""Tia Sáng"" tăng thêm {9} giây"
+lang_multi_text.db,MultiText,MonsterInfo_360000010_Name,今汐,Jinhsi,Kim Hề
+lang_multi_text.db,MultiText,MonsterInfo_360000020_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Fire>热熔伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+长离团子使用「焚身以火」进行攻击，造成{1}的<color=Fire>热熔伤害</color>，附近队伍中所有角色的攻击提升{2}，持续{3}秒，可叠加{5}层。技能冷却：{4}秒","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Fire>Fusion DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10> </size>
+<size=40><color=Title>Core Skill</color></size>
+Changli Cube casts Flaming Sacrifice to attack the target, dealing <color=Fire>Fusion DMG</color> equal to {1} of the active Resonator's ATK and increasing the ATK of all nearby Resonators in the team by {2} for {3}s, stacking up to {5} times. Skill Cooldown: {4}s","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Fire>sát thương Hỏa Liệt</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Viên Trường Ly sử dụng ""Phần Thân Dĩ Hỏa"" để tấn công, gây {1} <color=Fire>sát thương Hỏa Liệt</color>, tăng tấn công của tất cả nhân vật trong đội ở gần thêm {2}, kéo dài {3} giây, cộng dồn tối đa {5} lần. Hồi chiêu: {4} giây"
+lang_multi_text.db,MultiText,MonsterInfo_360000020_Name,长离,Changli,Trường Ly
+lang_multi_text.db,MultiText,MonsterInfo_360000030_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Thunder>导电伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+卡卡罗团子使用「死告」进行攻击，造成{1}的<color=Thunder>导电伤害</color>。技能冷却：{6}秒
+<size=10> </size>
+<size=40><color=Title>升级效果</color></size>
+子弹数量等级{2}：额外产生{5}个「幻影」施放「死告」，「幻影」只会造成基础伤害的{7}","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Thunder>Electro DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10> </size>
+<size=40><color=Title>Core Skill</color></size>
+Calcharo Cube casts Death Messenger to attack the target, dealing <color=Thunder>Electro DMG</color> equal to {1} of the active Resonator's ATK. Skill Cooldown: {6}s
+<size=10> </size>
+<size=40><color=Title>Enhanced Effect</color></size>
+Skill Projectiles Level {2}:  Generate {5} more Phantoms to cast Death Messenger that deals DMG equal to {7} of Calcharo Cube's Death Messenger DMG.","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Thunder>sát thương Điện Từ</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Viên Calcharo sử dụng ""Tử Cáo"" để tấn công, gây {1} <color=Thunder>sát thương Điện Từ</color>. Hồi chiêu: {6} giây
+<size=10> </size>
+<size=40><color=Title>Hiệu Quả Nâng Cấp</color></size>
+Cấp số đạn {2}: Tạo thêm {5} ""Ảo Ảnh"" thi triển ""Tử Cáo"", ""Ảo Ảnh"" chỉ gây {7} sát thương gốc"
+lang_multi_text.db,MultiText,MonsterInfo_360000030_Name,卡卡罗,Calcharo,Calcharo
+lang_multi_text.db,MultiText,MonsterInfo_360000040_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Light>衍射伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+守岸人团子持续引导「星域」，施放时清除范围内所有角色异常状态。处于「星域」中的所有角色每秒回复基于施放者最大生命{1}的生命值，并获得{2}暴击伤害，持续{3}秒。技能冷却：{9}秒
+<size=10> </size>
+<size=40><color=Title>升级效果</color></size>
+持续时间等级{4}：「星域」持续时间增加{8}秒","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Light>Spectro DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10> </size>
+<size=40><color=Title>Core Skill</color></size>
+Shorekeeper Cube generates a Stellarealm that removes the negative effects inflicted upon all Resonators within the range. All Cubes within the Stellarealm have their HP restored by {1} of the caster's Max HP per second, and their Crit. DMG increased by {2}. This effect lasts for {3}s. Skill Cooldown: {9}s
+<size=10> </size>
+<size=40><color=Title>Enhanced Effect</color></size>
+Skill Duration Level {4}: Stellarealm duration is increased by {8}s.","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Light>sát thương Quang Phổ</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Viên Shorekeeper liên tục dẫn ""Tinh Vực"", khi thi triển sẽ xóa toàn bộ trạng thái bất lợi của nhân vật trong phạm vi. Tất cả nhân vật trong ""Tinh Vực"" mỗi giây hồi phục lượng sinh mệnh bằng {1} sinh mệnh tối đa của người thi triển, và nhận thêm {2} sát thương bạo kích, kéo dài {3} giây. Hồi chiêu: {9} giây
+<size=10> </size>
+<size=40><color=Title>Hiệu Quả Nâng Cấp</color></size>
+Cấp thời lượng {4}: Thời gian duy trì ""Tinh Vực"" tăng thêm {8} giây"
+lang_multi_text.db,MultiText,MonsterInfo_360000040_Name,守岸人,Shorekeeper,Shorekeeper
+lang_multi_text.db,MultiText,MonsterInfo_360000050_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Dark>湮灭伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+幻形为椿团子，持续引导「蔓舞」攻击大范围内的目标，每秒造成{1}的<color=Dark>湮灭伤害</color>，持续{2}秒。技能冷却：{3}秒","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Dark>Havoc DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10> </size>
+<size=40><color=Title>Core Skill</color></size>
+Transform into Camellya Cube and cast Vining Waltz that attacks targets in a wide range for {2}s, dealing <color=Dark>Havoc DMG</color> equal to {1} of the active Resonator's ATK per second. Skill Cooldown: {3}s","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Dark>sát thương Hủy Diệt</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Biến hình thành viên Camellya, liên tục dẫn ""Mạn Vũ"" tấn công mục tiêu trong phạm vi rộng, mỗi giây gây {1} <color=Dark>sát thương Hủy Diệt</color>, kéo dài {2} giây. Hồi chiêu: {3} giây"
+lang_multi_text.db,MultiText,MonsterInfo_360000050_Name,椿,Camellya,Camellya
+lang_multi_text.db,MultiText,MonsterInfo_360000060_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Ice>冷凝伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+珂莱塔团子召唤「铳枪」射击附近的目标，共计造成{3}的<color=Ice>冷凝伤害</color>。技能冷却：{8}秒
+<size=10> </size>
+<size=40><color=Title>升级效果</color></size>
+子弹数量等级{4}：额外召唤{7}把「铳枪」","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Ice>Glacio DMG</color> equal to {0} of the active Resonator's ATK. 
+<size=10></size>
+<size=40><color=Title>Core Skill</color></size>
+Carlotta Cube summons Muskets to shoot the nearby targets, dealing <color=Ice>Glacio DMG</color> equal to {3} of the active Resonator's ATK in total. Skill Cooldown: {8}s
+<size=10> </size>
+<size=40><color=Title>Enhanced Effect</color></size>
+Skill Projectiles Level {4}: The number of Muskets is increased by {7}.","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Ice>sát thương Ngưng Băng</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Viên Carlotta triệu hồi ""Hỏa Thương"" bắn vào mục tiêu gần đó, tổng cộng gây {3} <color=Ice>sát thương Ngưng Băng</color>. Hồi chiêu: {8} giây
+<size=10> </size>
+<size=40><color=Title>Hiệu Quả Nâng Cấp</color></size>
+Cấp số đạn {4}: Số lượng ""Hỏa Thương"" tăng thêm {7}"
+lang_multi_text.db,MultiText,MonsterInfo_360000060_Name,珂莱塔,Carlotta,Carlotta
+lang_multi_text.db,MultiText,MonsterInfo_360000070_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Dark>湮灭伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+洛可可团子持续引导「思维风暴」，将附近敌人卷入其中，每秒造成{1}的<color=Dark>湮灭伤害</color>，持续{2}秒。技能冷却：{8}秒
+<size=10> </size>
+<size=40><color=Title>升级效果</color></size>
+持续时间等级{3}：「思维风暴」持续时间增加{7}秒","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Dark>Havoc DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10></size>
+<size=40><color=Title>Core Skill</color></size>
+Roccia generates Mind Storm that pulls in the nearby targets for {2}s, dealing <color=Dark>Havoc DMG</color> equal to {1} of the active Resonator's ATK per second. Skill Cooldown: {8}s.
+<size=10> </size>
+<size=40><color=Title>Enhanced Effect</color></size>
+Skill Duration Level {3}: Mind Storm duration is increased by {7}s.","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Dark>sát thương Hủy Diệt</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Viên Roccia liên tục dẫn ""Bão Tư Duy"", cuốn kẻ địch gần đó vào trong, mỗi giây gây {1} <color=Dark>sát thương Hủy Diệt</color>, kéo dài {2} giây. Hồi chiêu: {8} giây
+<size=10> </size>
+<size=40><color=Title>Hiệu Quả Nâng Cấp</color></size>
+Cấp thời lượng {3}: Thời gian duy trì ""Bão Tư Duy"" tăng thêm {7} giây"
+lang_multi_text.db,MultiText,MonsterInfo_360000070_Name,洛可可,Roccia,Roccia
+lang_multi_text.db,MultiText,MonsterInfo_360000080_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Fire>热熔伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+布兰特团子召唤船锚进行攻击，造成{1}的<color=Fire>热熔伤害</color>，船锚会在砸落地面时制造若干个「橙色橘子」。拾取「橙色橘子」的角色攻击提升{7}，并回复基于施放者最大生命{8}的生命值，持续{2}秒，可叠加{4}层。技能冷却：{6}秒
+<size=10> </size>
+<size=40><color=Title>升级效果</color></size>
+子弹数量等级{3}：「橘子」数量增加{5}","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Fire>Fusion DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10></size>
+<size=40><color=Title>Core Skill</color></size>
+Brant Cube summons an anchor to attack, dealing <color=Fire>Fusion DMG</color> equal to {1} of the active Resonator's ATK and generating a few Zesty Oranges when landed. Resonators who pick up the Zesty Oranges will have their ATK increased by {7} and their HP restored by {8} of the caster's Max HP for {2}s, stacking up to {4} times. Skill Cooldown: {6}s.
+<size=10> </size>
+<size=40><color=Title>Enhanced Effect</color></size>
+Skill Projectiles Level {3}: The number of Zesty Orange is increased by {5}.","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Fire>sát thương Hỏa Liệt</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Viên Brant triệu hồi mỏ neo tấn công, gây {1} <color=Fire>sát thương Hỏa Liệt</color>, mỏ neo khi rơi xuống sẽ tạo ra một số ""Cam Vàng"". Nhân vật nhặt ""Cam Vàng"" sẽ được tăng tấn công thêm {7}, đồng thời hồi phục lượng sinh mệnh bằng {8} sinh mệnh tối đa của người thi triển, kéo dài {2} giây, cộng dồn tối đa {4} lần. Hồi chiêu: {6} giây
+<size=10> </size>
+<size=40><color=Title>Hiệu Quả Nâng Cấp</color></size>
+Cấp số đạn {3}: Số lượng ""Cam Vàng"" tăng thêm {5}"
+lang_multi_text.db,MultiText,MonsterInfo_360000080_Name,布兰特,Brant,Brant
+lang_multi_text.db,MultiText,MonsterInfo_360000090_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Dark>湮灭伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+幻形为坎特蕾拉团子攻击目标，造成{1}的<color=Dark>湮灭伤害</color>，使范围内的目标进入停滞状态，持续{2}秒。技能冷却：{3}秒","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Dark>Havoc DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10></size>
+<size=40><color=Title>Core Skill</color></size>
+Transform into Cantarella Cube and Stagnate the targets within a certain range for {2}s, dealing <color=Dark>Havoc DMG</color> equal to {1} of the active Resonator's ATK. Skill Cooldown: {3}s","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Dark>sát thương Hủy Diệt</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Biến hình thành viên Cantarella tấn công mục tiêu, gây {1} <color=Dark>sát thương Hủy Diệt</color>, khiến mục tiêu trong phạm vi rơi vào trạng thái đình trệ, kéo dài {2} giây. Hồi chiêu: {3} giây"
+lang_multi_text.db,MultiText,MonsterInfo_360000090_Name,坎特蕾拉,Cantarella,Cantarella
+lang_multi_text.db,MultiText,MonsterInfo_360000100_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Light>衍射伤害</color>，偶尔会进行滑铲攻击，造成{1}的<color=Light>衍射伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+持续{4}秒内，赞妮团子不断攻击目标，每次攻击造成{2}的<color=Light>衍射伤害</color>。技能冷却：{3}秒","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Light>Spectro DMG</color> equal to {0} of the active Resonator's ATK and occasionally perform slide attack, dealing <color=Light>Spectro DMG</color> equal to {1} of the active Resonator's ATK.
+<size=10></size>
+<size=40><color=Title>Core Skill</color></size>
+Zani Cube performs consecutive attacks for {4}s, each attack dealing <color=Light>Spectro DMG</color> equal to {2} of the active Resonator's ATK. Skill Cooldown: {3}s","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Light>sát thương Quang Phổ</color>, thỉnh thoảng thực hiện đòn trượt, gây {1} <color=Light>sát thương Quang Phổ</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Trong {4} giây, viên Zani liên tục tấn công mục tiêu, mỗi lần gây {2} <color=Light>sát thương Quang Phổ</color>. Hồi chiêu: {3} giây"
+lang_multi_text.db,MultiText,MonsterInfo_360000100_Name,赞妮,Zani,Zani
+lang_multi_text.db,MultiText,MonsterInfo_360000110_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Wind>气动伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+卡提希娅团子召唤「剑雨」不断攻击目标，每秒造成{1}的<color=Wind>气动伤害</color>，持续{5}秒。技能冷却：{4}秒
+<size=10> </size>
+<size=40><color=Title>升级效果</color></size>
+子弹数量等级{2}：「剑雨」造成伤害提升{6}","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Wind>Aero DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10> </size>
+<size=40><color=Title>Core Skill</color></size>
+Cartethyia Cube summons Sword Barrage that constantly strikes the targets for {5}s, dealing <color=Wind>Aero DMG</color> equal to {1} of the active Resonator's ATK per second. Skill Cooldown: {4}s
+<size=10> </size>
+<size=40><color=Title>Enhanced Effect</color></size>
+Skill Projectiles Level {2}: Sword Barrage DMG is increased by {6}.","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Wind>sát thương Khí Động</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Viên Cartethyia triệu hồi ""Mưa Kiếm"" liên tục tấn công mục tiêu, mỗi giây gây {1} <color=Wind>sát thương Khí Động</color>, kéo dài {5} giây. Hồi chiêu: {4} giây
+<size=10> </size>
+<size=40><color=Title>Hiệu Quả Nâng Cấp</color></size>
+Cấp số đạn {2}: Sát thương ""Mưa Kiếm"" tăng thêm {6}"
+lang_multi_text.db,MultiText,MonsterInfo_360000110_Name,卡提希娅,Cartethyia,Cartethyia
+lang_multi_text.db,MultiText,MonsterInfo_360000120_Desc,"<size=40><color=Title>普攻</color></size>
+造成{0}的<color=Light>衍射伤害</color>
+<size=10> </size>
+<size=40><color=Title>核心技能</color></size>
+菲比团子向岁主虔诚祈祷，持续召唤「圣辉」攻击附近的目标，每秒造成{1}的<color=Light>衍射伤害</color>，并使范围内的所有角色持续获得基于施放者最大生命{9}的护盾，持续{2}秒。技能冷却：{8}秒
+<size=10> </size>
+<size=40><color=Title>升级效果</color></size>
+持续时间等级{3}：「圣辉」持续时间增加{7}秒","<size=40><color=Title>Basic Attack</color></size>
+Deal <color=Light>Spectro DMG</color> equal to {0} of the active Resonator's ATK.
+<size=10></size>
+<size=40><color=Title>Core Skill</color></size>
+Phoebe Cube prays devoutly to the Sentinel and summons Holy Light that continuously attacks the nearby targets, dealing <color=Light>Spectro DMG</color> equal to {1} of the active Resonator's ATK per second and consistently granting all nearby Resonators in the team a Shield based on {9} of the caster's Max HP. This effect lasts for {2}s. Skill Cooldown: {8}s
+<size=10> </size>
+<size=40><color=Title>Enhanced Effect</color></size>
+Skill Duration Level {3}: Holy Light duration is increased by {7}s.","<size=40><color=Title>Đánh Thường</color></size>
+Gây {0} <color=Light>sát thương Quang Phổ</color>
+<size=10> </size>
+<size=40><color=Title>Kỹ Năng Cốt Lõi</color></size>
+Viên Phoebe thành kính cầu nguyện Tuế Chủ, liên tục triệu hồi ""Thánh Huy"" tấn công mục tiêu gần đó, mỗi giây gây {1} <color=Light>sát thương Quang Phổ</color>, đồng thời liên tục tạo khiên cho tất cả nhân vật trong phạm vi dựa trên {9} sinh mệnh tối đa của người thi triển, kéo dài {2} giây. Hồi chiêu: {8} giây
+<size=10> </size>
+<size=40><color=Title>Hiệu Quả Nâng Cấp</color></size>
+Cấp thời lượng {3}: Thời gian duy trì ""Thánh Huy"" tăng thêm {7} giây"
+lang_multi_text.db,MultiText,MonsterInfo_360000120_Name,菲比,Phoebe,Phoebe
+lang_multi_text.db,MultiText,MonsterPerch_10_PerchDes,乘霄山,Mt. Firmament,Thừa Tiêu Sơn
+lang_multi_text.db,MultiText,MonsterPerch_11_PerchDes,虎口山脉,Tiger's Maw,Dãy Núi Hổ Khẩu
+lang_multi_text.db,MultiText,MonsterPerch_12_PerchDes,黑海岸,The Black Shores,Bờ Biển Đen
+lang_multi_text.db,MultiText,MonsterPerch_13_PerchDes,瑝珑,Huanglong,Hoàng Long
+lang_multi_text.db,MultiText,MonsterPerch_1_PerchDes,今州城,Jinzhou,Kim Châu
+lang_multi_text.db,MultiText,MonsterPerch_2_PerchDes,中曲台地,Central Plains,Trung Khúc Đài Địa
+lang_multi_text.db,MultiText,MonsterPerch_3_PerchDes,云陵谷,Gorges of Spirits,Vân Lăng Cốc
+lang_multi_text.db,MultiText,MonsterPerch_4_PerchDes,无光之森,Dim Forest,Rừng Vô Quang
+lang_multi_text.db,MultiText,MonsterPerch_5_PerchDes,北落野,Norfall Barrens,Bắc Lạc Dã
+lang_multi_text.db,MultiText,MonsterPerch_6_PerchDes,荒石高地,Desorock Highland,Cao Nguyên Hoang Thạch
+lang_multi_text.db,MultiText,MonsterPerch_7_PerchDes,无明湾,Wasted Metropolis,Vịnh Vô Minh
+lang_multi_text.db,MultiText,MonsterPerch_8_PerchDes,归墟港市,Port City of Guixu,Cảng Quy Khư
+lang_multi_text.db,MultiText,MonsterPerch_9_PerchDes,怨鸟泽,Whining Aix's Mire,Đầm Oán Điểu
+lang_multi_text.db,MultiText,MonsterRarity_1_RarityDesc,轻波级(COST 1),Standard Class (COST 1),Cấp Khinh Ba (COST 1)
+lang_multi_text.db,MultiText,MonsterRarity_2_RarityDesc,巨浪级(COST 3),Elite Class (COST 3),Cấp Cự Lãng (COST 3)
+lang_multi_text.db,MultiText,MonsterRarity_3_RarityDesc,怒涛级(COST 4),Overlord Class (COST 4),Cấp Nộ Đào (COST 4)
+lang_multi_text.db,MultiText,MonsterRarity_4_RarityDesc,海啸级(COST 4),Calamity Class (COST 4),Cấp Hải Tiêu (COST 4)
+lang_multi_text.db,MultiText,MonthCardDes_1,累计可获得300月相 2700星声,Obtain 300 Lunites and 2700 Astrites in total,Tổng cộng nhận được 300 Nguyệt Tướng và 2700 Tinh Thanh
+lang_multi_text.db,MultiText,MonthCardLeftTimeText_1,剩余：{0}天,Remaining: {0} day(s),Còn lại: {0} ngày
+lang_multi_text.db,MultiText,MonthCardLeftTimeText_2,剩余：不足{0}天,Remaining: <{0} day(s),Còn lại: chưa đến {0} ngày
+lang_multi_text.db,MultiText,MonthLeftTime,本月剩余:{0},Remaining This Month: {0},Còn lại tháng này: {0}
+lang_multi_text.db,MultiText,MonthLimitBuy,每月限购：{0}/{1},Monthly Limit: {0}/{1},Giới hạn mua hàng tháng: {0}/{1}
+lang_multi_text.db,MultiText,MonthLimitBuy_B,每月限购：{0},Monthly Limit: {0},Giới hạn mua hàng tháng: {0}
+lang_multi_text.db,MultiText,Month_birthday_1,1,Jan,1
+lang_multi_text.db,MultiText,Month_birthday_10,10,Oct,10
+lang_multi_text.db,MultiText,Month_birthday_11,11,Nov,11
+lang_multi_text.db,MultiText,Month_birthday_12,12,Dec,12
+lang_multi_text.db,MultiText,Month_birthday_2,2,Feb,2
+lang_multi_text.db,MultiText,Month_birthday_3,3,Mar,3
+lang_multi_text.db,MultiText,Month_birthday_4,4,Apr,4
+lang_multi_text.db,MultiText,Month_birthday_5,5,May,5
+lang_multi_text.db,MultiText,Month_birthday_6,6,Jun,6
+lang_multi_text.db,MultiText,Month_birthday_7,7,Jul,7
+lang_multi_text.db,MultiText,Month_birthday_8,8,Aug,8
+lang_multi_text.db,MultiText,Month_birthday_9,9,Sept,9.0
+lang_multi_text.db,MultiText,MoonChasingTaskJumpToBuildingFinish,该伙伴已邀请,Already invited the Companion.,Đồng hành này đã được mời
+lang_multi_text.db,MultiText,MoonLabel_01_Desc01,命运无惧利诱，践行既定的初心。,Fate fears no temptation. It follows the path once sworn.,"Số mệnh không sợ cám dỗ, kiên định với sơ tâm đã chọn."
+lang_multi_text.db,MultiText,MoonLabel_01_Desc02,正直，即为通往真相的钥匙,Integrity is the key that leads to truth.,Chính trực chính là chìa khóa dẫn đến chân tướng.

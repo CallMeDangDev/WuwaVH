@@ -1,101 +1,876 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,HonamiStoryMapMark_3_Desc,不知道会通向哪里的传送门……,A portal leading to an unknown destination...,Cổng dịch chuyển không biết sẽ dẫn đến đâu...
-lang_multi_text.db,MultiText,HonamiStoryMapMark_3_Name,虹光传送门,Irideglow Portal,Cổng dịch chuyển Hồng Quang
-lang_multi_text.db,MultiText,HonamiStoryMapMark_4_Desc,高危险度的悲鸣残留区域,A high-risk Lament Residue Zone.,Khu vực tàn dư Bi Minh có độ nguy hiểm cao.
-lang_multi_text.db,MultiText,HonamiStoryMapMark_4_Name,悲鸣残留区域,Lament Residue Zone,Khu vực tàn dư Bi Minh
-lang_multi_text.db,MultiText,HonamiStoryMapMark_5_Desc,悲鸣残留高度聚集，附近似乎有特殊的残象。,Lament Residue is highly concentrated around here. There seems to be unusual Tacet Discords nearby.,"Tàn dư Bi Minh tập trung dày đặc, dường như có Tàn Tượng đặc biệt ở gần đây."
-lang_multi_text.db,MultiText,HonamiStoryMapMark_5_Name,特殊残象,Unusual Tacet Discord,Tàn Tượng Đặc Biệt
-lang_multi_text.db,MultiText,HonamiStoryMapMark_6_Desc,附近似乎有迷途波仔的行踪……,There are traces of a Missing Namipon here...,Gần đây dường như có dấu vết của Namipon lạc đường...
-lang_multi_text.db,MultiText,HonamiStoryMapMark_6_Name,迷途波仔,Missing Namipon,Ba Tử Lạc Lối
-lang_multi_text.db,MultiText,HonamiStoryMapMark_7_Desc,通往<color=#efece1>穗波中央公园</color>的传送门。,A portal that takes you to <color=#efece1>Honami Central Park</color>.,Cổng dịch chuyển dẫn đến <color=#efece1>Công Viên Trung Tâm Honami</color>.
-lang_multi_text.db,MultiText,HonamiStoryMapMark_8_Desc,返回<color=#efece1>穗波市中心区域</color>的传送门。,A portal that takes you back to <color=#efece1>Central Honami</color>.,Cổng dịch chuyển trở về <color=#efece1>Khu Trung Tâm Honami</color>.
-lang_multi_text.db,MultiText,HonamiStoryPluginTag_1_Name,增益,Buff,Tăng ích
-lang_multi_text.db,MultiText,HonamiStoryPluginTag_2_Name,回复,Healing,Hồi phục
-lang_multi_text.db,MultiText,HonamiStoryPluginTag_3_Name,高频伤害,Multi-Stage DMG,Sát thương đa đoạn
-lang_multi_text.db,MultiText,HonamiStoryPluginTag_4_Name,单段伤害,Single-Stage DMG,Sát thương đơn đoạn
-lang_multi_text.db,MultiText,HonamiStoryPluginTag_5_Name,投射波仔,Namipon Projectile,Namipon phóng chiếu
-lang_multi_text.db,MultiText,HonamiStoryPluginTag_6_Name,持续伤害,DoT,Sát thương liên tục
-lang_multi_text.db,MultiText,HonamiStoryPluginTag_7_Name,负面效果,Debuff,Hiệu ứng bất lợi
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_10_TaskText,累计收益达到650000,"Obtain 650,000 Rice Dangos in total","Thu thập tổng cộng 650,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_11_TaskText,累计收益达到850000,"Obtain 850,000 Rice Dangos in total","Thu thập tổng cộng 850,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_12_TaskText,累计收益达到1200000,"Obtain 1,200,000 Rice Dangos in total","Thu thập tổng cộng 1,200,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_1_TaskText,累计收益达到1000,"Obtain 1,000 Rice Dangos in total","Thu thập tổng cộng 1,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_2_TaskText,累计收益达到20000,"Obtain 20,000 Rice Dangos in total","Thu thập tổng cộng 20,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_3_TaskText,累计收益达到40000,"Obtain 40,000 Rice Dangos in total","Thu thập tổng cộng 40,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_4_TaskText,累计收益达到60000,"Obtain 60,000 Rice Dangos in total","Thu thập tổng cộng 60,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_5_TaskText,累计收益达到100000,"Obtain 100,000 Rice Dangos in total","Thu thập tổng cộng 100,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_6_TaskText,累计收益达到150000,"Obtain 150,000 Rice Dangos in total","Thu thập tổng cộng 150,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_7_TaskText,累计收益达到250000,"Obtain 250,000 Rice Dangos in total","Thu thập tổng cộng 250,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_8_TaskText,累计收益达到350000,"Obtain 350,000 Rice Dangos in total","Thu thập tổng cộng 350,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryResidentTask_9_TaskText,累计收益达到450000,"Obtain 450,000 Rice Dangos in total","Thu thập tổng cộng 450,000 Rice Dango"
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_1_LockTip,锁定中,Locked,Đang khóa
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_1_Name,调谐器*50,Tuner *50,Tuner *50
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_2_LockTip,锁定中,Locked,Đang khóa
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_2_Name,星声*100,Astrite *100,Tinh Thanh *100
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_3_LockTip,锁定中,Locked,Đang khóa
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_3_Name,调频仪*5,Modifier *5,Điều Tần Nghi *5
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_4_LockTip,锁定中,Locked,Đang khóa
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_4_Name,星声*100,Astrite *100,Tinh Thanh *100
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_5_LockTip,锁定中,Locked,Đang khóa
-lang_multi_text.db,MultiText,HonamiStoryScoreReward_5_Name,异相·伪作的神王,Phantom: The False Sovereign,Dị Tướng - Thần Vương Ngụy Tạo
-lang_multi_text.db,MultiText,HonamiStoryTalent_10_CampUpgradeDescription,增设新的手工看板，用于展示每日独特菜单。,Install a new handwritten chalkboard to display daily special menu.,Lắp thêm bảng viết tay mới để trưng bày thực đơn đặc biệt hàng ngày.
-lang_multi_text.db,MultiText,HonamiStoryTalent_10_CampUpgradeName,增设看板,Handwritten Menu,Lắp thêm bảng hiệu
-lang_multi_text.db,MultiText,HonamiStoryTalent_10_TechName,盲盒优惠,Blind Box Discount,Ưu đãi hộp bí ẩn
-lang_multi_text.db,MultiText,HonamiStoryTalent_11_CampUpgradeDescription,增添烘焙设施与甜品柜，可以在店内出售新产品了。,Set up baking equipment and a dessert case to extend the menu.,"Bổ sung thiết bị nướng bánh và tủ trưng bày tráng miệng, có thể bán sản phẩm mới trong cửa hàng."
-lang_multi_text.db,MultiText,HonamiStoryTalent_11_CampUpgradeName,甜品烘培,Dessert Baking,Nướng tráng miệng
-lang_multi_text.db,MultiText,HonamiStoryTalent_11_TechName,背包扩容·二,Storage Expansion II,Mở rộng ba lô - II
-lang_multi_text.db,MultiText,HonamiStoryTalent_12_CampUpgradeDescription,添置室内的植被摆放，改善店铺氛围与空气质量。,Add houseplants to improve the store's atmosphere and air quality.,"Bố trí thêm cây xanh trong nhà, cải thiện bầu không khí và chất lượng không khí của cửa hàng."
-lang_multi_text.db,MultiText,HonamiStoryTalent_12_CampUpgradeName,室内绿化,Indoor Greenery,Phủ xanh trong nhà
-lang_multi_text.db,MultiText,HonamiStoryTalent_12_TechName,撤离保险,Evacuation Insurance,Bảo hiểm rút lui
-lang_multi_text.db,MultiText,HonamiStoryTalent_13_CampUpgradeDescription,优化供货渠道，改善产品质量。,Optimize supply sources to improve product quality.,"Tối ưu kênh cung ứng, cải thiện chất lượng sản phẩm."
-lang_multi_text.db,MultiText,HonamiStoryTalent_13_CampUpgradeName,优质货源·二,Premium Supplies II,Nguồn hàng chất lượng - II
-lang_multi_text.db,MultiText,HonamiStoryTalent_13_TechName,伤害提升·二,DMG Up II,Tăng sát thương - II
-lang_multi_text.db,MultiText,HonamiStoryTalent_14_CampUpgradeDescription,加强店铺宣发，提升品牌知名度。,Up your promotion campaigns to boost brand visibility.,"Tăng cường quảng bá cửa hàng, nâng cao độ nhận diện thương hiệu."
-lang_multi_text.db,MultiText,HonamiStoryTalent_14_CampUpgradeName,店铺宣传·二,Store Promotion II,Quảng bá cửa hàng - II
-lang_multi_text.db,MultiText,HonamiStoryTalent_14_TechName,生命提升·二,HP Up II,Tăng sinh mệnh - II
-lang_multi_text.db,MultiText,HonamiStoryTalent_15_CampUpgradeDescription,跟进用户反馈，保持优质口碑。,Follow up on customer feedback to maintain a strong reputation.,"Theo dõi phản hồi khách hàng, duy trì danh tiếng tốt."
-lang_multi_text.db,MultiText,HonamiStoryTalent_15_CampUpgradeName,有口皆碑·二,Good Reputation II,Tiếng lành đồn xa - II
-lang_multi_text.db,MultiText,HonamiStoryTalent_15_TechName,海蚀抵抗·二,Waveworn Resistance II,Kháng Hải Thực II
-lang_multi_text.db,MultiText,HonamiStoryTalent_16_CampUpgradeDescription,添置户外的餐位，为顾客提供街景下午茶的新选择。,Set up outdoor seating for guests to enjoy their afternoon tea to a street view.,"Bố trí chỗ ngồi ngoài trời, mang đến cho khách hàng lựa chọn mới thưởng trà chiều ngắm phố."
-lang_multi_text.db,MultiText,HonamiStoryTalent_16_CampUpgradeName,户外设计,Exterior Design,Thiết Kế Ngoại Thất
-lang_multi_text.db,MultiText,HonamiStoryTalent_16_TechName,图鉴解锁,Gallery Unlock,Mở khóa đồ giám
-lang_multi_text.db,MultiText,HonamiStoryTalent_17_CampUpgradeDescription,在吧台处添置新的植被，使咖啡厅更加有生活感。,Add greenery by the counter to bring more life into the cafe.,"Thêm cây xanh tại quầy bar, giúp quán cà phê thêm phần sinh động."
-lang_multi_text.db,MultiText,HonamiStoryTalent_17_CampUpgradeName,穗波花卉,Honami Floristry,Hoa Honami
-lang_multi_text.db,MultiText,HonamiStoryTalent_17_TechName,贴纸升级,Sticker Upgrade,Nâng Cấp Nhãn Dán
-lang_multi_text.db,MultiText,HonamiStoryTalent_18_CampUpgradeDescription,扩充店铺的仓库储备，可以保存更多的道具了。,Expand storage space to keep more items.,"Mở rộng kho dự trữ của cửa hàng, có thể lưu trữ thêm nhiều đạo cụ."
-lang_multi_text.db,MultiText,HonamiStoryTalent_18_CampUpgradeName,仓储升级,Storage Upgrade,Nâng Cấp Kho
-lang_multi_text.db,MultiText,HonamiStoryTalent_18_TechName,背包扩容·三,Storage Expansion III,Mở Rộng Hành Trang III
-lang_multi_text.db,MultiText,HonamiStoryTalent_19_CampUpgradeDescription,为每一处餐位添置桌上植被，令人感到宾至如归。,Add greenery to each table to make guests feel at home.,"Thêm cây xanh trên mỗi bàn ăn, mang lại cảm giác ấm cúng như ở nhà."
-lang_multi_text.db,MultiText,HonamiStoryTalent_19_CampUpgradeName,桌面装饰,Table Decor,Trang Trí Bàn
-lang_multi_text.db,MultiText,HonamiStoryTalent_19_TechName,幸运增强,Luck Enhancement,Tăng Cường May Mắn
-lang_multi_text.db,MultiText,HonamiStoryTalent_1_CampUpgradeDescription,清扫列车长咖啡厅，准备好正式营业吧。,Clean up Shashou Cafe and get ready for the official opening.,"Dọn dẹp quán cà phê Shashou, chuẩn bị khai trương chính thức nào."
-lang_multi_text.db,MultiText,HonamiStoryTalent_1_CampUpgradeName,店铺清扫,Store Cleanup,Dọn Dẹp Cửa Hàng
-lang_multi_text.db,MultiText,HonamiStoryTalent_1_TechName,店铺装潢,Cafe Decor,Trang trí cửa hàng
-lang_multi_text.db,MultiText,HonamiStoryTalent_20_CampUpgradeDescription,优化供货渠道，改善产品质量。,Optimize supply sources to improve product quality.,"Tối ưu kênh cung ứng, cải thiện chất lượng sản phẩm."
-lang_multi_text.db,MultiText,HonamiStoryTalent_20_CampUpgradeName,优质货源·三,Premium Supplies III,Nguồn Hàng Chất Lượng III
-lang_multi_text.db,MultiText,HonamiStoryTalent_20_TechName,伤害提升·三,DMG Up III,Tăng Sát Thương III
-lang_multi_text.db,MultiText,HonamiStoryTalent_21_CampUpgradeDescription,加强店铺宣发，提升品牌知名度。,Strengthen promotions to boost brand visibility.,"Tăng cường quảng bá cửa hàng, nâng cao độ nhận diện thương hiệu."
-lang_multi_text.db,MultiText,HonamiStoryTalent_21_CampUpgradeName,店铺宣传·三,Store Promotion II,Quảng Bá Cửa Hàng III
-lang_multi_text.db,MultiText,HonamiStoryTalent_21_TechName,生命提升·三,HP Up III,Tăng Sinh Mệnh III
-lang_multi_text.db,MultiText,HonamiStoryTalent_22_CampUpgradeDescription,跟进用户反馈，保持优质口碑。,Follow up on customer feedback to maintain a strong reputation.,"Theo dõi phản hồi khách hàng, duy trì danh tiếng tốt."
-lang_multi_text.db,MultiText,HonamiStoryTalent_22_CampUpgradeName,有口皆碑·三,Good Reputation III,Tiếng Thơm Lan Xa III
-lang_multi_text.db,MultiText,HonamiStoryTalent_22_TechName,海蚀抵抗·三,Waveworn Resistance III,Kháng Hải Thực III
-lang_multi_text.db,MultiText,HonamiStoryTalent_2_CampUpgradeDescription,增设几处室内光照，让咖啡厅变得更加温馨。,Add new indoor lighting to create a warmer atmosphere.,"Bổ sung thêm một số đèn chiếu sáng trong nhà, khiến quán cà phê trở nên ấm cúng hơn."
-lang_multi_text.db,MultiText,HonamiStoryTalent_2_CampUpgradeName,灯光设计,Lighting Design,Thiết Kế Ánh Sáng
-lang_multi_text.db,MultiText,HonamiStoryTalent_2_TechName,波仔名单,Namipon Case Files,Danh Sách Namipon
-lang_multi_text.db,MultiText,HonamiStoryTalent_3_CampUpgradeDescription,设立列车长咖啡厅的招牌，增强店铺氛围。,Install a Shashou Cafe's signboard to add to the ambiance.,"Dựng biển hiệu cho quán cà phê Shashou, tăng cường bầu không khí cửa hàng."
-lang_multi_text.db,MultiText,HonamiStoryTalent_3_CampUpgradeName,店铺招牌,Store Signboard,Biển Hiệu Cửa Hàng
-lang_multi_text.db,MultiText,HonamiStoryTalent_3_TechName,支线收益,Side Objective Income,Thu Nhập Nhiệm Vụ Phụ
-lang_multi_text.db,MultiText,HonamiStoryTalent_4_CampUpgradeDescription,配置专业的咖啡设施，提供最棒的现磨咖啡。,Install professional coffee equipment to provide the best freshly ground coffee.,"Trang bị thiết bị cà phê chuyên nghiệp, cung cấp cà phê xay tươi ngon nhất."
-lang_multi_text.db,MultiText,HonamiStoryTalent_4_CampUpgradeName,现磨咖啡,Fresh Ground,Cà Phê Xay Tươi
-lang_multi_text.db,MultiText,HonamiStoryTalent_4_TechName,背包扩容·一,Storage Expansion I,Mở Rộng Ba Lô - I
-lang_multi_text.db,MultiText,HonamiStoryTalent_5_CampUpgradeDescription,增设手工工艺台，方便制作纪念品或对道具进行加工。,Set up a crafting table to make souvenirs or process items.,"Bổ sung bàn thủ công, tiện cho việc chế tác quà lưu niệm hoặc gia công vật phẩm."
-lang_multi_text.db,MultiText,HonamiStoryTalent_5_CampUpgradeName,手工艺台,Craft Workshop,Bàn Thủ Công
-lang_multi_text.db,MultiText,HonamiStoryTalent_5_TechName,米团加成,Rice Dango Bonus,Gia Tăng Cơm Nắm
-lang_multi_text.db,MultiText,HonamiStoryTalent_6_CampUpgradeDescription,优化供货渠道，改善产品质量。,Optimize supply sources to improve product quality.,"Tối ưu kênh cung ứng, cải thiện chất lượng sản phẩm."
-lang_multi_text.db,MultiText,HonamiStoryTalent_6_CampUpgradeName,优质货源·一,Premium Supplies I,Nguồn Hàng Chất Lượng - I
-lang_multi_text.db,MultiText,HonamiStoryTalent_6_TechName,伤害提升·一,DMG Up I,Tăng Sát Thương - I
-lang_multi_text.db,MultiText,HonamiStoryTalent_7_CampUpgradeDescription,加强店铺宣发，提升品牌知名度。,Strengthen promotions to boost brand visibility.,"Tăng cường quảng bá cửa hàng, nâng cao độ nhận diện thương hiệu."
-lang_multi_text.db,MultiText,HonamiStoryTalent_7_CampUpgradeName,店铺宣传·一,Store Promotion I,Quảng Bá Cửa Hàng - I
-lang_multi_text.db,MultiText,HonamiStoryTalent_7_TechName,生命提升·一,HP Up I,Tăng HP - I
-lang_multi_text.db,MultiText,HonamiStoryTalent_8_CampUpgradeDescription,跟进用户反馈，保持优质口碑。,Follow up on customer feedback to maintain a strong reputation.,"Theo dõi phản hồi khách hàng, duy trì danh tiếng tốt."
+lang_multi_text.db,MultiText,Heihaian_main_1_3_9_2,谢、谢谢……,Thanks…,"Cả, cảm ơn..."
+lang_multi_text.db,MultiText,Heihaian_main_1_3_9_3,上面！,Huh? Up there!,Ở trên!
+lang_multi_text.db,MultiText,Heihaian_main_1_3_9_4,欢迎回家。,Welcome home.,Chào mừng về nhà.
+lang_multi_text.db,MultiText,HelpText_100_Content,"【参与条件】
+联觉等级达到17级且完成第一章第三幕「奔策候残星」任务。
+
+【活动规则】
+参与「月华如愿」活动，在追月节期间筹备游园会——宵月会，不断提高节日的人气。
+玩家可以通过完成心愿委托、建造节日相关的摊位来提高追月节人气。
+达到目标人气值，在活动开启后即可领取奖励。
+活动结束后，若存在未领取的奖励，在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Eligibility]
+Reach Union Level 17 and complete ""Ominous Star.""
+
+[Event Rules]
+1. Participate in By Moon's Grace and help prepare for the Moonlit Fair to boost the festival's Popularity.
+2. Increase Popularity by fulfilling Wishes and building stalls.
+3. Meet the Popularity goals to claim the corresponding rewards.
+4. Any unclaimed rewards will be sent by mail upon your first login within 30 days after the event ends.","[Điều kiện tham gia]
+Cấp Liên Giác đạt 17 và hoàn thành nhiệm vụ Chương 1 Màn 3 ""Bôn Sách Hầu Tàn Tinh"".
+
+[Luật chơi]
+Tham gia sự kiện ""Nguyệt Hoa Như Nguyện"", chuẩn bị hội vui chơi - Tiêu Nguyệt Hội trong Lễ Truy Nguyệt, không ngừng nâng cao độ nổi tiếng của lễ hội.
+Người chơi có thể hoàn thành ủy thác tâm nguyện, xây dựng quầy hàng lễ hội để tăng độ nổi tiếng của Lễ Truy Nguyệt.
+Đạt mục tiêu độ nổi tiếng, sau khi sự kiện mở có thể nhận thưởng.
+Sau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập trong vòng 30 ngày sau khi sự kiện kết thúc, phần thưởng sẽ được gửi bù qua thư."
+lang_multi_text.db,MultiText,HelpText_100_Title,「幕后同行」活动说明,Converging Paths,"Hướng dẫn sự kiện ""Đồng Hành Hậu Trường"""
+lang_multi_text.db,MultiText,HelpText_101_Content,"在追月节期间，可以通过游玩<color=#8c7e51>「心愿委托」</color>和<color=#8c7e51>「摊位建造」</color>，来提升节日人气，使「宵月会」变得更加热闹。
+人气等级初始为1级，最高为6级。","1. During the Moon-Chasing Festival, you can increase Popularity via the activities in <color=#8c7e51>Lodge Wishes</color> and <color=#8c7e51>Fair Stalls</color> to make the Moonlit Fair more lively.
+2. Popularity ranges from Level 1 to Level 6.","Trong Lễ Truy Nguyệt, bạn có thể chơi <color=#8c7e51>""Ủy Thác Tâm Nguyện""</color> và <color=#8c7e51>""Xây Dựng Quầy Hàng""</color> để nâng cao độ nổi tiếng của lễ hội, khiến ""Tiêu Nguyệt Hội"" trở nên sôi động hơn.
+Cấp độ nổi tiếng ban đầu là 1, tối đa là 6."
+lang_multi_text.db,MultiText,HelpText_101_Title,人气等级与人气获取,Popularity,Cấp độ nổi tiếng và cách tích lũy
+lang_multi_text.db,MultiText,HelpText_102_Content,"建造或升级摊位可以提升人气、经营增益以及解锁经营伙伴；
+建造或升级摊位需要消耗经营资金，经营资金可通过游玩「心愿委托」获得；
+每个摊位可以提升若干等级，等级越高可获得的经营增益越多；
+摊位建造完成后，玩家可以在桃源乡摊位处进行游玩互动，期间可能会有意想不到的收获（卜问月、心狐摇彩、猜灯谜更有每日惊喜）","1. Build or upgrade stalls to increase Popularity, gain buffs, and unlock Companions.
+2. Building or upgrading stalls requires Funds, which can be earned by completing Wishes in Lodge Wishes.
+3. Stalls can be upgraded multiple times, with higher levels providing greater buffs.
+4. After building a stall, you can participate in the stall's activities and may earn unexpected rewards, with additional daily rewards for Thus Says the Moon, Hsin's Fortuity, and Riddle Twiddle.","Xây dựng hoặc nâng cấp gian hàng có thể tăng độ nổi tiếng, tăng lợi ích kinh doanh và mở khóa đồng đội kinh doanh;\nXây dựng hoặc nâng cấp gian hàng cần tiêu tốn quỹ kinh doanh, quỹ kinh doanh có thể nhận được thông qua ""Ủy Thác Tâm Nguyện"";\nMỗi gian hàng có thể nâng nhiều cấp, cấp càng cao thì lợi ích kinh doanh càng nhiều;\nSau khi xây xong gian hàng, người chơi có thể tương tác tại gian hàng trong Đào Nguyên Hương, trong đó có thể nhận được phần thưởng bất ngờ (Bốc Vấn Nguyệt, Tâm Hồ Rút Thưởng, Đố Đèn Lồng còn có thêm phần thưởng hàng ngày)."
+lang_multi_text.db,MultiText,HelpText_102_Title,摊位建造说明,Fair Stalls,Hướng dẫn xây dựng gian hàng
+lang_multi_text.db,MultiText,HelpText_103_Content,"消耗筹划点数与经营资金，可以进行<color=#8c7e51>「心愿委托」</color>。不同的心愿委托会消耗不同数量的筹划点数与经营资金。
+每次完成心愿委托时都可以获得经营资金和心愿，取得新纪录时更是可以提升人气。
+<color=#8c7e51>「心愿委托」</color>需要选择合适的搭档，可以在经营伙伴查看他们的详细情况。","1. You can spend Preparation Credits and Funds to fulfill people's Wishes in <color=#8c7e51>Lodge Wishes</color>. Each Wish has its own resource cost.
+2. Fulfilling Wishes will earn you Funds and Wish Tags. Setting new records will boost Popularity.
+3. Send the right Companions to fulfill the Wishes in <color=#8c7e51>Lodge Wishes</color>. You can view their detailed stats on the Companions page.","Tiêu tốn điểm kế hoạch và quỹ kinh doanh để thực hiện <color=#8c7e51>""Ủy Thác Tâm Nguyện""</color>. Mỗi ủy thác sẽ tiêu tốn số lượng điểm kế hoạch và quỹ kinh doanh khác nhau.\nMỗi lần hoàn thành ủy thác tâm nguyện đều nhận được quỹ kinh doanh và tâm nguyện, lập kỷ lục mới còn có thể tăng độ nổi tiếng.\n<color=#8c7e51>""Ủy Thác Tâm Nguyện""</color> cần chọn đồng đội phù hợp, có thể xem thông tin chi tiết của họ tại mục đồng đội kinh doanh."
+lang_multi_text.db,MultiText,HelpText_103_Title,心愿委托说明,Lodge Wishes,Hướng dẫn Ủy Thác Tâm Nguyện
+lang_multi_text.db,MultiText,HelpText_104_Content_1,"每个心愿委托对应不同的推荐属性，选择合适的经营伙伴，可以在委托过程中获得更高得分。
+可以在伙伴详情中与他们互动，以提升伙伴属性。","There is a preferred Companion Stat for each Wish. Selecting your Companions accordingly will earn you a higher score.
+To boost your Companions' stats, interact with them on the Companions page.","Mỗi ủy thác tâm nguyện có thuộc tính đề xuất khác nhau, chọn đồng đội kinh doanh phù hợp sẽ đạt điểm cao hơn trong quá trình ủy thác.\nCó thể tương tác với đồng đội trong trang chi tiết để nâng cao thuộc tính của họ."
+lang_multi_text.db,MultiText,HelpText_104_Content_2,"筹备进行中：每个伙伴依次行动，将基于自己的能力对本次心愿委托贡献得分。
+得分规则：伙伴的状态有浮动，每次行动伙伴对委托的贡献值也有一定波动；伙伴的属性能力值越高，可贡献的得分就越大。","Preparation Underway: Your Companions act in turn, earning scores based on their stats.
+Scoring Rules: Scores fluctuate each round, as your Companions can't always perform at their absolute best. Nevertheless, Companions with higher stats have the potential to earn higher scores.","Đang chuẩn bị: Mỗi đồng đội hành động lần lượt, đóng góp điểm cho ủy thác tâm nguyện dựa trên năng lực của mình.\nQuy tắc tính điểm: Trạng thái đồng đội có dao động, mỗi lần hành động giá trị đóng góp cũng thay đổi; thuộc tính càng cao thì điểm đóng góp càng lớn."
+lang_multi_text.db,MultiText,HelpText_104_Content_3,筹备过程中，有概率触发伙伴的灵光一闪事件；不同伙伴触发的概率不同。,"During preparation, Companions may experience a ""Eureka"" moment. The likelihood of this occurring varies for each Companion.","Trong quá trình chuẩn bị, có xác suất kích hoạt sự kiện ""Tia Sáng Bất Chợt"" của đồng đội; xác suất kích hoạt khác nhau tùy từng đồng đội."
+lang_multi_text.db,MultiText,HelpText_104_Content_4,灵光一闪可以追加投入，来获得更多回报；风险越高，回报越高，请谨慎选择。,"""Eureka"" allows for additional investments. Higher risks yield greater rewards. Make your choice wisely.","""Tia Sáng Bất Chợt"" cho phép đầu tư thêm để nhận nhiều phần thưởng hơn; rủi ro càng cao, phần thưởng càng lớn, hãy cân nhắc kỹ trước khi chọn."
+lang_multi_text.db,MultiText,HelpText_104_Content_5,结算规则：依据三个伙伴贡献的总得分，每次委托将结算满意度；满意度越高，获得的「经营资金」与「心愿」也越多。,Results: A Wish Rating depends on the combined scores of your chosen Companions. Higher Ratings earn you more Funds and Wish Tags.,"Quy tắc kết toán: Dựa trên tổng điểm đóng góp của ba đồng đội, mỗi lần ủy thác sẽ tính mức hài lòng; mức hài lòng càng cao thì nhận được ""quỹ kinh doanh"" và ""tâm nguyện"" càng nhiều."
+lang_multi_text.db,MultiText,HelpText_104_Title,心愿委托流程说明,Lodge Wishes Rules,Hướng dẫn quy trình Ủy Thác Tâm Nguyện
+lang_multi_text.db,MultiText,HelpText_105_Content,"经营伙伴可以协助玩家完成<color=#8c7e51>「心愿委托」</color>。
+经营伙伴具有学识、行动、协作三项属性，属性越高且与委托的推荐属性匹配，则委托完成时的满意度也能越高。
+玩家需要通过游玩<color=#8c7e51>「摊位建造」</color>和<color=#8c7e51>「携手邀明月」</color>才能解锁经营伙伴。","1. Companions can help you fulfill Wishes in <color=#8c7e51>Lodge Wishes</color>.
+2. They have three stats: Knowledge, Action, and Teamwork. Higher stats and better matches with the Wish's recommended stat lead to higher Wish Ratings.
+3. Build and upgrade <color=#8c7e51>Fair Stalls</color> and complete the <color=#8c7e51>Festival Journal</color> quests series to unlock more Companions.","Đồng đội kinh doanh có thể hỗ trợ người chơi hoàn thành <color=#8c7e51>""Ủy Thác Tâm Nguyện""</color>.\nĐồng đội kinh doanh có ba thuộc tính: Học Thức, Hành Động và Phối Hợp. Thuộc tính càng cao và khớp với thuộc tính đề xuất của ủy thác thì mức hài lòng khi hoàn thành càng cao.\nNgười chơi cần tham gia <color=#8c7e51>""Xây Dựng Gian Hàng""</color> và <color=#8c7e51>""Cùng Mời Trăng Sáng""</color> để mở khóa đồng đội kinh doanh."
+lang_multi_text.db,MultiText,HelpText_105_Title,经营伙伴说明,Companions,Hướng dẫn đồng đội kinh doanh
+lang_multi_text.db,MultiText,HelpText_106_Content,"玩家可以与经营伙伴进行互动，提高经营伙伴的属性以及好感度等级。
+不同的互动方式需要消耗不同的「心愿」数，消耗越多提升效果越好。
+「心愿」需要玩家通过游玩<color=#8c7e51>「心愿委托」</color>获得。","1. You can interact with Companions to boost their stats and Bond Level.
+2. Each Interaction has its own cost of Wish Tags. A higher cost results in greater enhancements.
+3. Complete Wishes in <color=#8c7e51>Lodge Wishes</color> to earn Wish Tags.","Người chơi có thể tương tác với đồng đội kinh doanh để nâng cao thuộc tính và cấp độ thiện cảm.\nCác cách tương tác khác nhau tiêu tốn số ""tâm nguyện"" khác nhau, tiêu tốn càng nhiều thì hiệu quả nâng cao càng tốt.\n""Tâm nguyện"" cần người chơi tham gia <color=#8c7e51>""Ủy Thác Tâm Nguyện""</color> để nhận được."
+lang_multi_text.db,MultiText,HelpText_106_Title,伙伴互动说明,Interacting with Companions,Hướng dẫn tương tác đồng đội
+lang_multi_text.db,MultiText,HelpText_107_Content,"【活动简介】
+追月节是瑝珑的传统节日，其起源有多种说法，流传最广的当由「心狐追月」。在追月之夜，人们会邀上亲朋好友一同赏月祈愿，以寄托对美好生活的期许。
+
+【参与条件】
+联觉等级达到17级，且完成潮汐任务第一章第三幕「奔策候残星」后解锁（完成潮汐任务第一章第七幕「往岁乘霄醒惊蛰」后再参与活动体验更佳）。
+
+【活动规则】
+在追月节期间，玩家需要帮助相里要一同筹备游园会——宵月会，不断提高节日的人气。
+玩家可以通过完成心愿委托、建造节日相关的摊位来提高追月节人气。
+在筹备追月节的过程中，玩家可以通过完成对应的【纪闻任务】来邀约其他角色成为经营搭档，经营搭档可帮助漂泊者在【心愿委托】中获得更高得分以及更多【经营资金】。
+达成追月节的筹备目标后，玩家可以领取、兑换丰厚的奖励。
+【月华如愿】活动结束后，若存在未领取的奖励时，在活动结束后30天内登录游戏，奖励将会通过邮件进行补发（注意：未兑换的奖励不会补发）。","[About]
+The Moon-Chasing Festival is a Huanglong traditional festival that features various origin stories, with the most popular being the tale of The Fox and the Moon. On this special night, families and friends come together to admire the moon and make wishes, expressing their hopes for a brighter future.
+
+[Eligibility]
+Reach Union Level 17. For the best experience, complete ""Thaw of Eons"" before participating in this event.
+
+[Event Rules]
+1. Help Xiangli Yao prepare for the Moonlit Fair to boost the festival's Popularity.
+2. Increase Popularity by fulfilling Wishes and building stalls.
+3. Invite Companions to assist in preparations by completing the corresponding Side Quests, and earn higher Wish Ratings and Funds.
+4. Achieve the festival goals to claim and redeem rewards.
+5. After the event concludes, unclaimed rewards will remain available for 30 days and will be reissued via Mail when you log in during this period (Note: Rewards that have not been redeemed will not be reissued.)","[Giới thiệu sự kiện]\nTết Truy Nguyệt là lễ hội truyền thống của Hoàng Long, có nhiều truyền thuyết về nguồn gốc, nhưng phổ biến nhất là ""Tâm Hồ Truy Nguyệt"". Vào đêm Truy Nguyệt, mọi người mời bạn bè và người thân cùng ngắm trăng, cầu nguyện, gửi gắm ước vọng về cuộc sống tốt đẹp.\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 17, và mở khóa sau khi hoàn thành nhiệm vụ Triều Tịch Chương 1 Hồi 3 ""Phi Sách Hầu Tàn Tinh"" (hoàn thành Chương 1 Hồi 7 ""Vãng Tuế Thừa Tiêu Tỉnh Kinh Trập"" trước khi tham gia sẽ có trải nghiệm tốt hơn).\n\n[Quy tắc sự kiện]\nTrong thời gian Tết Truy Nguyệt, người chơi cần giúp Tương Lý Yếu cùng chuẩn bị hội chơi - Tiêu Nguyệt Hội, không ngừng nâng cao độ nổi tiếng của lễ hội.\nNgười chơi có thể tăng độ nổi tiếng Tết Truy Nguyệt bằng cách hoàn thành Ủy Thác Tâm Nguyện và xây dựng gian hàng liên quan.\nTrong quá trình chuẩn bị, người chơi có thể hoàn thành [Nhiệm Vụ Ký Văn] tương ứng để mời các nhân vật khác trở thành đồng đội kinh doanh, giúp Lữ Khách đạt điểm cao hơn và nhận nhiều [Quỹ Kinh Doanh] hơn trong [Ủy Thác Tâm Nguyện].\nSau khi đạt mục tiêu chuẩn bị, người chơi có thể nhận và đổi phần thưởng phong phú.\nSau khi sự kiện [Nguyệt Hoa Như Nguyện] kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc sẽ được gửi bù qua thư (Lưu ý: phần thưởng chưa đổi sẽ không được gửi bù)."
+lang_multi_text.db,MultiText,HelpText_107_Title,月华如愿说明,By Moon's Grace,Hướng dẫn Nguyệt Hoa Như Nguyện
+lang_multi_text.db,MultiText,HelpText_108_Content,"【活动简介】
+黑海岸特勤收容员阿尔诺目前正在招募协助者搜集悲鸣的侦测数据。如果感兴趣的话，不妨去找他聊聊吧。
+
+【参与条件】
+联觉等级达到14级，且完成潮汐任务第七幕【往岁乘霄醒惊蛰】后解锁。
+
+【活动规则】
+在活动中，参与者需要前往各地区开启挑战。可选择任意已开启的玩法重复参与。
+开启挑战后可在一定时间内生成辅助机关并使侦测数据显形，参与者需要在限时时间内尽可能多地收集侦测数据；当已显示的数据收集完成后会显示新的数据。收集完全部数据或者倒计时结束后，会记录收集的数据数量，收集的数据越多可领取奖励越多。
+在挑战中有着各种各样的模块，合理运用它们可以更快收集数据。
+活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[About]
+Arno, a special agent of the Black Shores, is currently looking for help in gathering Surveillance Datasets on the Lament with the promise of generous rewards. Interested individuals are welcome to speak with him.
+
+[Eligibility]
+Reach Union Level 14 and complete Main Quest Act VII ""Thaw of Eons.""
+
+[Event Rules]
+1. During the event, you need to activate challenges across different regions. You can participate in any unlocked challenge as many times as you want.
+2. After the challenge starts, Surveillance Datasets will appear. Try to collect as many Surveillance Datasets as possible within the time limit. Once all existing Datasets are collected, new Datasets will appear. The more Datasets you collect, the better the rewards.
+3. There are various modules available in the challenges. Utilize them strategically to speed up Dataset collection.
+4. If there are any unclaimed rewards after the event ends, they will be automatically sent to your mailbox when you log in again within 30 days.","[Giới thiệu sự kiện]\nArno, nhân viên thu dung đặc biệt của Bờ Biển Đen, hiện đang tuyển người hỗ trợ thu thập dữ liệu dò tìm Bi Minh. Nếu quan tâm, hãy đến nói chuyện với anh ấy.\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 14, và mở khóa sau khi hoàn thành nhiệm vụ Triều Tịch Hồi 7 [Vãng Tuế Thừa Tiêu Tỉnh Kinh Trập].\n\n[Quy tắc sự kiện]\nTrong sự kiện, người tham gia cần đến các khu vực để bắt đầu thử thách. Có thể chọn bất kỳ chế độ chơi đã mở để tham gia lại.\nSau khi bắt đầu thử thách, có thể tạo cơ quan hỗ trợ và hiện hình dữ liệu dò tìm trong thời gian nhất định. Người tham gia cần thu thập càng nhiều dữ liệu dò tìm càng tốt trong thời gian giới hạn; khi dữ liệu đang hiển thị được thu thập hết sẽ xuất hiện dữ liệu mới. Sau khi thu thập hết hoặc hết thời gian, sẽ ghi nhận số lượng dữ liệu, thu thập càng nhiều thì phần thưởng càng lớn.\nTrong thử thách có nhiều loại module khác nhau, sử dụng hợp lý sẽ thu thập dữ liệu nhanh hơn.\nSau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sẽ được gửi bù qua thư."
+lang_multi_text.db,MultiText,HelpText_108_Title,索拉里斯气象前沿说明,Solaris Weather Forecast,Hướng dẫn Tiền Tuyến Khí Tượng Solaris
+lang_multi_text.db,MultiText,HelpText_10_Content,"<color=yellow>普通攻击：锋刃归藏</color>
+进行最多4段的连续斩击，第3段斩击可扩散出【玄武冥域】，造成范围减速并为队伍全体恢复血量","<color=yellow>Basic Attack: Blade Sheath</color>
+Performs up to 4 consecutive slashes and the 3rd slash can spread the [Black Tortoise Domain], causing AOE Slow Down effect and restoring HP for all party members.","<color=yellow>Đánh Thường: Phong Nhận Quy Tàng</color>\nThực hiện tối đa 4 đợt chém liên tiếp, đợt chém thứ 3 có thể lan tỏa [Huyền Vũ Minh Vực], gây giảm tốc phạm vi và hồi máu cho toàn đội."
+lang_multi_text.db,MultiText,HelpText_10_Title,普攻教学-桃祈,Basic Attack Tutorial: Taoqi,Hướng dẫn Đánh Thường - Đào Kỳ
+lang_multi_text.db,MultiText,HelpText_113_Content,"1、交付库卡斯卡带可提升数据中心等级。
+2、每次升级都将获得等级奖励并解锁新的「异频·残象」。
+3、首次击败「异频·残象」可获得丰厚奖励","1. Deliver KU-Cass Cartridges to upgrade the Data Hub.
+2. Reaching a new level grants level rewards and unlocks a new Outlier: Tacet Discord.
+3. Defeat Outlier: Tacet Discords for the first time to get rich rewards.","1. Nộp băng KU-Cass có thể nâng cấp Trung Tâm Dữ Liệu.\n2. Mỗi lần nâng cấp sẽ nhận phần thưởng cấp độ và mở khóa ""Dị Tần - Tàn Tượng"" mới.\n3. Lần đầu Đánh Bại ""Dị Tần - Tàn Tượng"" sẽ nhận phần thưởng phong phú."
+lang_multi_text.db,MultiText,HelpText_113_Title,数据中心,Data Hub,Trung Tâm Dữ Liệu
+lang_multi_text.db,MultiText,HelpText_114_Content,"【活动简介】
+潮汐影像工作室主理人斐林，最近遇到了麻烦。
+《潮汐影像》的下一部影像期刊截稿日将近，但似乎仍未找到合适的好照片……
+
+【参与条件】
+完成潮汐任务第二章第三幕「昔我悲伤，今却歌唱」及纪闻任务「长路鳞迹」后解锁.
+
+【活动规则】
+跟随线索的指引，前往对应区域探索，收集散落的停影吧。
+完成收集还可获取包含「星声」在内的各类奖励。
+未来会有更多区域的停影等待着漂泊者的探索……
+
+该系统为常驻系统，「潮心循迹」活动页关闭后漂泊者仍可继续通过装备特殊道具「迹鳞」进入「长路鳞迹」。","[About]
+Fulmine, the manager of Wutherium Film Studio, looks worried these days.
+The deadline for the next periodical is around the corner, but he seems to have trouble picking the right photos...
+
+[Eligibility]
+Complete Main Quest Chapter II Act III ""What Yesterday Wept, Today Doth Sing"" and Side Quest ""Scale of Past.""
+
+[Event Rules]
+Explore areas according to the clues to collect the scattered Chrono Traces.
+Collect all the Chrono Traces to receive Astrites and other rewards.
+More Chrono Traces will be available for collection in other areas in the future.
+
+This feature is permanently available, and Scale of Past can still be accessed via Trace Scale after Traces of Tides ends.","[Giới thiệu sự kiện]\nFulmine, chủ studio Hình Ảnh Triều Tịch, gần đây gặp rắc rối.\nSố tiếp theo của tạp chí Hình Ảnh Triều Tịch sắp đến hạn nộp, nhưng dường như vẫn chưa tìm được những bức ảnh ưng ý...\n\n[Điều kiện tham gia]\nMở khóa sau khi hoàn thành nhiệm vụ Triều Tịch Chương 2 Hồi 3 ""Tích Ngã Bi Thương, Kim Khước Ca Xướng"" và nhiệm vụ Ký Văn ""Trường Lộ Lân Tích"".\n\n[Quy tắc sự kiện]\nTheo manh mối, đến khu vực tương ứng khám phá và thu thập các Đình Ảnh rải rác.\nHoàn thành thu thập có thể nhận nhiều phần thưởng bao gồm ""Tinh Thanh"".\nTrong tương lai sẽ có thêm nhiều khu vực có Đình Ảnh chờ Lữ Khách khám phá...\n\nĐây là hệ thống thường trú. Sau khi trang sự kiện ""Triều Tâm Tuần Tích"" đóng, Lữ Khách vẫn có thể tiếp tục truy cập ""Trường Lộ Lân Tích"" bằng cách trang bị đạo cụ đặc biệt ""Tích Lân""."
+lang_multi_text.db,MultiText,HelpText_114_Title,【潮心循迹】活动说明,Traces of Tides,Hướng dẫn sự kiện [Triều Tâm Tuần Tích]
+lang_multi_text.db,MultiText,HelpText_115_Content,"【参与条件】
+联觉等级≥14级
+
+【活动简介】
+1、在海算沙盘内，尽可能获得更多【战略数据】积分。
+2、海算沙盘的每个领域共有三个测算点，测算点中敌人的实力被设置为循序上升。
+ 其中，清除完第三个测算点的敌人后，可以获得大量【战略数据】积分。
+3、清除海算沙盘内敌人后开启奇藏，可获得【战略数据】积分及【低容变量】增益。
+4、获得【低容变量】达一定数量后，可解锁新的强力增益【高容变量】，大幅提升在海算沙盘内的战力。","[Eligibility]
+Reach Union Level 14.
+
+[Event Rules]
+1. Gain as many Tactic Points as possible in the Infinite Battle Simulation.
+2. Each area of the simulation contains three Charting Nodes, with enemies growing stronger at each node. Defeating enemies at the third Charting Node will reward you with a great amount of Tactic Points.
+3. Open Supply Chests after defeating enemies to claim Tactic Points and Low-Capacity Variable buffs.
+4. Once you've collected enough Low-Capacity Variables, you can unlock new powerful buffs—High-Capacity Variables, which will greatly boost your combat power in the Infinite Battle Simulation.","[Điều kiện tham gia]\nCấp Liên Giác ≥ 14\n\n[Quy tắc sự kiện]\n1. Trong Hải Toán Sa Bàn, hãy cố gắng đạt được càng nhiều điểm [Dữ Liệu Chiến Lược] càng tốt.\n2. Mỗi khu vực của Hải Toán Sa Bàn có ba điểm đo lường, sức mạnh kẻ địch tại các điểm đo lường tăng dần. Sau khi quét sạch kẻ địch tại điểm đo lường thứ ba, có thể nhận lượng lớn điểm [Dữ Liệu Chiến Lược].\n3. Sau khi tiêu diệt kẻ địch trong Hải Toán Sa Bàn, mở rương bí ẩn để nhận điểm [Dữ Liệu Chiến Lược] và tăng cường [Biến Lượng Thấp].\n4. Khi số lượng [Biến Lượng Thấp] đạt mức nhất định, sẽ mở khóa tăng cường mạnh mới [Biến Lượng Cao], nâng đáng kể sức chiến đấu trong Hải Toán Sa Bàn."
+lang_multi_text.db,MultiText,HelpText_115_Title,【海算模演】活动说明,Infinite Battle Simulation,Hướng dẫn sự kiện [Hải Toán Mô Diễn]
+lang_multi_text.db,MultiText,HelpText_116_Content,"【活动简介】
+星光烁灭的黑海岸，在漫长时间中持续测算着悲鸣。
+不必迷惘来路，我们本就是群星的孩子。
+完成活动任务即可获得丰厚的奖励。
+
+【参与条件】
+联觉等级达到14级，且在潮汐任务【行至海岸尽头】中抵达黑海岸后解锁。
+
+【活动规则】
+整个活动共分为三个阶段，根据潮汐任务的进度依次解锁；
+完成活动任务即可领取丰厚的奖励；
+活动结束后，存在未领取的奖励时，若在活动结束后的30天内登陆游戏，奖励将会通过邮件进行补发；
+请注意部分活动任务联机情况下无法完成；部分游戏内场景无法进行任务追踪。","[About]
+Beneath the starry sky, the Black Shores keeps its endless vigil, calculating the arrival of the Lament.
+But fear not the unknown—we are born of the stars.
+Complete event quests to earn great rewards.
+
+[Eligibility]
+Reach Union Level 14 and arrive at the Black Shores in the main quest ""To the Shore's End.""
+
+[Event Rules]
+The event has three phases, each unlocking as you progress through the main quests.
+Complete event quests to earn great rewards.
+If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to receive the rewards via mail.
+Please note that certain content of the event is not available while in Co-op mode. Quest Tracking is not available in certain game scenes.","[Giới thiệu sự kiện]\nBờ Biển Đen nơi ánh sao lấp lánh rồi tắt lịm, liên tục đo lường Bi Minh suốt thời gian dài.\nĐừng mơ hồ về con đường đã qua, chúng ta vốn là những đứa con của muôn sao.\nHoàn thành nhiệm vụ sự kiện để nhận phần thưởng phong phú.\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 14, và mở khóa sau khi đến Bờ Biển Đen trong nhiệm vụ Triều Tịch [Hành Chí Hải Ngạn Tận Đầu].\n\n[Quy tắc sự kiện]\nToàn bộ sự kiện chia thành ba giai đoạn, mở khóa lần lượt theo tiến độ nhiệm vụ Triều Tịch;\nHoàn thành nhiệm vụ sự kiện để nhận phần thưởng phong phú;\nSau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sẽ được gửi bù qua thư;\nLưu ý: một số nhiệm vụ sự kiện không thể hoàn thành trong chế độ liên cơ; một số cảnh trong game không hỗ trợ theo dõi nhiệm vụ."
+lang_multi_text.db,MultiText,HelpText_116_Title,【群星沉眠之海】活动说明,Where Stars Slumber,Hướng dẫn sự kiện [Biển Nơi Quần Tinh Chìm Ngủ]
+lang_multi_text.db,MultiText,HelpText_117_Content,"【邮件类型】
+邮件共分为两种类型：重要邮件和其他邮件。
+重要邮件在邮件列表中将靠前显示，该类型邮件永久有效，且在点击“删除已读”时将不会被删除；
+其他邮件具有一定的有效期，在有效期结束后，该类型邮件将会被自动删除。
+
+【邮件容量】
+邮件中最多可以保存99封邮件。
+当邮件数量超过上限时，系统将会按照时间顺序由旧到新，优先删除无附件或附件已被领取的邮件。
+请您及时领取邮件中的附件，避免邮件失效或被删除。","[Mail Types]
+There are two types of mail: Starred Mail and Other Mail.
+Starred Mail stays pinned at the top of your mailbox and does not expire. It will not be deleted when you select ""Delete Read Mails.""
+Other Mail has an expiration date and will be automatically deleted when it expires.
+
+[Mail Capacity]
+The mailbox can store a maximum of 99 mails.
+Once the limit is reached, the oldest mails without attachments or with claimed attachments will be automatically deleted.
+Make sure to claim your attachments promptly to avoid any loss from expiration and deletion.","[Loại thư]\nThư chia thành hai loại: thư quan trọng và thư khác.\nThư quan trọng sẽ hiển thị ưu tiên trong danh sách, loại thư này có hiệu lực vĩnh viễn và sẽ không bị xóa khi nhấn ""Xóa đã đọc"";\nThư khác có thời hạn nhất định, sau khi hết hạn sẽ tự động bị xóa.\n\n[Dung lượng hộp thư]\nHộp thư có thể lưu tối đa 99 thư.\nKhi vượt quá giới hạn, hệ thống sẽ xóa theo thứ tự từ cũ đến mới, ưu tiên xóa thư không có đính kèm hoặc đính kèm đã nhận.\nHãy nhận đính kèm trong thư kịp thời để tránh thư bị hết hạn hoặc bị xóa."
+lang_multi_text.db,MultiText,HelpText_117_Title,邮件说明,About Mail System,Hướng dẫn hệ thống thư
+lang_multi_text.db,MultiText,HelpText_118_Content,"【活动简介】
+今州呜呜物流管理员马计又带来了新的「呜呜企划」，完成即可获得呜呜物流的谢礼——「呜呜邮币」。
+「呜呜邮币」可用于兑换呜呜物流回赠的「助呜为乐」特别邮递。
+
+【参与条件】
+联觉等级达到14级。
+
+【活动规则】
+活动期间，漂泊者每天可完成一次「呜呜企划」，能获得一定数目的的呜呜邮币；
+每次消耗一枚呜呜邮币，可随机获赠一份「助呜为乐」特别邮递。
+「助呜为乐」特别邮递总计三轮库存，获得前序库存内的全部邮递后，将开启下一库存；
+若于本轮中选「呜闪达」专送服务，即可获得当前库存内的全部邮递。
+活动结束时，未参与的「呜呜企划」将无法体验，并统一回收未兑换的呜呜邮币。","[About]
+Maji, the administrator of Jinzhou Lollo Logistics, decides to relaunch the Lollo Campaign. Complete the campaigns to claim your Lollo Stamps—a gift of gratitude from Lollo Logistics.
+Lollo Stamps can be exchanged for Lollo Helper special deliveries.
+
+[Eligibility]
+Reach Union Level 14.
+
+[Event Rules]
+During the event, you can complete Lollo Campaigns once per day to obtain a set number of Lollo Stamps.
+Each Lollo Stamp can be exchanged for a Lollo Helper special delivery.
+There are 3 Inventories for the Lollo Helper special deliveries. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.
+If you win the Lollo Express special delivery service, you can claim all deliveries in the current Inventory.
+After the event ends, the unfinished Lollo Campaigns will not be available, and all the remaining Lollo Stamps will be recycled.","[Giới thiệu sự kiện]\nMã Kế, quản lý Vận Chuyển Vu Vu tại Kim Châu, lại mang đến ""Kế Hoạch Vu Vu"" mới. Hoàn thành để nhận quà cảm ơn từ Vận Chuyển Vu Vu - ""Xu Vu Vu"".\n""Xu Vu Vu"" có thể dùng để đổi gói bưu kiện đặc biệt ""Giúp Vu Vui Vẻ"" từ Vận Chuyển Vu Vu.\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 14.\n\n[Quy tắc sự kiện]\nTrong thời gian sự kiện, Lữ Khách mỗi ngày có thể hoàn thành một lần ""Kế Hoạch Vu Vu"" để nhận một số lượng Xu Vu Vu nhất định;\nMỗi lần tiêu một Xu Vu Vu, có thể nhận ngẫu nhiên một bưu kiện đặc biệt ""Giúp Vu Vui Vẻ"".\nBưu kiện đặc biệt ""Giúp Vu Vui Vẻ"" gồm ba vòng kho hàng, sau khi nhận hết kho hàng trước sẽ mở kho tiếp theo;\nNếu trong vòng này trúng dịch vụ chuyển phát nhanh ""Vu Nhanh"", sẽ nhận toàn bộ bưu kiện trong kho hàng hiện tại.\nSau khi sự kiện kết thúc, ""Kế Hoạch Vu Vu"" chưa tham gia sẽ không thể trải nghiệm, và Xu Vu Vu chưa đổi sẽ bị thu hồi."
+lang_multi_text.db,MultiText,HelpText_118_Title,呜呜企划·再行说明,Lollo Campaign: Rerun,Hướng dẫn Kế Hoạch Vu Vu - Tái Khởi
+lang_multi_text.db,MultiText,HelpText_119_Content,"【快速前往】
+使用快速前往后将传送至目标点直线距离500米范围内已激活的中枢信标或小型信标。
+
+【注意事项】
+在以下情况下快速前往功能将暂不可用：
+1.目标点直线距离500米范围内的中枢信标或小型信标尚未激活，请激活后再次尝试。
+2.目标点直线距离500米范围内暂无中枢信标或小型信标，可在目标点附近自行设置借位信标后使用快速前往功能。","[Quick Navigate]
+Use Quick Navigate to teleport to an active Resonance Nexus or Resonance Beacon within 500 meters of the target location.
+
+[Notes]
+Quick Navigate is unavailable under the following situations:
+1. No active Resonance Nexus or Resonance Beacon is within 500 meters of the target location. You may activate them and retry.
+2. No Resonance Nexus or Resonance Beacon is within 500 meters of the target location. You may place a Waypoint nearby and retry.","[Di chuyển nhanh]\nSử dụng di chuyển nhanh sẽ dịch chuyển đến Tín Hiệu Trung Khu hoặc Tín Hiệu Nhỏ đã kích hoạt trong phạm vi 500 mét tính theo đường thẳng từ điểm mục tiêu.\n\n[Lưu ý]\nTính năng di chuyển nhanh sẽ tạm không khả dụng trong các trường hợp sau:\n1. Tín Hiệu Trung Khu hoặc Tín Hiệu Nhỏ trong phạm vi 500 mét từ điểm mục tiêu chưa được kích hoạt, hãy kích hoạt rồi thử lại.\n2. Không có Tín Hiệu Trung Khu hoặc Tín Hiệu Nhỏ nào trong phạm vi 500 mét từ điểm mục tiêu, có thể đặt Tín Hiệu Tạm gần mục tiêu rồi sử dụng tính năng di chuyển nhanh."
+lang_multi_text.db,MultiText,HelpText_119_Title,快速前往,Quick Navigate,Di chuyển nhanh
+lang_multi_text.db,MultiText,HelpText_11_Content,"<color=yellow>玄武反击</color>
+当桃祈使用【重击】时，如果攻击动作被打断，可消耗1点殇能再次普攻打出【玄武反击】，触发【玄武冥域】","<color=yellow>Black Tortoise Counterattack</color>
+When Taoqi performs Heavy Attacks, if the attack action is interrupted, she can consume 1 point of Shangneng to perform the [Black Tortoise Counterattack] with a Basic Attack, triggering the [Black Tortoise Netherworld].","<color=yellow>Huyền Vũ Phản Công</color>\nKhi Đào Kỳ sử dụng [Đánh Mạnh], nếu hành động tấn công bị gián đoạn, có thể tiêu 1 điểm Thương Năng để đánh thường ra [Huyền Vũ Phản Công], kích hoạt [Huyền Vũ Minh Vực]."
+lang_multi_text.db,MultiText,HelpText_11_Title,普攻教学-桃祈,Basic Attack Tutorial: Taoqi,Hướng dẫn Đánh Thường - Đào Kỳ
+lang_multi_text.db,MultiText,HelpText_120_Content,"【活动简介】
+神秘门扉旁，因意外穿过门扉的女孩多萝西请求你帮忙击败门后的怪物。
+
+【参与条件】
+联觉等级达到22级。
+
+【活动规则】
+关卡中，可选择“多萝西的朋友”作为声骸协助战斗，大幅度强化共鸣者的作战能力。
+关卡中倒下的共鸣者会在一段时间后自动恢复战力。
+该委托可以与朋友一同进行。
+此模式中只可使用特定的声骸（合鸣依旧生效，只替换主声骸技能）。
+积分获取规则：通关积分+剩余时间*时间系数。
+总积分为普通关卡最高积分之和。（挑战关卡不会获得积分）","[About]
+Beside a mysterious door stands a girl who has accidentally wandered through it—Dorothy. She seeks your help to defeat the monsters lurking behind the door.
+
+[Eligibility]
+Reach Union Level 22.
+
+[Event Rules]
+1. In this challenge, you can choose ""Dorothy's Companions"" as Echoes to assist you in battle, which greatly enhances the combat abilities of Resonators.
+2. Downed Resonators will be automatically revived after a while. 
+3. You can complete the task with your Friends.
+4. You can only use designated Echoes in this mode (Sonatas will remain effective and only the main Echo Skill will be replaced).
+5. Point Calculation: Clearance Points + (Remaining Time x Time Coefficient).
+The Total Points will be the sum of the highest points achieved in regular levels. (Points will not be awarded for challenge levels).","[Giới thiệu sự kiện]\nBên cánh cửa bí ẩn, cô gái Dorothy vô tình đi xuyên qua cửa và nhờ bạn giúp tiêu diệt quái vật phía sau.\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 22.\n\n[Quy tắc sự kiện]\nTrong màn chơi, có thể chọn ""Bạn Bè của Dorothy"" làm Thanh Hài hỗ trợ chiến đấu, tăng cường đáng kể năng lực chiến đấu của Cộng Hưởng Giả.\nCộng Hưởng Giả bị ngã trong màn chơi sẽ tự động phục hồi sức chiến đấu sau một thời gian.\nỦy thác này có thể chơi cùng bạn bè.\nTrong chế độ này chỉ có thể sử dụng Thanh Hài chỉ định (Hợp Minh vẫn có hiệu lực, chỉ thay thế kỹ năng Thanh Hài chính).\nQuy tắc tính điểm: Điểm qua màn + Thời gian còn lại * Hệ số thời gian.\nTổng điểm là tổng điểm cao nhất của các màn thường. (Màn thử thách không nhận điểm)"
+lang_multi_text.db,MultiText,HelpText_120_Title,全新活动「童梦的终结」开放！,"New Event ""Fairy Tale's Finale"" Available!","Sự kiện mới ""Kết Thúc Đồng Mộng"" đã mở!"
+lang_multi_text.db,MultiText,HelpText_121_Content,"【参与条件】
+联觉等级达到8级
+
+【活动规则】
+活动开启后每天服务器时间04:00登录游戏即可领取签到奖励；
+活动结束后，存在已完成签到但未领取奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Eligibility]
+Reach Union Level 8
+
+[Event Rules]
+After the event starts, log in to the game to claim daily sign-in rewards. Sign-in records refresh daily at 04:00 server time.
+After the event ends, any unclaimed sign-in rewards you earned will be reissued via in-game mail within 30 days upon your next login.","[Điều kiện tham gia]\nCấp Liên Giác đạt 8\n\n[Quy tắc sự kiện]\nSau khi sự kiện bắt đầu, đăng nhập game sau 04:00 giờ server mỗi ngày để nhận thưởng điểm danh;\nSau khi sự kiện kết thúc, nếu đã điểm danh nhưng chưa nhận thưởng, đăng nhập game trong vòng 30 ngày sẽ được gửi bù qua thư."
+lang_multi_text.db,MultiText,HelpText_121_Title,湛蓝赠礼活动说明,Gifts of Sea Breeze Event Rules,Hướng dẫn sự kiện Quà Tặng Xanh Biếc
+lang_multi_text.db,MultiText,HelpText_122_Content,"此关卡中，默认获得【浮游变量】能力强化
+-施放钩索后一段时间内，钩索技能无冷却时间
+
+<color=Highlight>1、海算沙盘的每个领域有三个测算点可供挑战。
+2、测算点开启需要获取一定的【战略数据】积分。
+3、在海算沙盘内，打开奇藏或物资箱可获取【战略数据】积分。</color>","In this series of challenges, you are granted the ""Roaming Variable"" by default.
+-The Grapple does not enter Cooldown within a short period after activation.
+
+<color=Highlight>1. Each Infinite Battle Simulation realm has three Charting Nodes available for challenge.
+2. Each Charting Node requires a certain amount of Tactic Points to unlock.
+3. Open Supply Chests to obtain Tactic Points in the Infinite Battle Simulation.</color>","Trong màn chơi này, mặc định nhận tăng cường [Biến Lượng Phù Du]\n- Sau khi sử dụng móc dây trong một khoảng thời gian, kỹ năng móc dây không có thời gian hồi\n\n<color=Highlight>1. Mỗi khu vực của Hải Toán Sa Bàn có ba điểm đo lường để thử thách.\n2. Mở điểm đo lường cần đạt một lượng điểm [Dữ Liệu Chiến Lược] nhất định.\n3. Trong Hải Toán Sa Bàn, mở rương bí ẩn hoặc hòm vật tư để nhận điểm [Dữ Liệu Chiến Lược].</color>"
+lang_multi_text.db,MultiText,HelpText_122_Title,【幽泽险径】关卡说明,Secluded Bog,Hướng dẫn màn [U Trạch Hiểm Kính]
+lang_multi_text.db,MultiText,HelpText_123_Content,"此关卡中，默认获得【飞驰变量】能力强化
+-角色移动速度默认提高
+-进入冲刺状态后，10秒内当前角色冲刺时会附带额外的冲击伤害，该效果切人后消失，且存在10秒冷却时间
+
+<color=Highlight>1、海算沙盘的每个领域有三个测算点可供挑战。
+2、测算点开启需要获取一定的【战略数据】积分。
+3、在海算沙盘内，打开奇藏或物资箱可获取【战略数据】积分。</color>","In this series of challenges, you are granted the ""Speeding Variable"" by default.
+-Resonator's movement speed is increased by default
+-Dashing launches enemies in the air and deals DMG. This effect lasts for 10s and will be removed after switching to another Resonator, with a Cooldown of 10s.
+
+<color=Highlight>1. Each Infinite Battle Simulation realm has three Charting Nodes available for challenge.
+2. Each Charting Node requires a certain amount of Tactic Points to unlock.
+3. Open Supply Chests to obtain Tactic Points in the Infinite Battle Simulation.</color>","Trong màn chơi này, mặc định nhận tăng cường [Biến Lượng Tốc Hành]\n- Tốc độ di chuyển nhân vật tăng mặc định\n- Sau khi vào trạng thái chạy nước rút, trong 10 giây nhân vật hiện tại khi chạy nước rút sẽ gây thêm sát thương va chạm, hiệu ứng này biến mất khi đổi nhân vật và có thời gian hồi 10 giây\n\n<color=Highlight>1. Mỗi khu vực của Hải Toán Sa Bàn có ba điểm đo lường để thử thách.\n2. Mở điểm đo lường cần đạt một lượng điểm [Dữ Liệu Chiến Lược] nhất định.\n3. Trong Hải Toán Sa Bàn, mở rương bí ẩn hoặc hòm vật tư để nhận điểm [Dữ Liệu Chiến Lược].</color>"
+lang_multi_text.db,MultiText,HelpText_123_Title,【异象涛声】关卡说明,Tide of Perils,Hướng dẫn màn [Dị Tượng Đào Thanh]
+lang_multi_text.db,MultiText,HelpText_124_Content,"【活动简介】
+完成测试任务，即可获得丰厚的奖励。
+
+【活动规则】
+测试活动共分为四个阶段，完成测试任务即可领取丰厚的奖励；
+测试结束后，测试活动奖励将在下一版本开启的14个工作日内发往获得测试资格的正式服账号下。","[About]
+Complete the Pioneer Project tasks to earn awesome rewards.
+
+[Event Rules]
+The event consists of four phases. Complete the tests to claim great rewards.
+After the official update, rewards claimed in the Pioneer Project will be sent to your account on the live server within 14 business days.","[Giới thiệu sự kiện]\nHoàn thành nhiệm vụ thử nghiệm để nhận phần thưởng phong phú.\n\n[Quy tắc sự kiện]\nSự kiện thử nghiệm chia thành bốn giai đoạn, hoàn thành nhiệm vụ thử nghiệm để nhận phần thưởng phong phú;\nSau khi thử nghiệm kết thúc, phần thưởng sẽ được gửi đến tài khoản server chính thức có tư cách thử nghiệm trong vòng 14 ngày làm việc kể từ khi phiên bản tiếp theo ra mắt."
+lang_multi_text.db,MultiText,HelpText_124_Title,先锋测试活动说明,Pioneer Project,Hướng dẫn sự kiện Thử Nghiệm Tiên Phong
+lang_multi_text.db,MultiText,HelpText_125_Content,"前往登录库街区即可领取专属奖励。
+奖励领取完成后，库街区入口将恢复跳转至网页。","Log in to the KURO APP and claim exclusive rewards.
+You will not be able to access the reward page via the ""KURO APP"" button in game once you've claimed the rewards.","Đăng nhập KURO APP để nhận phần thưởng độc quyền.\nSau khi nhận phần thưởng, cổng vào KURO APP sẽ chuyển về trang web bình thường."
+lang_multi_text.db,MultiText,HelpText_125_Title,官方社区【库街区】,"Official Community ""KURO APP""",Cộng đồng chính thức [KURO APP]
+lang_multi_text.db,MultiText,HelpText_126_Content,"邮箱绑定完成后即可领取专属奖励，功能入口将在奖励领取后关闭。
+每个邮箱只可绑定一个账号。","Link your account to your email to claim rewards. You will not be able to access the reward page once you've claimed your rewards.
+Each email can only be linked to one game account.","Sau khi liên kết email, có thể nhận phần thưởng độc quyền. Cổng vào sẽ đóng sau khi nhận thưởng.\nMỗi email chỉ có thể liên kết một tài khoản."
+lang_multi_text.db,MultiText,HelpText_126_Title,邮箱绑定奖励,Email Linking Rewards,Phần thưởng liên kết email
+lang_multi_text.db,MultiText,HelpText_127_Content,"【系统说明】
+拥有「常驻」标签的活动在开启版本会拥有专属的限时奖励。
+限时奖励领取时间结束后，活动将收录至「常驻」页签。漂泊者仍可继续参与活动，但无法领取限时奖励。
+收录至「常驻」页签的活动将继承此前的活动参与进度。
+
+【参与条件】
+满足对应活动的参与条件后即可正常体验。","[About]
+Events with the ""Permanent"" tag offer limited-time rewards when they first launch in a new version update. After this initial claiming period ends, the event remains available permanently, but without the limited-time rewards. 
+Any progress you've made in these events will be retained once they're moved to the ""Permanent"" tab.
+
+[Eligibility]
+You can participate in these events as soon as you meet the specified eligibility criteria.","[Giới thiệu hệ thống]\nCác sự kiện có nhãn ""Thường trú"" sẽ có phần thưởng giới hạn thời gian riêng khi mở trong phiên bản.\nSau khi hết thời gian nhận phần thưởng giới hạn, sự kiện sẽ được chuyển vào tab ""Thường trú"". Lữ Khách vẫn có thể tiếp tục tham gia sự kiện nhưng không thể nhận phần thưởng giới hạn thời gian.\nSự kiện được chuyển vào tab ""Thường trú"" sẽ kế thừa tiến độ tham gia trước đó.\n\n[Điều kiện tham gia]\nĐáp ứng điều kiện tham gia của sự kiện tương ứng để trải nghiệm bình thường."
+lang_multi_text.db,MultiText,HelpText_127_Title,常驻活动说明,Permanent Event,Hướng dẫn sự kiện thường trú
+lang_multi_text.db,MultiText,HelpText_128_Content,"【开启条件】
+索拉等级达到3阶。
+
+【双倍领取】
+挑战部分玩法领取奖励时，可选择消耗双倍结晶波片获取双倍奖励。
+该系统与「回音盈域」、「声弦涤荡」叠加开放。
+在对应的活动期间选择双倍领取，若当前剩余活动双倍奖励次数大于2次，则会消耗2次活动双倍奖励次数获取4倍奖励；若当前剩余活动双倍奖励次数只有1次，则会消耗1次活动双倍奖励次数获取3倍奖励。
+
+【生效范围】
+「凝素领域」、「模拟领域」、「无音清剿」、「千道门扉的异想」。","[Eligibility]
+Reach SOL3 Phase 3.
+
+[Double Rewards]
+You can consume a double amount of Waveplates to claim double rewards after completing certain challenges.
+This effect now stacks with Bountiful Crescendo and Chord Cleansing.
+If these two events are active, and their corresponding double-yield attempts are greater than 2, then 2 attempts will be used up to claim quadruple rewards. If only 1 corresponding double-yield attempt remains, then that 1 attempt will be used up to claim triple rewards.
+
+[Applicable Challenges]
+Forgery Challenge, Simulation Challenge, Tacet Suppression, and Fantasies of the Thousand Gateways.","[Điều kiện mở]\nCấp Solaris đạt giai đoạn 3.\n\n[Nhận thưởng gấp đôi]\nKhi nhận thưởng từ một số chế độ chơi, có thể chọn tiêu gấp đôi Kết Tinh Ba Phiến để nhận thưởng gấp đôi.\nHệ thống này cộng dồn với ""Hồi Âm Doanh Vực"" và ""Thanh Huyền Địch Đãng"".\nTrong thời gian sự kiện tương ứng khi chọn nhận gấp đôi, nếu số lần nhận thưởng gấp đôi sự kiện còn lại lớn hơn 2, sẽ tiêu 2 lần để nhận thưởng gấp 4; nếu chỉ còn 1 lần, sẽ tiêu 1 lần để nhận thưởng gấp 3.\n\n[Phạm vi áp dụng]\n""Ngưng Tố Lĩnh Vực"", ""Mô Phỏng Lĩnh Vực"", ""Vô Thanh Tiễu Trừ"", ""Thiên Đạo Môn Phỉ Dị Tưởng""."
+lang_multi_text.db,MultiText,HelpText_128_Title,纯化分离说明,Purification and Separation,Hướng dẫn Tinh Hóa Phân Ly
+lang_multi_text.db,MultiText,HelpText_129_Content,"【活动规则】
+先行公约将黑海岸选为了新一期《潮汐地理》杂志的主题地区。 为此，先约组织了针对黑海岸的专项勘察活动。
+完成勘察任务，积累勘察点数，即可获得先约提供的珍贵奖励。
+
+【任务刷新】
+勘察任务每日4点刷新。刷新时，未领取的勘察点数会自动领取，未完成的任务无法再次完成。
+活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Event Rules]
+The Pioneer Association has picked the Black Shores as the theme for an upcoming edition of <i>Wutherium Geographic</i>. To that end, the association has organized a special survey of the Black Shores.
+Complete Survey Tasks and accumulate Survey Points to secure valuable rewards offered by the Pioneer Association.
+
+[Task Reset]
+Survey Tasks reset daily at 04:00. Upon reset, any unclaimed Survey Points will be automatically claimed, and uncompleted tasks will expire.
+If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to claim them in your Mail.","[Quy tắc sự kiện]\nHiệp Ước Tiên Phong đã chọn Bờ Biển Đen làm chủ đề cho số mới của tạp chí ""Triều Tịch Địa Lý"". Vì vậy, Hiệp Ước đã tổ chức hoạt động khảo sát chuyên biệt về Bờ Biển Đen.\nHoàn thành nhiệm vụ khảo sát, tích lũy điểm khảo sát để nhận phần thưởng quý giá từ Hiệp Ước.\n\n[Làm mới nhiệm vụ]\nNhiệm vụ khảo sát làm mới lúc 04:00 mỗi ngày. Khi làm mới, điểm khảo sát chưa nhận sẽ tự động được nhận, nhiệm vụ chưa hoàn thành không thể hoàn thành lại.\nSau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sẽ được gửi bù qua thư."
+lang_multi_text.db,MultiText,HelpText_12_Title,普攻教学-桃祈,Basic Attack Tutorial: Taoqi,Hướng dẫn Đánh Thường - Đào Kỳ
+lang_multi_text.db,MultiText,HelpText_130_Content,"【活动简介】
+为鼓励协会旗下的成员们积极分享遍历今州之际的见闻，先行公约与呜呜物流联合推出了 “踏潮探历：探索激励计划”。
+参与活动并于呜呜物流车处上传探历札记，即可获得奖励丰厚的 “探历补给”！
+
+【参与条件】
+联觉等级达到14级。
+
+【活动规则】
+活动期间，漂泊者每天通过完成活动目标，可获得一定数目的探历札记；
+每次消耗一枚探历札记，可在活动中随机获赠一份补给；补给中包含特殊机关，触发时可一次性解锁大量奖励。
+探历补给共计三轮库存，获得当前轮次库存的全部补给奖励后开启下一库存。","[About]
+To encourage the Pioneers to further share their Jinzhou explorations, Lollo Logistics has partnered with the Pioneer Association to proudly present the campaign: Beyond the Waves! Participate and upload your Adventure Logs to the Lollo courier truck to get various rewards!
+
+[Eligibility]
+Reach Union Level 14.
+
+[Event Rules]
+- During the event, you can complete event tasks once per day to obtain a set number of Adventure Logs.
+- Each Adventure Log can be exchanged for an Adventure Package; Adventure Packages contain special mechanics that, when triggered, unlock a large amount of rewards.
+- There are 3 Inventories for the Adventure Packages. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.","[Giới thiệu sự kiện]\nĐể khuyến khích các thành viên dưới quyền chia sẻ những trải nghiệm khi khám phá Kim Châu, Hiệp Ước Tiên Phong phối hợp với Vận Chuyển Vu Vu ra mắt ""Dạo Triều Thám Lịch: Kế Hoạch Khuyến Khích Khám Phá"".\nTham gia sự kiện và tải lên sổ thám lịch tại xe Vận Chuyển Vu Vu để nhận ""Gói Tiếp Tế Thám Lịch"" phong phú!\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 14.\n\n[Quy tắc sự kiện]\nTrong thời gian sự kiện, Lữ Khách mỗi ngày hoàn thành mục tiêu sự kiện có thể nhận một số lượng sổ thám lịch nhất định;\nMỗi lần tiêu một sổ thám lịch, có thể nhận ngẫu nhiên một gói tiếp tế trong sự kiện; gói tiếp tế chứa cơ chế đặc biệt, khi kích hoạt có thể mở khóa lượng lớn phần thưởng cùng lúc.\nGói tiếp tế thám lịch gồm ba vòng kho hàng, nhận hết kho hàng vòng hiện tại sẽ mở vòng tiếp theo."
+lang_multi_text.db,MultiText,HelpText_130_Title,踏潮探历说明,Beyond the Waves,Hướng dẫn Dạo Triều Thám Lịch
+lang_multi_text.db,MultiText,HelpText_131_Content,"【活动简介】
+拉古那的先行公约分部正在筹备上新一批周边产品。为了完成负责人制定的销售目标，阿兰娜正在寻找一名可靠的顾问……
+
+【参与条件】
+联觉等级达到14级。
+
+【活动规则】
+阿兰娜每天会发放调查任务，完成调查问卷即可获取对应奖励。
+黎那汐塔的世界正通过问卷为你展开一角。","[About]
+The Ragunna branch of the Pioneer Association is preparing to release a fresh line of merchandise. To hit the sales target set by her supervisor, Alannah is seeking a reliable advisor to assist with the task...
+
+[Eligibility]
+Reach Union Level 14.
+
+[Event Rules]
+Alannah will be releasing a new investigation quest each day. Complete the surveys to earn corresponding rewards and have a glimpse into the world of Rinascita!","[Giới thiệu sự kiện]\nChi nhánh Hiệp Ước Tiên Phong tại Ragunna đang chuẩn bị ra mắt lô sản phẩm phụ kiện mới. Để hoàn thành mục tiêu doanh số do người phụ trách đề ra, Alannah đang tìm kiếm một cố vấn đáng tin cậy...\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 14.\n\n[Quy tắc sự kiện]\nAlannah mỗi ngày sẽ phát nhiệm vụ khảo sát, hoàn thành bảng khảo sát để nhận phần thưởng tương ứng.\nThế giới Rinascita đang hé lộ một góc qua bảng khảo sát dành cho bạn."
+lang_multi_text.db,MultiText,HelpText_131_Title,拉古那急卖说明,Ragunna Sales Blitz!,Hướng dẫn Đại Hạ Giá Ragunna
+lang_multi_text.db,MultiText,HelpText_132_Content,"【活动简介】
+深梦中的列车猛然脱轨，通向幻境的大门霎时洞开。
+那漆黑的身影说道：当整个世界入梦，夜将永不完结。
+你挣扎着醒来，试图从破碎的梦境中拼凑出昔日的现实......
+幸而在这无光的暗夜中，依然有一抹白光照亮前路，引导你回正列车，链接起梦中迷失的同伴，向混沌最深处的梦魇进发。
+
+【参与条件】	
+联觉等级达到17级。
+
+【深梦历程】	
+活动中，漂泊者将协助白猫唤醒陷入深梦的共鸣者，协助其摆脱梦魇，并在旅途中不断深入梦境，发现梦魇的真相。
+活动共分为6个梦境，需要依次推进探索，探索完成可获取对应奖励。
+
+【异梦封锁】	
+梦魇入侵了世界，在多个区域侵扰现实。漂泊者需前往各个区域，利用白猫给予的能力「盈梦速行」来解除异常。
+「异梦封锁」将在完成「深梦历程：山水与六贝币」后解锁。
+活动分为6个关卡，完成挑战可获取对应奖励。
+
+【永夜重现】	
+“湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。
+自由选择共鸣者，回归永夜之梦，而这一次，你面对的挑战将有所不同。在【联梦融觉】能力的加持下，重面永夜的梦魇吧！”
+「永夜重现」将在完成潮汐任务「暗夜叩响白昼之门」后解锁。
+永夜重现共有6个关卡，完成积分挑战可获得丰厚的奖励。
+
+【拼凑的梦】	
+参与「异梦封锁」、「永夜重现」以及任务「暗夜叩响白昼之门」可获得「拼凑的梦」。
+每收集一定数量即可获取对应档位的奖励。
+「拼凑的梦」为活动常驻可获取奖励。
+
+【限时奖励】	
+限时期间内完成「限时奖励」中的任务目标，可获得包括限定4星武器「心之锚」、限定武器投影「投影·心之锚」在内的丰厚奖励。
+
+【活动提示】	
+限时奖励将在限时结束后关闭，漂泊者届时仍可继续参与活动获取常驻奖励。","[About]
+A train crashes from the dreamscape into reality, ripping open a gateway to the realm of illusions.
+A looming shadow greets you with a grim prophecy: the world will succumb to this nightmare, and night will reign eternal.
+You struggle to awaken from this terrifying vision, desperately clinging to shreds of reality left in the shattered dreams...
+Thankfully, a white cat appears and guides you back on track, helping you find the lost allies trapped in the realm of dreams. Together, you battle against the darkest terrors of chaos.
+
+[Eligibility]
+Reach Union Level 17.
+
+[Dreamscape Odyssey]
+Join the strange white cat in rescuing your Resonator companions from their Dreamscapes. Together, you will delve deep into the Somnoire to uncover the truth behind the nightmares. Each of the 6 Dreamscapes offers unique rewards upon completion.
+
+
+[Rift Runner]
+Nightmares have torn through the veil of reality, wreaking havoc across the world. It's down to you to restore the crumbling order to the land, with the mystic boon of Illusive Sprint received from the strange white cat.
+Compete ""Dreamscape Odyssey: The Mountain and Six Credits"" to unlock ""Rift Runner.""
+Each of the 6 challenge stages offers unique rewards upon completion.
+
+[Nightmare Revisits]
+The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare. Fight the Black Cat again with Resonators of your choice. This time, the combat challenge will feature new exciting twists. Use the power of Dream Link to gain an upper hand!
+Complete ""When the Night Knocks"" to unlock ""Nightmare Revisits.""
+Each of the 6 challenge stages offers unique rewards upon completion.
+
+[Dream Shards]
+Complete Rift Runner, Nightmare Revisits, and the quest ""When the Night Knocks"" to earn Dream Shards.
+Collect the required quantities of Dream Shards to unlock the corresponding milestone rewards.
+Dream Shards are obtainable at any time by participating in the event.
+
+[Limited-Time Rewards]
+Complete the Limited-Time Rewards objectives to earn exclusive rewards, including the Featured 4-Star Weapon ""Somnoire Anchor"" and Featured Weapon Projection ""Projection: Somnoire Anchor.""
+
+[Tips]
+The Limited-Time Rewards objectives will expire when the event ends, but you can continue challenging the stages afterward to earn the standard rewards.","[Giới thiệu sự kiện]\nĐoàn tàu trong giấc mơ sâu đột ngột trật đường ray, cánh cửa dẫn đến cõi ảo mộng bừng mở.\nBóng đen ấy cất lời: Khi cả thế giới chìm vào giấc mơ, đêm sẽ không bao giờ kết thúc.\nBạn vùng vẫy tỉnh dậy, cố gắng ghép nối lại hiện thực ngày xưa từ những mảnh mơ vỡ vụn...\nMay thay, trong đêm tối không ánh sáng này, vẫn có một vệt sáng trắng soi đường, dẫn bạn trở lại đoàn tàu, kết nối những đồng đội lạc lối trong mơ, tiến về ác mộng nơi sâu thẳm nhất của hỗn loạn.\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 17.\n\n[Hành Trình Mộng Sâu]\nTrong sự kiện, Lữ Khách sẽ hỗ trợ mèo trắng đánh thức các Cộng Hưởng Giả bị mắc kẹt trong giấc mơ sâu, giúp họ thoát khỏi ác mộng, đồng thời đi sâu hơn vào thế giới mộng cảnh để khám phá sự thật về ác mộng.\nSự kiện chia thành 6 cõi mộng, cần khám phá lần lượt, hoàn thành khám phá để nhận phần thưởng tương ứng.\n\n[Phong Tỏa Dị Mộng]\nÁc mộng xâm nhập thế giới, quấy nhiễu hiện thực tại nhiều khu vực. Lữ Khách cần đến các khu vực, sử dụng năng lực ""Doanh Mộng Tốc Hành"" mà mèo trắng ban cho để giải trừ bất thường.\n""Phong Tỏa Dị Mộng"" sẽ mở khóa sau khi hoàn thành ""Hành Trình Mộng Sâu: Sơn Thủy Dữ Lục Bối Tệ"".\nSự kiện gồm 6 màn chơi, hoàn thành thử thách để nhận phần thưởng tương ứng.\n\n[Vĩnh Dạ Tái Hiện]\n""Bóng khổng lồ trong hồ đôi mắt rực cháy, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...\nCùng đồng đội tin tưởng bước vào Tâm Chi Tập Vực, kết nối lẫn nhau, trải lại cuộc chiến với ác mộng.\nTự do chọn Cộng Hưởng Giả, quay về giấc mơ vĩnh dạ, lần này thử thách sẽ khác. Với sức mạnh Liên Mộng Dung Giác, hãy đối mặt lại ác mộng vĩnh dạ!""\n""Vĩnh Dạ Tái Hiện"" sẽ mở khóa sau khi hoàn thành nhiệm vụ Triều Tịch ""Ám Dạ Khấu Hưởng Bạch Trú Chi Môn"".\nVĩnh Dạ Tái Hiện gồm 6 màn chơi, hoàn thành thử thách tích điểm để nhận phần thưởng phong phú.\n\n[Giấc Mơ Ghép Nối]\nTham gia ""Phong Tỏa Dị Mộng"", ""Vĩnh Dạ Tái Hiện"" và nhiệm vụ ""Ám Dạ Khấu Hưởng Bạch Trú Chi Môn"" để nhận ""Giấc Mơ Ghép Nối"".\nMỗi khi thu thập đủ số lượng nhất định sẽ nhận phần thưởng mốc tương ứng.\n""Giấc Mơ Ghép Nối"" là phần thưởng thường trú của sự kiện.\n\n[Phần Thưởng Giới Hạn]\nTrong thời gian giới hạn, hoàn thành mục tiêu nhiệm vụ trong ""Phần Thưởng Giới Hạn"" để nhận phần thưởng phong phú bao gồm vũ khí 4 sao giới hạn ""Tâm Chi Mạo"" và hình chiếu vũ khí giới hạn ""Hình Chiếu - Tâm Chi Mạo"".\n\n[Lưu ý]\nPhần thưởng giới hạn sẽ đóng sau khi hết thời gian giới hạn, Lữ Khách vẫn có thể tiếp tục tham gia sự kiện để nhận phần thưởng thường trú."
+lang_multi_text.db,MultiText,HelpText_132_Title,【失序梦途】说明,Somnium Labyrinth,Hướng dẫn [Hành Trình Mộng Loạn]
+lang_multi_text.db,MultiText,HelpText_133_Content,"【活动简介】
+深梦中的列车猛然脱轨，通向幻境的大门霎时洞开。
+那漆黑的身影说道：当整个世界入梦，夜将永不完结。
+你挣扎着醒来，试图从破碎的梦境中拼凑出昔日的现实......
+幸而在这无光的暗夜中，依然有一抹白光照亮前路，引导你回正列车，链接起梦中迷失的同伴，向混沌最深处的梦魇进发。
+
+【参与条件】	
+联觉等级达到17级。
+
+【深梦历程】	
+活动中，漂泊者将协助白猫唤醒陷入深梦的共鸣者，协助其摆脱梦魇，并在旅途中不断深入梦境，发现梦魇的真相。
+活动共分为6个梦境，需要依次推进探索，探索完成可获取对应奖励。
+
+【异梦封锁】	
+梦魇入侵了世界，在多个区域侵扰现实。漂泊者需前往各个区域，利用白猫给予的能力「盈梦速行」来解除异常。
+「异梦封锁」将在完成「深梦历程：山水与六贝币」后解锁。
+活动分为6个关卡，完成挑战可获取对应奖励。
+
+【永夜重现】	
+“湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。
+自由选择共鸣者，回归永夜之梦，而这一次，你面对的挑战将有所不同。在【联梦融觉】能力的加持下，重面永夜的梦魇吧！”
+「永夜重现」将在完成潮汐任务「暗夜叩响白昼之门」后解锁。
+永夜重现共有6个关卡，完成积分挑战可获得丰厚的奖励。
+
+【拼凑的梦】	
+参与「异梦封锁」、「永夜重现」以及任务「暗夜叩响白昼之门」可获得「拼凑的梦」。
+每收集一定数量即可获取对应档位的奖励。
+「拼凑的梦」为活动常驻可获取奖励。
+
+【限时奖励】	
+限时期间内完成「限时奖励」中的任务目标，可获得包括限定4星武器「心之锚」、限定武器投影「投影·心之锚」在内的丰厚奖励。
+
+【活动提示】	
+限时奖励将在限时结束后关闭，漂泊者届时仍可继续参与活动获取常驻奖励。","[About]
+A train crashes from the dreamscape into reality, ripping open a gateway to the realm of illusions.
+A looming shadow greets you with a grim prophecy: the world will succumb to this nightmare, and night will reign eternal.
+You struggle to awaken from this terrifying vision, desperately clinging to shreds of reality left in the shattered dreams...
+Thankfully, a white cat appears and guides you back on track, helping you find the lost allies trapped in the realm of dreams. Together, you battle against the darkest terrors of chaos.
+
+[Eligibility]
+Reach Union Level 17.
+
+[Dreamscape Odyssey]
+Join the strange white cat in rescuing your Resonator companions from their Dreamscapes. Together, you will delve deep into the Somnoire to uncover the truth behind the nightmares. Each of the 6 Dreamscapes offers unique rewards upon completion.
+
+
+[Rift Runner]
+Nightmares have torn through the veil of reality, wreaking havoc across the world. It's down to you to restore the crumbling order to the land, with the mystic boon of Illusive Sprint received from the strange white cat.
+Compete ""Dreamscape Odyssey: The Mountain and Six Credits"" to unlock ""Rift Runner.""
+Each of the 6 challenge stages offers unique rewards upon completion.
+
+[Nightmare Revisits]
+The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare. Fight the Black Cat again with Resonators of your choice. This time, the combat challenge will feature new exciting twists. Use the power of Dream Link to gain an upper hand!
+Complete ""When the Night Knocks"" to unlock ""Nightmare Revisits.""
+Each of the 6 challenge stages offers unique rewards upon completion.
+
+[Dream Shards]
+Complete Rift Runner, Nightmare Revisits, and the quest ""When the Night Knocks"" to earn Dream Shards.
+Collect the required quantities of Dream Shards to unlock the corresponding milestone rewards.
+Dream Shards are obtainable at any time by participating in the event.
+
+[Limited-Time Rewards]
+Complete the Limited-Time Rewards objectives to earn exclusive rewards, including the Featured 4-Star Weapon ""Somnoire Anchor"" and Featured Weapon Projection ""Projection: Somnoire Anchor.""
+
+[Tips]
+The Limited-Time Rewards objectives will expire when the event ends, but you can continue challenging the stages afterward to earn the standard rewards.","[Giới thiệu sự kiện]\nĐoàn tàu trong giấc mơ sâu đột ngột trật đường ray, cánh cửa dẫn đến cõi ảo mộng bừng mở.\nBóng đen ấy cất lời: Khi cả thế giới chìm vào giấc mơ, đêm sẽ không bao giờ kết thúc.\nBạn vùng vẫy tỉnh dậy, cố gắng ghép nối lại hiện thực ngày xưa từ những mảnh mơ vỡ vụn...\nMay thay, trong đêm tối không ánh sáng này, vẫn có một vệt sáng trắng soi đường, dẫn bạn trở lại đoàn tàu, kết nối những đồng đội lạc lối trong mơ, tiến về ác mộng nơi sâu thẳm nhất của hỗn loạn.\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 17.\n\n[Hành Trình Mộng Sâu]\nTrong sự kiện, Lữ Khách sẽ hỗ trợ mèo trắng đánh thức các Cộng Hưởng Giả bị mắc kẹt trong giấc mơ sâu, giúp họ thoát khỏi ác mộng, đồng thời đi sâu hơn vào thế giới mộng cảnh để khám phá sự thật về ác mộng.\nSự kiện chia thành 6 cõi mộng, cần khám phá lần lượt, hoàn thành khám phá để nhận phần thưởng tương ứng.\n\n[Phong Tỏa Dị Mộng]\nÁc mộng xâm nhập thế giới, quấy nhiễu hiện thực tại nhiều khu vực. Lữ Khách cần đến các khu vực, sử dụng năng lực ""Doanh Mộng Tốc Hành"" mà mèo trắng ban cho để giải trừ bất thường.\n""Phong Tỏa Dị Mộng"" sẽ mở khóa sau khi hoàn thành ""Hành Trình Mộng Sâu: Sơn Thủy Dữ Lục Bối Tệ"".\nSự kiện gồm 6 màn chơi, hoàn thành thử thách để nhận phần thưởng tương ứng.\n\n[Vĩnh Dạ Tái Hiện]\n""Bóng khổng lồ trong hồ đôi mắt rực cháy, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...\nCùng đồng đội tin tưởng bước vào Tâm Chi Tập Vực, kết nối lẫn nhau, trải lại cuộc chiến với ác mộng.\nTự do chọn Cộng Hưởng Giả, quay về giấc mơ vĩnh dạ, lần này thử thách sẽ khác. Với sức mạnh Liên Mộng Dung Giác, hãy đối mặt lại ác mộng vĩnh dạ!""\n""Vĩnh Dạ Tái Hiện"" sẽ mở khóa sau khi hoàn thành nhiệm vụ Triều Tịch ""Ám Dạ Khấu Hưởng Bạch Trú Chi Môn"".\nVĩnh Dạ Tái Hiện gồm 6 màn chơi, hoàn thành thử thách tích điểm để nhận phần thưởng phong phú.\n\n[Giấc Mơ Ghép Nối]\nTham gia ""Phong Tỏa Dị Mộng"", ""Vĩnh Dạ Tái Hiện"" và nhiệm vụ ""Ám Dạ Khấu Hưởng Bạch Trú Chi Môn"" để nhận ""Giấc Mơ Ghép Nối"".\nMỗi khi thu thập đủ số lượng nhất định sẽ nhận phần thưởng mốc tương ứng.\n""Giấc Mơ Ghép Nối"" là phần thưởng thường trú của sự kiện.\n\n[Phần Thưởng Giới Hạn]\nTrong thời gian giới hạn, hoàn thành mục tiêu nhiệm vụ trong ""Phần Thưởng Giới Hạn"" để nhận phần thưởng phong phú bao gồm vũ khí 4 sao giới hạn ""Tâm Chi Mạo"" và hình chiếu vũ khí giới hạn ""Hình Chiếu - Tâm Chi Mạo"".\n\n[Lưu ý]\nPhần thưởng giới hạn sẽ đóng sau khi hết thời gian giới hạn, Lữ Khách vẫn có thể tiếp tục tham gia sự kiện để nhận phần thưởng thường trú."
+lang_multi_text.db,MultiText,HelpText_133_Title,【失序梦途】说明,Somnium Labyrinth,Hướng dẫn [Hành Trình Mộng Loạn]
+lang_multi_text.db,MultiText,HelpText_134_Content,梦魇入侵了世界，在多个区域侵扰现实。漂泊者需前往各个区域，利用白猫给予的能力【盈梦速行】来解除异常。,"Nightmares have torn through the veil of reality, wreaking havoc across the world. It's down to you to restore the crumbling order to the land, with the mystic boon of Illusive Sprint received from the strange white cat.","Ác mộng xâm nhập thế giới, quấy nhiễu hiện thực tại nhiều khu vực. Lữ Khách cần đến các khu vực, sử dụng năng lực [Doanh Mộng Tốc Hành] mà mèo trắng ban cho để giải trừ bất thường."
+lang_multi_text.db,MultiText,HelpText_134_Title,【异梦封锁】说明,Rift Runner,Hướng dẫn [Phong Tỏa Dị Mộng]
+lang_multi_text.db,MultiText,HelpText_135_Content,"活动中，漂泊者将协助白猫唤醒陷入深梦的共鸣者，协助其摆脱梦魇，并在旅途中不断深入梦境，发现梦魇的真相。
+活动共分为6个梦境，需要依次推进探索，探索完成可获取对应奖励。","Join the strange white cat in rescuing your Resonator companions from their Dreamscapes. Together, you will delve deep into the Somnoire to uncover the truth behind the nightmares.
+Each of the 6 Dreamscapes offers unique rewards upon completion.","Trong sự kiện, Lữ Khách sẽ hỗ trợ mèo trắng đánh thức các Cộng Hưởng Giả bị mắc kẹt trong giấc mơ sâu, giúp họ thoát khỏi ác mộng, đồng thời đi sâu hơn vào thế giới mộng cảnh để khám phá sự thật về ác mộng.\nSự kiện chia thành 6 cõi mộng, cần khám phá lần lượt, hoàn thành khám phá để nhận phần thưởng tương ứng."
+lang_multi_text.db,MultiText,HelpText_135_Title,【深梦历程】 说明,Dreamscape Odyssey,Hướng dẫn [Hành Trình Mộng Sâu]
+lang_multi_text.db,MultiText,HelpText_136_Content,"【活动简介】
+“湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。
+自由选择共鸣者，回归永夜之梦，而这一次，你面对的挑战将有所不同。在「联梦融觉」能力的加持下，重面永夜的梦魇吧！”
+永夜重现共有6个关卡，完成积分挑战可获得丰厚的奖励。
+
+【编队规则】
+在永夜重现中，需要选择1名【主战角色】与2名【助战角色】组成编队进入关卡挑战。
+在关卡中，只能操控【主战角色】，2名【助战角色】将在场上协助战斗。
+本期玩法开放使用的共鸣者：漂泊者（衍射）、安可、吟霖、长离、折枝、椿、灯灯。
+
+【联梦融觉】
+在永夜重现中，可以使用【联梦融觉】：当联梦能量充满时，通过连续释放队内角色的共鸣解放，可进入融觉领域。融觉领域持续时间内：-队内角色攻击、暴击、暴击伤害、攻击速度、移动速度大幅提高，共鸣技能冷却大幅降低；-形成凝滞区域并使领域内的敌人瘫痪；-触发时吸附周围的敌人到共鸣者附近；-领域结束时，全队获得持续恢复生命的效果。
+
+【永夜凶铃】
+保证【深梦电话】不被破坏，直至击败所有梦魇。
+积分获取规则：剩余时间*时间系数+【深梦电话】完整度*完整度系数+通关波次得分。
+在每个波次的倒计时内击败所有敌人将获得额外时间积分。
+
+【梦魇再临】
+消灭所有深层梦魇。
+积分获取规则：剩余时间*时间系数+通关波次得分。
+在每个波次的倒计时内击败所有敌人将获得额外时间积分。
+
+【奖励规则】
+常驻奖励：积分挑战奖励常驻开放，完成积分目标即可获得丰厚的奖励","[About]
+The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare.
+
+Revisit the epic battle with Resonators of your choice. Use the power of Dream Link to gain an upper hand in this fight!
+Each of the 6 challenge stages offers unique rewards upon completion.
+
+[Team Comp]
+Select 1 Main Resonator and 2 Support Resonators to start the challenge.
+You will only control the Main Resonator, while the Support Resonators will stay on the battlefield and automatically fight alongside you.
+During this event season, Resonators available include: Rover-Spectro, Encore, Yinlin, Changli, Zhezhi, Camellya, and Lumi.
+
+[Dream Link]
+""Dream Link"" is available in Nightmare Revisits challenges:
+When your Sync Energy is full, cast every team member's Resonance Liberations in a row to activate the Link Field.
+When the Link Field is active:
+1. All team members' ATK, Crit. Rate, Crit. DMG, Attack Speed, and Movement Speed are significantly boosted, while Resonance Skill Cooldowns are greatly reduced.
+2. A Stagnation Zone is generated, immobilizing enemies within the Link Field.
+3. Nearby enemies are pulled toward your Resonators upon activation.
+4. When the Link Field ends, your team gains continuous HP regeneration.
+
+[Sinister Calling]
+Defend the [Dreamscape Telephone] until you defeat all the nightmares.
+Points are calculated as follows: Remaining Time × Time Coefficient + [Dreamscape Telephone] Integrity × Integrity Coefficient + Points earned from defeating enemies.
+Eliminate all enemies in a wave before the countdown ends to earn extra Time points.
+
+[Terror Reborn]
+Eliminate all the deep dream nightmares.
+Points are calculated as follows: Remaining Time × Time Coefficient + Points earned from defeating enemies.
+Eliminate all enemies in a wave before the countdown ends to earn extra Time points.
+
+[Rewards]
+The point challenges are available permanently. Reach milestone goals to earn a variety of rewards.","[Giới thiệu sự kiện]\n""Bóng khổng lồ trong hồ đôi mắt rực cháy, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...\nCùng đồng đội tin tưởng bước vào Tâm Chi Tập Vực, kết nối lẫn nhau, trải lại cuộc chiến với ác mộng.\nTự do chọn Cộng Hưởng Giả, quay về giấc mơ vĩnh dạ, lần này thử thách sẽ khác. Với sức mạnh Liên Mộng Dung Giác, hãy đối mặt lại ác mộng vĩnh dạ!""\nVĩnh Dạ Tái Hiện gồm 6 màn chơi, hoàn thành thử thách tích điểm để nhận phần thưởng phong phú.\n\n[Quy tắc biên đội]\nTrong Vĩnh Dạ Tái Hiện, cần chọn 1 [Nhân vật chủ lực] và 2 [Nhân vật hỗ trợ] để tạo đội vào thử thách.\nTrong màn chơi, chỉ có thể điều khiển [Nhân vật chủ lực], 2 [Nhân vật hỗ trợ] sẽ hỗ trợ chiến đấu trên sàn đấu.\nCộng Hưởng Giả khả dụng trong kỳ này: Lữ Khách (Quang Phổ), Encore, Ngâm Lâm, Trường Ly, Chiết Chi, Xuân, Đăng Đăng.\n\n[Liên Mộng Dung Giác]\nTrong Vĩnh Dạ Tái Hiện, có thể sử dụng [Liên Mộng Dung Giác]: Khi năng lượng liên mộng đầy, liên tục kích hoạt Giải Phóng Cộng Hưởng của các nhân vật trong đội để vào Dung Giác Lĩnh Vực. Trong thời gian Dung Giác Lĩnh Vực: - Tấn công, bạo kích, sát thương bạo kích, tốc độ tấn công, tốc độ di chuyển của toàn đội tăng mạnh, thời gian hồi Kỹ Năng Cộng Hưởng giảm đáng kể; - Tạo vùng ngưng trệ khiến kẻ địch trong lĩnh vực bị tê liệt; - Khi kích hoạt, hút kẻ địch xung quanh đến gần Cộng Hưởng Giả; - Khi lĩnh vực kết thúc, toàn đội nhận hiệu ứng hồi máu liên tục.\n\n[Vĩnh Dạ Hung Linh]\nBảo vệ [Điện Thoại Mộng Sâu] không bị phá hủy cho đến khi Đánh Bại tất cả ác mộng.\nQuy tắc tính điểm: Thời gian còn lại * Hệ số thời gian + Độ nguyên vẹn [Điện Thoại Mộng Sâu] * Hệ số nguyên vẹn + Điểm qua đợt.\nHạ Gục tất cả kẻ địch trong thời gian đếm ngược của mỗi đợt sẽ nhận thêm điểm thời gian.\n\n[Ác Mộng Tái Lâm]\nTiêu diệt tất cả ác mộng tầng sâu.\nQuy tắc tính điểm: Thời gian còn lại * Hệ số thời gian + Điểm qua đợt.\nHạ Gục tất cả kẻ địch trong thời gian đếm ngược của mỗi đợt sẽ nhận thêm điểm thời gian.\n\n[Quy tắc phần thưởng]\nPhần thưởng thường trú: Phần thưởng thử thách tích điểm mở thường trú, hoàn thành mục tiêu điểm để nhận phần thưởng phong phú."
+lang_multi_text.db,MultiText,HelpText_136_Title,【永夜重现】说明,Nightmare Revisits,Hướng dẫn [Vĩnh Dạ Tái Hiện]
+lang_multi_text.db,MultiText,HelpText_137_Content,"参与「异梦封锁」、「永夜重现」以及任务「暗夜叩响白昼之门」可获得「拼凑的梦」。
+每收集一定数量即可获取对应档位的奖励。
+「拼凑的梦」为活动常驻可获取奖励。","Complete Rift Runner, Nightmare Revisits, and the quest ""When the Night Knocks"" to earn Dream Shards.
+Collect the required quantities of Dream Shards to unlock the corresponding milestone rewards.
+Dream Shards are obtainable at any time by participating in the event.","Tham gia ""Phong Tỏa Dị Mộng"", ""Vĩnh Dạ Tái Hiện"" và nhiệm vụ ""Ám Dạ Khấu Hưởng Bạch Trú Chi Môn"" để nhận ""Giấc Mơ Ghép Nối"".\nMỗi khi thu thập đủ số lượng nhất định sẽ nhận phần thưởng mốc tương ứng.\n""Giấc Mơ Ghép Nối"" là phần thưởng thường trú của sự kiện."
+lang_multi_text.db,MultiText,HelpText_137_Title,【拼凑的梦】说明,Dream Shard,Hướng dẫn [Giấc Mơ Ghép Nối]
+lang_multi_text.db,MultiText,HelpText_138_Content,限时期间内完成「限时奖励」中的任务目标，可获得包括限定4星武器「心之锚」、限定武器投影「投影·心之锚」在内的丰厚奖励。,"Complete the Limited-Time Rewards objectives to earn exclusive rewards, including the Featured 4-Star Weapon ""Somnoire Anchor"" and Featured Weapon Projection ""Projection: Somnoire Anchor.""","Trong thời gian giới hạn, hoàn thành mục tiêu nhiệm vụ trong ""Phần Thưởng Giới Hạn"" để nhận phần thưởng phong phú bao gồm vũ khí 4 sao giới hạn ""Tâm Chi Mạo"" và hình chiếu vũ khí giới hạn ""Hình Chiếu - Tâm Chi Mạo""."
+lang_multi_text.db,MultiText,HelpText_138_Title,【限时奖励】说明,Limited-Time Rewards,Hướng dẫn [Phần Thưởng Giới Hạn]
+lang_multi_text.db,MultiText,HelpText_139_Content,"【活动简介】
+研究院正在实验一项技术，据称这项技术可以模拟出各种强大的敌人，在模拟领域中帮助战士们进行训练……
+
+【参与条件】
+联觉等级达到14级后开启。
+
+【活动规则】
+1、在【仿声战略Ⅱ】中，玩家可进入特殊的模拟领域，在特殊增益的加持下连续挑战多个强大的敌人。
+2、在完成挑战的过程中将逐步解锁更多的特殊增益，从而帮助玩家更好地完成后续挑战。
+3、挑战最后积分构成为怪物积分、时间积分和技术积分。
+     i、怪物积分为玩家在挑战中击败敌人获得。
+     ii、时间积分为玩家完成挑战剩余时间折算积分，击败敌人数量越多积分系数越高。
+     iii、技术积分为逆势回击和成功闪避触发时获得。
+
+【技巧评分】
+战斗操作会逐步提高技巧评分，成功闪避、闪避反击与逆势回击将大幅提升技巧评分，而受到攻击则会大幅降低技巧评分","[About]
+
+The Academy is experimenting with a new type of technology rumored to be capable of simulating powerful enemies to help with the troops' combat training...
+
+[Eligibility]
+
+Reach Union Level 14.
+
+[Event Rules]
+
+1. In Tactical Simulacra II, challenge waves of powerful enemies by using special buffs across different simulation domains.
+
+2. As you complete more challenges, more special buffs will be unlocked to aid you in taking on subsequent challenges.
+
+3. The results of each challenge consist of three parts: Monster Points, Time Points, and Technical Points.
+
+i. Monster Points are earned by defeating enemies in challenges.
+
+ii. Time Points are earned based on the time remaining when a challenge is completed. The more enemies that are defeated, the higher the point conversion factor.
+
+iii. Technical Points are earned for each successful Counterattack and Dodge triggered.
+
+[Combat Rank]
+Hitting the enemy steadily improves your Combat Rank, while successful Dodges, Dodge Counters, and Counterattacks provide a greater boost. However, getting hit significantly lowers your Combat Rank.","[Giới thiệu sự kiện]\nViện Nghiên Cứu đang thử nghiệm một công nghệ, được cho là có thể mô phỏng nhiều loại kẻ địch mạnh mẽ, giúp các chiến binh huấn luyện trong lĩnh vực mô phỏng...\n\n[Điều kiện tham gia]\nMở khóa sau khi cấp Liên Giác đạt 14.\n\n[Quy tắc sự kiện]\n1. Trong [Phỏng Thanh Chiến Lược II], người chơi có thể vào lĩnh vực mô phỏng đặc biệt, dưới sự hỗ trợ của các tăng cường đặc biệt, liên tục thử thách nhiều kẻ địch mạnh.\n2. Trong quá trình hoàn thành thử thách, sẽ dần mở khóa thêm các tăng cường đặc biệt, giúp người chơi hoàn thành tốt hơn các thử thách tiếp theo.\n3. Điểm cuối cùng gồm: điểm quái vật, điểm thời gian và điểm kỹ thuật.\n     i. Điểm quái vật: nhận khi Đánh Bại kẻ địch trong thử thách.\n     ii. Điểm thời gian: quy đổi từ thời gian còn lại khi hoàn thành thử thách, Đánh Bại càng nhiều kẻ địch thì hệ số điểm càng cao.\n     iii. Điểm kỹ thuật: nhận khi kích hoạt Phản Công và Né Tránh thành công.\n\n[Đánh giá kỹ thuật]\nThao tác chiến đấu sẽ dần nâng cao điểm kỹ thuật. Né Tránh thành công, phản đòn khi né và Phản Công sẽ tăng mạnh điểm kỹ thuật, trong khi bị tấn công sẽ giảm mạnh điểm kỹ thuật."
+lang_multi_text.db,MultiText,HelpText_139_Title,【仿声战略Ⅱ】活动说明,About Tactical Simulacra II,Hướng dẫn sự kiện [Phỏng Thanh Chiến Lược II]
+lang_multi_text.db,MultiText,HelpText_13_Content,"<color=yellow>共鸣技能：玄武壁守</color>
+释放后，造成一定范围的湮灭反应伤害，并获得1点【殇能】，并生成3片【玄武庇甲】减免所受伤害，持续时间结束时，没有破碎的【玄武庇甲】将转化为【殇能】。","<color=yellow>Resonance Skill: Black Tortoise Wall Guard</color>
+After Resonance Skill is released, deals AOE Havoc DMG, gaining 1 point of Shangneng and generating 3 [Black Tortoise Armor] to reduce the damage taken. When the effect ends, unshattered [Black Tortoise Armor] will be transformed into [Shangneng].","<color=yellow>Kỹ Năng Cộng Hưởng: Huyền Vũ Bích Thủ</color>\nSau khi kích hoạt, gây sát thương hủy diệt phạm vi, nhận 1 điểm [Thương Năng], đồng thời tạo 3 mảnh [Huyền Vũ Tý Giáp] giảm sát thương nhận vào. Khi hết thời gian hiệu lực, [Huyền Vũ Tý Giáp] chưa bị phá sẽ chuyển hóa thành [Thương Năng]."
+lang_multi_text.db,MultiText,HelpText_13_Title,技能教学-桃祈,Skill Tutorial: Taoqi,Hướng dẫn kỹ năng - Đào Kỳ
+lang_multi_text.db,MultiText,HelpText_143_Content,"【参与条件】
+联觉等级达到8级
+
+【活动规则】
+活动开启后每天服务器时间04:00登录游戏即可领取签到奖励；
+活动结束后，存在已完成签到但未领取奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Eligibility]
+Reach Union Level 8
+
+[Event Rules]
+After the event starts, log in to the game to claim daily sign-in rewards. Sign-in records refresh daily at 04:00 server time.
+After the event ends, any unclaimed sign-in rewards you earned will be reissued via in-game mail within 30 days upon your next login.","[Điều kiện tham gia]\nCấp Liên Giác đạt 8\n\n[Quy tắc sự kiện]\nSau khi sự kiện bắt đầu, đăng nhập game sau 04:00 giờ server mỗi ngày để nhận thưởng điểm danh;\nSau khi sự kiện kết thúc, nếu đã điểm danh nhưng chưa nhận thưởng, đăng nhập game trong vòng 30 ngày sẽ được gửi bù qua thư."
+lang_multi_text.db,MultiText,HelpText_143_Title,梦华赠礼活动说明,Gifts of Fleeting Dreams,Hướng dẫn sự kiện Quà Tặng Mộng Hoa
+lang_multi_text.db,MultiText,HelpText_145_Content,"【活动简介】
+繁星在你手中光辉四溢，正随你前行至更加遥远的彼方。
+它们珍藏着你的赠礼，也想要回予你温柔的光芒。
+
+【参与条件】
+联觉等级达到14级。
+
+【活动规则】
+本活动共将开放4个类别的养成任务，分别为【角色养成-伴星同行】【武器养成-万端成器】【声骸养成-声弦复音】【技能养成-共鸣协奏】，完成活动任务即可领取丰厚的奖励。
+活动结束后，若存在可领取但未领取的奖励时，在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[About]
+Starlight streams through your fingers as you mount the expedition into the depths of the universe.
+The gentle twinkles silently chant a song of gratitude, a tribute to the treasured gifts you once bestowed upon them.
+
+[Eligiblity]
+Reach Union Level 14.
+
+[Details]
+This is a leveling event where you will receive awesome rewards for reaching the milestones in 4 themed leveling activities: Resonator leveling - ""Stellar Journey,"" weapon leveling - ""Cosmical Forge,"" Echo leveling - ""Consonant Echoes,"" and skill leveling - ""Unison Resonance.""
+All unclaimed rewards will be sent via Mail the next time you log in within 30 days after the event ends.","[Giới thiệu]\nNhững vì sao tỏa sáng rực rỡ trong tay bạn, cùng bạn tiến về phương xa.\nChúng trân trọng món quà bạn tặng, và cũng muốn đáp lại bạn bằng ánh sáng dịu dàng.\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 14.\n\n[Luật chơi]\nSự kiện sẽ mở 4 loại nhiệm vụ bồi dưỡng: [Bồi dưỡng nhân vật - Đồng Hành Cùng Sao], [Bồi dưỡng vũ khí - Vạn Vật Thành Khí], [Bồi dưỡng Thanh Hài - Thanh Huyền Phục Âm], [Bồi dưỡng kỹ năng - Cộng Hưởng Hiệp Tấu]. Hoàn thành nhiệm vụ để nhận phần thưởng hậu hĩnh.\nSau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, hãy đăng nhập trong vòng 30 ngày để nhận qua thư."
+lang_multi_text.db,MultiText,HelpText_145_Title,【繁星巡洄】活动说明,[Parade of Stars] Event,Hướng dẫn sự kiện [Sao Sáng Tuần Hoàn]
+lang_multi_text.db,MultiText,HelpText_146_Content,"【服饰】
+通过切换服饰，可以改变共鸣者的外观。
+部分特殊的服饰套装中含有专属的武器投影，除角色外还可以同时改变武器的外观。","[Outfit]
+Outfits are alternative appearances for playable Resonators. Some Outfits include special Weapon Projections that can change the weapon's appearance.","[Trang phục]\nThay đổi trang phục để thay đổi ngoại hình của Cộng Hưởng Giả.\nMột số bộ trang phục đặc biệt có kèm hình chiếu vũ khí riêng, ngoài nhân vật còn có thể thay đổi cả ngoại hình vũ khí."
+lang_multi_text.db,MultiText,HelpText_146_Title,服饰,Outfit,Trang phục
+lang_multi_text.db,MultiText,HelpText_147_Content,"【活动简介】
+近期，华胥研究院内部的今涯论坛上流行着一个来路不明的模拟战斗程序。研究员骊珠作为资深论坛人士，似乎对此有话要说……
+
+【参与条件】
+联觉等级达到40级后开启。
+
+【活动规则】
+1、在【钳形激战无双版】中，玩家将使用两支小队分别进入上下半的模拟战场，在增益词条的加持下挑战多波强大的敌人。
+2、在由程序模拟的战场中，既存在全局生效的增益效果，也存在由不同队伍独享的增益效果。
+3、关卡区根据敌人波次数，分为有限关和无限关：
+i、在有限关中，只有上半场超时或消灭全部波次后才可进入下半场。
+ii、在无限关中，只有上半场时间耗尽才可进入下半场。
+4、有限关的挑战积分为怪物积分和时间积分的总和，无限关的挑战积分仅为怪物积分：
+i、怪物积分为玩家在挑战中击败敌人获得。
+ii、时间积分为玩家完成挑战剩余时间折算积分。","[About]
+
+A mysterious combat simulation program has gone viral on the Academy's Huaxu Hive. Researcher Lizhu, an active user, seems to have insights on this intriguing program...
+
+[Eligibility]
+
+Reach Union Level 40.
+
+[Event Rules]
+
+1. In Pincer Maneuver Warriors, challenge waves of powerful enemies by controlling two teams with special buffs across two separate simulated battlefields.
+
+2. The simulated battlefield offers buffs that either apply to both teams or are exclusive to one team.
+
+3. There are 4 stages with limited enemy waves and 1 stage with infinite waves.
+
+i. In stages with limited enemy waves, you can only proceed to the second half of the battle when time runs out or after eliminating all enemies.
+
+ii. In the stage with infinite enemy waves, you can only proceed to the second half when time runs out.
+
+4. Points earned in stages with limited enemy waves include both Time Points and Monster Points, while Points earned in the stage with infinite waves include only Monster Points.
+
+i. Monster Points are earned by defeating enemies in challenges.
+
+ii. Time Points are earned based on the time left when a challenge is completed.","[Giới thiệu]\nGần đây, trên diễn đàn Kim Nhai nội bộ Viện Nghiên Cứu Hoa Tư xuất hiện một chương trình mô phỏng chiến đấu không rõ nguồn gốc. Nghiên cứu viên Ly Châu, một thành viên kỳ cựu của diễn đàn, dường như có điều muốn nói...\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 40.\n\n[Luật chơi]\n1. Trong [Kìm Kích Vô Song], người chơi sử dụng hai đội vào nửa trên và nửa dưới chiến trường mô phỏng, thử thách nhiều đợt kẻ địch mạnh mẽ với sự hỗ trợ của các hiệu ứng tăng cường.\n2. Trong chiến trường mô phỏng, có cả hiệu ứng tăng cường toàn cục và hiệu ứng riêng cho từng đội.\n3. Các màn chơi chia thành chế độ hữu hạn và vô hạn theo số đợt kẻ địch:\n    i. Ở chế độ hữu hạn, chỉ khi hết giờ nửa trên hoặc tiêu diệt tất cả các đợt mới được vào nửa dưới.\n    ii. Ở chế độ vô hạn, chỉ khi hết giờ nửa trên mới được vào nửa dưới.\n4. Điểm thử thách chế độ hữu hạn gồm tổng điểm quái và điểm thời gian, chế độ vô hạn chỉ có điểm quái:\n    i. Điểm quái được tính khi Đánh Bại kẻ địch trong thử thách.\n    ii. Điểm thời gian được quy đổi từ thời gian còn lại sau khi hoàn thành thử thách."
+lang_multi_text.db,MultiText,HelpText_147_Title,钳形激战无双版Ⅰ说明,Pincer Maneuver Warriors I,Hướng dẫn Kìm Kích Vô Song Ⅰ
+lang_multi_text.db,MultiText,HelpText_148_Content,"【活动简介】
+近期，在华胥研究院内部的今涯论坛上流行的模拟战斗程序又迎来了一波更新……
+
+【参与条件】
+联觉等级达到40级后开启。
+
+【活动规则】
+1、在【钳形激战无双版】中，玩家将使用两支小队分别进入上下半的模拟战场，在增益词条的加持下挑战多波强大的敌人。
+2、在由程序模拟的战场中，既存在全局生效的增益效果，也存在由不同队伍独享的增益效果。
+3、关卡区根据敌人波次数，分为有限关和无限关：
+    i、在有限关中，只有上半场超时或消灭全部波次后才可进入下半场。
+    ii、在无限关中，只有上半场时间耗尽才可进入下半场。
+4、有限关的挑战积分为怪物积分和时间积分的总和，无限关的挑战积分仅为怪物积分：
+     i、怪物积分为玩家在挑战中击败敌人获得。
+     ii、时间积分为玩家完成挑战剩余时间折算积分。","[About]
+
+It seems that someone has just updated the mysterious combat simulation program that's going viral on the Huaxu Hive at the Academy...
+
+[Eligibility]
+
+Reach Union Level 40.
+
+[Event Rules]
+
+1. In Pincer Maneuver Warriors, challenge waves of powerful enemies by controlling two teams with special buffs across two separate simulated battlefields.
+
+2. The simulated battlefield offers buffs that either apply to both teams or are exclusive to one team.
+
+3. There are 4 stages with limited enemy waves and 1 stage with infinite waves.
+
+i. In stages with limited enemy waves, you can only proceed to the second half of the battle when time runs out or after eliminating all enemies.
+
+ii. In the stage with infinite enemy waves, you can only proceed to the second half when time runs out.
+
+4. Points earned in stages with limited enemy waves include both Time Points and Monster Points, while Points earned in the stage with infinite waves include only Monster Points.
+
+i. Monster Points are earned by defeating enemies in challenges.
+
+ii. Time Points are earned based on the time left when a challenge is completed.","[Giới thiệu]\nGần đây, chương trình mô phỏng chiến đấu đang thịnh hành trên diễn đàn Kim Nhai của Viện Nghiên Cứu Hoa Tư vừa được cập nhật thêm...\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 40.\n\n[Luật chơi]\n1. Trong [Kìm Kích Vô Song], người chơi sử dụng hai đội vào nửa trên và nửa dưới chiến trường mô phỏng, thử thách nhiều đợt kẻ địch mạnh mẽ với sự hỗ trợ của các hiệu ứng tăng cường.\n2. Trong chiến trường mô phỏng, có cả hiệu ứng tăng cường toàn cục và hiệu ứng riêng cho từng đội.\n3. Các màn chơi chia thành chế độ hữu hạn và vô hạn theo số đợt kẻ địch:\n    i. Ở chế độ hữu hạn, chỉ khi hết giờ nửa trên hoặc tiêu diệt tất cả các đợt mới được vào nửa dưới.\n    ii. Ở chế độ vô hạn, chỉ khi hết giờ nửa trên mới được vào nửa dưới.\n4. Điểm thử thách chế độ hữu hạn gồm tổng điểm quái và điểm thời gian, chế độ vô hạn chỉ có điểm quái:\n    i. Điểm quái được tính khi Đánh Bại kẻ địch trong thử thách.\n    ii. Điểm thời gian được quy đổi từ thời gian còn lại sau khi hoàn thành thử thách."
+lang_multi_text.db,MultiText,HelpText_148_Title,钳形激战无双版Ⅱ说明,Pincer Maneuver Warriors II,Hướng dẫn Kìm Kích Vô Song Ⅱ
+lang_multi_text.db,MultiText,HelpText_149_Content,"【活动简介】
+研究院的今涯论坛上流行着一个来路不明的模拟战斗程序。前些时候，冲浪高手骊珠为了专心做研究，已经将珍贵的论坛账号托付给你了。看来为了骊珠的课题能够安然收尾，还得再替她保管一阵子……
+
+【参与条件】
+联觉等级达到35级后开启。
+
+【活动规则】
+1、在【钳形激战无双版】中，玩家将使用两支小队分别进入上下半的模拟战场，在增益词条的加持下挑战多波强大的敌人。
+2、在由程序模拟的战场中，既存在全局生效的增益效果，也存在由不同队伍独享的增益效果。
+3、关卡区根据敌人波次数，分为有限关和无限关：
+    i、在有限关中，只有上半场超时或消灭全部波次后才可进入下半场。
+    ii、在无限关中，只有上半场时间耗尽才可进入下半场。
+4、有限关的挑战积分为怪物积分和时间积分的总和，无限关的挑战积分仅为怪物积分：
+     i、怪物积分为玩家在挑战中击败敌人获得，完成每一波次后均会产生积分。
+     ii、时间积分为玩家完成挑战剩余时间折算积分。","[About]
+ 
+It seems that someone has just updated the mysterious combat simulation program that's going viral on the Huaxu Hive at the Academy. Earlier back, Lizhu, who used to be extremely active online, trusted you with her Huaxu Hive account to stay focused. To ensure her research is completed without interruption, perhaps you need to keep her account with you for a little longer...
+ 
+[Eligibility]
+
+Reach Union Level 35.
+ 
+[Event Rules]
+ 
+1. In Pincer Maneuver Warriors, challenge waves of powerful enemies by controlling two teams with special buffs across two separate simulated battlefields.
+ 
+2. The simulated battlefield offers buffs that either apply to both teams or are exclusive to one team.
+ 
+3. There are different stages with limited enemy waves or with infinite waves.
+ 
+i. In stages with limited enemy waves, you can only proceed to the second half of the battle when time runs out or after eliminating all enemies.
+ 
+ii. In the stage with infinite enemy waves, you can only proceed to the second half when time runs out.
+ 
+4. Points earned in stages with limited enemy waves include both Time Points and Monster Points, while Points earned in the stage with infinite waves include only Monster Points.
+ 
+i. Monster Points are earned by defeating enemies in challenges, with Points awarded for each wave defeated.
+
+ii. Time Points are earned based on the time left when a challenge is completed.","[Giới thiệu]\nTrên diễn đàn Kim Nhai của Viện Nghiên Cứu có một chương trình mô phỏng chiến đấu không rõ nguồn gốc đang thịnh hành. Trước đó, cao thủ lướt diễn đàn Ly Châu đã giao tài khoản diễn đàn quý giá cho bạn để tập trung nghiên cứu. Có vẻ để đề tài của Ly Châu được hoàn thành suôn sẻ, bạn cần giữ hộ thêm một thời gian nữa...\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 35.\n\n[Luật chơi]\n1. Trong [Kìm Kích Vô Song], người chơi sử dụng hai đội vào nửa trên và nửa dưới chiến trường mô phỏng, thử thách nhiều đợt kẻ địch mạnh mẽ với sự hỗ trợ của các hiệu ứng tăng cường.\n2. Trong chiến trường mô phỏng, có cả hiệu ứng tăng cường toàn cục và hiệu ứng riêng cho từng đội.\n3. Các màn chơi chia thành chế độ hữu hạn và vô hạn theo số đợt kẻ địch:\n    i. Ở chế độ hữu hạn, chỉ khi hết giờ nửa trên hoặc tiêu diệt tất cả các đợt mới được vào nửa dưới.\n    ii. Ở chế độ vô hạn, chỉ khi hết giờ nửa trên mới được vào nửa dưới.\n4. Điểm thử thách chế độ hữu hạn gồm tổng điểm quái và điểm thời gian, chế độ vô hạn chỉ có điểm quái:\n     i. Điểm quái được tính khi Đánh Bại kẻ địch trong thử thách, mỗi đợt hoàn thành đều tích điểm.\n     ii. Điểm thời gian được quy đổi từ thời gian còn lại sau khi hoàn thành thử thách."
+lang_multi_text.db,MultiText,HelpText_149_Title,钳形激战无双版Ⅲ说明,Pincer Maneuver Warriors III,Hướng dẫn Kìm Kích Vô Song Ⅲ
+lang_multi_text.db,MultiText,HelpText_14_Content,"<color=yellow>共鸣解放：时停御斩</color>
+发动后，会扩散出【玄武冥域】，造成一定范围的湮灭反应伤害与减速，同时消耗掉所有【殇能】，并根据消耗【殇能】的点数恢复全队血量。","<color=yellow>Resonance Liberation: Time Stop Slash</color>
+After Resonance Liberation is released, causes AOE Havoc DMG and AOE Slow Down effect and consumes all [Shangneng]. Restores all party members' HP based on the consumed points of Shangneng.","<color=yellow>Giải Phóng Cộng Hưởng: Thời Ngưng Ngự Trảm</color>\nSau khi phát động, lan tỏa [Huyền Vũ Minh Vực], gây sát thương Hủy Diệt diện rộng và làm chậm, đồng thời tiêu hao toàn bộ [Thương Năng], hồi phục máu cho cả đội dựa trên số [Thương Năng] đã tiêu hao."
+lang_multi_text.db,MultiText,HelpText_14_Title,技能教学-桃祈,Skill Tutorial: Taoqi,Hướng dẫn kỹ năng - Đào Kỳ
+lang_multi_text.db,MultiText,HelpText_150_Content,"【活动简介】
+研究院的今涯论坛上流行着一个来路不明的模拟战斗程序。前些时候，冲浪高手骊珠为了专心做研究，已经将珍贵的论坛账号托付给你了。看来为了骊珠的课题能够安然收尾，还得再替她保管一阵子……
+
+【参与条件】
+联觉等级达到35级后开启。
+
+【活动规则】
+1、在【钳形激战无双版】中，玩家将使用两支小队分别进入上下半的模拟战场，在增益词条的加持下挑战多波强大的敌人。
+2、在由程序模拟的战场中，既存在全局生效的增益效果，也存在由不同队伍独享的增益效果。
+3、关卡区根据敌人波次数，分为有限关和无限关：
+    i、在有限关中，只有上半场超时或消灭全部波次后才可进入下半场。
+    ii、在无限关中，只有上半场时间耗尽才可进入下半场。
+4、有限关的挑战积分为怪物积分和时间积分的总和，无限关的挑战积分仅为怪物积分：
+     i、怪物积分为玩家在挑战中击败敌人获得，完成每一波次后均会产生积分。
+     ii、时间积分为玩家完成挑战剩余时间折算积分。","[About]
+ 
+It seems that someone has just updated the mysterious combat simulation program that's going viral on the Huaxu Hive at the Academy. Earlier back, Lizhu, who used to be extremely active online, trusted you with her Huaxu Hive account to stay focused. To ensure her research is completed without interruption, perhaps you need to keep her account with you for a little longer...
+ 
+[Eligibility]
+ 
+Reach Union Level 35.
+ 
+[Event Rules]
+ 
+1. In Pincer Maneuver Warriors, challenge waves of powerful enemies by controlling two teams with special buffs across two separate simulated battlefields.
+ 
+2. The simulated battlefield offers buffs that either apply to both teams or are exclusive to one team.
+ 
+3. There are different stages with limited enemy waves or with infinite waves.
+ 
+i. In stages with limited enemy waves, you can only proceed to the second half of the battle when time runs out or after eliminating all enemies.
+ 
+ii. In the stage with infinite enemy waves, you can only proceed to the second half when time runs out.
+ 
+4. Points earned in stages with limited enemy waves include both Time Points and Monster Points, while Points earned in the stage with infinite waves include only Monster Points.
+ 
+i. Monster Points are earned by defeating enemies in challenges, with Points awarded for each wave defeated.
+ 
+ii. Time Points are earned based on the time left when a challenge is completed.","[Giới thiệu]\nTrên diễn đàn Kim Nhai của Viện Nghiên Cứu có một chương trình mô phỏng chiến đấu không rõ nguồn gốc đang thịnh hành. Trước đó, cao thủ lướt diễn đàn Ly Châu đã giao tài khoản diễn đàn quý giá cho bạn để tập trung nghiên cứu. Có vẻ để đề tài của Ly Châu được hoàn thành suôn sẻ, bạn cần giữ hộ thêm một thời gian nữa...\n\n[Điều kiện tham gia]\nCấp Liên Giác đạt 35.\n\n[Luật chơi]\n1. Trong [Kìm Kích Vô Song], người chơi sử dụng hai đội vào nửa trên và nửa dưới chiến trường mô phỏng, thử thách nhiều đợt kẻ địch mạnh mẽ với sự hỗ trợ của các hiệu ứng tăng cường.\n2. Trong chiến trường mô phỏng, có cả hiệu ứng tăng cường toàn cục và hiệu ứng riêng cho từng đội.\n3. Các màn chơi chia thành chế độ hữu hạn và vô hạn theo số đợt kẻ địch:\n    i. Ở chế độ hữu hạn, chỉ khi hết giờ nửa trên hoặc tiêu diệt tất cả các đợt mới được vào nửa dưới.\n    ii. Ở chế độ vô hạn, chỉ khi hết giờ nửa trên mới được vào nửa dưới.\n4. Điểm thử thách chế độ hữu hạn gồm tổng điểm quái và điểm thời gian, chế độ vô hạn chỉ có điểm quái:\n     i. Điểm quái được tính khi Đánh Bại kẻ địch trong thử thách, mỗi đợt hoàn thành đều tích điểm.\n     ii. Điểm thời gian được quy đổi từ thời gian còn lại sau khi hoàn thành thử thách."

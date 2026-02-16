@@ -1,378 +1,161 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,RogueBuffPool_110702_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放·死兆与闪避反击替换为「共鸣解放·安息日」，并额外造成伤害，期间免疫打断。,"<color=#c49e55>[Resonance Liberation]</color>
-Resonance Liberation - Death Knell and Dodge Counter become Resonance Liberation - Final Solace, dealing additional damage, during which Carlotta is immune to interruption.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-Giải Phóng Cộng Hưởng - Tử Triệu và Né Tránh Phản Kích được thay thế bằng ""Giải Phóng Cộng Hưởng - An Tức Nhật"", gây thêm sát thương, trong thời gian đó miễn nhiễm gián đoạn."
-lang_multi_text.db,MultiText,RogueBuffPool_110702_BuffDesc_1,送葬悼约,Wailed Farewell,Tống Táng Điệu Ước
-lang_multi_text.db,MultiText,RogueBuffPool_110703_BuffDesc,"<color=#c49e55>【共鸣技能】</color>共鸣技能·暴力美学命中目标时，额外获得{0}点「灵萃」。普攻·必要性手段命中目标时，也会给目标添加「解离」。
-「解离」效果获得强化：
-给目标添加「解离」时，若处于「枪花轮舞」状态，则召唤{1}把「晶塑铳」攻击目标，分别造成攻击{2}的伤害；若不处于「枪花轮舞」状态，则召唤{3}个「欧泊」攻击目标，分别造成攻击{4}的冷凝伤害，此处伤害为共鸣技能伤害。
-共鸣回路·揭幕者效果常驻。","<color=#c49e55>[Resonance Skill]</color>
-Hitting a target with Resonance Skill - Art of Violence additionally recovers <SapTag=0>{0}</SapTag> {Cus:Sap,S=point P=points SapTag=0} Substance. Hitting a target with Basic Attack - Necessary Measures now inflicts Deconstruction on the target.
-Deconstruction gains the following enhancements:
-When inflicting Deconstruction on the target, if Carlotta is in Resonance Liberation - Twilight Tango, she summons {1} Crystal Muskets to attack the target, each dealing DMG equal to {2} of Carlotta's ATK. If Carlotta is not in Twilight Tango, she summons {3} Opals to attack the target, each dealing Glacio DMG equal to {4} of Carlotta's ATK, considered Resonance Skill DMG.
-Effects provided by Forte Circuit - Final Bow become constantly active.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-Khi Kỹ Năng Cộng Hưởng - Bạo Lực Mỹ Học trúng mục tiêu, nhận thêm {0} điểm ""Linh Tụy"". Khi Phổ Công - Biện Pháp Tất Yếu trúng mục tiêu, cũng sẽ áp dụng ""Giải Ly"" lên mục tiêu.
-Hiệu quả ""Giải Ly"" được cường hóa:
-Khi áp dụng ""Giải Ly"" lên mục tiêu, nếu đang trong trạng thái ""Thương Hoa Luân Vũ"", triệu hồi {1} khẩu ""Tinh Tố Súng"" tấn công mục tiêu, mỗi khẩu gây sát thương bằng {2} tấn công; nếu không trong trạng thái ""Thương Hoa Luân Vũ"", triệu hồi {3} viên ""Âu Bách"" tấn công mục tiêu, mỗi viên gây sát thương Ngưng Băng bằng {4} tấn công, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
-Hiệu quả Cộng Hưởng Hồi Lộ - Yết Mạc Giả được kích hoạt thường trực."
-lang_multi_text.db,MultiText,RogueBuffPool_110703_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>共鸣技能·暴力美学额外获得特殊能量，普攻·必要性手段命中目标时额外添加「解离」。
-「解离」效果获得强化。","<color=#c49e55>[Resonance Skill]</color>
-Resonance Skill - Art of Violence additionally recovers Forte Gauge. Basic Attack - Necessary Measures additionally inflicts Deconstruction upon the target on hit.
-Deconstruction gains enhancements.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-Kỹ Năng Cộng Hưởng - Bạo Lực Mỹ Học nhận thêm năng lượng đặc biệt, Phổ Công - Biện Pháp Tất Yếu khi trúng mục tiêu sẽ áp dụng thêm ""Giải Ly"".
-Hiệu quả ""Giải Ly"" được cường hóa."
-lang_multi_text.db,MultiText,RogueBuffPool_110703_BuffDesc_1,美学解构,Aesthetic Deconstruction,Mỹ Học Giải Cấu
-lang_multi_text.db,MultiText,RogueBuffPool_110704_BuffDesc,"<color=#c49e55>【共鸣回路】</color>共鸣回路·重击·末路见行也能对命中的目标施加共鸣技能·变彩效果。
-移除「镀色晶」冷却。
-「枪花轮舞」状态下，施放共鸣技能·示我璀璨后{0}秒内：空中攻击·礼节性问候会替换为共鸣回路·重击·末路见行。","<color=#c49e55>[Forte Circuit]</color>
-Heavy Attack - Imminent Oblivion from Forte Circuit now inflicts Resonance Skill - Dispersion upon the target on hit.
-Tinted Crystal has no Cooldown.
-When in Resonance Liberation - Twilight Tango and within {0}s after casting Resonance Skill - Chromatic Splendor, Mid-air Attack - Customary Greetings becomes Heavy Attack - Imminent Oblivion.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
-Cộng Hưởng Hồi Lộ - Trọng Kích - Mạt Lộ Kiến Hành cũng có thể áp dụng hiệu quả Kỹ Năng Cộng Hưởng - Biến Thải lên mục tiêu bị trúng.
-Xóa bỏ thời gian hồi chiêu của ""Độ Sắc Tinh"".
-Trong trạng thái ""Thương Hoa Luân Vũ"", trong vòng {0} giây sau khi thi triển Kỹ Năng Cộng Hưởng - Thị Ngã Thôi Xán: Tấn Công Trên Không - Lễ Tiết Tính Vấn Hầu sẽ được thay thế bằng Cộng Hưởng Hồi Lộ - Trọng Kích - Mạt Lộ Kiến Hành."
-lang_multi_text.db,MultiText,RogueBuffPool_110704_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>共鸣回路·重击·末路见行获得特殊强化。,"<color=#c49e55>[Forte Circuit]</color>
-Heavy Attack - Imminent Oblivion from Forte Circuit gains special enhancements.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
-Cộng Hưởng Hồi Lộ - Trọng Kích - Mạt Lộ Kiến Hành nhận được cường hóa đặc biệt."
-lang_multi_text.db,MultiText,RogueBuffPool_110704_BuffDesc_1,舞者终幕,Dancer's Finale,Vũ Giả Chung Mạc
-lang_multi_text.db,MultiText,RogueBuffPool_110705_BuffDesc,"<color=#c49e55>【共鸣技能】</color>共鸣技能·暴力美学的攻击范围扩大。
-「变彩」效果获得强化：
-目标的冷凝伤害抗性降低{0}，持续{1}秒。","<color=#c49e55>[Resonance Skill]</color>
-Resonance Skill - Art of Violence has an expanded attack range.
-Dispersion gains the following effect:
-The target's Glacio RES is reduced by {0} for {1}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-Phạm vi tấn công của Kỹ Năng Cộng Hưởng - Bạo Lực Mỹ Học được mở rộng.
-Hiệu quả ""Biến Thải"" được cường hóa:
-Kháng sát thương Ngưng Băng của mục tiêu giảm {0}, kéo dài {1} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_110705_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>共鸣技能·暴力美学的攻击范围扩大。
-「变彩」效果获得强化。","<color=#c49e55>[Resonance Skill]</color>
-Resonance Skill - Art of Violence has an expanded attack range.
-Dispersion gains enhancement.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-Phạm vi tấn công của Kỹ Năng Cộng Hưởng - Bạo Lực Mỹ Học được mở rộng.
-Hiệu quả ""Biến Thải"" được cường hóa."
-lang_multi_text.db,MultiText,RogueBuffPool_110705_BuffDesc_1,变彩流溢,Chroma Cascade,Biến Thải Lưu Dật
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffDesc,存在异常，如有疑问请联系官方客服,<color=#ffd12f>[Companion's Aid]</color> Summon Chixia for assistance.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffDesc_0,存在异常，如有疑问请联系官方客服,<color=#ffd12f>[Companion's Aid]</color> Summon Chixia for assistance.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffName,存在异常，如有疑问请联系官方客服,Chixia's Token,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức"
-lang_multi_text.db,MultiText,RogueBuffPool_120301_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·共鸣技能、「梦境·白咩」、「梦境·黑咩」造成的伤害能无视目标{0}防御。
-·召唤「梦境·白咩」的时候，会同时召唤「梦境·黑咩」，共造成攻击{1}的热熔伤害，此次伤害为普攻伤害，该效果每{2}秒可触发1次。","<color=#c49e55>[Resonance Skill]</color>
-· DMG dealt by Encore's Resonance Skill, Dreamscape: Cloudy, and Dreamscape: Cosmos ignores {0} of the target's DEF.
-· Summoning Dreamscape: Cloudy also summons Dreamscape: Cosmos, dealing Fusion DMG equal to {1} of Encore's ATK, considered Basic Attack DMG. This effect can be triggered once every {2}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Sát thương gây ra bởi Kỹ Năng Cộng Hưởng, ""Mộng Cảnh - Bạch Mie"" và ""Mộng Cảnh - Hắc Mie"" có thể bỏ qua {0} phòng thủ của mục tiêu.
-. Khi triệu hồi ""Mộng Cảnh - Bạch Mie"", đồng thời triệu hồi ""Mộng Cảnh - Hắc Mie"", gây sát thương Nhiệt Dung bằng {1} tấn công, sát thương này được tính là sát thương Phổ Công. Hiệu quả này có thể kích hoạt 1 lần mỗi {2} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120301_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·共鸣技能、「梦境·白咩」、「梦境·黑咩」造成的伤害能无视目标一定防御。
-·召唤「梦境·白咩」的时候，会同时召唤「梦境·黑咩」，造成大量热熔伤害，此次伤害为普攻伤害。","<color=#c49e55>[Resonance Skill]</color>
-- DMG dealt by Encore's Resonance Skill, Dreamscape: Cloudy, and Dreamscape: Cosmos ignores a certain amount of the target's DEF.
-- Summoning Dreamscape: Cloudy also summons Dreamscape: Cosmos, dealing high Fusion DMG, which is considered Basic Attack DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Sát thương gây ra bởi Kỹ Năng Cộng Hưởng, ""Mộng Cảnh - Bạch Mie"" và ""Mộng Cảnh - Hắc Mie"" có thể bỏ qua một lượng phòng thủ nhất định của mục tiêu.
-. Khi triệu hồi ""Mộng Cảnh - Bạch Mie"", đồng thời triệu hồi ""Mộng Cảnh - Hắc Mie"", gây lượng lớn sát thương Nhiệt Dung, sát thương này được tính là sát thương Phổ Công."
-lang_multi_text.db,MultiText,RogueBuffPool_120301_BuffDesc_1,羊咩，友情的力量！,Power of Friendship!,"Mie Mie, sức mạnh tình bạn!"
-lang_multi_text.db,MultiText,RogueBuffPool_120302_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·造成共鸣技能伤害时，减少共鸣技能的冷却时间{0}秒，该效果每{1}秒可触发1次。
-·施放共鸣技能时，受到的伤害降低{2}，抗打断能力提升。
-·施放共鸣技能「热力羊咩」一定时间内，短按共鸣技能，可以再次施放「热力羊咩」，之后一定时间内短按共鸣技能，将会施放「热情欢迎式」。
-·共鸣技能「黑咩狂热」能额外造成2次等同于共鸣技能「黑咩狂热」100%的伤害。","<color=#c49e55>[Resonance Skill]</color>
-- Dealing DMG with Resonance Skill reduces Encore's Resonance Skill Cooldown by {0}s. This effect can be triggered once every {1}s.
-- While casting Resonance Skill, Encore takes {2} less DMG, and her resistance to interruption is enhanced.
-- Resonance Skill Flaming Woolies can be cast again by using Resonance Skill shortly after the first cast. Casting it again shortly after the second Flaming Woolies will trigger Energetic Welcome.
-- Resonance Skill Cosmos: Rampage now deals an additional 2 strikes that cause the same amount of DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Khi gây sát thương Kỹ Năng Cộng Hưởng, giảm thời gian hồi chiêu Kỹ Năng Cộng Hưởng {0} giây, hiệu quả này có thể kích hoạt 1 lần mỗi {1} giây.
-. Khi thi triển Kỹ Năng Cộng Hưởng, sát thương nhận vào giảm {2}, khả năng kháng gián đoạn tăng.
-. Trong một khoảng thời gian sau khi thi triển Kỹ Năng Cộng Hưởng ""Nhiệt Lực Mie Mie"", nhấn nhanh Kỹ Năng Cộng Hưởng có thể thi triển lại ""Nhiệt Lực Mie Mie"", sau đó trong một khoảng thời gian nhấn nhanh Kỹ Năng Cộng Hưởng sẽ thi triển ""Nhiệt Tình Hoan Nghênh Thức"".
-. Kỹ Năng Cộng Hưởng ""Hắc Mie Cuồng Nhiệt"" có thể gây thêm 2 lần sát thương bằng 100% sát thương ""Hắc Mie Cuồng Nhiệt""."
-lang_multi_text.db,MultiText,RogueBuffPool_120302_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·造成共鸣技能伤害时，减少共鸣技能的冷却时间。
-·施放共鸣技能时，受到的伤害降低，抗打断能力提升。
-·施放共鸣技能「热力羊咩」一定时间内，短按共鸣技能，可以再次施放「热力羊咩」，之后一定时间内短按共鸣技能，将会施放「热情欢迎式」。
-·共鸣技能「黑咩狂热」能额外造成伤害","<color=#c49e55>[Resonance Skill]</color>
-- Dealing DMG with Resonance Skill reduces Encore's Resonance Skill Cooldown.
-- While casting Resonance Skill, Encore takes less DMG, and her resistance to interruption is enhanced.
-- Resonance Skill Flaming Woolies can be cast again by using Resonance Skill shortly after the first cast. Casting it again shortly after the second Flaming Woolies will trigger Energetic Welcome.
-- Resonance Skill Cosmos: Rampage now deals additional DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Khi gây sát thương Kỹ Năng Cộng Hưởng, giảm thời gian hồi chiêu Kỹ Năng Cộng Hưởng.
-. Khi thi triển Kỹ Năng Cộng Hưởng, sát thương nhận vào giảm, khả năng kháng gián đoạn tăng.
-. Trong một khoảng thời gian sau khi thi triển Kỹ Năng Cộng Hưởng ""Nhiệt Lực Mie Mie"", nhấn nhanh Kỹ Năng Cộng Hưởng có thể thi triển lại ""Nhiệt Lực Mie Mie"", sau đó trong một khoảng thời gian nhấn nhanh Kỹ Năng Cộng Hưởng sẽ thi triển ""Nhiệt Tình Hoan Nghênh Thức"".
-. Kỹ Năng Cộng Hưởng ""Hắc Mie Cuồng Nhiệt"" có thể gây thêm sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_120302_BuffDesc_1,羊咩热力连击,Woolie Combos,Mie Mie Nhiệt Lực Liên Kích
-lang_multi_text.db,MultiText,RogueBuffPool_120303_BuffDesc,"<color=#c49e55>【普攻】</color>
-·造成普攻伤害时，会召唤「梦境·白咩」下砸，造成攻击{0}的热熔伤害，此次伤害为普攻伤害，每{1}秒可触发1次。
-·施放「重击·白咩·失控之炎」或「重击·黑咩·暴走之炎」期间受到伤害降低{2}，并且持续牵引周围目标，牵引过程共造成攻击{3}的热熔伤害，此次伤害为共鸣解放伤害。","<color=#c49e55>[Basic Attack]</color>
-- Dealing DMG with Basic Attack summons Dreamscape: Cloudy to plunge to the ground, dealing Fusion DMG equal to {0} of Encore's ATK, which is considered Basic Attack DMG. This effect can be triggered once every {1}s.
-- While casting Heavy Attack: Cloudy Frenzy or Heavy Attack: Cosmos Rupture, Encore takes {2} less DMG and pulls in nearby enemies, dealing Fusion DMG equal to {3} of her ATK in the process, which is considered Resonance Skill DMG.","<color=#c49e55>[Phổ Công]</color>
-. Khi gây sát thương Phổ Công, triệu hồi ""Mộng Cảnh - Bạch Mie"" lao xuống, gây sát thương Nhiệt Dung bằng {0} tấn công, sát thương này được tính là sát thương Phổ Công, có thể kích hoạt 1 lần mỗi {1} giây.
-. Trong thời gian thi triển ""Trọng Kích - Bạch Mie - Thất Khống Chi Viêm"" hoặc ""Trọng Kích - Hắc Mie - Bạo Tẩu Chi Viêm"", sát thương nhận vào giảm {2}, đồng thời liên tục kéo mục tiêu xung quanh lại gần, quá trình kéo gây tổng sát thương Nhiệt Dung bằng {3} tấn công, sát thương này được tính là sát thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120303_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·造成普攻伤害时，额外召唤「梦境·白咩」造成热熔伤害。
-·施放「重击·白咩·失控之炎」或「重击·黑咩·暴走之炎」期间受到伤害降低，并且持续牵引周围目标并持续造成热熔伤害。","<color=#c49e55>[Basic Attack]</color>
-- Dealing DMG with Basic Attack summons Dreamscape: Cloudy that deals Fusion DMG.
-- Encore takes less DMG while casting Heavy Attack: Cloudy Frenzy or Heavy Attack: Cosmos Rupture, and pulls in nearby enemies, dealing Fusion DMG.","<color=#c49e55>[Phổ Công]</color>
-. Khi gây sát thương Phổ Công, triệu hồi thêm ""Mộng Cảnh - Bạch Mie"" gây sát thương Nhiệt Dung.
-. Trong thời gian thi triển ""Trọng Kích - Bạch Mie - Thất Khống Chi Viêm"" hoặc ""Trọng Kích - Hắc Mie - Bạo Tẩu Chi Viêm"", sát thương nhận vào giảm, đồng thời liên tục kéo mục tiêu xung quanh lại gần và gây sát thương Nhiệt Dung liên tục."
-lang_multi_text.db,MultiText,RogueBuffPool_120303_BuffDesc_1,咩咩混乱派对,Party of Chaos,Mie Mie Hỗn Loạn Tiệc Tùng
-lang_multi_text.db,MultiText,RogueBuffPool_120304_BuffDesc,"<color=#c49e55>【普攻】</color>
-·热熔伤害加成提升{0}。
-·造成共鸣技能伤害时会召唤「梦境·白咩」，造成攻击{1}的热熔伤害，此次伤害为普攻伤害，每{2}秒可触发1次。
-·「梦境·白咩」「梦境·黑咩」获得强化：攻击范围增加，伤害倍率提升{3}。","<color=#c49e55>[Basic Attack]</color>
-- Encore gains {0} Fusion DMG Bonus.
-- Dealing DMG with Resonance Skill summons Dreamscape: Cloudy that deals Fusion DMG equal to {1} of Encore's ATK, considered as Basic Attack DMG. This effect can be triggered once every {2}s.
-- Dreamscape: Cloudy and Dreamscape: Cosmos receive the following enhancement: Gain increased attack range and {3} additional DMG Multiplier.","<color=#c49e55>[Phổ Công]</color>
-- Tăng thêm sát thương Nhiệt Dung {0}.
-- Khi gây sát thương Kỹ Năng Cộng Hưởng sẽ triệu hồi ""Mộng Cảnh - Bạch Mê"", gây sát thương Nhiệt Dung bằng {1} tấn công, sát thương này tính là sát thương Phổ Công, mỗi {2} giây có thể kích hoạt 1 lần.
-- ""Mộng Cảnh - Bạch Mê"" và ""Mộng Cảnh - Hắc Mê"" được cường hóa: tăng phạm vi tấn công, tăng hệ số sát thương thêm {3}."
-lang_multi_text.db,MultiText,RogueBuffPool_120304_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·热熔伤害加成提升。
-·造成共鸣技能伤害时会额外造成热熔伤害。
-·「梦境·白咩」「梦境·黑咩」攻击范围及伤害提升。","<color=#c49e55>[Basic Attack]</color>
-- Encore gains Fusion DMG Bonus.
-- Dealing DMG with Resonance Skill deals additional Fusion DMG.
-- Dreamscape: Cloudy and Dreamscape: Cosmos gain increased attack range and additional DMG Multiplier.","<color=#c49e55>[Phổ Công]</color>
-- Tăng thêm sát thương Nhiệt Dung.
-- Khi gây sát thương Kỹ Năng Cộng Hưởng sẽ gây thêm sát thương Nhiệt Dung.
-- ""Mộng Cảnh - Bạch Mê"" và ""Mộng Cảnh - Hắc Mê"" tăng phạm vi tấn công và sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_120304_BuffDesc_1,白咩，勇士式落地！,Cloudy's Heroic Landing,"Bạch Mê, hạ cánh kiểu dũng sĩ!"
-lang_multi_text.db,MultiText,RogueBuffPool_120305_BuffDesc,"<color=#c49e55>【普攻】</color>
-·造成普攻伤害时，回复{0}点共鸣能量，每秒可触发1次。
-·施放共鸣解放后会造成1次攻击{1}的热熔伤害，此次伤害为普攻伤害。","<color=#c49e55>[Basic Attack]</color>
-- Dealing DMG with Basic Attack restores {0} Resonance Energy. This effect can be triggered once per second.
-- Casting Resonance Liberation deals one additional strike of Fusion DMG equal to {1} of Encore's ATK, which is considered Basic Attack DMG.","<color=#c49e55>[Phổ Công]</color>
-- Khi gây sát thương Phổ Công, hồi phục {0} điểm năng lượng Cộng Hưởng, mỗi giây có thể kích hoạt 1 lần.
-- Sau khi thi triển Giải Phóng Cộng Hưởng sẽ gây thêm 1 lần sát thương Nhiệt Dung bằng {1} tấn công, sát thương này tính là sát thương Phổ Công."
-lang_multi_text.db,MultiText,RogueBuffPool_120305_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·造成普攻伤害时，回复共鸣能量。
-·施放共鸣解放后会造成额外热熔伤害。","<color=#c49e55>Basic Attack</color>
-- Dealing DMG with Basic Attack restores Resonance Energy.
-- Casting Resonance Liberation deals one additional strike of Fusion DMG.","<color=#c49e55>[Phổ Công]</color>
-- Khi gây sát thương Phổ Công, hồi phục năng lượng Cộng Hưởng.
-- Sau khi thi triển Giải Phóng Cộng Hưởng sẽ gây thêm sát thương Nhiệt Dung."
-lang_multi_text.db,MultiText,RogueBuffPool_120305_BuffDesc_1,黑咩大爆发,Cosmos's Riot,Hắc Mê đại bùng nổ
-lang_multi_text.db,MultiText,RogueBuffPool_120401_BuffDesc,"<color=#c49e55>【共鸣解放】</color>
-·暴击提升{0}。
-·「浮翼狂想」存在时，每次协奏角色进场时，额外打出{1}发「特加强音」，每{2}秒可触发1次。","<color=#c49e55>[Resonance Liberation]</color>
-- Mortefi's Crit. Rate is increased by {0}.
-- While Burning Rhapsody is active, each Concerto Companion entering the field triggers {1} additional strike(s) of Sforzato. This effect can be triggered once every {2}s.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-- Tăng bạo kích {0}.
-- Khi ""Phù Dực Cuồng Tưởng"" đang tồn tại, mỗi lần nhân vật Hiệp Tấu vào trường sẽ bắn thêm {1} phát ""Đặc Gia Cường Âm"", mỗi {2} giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120401_BuffDesc_0,"<color=#c49e55>【共鸣解放】</color>
-·暴击大幅提升。
-·「浮翼狂想」存在时，每次协奏角色进场时，额外打出「特加强音」。","<color=#c49e55>[Resonance Liberation]</color>
-- Mortefi's Crit. Rate is greatly increased.
-- While Burning Rhapsody is active, each Concerto Companion entering the field triggers additional strikes of Sforzato.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-- Tăng đáng kể bạo kích.
-- Khi ""Phù Dực Cuồng Tưởng"" đang tồn tại, mỗi lần nhân vật Hiệp Tấu vào trường sẽ bắn thêm ""Đặc Gia Cường Âm""."
-lang_multi_text.db,MultiText,RogueBuffPool_120401_BuffDesc_1,《狂板练习：跳音奏法》,Staccato in Prestissimo,"""Cuồng Bản Luyện Tập: Tấu Pháp Nhảy Âm"""
-lang_multi_text.db,MultiText,RogueBuffPool_120402_BuffDesc,"<color=#c49e55>【共鸣解放】</color>
-·施放共鸣解放时，马上打出{0}发「特加强音」。
-·被「特加强音」命中的目标，热熔伤害抗性降低{1}，持续{2}秒，可叠加{3}层。","<color=#c49e55>[Resonance Liberation]</color>
-- Immediately triggers {0} strike(s) of Sforzato upon casting Resonance Liberation.
-- Targets hit by Sforzato have their Fusion DMG RES reduced by {1} for {2}s, stacking up to {3} time(s).","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-- Khi thi triển Giải Phóng Cộng Hưởng, lập tức bắn ra {0} phát ""Đặc Gia Cường Âm"".
-- Mục tiêu bị ""Đặc Gia Cường Âm"" trúng sẽ giảm kháng sát thương Nhiệt Dung {1}, kéo dài {2} giây, cộng dồn tối đa {3} tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120402_BuffDesc_0,"<color=#c49e55>【共鸣解放】</color>
-·施放共鸣解放时，马上打出数发「特加强音」。
-·被「特加强音」命中的目标，热熔伤害抗性降低。","<color=#c49e55>[Resonance Liberation]</color>
-- Immediately triggers several strikes of Sforzato upon casting Resonance Liberation.
-- Targets hit by Sforzato have their Fusion DMG RES reduced.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-- Khi thi triển Giải Phóng Cộng Hưởng, lập tức bắn ra vài phát ""Đặc Gia Cường Âm"".
-- Mục tiêu bị ""Đặc Gia Cường Âm"" trúng sẽ giảm kháng sát thương Nhiệt Dung."
-lang_multi_text.db,MultiText,RogueBuffPool_120402_BuffDesc_1,《安魂曲：震怒之日》,Requiem: Dies Irae,"""An Hồn Khúc: Ngày Chấn Nộ"""
-lang_multi_text.db,MultiText,RogueBuffPool_120403_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·攻击提升{0}。
-·使用共鸣技能·激昂变奏时，回满「怒气值」，每{1}秒可触发1次。","<color=#c49e55>[Resonance Skill]</color>
-- Mortefi's ATK is increased by {0}.
-- Casting Resonance Skill Passionate Variation restores max Annoyance. This effect can be triggered once every {1}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-- Tăng tấn công {0}.
-- Khi sử dụng Kỹ Năng Cộng Hưởng - Kích Ngang Biến Tấu, hồi đầy ""Nộ Khí Trị"", mỗi {1} giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120403_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·攻击大幅提升。
-·使用共鸣技能·激昂变奏时，回满「怒气值」。","<color=#c49e55>[Resonance Skill]</color>
-- Mortefi's ATK is greatly increased.
-- Casting Resonance Skill Passionate Variation restores max Annoyance.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-- Tăng đáng kể tấn công.
-- Khi sử dụng Kỹ Năng Cộng Hưởng - Kích Ngang Biến Tấu, hồi đầy ""Nộ Khí Trị""."
-lang_multi_text.db,MultiText,RogueBuffPool_120403_BuffDesc_1,《预燃前奏：焦土印象》,Prelude: Scorching Earth,"""Dự Nhiên Tiền Tấu: Tiêu Thổ Ấn Tượng"""
-lang_multi_text.db,MultiText,RogueBuffPool_120404_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·攻击提升{0}。
-·闪避反击替换为共鸣技能·怒火赋格，施放「共鸣技能·怒火赋格」或「共鸣技能·激昂变奏」时，额外打出{1}发「特加强音」。","<color=#c49e55>[Resonance Skill]</color>
-· Mortefi's ATK is increased by {0}.
-· Resonance Skill Fury Fugue is replaced with Dodge Counter. Casting Resonance Skill Fury Fugue or Resonance Skill Passionate Variation triggers {1} additional strike(s) of Sforzato.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-- Tăng tấn công {0}.
-- Né Tránh Phản Kích được thay thế bằng Kỹ Năng Cộng Hưởng - Nộ Hỏa Phú Cách, khi thi triển ""Kỹ Năng Cộng Hưởng - Nộ Hỏa Phú Cách"" hoặc ""Kỹ Năng Cộng Hưởng - Kích Ngang Biến Tấu"" sẽ bắn thêm {1} phát ""Đặc Gia Cường Âm""."
-lang_multi_text.db,MultiText,RogueBuffPool_120404_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·攻击大幅提升。
-·闪避反击替换为共鸣技能·怒火赋格，施放「共鸣技能·怒火赋格」或「共鸣技能·激昂变奏」时，额外打出「特加强音」。","<color=#c49e55>[Resonance Skill]</color>
-- Mortefi's ATK is greatly increased.
-- Dodge Counter becomes Resonance Skill Fury Fugue. Casting Fury Fugue or Resonance Skill Passionate Variation triggers additional strikes of Sforzato.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-- Tăng đáng kể tấn công.
-- Né Tránh Phản Kích được thay thế bằng Kỹ Năng Cộng Hưởng - Nộ Hỏa Phú Cách, khi thi triển ""Kỹ Năng Cộng Hưởng - Nộ Hỏa Phú Cách"" hoặc ""Kỹ Năng Cộng Hưởng - Kích Ngang Biến Tấu"" sẽ bắn thêm ""Đặc Gia Cường Âm""."
-lang_multi_text.db,MultiText,RogueBuffPool_120404_BuffDesc_1,《不绝轮舞：怒意狂澜》,Rondo: Tides of Fury,"""Bất Tuyệt Luân Vũ: Nộ Ý Cuồng Lan"""
-lang_multi_text.db,MultiText,RogueBuffPool_120405_BuffDesc,"<color=#c49e55>【共鸣解放】</color>
-·热熔伤害加成提升{0}。
-·「浮翼狂想」获得强化：普攻命中目标时打出加强音的效果从1次变为2次。","<color=#c49e55>[Resonance Liberation]</color>
-- Mortefi gains {0} Fusion DMG Bonus.
-- Burning Rhapsody is enhanced: Basic Attacks now trigger 2 Marcato instead of 1 on hit.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-- Tăng thêm sát thương Nhiệt Dung {0}.
-- ""Phù Dực Cuồng Tưởng"" được cường hóa: khi Phổ Công trúng mục tiêu, số lần phát ra Gia Cường Âm tăng từ 1 lên 2."
-lang_multi_text.db,MultiText,RogueBuffPool_120405_BuffDesc_0,"<color=#c49e55>【共鸣解放】</color>
-·热熔伤害加成提升。
-·「浮翼狂想」获得强化：普攻命中目标时打出加强音次数提升。","<color=#c49e55>[Resonance Liberation]</color>
-- Mortefi gains Fusion DMG Bonus.
-- Burning Rhapsody is enhanced: Basic Attacks now trigger additional Marcato on hit.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-- Tăng thêm sát thương Nhiệt Dung.
-- ""Phù Dực Cuồng Tưởng"" được cường hóa: khi Phổ Công trúng mục tiêu, số lần phát ra Gia Cường Âm tăng thêm."
-lang_multi_text.db,MultiText,RogueBuffPool_120405_BuffDesc_1,《交响狂想：火雨》,Symphony: Rain of Fire,"""Giao Hưởng Cuồng Tưởng: Hỏa Vũ"""
-lang_multi_text.db,MultiText,RogueBuffPool_1204_BuffDesc,<color=#ffd12f>【角色助战】</color>可触发变奏技能，满协奏能量后召唤莫特斐施放共鸣解放,"<color=#ffd12f>[Companion's Aid]</color> Summon Mortefi to cast his Resonance Liberation when Concerto Energy is full, triggering the Intro Skill.","<color=#ffd12f>[Nhân Vật Trợ Chiến]</color> Có thể kích hoạt Biến Tấu Kỹ, khi năng lượng Hiệp Tấu đầy sẽ triệu hồi Mortefi thi triển Giải Phóng Cộng Hưởng"
-lang_multi_text.db,MultiText,RogueBuffPool_1204_BuffDesc_0,<color=#ffd12f>【角色助战】</color>召唤莫特斐协战,<color=#ffd12f>[Companion's Aid]</color> Summon Mortefi for assistance.,<color=#ffd12f>[Nhân Vật Trợ Chiến]</color> Triệu hồi Mortefi hiệp chiến
-lang_multi_text.db,MultiText,RogueBuffPool_1204_BuffName,协奏·莫特斐,Concerto: Mortefi,Hiệp Tấu - Mortefi
-lang_multi_text.db,MultiText,RogueBuffPool_120501_BuffDesc,<color=#c49e55>【共鸣技能】</color>能够产生「离火」的技能命中时，额外触发一次「心眼·劫」的前3段伤害。且施放「心眼」系列攻击期间不会受到伤害。,"<color=#c49e55>[Resonance Skill]</color> When casting skills that grant Enflamement, deal additional DMG equal to the DMG of the first 3 stages of True Sight: Capture. Immune to damage while casting True Sight: Capture, Conquest, and Charge.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Khi kỹ năng có thể tạo ""Ly Hỏa"" đánh trúng, kích hoạt thêm một lần sát thương 3 đoạn đầu của ""Tâm Nhãn - Kiếp"". Trong thời gian thi triển chuỗi tấn công ""Tâm Nhãn"" sẽ không nhận sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_120501_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>能够获得特殊能量的技能命中时触发一次「心眼·劫」，且施放「心眼」系列攻击期间不会受到伤害。,"<color=#c49e55>[Resonance Skill]</color> When casting skills that grant Forte Gauge, True Sight: Capture is triggered once. Immune to damage while casting True Sight: Capture, Conquest, and Charge.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Khi kỹ năng có thể nhận năng lượng đặc biệt đánh trúng, kích hoạt một lần ""Tâm Nhãn - Kiếp"". Trong thời gian thi triển chuỗi tấn công ""Tâm Nhãn"" sẽ không nhận sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_120501_BuffDesc_1,盛神,Rising Spirit,Thịnh Thần
-lang_multi_text.db,MultiText,RogueBuffPool_120502_BuffDesc,<color=#c49e55>【重击】</color>每次获得「离火」时，热熔伤害提升{0}，持续{1}秒，最多叠加{2}层。施放重击「焚身以火」时会消耗所有层数。,"<color=#c49e55>[Heavy Attack]</color> Upon gaining Enflamement, Fusion DMG dealt is increased by {0} for {1}s, stacking up to {2} time(s). Casting Heavy Attack: Flaming Sacrifice consumes all stacks.","<color=#c49e55>[Trọng Kích]</color> Mỗi lần nhận được ""Ly Hỏa"", sát thương Nhiệt Dung tăng {0}, kéo dài {1} giây, tối đa cộng dồn {2} tầng. Khi thi triển Trọng Kích ""Phần Thân Dĩ Hỏa"" sẽ tiêu hao toàn bộ tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120502_BuffDesc_0,<color=#c49e55>【重击】</color>获得特殊能量时小幅提升热熔伤害，可叠加，施放派生重击后清空效果,<color=#c49e55>[Heavy Attack]</color> Fusion DMG dealt is slightly increased upon gaining Forte Gauge. This effect is stackable and is removed after casting Heavy Attack: Flaming Sacrifice.,"<color=#c49e55>[Trọng Kích]</color> Khi nhận năng lượng đặc biệt, sát thương Nhiệt Dung tăng nhẹ, có thể cộng dồn. Sau khi thi triển Trọng Kích phái sinh, hiệu ứng bị xóa."
-lang_multi_text.db,MultiText,RogueBuffPool_120502_BuffDesc_1,损悦,Dampening Joy,Tổn Duyệt
-lang_multi_text.db,MultiText,RogueBuffPool_120503_BuffDesc,<color=#c49e55>【重击】</color>施放重击「焚身以火」后{0}秒内，普攻命中时会额外造成等同于「普攻·心眼·征」后三段的伤害，最多可触发{1}次，每{2}秒可触发1次。,"<color=#c49e55>[Heavy Attack]</color> Within {0}s after casting Heavy Attack: Flaming Sacrifice, Basic Attack deals additional DMG equal to the last 3 stages of Basic Attack: True Sight - Conquest. This effect can be triggered once every {2}s, up to {1} time(s).","<color=#c49e55>[Trọng Kích]</color> Trong {0} giây sau khi thi triển Trọng Kích ""Phần Thân Dĩ Hỏa"", Phổ Công đánh trúng sẽ gây thêm sát thương tương đương 3 đoạn cuối của ""Phổ Công - Tâm Nhãn - Chinh"", tối đa kích hoạt {1} lần, mỗi {2} giây kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120503_BuffDesc_0,<color=#c49e55>【重击】</color>施放派生重击后普攻获得强化,<color=#c49e55>[Heavy Attack]</color> Basic Attack is enhanced after casting Heavy Attack: Flaming Sacrifice.,"<color=#c49e55>[Trọng Kích]</color> Sau khi thi triển Trọng Kích phái sinh, Phổ Công được cường hóa."
-lang_multi_text.db,MultiText,RogueBuffPool_120503_BuffDesc_1,分威,Diminishing Strength,Phân Uy
-lang_multi_text.db,MultiText,RogueBuffPool_120504_BuffDesc,<color=#c49e55>【空中攻击】</color>在空中造成伤害时，伤害提升{0}，持续{1}秒，可叠加{2}层。,"<color=#c49e55>[Mid-air Attack]</color> While in mid-air, DMG dealt is increased by {0} for {1}s, stacking up to {2} time(s).","<color=#c49e55>[Tấn Công Trên Không]</color> Khi gây sát thương trên không, sát thương tăng {0}, kéo dài {1} giây, cộng dồn tối đa {2} tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120504_BuffDesc_0,<color=#c49e55>【空中攻击】</color>空中造成伤害时小幅提升伤害，可叠加,"<color=#c49e55>[Mid-air Attack]</color> While in mid-air, DMG dealt is slightly increased. This effect is stackable.","<color=#c49e55>[Tấn Công Trên Không]</color> Khi gây sát thương trên không, sát thương tăng nhẹ, có thể cộng dồn."
-lang_multi_text.db,MultiText,RogueBuffPool_120504_BuffDesc_1,转圜,Tactical Maneuver,Chuyển Hoàn
-lang_multi_text.db,MultiText,RogueBuffPool_120505_BuffDesc,<color=#c49e55>【共鸣技能】</color>持有四层「离火」时，共鸣技能「心眼·劫」的最后一段攻击命中时会额外触发共鸣解放「离火照丹心」的伤害。每{0}秒可触发1次。,"<color=#c49e55>[Resonance Skill]</color> With 4 stacks of Enflamement, the final attack of Resonance Skill: True Sight - Capture deals additional DMG equal to the DMG of Resonance Liberation: Radiance of Fealty on hit. This effect can be triggered once every {0}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Khi có 4 tầng ""Ly Hỏa"", đoạn tấn công cuối của Kỹ Năng Cộng Hưởng ""Tâm Nhãn - Kiếp"" đánh trúng sẽ kích hoạt thêm sát thương của Giải Phóng Cộng Hưởng ""Ly Hỏa Chiếu Đan Tâm"". Mỗi {0} giây kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120505_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>特殊能量满时，共鸣技能最后一段攻击额外触发共鸣解放的伤害,"<color=#c49e55>[Resonance Skill]</color> When Forte Gauge is full, the final attack of Resonance Skill will deal additional DMG equal to the DMG of Resonance Liberation.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Khi năng lượng đặc biệt đầy, đoạn tấn công cuối của Kỹ Năng Cộng Hưởng kích hoạt thêm sát thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120505_BuffDesc_1,涅槃,Rise From the Ashes,Niết Bàn
-lang_multi_text.db,MultiText,RogueBuffPool_120601_BuffDesc,"<color=#c49e55>【共鸣解放】</color>共鸣解放·直到世界尽头的冷却时间减少{0}。
-施放共鸣解放·直到世界尽头时，「喝彩」回复到上限。","<color=#c49e55>[Resonance Liberation]</color>
-The Cooldown of Resonance Liberation - To the Horizon is reduced by {0}.
-Casting Resonance Liberation - To the Horizon fully recovers Bravo.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Thời gian hồi chiêu của Giải Phóng Cộng Hưởng - Đến Tận Cùng Thế Giới giảm {0}.
-Khi thi triển Giải Phóng Cộng Hưởng - Đến Tận Cùng Thế Giới, ""Hoan Hô"" hồi phục tối đa."
-lang_multi_text.db,MultiText,RogueBuffPool_120601_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放·直到世界尽头获得特殊强化。,"<color=#c49e55>[Resonance Liberation]</color>
-Resonance Liberation - To the Horizon gains special enhancements.",<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Đến Tận Cùng Thế Giới nhận được cường hóa đặc biệt.
-lang_multi_text.db,MultiText,RogueBuffPool_120601_BuffDesc_1,观众，为我欢呼,"Audience, Cheer for Me","Khán giả, hãy hoan hô vì ta"
-lang_multi_text.db,MultiText,RogueBuffPool_120602_BuffDesc,"<color=#c49e55>【共鸣回路】</color>共鸣回路·火焰归亡曲改为先往前发动空中攻击第一段，再唤出船锚在目标头顶落下，造成共鸣回路·火焰归亡曲{0}的伤害，并且攻击范围扩大。
-施放共鸣回路·火焰归亡曲时，不再结束燃焰状态。","<color=#c49e55>[Forte Circuit]</color>
-Forte Circuit - Returned from Ashes now first casts Mid-air Attack Stage 1 forward and then summons an Anchor to plunge from above the target, dealing DMG equal to {0} of Returned from Ashes DMG. The attack range is expanded.
-Casting Returned from Ashes doesn't end Aflame now.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Cộng Hưởng Hồi Lộ - Hỏa Diệm Quy Vong Khúc đổi thành trước tiên phóng đoạn đầu tấn công trên không về phía trước, sau đó triệu hồi mỏ neo rơi xuống từ trên đầu mục tiêu, gây sát thương bằng {0} sát thương Hỏa Diệm Quy Vong Khúc, đồng thời phạm vi tấn công mở rộng.
-Khi thi triển Cộng Hưởng Hồi Lộ - Hỏa Diệm Quy Vong Khúc, không còn kết thúc trạng thái Nhiên Diệm."
-lang_multi_text.db,MultiText,RogueBuffPool_120602_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>共鸣回路·火焰归亡曲获得特殊强化。,"<color=#c49e55>[Forte Circuit]</color>
-Forte Circuit - Returned from Ashes gains special enhancements.",<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Cộng Hưởng Hồi Lộ - Hỏa Diệm Quy Vong Khúc nhận được cường hóa đặc biệt.
-lang_multi_text.db,MultiText,RogueBuffPool_120602_BuffDesc_1,演员，点燃舞台,"Actor, Ignite the Stage","Diễn viên, hãy thiêu cháy sân khấu"
-lang_multi_text.db,MultiText,RogueBuffPool_120603_BuffDesc,"<color=#c49e55>【共鸣回路】</color>满足以下条件时，会在目标位置召唤「浪渊之眼」牵引附近目标，并造成{1}次攻击{2}的热熔伤害，持续{0}秒。
-·共鸣回路·火焰归亡曲的第四段、第五段造成伤害时
-·共鸣技能·起锚！的第二段造成伤害时
-·空中攻击第一段、第二段、第三段空翻造成伤害时
-·重击·狂想即兴命中目标时","<color=#c49e55>[Forte Circuit]</color>
-When one of the following conditions is met, summon Abyss's Eye at the target location to pull in nearby targets for {0}s, dealing Fusion DMG equal to {2} of Brant's ATK <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1}.
-- When Stage 4 or 5 of Forte Circuit - Returned from Ashes deals damage.
-- When Stage 2 of Resonance Skill - Anchors Aweigh! deals damage.
-- When Stage 1, 2, or 3 of Mid-air Attack deals damage.
-- When Heavy Attack - Rhapsodic Riff hits the target.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Khi thỏa mãn các điều kiện sau, triệu hồi ""Mắt Vực Sóng"" tại vị trí mục tiêu để kéo các mục tiêu lân cận, gây {1} lần sát thương Nhiệt Dung bằng {2} tấn công, kéo dài {0} giây.
-- Khi đoạn 4, đoạn 5 của Cộng Hưởng Hồi Lộ - Hỏa Diệm Quy Vong Khúc gây sát thương
-- Khi đoạn 2 của Kỹ Năng Cộng Hưởng - Nhổ Neo! gây sát thương
-- Khi đoạn 1, đoạn 2, đoạn 3 nhào lộn của tấn công trên không gây sát thương
-- Khi Trọng Kích - Cuồng Tưởng Tức Hứng đánh trúng mục tiêu"
-lang_multi_text.db,MultiText,RogueBuffPool_120603_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>满足特定条件时召唤「浪渊之眼」牵引附近目标。,"<color=#c49e55>[Forte Circuit]</color>
-Summon Abyss's Eye to pull in nearby targets when certain conditions are met.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Khi thỏa mãn điều kiện nhất định, triệu hồi ""Mắt Vực Sóng"" kéo các mục tiêu lân cận."
-lang_multi_text.db,MultiText,RogueBuffPool_120603_BuffDesc_1,大海，凝浪燃焰,"Oh Sea, Burn Your Waves","Biển ơi, hãy đốt cháy ngọn sóng"
-lang_multi_text.db,MultiText,RogueBuffPool_120604_BuffDesc,"<color=#c49e55>【普攻】</color>空中普攻命中目标时，会生成{0}个「爆炸船锚」，并造成攻击{9}的热熔伤害，每{1}秒可生效1次，「爆炸船锚」在场上持续存在{2}秒。「爆炸船锚」持续时间结束时，或者施放共鸣回路·火焰归亡曲后，会引爆全部的「爆炸船锚」，造成{3}次攻击{4}的热熔伤害，此次伤害为普攻伤害。
-「爆炸船锚」在场上最多存在{5}个，每次召唤「爆炸船锚」时，布兰特热熔伤害加成提升{6}，持续{7}秒，可叠加{8}层。","<color=#c49e55>[Basic Attack]</color>
-Hitting a target with Mid-air Basic Attack generates <SapTag=0>{0}</SapTag> Explosive {Cus:Sap,S=Anchor P=Anchors SapTag=0}, dealing Fusion DMG equal to {9} of Brant's ATK, triggered once every {1}s. Explosive Anchor exists on the field for {2}s. When Explosive Anchor's duration is over or after Forte Circuit - Returned from Ashes is cast, all Explosive Anchors will be detonated, dealing Fusion DMG equal to {4} of Brant's ATK <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3}, considered Basic Attack DMG.
-Up to {5} Explosive Anchors can exist at the same time. For each Explosive Anchor generated, Brant gains {6} Fusion DMG Bonus for {7}s, stacking up to {8} times.","<color=#c49e55>[Phổ Công]</color> Khi Phổ Công trên không trúng mục tiêu, sẽ tạo ra {0} ""Mỏ Neo Nổ"", gây sát thương Nhiệt Dung bằng {9} tấn công, mỗi {1} giây có thể kích hoạt 1 lần. ""Mỏ Neo Nổ"" tồn tại trên sân {2} giây. Khi thời gian tồn tại của ""Mỏ Neo Nổ"" kết thúc, hoặc sau khi thi triển Cộng Hưởng Hồi Lộ - Khúc Hỏa Diệm Quy Vong, sẽ kích nổ toàn bộ ""Mỏ Neo Nổ"", gây {3} lần sát thương Nhiệt Dung bằng {4} tấn công, sát thương này tính là sát thương Phổ Công.
-""Mỏ Neo Nổ"" tồn tại tối đa {5} cái trên sân. Mỗi lần triệu hồi ""Mỏ Neo Nổ"", bonus sát thương Nhiệt Dung của Brant tăng {6}, kéo dài {7} giây, cộng dồn tối đa {8} tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120604_BuffDesc_0,<color=#c49e55>【普攻】</color>空中普攻可生成「爆炸船锚」，热熔伤害加成提升，且引爆后造成伤害。,"<color=#c49e55>[Basic Attack]</color>
-Mid-air Basic Attack generates Explosive Anchor, which gives Fusion DMG Bonus and deals damage when detonated.","<color=#c49e55>[Phổ Công]</color> Phổ Công trên không có thể tạo ra ""Mỏ Neo Nổ"", tăng bonus sát thương Nhiệt Dung, và gây sát thương khi kích nổ."
-lang_multi_text.db,MultiText,RogueBuffPool_120604_BuffDesc_1,船长，锚定航向,"Captain, Set the Course","Thuyền trưởng, neo định hành trình"
-lang_multi_text.db,MultiText,RogueBuffPool_120605_BuffDesc,<color=#c49e55>【共鸣回路】</color>处于空中状态时，布兰特免疫打断，并且热熔伤害加成提升{0}。热熔伤害加成提升效果在进入地面状态{1}秒后移除。,"<color=#c49e55>[Forte Circuit]</color>
-When in mid-air, Brant is immune to interruption and gains {0} Fusion DMG Bonus. The Fusion DMG Bonus is removed {1}s after Brant lands.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Khi ở trạng thái trên không, Brant miễn dịch gián đoạn và tăng {0} bonus sát thương Nhiệt Dung. Hiệu ứng tăng bonus sát thương Nhiệt Dung sẽ bị xóa sau {1} giây kể từ khi tiếp đất."
-lang_multi_text.db,MultiText,RogueBuffPool_120605_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>空中状态时免疫打断，热熔伤害加成提升。,"<color=#c49e55>[Forte Circuit]</color>
-When in mid-air, Brant is immune to interruption and gains Fusion DMG Bonus.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Khi ở trạng thái trên không, miễn dịch gián đoạn và tăng bonus sát thương Nhiệt Dung."
-lang_multi_text.db,MultiText,RogueBuffPool_120605_BuffDesc_1,燕鸥，无畏风浪,"Oh Tern, Embrace the Tempest","Nhạn biển, không sợ phong ba"
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc,<color=#c49e55>【共鸣回路】</color>施放共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极过程中将回复自身{0}生命上限的生命值，牵引周围的目标并召唤「群狼猎场」，每秒共计对范围内目标造成攻击{1}的热熔伤害，此次伤害为普攻伤害，每次命中目标回复{2}点共鸣能量，持续{3}秒。,"<color=#c49e55>[Forte Circuit]</color>
-Casting Resonance Skill - Dance With the Wolf or Resonance Skill: Dance With the Wolf - Climax restores {0} of Lupa's Max HP, pulls in nearby targets, and summons Wolfpack, dealing Fusion DMG equal to {1} of ATK in total to targets within range each second. The DMG dealt is considered as Basic Attack DMG. Wolfpack restores {2} points Resonance Energy on hit, lasting for {3}s.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Khi thi triển Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói hoặc Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói - Cực, sẽ hồi phục {0} HP tối đa của bản thân, kéo các mục tiêu xung quanh lại và triệu hồi ""Thợ Săn Bầy Sói"", mỗi giây gây tổng cộng sát thương Nhiệt Dung bằng {1} tấn công lên mục tiêu trong phạm vi. Sát thương này tính là sát thương Phổ Công. Mỗi lần trúng mục tiêu hồi phục {2} điểm Năng Lượng Cộng Hưởng, kéo dài {3} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极可以召唤「群狼猎场」造成额外伤害。,"<color=#c49e55>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Dance With the Wolf - Climax summon Wolfpack to deal additional damage.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói và Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói - Cực có thể triệu hồi ""Thợ Săn Bầy Sói"" gây sát thương bổ sung."
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc_1,就像一场围猎,Hunt as a Pack,Như một cuộc vây săn
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>施放共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极过程中将回复自身<color=Highlight>{0}</color>生命上限的生命值，牵引周围的目标并召唤「群狼猎场」，每秒共计对范围内目标造成攻击<color=Highlight>{1}</color>的热熔伤害，此次伤害为普攻伤害，每次命中目标回复<color=Highlight>{2}</color>点共鸣能量，持续<color=Highlight>{3}</color>秒。,"<color=Highlight>[Forte Circuit]</color>
-Casting Resonance Skill - Dance With the Wolf or Resonance Skill - Dance With the Wolf: Climax restores <color=Highlight>{0}</color> of Lupa's Max HP, pulls in nearby targets, and summons Wolfpack, dealing Fusion DMG equal to <color=Highlight>{1}</color> of her ATK in total to targets within range each second. The DMG dealt is considered Basic Attack DMG. Wolfpack restores <color=Highlight>{2}</color> points Resonance Energy on hit, lasting for <color=Highlight>{3}</color>s.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color> Khi thi triển Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói hoặc Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói - Cực, sẽ hồi phục <color=Highlight>{0}</color> HP tối đa của bản thân, kéo các mục tiêu xung quanh lại và triệu hồi ""Thợ Săn Bầy Sói"", mỗi giây gây tổng cộng sát thương Nhiệt Dung bằng <color=Highlight>{1}</color> tấn công lên mục tiêu trong phạm vi. Sát thương này tính là sát thương Phổ Công. Mỗi lần trúng mục tiêu hồi phục <color=Highlight>{2}</color> điểm Năng Lượng Cộng Hưởng, kéo dài <color=Highlight>{3}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极可以召唤「群狼猎场」造成额外伤害。,"<color=Highlight>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Resonance Skill - Dance With the Wolf: Climax summon Wolfpack to deal extra DMG.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color> Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói và Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói - Cực có thể triệu hồi ""Thợ Săn Bầy Sói"" gây sát thương bổ sung."
-lang_multi_text.db,MultiText,RogueBuffPool_120702_BuffDesc,"<color=#c49e55>【共鸣回路】</color>固有技能·记住我的名字获得特殊强化：
-·进入加速冲刺状态所需时间缩短至{0}秒。
-·重击·狼咬、重击·锐爪、空中攻击·焰袭额外造成共计攻击{1}的热熔伤害。
-·普攻·星灭和闪避反击额外造成共计攻击{2}的热熔伤害，额外回复{3}点「狼焰」，一定时间内短按普攻将会再次施放普攻·星灭。","<color=#c49e55>[Forte Circuit]</color>
-Inherent Skill - Remember My Name gains the following special enhancements:
-- The time needed to enter Sprint state is lowered to {0}s.
-- Heavy Attack - Wolf's Gnawing, Heavy Attack - Wolf's Claw, and Mid-air Attack - Firestrike deal additional Fusion DMG equal to {1} of ATK.
-- Basic Attack - Starfall and Dodge Counter deal additional Fusion DMG equal to {2} of ATK and restore another <SapTag=3>{3}</SapTag> {Cus:Sap,S=point P=points SapTag=3} of Wolflame. Using Basic Attack shortly after will cast Basic Attack - Starfall again.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Cố Hữu Kỹ - Ghi Nhớ Tên Ta nhận được cường hóa đặc biệt:
-- Thời gian cần thiết để vào trạng thái tăng tốc chạy nước rút giảm xuống còn {0} giây.
-- Trọng Kích - Sói Cắn, Trọng Kích - Vuốt Sắc, Tấn Công Trên Không - Diệm Tập gây thêm tổng cộng sát thương Nhiệt Dung bằng {1} tấn công.
-- Phổ Công - Tinh Diệt và Né Tránh Phản Kích gây thêm tổng cộng sát thương Nhiệt Dung bằng {2} tấn công, hồi phục thêm {3} điểm ""Sói Viêm"". Trong một khoảng thời gian nhất định, nhấn nhanh Phổ Công sẽ thi triển lại Phổ Công - Tinh Diệt."
-lang_multi_text.db,MultiText,RogueBuffPool_120702_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>固有技能·记住我的名字获得特殊强化。,"<color=#c49e55>[Forte Circuit]</color>
-Inherent Skill - Remember My Name gains special enhancements.",<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Cố Hữu Kỹ - Ghi Nhớ Tên Ta nhận được cường hóa đặc biệt.
-lang_multi_text.db,MultiText,RogueBuffPool_120702_BuffDesc_1,奔向下一赛场,Onto the Next Match,Tiến tới sân đấu tiếp theo
-lang_multi_text.db,MultiText,RogueBuffPool_120702_BuffDesc_2_8,"<color=#c49e55>【共鸣回路】</color>固有技能·记住我的名字获得特殊强化：
-·进入加速冲刺状态所需时间缩短至<color=#c49e55>{0}</color>秒。
-·重击·狼咬、重击·锐爪、空中攻击·焰袭额外造成共计攻击<color=#c49e55>{1}</color>的热熔伤害。
-·普攻·星灭和闪避反击额外造成共计攻击<color=#c49e55>{2}</color>的热熔伤害，额外回复<color=#c49e55>{3}</color>点「狼焰」，一定时间内短按普攻将会再次施放普攻·星灭。","<color=#c49e55>[Forte Circuit]</color>
-Inherent Skill - Remember My Name gains the following special enhancements:
-- The time needed to enter the Sprint state is lowered to <color=#c49e55>{0}s</color>.
-- Heavy Attack - Wolf's Gnawing, Heavy Attack - Wolf's Claw, and Mid-air Attack - Firestrike deal additional Fusion DMG equal to <color=#c49e55>{1}</color> of Lupa's ATK.
-- Basic Attack - Starfall and Dodge Counter deal additional Fusion DMG equal to <color=#c49e55>{2}</color> of Lupa's ATK and restore another <color=#c49e55><SapTag=3>{3}</SapTag></color> {Cus:Sap,S=point P=points SapTag=3} of Wolflame. Using Basic Attack shortly after will cast Basic Attack - Starfall again.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Cố Hữu Kỹ - Ghi Nhớ Tên Ta nhận được cường hóa đặc biệt:
-- Thời gian cần thiết để vào trạng thái tăng tốc chạy nước rút giảm xuống còn <color=#c49e55>{0}</color> giây.
-- Trọng Kích - Sói Cắn, Trọng Kích - Vuốt Sắc, Tấn Công Trên Không - Diệm Tập gây thêm tổng cộng sát thương Nhiệt Dung bằng <color=#c49e55>{1}</color> tấn công.
-- Phổ Công - Tinh Diệt và Né Tránh Phản Kích gây thêm tổng cộng sát thương Nhiệt Dung bằng <color=#c49e55>{2}</color> tấn công, hồi phục thêm <color=#c49e55>{3}</color> điểm ""Sói Viêm"". Trong một khoảng thời gian nhất định, nhấn nhanh Phổ Công sẽ thi triển lại Phổ Công - Tinh Diệt."
-lang_multi_text.db,MultiText,RogueBuffPool_120703_BuffDesc,"<color=#c49e55>【共鸣回路】</color>「赛点沸腾」状态下免疫打断，攻击提升{0}。
-施放共鸣技能·狼舞的决意·极后的{1}秒内，短按普攻将施放「啮杀」，命中目标后造成共计{2}攻击的热熔伤害，并回复全部「狼焰」。回复「狼焰」的效果8秒内最多生效1次。","<color=#c49e55>[Forte Circuit]</color>
-Increase ATK by {0} and gain immunity to interruption while in the Burning Matchpoint state.
-Within {1}s after casting Resonance Skill: Dance With the Wolf - Climax, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack to cast Gnash, dealing Fusion DMG equal to {2} ATK in total on hit and restoring all Wolflame. The restoration effect of Wolflame can only be triggered up to once every 8s.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Trong trạng thái ""Sôi Sục Trận Điểm"", miễn dịch gián đoạn, tấn công tăng {0}.
-Trong vòng {1} giây sau khi thi triển Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói - Cực, nhấn nhanh Phổ Công sẽ thi triển ""Nghiến Sát"", khi trúng mục tiêu gây tổng cộng sát thương Nhiệt Dung bằng {2} tấn công và hồi phục toàn bộ ""Sói Viêm"". Hiệu ứng hồi phục ""Sói Viêm"" tối đa kích hoạt 1 lần mỗi 8 giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120703_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>「赛点沸腾」状态下免疫打断，攻击力增加。
-施放共鸣技能·狼舞的决意·极后可以施放「啮杀」，造成伤害并回复「狼焰」。","<color=#c49e55>[Forte Circuit]</color>
-Increase ATK and gain immunity to interruption while in the Burning Matchpoint state. Resonance Skill: Dance With the Wolf - Climax can be followed up by [Gnash], dealing DMG and restoring Wolflame.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color> Trong trạng thái ""Sôi Sục Trận Điểm"", miễn dịch gián đoạn và tăng tấn công.
-Sau khi thi triển Kỹ Năng Cộng Hưởng - Quyết Tâm Vũ Sói - Cực có thể thi triển ""Nghiến Sát"", gây sát thương và hồi phục ""Sói Viêm""."
-lang_multi_text.db,MultiText,RogueBuffPool_120703_BuffDesc_1,一切为我所用,Mine for the Taking,Tất cả đều thuộc về ta
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc,"<color=#c49e55>【共鸣解放】</color>共鸣解放·荣光欢酣于火获得特殊强化：
-·冷却时间减少{0}。
-·施放时热熔伤害提升{1}，持续{2}秒。
-·在目标位置额外召唤两次「狼啸」，每次命中目标造成攻击{3}的热熔伤害，并回复{4}点共鸣能量。","<color=#c49e55>[Resonance Liberation]</color>
-Fire-Kissed Glory gains the following enhancements:
-- Cooldown is reduced by {0}.
-- Casting the skill increases Fusion DMG by {1} for {2}s.
-- Additionally summon Wolf Cry twice at the target's position, each dealing Fusion DMG equal to {3} of ATK on hit and restoring {4} points of Resonance Energy.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Vinh Quang Hoan Ca Trong Lửa nhận được cường hóa đặc biệt:
-- Thời gian hồi chiêu giảm {0}.
-- Khi thi triển, tăng sát thương Nhiệt Dung {1}, kéo dài {2} giây.
-- Triệu hồi thêm hai lần ""Sói Hú"" tại vị trí mục tiêu, mỗi lần trúng mục tiêu gây sát thương Nhiệt Dung bằng {3} tấn công và hồi phục {4} điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放·荣光欢酣于火冷却时间减少，造成的伤害提高。,"<color=#c49e55>[Resonance Liberation]</color>
-Reduce Fire-Kissed Glory cooldown and increase its DMG.",<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Vinh Quang Hoan Ca Trong Lửa giảm thời gian hồi chiêu và tăng sát thương.
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc_1,火焰爆发轰鸣,A Burst of Flames,Ngọn lửa bùng nổ gầm vang
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc_2_8,"<color=Highlight>【共鸣解放】</color>共鸣解放·荣光欢酣于火获得特殊强化：
-·冷却时间减少<color=Highlight>{0}</color>。
-·施放时热熔伤害提升<color=Highlight>{1}</color>，持续<color=Highlight>{2}</color>秒。
-·在目标位置额外召唤两次「狼啸」，每次命中目标造成攻击<color=Highlight>{3}</color>的热熔伤害，并回复<color=Highlight>{4}</color>点共鸣能量。","<color=Highlight>[Resonance Liberation]</color>
-Fire-Kissed Glory gains the following enhancements:
-- Cooldown is reduced by <color=Highlight>{0}</color>.
-- Casting the skill grants <color=Highlight>{1}</color> Fusion DMG Bonus for <color=Highlight>{2}s</color>.
-- Additionally summon Wolf Cry twice at the target's position, each dealing Fusion DMG equal to <color=Highlight>{3}</color> of Lupa's ATK on hit and restoring <color=Highlight>{4}</color> points of Resonance Energy.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Vinh Quang Hoan Ca Trong Lửa nhận được cường hóa đặc biệt:
-- Thời gian hồi chiêu giảm <color=Highlight>{0}</color>.
-- Khi thi triển, tăng sát thương Nhiệt Dung <color=Highlight>{1}</color>, kéo dài <color=Highlight>{2}</color> giây.
-- Triệu hồi thêm hai lần ""Sói Hú"" tại vị trí mục tiêu, mỗi lần trúng mục tiêu gây sát thương Nhiệt Dung bằng <color=Highlight>{3}</color> tấn công và hồi phục <color=Highlight>{4}</color> điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc_2_8_0,<color=Highlight>【共鸣解放】</color>共鸣解放·荣光欢酣于火冷却时间减少，造成的伤害提高。,"<color=Highlight>[Resonance Liberation]</color>
-Fire-Kissed Glory has reduced Cooldown and higher DMG.",<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Vinh Quang Hoan Ca Trong Lửa giảm thời gian hồi chiêu và tăng sát thương.
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc,<color=#c49e55>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极命中目标时，降低对方{0}热熔抗性，持续{1}秒。,"<color=#c49e55>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Resonance Skill: Dance With the Wolf - Climax lower the target's Fusion RES by {0} on hit for {1}s.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
-Kỹ Năng Cộng Hưởng - Vũ Điệu Sói Quyết Tâm, Kỹ Năng Cộng Hưởng - Vũ Điệu Sói Quyết Tâm - Cực Hạn khi trúng mục tiêu, giảm {0} kháng Nhiệt Dung của đối phương, kéo dài {1} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极命中时降低目标热熔抗性。,"<color=#c49e55>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Dance With the Wolf - Climax lower the target's Fusion RES on hit.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
-Kỹ Năng Cộng Hưởng - Vũ Điệu Sói Quyết Tâm và Vũ Điệu Sói Quyết Tâm - Cực Hạn khi trúng mục tiêu sẽ giảm kháng Nhiệt Dung của mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc_1,狼啸令敌胆寒,Cower under My Howl,Tiếng hú sói khiến kẻ địch kinh hồn
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极命中目标时，降低对方<color=Highlight>{0}</color>热熔抗性，持续<color=Highlight>{1}</color>秒。,"<color=Highlight>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Resonance Skill - Dance With the Wolf: Climax reduces the target's Fusion RES by <color=Highlight>{0}</color> for <color=Highlight>{1}s</color> on hit.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>
-Kỹ Năng Cộng Hưởng - Vũ Điệu Sói Quyết Tâm, Kỹ Năng Cộng Hưởng - Vũ Điệu Sói Quyết Tâm - Cực Hạn khi trúng mục tiêu, giảm <color=Highlight>{0}</color> kháng Nhiệt Dung của đối phương, kéo dài <color=Highlight>{1}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极命中时降低目标热熔抗性。,"<color=Highlight>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Resonance Skill - Dance With the Wolf: Climax reduces the target's Fusion RES on hit.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>
-Kỹ Năng Cộng Hưởng - Vũ Điệu Sói Quyết Tâm và Kỹ Năng Cộng Hưởng - Vũ Điệu Sói Quyết Tâm - Cực Hạn khi trúng mục tiêu sẽ giảm kháng Nhiệt Dung của mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc,"<color=#c49e55>【共鸣回路】</color>「阈限状态」期间施放地狱穿行，可额外造成攻击<color=Highlight>{0}</color>的热熔伤害，此次伤害为重击伤害，使周围敌人停滞<color=Highlight>{1}</color>秒，且下次短按普攻可施放普攻第3、4段，并回复<color=Highlight>{2}</color>点「罪火」。
-每次地狱穿行后，提升<color=Highlight>{3}</color>热熔伤害加成，持续<color=Highlight>{4}</color>秒，可叠加<color=Highlight>{5}</color>层。","<color=#c49e55>[Forte Circuit]</color>
-- Casting Hellstride while in Threshold State additionally deals Fusion DMG equal to <color=Highlight>{0}</color> of Galbrena's ATK (considered Heavy Attack DMG) and stagnates nearby enemies for <color=Highlight>{1}s</color>. Using Basic Attack the next time casts Basic Attack Stages 3 and 4 and restores <color=Highlight>{2}</color> points of Sinflame.
-- Each time casting Hellstride grants <color=Highlight>{3}</color> Fusion DMG Bonus for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{5}</color> times.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>
-- Trong ""Trạng Thái Ngưỡng Giới"", thi triển Địa Ngục Xuyên Hành sẽ gây thêm sát thương Nhiệt Dung bằng <color=Highlight>{0}</color> tấn công, sát thương này tính là sát thương Trọng Kích, khiến kẻ địch xung quanh đình trệ <color=Highlight>{1}</color> giây, và lần nhấn Phổ Công tiếp theo sẽ thi triển đoạn 3, 4 Phổ Công, đồng thời hồi phục <color=Highlight>{2}</color> điểm ""Tội Hỏa"".
-- Mỗi lần thi triển Địa Ngục Xuyên Hành, tăng <color=Highlight>{3}</color> bonus sát thương Nhiệt Dung, kéo dài <color=Highlight>{4}</color> giây, cộng dồn tối đa <color=Highlight>{5}</color> tầng."
+lang_multi_text.db,MultiText,ResonantChain_164_AttributesDescription,施放普攻<color=Highlight>幻想照进现实</color>时，队伍中的角色湮灭伤害加成提升{0}，可叠加{1}层，持续{2}秒。满层时，队伍中的角色湮灭伤害加成额外提升{3}，持续{4}秒。,"Casting Basic Attack <color=Highlight>Real Fantasy</color> grants all Resonators in the team {0} Havoc DMG Bonus for {2}s, stacking up to <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1}. Upon reaching the max stacks, it grants all Resonators in the team {3} additional Havoc DMG Bonus for {4}s.","Khi thi triển Đánh Thường <color=Highlight>Ảo Mộng Thành Thực</color>, tất cả nhân vật trong đội được tăng {0} sát thương Hủy Diệt, cộng dồn tối đa {1} tầng, kéo dài {2} giây. Khi đạt tối đa tầng, tất cả nhân vật trong đội được tăng thêm {3} sát thương Hủy Diệt, kéo dài {4} giây."
+lang_multi_text.db,MultiText,ResonantChain_164_NodeIndex,共鸣5-4,Resonance V-IV,Cộng Hưởng 5-4
+lang_multi_text.db,MultiText,ResonantChain_164_NodeName,海萤石闪烁着微弱光芒,When the Luceanite Gleams,Khi viên Luceanite lấp lánh
+lang_multi_text.db,MultiText,ResonantChain_165_AttributesDescription,施放变奏技能<color=Highlight>佩洛，来帮忙</color>时，洛可可暴击提升{0}，暴击伤害提升{1}，持续{2}秒。,"Casting Intro Skill <color=Highlight>Pero, Help</color> increases Roccia's Crit. Rate by {0} and Crit. DMG by {1} for {2}s.","Khi thi triển Biến Tấu <color=Highlight>Pero, Giúp Một Tay</color>, tỷ lệ bạo kích của Roccia tăng {0}, sát thương bạo kích tăng {1}, kéo dài {2} giây."
+lang_multi_text.db,MultiText,ResonantChain_165_NodeName,用心观察，以手丈量,When the Heart Sees and Hands Feel,"Dùng tâm quan sát, lấy tay đo lường"
+lang_multi_text.db,MultiText,ResonantChain_166_AttributesDescription,施放共鸣技能<color=Highlight>高难度设计</color>时，普攻<color=Highlight>幻想照进现实</color>伤害倍率提升{0}，持续{1}秒。,Casting Resonance Skill <color=Highlight>Acrobatic Trick</color> increases Basic Attack <color=Highlight>Real Fantasy</color>'s DMG Multiplier by {0} for {1}s.,"Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kỹ Xảo Cao Cấp</color>, hệ số sát thương của Đánh Thường <color=Highlight>Ảo Mộng Thành Thực</color> tăng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_166_NodeName,千万“奇藏”于箱中汇聚,When Wonders Gather in the Box,Muôn vàn kỳ trân hội tụ trong hộp
+lang_multi_text.db,MultiText,ResonantChain_167_AttributesDescription,共鸣解放<color=Highlight>即兴喜剧，开场</color>伤害倍率提升{0}，<color=Highlight>重击</color>伤害倍率提升{1}。,Increase Resonance Liberation <color=Highlight>Commedia Improvviso!</color>'s DMG Multiplier by {0} and <color=Highlight>Heavy Attack</color>'s DMG Multiplier by {1}.,"Hệ số sát thương Giải Phóng Cộng Hưởng <color=Highlight>Hài Kịch Ứng Tác, Khai Màn</color> tăng {0}, hệ số sát thương <color=Highlight>Đánh Mạnh</color> tăng {1}."
+lang_multi_text.db,MultiText,ResonantChain_167_NodeName,重建乐土，在舞台上,When Dreams Are Reborn on Stage,"Tái dựng thiên đường, trên sân khấu"
+lang_multi_text.db,MultiText,ResonantChain_168_AttributesDescription,"施放共鸣解放<color=Highlight>即兴喜剧，开场</color>时，获得如下效果，{0}秒内：
+·普攻<color=Highlight>幻想照进现实</color>攻击目标时，无视对方{1}的防御。
+·普攻<color=Highlight>幻想照进现实</color>第3段落地后，会将洛可可送上空中，进入<color=Highlight><te href=850016>飞跃幻想</te></color>状态，此时短按<color=Highlight>普攻</color>，将会施放普攻<color=Highlight>构筑现实</color>，普攻<color=Highlight>构筑现实</color>免疫打断，造成普攻<color=Highlight>幻想照进现实</color>第3段{2}的伤害，此次伤害为重击伤害。
+·普攻<color=Highlight>构筑现实</color>落地后，会将洛可可送上空中，进入<color=Highlight><te href=850016>飞跃幻想</te></color>状态。普攻<color=Highlight>构筑现实</color>需要在处于<color=Highlight><te href=850016>飞跃幻想</te></color>状态时才可施放。","Casting Resonance Liberation <color=Highlight>Commedia Improvviso!</color> grants the following effects for {0}s:
+- Basic Attack <color=Highlight>Real Fantasy</color> ignores enemies' DEF by {1}.
+- When Roccia lands after performing Basic Attack <color=Highlight>Real Fantasy</color> Stage 3, she is launched into mid-air, activating <color=Highlight><te href=850016>Beyond Imagination</te></color>. In this state, <color=Highlight>Basic Attack</color> becomes Basic Attack <color=Highlight>Reality Recreation</color>, dealing DMG equal to {2} of Basic Attack <color=Highlight>Real Fantasy</color> Stage 3 DMG, considered Heavy Attack DMG. Roccia is immune to interruptions while casting Basic Attack <color=Highlight>Reality Recreation</color>.
+- When Roccia lands after performing Basic Attack <color=Highlight>Reality Recreation</color>, she is launched into mid-air, activating <color=Highlight><te href=850016>Beyond Imagination</te></color>. Basic Attack <color=Highlight>Reality Recreation</color> is only available in the <color=Highlight><te href=850016>Beyond Imagination</te></color> state.","Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Hài Kịch Ứng Tác, Khai Màn</color>, nhận các hiệu ứng sau trong {0} giây:
+- Đánh Thường <color=Highlight>Ảo Mộng Thành Thực</color> khi tấn công mục tiêu sẽ bỏ qua {1} phòng thủ của đối phương.
+- Sau khi tiếp đất ở đoạn 3 của Đánh Thường <color=Highlight>Ảo Mộng Thành Thực</color>, Roccia sẽ bay lên không trung, tiến vào trạng thái <color=Highlight><te href=850016>Phi Việt Ảo Mộng</te></color>. Lúc này nhấn <color=Highlight>Đánh Thường</color> sẽ thi triển Đánh Thường <color=Highlight>Kiến Tạo Hiện Thực</color>, miễn nhiễm gián đoạn, gây sát thương bằng {2} sát thương đoạn 3 của Đánh Thường <color=Highlight>Ảo Mộng Thành Thực</color>, sát thương này được tính là sát thương Đánh Mạnh.
+- Sau khi tiếp đất từ Đánh Thường <color=Highlight>Kiến Tạo Hiện Thực</color>, Roccia sẽ bay lên không trung, tiến vào trạng thái <color=Highlight><te href=850016>Phi Việt Ảo Mộng</te></color>. Đánh Thường <color=Highlight>Kiến Tạo Hiện Thực</color> chỉ có thể thi triển khi đang ở trạng thái <color=Highlight><te href=850016>Phi Việt Ảo Mộng</te></color>."
+lang_multi_text.db,MultiText,ResonantChain_168_NodeIndex,共鸣6-4,Resonance VI-IV,Cộng Hưởng 6-4
+lang_multi_text.db,MultiText,ResonantChain_168_NodeName,飞吧，乘着金色的翅膀,When the Golden Wings Fly,"Bay lên, trên đôi cánh vàng"
+lang_multi_text.db,MultiText,ResonantChain_169_AttributesDescription,"<color=Highlight>赦罪</color>状态下共鸣解放<color=Highlight>启明之誓愿</color>伤害倍率提升效果从{0}变为{1}。
+<color=Highlight>告解</color>状态下共鸣解放<color=Highlight>启明之誓愿</color>伤害倍率提升{2}，并且附加<color=Highlight>【<te href=850008>光噪效应</te>】</color>层数提升至目标可附加层数的上限。","When in <color=Highlight>Absolution</color>, Resonance Liberation <color=Highlight>Dawn of Enlightenment</color> now increases DMG Multiplier by {1} instead of {0}. 
+When in <color=Highlight>Confession</color>, Resonance Liberation <color=Highlight>Dawn of Enlightenment </color> increases DMG Multiplier by {2} and applies <color=Highlight><te href=850008>Spectro Frazzle</te></color> to the targets with the maximum stack the targets can receive.","Trong trạng thái <color=Highlight>Xá Tội</color>, hiệu ứng tăng hệ số sát thương của Giải Phóng Cộng Hưởng <color=Highlight>Lời Thề Bình Minh</color> thay đổi từ {0} thành {1}.
+Trong trạng thái <color=Highlight>Sám Hối</color>, Giải Phóng Cộng Hưởng <color=Highlight>Lời Thề Bình Minh</color> tăng hệ số sát thương thêm {2}, đồng thời tăng số tầng <color=Highlight>[<te href=850008>Hiệu Ứng Quang Nhiễu</te>]</color> lên giới hạn tối đa mà mục tiêu có thể nhận."
+lang_multi_text.db,MultiText,ResonantChain_169_NodeName,暖灯与枕边的祝愿,Warm Light and Bedside Wishes,Đèn ấm và lời chúc bên gối
+lang_multi_text.db,MultiText,ResonantChain_16_AttributesDescription,施放重击<color=Highlight>星星花绽放</color>、空中攻击<color=Highlight>星星花绽放</color>、共鸣解放<color=Highlight>草木生长</color>或延奏技能<color=Highlight>盛放</color>时，队伍中的角色衍射伤害加成提升{0}，持续{1}秒。,"Heavy Attack <color=Highlight>Starflower Blooms</color>, Mid-Air Attack <color=Highlight>Starflower Blooms</color>, Resonance Liberation <color=Highlight>Arboreal Flourish</color> and Outro Skill <color=Highlight>Blossom</color> increases the Spectro DMG Bonus of all team members by {0} for {1}s.","Khi thi triển Đánh Mạnh <color=Highlight>Sao Nở Rộ</color>, Tấn Công Trên Không <color=Highlight>Sao Nở Rộ</color>, Giải Phóng Cộng Hưởng <color=Highlight>Cỏ Cây Sinh Trưởng</color> hoặc Kỹ Năng Hiệp Tấu <color=Highlight>Nở Rộ</color>, tăng sát thương Quang Phổ cho tất cả thành viên trong đội thêm {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_16_NodeIndex,共鸣4-4,Resonance IV-IV,Cộng Hưởng 4-4
+lang_multi_text.db,MultiText,ResonantChain_16_NodeName,盛放的拥抱,Blossoming Embrace,Vòng tay nở rộ
+lang_multi_text.db,MultiText,ResonantChain_170_AttributesDescription,"<color=Highlight>赦罪</color>状态下，延奏技能对拥有<color=Highlight>【<te href=850008>光噪效应</te>】</color>的目标伤害加深{0}。
+<color=Highlight>告解</color>状态下，<color=Highlight>默祷</color>的<color=Highlight>【<te href=850008>光噪效应</te>】</color>伤害加深效果额外提升{1}。","When in <color=Highlight>Absolution</color>, DMG dealt by Outro Skills to targets with <color=Highlight><te href=850008>Spectro Frazzle</te></color> is Amplified by {0}.
+When in <color=Highlight>Confession</color>, <color=Highlight>Silent Prayer</color> grants {1} more DMG Amplification for <color=Highlight>Spectro Frazzle</color>.","Trong trạng thái <color=Highlight>Xá Tội</color>, sát thương của Kỹ Năng Hiệp Tấu đối với mục tiêu mang <color=Highlight>[<te href=850008>Hiệu Ứng Quang Nhiễu</te>]</color> được khuếch đại thêm {0}.
+Trong trạng thái <color=Highlight>Sám Hối</color>, hiệu ứng khuếch đại sát thương <color=Highlight>[<te href=850008>Hiệu Ứng Quang Nhiễu</te>]</color> của <color=Highlight>Mặc Đảo</color> tăng thêm {1}."
+lang_multi_text.db,MultiText,ResonantChain_170_NodeName,泪水中飘摇的孤船,A Boat Adrift in Tears,Con thuyền cô đơn chao đảo trong nước mắt
+lang_multi_text.db,MultiText,ResonantChain_171_AttributesDescription,"<color=Highlight>赦罪</color>状态下，重击<color=Highlight>星辉</color>伤害倍率提升{0}。
+<color=Highlight>告解</color>状态下，重击<color=Highlight>星辉</color>伤害倍率提升{1}。","When in <color=Highlight>Absolution</color>, the DMG Multiplier of Heavy Attack <color=Highlight>Starflash</color> is increased by {0}.
+When in <color=Highlight>Confession</color>, the DMG Multiplier of Heavy Attack <color=Highlight>Starflash</color> is increased by {1}.","Trong trạng thái <color=Highlight>Xá Tội</color>, hệ số sát thương Đánh Mạnh <color=Highlight>Tinh Huy</color> tăng thêm {0}.
+Trong trạng thái <color=Highlight>Sám Hối</color>, hệ số sát thương Đánh Mạnh <color=Highlight>Tinh Huy</color> tăng thêm {1}."
+lang_multi_text.db,MultiText,ResonantChain_171_NodeName,雏菊编织花环与梦,Daisy Wreaths and Dreams,Vòng hoa và giấc mơ kết từ cúc trắng
+lang_multi_text.db,MultiText,ResonantChain_172_AttributesDescription,<color=Highlight>普攻</color>、普攻<color=Highlight>夏弥尔之星</color>、<color=Highlight>闪避反击</color>、<color=Highlight>夏弥尔之星·闪避反击</color>命中目标时，目标衍射伤害抗性降低{0}，持续{1}秒。,"When <color=Highlight>Basic Attack</color>, Basic Attack <color=Highlight>Chamuel's Star</color>, <color=Highlight>Dodge Counter</color>, or <color=Highlight>Chamuel's Star: Dodge Counter</color> hits, the target's Spectro RES is reduced by {0} for {1}s.","Khi <color=Highlight>Đánh Thường</color>, Đánh Thường <color=Highlight>Ngôi Sao Chamuel</color>, <color=Highlight>Né Phản Công</color> hoặc <color=Highlight>Ngôi Sao Chamuel - Né Phản Công</color> trúng mục tiêu, giảm kháng sát thương Quang Phổ của mục tiêu thêm {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_172_NodeIndex,共鸣1-4,Resonance I-IV,Cộng Hưởng 1-4
+lang_multi_text.db,MultiText,ResonantChain_172_NodeName,再次敲响振翅的钟声,Ringing Bells on Wings Aloft,Gióng lại tiếng chuông vỗ cánh
+lang_multi_text.db,MultiText,ResonantChain_173_AttributesDescription,施放变奏技能<color=Highlight>金色恩典</color>时，菲比的衍射伤害加成提升{0}，持续{1}秒。,Casting Intro Skill <color=Highlight>Golden Grace</color> increases Phoebe's Spectro DMG Bonus by {0} for {1}s.,"Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Ân Sủng Vàng</color>, sát thương Quang Phổ của Phoebe tăng thêm {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_173_NodeName,向遥远光辉虔声祈祷,Prayer to the Distant Light,Lời cầu nguyện hướng về ánh sáng xa xôi
+lang_multi_text.db,MultiText,ResonantChain_174_AttributesDescription,"【<te href=850007>镜之环</te>】的停滞效果增加{0}秒。【<te href=850007>镜之环</te>】持续期间，对每个进入【<te href=850007>镜之环</te>】的目标施加停滞效果；同一个【<te href=850007>镜之环</te>】最多可对12个目标施加停滞效果，且对每个目标只能施加一次。
+<color=Highlight>赦罪</color>状态、<color=Highlight>告解</color>状态下，菲比施放<color=Highlight>共鸣技能</color>召唤【<te href=850007>镜之环</te>】时，攻击提升{1}，持续{2}秒，同时向【<te href=850007>镜之环</te>】位置附带一次重击<color=Highlight>星辉</color>。此次重击<color=Highlight>星辉</color>不消耗【<te href=850014>福音</te>】，不视为施放<color=Highlight>重击</color>。","Targets entering the <te href=850007>Ring of Mirrors</te> are stagnated for an additional {0}s. The stagnation effect affects all targets entering the Ring of Mirrors and can be applied to 12 targets max for each Ring of Mirrors. Each target will only be affected by this effect once.
+When in <color=Highlight>Absolution</color> or <color=Highlight>Confession</color>, summoning a <te href=850007>Ring of Mirrors</te> with <color=Highlight>Resonance Skill</color> increases Phoebe's ATK by {1} for {2}s, and triggers an extra Heavy Attack <color=Highlight>Starflash</color> at the Ring of Mirrors' location. This Heavy Attack <color=Highlight>Starflash</color> does not consume <te href=850014>Divine Voice</te> and is not considered as casting a <color=Highlight>Heavy Attack</color>.","Hiệu ứng đình trệ của [<te href=850007>Vòng Gương</te>] tăng thêm {0} giây. Trong thời gian [<te href=850007>Vòng Gương</te>] tồn tại, mỗi mục tiêu bước vào [<te href=850007>Vòng Gương</te>] sẽ bị đình trệ; mỗi [<te href=850007>Vòng Gương</te>] tối đa có thể đình trệ 12 mục tiêu, mỗi mục tiêu chỉ bị tác động một lần.
+Trong trạng thái <color=Highlight>Xá Tội</color> hoặc <color=Highlight>Sám Hối</color>, khi Phoebe thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color> triệu hồi [<te href=850007>Vòng Gương</te>], tấn công tăng thêm {1}, kéo dài {2} giây, đồng thời kích hoạt thêm một lần Đánh Mạnh <color=Highlight>Tinh Huy</color> tại vị trí [<te href=850007>Vòng Gương</te>]. Đánh Mạnh <color=Highlight>Tinh Huy</color> này không tiêu hao [<te href=850014>Phúc Âm</te>] và không được tính là thi triển <color=Highlight>Đánh Mạnh</color>."
+lang_multi_text.db,MultiText,ResonantChain_174_NodeName,于静寂窗边啁啾歌唱,Whispering Chirps in Silence,Tiếng hót líu lo bên khung cửa tĩnh lặng
+lang_multi_text.db,MultiText,ResonantChain_175_AttributesDescription,"<color=Highlight>火焰归亡曲</color>施放期间会短暂停滞周围的目标，若在此期间切换至其他角色则提前结束停滞效果。
+施放变奏技能<color=Highlight>为我！</color>后或每次<color=Highlight>空中攻击空翻</color>时，布兰特造成伤害提升{0}，持续{1}秒，可叠加{2}层。","<color=Highlight>Returned from Ashes</color> temporarily causes nearby targets to stagnate while casting. The stagnation effect is removed when Brant is switched off the field.
+After casting Intro Skill <color=Highlight>Applaud for Me!</color> or each <color=Highlight>flip</color> following Mid-air Attack, Brant's DMG dealt is increased by {0} for {1}s, stacking up to {2} times.","Trong thời gian thi triển <color=Highlight>Khúc Lửa Hồi Sinh</color>, các mục tiêu xung quanh sẽ bị đình trệ trong thời gian ngắn; nếu chuyển sang nhân vật khác trong thời gian này thì hiệu ứng đình trệ sẽ kết thúc sớm.
+Sau khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Vỗ Tay Cho Tôi!</color> hoặc mỗi lần <color=Highlight>nhào lộn trên không</color>, sát thương Brant gây ra tăng thêm {0}, kéo dài {1} giây, cộng dồn tối đa {2} tầng."
+lang_multi_text.db,MultiText,ResonantChain_175_NodeName,跟随洋流和信风,By Currents and Winds,Theo dòng hải lưu và gió tín phong
+lang_multi_text.db,MultiText,ResonantChain_176_AttributesDescription,"施放<color=Highlight>空中攻击</color>和<color=Highlight>火焰归亡曲</color>时暴击提升{0}。
+布兰特延奏技能<color=Highlight>航向确定！</color>获得额外效果，{2}秒内：
+下一位登场角色或附近队伍中激活布兰特延奏技能的角色施放<color=Highlight>共鸣技能</color>命中目标时，布兰特将攻击目标，会产生一次爆炸，造成布兰特攻击{1}的热熔伤害，此次伤害为普攻伤害。爆炸每秒可触发{3}次，最多可触发{4}次爆炸。
+·切换至其他角色会保留该额外效果。","Casting <color=Highlight>Mid-air Attack</color> and <color=Highlight>Returned from Ashes</color> increases Brant's Crit. Rate by {0}. 
+Brant's Outro Skill <color=Highlight>The Course is Set!</color> gains a new enhancement:
+When <color=Highlight>Resonance Skill</color> cast by the incoming Resonator (or nearby Resonators who activate Brant's Outro Skill) hits a target within {2}s after Brant's Outro Skill, Brant blasts the hit target, dealing <color=Fire>Fusion DMG</color> equal to {1} of Brant's ATK (considered Basic Attack DMG). This explosion can be triggered <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} per second, up to {4} explosions in total.
+- This effect remains active when Brant is switched off the field.","Khi thi triển <color=Highlight>Tấn Công Trên Không</color> và <color=Highlight>Khúc Lửa Hồi Sinh</color>, tỷ lệ bạo kích tăng thêm {0}.
+Kỹ Năng Hiệp Tấu <color=Highlight>Xác Định Hành Trình!</color> của Brant nhận thêm hiệu ứng bổ sung, trong {2} giây:
+Khi nhân vật tiếp theo ra sân hoặc nhân vật trong đội gần đó kích hoạt Kỹ Năng Hiệp Tấu của Brant thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color> trúng mục tiêu, Brant sẽ tấn công mục tiêu đó, tạo ra một vụ nổ, gây sát thương Hỏa Liệt bằng {1} tấn công của Brant. Sát thương này được tính là sát thương Đánh Thường. Vụ nổ có thể kích hoạt {3} lần mỗi giây, tối đa {4} vụ nổ.
+- Hiệu ứng bổ sung này vẫn được giữ khi chuyển sang nhân vật khác."
+lang_multi_text.db,MultiText,ResonantChain_176_NodeIndex,共鸣2-4,Resonance II-IV,Cộng Hưởng 2-4
+lang_multi_text.db,MultiText,ResonantChain_176_NodeName,掠夺欢声与笑颜,For Smiles and Cheers,Cướp lấy tiếng cười và nụ cười
+lang_multi_text.db,MultiText,ResonantChain_177_AttributesDescription,<color=Highlight>火焰归亡曲</color>伤害倍率提升{0}。,The DMG Multiplier of <color=Highlight>Returned from Ashes</color> is increased by {0}.,Hệ số sát thương của <color=Highlight>Khúc Lửa Hồi Sinh</color> tăng thêm {0}.
+lang_multi_text.db,MultiText,ResonantChain_177_NodeName,无惧惊涛骇浪,Through Storms I Sail,Không sợ sóng gió cuồng nộ
+lang_multi_text.db,MultiText,ResonantChain_178_AttributesDescription,<color=Highlight>火焰归亡曲</color>获得的护盾量提升{0}，布兰特施放<color=Highlight>火焰归亡曲</color>时，会回复附近队伍所有角色的生命值（每{1}的共鸣效率回复{2}点生命值）。,The Shield obtained from <color=Highlight>Returned from Ashes</color> is increased by {0}. Casting <color=Highlight>Returned from Ashes</color> restores HP for all nearby Resonators in the team ({2} HP for every {1} Energy Regen).,"Lượng khiên nhận được từ <color=Highlight>Khúc Lửa Hồi Sinh</color> tăng thêm {0}. Khi Brant thi triển <color=Highlight>Khúc Lửa Hồi Sinh</color>, hồi phục sinh lực cho tất cả thành viên trong đội gần đó (mỗi {1} hiệu suất cộng hưởng hồi phục {2} điểm sinh lực)."
+lang_multi_text.db,MultiText,ResonantChain_178_NodeName,纵情放声歌唱,To Freedom I Sing,Tự Do Cất Tiếng Hát
+lang_multi_text.db,MultiText,ResonantChain_179_AttributesDescription,造成普攻伤害时，<color=Highlight>普攻伤害加成</color>提升{0}，持续{1}秒。,Dealing Basic Attack DMG gives Brant {0} <color=Highlight>Basic Attack DMG Bonus</color> for {1}s.,"Khi gây sát thương Đánh Thường, <color=Highlight>sát thương Đánh Thường tăng thêm</color> tăng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_179_NodeName,演员说：生活皆舞台,All the World's an Actor's Stage,Diễn Viên Nói: Cuộc Đời Là Sân Khấu
+lang_multi_text.db,MultiText,ResonantChain_17_AttributesDescription,治疗生命值低于{0}的角色时，维里奈的治疗效果加成提升{1}。,"When Verina heals a team member with HP less than {0}, her Healing is increased by {1}.","Khi hồi phục cho nhân vật có HP dưới {0}, hiệu quả hồi phục của Verina tăng {1}."
+lang_multi_text.db,MultiText,ResonantChain_17_NodeName,结果的奇迹,Miraculous Blooms,Phép Màu Đơm Hoa
+lang_multi_text.db,MultiText,ResonantChain_180_AttributesDescription,"<color=Highlight>空中攻击</color>的倍率提升{0}。
+施放<color=Highlight>火焰归亡曲</color>后，会在原地产生一次再燃，造成等同于<color=Highlight>火焰归亡曲</color>{1}的<color=Fire>热熔伤害</color>，此次伤害为普攻伤害。","<color=Highlight>Mid-air Attack's</color> DMG Multiplier is increased by {0}. Casting <color=Highlight>Returned from Ashes</color> causes a secondary blast, dealing <color=Fire>Fusion DMG</color> equal to {1} of the DMG dealt by <color=Highlight>Returned from Ashes</color>, considered Basic Attack DMG.","Hệ số sát thương <color=Highlight>Tấn Công Trên Không</color> tăng {0}.
+Sau khi thi triển <color=Highlight>Khúc Ca Lửa Hồi Sinh</color>, sẽ tạo ra một lần bùng cháy lại tại chỗ, gây <color=Fire>sát thương Hỏa Liệt</color> bằng {1} sát thương của <color=Highlight>Khúc Ca Lửa Hồi Sinh</color>, sát thương này được tính là sát thương Đánh Thường."
+lang_multi_text.db,MultiText,ResonantChain_180_NodeIndex,共鸣3-4,Resonance III-IV,Cộng Hưởng 3-4
+lang_multi_text.db,MultiText,ResonantChain_180_NodeName,船长答：狂欢即世界！,All the World's a Captain's Carnevale,Thuyền Trưởng Đáp: Lễ Hội Chính Là Thế Giới!
+lang_multi_text.db,MultiText,ResonantChain_181_AttributesDescription,施放<color=Highlight>共鸣技能</color>时，回复{0}点【迷离】。共鸣技能<color=Highlight>翩跹</color>、共鸣技能<color=Highlight>斑驳幻梦</color>、共鸣回路<color=Highlight>感知汲取</color>的伤害倍率提升{1}。共鸣回路<color=Highlight>感知汲取</color>免疫打断。,"Casting <color=Highlight>Resonance Skill</color> recovers <SapTag=0>{0}</SapTag> {Cus:Sap,S=point P=points SapTag=0} of Trance. The DMG Multiplier of Resonance Skill <color=Highlight>Graceful Step</color>, Resonance Skill <color=Highlight>Flickering Reverie</color>, and Forte Circuit <color=Highlight>Perception Drain</color> is increased by {1}. Immune to interruptions while casting <color=Highlight>Perception Drain</color>.","Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color>, hồi phục {0} điểm [Mê Ly]. Hệ số sát thương của Kỹ Năng Cộng Hưởng <color=Highlight>Bước Chân Uyển Chuyển</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Mộng Ảo Lấp Lánh</color>, Mạch Cộng Hưởng <color=Highlight>Hấp Thu Giác Quan</color> tăng {1}. Mạch Cộng Hưởng <color=Highlight>Hấp Thu Giác Quan</color> miễn nhiễm gián đoạn."
+lang_multi_text.db,MultiText,ResonantChain_181_NodeName,在无尽展开的波涛里,Embrace the Endless Waves,Giữa Những Đợt Sóng Bất Tận
+lang_multi_text.db,MultiText,ResonantChain_182_AttributesDescription,共鸣解放<color=Highlight>陷溺</color>可以使目标进入<color=Highlight><te href=850055>迷梦</te></color>，坎特蕾拉触发<color=Highlight>惊醒</color>的伤害倍率提升{0}。,Resonance Liberation <color=Highlight>Flowing Suffocation</color> now sends the target into <color=Highlight><te href=850055>Hazy Dream</te></color>. The DMG Multiplier of <color=Highlight>Jolt</color> triggered by Cantarella is increased by {0}.,"Giải Phóng Cộng Hưởng <color=Highlight>Chìm Đắm</color> có thể khiến mục tiêu rơi vào trạng thái <color=Highlight><te href=850055>Mộng Mị</te></color>, hệ số sát thương khi Cantarella kích hoạt <color=Highlight>Giật Mình Tỉnh Giấc</color> tăng {0}."
+lang_multi_text.db,MultiText,ResonantChain_182_NodeName,坠入迷离幻梦,Surrender to the Illusive Reverie,Rơi Vào Giấc Mộng Mê Ly
+lang_multi_text.db,MultiText,ResonantChain_183_AttributesDescription,共鸣解放<color=Highlight>陷溺</color>的伤害倍率提升{0}。施放共鸣解放陷溺后，直接进入<color=Highlight><te href=850054>蜃境状态</te></color>。若当前已处于<color=Highlight><te href=850054>蜃境状态</te></color>，施放共鸣解放陷溺不会重复进入。,"The DMG Multiplier of Resonance Liberation <color=Highlight>Flowing Suffocation</color> is increased by {0}. After casting Resonance Liberation <color=Highlight>Flowing Suffocation</color>, enter into <color=Highlight><te href=850054>Mirage</te></color>. If already in <color=Highlight><te href=850054>Mirage</te></color>, casting Resonance Liberation <color=Highlight>Flowing Suffocation</color> does not activate the Mirage state again.","Hệ số sát thương Giải Phóng Cộng Hưởng <color=Highlight>Chìm Đắm</color> tăng {0}. Sau khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Chìm Đắm</color>, trực tiếp vào <color=Highlight><te href=850054>Trạng Thái Ảo Ảnh</te></color>. Nếu đang ở trong <color=Highlight><te href=850054>Trạng Thái Ảo Ảnh</te></color>, thi triển Giải Phóng Cộng Hưởng <color=Highlight>Chìm Đắm</color> sẽ không kích hoạt lại."
+lang_multi_text.db,MultiText,ResonantChain_183_NodeName,凝视着深渊,Gaze into the Abyss,Nhìn Chằm Chằm Vào Vực Sâu
+lang_multi_text.db,MultiText,ResonantChain_184_AttributesDescription,<color=Highlight><te href=850054>蜃境状态</te></color>期间，治疗效果加成提升{0}。,"When in <color=Highlight><te href=850054>Mirage</te></color>, Healing Bonus is increased by {0}.","Trong <color=Highlight><te href=850054>Trạng Thái Ảo Ảnh</te></color>, hiệu quả hồi phục tăng {0}."
+lang_multi_text.db,MultiText,ResonantChain_184_NodeIndex,共鸣4-4,Resonance IV-IV,Cộng Hưởng 4-4
+lang_multi_text.db,MultiText,ResonantChain_184_NodeName,就像凝视自己的灵魂,Behold Your Own Soul,Như Đang Nhìn Vào Linh Hồn Của Chính Mình
+lang_multi_text.db,MultiText,ResonantChain_185_AttributesDescription,共鸣解放<color=Highlight>弥漫</color>的<color=Highlight>织梦水母</color>的最大召唤数增加{0}。,The maximum number of <color=Highlight>Dreamweavers</color> Cantarella can summon through Resonance Liberation <color=Highlight>Diffusion</color> is increased by {0}.,Số lượng triệu hồi tối đa của <color=Highlight>Sứa Dệt Mộng</color> từ Giải Phóng Cộng Hưởng <color=Highlight>Lan Tỏa</color> tăng thêm {0}.
+lang_multi_text.db,MultiText,ResonantChain_185_NodeName,投到倒影的怀里,Rest in Your Reflection,Lao Vào Vòng Tay Của Bóng Phản Chiếu
+lang_multi_text.db,MultiText,ResonantChain_186_AttributesDescription,"普攻<color=Highlight>蛰幻</color>的伤害倍率提升{0}。施放共鸣解放<color=Highlight>陷溺</color>时，坎特蕾拉的伤害无视目标{1}防御，持续{2}秒。
+<color=Highlight><te href=850055>迷梦</te></color>的前1.2秒，目标受到伤害时，若此次伤害没有附加<color=Highlight><te href=850055>迷梦</te></color>，则目标不会触发<color=Highlight>惊醒</color>。","Increase the DMG Multiplier of Basic Attack <color=Highlight>Phantom Sting</color> by {0}. Casting Resonance Liberation <color=Highlight>Flowing Suffocation</color> makes Cantarella's DMG ignore {1} of the target's DEF for {2}s.
+For the first 1.2s of <color=Highlight><te href=850055>Hazy Dream</te></color>, when the target takes an instance of DMG that does not inflict <color=Highlight>Hazy Dream</color>, <color=Highlight>Jolt</color> will not be triggered on the target.","Hệ số sát thương Đánh Thường <color=Highlight>Ảo Ảnh Châm Chích</color> tăng {0}. Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Chìm Đắm</color>, sát thương của Cantarella bỏ qua {1} phòng thủ mục tiêu, kéo dài {2} giây.
+Trong 1.2 giây đầu của <color=Highlight><te href=850055>Mộng Mị</te></color>, khi mục tiêu nhận sát thương mà sát thương đó không gây thêm <color=Highlight><te href=850055>Mộng Mị</te></color>, mục tiêu sẽ không kích hoạt <color=Highlight>Giật Mình Tỉnh Giấc</color>."
+lang_multi_text.db,MultiText,ResonantChain_186_NodeName,下坠、下坠……坠入更深的幻梦,"Fall, Fall... and Fall Deeper into the Dream","Rơi, Rơi... Rơi Sâu Hơn Vào Giấc Mộng"
+lang_multi_text.db,MultiText,ResonantChain_187_AttributesDescription,施放空中攻击<color=Highlight>抃风儛润</color>时，获得抗打断提升效果，持续{0}秒。,Casting Mid-air Attack <color=Highlight>Cloudburst Dance</color> enhances Rover's resistance to interruption for {0}s.,"Khi thi triển tấn công trên không <color=Highlight>Múa Gió Mưa Lành</color>, nhận hiệu ứng tăng kháng gián đoạn, kéo dài {0} giây."
+lang_multi_text.db,MultiText,ResonantChain_187_NodeName,风止息于无明界,Storm Subsides in the Void,Gió Lặng Nơi Cõi Vô Minh
+lang_multi_text.db,MultiText,ResonantChain_188_AttributesDescription,施放共鸣技能<color=Highlight>缥缈无相</color>时，队伍中登场角色获得持续回复生命效果，每{0}秒回复漂泊者{1}攻击的生命值，持续{2}秒。期间登场角色生命值低于{3}时，立即回复登场角色已损失生命值{4}的生命值，该效果每{5}秒可触发1次，且不受治疗效果加成影响。,"Casting Resonance Skill <color=Highlight>Unbound Flow</color> continuously restores HP for the Resonator on the field by {1} of Rover's ATK every {0}s for {2}s. When the Resonator on the field has an HP lower than {3}, immediately restore {4} of their lost HP. This restoration effect can be triggered once every {5}s and will not be affected by any Healing Bonus.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phiêu Miểu Vô Tướng</color>, nhân vật đang ra trận trong đội nhận hiệu ứng hồi phục HP liên tục, mỗi {0} giây hồi phục lượng HP bằng {1} tấn công của Lữ Khách, kéo dài {2} giây. Trong thời gian hiệu lực, khi HP nhân vật ra trận dưới {3}, lập tức hồi phục lượng HP bằng {4} HP đã mất, hiệu ứng này có thể kích hoạt 1 lần mỗi {5} giây và không chịu ảnh hưởng từ hiệu quả hồi phục tăng thêm."
+lang_multi_text.db,MultiText,ResonantChain_188_NodeIndex,共鸣5-4,Resonance V-IV,Cộng Hưởng 5-4
+lang_multi_text.db,MultiText,ResonantChain_188_NodeName,流光乍隐于长夜,Glimmers Fade into the Dark,Ánh sáng khuất lấp trong đêm dài
+lang_multi_text.db,MultiText,ResonantChain_189_AttributesDescription,气动伤害加成提升{0}。,Aero DMG Bonus is increased by {0}.,Tăng thêm sát thương Khí Động {0}.
+lang_multi_text.db,MultiText,ResonantChain_189_NodeName,虚相陷落于掌中,Illusions Collapse in a Grip,Ảo ảnh sụp đổ trong tay
+lang_multi_text.db,MultiText,ResonantChain_18_AttributesDescription,重击<color=Highlight>星星花绽放</color>及空中攻击<color=Highlight>星星花绽放</color>的伤害提升{0}，命中目标时触发{1}次协同攻击，并为附近队伍中所有角色回复生命值，此次协同攻击伤害和回复生命值等同于共鸣解放<color=Highlight>光合标记</color>。,Heavy Attack <color=Highlight>Starflower Blooms</color> and Mid-air Attack <color=Highlight>Starflower Blooms</color> deal {0} more DMG. They will trigger Coordinated Attack {1} time and heal all characters nearby. The damage of this Coordinated Attack and the Healing are equal to those of the Resonance Liberation's <color=Highlight>Photosynthesis Mark</color>.,"Sát thương Đánh Mạnh <color=Highlight>Tinh Hoa Nở Rộ</color> và tấn công trên không <color=Highlight>Tinh Hoa Nở Rộ</color> tăng {0}. Khi trúng mục tiêu sẽ kích hoạt {1} lần tấn công hiệp đồng, đồng thời hồi phục sinh lực cho tất cả nhân vật trong đội ở gần. Sát thương và lượng hồi phục của tấn công hiệp đồng này tương đương Giải Phóng Cộng Hưởng <color=Highlight>Dấu Quang Hợp</color>."
+lang_multi_text.db,MultiText,ResonantChain_18_NodeName,丰收的喜悦,Joyous Harvest,Niềm vui thu hoạch
+lang_multi_text.db,MultiText,ResonantChain_190_AttributesDescription,施放空中攻击<color=Highlight>抃风儛润</color>时，共鸣技能伤害加成提升{0}，持续{1}秒。,Casting Mid-air Attack <color=Highlight>Cloudburst Dance</color> increases Resonance Skill DMG Bonus by {0} for {1}s.,"Khi thi triển tấn công trên không <color=Highlight>Múa Gió Mưa</color>, tăng thêm sát thương Kỹ Năng Cộng Hưởng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_190_NodeName,界限崩折于刹那,Boundaries Shatter in an Instant,Ranh giới vỡ tan trong khoảnh khắc
+lang_multi_text.db,MultiText,ResonantChain_191_AttributesDescription,共鸣解放<color=Highlight>万象归墟</color>伤害倍率提升{0}。,The DMG Multiplier of Resonance Liberation <color=Highlight>Omega Storm</color> is increased by {0}.,Hệ số sát thương Giải Phóng Cộng Hưởng <color=Highlight>Vạn Tượng Quy Hư</color> tăng {0}.
+lang_multi_text.db,MultiText,ResonantChain_191_NodeName,生灭交错于来路,Life and Death Intertwine,Sinh diệt đan xen trên đường đã qua
+lang_multi_text.db,MultiText,ResonantChain_192_AttributesDescription,共鸣技能<color=Highlight>缥缈无相</color>伤害倍率提升{0}。,The DMG Multiplier of Resonance Skill <color=Highlight>Unbound Flow</color> is increased by {0}.,Hệ số sát thương Kỹ Năng Cộng Hưởng <color=Highlight>Phiêu Miểu Vô Tướng</color> tăng {0}.
+lang_multi_text.db,MultiText,ResonantChain_192_NodeIndex,共鸣6-4,Resonance VI-IV,Cộng Hưởng 6-4
+lang_multi_text.db,MultiText,ResonantChain_192_NodeName,万象崩落于风间,All Crumble in the Wind,Vạn vật sụp đổ giữa gió
+lang_multi_text.db,MultiText,ResonantChain_193_AttributesDescription,"施放<color=Highlight>集中压制</color>或<color=Highlight>破袭反击</color>时，衍射伤害加成提升{0}，持续{1}秒。
+<color=Highlight>重斩·终夜</color>免疫打断。","Casting <color=Highlight>Targeted Action</color> or <color=Highlight>Forcible Riposte</color> gives a {0} Spectro DMG Bonus for {1}s.
+Resonance Skill <color=Highlight>Heavy Slash - Nightfall</color> can't be interrupted.","Khi thi triển <color=Highlight>Áp Chế Tập Trung</color> hoặc <color=Highlight>Phản Kích Phá Tập</color>, tăng thêm sát thương Quang Phổ {0}, kéo dài {1} giây.
+<color=Highlight>Trọng Trảm - Trường Dạ</color> miễn nhiễm gián đoạn."
+lang_multi_text.db,MultiText,ResonantChain_193_NodeName,当清晨闹钟响起时,When the Alarm Clock Rings,Khi chuông báo thức buổi sáng vang lên
+lang_multi_text.db,MultiText,ResonantChain_194_AttributesDescription,"暴击提升{0}。
+<color=Highlight>集中压制</color>、<color=Highlight>破袭反击</color>倍率提升{1}。","Crit. Rate is increased by {0}.
+The DMG Multiplier of <color=Highlight>Targeted Action</color> and <color=Highlight>Forcible Riposte</color> is increased by {1}.","Tỷ lệ bạo kích tăng {0}.
+Hệ số sát thương <color=Highlight>Áp Chế Tập Trung</color>, <color=Highlight>Phản Kích Phá Tập</color> tăng {1}."
+lang_multi_text.db,MultiText,ResonantChain_194_NodeName,冷面包配饮料,Stale Bread With Energy Drink,Bánh mì nguội kèm nước uống
+lang_multi_text.db,MultiText,ResonantChain_195_AttributesDescription,处于<color=Highlight><te href=850064>灼焰形态</te></color>时每消耗{0}点【<te href=850065>焰光</te>】，本次共鸣解放<color=Highlight>终绝将至之刻</color>最后一段伤害倍率增加{1}，最多增加{2}。,"When in <color=Highlight><te href=850064>Inferno Mode</te></color>, every {0} <te href=850065>Blazes</te> consumed increases the last stage DMG Multiplier of the subsequent Resonance Liberation <color=Highlight>The Last Stand</color> by {1}, maxed at {2}.","Khi ở trạng thái <color=Highlight><te href=850064>Chước Diễm</te></color>, cứ mỗi {0} điểm [<te href=850065>Diễm Quang</te>] tiêu hao, hệ số sát thương đoạn cuối của Giải Phóng Cộng Hưởng <color=Highlight>Khoảnh Khắc Tận Diệt</color> tăng thêm {1}, tối đa tăng {2}."
+lang_multi_text.db,MultiText,ResonantChain_195_NodeName,日复一日的通勤,Each Day A New Commute,Hành trình đi làm ngày qua ngày
+lang_multi_text.db,MultiText,ResonantChain_196_AttributesDescription,施放变奏技能<color=Highlight>即刻执行</color>时，队伍中的角色攻击提升{0}，持续{1}秒。,"When Intro Skill <color=Highlight>Immediate Execution</color> is cast, the ATK of all Resonators in the team is increased by {0} for {1}s.","Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Thi Hành Ngay Lập Tức</color>, tấn công của tất cả nhân vật trong đội tăng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_196_NodeIndex,共鸣1-4,Resonance I-IV,Cộng Hưởng 1-4
+lang_multi_text.db,MultiText,ResonantChain_196_NodeName,高效节能主义者,"More Efficiency, Less Drama",Người theo chủ nghĩa hiệu quả tiết kiệm
+lang_multi_text.db,MultiText,ResonantChain_197_AttributesDescription,共鸣解放<color=Highlight>重燃</color>倍率提升{0}。,The DMG Multiplier of Resonance Liberation <color=Highlight>Rekindle</color> is increased by {0}.,Hệ số sát thương Giải Phóng Cộng Hưởng <color=Highlight>Tái Bùng Cháy</color> tăng {0}.
+lang_multi_text.db,MultiText,ResonantChain_197_NodeName,一切需求按时完成,Delivered In Full On Time,Mọi yêu cầu hoàn thành đúng hạn
+lang_multi_text.db,MultiText,ResonantChain_198_AttributesDescription,"<color=Highlight>重斩·破晓</color>、<color=Highlight>重斩·将明</color>、<color=Highlight>重斩·终夜</color>、<color=Highlight>重斩·闪裂</color>倍率提升{0}。<color=Highlight>重斩·终夜</color>命中时消耗的每点【<te href=850065>焰光</te>】额外增加倍率提升{0}。
+处于<color=Highlight><te href=850064>灼焰形态</te></color>时获得以下效果：
+·【<te href=850065>焰光</te>】低于{1}点时立即回复{2}点，<color=Highlight><te href=850064>灼焰形态</te></color>期间可触发1次。
+·进入<color=Highlight><te href=850064>灼焰形态</te></color> 后{3}秒内受到致死伤害时不会倒下，最少保留1点生命值。","The DMG Multipliers of <color=Highlight>Heavy Slash - Daybreak</color>, <color=Highlight>Heavy Slash- Dawning</color>, <color=Highlight>Heavy Slash - Nightfall</color>, and <color=Highlight>Heavy Slash - Lightsmash</color> are increased by {0}. Every <te href=850065>Blaze</te> consumed increases the DMG Multiplier of <color=Highlight>Heavy Slash - Nightfall</color> by {0} on hit.
+Gain following effects when in <color=Highlight><te href=850064>Inferno Mode</te></color>: 
+- When Blaze is lower than {1}, restore {2} Blazes immediately. This effect is triggered once in <color=Highlight>Inferno Mode</color>.
+- Within {3}s after entering <color=Highlight>Inferno Mode</color>, Zani will remain standing with at least 1 HP if hit by a fatal blow.","Hệ số sát thương <color=Highlight>Trọng Trảm - Phá Hiểu</color>, <color=Highlight>Trọng Trảm - Tương Minh</color>, <color=Highlight>Trọng Trảm - Trường Dạ</color>, <color=Highlight>Trọng Trảm - Thiểm Liệt</color> tăng {0}. Mỗi điểm [<te href=850065>Diễm Quang</te>] tiêu hao khi <color=Highlight>Trọng Trảm - Trường Dạ</color> trúng mục tiêu sẽ tăng thêm hệ số sát thương {0}.
+Khi ở trạng thái <color=Highlight><te href=850064>Chước Diễm</te></color> nhận được các hiệu ứng sau:
+- Khi [<te href=850065>Diễm Quang</te>] thấp hơn {1} điểm, lập tức hồi phục {2} điểm, trong thời gian <color=Highlight><te href=850064>Chước Diễm</te></color> chỉ kích hoạt 1 lần.
+- Trong {3} giây sau khi vào trạng thái <color=Highlight><te href=850064>Chước Diễm</te></color>, khi nhận sát thương chí mạng sẽ không gục ngã, giữ lại tối thiểu 1 điểm sinh lực."
+lang_multi_text.db,MultiText,ResonantChain_198_NodeName,当务之急？下班！,First Things First? Clock Out!,Việc cấp bách nhất? Tan ca!
+lang_multi_text.db,MultiText,ResonantChain_199_AttributesDescription,施放共鸣技能<color=Highlight>谐律速奏</color>时，夏空获得免疫打断的效果，持续{0}秒；施放普攻时，夏空的攻击提升{1}，持续{2}秒。,Casting Resonance Skill <color=Highlight>Harmonic Allegro</color> grants Ciaccona immunity to interruption for {0}s. Casting Basic Attack increases Ciaccona's ATK by {1} for {2}s.,"Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Hòa Điệu Tốc Tấu</color>, Ciaccona được miễn nhiễm gián đoạn trong {0} giây; khi thi triển Đánh Thường, tấn công của Ciaccona tăng {1}, kéo dài {2} giây."
+lang_multi_text.db,MultiText,ResonantChain_199_NodeName,故风的吟游序曲,Where Wind Sings,Khúc Dạo Đầu Của Gió Xưa
+lang_multi_text.db,MultiText,ResonantChain_19_AttributesDescription,施放<color=Highlight>第5段普攻</color>时，散华自身暴击提升{0}，持续{1}秒。,<color=Highlight>Basic Attack V</color> increases Sanhua's Crit. Rate by {0} for {1}s.,"Khi thi triển <color=Highlight>Đánh Thường đoạn 5</color>, tỷ lệ bạo kích của Tản Hoa tăng {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_19_NodeName,孤身孑然,Solitude's Embrace,Một Mình Lẻ Bóng
+lang_multi_text.db,MultiText,ResonantChain_1_AttributesDescription,施放变奏技能<color=Highlight>湛蓝礼赞</color>后，秧秧的气动伤害加成额外提升{0}，效果持续{1}秒。,Intro Skill <color=Highlight>Cerulean Song</color> increases Yangyang's Aero DMG Bonus by an additional {0} for {1}s.,"Sau khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Tụng Ca Xanh Thẳm</color>, bonus sát thương Khí Động của Ương Ương tăng thêm {0}, kéo dài {1} giây."
+lang_multi_text.db,MultiText,ResonantChain_1_NodeName,底色湛蓝如洗,"Sapphire Skies, 
+Soaring Sparrows",Nền Trời Xanh Trong Vắt
+lang_multi_text.db,MultiText,ResonantChain_200_AttributesDescription,共鸣解放<color=Highlight>歌者的三重华彩</color>持续期间队伍中的角色气动伤害加成提升{0}。,"During Resonance Liberation <color=Highlight>Singer's Triple Cadenza</color>, Resonators in the team gain {0} Aero DMG Bonus.","Trong thời gian Giải Phóng Cộng Hưởng <color=Highlight>Ba Lớp Hoa Sắc Của Ca Giả</color> hoạt động, bonus sát thương Khí Động của các nhân vật trong đội tăng {0}."
+lang_multi_text.db,MultiText,ResonantChain_200_NodeIndex,共鸣2-4,Resonance 2-4,Cộng Hưởng 2-4
+lang_multi_text.db,MultiText,ResonantChain_200_NodeName,四季的连奏之音,Song of the Four Seasons,Thanh Âm Nối Liền Bốn Mùa
+lang_multi_text.db,MultiText,ResonantChain_201_AttributesDescription,施放<color=Highlight>普攻第4段</color>时可额外获得{0}格【<te href=850061>音律</te>】；共鸣技能<color=Highlight>谐律速奏</color>可使用次数增加1次。,"Casting <color=Highlight>Basic Attack Stage 4</color> additionally grants <SapTag=0>{0}</SapTag> {Cus:Sap,S=segment P=segments SapTag=0} of <te href=850061>Musical Essence</te>. Resonance Skill <color=Highlight>Harmonic Allegro</color> gains 1 more charge.","Khi thi triển <color=Highlight>Đánh Thường đoạn 4</color>, nhận thêm {0} ô [<te href=850061>Âm Luật</te>]; số lần sử dụng Kỹ Năng Cộng Hưởng <color=Highlight>Hòa Điệu Tốc Tấu</color> tăng thêm 1."
+lang_multi_text.db,MultiText,ResonantChain_201_NodeName,星烁此时的即兴演奏,Starlit Improv,Khúc Ngẫu Hứng Dưới Ánh Sao
+lang_multi_text.db,MultiText,ResonantChain_202_AttributesDescription,"夏空重击<color=Highlight>四拍重奏</color>造成伤害时无视敌人{0}的防御；
+夏空造成共鸣解放伤害时无视敌人{0}的防御。","Ciaccona ignores {0} of the targets' DEF when dealing damage with Heavy Attack <color=Highlight>Quadruple Downbeat</color>;
+Ciaccona ignores {0} of the targets' DEF when dealing Resonance Liberation DMG.","Khi Đánh Mạnh <color=Highlight>Tứ Phách Trọng Tấu</color> của Ciaccona gây sát thương, bỏ qua {0} phòng thủ của kẻ địch;
+Khi Ciaccona gây sát thương Giải Phóng Cộng Hưởng, bỏ qua {0} phòng thủ của kẻ địch."
+lang_multi_text.db,MultiText,ResonantChain_202_NodeName,托卡塔与赋格,Toccata and Fugue,Toccata Và Fugue
+lang_multi_text.db,MultiText,ResonantChain_203_AttributesDescription,"夏空共鸣解放伤害加成提升{0}；
+夏空共鸣解放<color=Highlight>歌者的三重华彩</color>附近范围内的角色受到的伤害降低{1}。","Gain {0} Resonance Liberation DMG Bonus;
+DMG taken by Resonators within and around the range of Resonance Liberation <color=Highlight>Singer's Triple Cadenza</color> is reduced by {1}.","Bonus sát thương Giải Phóng Cộng Hưởng của Ciaccona tăng {0};
+Sát thương nhận vào của các nhân vật trong phạm vi Giải Phóng Cộng Hưởng <color=Highlight>Ba Lớp Hoa Sắc Của Ca Giả</color> giảm {1}."
