@@ -50,7 +50,7 @@ jobs:
       - name: Pack into .pak
         shell: pwsh
         run: |
-          $repak = "Fonts\repak.exe"
+          $repak = ".\Fonts\repak.exe"
           $inputFolder = "Fonts\Client"
           $outputPak = "Fonts\${{ inputs.output_name }}.pak"
 
