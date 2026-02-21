@@ -1,257 +1,336 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_1,被留在宿舍不让出去了(´-ι_-｀),I've been grounded in my dorm (´-ι_-｀),Bị giữ lại ở ký túc xá không cho ra ngoài (´-ι_-｀)
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_10,没事吧？,Is something wrong?,Có sao không?
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_11,好，我知道了。,Okay. I understand.,"Được, tôi hiểu rồi."
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_12,谢谢你。,Thank you,Cảm ơn cô.
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_13,没事吧？,Is something wrong?,Có sao không?
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_14,嗯，没事！,"Um, nothing's wrong!","Ừm, không sao!"
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_15,对方已下线,Friend has gone offline,Đối phương đã ngoại tuyến
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_16,没事，交给我。,"It's okay, I'll handle it.","Không sao, để tôi lo."
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_17,怎么了？,What happened?,Sao vậy?
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_18,怎么了？,What happened?,Sao vậy?
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_2,抱歉啊，接下来就交给你了……,Sorry. I'll leave the rest up to you...,"Xin lỗi, phần còn lại nhờ cậu nhé..."
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_3,没事，交给我。,"It's okay, I'll handle it.","Không sao, để tôi lo."
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_4,我已经找了值得信任的人说明情况。,I found someone trustworthy and explained the situation.,Tôi đã tìm được người đáng tin cậy và giải thích tình hình rồi.
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_6,啊……,Ohh...,À...
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_7,……老师们来找我，我得和他们过去一趟了。,...The teachers are looking for me. I need to pop out for a minute.,"...Các thầy cô đến tìm tôi, tôi phải đi theo họ một chuyến."
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_8,你那边结束的话，能不能在宿舍等我一会？我还不知道会去多久……,"If you're done, can you wait for me in the dorm? I don't know how long I'll be out...","Nếu bên cậu xong rồi, cậu có thể đợi tôi ở ký túc xá một lát không? Tôi chưa biết sẽ đi bao lâu..."
-lang_multi_text.db,MultiText,Message_Main_LahaiRoi_3_1_6_9,好，我知道了。,Okay. I understand.,"Được, tôi hiểu rồi."
-lang_multi_text.db,MultiText,Message_QuestAccepted,已接受任务,Quest accepted,Đã nhận nhiệm vụ
-lang_multi_text.db,MultiText,Message_QuestCompleted,已完成任务,Quest completed,Đã hoàn thành nhiệm vụ
-lang_multi_text.db,MultiText,Message_QuestNotAccepted,<color=#c15757ff>任务暂未接取</color>,<color=#c15757ff>Quest not accepted</color>,<color=#c15757ff>Nhiệm vụ chưa được nhận</color>
-lang_multi_text.db,MultiText,MingSuDoneTips,<color=#36cd33>该等级奖励已全部获得</color>,<color=#36cd33>All stage rewards have been claimed</color>,<color=#36cd33>Đã nhận toàn bộ phần thưởng cấp độ này</color>
-lang_multi_text.db,MultiText,MingSuLevelText,等级 {0},Level {0},Cấp {0}
-lang_multi_text.db,MultiText,MingSuNotDoneTips,<color=#c15757>完成上一等级后解锁</color>,<color=#c15757>Complete the previous stage to unlock</color>,<color=#c15757>Hoàn thành cấp độ trước để mở khóa</color>
-lang_multi_text.db,MultiText,MonsterDetection_10010051_AttributesDescriptionLock,出现于荒石高地无音区的强大残象，能够使用导电属性的力量。,A powerful Tacet Discord that appears in the Sonoro at Desorock Highlands. Capable of using Electro powers.,"Tàn Tượng mạnh mẽ xuất hiện tại Vùng Vô Thanh cao nguyên Hoang Thạch, có khả năng sử dụng sức mạnh thuộc tính Dẫn Điện."
-lang_multi_text.db,MultiText,MonsterDetection_10010051_AttributesDescriptionUnlock,"<color=#9656d8>【导电】</color>
-该敌人<color=#9656d8>导电伤害</color><color=#b49f50>抗性较高</color>。
+lang_multi_text.db,MultiText,MapMark_390202_MarkDesc,在风车下的小屋附近活动的神秘骑士，计划将世间的一切财宝装进它的宝箱中。,"A mysterious knight often spotted near the cabin by the windmill, driven by a desire to hoard every treasure in the world in its hidden chest.","Kỵ sĩ bí ẩn hoạt động gần căn nhà dưới cối xay gió, âm mưu nhét hết mọi kho báu trên đời vào rương châu báu của mình."
+lang_multi_text.db,MultiText,MapMark_390202_MarkTitle,贪婪骑士,Knight of Greed,Kỵ Sĩ Tham Lam
+lang_multi_text.db,MultiText,MapMark_390203_MarkDesc,傲立于大桥之上的骄傲骑士，获得了一切胜利，唯独缺少真诚的赞美。,"A proud knight, standing tall on the bridge. Yet, despite its triumph, true admiration seems forever out of its reach.","Kỵ sĩ kiêu hãnh đứng sừng sững trên cây cầu lớn, đã giành mọi chiến thắng, nhưng duy nhất thiếu đi lời ngợi khen chân thành."
+lang_multi_text.db,MultiText,MapMark_390203_MarkTitle,虚饰骑士,Knight of Vanity,Kỵ Sĩ Phù Phiếm
+lang_multi_text.db,MultiText,MapMark_390204_MarkDesc,躲藏于埃格拉镇西北方的胆小骑士，它怕得忘记一切，甚至忘记了逃跑。,"A timid knight, hiding in the northeast of Egla Town, constantly trembling with fear—so much so, it forgets everything, even the instinct to flee.","Kỵ sĩ nhút nhát ẩn nấp ở phía đông bắc thị trấn Egla, sợ đến mức quên hết mọi thứ, thậm chí quên cả việc bỏ chạy."
+lang_multi_text.db,MultiText,MapMark_390204_MarkTitle,怯懦骑士,Knight of Cowardice,Kỵ Sĩ Hèn Nhát
+lang_multi_text.db,MultiText,MapMark_390205_MarkDesc,迷失在白月林迹的特殊骑士，似乎想出了答案，却忘了问题是什么……,"A lost knight wandering the Silver Moon Grove. It seems to have found the answer, yet has long forgotten the question that led it here...","Kỵ sĩ kỳ lạ lạc lối trong Silver Moon Grove, dường như đã nghĩ ra đáp án, nhưng lại quên mất câu hỏi là gì..."
+lang_multi_text.db,MultiText,MapMark_390205_MarkTitle,愚蠢骑士,Knight of Ignorance,Kỵ Sĩ Ngu Ngốc
+lang_multi_text.db,MultiText,MapMark_390206_MarkDesc,前往神秘的林迹镜湖，追寻传说中的骑士行迹，寻回丢失的五把骑士剑，然后静静等待太阳坠落，月亮升起。,Venture to the Mirror Lake in the grove to uncover the legendary knights' traces and retrieve the five lost swords. Stay until the sun sets and the moon rises.,"Hãy đến Mirror Lake huyền bí trong khu rừng, truy tìm dấu vết kỵ sĩ huyền thoại, tìm lại năm thanh kiếm đã thất lạc, rồi lặng lẽ chờ mặt trời lặn, trăng lên."
+lang_multi_text.db,MultiText,MapMark_390206_MarkTitle,绯月骑士,Knight of Crimson Moon,Kỵ Sĩ Trăng Đỏ
+lang_multi_text.db,MultiText,MapMark_390207_MarkDesc,位于狄萨莱海脊的特殊声骸挑战，有人说在挑战过程会做梦，也有人认为自己是产生了奇妙的幻觉……,"A special Echo challenge located in Thessaleo Fells. Some report dreaming while participating, while others dismiss it as mere hallucinations.","Thử thách Thanh Hài đặc biệt tại Thessaleo Fells. Có người nói rằng trong lúc thử thách sẽ mơ, cũng có người cho rằng mình đã gặp ảo giác kỳ lạ..."
+lang_multi_text.db,MultiText,MapMark_390207_MarkTitle,声骸挑战·幻觉,Echo Challenge: Illusion,Thử Thách Thanh Hài - Ảo Giác
+lang_multi_text.db,MultiText,MapMark_390210_MarkDesc,"传说中，翡萨烈家族子嗣的命运与三座高塔息息相关，而此处便是其中之一。
+在暮色中，万物都会归乡。
+但直觉告诉你，有不可名状的存在正在等待……它在等船靠岸，等人靠岸，等太阳靠岸，待一切都回到舒适的故乡，待无光的世界归入寂静，它便要侵入黑夜，吞没这一切。","Legend has it that, the fate of the descendants of Fisalia is deeply intertwined with the Thorncrown Rises—this tower is one among them.
+As twilight falls, all things seek their return.
+Something tells you that an indescribable being is waiting ahead, anticipating the arrival of ships, people, and the sun's descent upon the shore. It is waiting for a world where light fades and silence reigns. And then, it will step into the darkness, swallowing all in its path.","Tương truyền, vận mệnh hậu duệ gia tộc Fisalia gắn liền với ba ngọn tháp cao, và đây là một trong số đó.
+Trong ánh hoàng hôn, vạn vật đều tìm về quê nhà.
+Nhưng trực giác mách bảo bạn, có thứ gì đó không thể gọi tên đang chờ đợi... Nó chờ thuyền cập bến, chờ người cập bến, chờ mặt trời cập bến. Khi tất cả đã trở về chốn bình yên, khi thế giới không ánh sáng chìm vào tĩnh lặng, nó sẽ xâm nhập bóng đêm, nuốt chửng tất cả."
+lang_multi_text.db,MultiText,MapMark_390210_MarkTitle,暮光冠塔,Twilight Rise,Twilight Rise
+lang_multi_text.db,MultiText,MapMark_390211_MarkDesc,"传说中，翡萨烈家族子嗣的命运与三座高塔息息相关，而此处便是其中之一。
+鱼群正游向何处？向高塔之上，向高悬着的寂静夜空之中……","Legend has it that, the fate of the descendants of Fisalia is deeply intertwined with the Thorncrown Rises—this tower is one among them.
+Where do the schools of fish swim?  Over the towers, into the silent night sky above...","Tương truyền, vận mệnh hậu duệ gia tộc Fisalia gắn liền với ba ngọn tháp cao, và đây là một trong số đó.
+Đàn cá đang bơi về đâu? Lên trên đỉnh tháp, vào bầu trời đêm tĩnh lặng treo lơ lửng phía trên..."
+lang_multi_text.db,MultiText,MapMark_390211_MarkTitle,回声冠塔,Resounding Rise,Resounding Rise
+lang_multi_text.db,MultiText,MapMark_390212_MarkDesc,"传说中，翡萨烈家族子嗣的命运与三座高塔息息相关，而此处便是其中之一。
+往塔中去吧……翡萨烈的子嗣只留下背影——他将履行他的使命。","Legend has it that, the fate of the descendants of Fisalia is deeply intertwined with the Thorncrown Rises—this tower is one among them.
+Go to the tower... The descendants of Fisalia turn around and leave their resolute figures behind—they will fulfill their destined purpose.","Tương truyền, vận mệnh hậu duệ gia tộc Fisalia gắn liền với ba ngọn tháp cao, và đây là một trong số đó.
+Hãy tiến vào tháp... Hậu duệ Fisalia chỉ để lại bóng lưng - anh sẽ hoàn thành sứ mệnh của mình."
+lang_multi_text.db,MultiText,MapMark_390212_MarkTitle,统驭冠塔,Command Rise,Command Rise
+lang_multi_text.db,MultiText,MapMark_390213_MarkDesc,"""不幸的骑士脱离了队伍，剩下的骑士还有五人。""","""The unfortuante knight left the expedition. Five knights remained.""","""Kỵ sĩ bất hạnh rời khỏi đoàn, còn lại năm kỵ sĩ."""
+lang_multi_text.db,MultiText,MapMark_390213_MarkTitle,暗影徘徊的遗迹Ⅰ,Ruins where Shadows Roam I,Di Tích Bóng Tối Lẩn Quất I
+lang_multi_text.db,MultiText,MapMark_390214_MarkDesc,"""怯懦的骑士丧失了神志，剩下的骑士还有四人。""","""The cowardly knight lost his sanity. Four knights remained.""","""Kỵ sĩ hèn nhát mất đi lý trí, còn lại bốn kỵ sĩ."""
+lang_multi_text.db,MultiText,MapMark_390214_MarkTitle,暗影徘徊的遗迹Ⅱ,Ruins where Shadows Roam II,Di Tích Bóng Tối Lẩn Quất II
+lang_multi_text.db,MultiText,MapMark_390215_MarkDesc,"""正直的骑士践行了公义，剩下的骑士还有三人。""","""The righteous knight fulfilled their justice. Three knights remained.""","""Kỵ sĩ chính trực thực thi công lý, còn lại ba kỵ sĩ."""
+lang_multi_text.db,MultiText,MapMark_390215_MarkTitle,暗影徘徊的遗迹Ⅲ,Ruins where Shadows Roam III,Di Tích Bóng Tối Lẩn Quất III
+lang_multi_text.db,MultiText,MapMark_390216_MarkDesc,"""贪婪的骑士察觉了真相，之后一位骑士都不存在了。""","""The greedy knight uncovered the truth. And then, there were no knights left.""","""Kỵ sĩ tham lam phát hiện ra sự thật. Sau đó, không còn kỵ sĩ nào nữa."""
+lang_multi_text.db,MultiText,MapMark_390216_MarkTitle,暗影徘徊的遗迹Ⅳ,Ruins where Shadows Roam IV,Di Tích Bóng Tối Lẩn Quất IV
+lang_multi_text.db,MultiText,MapMark_390217_MarkDesc,于许久以前便已被破坏的残骸，仔细调查的话也许能发现一些线索。,Debris of a long-destroyed Lumiscale Construct. A closer inspection might reveal some hidden clues.,"Mảnh vỡ đã bị phá hủy từ rất lâu trước đây. Nếu kiểm tra kỹ, có thể tìm ra vài manh mối."
+lang_multi_text.db,MultiText,MapMark_390217_MarkTitle,游鳞残骸,Debris of Lumiscale Construct,Xác Lumiscale Construct
+lang_multi_text.db,MultiText,MapMark_390218_MarkDesc,遍布在残息海岸的祭台，将它们全部激活的话也许能开启某处的入口。,Altars scattered across the Shores of Last Breath. Activating all of them might unlock a gateway to an unknown destination.,"Những bàn thờ rải rác khắp Shores of Last Breath. Nếu kích hoạt hết, có thể mở ra lối vào ở đâu đó."
+lang_multi_text.db,MultiText,MapMark_390218_MarkTitle,槲生碑阵,Fagaceae Formation,Fagaceae Formation
+lang_multi_text.db,MultiText,MapMark_390219_MarkDesc,"传说中，岁主「英白拉多」出现在此处，然后便消失于云端。
+而如今，此处却盘踞着其他的存在……","Legend tells of Sentinel Imperator's descent upon this site, vanishing into the clouds. Now, another presence claims dominion over this place...","Tương truyền, Tuế Chủ ""Imperator"" đã xuất hiện tại đây, rồi biến mất trong mây.
+Và giờ đây, nơi này lại có thứ khác đang chiếm cứ..."
+lang_multi_text.db,MultiText,MapMark_390219_MarkTitle,风暴中心,Storm Eye,Mắt Bão
+lang_multi_text.db,MultiText,MapMark_390415_MarkDesc,温暖舒适又气派宽敞的大型酒店，旅人们的首选之地。,A grand hotel offering luxurious decor and a cosy stay. The go-to choice for travelers.,"Khách sạn lớn ấm áp, thoải mái và rộng rãi sang trọng, lựa chọn hàng đầu cho những lữ khách."
+lang_multi_text.db,MultiText,MapMark_390415_MarkTitle,列奥尼达酒店,Leonidas Hotel,Khách Sạn Leonidas
+lang_multi_text.db,MultiText,MapMark_390416_MarkDesc,隐藏在荣耀之间岩壁之中，岁主留下的隐秘中枢。,"The Sentinel's Hub, hidden among giant stones in the Vale of Glory.","Trung tâm bí mật do Tuế Chủ để lại, ẩn giấu trong vách đá của Vale of Glory."
+lang_multi_text.db,MultiText,MapMark_390416_MarkTitle,岩间中枢,Central Hub,Trung Tâm Trong Đá
+lang_multi_text.db,MultiText,MapMark_390601_MarkDesc,"基于鸣潮科学研发的生态情报系统的中枢,普遍坐落于中大型城镇,用于检测、计算周边地区能量波动、残象活动等情况,从而分析和预测海蚀现象引发的灾害。
 
-云闪之鳞形似人与蜥蜴的融合体，攻击带电，可利用无音区内鸣潮子进行超高速闪避。初步判断其为残象自然进化的结果，不明白为什么瑝珑流传着“它吞噬了某对结伴一生的搭档，品尝了二者的悲愿与战斗，最终在某次雷暴中诞生”的说法。","<color=#9656d8>[Electro]</color>
-This enemy has <color=#b49f50>higher RES</color> against <color=#9656d8>Electro DMG</color>. 
+罗伊冰原与拉海洛的中枢信标又被称作「引日透镜」。透镜能够将炉光的压缩并转化为能源，以供给各项设施的运转。","The nexus of an ecological information network designed based on the principles of Wutherium Science. Typically situated in medium and large towns, it detects and models energy fluctuations, activities of Tacet Discords, and other abnormal signals to provide early warnings of Waveworn Phenomena.
 
-Thundering Mephis resembles a fusion of a human and a lizard. It can use Wutherons within the Tacet Field for high-speed maneuvers. Preliminary studies suggest that it results from the natural evolution of Tacet Discords. Rumor has it in Huanglong that it devoured a couple who had been together for life, tasted their sorrow and will to fight, and ultimately transformed into its current form during a thunderstorm.","<color=#9656d8>[Dẫn Điện]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#9656d8>sát thương Dẫn Điện</color>.
+In the Roya Frostlands and Lahai-Roi, the Resonance Nexus is known as the Solis Lens Array. These lenses concentrate and convert the glow of the Reactor Drive into usable power for local facilities.","Trung tâm của hệ thống tình báo sinh thái được phát triển dựa trên khoa học Minh Triều. Thường đặt tại các thị trấn vừa và lớn, dùng để dò tìm, tính toán biến động năng lượng và hoạt động Tàn Tượng ở khu vực xung quanh, từ đó phân tích và dự đoán thảm họa do hiện tượng hải thực gây ra.
 
-Vân Thiểm Chi Lân có hình dạng như sự kết hợp giữa người và thằn lằn, đòn tấn công mang điện, có thể lợi dụng Minh Triều tử trong Vùng Vô Thanh để né tránh với tốc độ cực cao. Sơ bộ nhận định đây là kết quả tiến hóa tự nhiên của Tàn Tượng, không rõ tại sao ở Hoàng Long lại lưu truyền câu chuyện rằng ""nó đã nuốt chửng một cặp đồng hành gắn bó suốt đời, nếm trải bi nguyện và ý chí chiến đấu của cả hai, rồi cuối cùng ra đời trong một cơn giông bão""."
-lang_multi_text.db,MultiText,MonsterDetection_10010051_Name,云闪之鳞,Thundering Mephis,Vân Thiểm Chi Lân
-lang_multi_text.db,MultiText,MonsterDetection_10010052_AttributesDescriptionLock,位于归墟港市的强大残象，据目击者称，其移动方式异于其他残象，更多信息有待进一步搜索。,"A powerful Tacet Discord located in the Port City of Guixu, According to witnesses, its movement is different from other Tacet Discords, more information to be further researched.","Tàn Tượng mạnh mẽ tọa lạc tại Cảng Thị Quy Khư. Theo lời nhân chứng, phương thức di chuyển của nó khác biệt so với các Tàn Tượng khác, cần nghiên cứu thêm để có thông tin chi tiết hơn."
-lang_multi_text.db,MultiText,MonsterDetection_10010052_AttributesDescriptionUnlock,"<color=#e15226>【热熔】</color>
-该敌人<color=#e15226>热熔伤害</color><color=#b49f50>抗性较高</color>。
+Tín Hiệu Trung Tâm ở Roya Frostlands và Lahai-Roi còn được gọi là ""Thấu kính Mặt Trời"". Thấu kính có thể nén và chuyển đổi ánh sáng lò phản ứng thành năng lượng, cung cấp cho hoạt động của các cơ sở."
+lang_multi_text.db,MultiText,MapMark_390601_MarkTitle,中枢信标,Resonance Nexus,Tín Hiệu Trung Tâm
+lang_multi_text.db,MultiText,MapMark_3_MarkDesc,"先行公约原名寰宇地理协会，是成立于悲鸣前的科学与教育组织。
+在退潮期后，先约与科学家、摄影师和记者群体合作，继续探索灾后的神秘世界，并通过杂志、地图、书籍、实地娱乐体验项目、以及交互式媒体将发现分享给大众，在六大地区吸引了广大的粉丝群体。","The Pioneer Association, founded before the Lament, is a prestigious organization in science and education. 
+The Pioneer Association continues to collaborate with scientists, photographers, and journalists to explore and document the world's wonders after the Ebb Tide. Their hard work leads to groundbreaking discoveries that captivate global audiences through mediums like magazines, maps, books, entertainment, and interactive media.","Hiệp Ước Tiên Phong, tiền thân là Hội Địa Lý Hoàn Vũ, là tổ chức khoa học và giáo dục được thành lập trước thời Bi Minh.
+Sau thời kỳ Thoái Triều, Hiệp Ước Tiên Phong hợp tác với các nhà khoa học, nhiếp ảnh gia và phóng viên, tiếp tục khám phá thế giới bí ẩn sau thảm họa, đồng thời chia sẻ những phát hiện đến công chúng qua tạp chí, bản đồ, sách, các chương trình trải nghiệm thực tế và phương tiện truyền thông tương tác, thu hút lượng lớn người hâm mộ tại sáu khu vực."
+lang_multi_text.db,MultiText,MapMark_3_MarkTitle,先行公约,Pioneer Association,Hiệp Ước Tiên Phong
+lang_multi_text.db,MultiText,MapMark_400001_MarkDesc,"“你知道吗？在祈愿树下投递心愿后，只要耐心等待，心愿就能以不可思议的方式实现。我记得这个地方叫，叫……月树屋？”
+明月渐盈，今州迎来了热闹的「追月」佳节。邀上亲朋佳友，一同赏月祈愿乃是今州的传统习俗。节日前夕，一则“月树屋”的祈愿传说传到了你耳边，你决定……","""Have you heard? Beneath the Wishing Tree, there's a place dreams take flight. They call it the Moontree Lodge.""
+As the moon waxes full, Jinzhou hums with excitement in preparation for the Moon-Chasing Festival. It is a beloved tradition where friends and family gather to wish upon the moonlit sky. Before the festival begins, whispers of the Moontree Lodge, where wishes are granted, find their way to you. Intrigued, you decide to...","""Bạn có biết không? Sau khi gửi lời ước dưới cây ước nguyện, chỉ cần kiên nhẫn chờ đợi, điều ước sẽ thành hiện thực theo cách không ngờ tới. Tôi nhớ nơi đó gọi là, gọi là... Nguyệt Thụ Ốc?""
+Trăng sáng dần tròn, Kim Châu đón lễ hội ""Truy Nguyệt"" nhộn nhịp. Mời bạn bè thân thiết cùng ngắm trăng và ước nguyện là phong tục truyền thống của Kim Châu. Trước thềm lễ hội, truyền thuyết về ""Nguyệt Thụ Ốc"" đến tai bạn, và bạn quyết định..."
+lang_multi_text.db,MultiText,MapMark_400001_MarkTitle,月华如愿,By Moon's Grace,Nguyệt Hoa Như Nguyện
+lang_multi_text.db,MultiText,MapMark_4001_MarkDesc,拉古那城开放给认证共鸣者使用的操作平台，提供合剂制造，物品构造及纯化服务——此刻，舞台属于独特的化合反应。,"The Ragunna City's Synthesis platform allows Resonators to create potions, construct materials, and purify substances with ease.
+Be hold—the stage now belongs to the combination reaction.","Bàn thao tác mở cho Cộng Hưởng Giả đã chứng nhận tại Ragunna City, cung cấp dịch vụ chế tạo hợp chất, cấu tạo vật phẩm và tinh luyện - Giờ đây, sân khấu thuộc về những phản ứng hóa hợp độc đáo."
+lang_multi_text.db,MultiText,MapMark_4001_MarkTitle,合成台,Synthesizer,Bàn Tổng Hợp
+lang_multi_text.db,MultiText,MapMark_4020_MarkDesc,稷廷遗留下的仿声对策装置，可以模拟出的强大敌人。在此战斗获得的演练数据可在演练商店中兑换各种奖励。,The Imitative Sonic Device left by the Court of Savantae can simulate powerful enemies. The Data Set obtained in this battle can be exchanged for various rewards in the Simulation Training Store.,"Thiết bị đối phó mô phỏng âm thanh do Tắc Đình để lại, có thể mô phỏng ra kẻ thù mạnh mẽ. Dữ liệu diễn tập thu được trong chiến đấu có thể đổi lấy nhiều phần thưởng tại cửa hàng diễn tập."
+lang_multi_text.db,MultiText,MapMark_4020_MarkTitle,全息战略·朔雷之鳞,Tactical Hologram: Tempest Mephis,Chiến Thuật Toàn Ảnh - Vảy Sóc Lôi
+lang_multi_text.db,MultiText,MapMark_4021_MarkDesc,稷廷遗留下的仿声对策装置，可以模拟出的强大敌人。在此战斗获得的演练数据可在演练商店中兑换各种奖励。,The Imitative Sonic Device left by the Court of Savantae can simulate powerful enemies. The Data Set obtained in this battle can be exchanged for various rewards in the Simulation Training Store.,"Thiết bị đối phó mô phỏng âm thanh do Tắc Đình để lại, có thể mô phỏng kẻ địch mạnh. Dữ liệu diễn tập nhận được trong chiến đấu có thể đổi lấy nhiều phần thưởng tại Cửa Hàng Diễn Tập."
+lang_multi_text.db,MultiText,MapMark_4021_MarkTitle,全息战略·无常凶鹭,Tactical Hologram: Impermanence Heron,Chiến Thuật Toàn Ảnh - Hung Lộ Vô Thường
+lang_multi_text.db,MultiText,MapMark_4022_MarkDesc,稷廷遗留下的仿声对策装置，可以模拟出的强大敌人。在此战斗获得的演练数据可在演练商店中兑换各种奖励。,The Imitative Sonic Device left by the Court of Savantae can simulate powerful enemies. The Data Set obtained in this battle can be exchanged for various rewards in the Simulation Training Store.,"Thiết bị đối phó mô phỏng âm thanh do Tắc Đình để lại, có thể mô phỏng kẻ địch mạnh. Dữ liệu diễn tập nhận được trong chiến đấu có thể đổi lấy nhiều phần thưởng tại Cửa Hàng Diễn Tập."
+lang_multi_text.db,MultiText,MapMark_4022_MarkTitle,全息战略·哀声鸷,Tactical Hologram: Mourning Aix,Chiến Thuật Toàn Ảnh - Ai Thanh Chí
+lang_multi_text.db,MultiText,MapMark_4023_MarkDesc,稷廷遗留下的仿声对策装置，可以模拟出的强大敌人。在此战斗获得的演练数据可在演练商店中兑换各种奖励。,The Imitative Sonic Device left by the Court of Savantae can simulate powerful enemies. The Data Set obtained in this battle can be exchanged for various rewards in the Simulation Training Store.,"Thiết bị đối phó mô phỏng âm thanh do Tắc Đình để lại, có thể mô phỏng kẻ địch mạnh. Dữ liệu diễn tập nhận được trong chiến đấu có thể đổi lấy nhiều phần thưởng tại Cửa Hàng Diễn Tập."
+lang_multi_text.db,MultiText,MapMark_4023_MarkTitle,全息战略·飞廉之猩,Tactical Hologram: Feilian Beringal,Chiến Thuật Toàn Ảnh - Tinh Phi Liêm
+lang_multi_text.db,MultiText,MapMark_4024_MarkDesc,稷廷遗留下的仿声对策装置，可以模拟出的强大敌人。在此战斗获得的演练数据可在演练商店中兑换各种奖励。,The Imitative Sonic Device left by the Court of Savantae can simulate powerful enemies. The Data Set obtained in this battle can be exchanged for various rewards in the Simulation Training Store.,"Thiết bị đối phó mô phỏng âm thanh do Tắc Đình để lại, có thể mô phỏng kẻ địch mạnh. Dữ liệu diễn tập nhận được trong chiến đấu có thể đổi lấy nhiều phần thưởng tại Cửa Hàng Diễn Tập."
+lang_multi_text.db,MultiText,MapMark_4024_MarkTitle,全息战略·无冠者,Tactical Hologram: Crownless,Chiến Thuật Toàn Ảnh - Vô Quán Giả
+lang_multi_text.db,MultiText,MapMark_4025_MarkDesc,稷廷遗留下的仿声对策装置，可以模拟出的强大敌人。在此战斗获得的演练数据可在演练商店中兑换各种奖励。,The Imitative Sonic Device left by the Court of Savantae can simulate powerful enemies. The Data Set obtained in this battle can be exchanged for various rewards in the Simulation Training Store.,"Thiết bị đối phó mô phỏng âm thanh do Tắc Đình để lại, có thể mô phỏng kẻ địch mạnh. Dữ liệu diễn tập nhận được trong chiến đấu có thể đổi lấy nhiều phần thưởng tại Cửa Hàng Diễn Tập."
+lang_multi_text.db,MultiText,MapMark_4025_MarkTitle,全息战略·燎照之骑,Tactical Hologram: Inferno Rider,Chiến Thuật Toàn Ảnh - Liêu Chiếu Chi Kỵ
+lang_multi_text.db,MultiText,MapMark_4026_MarkDesc,翡萨烈与修会联合制造的特殊终端，可模拟出强大的敌人。在此战斗获得的试炼纹币可在试炼商店中兑换各种奖励。,"A special Terminal developed by the Fisalias and the Order, capable of simulating powerful enemies. The Trial Coin obtained in this battle can be exchanged for various rewards in the Trial Store.","Thiết bị đầu cuối đặc biệt do Fisalias và Giáo Đoàn hợp tác chế tạo, có thể mô phỏng kẻ địch mạnh. Đồng Thử Luyện nhận được trong chiến đấu có thể đổi lấy nhiều phần thưởng tại Cửa Hàng Thử Luyện."
+lang_multi_text.db,MultiText,MapMark_4026_MarkTitle,全息战略·幻痛,Tactical Hologram: Phantom Pain,Chiến Thuật Toàn Ảnh - Ảo Thống
+lang_multi_text.db,MultiText,MapMark_4027_MarkDesc,搭载隧者神经元的模拟驾驶舱，用于适格者的外源性共鸣训练。驾驶舱通过神经接口装置，使适格者得以在安全环境下模拟与隧者的同步过程，完成频率与意识的安全链接。在此过程中，适格者可对自身的同频压力进行测试与记录，以评估共鸣适应度与神经负载极限。,"A simulator cockpit embedded with the Exostrider's neurons, designed for training Synchronists in Augmented Resonance with the Exostrider. Through its neural-interface system, Synchronists can safely simulate the synchronization process, establishing stable links in both frequency and consciousness. During this process, Synchronists can measure and record their resonance stress to assess adaptation levels and neural-load thresholds.","Buồng lái mô phỏng được trang bị nơ-ron của Exostrider, dùng để huấn luyện cộng hưởng ngoại sinh cho những người đủ tư cách. Thông qua thiết bị giao tiếp thần kinh, người đủ tư cách có thể mô phỏng quá trình đồng bộ với Exostrider trong môi trường an toàn, hoàn thành kết nối ổn định giữa tần số và ý thức. Trong quá trình này, người đủ tư cách có thể kiểm tra và ghi lại áp lực đồng tần của bản thân để đánh giá mức độ thích ứng cộng hưởng và giới hạn tải thần kinh."
+lang_multi_text.db,MultiText,MapMark_4027_MarkTitle,全息战略·同步,Tactical Hologram: Synchronization,Chiến Thuật Toàn Ảnh - Đồng Bộ
+lang_multi_text.db,MultiText,MapMark_5001_MarkDesc,"角色造成<color=HighlightB>变奏技能伤害</color>提高
+敌人受到<color=Light>衍射伤害</color>降低
 
-残象无需借助载具移动，但燎照之骑外形却类似驾驭边车摩托的骑手，推测此形态源于对人类行为的拙劣模仿。该残象驾驶载具疯狂横冲直撞的行为被瑝珑私下称为“狂暴之火”。但“狂暴之火也终有燃尽的一天”也是瑝珑人说的……瑝珑果然从古到今都热爱诗词歌赋？","<color=#e15226>[Fusion]</color> 
-This enemy has <color=#b49f50>higher RES</color> against <color=#e15226>Fusion DMG</color>. 
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=HighlightB>Intro Skill DMG</color> is increased
+Enemy's <color=Light>Spectro DMG</color> received is reduced
 
-Tacet Discords usually do not require a ""vehicle"" for movement, but the appearance of the Inferno Rider resembles a rider on a motorcycle. Presumably this form is derived from a poor imitation of human behavior. The Tacet Discord's crazy rampage in the ""vehicle"" is unofficially known as ""Flames of Fury"" in Huanglong. However, Huanglong people would also say ""Even the flames of fury will one day go extinct."" Guess Huanglong can always get people's hope up.","<color=#e15226>[Nhiệt Dung]</color>
-Địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#e15226>sát thương Nhiệt Dung</color>.
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=HighlightB>sát thương Kỹ Năng Biến Tấu</color> tăng
+Kẻ địch nhận <color=Light>sát thương Quang Phổ</color> giảm
 
-Tàn Tượng vốn không cần phương tiện để di chuyển, nhưng Liêu Chiếu Chi Kỵ lại có ngoại hình giống một kỵ sĩ điều khiển mô tô ba bánh, được suy đoán là hình thái bắt chước vụng về hành vi của con người. Hành vi điên cuồng lao đâm bằng phương tiện của Tàn Tượng này được người Hoàng Long tư hạ gọi là ""Cuồng Bạo Chi Hỏa"". Nhưng ""Lửa cuồng bạo rồi cũng có ngày tàn"" cũng là lời người Hoàng Long nói... Hoàng Long quả nhiên từ xưa đến nay đều yêu thích thi từ ca phú?"
-lang_multi_text.db,MultiText,MonsterDetection_10010052_Name,燎照之骑,Inferno Rider,Liêu Chiếu Chi Kỵ
-lang_multi_text.db,MultiText,MonsterDetection_10010053_AttributesDescriptionLock,虎口山脉矿坑深井中寄居的强大残象，现有目击报告极少，称其类似昆虫。,"A powerful Tacet Discord that resides in the deep shafts of the Tiger's Maw. There is very few available sighting reports, and the only ones claim that they resemble insects.","Tàn Tượng mạnh mẽ ẩn náu trong giếng sâu của mỏ khoáng thuộc dãy núi Hổ Khẩu. Báo cáo mục kích hiện có rất ít, chỉ mô tả nó có hình dạng tương tự côn trùng."
-lang_multi_text.db,MultiText,MonsterDetection_10010053_AttributesDescriptionUnlock,"<color=#1891e7>【冷凝】</color>
-该敌人<color=#1891e7>冷凝伤害</color><color=#b49f50>抗性较高</color>。
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5001_MarkTitle,中曲台地无音区,Tacet Field: Central Plains,Vùng Vô Thanh Đài Địa Trung Khúc
+lang_multi_text.db,MultiText,MapMark_5002_MarkDesc,"角色造成<color=Wind>气动伤害</color>提高
+敌人受到<color=Thunder>导电伤害</color>降低
 
-辉萤军势由名为“辉萤”的小型类虫残象集聚而成，对不同声音频率有高度敏感性。既可通过声音判断猎物方位，又可吸收猎物的声音频率进行模仿。其“茧”推测为对昆虫生态的模仿。顺带一提，本设备可以模仿它的声音。","<color=#1891e7>[Glacio]</color> 
-This enemy has <color=#b49f50>higher RES</color> against <color=#1891e7>Glacio DMG</color>.
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Wind>Aero DMG</color> increased
+Enemy's <color=Thunder>Electro DMG</color> received reduced
 
-The Lampylumen Myriad is a collection of small insect-like Tacet Discords called ""Glowflies"" that are highly sensitive to different sound frequencies. It can either determine the location of its prey by sound, or absorb and imitate their frequency. Oh by the way, this device can mimic their sounds.","<color=#1891e7>[Ngưng Băng]</color>
-Địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#1891e7>sát thương Ngưng Băng</color>.
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Wind>sát thương Khí Động</color> tăng
+Kẻ địch nhận <color=Thunder>sát thương Điện Từ</color> giảm
 
-Huy Huỳnh Quân Thế được hình thành từ tập hợp các Tàn Tượng dạng côn trùng nhỏ gọi là ""Huy Huỳnh"", có độ nhạy cảm cao với các tần số âm thanh khác nhau. Chúng vừa có thể phán đoán vị trí con mồi qua âm thanh, vừa có thể hấp thu tần số âm thanh của con mồi để bắt chước. ""Kén"" của chúng được suy đoán là sự mô phỏng sinh thái côn trùng. Nhân tiện, thiết bị này có thể mô phỏng âm thanh của chúng."
-lang_multi_text.db,MultiText,MonsterDetection_10010053_Name,辉萤军势,Lampylumen Myriad,Huy Huỳnh Quân Thế
-lang_multi_text.db,MultiText,MonsterDetection_10010054_AttributesDescriptionLock,无光之森深处的强大异变生物，是统治密林猿类的首领。,A formidable Mutant Organism that appears in the deep of Dim Forest. Leader of the Hoochiefs.,"Sinh vật dị biến mạnh mẽ ẩn sâu trong Rừng Vô Quang, là thủ lĩnh thống trị bầy vượn trong rừng rậm."
-lang_multi_text.db,MultiText,MonsterDetection_10010054_AttributesDescriptionUnlock,"<color=#46c3d4>【气动】</color>
-该敌人<color=#46c3d4>气动伤害</color><color=#b49f50>抗性较高</color>。
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5002_MarkTitle,荒石高地无音区Ⅰ,Tacet Field: Desorock Highland I,Vùng Vô Thanh Cao Nguyên Hoang Thạch Ⅰ
+lang_multi_text.db,MultiText,MapMark_5003_MarkDesc,"角色造成<color=Ice>冷凝伤害</color>提高
+敌人受到<color=Fire>热熔伤害</color>降低
 
-飞廉之猩曾是人类取乐的工具，之后成为了人类讨伐的目标，最后成为了困扰人类的麻烦，被囚禁在森林中。但它反而学会了以束缚它的巨柱为武器，成为统治谑猿们的首领，并将人类所做的一切反用于被猿群虏获的人类。所以……谁才是真正的笼中之兽呢？","<color=#46c3d4>[Aero]</color> 
-This enemy has <color=#46c3d4>higher RES</color> against <color=#46c3d4>Aero DMG</color>.  
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Ice>Glacio DMG</color> is increased
+Enemy's <color=Fire>Fusion DMG</color> received is reduced
 
-Once an entertainment for humans, later a target of human offensive and finally a nuisance for humans, Felilian Beringal is imprisoned in the forest. However, It managed to use the pillar that binds it as its weapon and become the ruler of Hoochiefs. Now, it does what is done to it by human onto the human captured by the apes. So... Who's the one in cage actually?","<color=#46c3d4>[Khí Động]</color>
-Địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#46c3d4>sát thương Khí Động</color>.
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Ice>sát thương Ngưng Băng</color> tăng
+Kẻ địch nhận <color=Fire>sát thương Hỏa Liệt</color> giảm
 
-Phi Liêm Chi Tinh từng là công cụ giải trí cho con người, sau đó trở thành mục tiêu thảo phạt, và cuối cùng trở thành mối phiền toái, bị giam cầm trong rừng. Nhưng nó lại học được cách dùng chính cây trụ trói buộc mình làm vũ khí, trở thành thủ lĩnh thống trị bầy Tước Viên, và đem tất cả những gì con người đã làm với nó áp dụng lên những con người bị bầy vượn bắt giữ. Vậy nên... rốt cuộc ai mới là con thú thực sự trong lồng?"
-lang_multi_text.db,MultiText,MonsterDetection_10010054_Name,飞廉之猩,Feilian Beringal,Phi Liêm Chi Tinh
-lang_multi_text.db,MultiText,MonsterDetection_10010056_AttributesDescriptionLock,于中曲台地观测到的残象，目击报告本设备仅有一例，来自漂泊者本人。缺乏其全貌的详细纪录，根据能量等级判断其具备极高的危险性。,"A Tacet Discord observed in the Central Plains. There has been only sighting report for this Tacet Discord from Rover. There is no detailed record of its full appearance, and it is judged to be extremely dangerous according to its energy level.","Tàn Tượng được quan trắc tại Trung Khúc Đài Địa. Thiết bị này chỉ có duy nhất một báo cáo mục kích, đến từ chính Lữ Khách. Chưa có ghi chép chi tiết về toàn bộ hình dạng của nó, căn cứ vào cấp năng lượng có thể phán đoán nó cực kỳ nguy hiểm."
-lang_multi_text.db,MultiText,MonsterDetection_10010056_AttributesDescriptionUnlock,"<color=#7e1f57>【湮灭】</color>
-该敌人<color=#7e1f57>湮灭伤害</color><color=#b49f50>抗性较高</color>。
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5003_MarkTitle,虎口山脉无音区,Tacet Field: Tiger's Maw,Vùng Vô Thanh Dãy Núi Hổ Khẩu
+lang_multi_text.db,MultiText,MapMark_5004_MarkDesc,"角色造成<color=Thunder>导电伤害</color>提高
+敌人受到<color=Wind>气动伤害</color>降低
 
-鸣式“无冠者”的分身。外形类似白色骑士，力量高涨时伸展出血红的双翼，推测为短暂操控体内鸣潮子排布结构而成，可迅速较高机动性和攻击力。近期还观测到它可以生出模仿人类“武器”的身体构造。究竟还能变异到何种地步尚无定论，唯一可确定的是该残象为湮灭属性，恰与其外观特征相反。“不要以貌取残象”，改编自瑝珑谚语。","<color=#7e1f57>[Havoc]</color>
- This enemy has <color=#b49f50>higher RES</color> against <color=#7e1f57>Havoc DMG</color>. 
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Thunder>Electro DMG</color> is increased
+Enemy's <color=Wind>Aero DMG</color> received is reduced
 
- A copy of the Threnodian ""Crownless"". It resembles a white-armored knight in appearance, and when risen in power, it extends its blood-red wings, presumably made by its brief manipulation of the structure of Wutherons in its body, instantly increasing its mobility and attack power. Recently, it has also been observed that it can produce a body structure that mimics human ""weapons"". It is not known how far it can keep mutating, though one certain thing is that it is of Havoc, quite the opposite to its looks. ""Don't judge a Tacet Discord by its cover"", adapted from Huanglong's idioms.","<color=#7e1f57>[Yên Diệt]</color>
-Địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#7e1f57>sát thương Yên Diệt</color>.
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Thunder>sát thương Điện Từ</color> tăng
+Kẻ địch nhận <color=Wind>sát thương Khí Động</color> giảm
 
-Phân thân của Minh Thức ""Crownless"". Ngoại hình giống một kỵ sĩ áo giáp trắng, khi sức mạnh dâng cao sẽ bung ra đôi cánh đỏ như máu, được suy đoán là do thao khống ngắn hạn cấu trúc sắp xếp Minh Triều tử trong cơ thể, có thể nhanh chóng gia tăng tính cơ động và sức tấn công. Gần đây còn quan trắc thấy nó có thể sinh ra cấu trúc cơ thể mô phỏng ""vũ khí"" của con người. Rốt cuộc còn có thể dị biến đến mức nào thì vẫn chưa có kết luận, điều duy nhất có thể xác định là Tàn Tượng này thuộc tính Yên Diệt, hoàn toàn trái ngược với đặc điểm ngoại hình của nó. ""Đừng nhìn mặt mà bắt hình dong Tàn Tượng"" - cải biên từ ngạn ngữ Hoàng Long."
-lang_multi_text.db,MultiText,MonsterDetection_10010056_Name,无冠者,Crownless,Crownless
-lang_multi_text.db,MultiText,MonsterDetection_10010057_AttributesDescriptionLock,隐藏在云陵谷深处的大型异变生物，目前只能判断其具备极高的危险性，尚无关于其全貌的详细纪录。,"Large Mutant Organism that hides itself in the depths of the Gorges of Spirits. It is only reasonable to decide that it is of extreme danger as of now, since now detailed record exist that depicts the whole appearance of it.","Sinh vật dị biến lớn ẩn nấp trong sâu thẳm Vân Lăng Cốc. Hiện tại chỉ có thể phán đoán nó cực kỳ nguy hiểm, vẫn chưa có ghi chép chi tiết về toàn bộ hình dạng."
-lang_multi_text.db,MultiText,MonsterDetection_10010057_AttributesDescriptionUnlock,"<color=#1891e7>【冷凝】</color>
-该敌人<color=#1891e7>冷凝伤害</color><color=#b49f50>抗性较高</color>。
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5004_MarkTitle,怨鸟泽无音区,Tacet Field: Whining Aix's Mire,Vùng Vô Thanh Oán Điểu Trạch
+lang_multi_text.db,MultiText,MapMark_5005_MarkDesc,"角色造成<color=Fire>热熔伤害</color>提高
+敌人受到<color=Ice>冷凝伤害</color>降低
 
-龟背上的古钟里隐藏着它的潮石核心，被敲响时能与核心产生共振，爆发出比冷凝属性范围攻击更具威力的声波。敬请留意，该声波可直接作用于人脑的布洛卡区，可造成永久性失语。好在以当前文明的医疗技术，有高达0.04%的概率复原。","<color=#1891e7>[Glacio]</color> 
-This enemy has <color=#b49f50>higher RES</color> against <color=#1891e7>Glacio DMG</color>.  
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Fire>Fusion DMG</color> is increased
+Enemy's <color=Ice>Glacio DMG</color> received is reduced
 
-The ancient bell on the back of the Geochelone hides its Tacetreite core. When struck, the bell resonates with the core, exploding into a sound wave of Glacio energy. Please note that this sound wave can deal permanent damage to broca area in human brains and cause permanent aphasia. Good thing that with current medical technology, we have 0.04% chance to reverse the damage.","<color=#1891e7>[Ngưng Băng]</color>
-Địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#1891e7>sát thương Ngưng Băng</color>.
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Fire>sát thương Hỏa Liệt</color> tăng
+Kẻ địch nhận <color=Ice>sát thương Ngưng Băng</color> giảm
 
-Chuông cổ trên mai rùa ẩn giấu lõi Triều Thạch của nó. Khi chuông bị gõ vang sẽ cộng hưởng với lõi, bùng phát sóng âm có uy lực mạnh hơn cả đòn tấn công phạm vi thuộc tính Ngưng Băng. Xin lưu ý, sóng âm này có thể tác động trực tiếp lên vùng Broca trong não người, gây mất ngôn ngữ vĩnh viễn. May mắn thay, với kỹ thuật y tế của nền văn minh hiện tại, xác suất phục hồi lên đến 0.04%."
-lang_multi_text.db,MultiText,MonsterDetection_10010057_Name,鸣钟之龟,Bell-Borne Geochelone,Minh Chung Chi Quy
-lang_multi_text.db,MultiText,MonsterDetection_MonsterHide,当前追踪敌人被隐藏，自动追踪下一个敌人。,The target currently tracked is hidden. Tracking the next target now.,"Mục tiêu đang theo dõi đã bị ẩn, tự động chuyển sang theo dõi mục tiêu tiếp theo."
-lang_multi_text.db,MultiText,MonsterDetection_TodayOver,该种类敌人今日讨伐完毕，请隔天再进行追踪。,All enemy units of this type have been cleared. Please wait for the daily reset.,"Loại địch này đã thảo phạt xong trong hôm nay, vui lòng quay lại theo dõi vào ngày mai."
-lang_multi_text.db,MultiText,MonsterDisplay_1_Introduce,无冠者介绍,Introduction of the Crownless,Giới thiệu Crownless
-lang_multi_text.db,MultiText,MonsterDisplay_1_Name,无冠者,The Crownless,Crownless
-lang_multi_text.db,MultiText,MonsterHandBookMonsterNotHave,尚未解锁该敌人,Not Yet Unlocked,Chưa mở khóa địch này
-lang_multi_text.db,MultiText,MonsterHandBookMonsterSkinNotHave,尚未收录该异相,Phantom Unlogged,Chưa thu thập dị tướng này
-lang_multi_text.db,MultiText,MonsterHandBookType_1_Descrtption,残象-鸣式种,Tacet Discord - Threnodian,Tàn Tượng - Minh Thức Chủng
-lang_multi_text.db,MultiText,MonsterHandBookType_2_Descrtption,残象-失序种,Tacet Discord - Calamon,Tàn Tượng - Thất Tự Chủng
-lang_multi_text.db,MultiText,MonsterHandBookType_3_Descrtption,残象-自然种,Tacet Discord - Nacrus,Tàn Tượng - Tự Nhiên Chủng
-lang_multi_text.db,MultiText,MonsterHandBookType_4_Descrtption,残象-咕噜种,Tacet Discord - Murmur,Tàn Tượng - Chủng Gururu
-lang_multi_text.db,MultiText,MonsterHandBookType_5_Descrtption,残象-人工种,Tacet Discord - Artifian,Tàn Tượng - Chủng Nhân Công
-lang_multi_text.db,MultiText,MonsterHandBookType_6_Descrtption,异变生物,MUTANT ORGANISM,Sinh vật dị biến
-lang_multi_text.db,MultiText,MonsterHandBookType_7_Descrtption,人类,Humans,Con Người
-lang_multi_text.db,MultiText,MonsterHandBook_310000010_Descrtption,学名“岩宿滋养体”，自然属自然种。该残象多集群行动，常见于矿场和山间，经常和裂变幼岩一起出现，危险程度较低,"Binomially named ""Resinacrustidum lapis"", it is a member of the Resinacrustidum species. This Tacet Discord is often found active in packs within mines and mountainous areas, along with Fission Junrocks. Less dangerous.","Danh pháp khoa học ""Nham Túc Tư Dưỡng Thể"", thuộc chi Tự Nhiên, chủng Tự Nhiên. Tàn Tượng này thường hoạt động theo bầy, hay xuất hiện tại các mỏ khoáng và vùng núi, thường đi cùng Liệt Biến Ấu Nham. Mức độ nguy hiểm thấp."
-lang_multi_text.db,MultiText,MonsterHandBook_310000010_FightSkillDescrtption,先锋幼岩以近身攻击为主，躲过近身攻击会让它冲进地里，暂时无法行动。,The Vanguard Junrock mainly uses melee attacks. Dodging its attacks causes it to rush into the ground and be temporarily immobilized.,"Tiên Phong Ấu Nham chủ yếu tấn công cận chiến. Né tránh đòn cận chiến sẽ khiến nó lao xuống đất, tạm thời không thể hành động."
-lang_multi_text.db,MultiText,MonsterHandBook_310000010_Name,先锋幼岩,Vanguard Junrock,Tiên Phong Ấu Nham
-lang_multi_text.db,MultiText,MonsterHandBook_310000010_TypeDescrtption,残象-失序种,Tacet Discord - Calamon,Tàn Tượng - Chủng Thất Tự
-lang_multi_text.db,MultiText,MonsterHandBook_310000020_Descrtption,学名“岩宿裂殖体”，自然属自然种，常和先锋幼岩一同出现。和先锋幼岩不同的是，该残象外壳上的黑石更多，能量更活跃且不稳定，在外部的冲击下容易爆炸，有被其他残象当作投掷武器的情况。,"Binomially named ""Resinacrustidum lapis"", part of the Resinacrustidum species. This Tacet Discord is often found active, along with Vanguard Junrocks. What makes the two species different is this has more Tacetite on its shell, thus is more energetically active and unstable. External impacts might trigger explosions. Cases of this being used as throwing weapons by other TDs are documented.","Danh pháp khoa học ""Nham Túc Liệt Thực Thể"", thuộc chi Tự Nhiên, chủng Tự Nhiên, thường xuất hiện cùng Tiên Phong Ấu Nham. Khác với Tiên Phong Ấu Nham, Tàn Tượng này có nhiều Hắc Thạch hơn trên lớp vỏ, năng lượng hoạt bát và bất ổn hơn, dễ nổ khi chịu va chạm từ bên ngoài. Có ghi nhận trường hợp bị các Tàn Tượng khác dùng làm vũ khí ném."
-lang_multi_text.db,MultiText,MonsterHandBook_310000020_FightSkillDescrtption,裂变幼岩能够为同伴提供治疗，是战斗中必须优先考虑对付的敌人。,Fission Junrock can heal nearby allies. Prioritize it in combat.,"Liệt Biến Ấu Nham có thể hồi phục cho đồng bọn, là kẻ địch cần ưu tiên xử lý trong chiến đấu."
-lang_multi_text.db,MultiText,MonsterHandBook_310000020_Name,裂变幼岩,Fission Junrock,Liệt Biến Ấu Nham
-lang_multi_text.db,MultiText,MonsterHandBook_310000020_TypeDescrtption,残象-失序种,Tacet Discord - Calamon,Tàn Tượng - Chủng Thất Tự
-lang_multi_text.db,MultiText,MonsterHandBook_310000030_Descrtption,"<color=#9656d8>【导电】</color>
-该敌人<color=#9656d8>导电伤害</color><color=#b49f50>抗性较高</color>。
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5005_MarkTitle,归墟港市无音区,Tacet Field: Port City of Guixu,Vùng Vô Thanh Cảng Thị Quy Khư
+lang_multi_text.db,MultiText,MapMark_5006_MarkDesc,"角色造成<color=Thunder>导电伤害</color>提高
+敌人受到<color=Dark>湮灭伤害</color>降低
 
-学名“导电相毁伤噬声体”，失序属失序种。惊蛰猎手左侧上肢已进化为弓箭状，可聚集导电能量进行较远距离射击。","<color=#1891e7>[Electro]</color>
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Thunder>Electro DMG</color> increased
+Enemy's <color=Dark>Havoc DMG</color> received reduced
 
-This enemy has a <color=#b49f50>higher RES</color> against <color=#1891e7>Electro DMG</color>.  
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Thunder>sát thương Điện Từ</color> tăng
+Kẻ địch nhận <color=Dark>sát thương Hủy Diệt</color> giảm
 
-Binomial name ""Flautist"", Devourer specis. The left upper limb of the Electro Predator has evolved into a bow and arrow, which can gather Electro energy to shoot at longer distances.","<color=#9656d8>[Dẫn Điện]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#9656d8>sát thương Dẫn Điện</color>.
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5006_MarkTitle,荒石高地无音区Ⅱ,Tacet Field: Desorock Highland II,Vùng Vô Thanh Cao Nguyên Hoang Thạch Ⅱ
+lang_multi_text.db,MultiText,MapMark_5007_MarkDesc,"角色造成<color=Wind>气动伤害</color>提高
+敌人受到<color=Light>衍射伤害</color>降低
 
-Danh pháp khoa học ""Dẫn Điện Tướng Hủy Thương Phệ Thanh Thể"", thuộc chi Thất Tự, chủng Thất Tự. Chi trên bên trái của Kinh Chập Liệp Thủ đã tiến hóa thành dạng cung tên, có thể tích tụ năng lượng Dẫn Điện để bắn ở khoảng cách xa."
-lang_multi_text.db,MultiText,MonsterHandBook_310000030_FightSkillDescrtption,惊蛰猎手会朝敌方所在位置射出箭雨，在一定范围和时间内造成持续伤害。,"The Electro Predator shoots a rain of arrows towards its target, dealing DoT Damage within a certain range and duration.","Kinh Chập Liệp Thủ sẽ bắn mưa tên về phía mục tiêu, gây sát thương liên tục trong phạm vi và thời gian nhất định."
-lang_multi_text.db,MultiText,MonsterHandBook_310000030_Name,惊蛰猎手,Electro Predator,Kinh Chập Liệp Thủ
-lang_multi_text.db,MultiText,MonsterHandBook_310000030_TypeDescrtption,残象-失序种,Tacet Discord - Calamon,Tàn Tượng - Chủng Thất Tự
-lang_multi_text.db,MultiText,MonsterHandBook_310000040_Descrtption,"<color=#1891e7>【冷凝】</color>
-该敌人<color=#1891e7>冷凝伤害</color><color=#b49f50>抗性较高</color>。
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Wind>Aero DMG</color> is increased
+Enemy's <color=Light>Spectro DMG</color> received is reduced
 
-学名“冷凝相毁伤噬声体”，失序属失序种，已经进化出类似人类“披风”的身体结构，推测该结构可更快聚集冷凝能量，以形成“投枪”进行远距离攻击。","<color=#1891e7>[Glacio]</color>
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Wind>sát thương Khí Động</color> tăng
+Kẻ địch nhận <color=Light>sát thương Quang Phổ</color> giảm
 
-This enemy has a <color=#b49f50> higher RES</color> against <color=#1891e7>Glacio DMG</color>.  
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5007_MarkTitle,无光之森无音区,Tacet Field: Dim Forest,Vùng Vô Thanh Rừng Vô Quang
+lang_multi_text.db,MultiText,MapMark_5008_MarkDesc,"角色造成<color=Ice>冷凝伤害</color>提高
+敌人受到<color=Fire>热熔伤害</color>降低
 
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Ice>Glacio DMG</color> is increased
+Enemy's <color=Fire>Fusion DMG</color> received is reduced.
 
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Ice>sát thương Ngưng Băng</color> tăng
+Kẻ địch nhận <color=Fire>sát thương Hỏa Liệt</color> giảm
 
-Binomial name ""Devorsonidum glacies"", Devourer specis. Glacio Predator has evolved a body structure similar to a human ""cape"", which is presumed to gather Glacio energy more quickly to form a ""javelin"" for long-range attack.","<color=#1891e7>[Ngưng Băng]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#1891e7>sát thương Ngưng Băng</color>.
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5008_MarkTitle,槲生半岛无音区,Tacet Field: Fagaceae Peninsula,Vùng Vô Thanh Bán Đảo Hộ Sinh
+lang_multi_text.db,MultiText,MapMark_5009_MarkDesc,"角色造成<color=Dark>湮灭伤害</color>提高
+敌人受到<color=Wind>气动伤害</color>降低
 
-Danh pháp khoa học ""Ngưng Băng Tướng Hủy Thương Phệ Thanh Thể"", thuộc chi Thất Tự, chủng Thất Tự. Đã tiến hóa ra cấu trúc cơ thể tương tự ""áo choàng"" của con người, suy đoán cấu trúc này có thể tích tụ năng lượng Ngưng Băng nhanh hơn, tạo thành ""thương phóng"" để tấn công tầm xa."
-lang_multi_text.db,MultiText,MonsterHandBook_310000040_FightSkillDescrtption,破霜猎手的“投枪”落地后，会在一定时间后炸开，对敌人造成意想不到的伤害。,"After the ""javelin"" from the Glacio Predator lands, it will explode after a certain period of time, causing unexpected damage to the enemies.","Sau khi ""thương phóng"" của Phá Sương Liệp Thủ rơi xuống đất, nó sẽ nổ tung sau một khoảng thời gian, gây sát thương bất ngờ cho kẻ địch."
-lang_multi_text.db,MultiText,MonsterHandBook_310000040_Name,破霜猎手,Glacio Predator,Phá Sương Liệp Thủ
-lang_multi_text.db,MultiText,MonsterHandBook_310000040_TypeDescrtption,残象-失序种,Tacet Discord - Calamon,Tàn Tượng - Chủng Thất Tự
-lang_multi_text.db,MultiText,MonsterHandBook_310000050_Descrtption,"<color=#46c3d4>【气动】</color>
-该敌人<color=#46c3d4>气动伤害</color><color=#b49f50>抗性较高</color>。
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Dark>Havoc DMG</color> is increased
+Enemy's <color=Wind>Aero DMG</color> received is reduced
 
-学名“气动相毁伤噬声体”，失序属失序种。与其他“猎手”序列残象凝聚能量发动攻击不同，巡徊猎手的投掷武器是身体结构的一部分，掷出后可利用自身气动能量进行回收。","<color=#1891e7>[Aero]</color>
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Dark>sát thương Hủy Diệt</color> tăng
+Kẻ địch nhận <color=Wind>sát thương Khí Động</color> giảm
 
-This enemy has a <color=#b49f50> higher RES</color> against <color=#1891e7>Aero DMG</color>.  
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5009_MarkTitle,悲叹墓岛无音区,Tacet Field: Penitent's End,Vùng Vô Thanh Penitent's End
+lang_multi_text.db,MultiText,MapMark_5010_MarkDesc,"角色造成<color=Fire>热熔伤害</color>提高
+敌人受到<color=Dark>湮灭伤害</color>降低
 
-Binomial name ""Devorsonidum spiritalis"", a member of the genus Devorsonidum. Different from other ""Predator"" TDs, which condense energy for attacks, the Aero Predator's throwing weapon is part of its body structure, and can be recovered using its own Aero energy after being thrown.","<color=#46c3d4>[Khí Động]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#46c3d4>sát thương Khí Động</color>.
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","<color=Fire>Fusion DMG</color> dealt by Resonators is increased.
+<color=Dark>Havoc DMG</color> taken by enemies is decreased.
 
-Danh pháp khoa học ""Khí Động Tướng Hủy Thương Phệ Thanh Thể"", thuộc chi Thất Tự, chủng Thất Tự. Khác với các Tàn Tượng chuỗi ""Liệp Thủ"" khác ngưng tụ năng lượng để tấn công, vũ khí ném của Tuần Hồi Liệp Thủ là một phần cấu trúc cơ thể, sau khi ném ra có thể thu hồi bằng năng lượng Khí Động của bản thân."
-lang_multi_text.db,MultiText,MonsterHandBook_310000050_FightSkillDescrtption,巡徊猎手的投掷武器可以追踪敌人，小心这种武器的轨迹，否则可能受到比较严重的伤害。,"The throwing weapon of the Aero Predator is capable of tracking its enemies. Be careful of its trajectory, otherwise you may suffer serious damage.","Vũ khí ném của Tuần Hồi Liệp Thủ có thể truy vết kẻ địch. Hãy cẩn thận quỹ đạo của loại vũ khí này, nếu không có thể chịu sát thương nghiêm trọng."
-lang_multi_text.db,MultiText,MonsterHandBook_310000050_Name,巡徊猎手,Aero Predator,Tuần Hồi Liệp Thủ
-lang_multi_text.db,MultiText,MonsterHandBook_310000050_TypeDescrtption,残象-失序种,Tacet Discord - Calamon,Tàn Tượng - Chủng Thất Tự
-lang_multi_text.db,MultiText,MonsterHandBook_310000060_Descrtption,"<color=#e15226>【热熔】</color>
-该敌人<color=#e15226>热熔伤害</color><color=#b49f50>抗性较高</color>。
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Fire>sát thương Hỏa Liệt</color> tăng
+Kẻ địch nhận <color=Dark>sát thương Hủy Diệt</color> giảm
 
-学名“热熔相效应噬声体”，失序属失序种。双侧上肢分别类似长、短枪状，可通过刺、斩进行攻击，有一定危险性。攻击过程中，该残象存在“行礼”的举动，推测为对人类剑士的拙劣模仿。。","<color=#1891e7>[Fusion]</color>
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5010_MarkTitle,黎乔利群岛无音区,Tacet Field:  Riccioli Islands,Vùng Vô Thanh Quần Đảo Riccioli
+lang_multi_text.db,MultiText,MapMark_5011_MarkDesc,"角色造成<color=Wind>气动伤害</color>提高
+敌人受到<color=Thunder>导电伤害</color>降低
 
-This enemy has a <color=#b49f50> higher RES</color> against <color=#1891e7>Fusion DMG</color>.  
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","Resonator's <color=Wind>Aero DMG</color> is increased
+Enemy's <color=Thunder>Electro DMG</color> received is reduced
 
-Binomial name ""Devorsonidum fusio"", a member of the genus Devorsonidum. Its two upper limbs resemble long and short spears respectively, and can attack by stabbing and chopping. Moderately dangerous. While it attacks, this TD is observed to perform actions that looks like saluting, presumed to be a clumsy imitation of human swordsman.","<color=#e15226>[Nhiệt Dung]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao</color> đối với <color=#e15226>sát thương Nhiệt Dung</color>.
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark. 
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Wind>sát thương Khí Động</color> tăng
+Kẻ địch nhận <color=Thunder>sát thương Điện Từ</color> giảm
 
-Danh pháp khoa học ""Nhiệt Dung Tướng Hiệu Ứng Phệ Thanh Thể"", thuộc chi Thất Tự, chủng Thất Tự. Hai chi trên lần lượt giống dạng thương dài và thương ngắn, có thể tấn công bằng đâm và chém, có mức độ nguy hiểm nhất định. Trong quá trình tấn công, Tàn Tượng này có hành động ""hành lễ"", suy đoán là sự bắt chước vụng về kiếm sĩ của con người."
-lang_multi_text.db,MultiText,MonsterHandBook_310000060_FightSkillDescrtption,鸣泣战士可防御并弹开来自正面的近距离攻击，成功后会立刻对敌方进行突刺，但突刺攻击可用逆势回击抵挡。,"Fusion Warriors can defend and bounce off close range attacks received from the direction they're facing, and will immediately thrust at the enemy if the bounce is successful. However, the thrust attack can be parried with Counterattacks.","Minh Khấp Chiến Sĩ có thể phòng thủ và đẩy bật đòn tấn công cận chiến từ phía trước, sau khi thành công sẽ lập tức đột thích vào kẻ địch, nhưng đòn đột thích có thể dùng phản kích để chống đỡ."
-lang_multi_text.db,MultiText,MonsterHandBook_310000060_Name,鸣泣战士,Fusion Warrior,Minh Khấp Chiến Sĩ
-lang_multi_text.db,MultiText,MonsterHandBook_310000060_TypeDescrtption,残象-失序种,Tacet Discord - Calamon,Tàn Tượng - Thất Tự Chủng
-lang_multi_text.db,MultiText,MonsterHandBook_310000070_Descrtption,"<color=#7e1f57>【湮灭】</color>
-该敌人<color=#7e1f57>湮灭伤害</color><color=#b49f50>抗性较高</color>。
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5011_MarkTitle,贝奥海域无音区,Tacet Field: Beohr Waters,Vùng Vô Thanh Hải Vực Beohr
+lang_multi_text.db,MultiText,MapMark_5012_MarkDesc,"角色造成<color=Fire>热熔伤害</color>提高
+敌人受到<color=Light>衍射伤害</color>降低
 
-学名“湮灭相效应噬声体”，失序属失序种。外观近似人类，攻击欲望强烈，具有一定危险性。该残象身体上有类似“布料”的部分，推测为模仿人类“服饰”进化出的某种身体构造，目前功能尚不明确。","<color=#7e1f57>[Havoc]</color>
+随海蚀现象诞生的危险地带，区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象，其中也潜藏着珍贵的材料。","<color=Fire>Fusion DMG</color> dealt by Resonators is increased.
+<color=Light>Spectro DMG</color> taken by enemies is decreased.
 
-This enemy has a <color=#b49f50>higher RES</color> against <color=#7e1f57>Havoc DMG</color>.  
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark.
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Fire>sát thương Hỏa Liệt</color> tăng
+Kẻ địch nhận <color=Light>sát thương Quang Phổ</color> giảm
 
-Binomial name ""Tambourinist"", a member of the genus Disorder. Its appearance resembles that of a human, with a strong desire to attack. Dangerous to a degree. This TD has body parts that look that ""cloth"", presumed to be structures evolved to mimic human dress, though its functions remain unclear.","<color=#7e1f57>[Giải Ly]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao hơn</color> đối với <color=#7e1f57>sát thương Giải Ly</color>.
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5012_MarkTitle,哀恸谷无音区,Tacet Field: Mournfell Canyon,Vùng Vô Thanh Hẻm Núi Mournfell
+lang_multi_text.db,MultiText,MapMark_5013_MarkDesc,"角色造成<color=Fire>热熔伤害</color>提高
+敌人受到<color=Dark>湮灭伤害</color>降低
+随海蚀现象诞生的危险地带,区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象,其中也潜藏着珍贵的材料。","<color=Fire>Fusion DMG</color> dealt by Resonators is increased.
+<color=Dark>Havoc DMG</color> taken by enemies is decreased.
 
-Học danh ""Thể Thực Thanh hiệu ứng tương Giải Ly"", thuộc giống Thất Tự. Ngoại hình gần giống con người, ham muốn tấn công mãnh liệt, có mức độ nguy hiểm nhất định. Tàn Tượng này có phần cơ thể tương tự ""vải"", được suy đoán là một cấu trúc cơ thể tiến hóa để bắt chước ""trang phục"" của con người, hiện chức năng vẫn chưa rõ."
-lang_multi_text.db,MultiText,MonsterHandBook_310000070_FightSkillDescrtption,面对审判战士时，需要注意躲避它快速、中距离的突进攻击。,"When facing the Havoc Warrior, you need to pay attention to dodging its fast, mid-range dash attack.","Khi đối mặt với Chiến Binh Phán Xử, cần chú ý né tránh đòn đột kích nhanh, tầm trung của nó."
-lang_multi_text.db,MultiText,MonsterHandBook_310000070_Name,审判战士,Havoc Warrior,Chiến Binh Phán Xử
-lang_multi_text.db,MultiText,MonsterHandBook_310000070_TypeDescrtption,残象-失序种,Tacet Discord - Calamon,Tàn Tượng - Thất Tự Chủng
-lang_multi_text.db,MultiText,MonsterHandBook_310000080_Descrtption,"<color=#e15226>【热熔】</color>
-该敌人<color=#e15226>热熔伤害</color><color=#b49f50>抗性较高</color>。
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark.
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Fire>sát thương Hỏa Liệt</color> tăng
+Kẻ địch nhận <color=Dark>sát thương Hủy Diệt</color> giảm
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5013_MarkTitle,陷足流川无音区,Tacet Field: Stagnant Run,Vùng Vô Thanh Stagnant Run
+lang_multi_text.db,MultiText,MapMark_5014_MarkDesc,"角色造成<color=Light>衍射伤害</color>提高
+敌人受到<color=Thunder>导电伤害</color>降低
+随海蚀现象诞生的危险地带,区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象,其中也潜藏着珍贵的材料。","<color=Light>Spectro DMG</color> dealt by Resonators is increased.
+<color=Thunder>Electro DMG</color> taken by enemies is decreased.
 
-学名“热熔相声原体”，咕噜属咕噜种。没有智能，因形体类似炉钳，偶尔也会被叫作“炉钳兽”，热熔能量水平较低。","<color=#1891e7>[Fusion]</color>
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark.
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Light>sát thương Quang Phổ</color> tăng
+Kẻ địch nhận <color=Thunder>sát thương Điện Từ</color> giảm
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5014_MarkTitle,隐喙深腹无音区,Tacet Field: Mawburrow Desert,Vùng Vô Thanh Sa Mạc Mawburrow
+lang_multi_text.db,MultiText,MapMark_5015_MarkDesc,"角色造成<color=Fire>热熔伤害</color>提高
+敌人受到<color=Ice>冷凝伤害</color>降低
+随海蚀现象诞生的危险地带,区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象,其中也潜藏着珍贵的材料。","<color=Fire>Fusion DMG</color> dealt by Resonators is increased.
+<color=Ice>Glacio DMG</color> taken by enemies is reduced.
 
-This enemy has a <color=#b49f50> higher RES</color> against <color=#1891e7>Fusion DMG</color>.  
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark.
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Fire>sát thương Hỏa Liệt</color> tăng
+Kẻ địch nhận <color=Ice>sát thương Ngưng Băng</color> giảm
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5015_MarkTitle,加拉尔冠阶无音区,Tacet Field: Mount Gjallar,Vùng Vô Thanh Núi Gjallar
+lang_multi_text.db,MultiText,MapMark_5016_MarkDesc,"角色造成<color=Wind>气动伤害</color>提高
+敌人受到<color=Thunder>导电伤害</color>降低
+随海蚀现象诞生的危险地带,区域中央的白色声弦与巨大的声痕是其最显著的特征。
+除了危险的残象,其中也潜藏着珍贵的材料。","<color=Wind>Aero DMG</color> dealt by Resonators is increased.
+<color=Thunder>Electro DMG</color> taken by enemies is reduced.
 
-Binomial name ""Strepoplasmidum fusio"", a member of the genus Strepoplasmidum. Does not possess any intelligence. Due of its plier-shape body, Snip Snap is occasionally called the ""plier beast"". Fusion energy is observed to be in a low level in the species.","<color=#e15226>[Nhiệt Dung]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao hơn</color> đối với <color=#e15226>sát thương Nhiệt Dung</color>.
-
-Học danh ""Thanh Nguyên Thể tương Nhiệt Dung"", thuộc giống Cô Lô. Không có trí năng, vì hình dáng giống kìm lò nên đôi khi còn được gọi là ""Thú Kìm Lò"", mức năng lượng Nhiệt Dung thấp."
-lang_multi_text.db,MultiText,MonsterHandBook_310000080_FightSkillDescrtption,咔嚓嚓被击败时，体内残留的热熔能量可引发自爆，这种自爆可以被及时的攻击打断，一旦自爆成功，会在原地留下持续灼烧玩家的热熔能量圈，持续对能量圈范围内的玩家造成伤害。,"When Snip Snap is defeated, the residual Thermo energy within its body can trigger an explosion, which can be interrupted by a timely attack. Once the explosion is successful, it will leave behind a Fusion Energy Circle that deals DoT Damage to players within the circle.","Khi Snip Snap bị đánh bại, năng lượng Nhiệt Dung tàn dư trong cơ thể có thể kích hoạt tự hủy. Vụ tự hủy này có thể bị ngắt bằng đòn tấn công kịp thời. Nếu tự hủy thành công, nó sẽ để lại vòng năng lượng Nhiệt Dung liên tục thiêu đốt tại chỗ, gây sát thương liên tục cho người chơi trong phạm vi."
-lang_multi_text.db,MultiText,MonsterHandBook_310000080_Name,咔嚓嚓,Snip Snap,Snip Snap
-lang_multi_text.db,MultiText,MonsterHandBook_310000080_TypeDescrtption,残象-咕噜种,Tacet Discord - Murmur,Tàn Tượng - Cô Lô Chủng
-lang_multi_text.db,MultiText,MonsterHandBook_310000090_Descrtption,"<color=#d4bf5f>【衍射】</color>
-该敌人<color=#d4bf5f>衍射伤害</color><color=#b49f50>抗性较高</color>。
-
-学名“衍射相声原体”，咕噜属咕噜种。因没有智能，行为逻辑简单而得名。衍射能量水平低下。","<color=#1891e7>[Spectro]</color>
-
-This enemy has a <color=#b49f50> higher RES</color> against <color=#1891e7>Spectro DMG</color>.  
-
-Scientifically named the ""Strepoplasmidum spectrum"", a member of the genus Strepoplasmidum. Gained its name due to the lack of intelligence and simple behavioral logic. Spectro Energy is found to be in low level.","<color=#d4bf5f>[Nhiễu Xạ]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao hơn</color> đối với <color=#d4bf5f>sát thương Nhiễu Xạ</color>.
-
-Học danh ""Thanh Nguyên Thể tương Nhiễu Xạ"", thuộc giống Cô Lô. Vì không có trí năng, hành vi đơn giản mà được đặt tên. Mức năng lượng Nhiễu Xạ thấp."
-lang_multi_text.db,MultiText,MonsterHandBook_310000090_FightSkillDescrtption,阿嗞嗞被击败时，体内残留的衍射能量可引发自爆，这种自爆可以被及时的攻击打断，一旦自爆成功，会在原地留下衍射能量圈，使圈内的共鸣者行动变缓。,"When Zig Zag is defeated, the residual Spectro energy within its body can trigger an explosion, which can be interrupted by a timely attack. Once the explosion is successful, it will leave behind a Diffusion Energy Circle that slows the Resonators within the circle.","Khi Zig Zag bị đánh bại, năng lượng Nhiễu Xạ tàn dư trong cơ thể có thể kích hoạt tự hủy. Vụ tự hủy này có thể bị ngắt bằng đòn tấn công kịp thời. Nếu tự hủy thành công, nó sẽ để lại vòng năng lượng Nhiễu Xạ tại chỗ, khiến Cộng Hưởng Giả trong phạm vi bị chậm lại."
-lang_multi_text.db,MultiText,MonsterHandBook_310000090_Name,阿嗞嗞,Zig Zag,Zig Zag
-lang_multi_text.db,MultiText,MonsterHandBook_310000090_TypeDescrtption,残象-咕噜种,Tacet Discord - Murmur,Tàn Tượng - Cô Lô Chủng
-lang_multi_text.db,MultiText,MonsterHandBook_310000100_Descrtption,"<color=#46c3d4>【气动】</color>
-该敌人<color=#46c3d4>气动伤害</color><color=#b49f50>抗性较高</color>。
-
-学名“气动相声原体”，咕噜属咕噜种。没有智能，其“头部”聚集的气动能量团可发出“咻咻”的声音，因此被称为“呼咻咻”。","<color=#1891e7>[Aero]</color>
-
-This enemy has a <color=#b49f50> higher RES</color> against <color=#1891e7>Aero DMG</color>.  
-
-
-Binomial name ""Strepoplasmidum spiritalis"", a member of the genus Strepoplasmidum. Possesses no intelligence. Since the Aero energy mass gathered in its ""head"" emits sound similar to that of a gust of wind, it gained the name ""Whiff Whaff"".","<color=#46c3d4>[Khí Động]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao hơn</color> đối với <color=#46c3d4>sát thương Khí Động</color>.
-
-Học danh ""Thanh Nguyên Thể tương Khí Động"", thuộc giống Cô Lô. Không có trí năng, khối năng lượng Khí Động tụ lại ở ""đầu"" có thể phát ra âm thanh ""xiu xiu"", vì vậy được gọi là ""Whiff Whaff""."
-lang_multi_text.db,MultiText,MonsterHandBook_310000100_FightSkillDescrtption,呼咻咻被击败时，体内残留的气动能量可引发自爆，这种自爆可以被及时的攻击打断，一旦自爆成功，会在原地留下持续吸引玩家靠近的风眼并持续对风眼范围内的玩家造成伤害。,"When Whiff Whaff is defeated, the residual Aero energy within its body can trigger a explosion, which can be interrupted by a timely attack. Once the explosion is successful, it will leave behind a Storm Eye that continues to drag players inward and deals DoT Damage to players within the range.","Khi Whiff Whaff bị đánh bại, năng lượng Khí Động tàn dư trong cơ thể có thể kích hoạt tự hủy. Vụ tự hủy này có thể bị ngắt bằng đòn tấn công kịp thời. Nếu tự hủy thành công, nó sẽ để lại mắt bão liên tục hút người chơi lại gần và gây sát thương liên tục cho người chơi trong phạm vi."
-lang_multi_text.db,MultiText,MonsterHandBook_310000100_Name,呼咻咻,Whiff Whaff,Whiff Whaff
-lang_multi_text.db,MultiText,MonsterHandBook_310000100_TypeDescrtption,残象-咕噜种,Tacet Discord - Murmur,Tàn Tượng - Cô Lô Chủng
-lang_multi_text.db,MultiText,MonsterHandBook_310000110_Descrtption,"<color=#7e1f57>【湮灭】</color>
-该敌人<color=#7e1f57>湮灭伤害</color><color=#b49f50>抗性较高</color>。
-
-学名“气动相毁伤噬声体”，失序属失序种。与其他“猎手”序列残象凝聚能量发动攻击不同，巡徊猎手的投掷武器是身体结构的一部分，掷出后可利用自身气动能量进行回收。","<color=#7e1f57>[Havoc]</color>
-
-This enemy has a <color=#b49f50>higher RES</color> against <color=#7e1f57>Havoc DMG</color>.  
-
-Binomial name ""Strepoplasmidum ruptura"", a member of the genus Strepoplasmidum. Can use Havoc energy in simple ways to attacks, possesses no intelligence.","<color=#7e1f57>[Giải Ly]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao hơn</color> đối với <color=#7e1f57>sát thương Giải Ly</color>.
-
-Học danh ""Thể Thực Thanh hủy thương tương Khí Động"", thuộc giống Thất Tự. Khác với các Tàn Tượng dòng ""Thợ Săn"" khác ngưng tụ năng lượng để tấn công, vũ khí ném của Tuần Hồi Thợ Săn là một phần cấu trúc cơ thể, sau khi ném ra có thể dùng năng lượng Khí Động của bản thân để thu hồi."
-lang_multi_text.db,MultiText,MonsterHandBook_310000110_FightSkillDescrtption,呜咔咔被击败时，体内残留的热熔能量可引发自爆，这种自爆可以被及时的攻击打断，一旦自爆成功，会在原地留下湮灭能量圈，持续扣减圈内共鸣者的共鸣能量并造成持续伤害。,"When Tick Tack is defeated, the residual Fusion energy within its body can trigger an explosion, which can be interrupted by a timely attack. Once the explosion is successful, it will leave behind an Havoc Energy Circle, reducing the Resonance Energy of the Resonator within the circle and dealing DoT damage.","Khi Tick Tack bị đánh bại, năng lượng Nhiệt Dung tàn dư trong cơ thể có thể kích hoạt tự hủy. Vụ tự hủy này có thể bị ngắt bằng đòn tấn công kịp thời. Nếu tự hủy thành công, nó sẽ để lại vòng năng lượng Giải Ly tại chỗ, liên tục trừ năng lượng cộng hưởng của Cộng Hưởng Giả trong phạm vi và gây sát thương liên tục."
-lang_multi_text.db,MultiText,MonsterHandBook_310000110_Name,呜咔咔,Tick Tack,Tick Tack
-lang_multi_text.db,MultiText,MonsterHandBook_310000110_TypeDescrtption,残象-咕噜种,Tacet Discord - Murmur,Tàn Tượng - Cô Lô Chủng
-lang_multi_text.db,MultiText,MonsterHandBook_310000120_Descrtption,"<color=#1891e7>【冷凝】</color>
-该敌人<color=#1891e7>冷凝伤害</color><color=#b49f50>抗性较高</color>。
-
-学名“潜浮鲀”的小型水生异变动物，在所有淡水水网中广泛存在。其头顶的浮萍状草叶是一种伪装，帮助它藏在水下偷袭猎物。","<color=#1891e7>[Glacio]</color>
-This enemy has a <color=#b49f50> higher RES</color> against <color=#1891e7>Glacio DMG</color>.  
-
-Binomial name ""Tetraodon lateo"", a Mutant Organism of the genus Tetraodon. Widely present in all fresh waters. A duckweed-shaped leaf on the top of its head serves as its cover to help its surprise strike on preys.","<color=#1891e7>[Ngưng Băng]</color>
-Kẻ địch này có <color=#b49f50>kháng tính cao hơn</color> đối với <color=#1891e7>sát thương Ngưng Băng</color>.
-
-Học danh ""Tiềm Phù Đồn"", loài thủy sinh dị biến nhỏ, phân bố rộng rãi trong tất cả các hệ thống nước ngọt. Lá cỏ hình bèo trên đỉnh đầu là một dạng ngụy trang, giúp nó ẩn dưới nước để phục kích con mồi."
-lang_multi_text.db,MultiText,MonsterHandBook_310000120_FightSkillDescrtption,咕咕河豚能将气囊中储存的空气压缩后喷出，将敌人弹飞到高空，造成较大的掉落伤害。,"Gulpuff can compress the air stored in its airbag and spit out to knock its enemy up, which can deal a great amount of fall damage.","Gulpuff có thể nén không khí tích trữ trong túi khí rồi phun ra, đẩy bay kẻ địch lên cao, gây sát thương rơi đáng kể."
+A dangerous zone born from the Waveworn Phenomenon. Its most distinctive feature is the white Resonance Cord in the center, marked by a giant Tacet Mark.
+In addition to hazardous Tacet Discords, the area is also rich in precious materials.","Nhân vật gây <color=Wind>sát thương Khí Động</color> tăng
+Kẻ địch nhận <color=Thunder>sát thương Điện Từ</color> giảm
+Vùng nguy hiểm sinh ra từ hiện tượng hải thực, dây âm thanh trắng ở trung tâm khu vực cùng dấu âm khổng lồ là đặc điểm nổi bật nhất.
+Ngoài những Tàn Tượng nguy hiểm, nơi đây còn ẩn chứa nhiều nguyên liệu quý giá."
+lang_multi_text.db,MultiText,MapMark_5016_MarkTitle,冰原运输港无音区,Tacet Field: Frostlands Transit Port,Vùng Vô Thanh Cảng Vận Chuyển Băng Nguyên
+lang_multi_text.db,MultiText,MapMark_5021_MarkDesc,"<color=Dark>【湮灭】</color>
+该敌人<color=Dark>湮灭伤害</color><color=HighlightB>抗性提高</color>。
+降生于云陵谷外的呓语种残象，它是蛰伏于暗处的兵卒，亦是无尽战祸降临的先兆。","<color=Dark>[Havoc]</color>
+Has <color=HighlightB>increased RES</color> to <color=Dark>Havoc DMG</color>
+A Whisperin Tacet Discord that spawned outside the Gorges of Spirits. It embodies an ominous soldier, foretelling eternal conflict and suffering in its dark presence.","<color=Dark>[Hủy Diệt]</color>
+Kẻ địch này có <color=HighlightB>kháng tính tăng</color> với <color=Dark>sát thương Hủy Diệt</color>.
+Tàn Tượng loài thì thầm sinh ra ngoài Vân Lăng Cốc, nó là binh lính ẩn mình trong bóng tối, cũng là điềm báo cho chiến họa bất tận."
+lang_multi_text.db,MultiText,MapMark_5021_MarkTitle,无冠者,Crownless,Vô Quán Giả
+lang_multi_text.db,MultiText,MapMark_5022_MarkDesc,"<color=Ice>【冷凝】</color>
+该敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性提高</color>。
+寒潭中蛰伏的鼍龟，驮负着古钟而眠，当它苏醒时，云陵谷间常回荡悠长的钟鸣。","<color=Ice>[Glacio]</color>
+Has <color=HighlightB>increased RES</color> to <color=Ice>Glacio DMG</color>
+Large Mutant Organism that inhabits the depths of the Gorges of Spirits, the ancient bell on their backs can explode with extremely lethal sound waves when they are rung.","<color=Ice>[Ngưng Băng]</color>
+Kẻ địch này có <color=HighlightB>kháng tính tăng</color> với <color=Ice>sát thương Ngưng Băng</color>.
+Rùa đà nằm sâu dưới đầm lạnh, mang trên lưng chiếc chuông cổ mà ngủ. Khi nó tỉnh giấc, tiếng chuông ngân dài vọng khắp Vân Lăng Cốc."
+lang_multi_text.db,MultiText,MapMark_5022_MarkTitle,鸣钟之龟,Bell-Borne Geochelone,Minh Chung Chi Quy
+lang_multi_text.db,MultiText,MapMark_5023_MarkDesc,"<color=Thunder>【导电】</color>
+该敌人<color=Thunder>导电伤害</color><color=HighlightB>抗性提高</color>。
+以荒石高地为据点的强大残象，拥有掣电之力，被视为无冠者的先锋之一。","<color=Thunder>[Electro]</color>
+Has <color=HighlightB>increased RES</color> to <color=Thunder>Electro DMG</color>
+A powerful Tacet Discord that appears in the Tacet Field of Desorock Highlands and is capable of using the power of the Electro.","<color=Thunder>[Điện Từ]</color>
+Kẻ địch này có <color=HighlightB>kháng tính tăng</color> với <color=Thunder>sát thương Điện Từ</color>.
+Tàn Tượng hùng mạnh lấy Cao Nguyên Hoang Thạch làm cứ điểm, sở hữu sức mạnh sấm sét, được coi là một trong những tiên phong của Vô Quán Giả."
+lang_multi_text.db,MultiText,MapMark_5023_MarkTitle,云闪之鳞,Thundering Mephis,Vân Thiểm Chi Lân
+lang_multi_text.db,MultiText,MapMark_5025_MarkDesc,"<color=Fire>【热熔】</color>
+该敌人<color=Fire>热熔伤害</color><color=HighlightB>抗性提高</color>。
+诞生于归墟港市的铁骑，以不息的烈火为闯入者设下勇气的试炼。","<color=Fire>[Fusion]</color>
+Has <color=HighlightB>increased RES</color> to <color=Fire>Fusion DMG</color>
+A powerful Tacet Discord located in the Port City of Guixu. According to witnesses, its movement is different from other TDs, more information to be further researched.","<color=Fire>[Hỏa Liệt]</color>
+Kẻ địch này có <color=HighlightB>kháng tính tăng</color> với <color=Fire>sát thương Hỏa Liệt</color>.
+Kỵ sĩ sắt sinh ra tại Cảng Thị Quy Khư, dùng ngọn lửa bất diệt đặt ra thử thách dũng khí cho những kẻ xâm nhập."
+lang_multi_text.db,MultiText,MapMark_5025_MarkTitle,燎照之骑,Inferno Rider,Liêu Chiếu Chi Kỵ

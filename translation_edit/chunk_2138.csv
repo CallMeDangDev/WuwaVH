@@ -1,107 +1,230 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Text_ItemSelectForgeQuantityTip_text,印造数量 <color=Highlight>{0}</color>,Quantity: <color=Highlight>{0}</color>,Số lượng chế tạo <color=Highlight>{0}</color>
-lang_multi_text.db,MultiText,Text_ItemSelectShopQuantityTip_text,购买数量 <color=Highlight>{0}</color>,Quantity: <color=Highlight>{0}</color>,Số lượng mua <color=Highlight>{0}</color>
-lang_multi_text.db,MultiText,Text_ItemSelectSynthesisQuantityTip_text,合成数量 <color=Highlight>{0}</color>,Quantity: <color=Highlight>{0}</color>,Số lượng hợp thành <color=Highlight>{0}</color>
-lang_multi_text.db,MultiText,Text_ItemShow_Text,{0}/{1},{0}/{1},{0}/{1}
-lang_multi_text.db,MultiText,Text_ItemTipsHaveNum_Text,拥有：{0},Owned: {0},Sở hữu: {0}
-lang_multi_text.db,MultiText,Text_ItemTipsNum_Text,库存：{0},Inventory: {0},Kho: {0}
-lang_multi_text.db,MultiText,Text_ItemTips_1_Text,暂无此物品,Item not currently available,Hiện chưa có vật phẩm này
-lang_multi_text.db,MultiText,Text_ItemToolsBlank_Text,当前暂无可装配道具,No available items to assemble currently,Hiện không có đạo cụ nào khả dụng để trang bị
-lang_multi_text.db,MultiText,Text_ItemToolsSubTitle_Text,道具装配,Item assembly,Trang bị đạo cụ
-lang_multi_text.db,MultiText,Text_ItemUnlockSuccess_Text,物品解锁成功,Item Unlocked,Mở khóa vật phẩm thành công
-lang_multi_text.db,MultiText,Text_ItemUseCount_Text,道具使用:{0},Item used: {0},Đạo cụ đã dùng: {0}
-lang_multi_text.db,MultiText,Text_JoinText_Text,加入,Select,Tham gia
-lang_multi_text.db,MultiText,Text_KeepOnButton_Text,继续副本,Continue,Tiếp tục phụ bản
-lang_multi_text.db,MultiText,Text_KeyBoard_Text,键鼠,Keyboard and Mouse,Bàn phím và chuột
-lang_multi_text.db,MultiText,Text_KillCount_Text,击败次数:{0},Defeat times: {0},Số lần đánh bại: {0}
-lang_multi_text.db,MultiText,Text_LanguageDownloadFinished_Text,{0}语音包已下载完成,{0} voice pack has been downloaded,Gói giọng nói {0} đã tải xong
-lang_multi_text.db,MultiText,Text_LeaderCancelMatch_Text,匹配已取消,Matchmaking canceled,Đã hủy ghép trận
-lang_multi_text.db,MultiText,Text_LeaderExitMatching_Text,队长离开，匹配队伍已解散,"Team leader has left, the match team has been disbanded","Đội trưởng đã rời đi, đội ghép trận đã giải tán"
-lang_multi_text.db,MultiText,Text_LeaderExitOnlineTeam_Text,{0}已离开队伍，正在返回单人游戏。,"{0} has left the team, returning to single-player mode.","{0} đã rời khỏi đội, đang quay về chế độ chơi đơn."
-lang_multi_text.db,MultiText,Text_Leave_Text,离开,Leave,Rời đi
-lang_multi_text.db,MultiText,Text_LeftAreaTeamText_Text,左侧,Left,Bên trái
-lang_multi_text.db,MultiText,Text_LeftAreaText_Text,左方区域,Left area,Khu vực bên trái
-lang_multi_text.db,MultiText,Text_LevelGiftPrompt_Text,暂无更多等级礼包,No level bundles available,Hiện không còn gói quà cấp độ nào
-lang_multi_text.db,MultiText,Text_LevelNumber_Text,<size=32>Lv.</size>{0},<size=32>Lv.</size>{0},<size=32>Lv.</size>{0}
-lang_multi_text.db,MultiText,Text_LevelRichText_Text,<color=#ffffff>Lv. {0}/</color><color=#c1c1c1>{1}</color>,<color=#ffffff>Lv. {0}/</color><color=#c1c1c1>{1}</color>,<color=#ffffff>Lv. {0}/</color><color=#c1c1c1>{1}</color>
-lang_multi_text.db,MultiText,Text_LevelShow_Text,Lv. {0},Lv. {0},Lv. {0}
-lang_multi_text.db,MultiText,Text_LevelText_Text,Lv. {0},Lv. {0},Lv. {0}
-lang_multi_text.db,MultiText,Text_LevelUpMax_Text,已达到等级上限,Max Level Reached,Đã đạt giới hạn cấp độ
-lang_multi_text.db,MultiText,Text_LevelUpSuccessful_Text,升级成功,Upgraded,Nâng cấp thành công
-lang_multi_text.db,MultiText,Text_LimitCount_Text,出战角色数量不符合要求,The number of Characters in battle does not meet the requirements,Số lượng nhân vật ra trận không đáp ứng yêu cầu
-lang_multi_text.db,MultiText,Text_LogCompressing_Text,日志压缩中{0},Compressing Log... {0},Đang nén nhật ký{0}
-lang_multi_text.db,MultiText,Text_LogUploadCancel_Text,取消上传,Cancel upload,Hủy tải lên
-lang_multi_text.db,MultiText,Text_LogUploadConfirm_Text,"上传日志可以帮助我们快速定位问题
-（若处在移动网络中将消耗少量网络流量）","Upload the log to help us locate the issue. 
- (A small amount of data will be consumed if you are using mobile data)","Tải lên nhật ký có thể giúp chúng tôi xác định vấn đề nhanh chóng
-(Nếu đang sử dụng mạng di động sẽ tiêu hao một lượng nhỏ dữ liệu)"
-lang_multi_text.db,MultiText,Text_LogUploadFail_Text,本次上传日志失败，失败文件数：<color=#c25757>{0}</color>/{1}。请检查网络环境或联系客服。,"Log upload failed, number of failed files: <color=#c25757>{0}</color>/{1}. Please check the network environment or contact customer service.","Tải lên nhật ký thất bại, số tệp thất bại: <color=#c25757>{0}</color>/{1}. Vui lòng kiểm tra kết nối mạng hoặc liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,Text_LogUploadRetry_Text,重试,Retry,Thử lại
-lang_multi_text.db,MultiText,Text_LogUploadService_Text,联系客服,Contact customer service,Liên hệ hỗ trợ
-lang_multi_text.db,MultiText,Text_LogUploadSuccess_Text,日志上传成功,Log Uploaded,Tải lên nhật ký thành công
-lang_multi_text.db,MultiText,Text_LogUploadYes_Text,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,Text_LogUpload_Text,上传,Upload,Tải lên
-lang_multi_text.db,MultiText,Text_LogUploading_Text,日志上传中{0},Log uploading {0},Đang tải lên nhật ký{0}
-lang_multi_text.db,MultiText,Text_LoginFailEmptyAccount_Text,账号不能为空,Account cannot be empty,Tài khoản không được để trống
-lang_multi_text.db,MultiText,Text_LoginFailTooManyTimes_Text,"登录失败次数过多, 请稍后重试。","Too many failed login attempts, please try again later.","Đăng nhập thất bại quá nhiều lần, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,Text_LoginRequestFail_Text,请求登录失败，请稍后再尝试。,"Login request failed, please try again later.","Yêu cầu đăng nhập thất bại, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,Text_LordGymNewDifficultyUnlock_Text,新难度已解锁,New difficulty unlocked,Đã mở khóa độ khó mới
-lang_multi_text.db,MultiText,Text_LowRiskAreaFloor_Text,是否覆盖 稳定区·{0}·第{1}层 的挑战成绩,Updating results of Stable Zone: {0} - Floor {1}. Do you confirm?,Bạn có muốn ghi đè thành tích thử thách Khu Ổn Định - {0} - Tầng {1} không?
-lang_multi_text.db,MultiText,Text_LowRisk_Text,稳定区·{0},Stable Zone: {0},Khu Ổn Định - {0}
-lang_multi_text.db,MultiText,Text_LvString_Text,{0}阶,{0} Stage,Giai đoạn {0}
-lang_multi_text.db,MultiText,Text_LvlUnknown_Text,等级 ???,Level ???,Cấp ???
-lang_multi_text.db,MultiText,Text_MachiningStudy_Text,美食研究,Culinary Research,Nghiên cứu ẩm thực
-lang_multi_text.db,MultiText,Text_Machining_Text,切配加工,Cutting and Processing,Cắt và chế biến
-lang_multi_text.db,MultiText,Text_MaciningStudyFail_Text,多多收集线索，尝试其他组合吧,Collect more clues and try other combinations,Hãy thu thập thêm manh mối và thử các tổ hợp khác nhé
-lang_multi_text.db,MultiText,Text_MailBack_Text,返回,Back,Quay lại
-lang_multi_text.db,MultiText,Text_MailCapicity_Text,邮件容量,Storage,Dung lượng thư
-lang_multi_text.db,MultiText,Text_MailDelete_Text,删除成功,Deleted,Xóa thành công
-lang_multi_text.db,MultiText,Text_MailFunctionLocked_Text,联觉等级达到{0}级解锁。,Reach Union Level {0},Mở khóa khi đạt Cấp Liên Giác {0}.
-lang_multi_text.db,MultiText,Text_MailGetItem_Text,获得道具,Items Obtained,Nhận vật phẩm
-lang_multi_text.db,MultiText,Text_MailMax_Text,邮件列表已满，请及时进行删除处理。,Mailbox full. Please free up space for new mail.,"Hộp thư đã đầy, vui lòng xóa bớt để nhận thư mới."
-lang_multi_text.db,MultiText,Text_MailSender_Text,发件人,From:,Người gửi
-lang_multi_text.db,MultiText,Text_MailTime_Text,时间,Time:,Thời gian
-lang_multi_text.db,MultiText,Text_MailTitle_Text,标题,Heading,Tiêu đề
-lang_multi_text.db,MultiText,Text_Mail_Text,邮件,Mail,Thư
-lang_multi_text.db,MultiText,Text_MainNew_Text,收到一封新的邮件,Received a new email,Nhận được một thư mới
-lang_multi_text.db,MultiText,Text_MakingAccessory_Text,切配制作,Ingredient Making,Chế biến nguyên liệu
-lang_multi_text.db,MultiText,Text_MakingDishes_Text,烹调制作,Dish Making,Nấu món ăn
-lang_multi_text.db,MultiText,Text_Making_Text,制作,Craft,Chế tạo
-lang_multi_text.db,MultiText,Text_MatchInstanceDead_Text,已失去意识，队友通过挑战可复苏并领取奖励。若退出挑战则立即离开声之领域。,"You have been knocked out. When your teammates complete the challenge, you will be revived. You will leave the Sonoro Sphere if you quit the challenge now.","Bạn đã mất ý thức. Đồng đội hoàn thành thử thách sẽ hồi sinh và nhận thưởng cho bạn. Nếu thoát thử thách, bạn sẽ rời khỏi Lĩnh Vực Thanh ngay lập tức."
-lang_multi_text.db,MultiText,Text_MatchingAgree_Text,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,Text_MatchingBackground_Text,将在后台继续匹配,Matching will continue,Sẽ tiếp tục ghép trận ở chế độ nền
-lang_multi_text.db,MultiText,Text_MatchingButtonLeader_Text,开启挑战,Start Challenge,Bắt đầu thử thách
-lang_multi_text.db,MultiText,Text_MatchingButtonMemberCancel_Text,取消准备,Cancel,Hủy sẵn sàng
-lang_multi_text.db,MultiText,Text_MatchingButtonMember_Text,准备,Prepare,Sẵn sàng
-lang_multi_text.db,MultiText,Text_MatchingCancel_Text,退出匹配,Exit Matching,Thoát ghép trận
-lang_multi_text.db,MultiText,Text_MatchingConfirm_Text,匹配就绪,Matching Ready,Ghép trận sẵn sàng
-lang_multi_text.db,MultiText,Text_MatchingContext_Text,"<color=#15262e><size=52>{0}</size></color>
-<color=#6e6a62><size=40> 已成功匹配共鸣者小队，点击确认按键进入阵容配置</size></color>","<color=#15262e><size=52>{0}</size></color>
- <color=#6e6a62><size=40>Match success. Click confirm to set up the lineup.</size></color>","<color=#15262e><size=52>{0}</size></color>
-<color=#6e6a62><size=40> Đã ghép thành công đội Cộng Hưởng Giả, nhấn xác nhận để vào cấu hình đội hình</size></color>"
-lang_multi_text.db,MultiText,Text_MatchingCoolDown_Text,{0}秒后自动退出匹配,Matching will be canceled in {0}s,Tự động thoát ghép trận sau {0} giây
-lang_multi_text.db,MultiText,Text_MatchingInviteCd_Text,已发起过邀请，请稍后尝试,"Invitation has been sent, please try again later","Đã gửi lời mời, vui lòng thử lại sau"
-lang_multi_text.db,MultiText,Text_MatchingOtherCancel_Text,有玩家未确认，正在重新匹配。,"Some players have not confirmed, re-matching","Có người chơi chưa xác nhận, đang ghép trận lại."
-lang_multi_text.db,MultiText,Text_MatchingSuccess_Text,匹配成功,Match Complete,Ghép trận thành công
-lang_multi_text.db,MultiText,Text_MatchingTeleport_Text,即将传送到副本入口,About to be transported to the entrance of the instance,Sắp dịch chuyển đến cổng phụ bản
-lang_multi_text.db,MultiText,Text_MatchingTimeOut_Text,匹配时间过长，已取消,"Match time too long, canceled","Thời gian ghép trận quá lâu, đã hủy"
-lang_multi_text.db,MultiText,Text_MatchingWait_Text,等待其他玩家确认,Waiting for other players to confirm,Đang chờ người chơi khác xác nhận
-lang_multi_text.db,MultiText,Text_Material_Text,材料,Material,Nguyên Liệu
-lang_multi_text.db,MultiText,Text_MaxDeliverCount_Text,交付道具数量已达最大值,Max items delivered,Số lượng vật phẩm giao nộp đã đạt tối đa
-lang_multi_text.db,MultiText,Text_Medicament_Text,药剂,Potion,Dược Tễ
-lang_multi_text.db,MultiText,Text_Meter_Text,{0}米,{0}m,{0}m
-lang_multi_text.db,MultiText,Text_MiddleRequirementDefault__Text,获得,Items Obtained,Nhận được
-lang_multi_text.db,MultiText,Text_MingSuTi_Text1_Text,<color=#ac8549>{0}</color>/{1},<color=#ac8549>{0}</color>/{1},<color=#ac8549>{0}</color>/{1}
-lang_multi_text.db,MultiText,Text_MingSuTi_Text2_Text,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_MingSuTi_Text3_Text,全部交付,Deliver All,Giao nộp tất cả
-lang_multi_text.db,MultiText,Text_MingSuTi_Text4_Text,返回当前,Return to Current Level,Quay về cấp hiện tại
-lang_multi_text.db,MultiText,Text_MingSuTi_Text5_Text,返回当前,Return to Current Level,Quay về cấp hiện tại
-lang_multi_text.db,MultiText,Text_MingSuTi_Text6_Text,材料不足,Insufficient Materials,Không đủ Nguyên Liệu
-lang_multi_text.db,MultiText,Text_MinuteText_Text,分钟,m,phút
-lang_multi_text.db,MultiText,Text_Minute_Text,分钟,m,phút
-lang_multi_text.db,MultiText,Text_MobileAutoPickUp_Text,点击屏幕右半空白区域可全部拾取,Click right half of screen to auto pick,Chạm vào vùng trống bên phải màn hình để nhặt tất cả
-lang_multi_text.db,MultiText,Text_MonsterHandBookLock_Text,尚未遭遇该敌人,Enemy gallery locked,Chưa từng chạm trán kẻ địch này
-lang_multi_text.db,MultiText,Text_MonsterInformation_Text,怪物信息,Enemy Info,Thông tin quái vật
-lang_multi_text.db,MultiText,Text_MonsterTimeRemain_Text,后刷新,Reset after,sau sẽ làm mới
-lang_multi_text.db,MultiText,Text_MonthCardShopTitle_Text,连续30日，每日登录领取。,Log in daily for 30 consecutive days to receive rewards.,Đăng nhập mỗi ngày trong 30 ngày liên tục để nhận thưởng.
-lang_multi_text.db,MultiText,Text_MonthlyCardDesc_Text,以交易所的信誉为背书，约定按月为单位以固定价格对标的资产进行交易，在到期日前每日根据差额补足价款，补偿形式为月相或星声，并不涉及实物交割。,"A monthly trade contract of the underlying assets at a fixed price, backed by the credit of the Exchange. A compensation will be paid daily before the expiration to settle the balance in the form of Special Acceptance Rights or Tacetreite Voucher. No physical delivery is involved.","Được bảo chứng bởi uy tín của Sở Giao Dịch, đây là hợp đồng giao dịch tài sản theo tháng với giá cố định. Trước ngày đáo hạn, mỗi ngày sẽ thanh toán phần chênh lệch dưới dạng Nguyệt Tướng hoặc Tinh Thanh, không liên quan đến giao nhận vật phẩm thực tế."
+lang_multi_text.db,MultiText,Term750033_Title,范围强化,Enhancement Field,Tăng Cường Phạm Vi
+lang_multi_text.db,MultiText,Term750034_Desc,能够强化麻痹、减速、冰冻、灼烧等异常状态的战术类型。,"This type of Tactic enhances debuffs like Paralysis, Slow, Frozen, and Burning.","Loại chiến thuật có thể tăng cường các trạng thái bất thường như tê liệt, giảm tốc, đóng băng, thiêu đốt."
+lang_multi_text.db,MultiText,Term750034_Title,猎手陷阱,Hunting Trap,Bẫy Thợ Săn
+lang_multi_text.db,MultiText,Term750035_Desc,随着某次悲鸣发生异变后，包裹并覆盖了整个索拉里斯天空的特殊现象，当前研究认为其由高密度回音能量组成。在它覆盖了整个星球之后，索拉里斯人对于宇宙的探索进程便陷入了停滞。,"A planet-wide phenomenon born from an anomalous Lament event. It now blankets Solaris's sky. Research suggests it is composed of extremely high-density Remnant Energy. Since its appearance, all of Solaris's space exploration has been brought to a complete standstill.","Hiện tượng đặc biệt bao phủ toàn bộ bầu trời Solaris, xuất hiện sau một biến cố bất thường trong sự kiện Bi Minh. Nghiên cứu hiện tại cho rằng nó được cấu thành từ năng lượng hồi âm mật độ cực cao. Kể từ khi nó bao trùm toàn bộ hành tinh, quá trình khám phá vũ trụ của người Solaris đã hoàn toàn rơi vào bế tắc."
+lang_multi_text.db,MultiText,Term750035_Title,天空海,Etheric Sea,Thiên Không Hải
+lang_multi_text.db,MultiText,Term750036_Desc,隧者与鸣式阿列夫一进入索拉里斯时创造的入口，拉海洛的研究者们普遍相信能够通过它抵达地外空间。位于其上的日灵根系将阿列夫一的力量暂时隔绝于门后，形成了“封印门扉”。,"The entry point formed when the Exostrider and the Threnodian Aleph-1 entered Solaris. Researchers in Lahai-Roi widely believe that passage through the gate leads into outer space. The Soliskin root network extending above the gate temporarily sealed Aleph-1's power beyond it, forming what is now referred to as the ""Sealed Gate.""","Cổng được tạo ra khi Exostrider và Minh Thức Aleph-1 xâm nhập Solaris. Các nhà nghiên cứu ở Lahai-Roi tin rằng có thể đi qua cổng này để đến không gian bên ngoài. Mạng rễ Soliskin phía trên cổng đã tạm thời phong ấn sức mạnh của Aleph-1 phía sau, hình thành nên ""Cánh Cổng Phong Ấn""."
+lang_multi_text.db,MultiText,Term750036_Title,隧门,Stridergate,Stridergate
+lang_multi_text.db,MultiText,Term750037_Desc,一种在罗伊冰原上层出现的特殊现象。推测其形成原因为该区域的鸣式力量尝试吞噬隧者时，虚质发生了特殊变化，被其影响的事物将处于“存在”不稳定的无法观测的状态。,"A unique phenomenon observed upon the Roya Frostlands. It is theorized to have formed when the Threnodian’s power attempted to consume the Exostrider, causing abnormal transformations in Voidmatter. Objects affected by this state enter an unstable form of existence, rendering them unobservable.","Hiện tượng đặc biệt xuất hiện tại tầng trên của Băng Nguyên Roya. Nguyên nhân được suy đoán là khi sức mạnh Minh Thức trong khu vực cố nuốt chửng Exostrider, Voidmatter đã phát sinh biến đổi bất thường, khiến các sự vật bị ảnh hưởng rơi vào trạng thái tồn tại không ổn định và không thể quan sát được."
+lang_multi_text.db,MultiText,Term750037_Title,虚质不稳态,Fluctuating Voidmatter Levels,Trạng Thái Bất Ổn Voidmatter
+lang_multi_text.db,MultiText,Term750038_Desc,深空联合针对罗伊冰原的科研活动开发的特殊装置，能够使处在“虚质不稳态”中的事物重新被观测、利用。在信号稳定的区域，该设备能够被投送至使用者的所在地。,"A specialized device developed by the Spacetrek Collective for research operations in the Roya Frostlands. It allows entities with fluctuating Voidmatter levels to be rendered observable and usable once again. In regions with stable signal coverage, the device can be deployed directly to the user’s location.","Thiết bị đặc biệt do Liên Hợp Thâm Không phát triển cho các hoạt động nghiên cứu tại Băng Nguyên Roya, có khả năng khiến các sự vật đang ở ""Trạng Thái Bất Ổn Voidmatter"" trở lại trạng thái quan sát và sử dụng được. Tại những khu vực có tín hiệu ổn định, thiết bị này có thể được chuyển đến vị trí của người dùng."
+lang_multi_text.db,MultiText,Term750038_Title,模块架构器,Module Adapter,Bộ Kiến Trúc Mô-đun
+lang_multi_text.db,MultiText,Term750039_Desc,在天空海尚未覆盖整个索拉里斯之前，发射升空并位于索拉里斯近侧运转的稷廷空间站。其核心研究项目为“天空海液滴”，意在探索更为广阔的宇宙空间。,"A Court of Savantae space station launched into near-Solaris orbit prior to the Etheric Sea fully enclosing the planet. Its core research focus was the Etheric Sea Droplet, intended to enable exploration into deeper space.","Trạm không gian của Tắc Đình được phóng lên quỹ đạo gần Solaris trước khi Thiên Không Hải bao phủ toàn bộ hành tinh. Dự án nghiên cứu cốt lõi của trạm là ""Giọt Thiên Không Hải"", nhằm mục đích khám phá không gian vũ trụ rộng lớn hơn."
+lang_multi_text.db,MultiText,Term750039_Title,天槎空间站,SkyArk Space Station,Trạm Không Gian SkyArk
+lang_multi_text.db,MultiText,Term750040_Desc,高浓度虚质深处的高维空间，位于阿列夫一的“内部”。在这里，时间与空间都变得混乱，而生者一旦进入其中，频率便会急速流失，最终存在将归于虚无。,"A high-dimensional domain embedded deep within high-density Voidmatter, located ""inside"" Aleph-1. Within Voidspace, time and space become chaotic. Any living entity entering this domain experiences rapid frequency loss, eventually resulting in the dissolution of existence itself.","Không gian chiều cao nằm sâu trong Voidmatter mật độ cao, tọa lạc bên ""trong"" Aleph-1. Tại đây, thời gian và không gian trở nên hỗn loạn, còn sinh vật sống một khi bước vào sẽ bị mất tần số nhanh chóng, cuối cùng sự tồn tại sẽ tan biến vào hư vô."
+lang_multi_text.db,MultiText,Term750040_Title,虚质空间,Voidspace,Không Gian Hư Chất
+lang_multi_text.db,MultiText,Term750041_Desc,生活在罗伊冰原的海豹，得名于其如雪团般洁白圆润的身体。它们天性温驯，对任何事物、人都没什么反应，除了进食就是在躺着一动不动，只有感到极度危险时才会支起身体露出獠牙恐吓敌人。但如果恐吓无效，就会尽快转头离开趴去安全区域。,"A species of seal native to the Roya Frostlands, named for its snowball-like, round, white body. Docile in nature, Snowfluff Seals show little reaction to people or their surroundings, spending most of their time either eating or lying. Only when facing extreme danger will they rear up and bare their fangs as a deterrent. If intimidation fails, they will promptly retreat to a safer area.","Loài hải cẩu sống tại Băng Nguyên Roya, được đặt tên theo thân hình trắng tròn như cục tuyết. Chúng có tính tình hiền lành, hầu như không phản ứng với bất kỳ ai hay bất cứ thứ gì, ngoài việc ăn thì chỉ nằm im bất động. Chỉ khi cảm thấy nguy hiểm cực độ, chúng mới chống người lên nhe nanh dọa kẻ thù. Nhưng nếu dọa không có tác dụng, chúng sẽ nhanh chóng quay đầu bỏ đi tìm nơi an toàn."
+lang_multi_text.db,MultiText,Term750041_Title,雪绒海豹,Snowfluff Seal,Hải Cẩu Tuyết Nhung
+lang_multi_text.db,MultiText,Term750042_Desc,一种用于治疗极端罕见病的特殊药物，但因鲜少有人能负担其强副作用，至今仍还处于研究及验证阶段。常态呈黄金色液态，常温下不稳定，具高热特征。极少数情况下，可经由控制呈现为固态。,"A special pharmaceutical substance developed to treat extremely rare diseases. Due to its severe side effects, very few individuals can tolerate it, and it remains in the research and validation phase. Under normal conditions, Ichor appears as a golden liquid, unstable at room temperature and characterized by intense heat. In rare cases, it can be controlled and stabilized into a solid form.","Một loại dược phẩm đặc biệt dùng để điều trị các bệnh cực kỳ hiếm gặp, nhưng vì rất ít người có thể chịu nổi tác dụng phụ mạnh của nó, nên đến nay vẫn đang trong giai đoạn nghiên cứu và kiểm chứng. Ở trạng thái bình thường, nó có dạng lỏng màu vàng kim, không ổn định ở nhiệt độ thường và có đặc tính tỏa nhiệt cao. Trong một số ít trường hợp, có thể kiểm soát để chuyển sang dạng rắn."
+lang_multi_text.db,MultiText,Term750042_Title,日髓,Ichor,Ichor
+lang_multi_text.db,MultiText,Term750043_Desc,扎根于新联邦的中小型医药集团，其核心技术源于一种被称为“日髓”的特殊药物——既被视为突破性的成果，也始终伴随着争议与审视。,"A small-to-mid-sized pharmaceutical corporation based in the New Federation. Its core technology originates from the development of Ichor, a substance regarded as both a groundbreaking medical advancement and a persistent source of controversy and scrutiny.","Tập đoàn dược phẩm vừa và nhỏ có trụ sở tại Tân Liên Bang. Công nghệ cốt lõi của họ bắt nguồn từ một loại dược phẩm đặc biệt gọi là ""Ichor"" - vừa được coi là thành tựu đột phá, vừa luôn đi kèm với tranh cãi và sự giám sát."
+lang_multi_text.db,MultiText,Term750043_Title,诺维尔再生医药,Novialle Regenerative Group,Novialle Regenerative Group
+lang_multi_text.db,MultiText,Term800001_Desc,拉古那过去久负盛名的诗社，一共三位成员，分别是法奥、塞雷塔、兰波。他们三人曾创作出许多称颂岁主和修会的诗歌。后来，修会宣传他们亵渎神明，黄金之歌的诗人们被送上朝圣船，从此再无音讯，他们的名字也成了拉古那的禁忌词汇。,"Once a reputable poets society in Ragunna, consisting of three members: Faroll, Selena, and Rimbaud. They composed numerous anthems and poems glorifying the Sentinel and the Order, but were later accused of blasphemy by the Order and sent on a Pilgrim's Sail. They vanished thereafter without a trace, and mentioning of their names is now forbidden in Ragunna.","Thi xã nổi tiếng một thời ở Ragunna, gồm ba thành viên: Faroll, Selena và Rimbaud. Ba người từng sáng tác nhiều bài thơ ca ngợi Tuế Chủ và Tu Hội. Về sau, Tu Hội tuyên bố họ phạm tội báng bổ thần linh, các nhà thơ của Bài Ca Vàng bị đưa lên thuyền hành hương và từ đó biệt vô âm tín. Tên của họ cũng trở thành điều cấm kỵ ở Ragunna."
+lang_multi_text.db,MultiText,Term800001_Title,黄金之歌,Golden Anthem,Bài Ca Vàng
+lang_multi_text.db,MultiText,Term800002_Desc,用以纪念第二索拉内测一周年制作的巨大蛋糕，也是虚拟空间第二索拉的控制中枢，至于为什么控制中枢要做成蛋糕的模样，总设计师安可如是回答道：“生日就是要有蛋糕呀！一周年快乐！”,"A large cake dedicated to the 1st anniversary of the launch of the Second Coming of Solaris Beta, as well as the control hub for its simulator. When asked about the hub's cake-shaped design, lead designer Encore replied, ""What's a birthday without cake! Happy Anniversary!""","Chiếc bánh khổng lồ được làm để kỷ niệm một năm thử nghiệm nội bộ của Đệ Nhị Solaris, đồng thời cũng là trung tâm điều khiển của không gian ảo Đệ Nhị Solaris. Khi được hỏi tại sao trung tâm điều khiển lại có hình bánh kem, tổng thiết kế sư Encore đã trả lời: ""Sinh nhật thì phải có bánh kem chứ! Chúc mừng kỷ niệm một năm!"""
+lang_multi_text.db,MultiText,Term800002_Title,庆典蛋糕,Anniversary Cake,Bánh Kem Lễ Hội
+lang_multi_text.db,MultiText,Term800003_Desc,由先行公约制作的一款全景式模拟游戏。虽然研发过程几经波折，但在漂泊者的信任与支持下，该游戏正朝着理想中的样子不断成长着。,"A virtual simulation game developed by the Pioneer Association. Despite many setbacks during development, thanks to Rover's trust and support, the game is steadily evolving towards its ideal form.","Trò chơi mô phỏng toàn cảnh do Hiệp Ước Tiên Phong phát triển. Dù quá trình phát triển trải qua nhiều gian nan, nhờ sự tin tưởng và ủng hộ của Lữ Khách, trò chơi đang dần hoàn thiện theo đúng hình dung lý tưởng."
+lang_multi_text.db,MultiText,Term800003_Title,第二索拉,Second Coming of Solaris,Đệ Nhị Solaris
+lang_multi_text.db,MultiText,Term800004_Desc,正式名为回音团子，是第二索拉在安可的能力加持与泰缇斯提供了些微算力支援后制作出的人工智能NPC。请注意：回音团子只是一种实验性模拟技术，所有团子均为程序自动生成，其在游戏中所展现的性格、行为亦不能作为对任何个人品德或社会关系的推断依据。,"Officially known as ""Remnant Cubes,"" these advanced artificial intelligences were created for the Second Coming of Solaris using Encore's abilities and Tethys's microprocessing support. Please note: Remnant Cubes are experimental simulations, automatically generated by the system. Their personalities and actions in the game do not reflect those of real individuals.","Tên chính thức là Hồi Âm Đoàn Tử, là NPC trí tuệ nhân tạo được tạo ra cho Đệ Nhị Solaris nhờ năng lực của Encore cùng sự hỗ trợ một phần sức mạnh tính toán từ Tethys. Xin lưu ý: Hồi Âm Đoàn Tử chỉ là công nghệ mô phỏng thử nghiệm, tất cả đều được hệ thống tự động tạo ra. Tính cách và hành vi của chúng trong game không thể dùng làm căn cứ để suy đoán về phẩm chất hay quan hệ xã hội của bất kỳ cá nhân nào."
+lang_multi_text.db,MultiText,Term800004_Title,团子,Cube,Cube
+lang_multi_text.db,MultiText,Term800005_Desc,隐海修会下设的执法机关。与负责处理亵渎英白拉多之人，以此维护拉古那信仰的忏悔院不同，诫令院负责处理世俗案件，同时，诫令院也担负着驱逐残象及保卫拉古那地区的众多职责。隶属于诫令院的执法人员被称为“诫令使”。,"The Order's executive arm. Unlike Order Penitentiary, which trials the heretics and maintains faith, the Chamber of Discipline deals with secular cases, and enforces law and order, while also overseeing Ragunna's defenses against Tacet Discords. Its enforcers are often referred to as ""Inquisitors.""","Cơ quan chấp pháp trực thuộc Ẩn Hải Tu Hội. Khác với Sám Hối Viện chuyên xử lý những kẻ xúc phạm Imperator để bảo vệ tín ngưỡng Ragunna, Giới Lệnh Viện phụ trách các vụ án thế tục, đồng thời đảm nhận nhiều trọng trách như truy quét Tàn Tượng và bảo vệ khu vực Ragunna. Những người thực thi pháp luật thuộc Giới Lệnh Viện được gọi là ""Giới Lệnh Sứ""."
+lang_multi_text.db,MultiText,Term800005_Title,诫令院,Chamber of Discipline,Giới Lệnh Viện
+lang_multi_text.db,MultiText,Term800006_Desc,瑝珑文化中，人们将各类亦真亦假的幻境统称作“蜃境”。,"Sonoro Sphere is a space of dense Remnant Energy capable of preserving transdimensional information. In Huanglong culture, such ethereal realms—neither tangible nor illusory—are often referred to as ""mirages.""","Trong văn hóa Hoàng Long, người ta gọi chung các loại cảnh giới nửa thực nửa hư là ""Thận Cảnh""."
+lang_multi_text.db,MultiText,Term800006_Title,蜃境,Sonoro Sphere,Thận Cảnh
+lang_multi_text.db,MultiText,Term800007_Desc,信道即信号传输的通道，第二索拉在生成中与泰缇斯进行了短暂链接，因此二者间曾存在信道。,"A signal transmission pathway. During its simulation, the Second Coming of Solaris briefly linked with the Tethys System, creating a temporary channel between them.","Kênh tín hiệu là đường truyền dẫn tín hiệu. Solaris Thứ Hai trong quá trình hình thành đã kết nối ngắn với Tethys, vì vậy giữa hai bên từng tồn tại một kênh tín hiệu."
+lang_multi_text.db,MultiText,Term800007_Title,信道,Channel,Kênh tín hiệu
+lang_multi_text.db,MultiText,Term800008_Desc,猎犬即「幽灵猎犬」，是卡卡罗在新联邦所率领的一支佣兵团。,A mercenary group in the New Federation led by Calcharo.,"Liệp Khuyển tức ""U Linh Liệp Khuyển"", là một binh đoàn đánh thuê do Calcharo chỉ huy tại Tân Liên Bang."
+lang_multi_text.db,MultiText,Term800008_Title,猎犬,Ghost Hounds,Liệp Khuyển
+lang_multi_text.db,MultiText,Term800009_Desc,《金枝记》是黎那汐塔悠久的叙事长诗，它是最早将各族的民间传说和岁主神启紧密联系在一起的艺术著作，并详细记载了狂欢节的溯源。,"An ancient epic poem of Rinascita. It pioneered blending various regional folkfore with the tales of the Sentinel, including the first accounts of the Carnevale's origins.","""The Golden Bough"" là một trường ca tự sự lâu đời của Rinascita. Đây là tác phẩm nghệ thuật đầu tiên gắn kết chặt chẽ truyền thuyết dân gian của các dân tộc với thần khải của Tuế Chủ, đồng thời ghi chép chi tiết về nguồn gốc của lễ hội Carnevale."
+lang_multi_text.db,MultiText,Term800009_Title,《金枝记》,The Golden Bough,"""The Golden Bough"""
+lang_multi_text.db,MultiText,Term800010_Desc,这是一片海滩，黎那汐塔的诗人和乐师们习惯于将手中寿命已尽的乐器埋葬在此处。,A shore where Rinascitan poets and musicians bury their retired instruments.,"Đây là một bãi biển, nơi các nhà thơ và nhạc sư Rinascita thường chôn cất những nhạc cụ đã hết tuổi thọ."
+lang_multi_text.db,MultiText,Term800010_Title,安魂乐园,Requiem Paradise,Requiem Paradise
+lang_multi_text.db,MultiText,Term800011_Desc,秋季夜空中最耀眼的星象，而关于星象，存在着许多传说。黄金之歌的诗人曾写道“我将成为可摘星辰的夜鹰，燃烧羽翼，朝着天马座高歌飞行，一睹它的真容。”这样的意象总会让人联想到黎那汐塔的岁主，那为何要飞上高天一睹真容？他们似乎在用诗歌的方式传递某些信息。,"The autumn night's brightest constellation, shrouded in legends. A poet of Golden Anthem once wrote, ""I am a night hawk of wings aflame, soaring towards the Celestial Steed, whose praises I sing and whose true form I behold."" Such imagery always evokes Rinascita's Sentinel. But why soar towards it and behold its true form? Maybe the poem was intended to convey some message.","Chòm sao rực rỡ nhất trên bầu trời đêm mùa thu, xung quanh nó tồn tại rất nhiều truyền thuyết. Một nhà thơ của Golden Anthem từng viết: ""Ta sẽ hóa thành diều hâu đêm có thể hái sao, đốt cháy đôi cánh, vừa hát vừa bay về phía Celestial Steed để tận mắt chiêm ngưỡng dáng vẻ thật của nó."" Hình ảnh này luôn khiến người ta liên tưởng đến Tuế Chủ của Rinascita. Vậy tại sao phải bay lên cao để chiêm ngưỡng dáng vẻ thật? Dường như họ đang dùng thơ ca để truyền tải một thông điệp nào đó."
+lang_multi_text.db,MultiText,Term800011_Title,天马座,Celestial Steed,Celestial Steed
+lang_multi_text.db,MultiText,Term800012_Desc,音乐的世界与频率息息相关。万物皆由频率而生，也因此万物都拥有属于自己的旋律。夏空的共鸣能力能够感知到这些旋律，通过重新调音，这些旋律在她手中便形成了一个索诺拉——能够复现旋律承载的故事和记忆的空间。感知者对旋律了解得越多，复现的信息也就越多。,"Music is composed of frequency, as is everything. Thus, everything hums its own melody. Ciaccona's Forte allows her to perceive these melodies; by retuning them, she crafts a Sonoro Sphere in her hands where stories and memories carried in music replay themselves. The deeper her understanding of the melodies, the richer the stories she can summon.","Thế giới âm nhạc gắn liền với tần số. Vạn vật đều sinh ra từ tần số, vì vậy mọi thứ đều sở hữu giai điệu riêng. Năng lực cộng hưởng của Ciaccona có thể cảm nhận được những giai điệu này; thông qua việc chỉnh âm lại, những giai điệu ấy trong tay cô sẽ tạo thành một Thận Cảnh - không gian có thể tái hiện câu chuyện và ký ức mà giai điệu mang theo. Người cảm nhận càng hiểu rõ giai điệu, thông tin tái hiện càng phong phú."
+lang_multi_text.db,MultiText,Term800012_Title,旋律,Melody,Giai điệu
+lang_multi_text.db,MultiText,Term800013_Desc,对落点处的怪物造成冷凝伤害。,Deals Glacio DMG to enemies around the point of impact.,Gây sát thương Ngưng Băng cho quái vật tại điểm rơi.
+lang_multi_text.db,MultiText,Term800013_Title,异构飞弹,Isomer Bolt,Tên Dị Cấu
+lang_multi_text.db,MultiText,Term800014_Desc,对路径上的怪物造成气动伤害。,Deals Aero DMG to enemies along its trajectory.,Gây sát thương Khí Động cho quái vật trên đường đi.
+lang_multi_text.db,MultiText,Term800014_Title,天渊风剑,Zenith Windblade,Phong Kiếm Thiên Uyên
+lang_multi_text.db,MultiText,Term800015_Desc,对近距离的怪物快速切割造成湮灭伤害，无法受到攻击速度增幅。,Slices the enemies at close range to deal DMG. Cannot benefit from Attack Speed bonuses.,"Cắt nhanh quái vật ở cự ly gần, gây sát thương Hủy Diệt, không chịu ảnh hưởng từ tăng tốc độ tấn công."
+lang_multi_text.db,MultiText,Term800015_Title,猩红轮链,Sanguine Wheel,Luân Liên Tinh Hồng
+lang_multi_text.db,MultiText,Term800016_Desc,贯穿路径上的怪物，对交点处的怪物造成多次衍射伤害。,"Pierces through enemies along its trajectory, dealing multiple instances of damage to enemies at intersections.","Xuyên qua quái vật trên đường đi, gây sát thương Quang Phổ nhiều lần cho quái vật tại điểm giao nhau."
+lang_multi_text.db,MultiText,Term800016_Title,闪映华光,Glittering Ray,Hoa Quang Thiểm Ánh
+lang_multi_text.db,MultiText,Term800017_Desc,命中范围和基础倍率大幅提升。,Greatly increase range and DMG Multiplier.,Tăng đáng kể phạm vi đánh trúng và hệ số cơ bản.
+lang_multi_text.db,MultiText,Term800017_Title,光炮,Phaser,Quang Pháo
+lang_multi_text.db,MultiText,Term800018_Desc,"施放主动技能时，对周围怪物造成角色攻击100%的气动伤害，随后移动速度提升48%，4秒内逐渐降低至0%，期间每1%移动速度加成转化为0.8%的伤害提升。
+<color=Highlight>· 角色等级达到5级：</color>
+移动速度加成提升至64%，伤害提升转化率提升至1%。
+<color=Highlight>· 角色等级达到10级：</color>
+移动速度加成提升至80%，伤害提升转化率提升至1.2%。","Deal Aero DMG to surrounding enemies equal to 100% of Rover's ATK. Then increase Movement Speed by 48%, which gradually decreases to 0% over 4s. Each 1% Movement Speed gained during this time grants 0.8% DMG Bonus.
+<color=Highlight>At Resonator Lv. 5</color>
+Movement Speed bonus increases to 64%, and the damage conversion rate rises to 1%.
+<color=Highlight>At Resonator Lv. 10</color>
+Movement Speed bonus increases to 80%, and the damage conversion rate rises to 1.2%.","Khi thi triển kỹ năng chủ động, gây sát thương Khí Động bằng 100% tấn công của nhân vật lên quái vật xung quanh, sau đó tăng tốc độ di chuyển 48%, giảm dần về 0% trong 4 giây, trong thời gian này mỗi 1% tốc độ di chuyển được chuyển hóa thành 0.8% tăng sát thương.
+<color=Highlight>. Nhân vật đạt cấp 5:</color>
+Tốc độ di chuyển tăng lên 64%, tỷ lệ chuyển hóa sát thương tăng lên 1%.
+<color=Highlight>. Nhân vật đạt cấp 10:</color>
+Tốc độ di chuyển tăng lên 80%, tỷ lệ chuyển hóa sát thương tăng lên 1.2%."
+lang_multi_text.db,MultiText,Term800018_Title,风息裂象,Breeze Breaker,Phong Tức Liệt Tượng
+lang_multi_text.db,MultiText,Term800019_Desc,"施放主动技能时，对周围怪物造成角色攻击100%的热熔伤害，随后攻击速度提升30%，持续5秒，期间武器每次造成伤害可以提升其1%暴击，每层持续5秒，可叠加20层。
+<color=Highlight>· 角色等级达到5级：</color>
+攻击速度加成提升至40%，暴击的最大叠层数量提升至30层。
+<color=Highlight>· 角色等级达到10级：</color>
+攻击速度加成提升至50%，暴击的最大叠层数量提升至40层。","Deal Fusion DMG to surrounding enemies equal to 100% of Galbrena's ATK. Then increase Attack Speed by 30% for 5s. Each damage dealt during this time increases the Weapon's Crit. Rate by 1% for 5s, stacking up to 20 times.
+<color=Highlight>At Resonator Lv. 5</color>
+Attack Speed bonus increases to 40%, and the Crit. Rate bonus now stacks up to 30 times.
+<color=Highlight>At Resonator Lv. 10</color>
+Attack Speed bonus increases to 50%, and the Crit. Rate bonus now stacks up to 40 times.","Khi thi triển kỹ năng chủ động, gây sát thương Hỏa Liệt bằng 100% tấn công của nhân vật lên quái vật xung quanh, sau đó tăng tốc độ tấn công 30%, kéo dài 5 giây, trong thời gian này mỗi lần vũ khí gây sát thương sẽ tăng 1% bạo kích, mỗi tầng kéo dài 5 giây, cộng dồn tối đa 20 tầng.
+<color=Highlight>. Nhân vật đạt cấp 5:</color>
+Tốc độ tấn công tăng lên 40%, số tầng bạo kích tối đa tăng lên 30 tầng.
+<color=Highlight>. Nhân vật đạt cấp 10:</color>
+Tốc độ tấn công tăng lên 50%, số tầng bạo kích tối đa tăng lên 40 tầng."
+lang_multi_text.db,MultiText,Term800019_Title,灰烬血誓,Ashen Oath,Hôi Tẫn Huyết Thệ
+lang_multi_text.db,MultiText,Term800020_Desc,"施放主动技能时，对周围怪物造成角色最大生命值40%的气动伤害，随后损失当前生命值的30%，并获得基于角色最大生命值40%的攻击加成，持续4秒，期间命中目标时可以回复最大生命值1.5%的生命值。
+<color=Highlight>· 角色等级达到5级：</color>
+攻击转化率提升至60%，持续时间提升至5秒。
+<color=Highlight>· 角色等级达到10级：</color>
+攻击转化率提升至80%，持续时间提升至6秒。","Deal Aero DMG to surrounding enemies equal to 40% of Iuno's Max HP. Then lose 30% of the current HP to increase ATK by 40% of her Max HP for 4s. Hitting an enemy during this time restores 1.5% of her Max HP.
+<color=Highlight>At Resonator Lv. 5</color>
+ATK conversion rate increases to 60%, and duration extends to 5s.
+<color=Highlight>At Resonator Lv. 10</color>
+ATK conversion rate increases to 80%, and duration extends to 6s.","Khi thi triển kỹ năng chủ động, gây sát thương Khí Động bằng 40% HP tối đa của nhân vật lên quái vật xung quanh, sau đó mất 30% HP hiện tại, đồng thời nhận thêm tấn công bằng 40% HP tối đa của nhân vật, kéo dài 4 giây, trong thời gian này đánh trúng mục tiêu sẽ hồi phục 1.5% HP tối đa.
+<color=Highlight>. Nhân vật đạt cấp 5:</color>
+Tỷ lệ chuyển hóa tấn công tăng lên 60%, thời gian kéo dài lên 5 giây.
+<color=Highlight>. Nhân vật đạt cấp 10:</color>
+Tỷ lệ chuyển hóa tấn công tăng lên 80%, thời gian kéo dài lên 6 giây."
+lang_multi_text.db,MultiText,Term800020_Title,月满今时,Waxing Moon,Nguyệt Mãn Kim Thời
+lang_multi_text.db,MultiText,Term800021_Desc,"施放主动技能时，召唤调律之音，持续10秒，每0.5秒对周围的怪物造成角色攻击10%的气动伤害，并使其受到的伤害提升3%、移动速度降低1%，持续5秒，可叠加20层。
+<color=Highlight>· 角色等级达到5级：</color>
+目标受到的伤害提升至4%，移动速度降低效果提升至2%。
+<color=Highlight>· 角色等级达到10级：</color>
+目标受到的伤害提升至5%，移动速度降低效果提升至3%。","Summon a Harmonic Note that deals Aero DMG to surrounding enemies equal to 10% of Ciaccona's ATK every 0.5s for 10s. Enemies damaged by this skill have their DMG taken increased by 3% and their Movement Speed reduced by 1% for 5s, stacking up to 20 times.
+<color=Highlight>At Resonator Lv. 5</color>
+Enemies' DMG taken is increased by 4%, and Movement Speed is reduced by 2%.
+<color=Highlight>At Resonator Lv. 10</color>
+Enemies' DMG taken is increased by 5%, and Movement Speed is reduced by 3%.","Khi thi triển kỹ năng chủ động, triệu hồi Âm Điệu Hòa Thanh, kéo dài 10 giây, mỗi 0.5 giây gây sát thương Khí Động bằng 10% tấn công của nhân vật lên quái vật xung quanh, đồng thời tăng sát thương mục tiêu nhận vào thêm 3%, giảm tốc độ di chuyển 1%, kéo dài 5 giây, cộng dồn tối đa 20 tầng.
+<color=Highlight>. Nhân vật đạt cấp 5:</color>
+Sát thương mục tiêu nhận vào tăng lên 4%, giảm tốc độ di chuyển tăng lên 2%.
+<color=Highlight>. Nhân vật đạt cấp 10:</color>
+Sát thương mục tiêu nhận vào tăng lên 5%, giảm tốc độ di chuyển tăng lên 3%."
+lang_multi_text.db,MultiText,Term800021_Title,风乐交响,Zephyr Symphony,Phong Nhạc Giao Hưởng
+lang_multi_text.db,MultiText,Term800022_Desc,随机落向怪物造成热熔伤害。,"Randomly launches a star to fall upon enemies, dealing Fusion DMG.","Rơi ngẫu nhiên xuống quái vật, gây sát thương Hỏa Liệt."
+lang_multi_text.db,MultiText,Term800022_Title,炽灼之星,Blazing Star,Sao Thiêu Đốt
+lang_multi_text.db,MultiText,Term800023_Desc,持续向前方喷射造成湮灭伤害，无法受到攻击速度增幅。,"Continuously sprays fire forward, dealing Havoc DMG. Cannot benefit from Attack Speed bonuses.","Liên tục phun về phía trước, gây sát thương Hủy Diệt, không chịu ảnh hưởng từ tăng tốc độ tấn công."
+lang_multi_text.db,MultiText,Term800023_Title,无序暗火,Rampant Fire,Ám Hỏa Hỗn Loạn
+lang_multi_text.db,MultiText,Term800024_Desc,停留原地攻击周围的怪物造成气动伤害，无法受到攻击速度增幅。,A summoned Feilian Beringal that stays in one place to deal Aero DMG to surrounding enemies. Cannot benefit from Attack Speed bonuses.,"Đứng tại chỗ tấn công quái vật xung quanh, gây sát thương Khí Động, không chịu ảnh hưởng từ tăng tốc độ tấn công."
+lang_multi_text.db,MultiText,Term800024_Title,飞廉冲击,Feilian Shock,Phi Liêm Xung Kích
+lang_multi_text.db,MultiText,Term800025_Desc,向周围掷出陷阱，一段时间后将爆炸造成热熔伤害，触碰怪物时将提前引爆。,"Randomly flips a trap that detonates after a while or upon touching an enemy, dealing AoE Fusion DMG.","Ném bẫy ra xung quanh, sau một khoảng thời gian sẽ nổ gây sát thương Hỏa Liệt, khi chạm vào quái vật sẽ kích nổ sớm."
+lang_multi_text.db,MultiText,Term800025_Title,爆裂征兆,Explosive Omen,Triệu Chứng Bạo Liệt
+lang_multi_text.db,MultiText,Term800026_Desc,具有明显弹道效果的武器，如异构飞弹、炽灼之星。,"Weapons that fire ballistic impact projectiles, such as Isomer Bolt and Blazing Star.","Vũ khí có hiệu ứng đạn đạo rõ ràng, như Dị Cấu Phi Đạn, Sao Thiêu Đốt."
+lang_multi_text.db,MultiText,Term800026_Title,【弹道】,Bullet Weapon,[Đạn Đạo]
+lang_multi_text.db,MultiText,Term800027_Desc,能够召唤声骸投影的武器，如飞廉冲击、猩红轮链。,"Weapons that can summon Echo projections, such as Feilian Shock and Sanguine Wheel.","Vũ khí có thể triệu hồi hình chiếu Thanh Hài, như Phi Liêm Xung Kích, Tinh Hồng Luân Liên."
+lang_multi_text.db,MultiText,Term800027_Title,【召唤】,Summon Weapon,[Triệu Hồi]
+lang_multi_text.db,MultiText,Term800028_Desc,发射能量集束的武器，如天渊风剑、闪映华光。,"Weapons that shoot energy beams, such as Zenith Windblade and Glittering Ray.","Vũ khí phát ra chùm năng lượng tập trung, như Thiên Uyên Phong Kiếm, Ánh Quang Lấp Lánh."
+lang_multi_text.db,MultiText,Term800028_Title,【光束】,Beam Weapon,[Quang Tuyến]
+lang_multi_text.db,MultiText,Term800029_Desc,产生特殊效果的武器，如无序暗火、爆裂征兆。,"Weapons with special effects, such as Rampant Fire and Explosive Omen.","Vũ khí tạo hiệu ứng đặc biệt, như Ám Hỏa Hỗn Loạn, Triệu Chứng Bạo Liệt."
+lang_multi_text.db,MultiText,Term800029_Title,【特型】,Morph Weapon,[Đặc Biệt]
+lang_multi_text.db,MultiText,Term800030_Desc,部分武装进化时可与特定的武装组合以进入极限形态，并根据所组合的武装的特性进化为不同分支。同时，进化后的武装将会获得组合武装的全部增益。,Some weapons can be absorbed to evolve another weapon into its Ultimate Form. The evolution requirements differ depending on the Weapon. The evolved Weapons inherit all buff effects of the absorbed weapon.,"Một số vũ trang khi tiến hóa có thể kết hợp với vũ trang cụ thể để vào trạng thái cực hạn, và tùy vào đặc tính của vũ trang kết hợp mà tiến hóa theo các nhánh khác nhau. Đồng thời, vũ trang sau khi tiến hóa sẽ nhận toàn bộ hiệu ứng tăng cường của vũ trang được kết hợp."
+lang_multi_text.db,MultiText,Term800030_Title,可助力进化,Synergistic Evo,Hỗ trợ tiến hóa
+lang_multi_text.db,MultiText,Term850001_Desc,"<color=Highlight>乘岁凌霄</color>状态持续期间：
+·普攻替换为普攻<color=Highlight>凌霄·普攻</color>，进行最多连续4段攻击，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害，此外，该连击段数不会被重置。
+可以在空中施放。
+·共鸣技能替换为共鸣技能<color=Highlight>逐天取月</color>，造成<color=Light>衍射伤害</color>。
+可以在空中施放。
+·处于空中时，重击替换为重击<color=Highlight>凌霄·重击</color>，消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。
+·处于空中时，闪避替换为<color=Highlight>凌霄·闪避</color>，可以消耗耐力进行多次闪避。
+·闪避反击，替换为闪避反击<color=Highlight>凌霄·闪避反击</color>，造成<color=Light>衍射伤害</color>。
+可以在空中施放。","While in <color=Highlight>Incarnation</color>:
+- Alternative Basic Attack <color=Highlight>""Incarnation - Basic Attack""</color> becomes available. Perform up to 4 consecutive strikes, dealing <color=Light>Spectro DMG</color> considered as Resonance Skill DMG. The basic attack cycle of this will not be reset. Can be cast in mid-air.
+- Alternative Resonance Skill <color=Highlight>""Crescent Divinity""</color> becomes available. Deal <color=Light>Spectro DMG</color>. Can be cast in mid-air.
+- Alternative Heavy Attack <color=Highlight>""Incarnation - Heavy Attack""</color> becomes available. Attack the target in mid-air at the cost of Stamina, dealing <color=Light>Spectro DMG</color>.
+- Alternative Dodge <color=Highlight>""Incarnation - Dodge""</color> is available while in mid-air. Can be cast multiple times at the cost of Stamina.
+- Alternative Dodge Counter <color=Highlight>""Incarnation - Dodge Counter""</color> becomes available. Deal <color=Light>Spectro DMG</color>.
+Can be cast in mid-air.","Trong thời gian duy trì trạng thái <color=Highlight>Thừa Tuế Lăng Tiêu</color>:
+- Đánh Thường được thay thế bằng Đánh Thường <color=Highlight>Lăng Tiêu - Đánh Thường</color>, thực hiện tối đa 4 đòn liên tiếp, gây <color=Light>sát thương Quang Phổ</color>. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng. Ngoài ra, số đòn combo không bị đặt lại.
+Có thể thi triển trên không.
+- Kỹ Năng Cộng Hưởng được thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Trục Thiên Thủ Nguyệt</color>, gây <color=Light>sát thương Quang Phổ</color>.
+Có thể thi triển trên không.
+- Khi ở trên không, Đánh Mạnh được thay thế bằng Đánh Mạnh <color=Highlight>Lăng Tiêu - Đánh Mạnh</color>, tiêu hao thể lực tấn công mục tiêu, gây <color=Light>sát thương Quang Phổ</color>.
+- Khi ở trên không, Né Tránh được thay thế bằng <color=Highlight>Lăng Tiêu - Né Tránh</color>, có thể tiêu hao thể lực để né nhiều lần.
+- Phản Công Né Tránh được thay thế bằng Phản Công Né Tránh <color=Highlight>Lăng Tiêu - Phản Công Né Tránh</color>, gây <color=Light>sát thương Quang Phổ</color>.
+Có thể thi triển trên không."
+lang_multi_text.db,MultiText,Term850001_Title,乘岁凌霄,Incarnation,Thừa Tuế Lăng Tiêu
+lang_multi_text.db,MultiText,Term850002_Desc,"【韶光】上限50点。
+当今汐处于队伍中时，附近队伍中所有角色获得效果<color=Highlight>韶华共济</color>。
+<color=Highlight>韶华共济</color>包含两个独立效果：
+造成属性伤害时，为今汐提供1点【韶光】，同类属性伤害每3秒可触发1次。
+协同攻击造成伤害时，为今汐提供2点【韶光】，同类属性伤害每3秒可触发1次。","Jinhsi can hold up to 50 Incandescence.
+When Jinhsi is in the party, all nearby Resonators in the team gain <color=Highlight>Eras in Unity</color>.
+<color=Highlight>Eras in Unity</color> provides 2 independent effects:
+Jinhsi gains 1 Incandescence each time Resonators in the team inflict Attribute DMG. This effect may be triggered by the same Attribute DMG for up to 1 time every 3s. Additionally, Jinhsi gains 2 Incandescence when Resonators in the team deal damage with Coordinated Attacks. This effect may be triggered by Coordinated Attacks of the same Attribute for up to 1 time every 3s.","[Thiều Quang] tối đa 50 điểm.
+Khi Kim Tịch ở trong đội, tất cả nhân vật trong đội ở gần đều nhận hiệu ứng <color=Highlight>Thiều Hoa Cộng Tế</color>.
+<color=Highlight>Thiều Hoa Cộng Tế</color> gồm hai hiệu ứng độc lập:
+Khi gây sát thương thuộc tính, cung cấp 1 điểm [Thiều Quang] cho Kim Tịch, cùng loại sát thương thuộc tính mỗi 3 giây kích hoạt 1 lần.
+Khi đòn hiệp đồng gây sát thương, cung cấp 2 điểm [Thiều Quang] cho Kim Tịch, cùng loại sát thương thuộc tính mỗi 3 giây kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Term850002_Title,韶光,Incandescence,Thiều Quang
+lang_multi_text.db,MultiText,Term850003_Desc,"<size=40><color=Title>普攻·心眼·征</color></size>
+<color=Highlight>心眼</color>状态下，长离在地面短按<color=Highlight>普攻</color>，将会施放<color=Highlight>心眼·征</color>，快速接近敌人并造成<color=Fire>热熔伤害</color>，施放后退出<color=Highlight>心眼</color>状态，此次伤害为共鸣技能伤害。
+<size=10> </size>
+<size=40><color=Title>普攻·心眼·冲</color></size>
+<color=Highlight>心眼</color>状态下，长离短按<color=Highlight>跳跃</color>或在空中短按<color=Highlight>普攻</color>，将会施放<color=Highlight>心眼·冲</color>，快速接近敌人并造成<color=Fire>热熔伤害</color>，施放后退出<color=Highlight>心眼</color>状态，此次伤害为共鸣技能伤害。","<size=40><color=Title>Basic Attack: True Sight - Conquest</color></size>
+When in <color=Highlight>True Sight</color>, if Changli uses <color=Highlight>Ground Basic Attack</color>, she releases <color=Highlight>True Sight: Conquest</color>, dashing towards the enemy and dealing <color=Fire>Fusion DMG</color>, considered as Resonance Skill DMG. After releasing <color=Highlight>True Sight: Conquest</color>, <color=Highlight>True Sight</color> ends.
+<size=10></size>
+<size=40><color=Title>Basic Attack: True Sight - Charge</color></size>
+When in <color=Highlight>True Sight</color>, if Changli <color=Highlight>jumps</color> or uses <color=Highlight>Basic Attack</color> in mid-air, she releases <color=Highlight>True Sight: Charge</color>, dashing towards the enemy and dealing <color=Fire>Fusion DMG</color>, considered as Resonance Skill DMG. After releasing <color=Highlight>True Sight: Charge</color>, <color=Highlight>True Sight</color> ends.","<size=40><color=Title>Đánh Thường - Tâm Nhãn - Chinh</color></size>
+Trong trạng thái <color=Highlight>Tâm Nhãn</color>, khi Trường Ly ở mặt đất nhấn <color=Highlight>Đánh Thường</color>, sẽ thi triển <color=Highlight>Tâm Nhãn - Chinh</color>, nhanh chóng tiếp cận kẻ địch và gây <color=Fire>sát thương Hỏa Liệt</color>, sau khi thi triển sẽ thoát trạng thái <color=Highlight>Tâm Nhãn</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
+<size=10> </size>
+<size=40><color=Title>Đánh Thường - Tâm Nhãn - Xung</color></size>
+Trong trạng thái <color=Highlight>Tâm Nhãn</color>, khi Trường Ly nhấn <color=Highlight>Nhảy</color> hoặc ở trên không nhấn <color=Highlight>Đánh Thường</color>, sẽ thi triển <color=Highlight>Tâm Nhãn - Xung</color>, nhanh chóng tiếp cận kẻ địch và gây <color=Fire>sát thương Hỏa Liệt</color>, sau khi thi triển sẽ thoát trạng thái <color=Highlight>Tâm Nhãn</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng."
+lang_multi_text.db,MultiText,Term850003_Title,心眼,True Sight,Tâm Nhãn
+lang_multi_text.db,MultiText,Term850004_Desc,"【离火】上限4层。
+施放普攻<color=Highlight>心眼·征</color>命中目标时，获得1层【离火】。
+施放普攻<color=Highlight>心眼·冲</color>命中目标时，获得1层【离火】。
+施放共鸣解放<color=Highlight>离火照丹心</color>时，获得4层【离火】。","Changli can hold up to 4 stacks of Enflamement.
+Changli obtains 1 stack of Enflamement for every Basic Attack: <color=Highlight>True Sight - Conquest</color> on hit.
+Changli obtains 1 stack of Enflamement for every Basic Attack: <color=Highlight>True Sight - Charge</color> on hit.
+Changli obtains 4 stacks of Enflamement for every Resonance Liberation <color=Highlight>Radiance of Fealty</color>.","[Ly Hỏa] tối đa 4 tầng.
+Khi thi triển Đánh Thường <color=Highlight>Tâm Nhãn - Chinh</color> trúng mục tiêu, nhận 1 tầng [Ly Hỏa].
+Khi thi triển Đánh Thường <color=Highlight>Tâm Nhãn - Xung</color> trúng mục tiêu, nhận 1 tầng [Ly Hỏa].
+Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Ly Hỏa Chiếu Đan Tâm</color>, nhận 4 tầng [Ly Hỏa]."
+lang_multi_text.db,MultiText,Term850004_Title,离火,Enflamement,Ly Hỏa
+lang_multi_text.db,MultiText,Term850005_Desc,"【光合能量】上限4层。
+<color=Highlight>第5段普攻</color>命中目标时，获得1层【光合能量】。
+施放共鸣技能<color=Highlight>扩繁试验</color>时，获得1层【光合能量】。
+施放变奏技能<color=Highlight>蔓延</color>时，获得1层【光合能量】。","Verina can hold up to 4 stacks of Photosynthesis Energy.
+Verina obtains 1 stack of Photosynthesis Energy for every <color=Highlight>Basic Attack 5</color> on hit.
+Verina obtains 1 stack of Photosynthesis Energy after casting Resonance Skill <color=Highlight>Botany Experiment</color>.
+Verina obtains 1 stack of Photosynthesis Energy after casting Intro Skill <color=Highlight>Verdant Growth</color>.","[Năng Lượng Quang Hợp] tối đa 4 tầng.
+Khi <color=Highlight>Đánh Thường đoạn 5</color> trúng mục tiêu, nhận 1 tầng [Năng Lượng Quang Hợp].
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Thí Nghiệm Sinh Trưởng</color>, nhận 1 tầng [Năng Lượng Quang Hợp].
+Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Lan Rộng</color>, nhận 1 tầng [Năng Lượng Quang Hợp]."
+lang_multi_text.db,MultiText,Term850005_Title,光合能量,Photosynthesis Energy,Năng Lượng Quang Hợp
+lang_multi_text.db,MultiText,Term850006_Desc,协奏能量充满时切换共鸣者，离场角色会触发<color=Highlight>延奏技能</color>，并清空自身协奏能量，入场角色则会触发自身的<color=Highlight>变奏技能</color>。,"Switch Resonator when Concerto Energy is full to trigger the exiting Resonator's <color=Highlight>Outro Skill</color>, and consume all the Concerto Energy to trigger the incoming Resonator's <color=Highlight>Intro Skill</color>.","Khi năng lượng Hiệp Tấu đầy, chuyển đổi Cộng Hưởng Giả, nhân vật rời sân sẽ kích hoạt <color=Highlight>Kỹ Năng Hiệp Tấu</color> và tiêu hao toàn bộ năng lượng Hiệp Tấu của bản thân, nhân vật vào sân sẽ kích hoạt <color=Highlight>Kỹ Năng Biến Tấu</color> của mình."
+lang_multi_text.db,MultiText,Term850006_Title,协奏能量,Concerto Energy,Năng Lượng Hiệp Tấu
+lang_multi_text.db,MultiText,Term850007_Desc,"·菲比处于【镜之环】外时，<color=Highlight>普攻</color>、<color=Highlight>闪避反击</color>命中【镜之环】时会折射圣辉，对【镜之环】内目标造成<color=Light>衍射伤害</color>，并将命中的目标牵引至<color=Highlight>【镜之环】</color>中央，此次伤害为普攻伤害。每0.5秒可触发一次。
+·菲比处于【镜之环】内时，<color=Highlight>普攻</color>替换为普攻<color=Highlight>夏弥尔之星</color>，进行最多3段的连续攻击，造成<color=Light>衍射伤害</color>，此次伤害为普攻伤害。","- When Phoebe is outside of the Ring of Mirrors, any <color=Highlight>Basic Attack</color> or <color=Highlight>Dodge Counter</color> that hits the Ring of Mirrors will refract Holy Light, which deals <color=Light>Spectro DMG</color> to targets inside the <color=Highlight>Ring of Mirrors</color> and pulls them to the center of the ring. The DMG dealt is considered Basic Attack DMG. Can be triggered once every 0.5s.
+- When Phoebe is inside the Ring of Mirrors, <color=Highlight>Basic Attack</color> becomes Basic Attack <color=Highlight>Chamuel's Star</color>, which performs up to 3 consecutive attacks, dealing <color=Light>Spectro DMG</color>, considered as Basic Attack DMG.",".Khi Phoebe ở ngoài [Vòng Gương], <color=Highlight>Đánh Thường</color>, <color=Highlight>Né Tránh Phản Công</color> trúng [Vòng Gương] sẽ khúc xạ ánh sáng thánh, gây <color=Light>sát thương Quang Phổ</color> cho mục tiêu bên trong [Vòng Gương] và kéo mục tiêu trúng đòn về trung tâm <color=Highlight>[Vòng Gương]</color>, sát thương này được tính là sát thương Đánh Thường. Mỗi 0.5 giây có thể kích hoạt một lần.
+.Khi Phoebe ở trong [Vòng Gương], <color=Highlight>Đánh Thường</color> được thay thế bằng Đánh Thường <color=Highlight>Ngôi Sao Chamuel</color>, thực hiện tối đa 3 đòn liên tiếp, gây <color=Light>sát thương Quang Phổ</color>, sát thương này được tính là sát thương Đánh Thường."
+lang_multi_text.db,MultiText,Term850007_Title,镜之环,Ring of Mirrors,Vòng Gương
+lang_multi_text.db,MultiText,Term850008_Desc,"·【光噪效应】持续时，会使目标自身每隔一段时间便受到<color=Light>衍射伤害</color>，并减少1层【光噪效应】。
+·随着层数叠加，【光噪效应】造成的伤害会大幅提升。","- While Spectro Frazzle lasts, it deals periodic <color=Light>Spectro DMG</color> to the target. The target loses 1 stack of the effect with each instance of damage.
+- The DMG of Spectro Frazzle scales with its stacks.",".Khi [Hiệu Ứng Quang Nhiễu] còn tồn tại, mỗi khoảng thời gian nhất định mục tiêu sẽ chịu <color=Light>sát thương Quang Phổ</color> và giảm 1 tầng [Hiệu Ứng Quang Nhiễu].
+.Khi số tầng chồng tăng, sát thương do [Hiệu Ứng Quang Nhiễu] gây ra sẽ tăng đáng kể."
+lang_multi_text.db,MultiText,Term850008_Title,光噪效应,Spectro Frazzle,Hiệu Ứng Quang Nhiễu
+lang_multi_text.db,MultiText,Term850009_Desc,"·【风蚀效应】持续时，会使目标自身每隔一段时间便受到<color=Wind>气动伤害</color>。
+·【风蚀效应】层数越高，其造成的伤害也越高。","- While Aero Erosion lasts, it deals periodic <color=Wind>Aero DMG</color> to the target.
+- The DMG of Aero Erosion scales with its stacks.",".Khi [Hiệu Ứng Phong Thực] còn tồn tại, mỗi khoảng thời gian nhất định mục tiêu sẽ chịu <color=Wind>sát thương Khí Động</color>.
+.Số tầng [Hiệu Ứng Phong Thực] càng cao, sát thương gây ra càng lớn."
+lang_multi_text.db,MultiText,Term850009_Title,风蚀效应,Aero Erosion,Hiệu Ứng Phong Thực
+lang_multi_text.db,MultiText,Term850010_Desc,"·【霜渐效应】附加时，会对目标造成<color=Ice>冷凝伤害</color>。
+·随【霜渐效应】的层数增加，目标自身的移动速度将逐渐降低。
+·【霜渐效应】达到到最大层数时，目标自身将被<color=Highlight>冰冻</color>并移除自身的【霜渐效应】层数，通过挣扎可以更快从冰冻状态中恢复。
+·【霜渐效应】基础最大层数为10层，层数越高，其造成的伤害越高，<color=Highlight>冰冻</color>时间也越长。","- Glacio Chafe deals <color=Ice>Glacio DMG</color> when being inflicted on the target.
+- Each stack of Glacio Chafe reduces the target's movement speed.
+- When Glacio Chafe is stacked to its max, the target will be <color=Highlight>frozen</color>, and all stacks of Glacio Chafe will be removed. Struggle to accelerate your recovery from the frozen state.
+- Glacio Chafe stacks up to 10 times by default. The higher the stacks, the more DMG dealt, and the longer <color=Highlight>frozen</color> duration.",".Khi [Hiệu Ứng Sương Giá] được gây ra, sẽ gây <color=Ice>sát thương Ngưng Băng</color> cho mục tiêu.
+.Khi số tầng [Hiệu Ứng Sương Giá] tăng, tốc độ di chuyển của mục tiêu sẽ giảm dần.
+.Khi [Hiệu Ứng Sương Giá] đạt số tầng tối đa, mục tiêu sẽ bị <color=Highlight>đóng băng</color> và toàn bộ tầng [Hiệu Ứng Sương Giá] bị xóa, có thể vùng vẫy để thoát khỏi trạng thái đóng băng nhanh hơn.
+.Số tầng tối đa cơ bản của [Hiệu Ứng Sương Giá] là 10 tầng, số tầng càng cao thì sát thương càng lớn và thời gian <color=Highlight>đóng băng</color> càng dài."

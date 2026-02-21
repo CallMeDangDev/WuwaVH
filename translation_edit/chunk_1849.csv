@@ -1,344 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,RogueResSynergyLV,Lv.{0},Lv. {0},Lv. {0}
-lang_multi_text.db,MultiText,RogueResSynergyName_1001001,无形的大手,Invisible Clench,Bàn Tay Vô Hình
-lang_multi_text.db,MultiText,RogueResSynergyName_1001002,百般武艺,True Martial Arts,Bách Ban Võ Nghệ
-lang_multi_text.db,MultiText,RogueResSynergyName_1001003,轨道打击呼叫,Incoming Orbital Strikes!,Hô Gọi Quỹ Đạo Tấn Công
-lang_multi_text.db,MultiText,RogueResSynergyName_1001003_1,协同攻击造成的伤害加深{0}。,Coordinated Attack DMG is Amplified by {0}.,Sát thương của Hiệp Đồng Tấn Công được gia tăng {0}.
-lang_multi_text.db,MultiText,RogueResSynergyName_1001003_2,协同攻击造成伤害时，额外召唤1次「轨道扫射」，每次命中时造成{0}攻击的物理伤害，每{1}秒可生效1次。,"When Coordinated Attack deals damage, call in an extra Orbital Strike, dealing Physical DMG equal to {0} of ATK on hit. This effect can be triggered once every {1}s.","Khi Hiệp Đồng Tấn Công gây sát thương, triệu hồi thêm 1 lần ""Quét Quỹ Đạo"", mỗi lần trúng gây sát thương Vật Lý bằng {0} tấn công, mỗi {1} giây kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001003_3,协同攻击造成伤害时，全队共鸣技能冷却减少{0}秒，每{1}秒可生效1次。,"When Coordinated Attack deals damage, Resonance Skill Cooldown of all Resonators in the team is reduced by {0}s. This effect can be triggered once every {1}s.","Khi Hiệp Đồng Tấn Công gây sát thương, giảm {0} giây hồi chiêu Kỹ Năng Cộng Hưởng toàn đội, mỗi {1} giây kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001003_4,协同攻击造成伤害时，全队共鸣解放冷却减少{0}秒，每{1}秒可生效1次。,"When Coordinated Attack deals damage, Resonance Liberation Cooldown of all Resonators in the team is reduced by {0}s. This effect can be triggered once every {1}s.","Khi Hiệp Đồng Tấn Công gây sát thương, giảm {0} giây hồi chiêu Giải Phóng Cộng Hưởng toàn đội, mỗi {1} giây kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001003_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下，协同攻击造成伤害时，触发以下效果，每{0}秒可生效1次：
-额外召唤1次「轨道扫射」，每次命中时造成{1}攻击的物理伤害，并且有{2}概率额外召唤1次「轨道扫射」，每次命中时造成{3}攻击的物理伤害。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst, dealing Coordinated Attack DMG activates the following effects, triggered once every {0}s:
-Call in an extra Orbital Strike, dealing Physical DMG equal to {1} of ATK on hit. There's a {2} chance to call in an extra Orbital Strike, dealing Physical DMG equal to {3} of ATK on hit.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
-Trong trạng thái ""Dung Giác Bùng Phát"", khi Hiệp Đồng Tấn Công gây sát thương, kích hoạt hiệu ứng sau, có thể kích hoạt 1 lần mỗi {0} giây:
-Triệu hồi thêm 1 lần ""Quét Quỹ Đạo"", mỗi lần trúng gây sát thương Vật Lý bằng {1} Tấn Công, đồng thời có {2} xác suất triệu hồi thêm 1 lần ""Quét Quỹ Đạo"", mỗi lần trúng gây sát thương Vật Lý bằng {3} Tấn Công."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001003_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下：协同攻击造成伤害时，额外造成1次攻击{0}的物理伤害，每{1}秒可生效1次。「轨道扫射」、「轨道扫射」造成伤害时伤害加深{2}。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst, dealing Coordinated Attack DMG launches an extra attack that deals Physical DMG equal to {0} of ATK, triggered once every {1}s. DMG dealt by Orbital Strike is Amplified by {2}.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
-Trong trạng thái ""Dung Giác Bùng Phát"": Khi Hiệp Đồng Tấn Công gây sát thương, gây thêm 1 lần sát thương Vật Lý bằng {0} Tấn Công, có thể kích hoạt 1 lần mỗi {1} giây. Sát thương gây ra bởi ""Quét Quỹ Đạo"" được Khuếch Đại thêm {2}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001004,童梦的终结,Fairy Tale's Finale,Kết Cục Giấc Mơ Thơ Ấu
-lang_multi_text.db,MultiText,RogueResSynergyName_1001004_1,"队伍里至少有{0}个「童梦的终结」角色：
-·闪避成功时，召唤「幻梦藤」击飞附近目标，造成攻击{1}的衍射伤害，并治疗当前角色最大生命{2}的生命值，每{3}秒可生效1次。
-·施放共鸣技能时，在短暂延迟后，召唤1次「勇士连击」，共计造成攻击{4}的热熔伤害，每{5}秒可生效1次。","When the team has at least <SapTag=0>{0}</SapTag> {Cus:Sap,S=Resonator P=Resonators SapTag=0} with the Bond Fairy Tale's Finale:
-- A successful Dodge summons an Illusive Vine to launch the nearby targets into mid-air, dealing Spectro DMG equal to {1} of ATK and healing {2} of the active Resonator's Max HP. This effect can be triggered once every {3}s.
-- Casting Resonance Skill triggers Warrior Strikes once after a short while, dealing Fusion DMG equal to {4} of ATK in total. This effect can be triggered once every {5}s.","Khi đội có ít nhất {0} nhân vật thuộc Ràng Buộc ""Hồi Kết Đồng Thoại"":
-- Khi Né Tránh thành công, triệu hồi ""Huyễn Mộng Đằng"" hất tung mục tiêu gần đó, gây sát thương Nhiễu Xạ bằng {1} Tấn Công và hồi phục sinh mệnh bằng {2} HP tối đa của nhân vật đang ra trận, có thể kích hoạt 1 lần mỗi {3} giây.
-- Khi thi triển Kỹ Năng Cộng Hưởng, sau một khoảng trễ ngắn, triệu hồi 1 lần ""Dũng Sĩ Liên Kích"", tổng cộng gây sát thương Nhiệt Dung bằng {4} Tấn Công, có thể kích hoạt 1 lần mỗi {5} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001004_2,"当队伍里至少有{0}个「童梦的终结」角色：
-·造成普攻伤害时，釉瑚有加入战场「乱打一通」，共计造成攻击{1}的冷凝伤害，每{2}秒可生效1次。
-·造成重击伤害时候，洛可可召唤「噩梦大旋风」牵引周围目标，并造成共计攻击{3}的湮灭伤害，每{4}秒可生效1次。","When the team has at least <SapTag=0>{0}</SapTag> {Cus:Sap,S=Resonator P=Resonators SapTag=0} with the Bond Fairy Tale's Finale:
-- Dealing Basic Attack DMG summons Youhu to cast Bouncy Brawl, dealing Glacio DMG equal to {1} of ATK in total. This effect can be triggered once every {2}s.
-- Dealing Heavy Attack DMG summons Roccia to cast Whimsical Whirl and pull in the nearby targets, dealing Havoc DMG equal to {3} of ATK in total. This effect can be triggered once every {4}s.","Khi đội có ít nhất {0} nhân vật thuộc Ràng Buộc ""Hồi Kết Đồng Thoại"":
-- Khi gây sát thương Phổ Công, Youhu gia nhập chiến trường thi triển ""Loạn Đả Nhất Thông"", tổng cộng gây sát thương Ngưng Băng bằng {1} Tấn Công, có thể kích hoạt 1 lần mỗi {2} giây.
-- Khi gây sát thương Trọng Kích, Roccia triệu hồi ""Ác Mộng Đại Toàn Phong"" kéo mục tiêu xung quanh lại, tổng cộng gây sát thương Hủy Diệt bằng {3} Tấn Công, có thể kích hoạt 1 lần mỗi {4} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001004_3,「童梦的终结」羁绊中产生的全部伤害（如「乱打一通、「噩梦大旋风」等），造成的伤害加深提升{0}。,DMG dealt by the effects triggered by the Bond Fairy Tale's Finale (such as Bouncy Brawl and Whimsical Whirl) is Amplified by {0}.,"Toàn bộ sát thương sinh ra từ Ràng Buộc ""Hồi Kết Đồng Thoại"" (như ""Loạn Đả Nhất Thông"", ""Ác Mộng Đại Toàn Phong"", v.v.) được Khuếch Đại thêm {0}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001004_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」开始时，将会按顺序施放梦幻无比的「童话组合技」：
-召唤{0}个「古玩轰炸」造成攻击{1}的冷凝伤害。 
-召唤{2}段「幻梦巨藤」。每段共计造成攻击{3}的衍射伤害，并回复前台角色最大生命{4}的生命值。
-召唤{5}个「噩梦飓风」，牵引附近目标。每个「噩梦飓风」造成{6}段每段攻击{7}的湮灭伤害。
-召唤{8}次「纷乱连打」。每次造成{9}次攻击{10}的冷凝伤害。
-召唤{11}波「勇士轰击」。每次共计造成攻击{12}的热熔伤害。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-Activating Synergy Burst casts a super fantastic Fairy Tale Combo in the following order:
-- Summon <SapTag=0>{0}</SapTag> Antique {Cus:Sap,S=Barrage P=Barrages SapTag=0} to deal Glacio DMG equal to {1} of ATK.
-- Summon {2} Giant Illusive Vines, each dealing Spectro DMG equal to {3} of ATK in total and healing {4} of Max HP for the active Resonator.
-- Summon {5} Nightmare Cyclones to pull in nearby targets. Each Nightmare Cyclone launches {6} attacks, with each attack dealing Havoc DMG equal to {7} of ATK.
-- Summon Rowdy Rumble {8} times. Each Rowdy Rumble launches {9} attacks, with each attack dealing Glacio DMG equal to {10} of ATK.
-- Summon {11} waves of Warrior Bash, each dealing Fusion DMG equal to {12} of ATK in total.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
-Khi ""Dung Giác Bùng Phát"" bắt đầu, sẽ lần lượt thi triển ""Tổ Hợp Kỹ Đồng Thoại"" cực kỳ huyền ảo:
-Triệu hồi {0} lần ""Cổ Ngoạn Oanh Tạc"" gây sát thương Ngưng Băng bằng {1} Tấn Công.
-Triệu hồi {2} đợt ""Huyễn Mộng Cự Đằng"". Mỗi đợt tổng cộng gây sát thương Nhiễu Xạ bằng {3} Tấn Công, và hồi phục sinh mệnh bằng {4} HP tối đa của nhân vật đang ra trận.
-Triệu hồi {5} ""Ác Mộng Cuồng Phong"", kéo mục tiêu gần lại. Mỗi ""Ác Mộng Cuồng Phong"" gây {6} đợt sát thương Hủy Diệt, mỗi đợt bằng {7} Tấn Công.
-Triệu hồi {8} lần ""Phân Loạn Liên Đả"". Mỗi lần gây {9} đòn sát thương Ngưng Băng, mỗi đòn bằng {10} Tấn Công.
-Triệu hồi {11} đợt ""Dũng Sĩ Oanh Kích"". Mỗi lần tổng cộng gây sát thương Nhiệt Dung bằng {12} Tấn Công."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001004_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下，全队角色伤害加深{0}。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst, DMG dealt by all Resonators in the team is Amplified by {0}.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
-Trong trạng thái ""Dung Giác Bùng Phát"", sát thương của toàn bộ nhân vật trong đội được Khuếch Đại thêm {0}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001005,请给我翅膀,Give Me Wings,Xin Hãy Cho Tôi Đôi Cánh
-lang_multi_text.db,MultiText,RogueResSynergyName_1001005_1,处于空中时，攻击会无视目标{0}防御。,Mid-air Attack ignores {0} of the target's DEF.,"Khi ở trên không, đòn tấn công bỏ qua {0} phòng thủ mục tiêu."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001005_2,角色处于空中状态下，攻击会触发「空袭」造成高频率伤害，每段造成攻击{0}的物理伤害，每秒可生效1次。,"Casting Mid-air Attack triggers Airstrike, striking the target multiple times, with each strike dealing Physical DMG equal to {0} of ATK. This effect can be triggered once every second.","Khi nhân vật ở trạng thái trên không, đòn tấn công kích hoạt ""Không Kích"" gây sát thương tần suất cao, mỗi đợt gây sát thương Vật Lý bằng {0} Tấn Công, có thể kích hoạt 1 lần mỗi giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001005_3,角色处于空中状态下，抗打断能力提升，「空袭」造成的伤害提高至攻击{0}，且会使怪物的攻击降低{1}，持续{2}秒。,"Resonators in mid-air have their resistance to interruption enhanced. Damage dealt by Airstrike is increased, equal to {0} of ATK. Airstrike also reduces the target's ATK by {1} for {2}s.","Khi nhân vật ở trạng thái trên không, khả năng kháng gián đoạn được tăng cường. Sát thương ""Không Kích"" tăng lên bằng {0} Tấn Công, đồng thời giảm tấn công của quái vật {1}, kéo dài {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001005_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-角色处于空中状态时，每{0}秒获得1层持续{1}秒的「飘舞」。每层「飘舞」可以使暴击提升{2}，可叠加{3}层。且空中攻击会召唤1次「焚地」，造成攻击{4}的伤害，每{5}秒可生效1次。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-Resonators in mid-air gain 1 stack of Air Waltz that lasts for {1}s every {0}s. Each stack increases Crit. Rate by {2}, stacking up to {3} times. Mid-air Attack summons a Scorched Earth, dealing DMG equal to {4} of ATK, triggered once every {5}s.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Khi nhân vật ở trạng thái trên không, mỗi {0} giây nhận được 1 tầng ""Phiêu Vũ"" kéo dài {1} giây. Mỗi tầng ""Phiêu Vũ"" tăng Bạo Kích thêm {2}, tối đa {3} tầng. Đồng thời tấn công trên không sẽ triệu hồi 1 lần ""Phần Địa"", gây sát thương bằng {4} Tấn Công, có thể kích hoạt 1 lần mỗi {5} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001005_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下：
-攻击提升60%，「焚地」额外给给目标造成6秒的「焚烧」，焚烧每秒造成攻击100%的伤害。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-ATK is increased by 60%. Scorched Earth additionally inflicts Burn on the target for 6s, with each second dealing DMG equal to 100% of ATK.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Tấn Công tăng 60%. ""Phần Địa"" gây thêm hiệu ứng ""Thiêu Đốt"" lên mục tiêu trong 6 giây, mỗi giây gây sát thương bằng 100% Tấn Công."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001006,城墙,Stronghold,Thành Lũy
-lang_multi_text.db,MultiText,RogueResSynergyName_1001006_1,角色获得的护盾量额外提升{0}。,The Shield gained is additionally increased by {0}.,Lượng Hộ Thuẫn nhân vật nhận được tăng thêm {0}.
-lang_multi_text.db,MultiText,RogueResSynergyName_1001006_2,角色拥有护盾时，获得「心墙」状态：护盾持续时间内，所有攻击额外造成当前护盾值{0}伤害，每秒可生效1次。,Resonators with Shield are granted Will of Wall: All Attacks deal extra DMG equal to {0} of the current Shield points. This effect can be triggered once every second.,"Khi nhân vật có Hộ Thuẫn, nhận trạng thái ""Tâm Bích"": Trong thời gian Hộ Thuẫn tồn tại, mọi đòn tấn công gây thêm sát thương bằng {0} giá trị Hộ Thuẫn hiện tại, có thể kích hoạt 1 lần mỗi giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001006_3,【心墙】状态造成的额外伤害加深{0}，且无视目标{1}防御。,The extra DMG dealt by Will of Wall is Amplified by {0} and ignores {1} DEF of the target.,"Sát thương bổ sung từ trạng thái ""Tâm Bích"" được Khuếch Đại thêm {0}, đồng thời bỏ qua {1} phòng thủ mục tiêu."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001006_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-·角色获得的护盾值额外提升{0}，且马上施放1次「裂壁」。
-·「裂壁」：对目标造成当前护盾值{1}的伤害，并命中目标时获得基于最大生命值{2}的护盾。
-·「融觉爆发」状态期间每{3}秒自动施放1次「裂壁」。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-- Resonators gain additional {0} Shield points and cast Wall Breaker once upon activating Synergy Burst.
-- Wall Breaker: Deal DMG equal to {1} of current Shield points to the target and gain a Shield based on {2} of Max HP on hit.
-- Automatically cast Wall Breaker once every {3}.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-- Giá trị Hộ Thuẫn nhân vật nhận được tăng thêm {0}, đồng thời lập tức thi triển 1 lần ""Liệt Bích"".
-- ""Liệt Bích"": Gây sát thương bằng {1} giá trị Hộ Thuẫn hiện tại lên mục tiêu, khi trúng mục tiêu sẽ nhận Hộ Thuẫn bằng {2} HP tối đa.
-- Trong trạng thái ""Dung Giác Bùng Phát"", tự động thi triển 1 lần ""Liệt Bích"" mỗi {3}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001006_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-【融觉爆发】状态下：
-【裂壁】伤害加深{0}，且【裂壁】命中目标时额外获得1个基于攻击{1}的护盾和1个基于防御{2}的护盾。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-DMG dealt by Wall Breaker is Amplified by {0}. Wall Breaker grants an additional Shield based on {1} of ATK and another Shield based on {2} of DEF on hit.","<color=Highlight>Kích hoạt khi có 3 thành viên Ràng Buộc trong đội</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Sát thương ""Liệt Bích"" được Khuếch Đại thêm {0}, đồng thời khi ""Liệt Bích"" trúng mục tiêu sẽ nhận thêm 1 Hộ Thuẫn dựa trên {1} Tấn Công và 1 Hộ Thuẫn dựa trên {2} Phòng Thủ."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001007,“索拉里斯最佳伙伴”,"""Solaris Best Duo""","""Cặp Đôi Xuất Sắc Nhất Solaris"""
-lang_multi_text.db,MultiText,RogueResSynergyName_1001007_1,"<color=Highlight>队伍中登场的角色为漂泊者时激活</color>
- 当协奏能量充满时，自动召唤除当前漂泊者属性之外的其它属性的「漂泊者·幻影」进行1波攻击，并清除全部协奏能量。
- 「漂泊者·幻影·衍射」:进行连续5段攻击，共计造成攻击{0}的衍射伤害。每段攻击对目标添加{1}层【光噪效应】，并立刻结算1次当前全部层数的【光噪效应】伤害。
- 「漂泊者·幻影·湮灭」:进行连续11段攻击，共计造成攻击{2}的湮灭伤害。每段攻击命中时，自身获得{3}层「强力」，每层「强力」可以使暴击伤害提升{4}，持续{5}秒，可叠加{6}层。
- 「漂泊者·幻影·气动」:进行连续7段攻击，共计造成攻击{7}的气动伤害。每段攻击对目标添加{8}层【风蚀效应】，并立刻结算1次当前全部层数的【风蚀效应】伤害。","<color=Highlight>Activated if the team's active Resonator is Rover</color>
-- When Concerto energy is full, automatically summon Phantom Rovers of the other Attributes to launch a wave of attacks at the cost of all Concerto Energy.
- - Phantom Rover: Spectro launches 5 consecutive attacks, dealing Spectro DMG equal to {0} of ATK in total. Each attack inflicts <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Spectro Frazzle and immediately triggers the DMG of currently stacked Spectro Frazzle once.
-- Phantom Rover: Havoc launches 11 consecutive attacks, dealing Havoc DMG equal to {2} of ATK in total. Each attack grants <SapTag=3>{3}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=3} of Strength. Each stack of Strength increases Crit. DMG by {4} for {5}s, stacking up to {6} times.
-- Phantom Rover: Aero launches 7 consecutive attacks, dealing Aero DMG equal {7} of ATK in total. Each attack inflicts <SapTag=8>{8}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=8} of Aero Erosion and immediately triggers the DMG of currently stacked Aero Erosion once.","<color=Highlight>Kích hoạt khi nhân vật ra trận trong đội là Lữ Khách</color>
-- Khi năng lượng Hiệp Tấu đầy, tự động triệu hồi ""Lữ Khách - Ảo Ảnh"" thuộc các thuộc tính khác ngoài thuộc tính Lữ Khách hiện tại để tiến hành 1 đợt tấn công, đồng thời tiêu hao toàn bộ năng lượng Hiệp Tấu.
- - ""Lữ Khách - Ảo Ảnh - Nhiễu Xạ"": Tiến hành 5 đòn liên tục, tổng cộng gây sát thương Nhiễu Xạ bằng {0} Tấn Công. Mỗi đòn thêm {1} tầng [Hiệu Ứng Quang Tạp] lên mục tiêu, đồng thời lập tức kết toán 1 lần sát thương toàn bộ tầng [Hiệu Ứng Quang Tạp] hiện tại.
-- ""Lữ Khách - Ảo Ảnh - Hủy Diệt"": Tiến hành 11 đòn liên tục, tổng cộng gây sát thương Hủy Diệt bằng {2} Tấn Công. Mỗi đòn trúng nhận {3} tầng ""Cường Lực"", mỗi tầng ""Cường Lực"" tăng Sát Thương Bạo Kích thêm {4}, kéo dài {5} giây, tối đa {6} tầng.
-- ""Lữ Khách - Ảo Ảnh - Khí Động"": Tiến hành 7 đòn liên tục, tổng cộng gây sát thương Khí Động bằng {7} Tấn Công. Mỗi đòn thêm {8} tầng [Hiệu Ứng Phong Thực] lên mục tiêu, đồng thời lập tức kết toán 1 lần sát thương toàn bộ tầng [Hiệu Ứng Phong Thực] hiện tại."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001007_2,"<color=Highlight>队伍中登场的角色为漂泊者时激活</color>
-根据队伍中漂泊者的属性，获得以下效果：
-「漂泊者·衍射」:普通攻击命中时对目标添加{0}层【光噪效应】，每{1}秒可生效1次。目标每次受到【异常效应】造成的伤害时，漂泊者暴击伤害提升{2}，可叠加{3}层。
-「漂泊者·湮灭」:共鸣技能的冷却时间减少{4}。漂泊者造成共鸣技能伤害时，恢复攻击{5}的生命值，每{6}秒可生效1次。
-「漂泊者·气动」:漂泊者处于空中状态时，暴击伤害提升{7}。","<color=Highlight>Activated if the team's active Resonator is Rover</color>
-Rover gains different bonuses specific to the Attribute:
-- Rover: Spectro: Hitting a target with Basic Attack inflicts <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Spectro Frazzle, triggered once every {1}s. Rover's Crit. DMG is increased by {2} every time targets take DMG from a Negative Status, stacking up to {3} times.
-- Rover: Havoc: Reduce Resonance Skill cooldown by {4}. Damage dealt by Rover's Resonance Skill restores HP equal to {5} of ATK, triggered once every {6}s.
-- Rover: Aero: Increase Crit. DMG by {7} when Rover is in mid-air.","<color=Highlight>Kích hoạt khi nhân vật ra trận trong đội là Lữ Khách</color>
-Dựa theo thuộc tính Lữ Khách trong đội, nhận các hiệu ứng sau:
-""Lữ Khách - Nhiễu Xạ"": Khi Phổ Công trúng mục tiêu, thêm {0} tầng [Hiệu Ứng Quang Tạp], có thể kích hoạt 1 lần mỗi {1} giây. Mỗi lần mục tiêu nhận sát thương từ [Hiệu Ứng Dị Thường], Sát Thương Bạo Kích của Lữ Khách tăng thêm {2}, tối đa {3} tầng.
-""Lữ Khách - Hủy Diệt"": Thời gian hồi chiêu Kỹ Năng Cộng Hưởng giảm {4}. Khi Lữ Khách gây sát thương Kỹ Năng Cộng Hưởng, hồi phục sinh mệnh bằng {5} Tấn Công, có thể kích hoạt 1 lần mỗi {6} giây.
-""Lữ Khách - Khí Động"": Khi Lữ Khách ở trạng thái trên không, Sát Thương Bạo Kích tăng thêm {7}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001007_3,"<color=Highlight>队伍中登场的角色为漂泊者时激活</color>
-·累计造成{0}次普攻伤害后，若在场角色并非「漂泊者·衍射」，则召唤「漂泊者·幻影·衍射」进行1波攻击，每波共计造成攻击{1}的衍射伤害。
-·累计造成{2}次共鸣技能伤害后，若在场角色并非「漂泊者·湮灭」，则召唤「漂泊者·幻影·湮灭」进行1波攻击，每波共计造成攻击{3}的湮灭伤害。
-·累计造成{4}次重击伤害后，若在场角色并非「漂泊者·气动」，则召唤「漂泊者·幻影·气动」进行1波攻击，每波共计造成攻击{5}的气动伤害。","<color=Highlight>Activated if the team's active Resonator is Rover</color>
-- If Rover is not of Spectro Attribute: Dealing Basic Attack DMG to targets {0} times summons Phantom Rover: Spectro to launch 1 wave of attacks. Each wave deals Spectro DMG equal to {1} of ATK in total.
-- If Rover is not of Havoc Attribute: Dealing Resonance Skill DMG to targets {2} times summons Phantom Rover: Havoc to launch 1 wave of attacks. Each wave deals Havoc DMG equal to {3} of ATK in total.
-- If Rover is not of Aero Attribute: Dealing Heavy Attack DMG to targets {4} times summons Phantom Rover: Aero to launch 1 wave of attacks. Each wave deals Aero DMG equal to {5} of ATK in total.","<color=Highlight>Kích hoạt khi nhân vật ra trận trong đội là Lữ Khách</color>
-- Sau khi tích lũy gây {0} lần sát thương Phổ Công, nếu nhân vật đang ra trận không phải ""Lữ Khách - Nhiễu Xạ"", triệu hồi ""Lữ Khách - Ảo Ảnh - Nhiễu Xạ"" tiến hành 1 đợt tấn công, mỗi đợt tổng cộng gây sát thương Nhiễu Xạ bằng {1} Tấn Công.
-- Sau khi tích lũy gây {2} lần sát thương Kỹ Năng Cộng Hưởng, nếu nhân vật đang ra trận không phải ""Lữ Khách - Hủy Diệt"", triệu hồi ""Lữ Khách - Ảo Ảnh - Hủy Diệt"" tiến hành 1 đợt tấn công, mỗi đợt tổng cộng gây sát thương Hủy Diệt bằng {3} Tấn Công.
-- Sau khi tích lũy gây {4} lần sát thương Trọng Kích, nếu nhân vật đang ra trận không phải ""Lữ Khách - Khí Động"", triệu hồi ""Lữ Khách - Ảo Ảnh - Khí Động"" tiến hành 1 đợt tấn công, mỗi đợt tổng cộng gây sát thương Khí Động bằng {5} Tấn Công."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001007_4,"<color=Highlight>队伍中登场的角色为漂泊者时激活</color>
-施放共鸣解放后，召唤除当前漂泊者属性之外的其它属性的「漂泊者·幻影」，各自施放1次对应形态的共鸣解放，每次造成攻击{0}的伤害。每{1}秒可生效1次。","<color=Highlight>Activated if the team's active Resonator is Rover</color>
-Casting Resonance Liberation summons the Phantom Rovers of the other Attributes to cast their Resonance Liberation, each time dealing DMG equal to {0} of ATK. This effect is triggered once every {1}s.","<color=Highlight>Kích hoạt khi nhân vật ra trận trong đội là Lữ Khách</color>
-Sau khi thi triển Giải Phóng Cộng Hưởng, triệu hồi ""Lữ Khách - Ảo Ảnh"" thuộc các thuộc tính khác ngoài thuộc tính Lữ Khách hiện tại, mỗi ảo ảnh thi triển 1 lần Giải Phóng Cộng Hưởng tương ứng, mỗi lần gây sát thương bằng {0} Tấn Công. Có thể kích hoạt 1 lần mỗi {1} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001007_L1,"<color=Highlight>队伍中的角色仅有漂泊者时激活</color>
-·「融觉爆发」开始时，立即对范围内目标添加{0}层【光噪效应】和{1}层【风蚀效应】，随后快速连续地结算{2}次当前全部层数的【光噪效应】和【风蚀效应】伤害。
-·「融觉爆发」状态下，漂泊者每次造成伤害时将额外造成1次攻击{3}的湮灭伤害，每{4}秒可生效1次。","<color=Highlight>Activated if there is only Rover in the team</color>
-- Inflict <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Spectro Frazzle and <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Aero Erosion at the start of Synergy Burst. Afterward, immediately trigger the DMG of all currently stacked Spectro Frazzle and Aero Erosion <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2}.
- - In Synergy Burst, every time Rover deals DMG, deal Havoc DMG equal to {3} of ATK once, triggered once every {4}s.","<color=Highlight>Kích hoạt khi nhân vật duy nhất trong đội là Lữ Khách</color>
-- Khi ""Dung Giác Bùng Phát"" bắt đầu, lập tức thêm {0} tầng [Hiệu Ứng Quang Tạp] và {1} tầng [Hiệu Ứng Phong Thực] lên mục tiêu trong phạm vi, sau đó nhanh chóng kết toán liên tục {2} lần sát thương toàn bộ tầng [Hiệu Ứng Quang Tạp] và [Hiệu Ứng Phong Thực] hiện tại.
-- Trong trạng thái ""Dung Giác Bùng Phát"", mỗi lần Lữ Khách gây sát thương sẽ gây thêm 1 lần sát thương Hủy Diệt bằng {3} Tấn Công, có thể kích hoạt 1 lần mỗi {4} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001007_L2,"<color=Highlight>队伍中的角色仅有漂泊者时激活</color>
-「融觉爆发」状态下：
-漂泊者的暴击率提升{0}。漂泊者每次造成伤害时将额外造成1次攻击{1}的衍射伤害和攻击{2}的气动伤害，每{3}秒可生效1次。","<color=Highlight>Activated if there is only Rover in the team</color>
-When in Synergy Burst:
-Increase Crit. Rate by {0}. Every time Rover deals DMG, deal Spectro DMG equal to {1} of ATK once and Aero DMG equal to {2} of ATK once, triggered once every {3}s.","<color=Highlight>Kích hoạt khi nhân vật duy nhất trong đội là Lữ Khách</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Tỷ Lệ Bạo Kích của Lữ Khách tăng thêm {0}. Mỗi lần Lữ Khách gây sát thương sẽ gây thêm 1 lần sát thương Nhiễu Xạ bằng {1} Tấn Công và 1 lần sát thương Khí Động bằng {2} Tấn Công, có thể kích hoạt 1 lần mỗi {3} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001008,战地医师,Field Medic,Quân Y Chiến Trường
-lang_multi_text.db,MultiText,RogueResSynergyName_1001008_1,闪避成功时，接下来{0}秒持续治疗自身，共回复最大生命值{1}，每{2}秒可生效1次。,"A successful Dodge triggers continuous healing over the next {0}s, recovering {1} of Max HP in total. This effect can be triggered once every {2}s.","Khi Né Tránh thành công, liên tục hồi phục bản thân trong {0} giây tiếp theo, tổng cộng hồi phục {1} HP tối đa. Hiệu ứng có thể kích hoạt 1 lần mỗi {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001008_2,治疗效果加成提高{0}。,Give {0} Healing Bonus.,Tăng {0} hiệu quả hồi phục.
-lang_multi_text.db,MultiText,RogueResSynergyName_1001008_3,每当受到治疗时，对范围内1个目标释放「波动」，造成自身攻击{0}的物理伤害，每{1}秒可生效1次。「波动」造成的伤害的伤害加成提升，提升值为自身治疗效果加成的{2}倍。,"When healed, cast Wave on 1 target within range, dealing Physical DMG equal to {0} of the active Resonator's ATK, triggered once every {1}s. Wave gains additional DMG Bonus equal to <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} the active Resonator's Healing Bonus.","Mỗi khi được hồi phục, phóng ""Dao Động"" vào 1 mục tiêu trong phạm vi, gây sát thương vật lý bằng {0} tấn công bản thân, có thể kích hoạt 1 lần mỗi {1} giây. Sát thương gây ra bởi ""Dao Động"" nhận thêm bonus sát thương bằng <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} hiệu quả hồi phục bản thân."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001008_4,「波动」命中时额外再造成1次自身攻击{0}的伤害。,"When Wave hits the target, it deals an additional DMG equal to {0} of the active Resonator's ATK.","Khi ""Dao Động"" trúng mục tiêu, gây thêm 1 lần sát thương bằng {0} tấn công bản thân."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001008_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-·「融觉爆发」时，立刻回复最大生命{0}的生命值。
-·「融觉爆发」状态下，自身治疗效果加成提升{1}，且每{2}秒回复自身最大生命{3}的生命值。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-- Immediately restore {0} of Max HP upon activating Synergy Burst.
-- When in Synergy Burst, the active Resonator gains {1} Healing Bonus and restores {3} of Max HP every {2}s.","<color=Highlight>Kích hoạt khi có 3 thành viên Duy Đới trong đội</color>
-- Khi kích hoạt ""Dung Giác Bộc Phát"", lập tức hồi phục {0} HP tối đa.
-- Trong trạng thái ""Dung Giác Bộc Phát"", tăng {1} hiệu quả hồi phục cho bản thân, đồng thời hồi phục {3} HP tối đa mỗi {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001008_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-·「融觉爆发」时，额外立刻回复最大生命{0}的生命值，「融觉爆发」持续时间内治疗效果加成额外提升{1}，且每{2}秒额外回复自身最大生命{3}的生命值。
-·「融觉爆发」状态下，共鸣技能的冷却时间减少{4}。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-- Additionally restore {0} of Max HP upon activating Synergy Burst. When in Synergy Burst, gain another {1} Healing Bonus and restore another {3} of Max HP every {2}s for the active Resonator.
-- When in Synergy Burst, Resonance Skill Cooldown is reduced by {4}.","<color=Highlight>Kích hoạt khi có 3 thành viên Duy Đới trong đội</color>
-- Khi kích hoạt ""Dung Giác Bộc Phát"", lập tức hồi phục thêm {0} HP tối đa. Trong thời gian ""Dung Giác Bộc Phát"", hiệu quả hồi phục tăng thêm {1}, đồng thời mỗi {2} giây hồi phục thêm {3} HP tối đa.
-- Trong trạng thái ""Dung Giác Bộc Phát"", thời gian hồi chiêu Kỹ Năng Cộng Hưởng giảm {4}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001009,平凡上班族,Ordinary Commuter,Dân Công Sở Bình Thường
-lang_multi_text.db,MultiText,RogueResSynergyName_1001009_1,处于战斗状态时，角色每{0}秒获得【工资】。使用共鸣技能命中目标时会消耗【工资】，【工资】对目标造成攻击{1}的物理伤害。,"When in combat, Wage is received every {0}s. Wage is consumed when Resonance Skill hits a target to deal Physical DMG equal to {1} of ATK.","Khi đang trong trạng thái chiến đấu, nhân vật nhận được [Tiền Lương] mỗi {0} giây. Khi Kỹ Năng Cộng Hưởng trúng mục tiêu sẽ tiêu hao [Tiền Lương], [Tiền Lương] gây sát thương vật lý bằng {1} tấn công lên mục tiêu."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001009_2,处于战斗状态时，角色每{0}秒对一个范围内的所有目标添加「补贴」，「补贴」可叠加1层。对带有「补贴」的目标造成伤害时，会消耗1层「补贴」，触发「报销」对目标造成攻击{1}的物理伤害。,"When in combat, Allowance is placed on all targets within range every {0}s, stacking up to 1 time. Dealing DMG to targets carrying Allowance consumes 1 stack of Allowance to trigger Reimbursement, which deals Physical DMG equal to {1} of ATK.","Khi đang trong trạng thái chiến đấu, mỗi {0} giây sẽ gắn ""Trợ Cấp"" lên tất cả mục tiêu trong phạm vi, ""Trợ Cấp"" có thể cộng dồn 1 tầng. Khi gây sát thương lên mục tiêu mang ""Trợ Cấp"", tiêu hao 1 tầng ""Trợ Cấp"", kích hoạt ""Hoàn Trả"" gây sát thương vật lý bằng {1} tấn công lên mục tiêu."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001009_3,「工资」造成的伤害加深{0}。,DMG dealt by Wage is Amplified by {0}.,"Sát thương gây ra bởi ""Tiền Lương"" được khuếch đại {0}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001009_4,每次触发「报销」，降低角色共鸣技能、共鸣解放的冷却时间{0}，每{1}秒可生效1次。,Each triggering of Reimbursement reduces the Cooldown of Resonance Skill and Resonance Liberation by {0}. This effect can be triggered once every {1}s.,"Mỗi lần kích hoạt ""Hoàn Trả"", giảm thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng {0}, có thể kích hoạt 1 lần mỗi {1} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001009_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-·角色每{0}秒额外获得「工资」。
-·角色每{1}秒额外对范围内的所有目标添加「补贴」。
-·「工资」、「报销」的伤害加深{2}。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-- Resonators gain extra Wage every {0}s.
-- An additional stack of Allowance is placed on all targets within range every {1}s.
-- DMG dealt by Wage and Reimbursement is Amplified by {2}.","<color=Highlight>Kích hoạt khi có 3 thành viên Duy Đới trong đội</color>
-Trong trạng thái ""Dung Giác Bộc Phát"":
-- Nhân vật nhận thêm ""Tiền Lương"" mỗi {0} giây.
-- Mỗi {1} giây gắn thêm ""Trợ Cấp"" lên tất cả mục tiêu trong phạm vi.
-- Sát thương của ""Tiền Lương"" và ""Hoàn Trả"" được khuếch đại {2}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001009_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下：
-「报销」造成伤害时，会给目标叠加{0}层「加班」，可叠加{1}层。角色退出「融觉爆发」状态时，会消耗周围目标身上的全部「加班」，每消耗{2}层「加班」，对目标额外造成{3}次「报销」。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-Dealing damage with Reimbursement inflicts <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Overtime upon the target, stacking up to {1} times. When Resonators exit Synergy Burst, all stacks of Overtime on the nearby targets are removed, with every <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} removed triggering another <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} of Reimbursement on the targets.","<color=Highlight>Kích hoạt khi có 3 thành viên Duy Đới trong đội</color>
-Trong trạng thái ""Dung Giác Bộc Phát"":
-Khi ""Hoàn Trả"" gây sát thương, cộng dồn {0} tầng ""Tăng Ca"" lên mục tiêu, tối đa {1} tầng. Khi nhân vật thoát khỏi trạng thái ""Dung Giác Bộc Phát"", tiêu hao toàn bộ ""Tăng Ca"" trên các mục tiêu xung quanh, cứ mỗi <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} tiêu hao sẽ kích hoạt thêm <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} ""Hoàn Trả"" lên mục tiêu."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001010,模范好市民,Model Citizen,Thị Dân Mẫu Mực
-lang_multi_text.db,MultiText,RogueResSynergyName_1001010_1,"所有角色攻击提高{0}，且「模范好市民」角色，造成普攻/重击/共鸣技能伤害时，会有{1}概率独立触发以下效果：
-·召唤{2}把「风凝路灯」攻击目标，每把造成攻击{3}的气动伤害，每{4}秒可生效1次。
-·对范围内所有的目标召唤{5}道「城市供电」，每道造成攻击{6}的导电伤害，每{7}秒可生效1次。
-·召唤{8}把「市民飞轮」发射出去，{9}秒后返回角色位置。每把「市民飞轮」可造成{10}次伤害，返回时可以额外造成{11}次伤害，每次造成攻击{12}的衍射伤害。每{13}秒可生效1次。","The ATK of all Resonators in the team is increased by {0}. When a Resonator with the Bond Model Citizen deals Basic Attack DMG/Heavy Attack DMG/Resonance Skill DMG, they have a {1} chance to activate one of the following effects:
-- Summon {2} Tempest Lamps to attack the target, each dealing Aero DMG equal to {3} of ATK, triggered once every {4}s.
-- Summon {5} Power Sources to attack the target, each dealing Electro DMG equal to {6} of ATK, triggered once every {7}s.
-- Summon and launch {8} Citizen Wheels that spin and come back after {9}s. Each wheel deals {10} strikes while spinning and an additional <SapTag=11>{11}</SapTag> {Cus:Sap,S=strike P=strikes SapTag=11} when flying back. Each strike deals Spectro DMG equal to {12} of ATK. This effect is triggered once every {13}s.","Tấn công của tất cả nhân vật tăng {0}, và nhân vật ""Công Dân Mẫu Mực"" khi gây sát thương Phổ Công/Trọng Kích/Kỹ Năng Cộng Hưởng, có {1} xác suất kích hoạt độc lập một trong các hiệu ứng sau:
-- Triệu hồi {2} cây ""Đèn Ngưng Phong"" tấn công mục tiêu, mỗi cây gây sát thương Khí Động bằng {3} tấn công, có thể kích hoạt 1 lần mỗi {4} giây.
-- Triệu hồi {5} luồng ""Cung Cấp Điện Đô Thị"" lên tất cả mục tiêu trong phạm vi, mỗi luồng gây sát thương Dẫn Điện bằng {6} tấn công, có thể kích hoạt 1 lần mỗi {7} giây.
-- Triệu hồi {8} ""Phi Luân Công Dân"" phóng ra, sau {9} giây quay về vị trí nhân vật. Mỗi ""Phi Luân Công Dân"" gây {10} lần sát thương, khi quay về gây thêm <SapTag=11>{11}</SapTag> {Cus:Sap,S=strike P=strikes SapTag=11} lần sát thương, mỗi lần gây sát thương Nhiễu Xạ bằng {12} tấn công. Có thể kích hoạt 1 lần mỗi {13} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001010_2,"「模范好市民」角色施放共鸣解放时，触发以下效果：
-召唤{0}个「扫地龙卷风」，造成{1}次攻击{2}的气动伤害，短暂延迟后触发{3}次攻击{4}的伤害。然后召唤{5}发「市民雪球」，每发造成攻击{6}的冷凝伤害，最后1发命中时造成攻击{7}的冷凝伤害，并治疗自身最大生命{8}的生命值。","When a Resonator with the Bond Model Citizen casts Resonance Liberation, activate the following effect:
-Summon <SapTag=0>{0}</SapTag> Vacuum {Cus:Sap,S=Tornado P=Tornados SapTag=0} to attack the target {1} times, each attack dealing Aero DMG equal to {2} of ATK. It will attack another <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} shortly after, each attack dealing DMG equal to {4} of ATK. Then summon {5} Citizen Snowballs, each dealing Glacio DMG equal to {6} of ATK. When the last snowball hits, it deals Glacio DMG equal to {7} of ATK and heals {8} of Max HP for the active Resonator.","Khi nhân vật ""Công Dân Mẫu Mực"" thi triển Giải Phóng Cộng Hưởng, kích hoạt hiệu ứng sau:
-Triệu hồi <SapTag=0>{0}</SapTag> {Cus:Sap,S=Tornado P=Tornados SapTag=0} ""Lốc Xoáy Quét Dọn"", gây {1} lần sát thương Khí Động bằng {2} tấn công, sau khoảng trễ ngắn kích hoạt thêm <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} sát thương bằng {4} tấn công. Sau đó triệu hồi {5} quả ""Tuyết Cầu Công Dân"", mỗi quả gây sát thương Ngưng Băng bằng {6} tấn công, quả cuối cùng khi trúng gây sát thương Ngưng Băng bằng {7} tấn công, đồng thời hồi phục {8} HP tối đa cho bản thân."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001010_3,共鸣解放伤害加深{0}。施放共鸣解放后，进入「好市民」状态，使全队攻击，防御，最大生命值，暴击，暴伤提升{1}，可叠{2}层，持续{3}秒。,"Resonance Liberation DMG is Amplified by {0}. Casting Resonance Liberation activates Good Citizen, which increases ATK, DEF, Max HP, Crit. Rate, and Crit. DMG of all Resonators in the team by {1} for {3}s, stacking up to {2} times.","Sát thương Giải Phóng Cộng Hưởng được khuếch đại {0}. Sau khi thi triển Giải Phóng Cộng Hưởng, bước vào trạng thái ""Công Dân Tốt"", tăng tấn công, phòng thủ, HP tối đa, bạo kích và sát thương bạo kích cho toàn đội {1}, cộng dồn tối đa {2} tầng, duy trì {3} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001010_4,每有{0}个「模范好市民」角色在编队时，队伍在「浸梦海床」中造成的伤害结果提升{1}。,"DMG dealt by all Resonators in the team is increased by {1} for every <SapTag=0>{0}</SapTag> {Cus:Sap,S=Resonator P=Resonators SapTag=0} with the Bond Model Citizen in the team.","Mỗi <SapTag=0>{0}</SapTag> {Cus:Sap,S=Resonator P=Resonators SapTag=0} nhân vật ""Công Dân Mẫu Mực"" trong đội, sát thương gây ra của đội trong ""Đáy Biển Mộng Ngâm"" tăng {1}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001010_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-·前台角色获得「属性提升」效果。前台角色的攻击/最大生命/防御/暴击/暴伤得到提升，各个属性提升的值等于全部后台角色的攻击/最大生命/防御/暴击/暴伤的总和的{0}。
-·角色造成伤害时，额外造成攻击{1}的物理伤害，每{2}秒可生效1次。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-- The active Resonator gains Power Boost, which increases ATK/Max HP/DEF/Crit. Rate/Crit. DMG equal to {0} of the total ATK/Max HP/DEF/Crit. Rate/Crit. DMG of all Resonators not on the field.
-- When a Resonator deals damage, they additionally deal Physical DMG equal to {1} of ATK, triggered once every {2}s.","<color=Highlight>Kích hoạt khi có 3 thành viên Duy Đới trong đội</color>
-Trong trạng thái ""Dung Giác Bộc Phát"":
-- Nhân vật trên sân nhận hiệu ứng ""Tăng Cường Thuộc Tính"". Tấn công/HP tối đa/Phòng thủ/Bạo kích/Sát thương bạo kích của nhân vật trên sân được tăng bằng {0} tổng Tấn công/HP tối đa/Phòng thủ/Bạo kích/Sát thương bạo kích của tất cả nhân vật hậu trường.
-- Khi nhân vật gây sát thương, gây thêm sát thương vật lý bằng {1} tấn công, có thể kích hoạt 1 lần mỗi {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001010_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下：
-·「属性提升效果」从全部后台角色的攻击/最大生命/防御/暴击/暴伤的总和的{0}提升至{1}
-·角色造成伤害时，再次额外造成攻击{2}的物理伤害，每{3}秒可生效1次。
-·「融觉爆发」结束后依然保持{4}秒的「属性提升」效果。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-- Power Boost now increases the stats by {1} of the total ATK/Max HP/DEF/Crit. Rate/Crit. DMG of all Resonators not on the field instead of {0}.
-- When a Resonator deals damage, they deal additional Physical DMG equal to {2} of ATK, triggered once every {3}s.
-- Power Boost stays for another {4}s after Synergy Burst ends.","<color=Highlight>Kích hoạt khi có 3 thành viên Duy Đới trong đội</color>
-Trong trạng thái ""Dung Giác Bộc Phát"":
-- Hiệu ứng ""Tăng Cường Thuộc Tính"" tăng từ {0} lên {1} tổng Tấn công/HP tối đa/Phòng thủ/Bạo kích/Sát thương bạo kích của tất cả nhân vật hậu trường.
-- Khi nhân vật gây sát thương, gây thêm sát thương vật lý bằng {2} tấn công, có thể kích hoạt 1 lần mỗi {3} giây.
-- Sau khi ""Dung Giác Bộc Phát"" kết thúc, hiệu ứng ""Tăng Cường Thuộc Tính"" vẫn duy trì thêm {4} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001011,极境的访问者,Visitors to Ultrazone,Khách Viếng Cực Cảnh
-lang_multi_text.db,MultiText,RogueResSynergyName_1001011_1,「极境的访问者」角色处于战斗中时，施放共鸣技能时，会获得{0}层「时凝」，每层可使共鸣技能伤害加成提升{1}，每{2}秒可生效1次，可叠{3}层，持续{4}秒。,"Resonators with the Bond Visitors to Ultrazone gain <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Time Freeze for every Resonance Skill cast in combat. Each stack increases Resonance Skill DMG by {1} for {4}s, stacking up to {3} times. This effect can be triggered once every {2}s.","Khi nhân vật ""Khách Viếng Cực Cảnh"" đang trong chiến đấu, mỗi lần thi triển Kỹ Năng Cộng Hưởng nhận được <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} tầng ""Thời Ngưng"", mỗi tầng tăng bonus sát thương Kỹ Năng Cộng Hưởng {1}, có thể kích hoạt 1 lần mỗi {2} giây, cộng dồn tối đa {3} tầng, duy trì {4} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001011_2,「极境的访问者」角色施放共鸣解放后，全队共鸣技能造成伤害时，这次伤害的暴击伤害提升{0}，可叠{1}层，持续{2}秒。,"When a Resonator with the Bond Visitors to Ultrazone casts Resonance Liberation, the Crit. DMG of the next Resonance Skill cast by all Resonators in the team is increased by {0} for {2}s, stacking up to {1} times.","Sau khi nhân vật ""Khách Viếng Cực Cảnh"" thi triển Giải Phóng Cộng Hưởng, khi toàn đội gây sát thương bằng Kỹ Năng Cộng Hưởng, sát thương bạo kích của lần sát thương đó tăng {0}, cộng dồn tối đa {1} tầng, duy trì {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001011_3,「极境的访问者」角色攻击提升{0}。,Resonators with the Bond Visitors to Ultrazone have their ATK increased by {0}.,"Tấn công của nhân vật ""Khách Viếng Cực Cảnh"" tăng {0}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001011_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-·所有目标防御降低{0}。
-·进入【融觉爆发】时，额外在场上召唤多道【外域之雷】，每道【外域之雷】造成攻击{1}的物理伤害，此次伤害为共鸣技能伤害。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-- All targets' DEF is reduced by {0}.
-- Summon multiple Otherworld Thunders to attack the targets upon activating Synergy Burst, each dealing Physical DMG equal to {1} of ATK, considered Resonance Skill DMG.","<color=Highlight>Kích hoạt khi có 3 thành viên Duy Đới trong đội</color>
-- Phòng thủ của tất cả mục tiêu giảm {0}.
-- Khi kích hoạt ""Dung Giác Bộc Phát"", triệu hồi thêm nhiều đạo ""Sấm Ngoại Vực"" trên sân, mỗi đạo gây sát thương vật lý bằng {1} tấn công, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001011_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」结束后，召唤巨大的「世末之雷」，对目标造成攻击{0}的物理伤害，此次伤害为共鸣技能伤害。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-Summon a giant Doom Thunder upon exiting Synergy Burst, dealing Physical DMG equal to {0} of ATK to the target, considered Resonance Skill DMG.","<color=Highlight>Kích hoạt khi có 3 thành viên Duy Đới trong đội</color>
-Sau khi ""Dung Giác Bộc Phát"" kết thúc, triệu hồi ""Sấm Tận Thế"" khổng lồ, gây sát thương vật lý bằng {0} tấn công lên mục tiêu, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001012,灵魂测量者,Psyche Pass,Người Đo Lường Linh Hồn
-lang_multi_text.db,MultiText,RogueResSynergyName_1001012_1,闪避成功时，召唤1个「数据端口」，对目标发射{0}枚「数据轰炸」，每发造成攻击{1}的伤害，每{2}秒可生效1次。,"A successful Dodge summons a Data Port that launches {0} Data Bombs on the target, each dealing DMG equal to {1} of ATK. This effect can be triggered once every {2}s.","Né Tránh thành công sẽ triệu hồi 1 ""Cổng Dữ Liệu"", phóng {0} quả ""Oanh Tạc Dữ Liệu"" vào mục tiêu, mỗi quả gây sát thương bằng {1} tấn công. Hiệu ứng có thể kích hoạt 1 lần mỗi {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001012_2,闪避反击命中时额外召唤一个「数据端口」，对目标发射{0}枚「数据轰炸」，每发造成攻击{1}的伤害，每{2}秒可生效1次。,"Dodge Counter summons an extra Data Port on hit, which launches {0} Data Bombs on the target, each dealing DMG equal to {1} of ATK. This effect can be triggered once every {2}s.","Phản Kích Né Tránh trúng mục tiêu sẽ triệu hồi thêm một ""Cổng Dữ Liệu"", phóng {0} quả ""Oanh Tạc Dữ Liệu"" vào mục tiêu, mỗi quả gây sát thương bằng {1} tấn công. Hiệu ứng có thể kích hoạt 1 lần mỗi {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001012_3,「数据轰炸」造成的伤害加深{0}。,DMG dealt by Data Bomb is Amplified by {0}.,"Sát thương gây ra bởi ""Oanh Tạc Dữ Liệu"" được gia tăng {0}."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001012_6,触发非战斗事件时额外获得梦境碎片,Obtain extra Dream Fragments in Non-Battle Events.,Nhận thêm Mảnh Mộng Cảnh khi kích hoạt sự kiện phi chiến đấu.
-lang_multi_text.db,MultiText,RogueResSynergyName_1001012_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下：
-召唤「坍缩洪流」持续牵引周围目标，并且造成{0}次攻击{1}的物理伤害；牵引结束后造成{2}次「坍缩」，造成攻击{3}的物理伤害，并且接下来召唤{4}个「数据端口」持续攻击目标，每个「数据端口」对目标发射{5}枚「数据轰炸」，每发造成攻击{6}的伤害。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-Summon a Torrent of Collapse to continuously pull in nearby targets, dealing Physical DMG equal to {1} of ATK {0} times. At the end of the pull-in effect, trigger {2} Collapse, dealing Physical DMG equal to {3} of ATK. Then summon {4} Data Ports to continuously attack the target. Each Data Port launches {5} Data Bombs on the target, with each Data Bomb dealing DMG equal to {6} of ATK.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Triệu hồi ""Hồng Lưu Sụp Đổ"" liên tục hút các mục tiêu xung quanh, đồng thời gây {0} lần sát thương vật lý bằng {1} tấn công; sau khi kết thúc hiệu ứng hút, gây {2} lần ""Sụp Đổ"", gây sát thương vật lý bằng {3} tấn công, sau đó triệu hồi {4} ""Cổng Dữ Liệu"" liên tục tấn công mục tiêu, mỗi ""Cổng Dữ Liệu"" phóng {5} quả ""Oanh Tạc Dữ Liệu"" vào mục tiêu, mỗi quả gây sát thương bằng {6} tấn công."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001012_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下：
-「数据轰炸」每次命中目标时，使目标防御降低{0}，可叠加{1}层，持续{2}秒。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Boost:
-Each time a Data Bomb hits a target, the target's DEF is reduced by {0} for {2}s, stacking up to {1} times.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Mỗi lần ""Oanh Tạc Dữ Liệu"" trúng mục tiêu, giảm phòng thủ mục tiêu {0}, cộng dồn tối đa {1} tầng, kéo dài {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001013,「水天星宫」的反叛者,Rebel of the Mercury Palace,"Kẻ Phản Nghịch ""Thủy Thiên Tinh Cung"""
-lang_multi_text.db,MultiText,RogueResSynergyName_1001013_1,队伍内每有1名「「水天星宫」的反叛者」，给当前前台角色提升{0}的防御和最大生命。,"For each Resonator with the Bond Rebel of the Mercury Palace in the team, the active Resonator's DEF and Max HP are increased by {0}.","Mỗi thành viên mang Ràng Buộc ""Kẻ Phản Nghịch Thủy Thiên Tinh Cung"" trong đội sẽ tăng {0} phòng thủ và sinh lực tối đa cho nhân vật đang ra trận."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001013_2,在施放共鸣技能，共鸣解放技能，闪避反击和成功闪避时会叠加{0}层「判旗」，每{1}秒可生效1次。「判旗」层数达到{2}层时清零，施放{3}次「愚人礼炮」，造成攻击{4}的物理伤害。,"Casting Resonance Skill, Resonance Liberation, Dodge Counter and successful Dodge grant <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Rebel's Flag, triggered once every {1}s. Upon reaching {2} stacks of Rebel's Flag, remove all the stacks to cast <SapTag=3>{3}</SapTag> {Cus:Sap,S=shot P=shots SapTag=3} of Fool's Cannon, dealing Physical DMG equal to {4} of ATK.","Khi thi triển Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng, Phản Kích Né Tránh hoặc Né Tránh thành công sẽ cộng dồn {0} tầng ""Cờ Phán Quyết"", kích hoạt 1 lần mỗi {1} giây. Khi ""Cờ Phán Quyết"" đạt {2} tầng sẽ xóa toàn bộ, thi triển {3} phát ""Lễ Pháo Kẻ Ngốc"", gây sát thương vật lý bằng {4} tấn công."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001013_3,「愚人礼炮」造成伤害时，全队暴击伤害提升{0}，持续{1}秒，可叠加{2}层。,"When Fool's Cannon deals DMG, Crit. DMG of all Resonators in the team is increased by {0} for {1}s, stacking up to {2} times.","Khi ""Lễ Pháo Kẻ Ngốc"" gây sát thương, bạo kích sát thương toàn đội tăng {0}, kéo dài {1} giây, cộng dồn tối đa {2} tầng."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001013_4,普攻或重击命中时，也可以叠加{0}层「判旗」，每{1}秒可生效1次。,"Normal Attack and Heavy Attack grant <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Rebel's Flag on hit, triggered once every {1}s.","Phổ Công hoặc Trọng Kích trúng mục tiêu cũng cộng dồn {0} tầng ""Cờ Phán Quyết"", kích hoạt 1 lần mỗi {1} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001013_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-在施放共鸣技能，共鸣解放技能，闪避反击和成功闪避时，额外获得{0}层「判旗」，每{1}秒可生效1次。
-「愚人礼炮」造成伤害时，额外召唤「愚人音潮」，造成{2}次攻击{3}的物理伤害，并使共鸣技能的冷却时间降低{4}，共鸣能量回复{5}点。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-Casting Resonance Skill, Resonance Liberation, Dodge Counter and successful Dodge grant another <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Rebel's Flag, triggered once every {1}s.
-When Fool's Cannon deals damage, summon Fool's Wave that launches {2} attacks, each dealing Physical DMG equal to {3} of ATK. Resonance Skill Cooldown is reduced by {4}. Restore {5} Resonance Energy.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Khi thi triển Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng, Phản Kích Né Tránh hoặc Né Tránh thành công, nhận thêm {0} tầng ""Cờ Phán Quyết"", kích hoạt 1 lần mỗi {1} giây.
-Khi ""Lễ Pháo Kẻ Ngốc"" gây sát thương, triệu hồi thêm ""Âm Triều Kẻ Ngốc"", gây {2} lần sát thương vật lý bằng {3} tấn công, đồng thời giảm thời gian hồi Kỹ Năng Cộng Hưởng {4}, hồi phục {5} điểm năng lượng cộng hưởng."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001013_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-「愚人礼炮」和「愚人音潮」伤害加深{0}，且在施放共鸣技能，共鸣解放技能，闪避反击和成功闪避时，再额外获得{1}层「判旗」，每{2}秒可生效1次。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Bust:
-DMG dealt by Fool's Cannon and Fool's Wave is Amplified by {0}. Casting Resonance Skill, Resonance Liberation, Dodge Counter, and successful Dodge grant another <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Rebel's Flag, triggered once every {2}s.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Sát thương ""Lễ Pháo Kẻ Ngốc"" và ""Âm Triều Kẻ Ngốc"" được gia tăng {0}, đồng thời khi thi triển Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng, Phản Kích Né Tránh hoặc Né Tránh thành công, nhận thêm {1} tầng ""Cờ Phán Quyết"", kích hoạt 1 lần mỗi {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001015,梦境体验镇魂曲,Dreamscape Requiem,Trấn Hồn Khúc Trong Mộng Cảnh
-lang_multi_text.db,MultiText,RogueResSynergyName_1001015_1,所有角色获得「共线性」：普攻/重击/共鸣技能/共鸣解放造成伤害时，对目标添加{0}层【风蚀效应】和{1}层【光噪效应】，每{2}秒可生效1次。,"All Resonators get Collinearity: Dealing DMG with Basic ATK, Heavy ATK, Resonance Skill, and Resonance Liberation inflicts <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of Aero Erosion and <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Spectro Frazzle, triggered once every {2}s.","Tất cả nhân vật nhận ""Cộng Tuyến Tính"": Khi Phổ Công/Trọng Kích/Kỹ Năng Cộng Hưởng/Giải Phóng Cộng Hưởng gây sát thương, áp dụng lên mục tiêu {0} tầng [Hiệu Ứng Phong Thực] và {1} tầng [Hiệu Ứng Quang Nhiễu], kích hoạt 1 lần mỗi {2} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001015_2,累计添加{0}次【风蚀效应】或【光噪效应】，召唤{1}次「剑雨」攻击周围目标。每次「剑雨」造成攻击{2}的气动伤害，并对目标施加{3}层【风蚀效应】和{4}层【光噪效应】。,"After inflicting Aero Erosion or Spectro Frazzle <SapTag=0>{0}</SapTag> {Cus:Sap,S=time P=times SapTag=0}, summon Sword Barrage <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1} to attack nearby targets. Each Sword Barrage deals Aero DMG equal to {2} of ATK and inflicts <SapTag=3>{3}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=3} of Aero Erosion and <SapTag=4>{4}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=4} of Spectro Frazzle.","Sau khi tích lũy áp dụng {0} lần [Hiệu Ứng Phong Thực] hoặc [Hiệu Ứng Quang Nhiễu], triệu hồi {1} lần ""Mưa Kiếm"" tấn công mục tiêu xung quanh. Mỗi lần ""Mưa Kiếm"" gây sát thương Khí Động bằng {2} tấn công, đồng thời áp dụng lên mục tiêu {3} tầng [Hiệu Ứng Phong Thực] và {4} tầng [Hiệu Ứng Quang Nhiễu]."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001015_3,「共线性」添加【异常效应】不再具有生效间隔。每次对目标施加【风蚀效应】或【光噪效应】时，全队造成的伤害加成提升{0}，持续{1}秒，可叠加{2}层。,"Remove the Negative Status infliction interval for Collinearity. Inflicting Aero Erosion or Spectro Frazzle on the target grants {0} DMG Bonus to all Resonators in the team for {1}s, stacking up to {2} times.","""Cộng Tuyến Tính"" áp dụng [Hiệu Ứng Dị Thường] không còn thời gian hồi. Mỗi lần áp dụng [Hiệu Ứng Phong Thực] hoặc [Hiệu Ứng Quang Nhiễu] lên mục tiêu, gia tăng sát thương toàn đội {0}, kéo dài {1} giây, cộng dồn tối đa {2} tầng."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001015_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-累计对目标添加{0}次【异常效应】后，召唤一把「神权剑」降下，对周围目标造成攻击{1}的气动伤害。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-After inflicting Negative Statuses <SapTag=0>{0}</SapTag> {Cus:Sap,S=time P=times SapTag=0} on a target, summon 1 Sword of Divinity, dealing Aero DMG equal to {1} of ATK to nearby targets.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Sau khi tích lũy áp dụng {0} lần [Hiệu Ứng Dị Thường] lên mục tiêu, triệu hồi một thanh ""Thần Quyền Kiếm"" giáng xuống, gây sát thương Khí Động bằng {1} tấn công lên các mục tiêu xung quanh."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001015_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-每次召唤「神权剑」时，全队造成的伤害加成提升{0}，持续{1}秒，可叠加{2}层。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-Summoning the Sword of Divinity grants {0} DMG Bonus to all Resonators in the team for {1}s, stacking up to {2} times.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Mỗi lần triệu hồi ""Thần Quyền Kiếm"", gia tăng sát thương toàn đội {0}, kéo dài {1} giây, cộng dồn tối đa {2} tầng."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001016,“和我的伙计打个招呼！”,Speak to My Buddy!,"""Chào hỏi bạn đồng hành của ta đi!"""
-lang_multi_text.db,MultiText,RogueResSynergyName_1001016_1,共鸣解放造成的伤害无视目标{0}防御力。,Resonance Liberation DMG ignores {0} of the target's DEF.,Sát thương Giải Phóng Cộng Hưởng bỏ qua {0} phòng thủ mục tiêu.
-lang_multi_text.db,MultiText,RogueResSynergyName_1001016_2,角色施放共鸣解放时，立即清除共鸣解放的冷却时间并恢复全部共鸣能量，每{0}秒可生效1次。,"Casting Resonance Liberation removes the subsequent Resonance Liberation cooldown and restores all Resonance Energy, triggered once every {0}s.","Khi nhân vật thi triển Giải Phóng Cộng Hưởng, lập tức xóa thời gian hồi Giải Phóng Cộng Hưởng và hồi phục toàn bộ năng lượng cộng hưởng, kích hoạt 1 lần mỗi {0} giây."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001016_3,角色施放共鸣解放时，攻击提升{0}，持续{1}秒，可叠加{2}层。,"Casting Resonance Liberation increases ATK by {0} for {1}, stacking up {2} times.","Khi nhân vật thi triển Giải Phóng Cộng Hưởng, tấn công tăng {0}, kéo dài {1} giây, cộng dồn tối đa {2} tầng."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001016_L1,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-角色施放共鸣解放时，召唤一道「陨火飞弹」，对周围目标造成攻击{0}的热熔伤害。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-Casting Resonance Liberation summons a Meteor Propelled Grenade that deals Fusion DMG equal to {0} of ATK to nearby targets.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Khi nhân vật thi triển Giải Phóng Cộng Hưởng, triệu hồi một quả ""Vẫn Hỏa Phi Đạn"", gây sát thương Nhiệt Dung bằng {0} tấn công lên các mục tiêu xung quanh."
-lang_multi_text.db,MultiText,RogueResSynergyName_1001016_L2,"<color=Highlight>队伍中有3名羁绊成员时激活</color>
-「融觉爆发」状态下:
-共鸣解放的冷却时间减少{0}。角色施放共鸣解放时，立即恢复全部共鸣能量。","<color=Highlight>Activated upon having 3 Bond Members in the team</color>
-When in Synergy Burst:
-Resonance Liberation cooldown is reduced by {0}. Resonators immediately recover all Resonance Energy upon casting Resonance Liberation.","<color=Highlight>Kích hoạt khi đội có 3 thành viên Ràng Buộc</color>
-Trong trạng thái ""Dung Giác Bùng Phát"":
-Thời gian hồi Giải Phóng Cộng Hưởng giảm {0}. Khi nhân vật thi triển Giải Phóng Cộng Hưởng, lập tức hồi phục toàn bộ năng lượng cộng hưởng."
-lang_multi_text.db,MultiText,RogueResSynergyTypeName_2,羁绊一览,Bond Overview,Tổng Quan Ràng Buộc
-lang_multi_text.db,MultiText,RogueRes_AccuracyNumShow,x {0},x{0},x{0}
-lang_multi_text.db,MultiText,RogueRes_AddRole_Desc,{0}加入了你的队伍,{0} joined your team,{0} đã gia nhập đội của bạn
-lang_multi_text.db,MultiText,RogueRes_Block_Capture,dnt/占领,test/Occupy,test/Occupy
-lang_multi_text.db,MultiText,RogueRes_Block_Capture_Buff,事件加成,Event Bonus,Gia tăng sự kiện
-lang_multi_text.db,MultiText,RogueRes_Block_Captured,已完成事件,Completed Events,Sự kiện đã hoàn thành
-lang_multi_text.db,MultiText,RogueRes_Block_Captured_Buff,事件加成（已激活）,Scene Bonus (Activated),Tăng ích sự kiện (Đã kích hoạt)
-lang_multi_text.db,MultiText,RogueRes_Block_Level,Lv{0},Lv. {0},Lv. {0}
-lang_multi_text.db,MultiText,RogueRes_Block_Move,前往,Proceed,Đi đến
-lang_multi_text.db,MultiText,RogueRes_Block_Null,路径,Path,Lối đi
-lang_multi_text.db,MultiText,RogueRes_Block_Null_Desc,可通行的道路，非常安全,"A clear, safe path.","Con đường có thể đi qua, rất an toàn."
-lang_multi_text.db,MultiText,RogueRes_Block_Recommend_Level,推荐队伍等级：{0},Suggested Team Level: {0},Cấp đội ngũ đề nghị: {0}
+lang_multi_text.db,MultiText,RogueBuffPool_2690057_BuffDesc,每次触发「徽记」时额外触发2次，但是「徽记」仅能在「解梦状态」下触发。,"When [Sigil] is triggered, it additionally triggers 2 times. [Sigil] can only be triggered in [Divined Dream].","Mỗi lần kích hoạt ""Huy Ký"" sẽ kích hoạt thêm 2 lần, nhưng ""Huy Ký"" chỉ có thể kích hoạt trong ""Trạng thái Giải Mộng""."
+lang_multi_text.db,MultiText,RogueBuffPool_2690057_BuffDesc_0,「徽记」额外触发2次，但仅能在「解梦状态」下触发。,"[Sigil] can only be triggered in [Divined Dream], where it triggers 2 additional times.","""Huy Ký"" kích hoạt thêm 2 lần, nhưng chỉ có thể kích hoạt trong ""Trạng thái Giải Mộng""."
+lang_multi_text.db,MultiText,RogueBuffPool_2690057_BuffName,凋零的梦,Withering Dream,Giấc Mơ Tàn Úa
+lang_multi_text.db,MultiText,RogueBuffPool_2690058_BuffDesc,每次触发「徽记」时额外触发1次。,"When [Sigil] is triggered, it additionally triggers once.","Mỗi lần kích hoạt ""Huy Ký"" sẽ kích hoạt thêm 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_2690058_BuffDesc_0,「徽记」额外触发1次。,[Sigil] additionally triggers once.,"""Huy Ký"" kích hoạt thêm 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_2690058_BuffName,尘封的秘典,Dusty Grimoire,Bí Điển Phong Ấn
+lang_multi_text.db,MultiText,RogueBuffPool_2690059_BuffDesc,「徽记」的触发间隔提升25%，所有角色造成的伤害加成提升60%。,"[Sigil] has a 25% longer trigger interval, but all Resonators in the team gain 60% DMG Bonus.","Khoảng cách kích hoạt ""Huy Ký"" tăng 25%, nhưng bonus sát thương của tất cả nhân vật tăng 60%."
+lang_multi_text.db,MultiText,RogueBuffPool_2690059_BuffDesc_0,「徽记」的触发间隔提升，但角色的伤害提升。,"[Sigil] has a longer trigger interval, but all Resonators in the team gain DMG Bonus.","Khoảng cách kích hoạt ""Huy Ký"" tăng lên, nhưng sát thương của nhân vật tăng."
+lang_multi_text.db,MultiText,RogueBuffPool_2690059_BuffName,等风者,Wind Seeker,Người Chờ Gió
+lang_multi_text.db,MultiText,RogueBuffPool_2690060_BuffDesc,「徽记」的触发间隔减少20%。,[Sigil] has a 20% shorter trigger interval.,"Khoảng cách kích hoạt ""Huy Ký"" giảm 20%."
+lang_multi_text.db,MultiText,RogueBuffPool_2690060_BuffDesc_0,「徽记」的触发间隔减少。,[Sigil] has a shorter trigger interval.,"Khoảng cách kích hoạt ""Huy Ký"" giảm."
+lang_multi_text.db,MultiText,RogueBuffPool_2690060_BuffName,速射钩爪,Rapid Grapple,Móc Bắn Nhanh
+lang_multi_text.db,MultiText,RogueBuffPool_2690061_BuffDesc,谐度破坏增幅提升40点。,Increase Tune Break Boost by 40.,Tăng 40 điểm gia tăng phá vỡ hài hòa.
+lang_multi_text.db,MultiText,RogueBuffPool_2690061_BuffDesc_0,谐度破坏增幅小幅提升。,Slightly increases Tune Break Boost.,Tăng nhẹ gia tăng phá vỡ hài hòa.
+lang_multi_text.db,MultiText,RogueBuffPool_2690061_BuffName,轻便军刀Ⅰ,Tactical Knife I,Quân Đao Nhẹ Ⅰ
+lang_multi_text.db,MultiText,RogueBuffPool_2690062_BuffDesc,谐度破坏增幅提升80点。,Increase Tune Break Boost by 80.,Tăng Khuếch Đại Phá Hài Độ thêm 80 điểm.
+lang_multi_text.db,MultiText,RogueBuffPool_2690062_BuffDesc_0,谐度破坏增幅中幅提升。,Moderately increases Tune Break Boost.,Tăng vừa Khuếch Đại Phá Hài Độ.
+lang_multi_text.db,MultiText,RogueBuffPool_2690062_BuffName,轻便军刀Ⅱ,Tactical Knife II,Quân Đao Nhẹ Ⅱ
+lang_multi_text.db,MultiText,RogueBuffPool_2690063_BuffDesc,谐度破坏增幅提升120点。,Increase Tune Break Boost by 120.,Tăng Khuếch Đại Phá Hài Độ thêm 120 điểm.
+lang_multi_text.db,MultiText,RogueBuffPool_2690063_BuffDesc_0,谐度破坏增幅大幅提升。,Greatly increases Tune Break Boost.,Tăng lớn Khuếch Đại Phá Hài Độ.
+lang_multi_text.db,MultiText,RogueBuffPool_2690063_BuffName,轻便军刀Ⅲ,Tactical Knife III,Quân Đao Nhẹ Ⅲ
+lang_multi_text.db,MultiText,RogueBuffPool_2690064_BuffDesc,偏谐值累积效率提升40%。,Increase Off-Tune Buildup Rate by 40%.,Tăng Tốc Độ Tích Lũy Thiên Hài trị thêm 40%.
+lang_multi_text.db,MultiText,RogueBuffPool_2690064_BuffDesc_0,偏谐值累积效率小幅提升。,Slightly increases Off-Tune Buildup Rate.,Tăng nhẹ Tốc Độ Tích Lũy Thiên Hài trị.
+lang_multi_text.db,MultiText,RogueBuffPool_2690064_BuffName,机动战靴Ⅰ,Mobile Combat Boots I,Giày Chiến Đấu Cơ Động Ⅰ
+lang_multi_text.db,MultiText,RogueBuffPool_2690065_BuffDesc,偏谐值累积效率提升80%。,Increase Off-Tune Buildup Rate by 80%.,Tăng Tốc Độ Tích Lũy Thiên Hài trị thêm 80%.
+lang_multi_text.db,MultiText,RogueBuffPool_2690065_BuffDesc_0,偏谐值累积效率中幅提升。,Moderately increases Off-Tune Buildup Rate.,Tăng vừa Tốc Độ Tích Lũy Thiên Hài trị.
+lang_multi_text.db,MultiText,RogueBuffPool_2690065_BuffName,机动战靴Ⅱ,Mobile Combat Boots II,Giày Chiến Đấu Cơ Động Ⅱ
+lang_multi_text.db,MultiText,RogueBuffPool_2690066_BuffDesc,偏谐值累积效率提升120%。,Increase Off-Tune Buildup Rate by 120%.,Tăng Tốc Độ Tích Lũy Thiên Hài trị thêm 120%.
+lang_multi_text.db,MultiText,RogueBuffPool_2690066_BuffDesc_0,偏谐值累积效率大幅提升。,Greatly increases Off-Tune Buildup Rate.,Tăng lớn Tốc Độ Tích Lũy Thiên Hài trị.
+lang_multi_text.db,MultiText,RogueBuffPool_2690066_BuffName,机动战靴Ⅲ,Mobile Combat Boots III,Giày Chiến Đấu Cơ Động Ⅲ
+lang_multi_text.db,MultiText,RogueBuffPool_2690067_BuffDesc,角色造成震谐伤害后，队伍中的角色造成的伤害无视目标5%全抗性，持续10秒，可叠10层，持续时间结束清除全部层数。,"After dealing Tune Rupture DMG, Resonators in the team now ignore 5% of the target's RES to all Attributes when dealing damage for 10s, stacking up to 10 times. All stacks are removed when the duration ends.","Sau khi nhân vật gây sát thương Chấn Hài, các nhân vật trong đội khi gây sát thương sẽ bỏ qua 5% toàn kháng tính của mục tiêu, kéo dài 10 giây, cộng dồn tối đa 10 tầng. Khi hết thời gian, toàn bộ tầng bị xóa."
+lang_multi_text.db,MultiText,RogueBuffPool_2690067_BuffDesc_0,角色造成震谐伤害后，使队伍中的角色造成伤害无视目标全抗性。,"After dealing Tune Rupture DMG, Resonators in the team now ignore the target's RES to all Attributes when dealing damage.","Sau khi nhân vật gây sát thương Chấn Hài, các nhân vật trong đội khi gây sát thương sẽ bỏ qua toàn kháng tính của mục tiêu."
+lang_multi_text.db,MultiText,RogueBuffPool_2690067_BuffName,“全知之眼”,"""All-Seeing Eye""","""Mắt Toàn Tri"""
+lang_multi_text.db,MultiText,RogueBuffPool_2690068_BuffDesc,角色对【集谐·干涉】状态下的目标造成伤害时，目标每有一层【集谐·干涉】使本次伤害造成的暴击伤害提升30%，至多提升120%。,"When the Resonator deals damage to enemies under Tune Strain - Interfered, each stack of Tune Strain - Interfered increases the Crit. DMG of this attack by 30%, up to a maximum of 120%.","Khi nhân vật gây sát thương lên mục tiêu trong trạng thái [Tập Hài - Can Thiệp], mỗi tầng [Tập Hài - Can Thiệp] trên mục tiêu sẽ tăng sát thương bạo kích của đòn đánh này thêm 30%, tối đa tăng 120%."
+lang_multi_text.db,MultiText,RogueBuffPool_2690068_BuffDesc_0,角色对【集谐·干涉】状态的目标造成的暴击伤害提升。,Increases the damage dealt to enemies under Tune Strain - Interfered.,Tăng sát thương bạo kích của nhân vật lên mục tiêu trong trạng thái [Tập Hài - Can Thiệp].
+lang_multi_text.db,MultiText,RogueBuffPool_2690068_BuffName,血债,Blood Debt,Nợ Máu
+lang_multi_text.db,MultiText,RogueBuffPool_2690069_BuffDesc,角色每0.8%偏谐值累积效率提升自身1点谐度破坏增幅。,"For every 0.8% Off-Tune Level Buildup Rate increase, the Resonator gains 1 Tune Break Boost.","Cứ mỗi 0.8% Tốc Độ Tích Lũy Thiên Hài trị, nhân vật tăng thêm 1 điểm Khuếch Đại Phá Hài Độ."
+lang_multi_text.db,MultiText,RogueBuffPool_2690069_BuffDesc_0,角色根据偏谐值累积效率提升自身谐度破坏增幅。,Resonator gains Tune Break Boost based on Off-Tune Level Buildup Rate increase.,Nhân vật tăng Khuếch Đại Phá Hài Độ dựa trên Tốc Độ Tích Lũy Thiên Hài trị.
+lang_multi_text.db,MultiText,RogueBuffPool_2690069_BuffName,藏锋,Hidden Blade,Tàng Phong
+lang_multi_text.db,MultiText,RogueBuffPool_2690070_BuffDesc,获得「徽记·热焰」、「徽记·飓风」、「徽记·雷暴」、「徽记·冰绽」。,"Obtain [Blaze Sigil], [Hurricane Sigil], [Thunder Sigil], and [Blizzard Sigil].","Nhận được ""Huy Ký - Hỏa Viêm"", ""Huy Ký - Cuồng Phong"", ""Huy Ký - Lôi Bạo"", ""Huy Ký - Băng Tỏa""."
+lang_multi_text.db,MultiText,RogueBuffPool_2690070_BuffDesc_0,获得「徽记·热焰」、「徽记·飓风」、「徽记·雷暴」、「徽记·冰绽」。,"Obtain [Blaze Sigil], [Hurricane Sigil], [Thunder Sigil], and [Blizzard Sigil].","Nhận được ""Huy Ký - Hỏa Viêm"", ""Huy Ký - Cuồng Phong"", ""Huy Ký - Lôi Bạo"", ""Huy Ký - Băng Tỏa""."
+lang_multi_text.db,MultiText,RogueBuffPool_2690070_BuffName,指南针,Compass,La Bàn
+lang_multi_text.db,MultiText,RogueBuffPool_2690071_BuffDesc,「解梦状态」下，每秒使附近所有目标进入【震谐·偏移】状态。进入「解梦状态」时也将触发该效果。,"When in [Divined Dream], inflict all nearby targets with Tune Rupture - Interfered every second. This effect is also triggered upon entering [Divined Dream].","Trong ""Trạng Thái Giải Mộng"", mỗi giây khiến tất cả mục tiêu gần đó rơi vào trạng thái[Chấn Hài - Lệch Pha]. Hiệu ứng này cũng được kích hoạt khi bước vào ""Trạng Thái Giải Mộng""."
+lang_multi_text.db,MultiText,RogueBuffPool_2690071_BuffDesc_0,「解梦状态」下，每秒使附近所有目标进入【震谐·偏移】状态。,"While in [Divined Dream], inflict all nearby targets with Tune Rupture - Interfered every second.","Trong ""Trạng Thái Giải Mộng"", mỗi giây khiến tất cả mục tiêu gần đó rơi vào trạng thái[Chấn Hài - Lệch Pha]."
+lang_multi_text.db,MultiText,RogueBuffPool_2690071_BuffName,吊坠·震谐,Pendant: Tune Rupture,Mặt Dây - Chấn Hài
+lang_multi_text.db,MultiText,RogueBuffPool_2690072_BuffDesc,「解梦状态」下，每秒使附近所有目标进入【集谐·偏移】状态。进入「解梦状态」时也将触发该效果。,"When in [Divined Dream], inflict all nearby targets with Tune Strain - Shifting every second. This effect is also triggered upon entering [Divined Dream].","Trong ""Trạng Thái Giải Mộng"", mỗi giây khiến tất cả mục tiêu gần đó rơi vào trạng thái[Tập Hài - Lệch Pha]. Hiệu ứng này cũng được kích hoạt khi bước vào ""Trạng Thái Giải Mộng""."
+lang_multi_text.db,MultiText,RogueBuffPool_2690072_BuffDesc_0,「解梦状态」下，每秒使附近所有目标进入【集谐·偏移】状态。,"When in [Divined Dream], inflict all nearby targets with Tune Strain - Shifting every second.","Trong ""Trạng Thái Giải Mộng"", mỗi giây khiến tất cả mục tiêu gần đó rơi vào trạng thái[Tập Hài - Lệch Pha]."
+lang_multi_text.db,MultiText,RogueBuffPool_2690072_BuffName,吊坠·集谐,Pendant: Tune Strain,Mặt Dây - Tập Hài
+lang_multi_text.db,MultiText,RogueBuffPool_2690073_BuffDesc,「解梦状态」下，「徽记·热焰」每次造成伤害时，将额外对目标造成一次1500%的热熔伤害，视为震谐伤害。,"When in [Divined Dream], [Blaze Sigil] deals additional 1500% Fusion DMG to the target when dealing damage, considered as Tune Rupture DMG.","Trong ""Trạng Thái Giải Mộng"", mỗi lần ""Huy Ký - Hỏa Viêm"" gây sát thương, sẽ gây thêm một lần sát thương Hỏa Liệt bằng 1500% lên mục tiêu, tính là sát thương Chấn Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_2690073_BuffDesc_0,「解梦状态」下，「徽记·热焰」每次造成伤害时，将额外造成震谐伤害。,"When in [Divined Dream], each hit of [Blaze Sigil] triggers additional Tune Rupture DMG.","Trong ""Trạng Thái Giải Mộng"", mỗi lần ""Huy Ký - Hỏa Viêm"" gây sát thương, sẽ gây thêm sát thương Chấn Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_2690073_BuffName,秘钥·热焰,Key: Blaze,Bí Chìa - Hỏa Viêm
+lang_multi_text.db,MultiText,RogueBuffPool_2690074_BuffDesc,「解梦状态」下，「徽记·飓风」每次造成伤害时，将额外对目标造成一次4000%的气动伤害，视为震谐伤害。,"When in [Divined Dream], [Hurricane Sigil] deals additional 4000% Aero DMG to the target when dealing damage, considered as Tune Rupture DMG.","Trong ""Trạng Thái Giải Mộng"", mỗi lần ""Huy Ký - Cuồng Phong"" gây sát thương, sẽ gây thêm một lần sát thương Khí Động bằng 4000% lên mục tiêu, tính là sát thương Chấn Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_2690074_BuffDesc_0,「解梦状态」下，「徽记·飓风」每次造成伤害时，将额外造成震谐伤害。,"When in [Divined Dream], each hit of [Hurricane Sigil] triggers additional Tune Rupture DMG.","Trong ""Trạng Thái Giải Mộng"", mỗi lần ""Huy Ký - Cuồng Phong"" gây sát thương, sẽ gây thêm sát thương Chấn Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_2690074_BuffName,秘钥·飓风,Key: Hurricane,Bí Chìa - Cuồng Phong
+lang_multi_text.db,MultiText,RogueBuffPool_2690075_BuffDesc,「解梦状态」下，「徽记·雷暴」每次造成伤害时，将额外对目标造成一次4000%的导电伤害，视为震谐伤害。,"When in [Divined Dream], [Thunder Sigil] deals additional 4000% Electro DMG to the target when dealing damage, considered as Tune Rupture DMG.","Trong ""Trạng Thái Giải Mộng"", mỗi lần ""Huy Ký - Lôi Bạo"" gây sát thương, sẽ gây thêm một lần sát thương Điện Từ bằng 4000% lên mục tiêu, tính là sát thương Chấn Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_2690075_BuffDesc_0,「解梦状态」下，「徽记·雷暴」每次造成伤害时，将额外造成震谐伤害。,"When in [Divined Dream], each hit of [Thunder Sigil] triggers additional Tune Rupture DMG.","Trong ""Trạng Thái Giải Mộng"", mỗi lần ""Huy Ký - Lôi Bạo"" gây sát thương, sẽ gây thêm sát thương Chấn Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_2690075_BuffName,秘钥·雷暴,Key: Thunder,Bí Chìa - Lôi Bạo
+lang_multi_text.db,MultiText,RogueBuffPool_2690076_BuffDesc,「解梦状态」下，「徽记·冰绽」每次造成伤害时，将额外对目标造成一次9000%的冷凝伤害，视为震谐伤害。,"When in [Divined Dream], [Blizzard Sigil] deals additional 9000% Glacio DMG to the target when dealing damage, considered as Tune Rupture DMG.","Trong ""Trạng Thái Giải Mộng"", mỗi lần ""Huy Ký - Băng Tỏa"" gây sát thương, sẽ gây thêm một lần sát thương Ngưng Băng bằng 9000% lên mục tiêu, tính là sát thương Chấn Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_2690076_BuffDesc_0,「解梦状态」下，「徽记·冰绽」每次造成伤害时，将额外造成震谐伤害。,"When in [Divined Dream], each hit of [Blizzard Sigil] triggers additional Tune Rupture DMG.","Trong ""Trạng Thái Giải Mộng"", mỗi lần ""Huy Ký - Băng Tỏa"" gây sát thương, sẽ gây thêm sát thương Chấn Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_2690076_BuffName,秘钥·冰绽,Key: Blizzard,Bí Chìa - Băng Tỏa
+lang_multi_text.db,MultiText,RogueBuffPool_900000010022_BuffDesc,<color=#c49e55>【普攻】</color>普攻伤害提升{0}。,<color=#c49e55>[Basic Attack]</color> Basic Attack DMG is increased by {0}.,<color=#c49e55>[Đánh Thường]</color>Sát thương Đánh Thường tăng {0}.
+lang_multi_text.db,MultiText,RogueBuffPool_900000010022_BuffDesc_0,<color=#c49e55>【普攻】</color>大幅提升普攻伤害,<color=#c49e55>[Basic Attack]</color> Basic Attack DMG significantly increased.,<color=#c49e55>[Đánh Thường]</color>Tăng đáng kể sát thương Đánh Thường.
+lang_multi_text.db,MultiText,RogueBuffPool_900000010022_BuffDesc_1,技巧训练Ⅰ,Technique Training I,Luyện Kỹ Thuật I
+lang_multi_text.db,MultiText,RogueBuffPool_900000010023_BuffDesc,<color=#c49e55>【重击】</color>重击伤害提升{0}。,<color=#c49e55>[Heavy Attack]</color> Heavy Attack DMG is increased by {0}.,<color=#c49e55>[Đánh Mạnh]</color> Sát thương Đánh Mạnh tăng {0}.
+lang_multi_text.db,MultiText,RogueBuffPool_900000010023_BuffDesc_0,<color=#c49e55>【重击】</color>大幅提升重击伤害,<color=#c49e55>[Heavy Attack]</color> Heavy Attack DMG significantly increased.,<color=#c49e55>[Đánh Mạnh]</color> Sát thương Đánh Mạnh tăng đáng kể.
+lang_multi_text.db,MultiText,RogueBuffPool_900000010023_BuffDesc_1,技巧训练Ⅱ,Technique Training II,Luyện Kỹ Thuật II
+lang_multi_text.db,MultiText,RogueBuffPool_900000010024_BuffDesc,<color=#c49e55>【共鸣技能】</color>共鸣技能伤害提升{0}。,<color=#c49e55>[Resonance Skill]</color> Resonance Skill DMG is increased by {0}.,<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Sát thương Kỹ Năng Cộng Hưởng tăng {0}.
+lang_multi_text.db,MultiText,RogueBuffPool_900000010024_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>大幅提升共鸣技能伤害,<color=#c49e55>[Resonance Skill]</color> Resonance Skill DMG significantly increased.,<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Sát thương Kỹ Năng Cộng Hưởng tăng đáng kể.
+lang_multi_text.db,MultiText,RogueBuffPool_900000010024_BuffDesc_1,共鸣强化,Resonance Enhancement,Cường Hóa Cộng Hưởng
+lang_multi_text.db,MultiText,RogueBuffPool_900000010025_BuffDesc,<color=#c49e55>【共鸣解放】</color>共鸣解放伤害提升{0}。,<color=#c49e55>[Resonance Liberation]</color> Resonance Liberation DMG is increased by {0}.,<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Sát thương Giải Phóng Cộng Hưởng tăng {0}.
+lang_multi_text.db,MultiText,RogueBuffPool_900000010025_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>大幅提升共鸣解放伤害,<color=#c49e55>[Resonance Liberation]</color> Resonance Liberation DMG significantly increased.,<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Sát thương Giải Phóng Cộng Hưởng tăng đáng kể.
+lang_multi_text.db,MultiText,RogueBuffPool_900000010025_BuffDesc_1,共鸣响彻,Resonance oversounding,Cộng Hưởng Vang Vọng
+lang_multi_text.db,MultiText,RogueBuffPool_900001000010_BuffDesc,存在异常，如有疑问请联系官方客服,"When you generate elemental orbs, lose 30% of your current HP, and gain a continuous HP restoration effect (restoring 5% of max HP every 1.5s, lasting for 9s).","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900001000010_BuffName,存在异常，如有疑问请联系官方客服,Character Token 1,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900001000020_BuffDesc,存在异常，如有疑问请联系官方客服,"When you generate elemental orbs, gain 10 Resonance Energy","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900001000020_BuffDesc_0,存在异常，如有疑问请联系官方客服,Gain a small amount of Resonance Energy when casting Intro Skill,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900001000020_BuffName,存在异常，如有疑问请联系官方客服,Character Token 2,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900001000030_BuffDesc,存在异常，如有疑问请联系官方客服,"Within 2s after you generate elemental orbs, the next incoming Character from using Character Token deals holy damage (5% of enemy's max HP).","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900001000030_BuffName,存在异常，如有疑问请联系官方客服,Character Token 3,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900100000000_BuffDesc,<color=#ffd12f>【共鸣】</color>共鸣技能冷却时间减少30%,<color=#ffd12f>[Resonance Skill]</color> Cooldown of Resonance Skill is reduced by 30%.,<color=#ffd12f>[Cộng Hưởng]</color> Thời gian hồi Kỹ Năng Cộng Hưởng giảm 30%.
+lang_multi_text.db,MultiText,RogueBuffPool_900100000000_BuffDesc_0,<color=#ffd12f>【共鸣】</color>减少共鸣技能冷却时间,<color=#ffd12f>[Resonance Skill]</color> Cooldown of Resonance Skill reduced.,<color=#ffd12f>[Cộng Hưởng]</color> Giảm thời gian hồi Kỹ Năng Cộng Hưởng.
+lang_multi_text.db,MultiText,RogueBuffPool_900100000000_BuffName,导热零件,Thermal-Conduction Parts,Linh Kiện Dẫn Nhiệt
+lang_multi_text.db,MultiText,RogueBuffPool_900100000002_BuffDesc,"<color=#ffd12f>【共鸣】</color>共鸣技能命中目标后，共鸣效率提升20%，持续12秒,每12秒可触发1次。","<color=#ffd12f>[Resonance Skill]</color> After Resonance Skill hits a target, Energy Regen is increased by 20% for 12s. This can be triggered once every 12s.","<color=#ffd12f>[Cộng Hưởng]</color> Sau khi Kỹ Năng Cộng Hưởng trúng mục tiêu, hiệu suất cộng hưởng tăng 20%, kéo dài 12 giây, mỗi 12 giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_900100000002_BuffDesc_0,<color=#ffd12f>【共鸣】</color>共鸣技能命中后，大幅提升共鸣效率,<color=#ffd12f>[Resonance Skill]</color> Energy Regen greatly increased after Resonance Skill hits a target.,"<color=#ffd12f>[Cộng Hưởng]</color> Sau khi Kỹ Năng Cộng Hưởng trúng, hiệu suất cộng hưởng tăng đáng kể."
+lang_multi_text.db,MultiText,RogueBuffPool_900100000002_BuffName,旧式装置Ⅱ,Old Device II,Thiết Bị Cũ II
+lang_multi_text.db,MultiText,RogueBuffPool_9001100000001_BuffName,存在异常，如有疑问请联系官方客服,Attack 1,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900110000000_BuffDesc,存在异常，如有疑问请联系官方客服,"For every common enemy defeated, you gain a 2% permanent ATK bonus (effective throughout this investigation, up to 15 stacks).","Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_900110000000_BuffDesc_0,存在异常，如有疑问请联系官方客服,ATK permanently increased after defeating common enemies.,"Phát hiện bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ chính thức."
+lang_multi_text.db,MultiText,RogueBuffPool_9001100000011_BuffName,存在异常，如有疑问请联系官方客服,Universal Stat 1,Ngọn lửa cứ bùng cháy mãi...
+lang_multi_text.db,MultiText,RogueBuffPool_900110000001_BuffDesc,存在异常，如有疑问请联系官方客服,"After each Dodge, gain an 18% DEF bonus for 12s, stacking up to 2 times.",Ngọn lửa cứ bùng cháy mãi...
+lang_multi_text.db,MultiText,RogueBuffPool_900110000001_BuffDesc_0,存在异常，如有疑问请联系官方客服,DEF increased after Dodge.,Ngọn lửa cứ bùng cháy mãi...
+lang_multi_text.db,MultiText,RogueBuffPool_9001100000021_BuffName,存在异常，如有疑问请联系官方客服,Universal Stat 2,Ngọn lửa cứ bùng cháy mãi...
+lang_multi_text.db,MultiText,RogueBuffPool_900110000002_BuffDesc,存在异常，如有疑问请联系官方客服,"For each elite enemy defeated, gain a 15% permanent increase in max HP (effective throughout this investigation, up to 3 stacks).",Ngọn lửa cứ bùng cháy mãi...
+lang_multi_text.db,MultiText,RogueBuffPool_900110000002_BuffDesc_0,存在异常，如有疑问请联系官方客服,Max HP permanently increased after defeating Elite enemies.,Ngọn lửa cứ bùng cháy mãi...
+lang_multi_text.db,MultiText,RogueBuffPool_900110000003_BuffDesc,<color=#ffd12f>【暴击】</color>暴击提升8%。,<color=#ffd12f>[Crit. Hit]</color> Crit. Rate is increased by 8%.,<color=#ffd12f>[Bạo Kích]</color> Tỷ lệ bạo kích tăng 8%.
+lang_multi_text.db,MultiText,RogueBuffPool_900110000003_BuffDesc_0,<color=#ffd12f>【暴击】</color>小幅提升暴击,<color=#ffd12f>[Crit. Hit]</color> Crit. Rate slightly increased.,<color=#ffd12f>[Bạo Kích]</color> Tăng nhẹ tỷ lệ bạo kích.
+lang_multi_text.db,MultiText,RogueBuffPool_900110000003_BuffName,血债,Blood for Blood,Nợ Máu
+lang_multi_text.db,MultiText,RogueBuffPool_900110000004_BuffDesc,<color=#ffd12f>【暴击】</color>暴击伤害提升16%。,<color=#ffd12f>[Crit. Hit]</color> Crit. DMG is increased by 16%.,<color=#ffd12f>[Bạo Kích]</color> Sát thương bạo kích tăng 16%.
+lang_multi_text.db,MultiText,RogueBuffPool_900110000004_BuffDesc_0,<color=#ffd12f>【暴击】</color>小幅提升暴击伤害,<color=#ffd12f>[Crit. Hit]</color> Crit. DMG slightly increased.,<color=#ffd12f>[Bạo Kích]</color> Tăng nhẹ sát thương bạo kích.
+lang_multi_text.db,MultiText,RogueBuffPool_900110000004_BuffName,毁灭者银币,Destroyer's Silver,Đồng Bạc Kẻ Hủy Diệt

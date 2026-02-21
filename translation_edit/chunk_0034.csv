@@ -1,101 +1,239 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_error_code.db,ErrorCode,17,敏感词接口响应内容为空，请重试。,,"Nội dung phản hồi kiểm tra từ nhạy cảm trống, vui lòng thử lại."
-lang_error_code.db,ErrorCode,18,敏感词检测异常，请重试。,,"Phát hiện từ nhạy cảm bất thường, vui lòng thử lại."
-lang_error_code.db,ErrorCode,19,注册已关闭,,Đăng ký đã đóng
-lang_error_code.db,ErrorCode,20,注册人数已满,,Số lượng đăng ký đã đầy
-lang_error_code.db,ErrorCode,21,没有创建角色,,Chưa tạo nhân vật
-lang_error_code.db,ErrorCode,22,非法的角色名,,Tên nhân vật không hợp lệ
-lang_error_code.db,ErrorCode,23,创建角色失败,,Tạo nhân vật thất bại
-lang_error_code.db,ErrorCode,24,创建角色失败,,Tạo nhân vật thất bại
-lang_error_code.db,ErrorCode,25,玩家已登录,,Người chơi đã đăng nhập
-lang_error_code.db,ErrorCode,26,玩家正在登录,,Người chơi đang đăng nhập
-lang_error_code.db,ErrorCode,27,账号断线重连中，请稍后重试。,,"Tài khoản đang kết nối lại, vui lòng thử lại sau."
-lang_error_code.db,ErrorCode,28,重新登录,,Đăng nhập lại
-lang_error_code.db,ErrorCode,29,查询玩家数据失败,,Truy vấn dữ liệu người chơi thất bại
-lang_error_code.db,ErrorCode,30,校验玩家数据失败,,Xác minh dữ liệu người chơi thất bại
-lang_error_code.db,ErrorCode,31,校验玩家数据失败。请更换新账号或联系服务端值班同学清档。,,Xác minh dữ liệu người chơi thất bại. Vui lòng đổi tài khoản mới hoặc liên hệ nhân viên trực máy chủ để xóa dữ liệu.
-lang_error_code.db,ErrorCode,32,登录异常，请稍后重试或联系客服。,,"Đăng nhập bất thường, vui lòng thử lại sau hoặc liên hệ bộ phận hỗ trợ."
-lang_error_code.db,ErrorCode,33,账号在别处登录,,Tài khoản đã đăng nhập ở nơi khác
-lang_error_code.db,ErrorCode,34,您的账号因违规行为已被封禁，如有疑问可联系官方客服。,,"Tài khoản của bạn đã bị khóa do vi phạm quy định. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ chính thức."
-lang_error_code.db,ErrorCode,35,数据量过大，请等待15分钟后再进行登录,,"Dung lượng dữ liệu quá lớn, vui lòng đợi 15 phút rồi đăng nhập lại"
-lang_error_code.db,ErrorCode,36,您已被踢下线,,Bạn đã bị đá khỏi trò chơi
-lang_error_code.db,ErrorCode,37,游戏版本号不匹配,,Phiên bản trò chơi không khớp
-lang_error_code.db,ErrorCode,38,更新器版本号过低，请重启更新游戏,,"Phiên bản trình cập nhật quá thấp, vui lòng khởi động lại và cập nhật trò chơi"
-lang_error_code.db,ErrorCode,39,资源版本号过低，请重启更新游戏,,"Phiên bản tài nguyên quá thấp, vui lòng khởi động lại và cập nhật trò chơi"
-lang_error_code.db,ErrorCode,40,武器默认,,Vũ khí mặc định
-lang_error_code.db,ErrorCode,41,武器等级限制,,Giới hạn cấp vũ khí
-lang_error_code.db,ErrorCode,42,武器突破限制,,Giới hạn đột phá vũ khí
-lang_error_code.db,ErrorCode,43,消耗道具不足,,Không đủ vật phẩm tiêu hao
-lang_error_code.db,ErrorCode,44,武器背包已满,,Túi vũ khí đã đầy
-lang_error_code.db,ErrorCode,45,找不到配置表,,Không tìm thấy bảng cấu hình
-lang_error_code.db,ErrorCode,46,"角色已激活, 无法再激活",,"Nhân vật đã kích hoạt, không thể kích hoạt lại"
-lang_error_code.db,ErrorCode,47,"角色未激活, 无法操作",,"Nhân vật chưa kích hoạt, không thể thao tác"
-lang_error_code.db,ErrorCode,48,突破等级不足,,Cấp đột phá không đủ
-lang_error_code.db,ErrorCode,49,"等级不足, 无法突破",,"Cấp không đủ, không thể đột phá"
-lang_error_code.db,ErrorCode,50,执行函数异常,,Lỗi thực thi hàm
-lang_error_code.db,ErrorCode,51,角色不可兑换,,Nhân vật không thể đổi
-lang_error_code.db,ErrorCode,52,角色共鸣未激活,,Cộng hưởng nhân vật chưa kích hoạt
-lang_error_code.db,ErrorCode,53,角色共鸣已激活,,Cộng hưởng nhân vật đã kích hoạt
-lang_error_code.db,ErrorCode,54,经验物品配置错误,,Lỗi cấu hình vật phẩm kinh nghiệm
-lang_error_code.db,ErrorCode,55,"等级达到最高, 无法升级",,"Đã đạt cấp tối đa, không thể nâng cấp"
-lang_error_code.db,ErrorCode,56,角色前置共鸣未激活,,Cộng hưởng tiên quyết của nhân vật chưa kích hoạt
-lang_error_code.db,ErrorCode,57,角色解锁条件找不到,,Không tìm thấy điều kiện mở khóa nhân vật
-lang_error_code.db,ErrorCode,58,角色解锁条件不满足,,Chưa đủ điều kiện mở khóa nhân vật
-lang_error_code.db,ErrorCode,59,角色名字无效长度,,Độ dài tên nhân vật không hợp lệ
-lang_error_code.db,ErrorCode,60,经验无效,,Kinh nghiệm không hợp lệ
-lang_error_code.db,ErrorCode,61,激活材料不足,,Không đủ nguyên liệu kích hoạt
-lang_error_code.db,ErrorCode,62,共鸣已达最大等级,,Cộng hưởng đã đạt cấp tối đa
-lang_error_code.db,ErrorCode,63,协议参数错误,,Lỗi tham số giao thức
-lang_error_code.db,ErrorCode,64,消耗物品列表为空,,Danh sách vật phẩm tiêu hao trống
-lang_error_code.db,ErrorCode,65,消耗物品列表超过最大数量,,Danh sách vật phẩm tiêu hao vượt quá số lượng tối đa
-lang_error_code.db,ErrorCode,66,消耗物品经验计算出错,,Lỗi tính toán kinh nghiệm vật phẩm tiêu hao
-lang_error_code.db,ErrorCode,67,声骸位置错误,,Vị trí Thanh Hài không hợp lệ
-lang_error_code.db,ErrorCode,68,无法替换相同的声骸,,Không thể thay thế Thanh Hài giống nhau
-lang_error_code.db,ErrorCode,69,"声骸为空, 无法卸下",,"Thanh Hài trống, không thể tháo"
-lang_error_code.db,ErrorCode,70,经验道具数量不足,,Không đủ số lượng đạo cụ kinh nghiệm
-lang_error_code.db,ErrorCode,71,角色技能获取失败,,Lấy kỹ năng nhân vật thất bại
-lang_error_code.db,ErrorCode,72,"角色好感度等级不足,无法改名",,"Cấp độ hảo cảm nhân vật chưa đủ, không thể đổi tên"
-lang_error_code.db,ErrorCode,73,技能节点类型错误,,Loại nút kỹ năng không hợp lệ
-lang_error_code.db,ErrorCode,74,技能节点已经被激活,,Nút kỹ năng đã được kích hoạt
-lang_error_code.db,ErrorCode,75,技能节点未解锁,,Nút kỹ năng chưa mở khóa
-lang_error_code.db,ErrorCode,76,剩余异能点不足,,Điểm dị năng còn lại không đủ
-lang_error_code.db,ErrorCode,77,试用角色已存在,,Nhân vật dùng thử đã tồn tại
-lang_error_code.db,ErrorCode,78,试用角色不存在,,Nhân vật dùng thử không tồn tại
-lang_error_code.db,ErrorCode,79,试用角色区域数据已存在,,Dữ liệu khu vực nhân vật dùng thử đã tồn tại
-lang_error_code.db,ErrorCode,80,试用角色行为树数据已存在,,Dữ liệu cây hành vi nhân vật dùng thử đã tồn tại
-lang_error_code.db,ErrorCode,81,试用角色区域已存在,,Khu vực nhân vật dùng thử đã tồn tại
-lang_error_code.db,ErrorCode,82,试用角色区域不存在,,Khu vực nhân vật dùng thử không tồn tại
-lang_error_code.db,ErrorCode,83,装备默认,,Trang bị mặc định
-lang_error_code.db,ErrorCode,84,装备位置无效,,Vị trí trang bị không hợp lệ
-lang_error_code.db,ErrorCode,85,装备角色无效,,Nhân vật trang bị không hợp lệ
-lang_error_code.db,ErrorCode,86,装备角色配置错误,,Cấu hình nhân vật trang bị bị lỗi
-lang_error_code.db,ErrorCode,87,无声骸配置,,Không có cấu hình Thanh Hài
-lang_error_code.db,ErrorCode,88,声骸未解锁/不存在,,Thanh Hài chưa mở khóa/không tồn tại
-lang_error_code.db,ErrorCode,89,声骸已升至最高等级,,Thanh Hài đã nâng đến cấp tối đa
-lang_error_code.db,ErrorCode,90,用于升级声骸的道具与配置不匹配,,Vật phẩm dùng để nâng cấp Thanh Hài không khớp với cấu hình
-lang_error_code.db,ErrorCode,91,"没有选中或选中道具与配置不匹配, 增加经验为0",,"Chưa chọn hoặc vật phẩm đã chọn không khớp cấu hình, kinh nghiệm tăng thêm là 0"
-lang_error_code.db,ErrorCode,92,升至等级超过当前可升至的最高等级,,Cấp nâng lên vượt quá cấp tối đa hiện có thể đạt
-lang_error_code.db,ErrorCode,93,声骸道具类型错误,,Loại vật phẩm Thanh Hài bị lỗi
-lang_error_code.db,ErrorCode,94,错误的声骸位置,,Vị trí Thanh Hài không đúng
-lang_error_code.db,ErrorCode,95,不存在声骸物品配置,,Không tồn tại cấu hình vật phẩm Thanh Hài
-lang_error_code.db,ErrorCode,96,不存在声骸物品,,Không tồn tại vật phẩm Thanh Hài
-lang_error_code.db,ErrorCode,97,声骸属性不存在,,Thuộc tính Thanh Hài không tồn tại
-lang_error_code.db,ErrorCode,98,声骸品质不存在,,Phẩm chất Thanh Hài không tồn tại
-lang_error_code.db,ErrorCode,99,声骸突破配置不存在,,Cấu hình đột phá Thanh Hài không tồn tại
-lang_error_code.db,ErrorCode,100,声骸等级不够,,Cấp Thanh Hài không đủ
-lang_error_code.db,ErrorCode,101,声骸经验材料不存在,,Vật liệu kinh nghiệm Thanh Hài không tồn tại
-lang_error_code.db,ErrorCode,102,声骸辅音属性行为配置错误,,Cấu hình hành vi thuộc tính phụ âm Thanh Hài bị lỗi
-lang_error_code.db,ErrorCode,103,声骸辅音属性条目不够,,Không đủ mục thuộc tính phụ âm Thanh Hài
-lang_error_code.db,ErrorCode,104,声骸辅音属性生成重复,,Thuộc tính phụ âm Thanh Hài bị trùng lặp khi tạo
-lang_error_code.db,ErrorCode,105,声骸辅音副属性不存在,,Thuộc tính phụ phụ âm Thanh Hài không tồn tại
-lang_error_code.db,ErrorCode,106,声骸升级配置不存在,,Cấu hình nâng cấp Thanh Hài không tồn tại
-lang_error_code.db,ErrorCode,107,声骸升级消耗物品不足,,Không đủ vật phẩm tiêu hao để nâng cấp Thanh Hài
-lang_error_code.db,ErrorCode,108,声骸强化材料锁定,,Vật liệu cường hóa Thanh Hài đã bị khóa
-lang_error_code.db,ErrorCode,109,声骸升级材料不符,,Vật liệu nâng cấp Thanh Hài không phù hợp
-lang_error_code.db,ErrorCode,110,声骸升级材料重复,,Vật liệu nâng cấp Thanh Hài bị trùng lặp
-lang_error_code.db,ErrorCode,111,声骸主音属性不存在,,Thuộc tính chủ âm Thanh Hài không tồn tại
-lang_error_code.db,ErrorCode,112,声骸成长曲线不存在,,Đường cong thành trưởng Thanh Hài không tồn tại
-lang_error_code.db,ErrorCode,113,声骸突破材料数量错误,,Số lượng vật liệu đột phá Thanh Hài bị lỗi
-lang_error_code.db,ErrorCode,114,声骸突破材料重复,,Vật liệu đột phá Thanh Hài bị trùng lặp
-lang_error_code.db,ErrorCode,115,声骸已被装备不可分解,,"Thanh Hài đã được trang bị, không thể phân giải"
-lang_error_code.db,ErrorCode,116,包含不可分解声骸,,Chứa Thanh Hài không thể phân giải
+lang_cycle_tower.db,CycleTowerBuff,19,衍射抵抗,,Kháng Quang Phổ
+lang_cycle_tower.db,CycleTowerBuff,20,幻声之主衍射属性抗性提高40%,,Tăng 40% kháng tính Quang Phổ của Chúa Ảo Thanh
+lang_cycle_tower.db,CycleTowerBuff,21,解离抵抗,,Kháng Hủy Diệt
+lang_cycle_tower.db,CycleTowerBuff,22,幻声之主解离属性抗性降低15%,,Giảm 15% kháng tính Hủy Diệt của Chúa Ảo Thanh
+lang_cycle_tower.db,CycleTowerBuff,23,解离抵抗,,Kháng Hủy Diệt
+lang_cycle_tower.db,CycleTowerBuff,24,幻声之主解离属性抗性提高40%,,Tăng 40% kháng tính Hủy Diệt của Chúa Ảo Thanh
+lang_cycle_tower.db,CycleTowerBuff,25,生命强化,,Tăng cường sinh mệnh
+lang_cycle_tower.db,CycleTowerBuff,26,幻声之主血量提高10%,,Tăng 10% máu của Chúa Ảo Thanh
+lang_cycle_tower.db,CycleTowerBuff,27,生命强化,,Tăng cường sinh mệnh
+lang_cycle_tower.db,CycleTowerBuff,28,幻声之主血量提高15%,,Tăng 15% máu của Chúa Ảo Thanh
+lang_cycle_tower.db,CycleTowerBuff,29,攻击强化,,Tăng cường tấn công
+lang_cycle_tower.db,CycleTowerBuff,30,幻声之主攻击提高10%,,Tăng 10% tấn công của Chúa Ảo Thanh
+lang_cycle_tower.db,CycleTowerBuff,31,攻击强化,,Tăng cường tấn công
+lang_cycle_tower.db,CycleTowerBuff,32,幻声之主攻击提高15%,,Tăng 15% tấn công của Chúa Ảo Thanh
+lang_cycle_tower.db,CycleTowerBuff,33,攻击强化,,Tăng cường tấn công
+lang_cycle_tower.db,CycleTowerBuff,34,幻声之主攻击提高20%,,Tăng 20% tấn công của Chúa Ảo Thanh
+lang_detection.db,MonsterDetection,1,先锋幼岩,Vanguard Junrock,Nham Thạch Tiên Phong
+lang_detection.db,MonsterDetection,2,成群活跃于矿场和山间的幻象，体型较小，危险程度较低。,"Tacet Discord commonly seen active within mines and mountainous areas, small in size, relatively low danger level.","Ảo Ảnh thường hoạt động thành bầy tại các mỏ và vùng núi, kích thước nhỏ, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,3,学名“岩宿滋养体”，自然属自然种。该幻象多集群行动，常见于矿场和山间，经常和裂变幼岩一起出现，危险程度较低。据说该幻象因其外表在新联邦大受欢迎，已有多种周边产品在售，最受好评的“绒绒幼岩”玩偶系列销售数据已破百万。,"Binomial name ""Resinacrustidum lapis"", member of the Resinacrustidum species. This Tacet Discord is often found active in packs within mines and mountainous areas, along with other Fission Junrocks, relatively low danger level.","Tên khoa học ""Thể Dinh Dưỡng Nham Túc"", thuộc tự nhiên loài tự nhiên. Ảo Ảnh này thường hoạt động theo bầy, hay gặp ở các mỏ và vùng núi, thường xuất hiện cùng Nham Thạch Phân Liệt, mức nguy hiểm thấp. Nghe đâu Ảo Ảnh này rất được yêu thích ở Tân Liên Bang nhờ ngoại hình đáng yêu, đã có nhiều sản phẩm ăn theo được bày bán, dòng búp bê ""Nham Thạch Bông"" được đánh giá cao nhất đã bán vượt mốc một triệu."
+lang_detection.db,MonsterDetection,4,裂变幼岩,Fission Junrock,Nham Thạch Phân Liệt
+lang_detection.db,MonsterDetection,5,小型自然种幻象，常群体活动，主要出现在岩体丰富的区域，危险程度较低。,"A Resinacrustidum species of small size Tacet Discords, often found active in packs. Mainly appears in areas with abundant rock masses. Danger level relatively low.","Ảo Ảnh tự nhiên cỡ nhỏ, thường hoạt động theo nhóm, chủ yếu xuất hiện ở những vùng nhiều đá, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,6,学名“岩宿裂殖体”，自然属自然种，常和先锋幼岩一同出现。和先锋幼岩不同的是，该幻象外壳上的黑石更多，能量更活跃且不稳定，在外部的冲击下容易爆炸，有被其他幻象当作投掷武器的情况。也许是受此启发，某些机构最近已经以裂变幼岩的实用化为研究方向，撰写集资计划书了。,"Binomial name ""Resinacrustidum lapis"", part of the Resinacrustidum species. This Tacet Discord is often found active, along with Vanguard Junrocks, relatively low danger level.","Tên khoa học ""Thể Liệt Thực Nham Túc"", thuộc tự nhiên loài tự nhiên, thường xuất hiện cùng Nham Thạch Tiên Phong. Khác với Nham Thạch Tiên Phong, lớp vỏ của Ảo Ảnh này chứa nhiều Hắc Thạch hơn, năng lượng mạnh hơn nhưng không ổn định, dễ nổ khi bị tác động từ bên ngoài, thậm chí có trường hợp bị các Ảo Ảnh khác dùng làm vũ khí ném. Có lẽ lấy cảm hứng từ đó, một số tổ chức gần đây đã lấy việc ứng dụng Nham Thạch Phân Liệt làm hướng nghiên cứu và bắt đầu soạn kế hoạch gọi vốn."
+lang_detection.db,MonsterDetection,7,惊蛰猎手,Impulse Predator,Kinh Trập Liệp Thủ
+lang_detection.db,MonsterDetection,8,外观近似人型的幻象，据目击者称其具有特异化上肢，可使用导电能量进行远程攻击，有一定危险性。,"Tacet Discord whose appearance resembles that of a human, has specialized upper limbs that can use conductive energy for long-range attacks. According to witnesses, and is somewhat dangerous.","Ảo Ảnh có ngoại hình gần giống người, theo lời nhân chứng, tay trên đã biến dị đặc biệt, có thể dùng năng lượng Điện Từ để tấn công tầm xa, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,9,"<color=#9656d8>【导电】</color>
+该敌人<color=#9656d8>导电伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“导电相毁伤噬声体”，失序属失序种。惊蛰猎手左侧上肢已进化为弓箭状，可聚集导电能量进行较远距离射击。“惊蛰”一词在皇龙代指雷鸣，但该幻象既没有发声能力，战斗时也几乎没有声响，当初命名的那个学者，学术严谨性是捣蛋猿教的吗？",,"<color=#9656d8>[Điện Từ]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#9656d8>sát thương Điện Từ</color>.
+
+Tên khoa học ""Thể Hủy Thương Nuốt Thanh tướng Điện Từ"", thuộc thất tự loài thất tự. Tay trên bên trái của Kinh Trập Liệp Thủ đã tiến hóa thành hình cung tên, có thể tập trung năng lượng Điện Từ để bắn từ khoảng cách xa. Từ ""Kinh Trập"" ở Hoàng Long ám chỉ tiếng sấm, nhưng Ảo Ảnh này không hề có khả năng phát ra âm thanh, khi chiến đấu cũng gần như không gây tiếng động, vị học giả đặt tên ngày đó, sự nghiêm túc trong nghiên cứu chắc do Khỉ Quậy Phá dạy cho à?"
+lang_detection.db,MonsterDetection,10,鸣泣战士,Fusion Warrior,Chiến Binh Minh Khốc
+lang_detection.db,MonsterDetection,11,外观近似人型的幻象，分布广泛。攻击方式以近距离为主，有一定危险性。,"The appearance of this Tacet Discord resembles a humanoid, widely distributed. The attacks are mainly at close range and are dangerous.","Ảo Ảnh có ngoại hình gần giống người, phân bố rộng rãi. Chủ yếu tấn công tầm gần, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,12,"<color=#e15226>【热熔】</color>
+该敌人<color=#e15226>热熔伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“热熔相效应噬声体”，失序属失序种。双侧上肢分别类似长、短枪状，可通过刺、斩进行攻击，有一定危险性。攻击过程中，该幻象存在“行礼”的举动，推测为对人类剑士的拙劣模仿。","Binomial name ""Devorsonidum fusio"", a member of the genus Devorsonidum. Bilateral upper limbs resemble long and short spears respectively, and can attack by stabbing and chopping. Moderate danger level.","<color=#e15226>[Hỏa Liệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#e15226>sát thương Hỏa Liệt</color>.
+
+Tên khoa học ""Thể Hiệu Ứng Nuốt Thanh tướng Hỏa Liệt"", thuộc thất tự loài thất tự. Hai tay trên có hình dạng giống thương dài và thương ngắn, có thể đâm, chém để tấn công, có mức nguy hiểm nhất định. Trong khi tấn công, Ảo Ảnh này có động tác ""chào"", được cho là sự bắt chước vụng về kiếm sĩ con người."
+lang_detection.db,MonsterDetection,13,审判战士,Rupture Warrior,Chiến Binh Thẩm Phán
+lang_detection.db,MonsterDetection,14,以近距离攻击为主的类人幻象，分布广泛。具备单侧特异上肢，有一定危险性。,"A humanoid Tacet Discord with a wide distribution that mainly attacks at close range. Possesses unilateral idiosyncratic upper extremity, with some risk.","Ảo Ảnh dạng người chủ yếu tấn công tầm gần, phân bố rộng rãi. Sở hữu tay trên biến dị một bên, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,15,"<color=#7e1f57>【解离】</color>
+该敌人<color=#7e1f57>解离伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“解离相效应噬声体”，失序属失序种。外观近似人类，攻击欲望强烈，具有一定危险性。该幻象身体上有类似“布料”的部分，推测为模仿人类“服饰”进化出的某种身体构造，目前功能尚不明确。","Binomial name ""Devorsonidum ruptura"", a member of the genus Disorder. Its appearance resembles that of a human, with a strong desire to attack and a certain degree of danger.","<color=#7e1f57>[Hủy Diệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#7e1f57>sát thương Hủy Diệt</color>.
+
+Tên khoa học ""Thể Hiệu Ứng Nuốt Thanh tướng Hủy Diệt"", thuộc thất tự loài thất tự. Ngoại hình gần giống con người, ham muốn tấn công mãnh liệt, có mức nguy hiểm nhất định. Trên thân Ảo Ảnh này có phần giống ""vải"", được cho là một cấu trúc cơ thể tiến hóa để bắt chước ""trang phục"" của con người, hiện tại chức năng vẫn chưa rõ."
+lang_detection.db,MonsterDetection,16,磐石护卫,Rocksteady Guardian,Bàn Thạch Hộ Vệ
+lang_detection.db,MonsterDetection,17,广泛分布的类人型幻象，据目击者称其具有特异化双臂，攻击以近距离为主，有一定危险性。,"Widespread humanoid TDs, according to eyewitnesses, have specialized arms, attack mainly at close range and are dangerous.","Ảo Ảnh dạng người phân bố rộng rãi, theo lời nhân chứng, cả hai cánh tay đều đã biến dị đặc biệt, chủ yếu tấn công tầm gần, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,18,"<color=#d4bf5f>【衍射】</color>
+该敌人<color=#d4bf5f>衍射伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“衍射相抑制噬声体”，失序属失序种。外形上已经初具人形，但举止依然较为单调，如果贸然靠近，会遭受其猛烈的冲撞和盾击……已经解决掉了？皇龙所谓的“温水斩幻象”说的其实是你吧。","Binomial name ""Devorsonidum spectrum"", a member of the genus Devorsonidum.","<color=#d4bf5f>[Quang Phổ]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#d4bf5f>sát thương Quang Phổ</color>.
+
+Tên khoa học ""Thể Ức Chế Nuốt Thanh tướng Quang Phổ"", thuộc thất tự loài thất tự. Hình dáng đã bắt đầu mang dạng người, nhưng cử chỉ vẫn còn khá đơn điệu. Nếu liều lĩnh lại gần, sẽ bị nó lao vào đâm và đập khiên dữ dội... Đã giải quyết xong rồi à? Câu ""chém Ảo Ảnh như nước ấm"" ở Hoàng Long chắc là nói về ngươi đấy nhỉ."
+lang_detection.db,MonsterDetection,19,乌咔咔,Tic Tac,Ô Ca Ca
+lang_detection.db,MonsterDetection,20,常见的小型幻象，可驱动少量解离能量进行攻击，危险度较低。,A common small Tacet Discord that can release a small amount of Havoc energy to attack. Relatively low danger level.,"Ảo Ảnh nhỏ thường gặp, có thể sử dụng một lượng nhỏ năng lượng Hủy Diệt để tấn công, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,21,"<color=#7e1f57>【解离】</color>
+该敌人<color=#7e1f57>解离伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“解离相声原体”，咕噜属咕噜种。能简单运用解离属性能量攻击，没有智能。就目前的观测记录来看，并没有如同其名般表现出与其他频率融合的强烈倾向。",,"<color=#7e1f57>[Hủy Diệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#7e1f57>sát thương Hủy Diệt</color>.
+
+Tên khoa học ""Thanh Nguyên Thể tướng Hủy Diệt"", thuộc Cô Lô loài Cô Lô. Có thể dùng năng lượng thuộc tính Hủy Diệt đơn giản để tấn công, không có trí tuệ. Theo các ghi chép quan sát hiện tại, nó không hề thể hiện xu hướng hòa nhập mạnh mẽ với các tần số khác như cái tên gợi ý."
+lang_detection.db,MonsterDetection,22,呼咻咻,Whiff Whoosh,Hô Xiu Xiu
+lang_detection.db,MonsterDetection,23,常见的小型幻象，可驱动少量气动能量进行攻击，危险度较低。,A common small Tacet Discord that can release a small amount of Aero energy to attack. Relatively low danger level.,"Ảo Ảnh nhỏ thường gặp, có thể sử dụng một lượng nhỏ năng lượng Khí Động để tấn công, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,24,"<color=#46c3d4>【气动】</color>
+该敌人<color=#46c3d4>气动伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“气动相声原体”，咕噜属咕噜种。没有智能，其“头部”聚集的气动能量团可发出“咻咻”的声音，被戏称为“呼咻咻”。",,"<color=#46c3d4>[Khí Động]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#46c3d4>sát thương Khí Động</color>.
+
+Tên khoa học ""Thanh Nguyên Thể tướng Khí Động"", thuộc Cô Lô loài Cô Lô. Không có trí tuệ, khối năng lượng Khí Động tập trung ở ""đầu"" có thể phát ra tiếng ""xiu xiu"", nên được gọi đùa là ""Hô Xiu Xiu""."
+lang_detection.db,MonsterDetection,25,咔嚓嚓,Snip Snap,Ca Sách Sách
+lang_detection.db,MonsterDetection,26,常见的小型幻象，可驱动少量热熔能量进行攻击，危险度较低。,A common small size Tacet Discord that can release a small amount of Fusion energy to attack. Relatively low danger level.,"Ảo Ảnh nhỏ thường gặp, có thể sử dụng một lượng nhỏ năng lượng Hỏa Liệt để tấn công, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,27,"<color=#e15226>【热熔】</color>
+该敌人<color=#e15226>热熔伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“热熔相声原体”，咕噜属咕噜种。没有智能，因形体类似炉钳而得名，热熔能量水平较低。捕获后不能用于野外生火。",,"<color=#e15226>[Hỏa Liệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#e15226>sát thương Hỏa Liệt</color>.
+
+Tên khoa học ""Thanh Nguyên Thể tướng Hỏa Liệt"", thuộc Cô Lô loài Cô Lô. Không có trí tuệ, được đặt tên vì hình dạng giống cái kẹp lò, mức năng lượng Hỏa Liệt khá thấp. Sau khi bắt được không thể dùng để nhóm lửa ngoài trời."
+lang_detection.db,MonsterDetection,28,阿兹兹,Zig Zag,A Zi Zi
+lang_detection.db,MonsterDetection,29,常见的小型幻象，可驱动少量衍射能量进行攻击，危险度较低。,A common small Tacet Discord that can releas a small amount of Spectra energy to attack. Relatively low danger level.,"Ảo Ảnh nhỏ thường gặp, có thể sử dụng một lượng nhỏ năng lượng Quang Phổ để tấn công, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,30,学名“衍射相声原体”，咕噜属咕噜种。因没有智能，行为逻辑简单而得名。由于其衍射能量水平低下，新联邦学界近期提出一种猜想，认为目前其外观可能并非完整形态。,"Scientifically named the ""Strepoplasmidum spectrum"", a member of the genus Strepoplasmidum. Gained its name due to the lack of intelligence and simple behavioral logic.","Tên khoa học ""Thanh Nguyên Thể tướng Quang Phổ"", thuộc Cô Lô loài Cô Lô. Được đặt tên vì không có trí tuệ và logic hành vi đơn giản. Do mức năng lượng Quang Phổ thấp, giới học thuật Tân Liên Bang gần đây đưa ra giả thuyết rằng ngoại hình hiện tại có thể không phải hình dạng hoàn chỉnh của nó."
+lang_detection.db,MonsterDetection,31,巡徊猎手,Pneuma Predator,Tuần Hồi Liệp Thủ
+lang_detection.db,MonsterDetection,32,该幻象外观近似身头戴礼帽的猎手，各地无音区中均有出现，远程攻击方式较为特殊，有一定危险性。,"The appearance of this TD resembles a hunter with a bowler hat on his head, appearing in Tacet Fields everywhere, with a special long-range attack and a certain degree of danger.","Ảo Ảnh này có ngoại hình giống một thợ săn đội mũ, xuất hiện ở các Vùng Vô Thanh khắp nơi, cách tấn công tầm xa khá đặc biệt, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,33,"<color=#d4bf5f>【衍射】</color>
+该敌人<color=#d4bf5f>衍射伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“气动相毁伤噬声体”，失序属失序种。与其他“猎手”序列幻象凝聚能量发动攻击不同，巡徊猎手的投掷武器是身体结构的一部分，掷出后可利用自身气动能量进行回收。这种战斗方式……好像看到了曾经在<词汇解读失败>一线的<词汇解读失败>和你呢。",,"<color=#d4bf5f>[Quang Phổ]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#d4bf5f>sát thương Quang Phổ</color>.
+
+Tên khoa học ""Thể Hủy Thương Nuốt Thanh tướng Khí Động"", thuộc thất tự loài thất tự. Khác với các Ảo Ảnh dòng ""Liệp Thủ"" khác tập trung năng lượng để tấn công, vũ khí ném của Tuần Hồi Liệp Thủ là một phần cấu trúc cơ thể, sau khi ném ra có thể dùng năng lượng Khí Động của bản thân để thu hồi. Cách chiến đấu này... có vẻ giống với <Giải mã từ vựng thất bại> từng ở tiền tuyến <Giải mã từ vựng thất bại> và ngươi nhỉ."
+lang_detection.db,MonsterDetection,34,破霜猎手,Glacio Predator,Phá Sương Liệp Thủ
+lang_detection.db,MonsterDetection,35,各地无音区中常见的类人幻象。据目击者称近似身披斗篷的猎手，可使用冷凝能量进行远程攻击，有一定危险性。,"A common humanoid TD found in Tacet Fields of across the world. According to eyewitnesses, it resembles a hunter in a cloak and can use Glacio energy for long-range attacks. Moderate danger level.","Ảo Ảnh dạng người thường gặp ở các Vùng Vô Thanh khắp nơi. Theo lời nhân chứng, nó giống một thợ săn khoác áo choàng, có thể dùng năng lượng Ngưng Băng để tấn công tầm xa, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,36,"<color=#1891e7>【冷凝】</color>
+该敌人<color=#1891e7>冷凝伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“冷凝相毁伤噬声体”，失序属失序种，已经进化出类似人类“披风”的身体结构，推测该结构可更快聚集冷凝能量，以形成“投枪”进行远距离攻击。现有绝大多数研究认为，破霜猎手模仿人类进化出这种攻击方式，但本设备推测，其模仿对象是虹镇附近灵长类异变生物的可能性更大，毕竟也只有它们还在使用投枪这种上个世纪的老古董了嘛。",,"<color=#1891e7>[Ngưng Băng]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#1891e7>sát thương Ngưng Băng</color>.
+
+Tên khoa học ""Thể Hủy Thương Nuốt Thanh tướng Ngưng Băng"", thuộc thất tự loài thất tự, đã tiến hóa ra cấu trúc cơ thể giống ""áo choàng"" của con người, được cho rằng cấu trúc này giúp tập trung năng lượng Ngưng Băng nhanh hơn, tạo thành ""lao"" để tấn công tầm xa. Phần lớn nghiên cứu hiện nay cho rằng Phá Sương Liệp Thủ bắt chước con người để tiến hóa ra cách tấn công này, nhưng thiết bị này phỏng đoán rằng đối tượng bắt chước nhiều khả năng là sinh vật linh trưởng biến dị gần Hồng Trấn, vì cũng chỉ có chúng mới còn dùng cái đồ cổ từ thế kỷ trước là lao phóng thôi mà."
+lang_detection.db,MonsterDetection,37,衍射棱镜,Spectra Prism,Lăng Kính Quang Phổ
+lang_detection.db,MonsterDetection,38,据目击报告称，该幻象经常出现于矿脉聚集地，可造成衍射属性伤害。,"According to sighting reports, this TD is often found in Tacetite vein systems and can cause Spectra damage.","Theo báo cáo quan sát, Ảo Ảnh này thường xuất hiện ở nơi tập trung mạch khoáng, có thể gây sát thương thuộc tính Quang Phổ."
+lang_detection.db,MonsterDetection,39,"<color=#d4bf5f>【衍射】</color>
+该敌人<color=#b49f50>免疫</color><color=#d4bf5f>衍射伤害</color>。
+
+衍射棱镜属于自然种幻象，其矿物外壳特殊的构造可有效约束吸收到的光子，故而有着较高的衍射能量等级，可供其进行射线攻击。数年前某国境内数量暴涨，同时传出其声骸可制成永明灯的谣言，但最终以造成四位数的事故而告终。“严禁用于照明”，摘自《声骸使用指南》……新联邦版限定。","Binomial name ""Resinacrustidum convenire"", a member of the genus Resinacrustidum. One of many low danger level Tacet Discords that are widely found across the world.","<color=#d4bf5f>[Quang Phổ]</color>
+Kẻ địch này <color=#b49f50>miễn nhiễm</color> với <color=#d4bf5f>sát thương Quang Phổ</color>.
+
+Lăng Kính Quang Phổ thuộc loài Ảo Ảnh tự nhiên, cấu trúc đặc biệt của lớp vỏ khoáng vật có thể giam giữ hiệu quả các photon hấp thụ được, nhờ đó có cấp năng lượng Quang Phổ khá cao để thực hiện tấn công bằng tia. Vài năm trước, số lượng tại một quốc gia tăng vọt, đồng thời lan truyền tin đồn rằng Thanh Hài của nó có thể chế tạo thành đèn sáng vĩnh cửu, nhưng cuối cùng kết thúc với số tai nạn lên đến bốn chữ số. ""Nghiêm cấm dùng để chiếu sáng"", trích từ ""Hướng Dẫn Sử Dụng Thanh Hài""... bản giới hạn Tân Liên Bang."
+lang_detection.db,MonsterDetection,40,冷凝棱镜,Glacio Prism,Lăng Kính Ngưng Băng
+lang_detection.db,MonsterDetection,41,据目击报告称，该幻象经常出现于矿脉聚集地，可造成冷凝属性伤害。,"According to sighting reports, this TD is often found in Tacetite vein systems and can cause Glacio damage.","Theo báo cáo quan sát, Ảo Ảnh này thường xuất hiện ở nơi tập trung mạch khoáng, có thể gây sát thương thuộc tính Ngưng Băng."
+lang_detection.db,MonsterDetection,42,"<color=#1891e7>【冷凝】</color>
+该敌人<color=#b49f50>免疫</color><color=#1891e7>冷凝伤害</color>。
+
+冷凝棱镜属于自然种幻象，外壳可与空气中的水分反应，短时间内吸收大量的热以较高自身冷凝能量等级进行攻击。据说对于一部分皇龙人来说，这种幻象最讨厌，因为很难读对它的名字。",,"<color=#1891e7>[Ngưng Băng]</color>
+Kẻ địch này <color=#b49f50>miễn nhiễm</color> với <color=#1891e7>sát thương Ngưng Băng</color>.
+
+Lăng Kính Ngưng Băng thuộc loài Ảo Ảnh tự nhiên, lớp vỏ có thể phản ứng với hơi nước trong không khí, hấp thụ lượng lớn nhiệt trong thời gian ngắn để nâng cao cấp năng lượng Ngưng Băng của bản thân mà tấn công. Nghe đâu với một bộ phận người Hoàng Long, Ảo Ảnh này khó chịu nhất, vì rất khó đọc đúng tên nó."
+lang_detection.db,MonsterDetection,43,解离棱镜,Rupture Prism,Lăng Kính Hủy Diệt
+lang_detection.db,MonsterDetection,44,据目击报告称，该幻象经常出现于矿脉聚集地，可造成解离属性伤害。,"According to sighting reports, this TD is often found in Tacetite vein systems and can cause Havoc damage.","Theo báo cáo quan sát, Ảo Ảnh này thường xuất hiện ở nơi tập trung mạch khoáng, có thể gây sát thương thuộc tính Hủy Diệt."
+lang_detection.db,MonsterDetection,45,"<color=#7e1f57>【解离】</color>
+该敌人<color=#b49f50>免疫</color><color=#7e1f57>解离伤害</color>。
+
+“解离棱镜属于自然种幻象”的说法近来在新联邦和两道饱受质疑。两道学者发表的最新论文声称，解离棱镜的外壳只是聚合的能量对其他棱镜的“拟态”。不过说到两道，该国传说集齐7个解离棱镜的声骸可以召唤奇迹……要不试试？",,"<color=#7e1f57>[Hủy Diệt]</color>
+Kẻ địch này <color=#b49f50>miễn nhiễm</color> với <color=#7e1f57>sát thương Hủy Diệt</color>.
+
+Cách nói ""Lăng Kính Hủy Diệt thuộc loài Ảo Ảnh tự nhiên"" gần đây bị nghi ngờ nhiều ở Tân Liên Bang và Lưỡng Đạo. Các học giả Lưỡng Đạo trong bài nghiên cứu mới nhất khẳng định rằng lớp vỏ của Lăng Kính Hủy Diệt chỉ là năng lượng tổng hợp ""bắt chước"" các Lăng Kính khác. Nói về Lưỡng Đạo, nước này có truyền thuyết rằng thu thập đủ 7 Thanh Hài Lăng Kính Hủy Diệt có thể triệu hồi phép màu... Hay thử xem?"
+lang_detection.db,MonsterDetection,46,热熔棱镜,Fusion Prism,Lăng Kính Hỏa Liệt
+lang_detection.db,MonsterDetection,47,据目击报告称，该幻象经常出现于矿脉聚集地，可造成热熔属性伤害。,"According to sighting reports, this TD is often found in Tacetite vein systems and can cause Fusion damage.","Theo báo cáo quan sát, Ảo Ảnh này thường xuất hiện ở nơi tập trung mạch khoáng, có thể gây sát thương thuộc tính Hỏa Liệt."
+lang_detection.db,MonsterDetection,48,"<color=#e15226>【热熔】</color>
+该敌人<color=#b49f50>免疫</color><color=#e15226>热熔伤害</color>。
+
+热熔棱镜属于自然种幻象。推测高温环境是它进化出急速升温、保温能力的直接原因。它的外壳类火山岩结构，可有效保存较多热熔能量。很多皇龙人都不明白，为什么热熔棱镜的高温不会融化自己呢？",,"<color=#e15226>[Hỏa Liệt]</color>
+Kẻ địch này <color=#b49f50>miễn nhiễm</color> với <color=#e15226>sát thương Hỏa Liệt</color>.
+
+Lăng Kính Hỏa Liệt thuộc loài Ảo Ảnh tự nhiên. Được phỏng đoán rằng môi trường nhiệt độ cao là nguyên nhân trực tiếp khiến nó tiến hóa ra khả năng tăng nhiệt và giữ nhiệt nhanh chóng. Lớp vỏ có cấu trúc giống đá núi lửa, có thể bảo tồn hiệu quả lượng lớn năng lượng Hỏa Liệt. Nhiều người Hoàng Long không hiểu, tại sao nhiệt độ cao của Lăng Kính Hỏa Liệt lại không nóng chảy chính nó nhỉ?"
+lang_detection.db,MonsterDetection,49,冥渊守卫,Chasm Guardian,Minh Uyên Hộ Vệ
+lang_detection.db,MonsterDetection,50,此类幻象多区域可见，单侧上肢特异化，类似人类单手举盾，有一定危险性。,"This type of TD is visible in multiple regions, with unilateral upper limb idiosyncrasy, similar to a human raising a shield with one hand, and is dangerous","Ảo Ảnh loại này xuất hiện ở nhiều khu vực, tay trên một bên đã biến dị, giống như con người giơ khiên một tay, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,51,"<color=#7e1f57>【解离】</color>
+该敌人<color=#7e1f57>解离伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“解离相抑制噬声体”，失序属失序种，外观已开始向人型演变，可利用单侧上肢进行挥、砸和盾击，是组成幻象战斗力的中流砥柱之一。关于通用名“冥渊守卫”，皇龙和新联邦曾争执多时。最后两道巡回学术法庭裁决取皇龙方首词、新联邦方末词，组合为名，此番争端才告一段落。","Binomial name ""Devorsonidum ruptura"", a member of the genus Devorsonidum.","<color=#7e1f57>[Hủy Diệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#7e1f57>sát thương Hủy Diệt</color>.
+
+Tên khoa học ""Thể Ức Chế Nuốt Thanh tướng Hủy Diệt"", thuộc thất tự loài thất tự, ngoại hình đã bắt đầu chuyển sang dạng người, có thể dùng tay trên một bên để vung, đập và đánh khiên, là một trong những trụ cột sức chiến đấu chính của Ảo Ảnh. Về tên gọi thông dụng ""Minh Uyên Hộ Vệ"", Hoàng Long và Tân Liên Bang đã tranh cãi rất lâu. Cuối cùng tòa án học thuật lưu động Lưỡng Đạo phán quyết lấy từ đầu của phía Hoàng Long, từ cuối của phía Tân Liên Bang, ghép lại thành tên, cuộc tranh chấp mới tạm kết thúc."
+lang_detection.db,MonsterDetection,52,坚岩斗士,Stonewall Bracer,Kiên Nham Đấu Sĩ
+lang_detection.db,MonsterDetection,53,常见于山区丘陵等地的类人幻象个体，分布广泛，有一定危险性。,"Commonly found in mountainous hills and other places of human-like TDs, widely distributed, with a certain degree of danger.","Ảo Ảnh dạng người thường gặp ở vùng núi đồi, phân bố rộng rãi, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,54,学名“岩宿成熟体”，自然属自然种。常见于山区丘陵地带，推测是由于构成其石质外壳的材料在此类地区较为充足。该幻象体型相对庞大，以冲撞、投掷石块作为主要攻击手段，有较强的作战能力，但动作迟缓笨重。,"Binomial name ""Resinacrustidum lapis"", a member of the genus Resinacrustidum.","Tên khoa học ""Thể Trưởng Thành Nham Túc"", thuộc tự nhiên loài tự nhiên. Thường gặp ở vùng núi đồi, được cho là do vật liệu cấu thành lớp vỏ đá của nó khá dồi dào ở những khu vực này. Ảo Ảnh này có thân hình khá to lớn, chủ yếu tấn công bằng cách lao đâm và ném đá, sức chiến đấu khá mạnh nhưng động tác chậm chạp nặng nề."
+lang_detection.db,MonsterDetection,55,奏谕乐师,Flute Instrumentalist,Tấu Dụ Nhạc Sư
+lang_detection.db,MonsterDetection,56,类人幻象，分布广泛，多区域可见。据目击者称，攻击方式类似人类演奏管乐器，有一定危险性。,"Human-like TD, widely distributed and visible in multiple regions. According to eyewitnesses, the attack is similar to humans playing wind instruments and is somewhat dangerous.","Ảo Ảnh dạng người, phân bố rộng rãi, xuất hiện ở nhiều khu vực. Theo lời nhân chứng, cách tấn công giống con người chơi nhạc cụ hơi, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,57,"<color=#9656d8>【导电】</color>
+该敌人<color=#9656d8>导电伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“导电相记忆噬声体”，失序属失序种。外观上存在类似“飘带”的身体结构，推测能够用来迅速聚集导电属性能量。奏谕乐师持有的“长笛”实际上并无法吹奏，只是对人类行为的拙劣模仿。但幻象学家们至今都没弄明白，它们究竟是从哪里接触到“演奏”这种活动的。","Binomial name ""Devorsonidum impulsio"", a member of the genus Devorsonidum.","<color=#9656d8>[Điện Từ]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#9656d8>sát thương Điện Từ</color>.
+
+Tên khoa học ""Thể Ký Ức Nuốt Thanh tướng Điện Từ"", thuộc thất tự loài thất tự. Trên thân có cấu trúc giống ""dải lụa"", được cho là có thể dùng để tập trung năng lượng thuộc tính Điện Từ nhanh chóng. ""Sáo"" mà Tấu Dụ Nhạc Sư cầm thực ra không thể thổi được, chỉ là sự bắt chước vụng về hành vi con người. Nhưng các nhà nghiên cứu Ảo Ảnh đến giờ vẫn không hiểu, chúng tiếp xúc với hoạt động ""biểu diễn"" từ đâu."
+lang_detection.db,MonsterDetection,58,蛊魂乐师,Tambourine Instrumentalist,Cổ Hồn Nhạc Sư
+lang_detection.db,MonsterDetection,59,此类幻象分布广泛，多区域可见。目击报告显示，它们能够通过特殊攻击方式影响对手行动，有一定危险性。,Such TDs are widely distributed and visible in multiple regions. Sighting reports indicate that they are capable of influencing the actions of opponents through special attacks and are somewhat dangerous.,"Ảo Ảnh loại này phân bố rộng rãi, xuất hiện ở nhiều khu vực. Báo cáo quan sát cho thấy chúng có thể ảnh hưởng đến hành động của đối thủ thông qua cách tấn công đặc biệt, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,60,"<color=#7e1f57>【解离】</color>
+该敌人<color=#7e1f57>解离伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“解离相记忆噬声体”，失序属失序种。战斗中，该幻象可以通过类似“摇铃”的身体结构积聚解离能量，干涉对手行动。据此特点，加之首见于新联邦，学者们便以该国童话中通过摇铃蛊惑儿童的妖怪“蛊魂乐师”为其通用名。","Binomial name ""Devorsonidum ruptura"", a member of the genus Devorsonidum.","<color=#7e1f57>[Hủy Diệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#7e1f57>sát thương Hủy Diệt</color>.
+
+Tên khoa học ""Thể Ký Ức Nuốt Thanh tướng Hủy Diệt"", thuộc thất tự loài thất tự. Trong chiến đấu, Ảo Ảnh này có thể tích tụ năng lượng Hủy Diệt thông qua cấu trúc cơ thể giống ""chuông lắc"", can thiệp hành động đối thủ. Dựa trên đặc điểm này, cộng thêm lần đầu được phát hiện ở Tân Liên Bang, các học giả đã lấy tên con yêu quái ""Cổ Hồn Nhạc Sư"" - kẻ mê hoặc trẻ em bằng tiếng chuông trong truyện cổ tích nước này - làm tên gọi thông dụng."
+lang_detection.db,MonsterDetection,61,咕咕河豚,Gulpuff,Cô Cô Hà Đồn
+lang_detection.db,MonsterDetection,62,小型水生异变生物，多见于淡水水网，似乎有偷袭猎物的习性，危险度较低。,"Small aquatic Mutant Organism, mostly found in freshwater networks, seem to have a habit of sneaking up on their prey and are less dangerous.","Sinh vật biến dị thủy sinh nhỏ, thường thấy ở các vùng nước ngọt, dường như có thói quen phục kích con mồi, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,63,"<color=#1891e7>【冷凝】</color>
+该敌人<color=#1891e7>冷凝伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“潜浮鲀”的小型水生异变动物，在所有淡水水网中广泛存在。其头顶的浮萍状草叶是一种伪装，帮助它藏在水下偷袭猎物。但不知道为什么有“用咕咕河豚的草叶遮住脸，就无法被其他人看见”的奇妙说法流传。","Binomial name ""Tetraodon lateo"", a Mutant Organism of the genus Tetraodon.","<color=#1891e7>[Ngưng Băng]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#1891e7>sát thương Ngưng Băng</color>.
+
+Sinh vật biến dị thủy sinh nhỏ có tên khoa học ""Tiềm Phù Đồn"", phân bố rộng rãi ở tất cả các vùng nước ngọt. Lá cỏ hình bèo tấm trên đỉnh đầu là một loại ngụy trang, giúp nó ẩn dưới nước để phục kích con mồi. Nhưng không hiểu sao lại có cách nói kỳ lạ lan truyền rằng ""dùng lá cỏ của Cô Cô Hà Đồn che mặt thì sẽ không ai nhìn thấy""."
+lang_detection.db,MonsterDetection,64,紫羽鹭,Violet-Feathered Heron,Tử Vũ Lộ
+lang_detection.db,MonsterDetection,65,皇龙特有的大型变异生物，常出没于皇龙境内水泽、湖泊之间，荒石高地上也有其踪影，攻击性和领地意识极强，有一定危险性。,"Large Mutant Organism unique to Huanglong, often found in the Huanglong territory between the wetlands and lakes. Desorock Highlands also have their traces, aggressive and territorial awareness is very strong, there is a certain degree of danger.","Sinh vật biến dị lớn đặc hữu của Hoàng Long, thường xuất hiện giữa các đầm lầy, hồ nước trong lãnh thổ Hoàng Long. Trên Hoang Thạch Cao Địa cũng có dấu vết của chúng, tính hung hãn và ý thức lãnh thổ cực mạnh, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,66,"<color=#9656d8>【导电】</color>
+该敌人<color=#9656d8>导电伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“复翼紫鹭”。皇龙区域特有羽鹭亚种之一。和另一个亚种“青羽鹭”习性几乎一致，二者之间的后代只会继承一方的特性。偶有青紫混杂的变异幼鸟出现，会被视为缺陷，或被抛出巢穴，或被亲鸟吞食。皇龙先民见羽鹭衔走幼鸟，误以为其收养同族，故将养子称为“羽鹭子”。","Trinomial name ""Ardea purpurea bipenna"", a subspecies of Ardea purpurea uniquely found in Huanglong.","<color=#9656d8>[Điện Từ]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#9656d8>sát thương Điện Từ</color>.
+
+Tên khoa học ""Phức Dực Tử Lộ"". Một trong những phân loài Vũ Lộ đặc hữu vùng Hoàng Long. Tập tính gần như giống hệt phân loài khác là ""Thanh Vũ Lộ"", con non sinh ra từ cặp đôi hai loài chỉ kế thừa đặc tính của một bên. Đôi khi xuất hiện chim non biến dị pha trộn xanh tím, sẽ bị coi là khiếm khuyết, hoặc bị đẩy ra khỏi tổ, hoặc bị chim bố mẹ nuốt. Người xưa Hoàng Long thấy Vũ Lộ tha chim non đi, tưởng nhầm là nhận nuôi đồng loại, nên gọi con nuôi là ""Vũ Lộ Tử""."
+lang_detection.db,MonsterDetection,67,青羽鹭,Cyan-Feathered Heron,Thanh Vũ Lộ
+lang_detection.db,MonsterDetection,68,皇龙特有的大型涉禽之一。生性凶暴，多见于皇龙水域和荒石高地，有一定危险性。,"One of the large waders endemic to Huanglong. It is ferocious in nature and is mostly found in the waters of Huanglong and the Desorock Highlands, and is somewhat dangerous.","Một trong những loài chim lội lớn đặc hữu Hoàng Long. Tính tình hung bạo, thường thấy ở vùng nước Hoàng Long và Hoang Thạch Cao Địa, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,69,"<color=#46c3d4>【气动】</color>
+该敌人<color=#46c3d4>气动伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“复翼青鹭”，皇龙区域特有羽鹭亚种之一。属群居性鸟类，有极强的群体意识，常将巢穴安在高山上以方便狩猎。青羽鹭掠过天空时是美丽的风景，但同时也意味着一场残酷的狩猎。因此，青羽鹭在皇龙是“危险而美丽”的代名词。","Trinomial name ""Ardea purpurea bipenna"", a subspecies of Ardea purpurea uniquely found in Huanglong.","<color=#46c3d4>[Khí Động]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#46c3d4>sát thương Khí Động</color>.
+
+Tên khoa học ""Phức Dực Thanh Lộ"", một trong những phân loài Vũ Lộ đặc hữu vùng Hoàng Long. Thuộc loài chim sống bầy đàn, có ý thức tập thể cực mạnh, thường làm tổ trên núi cao để tiện săn mồi. Thanh Vũ Lộ lướt qua bầu trời là cảnh tượng đẹp đẽ, nhưng đồng thời cũng báo hiệu một cuộc săn tàn khốc. Vì vậy, Thanh Vũ Lộ ở Hoàng Long là biểu tượng của ""nguy hiểm mà xinh đẹp""."
+lang_detection.db,MonsterDetection,70,游弋蝶,Cruisewing,Du Dặc Điệp
+lang_detection.db,MonsterDetection,71,常见于皇龙境内的异变生物，现有目击报告称其仅出现在日间，危险程度不高。,"Commonly found in the territories within Huanglong, the existing sightings report that it only appears in the daytime. Relatively low danger level.","Sinh vật biến dị thường gặp trong lãnh thổ Hoàng Long, các báo cáo quan sát hiện có cho thấy nó chỉ xuất hiện vào ban ngày, mức nguy hiểm không cao."
+lang_detection.db,MonsterDetection,72,"<color=#d4bf5f>【衍射】</color>
+该敌人<color=#d4bf5f>衍射伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“鳞翅巨齿蛉”，夜伏昼出，常见于皇龙全境温暖湿润地区的水岸。虽有一定攻击性，但容易被石化蜥等捕食，危险性不高。从其学名不难看出，其通用名虽带“蝶”字，实际上应属齿蛉科。该差异源于早年皇龙人民见其双翅花纹美丽，误以为是某种蝶类。","Binomial name ""Acanthacorydalis squapenna"", a member of the genus Resinacrustidum. Commonly found on waterfronts in warm and humid areas throughout Huanglong. Although slightly aggressive, they are easily preyed upon by Geohide Saurians and others, and are not very dangerous. Relatively low danger level.","<color=#d4bf5f>[Quang Phổ]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#d4bf5f>sát thương Quang Phổ</color>.
+
+Tên khoa học ""Lân Sí Cự Xỉ Linh"", ẩn ban đêm hoạt động ban ngày, thường gặp ở bờ nước các vùng ấm ẩm trong toàn lãnh thổ Hoàng Long. Tuy có tính hung hãn nhất định nhưng dễ bị Thạch Hóa Tích và các loài khác săn mồi, mức nguy hiểm không cao. Từ tên khoa học không khó thấy, tên thông dụng tuy có chữ ""Điệp"" nhưng thực ra thuộc họ Xỉ Linh. Sai biệt này bắt nguồn từ việc người Hoàng Long xưa thấy hoa văn trên đôi cánh đẹp, nhầm tưởng là một loài bướm."
+lang_detection.db,MonsterDetection,73,碎獠猪,Sabyr Boar,Toái Liêu Trư
+lang_detection.db,MonsterDetection,74,性情暴躁的中型异变生物。陆生，多群居，善于奔跑、冲撞，分布广泛，危险程度较低。,"A medium-sized Mutant Organism with a violent temperament. Terrestrial, mostly living in groups, good at running and rushing, widely distributed. Relatively low danger level.","Sinh vật biến dị cỡ trung tính tình nóng nảy. Sống trên cạn, thường sống bầy đàn, giỏi chạy và lao đâm, phân bố rộng rãi, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,75,学名“碎獠彘”，是一种常见的杂食性异变动物。虽然食物以植源性为主，但性情并不像普通食草类，反而敏感暴躁，一旦有生物踏入其领地，整个族群就会不顾一切冲向入侵者，这种习性经常被猎人利用来捕捉它们。皇龙地区也常用“横冲彘撞”形容冒进、鲁莽性格之人。,"Binomial name ""Babyrousa fractden"", a Mutant Organism the genus Babyrousa. An omnivore Mutant Organism commonly seen everywhere. Although its diet is mainly of vegetative origin, but the temperament is unlike the ordinary herbivores.","Tên khoa học ""Toái Liêu Trệ"", là một loài động vật biến dị ăn tạp thường gặp. Tuy thức ăn chủ yếu có nguồn gốc thực vật, nhưng tính tình không giống loài ăn cỏ bình thường, ngược lại rất nhạy cảm và nóng nảy. Hễ có sinh vật bước vào lãnh thổ, cả bầy sẽ bất chấp lao về phía kẻ xâm nhập, tập tính này thường bị thợ săn lợi dụng để bắt chúng. Vùng Hoàng Long cũng hay dùng ""lao như trệ húc"" để miêu tả người liều lĩnh, bộp chộp."
+lang_detection.db,MonsterDetection,76,遁地鼠,Excarat,Độn Địa Thử
+lang_detection.db,MonsterDetection,77,皇龙境内常见的小型啮齿类异变生物，日间在较为温暖的区域容易找到它们，危险度较低。,"Small boar-like Mutant Organism common within Huanglong, they are easily found in warmer areas during the day. Relatively low danger level.","Sinh vật biến dị gặm nhấm nhỏ thường gặp trong lãnh thổ Hoàng Long, ban ngày dễ tìm thấy ở những vùng ấm áp, mức nguy hiểm thấp."
+lang_detection.db,MonsterDetection,78,"<color=#7e1f57>【解离】</color>
+该敌人<color=#7e1f57>解离伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“辐耳鼢鼠”，是一种常见的小型啮齿类异变生物，多见于草原或温带森林和山地。由于其储备食物的特性，如在野外遇险，可在其巢穴中获取应急口粮，但务必小心，被暴怒的遁地鼠咬一口可不是什么愉快的体验。","Binomial name ""Myospalax actinoaftia"", a Mutant Organism the genus Myospalax. A common small rodent Mutant Organism, mostly found in grasslands or temperate forests and mountains.","<color=#7e1f57>[Hủy Diệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#7e1f57>sát thương Hủy Diệt</color>.
+
+Tên khoa học ""Phức Nhĩ Phần Thử"", là một loài sinh vật biến dị gặm nhấm nhỏ thường gặp, hay thấy ở đồng cỏ hoặc rừng ôn đới và vùng núi. Nhờ đặc tính tích trữ thức ăn, nếu gặp nguy ngoài trời, có thể tìm lương thực khẩn cấp trong hang của chúng, nhưng nhất định phải cẩn thận, bị con Độn Địa Thử đang giận dữ cắn một phát không phải trải nghiệm gì dễ chịu đâu."
+lang_detection.db,MonsterDetection,79,石化蜥（幼体）,Geohide Saurian Minor,Thạch Hóa Tích (Ấu Thể)
+lang_detection.db,MonsterDetection,80,多见于荒石高地的爬行类幼体。据目击者称，其通常跟随成体行动，协同狩猎，有一定危险性。,"Mostly seen as juvenile reptiles in the Desorock Highlands. According to witnesses, it usually follows the adults and hunts in concert, which is dangerous.","Ấu thể bò sát thường gặp ở Hoang Thạch Cao Địa. Theo lời nhân chứng, chúng thường đi theo thể trưởng thành để phối hợp săn mồi, có mức nguy hiểm nhất định."
+lang_detection.db,MonsterDetection,81,"<color=#e15226>【热熔】</color>
+该敌人<color=#e15226>热熔伤害</color><color=#b49f50>抗性较高</color>。
+
+“石化崖蜥”幼体。石化蜥没有照料幼崽的习性，幼体从出生起只能通过模仿成体的狩猎行为，捡食成体的猎物残渣为生，必要时也会将其他幼体当作捕猎对象。能在同族狩猎中存活的幼体普遍体格健壮，性格残暴，对环境有更好的适应性，生物学家判断，这本质上也是一种族群内的自然筛选过程。","Binomial name ""Aigialosauridae lapis"", a Mutant Organism the genus Aigialosauridae. The lizards have no natural habit of caring for their younglings, thus hatchlings can only survive by imitating the hunting behavior of the adults, scavenging the remains of their food and, if necessary, using other hatchlings as targets for prey.","<color=#e15226>[Hỏa Liệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#e15226>sát thương Hỏa Liệt</color>.
+
+Ấu thể của ""Thạch Hóa Nhai Tích"". Thạch Hóa Tích không có thói quen chăm sóc con non, ấu thể từ khi sinh ra chỉ có thể sống sót bằng cách bắt chước hành vi săn mồi của thể trưởng thành, nhặt nhạnh thức ăn thừa của chúng, khi cần thiết cũng sẽ coi ấu thể khác là đối tượng săn. Ấu thể sống sót được qua cuộc săn đồng loại thường có thể trạng khỏe mạnh, tính cách tàn bạo, thích nghi môi trường tốt hơn. Các nhà sinh vật học nhận định, về bản chất đây cũng là một quá trình chọn lọc tự nhiên trong bầy đàn."
+lang_detection.db,MonsterDetection,82,石化蜥（成体）,Geohide Saurian Major,Thạch Hóa Tích (Thành Thể)
+lang_detection.db,MonsterDetection,83,该异变生物多见于荒石高地。据目击者称，其为大型爬行类，行动速度快，较为危险。,"The Mutant Organism is mostly found in the Desorock Highlands. According to witnesses, it is a large reptile, fast action, more dangerous.","Sinh vật biến dị này thường gặp ở Hoang Thạch Cao Địa. Theo lời nhân chứng, đây là loài bò sát lớn, di chuyển nhanh, khá nguy hiểm."
+lang_detection.db,MonsterDetection,84,"<color=#e15226>【热熔】</color>
+该敌人<color=#e15226>热熔伤害</color><color=#b49f50>抗性较高</color>。
+
+学名“石化崖蜥”，肉食性群居异变生物。成熟体约有1.5成人高，多出没于地表裸岩较多的区域。石化蜥性格凶暴，会群体攻击一切靠近领地的生物，日间一般不易接近。但其鳞片、牙齿等价值较高，因此依然有人铤而走险，利用凌晨其体温下降、活动受限的短暂时间进行狩猎。","Binomial name ""Aigialosauridae lapis"", a Mutant Organism of the genus Aigialosauridae.","<color=#e15226>[Hỏa Liệt]</color>
+Kẻ địch này có <color=#b49f50>kháng tính cao</color> với <color=#e15226>sát thương Hỏa Liệt</color>.
+
+Tên khoa học ""Thạch Hóa Nhai Tích"", sinh vật biến dị ăn thịt sống bầy đàn. Thể trưởng thành cao khoảng 1,5 lần người trưởng thành, thường xuất hiện ở những vùng có nhiều đá lộ thiên. Thạch Hóa Tích tính tình hung bạo, sẽ tấn công bầy đàn vào mọi sinh vật tiến gần lãnh thổ, ban ngày thường khó tiếp cận. Nhưng vảy, răng và các bộ phận khác có giá trị cao, nên vẫn có người liều mạng, lợi dụng khoảng thời gian ngắn lúc rạng sáng khi thân nhiệt chúng giảm, hoạt động bị hạn chế để săn."

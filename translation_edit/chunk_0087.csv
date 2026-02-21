@@ -1,756 +1,338 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_infodisplay.db,InfoDisplay,183,破损的废纸,,Giấy vụn hư hỏng
-lang_infodisplay.db,InfoDisplay,184,"我想要水！多贵我都买！
-被海水困在这里已经五天了，修得再坚固的房间也开始渗水了……
-但我不是想要这种咸的海水，给我能喝的水啊！
-这些钱全部拿去吧！只要给我（纸从这里破开了）",,"Tôi muốn nước! Đắt mấy tôi cũng mua!
-Bị nước biển nhốt ở đây đã năm ngày rồi, căn phòng xây kiên cố đến mấy cũng bắt đầu thấm nước...
-Nhưng tôi không muốn loại nước biển mặn này, cho tôi nước uống được đi!
-Tiền này lấy hết đi! Chỉ cần cho tôi (giấy rách từ đây)"
-lang_infodisplay.db,InfoDisplay,185,旧城是怎样建成的：一个帮派的兴衰记录,,Cựu Thành đã được xây dựng thế nào: Biên niên sử hưng suy của một bang phái
-lang_infodisplay.db,InfoDisplay,186,"编撰人：阿芊
-我们在这里发现了一处奇怪的建筑，看着像个用周围废墟的边角料搭成的塔楼。
-难道是有人赶在我们之前就入驻过这里？
-只是这些海水浸泡过的痕迹，又像是悲鸣前留下的。
-……
-老大在附近检查了下，发现这里的灯竟然还是能通电的。
-不管这塔楼之前的人是拿它做啥的，等我们给它换好灯泡，就可以当做我们旧城帮在这里的第一个据点了！
-真是期待今晚点亮它的样子啊。
-……
-四眼那个笨蛋，不小心掉下去了一个灯，这下好了，看不到它曾经的样子了。
-还得帮他求情，希望老大没有像我一样期待吧……",,"Biên soạn: A Thiên
-Chúng tôi phát hiện một công trình kỳ lạ ở đây, trông giống như một tháp canh dựng từ vật liệu vụn nhặt quanh đống phế tích.
-Chẳng lẽ có người đã đến đây trước chúng tôi?
-Chỉ là những vết tích ngâm nước biển này, lại có vẻ là từ trước Bi Minh để lại.
-...
-Đại ca kiểm tra xung quanh, phát hiện đèn ở đây vẫn còn dùng điện được.
-Bất kể người trước dùng tháp canh này làm gì, đợi chúng tôi thay bóng đèn xong, có thể lấy nó làm cứ điểm đầu tiên của Bang Cựu Thành ở đây!
-Thật mong chờ được nhìn thấy nó sáng lên tối nay.
-...
-Tứ Mắt cái đồ ngốc, lỡ tay làm rơi một cái đèn, thế là xong, không còn thấy được dáng vẻ ban đầu nữa rồi.
-Còn phải xin hộ nó nữa, hy vọng đại ca không mong chờ nhiều như mình..."
-lang_infodisplay.db,InfoDisplay,187,流放者的日记,,Nhật ký Lưu Phóng Giả
-lang_infodisplay.db,InfoDisplay,188,"从这里可以看清整个街区，我很喜欢在这里发呆……
-为了追寻大哥的步伐，我离开了背后的天城，加入了旧城帮。
-这里是象征着繁华易逝的废墟，但大哥相信这里可以迎来超越皇龙的复兴！
-我相信大哥，并期待着，和他一起见证这条长街再次亮起街灯的漂亮样子。",,"Từ đây có thể nhìn rõ cả khu phố, tôi rất thích ngồi đây ngẩn ngơ...
-Để theo bước chân đại ca, tôi đã rời bỏ Thiên Thành phía sau, gia nhập Bang Cựu Thành.
-Đây là phế tích tượng trưng cho sự phồn hoa phù du, nhưng đại ca tin rằng nơi này có thể đón nhận sự phục hưng vượt xa cả Hoàng Long!
-Tôi tin đại ca, và mong chờ được cùng anh chứng kiến con phố dài này lại sáng đèn rực rỡ."
-lang_infodisplay.db,InfoDisplay,189,用电安全,,An toàn dùng điện
-lang_infodisplay.db,InfoDisplay,190,触电别上手，安全心中有。,,"Bị giật đừng sờ tay, an toàn luôn ghi lòng."
-lang_infodisplay.db,InfoDisplay,191,流放者月报,,Nguyệt báo Lưu Phóng Giả
-lang_infodisplay.db,InfoDisplay,192,"本月“业绩”达标人员为：
-越晶、卢悦、班玉、冷仪……
+lang_help.db,HelpText,25,技能教学-桃祈,,Hướng dẫn kỹ năng - Đào Kỳ
+lang_help.db,HelpText,26,配队综合教学-桃祈,,Hướng dẫn tổng hợp đội hình - Đào Kỳ
+lang_help.db,HelpText,27,"<color=yellow>角色配队教学（示例）：</color>
+通过xx的共鸣技能积累元素伤害，触发连携技能后桃祈打出高额伤害",,"<color=yellow>Hướng dẫn xây dựng đội hình (Ví dụ):</color>
+Tích lũy sát thương nguyên tố thông qua Kỹ Năng Cộng Hưởng của xx, sau khi kích hoạt Kỹ Năng Liên Kết, Đào Kỳ tung ra sát thương lớn."
+lang_help.db,HelpText,28,配队综合教学-桃祈,,Hướng dẫn tổng hợp đội hình - Đào Kỳ
+lang_help.db,HelpText,29,使用刚刚学到的知识，击败所有在场敌人,,"Sử dụng kiến thức vừa học, đánh bại tất cả kẻ địch có mặt."
+lang_help.db,HelpText,30,角色介绍-维里奈,,Giới thiệu nhân vật - Verina
+lang_help.db,HelpText,31,<color=yellow>角色介绍：</color>,,<color=yellow>Giới thiệu nhân vật:</color>
+lang_help.db,HelpText,32,角色介绍-维里奈,,Giới thiệu nhân vật - Verina
+lang_help.db,HelpText,33,"<color=yellow>维里奈特色能力：待定</color>
+待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定",,"<color=yellow>Năng lực đặc biệt của Verina: Chưa xác định</color>
+Chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định"
+lang_help.db,HelpText,34,角色介绍-维里奈,,Giới thiệu nhân vật - Verina
+lang_help.db,HelpText,35,"<color=yellow>搭配指引：</color>
+待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定待定",,"<color=yellow>Hướng dẫn phối hợp:</color>
+Chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định chưa xác định"
+lang_help.db,HelpText,36,角色介绍-维里奈,,Giới thiệu nhân vật - Verina
+lang_help.db,HelpText,37,"<color=yellow>关卡说明</color>：
+为方便体验角色的特色能力，试用的关卡中将会有额外的增益",,"<color=yellow>Mô tả màn chơi</color>:
+Để tiện trải nghiệm năng lực đặc biệt của nhân vật, màn chơi dùng thử sẽ có thêm hiệu ứng tăng cường."
+lang_help.db,HelpText,38,普攻教学-维里奈,,Hướng dẫn đánh thường - Verina
+lang_help.db,HelpText,39,"<color=yellow>普通攻击：光能育种</color>
+维里奈进行最多6段攻击，造成衍射反应伤害。在第6段攻击时，为目标种下一颗花粒。当维里奈靠近花粒时，会自动吸附花粒，并转化为自身的光合能量。光合能量最多能添加4层。",,"<color=yellow>Đánh Thường: Quang Năng Dục Chủng</color>
+Verina thực hiện tối đa 6 đoạn tấn công, gây sát thương phản ứng Quang Phổ. Ở đoạn tấn công thứ 6, gieo một hạt hoa lên mục tiêu. Khi Verina đến gần hạt hoa, sẽ tự động hấp thụ hạt hoa và chuyển hóa thành năng lượng quang hợp. Năng lượng quang hợp tối đa cộng dồn 4 tầng."
+lang_help.db,HelpText,40,普攻教学-维里奈,,Hướng dẫn đánh thường - Verina
+lang_help.db,HelpText,41,"<color=yellow>派生攻击·光能炸弹</color>
+当维里奈使用重击命中目标后，若身上有光合能量，则自动消耗一层光合能量，并引爆一次衍射反应造成的范围伤害，并且给全队恢复相当于维里奈攻击力50%的生命值。",,"<color=yellow>Đòn phái sinh - Bom Quang Năng</color>
+Khi Verina dùng Đánh Mạnh trúng mục tiêu, nếu trên người có năng lượng quang hợp, sẽ tự động tiêu hao một tầng năng lượng quang hợp và kích nổ sát thương phạm vi từ phản ứng Quang Phổ, đồng thời hồi cho toàn đội lượng HP bằng 50% sức tấn công của Verina."
+lang_help.db,HelpText,42,普攻教学-维里奈,,Hướng dẫn đánh thường - Verina
+lang_help.db,HelpText,43,技能教学-维里奈,,Hướng dẫn kỹ năng - Verina
+lang_help.db,HelpText,44,"<color=yellow>共鸣技能：绿蔓初绽</color>
+维里奈在前方集聚能量，让植物急速生长，造成衍射反应的范围伤害，并且把附近目标身上的花粒吸收，随机给技能范围内的1个目标附着1颗花粒。",,"<color=yellow>Kỹ Năng Cộng Hưởng: Lục Mạn Sơ Trán</color>
+Verina tập trung năng lượng phía trước, khiến thực vật sinh trưởng nhanh chóng, gây sát thương phạm vi phản ứng Quang Phổ, đồng thời hấp thụ hạt hoa trên mục tiêu gần đó, rồi ngẫu nhiên gắn 1 hạt hoa lên 1 mục tiêu trong phạm vi kỹ năng."
+lang_help.db,HelpText,45,技能教学-维里奈,,Hướng dẫn kỹ năng - Verina
+lang_help.db,HelpText,46,"<color=yellow>共鸣解放：白炽光域</color>
+维里奈造成范围伤害，并且给周围的目标添加光合印记。
+攻击处于光合印记状态的目标时，会额外造成维里奈攻击力X%的伤害，并且为造成伤害的角色恢复维里奈攻击力X%的生命值。",,"<color=yellow>Giải Phóng Cộng Hưởng: Bạch Sí Quang Vực</color>
+Verina gây sát thương phạm vi và thêm dấu ấn quang hợp lên các mục tiêu xung quanh.
+Khi tấn công mục tiêu mang dấu ấn quang hợp, sẽ gây thêm sát thương bằng X% sức tấn công của Verina, đồng thời hồi HP cho nhân vật gây sát thương bằng X% sức tấn công của Verina."
+lang_help.db,HelpText,47,技能教学-维里奈,,Hướng dẫn kỹ năng - Verina
+lang_help.db,HelpText,48,配队综合教学-维里奈,,Hướng dẫn tổng hợp đội hình - Verina
+lang_help.db,HelpText,49,"<color=yellow>角色配队教学（示例）：</color>
+通过光属性的共鸣技能积累元素伤害，触发连携技能后维里奈打出高额伤害",,"<color=yellow>Hướng dẫn xây dựng đội hình (Ví dụ):</color>
+Tích lũy sát thương nguyên tố thông qua Kỹ Năng Cộng Hưởng hệ Quang, sau khi kích hoạt Kỹ Năng Liên Kết, Verina tung ra sát thương lớn."
+lang_help.db,HelpText,50,配队综合教学-维里奈,,Hướng dẫn tổng hợp đội hình - Verina
+lang_help.db,HelpText,51,使用刚刚学到的知识，击败所有在场敌人,,"Sử dụng kiến thức vừa học, đánh bại tất cả kẻ địch có mặt."
+lang_help.db,HelpText,52,角色介绍-秧秧,,Giới thiệu nhân vật - Dương Dương
+lang_help.db,HelpText,53,"<color=yellow>秧秧特色能力：且听风吟</color>
+当秧秧使用【重击】时，可以消耗1层【锋鸣】再次普攻打出【且听风吟】，造成风属性伤害。
+通过【普攻连段】、【连携技能】、【释羽斩】、【朔风效应】都能积累【锋鸣】。",,"<color=yellow>Năng lực đặc biệt của Dương Dương: Thả Mình Theo Gió</color>
+Khi Dương Dương sử dụng [Đánh Mạnh], có thể tiêu hao 1 tầng [Phong Minh] để đánh thường lần nữa tung ra [Thả Mình Theo Gió], gây sát thương hệ Gió.
+Có thể tích lũy [Phong Minh] thông qua [Đánh Thường liên đoạn], [Kỹ Năng Liên Kết], [Thích Vũ Trảm], [Hiệu Ứng Sóc Phong]."
+lang_help.db,HelpText,54,角色介绍-秧秧,,Giới thiệu nhân vật - Dương Dương
+lang_help.db,HelpText,55,"<color=yellow>搭配指引：</color>
+秧秧的共鸣技能【风羽破】、共鸣爆发【朔风效应】都能产生聚怪效果，能极大提高输出效率。",,"<color=yellow>Hướng dẫn phối hợp:</color>
+Kỹ Năng Cộng Hưởng [Phong Vũ Phá] và Giải Phóng Cộng Hưởng [Hiệu Ứng Sóc Phong] của Dương Dương đều có thể tụ quái, giúp tăng hiệu suất sát thương đáng kể."
+lang_help.db,HelpText,56,角色介绍-秧秧,,Giới thiệu nhân vật - Dương Dương
+lang_help.db,HelpText,57,"<color=yellow>关卡说明</color>：
+为方便体验角色的特色能力，试用的关卡中将会有额外的增益",,"<color=yellow>Mô tả màn chơi</color>:
+Để tiện trải nghiệm năng lực đặc biệt của nhân vật, màn chơi dùng thử sẽ có thêm hiệu ứng tăng cường."
+lang_help.db,HelpText,58,普攻教学-秧秧,,Hướng dẫn đánh thường - Dương Dương
+lang_help.db,HelpText,59,"<color=yellow>普攻</color>
+进行最多4段的连续剑击。若第4段命中目标，可获得1层锋鸣。
+<color=yellow>重击</color>
+消耗一定体力，向前突刺，造成气动伤害。
+<color=yellow>空中攻击</color>
+消耗一定体力，从空中跃起，下坠冲击地面，造成范围伤害。
+<color=yellow>派生攻击·且听风吟</color>
+重击后一段时间内使用普攻，秧秧会消耗1层锋鸣，回旋起舞，挥出一道风刃，造成气动伤害。",,"<color=yellow>Đánh Thường</color>
+Thực hiện tối đa 4 đoạn kiếm liên tiếp. Nếu đoạn thứ 4 trúng mục tiêu, nhận được 1 tầng Phong Minh.
+<color=yellow>Đánh Mạnh</color>
+Tiêu hao một lượng thể lực, đâm về phía trước, gây sát thương Khí Động.
+<color=yellow>Tấn công trên không</color>
+Tiêu hao một lượng thể lực, nhảy lên từ trên không, lao xuống va chạm mặt đất, gây sát thương phạm vi.
+<color=yellow>Đòn phái sinh - Thả Mình Theo Gió</color>
+Sau Đánh Mạnh, trong khoảng thời gian ngắn sử dụng đánh thường, Dương Dương sẽ tiêu hao 1 tầng Phong Minh, xoay mình múa kiếm, phóng ra một lưỡi gió, gây sát thương Khí Động."
+lang_help.db,HelpText,60,技能教学-秧秧,,Hướng dẫn kỹ năng - Dương Dương
+lang_help.db,HelpText,61,"<color=yellow>共鸣技能：风羽破</color>
+使用凌厉的剑法，划出风场，将周围的敌人牵引至所在位置，造成气动反应范围伤害。
+【释羽斩】
+释放【风羽破】后使用重击，可触发【释羽斩】，造成气动反应伤害并且击飞目标。
+【罗羽落】
+释放【释羽斩】击飞目标后使用普攻，可以释放【罗羽落】，冲击地面造成范围伤害。",,"<color=yellow>Kỹ Năng Cộng Hưởng: Phong Vũ Phá</color>
+Sử dụng kiếm pháp sắc bén, tạo ra vùng gió, kéo kẻ địch xung quanh về vị trí hiện tại, gây sát thương phạm vi phản ứng Khí Động.
+[Thích Vũ Trảm]
+Sau khi tung [Phong Vũ Phá], sử dụng Đánh Mạnh có thể kích hoạt [Thích Vũ Trảm], gây sát thương phản ứng Khí Động và đánh bay mục tiêu.
+[La Vũ Lạc]
+Sau khi tung [Thích Vũ Trảm] đánh bay mục tiêu, sử dụng đánh thường có thể thi triển [La Vũ Lạc], lao xuống mặt đất gây sát thương phạm vi."
+lang_help.db,HelpText,62,技能教学-秧秧,,Hướng dẫn kỹ năng - Dương Dương
+lang_help.db,HelpText,63,"<color=yellow>共鸣解放：朔风效应</color>
+挥剑制造龙卷风，造成气动反应范围伤害，并在最后击飞敌人。",,"<color=yellow>Giải Phóng Cộng Hưởng: Hiệu Ứng Sóc Phong</color>
+Vung kiếm tạo lốc xoáy, gây sát thương phạm vi phản ứng Khí Động, và đánh bay kẻ địch ở đòn cuối."
+lang_help.db,HelpText,64,配队综合教学-秧秧,,Hướng dẫn tổng hợp đội hình - Dương Dương
+lang_help.db,HelpText,65,"<color=yellow>角色配队教学（示例）：</color>
+通过秧秧的共鸣技能积累元素伤害，触发连携技能后秧秧打出高额伤害",,"<color=yellow>Hướng dẫn xây dựng đội hình (Ví dụ):</color>
+Tích lũy sát thương nguyên tố thông qua Kỹ Năng Cộng Hưởng của Dương Dương, sau khi kích hoạt Kỹ Năng Liên Kết, Dương Dương tung ra sát thương lớn."
+lang_help.db,HelpText,66,配队综合教学-秧秧,,Hướng dẫn tổng hợp đội hình - Dương Dương
+lang_help.db,HelpText,67,使用刚刚学到的知识，击败所有在场敌人,,"Sử dụng kiến thức vừa học, đánh bại tất cả kẻ địch có mặt."
+lang_help.db,HelpText,68,调谐详情,,Chi tiết Điều chỉnh
+lang_help.db,HelpText,69,月度期权说明,,Mô tả Gói Tháng
+lang_help.db,HelpText,70,"【月度期权】
+月度期权购入时，立刻获得300承兑特权。
+月度期权有效期内，每天可获得90铸潮票券的报酬，当天04:00更新（GMT+8）。
+每份月度期权有效期为30天，仅首次登录可领取当日的铸潮票券。
+期间如未登录，则无法补领相应的报酬，该部分的铸潮票券不会保留。
 
-奥司因表现优异，带回武器两箱，特评为本月月度之星。",,"Nhân viên đạt ""chỉ tiêu"" tháng này gồm:
-Việt Tinh, Lư Duyệt, Ban Ngọc, Lãnh Nghi...
+【重复购入规则】
+※剩余有效期不大于180天时，月度期权可重复购入，并将延长相应的有效期天数。
+※剩余有效期大于180天时，月度期权无法重复购入。
+※剩余有效期大于180天时，但因特殊情况导致重复购入的，不累计有效期天数，并将直接返还本次购入等值的330承兑特权。
 
-Áo Tư vì thành tích xuất sắc, mang về hai thùng vũ khí, đặc biệt được bình chọn là Ngôi sao tháng."
-lang_infodisplay.db,InfoDisplay,193,神秘“筒”上的刻字,,"Chữ khắc trên ""ống"" bí ẩn"
-lang_infodisplay.db,InfoDisplay,194,"如果你就是，爸爸给我念的书里的，那个叫“航天器”的东西，就把我的名字告诉天上的妈妈吧！
-我叫做望星！妈妈在的星星的那个“星”！",,"Nếu đúng là mày, cái thứ gọi là ""tàu vũ trụ"" trong sách bố đọc cho con nghe, thì hãy nói tên con với mẹ trên trời nhé!
-Con tên là Vọng Tinh! Chữ ""Tinh"" của ngôi sao nơi mẹ ở!"
-lang_infodisplay.db,InfoDisplay,195,纵横的留言,,Lời nhắn của Tung Hoành
-lang_infodisplay.db,InfoDisplay,196,"有缘再见。
-也许就在你忘记我姓名的那天。",,"Hữu duyên tái ngộ.
-Có lẽ chính là ngày ngươi quên mất tên ta."
-lang_infodisplay.db,InfoDisplay,197,电子便签,,Giấy nhớ điện tử
-lang_infodisplay.db,InfoDisplay,198,"最近兄弟们都没抢到猫粮，储备不足了，少喂点！
-记得别让小巴喂它们狗粮，大黄刚产崽子，也得多吃点，还得给小狗崽们留着以后的。
-兄弟们可以少吃两口，别让猫猫狗狗的饿着。",,"Dạo này anh em không cướp được thức ăn cho mèo, dự trữ thiếu hụt rồi, cho ăn ít lại!
-Nhớ đừng để Tiểu Ba cho chúng ăn thức ăn chó, Đại Hoàng mới đẻ con, cũng phải cho ăn nhiều hơn, còn phải để dành phần cho mấy con chó con sau này nữa.
-Anh em có thể bớt ăn vài miếng, đừng để mấy con mèo con chó bị đói."
-lang_infodisplay.db,InfoDisplay,199,“猫爬架”,,"""Giàn leo cho mèo"""
-lang_infodisplay.db,InfoDisplay,200,"旧城的老大过去爱收集点皇龙的布料，之前还以为他是对服装有什么古怪的追求，没想到是用来搞了这个大架子，也许是想作为背弃了皇龙的证明吧……
-但这玩意除了占地方，真的没啥用，最近除了小咪它们爱过来玩，其他人根本就不在意……",,"Đại ca Cựu Thành ngày trước hay sưu tầm vải vóc của Hoàng Long, trước còn tưởng ông ấy có sở thích kỳ quặc gì về quần áo, ai ngờ lại dùng để làm cái giàn lớn này, có lẽ muốn coi đó là bằng chứng đã rời bỏ Hoàng Long...
-Nhưng thứ này ngoài chiếm chỗ ra thì thật sự chẳng có tác dụng gì, gần đây ngoài mấy con Tiểu Mi thích đến chơi, chẳng ai khác để ý đến nó..."
-lang_infodisplay.db,InfoDisplay,201,海蚀之墟生态调查,,Điều tra sinh thái Hải Thực Chi Khư
-lang_infodisplay.db,InfoDisplay,202,"来到皇龙前，我就有听闻这里生长着的神奇“蘑菇”。
-那是长在钢铁丛林间的巨大赤色类珊瑚，它繁殖极快，且有极强的致幻能力，可以说是这座城市废墟真正的主人。在海水退去后，皇龙人本以为可以夺回故土，却在这里遭遇了进化后的它们的袭击——名为“海市蜃楼”的迷幻之景。
-没人知道第一批来调查的人究竟看到了什么，旧日抑或未来？只是勉强逃回来的人，对一切都丧失了兴趣，不久后就因为绝食而离开了人世。这里的重建也因此被放弃了。
-只是有一天，赤红突然褪色了，随之而来是其散发孢子中的赤盖菇素含量锐减，就好像它们的成长期突然结束了，但它是否还会进化？还会有新的危险吗？
-除了不珍惜生命的流放者，暂时没有人愿意入驻这座充满未知的废墟。",,"Trước khi đến Hoàng Long, tôi đã nghe nói về loại ""nấm"" kỳ diệu mọc ở đây.
-Đó là loại sinh vật giống san hô khổng lồ màu đỏ, mọc giữa rừng thép. Chúng sinh sản cực nhanh và có khả năng gây ảo giác cực mạnh, có thể nói chúng mới là chủ nhân thực sự của thành phố phế tích này. Sau khi nước biển rút đi, người Hoàng Long tưởng rằng có thể giành lại cố thổ, nhưng lại bị tấn công bởi phiên bản tiến hóa của chúng - cảnh tượng mê ảo có tên ""Hải Thị Thần Lâu"".
-Không ai biết nhóm điều tra đầu tiên đã nhìn thấy gì, quá khứ hay tương lai? Chỉ biết những người may mắn thoát về đều mất hứng thú với mọi thứ, không lâu sau thì tuyệt thực mà lìa đời. Việc tái thiết nơi đây cũng vì thế mà bị bỏ dở.
-Chỉ là có một ngày, sắc đỏ bỗng nhiên phai nhạt, kèm theo đó là hàm lượng psilocybin trong bào tử phát tán giảm mạnh, tựa như giai đoạn sinh trưởng đột ngột kết thúc. Nhưng liệu chúng có còn tiến hóa không? Liệu có mối nguy hiểm mới nào không?
-Ngoài những Lưu Phóng Giả không coi trọng mạng sống, tạm thời chẳng ai muốn đặt chân vào phế tích đầy ẩn số này."
-lang_infodisplay.db,InfoDisplay,203,一袋“废纸”,,"Một túi ""giấy lộn"""
-lang_infodisplay.db,InfoDisplay,204,"从样式上勉强可以辨认出，这是曾经象征财富的货币。
-袋子的边角夹着一张碎纸，上面写着“水！”",,"Từ kiểu dáng có thể miễn cưỡng nhận ra, đây từng là loại tiền tệ tượng trưng cho sự giàu có.
-Góc túi kẹp một mảnh giấy vụn, trên đó viết ""Nước!"""
-lang_infodisplay.db,InfoDisplay,205,门牌,,Biển cửa
-lang_infodisplay.db,InfoDisplay,206,"北河之座 β楼 5层
-■■■■科技有限公司
-接待室在同层的α楼，来客请先左拐到前台进行身份登记
-（一行勉强能辨认的小字：会议室的备用钥匙卡也在前台，如加班需要可来自取）",,"Bắc Hà Chi Tòa, Tòa β, Tầng 5
-■■■■ Công ty TNHH Công nghệ
-Phòng tiếp khách ở tòa α cùng tầng, khách đến vui lòng rẽ trái đến quầy lễ tân để đăng ký danh tính
-(Một dòng chữ nhỏ khó đọc: Thẻ chìa khóa dự phòng phòng họp cũng ở quầy lễ tân, nếu cần tăng ca có thể tự đến lấy)"
-lang_infodisplay.db,InfoDisplay,207,《一封海市致后来者的信》,,"""Một bức thư từ Hải Thị gửi đến người đến sau"""
-lang_infodisplay.db,InfoDisplay,208,"你好，海市的后来者，我曾经是这座城市的市长。
-当你读到这封信的时候，我和海市大约已经不复存在了。请允许我在这封信中，为你讲述它最后的辉煌。
-那是个绝佳的观星日，在那一天，我们特别开放市政大楼的楼顶，与获得抽签资格的海市市民观赏星海。
-快到约定的时间时，远远超过预计的人涌了上来。那不是由于观星，而是因为洪水和暴雨已经悄然抵达，正大肆攻击海市。
-为了抢夺物资，也为了抢占高点，有陌生人将彼此视为仇敌，更有昔日亲朋倒戈相对。
-我曾以为海市是钢铁之躯，没想到面临灾害的她是那么脆弱。
-于是我宣布开放通道，让市民都登上来。当然，拯救所有人是不现实的。能救一个是一个，能撑一刻是一刻，是我仅剩的想法。
-这是海市的市政大楼，关键时刻应服务于共同创造它的人。
-幸存的人们聚在这里，原本的观星日变成彻头彻尾的逃难日。我们头顶是昏暗的云浪，脚下是无尽的洪水，像在孤立无援的岛上等待命运的安排。太阳和月亮不见了，信号也断了。最后，我只能把海市的街区夜景制作成不同的星图，以投影的方式为大家播放。
-那是海市前不久刚发布新的宣传片，很美的夜景，拍摄于上千米的高空。
-灾难面前，人类已然丧失了仰望星星的权力。但我希望，我们依旧可以观赏着自己的星空，将那幅景象作为共同的铭记。",,"Xin chào, người đến sau của Hải Thị, tôi từng là thị trưởng của thành phố này.
-Khi bạn đọc được bức thư này, tôi và Hải Thị có lẽ đã không còn tồn tại. Xin hãy cho phép tôi trong bức thư này, kể cho bạn nghe về hào quang cuối cùng của nó.
-Đó là một ngày ngắm sao tuyệt vời, hôm ấy chúng tôi đặc biệt mở cửa sân thượng tòa thị chính, cùng những thị dân Hải Thị trúng thăm ngắm nhìn biển sao.
-Gần đến giờ hẹn, lượng người đổ lên đông hơn dự kiến rất nhiều. Không phải vì ngắm sao, mà bởi lũ lụt và mưa bão đã âm thầm ập đến, đang tàn phá Hải Thị dữ dội.
-Để tranh giành vật tư, cũng để chiếm lấy điểm cao, có kẻ lạ coi nhau như kẻ thù, thậm chí bạn bè thân thiết ngày xưa cũng quay lưng phản bội.
-Tôi từng nghĩ Hải Thị có thân xác thép, không ngờ trước thiên tai, nàng lại mong manh đến vậy.
-Vì thế tôi tuyên bố mở thông đạo, cho thị dân đều lên sân thượng. Dĩ nhiên, cứu được tất cả là điều không thực tế. Cứu được ai hay người đó, chống được phút nào hay phút đó - là suy nghĩ duy nhất còn sót lại trong tôi.
-Đây là tòa thị chính của Hải Thị, trong khoảnh khắc then chốt phải phục vụ những con người đã cùng nhau tạo dựng nên nó.
-Những người sống sót tụ họp tại đây, ngày ngắm sao ban đầu biến thành ngày chạy nạn hoàn toàn. Trên đầu chúng tôi là sóng mây u ám, dưới chân là dòng lũ bất tận, như đứng trên hòn đảo cô lập chờ đợi sự sắp đặt của số phận. Mặt trời và mặt trăng biến mất, tín hiệu cũng đứt. Cuối cùng, tôi chỉ có thể chế tạo cảnh đêm các khu phố Hải Thị thành những bản đồ sao khác nhau, chiếu cho mọi người xem bằng hình thức phóng chiếu.
-Đó là đoạn phim quảng bá mới của Hải Thị vừa phát hành không lâu trước đó, cảnh đêm rất đẹp, được quay từ độ cao hàng ngàn mét.
-Trước thảm họa, nhân loại đã mất đi quyền ngước nhìn tinh tú. Nhưng tôi hy vọng, chúng ta vẫn có thể ngắm nhìn bầu trời sao của chính mình, lấy hình ảnh ấy làm ký ức chung để mãi khắc ghi."
-lang_infodisplay.db,InfoDisplay,209,《旧城遗址悲鸣前语音复原纪录012号》,,"""Ký lục phục nguyên âm thanh trước Bi Minh tại di chỉ cổ thành số 012"""
-lang_infodisplay.db,InfoDisplay,210,"机械的女声： 重要播报，在这史无前例的绝佳观星日，我们特别开放市政大楼。
-机械的女声：特邀获得抽签资格的海市市民，一同观赏星海！
-机械的女声：今夜十二点，请准时抵达。",,"Giọng nữ máy móc: Thông báo quan trọng, trong ngày ngắm sao tuyệt vời chưa từng có này, chúng tôi đặc biệt mở cửa tòa thị chính.
-Giọng nữ máy móc: Kính mời các thị dân Hải Thị đã trúng thăm, cùng nhau ngắm nhìn biển sao!
-Giọng nữ máy móc: Mười hai giờ đêm nay, xin hãy đến đúng giờ."
-lang_infodisplay.db,InfoDisplay,211,《旧城遗址悲鸣前语音复原纪录090号》,,"""Ký lục phục nguyên âm thanh trước Bi Minh tại di chỉ cổ thành số 090"""
-lang_infodisplay.db,InfoDisplay,212,"慌乱的男声：东部的街区全都被淹没……
-慌乱的男声：糟糕！灾害的蔓延速度超过我们想象！物资？物资已经不重要了！
-慌乱的男声：你先在楼顶撑住，别被逃窜的人……喂？喂！能听见我的话吗！",,"Giọng nam hoảng loạn: Khu phố phía đông đã bị nhấn chìm hoàn toàn...
-Giọng nam hoảng loạn: Tệ quá! Tốc độ lan rộng của thảm họa vượt xa tưởng tượng! Vật tư ư? Vật tư không còn quan trọng nữa!
-Giọng nam hoảng loạn: Cậu cố trụ trên sân thượng trước, đừng bị đám người tháo chạy... Alô? Alô! Có nghe thấy tôi nói không!"
-lang_infodisplay.db,InfoDisplay,213,《旧城遗址悲鸣前语音复原纪录137号》,,"""Ký lục phục nguyên âm thanh trước Bi Minh tại di chỉ cổ thành số 137"""
-lang_infodisplay.db,InfoDisplay,214,"慌乱的男声：好多事故！为了生存物资，为了抢占高点，海市乱套了！
-威严的女声：开放通道，让市民们都上来。
-慌乱的男声：什么？万一有不法分子混进来……而且，我们也容纳不了那么多人！
-威严的女声：别忘了，这是海市的市政大楼，它永远属于……共同缔造它的人。",,"Giọng nam hoảng loạn: Bao nhiêu sự cố! Vì vật tư sinh tồn, vì tranh chiếm điểm cao, Hải Thị loạn hết rồi!
-Giọng nữ uy nghiêm: Mở thông đạo, cho thị dân đều lên đây.
-Giọng nam hoảng loạn: Gì cơ? Lỡ có kẻ bất lương trà trộn vào thì sao... hơn nữa, chúng ta cũng không chứa nổi nhiều người đến thế!
-Giọng nữ uy nghiêm: Đừng quên, đây là tòa thị chính Hải Thị, nó mãi mãi thuộc về... những con người đã cùng nhau gây dựng nên nó."
-lang_infodisplay.db,InfoDisplay,215,《旧城遗址悲鸣前文本复原纪录035号》,,"""Ký lục phục nguyên văn bản trước Bi Minh tại di chỉ cổ thành số 035"""
-lang_infodisplay.db,InfoDisplay,216,"最智慧的城市！最发达的大脑！
-海市将接入最先进的车体框架与动力系统！
-名为，未来号！",,"Thành phố thông minh nhất! Bộ não phát triển nhất!
-Hải Thị sẽ tiếp nhận khung xe và hệ thống động lực tiên tiến nhất!
-Mang tên, Tương Lai Hào!"
-lang_infodisplay.db,InfoDisplay,217,《旧城遗址悲鸣前文本复原纪录104号》,,"""Ký lục phục nguyên văn bản trước Bi Minh tại di chỉ cổ thành số 104"""
-lang_infodisplay.db,InfoDisplay,218,"星之茫茫，其本色耶？自上视下，亦若是则已矣。
-选择海市航空，俯瞰海市人自己的星空。",,"Sao trời mênh mang, phải chăng là bản sắc vốn có? Từ trên nhìn xuống, cũng chẳng khác là bao.
-Hãy chọn Hải Thị Hàng Không, phóng tầm mắt ngắm bầu trời sao của chính người Hải Thị."
-lang_infodisplay.db,InfoDisplay,220,"……
-    不知道这株奇妙的紫色大树到底是什么来头，它对捣蛋猿族群来说有着不同寻常的意义。母猩猩会在树下抚育后代，猩猩崽会在树上攀爬玩耍，但我总觉得树上似乎缺了什么。
-    ……
-    之前那个学夜归敬礼的小家伙又出现了，它连蹦带跳带我找到了一个月亮形状的灯具，看样子是悲鸣前挂在树上的装饰。难道它们想把“人造月亮”装回去？
-    ……
-    经过一通比比划划，我从小捣蛋猿那里获知，人造月亮一共有五个，另外的四个已经散落在无光之森的各个地方了。如果我能把它们都找回来，想必会让捣蛋猿对人类多一分认可吧？
-    ……
-    第一个月亮找了好久，没想到在<color=yellow>废弃公路鸣域信标左边的瀑布</color> 里面还藏着个洞穴，就像旧时代传说的“水帘洞”似的。
-    第二个月亮倒是容易找，就在<color=yellow>南部鸣域信标附近长满巨大菌类的水潭</color> 里。
-    第三个月亮是在<color=yellow>东南部鸣域信标旁已经废弃的营地</color>发现的，看样子，或许是被当成没用的垃圾了？所幸保存状况还算完好。
-    最后一个月亮让人犯愁，从南边的无音区向北爬上山崖，能发现<color=yellow>布满发光植物的半截巨大的树桩</color>。月亮就在上面放着，难不成要学“猴子捞月”给它搬出去？
-    ……",,"...
-    Không biết gốc gác cây tím kỳ diệu này là gì, nó có ý nghĩa phi thường đối với bầy Khỉ Phá Phách. Khỉ mẹ nuôi con dưới gốc cây, khỉ con leo trèo nô đùa trên cành, nhưng tôi luôn cảm thấy trên cây hình như thiếu thứ gì đó.
-    ...
-    Con khỉ nhỏ từng học kiểu chào Dạ Quy lại xuất hiện, nó nhảy nhót dẫn tôi tìm thấy một chiếc đèn hình mặt trăng, trông có vẻ là vật trang trí treo trên cây từ trước Bi Minh. Chẳng lẽ chúng muốn gắn lại ""mặt trăng nhân tạo""?
-    ...
-    Sau một hồi ra hiệu, tôi được con Khỉ Phá Phách nhỏ cho biết, mặt trăng nhân tạo có tổng cộng năm chiếc, bốn chiếc còn lại đã rơi rải rác khắp Rừng Vô Quang. Nếu tôi có thể tìm hết chúng về, chắc hẳn sẽ khiến bầy Khỉ Phá Phách thêm phần tin tưởng con người nhỉ?
-    ...
-    Mặt trăng đầu tiên tìm mãi mới thấy, không ngờ ở <color=yellow>bên trái tín hiệu Minh Vực trên con đường bỏ hoang, trong thác nước</color> còn ẩn giấu một hang động, giống hệt ""Thủy Liêm Động"" trong truyền thuyết thời xưa.
-    Mặt trăng thứ hai thì dễ tìm, nằm ngay trong <color=yellow>vũng nước mọc đầy nấm khổng lồ gần tín hiệu Minh Vực phía nam</color>.
-    Mặt trăng thứ ba được tìm thấy ở <color=yellow>doanh trại bỏ hoang cạnh tín hiệu Minh Vực phía đông nam</color>, trông có vẻ như bị coi là rác vô dụng? May mà tình trạng bảo quản vẫn còn khá tốt.
-    Mặt trăng cuối cùng thì phiền phức, từ Vùng Vô Thanh phía nam leo lên vách đá về phía bắc, có thể thấy <color=yellow>nửa gốc cây khổng lồ phủ đầy thực vật phát sáng</color>. Mặt trăng nằm trên đó, chẳng lẽ phải học ""khỉ vớt trăng"" để mang nó xuống?
-    ..."
-lang_infodisplay.db,InfoDisplay,222,"感应蓄能模组注意事项
-    1.操作人员需注意，感应模块不同颜色对应高低不同的电压，必须与对应的蓄能插槽匹配。
-    2.可通过变感装置改变感应模块的电压，使其满足需求。
-    3.由于缺乏保养，模组附近可能存在障碍物，需先清理方可使用。
-    例：
-    废墟掩埋（直接清理即可）
-    丛棘陷阱（可通过爆裂鸣晶加以破坏）
-    鸣融黑石（可通过激活鸣聚闪电加以破坏）",,"Lưu ý về mô-đun cảm ứng tích năng
-    1. Nhân viên vận hành cần chú ý, các màu khác nhau của mô-đun cảm ứng tương ứng với mức điện áp cao thấp khác nhau, phải khớp với khe tích năng tương ứng.
-    2. Có thể thay đổi điện áp của mô-đun cảm ứng thông qua thiết bị biến cảm để đáp ứng yêu cầu.
-    3. Do thiếu bảo trì, khu vực xung quanh mô-đun có thể tồn tại chướng ngại vật, cần dọn sạch trước khi sử dụng.
-    Ví dụ:
-    Phế tích vùi lấp (Trực tiếp dọn dẹp là được)
-    Bẫy gai rậm (Có thể phá hủy bằng Minh Tinh Bộc Liệt)
-    Hắc Thạch Minh Dung (Có thể phá hủy bằng cách kích hoạt Minh Tụ Sấm Sét)"
-lang_infodisplay.db,InfoDisplay,223,皇龙重建史,皇龙重建史,Lịch sử tái thiết Hoàng Long
-lang_infodisplay.db,InfoDisplay,224,"新历110年  神兽岁光击败鸣式，一位名叫辛夷的少女借着点点火种，重塑人们心中的希望。她在一个临时避难所发表了振奋人心的演讲，重建皇龙的热潮于各地涌起。辛夷带领大家围绕神兽沉睡之地乘霄山开启了重建的第一步。
+【特别说明】
+根据相关规定，未成年人仅可在周五、周六、周日或法定节假日的20:00至21:00登录游戏，可能无法完整获得月度期权的所有奖励。购入月度期权的未成年玩家，将不会收到任何形式的补偿。",,"[Gói Tháng]
+Khi mua Gói Tháng, lập tức nhận 300 Đặc quyền Thừa đoái.
+Trong thời hạn Gói Tháng, mỗi ngày có thể nhận 90 Phiếu Chú Triều, cập nhật lúc 04:00 mỗi ngày (GMT+8).
+Mỗi Gói Tháng có thời hạn 30 ngày, chỉ có thể nhận Phiếu Chú Triều khi đăng nhập lần đầu trong ngày.
+Nếu không đăng nhập trong thời gian đó, không thể nhận bù phần thưởng tương ứng, phần Phiếu Chú Triều đó sẽ không được giữ lại.
 
-新历115年  经过鸣域演算中枢的推算，确定了新都选址，即如今的天城所在地。
+[Quy tắc mua lại]
+※ Khi thời hạn còn lại không quá 180 ngày, có thể mua lại Gói Tháng và gia hạn thêm số ngày tương ứng.
+※ Khi thời hạn còn lại hơn 180 ngày, không thể mua lại Gói Tháng.
+※ Khi thời hạn còn lại hơn 180 ngày nhưng do trường hợp đặc biệt dẫn đến mua lại, sẽ không cộng dồn thời hạn và hoàn trả trực tiếp 330 Đặc quyền Thừa đoái tương đương giá trị lần mua.
 
-新历116年  新年第一天，新都天城动工建设。
+[Lưu ý đặc biệt]
+Theo quy định liên quan, người chơi chưa đủ tuổi chỉ có thể đăng nhập game vào thứ Sáu, thứ Bảy, Chủ Nhật hoặc ngày lễ chính thức từ 20:00 đến 21:00, có thể không nhận đầy đủ tất cả phần thưởng của Gói Tháng. Người chơi chưa đủ tuổi mua Gói Tháng sẽ không nhận được bất kỳ hình thức bù đắp nào."
+lang_help.db,HelpText,71,解锁点数说明,,Mô tả Điểm Mở khóa
+lang_help.db,HelpText,72,"解锁点数数量每日刷新。
+解锁点数可用于解锁重要角色任务，需要满足以下条件：
+1.当前正在进行中的重要角色任务少于3个
+2.已达到角色任务解锁的前置条件
+3.当前剩余解锁点数足够解锁目标角色任务",,"Số lượng điểm mở khóa được làm mới mỗi ngày.
+Điểm mở khóa dùng để mở khóa nhiệm vụ nhân vật quan trọng, cần đáp ứng các điều kiện sau:
+1. Số nhiệm vụ nhân vật quan trọng đang thực hiện ít hơn 3
+2. Đã đạt điều kiện tiên quyết để mở khóa nhiệm vụ nhân vật
+3. Số điểm mở khóa còn lại đủ để mở khóa nhiệm vụ nhân vật mục tiêu"
+lang_help.db,HelpText,73,前进基地,Progressing Base,Tiền Tiến Cơ Địa
+lang_help.db,HelpText,74,"【<color=#8c7e51>阵容选择</color>】
+受训者构建队伍后，方可以进入挑战，单一队伍的最小构成共鸣者数量为<color=#8c7e51>1</color>个，最多为<color=#8c7e51>3</color>个。构成队伍会记录所选共鸣者的养成状态，在一场大型训练中保持不变。
+从第<color=#8c7e51>3</color>级训练——实景模拟开始，受训者需要在训练开始前构建<color=#8c7e51>2</color>个队伍进行挑战。
 
-新历120年  天城完成了第一阶段建设，大部分居民从各地迁居天城，此后数十年天城的基础建设陆续完善。
+【<color=#8c7e51>训练目的</color>】
+受训者在限定时间内消灭所有敌人判定为训练成功，只有成功后方可进入下一场训练，完成一场大型训练内所有小训练，则判定大型训练成功。
+在大型训练中，共鸣者的状态会继承，受训者需保证队伍中至少有<color=#8c7e51>1</color>名共鸣者存活，视作通过大型训练。
 
-新历134年  天城首次遭遇幻象兽潮的袭击，此后幻象兽潮频发，至今仍是威胁皇龙的巨大危险之一。
+【<color=#8c7e51>训练科目</color>】
+整个玩法由<color=#8c7e51>4</color>个大型训练构成，在前<color=#8c7e51>3</color>个大型训练中，每<color=#8c7e51>1</color>个大型训练内有<color=#8c7e51>4</color>轮小训练，第<color=#8c7e51>4</color>个大型训练只有<color=#8c7e51>1</color>场训练。
+受训者可以在完成某场训练后暂时离开前进基地，并且记录受训者的训练进度，之后可以选择继续或者重置训练进度。
+除了继续训练的行为外，受训者只能从大型训练的第一场训练进行游玩。
 
-新历155年  为鼓舞人心，举办了皇龙四杰的表彰仪式。同年，与神兽岁光产生共鸣的今汐，成为新任龙主。
+【<color=#8c7e51>能力限制</color>】
+受训者在前进基地玩法中，不能在训练过程中养成共鸣者，使用道具，更换装备和声骸，同时部分系统功能也会禁止。
 
-新历157年  皇龙遭遇重建以来规模最大的幻象袭击，被称为“巨浪兽潮”，此役付出惨重代价，最终由今汐唤醒岁光，才保住了重建的天城。
+【<color=#8c7e51>声之守护</color>】
+在前进基地玩法中，不同的训练可能存在不同的增益效果，受训者可以根据增益效果调整队伍阵容、装备或者声骸。
 
-如今，皇龙正从创伤中恢复，天城已成为所有皇龙人的希望之所。","新历110年  神兽岁光击败鸣式，一位名叫辛夷的少女借着点点火种，重塑人们心中的希望。她在一个临时避难所发表了振奋人心的演讲，重建皇龙的热潮于各地涌起。辛夷带领大家围绕神兽沉睡之地乘霄山开启了重建的第一步。
+【<color=#8c7e51>奖励规则</color>】
+首次通过一场训练时，受训者会在训练结算后获得奖励，<color=#8c7e51>重复通过已通关训练不会重复获得奖励</color>。",,"[<color=#8c7e51>Chọn đội hình</color>]
+Học viên cần xây dựng đội hình trước khi tham gia thử thách. Số Cộng Hưởng Giả tối thiểu trong một đội là <color=#8c7e51>1</color>, tối đa là <color=#8c7e51>3</color>. Đội hình sẽ ghi nhận trạng thái phát triển của Cộng Hưởng Giả được chọn và giữ nguyên trong suốt một buổi huấn luyện lớn.
+Từ bài huấn luyện cấp <color=#8c7e51>3</color> - Mô phỏng Thực cảnh trở đi, học viên cần xây dựng <color=#8c7e51>2</color> đội hình để tham gia thử thách.
 
-新历115年  经过鸣域演算中枢的推算，确定了新都选址，即如今的天城所在地。
+[<color=#8c7e51>Mục tiêu huấn luyện</color>]
+Học viên tiêu diệt tất cả kẻ địch trong thời gian giới hạn được xem là huấn luyện thành công, chỉ khi thành công mới có thể tiến vào bài huấn luyện tiếp theo. Hoàn thành tất cả bài huấn luyện nhỏ trong một buổi huấn luyện lớn thì buổi huấn luyện lớn được xem là thành công.
+Trong buổi huấn luyện lớn, trạng thái Cộng Hưởng Giả sẽ được kế thừa. Học viên cần đảm bảo ít nhất <color=#8c7e51>1</color> Cộng Hưởng Giả trong đội còn sống để được xem là vượt qua buổi huấn luyện lớn.
 
-新历116年  新年第一天，新都天城动工建设。
+[<color=#8c7e51>Nội dung huấn luyện</color>]
+Toàn bộ nội dung gồm <color=#8c7e51>4</color> buổi huấn luyện lớn. Trong <color=#8c7e51>3</color> buổi đầu, mỗi buổi có <color=#8c7e51>4</color> vòng huấn luyện nhỏ, buổi thứ <color=#8c7e51>4</color> chỉ có <color=#8c7e51>1</color> bài huấn luyện.
+Học viên có thể tạm rời Tiền Tiến Cơ Địa sau khi hoàn thành một bài huấn luyện, tiến độ sẽ được lưu lại. Sau đó có thể chọn tiếp tục hoặc đặt lại tiến độ.
+Ngoài việc tiếp tục huấn luyện, học viên chỉ có thể bắt đầu từ bài huấn luyện đầu tiên của buổi huấn luyện lớn.
 
-新历120年  天城完成了第一阶段建设，大部分居民从各地迁居天城，此后数十年天城的基础建设陆续完善。
+[<color=#8c7e51>Giới hạn năng lực</color>]
+Trong Tiền Tiến Cơ Địa, học viên không thể phát triển Cộng Hưởng Giả, sử dụng vật phẩm, thay đổi trang bị và Thanh Hài trong quá trình huấn luyện, đồng thời một số chức năng hệ thống cũng sẽ bị hạn chế.
 
-新历134年  天城首次遭遇幻象兽潮的袭击，此后幻象兽潮频发，至今仍是威胁皇龙的巨大危险之一。
+[<color=#8c7e51>Thanh Chi Thủ Hộ</color>]
+Trong Tiền Tiến Cơ Địa, các bài huấn luyện khác nhau có thể có hiệu ứng tăng cường khác nhau. Học viên có thể điều chỉnh đội hình, trang bị hoặc Thanh Hài dựa trên hiệu ứng tăng cường.
 
-新历155年  为鼓舞人心，举办了皇龙四杰的表彰仪式。同年，与神兽岁光产生共鸣的今汐，成为新任龙主。
+[<color=#8c7e51>Quy tắc thưởng</color>]
+Khi vượt qua một bài huấn luyện lần đầu, học viên sẽ nhận thưởng sau khi kết toán, <color=#8c7e51>vượt qua lại bài huấn luyện đã hoàn thành sẽ không nhận thưởng lần nữa</color>."
+lang_help.db,HelpText,75,原点科考站,Zero Point Research Station,Trạm Nghiên Cứu Nguyên Điểm
+lang_help.db,HelpText,76,"【<color=#8c7e51>原点科考站</color>】
+悲鸣前建造的大型地下综合实验中心。在悲鸣中因地形变化而沉入海底，直到近期才重新浮出水面。
+该科考站有着超过万米直抵莫霍面的深度，且仍有继续向下扩展的趋势。同时深井内仿若有周期性的回波传来，就像是在呼吸一般。因此该深井也获得了地狱之门的异名。
+毫无疑问，人类没有制造这样设施的工业能力。在深井的底层，无数的谜团正待揭晓……
 
-新历157年  皇龙遭遇重建以来规模最大的幻象袭击，被称为“巨浪兽潮”，此役付出惨重代价，最终由今汐唤醒岁光，才保住了重建的天城。
+【<color=#8c7e51>探索周期</color>】
+原点科考站的环境以<color=#8c7e51>两周</color>为一个周期自然恢复，周期重置后数据与怪物均会更新。因数据所得的奖励也会更新。
 
-如今，皇龙正从创伤中恢复，天城已成为所有皇龙人的希望之所。","Tân lịch năm 110: Thần thú Tuế Quang đánh bại Minh Thức, một thiếu nữ tên Tân Di mượn chút tia lửa nhỏ nhoi, tái tạo niềm hy vọng trong lòng mọi người. Cô phát biểu bài diễn thuyết đầy phấn khích tại một nơi trú ẩn tạm thời, làn sóng tái thiết Hoàng Long trỗi dậy khắp nơi. Tân Di dẫn dắt mọi người bắt đầu bước đầu tiên của việc tái thiết quanh Thừa Tiêu Sơn - nơi thần thú an giấc.
+【<color=#8c7e51>地下结构</color>】
+原点科考站共有<color=#8c7e51>3</color>个待探索区域，每个区域均有<color=#8c7e51>4</color>个深度。只有探索者完成了同一深度下的<color=#8c7e51>3</color>个区域探索，才能前往更深层进行探索。
 
-Tân lịch năm 115: Sau khi Trung tâm Diễn toán Minh Vực tính toán, địa điểm xây dựng tân đô được xác định, chính là nơi Thiên Thành ngày nay tọa lạc.
+【<color=#8c7e51>阵容选择</color>】
+探索需要编制<color=#8c7e51>3</color>个队伍，分别完成<color=#8c7e51>3</color>个区域的探索，已经出战的共鸣者将会被锁定在探索区域，无法参与其他区域的探索，直到同一难度的<color=#8c7e51>3</color>个区域全部探索结束。探索者可以选择手动解除共鸣者锁定，但解除锁定后，会重置当前区域的探索积分。
 
-Tân lịch năm 116: Ngày đầu tiên của năm mới, tân đô Thiên Thành khởi công xây dựng.
+【<color=#8c7e51>探索规则</color>】
+探索者需要在每个区域进行多层探索，每层探索均有一定的时间限制，若在限制时间内没有完成探索，将判定为失败；若在限定时间内击败所有怪物，则判定为通关。
 
-Tân lịch năm 120: Thiên Thành hoàn thành giai đoạn xây dựng đầu tiên, phần lớn cư dân từ các nơi chuyển đến Thiên Thành, trong vài thập kỷ sau đó cơ sở hạ tầng của Thiên Thành lần lượt được hoàn thiện.
+【<color=#8c7e51>探索度</color>】
+当探索者在表面层、中继层、深层探索时，根据探索者的表现会实时评估探索度，当探索全部完成后，会获得固定量的探索积分结算；
+当探索者在突变层探索时，需要尽快结束探索，以免受到污染，<color=#8c7e51>完成探索的速度越快</color>，<color=#8c7e51>结算时获得的探索积分越多</color>。
 
-Tân lịch năm 134: Thiên Thành lần đầu tiên hứng chịu cuộc tấn công từ thú triều Ảo Tượng, sau đó thú triều Ảo Tượng liên tục xảy ra, đến nay vẫn là một trong những mối nguy lớn nhất đe dọa Hoàng Long.
+【<color=#8c7e51>异质余音</color>】
+在科考站中，每个区域节点会有幻声之主，幻声之主获得了悲鸣余音的强化，相比一般怪物拥有更强大的力量，甚至拥有规则类的特性（比如增益效果），需要探索者根据特性谨慎选择出战阵容。
 
-Tân lịch năm 155: Để cổ vũ tinh thần, lễ biểu dương Hoàng Long Tứ Kiệt được tổ chức. Cùng năm đó, Jinhsi - người cộng hưởng với thần thú Tuế Quang - trở thành tân Long Chủ.
+【<color=#8c7e51>奖励规则</color>】
+探索越深入，获取的信息越多，奖励就会越多。每达到一定探索度，会在周期结束时，结算奖励；当探索者完成了表面层、中继层、深层探索后，可以提前获得奖励。
+ 
+【<color=#8c7e51>能力限制</color>】
+在原点科考站中，不能在探索过程中培养共鸣者，使用道具，更换装备和声骸，同时部分系统功能也会禁止。",,"[<color=#8c7e51>Trạm Nghiên Cứu Nguyên Điểm</color>]
+Trung tâm thí nghiệm tổng hợp ngầm quy mô lớn được xây dựng trước Bi Minh. Trong thời kỳ Bi Minh, do biến đổi địa hình mà chìm xuống đáy biển, cho đến gần đây mới nổi lên mặt nước trở lại.
+Trạm nghiên cứu này có độ sâu hơn vạn mét xuyên tới mặt Moho, và vẫn có xu hướng tiếp tục mở rộng xuống dưới. Đồng thời, từ trong giếng sâu dường như vọng lại những sóng hồi âm có chu kỳ, như thể đang thở. Vì vậy giếng sâu này còn có biệt danh là Cổng Địa Ngục.
+Chắc chắn rằng nhân loại không có năng lực công nghiệp để tạo ra công trình như vậy. Ở tầng đáy giếng sâu, vô số bí ẩn đang chờ được hé lộ...
 
-Tân lịch năm 157: Hoàng Long hứng chịu cuộc tấn công Ảo Tượng quy mô lớn nhất kể từ khi tái thiết, được gọi là ""Cự Lãng Thú Triều"". Trận này phải trả giá vô cùng nặng nề, cuối cùng nhờ Jinhsi đánh thức Tuế Quang mới bảo toàn được Thiên Thành vừa tái thiết.
+[<color=#8c7e51>Chu kỳ khám phá</color>]
+Môi trường Trạm Nghiên Cứu Nguyên Điểm tự phục hồi theo chu kỳ <color=#8c7e51>hai tuần</color>. Sau khi đặt lại chu kỳ, dữ liệu và quái vật đều được cập nhật. Phần thưởng từ dữ liệu cũng sẽ được làm mới.
 
-Hiện tại, Hoàng Long đang hồi phục từ vết thương, Thiên Thành đã trở thành nơi gửi gắm hy vọng của tất cả người Hoàng Long."
-lang_infodisplay.db,InfoDisplay,225,小龙包兑换券,Dumpling Coupon,Phiếu đổi Tiểu Long Bao
-lang_infodisplay.db,InfoDisplay,226,"《天城美食节纪念奖品——小龙包兑换券》
+[<color=#8c7e51>Cấu trúc ngầm</color>]
+Trạm Nghiên Cứu Nguyên Điểm có tổng cộng <color=#8c7e51>3</color> khu vực cần khám phá, mỗi khu vực có <color=#8c7e51>4</color> tầng sâu. Chỉ khi hoàn thành khám phá <color=#8c7e51>3</color> khu vực ở cùng một tầng sâu, mới có thể tiến xuống tầng sâu hơn.
 
-持本券至攀花饭馆可免费兑换小龙包5份，数量有限，兑完即止。
-有效期：新历159年10月10日~新历159年11月10日
-注意事项：本奖品不折现，不退还，请自行保管，遗失不补。
+[<color=#8c7e51>Chọn đội hình</color>]
+Khám phá cần biên chế <color=#8c7e51>3</color> đội hình, lần lượt hoàn thành khám phá <color=#8c7e51>3</color> khu vực. Cộng Hưởng Giả đã ra trận sẽ bị khóa trong khu vực khám phá, không thể tham gia khu vực khác cho đến khi <color=#8c7e51>3</color> khu vực cùng độ khó đều được khám phá xong. Người khám phá có thể chọn mở khóa Cộng Hưởng Giả thủ công, nhưng sau khi mở khóa, điểm khám phá của khu vực hiện tại sẽ bị đặt lại.
 
+[<color=#8c7e51>Quy tắc khám phá</color>]
+Người khám phá cần thực hiện khám phá nhiều tầng ở mỗi khu vực. Mỗi tầng có giới hạn thời gian nhất định. Nếu không hoàn thành trong thời gian giới hạn, sẽ bị xem là thất bại; nếu đánh bại tất cả quái vật trong thời gian giới hạn, sẽ được xem là vượt qua.
 
-匿名的批注：
-完蛋！过期了。T_T","<i>Tiancheng Cuisine Festival Award - Dumpling Coupon</i>
+[<color=#8c7e51>Độ khám phá</color>]
+Khi khám phá ở Tầng Bề mặt, Tầng Trung kế và Tầng Sâu, độ khám phá sẽ được đánh giá theo thời gian thực dựa trên biểu hiện của người khám phá. Khi hoàn thành toàn bộ khám phá, sẽ nhận lượng điểm khám phá cố định;
+Khi khám phá ở Tầng Đột biến, cần kết thúc khám phá càng nhanh càng tốt để tránh bị ô nhiễm. <color=#8c7e51>Hoàn thành khám phá càng nhanh</color>, <color=#8c7e51>điểm khám phá nhận được khi kết toán càng nhiều</color>.
 
-Take this coupon to Panhua Restaurant to be redeemed for 5 servings of dumplings. Subject to availability.
-Validity: Oct 10 - Nov 10, 159 A. L.
-Note: This award may not be liquidated, returned, or replaced. Please keep with care.
+[<color=#8c7e51>Dị Chất Dư Âm</color>]
+Trong trạm nghiên cứu, mỗi nút khu vực sẽ có Chúa Ảo Thanh - những thực thể được tăng cường bởi dư âm Bi Minh. So với quái vật thường, chúng sở hữu sức mạnh lớn hơn, thậm chí có đặc tính dạng quy tắc (ví dụ: hiệu ứng tăng cường). Người khám phá cần thận trọng chọn đội hình ra trận dựa trên đặc tính.
 
+[<color=#8c7e51>Quy tắc thưởng</color>]
+Khám phá càng sâu, thông tin thu được càng nhiều, phần thưởng càng phong phú. Mỗi khi đạt đến một mức độ khám phá nhất định, phần thưởng sẽ được kết toán khi kết thúc chu kỳ; khi hoàn thành khám phá Tầng Bề mặt, Tầng Trung kế và Tầng Sâu, có thể nhận thưởng sớm.
+ 
+[<color=#8c7e51>Giới hạn năng lực</color>]
+Trong Trạm Nghiên Cứu Nguyên Điểm, không thể phát triển Cộng Hưởng Giả, sử dụng vật phẩm, thay đổi trang bị và Thanh Hài trong quá trình khám phá, đồng thời một số chức năng hệ thống cũng sẽ bị hạn chế."
+lang_help.db,HelpText,77,变星说明,,Mô tả Biến Tinh
+lang_help.db,HelpText,78,"【变星】
+漂泊者可通过完成变星任务获得变星经验值、提高变星等级，进而获取丰厚的奖励。
+每日任务将在每天04:00更新，每周任务将在每周一04:00更新（GMT+8）。
 
-Anomalous notes:
-My Lady! Expired.:(","""Lễ hội Ẩm thực Thiên Thành - Phần thưởng kỷ niệm: Phiếu đổi Tiểu Long Bao""
+※解锁变星
+每期变星开启时，食变星默认解锁；漂泊者还可激活脉冲变星或爆发变星，解锁脉冲变星权限，进一步获取更多奖励。
 
-Mang phiếu này đến Phàn Hoa Phạn Quán để đổi miễn phí 5 phần Tiểu Long Bao, số lượng có hạn, hết phiếu là hết.
-Hiệu lực: 10/10 Tân lịch năm 159 ~ 10/11 Tân lịch năm 159
-Lưu ý: Phần thưởng này không quy đổi tiền mặt, không hoàn trả, vui lòng tự bảo quản, mất không cấp lại.
+※变星等级上限
+每一期变星周期内，达到等级上限后，变星等级将不再增加。但变星经验仍然可以继续获取，获得的经验将用于兑换【变星回波】奖励。
 
+※变星每周经验上限
+每周通过任务获得的变星经验有固定上限，溢出部分的经验在领取后会直接灭失，不会保留。
+激活爆发变星或直接购买变星等级，获得的经验不在此限制内。
 
-Ghi chú ẩn danh:
-Xong đời! Hết hạn rồi. T_T"
-lang_infodisplay.db,InfoDisplay,227,秘密日记·一,Secret Journal No. 1,Nhật ký bí mật - Phần 1
-lang_infodisplay.db,InfoDisplay,228,"岁光那个家伙，最近又联系不上了。
-唔……难道是我昨天用小龙包诱惑它，惹它生气了？
-下次去乘霄山看望它之前，先去攀花阿姨那里买点小龙包好了。
-咦？不对，岁光真的能吃小龙包吗？嘿嘿，下次试试看。","That Suiguang guy, recently could not be reached again.
-Well...... could it be that I tempted it with a dumpling yesterday and made it angry?
-Then next time before I go to Chengxiao Mountain to visit it, I'll go to Aunt Panhua's to buy some dumplings.
-Oh, no, can Suiguang really eat dumpling? Hey hey, We'll see next time.","Cái tên Tuế Quang đó, gần đây lại liên lạc không được rồi.
-Uhm... hay là vì hôm qua ta dùng tiểu long bao dụ nó, làm nó giận rồi?
-Lần sau trước khi đến núi Thừa Tiêu thăm nó, ghé cô Phàn Hoa mua ít tiểu long bao trước vậy.
-Ủa? Không đúng, Tuế Quang thật sự ăn được tiểu long bao sao? Hehe, lần sau thử xem."
-lang_infodisplay.db,InfoDisplay,229,秘密日记·二,Secret Journal No. 2,Nhật ký bí mật - Quyển hai
-lang_infodisplay.db,InfoDisplay,230,"今天再次出现暂时性的记忆空白，偶尔还能听到微弱的声音，像是……岁光。
-这种感觉就像是不慎溺水，身体不断下沉，水域渐渐隔绝外界的声响，窒息感笼罩着全身。
-把此事告诉岁光后，它总说是我的幻听，哼，肯定又在敷衍我。","Today there is once again a temporary memory gap, and occasionally a faint sound can be heard, like...... Suiguang.
-This feeling is like inadvertently drowning, with the body continuing to sink, the waters gradually isolating sounds from the outside world, the sense of suffocation enveloping the whole body.
-When I tell the matter to the Suiguang, it always says it is my hallucinations. Hum, must be perfuming me again.","Hôm nay lại xuất hiện tình trạng mất trí nhớ tạm thời, thỉnh thoảng còn nghe thấy âm thanh yếu ớt, giống như... Tuế Quang.
-Cảm giác này giống như vô tình chìm đuối, cơ thể cứ chìm dần, mặt nước dần cách ly mọi âm thanh bên ngoài, cảm giác ngạt thở bao trùm toàn thân.
-Kể chuyện này cho Tuế Quang nghe, nó cứ bảo là ta bị ảo giác, hừ, chắc chắn lại đang qua loa cho xong."
-lang_infodisplay.db,InfoDisplay,231,晓卫团长遇害案件纪要,Minutes of Mourn Guard Commander's Murder,Biên bản vụ ám sát Đoàn trưởng Hiểu Vệ
-lang_infodisplay.db,InfoDisplay,232,"日期：新历159年
-机密性：S级
-案件纪要：
-新历159年，前晓卫团长叙观于中枢指挥厅外围遇刺，经抢救无效身亡。
-经调查，现场存在明显打斗痕迹，当晚有多人看到火光，并伴随爆炸声，根据残留数据分析，嫌疑人为具备异能力的共鸣者。
-晓卫巡防小队赶到时，嫌疑人已消失，封锁全城入口均未发现可疑人员，推测嫌疑人拥有异于常人的移动手段。
-叙观团长手中残留了红色碎片，疑为线索，但因碎片过小，暂时无法锁定目标。
-兹事体大，建议暂时不公开案件细节，转为秘密调查。
+※特别说明
+1.如因特殊情况导致重复激活变星（包括脉冲变星、爆发变星、已激活脉冲变星后升级至爆发变星），变星经验将不会叠加，并将直接返还对应购买价格的承兑特权。
+2.根据相关规定，未成年人仅可在周五、周六、周日或法定节假日的20:00至21:00登录游戏，可能无法在变星周期内达到变星等级上限、无法完整获得变星的所有奖励。激活脉冲变星和爆发变星的未成年玩家，将不会收到任何形式的补偿。",,"[Biến Tinh]
+Lữ Khách có thể hoàn thành nhiệm vụ Biến Tinh để nhận điểm kinh nghiệm Biến Tinh, nâng cấp Biến Tinh và nhận phần thưởng hậu hĩnh.
+Nhiệm vụ hàng ngày cập nhật lúc 04:00 mỗi ngày, nhiệm vụ hàng tuần cập nhật lúc 04:00 thứ Hai hàng tuần (GMT+8).
 
-今汐的批注：
-同意。叙观团长深受信赖，此事恐动摇人心，造成恐慌，务必做好安抚工作。","日期：新历159年
-机密性：S级
-案件纪要：
-新历159年，前晓卫团长叙观于中枢指挥厅外围遇刺，经抢救无效身亡。
-经调查，现场存在明显打斗痕迹，当晚有多人看到火光，并伴随爆炸声，根据残留数据分析，嫌疑人为具备异能力的共鸣者。
-晓卫巡防小队赶到时，嫌疑人已消失，封锁全城入口均未发现可疑人员，推测嫌疑人拥有异于常人的移动手段。
-叙观团长手中残留了红色碎片，疑为线索，但因碎片过小，暂时无法锁定目标。
-兹事体大，建议暂时不公开案件细节，转为秘密调查。
+※ Mở khóa Biến Tinh
+Khi mỗi kỳ Biến Tinh bắt đầu, Thực Biến Tinh mặc định được mở khóa; Lữ Khách còn có thể kích hoạt Xung Biến Tinh hoặc Bùng Nổ Biến Tinh để mở khóa quyền Xung Biến Tinh, nhận thêm nhiều phần thưởng hơn.
 
-今汐的批注：
-同意。叙观团长深受信赖，此事恐动摇人心，造成恐慌，务必做好安抚工作。","Ngày: Năm 159 Tân lịch
-Mức bảo mật: Hạng S
-Biên bản vụ án:
-Năm 159 Tân lịch, cựu Đoàn trưởng Hiểu Vệ Tự Quan bị ám sát tại vòng ngoài Sảnh Chỉ huy Trung khu, cấp cứu bất thành, tử vong.
-Qua điều tra, hiện trường có dấu vết giao đấu rõ ràng, tối hôm đó nhiều người nhìn thấy ánh lửa kèm theo tiếng nổ. Theo phân tích dữ liệu tàn dư, nghi phạm là Cộng Hưởng Giả sở hữu dị năng.
-Khi đội tuần phòng Hiểu Vệ đến nơi, nghi phạm đã biến mất, phong tỏa toàn bộ lối vào thành đều không phát hiện người khả nghi, suy đoán nghi phạm có phương thức di chuyển khác thường.
-Trong tay Đoàn trưởng Tự Quan còn sót lại mảnh vỡ màu đỏ, nghi là manh mối, nhưng do mảnh vỡ quá nhỏ, tạm thời chưa thể xác định mục tiêu.
-Vụ việc hệ trọng, đề xuất tạm thời không công khai chi tiết vụ án, chuyển sang điều tra bí mật.
+※ Giới hạn cấp Biến Tinh
+Trong mỗi kỳ Biến Tinh, khi đạt giới hạn cấp, cấp Biến Tinh sẽ không tăng thêm. Tuy nhiên vẫn có thể tiếp tục nhận kinh nghiệm Biến Tinh, kinh nghiệm nhận được sẽ dùng để đổi phần thưởng [Hồi Ba Biến Tinh].
 
-Phê chú của Jinhsi:
-Đồng ý. Đoàn trưởng Tự Quan được mọi người hết mực tín nhiệm, vụ việc này e sẽ lay động lòng người, gây hoang mang, nhất định phải làm tốt công tác an dân."
-lang_infodisplay.db,InfoDisplay,233,修复中的画作,修复中的画作,Tác phẩm đang được phục chế
-lang_infodisplay.db,InfoDisplay,234,"长达400厘米，宽30厘米的画作，多处损毁，难辨画面。
-左侧有三处修复痕迹，已修复部分呈现出街市祥和热闹的景象，门庭若市，车水马龙，闭目聆听宛若置身其间，嘈杂熙攘的人声清晰可闻。","长达400厘米，宽30厘米的画作，多处损毁，难辨画面。
-左侧有三处修复痕迹，已修复部分呈现出街市祥和热闹的景象，门庭若市，车水马龙，闭目聆听宛若置身其间，嘈杂熙攘的人声清晰可闻。","Bức họa dài 400 centimet, rộng 30 centimet, nhiều chỗ bị hư hại, khó nhận diện hình ảnh.
-Bên trái có ba vết phục chế, phần đã phục chế thể hiện cảnh phố phường thanh bình nhộn nhịp, cửa tiệm đông đúc, xe ngựa tấp nập, nhắm mắt lắng nghe tựa như đang đứng giữa nơi đó, tiếng người ồn ào náo nhiệt nghe rõ mồn một."
-lang_infodisplay.db,InfoDisplay,235,修复记录,修复记录,Hồ sơ phục chế
-lang_infodisplay.db,InfoDisplay,236,"修复日期：新历158年
-修复人：代号马良
-修复记录：
-这批从旧日遗迹挖掘出的画作还算保存完善，损毁点仅有47处。
-这幅长卷画作有点意思，用横版绘卷方式记录了某个地区的生活方式，其中竟有众人闻所未闻的东西，若是修复完成，必定能窥见悲鸣前的某些时光残片吧。
+※ Giới hạn kinh nghiệm hàng tuần
+Kinh nghiệm Biến Tinh nhận từ nhiệm vụ mỗi tuần có giới hạn cố định, phần kinh nghiệm vượt quá sau khi nhận sẽ mất đi, không được giữ lại.
+Kinh nghiệm nhận từ kích hoạt Bùng Nổ Biến Tinh hoặc mua trực tiếp cấp Biến Tinh không nằm trong giới hạn này.
 
+※ Lưu ý đặc biệt
+1. Nếu do trường hợp đặc biệt dẫn đến kích hoạt trùng lặp Biến Tinh (bao gồm Xung Biến Tinh, Bùng Nổ Biến Tinh, hoặc nâng cấp từ Xung Biến Tinh đã kích hoạt lên Bùng Nổ Biến Tinh), kinh nghiệm Biến Tinh sẽ không cộng dồn và sẽ hoàn trả trực tiếp Đặc quyền Thừa đoái tương đương giá mua.
+2. Theo quy định liên quan, người chơi chưa đủ tuổi chỉ có thể đăng nhập game vào thứ Sáu, thứ Bảy, Chủ Nhật hoặc ngày lễ chính thức từ 20:00 đến 21:00, có thể không đạt được giới hạn cấp Biến Tinh trong chu kỳ, không thể nhận đầy đủ tất cả phần thưởng Biến Tinh. Người chơi chưa đủ tuổi kích hoạt Xung Biến Tinh và Bùng Nổ Biến Tinh sẽ không nhận được bất kỳ hình thức bù đắp nào."
+lang_help.db,HelpText,79,先行公约委托,,Ủy thác Hiệp Ước Tiên Phong
+lang_help.db,HelpText,80,"【委托发布】
+先行公约每日会对外发布若干委托任务，完成委托后可以通过先行公约交付获得一定的报酬。
 
-匿名的回复：
-左边第三个摊位上的食物看起来好好吃的样子，记下来找攀花阿姨试着做一下好了。
-啊，还有第六个摊位门口的摆件，是……玩具吗？
-这个地区的人真有趣啊！希望下次节庆能在天城展览这幅画！","修复日期：新历158年
-修复人：代号马良
-修复记录：
-这批从旧日遗迹挖掘出的画作还算保存完善，损毁点仅有47处。
-这幅长卷画作有点意思，用横版绘卷方式记录了某个地区的生活方式，其中竟有众人闻所未闻的东西，若是修复完成，必定能窥见悲鸣前的某些时光残片吧。
+【委托倾向】
+1.委托可能来源于不同国家，以及不同的势力，受委托者可以自主修改委托的倾向，但无法接受来自尚未接触的国家和势力的委托。
+2.将委托倾向修改为「随机国家」后，将从任意一个国家中，获得来自任意势力的委托。
+3.将委托倾向修改为「随机势力」后，将从已选择国家中，获得来自任意势力的委托。
+4.委托倾向的修改结果将于次日生效。",,"[Đăng tải Ủy thác]
+Hiệp Ước Tiên Phong mỗi ngày sẽ công bố một số nhiệm vụ ủy thác. Sau khi hoàn thành ủy thác, có thể giao nộp qua Hiệp Ước Tiên Phong để nhận thù lao nhất định.
 
+[Thiên hướng Ủy thác]
+1. Ủy thác có thể đến từ các quốc gia và thế lực khác nhau. Người nhận ủy thác có thể tự chỉnh sửa thiên hướng ủy thác, nhưng không thể nhận ủy thác từ quốc gia hoặc thế lực chưa từng tiếp xúc.
+2. Khi chỉnh thiên hướng ủy thác thành ""Quốc gia ngẫu nhiên"", sẽ nhận ủy thác từ bất kỳ thế lực nào thuộc bất kỳ quốc gia nào.
+3. Khi chỉnh thiên hướng ủy thác thành ""Thế lực ngẫu nhiên"", sẽ nhận ủy thác từ bất kỳ thế lực nào thuộc quốc gia đã chọn.
+4. Thay đổi thiên hướng ủy thác sẽ có hiệu lực vào ngày hôm sau."
+lang_help.db,HelpText,81,test/拾音辑录入口说明,,test/Mô tả đầu vào Thu Âm Tập Lục
+lang_help.db,HelpText,82,test/拾音辑录入口说明,,test/Mô tả đầu vào Thu Âm Tập Lục
+lang_help.db,HelpText,83,test/回音结像说明,,test/Mô tả Hồi Âm Kết Tượng
+lang_help.db,HelpText,84,test/回音结像说明,,test/Mô tả Hồi Âm Kết Tượng
+lang_help.db,HelpText,85,test/无音区说明,,test/Mô tả Vùng Vô Thanh
+lang_help.db,HelpText,86,test/无音区说明,,test/Mô tả Vùng Vô Thanh
+lang_help.db,HelpText,87,test/声之领域说明,,test/Mô tả Lãnh Vực Thanh Âm
+lang_help.db,HelpText,88,test/声之领域说明,,test/Mô tả Lãnh Vực Thanh Âm
+lang_help.db,HelpText,89,test/每日委托说明,,test/Mô tả Ủy thác hàng ngày
+lang_help.db,HelpText,90,test/每日委托说明,,test/Mô tả Ủy thác hàng ngày
+lang_help.db,HelpText,91,test/跑酷帮助,,test/Trợ giúp Parkour
+lang_help.db,HelpText,92,test/跑酷帮助内容,,test/Nội dung trợ giúp Parkour
+lang_help.db,HelpText,93,test/材料副本说明,,test/Mô tả Phụ bản Nguyên liệu
+lang_help.db,HelpText,94,test/材料副本说明内容,,test/Nội dung mô tả Phụ bản Nguyên liệu
+lang_help.db,HelpText,95,test/爬塔副本说明,,test/Mô tả Phụ bản Leo tháp
+lang_help.db,HelpText,96,test/爬塔副本说明内容,,test/Nội dung mô tả Phụ bản Leo tháp
+lang_help.db,HelpText,97,test/教学副本说明,,test/Mô tả Phụ bản Hướng dẫn
+lang_help.db,HelpText,98,test/教学副本说明内容,,test/Nội dung mô tả Phụ bản Hướng dẫn
+lang_help.db,HelpText,99,test/周本说明,,test/Mô tả Bản Tuần
+lang_help.db,HelpText,100,test/周本说明内容,,test/Nội dung mô tả Bản Tuần
+lang_hot_patch.db,HotPatchText,BinPatchFailed,二进制补丁合成失败，原因：{0},Binary patch installation failed. Reason: {0},"Tổng hợp bản vá nhị phân thất bại, nguyên nhân: {0}"
+lang_hot_patch.db,HotPatchText,BinPatchProgress,补丁合成进度{0}%,Patching progress {0}%,Tiến trình tổng hợp bản vá: {0}%
+lang_hot_patch.db,HotPatchText,CheckAppUpdate,检查应用更新…,Checking for app updates...,Đang kiểm tra cập nhật ứng dụng...
+lang_hot_patch.db,HotPatchText,CheckIntegrity,正在验证游戏完整性{0}%,Verifying files integrity: {0}%,Đang xác minh tính toàn vẹn của game: {0}%
+lang_hot_patch.db,HotPatchText,CheckResourceVersion,检查{0}资源版本,Checking {0} version...,Đang kiểm tra phiên bản tài nguyên {0}
+lang_hot_patch.db,HotPatchText,ChildProtocol,查看儿童隐私协议,Children's Privacy Policy,Xem chính sách quyền riêng tư trẻ em
+lang_hot_patch.db,HotPatchText,CompilingShader,正在编译着色器 {0},Compiling Shader: {0},Đang biên dịch Shader: {0}
+lang_hot_patch.db,HotPatchText,CompleteHotFix,完成更新,Patching Complete,Cập nhật hoàn tất
+lang_hot_patch.db,HotPatchText,ConfirmBox_362_ButtonText_0,增量下载,Incremental Download,Tải tăng dần
+lang_hot_patch.db,HotPatchText,ConfirmBox_362_ButtonText_1,全量下载,Full Download,Tải toàn bộ
+lang_hot_patch.db,HotPatchText,ConfirmBox_362_Content,"检测到存储空间不足增量下载及合成所需空间：{0}，需预留足够空间后进行【增量下载】，或根据当前空间大小可按需选择【全量下载】。
+增量资源包大小：{1}
+全量资源包大小：{2}","Insufficient storage space detected. Required free space for incremental download and processing: {0}. Please free up enough space to proceed with Incremental Download or choose Full Download based on your current available storage.
 
-匿名的回复：
-左边第三个摊位上的食物看起来好好吃的样子，记下来找攀花阿姨试着做一下好了。
-啊，还有第六个摊位门口的摆件，是……玩具吗？
-这个地区的人真有趣啊！希望下次节庆能在天城展览这幅画！","Ngày phục chế: Năm 158 Tân lịch
-Người phục chế: Mật danh Mã Lương
-Hồ sơ phục chế:
-Lô tranh khai quật từ di tích cũ này còn bảo quản khá tốt, chỉ có 47 điểm hư hại.
-Bức trường quyển này khá thú vị, dùng phương thức hội quyển ngang ghi lại lối sống của một vùng nào đó, trong đó có những thứ chưa ai từng nghe qua, nếu phục chế xong, nhất định có thể nhìn thấy những mảnh thời gian trước Bi Minh.
-
-
-Phản hồi ẩn danh:
-Đồ ăn trên quầy thứ ba bên trái trông ngon quá đi, ghi lại rồi tìm cô Phàn Hoa thử làm xem.
-A, còn có món đồ trang trí trước cửa quầy thứ sáu nữa, là... đồ chơi sao?
-Người ở vùng này thật thú vị! Hy vọng lần lễ hội tới có thể triển lãm bức tranh này ở Thiên Thành!"
-lang_infodisplay.db,InfoDisplay,237,第171号修复品,第171号修复品,Vật phục chế số 171
-lang_infodisplay.db,InfoDisplay,238,"横向长卷，烟波浩渺、层峦叠嶂的水墨作品。
-得益于陈皮先生提供的悲鸣前画作照片，该作品修复进程顺利高效。
-龙主赐名《闻野》，计划于新历160年全城展览。","横向长卷，烟波浩渺、层峦叠嶂的水墨作品。
-得益于陈皮先生提供的悲鸣前画作照片，该作品修复进程顺利高效。
-龙主赐名《闻野》，计划于新历160年全城展览。","Trường quyển ngang, tác phẩm thủy mặc với khói sóng mênh mông, núi non trùng điệp.
-Nhờ có bức ảnh tác phẩm trước Bi Minh do Chenpi tiên sinh cung cấp, tiến trình phục chế tác phẩm diễn ra thuận lợi và hiệu quả.
-Long Chủ ban tên ""Văn Dã"", dự kiến triển lãm toàn thành vào năm 160 Tân lịch."
-lang_infodisplay.db,InfoDisplay,239,第281号修复品,第281号修复品,Vật phục chế số 281
-lang_infodisplay.db,InfoDisplay,240,"泛黄的照片。夕阳的余晖被山峦吞噬，群鸟盘旋，人群蜂拥逃难，世界兵荒马乱。
-推测拍摄时间为悲鸣发生时，这张照片让当代人类看见了灾难的缩影。
-历史洪流之下，当居安思危，勿忘抗争之火种。
-龙主赐名《无声的战争》，计划于新历160年全城展览。","泛黄的照片。夕阳的余晖被山峦吞噬，群鸟盘旋，人群蜂拥逃难，世界兵荒马乱。
-推测拍摄时间为悲鸣发生时，这张照片让当代人类看见了灾难的缩影。
-历史洪流之下，当居安思危，勿忘抗争之火种。
-龙主赐名《无声的战争》，计划于新历160年全城展览。","Bức ảnh ngả vàng. Ánh tà dương bị núi non nuốt chửng, đàn chim lượn vòng, đám đông chen nhau chạy nạn, thế giới binh hoang mã loạn.
-Suy đoán thời điểm chụp là lúc Bi Minh xảy ra, bức ảnh này cho con người đương đại nhìn thấy hình ảnh thu nhỏ của thảm họa.
-Dưới dòng chảy lịch sử, nên cư an tư nguy, chớ quên ngọn lửa kháng tranh.
-Long Chủ ban tên ""Vô Thanh Đích Chiến Tranh"", dự kiến triển lãm toàn thành vào năm 160 Tân lịch."
-lang_infodisplay.db,InfoDisplay,241,留言,Comments,Lời nhắn
-lang_infodisplay.db,InfoDisplay,242,"1：森栖牛的奶尝起来果然非同寻常！有点辣，有点麻，还有点青草的苦味，或许可以把咸奶茶的原料换成这个。我有预感，这种奶茶一定会大获好评！如果有人也对“火辣辣奶茶”感兴趣就留言吧，之后我会回来统计人数，然后在天城举办试吃活动。也许会量产哦。
-2：我要喝，我要喝！这味道太上头了。
-3：没有火辣辣奶茶喝的话，我可怎么活啊……
-4：请一定要举办试吃，我们全家都会订购的！","1: The milk of Morricow tastes extraordinary! It's a little spicy, a little numb, and a little grassy bitter, so maybe we can replace the ingredients of the salty milk tea with this. I have a feeling that this milk tea will be a big hit! If anyone is also interested in the ""Hot and Spicy Milk Tea"", please leave a comment and I will come back to count the number of people and hold a tasting event in Tiancheng. Maybe we'll mass produce it.
-2: I will drink, I will drink! This is so addictive.
-3: My life is going to doom if can't drink Hot and Spicy Milk Tea...
-4: You must hold a tasting event, because my whole family will be ordering!","1: Sữa của bò Sâm Thê uống quả nhiên khác thường! Hơi cay, hơi tê, còn có chút vị đắng của cỏ non, có lẽ có thể thay nguyên liệu trà sữa mặn bằng thứ này. Ta có linh cảm, loại trà sữa này nhất định sẽ được yêu thích! Nếu ai cũng hứng thú với ""Trà sữa cay nóng"" thì để lại lời nhắn nhé, sau này ta sẽ quay lại thống kê số người, rồi tổ chức sự kiện dùng thử ở Thiên Thành. Biết đâu sẽ sản xuất hàng loạt đấy.
-2: Tôi muốn uống, tôi muốn uống! Vị này quá đã.
-3: Không có trà sữa cay nóng uống thì tôi sống sao nổi đây...
-4: Nhất định phải tổ chức dùng thử nhé, cả nhà tôi đều sẽ đặt mua!"
-lang_infodisplay.db,InfoDisplay,243,日记一则,日记一则,Một đoạn nhật ký
-lang_infodisplay.db,InfoDisplay,244,"马岫：画家先生，这幅画是？
-画家：送给您的别礼，是岫先生您离世时的场面。
-马岫：哈哈哈哈！这么别开生面的别礼，您真是位奇人。
-画家：我还以为您多少会有些生气。
-马岫：有了小女后，我的脾气简直好得不得了。
-画家：说起令爱，她看起来倒是个软弱的人呢。
-马岫：您怎么会这样认为？她向来是勇敢的孩子。
-画家：她不喜欢“马小芳”这个名字。
-马岫：这能说明什么？
-画家：说明她连面对自己的勇气都缺乏。
-马岫：面对自己可不是简单的事啊。我了解我的孩子，她会成为最勇敢的英雄的。
-画家：如果她本有机会拯救您，却因为软弱的本性，错过了那个关键时刻呢。
-马岫：……
-马岫：画家先生，你是认真的？
-画家：万分认真。
-马岫：画家先生，能见识您那番神奇的卜命本领，是我的荣幸。但在这点上，我想您错了。
-画家：关于您的离世？
-马岫：不，是关于我的孩子。
-马岫：如果真如您所言，真有那样的时刻，那我的离开，想必就是她的英雄之路的起点吧。
-画家：为什么呢？
-马岫：我已经说过原因了。
-画家：嗯？
-马岫：我了解我的孩子，总有一天，她会成为最勇敢的英雄。
-画家：岫先生，您也是位奇人呢……那就让我们拭目以待吧。","马岫：画家先生，这幅画是？
-画家：送给您的别礼，是岫先生您离世时的场面。
-马岫：哈哈哈哈！这么别开生面的别礼，您真是位奇人。
-画家：我还以为您多少会有些生气。
-马岫：有了小女后，我的脾气简直好得不得了。
-画家：说起令爱，她看起来倒是个软弱的人呢。
-马岫：您怎么会这样认为？她向来是勇敢的孩子。
-画家：她不喜欢“马小芳”这个名字。
-马岫：这能说明什么？
-画家：说明她连面对自己的勇气都缺乏。
-马岫：面对自己可不是简单的事啊。我了解我的孩子，她会成为最勇敢的英雄的。
-画家：如果她本有机会拯救您，却因为软弱的本性，错过了那个关键时刻呢。
-马岫：……
-马岫：画家先生，你是认真的？
-画家：万分认真。
-马岫：画家先生，能见识您那番神奇的卜命本领，是我的荣幸。但在这点上，我想您错了。
-画家：关于您的离世？
-马岫：不，是关于我的孩子。
-马岫：如果真如您所言，真有那样的时刻，那我的离开，想必就是她的英雄之路的起点吧。
-画家：为什么呢？
-马岫：我已经说过原因了。
-画家：嗯？
-马岫：我了解我的孩子，总有一天，她会成为最勇敢的英雄。
-画家：岫先生，您也是位奇人呢……那就让我们拭目以待吧。","Mã Tụ: Họa sĩ tiên sinh, bức tranh này là?
-Họa sĩ: Quà biệt ly tặng ngài, là cảnh tượng lúc Tụ tiên sinh qua đời.
-Mã Tụ: Ha ha ha ha! Món quà biệt ly độc đáo thế này, ngài quả là người kỳ lạ.
-Họa sĩ: Tôi còn tưởng ngài ít nhiều sẽ nổi giận.
-Mã Tụ: Từ khi có cô con gái nhỏ, tính tôi tốt không thể nào tốt hơn.
-Họa sĩ: Nói đến lệnh ái, cô ấy trông lại là người yếu đuối nhỉ.
-Mã Tụ: Sao ngài lại nghĩ vậy? Nó vốn là đứa trẻ dũng cảm.
-Họa sĩ: Cô ấy không thích cái tên ""Mã Tiểu Phương"".
-Mã Tụ: Điều đó chứng minh được gì?
-Họa sĩ: Chứng minh cô ấy thiếu cả dũng khí đối mặt với chính mình.
-Mã Tụ: Đối mặt với bản thân đâu phải chuyện đơn giản. Tôi hiểu con mình, nó sẽ trở thành anh hùng dũng cảm nhất.
-Họa sĩ: Nếu cô ấy vốn có cơ hội cứu ngài, nhưng vì bản tính yếu đuối mà bỏ lỡ khoảnh khắc then chốt ấy thì sao?
-Mã Tụ: ...
-Mã Tụ: Họa sĩ tiên sinh, ngài nói nghiêm túc đấy chứ?
-Họa sĩ: Vạn phần nghiêm túc.
-Mã Tụ: Họa sĩ tiên sinh, được chứng kiến bản lĩnh bốc mệnh thần kỳ của ngài là vinh hạnh của tôi. Nhưng ở điểm này, tôi nghĩ ngài đã nhầm.
-Họa sĩ: Về việc ngài qua đời?
-Mã Tụ: Không, là về con gái tôi.
-Mã Tụ: Nếu thật như ngài nói, thật có khoảnh khắc ấy, thì sự ra đi của tôi, hẳn chính là khởi điểm trên con đường anh hùng của nó.
-Họa sĩ: Tại sao vậy?
-Mã Tụ: Tôi đã nói lý do rồi.
-Họa sĩ: Hả?
-Mã Tụ: Tôi hiểu con mình, tổng có một ngày, nó sẽ trở thành anh hùng dũng cảm nhất.
-Họa sĩ: Tụ tiên sinh, ngài cũng là người kỳ lạ nhỉ... Vậy thì chúng ta hãy chờ xem."
-lang_infodisplay.db,InfoDisplay,246,"新历157年 5月10日
-这是加入先遣小队后的第一次出征，原以为鸣潮天气只是幻象比平常活跃、攻击性更强一些，没想到是我太天真了。
-溯回雨下个不停，模糊了大家的视线，战斗变得极其困难，有时候就连行进的道路都看不清。
-好在忌炎团长的青龙一直在前方开路，只要看着被长枪指引的青龙，我们就不会迷路。
-
-新历157年 5月11日
-这次出征任务是前往北落野深处，据说研究院探测到了疑似鸣式无冠者的能量痕迹，鸣潮天气登陆后，这种能量就愈发明显。
-不知是不是幻觉，在这种天气里呆久了，总觉得空气中潜藏着窃窃私语的声音。
-原来不是幻觉，其他人也听到了，忌炎团长从他腰侧的葫芦里拿出一些药剂给我们，服用后暂时听不到那些声音，精神好多了。
-
-新历157年 5月13日
-眼看着小队成员一个个倒下，我竟然第一次有了退缩的想法，当然，不仅是我，周围的几个成员也开始打退堂鼓。
-忌炎团长好像看出了我们的苦恼，行至一片废墟时，他让小队在此休息，安营驻扎。
-废墟里竟然还有些书籍，其中一本叫做《笑话大全》。入夜后，同伴们围在一起阅读这本笑话大全，大家的心情缓和了些。
-只是，忌炎团长还是忧心忡忡的样子。
-
-新历157年 5月20日
-我们不再测量鸣潮子浓度，因为一切数据都毫无意义。
-这里……这里太令人窒息了。
-我们刚刚经历了一场生死之战，所有人……所有人都牺牲了。
-如果不是忌炎团长……如果不是他一直挡在我面前……我也会死在那里。
-呼啸而过的青龙，就这么挡在幻象大军的面前……我躲在他的背后，什么都做不了，只能看着他孤军奋战。
-他的星痕不断闪烁着，我知道，我知道那是共鸣者力量使用过度的象征。
-理智上我想让他停下，可本能却让我不断呢喃着“救救我！我不想死。”
-我不想死……
-我真的不想死……
-不知过了多久，我只记得忌炎团长半跪在废墟之中，空中已经不见青龙呼啸，只有那把长枪立在那里……
-我被忌炎团长救了。",,"Ngày 10 tháng 5 năm 157 Tân lịch
-Đây là lần xuất chinh đầu tiên sau khi gia nhập tiểu đội tiên phong, cứ tưởng thời tiết Minh Triều chỉ là Ảo Tượng hoạt động hơn bình thường, tính tấn công mạnh hơn chút, không ngờ ta quá ngây thơ.
-Mưa Hồi Tố rơi không ngừng, làm mờ tầm nhìn mọi người, chiến đấu trở nên cực kỳ khó khăn, đôi khi ngay cả đường tiến quân cũng không nhìn rõ.
-May là Thanh Long của Đoàn trưởng Jiyan luôn mở đường phía trước, chỉ cần nhìn theo Thanh Long được trường thương chỉ dẫn, chúng tôi sẽ không lạc lối.
-
-Ngày 11 tháng 5 năm 157 Tân lịch
-Nhiệm vụ xuất chinh lần này là tiến sâu vào Bắc Lạc Dã, nghe nói Viện Nghiên cứu đã phát hiện dấu vết năng lượng nghi là Crownless Minh Thức, sau khi thời tiết Minh Triều đổ bộ, loại năng lượng này càng rõ rệt hơn.
-Không biết có phải ảo giác không, ở lâu trong thời tiết này, cứ cảm thấy trong không khí ẩn chứa tiếng thì thầm.
-Hóa ra không phải ảo giác, người khác cũng nghe thấy, Đoàn trưởng Jiyan lấy ra vài lọ dược tề từ chiếc hồ lô bên hông, uống xong tạm thời không nghe thấy những âm thanh đó nữa, tinh thần khá hơn nhiều.
-
-Ngày 13 tháng 5 năm 157 Tân lịch
-Nhìn thành viên tiểu đội lần lượt ngã xuống, ta lần đầu tiên nảy sinh ý nghĩ rút lui, dĩ nhiên không chỉ mình ta, mấy thành viên xung quanh cũng bắt đầu nao núng.
-Đoàn trưởng Jiyan dường như nhìn ra nỗi khổ của chúng tôi, khi đến một vùng phế tích, anh ấy cho tiểu đội nghỉ chân tại đây, dựng trại hạ trại.
-Trong phế tích bất ngờ còn có vài quyển sách, trong đó có một cuốn gọi là ""Tuyển tập truyện cười"". Sau khi trời tối, đồng đội quây quần đọc cuốn truyện cười này, tâm trạng mọi người dịu lại phần nào.
-Chỉ là, Đoàn trưởng Jiyan vẫn mang vẻ ưu tư.
-
-Ngày 20 tháng 5 năm 157 Tân lịch
-Chúng tôi không đo nồng độ Minh Triều tử nữa, vì mọi dữ liệu đều vô nghĩa.
-Nơi này... nơi này quá ngột ngạt.
-Chúng tôi vừa trải qua một trận chiến sinh tử, tất cả mọi người... tất cả mọi người đều hy sinh.
-Nếu không phải Đoàn trưởng Jiyan... nếu không phải anh ấy luôn chắn trước mặt tôi... tôi cũng đã chết ở đó.
-Thanh Long gầm gào lướt qua, cứ thế chắn trước đại quân Ảo Tượng... Tôi trốn sau lưng anh ấy, chẳng làm được gì, chỉ có thể nhìn anh ấy đơn thương độc mã chiến đấu.
-Tinh Ngân trên người anh ấy không ngừng lấp lánh, tôi biết, tôi biết đó là biểu hiện Cộng Hưởng Giả sử dụng sức mạnh quá mức.
-Lý trí muốn anh ấy dừng lại, nhưng bản năng lại khiến tôi không ngừng lẩm bẩm ""Cứu tôi với! Tôi không muốn chết.""
-Tôi không muốn chết...
-Tôi thật sự không muốn chết...
-Không biết đã qua bao lâu, tôi chỉ nhớ Đoàn trưởng Jiyan quỳ một gối giữa phế tích, trên không không còn thấy Thanh Long gầm gào, chỉ có cây trường thương đứng sừng sững ở đó...
-Tôi được Đoàn trưởng Jiyan cứu sống."
-lang_infodisplay.db,InfoDisplay,247,回梦中曲三段·石叶泪,,Hồi Mộng Trung Khúc tam đoạn - Thạch Diệp Lệ
-lang_infodisplay.db,InfoDisplay,248,"入话：
-星垂一别两茫茫，叶落无声在他乡。
-夜夜悲风谁有泪，石叶可证爱恨长。
-话说鸣式战争后，中曲地星垂江畔祈池村，有一对青梅竹马。枝生年十五，生性英勇，善水，战时不为幻象所惧，曾领众人夜渡星垂，是少年英雄。叶生年十三，见地独到，颇识大局，每做决断，便能使众人逃脱险局。两人感情甚好，多有扶持。
-时有古木一株，枝繁叶茂，立于中曲。皇龙曾于此大胜鸣式，众人以为祥瑞，欲在此重建新居，以求庇佑。战事既停，两人理应清闲下来，却遇上此事。叶生曰：“战事虽去，人心却仍有戚戚。如说古木能予以慰藉，许是好事，我决意与他们同去。”当下便与枝生分别，两人分居两地，各自帮助两村重建。好在通信不断，情未疏远。正是：
-天高枝叶茂，地远根相连。
-叶生一行到了古树地界，便着手行土木之事。村民欲得古树庇佑，便将村名与树名一同，唤作开觅，意为开地觅新，告别故旧。某一日，村民忽拾得一奇叶。叶甚新，未有干枯，却是白翠相间。村民大喜：“定是开觅回应，以此征兆奖我等。这就找一方小台，呈于家中，便可时时感开觅护佑。”其余村民若拾得此叶，也跟随效仿。正是：
-叶生翠白色，心有祸福想。
-吉兆须常在，佑以福绵长。
-不多日，村中出一奇症怪病。病者夜中发作，浑身奇痛无比，似有重锤击之，又似刀剑割肉。更奇怪处，自言听闻悲鸣，似哭似嚎，不绝于耳。患病者不出五日，便难逃精神萎靡，浑身无力。时人曰：“当时选址邻树，是为开觅予我庇佑，枝叶通我气根。今日我命不久，定是开觅告信我等；夜声悲鸣，正是开觅求救之呼喊！”村民均以为善，自省建村时伐木有报应，不许再伐。
-却说叶生在开觅难逃一劫，也患上了这“夜痛症”。枝生远在祈池听闻此事，心急如焚，不及天亮，便夜渡星垂，顺流而下，赶至开觅。见人人屋旁邻一树，白叶落于房梁沿，立刻心觉不安。又见开觅也如此，叶尖渐白，不似良兆。待见叶生，见其神色威垂，不禁潸然，曰：“你当日便知所谓古木祥瑞，不过人心苦楚，祈求慰藉。今日古木似有异常，为何不阻止他等愚行，早早放弃，同我重回祈池啊！”叶生欲言又止，痛苦难言，唯有泪眼相对。正是：
-昨日怎知今日事，不可回首道寻常。
-这边话音刚落，竟有人破门而入，拖走枝生。缘是众人听闻其出言不逊，以为有辱开觅，将枝生锁于空房，禁其足，免生事端。夜中，枝生也听得悲鸣呼喊。侧耳倾听，窗外窸窣，似有人开门。门既开，枝生大惊，来人正是叶生，面色端庄，无悲无喜，轻声唤他，曰：“随我，得见悲鸣之源。”
-枝生随叶生行于村落，登阶慢行。得见一魂魄，自称家在祈池，未寻得归途，故在此徘徊。为其领路至星垂江畔，告知溯洄而上，便可归家。魂魄感激，以军士之礼相别，盖鸣式一战亡魂矣。
-悲鸣之源既除，怪病亦不复见。村民面露喜色，聚于村中，唯有叶生日渐憔悴，衰病不止。遍试百药无用，困倦之时增多，不出十日，竟是难有清醒时。是日夜中，风甚凄凉，枝生感万策尽，不得已祈求开觅，曰：“若神木有灵，应怜叶生，救她一命。”枝生愈言愈悲，不觉已泪流满面。忽闻得一女子悲泣，抬头一看，白叶中，正是叶生面容，同他垂泪哭泣。
-枝生仰望树间，叶生之影虚实难辨，伸手触之，只感树枝粗粝，便已明了一切。叶生曰：“战事虽去，其果未消。生者亡者，皆为所困。神木有灵，与我魂魄相通相融，得以领路众生，开觅新途。事既成，今夜一见，是为永别。”语毕，两人对视，无语凝噎。正是：
-既知天命难违抗，亦有别时泪眼盲。
-生生死死流水去，何须厉声问阎王。
-次日，村民俱议，昨夜又闻狂风悲鸣，似是放声哭嚎，忽而又低声呜咽。枝生独倚于树边，忆及昨夜悲鸣时，片叶落下，拾起手间，竟似晶石一般，借月光而忽闪，如泪落而无言。枝生长叹，吟诗一首：
-沉夜对坐问归期，风过叶落似泪凝。
-来年故地回梦处，枝枝叶叶不相离。",,"Nhập thoại:
-Tinh thùy nhất biệt lưỡng mang mang, diệp lạc vô thanh tại tha hương.
-Dạ dạ bi phong thùy hữu lệ, thạch diệp khả chứng ái hận trường.
-Chuyện kể rằng sau chiến tranh Minh Thức, tại thôn Kỳ Trì bên bờ sông Tinh Thùy đất Trung Khúc, có một đôi thanh mai trúc mã. Chi sinh năm mười lăm tuổi, tính tình dũng cảm, giỏi bơi lội, thời chiến không sợ Ảo Tượng, từng dẫn mọi người vượt sông Tinh Thùy trong đêm, là thiếu niên anh hùng. Diệp sinh năm mười ba tuổi, kiến thức độc đáo, hiểu rõ đại cục, mỗi lần quyết đoán đều giúp mọi người thoát khỏi hiểm cảnh. Hai người tình cảm rất tốt, luôn nương tựa lẫn nhau.
-Thời ấy có một gốc cổ thụ, cành lá sum suê, đứng sừng sững giữa Trung Khúc. Hoàng Long từng đại thắng Minh Thức tại đây, mọi người cho là điềm lành, muốn xây dựng nhà mới tại đây để cầu che chở. Chiến sự đã ngưng, hai người lẽ ra được thảnh thơi, lại gặp chuyện này. Diệp sinh nói: ""Chiến sự tuy qua, nhưng lòng người vẫn còn lo sợ. Nếu nói cổ thụ có thể an ủi, ắt là điều tốt, ta quyết ý cùng họ đi."" Liền chia tay Chi sinh, hai người ở hai nơi, mỗi người giúp một thôn tái thiết. May thay thư từ không dứt, tình cảm chẳng xa rời. Chính là:
-Trời cao chi diệp mậu, đất xa căn tương liên.
-Diệp sinh cùng mọi người đến địa phận cổ thụ, liền bắt tay vào việc thổ mộc. Thôn dân muốn được cổ thụ che chở, liền đặt tên thôn cùng tên cây, gọi là Khai Mịch, ý là khai đất tìm mới, từ biệt cũ xưa. Một ngày nọ, thôn dân bỗng nhặt được một chiếc lá kỳ lạ. Lá rất tươi, chưa khô héo, lại trắng xanh xen lẫn. Thôn dân mừng rỡ: ""Chắc chắn là Khai Mịch hồi đáp, lấy điềm lành này thưởng cho ta. Tìm một chiếc đài nhỏ, bày trong nhà, liền có thể luôn cảm nhận sự che chở của Khai Mịch."" Các thôn dân khác nếu nhặt được lá này, cũng bắt chước làm theo. Chính là:
-Diệp sinh thúy bạch sắc, tâm hữu họa phúc tưởng.
-Cát triệu tu thường tại, hựu dĩ phúc miên trường.
-Chẳng mấy ngày, trong thôn xuất hiện một chứng bệnh kỳ quái. Người bệnh phát tác lúc ban đêm, toàn thân đau đớn lạ thường, như có búa nặng đập xuống, lại như đao kiếm cắt thịt. Kỳ lạ hơn, tự nhận nghe thấy bi minh, như khóc như gào, không dứt bên tai. Người mắc bệnh không quá năm ngày, liền khó thoát tinh thần suy kiệt, toàn thân bất lực. Người đương thời nói: ""Lúc đầu chọn địa điểm cạnh cây, là vì Khai Mịch ban cho ta sự che chở, cành lá thông khí căn của ta. Hôm nay mệnh ta chẳng còn lâu, chắc chắn là Khai Mịch báo tin cho ta; tiếng bi minh ban đêm, chính là tiếng Khai Mịch kêu cứu!"" Thôn dân đều cho là phải, tự xét khi xây thôn đã chặt cây nên bị quả báo, không cho chặt nữa.
-Nói về Diệp sinh ở Khai Mịch cũng khó thoát kiếp nạn, cũng mắc phải ""chứng đau đêm"" này. Chi sinh ở xa tận Kỳ Trì nghe tin, nóng lòng như thiêu, chưa kịp trời sáng đã vượt sông Tinh Thùy trong đêm, xuôi dòng mà xuống, chạy đến Khai Mịch. Thấy nhà nhà bên cạnh đều có cây, lá trắng rơi trên mái hiên, lập tức thấy bất an. Lại thấy Khai Mịch cũng như vậy, đầu lá dần trắng, chẳng giống điềm lành. Khi gặp Diệp sinh, thấy thần sắc tiều tụy, không khỏi rơi lệ, nói: ""Ngày ấy nàng đã biết cái gọi là cổ thụ điềm lành, chẳng qua là lòng người khổ sở, cầu xin an ủi. Hôm nay cổ thụ dường như có dị thường, sao không ngăn cản họ làm chuyện ngu muội, sớm bỏ đi, cùng ta trở về Kỳ Trì!"" Diệp sinh muốn nói lại thôi, đau khổ khó tả, chỉ có thể nhìn nhau với đôi mắt đẫm lệ. Chính là:
-Hôm qua sao biết chuyện hôm nay, chẳng thể ngoái đầu nói bình thường.
-Bên này lời vừa dứt, bỗng có người phá cửa xông vào, kéo Chi sinh đi. Nguyên do là mọi người nghe thấy lời lẽ bất kính, cho rằng xúc phạm Khai Mịch, liền nhốt Chi sinh vào phòng trống, cấm túc, để tránh sinh sự. Đêm đến, Chi sinh cũng nghe thấy tiếng bi minh gào thét. Lắng tai nghe, ngoài cửa sổ xào xạc, dường như có người mở cửa. Cửa mở ra, Chi sinh kinh hãi, người đến chính là Diệp sinh, sắc mặt trang nghiêm, không buồn không vui, nhẹ nhàng gọi chàng, nói: ""Đi theo ta, sẽ thấy nguồn cội bi minh.""
-Chi sinh theo Diệp sinh đi trong thôn, bước chậm lên bậc thang. Gặp được một hồn phách, tự xưng nhà ở Kỳ Trì, chưa tìm được đường về, nên cứ quanh quẩn nơi đây. Dẫn đường cho hồn phách đến bờ sông Tinh Thùy, bảo ngược dòng mà lên, liền có thể về nhà. Hồn phách cảm kích, dùng lễ quân sĩ mà từ biệt, ấy là vong hồn tử trận trong trận Minh Thức.
-Nguồn cội bi minh đã trừ, bệnh lạ cũng không còn. Thôn dân mặt mày hớn hở, tụ họp trong thôn, duy có Diệp sinh ngày càng tiều tụy, bệnh suy không ngừng. Thử hết trăm phương vô dụng, lúc mệt mỏi ngày càng nhiều, không quá mười ngày, khó còn lúc tỉnh táo. Ngày ấy ban đêm, gió thổi thê lương, Chi sinh cảm thấy hết sạch mọi cách, bất đắc dĩ cầu xin Khai Mịch, nói: ""Nếu thần mộc có linh, xin thương xót Diệp sinh, cứu nàng một mạng."" Chi sinh càng nói càng bi thương, không hay đã đầm đìa nước mắt. Bỗng nghe tiếng một nữ tử khóc thổn thức, ngẩng đầu nhìn lên, giữa lá trắng, chính là dung mạo Diệp sinh, cùng chàng rơi lệ khóc than.
-Chi sinh ngước nhìn giữa cành cây, bóng hình Diệp sinh hư thực khó phân, đưa tay chạm vào, chỉ cảm thấy cành cây thô ráp, liền đã hiểu hết. Diệp sinh nói: ""Chiến sự tuy qua, quả báo chưa tiêu. Kẻ sống người chết, đều bị vây khốn. Thần mộc có linh, cùng hồn phách ta tương thông tương dung, nhờ đó dẫn đường chúng sinh, khai mịch tân đồ. Việc đã thành, đêm nay gặp mặt, là để vĩnh biệt."" Nói xong, hai người đối nhìn, nghẹn ngào không lời. Chính là:
-Đã biết thiên mệnh khó chống cự, cũng có lúc chia ly lệ mờ mắt.
-Sống sống chết chết trôi như nước, hà cớ gắt gỏng hỏi Diêm Vương.
-Hôm sau, thôn dân bàn tán, đêm qua lại nghe gió cuồng bi minh, tựa như gào khóc thảm thiết, bỗng lại thì thầm rên rỉ. Chi sinh một mình tựa bên cây, nhớ lại lúc bi minh đêm qua, một chiếc lá rơi xuống, nhặt lên trên tay, tựa như tinh thạch, mượn ánh trăng mà lấp lánh, như lệ rơi mà vô ngôn. Chi sinh thở dài, ngâm một bài thơ:
-Trầm dạ đối tọa vấn quy kỳ, phong quá diệp lạc tựa lệ ngưng.
-Lai niên cố địa hồi mộng xứ, chi chi diệp diệp bất tương ly."
-lang_infodisplay.db,InfoDisplay,249,简笔画,,Tranh phác họa
-lang_infodisplay.db,InfoDisplay,250,笔触稚嫩的简笔画，描绘着一家三口幸福生活的景象，取景地有点像遗落原乡，却又和如今残垣断壁的景象截然不同。,,"Bức tranh phác họa nét vẽ non nớt, miêu tả cảnh sinh hoạt hạnh phúc của gia đình ba người, bối cảnh hơi giống Di Lạc Nguyên Hương, nhưng lại hoàn toàn khác biệt với cảnh tường đổ vách nát hiện tại."
-lang_infodisplay.db,InfoDisplay,251,通讯记录,,Bản ghi liên lạc
-lang_infodisplay.db,InfoDisplay,252,"收件人：宝贝儿子
-小华，你的画我们收到了，还给同事叔叔阿姨看了，我们都觉得你画得特别特别好，以后一定能当个大画家。
-明天你就八岁了，爸爸妈妈从没忘记过和你的约定，今年一定赶回来给你过生日。你说你不想要零食和玩具，我们就给你准备了别的礼物。至于接你来写生这件事，暂时是不行了……等我们把坏蛋都赶走了，再带你来，好吗？
-研究所附近的风景很好，草地上开了很多野花。妈妈巡逻的时候，顺便拍了些照片，想着你画画的时候可以做个参考。
-等天气好些了，我们就接你过来玩。",,"Người nhận: Con trai yêu quý
-Tiểu Hoa, bức tranh của con bố mẹ đã nhận được rồi, còn cho các chú các cô đồng nghiệp xem nữa, mọi người đều thấy con vẽ đặc biệt đặc biệt đẹp, sau này nhất định có thể trở thành họa sĩ lớn.
-Ngày mai con tám tuổi rồi, bố mẹ chưa bao giờ quên lời hứa với con, năm nay nhất định sẽ về kịp mừng sinh nhật con. Con nói con không muốn đồ ăn vặt và đồ chơi, nên bố mẹ chuẩn bị quà khác cho con. Còn chuyện đón con đến đây ký họa, tạm thời chưa được... Đợi bố mẹ đuổi hết bọn xấu rồi, sẽ đưa con đến, được không?
-Phong cảnh gần viện nghiên cứu rất đẹp, trên bãi cỏ nở nhiều hoa dại. Mẹ lúc tuần tra, tiện thể chụp vài tấm ảnh, nghĩ rằng khi con vẽ có thể dùng làm tham khảo.
-Đợi thời tiết tốt hơn, bố mẹ sẽ đón con đến chơi."
-lang_infodisplay.db,InfoDisplay,253,频率匹配结果,,Kết quả khớp tần số
-lang_infodisplay.db,InfoDisplay,254,"频率来源：千歆
-共鸣者档案记录：
-新历136年，出生于天城。
-新历151-155年，于天城剧院献唱担任首席女高音，被誉为“知更鸟般奏响昏晓的歌者”，曾翻唱过空晓之歌，与原唱一样收获好评。
-新历154年，觉醒成为共鸣者，异能力为用歌声安抚他人精神、强化他人异能。
-新历157年，加入由吱吱快运的伊筹牵头组建的物资支援小队，帮助抵御兽潮。
-新历158年，发声负荷过重，声带受损，异能力疑似在隐天一线附近的小队支援行动中失效。
-新历159年，暂无记录。
-……
-当前状况：下落不明，未能取得更多信息记录及有效联系方式。",,"Nguồn tần số: Thiên Hâm
-Hồ sơ Cộng Hưởng Giả:
-Tân Lịch năm 136, sinh tại Thiên Thành.
-Tân Lịch năm 151-155, biểu diễn tại nhà hát Thiên Thành với vai trò nữ cao âm chính, được tôn xưng là ""Ca giả ngân vang bình minh như chim họa mi"", từng hát lại Bài Ca Bình Minh và nhận được đánh giá cao không kém bản gốc.
-Tân Lịch năm 154, thức tỉnh trở thành Cộng Hưởng Giả, dị năng là dùng tiếng hát xoa dịu tinh thần người khác, tăng cường dị năng của họ.
-Tân Lịch năm 157, gia nhập đội hỗ trợ vật tư do Y Trù thuộc Chít Chít Khoái Vận đứng đầu tổ chức, hỗ trợ chống lại thú triều.
-Tân Lịch năm 158, thanh đới bị tổn thương do quá tải phát âm, dị năng nghi ngờ đã thất hiệu trong đợt hỗ trợ đội gần phòng tuyến Ẩn Thiên.
-Tân Lịch năm 159, tạm không có ghi chép.
-...
-Tình trạng hiện tại: Không rõ tung tích, không thể thu thập thêm thông tin hoặc phương thức liên lạc hữu hiệu."
-lang_infodisplay.db,InfoDisplay,255,夜归远望营地运输安全条例,,"Điều lệ An toàn Vận chuyển - Doanh trại Viễn Vọng, Dạ Quy"
-lang_infodisplay.db,InfoDisplay,256,"1.必须确认羽鹭群与幻象处于交战状态方可进行运输。
-1.1羽鹭群的栖息地已在地图标注，规划路线时保持距离。
-2.运输周期为两个自然周，具体时间可自行判断，但不得延迟。
-3.运输前需与远望营地提前确认，以便配合接收。
-3.1受当地特殊无音区和极端天气影响，通讯并不稳定，需准备相应预案。
-3.2若通讯中断，需间隔至少1小时方可再度尝试联系，避免频繁通讯，引起幻象注意。
-4.运输队需全程保持武装，任何试图靠近且警告无效的，允许直接开火。",,"1. Phải xác nhận bầy Vũ Lộ và Ảo Tượng đang trong trạng thái giao chiến mới được tiến hành vận chuyển.
-1.1 Nơi cư trú của bầy Vũ Lộ đã được đánh dấu trên bản đồ, khi lập tuyến đường cần giữ khoảng cách.
-2. Chu kỳ vận chuyển là hai tuần tự nhiên, thời gian cụ thể có thể tự phán đoán nhưng không được trì hoãn.
-3. Trước khi vận chuyển cần xác nhận trước với doanh trại Viễn Vọng để phối hợp tiếp nhận.
-3.1 Do ảnh hưởng của Vùng Vô Thanh đặc biệt và thời tiết cực đoan tại địa phương, liên lạc không ổn định, cần chuẩn bị phương án dự phòng tương ứng.
-3.2 Nếu liên lạc bị gián đoạn, cần chờ ít nhất 1 giờ trước khi thử liên lạc lại, tránh liên lạc quá thường xuyên gây sự chú ý của Ảo Tượng.
-4. Đội vận chuyển phải duy trì vũ trang toàn trình, bất kỳ đối tượng nào cố tiếp cận mà cảnh cáo không hiệu quả, được phép nổ súng trực tiếp."
-lang_infodisplay.db,InfoDisplay,257,龙之泪水质调查报告,,Báo cáo Điều tra Chất lượng Nước - Long Chi Lệ
-lang_infodisplay.db,InfoDisplay,258,"水样编号：231202
-取样时间：新历156年1月16日上午10时整
-检测项目：悬浮物，色度，电导率，不稳定鸣素等
-检测结果：详见附表
-调查结论：
-水样与其他地区样本对比，在多项指标上存在异常；
-采集后的水样在静置一周后，颜色重新变为澄清，推测可能与可挥发鸣素有关；
-水质变化暂无对人体明显危害，但不可排除后续受幻象和无音区作用产生其他影响；
-研究员：00921
-项目负责人：路慎",,"Mã mẫu nước: 231202
-Thời gian lấy mẫu: 10:00 sáng ngày 16 tháng 1, Tân Lịch năm 156
-Hạng mục kiểm tra: Chất lơ lửng, sắc độ, độ dẫn điện, Minh Tố không ổn định, v.v.
-Kết quả kiểm tra: Xem bảng phụ lục
-Kết luận điều tra:
-So với mẫu từ các khu vực khác, mẫu nước có nhiều chỉ số bất thường;
-Sau khi để yên một tuần, mẫu nước thu thập chuyển lại thành trong suốt, suy đoán có thể liên quan đến Minh Tố dễ bay hơi;
-Sự thay đổi chất lượng nước tạm thời chưa có nguy hại rõ ràng đối với cơ thể người, nhưng không thể loại trừ ảnh hưởng khác do tác động của Ảo Tượng và Vùng Vô Thanh trong tương lai;
-Nghiên cứu viên: 00921
-Phụ trách dự án: Lộ Thận"
-lang_infodisplay.db,InfoDisplay,259,未命名的愿望清单,,Danh sách Nguyện ước Chưa đặt tên
-lang_infodisplay.db,InfoDisplay,260,"希望我的家人能平安逃出去。（新历100年）
-要是能和第一师的老战友们再喝一杯就好了。（新历102年）
-听说今年大丰收，真想再尝尝妈妈做的菜啊。（新历105年）
-愿真龙计划能圆满成功。（新历107年）
-天城一定很美吧。能亲眼看看就好了。（新历120年）
-我们会重返故乡的，这里是家。（新历124年）
-请让她忘了我吧。（新历127年）
-……
-我们终将穿越长夜，胜利归来。（新历139年）",,"Mong gia đình tôi có thể bình an thoát ra ngoài. (Tân Lịch năm 100)
-Giá mà có thể cùng các chiến hữu cũ của Sư đoàn 1 uống thêm một chén. (Tân Lịch năm 102)
-Nghe nói năm nay mùa màng bội thu, thật muốn được nếm lại món ăn mẹ nấu. (Tân Lịch năm 105)
-Nguyện Chân Long Kế Hoạch thành công viên mãn. (Tân Lịch năm 107)
-Thiên Thành chắc rất đẹp nhỉ. Giá mà có thể tận mắt ngắm nhìn. (Tân Lịch năm 120)
-Chúng ta sẽ trở về cố hương, nơi đây là nhà. (Tân Lịch năm 124)
-Xin hãy để cô ấy quên tôi đi. (Tân Lịch năm 127)
-...
-Chúng ta rốt cuộc sẽ vượt qua đêm trường, khải hoàn trở về. (Tân Lịch năm 139)"
-lang_infodisplay.db,InfoDisplay,261,被复原的告示,,Thông cáo được phục hồi
-lang_infodisplay.db,InfoDisplay,262,"欢迎来到湿地自然公园，景区围绕湿地建设，这里是候鸟迁徙的重要中转站和栖息地，每年都有数万只迁徙的候鸟在此越冬，从当年10月到次年3月均是最佳观鸟季。
-其中两种特殊的鸟类是本地的明星物种，也被统称为羽鹭。它们是大型涉禽，性格温顺，不仅家族成员之间和睦友爱，互相帮助，而且还愿意亲近人类，始终对人类保持着宝贵的信任感。
-因此景区恳请各位游客，请不要随意投喂羽鹭，如果您想为保护羽鹭种群献出爱心，欢迎联系救助站。",,"Chào mừng đến với Công viên Tự nhiên Đất ngập nước. Khu du lịch được xây dựng quanh vùng đất ngập nước - nơi đây là trạm trung chuyển và nơi cư trú quan trọng của các loài chim di cư. Mỗi năm có hàng vạn con chim di cư đến đây trú đông, từ tháng 10 năm nay đến tháng 3 năm sau đều là mùa quan sát chim tốt nhất.
-Trong đó, hai loài chim đặc biệt là những ngôi sao của địa phương, được gọi chung là Vũ Lộ. Chúng là loài chim lội lớn, tính cách ôn thuận, không chỉ các thành viên trong gia đình hòa thuận giúp đỡ lẫn nhau, mà còn sẵn lòng thân thiện với con người, luôn giữ được sự tin tưởng quý giá đối với loài người.
-Vì vậy, khu du lịch khẩn khoản đề nghị quý du khách không tự ý cho Vũ Lộ ăn. Nếu quý vị muốn đóng góp cho việc bảo vệ quần thể Vũ Lộ, xin hãy liên hệ trạm cứu hộ."
-lang_infodisplay.db,InfoDisplay,263,调查笔记：“稷廷秘宝”项目事故,,"Ghi chép điều tra: Sự cố Dự án ""Bí Bảo Tắc Đình"""
-lang_infodisplay.db,InfoDisplay,264,"这里就是当时研究小组最后留下踪迹的地点了。我们在附近进行了大规模扫描，找到了一些杂乱的鸣纹。
-初步分析了鸣纹组成。发现其中一部分残留时间较长，已经比较模糊，另一部分却很新。难道最近还有别人来过这里？要等进一步的分析出来才好下定论了。
-……
-根据鸣纹的详细分析结果，旧鸣纹的构成很杂乱，不仅有当时那些研究员，还有大量幻象的活动痕迹。以研究小组的人数和平均实力，对抗这种规模的幻象，他们恐怕并非全员失踪，而是殉职。
-新鸣纹虽然清晰得多，却存在不明干扰，无法在鸣域系统中识别，但从比对结果来看，应当全都来自同一个人，且时间跨度相当大，此人似乎在事故发生后多次来到这里。从旧鸣纹中也发现了与其相似的频率，推测他或许是研究小组中唯一的幸存者。幸存者不仅不上报事故情况，还反复回到这里，究竟是为了什么？
-……
-最近的鸣潮场异常活跃，总觉得心神不宁，好像有什么事情要发生了……",,"Đây chính là địa điểm cuối cùng mà nhóm nghiên cứu để lại dấu vết. Chúng tôi đã tiến hành quét quy mô lớn ở khu vực xung quanh và tìm thấy một số Minh Vân hỗn loạn.
-Phân tích sơ bộ thành phần Minh Vân cho thấy một phần tàn dư đã tồn tại khá lâu, trở nên khá mờ nhạt, nhưng phần còn lại rất mới. Lẽ nào gần đây có người khác đến đây? Phải chờ kết quả phân tích chi tiết hơn mới có thể kết luận.
-...
-Theo kết quả phân tích chi tiết Minh Vân, Minh Vân cũ có cấu thành rất hỗn loạn - không chỉ có dấu vết của các nghiên cứu viên lúc đó, mà còn có lượng lớn dấu hiệu hoạt động của Ảo Tượng. Với số lượng và thực lực trung bình của nhóm nghiên cứu, đối đầu với quy mô Ảo Tượng như vậy, e rằng họ không phải mất tích toàn bộ, mà đã hy sinh.
-Minh Vân mới tuy rõ ràng hơn nhiều, nhưng tồn tại nhiễu loạn bất minh, không thể nhận dạng trong hệ thống Minh Vực. Tuy nhiên, từ kết quả đối chiếu, tất cả đều đến từ cùng một người, với khoảng thời gian kéo dài đáng kể - người này dường như đã nhiều lần quay lại đây sau sự cố. Trong Minh Vân cũ cũng phát hiện tần số tương tự, suy đoán người đó có lẽ là người sống sót duy nhất của nhóm nghiên cứu. Người sống sót không những không báo cáo sự cố, mà còn liên tục quay lại nơi này, rốt cuộc là vì mục đích gì?
-...
-Gần đây trường Minh Triều hoạt động dị thường mạnh, lúc nào cũng cảm thấy bất an, dường như có chuyện gì đó sắp xảy ra..."
-lang_infodisplay.db,InfoDisplay,265,某人的日记,,Nhật ký của ai đó
-lang_infodisplay.db,InfoDisplay,266,"3月23日
-我还是无法接受……他们，那么多人，都因为我……
-听说前辈夫妇有一个女儿，那孩子现在成了孤儿。一整个家庭……！就因为我，全都毁了！
-不行……这样不行……我应该去找那个女孩儿，至少不能让她孤身一人长大。我不能让自己背负更多罪孽了。
-……
-5月12日
-最近发生了很多事。我原本担心官方调查后会找上我，但却突然爆发了兽潮，调查也不了了之。万幸！
-皎皎是个聪明的姑娘，唯一不聪明的地方，是她太信任我。我说我是她的远房叔叔，她就信了，还对我很亲近。
-我以为照顾好皎皎能减轻我的负罪感，但没想到她越是信任我，我就越是愧疚。付出了那么大的代价，不仅没能得到秘宝，还整日沉浸在负罪感中，禹孤行啊禹孤行，你活成了个什么东西？
-……
-（再往后的日期数据似乎损坏了，只有些断续的语句。）
-……
-我回去研究营地看了，但是因为兽潮肆虐，那附近的地形有了一些变动，难以找到当年的入口。过去太久，我也想不起具体的位置。
-……
-我越来越无法面对皎皎了，她已经可以自己照顾自己，要不就这样，让她以为我失踪了吧。
-……
-我付出了这么大的代价，怎么能什么都没得到？！我不甘心，不甘心啊！",,"Ngày 23 tháng 3
-Tôi vẫn không thể chấp nhận... Họ, nhiều người như vậy, đều vì tôi...
-Nghe nói vợ chồng tiền bối có một cô con gái, đứa bé giờ đã thành mồ côi. Cả một gia đình...! Chỉ vì tôi, tất cả đều tan nát!
-Không được... Cứ thế này không được... Tôi phải đi tìm cô bé ấy, ít nhất không thể để cô ấy lớn lên một mình. Tôi không thể để mình gánh thêm tội lỗi nữa.
-...
-Ngày 12 tháng 5
-Gần đây xảy ra nhiều chuyện. Tôi vốn lo rằng sau khi điều tra chính thức sẽ tìm đến tôi, nhưng bất ngờ thú triều bùng phát, cuộc điều tra cũng không đi đến đâu. Thật may!
-Giảo Giảo là cô gái thông minh, điểm duy nhất không thông minh là cô bé quá tin tôi. Tôi nói tôi là chú họ xa của cô bé, cô bé liền tin, còn rất thân thiết với tôi.
-Tôi tưởng chăm sóc Giảo Giảo sẽ giảm bớt cảm giác tội lỗi, nhưng không ngờ cô bé càng tin tôi, tôi càng thấy day dứt. Trả giá lớn như vậy, không những không có được bí bảo, còn ngày ngày chìm trong tội lỗi. Ngu Cô Hành ơi Ngu Cô Hành, ngươi đã sống thành thứ gì vậy?
-...
-(Dữ liệu ngày tháng phía sau dường như bị hỏng, chỉ còn lại những câu đứt quãng.)
-...
-Tôi đã quay lại doanh trại nghiên cứu xem, nhưng vì thú triều hoành hành, địa hình xung quanh đó đã có một số thay đổi, khó tìm được lối vào năm xưa. Quá lâu rồi, tôi cũng không nhớ nổi vị trí cụ thể.
-...
-Tôi ngày càng không thể đối mặt với Giảo Giảo nữa, cô bé đã có thể tự chăm sóc bản thân, hay thôi cứ vậy, để cô bé nghĩ tôi đã mất tích.
-...
-Tôi đã trả giá lớn đến vậy, sao có thể không thu được gì?! Tôi không cam lòng, không cam lòng!"
-lang_infodisplay.db,InfoDisplay,267,“父爱”,,"""Tình Phụ"""
-lang_infodisplay.db,InfoDisplay,268,"项目：YL-001
-名称：“父爱”
-描述：YL-001为一堆木偶组成的特殊场景，其主要构成为一个象征“父亲”的木偶，与一个象征“女儿”的木偶，及一堆象征其“猎物”的木偶。
-通过观察可以看出，这个场景描述的是，“女儿”在“父亲”的指导下，赢过了周围的“猎物”。是一个简单地表现出父女之间的互助与传承，父亲对女儿巨大的影响的场景。
-然而令人感到奇怪的是，作为唯二站立的胜利者，“父亲”的身姿明显比“女儿”更加挺拔，这与一般被刻画成保护者的父亲形象不同，看起来，在这个场景中的“父亲”，更像是一名……
-“操控者”。",,"Hạng mục: YL-001
-Tên gọi: ""Tình Phụ""
-Mô tả: YL-001 là một cảnh tượng đặc biệt được tạo thành từ nhiều con rối gỗ, cấu thành chính gồm một con rối tượng trưng cho ""Người Cha"", một con rối tượng trưng cho ""Con Gái"", và một đám con rối tượng trưng cho ""Con Mồi"" của họ.
-Qua quan sát có thể thấy, cảnh tượng này mô tả ""Con Gái"" dưới sự hướng dẫn của ""Người Cha"" đã chiến thắng những ""Con Mồi"" xung quanh. Đây là một cảnh tượng đơn giản thể hiện sự hỗ trợ và truyền thừa giữa cha con, cùng ảnh hưởng to lớn của người cha đối với con gái.
-Tuy nhiên, điều kỳ lạ là trong số hai kẻ chiến thắng đứng vững, tư thế của ""Người Cha"" rõ ràng oai phong hơn ""Con Gái"" rất nhiều. Điều này khác với hình tượng người cha thường được khắc họa là người bảo vệ; nhìn vậy, ""Người Cha"" trong cảnh tượng này trông giống một...
-""Kẻ Thao Túng"" hơn."
-lang_infodisplay.db,InfoDisplay,269,“友谊”,,"""Tình Bạn"""
-lang_infodisplay.db,InfoDisplay,270,"项目：YL-002
-名称：“友谊”
-描述：YL-002为一个单独木偶组成的特殊场景，其主体为一位站立着，仿佛在等待朋友的“友人”木偶。
-通过观察可以看出，“友人”木偶的姿势与知名的地质学家“朱雀”有一定的相似性，尚不知两者是否有所关联。
-“友人”木偶的身边空无一人，是等待着还没出现的朋友，还是那位朋友已经走远？",,"Hạng mục: YL-002
-Tên gọi: ""Tình Bạn""
-Mô tả: YL-002 là một cảnh tượng đặc biệt được tạo thành từ một con rối gỗ đơn lẻ, chủ thể là con rối ""Bằng Hữu"" đang đứng, dường như đang chờ đợi bạn mình.
-Qua quan sát có thể thấy, tư thế của con rối ""Bằng Hữu"" có sự tương đồng nhất định với nhà địa chất nổi tiếng ""Chu Tước"", hiện chưa rõ liệu hai bên có liên quan hay không.
-Xung quanh con rối ""Bằng Hữu"" không một bóng người - đang đợi người bạn chưa xuất hiện, hay người bạn ấy đã đi xa rồi?"
-lang_infodisplay.db,InfoDisplay,271,“分歧”,,"""Phân Kỳ"""
-lang_infodisplay.db,InfoDisplay,272,"项目：YL-003-a
-名称：“分歧”
-描述：YL-003-a为两个木偶组成的特殊场景，其主体为一对互相争执、拼命证明自己的正确的“挚友”木偶。
-通过观察可以看出，“挚友”木偶们正在模仿的是，除了当事人外没有任何人知道的一场争吵，而在这场争吵后，当事人再也没有像“挚友”木偶一样，离得这么近过。
-没有争执过，没有分离过，如何感知到对方才是自己“真挚”的唯一。",,"Hạng mục: YL-003-a
-Tên gọi: ""Phân Kỳ""
-Mô tả: YL-003-a là một cảnh tượng đặc biệt được tạo thành từ hai con rối gỗ, chủ thể là một cặp con rối ""Tri Kỷ"" đang tranh cãi, ra sức chứng minh mình đúng.
-Qua quan sát có thể thấy, những con rối ""Tri Kỷ"" đang mô phỏng một cuộc cãi vã mà ngoài những người trong cuộc, không ai biết đến. Sau cuộc cãi vã ấy, những người trong cuộc chưa bao giờ còn ở gần nhau như hai con rối ""Tri Kỷ"" này nữa.
-Chưa từng tranh cãi, chưa từng chia ly, làm sao cảm nhận được đối phương mới là ""tri kỷ"" duy nhất của mình."
-lang_infodisplay.db,InfoDisplay,273,“不相谋”,,"""Bất Tương Mưu"""
-lang_infodisplay.db,InfoDisplay,274,"项目：YL-003-b
-名称：“不相谋”
-描述：YL-003-b为一个木偶组成的特殊场景，其主体为“分歧”中的一位“挚友”木偶。
-通过观察可以看出，该“挚友”木偶正处于极度低落的状态，不管是面壁、还是双手抱膝的姿势，都令人无法与其本体的气质联系起来。
-真的是同一个人吗……",,"Hạng mục: YL-003-b
-Tên gọi: ""Bất Tương Mưu""
-Mô tả: YL-003-b là một cảnh tượng đặc biệt được tạo thành từ một con rối gỗ, chủ thể là một trong những con rối ""Tri Kỷ"" trong ""Phân Kỳ"".
-Qua quan sát có thể thấy, con rối ""Tri Kỷ"" này đang ở trạng thái cực kỳ suy sụp - dù là quay mặt vào tường, hay tư thế ôm gối ngồi co, đều khiến người ta không thể liên hệ với khí chất vốn có của bản thể.
-Thật sự là cùng một người sao..."
-lang_infodisplay.db,InfoDisplay,275,“道不同”,,"""Đạo Bất Đồng"""
-lang_infodisplay.db,InfoDisplay,276,"项目：YL-003-c
-名称：“道不同”
-描述：YL-003-c为一个木偶组成的特殊场景，其主体为“分歧”中的一位“挚友”木偶。
-通过观察可以看出，该“挚友”木偶虽然有回头张望的形态，却绝不可能有回头的行为，在这里固定下来的，究竟是她一瞬的私心，亦或是已被她消灭的幻梦？
-所谓“挚友”或许注定就是要越走越远的。",,"Hạng mục: YL-003-c
-Tên gọi: ""Đạo Bất Đồng""
-Mô tả: YL-003-c là một cảnh tượng đặc biệt được tạo thành từ một con rối gỗ, chủ thể là một trong những con rối ""Tri Kỷ"" trong ""Phân Kỳ"".
-Qua quan sát có thể thấy, dù con rối ""Tri Kỷ"" này có hình thái ngoái đầu nhìn lại, nhưng tuyệt đối không thể có hành vi quay đầu. Điều được cố định tại đây, rốt cuộc là một thoáng tư tâm của cô ấy, hay là giấc mộng huyễn đã bị cô ấy dập tắt?
-Cái gọi là ""tri kỷ"" có lẽ vốn định mệnh phải ngày càng xa nhau."
-lang_infodisplay.db,InfoDisplay,289,D12547号特别行动日记,,Nhật ký Hành động Đặc biệt số D12547
-lang_infodisplay.db,InfoDisplay,290,"行动编号：D12547
-行动小队：“灰鹰”
-行动时间：□□□□□□□□
-行动对象：飞廉之猩
-
-以下为我的行动日记：
-
-晌午刚抵达无光之森东向大门，整支队伍便遭到了伏击。攻击我们的是发疯的捣蛋猿，它们吱呀乱叫着咬向我们的同胞，我听见四面八方都传出了惨叫。大家担心子弹会误伤同伴，于是都只用匕首之类的武器抵抗。
-团长下令兵分三路暂时躲避，我被安排在了团长所在的一队人马中。抵达原本预定的作战点时已经到了深夜，大家都疲惫不堪，然而没有人能够入睡。很快，我们又听见外面传来捣蛋猿的啼叫，这些家伙无穷无尽，士兵们的弹药已经耗尽。失去了抵抗手段，团长下令利用炸弹封闭洞穴，然而捣蛋猿还是在炸弹爆炸前冲了进来，团长与最后一只捣蛋猿同归于尽时，炸弹也得到起爆，洞穴被彻底封印了。
-与皇龙的信号中断，也联系不上其他的队员。被困洞中的我们逐渐衰弱，这是，我在旁边塌陷的洞中发现了一份隐藏的硬盘。解析后，我发现这竟然是战时研究所开展研究留下来的资料，其中记录了隐藏在皇龙的一处实验室的信息。还请找到这份日记的人能够前往那里，防止像今日这样的事再度发生。
-
-&&&（12587，46899）",,"Mã hành động: D12547
-Đội hành động: ""Hôi Ưng""
-Thời gian hành động: □□□□□□□□
-Mục tiêu hành động: Phi Liêm Chi Tinh
-
-Dưới đây là nhật ký hành động của tôi:
-
-Vừa đến cổng phía đông Rừng Vô Quang lúc giữa trưa, cả đội đã bị phục kích. Tấn công chúng tôi là lũ Đảo Đản Viên phát cuồng, chúng kêu la inh ỏi cắn xé đồng đội. Tôi nghe thấy tiếng thét thảm từ khắp bốn phương tám hướng. Mọi người lo đạn sẽ bắn nhầm đồng đội nên chỉ dùng dao găm và các loại vũ khí tương tự để chống trả.
-Đoàn trưởng hạ lệnh chia ba đường tạm thời rút lui. Tôi được xếp vào đội do đoàn trưởng chỉ huy. Khi đến được điểm tác chiến dự kiến thì đã vào đêm khuya, mọi người kiệt sức nhưng không ai ngủ được. Chẳng bao lâu, chúng tôi lại nghe thấy tiếng kêu của Đảo Đản Viên bên ngoài - lũ này vô tận, đạn dược binh sĩ đã cạn kiệt. Mất đi phương tiện chống trả, đoàn trưởng hạ lệnh dùng bom phong tỏa hang động, nhưng Đảo Đản Viên vẫn xông vào trước khi bom nổ. Đoàn trưởng cùng con Đảo Đản Viên cuối cùng đồng quy vu tận, lúc đó bom cũng kích nổ, hang động bị phong ấn hoàn toàn.
-Tín hiệu với Hoàng Long đã bị gián đoạn, cũng không liên lạc được với các đội viên khác. Chúng tôi bị mắc kẹt trong hang, dần dần suy kiệt. Lúc này, tôi phát hiện một ổ cứng ẩn giấu trong hang bị sập bên cạnh. Sau khi giải mã, tôi phát hiện đây là tài liệu nghiên cứu từ viện nghiên cứu thời chiến, trong đó ghi chép thông tin về một phòng thí nghiệm ẩn giấu tại Hoàng Long. Kính mong người tìm thấy nhật ký này có thể đến đó, ngăn chặn những sự việc như hôm nay tái diễn.
-
-&&&(12587, 46899)"
-lang_instance_dungeon.db,InstanceDungeon,3,<color=#ac8480>请离开声之领域</color>,,<color=#ac8480>Vui lòng rời khỏi Lĩnh Vực Âm Thanh</color>
-lang_instance_dungeon.db,InstanceDungeon,6,请离开声之领域,,Vui lòng rời khỏi Lĩnh Vực Âm Thanh
-lang_instance_dungeon.db,InstanceDungeon,9,请离开声之领域,,Vui lòng rời khỏi Lĩnh Vực Âm Thanh
-lang_instance_dungeon.db,InstanceDungeon,12,请离开声之领域,,Vui lòng rời khỏi Lĩnh Vực Âm Thanh
-lang_instance_dungeon.db,InstanceDungeon,15,请离开声之领域,,Vui lòng rời khỏi Lĩnh Vực Âm Thanh
-lang_instance_dungeon.db,InstanceDungeon,18,请离开声之领域,,Vui lòng rời khỏi Lĩnh Vực Âm Thanh
-lang_instance_dungeon.db,InstanceDungeon,21,请离开声之领域,,Vui lòng rời khỏi Lĩnh Vực Âm Thanh
+Incremental package size: {1}
+Full package size: {2}","Phát hiện không đủ dung lượng lưu trữ. Dung lượng cần cho tải tăng dần và tổng hợp: {0}. Vui lòng giải phóng đủ dung lượng để thực hiện [Tải tăng dần], hoặc chọn [Tải toàn bộ] tùy theo dung lượng hiện có.
+Kích thước gói tăng dần: {1}
+Kích thước gói toàn bộ: {2}"
+lang_hot_patch.db,HotPatchText,ConfirmText,确认,Confirm,Xác nhận
+lang_hot_patch.db,HotPatchText,DownLoadText_LeftSpace,剩余空间：{0},Storage space available: {0},Dung lượng còn lại: {0}
+lang_hot_patch.db,HotPatchText,DownLoadText_NeedSpace,所需空间：{0},Storage space required: {0},Dung lượng cần thiết: {0}
+lang_hot_patch.db,HotPatchText,DownloadContinue,点空白处可继续,Tap on the blank area to continue,Nhấn vào vùng trống để tiếp tục
+lang_hot_patch.db,HotPatchText,DownloadIndexFileFailed,获取补丁列表信息失败，原因：{0},Failed to get patch list: {0},"Lấy danh sách bản vá thất bại, nguyên nhân: {0}"
+lang_hot_patch.db,HotPatchText,DownloadResourcePatchFailed,下载资源补丁失败，原因：{0},Failed to download patch resources: {0},"Tải bản vá tài nguyên thất bại, nguyên nhân: {0}"
+lang_hot_patch.db,HotPatchText,DownloadStateDownloadCanceled,下载取消,Download Canceled,Đã hủy tải xuống
+lang_hot_patch.db,HotPatchText,DownloadStateFileRenameError,文件重命名出错,File Rename Error,Lỗi đổi tên tệp
+lang_hot_patch.db,HotPatchText,DownloadStateHttpError,网络出错,Network Error,Lỗi mạng
+lang_hot_patch.db,HotPatchText,DownloadStateNone,未知错误,Unknown Error,Lỗi không xác định
+lang_hot_patch.db,HotPatchText,DownloadStateNotEnoughSpace,磁盘空间不足,Insufficient Storage Space,Không đủ dung lượng ổ đĩa
+lang_hot_patch.db,HotPatchText,DownloadStateOpenToWriteError,写文件失败,Failed to store files,Ghi tệp thất bại
+lang_hot_patch.db,HotPatchText,DownloadStateSuccess,下载成功,Download Success,Tải xuống thành công

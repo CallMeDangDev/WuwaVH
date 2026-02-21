@@ -1,113 +1,181 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_hot_patch.db,HotPatchText,Download_FullBagDesc,下载后可体验游戏的完整内容，无需下载额外资源。,Download all game resources to experience the game in full.,"Sau khi tải, bạn có thể trải nghiệm toàn bộ nội dung game mà không cần tải thêm tài nguyên."
-lang_hot_patch.db,HotPatchText,Download_FullBagTag,下载全量资源,Download Full Resources,Tải toàn bộ tài nguyên
-lang_hot_patch.db,HotPatchText,Download_FullBagTitle,全量资源,Full Resources,Toàn bộ tài nguyên
-lang_hot_patch.db,HotPatchText,Download_NoSpace,设备空间不足,Insufficient storage space,Không đủ dung lượng thiết bị
-lang_hot_patch.db,HotPatchText,Download_Retry,设备空间不足，请清理空间后重试。,Insufficient storage space. Please clear up some space and try again.,"Không đủ dung lượng thiết bị, vui lòng giải phóng bộ nhớ rồi thử lại."
-lang_hot_patch.db,HotPatchText,Download_SimpleBagDesc,精简资源仅包含进入游戏所必须下载的资源，剩余资源可在进入游戏后边玩边下载。,Basic Resources include only resources to be installed to start the game. The remaining resources may be downloaded in the background as you play in the game.,Tài nguyên tinh gọn chỉ bao gồm những tài nguyên cần thiết để vào game. Phần tài nguyên còn lại có thể được tải nền trong khi bạn chơi.
-lang_hot_patch.db,HotPatchText,Download_SimpleBagTag,下载精简资源,Download Basic Resources,Tải tài nguyên tinh gọn
-lang_hot_patch.db,HotPatchText,Download_SimpleBagTitle,精简资源,Basic Resources,Tài nguyên tinh gọn
-lang_hot_patch.db,HotPatchText,EquipmentDriveOutOfVersion,检测到设备显卡驱动版本过旧，游戏运行中有概率出现效果异常。为了保证正常游戏体验，建议更新显卡驱动。,"Your device's driver is outdated, which may cause frequent game crashes. For a better experience, please consider upgrading your device.","Phát hiện driver card đồ họa của thiết bị đã quá cũ, trong quá trình chơi có thể xuất hiện hiệu ứng bất thường. Để đảm bảo trải nghiệm game tốt nhất, khuyến nghị cập nhật driver card đồ họa."
-lang_hot_patch.db,HotPatchText,EvaluateDownloadResourcePatchFailed,(评估)下载资源补丁失败，原因：{0},Failed to download patch resources: {0},"(Đánh giá) Tải bản vá tài nguyên thất bại, nguyên nhân: {0}"
-lang_hot_patch.db,HotPatchText,Exchange_Btn_Text,切换账号,Switch Account,Chuyển tài khoản
-lang_hot_patch.db,HotPatchText,Exit_Btn_Text,退出,Leave,Thoát
-lang_hot_patch.db,HotPatchText,FirstDownloadTip,"本次共需要下载{0}资源,是否确定继续?",{0} resources will be downloaded for the update. Continue?,"Lần này cần tải tổng cộng {0} tài nguyên, bạn có muốn tiếp tục không?"
-lang_hot_patch.db,HotPatchText,GetRemoteConfigFailed,获取远程配置失败，请检查网络连接后重启客户端尝试,Failed to apply Remote Configuration. Please check your network connection an restart the game client.,"Lấy cấu hình từ xa thất bại, vui lòng kiểm tra kết nối mạng rồi khởi động lại ứng dụng."
-lang_hot_patch.db,HotPatchText,GetRemotePackageConfigFail,获取整包远端数据失败，请检查网络连接后重启客户端尝试,Failed to apply Remote Configuration. Please check your network connection and restart the game client.,"Lấy dữ liệu gói từ xa thất bại, vui lòng kiểm tra kết nối mạng rồi khởi động lại ứng dụng."
-lang_hot_patch.db,HotPatchText,GetRemoteVersion,获取远程版本配置,Applying Remote Configuration...,Đang lấy cấu hình phiên bản từ xa...
-lang_hot_patch.db,HotPatchText,GetRemoteVersionFailed,获取远程版本配置失败,Failed to apply Remote Configuration,Lấy cấu hình phiên bản từ xa thất bại
-lang_hot_patch.db,HotPatchText,GetResourceInfoFailed,分析资源补丁类型失败,Failed to load patch type,Phân tích loại bản vá tài nguyên thất bại
-lang_hot_patch.db,HotPatchText,GetUpdateInfoFail,获取更新信息失败,Failed to get update details,Lấy thông tin cập nhật thất bại
-lang_hot_patch.db,HotPatchText,HotFixCancel,取消,Cancel,Hủy
-lang_hot_patch.db,HotPatchText,HotFixContinue,继续,Continue,Tiếp tục
-lang_hot_patch.db,HotPatchText,HotFixNetworkChange,检测到网络变动，当前网络环境为移动网络，请确认是否使用移动网络下载？,You've changed your network connection to mobile network. Do you wish to proceed with the download using mobile data?,"Phát hiện thay đổi mạng, mạng hiện tại là mạng di động. Bạn có muốn sử dụng mạng di động để tải xuống không?"
-lang_hot_patch.db,HotPatchText,HotFixNewPatch,"检测到新的更新包{0}, 当前网络环境为移动网络，请确认是否使用移动网络下载？",A new update {0} is now available. You're using mobile data for download. Do you wish to proceed?,"Phát hiện gói cập nhật mới {0}, mạng hiện tại là mạng di động. Bạn có muốn sử dụng mạng di động để tải xuống không?"
-lang_hot_patch.db,HotPatchText,HotFixNotEnoughSpace,需要下载{0}资源，目前设备空间不足，请前往清理，清理完成后，点击“继续”。,"Insufficient storage space for {0} update resources. Please remove files to free up space and tap on ""Continue"" to proceed with the download.","Cần tải xuống tài nguyên {0}, thiết bị hiện không đủ dung lượng. Vui lòng dọn dẹp bộ nhớ, sau khi hoàn tất hãy nhấn ""Tiếp tục""."
-lang_hot_patch.db,HotPatchText,HotFixQuit,退出,Exit,Thoát
-lang_hot_patch.db,HotPatchText,HotFixRestartToCompleteHotFix,更新完成，请重新启动游戏。,Patching complete. Please restart the game.,"Cập nhật hoàn tất, vui lòng khởi động lại trò chơi."
-lang_hot_patch.db,HotPatchText,HotFixRestartToCompleteHotFixWin,更新完成，游戏即将重启。,Patching complete. The game is restarting.,"Cập nhật hoàn tất, trò chơi sẽ khởi động lại ngay."
-lang_hot_patch.db,HotPatchText,HotFixRestartToRepairFiles,文件修复完成，请重新启动游戏。,Repair complete. Please restart the game.,"Sửa chữa tệp hoàn tất, vui lòng khởi động lại trò chơi."
-lang_hot_patch.db,HotPatchText,HotFixRestartToRepairFilesWin,文件修复完成，游戏即将重启。,Repair complete. The game is restarting.,"Sửa chữa tệp hoàn tất, trò chơi sẽ khởi động lại ngay."
-lang_hot_patch.db,HotPatchText,HotFixRetry,重试,Retry,Thử lại
-lang_hot_patch.db,HotPatchText,HotFixTipsTitle,提示,Notice,Thông báo
-lang_hot_patch.db,HotPatchText,HotFixUseNetworkDownload,使用移动网络下载,Use Mobile Data,Tải xuống qua mạng di động
-lang_hot_patch.db,HotPatchText,HotFixWriteStorageTips,需要开启“存储”权限来保存更新文件，请从手机设置-权限管理中开启，再重启游戏。,Please allow storage access in Settings > Application and restart the game to save update resources.,"Cần cấp quyền ""Bộ nhớ"" để lưu tệp cập nhật. Vui lòng vào Cài đặt điện thoại > Quản lý quyền để bật, sau đó khởi động lại trò chơi."
-lang_hot_patch.db,HotPatchText,Install,正在安装更新包,Installing Update Resources,Đang cài đặt gói cập nhật
-lang_hot_patch.db,HotPatchText,InstallTips,安装过程请勿关闭游戏,Please do not close the game during installation,Vui lòng không tắt trò chơi trong quá trình cài đặt
-lang_hot_patch.db,HotPatchText,MobileChipOutOfVersion,检测到设备芯片版本过旧，游戏运行中有大概率闪退。为了保证正常游戏体验，建议更换设备。,Your device is using an older version processor. You are very likely to encounter client crashing. Please consider switching to a different device for your gaming experience.,"Phát hiện phiên bản chip thiết bị đã quá cũ, trò chơi có khả năng cao bị thoát đột ngột khi chạy. Để đảm bảo trải nghiệm chơi game tốt nhất, khuyến nghị thay đổi thiết bị."
-lang_hot_patch.db,HotPatchText,MobileDriverOutOfVersion,检测到手机驱动版本过旧（GL驱动版本＜378），游戏运行中有大概率闪退。为了保证正常游戏体验，建议更新手机系统或GL驱动。,"Your phone driver version is outdated (GL driver version < 378). This may cause game crashes during your play. To ensure a smooth gaming experience, you're recommended to update system version or GL driver.","Phát hiện phiên bản driver điện thoại đã quá cũ (phiên bản driver GL < 378), trò chơi có khả năng cao bị thoát đột ngột khi chạy. Để đảm bảo trải nghiệm chơi game tốt nhất, khuyến nghị cập nhật hệ thống điện thoại hoặc driver GL."
-lang_hot_patch.db,HotPatchText,MountPak,应用资源补丁,Applying resource patches...,Đang áp dụng bản vá tài nguyên
-lang_hot_patch.db,HotPatchText,MoveFilesFailed,移动文件失败,Failed to move file.,Di chuyển tệp thất bại
-lang_hot_patch.db,HotPatchText,NetworkConnect,正在连接,Connecting,Đang kết nối
-lang_hot_patch.db,HotPatchText,NetworkDetection_Cancel,取消,Cancel,Hủy
-lang_hot_patch.db,HotPatchText,NetworkDetection_Domain,域名解析,DNS Resolution,Phân giải tên miền
-lang_hot_patch.db,HotPatchText,NetworkDetection_Domain_Wrong,域名解析错误，错误码：,DNS resolution error. Error code:,"Lỗi phân giải tên miền, mã lỗi:"
-lang_hot_patch.db,HotPatchText,NetworkDetection_Error,网络检测配置初始化失败，请稍后再试,Network configuration initialization failed. Please try again later.,"Khởi tạo cấu hình kiểm tra mạng thất bại, vui lòng thử lại sau"
-lang_hot_patch.db,HotPatchText,NetworkDetection_Hotfix_Submit,提交信息,Upload Data,Gửi thông tin
-lang_hot_patch.db,HotPatchText,NetworkDetection_Http,网页访问检测,Web Access Test,Kiểm tra truy cập trang web
-lang_hot_patch.db,HotPatchText,NetworkDetection_Http_Wrong,网页检测异常，错误码：,Web access error. Error code:,"Phát hiện lỗi truy cập web, mã lỗi:"
-lang_hot_patch.db,HotPatchText,NetworkDetection_Ing,检测中……,Testing…,Đang kiểm tra...
-lang_hot_patch.db,HotPatchText,NetworkDetection_Ping,Ping检测,Ping Test,Kiểm tra Ping
-lang_hot_patch.db,HotPatchText,NetworkDetection_Ping_Wrong,ping检测结果：,Ping Results:,Kết quả kiểm tra Ping:
-lang_hot_patch.db,HotPatchText,NetworkDetection_Proxy,代理检测,Proxy Test,Kiểm tra Proxy
-lang_hot_patch.db,HotPatchText,NetworkDetection_Proxy_Wrong,代理检测异常，请查看代理地址是否正常,Proxy connection error. Please verify your proxy settings.,"Phát hiện lỗi proxy, vui lòng kiểm tra xem địa chỉ proxy có hoạt động bình thường không."
-lang_hot_patch.db,HotPatchText,NetworkDetection_Route_Detection,路由检测,Route Detection,Kiểm tra định tuyến
-lang_hot_patch.db,HotPatchText,NetworkDetection_Select,选择服务器,Select Server,Chọn máy chủ
-lang_hot_patch.db,HotPatchText,NetworkDetection_Start,开始检测,Start Test,Bắt đầu kiểm tra
-lang_hot_patch.db,HotPatchText,NetworkDetection_Start_Tips,请点击按钮开始网络诊断,Tap the button to begin network test.,Vui lòng nhấn nút để bắt đầu chẩn đoán mạng.
-lang_hot_patch.db,HotPatchText,NetworkDetection_Submit,提交信息并联系客服,Submit data and contact customer service,Gửi thông tin và liên hệ hỗ trợ
-lang_hot_patch.db,HotPatchText,NetworkDetection_Submiting,已复制当前诊断结果，报错信息提交中,Test results copied. Submitting error report…,"Đã sao chép kết quả chẩn đoán, đang gửi báo cáo lỗi..."
-lang_hot_patch.db,HotPatchText,NetworkDetection_Title,网络检测,Network Test,Kiểm tra mạng
-lang_hot_patch.db,HotPatchText,NetworkDetection_Trace_Id,检测编码(Trace Id):,Trace ID:,Mã kiểm tra (Trace ID):
-lang_hot_patch.db,HotPatchText,NetworkDetection_Udp,UDP联通性检测,UDP Connectivity Test,Kiểm tra kết nối UDP
-lang_hot_patch.db,HotPatchText,NetworkDetection_Udp_Wrong,Udp端口检测异常，错误码：,UDP port connection error. Error code:,"Phát hiện lỗi cổng UDP, mã lỗi:"
-lang_hot_patch.db,HotPatchText,NetworkDetection_tips,当前正在进行网络检测，再次点击将中断检测，退出当前页面,Network test in progress. Tapping again will stop the test and exit this page.,"Đang tiến hành kiểm tra mạng, nhấn lại sẽ dừng kiểm tra và thoát trang hiện tại."
-lang_hot_patch.db,HotPatchText,NewVersionDetailDesc,新版本详情,Update Details,Chi tiết phiên bản mới
-lang_hot_patch.db,HotPatchText,NewVersionDetailDownloadGetReward,"游戏已有新版本，请前往下载最新版本。
-完成更新后登录游戏，可获得<color=#c49e55ff>星声*300+结晶溶剂*2</color>奖励。",A new update is now available. Please download and install it. Log in afterward to claim your rewards: <color=#c49e55ff>300 Astrites and 2 Crystal Solvents</color>.,"Game đã có phiên bản mới, vui lòng tải về phiên bản mới nhất.
-Đăng nhập game sau khi cập nhật xong để nhận thưởng <color=#c49e55ff>Tinh Thanh x300 + Dung Môi Kết Tinh x2</color>."
-lang_hot_patch.db,HotPatchText,NewVersionDownloadTips,检测到游戏新版本，请退出游戏完成更新,A game update is available. Please exit the game to apply the update.,"Phát hiện phiên bản game mới, vui lòng thoát game để hoàn tất cập nhật."
-lang_hot_patch.db,HotPatchText,NoNetwork,"无网络连接, 请检查网络后重试。",No internet connection. Please check and try again,"Không có kết nối mạng, vui lòng kiểm tra mạng và thử lại."
-lang_hot_patch.db,HotPatchText,Notice_Btn_Text,公告,Notice,Thông báo
-lang_hot_patch.db,HotPatchText,PatchClear,即将清除本地补丁并重新下载，是否确认清除？,Local patch resources will be cleared and re-downloaded. Do you wish to proceed?,"Sắp xóa bản vá cục bộ và tải lại, bạn có xác nhận xóa không?"
-lang_hot_patch.db,HotPatchText,PatchClearTitle,清除补丁,Clear Patch,Xóa bản vá
-lang_hot_patch.db,HotPatchText,PatchClearbutton,修复,Repair,Sửa chữa
-lang_hot_patch.db,HotPatchText,PatchDown,正在下载：{0} 速度：{1} 资源大小：{2}/{3},Downloading: {0} Speed: {1} Size: {2}/{3},Đang tải xuống: {0} Tốc độ: {1} Dung lượng: {2}/{3}
-lang_hot_patch.db,HotPatchText,PatchDownID,{0},{0},{0}
-lang_hot_patch.db,HotPatchText,PatchDownSpeed,速度：{0},Download Speed: {0},Tốc độ: {0}
-lang_hot_patch.db,HotPatchText,PatchDownTips,下载过程中可以最小化游戏,You can minimize game client during download,Bạn có thể thu nhỏ trò chơi trong quá trình tải xuống
-lang_hot_patch.db,HotPatchText,PatchDownload,正在下载：{0}/{1},Downloading: {0}/{1},Đang tải xuống: {0}/{1}
-lang_hot_patch.db,HotPatchText,PrefabTextItem_1851234659_Text,资源下载,Download Resources,Tải tài nguyên
-lang_hot_patch.db,HotPatchText,PrivacyPolicy,查看隐私政策,Privacy Policy,Xem Chính sách Quyền riêng tư
-lang_hot_patch.db,HotPatchText,Ps5_Cilck_Continue,按{0}继续,Press {0} to continue,Nhấn {0} để tiếp tục
-lang_hot_patch.db,HotPatchText,ResolveIndexFile,分析资源补丁…,Analyzing patch resources...,Đang phân tích bản vá tài nguyên...
-lang_hot_patch.db,HotPatchText,ResolveIndexFileFailed,解析补丁列表失败，请重启尝试或联系客服,Failed to analyze patch list. Please restart the game client and try again or contact customer service.,Phân tích danh sách bản vá thất bại. Vui lòng khởi động lại trò chơi và thử lại hoặc liên hệ bộ phận hỗ trợ.
-lang_hot_patch.db,HotPatchText,SdkInitializeFail,启动游戏失败，请检查PlayStation™Network的账号在线状态！,Failed to start the game. Please check the status of your PlayStation™ Network account.,Khởi động trò chơi thất bại. Vui lòng kiểm tra trạng thái tài khoản PlayStation™Network của bạn!
-lang_hot_patch.db,HotPatchText,SdkProtocolConfirm,同意,Yes,Đồng ý
-lang_hot_patch.db,HotPatchText,SdkProtocolDesc,"为了给您良好的游戏体验，会将您的“PlayStation Network”的账号与库洛通行证进行安全绑定。
-你可以通过官网或联系客服，来取消绑定关系并清除你的账号信息。","To ensure your gaming experience, you're about to link your account for PlayStation™Network with your Kuro Games account.
-You may unlink your account via our official website or customer service.","Để đảm bảo trải nghiệm chơi game tốt nhất, tài khoản ""PlayStation Network"" của bạn sẽ được liên kết bảo mật với tài khoản Kuro Games.
-Bạn có thể hủy liên kết và xóa thông tin tài khoản thông qua trang web chính thức hoặc liên hệ bộ phận hỗ trợ."
-lang_hot_patch.db,HotPatchText,SdkProtocolRefuse,拒绝,No,Từ chối
-lang_hot_patch.db,HotPatchText,SdkProtocolTitle,用户协议和隐私政策提示,Notice on Terms of Use and Privacy Policy,Thông báo về Thỏa thuận Người dùng và Chính sách Quyền riêng tư
-lang_hot_patch.db,HotPatchText,SignIn_Btn_Text,登入,Login,Đăng nhập
-lang_hot_patch.db,HotPatchText,SplashCautionContent,当接触到特定光像图案或频闪闪光刺激时，有极少部分人（如癫痫症患者，甚至部分未确诊人员）会出现“光敏性癫痫”症状，包括眩晕、面色发紫、眼部或面部抽搐、口吐白沫、意识混乱或失去意识、全身强直等。如果您、您的家人或您的其他家庭成员曾经有过类似症状，请在游戏前听从医生的专业意见。若您在游戏过程中出现上述症状，请立即停止游戏并尽快就医，并在继续游戏前听从医生的专业意见。,"When exposed to certain visual stimuli or flashing lights, a very small percentage of people (including those with epilepsy and some undiagnosed individuals) may experience seizures, with symptoms such as dizziness, facial discoloration, eye or face twitching, foaming at the mouth, confusion or loss of consciousness, or uncontrollable muscle spasms. If you, your family, or other household members experience similar symptoms, please consult a doctor before playing the game. If you experience any of the above symptoms while playing, immediately stop playing, seek medical attention as soon as possible, and follow your doctor's advice.","Khi tiếp xúc với một số hình ảnh hoặc ánh sáng nhấp nháy nhất định, một số rất ít người (bao gồm người mắc bệnh động kinh và một số người chưa được chẩn đoán) có thể xuất hiện triệu chứng ""động kinh nhạy cảm ánh sáng"", bao gồm chóng mặt, tím tái mặt, co giật mắt hoặc mặt, sùi bọt mép, lú lẫn hoặc mất ý thức, co cứng toàn thân. Nếu bạn, người thân hoặc thành viên trong gia đình bạn từng có triệu chứng tương tự, vui lòng tham khảo ý kiến bác sĩ trước khi chơi game. Nếu bạn gặp bất kỳ triệu chứng nào kể trên trong khi chơi, hãy ngừng chơi ngay lập tức, đến cơ sở y tế sớm nhất có thể và tuân theo lời khuyên của bác sĩ."
-lang_hot_patch.db,HotPatchText,SplashCautionTitle,警告：请在游戏前阅读,Photosensitive Seizure Warning,Cảnh báo: Vui lòng đọc trước khi chơi
-lang_hot_patch.db,HotPatchText,SplashCopyrightInformation,"审批文号：国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  出版单位：成都盈众九州网络科技有限公司
-著作权人：广州库洛科技有限公司",License & ISBN: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7 Publisher: 成都盈众九州网络科技有限公司 Copyright: 广州库洛科技有限公司,"Số phê duyệt: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  Đơn vị xuất bản: 成都盈众九州网络科技有限公司
-Chủ sở hữu bản quyền: 广州库洛科技有限公司"
-lang_hot_patch.db,HotPatchText,SplashHealthyGamingAdvisory,"抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。
-适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。","Say no to inappropriate game content or pirated games.
-Keep your personal information private to avoid scams.
-Play responsibly for a safe and fun gaming experience.
-Arrange your time reasonably for a healthy lifestyle.","Tẩy chay game xấu, từ chối game lậu. Chú ý bảo vệ bản thân, cảnh giác trước lừa đảo.
-Chơi game điều độ tốt cho trí não, nghiện game có hại cho sức khỏe. Sắp xếp thời gian hợp lý, tận hưởng cuộc sống lành mạnh."
-lang_hot_patch.db,HotPatchText,SplashLoading,游戏加载中……,Game loading...,Đang tải trò chơi...
-lang_hot_patch.db,HotPatchText,StartHotFix,开始检查热更,Initializing Hotfix...,Bắt đầu kiểm tra cập nhật nóng...
-lang_hot_patch.db,HotPatchText,SubPackageHttp_Fail_ButtonText_0,全量下载,Full Download,Tải toàn bộ
-lang_hot_patch.db,HotPatchText,SubPackageHttp_Fail_ButtonText_1,重试,Retry,Thử lại
-lang_hot_patch.db,HotPatchText,SubPackageHttp_Fail_Content,拉取更新数据失败，请重试或者直接全量下载,Upgraded data loading failed. Please retry or full download.,Tải dữ liệu cập nhật thất bại. Vui lòng thử lại hoặc tải toàn bộ.
-lang_hot_patch.db,HotPatchText,UserProtocol,查看用户协议,Terms of Use,Xem Thỏa thuận Người dùng
-lang_hot_patch.db,HotPatchText,ValidateResourceFailed,校验资源文件失败，请重启尝试或联系客服,Failed to verify file integrity. Please restart the game client and try again or contact customer service.,"Xác minh tệp tài nguyên thất bại, vui lòng khởi động lại và thử lại hoặc liên hệ bộ phận hỗ trợ."
-lang_influence.db,Influence,1,随机势力,Random Forces.,Thế lực ngẫu nhiên
-lang_influence.db,Influence,2,先行公约,Pioneer Association,Tiên Hành Công Ước
+lang_handbook.db,PhantomHandBook,312,变身云闪之鳞突进刺击，连续点按，每段造成导电伤害，再释放终结一击造成导电伤害，落雷造成导电伤害。,,"Biến thành Vân Thiểm Chi Lân lao tới đâm, nhấn liên tục, mỗi đoạn gây sát thương Điện Từ, sau đó tung đòn kết liễu gây sát thương Điện Từ, sấm sét gây sát thương Điện Từ."
+lang_handbook.db,PhantomHandBook,313,捣蛋猿（成体）,Hoochief,Vượn Phá Phách (Thành Thể)
+lang_handbook.db,PhantomHandBook,314,异变动物,,Dị biến động vật
+lang_handbook.db,PhantomHandBook,315,精英级,Elite Class,Cấp Tinh Anh
+lang_handbook.db,PhantomHandBook,316,皇龙,Huanglong,Hoàng Long
+lang_handbook.db,PhantomHandBook,317,主音属性池,,Bể thuộc tính chủ âm
+lang_handbook.db,PhantomHandBook,318,"【攻击】
+【生命】
+【防御】
+【暴击】
+【共鸣效率】
+【气动伤害加成】",,"[Tấn Công]
+[Sinh Mệnh]
+[Phòng Thủ]
+[Bạo Kích]
+[Hiệu Suất Cộng Hưởng]
+[Tăng Sát Thương Khí Động]"
+lang_handbook.db,PhantomHandBook,319,技能效果,,Hiệu ứng kỹ năng
+lang_handbook.db,PhantomHandBook,320,变身成体捣蛋猿，发动挥掌攻击，造成气动伤害。,,"Biến thành Vượn Phá Phách thành thể, phát động đòn vung tay, gây sát thương Khí Động."
+lang_handbook.db,PhantomHandBook,321,晶螯蝎,,Tinh Ngao Yết
+lang_handbook.db,PhantomHandBook,322,异变动物,,Dị biến động vật
+lang_handbook.db,PhantomHandBook,323,基准级,Standard Class,Cấp Cơ Bản
+lang_handbook.db,PhantomHandBook,324,皇龙,Huanglong,Hoàng Long
+lang_handbook.db,PhantomHandBook,325,主音属性池,,Bể thuộc tính chủ âm
+lang_handbook.db,PhantomHandBook,326,"【攻击】
+【生命】
+【防御】
+【暴击伤害】
+【共鸣效率】
+【物理伤害加成】",,"[Tấn Công]
+[Sinh Mệnh]
+[Phòng Thủ]
+[Sát Thương Bạo Kích]
+[Hiệu Suất Cộng Hưởng]
+[Tăng Sát Thương Vật Lý]"
+lang_handbook.db,PhantomHandBook,327,技能效果,,Hiệu ứng kỹ năng
+lang_handbook.db,PhantomHandBook,328,召唤晶螯蝎喷射毒液，造成物理伤害,,"Triệu hồi Tinh Ngao Yết phun độc dịch, gây sát thương vật lý."
+lang_handbook.db,PhantomHandBook,329,无冠者（分身）,,Vô Quán Giả (Phân Thân)
+lang_handbook.db,PhantomHandBook,330,幻象-鸣式种,,Ảo Ảnh - Chủng Minh Thức
+lang_handbook.db,PhantomHandBook,331,天灾级,Calamity Class,Cấp Thiên Tai
+lang_handbook.db,PhantomHandBook,332,皇龙,Huanglong,Hoàng Long
+lang_handbook.db,PhantomHandBook,333,主音属性池,,Bể thuộc tính chủ âm
+lang_handbook.db,PhantomHandBook,334,"【攻击】
+【生命】
+【防御】
+【暴击伤害】
+【暴击】
+【解离伤害加成】",,"[Tấn Công]
+[Sinh Mệnh]
+[Phòng Thủ]
+[Sát Thương Bạo Kích]
+[Bạo Kích]
+[Tăng Sát Thương Hủy Diệt]"
+lang_handbook.db,PhantomHandBook,335,技能效果,,Hiệu ứng kỹ năng
+lang_handbook.db,PhantomHandBook,336,变身无冠者分身，发动强力斩击，造成解离伤害。,,"Biến thành phân thân Vô Quán Giả, phát động chém mạnh, gây sát thương Hủy Diệt."
+lang_handbook.db,PhantomHandBook,337,飞廉之猩,Feilian Beringal,Phi Liêm Chi Tinh
+lang_handbook.db,PhantomHandBook,338,异变动物,,Dị biến động vật
+lang_handbook.db,PhantomHandBook,339,领主级,Overlord Class,Cấp Lãnh Chủ
+lang_handbook.db,PhantomHandBook,340,皇龙,Huanglong,Hoàng Long
+lang_handbook.db,PhantomHandBook,341,主音属性池,,Bể thuộc tính chủ âm
+lang_handbook.db,PhantomHandBook,342,"【攻击】
+【生命】
+【防御】
+【暴击伤害】
+【暴击】
+【气动伤害加成】",,"[Tấn Công]
+[Sinh Mệnh]
+[Phòng Thủ]
+[Sát Thương Bạo Kích]
+[Bạo Kích]
+[Tăng Sát Thương Khí Động]"
+lang_handbook.db,PhantomHandBook,343,技能效果,,Hiệu ứng kỹ năng
+lang_handbook.db,PhantomHandBook,344,变身飞廉之猩，发动一次挥棍攻击，造成气动伤害。,,"Biến thành Phi Liêm Chi Tinh, phát động một đòn vung gậy, gây sát thương Khí Động."
+lang_handbook.db,PhantomHandBook,345,辉萤军势,Gleamtender,Huy Huỳnh Quân Thế
+lang_handbook.db,PhantomHandBook,346,幻象-失序种,,Ảo Ảnh - Chủng Thất Tự
+lang_handbook.db,PhantomHandBook,347,领主级,Overlord Class,Cấp Lãnh Chủ
+lang_handbook.db,PhantomHandBook,348,皇龙,Huanglong,Hoàng Long
+lang_handbook.db,PhantomHandBook,349,主音属性池,,Bể thuộc tính chủ âm
+lang_handbook.db,PhantomHandBook,350,"【攻击】
+【生命】
+【防御】
+【暴击伤害】
+【暴击】
+【冷凝伤害加成】",,"[Tấn Công]
+[Sinh Mệnh]
+[Phòng Thủ]
+[Sát Thương Bạo Kích]
+[Bạo Kích]
+[Tăng Sát Thương Ngưng Băng]"
+lang_handbook.db,PhantomHandBook,351,技能效果,,Hiệu ứng kỹ năng
+lang_handbook.db,PhantomHandBook,352,变身辉萤军势，向前方下砸并引发一次冰冻冲击，下砸造成冷凝伤害，冰冻冲击造成冷凝伤害，并冻结范围内所有敌人。,,"Biến thành Huy Huỳnh Quân Thế, lao xuống phía trước và gây ra một đợt xung kích băng giá. Lao xuống gây sát thương Ngưng Băng, xung kích băng giá gây sát thương Ngưng Băng và đóng băng tất cả kẻ địch trong phạm vi."
+lang_handbook.db,PhantomHandBook,353,哀声孤鸯,,Ai Thanh Cô Ương
+lang_handbook.db,PhantomHandBook,354,幻象-失序种,,Ảo Ảnh - Chủng Thất Tự
+lang_handbook.db,PhantomHandBook,355,领主级,Overlord Class,Cấp Lãnh Chủ
+lang_handbook.db,PhantomHandBook,356,皇龙,Huanglong,Hoàng Long
+lang_handbook.db,PhantomHandBook,357,主音属性池,,Bể thuộc tính chủ âm
+lang_handbook.db,PhantomHandBook,358,"【攻击】
+【生命】
+【防御】
+【暴击伤害】
+【暴击】
+【衍射伤害加成】",,"[Tấn Công]
+[Sinh Mệnh]
+[Phòng Thủ]
+[Sát Thương Bạo Kích]
+[Bạo Kích]
+[Tăng Sát Thương Quang Phổ]"
+lang_handbook.db,PhantomHandBook,359,技能效果,,Hiệu ứng kỹ năng
+lang_handbook.db,PhantomHandBook,360,变身哀声孤鸯，蓄力后发动射线攻击，造成衍射伤害。,,"Biến thành Ai Thanh Cô Ương, tích lực rồi phát động tấn công tia sáng, gây sát thương Quang Phổ."
+lang_handbook.db,PhantomHandBook,361,追风刃镰,Chaserazor,Truy Phong Nhẫn Liêm
+lang_handbook.db,PhantomHandBook,362,幻象-人工种,,Ảo Ảnh - Chủng Nhân Công
+lang_handbook.db,PhantomHandBook,363,精英级,Elite Class,Cấp Tinh Anh
+lang_handbook.db,PhantomHandBook,364,皇龙,Huanglong,Hoàng Long
+lang_handbook.db,PhantomHandBook,365,主音属性池,,Bể thuộc tính chủ âm
+lang_handbook.db,PhantomHandBook,366,"【攻击】
+【生命】
+【防御】
+【暴击】
+【共鸣效率】
+【气动伤害加成】",,"[Tấn Công]
+[Sinh Mệnh]
+[Phòng Thủ]
+[Bạo Kích]
+[Hiệu Suất Cộng Hưởng]
+[Tăng Sát Thương Khí Động]"
+lang_handbook.db,PhantomHandBook,367,技能效果,,Hiệu ứng kỹ năng
+lang_handbook.db,PhantomHandBook,368,召唤追风刃镰，进行一次旋转冲击，造成气动伤害，冲击结束后发动挥砍，造成气动伤害。,,"Triệu hồi Truy Phong Nhẫn Liêm, thực hiện một đòn xoay xung kích, gây sát thương Khí Động. Sau khi xung kích kết thúc, phát động chém, gây sát thương Khí Động."
+lang_handbook.db,PhantomHandBook,369,啾啾河豚,Chirpuff,Cá Nóc Chíu Chíu
+lang_handbook.db,PhantomHandBook,370,异变动物,,Dị biến động vật
+lang_handbook.db,PhantomHandBook,371,基准级,Standard Class,Cấp Cơ Bản
+lang_handbook.db,PhantomHandBook,372,皇龙,Huanglong,Hoàng Long
+lang_handbook.db,PhantomHandBook,373,主音属性池,,Bể thuộc tính chủ âm
+lang_handbook.db,PhantomHandBook,374,"【攻击】
+【生命】
+【防御】
+【暴击伤害】
+【共鸣效率】
+【气动伤害加成】",,"[Tấn Công]
+[Sinh Mệnh]
+[Phòng Thủ]
+[Sát Thương Bạo Kích]
+[Hiệu Suất Cộng Hưởng]
+[Tăng Sát Thương Khí Động]"
+lang_handbook.db,PhantomHandBook,375,技能效果,,Hiệu ứng kỹ năng
+lang_handbook.db,PhantomHandBook,376,召唤啾啾河豚向前喷气，造成气动伤害。,,"Triệu hồi Cá Nóc Chíu Chíu phun khí về phía trước, gây sát thương Khí Động."
+lang_handbook.db,ItemHandBook,1,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,2,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,3,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,4,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,5,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,6,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,7,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,8,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,9,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,10,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,11,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,12,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,13,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,14,消耗品,Comsumable,Vật tiêu hao
+lang_handbook.db,ItemHandBook,15,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,16,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,17,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,18,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,19,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,20,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,21,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,22,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,23,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,24,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,25,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,26,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,27,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,28,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,29,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,30,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,31,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,32,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,33,材料,Material,Nguyên liệu
+lang_handbook.db,ItemHandBook,34,食材,food ingredient,Thực phẩm
+lang_handbook.db,ItemHandBook,35,材料,Material,Nguyên liệu

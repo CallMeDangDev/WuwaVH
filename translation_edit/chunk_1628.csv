@@ -1,486 +1,284 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,PhantomSkill_200094_DescriptionEx,"使用声骸技能，幻形为角鳄，跃起后下砸造成{0}的气动伤害；一段时间内再次短按声骸技能，可冲向敌人造成{1}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{2}，共鸣解放伤害加成提升{3}。
-技能冷却：{4}秒","Transform into Kerasaur to leap into the air and slam down, dealing {0} Aero DMG. Shortly after hitting the target, cast Echo Skill again to charge at the target, dealing {1} Aero DMG.
-The Resonator with this Echo equipped in the main slot gains {2} Aero DMG Bonus and {3} Resonance Liberation DMG Bonus.
-CD: {4}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Giác Ngạc, nhảy lên rồi đập xuống gây {0} sát thương Khí Động; trong một khoảng thời gian, nhấn lại Thanh Hài Kỹ để lao về phía kẻ địch, gây {1} sát thương Khí Động.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng bonus sát thương Khí Động thêm {2}, bonus sát thương Giải Phóng Cộng Hưởng thêm {3}.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200094_SimplyDescription,"幻形为角鳄，跃起后下砸造成气动伤害；一段时间内再次短按声骸技能，可冲向敌人造成气动伤害。
-在首位装配时，提高自身气动和共鸣解放伤害。","Transform into Kerasaur to leap into the air and slam down, dealing Aero DMG. Shortly after hitting the target, cast Echo Skill again to charge at the target, dealing Aero DMG.
-The Resonator with this Echo equipped in the main slot gains Aero and Resonance Liberation DMG Bonus.","Hóa hình thành Giác Ngạc, nhảy lên rồi đập xuống gây sát thương Khí Động; trong một khoảng thời gian, nhấn lại Thanh Hài Kỹ để lao về phía kẻ địch, gây sát thương Khí Động.
-Khi trang bị ở vị trí chính, tăng sát thương Khí Động và sát thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,PhantomSkill_200098_DescriptionEx,"使用声骸技能，幻形为炉芯机骸，跃向空中施放重斩对敌人造成{0}的热熔伤害。
-在首位装配该声骸技能时，自身共鸣效率提升{1}。
-技能冷却：{4}秒","Transform into a Reactor Husk, jumping into the air and unleashing a heavy slash that deals {0} Fusion DMG to enemies.
- 
-The Resonator with this Echo equipped in their main slot gain {1} Energy Regen.
- 
- CD: {4}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Lô Tâm Cơ Hài, nhảy lên không trung tung chém nặng gây {0} sát thương Nhiệt Dung lên kẻ địch.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng Hiệu Suất Cộng Hưởng thêm {1}.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200098_SimplyDescription,"幻形为炉芯机骸，对敌人造成热熔伤害。
-在首位装配时，提高自身共鸣效率。","Transform into a Reactor Husk to attack enemies, dealing Fusion DMG.
- 
-The Resonator with this Echo equipped in their main slot gains Energy Regen.","Hóa hình thành Lô Tâm Cơ Hài, gây sát thương Nhiệt Dung lên kẻ địch.
-Khi trang bị ở vị trí chính, tăng Hiệu Suất Cộng Hưởng."
-lang_multi_text.db,MultiText,PhantomSkill_200111_DescriptionEx,"使用声骸技能，幻形为颤栗战士，施放猛击对前方敌人造成{0}的导电伤害。
-技能冷却：{1}秒","Transform into a Tremor Warrior and viciously attack enemies in the front, dealing {0} Electro DMG.
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1203_1,主动技能({0})：从卡组中展示至多三个具有【变幻】技能的卡牌，选择其中{1}个加入手牌，将未选择的卡牌洗回卡组。,"Active Tactic ({0}): Display up to 3 cards with Transform from the deck. Add <SapTag=1>{1}</SapTag> of them to your hand. Shuffle the unselected {Cus:Sap,S=cards P=card SapTag=1} back into your deck.","Kỹ năng chủ động ({0}): Hiển thị tối đa ba lá bài có kỹ năng [Biến Huyễn] từ bộ bài, chọn <SapTag=1>{1}</SapTag> lá thêm vào tay, xáo các lá chưa chọn trở lại bộ bài."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1203_2,被动技能：在本场决斗的第{0}到第{1}回合开始时，额外抽一张牌。,Passive Tactic: Draw one additional card when a round starts. Effective from Round {0} to Round {1}.,"Kỹ năng bị động: Vào đầu lượt thứ {0} đến lượt thứ {1} trong trận đấu này, rút thêm một lá bài."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_1,主动技能({0})：向对手造成{1}点伤害。,Active Tactic ({0}): Deal {1} point of DMG to your opponent.,Kỹ năng chủ động ({0}): Gây {1} điểm sát thương cho đối thủ.
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_2,被动技能：在我方回合的战斗阶段开始时，我方声骸的伤害+{0}，持续1回合。,Passive Tactic: Increase your Echoes' DMG by {0} at the start of the Battle Stage for one round.,"Kỹ năng bị động: Khi bắt đầu giai đoạn chiến đấu trong lượt bên ta, sát thương Thanh Hài bên ta +{0}, kéo dài 1 lượt."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_1,主动技能({0})：将一张手牌重构，在下回合抽卡时，必定抽到这张手牌。,Active Tactic ({0}): Reconstruct a card on hand. You're bound to draw this card in the next round.,"Kỹ năng chủ động ({0}): Tái cấu trúc một lá bài trên tay, trong lượt rút bài tiếp theo, chắc chắn sẽ rút được lá bài này."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_2,被动技能：在本场决斗的前三回合开始时，额外抽一张牌。,Passive Tactic: Draw one additional card at the start of the first three rounds.,"Kỹ năng bị động: Vào đầu ba lượt đầu tiên của trận đấu, rút thêm một lá bài."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_1,主动技能({0})：于本回合中，我方声骸的力量+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' STR by {1}.","Kỹ năng chủ động ({0}): Trong lượt này, sức mạnh Thanh Hài bên ta +{1}."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_2,被动技能：每当我方进行一次调谐时，使随机一个我方声骸力量+{0}直到回合结束。,"Passive Tactic: Each time you Modulate, randomly increase the STR of one of your Echoes by {0} until the end of the round.","Kỹ năng bị động: Mỗi khi bên ta thực hiện một lần điều chỉnh, ngẫu nhiên tăng sức mạnh của một Thanh Hài bên ta +{0} cho đến cuối lượt."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_1,主动技能({0})：我方声骸力量与耐久均+{1}，持续1回合。,Active Tactic ({0}): Increase your Echoes' STR and CON by {1} for one round.,"Kỹ năng chủ động ({0}): Sức mạnh và độ bền Thanh Hài bên ta +{1}, kéo dài 1 lượt."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_2,被动技能：每次进行特殊召唤时，我方决斗家获得{0}点生命。,"Passive Tactic: For each Quick-Deploy, you gain {0} points of HP.","Kỹ năng bị động: Mỗi lần triệu hồi đặc biệt, đấu thủ bên ta nhận {0} điểm sinh mệnh."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1501_1,本回合中，受到的生命值伤害减少1,Take 1 less DMG as duelist in this round.,"Trong lượt này, sát thương sinh mệnh nhận vào giảm 1."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1501_2,dnt/本回合开始时，敌方声骸全部不能行动，持续8S,,"dnt/Khi bắt đầu lượt này, toàn bộ Thanh Hài đối phương không thể hành động, kéo dài 8 giây."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_1,主动技能({0})：于本回合中，我方声骸伤害+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' DMG by {1}.","Kỹ năng chủ động ({0}): Trong lượt này, sát thương Thanh Hài bên ta +{1}."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_2,被动技能：在战斗阶段中，我方能量消耗为{0}的声骸提升{1}暴击。,"Passive Tactic: In the Battle Stage, increase Crit. Rate of your Cost {0} Echoes by {1}.","Kỹ năng bị động: Trong giai đoạn chiến đấu, Thanh Hài bên ta có năng lượng tiêu hao {0} được tăng {1} bạo kích."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_1,主动技能({0})：抽一张牌。,Active Tactic ({0}): Draw a card.,Kỹ năng chủ động ({0}): Rút một lá bài.
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_2,被动技能：在我方回合开始时，额外获得{0}点能量。,Passive Tactic: Gain {0} additional point of Energy at the start of each round.,"Kỹ năng bị động: Khi bắt đầu lượt bên ta, nhận thêm {0} điểm năng lượng."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1607_1,主动技能({0})：选择一个我方声骸。该声骸在本回合的战斗阶段中所受的伤害减少{1}，持续{2}秒。,Active Tactic ({0}): Select one of your Echoes to make it take {1} less DMG for {2}s in the Battle Stage of the current round.,"Kỹ năng chủ động ({0}): Chọn một Thanh Hài bên ta. Thanh Hài đó giảm {1} sát thương nhận vào trong giai đoạn chiến đấu của lượt này, kéo dài {2} giây."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1607_2,被动技能：在本场决斗的前三回合，我方决斗家在战斗阶段受到的伤害-{0}。,"Passive Tactic: In the first three rounds, you take {0} less DMG as the duelist in the Battle Stage.","Kỹ năng bị động: Trong ba lượt đầu của trận đấu, sát thương đấu thủ bên ta nhận vào trong giai đoạn chiến đấu -{0}."
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1107_1,致命弱点,Fatal Flaw,Điểm Yếu Chí Mạng
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1107_2,枪弹轮舞,Crystal Tango,Vũ Điệu Đạn
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1203_1,小咩快长大,"Grow, Woolies!",Bé Cừu Mau Lớn
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1203_2,羊咩梦幻乐园,Woolies' Wonderland,Thiên Đường Cừu Non
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1208_1,自由射击,Weapons Free,Bắn Tự Do
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1208_2,无尽追猎,Hunt Without End,Truy Đuổi Bất Tận
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1305_1,物质重构,Matter Reconstruction,Tái Cấu Trúc Vật Chất
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1305_2,系统过载,System Overload,Quá Tải Hệ Thống
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1406_1,声庇吾身,Resonant Blessing,Thanh Âm Hộ Thể
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1406_2,"{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}"
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1410_1,时刻将至,Time Draws Near,Thời Khắc Đến Gần
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1410_2,月相轮转,Lunar Sequence,Nguyệt Tướng Luân Chuyển
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1507_1,强制加班,Mandatory Overtime,Tăng Ca Bắt Buộc
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1507_2,适当激励,Productivity Boost,Khích Lệ Đúng Lúc
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1508_1,视限解明,Infinite Visability,Giải Minh Tầm Nhìn
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1508_2,洞察诸弦,Vision of Threads,Thấu Suốt Chư Huyền
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1607_1,适者生存,Survival of the Fittest,Mạnh Được Yếu Thua
+lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1607_2,慢性满足,Slow-Burn Satisfaction,Thỏa Mãn Từ Từ
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1,赛程积分等级达到2级「认证选手」后解锁,"Unlocked after reaching Rank Level 2 as ""Certified Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 2 ""Tay Đấu Chứng Nhận"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1107,取得与“荣光王”的决赛资格,Qualify for the final against Conqueror of Prestige,"Giành quyền vào chung kết với ""Vua Vinh Quang"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1203,击败“梦魇”加卢斯,Defeat Gallus the Nightmare,"Đánh Bại ""Ác Mộng"" Gallus"
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1305,击败“梦魇”加卢斯,Defeat Gallus the Nightmare,"Đánh Bại ""Ác Mộng"" Gallus"
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1501,击败“铸铁”阿格里帕,Defeat Agrippa the Ironheart,"Đánh Bại ""Sắt Thép"" Agrippa"
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1507,击败“尘土”劳尔,Defeat Raul the Dustbound,"Đánh Bại ""Bụi Trần"" Raul"
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1607,击败“甘霖”玛尔茜亚,Defeat Marcia the Lifespring,"Đánh Bại ""Cam Lộ"" Marcia"
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_2,赛程积分等级达到5级「知名选手」后解锁,"Unlocked after reaching Rank Level 5 as ""Popular Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 5 ""Tay Đấu Nổi Tiếng"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_3,赛程积分等级达到6级「资深选手」后解锁,"Unlocked after reaching Rank Level 6 as ""Veteran Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 6 ""Tay Đấu Kỳ Cựu"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_4,赛程积分等级达到7级「明星选手」后解锁,"Unlocked after reaching Rank Level 7 as ""All-Star Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 7 ""Tay Đấu Ngôi Sao"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_5,赛程积分等级达到8级「传奇选手」后解锁,"Unlocked after reaching Rank Level 8 as ""Legendary Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 8 ""Tay Đấu Huyền Thoại"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_6,赛程积分等级达到9级「传奇选手」后解锁,"Unlocked after reaching Rank Level 9 as ""Legendary Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 9 ""Tay Đấu Huyền Thoại"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_7,赛程积分等级达到3级「新秀选手」后解锁,"Unlocked after reaching Rank Level 3 as ""Promising Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 3 ""Tay Đấu Tân Binh"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_8,赛程积分等级达到4级「老练选手」后解锁,"Unlocked after reaching Rank Level 4 as ""Experienced Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 4 ""Tay Đấu Dày Dạn"""
+lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_9,赛程积分等级达到4级「老练选手」后解锁,"Unlocked after reaching Rank Level 4 as ""Experienced Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 4 ""Tay Đấu Dày Dạn"""
+lang_multi_text.db,MultiText,PhantomBattleLVDes_1,解锁图鉴,Echo Collection Unlocked,Mở khóa Đồ giám
+lang_multi_text.db,MultiText,PhantomBattleLVDes_10,解锁无尽挑战·困难难度；解锁练习者之勋,Endless Challenge - Difficult and Trainee Medal Unlocked,Mở khóa Thử Thách Vô Tận - Độ khó Khó; Mở khóa Huân Chương Người Tập Luyện
+lang_multi_text.db,MultiText,PhantomBattleLVDes_11,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
+lang_multi_text.db,MultiText,PhantomBattleLVDes_12,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
+lang_multi_text.db,MultiText,PhantomBattleLVDes_13,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
+lang_multi_text.db,MultiText,PhantomBattleLVDes_14,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
+lang_multi_text.db,MultiText,PhantomBattleLVDes_15,解锁进阶者之勋,Adept Medal Unlocked,Mở khóa Huân Chương Người Nâng Cao
+lang_multi_text.db,MultiText,PhantomBattleLVDes_16,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
+lang_multi_text.db,MultiText,PhantomBattleLVDes_17,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
+lang_multi_text.db,MultiText,PhantomBattleLVDes_18,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
+lang_multi_text.db,MultiText,PhantomBattleLVDes_19,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
+lang_multi_text.db,MultiText,PhantomBattleLVDes_2,解锁战术,Resonator Tactics Unlocked,Mở khóa Chiến Thuật
+lang_multi_text.db,MultiText,PhantomBattleLVDes_20,解锁老练者之勋,Veteran Medal Unlocked,Mở khóa Huân Chương Người Lão Luyện
+lang_multi_text.db,MultiText,PhantomBattleLVDes_3,无新功能开放,No New Feature Available,Không có tính năng mới
+lang_multi_text.db,MultiText,PhantomBattleLVDes_4,解锁自由创建卡组及声骸功能,Free Deck Building and Echo Setup Unlocked,Mở khóa tính năng tự do tạo bộ bài và Thanh Hài
+lang_multi_text.db,MultiText,PhantomBattleLVDes_5,解锁初学者之勋,Novice Medal Unlocked,Mở khóa Huân Chương Người Mới
+lang_multi_text.db,MultiText,PhantomBattleLVDes_6,解锁战斗阶段加速,Battle Stage Acceleration Unlocked,Mở khóa tăng tốc giai đoạn chiến đấu
+lang_multi_text.db,MultiText,PhantomBattleLVDes_7,无新功能开放,No New Feature Available,Không có tính năng mới
+lang_multi_text.db,MultiText,PhantomBattleLVDes_8,解锁无尽挑战·普通难度；解锁声骸外观升级,Endless Challenge - Normal and Echo Appearance Upgrade Unlocked,Mở khóa Thử Thách Vô Tận - Độ khó Thường; Mở khóa nâng cấp ngoại hình Thanh Hài
+lang_multi_text.db,MultiText,PhantomBattleLVDes_9,无新功能开放,No New Feature Available,Không có tính năng mới
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2001,"阿希尔德为同好会的命运感到担忧。虽然她对会长安妮塔无比信任，但直到现在为止，她都没能在任何同好会成员那里看到击败教授们的希望。
 
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Chiến Binh Chấn Lật, tung đòn mãnh kích vào kẻ địch phía trước, gây {0} sát thương Dẫn Điện.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200111_SimplyDescription,幻形为颤栗战士，造成导电伤害。,"Transform into a Tremor Warrior to attack enemies, dealing Electro DMG.","Hóa hình thành Chiến Binh Chấn Lật, gây sát thương Dẫn Điện."
-lang_multi_text.db,MultiText,PhantomSkill_200115_DescriptionEx,"使用声骸技能，召唤噼啪啪，旋转攻击敌人造成五段{0}的导电伤害。
-技能冷却：{1}秒","Summon a Zip Zap to launch spinning attacks at enemies, dealing {0} Electro DMG 5 times.
+决斗家特性：无特性","Ashild is worried about the fate of the fan club. Although she places great trust in the fan club's leader, Anita, she still sees no hope of defeating the professors from any of the members up until now.
 
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Zip Zap, tấn công xoay vòng kẻ địch gây 5 đoạn sát thương Dẫn Điện bằng {0}.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200115_SimplyDescription,召唤噼啪啪，造成导电伤害。,"Summon a Zip Zap to attack enemies, dealing Electro DMG.","Triệu hồi Zip Zap, gây sát thương Dẫn Điện."
-lang_multi_text.db,MultiText,PhantomSkill_200116_DescriptionEx,"使用声骸技能，幻形为双极·渊陨重锋，快速射击敌人，持续5秒，每段攻击造成{0}的导电伤害。
-在首位装配该声骸技能时，自身导电伤害加成提升{6}，普攻伤害加成提升{7}。
-技能冷却：{11}秒
-自身同时装配双极·星升辉铳时：
-·使用声骸技能后，声骸技能在双极·星升辉铳、双极·渊陨重锋中交替更变，但视为同名声骸技能。
-·双极·渊陨重锋的伤害类型将变为衍射伤害，且首位装配该声骸技能时获得的导电伤害加成将变为衍射伤害加成。
-·施放普攻时获得{1}层【双极律动】，施放共鸣技能时获得{2}层【双极律动】，可叠加{3}层，持续{4}秒，每层可以使该声骸技能造成的伤害提升{5}，该声骸技能效果结束后清除全部层数。
-·可使用次数上限变为{10}次，初始拥有{8}次可使用次数，每{9}秒可使用次数增加1次。","Transform into a Twin Nova: Collapsar Blade to rapidly fire at enemies for 5s, with each attack dealing {0} Electro DMG.
+Duelist Traits: None","Ashild lo lắng cho số phận của câu lạc bộ. Dù cô tin tưởng tuyệt đối vào hội trưởng Anita, nhưng cho đến giờ, cô vẫn chưa thấy bất kỳ thành viên nào có hy vọng đánh bại các giáo sư.
 
-The Resonator with this Echo equipped in the main slot gains {6} Electro DMG Bonus and {7} Basic Attack DMG Bonus.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2002,"丹尼斯老师认为，同好会成员的所谓决斗缺乏必要的优雅，也毫无艺术美感。他决定按照自己的意志来重塑这一切。
 
-CD: {11}s.
+决斗家特性：无特性","Professor Dennis believes that the fan club members' duels lack the necessary elegance and artistic beauty. He is now committed to reshaping it all based on his own ideal.
 
-If Twin Nova: Nebulous Cannon is equipped in another slot on the Resonator:
-- Casting Echo Skill in succession transforms you into Collapsar Blade and Nebulous Cannon alternately and is considered casting Echo skills of the same name.
-- DMG dealt by Twin Nova: Collapsar Blade becomes Spectro DMG. The Electro DMG Bonus gained from equipping it in the main slot is turned into Spectro DMG Bonus.
-- Casting Basic Attacks grants <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Dyad Origins. Casting Resonance Skill grants <SapTag=2>{2}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of Dyad Origins. Dyad Origins can stack up to {3} times and lasts for {4}s. Each stack increases Echo Skill DMG by {5}, and all stacks are cleared after this Echo Skill ends.
-- This skill is capped at {10} uses. Initially, this skill can be used {8} times, with 1 use added every {9}s.","Sử dụng Thanh Hài Kỹ, biến hình thành Song Cực - Uyên Vẫn Trọng Phong, bắn nhanh vào kẻ địch trong 5 giây, mỗi đoạn tấn công gây sát thương Dẫn Điện bằng {0}.
-Khi trang bị Thanh Hài Kỹ này ở vị trí đầu tiên, tăng bonus sát thương Dẫn Điện bản thân thêm {6}, tăng bonus sát thương Phổ Công thêm {7}.
-Hồi chiêu: {11} giây
-Khi đồng thời trang bị Song Cực - Tinh Thăng Huy Súng:
-- Sau khi sử dụng Thanh Hài Kỹ, kỹ năng sẽ luân phiên giữa Song Cực - Tinh Thăng Huy Súng và Song Cực - Uyên Vẫn Trọng Phong, nhưng được tính là Thanh Hài Kỹ cùng tên.
-- Loại sát thương của Song Cực - Uyên Vẫn Trọng Phong sẽ chuyển thành sát thương Nhiễu Xạ, và bonus sát thương Dẫn Điện khi trang bị ở vị trí đầu tiên sẽ chuyển thành bonus sát thương Nhiễu Xạ.
-- Thi triển Phổ Công nhận được {1} tầng [Song Cực Luật Động], thi triển Kỹ Năng Cộng Hưởng nhận được {2} tầng [Song Cực Luật Động], tối đa cộng dồn {3} tầng, duy trì {4} giây. Mỗi tầng tăng sát thương Thanh Hài Kỹ thêm {5}, toàn bộ tầng sẽ bị xóa sau khi hiệu ứng Thanh Hài Kỹ kết thúc.
-- Số lần sử dụng tối đa thay đổi thành {10} lần, ban đầu có {8} lần sử dụng, mỗi {9} giây tăng thêm 1 lần sử dụng."
-lang_multi_text.db,MultiText,PhantomSkill_200116_SimplyDescription,"幻形为双极·渊陨重锋，射击敌人造成导电伤害。
-在首位装配该声骸技能时，提高自身导电和普攻伤害。
-同时装配双极·星升辉铳时，声骸技能将具有额外的特殊效果。","Transform into a Twin Nova: Collapsar Blade to fire at enemies, dealing Electro DMG.
+Duelist Traits: None","Thầy Dennis cho rằng những trận đấu của các thành viên câu lạc bộ thiếu sự thanh nhã cần thiết và chẳng có chút mỹ cảm nghệ thuật nào. Ông quyết định sẽ tự tay nhào nặn lại tất cả theo ý mình.
 
-The Resonator with this Echo equipped in the main slot gains Electro and Basic Attack Bonuses.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2003,"菲斯塔教授认为自己找到了完美的决斗算法——能够让她在任何情况下都立于不败之地。然而，总有些东西是算法无法预测的。
 
-Equipping Twin Nova: Nebulous Cannon at the same time grants special Echo Skill effects.","Biến hình thành Song Cực - Uyên Vẫn Trọng Phong, bắn kẻ địch gây sát thương Dẫn Điện.
-Khi trang bị Thanh Hài Kỹ này ở vị trí đầu tiên, tăng sát thương Dẫn Điện và Phổ Công bản thân.
-Khi đồng thời trang bị Song Cực - Tinh Thăng Huy Súng, Thanh Hài Kỹ sẽ có thêm hiệu ứng đặc biệt."
-lang_multi_text.db,MultiText,PhantomSkill_200117_DescriptionEx,"使用声骸技能，幻形为双极·星升辉铳，发动两段斩击，每段攻击造成{0}的衍射伤害。
-在首位装配该声骸技能时，自身衍射伤害加成提升{6}，普攻伤害加成提升{7}。
-技能冷却：{11}秒
-自身同时装配双极·渊陨重锋时：
-·使用声骸技能后，声骸技能在双极·星升辉铳、双极·渊陨重锋中交替更变，但视为同名声骸技能，且装配首位声骸获得的伤害加成不变。
-·双极·渊陨重锋的伤害类型将变为衍射伤害。
-·施放普攻时获得{1}层【双极律动】，施放共鸣技能时获得{2}层【双极律动】，可叠加{3}层，持续{4}秒，每层可以使该声骸技能造成的伤害提升{5}，该声骸技能效果结束后清除全部层数。
-·可使用次数上限变为{10}次，初始拥有{8}次可使用次数，每{9}秒可使用次数增加1次。","Transform into a Twin Nova: Nebulous Cannon to slash enemies twice, with each attack dealing {0} Spectro DMG.
+决斗家特性：无特性","Professor Festa believes she has found the perfect algorithm for dueling—one that would make her undefeated under any scenario. However, there are always variables that algorithms cannot predict.
 
-The Resonator with this Echo equipped in the main slot gains {6} Spectro DMG Bonus and {7} Basic Attack DMG Bonus.
+Duelist Traits: None","Giáo sư Festa tin rằng mình đã tìm ra thuật toán đấu hoàn hảo - có thể giúp bà bất bại trong mọi tình huống. Tuy nhiên, luôn có những thứ mà thuật toán không thể dự đoán được.
 
-CD: {11}s.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2004,"切斯特对决斗毫无兴趣，也并不关心同好会的命运如何。对她来说，摧毁同好会只是她平淡无奇的工作中一个无法拒绝的额外差事而已。
 
-If Twin Nova: Collapsar Blade is equipped in another slot on the Resonator:
-- Casting Echo Skill in succession transforms you into Nebulous Cannon and Collapsar Blade alternately and is considered casting Echo skills of the same name. The DMG Bonus from the Echo in the main slot remains unchanged.
-- DMG dealt by Twin Nova: Collapsar Blade becomes Spectro DMG.
-- Casting Basic Attacks grants <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Dyad Origins. Casting Resonance Skill grants <SapTag=2>{2}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of Dyad Origins. Dyad Origins can stack up to {3} times and lasts for {4}s. Each stack increases Echo Skill DMG by {5}, and all stacks are cleared after this Echo Skill ends.
--This skill is capped at {10} uses. Initially, this skill can be used {8} times, with 1 use added every {9}s.","Sử dụng Thanh Hài Kỹ, biến hình thành Song Cực - Tinh Thăng Huy Súng, thực hiện hai đoạn chém, mỗi đoạn tấn công gây sát thương Nhiễu Xạ bằng {0}.
-Khi trang bị Thanh Hài Kỹ này ở vị trí đầu tiên, tăng bonus sát thương Nhiễu Xạ bản thân thêm {6}, tăng bonus sát thương Phổ Công thêm {7}.
-Hồi chiêu: {11} giây
-Khi đồng thời trang bị Song Cực - Uyên Vẫn Trọng Phong:
-- Sau khi sử dụng Thanh Hài Kỹ, kỹ năng sẽ luân phiên giữa Song Cực - Tinh Thăng Huy Súng và Song Cực - Uyên Vẫn Trọng Phong, nhưng được tính là Thanh Hài Kỹ cùng tên, và bonus sát thương từ Thanh Hài ở vị trí đầu tiên không thay đổi.
-- Loại sát thương của Song Cực - Uyên Vẫn Trọng Phong sẽ chuyển thành sát thương Nhiễu Xạ.
-- Thi triển Phổ Công nhận được {1} tầng [Song Cực Luật Động], thi triển Kỹ Năng Cộng Hưởng nhận được {2} tầng [Song Cực Luật Động], tối đa cộng dồn {3} tầng, duy trì {4} giây. Mỗi tầng tăng sát thương Thanh Hài Kỹ thêm {5}, toàn bộ tầng sẽ bị xóa sau khi hiệu ứng Thanh Hài Kỹ kết thúc.
-- Số lần sử dụng tối đa thay đổi thành {10} lần, ban đầu có {8} lần sử dụng, mỗi {9} giây tăng thêm 1 lần sử dụng."
-lang_multi_text.db,MultiText,PhantomSkill_200117_SimplyDescription,"幻形为双极·星升辉铳，斩击敌人造成衍射伤害。
-在首位装配该声骸技能时，提高自身衍射和普攻伤害。
-同时装配双极·渊陨重锋时，声骸技能将具有额外的特殊效果。","Transform into a Twin Nova: Nebulous Cannon to launch slashes at enemies, dealing Spectro DMG.
+决斗家特性：无特性","Chessa has no interest in dueling, and cares little about the fan club's future. To her, destroying the fan club is just an unavoidable extra work in her normal, boring job.
 
-The Resonator with this Echo equipped in the main slot gains Spectro and Basic Attack Bonuses.
+Duelist Traits: None","Chessa chẳng hứng thú gì với việc đấu, cũng không quan tâm đến số phận câu lạc bộ ra sao. Với cô, phá hủy câu lạc bộ chỉ là một việc vặt không thể từ chối trong công việc nhàm chán thường ngày mà thôi.
 
-Equipping Twin Nova: Collapsar Blade at the same time grants special Echo Skill effects.","Biến hình thành Song Cực - Tinh Thăng Huy Súng, chém kẻ địch gây sát thương Nhiễu Xạ.
-Khi trang bị Thanh Hài Kỹ này ở vị trí đầu tiên, tăng sát thương Nhiễu Xạ và Phổ Công bản thân.
-Khi đồng thời trang bị Song Cực - Uyên Vẫn Trọng Phong, Thanh Hài Kỹ sẽ có thêm hiệu ứng đặc biệt."
-lang_multi_text.db,MultiText,PhantomSkill_200118_DescriptionEx,"使用声骸技能，召唤莳植机麋，对大范围内的敌人造成{0}的气动伤害。
-技能冷却：{1}秒","Summon a Flora Reindeer to attack enemies within a large range, dealing {0} Aero DMG.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2005,"卡利斯教授将荣耀之丘的创始人富里乌斯视为宿敌。他坚持要解散《荣耀之丘》同好会，很难说这是为了不让学生们重蹈富里乌斯的覆辙，还是单纯因仇恨使然。
 
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Sĩ Thực Cơ Mi, gây sát thương Khí Động bằng {0} lên kẻ địch trong phạm vi rộng.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200118_SimplyDescription,召唤莳植机麋，造成气动伤害。,"Summon a Flora Reindeer to attack enemies, dealing Aero DMG.","Triệu hồi Sĩ Thực Cơ Mi, gây sát thương Khí Động."
-lang_multi_text.db,MultiText,PhantomSkill_200119_DescriptionEx,"使用声骸技能，召唤矿岩机麋，蓄力一击对敌人造成{0}的导电伤害。
-技能冷却：{1}秒","Summon a Mining Reindeer to launch a charged attack at enemies, dealing {0} Electro DMG.
+决斗家特性：无特性","Professor Calith sees Furius, the founder of Peaks of Prestige, as his archenemy. His campaign to disband the fan club might stem from a desire to shield his students from following… or it might be fueled by pure, personal animosity.
 
- CD: {1}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Khoáng Nham Cơ Mi, tích lực một đòn tấn công lên kẻ địch gây sát thương Dẫn Điện bằng {0}.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200119_SimplyDescription,召唤矿岩机麋，造成导电伤害。,"Summon a Mining Reindeer to attack enemies, dealing Electro DMG.","Triệu hồi Khoáng Nham Cơ Mi, gây sát thương Dẫn Điện."
-lang_multi_text.db,MultiText,PhantomSkill_200120_DescriptionEx,"使用声骸技能，幻形为重工铁蹄，冲向敌人造成{0}的热熔伤害，并在终点处进行一次强力的上撩攻击造成三段{1}和一段{2}的热熔伤害。
-技能冷却：{3}秒","Transform into an Ironhoof to charge at enemies, dealing {0} Fusion DMG. At the end of the charge, unleash a goring attack that deals {1} Fusion DMG 3 times and {2} Fusion DMG once.
+Duelist Traits: None","Giáo sư Calith coi Furius, người sáng lập Peaks of Prestige, là kẻ thù không đội trời chung. Ông nhất quyết giải tán câu lạc bộ Peaks of Prestige, khó mà nói rõ đây là để ngăn học sinh đi vào vết xe đổ của Furius, hay đơn thuần vì lòng thù hận.
 
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, biến hình thành Trọng Công Thiết Đề, lao về phía kẻ địch gây sát thương Nhiệt Dung bằng {0}, và tại điểm cuối thực hiện một đòn hất mạnh gây 3 đoạn sát thương Nhiệt Dung bằng {1} và 1 đoạn sát thương Nhiệt Dung bằng {2}.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200120_SimplyDescription,幻形为重工铁蹄，冲向敌人造成热熔伤害。,"Transform into an Ironhoof to charge at enemies, dealing Fusion DMG.","Biến hình thành Trọng Công Thiết Đề, lao về phía kẻ địch gây sát thương Nhiệt Dung."
-lang_multi_text.db,MultiText,PhantomSkill_200121_DescriptionEx,"使用声骸技能，召唤探隧重机，使附近队伍中登场角色获得召唤者生命上限{0}的护盾，持续{1}秒。
-技能冷却：{2}秒","Summon a Spacetrek Explorer to grant nearby active Resonators in the team a Shield equal to {0} of the summoner's Max HP for {1}s.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2006,"《荣耀之丘》拉海洛赛区负责人，安妮塔。在此发起决斗请求。
 
-CD: {2}s","Sử dụng Thanh Hài Kỹ, triệu hồi Thám Toại Trọng Cơ, cấp cho nhân vật ra trận trong đội ở gần đó một lá chắn bằng {0} HP tối đa của người triệu hồi, duy trì {1} giây.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200121_SimplyDescription,召唤探隧重机，使角色获得护盾。,Summon a Spacetrek Explorer to grant a Shield to Resonators.,"Triệu hồi Thám Toại Trọng Cơ, cấp lá chắn cho nhân vật."
-lang_multi_text.db,MultiText,PhantomSkill_200122_DescriptionEx,"使用声骸技能，召唤锯袭铁影，发动攻击对敌人造成{0}的热熔伤害。
-技能冷却：{1}秒","Summon a Sabercat Reaver to attack enemies, dealing {0} Fusion DMG.
+决斗家特性：无特性","Anita, the Division Manager for the Peaks of Prestige Lahai-Roi Ranked Tournament, challenges you to a duel.
 
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Cứ Tập Thiết Ảnh, phát động tấn công gây sát thương Nhiệt Dung bằng {0} lên kẻ địch.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200122_SimplyDescription,召唤锯袭铁影，造成热熔伤害。,"Summon a Sabercat Reaver to attack enemies, dealing Fusion DMG.","Triệu hồi Cứ Tập Thiết Ảnh, gây sát thương Nhiệt Dung."
-lang_multi_text.db,MultiText,PhantomSkill_200123_DescriptionEx,"使用声骸技能，召唤隐迹铁影，发射光束对敌人造成{0}的湮灭伤害。
-技能冷却：{1}秒","Summon a Sabercat Prowler to fire beams at enemies, dealing {0} Havoc DMG.
+Duelist Traits: None","Người phụ trách khu vực Lahai-Roi của Peaks of Prestige, Anita, gửi lời thách đấu tại đây.
 
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Ẩn Tích Thiết Ảnh, phóng tia sáng vào kẻ địch gây sát thương Hủy Diệt bằng {0}.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200123_SimplyDescription,召唤隐迹铁影，造成湮灭伤害。,"Summon a Sabercat Prowler to attack enemies, dealing Havoc DMG.","Triệu hồi Ẩn Tích Thiết Ảnh, gây sát thương Hủy Diệt."
-lang_multi_text.db,MultiText,PhantomSkill_200124_DescriptionEx,"使用声骸技能，召唤霜鳞蜃甲，使出一记强力重拳对敌人造成{0}的冷凝伤害。
-技能冷却：{1}秒","Summon a Frostbite Coleoid to punch enemies, dealing {0} Glacio DMG.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2007,"对绫而言，《荣耀之丘》是缓解学习压力的方式，也是生活中不可缺少的一部分。
 
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Sương Lân Thận Giáp, tung một cú đấm mạnh vào kẻ địch gây sát thương Ngưng Băng bằng {0}.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200124_SimplyDescription,召唤霜鳞蜃甲，使出强力重拳对敌人造成冷凝伤害。,"Summon a Frostbite Coleoid to punch enemies, dealing Glacio DMG.","Triệu hồi Sương Lân Thận Giáp, tung cú đấm mạnh vào kẻ địch gây sát thương Ngưng Băng."
-lang_multi_text.db,MultiText,PhantomSkill_200125_DescriptionEx,"使用声骸技能，幻形为风鳞蜃甲，使出一记强力下踢对敌人造成{0}的气动伤害。
-技能冷却：{1}秒","Transform into a Windlash Coleoid to kick enemies, dealing {0} Aero DMG.
+决斗家特性：无特性","To Aya, Peaks of Prestige is a way to relieve stress from her schoolwork and an indispensable part of her life.
 
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, biến hình thành Phong Lân Thận Giáp, tung một cú đá mạnh xuống kẻ địch gây sát thương Khí Động bằng {0}.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200125_SimplyDescription,幻形为风鳞蜃甲，使出强力下踢对敌人造成气动伤害。,"Transform into a Windlash Coleoid to kick enemies, dealing Aero DMG.","Biến hình thành Phong Lân Thận Giáp, tung cú đá mạnh xuống kẻ địch gây sát thương Khí Động."
-lang_multi_text.db,MultiText,PhantomSkill_200126_DescriptionEx,"使用声骸技能，召唤莳植熊蜂，对敌人造成{0}的气动伤害，并为命中范围内的角色回复{1}生命上限和额外{2}点的生命值。
-技能冷却：{3}秒","Summon a Flora Drone, dealing {0} Aero DMG to enemies and healing Resonators within range by {1} of their Max HP plus an additional {2} HP.
+Duelist Traits: None","Với Aya, Peaks of Prestige là cách giảm bớt áp lực học tập, cũng là phần không thể thiếu trong cuộc sống của cô.
 
-CD: {3}s","Sử dụng Thanh Hài Kỹ, triệu hồi Sĩ Thực Hùng Phong, gây sát thương Khí Động bằng {0} lên kẻ địch, đồng thời hồi phục cho nhân vật trong phạm vi trúng chiêu lượng HP bằng {1} HP tối đa cộng thêm {2} điểm HP.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200126_SimplyDescription,召唤莳植熊蜂，对敌人造成气动伤害，并为角色回复生命值。,"Summon a Flora Drone, dealing Aero DMG to enemies and healing Resonators.","Triệu hồi Sĩ Thực Hùng Phong, gây sát thương Khí Động lên kẻ địch, đồng thời hồi phục HP cho nhân vật."
-lang_multi_text.db,MultiText,PhantomSkill_200127_DescriptionEx,"使用声骸技能，幻形为矿岩熊蜂，对敌人造成两段{0}的湮灭伤害。
-技能冷却：{1}秒","Transform into a Mining Drone to attack enemies, dealing {0} Havoc DMG twice.
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, biến hình thành Khoáng Nham Hùng Phong, gây 2 đoạn sát thương Hủy Diệt bằng {0} lên kẻ địch.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200127_SimplyDescription,幻形为矿岩熊蜂，对敌人造成湮灭伤害。,"Transform into a Mining Drone to attack enemies, dealing Havoc DMG.","Hóa hình thành Khoáng Nham Hùng Phong, gây sát thương Hủy Diệt lên kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_200128_DescriptionEx,"使用声骸技能，召唤岩蛛S4型，对敌人造成一段{0}和一段{1}的衍射伤害。
-技能冷却：{2}秒","Summon a Geospider S4 to attack enemies, dealing {0} Spectro DMG once and {1} Spectro DMG once.
- 
- CD: {2}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Nham Thù S4, gây một đoạn {0} và một đoạn {1} sát thương Nhiễu Xạ lên kẻ địch.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200128_SimplyDescription,召唤岩蛛S4型，造成衍射伤害。,"Summon a Geospider S4 to attack enemies, dealing Spectro DMG.","Triệu hồi Nham Thù S4, gây sát thương Nhiễu Xạ."
-lang_multi_text.db,MultiText,PhantomSkill_200129_DescriptionEx,"使用声骸技能，幻形为冠顶械隼，飞向高空并跃下对敌人造成{0}的导电伤害。
-技能冷却：{1}秒","Transform into a Kronablight, soar into the air and dive to deal {0} Electro DMG to the enemies.
-CD: {1}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Quán Đỉnh Giới Chuẩn, bay lên cao rồi lao xuống gây {0} sát thương Dẫn Điện lên kẻ địch.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200129_SimplyDescription,使用声骸技能，幻形为冠顶械隼，对敌人造成导电伤害。,"Transform into a Kronablight to attack enemies, dealing Electro DMG.","Sử dụng Thanh Hài Kỹ, hóa hình thành Quán Đỉnh Giới Chuẩn, gây sát thương Dẫn Điện lên kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_200130_DescriptionEx,"使用声骸技能，幻形为冠顶苍隼，飞向高空对敌人造成至多八段{0}和两段{1}的气动伤害，随后跃下造成一段{2}的气动伤害。
-技能冷却：{3}秒","Transform into a Kronaclaw, soar into the air to deal {0} Aero DMG up to 8 times and {1} Aero DMG 2 times, then dive to deal {2} Aero DMG 1 time.
-CD: {3}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Quán Đỉnh Thương Chuẩn, bay lên cao gây tối đa tám đoạn {0} và hai đoạn {1} sát thương Khí Động lên kẻ địch, sau đó lao xuống gây một đoạn {2} sát thương Khí Động.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200130_SimplyDescription,使用声骸技能，幻形为冠顶苍隼，对敌人造成气动伤害。,"Transform into a Kronaclaw to attack enemies, dealing Aero DMG.","Sử dụng Thanh Hài Kỹ, hóa hình thành Quán Đỉnh Thương Chuẩn, gây sát thương Khí Động lên kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_200131_DescriptionEx,"使用声骸技能，召唤格洛犸图，践踏敌人造成{0}的冷凝伤害。
-在此后{1}秒内，若自身施放延奏技能，使下一个变奏技能登场的角色冷凝伤害加成提升{2}，持续{3}秒。
-技能冷却：{4}秒","Summon a Glommoth to stomp enemies, dealing {0} Glacio DMG.
-Casting Outro Skill within {1}s after summoning Glommoth grants {2} Glacio DMG Bonus to the incoming Resonator for {3}s.
-CD: {4}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Glommoth, giẫm đạp kẻ địch gây {0} sát thương Ngưng Băng.
-Trong {1} giây sau đó, nếu bản thân thi triển Diên Tấu Kỹ, nhân vật tiếp theo đăng trường qua Biến Tấu sẽ được tăng {2} gia thành sát thương Ngưng Băng, kéo dài {3} giây.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200131_SimplyDescription,召唤格洛犸图，对敌人造成冷凝伤害，并使下一个变奏技能登场的角色冷凝伤害提升。,"Summon a Glommoth to attack enemies, dealing Glacio DMG and granting Glacio DMG Bonus to the incoming Resonator.","Triệu hồi Glommoth, gây sát thương Ngưng Băng lên kẻ địch, đồng thời tăng sát thương Ngưng Băng cho nhân vật đăng trường tiếp theo qua Biến Tấu."
-lang_multi_text.db,MultiText,PhantomSkill_200132_DescriptionEx,"使用声骸技能，幻形为冰盈舞者，对敌人造成{0}的冷凝伤害。
-技能冷却：{1}秒","Transform into an Iceglint Dancer to attack enemies, dealing {0} Glacio DMG.
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Băng Doanh Vũ Giả, gây {0} sát thương Ngưng Băng lên kẻ địch.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200132_SimplyDescription,召唤冰盈舞者，造成冷凝伤害。,"Summon an Iceglint Dancer to attack enemies, dealing Glacio DMG.","Triệu hồi Băng Doanh Vũ Giả, gây sát thương Ngưng Băng."
-lang_multi_text.db,MultiText,PhantomSkill_200133_DescriptionEx,"使用声骸技能，召唤影烁者，对敌人造成{0}的湮灭伤害。
-技能冷却：{1}秒","Summon a Shadow Stepper to attack enemies, dealing {0} Havoc DMG.
-CD: {1}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Ảnh Thước Giả, gây {0} sát thương Hủy Diệt lên kẻ địch.
-Hồi chiêu: {1} giây"
-lang_multi_text.db,MultiText,PhantomSkill_200133_SimplyDescription,召唤影烁者，造成湮灭伤害。,"Summon a Shadow Stepper to attack enemies, dealing Havoc DMG.","Triệu hồi Ảnh Thước Giả, gây sát thương Hủy Diệt."
-lang_multi_text.db,MultiText,PhantomSkill_280001_DescriptionEx,"使用声骸技能，幻形为云闪之鳞，穿梭攻击，可连续使用最多6次，前5次每次造成{0}导电伤害，终结一击造成{1}导电伤害，落雷造成{2}导电伤害。
-终结一击命中后，自身导电伤害加成提升{3}，共鸣解放伤害加成提升{4}，持续{5}秒。
-技能冷却：{6}秒","Transform into Thundering Mephis, engaging in a rapid assault of up to 6 strikes. The first 5 strikes deal {0} Electro DMG each, while the final strike inflicts {1} Electro DMG, with an additional {2} Electro DMG from the thunder.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2008,"机器护士会使出电子组合技吗？让我们拭目以待吧！
 
-After the final hit, increase the current character's Electro DMG by {3} and Resonance Liberation DMG by {4} for {5}s.
+决斗家特性：无特性","Do mech nurses use electric combos? Stay tuned right here on Peaks of Prestige!
 
-CD: {6}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Vân Thiểm Chi Lân, lướt xuyên tấn công, có thể sử dụng liên tục tối đa 6 lần. 5 lần đầu mỗi lần gây {0} sát thương Dẫn Điện, đòn kết gây {1} sát thương Dẫn Điện, sấm sét gây {2} sát thương Dẫn Điện.
-Sau khi đòn kết trúng đích, gia thành sát thương Dẫn Điện bản thân tăng {3}, gia thành sát thương Giải Phóng Cộng Hưởng tăng {4}, kéo dài {5} giây.
-Hồi chiêu: {6} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280001_SimplyDescription,幻形为云闪之鳞，连续攻击敌人造成导电伤害，提高自身的导电和共鸣解放伤害。,Transform into Thundering Mephis to deal Electro DMG. Increase the current character's Electro DMG and Resonance Liberation DMG.,"Hóa hình thành Vân Thiểm Chi Lân, liên tục tấn công kẻ địch gây sát thương Dẫn Điện, tăng sát thương Dẫn Điện và Giải Phóng Cộng Hưởng cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280002_DescriptionEx,"短按声骸技能，幻形为燎照之骑发动斩击，可连续使用最多3次。分别造成{0}、{1}、{2}的热熔伤害。
-最后一段命中敌人后，自身热熔伤害加成提升{3}，普攻伤害加成提升{4}，持续{5}秒。
-长按声骸技能，持续幻形为燎照之骑并进入骑行状态，结束时对前方的目标造成一次{2}的热熔伤害。
-技能冷却：{6}秒","Transform into the Inferno Rider to launch up to 3 consecutive slashes in a row, each slash dealing {0}, {1}, and {2} Fusion DMG respectively.
+Duelist Traits: None","Y tá máy có thể tung combo điện tử không? Hãy cùng chờ xem nhé!
 
-After the final hit, increase the current Resonator's Fusion DMG by {3} and Basic Attack DMG by {4} for {5}s.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2009,"I.R.I.S.似乎切换了一个奇怪而又似曾相识的人格，虽然有点在意……但还是先决斗吧。
 
-Long press the Echo Skill to transform into the Inferno Rider and enter Riding Mode. When exiting Riding Mode, deal {2} Fusion DMG to enemies in front.
+决斗家特性：无特性","Looks like I.R.I.S. might have switched to a strange but familiar personality. It's a bit concerning... but let's duel first.
 
-CD: {6}s","Nhấn nhanh Thanh Hài Kỹ, hóa hình thành Liêu Chiếu Chi Kỵ tung chém, có thể sử dụng liên tục tối đa 3 lần, lần lượt gây {0}, {1}, {2} sát thương Nhiệt Dung.
-Sau khi đoạn cuối trúng kẻ địch, gia thành sát thương Nhiệt Dung bản thân tăng {3}, gia thành sát thương Phổ Công tăng {4}, kéo dài {5} giây.
-Nhấn giữ Thanh Hài Kỹ, duy trì hóa hình thành Liêu Chiếu Chi Kỵ và tiến vào trạng thái cưỡi ngựa, khi kết thúc gây một lần {2} sát thương Nhiệt Dung lên mục tiêu phía trước.
-Hồi chiêu: {6} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280002_SimplyDescription,"幻形为燎照之骑，连续攻击敌人造成热熔伤害，提高自身的热熔和普攻伤害。
-长按声骸技能可以持续幻形为骑行状态的燎照之骑。","Transform into the Inferno Rider to perform consecutive strikes, dealing Fusion DMG and increasing your Fusion DMG and Basic Attack DMG. Hold the Echo Skill to enter Riding Mode.","Hóa hình thành Liêu Chiếu Chi Kỵ, liên tục tấn công kẻ địch gây sát thương Nhiệt Dung, tăng sát thương Nhiệt Dung và Phổ Công cho bản thân.
-Nhấn giữ Thanh Hài Kỹ để duy trì hóa hình thành Liêu Chiếu Chi Kỵ ở trạng thái cưỡi ngựa."
-lang_multi_text.db,MultiText,PhantomSkill_280003_DescriptionEx,"使用声骸技能，发动鸣钟之龟的加护，对附近敌人造成基于自身防御力{0}的冷凝伤害，并获得鸣钟之盾，持续{1}秒。
-鸣钟之盾能为队伍中登场角色提供{2}的减伤和{3}的伤害提升，受到{4}次攻击后消失。
-技能冷却：{5}秒","Activate the protection of Bell-Borne Geochelone. Deal Glacio DMG based on {0} of the current character's DEF to nearby enemies, and obtain a Bell-Borne Shield that lasts for {1}s
+Duelist Traits: None","I.R.I.S. dường như đã chuyển sang một nhân cách kỳ lạ nhưng quen thuộc, tuy hơi để tâm... nhưng thôi cứ đấu trước đã.
 
-The Bell-Borne Shield provides {2} DMG Reduction and {3} DMG Boost for the current team members, and disappears after the current character is hit for {4} times.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2010,"扎希拉将《荣耀之丘》从学院带到了罗伊族，她并没想到这款游戏在这么短的时间内就能在整个浮光林流传开来。
 
-CD: {5}s","Sử dụng Thanh Hài Kỹ, kích hoạt gia hộ của Minh Chung Chi Quy, gây sát thương Ngưng Băng bằng {0} phòng thủ bản thân lên kẻ địch xung quanh, đồng thời nhận được Minh Chung Chi Thuẫn, kéo dài {1} giây.
-Minh Chung Chi Thuẫn cung cấp {2} giảm sát thương và {3} tăng sát thương cho nhân vật đăng trường trong đội, biến mất sau khi chịu {4} lần tấn công.
-Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280003_SimplyDescription,召唤鸣钟之龟的护盾，对附近敌人造成基于角色防御的冷凝伤害，使角色受到的伤害减少，造成的伤害增加。,"Activate the protection Bell-Borne Geochelone, dealing Glacio DMG to nearby enemies based on current character's DEF. Reduce incoming damage, increase damage dealt.","Triệu hồi khiên của Minh Chung Chi Quy, gây sát thương Ngưng Băng lên kẻ địch xung quanh dựa trên phòng thủ nhân vật, giảm sát thương nhận vào và tăng sát thương gây ra."
-lang_multi_text.db,MultiText,PhantomSkill_280004_DescriptionEx,"使用声骸技能，幻形为朔雷之鳞，可连续使用最多2次，甩尾召唤出来的雷击每段造成{0}的导电伤害，爪击造成{1}的导电伤害。
-爪击命中后，自身导电伤害加成提升{2}，重击伤害加成提升{3}，持续{4}秒。
-技能冷却：{5}秒","Transform into Tempest Mephis to perform tail swing attacks followed by a claw attack. The lightning strike summoned by the tail swing deals {0} Electro DMG each time, while the claw attack deals {1} Electro DMG.
+决斗家特性：无特性","When Zahira brought Peaks of Prestige from the Academy to her Roya tribe, she never imagined it would sweep through Bjartr Woods like wildfire.
 
-After the claw hit, increase the current character's Electro DMG by {2} and Heavy Attack DMG by {3} for {4}s.
+Duelist Traits: None","Zahira mang Peaks of Prestige từ học viện đến bộ tộc Roya, cô không ngờ trò chơi này lại lan rộng khắp Bjartr Woods nhanh đến vậy.
 
-CD: {5}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Sóc Lôi Chi Lân, có thể sử dụng liên tục tối đa 2 lần. Sấm sét triệu hồi từ cú quật đuôi mỗi đoạn gây {0} sát thương Dẫn Điện, đòn vuốt gây {1} sát thương Dẫn Điện.
-Sau khi đòn vuốt trúng đích, gia thành sát thương Dẫn Điện bản thân tăng {2}, gia thành sát thương Trọng Kích tăng {3}, kéo dài {4} giây.
-Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280004_SimplyDescription,幻形为朔雷之鳞，连续攻击敌人造成导电伤害，提高自身的导电和重击伤害。,"Transform into Tempest Mephis to continuously attack enemies, dealing Electro damage. Increase current character's Electro DMG & Heavy Attack DMG.","Hóa hình thành Sóc Lôi Chi Lân, liên tục tấn công kẻ địch gây sát thương Dẫn Điện, tăng sát thương Dẫn Điện và Trọng Kích cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280005_DescriptionEx,"使用声骸技能，幻形为无冠者，可连续使用最多4次，前2次均造成一段{0}的湮灭伤害，第3次造成两段{1}的湮灭伤害，第4次造成三段{2}的湮灭伤害
-幻形后，自身湮灭伤害加成提升{3}，共鸣技能伤害加成提升{4}，持续{5}秒。
-技能冷却：{6}秒","Transform into Crownless and perform up to 4 consecutive attacks. The first 2 attacks deal {0} Havoc DMG each, the 3rd attack deals {1} Havoc DMG 2 times, and the 4th attack deals {2} Havoc DMG 3 times.
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2011,"为了守护重要之物，拉格希尔德一直在追求力量。而《荣耀之丘》似乎已经成为了她的力量来源之一。
 
-After the transformation, increase current character's Havoc DMG by {3} and Resonance Skill DMG by {4} for {5}s.
+决斗家特性：无特性","Lagerith has been pursuing power to protect something precious to her. Now, Peaks of Prestige seems to have become one of her sources of power.
 
-CD: {6}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Crownless, có thể sử dụng liên tục tối đa 4 lần. 2 lần đầu mỗi lần gây một đoạn {0} sát thương Hủy Diệt, lần thứ 3 gây hai đoạn {1} sát thương Hủy Diệt, lần thứ 4 gây ba đoạn {2} sát thương Hủy Diệt.
-Sau khi hóa hình, gia thành sát thương Hủy Diệt bản thân tăng {3}, gia thành sát thương Kỹ Năng Cộng Hưởng tăng {4}, kéo dài {5} giây.
-Hồi chiêu: {6} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280005_SimplyDescription,幻形为无冠者，连续攻击敌人造成湮灭伤害，提高自身的湮灭和共鸣技能伤害。,"Transform into Crownless and relentlessly assault enemies, dealing Havoc DMG. Increase current character's Havoc DMG and Resonance Skill DMG.","Hóa hình thành Crownless, liên tục tấn công kẻ địch gây sát thương Hủy Diệt, tăng sát thương Hủy Diệt và Kỹ Năng Cộng Hưởng cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280006_DescriptionEx,"使用声骸技能，幻形为飞廉之猩进行踢击。如果踢击命中则会接续一记追击，踢击造成{0}气动伤害，追击造成{1}气动伤害。
-追击命中后，自身气动伤害加成提升{2}，重击伤害加成提升{3}，持续{4}秒。
-技能冷却：{5}秒","Transform into Feilian Beringal to perform a powerful kick. If the kick lands on an enemy, immediately perform a follow-up strike. The kick deals {0} Aero DMG, and the follow-up strike deals {1} Aero DMG.
+Duelist Traits: None","Để bảo vệ những gì quan trọng, Lagerith luôn theo đuổi sức mạnh. Và Peaks of Prestige dường như đã trở thành một trong những nguồn sức mạnh của cô.
 
-After the follow-up strike hits, the current character's Aero DMG increases by {2}, and the Heavy Attack DMG increases by {3} for {4}s
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2012,"卡塔丽娜想要离开拉海洛，成为一名七丘角斗士……也许某一天，她真的能实现自己的愿望。
 
-CD: {5}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Phi Liêm Chi Tinh tung đòn đá. Nếu đòn đá trúng đích sẽ tiếp nối một đòn truy kích, đòn đá gây {0} sát thương Khí Động, đòn truy kích gây {1} sát thương Khí Động.
-Sau khi đòn truy kích trúng đích, gia thành sát thương Khí Động bản thân tăng {2}, gia thành sát thương Trọng Kích tăng {3}, kéo dài {4} giây.
-Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280006_SimplyDescription,幻形为飞廉之猩，连续攻击敌人造成气动伤害，提高自身的气动和重击伤害。,"Transform into Feilian Beringal to continuously attack enemies, dealing Aero DMG. Increase current character's Aero DMG and Heavy Attack DMG.","Hóa hình thành Phi Liêm Chi Tinh, liên tục tấn công kẻ địch gây sát thương Khí Động, tăng sát thương Khí Động và Trọng Kích cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280007_DescriptionEx,"使用声骸技能，幻形为辉萤军势进行攻击，可连续使用最多3次。
-向前方下砸并引发大范围的冰冻冲击，前两段下砸分别造成{0}和{1}冷凝伤害，最后一段造成{2}冷凝伤害，被冲击命中的敌人会被冰冻。
- 每次冲击使自身冷凝伤害加成提升{3}，共鸣技能伤害加成提升{4}，最多3层，持续{5}秒。
- 技能冷却：{6}秒","Transform into Lampylumen Myriad. Perform up to 3 consecutive attacks.
+决斗家特性：无特性","Katrina wants to leave Lahai-Roi and become a Septimont Gladiator... Perhaps one day her dreams will come true.
 
-Unleash a freezing shock by performing consecutive forward strikes, with the initial two strikes inflicting {0} and {1} Glacio DMG respectively, and the final strike dealing {2} Glacio DMG. Enemies will be frozen on hit.
+Duelist Traits: None","Katrina muốn rời khỏi Lahai-Roi để trở thành một đấu sĩ Septimont... Biết đâu một ngày nào đó, cô ấy thật sự có thể thực hiện ước mơ của mình.
 
-Each shock increases the current character's Glacio DMG by {3} and Resonance Skill DMG dealt by {4} for {5}s, stacking up to 3 times
+Đặc tính Đấu sĩ: Không có"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2013,"和乔娜决斗吧！让你看看谁才是真正的狠角色！
 
-CD: {6}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Huỳnh Huỳnh Quân Thế để tấn công, có thể sử dụng liên tục tối đa 3 lần.
-Đập xuống phía trước và tạo ra xung kích băng giá phạm vi rộng. Hai đợt đập đầu tiên lần lượt gây {0} và {1} sát thương Ngưng Băng, đợt cuối gây {2} sát thương Ngưng Băng. Kẻ địch trúng xung kích sẽ bị đóng băng.
- Mỗi lần xung kích giúp bản thân tăng bonus sát thương Ngưng Băng thêm {3}, bonus sát thương Kỹ Năng Cộng Hưởng thêm {4}, tối đa 3 tầng, duy trì {5} giây.
- Hồi chiêu: {6} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280007_SimplyDescription,幻形为辉萤军势，连续攻击敌人造成冷凝伤害，提高自身的冷凝和共鸣技能伤害。,"Transform into Lampylumen Myriad to continuously attack enemies, dealing Glacio damage. Increase current character's Glacio DMG and Resonance Skill DMG.","Hóa hình thành Huỳnh Huỳnh Quân Thế, liên tục tấn công kẻ địch gây sát thương Ngưng Băng, tăng sát thương Ngưng Băng và sát thương Kỹ Năng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280008_DescriptionEx,"使用声骸技能，幻形为哀声鸷发动二连爪击，分别造成{0}、{1}衍射伤害。
-幻形后，自身衍射伤害加成提升{2}，共鸣解放伤害加成提升{3}，持续{4}秒。
-技能冷却：{5}秒","Transform into Mourning Aix and perform 2 consecutive claw attacks, each attack dealing {0} and {1} Spectro DMG respectively.
+决斗家特性：该技能持有者，每当召唤声骸时，使该声骸获得【不屈】技能。","Challenge Jonna! Let her see who's the real Duelist!
 
-After the transformation, increase current character's Spectro DMG by {2} and Resonance Liberation DMG by {3} for {4}s
+Duelist Traits: Each time the duelist deploys an Echo, the Echo gains Resilience.","Đấu với Jonna đi! Để xem ai mới là tay chơi thực thụ!
 
-CD: {5}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Ai Thanh Chí và tung hai đòn vuốt liên tiếp, lần lượt gây {0}, {1} sát thương Nhiễu Xạ.
-Sau khi hóa hình, bonus sát thương Nhiễu Xạ của bản thân tăng thêm {2}, bonus sát thương Giải Phóng Cộng Hưởng tăng thêm {3}, duy trì {4} giây.
-Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280008_SimplyDescription,幻形为哀声鸷，连续攻击敌人造成衍射伤害，提高自身的衍射和共鸣解放伤害。,"Transform into Mourning Aix to continuously attack enemies, dealing Spectro damage. Increase current character's Spectro DMG and Resonance Liberation DMG.","Hóa hình thành Ai Thanh Chí, liên tục tấn công kẻ địch gây sát thương Nhiễu Xạ, tăng sát thương Nhiễu Xạ và sát thương Giải Phóng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280009_DescriptionEx,"使用声骸技能，对周围的敌人造成一次{0}的导电伤害，并召唤聚械废料攻击敌人。废料命中目标时会造成{1}的导电伤害，并在一段时间后爆炸，造成{2}的导电伤害。
- 施放声骸技能后，自身攻击提升{3}，持续{4}秒。废料造成的伤害为角色的延奏技能伤害。 
- 技能冷却：{5}秒","Strike enemies in front, dealing {0} Electro DMG, and summon Mech Waste to attack. Mech Waste deals {1} Electro DMG on hit and explodes after a while, dealing {2} Electro DMG.
+Đặc tính Đấu sĩ: Mỗi khi người sở hữu kỹ năng triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Bất Khuất]."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2014,"太好了！终于有人来和伊温德决斗了！
 
-After casting this Echo Skill, increase the current character's ATK by {3} for {4}s. 
-Damage dealt by Mech Waste equals to the Resonator's Outro Skill DMG. 
+决斗家特性：该技能持有者，每当在部署阶段与战斗阶段失去生命时，失去的生命-1。","Great! Finally, someone has come to challenge Eyvind!
 
-CD: {5}s","Sử dụng Thanh Hài Kỹ, gây cho kẻ địch xung quanh một đòn {0} sát thương Dẫn Điện, đồng thời triệu hồi Phế Liệu Cơ Giới tấn công kẻ địch. Khi phế liệu trúng mục tiêu sẽ gây {1} sát thương Dẫn Điện, và sau một khoảng thời gian sẽ nổ tung, gây {2} sát thương Dẫn Điện.
- Sau khi thi triển Thanh Hài Kỹ, tấn công bản thân tăng thêm {3}, duy trì {4} giây. Sát thương từ phế liệu được tính là sát thương Kỹ Năng Diên Tấu của nhân vật. 
- Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280009_SimplyDescription,对周围造成导电伤害并生成延迟爆炸的废料，提高自身的攻击。,Deal Electro DMG to enemies nearby and create Mech Waste that explodes in a while. Increase the user's ATK.,"Gây sát thương Dẫn Điện cho kẻ địch xung quanh và tạo ra phế liệu nổ chậm, tăng tấn công của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280010_DescriptionEx,"使用声骸技能，幻形为无常凶鹭，起飞后下砸，造成{0}的湮灭伤害；
-长按声骸技能，持续幻形，起飞后向下倾泻湮灭火炎，每段攻击造成{1}的湮灭伤害。
-幻形后首次命中敌人，回复自身10点共鸣能量；在此后15秒内，若自身施放延奏技能，则可使下一个变奏登场的角色伤害提升12%，持续15秒。
-技能冷却：{2}秒","Transform into Impermanence Heron to fly up and smack down, dealing {0} Havoc DMG.
+Duelist Traits: The duelist loses 1 less HP each time they lose HP during the Deployment Stage and Battle Stage.","Tuyệt vời! Cuối cùng cũng có người đến đấu với Eyvind rồi!
 
-Long press to stay as Impermanence Heron and continuously spit flames, each attack dealing {1} Havoc DMG.
+Đặc tính Đấu sĩ: Mỗi khi người sở hữu kỹ năng mất máu trong Giai đoạn Triển khai và Giai đoạn Chiến đấu, lượng máu mất đi giảm 1."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2015,"日灵也会玩《荣耀之丘》吗？还是说，它们仅仅是伊洛妮对于自己战术的伪装呢？
 
-Once the initial attack lands on any enemy, the current character regains 10 Resonance Energy. If the current character uses their Outro Skill within the next 15s, the next character's damage dealt will be boosted by 12% for 15s.
+决斗家特性：该技能持有者，在战斗阶段受到的伤害-5。","Do Soliskin also play Peaks of Prestige? Or are they just acting as Eloni's tactical disguise?
 
-CD: {2}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Vô Thường Hung Lộ, bay lên rồi đập xuống, gây {0} sát thương Giải Ly;
-Giữ Thanh Hài Kỹ, duy trì hóa hình, bay lên rồi tuôn xuống hỏa diệm Giải Ly, mỗi đợt tấn công gây {1} sát thương Giải Ly.
-Sau khi hóa hình, lần đầu trúng kẻ địch sẽ hồi phục 10 điểm Năng Lượng Cộng Hưởng cho bản thân; trong 15 giây sau đó, nếu bản thân thi triển kỹ năng Diên Tấu, nhân vật tiếp theo đăng trường qua Biến Tấu sẽ được tăng 12% sát thương, duy trì 15 giây.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280010_SimplyDescription,"幻形为无常凶鹭，起飞后下砸，造成湮灭伤害；长按声骸技能，飞起倾泻火炎造成湮灭伤害。
-攻击命中后回复自身共鸣能量并为下一个变奏登场的角色附加伤害提升效果。","Transform into Impermanence Heron to deal Havoc DMG. Long press to spit flames and continuously deal Havoc DMG. Once the attacks hit any enemy, restore current character's Resonance Energy. Increase next character's damage dealt.","Hóa hình thành Vô Thường Hung Lộ, bay lên rồi đập xuống gây sát thương Giải Ly; giữ Thanh Hài Kỹ để bay lên tuôn hỏa diệm gây sát thương Giải Ly.
-Sau khi tấn công trúng, hồi phục Năng Lượng Cộng Hưởng cho bản thân và cộng thêm hiệu ứng tăng sát thương cho nhân vật tiếp theo đăng trường qua Biến Tấu."
-lang_multi_text.db,MultiText,PhantomSkill_280011_DescriptionEx,"使用声骸技能，幻形为无妄者，连续攻击前方目标6次，前5次每次造成{0}的湮灭伤害，最后一段造成{1}的湮灭伤害。
-漂泊者·湮灭在施放共鸣解放·临渊死寂后{2}秒内，施放该声骸技能造成的伤害提升{3}。
-技能冷却：{4}秒","Transform into Dreamless and perform 6 consecutive strikes. The first 5 strikes deal {0} Havoc DMG each, and the last strike deal {1} Havoc DMG.
-The DMG of this Echo Skill is increased by {3} during the first {2}s after Rover: Havoc casts Resonance Liberation: Deadening Abyss.
+Duelist Traits: The duelist takes 5 less DMG during the Battle Stage.","Linh hồn mặt trời cũng chơi Peaks of Prestige sao? Hay chúng chỉ là lớp ngụy trang chiến thuật của Eloni?
 
-CD: {4}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Dreamless, liên tục tấn công mục tiêu phía trước 6 lần. 5 đòn đầu mỗi đòn gây {0} sát thương Giải Ly, đòn cuối gây {1} sát thương Giải Ly.
-Lữ Khách - Giải Ly sau khi thi triển Giải Phóng Cộng Hưởng - Lâm Uyên Tử Tịch trong vòng {2} giây, sát thương của Thanh Hài Kỹ này tăng thêm {3}.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280011_SimplyDescription,幻形为无妄者，连续攻击敌人造成湮灭伤害。施放共鸣解放·临渊死寂后的漂泊者·湮灭使用该声骸技能造成的伤害提高。,Transform into Dreamless to continuously attack enemies and deal Havoc DMG. This Echo Skill deals more damage after Rover-Havoc casts their Resonance Liberation.,"Hóa hình thành Dreamless, liên tục tấn công kẻ địch gây sát thương Giải Ly. Lữ Khách - Giải Ly sau khi thi triển Giải Phóng Cộng Hưởng - Lâm Uyên Tử Tịch, sát thương của Thanh Hài Kỹ này được tăng cường."
-lang_multi_text.db,MultiText,PhantomSkill_280012_DescriptionEx,"使用声骸技能，召唤「角」腾跃而起，对目标造成{0}的衍射伤害并降下光雷，光雷对周围目标造成最多五段，每段{1}的衍射伤害。随后「角」向下盘旋攻击周围敌人，连续两次造成{2}的衍射伤害。
-施放声骸技能时，获得「光阴之祝」，持续{3}秒。
-「光阴之祝」持续期间：
-·自身的共鸣技能伤害加成提升{4}；
-·自身的共鸣技能命中目标后，目标每秒受到1次{5}衍射伤害，此次伤害为角色的共鸣技能伤害，持续{6}秒。
-技能冷却：{7}秒","Summon Jué to the aid. Jué soars through the air, dealing {0} Spectro DMG, and summons thunderbolts that strike nearby enemies up to 5 times, each hit dealing {1} Spectro DMG. Jué then spirals downward, attacking surrounding enemies twice, each hit dealing {2} Spectro DMG.
-Casting this Echo Skill grants the Resonator a Blessing of Time effect that lasts {3}s, during when:
-- The Resonator gains {4} Resonance Skill DMG Bonus.
-- When the Resonator's Resonance Skill hits the target, inflict {5} Spectro DMG 1 time per second for {6}s, considered as the Resonator's Resonance Skill DMG.
-CD: {7}s","Sử dụng Thanh Hài Kỹ, triệu hồi ""Giác"" bay vọt lên, gây cho mục tiêu {0} sát thương Nhiễu Xạ và giáng xuống quang lôi. Quang lôi gây tối đa năm đợt cho mục tiêu xung quanh, mỗi đợt {1} sát thương Nhiễu Xạ. Sau đó ""Giác"" xoáy xuống tấn công kẻ địch xung quanh, liên tục hai lần gây {2} sát thương Nhiễu Xạ.
-Khi thi triển Thanh Hài Kỹ, nhận được ""Quang Âm Chi Chúc"", duy trì {3} giây.
-Trong thời gian ""Quang Âm Chi Chúc"":
-- Bonus sát thương Kỹ Năng Cộng Hưởng của bản thân tăng thêm {4};
-- Khi Kỹ Năng Cộng Hưởng của bản thân trúng mục tiêu, mục tiêu mỗi giây chịu 1 lần {5} sát thương Nhiễu Xạ, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng của nhân vật, duy trì {6} giây.
-Hồi chiêu: {7} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280012_SimplyDescription,短暂地召唤「角」攻击敌人，造成衍射伤害。施放声骸技能后，角色的共鸣技能可令敌人受到持续的衍射伤害。,"Summon Jué to attack the enemies, dealing Spectro DMG. The Resonator can perform Resonance Skill to deal sustained Spectro DMG to the enemies over time.","Triệu hồi tạm thời ""Giác"" tấn công kẻ địch, gây sát thương Nhiễu Xạ. Sau khi thi triển Thanh Hài Kỹ, Kỹ Năng Cộng Hưởng của nhân vật có thể khiến kẻ địch chịu sát thương Nhiễu Xạ liên tục."
-lang_multi_text.db,MultiText,PhantomSkill_280013_DescriptionEx,"使用声骸技能，召唤无归的谬误一部分的权能，对周围的敌人造成1次基于自身生命上限{0}的衍射伤害，使自身共鸣效率提升10%，全队角色攻击提升10%，持续20秒。
-长按声骸技能，可在震击结束后，消耗耐力持续进行攻击，每次造成基于生命上限{1}的衍射伤害；结束长按时，触发最后一击，造成基于生命上限{2}的衍射伤害。
-技能冷却：{3}秒","Activate the Echo Skill to summon a fraction of the Fallacy of No Return's power and deal a blast to the surrounding area, inflicting Spectro DMG equal to {0} of max HP, after which the Resonator gains 10% bonus Energy Regen and all team members 10% bonus ATK for 20s.
-Hold Echo Skill to unleash a series of flurry assaults at the cost of STA, each dealing Spectro DMG equal to {1} of max HP; Release to end the assail in a powerful blow, dealing Spectro DMG equal to {2} of max HP.
-CD: {3}s","Sử dụng Thanh Hài Kỹ, triệu hồi một phần quyền năng của Vô Quy Chi Mậu, gây cho kẻ địch xung quanh 1 đòn sát thương Nhiễu Xạ dựa trên {0} HP tối đa của bản thân, đồng thời tăng hiệu suất Cộng Hưởng của bản thân thêm 10%, tăng tấn công toàn đội thêm 10%, duy trì 20 giây.
-Giữ Thanh Hài Kỹ, sau khi chấn kích kết thúc, tiêu hao thể lực để liên tục tấn công, mỗi lần gây sát thương Nhiễu Xạ dựa trên {1} HP tối đa; khi kết thúc giữ, kích hoạt đòn cuối cùng, gây sát thương Nhiễu Xạ dựa trên {2} HP tối đa.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280013_SimplyDescription,召唤无归的谬误的部分权能，攻击周围的敌人，可提升自身的共鸣效率，提升全队角色的攻击力。,"Summon a fraction of the Fallacy of No Return's power to unleash powerful blows, granting bonus Energy Regen for the Resonator and bonus ATK for all team members.","Triệu hồi một phần quyền năng của Vô Quy Chi Mậu, tấn công kẻ địch xung quanh, có thể tăng hiệu suất Cộng Hưởng của bản thân và tăng tấn công cho toàn đội."
-lang_multi_text.db,MultiText,PhantomSkill_280014_DescriptionEx,"使用声骸技能，幻形为异构武装，攻击前方目标，造成{0}的冷凝伤害。装配角色施放共鸣解放时，可持续提升「强袭功率」。
-「强袭功率」升满时，重置声骸技能的冷却时间，可使用声骸技能幻形为异构武装，起飞后向目标俯冲，造成{1}的冷凝伤害，并冻结目标。
-在首位装配该声骸技能时，自身获得{2}冷凝伤害加成提升，{3}共鸣技能伤害加成提升。
-技能冷却：{4}秒","Transform into Sentry Construct and attack enemies in front, dealing {0} Glacio DMG. Each time the Resonator with this Echo casts Resonance Liberation, it charges the Strike Capacitor.
-Once Strike Capacitor is at max level, the Echo Skill cooldown will be reset. Use Echo Skill to transform into Sentry Construct and dive into enemies from the air, dealing {1} Glacio DMG and freezing the target.
-The Resonator with this Echo equipped in their main slot gains {2} Glacio DMG Bonus and {3} Resonance Skill DMG Bonus.
-CD: {4}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Dị Cấu Vũ Trang, tấn công mục tiêu phía trước, gây {0} sát thương Ngưng Băng. Khi nhân vật trang bị thi triển Giải Phóng Cộng Hưởng, sẽ liên tục tăng ""Cường Tập Công Suất"".
-Khi ""Cường Tập Công Suất"" đầy, hồi chiêu Thanh Hài Kỹ được đặt lại, có thể sử dụng Thanh Hài Kỹ hóa hình thành Dị Cấu Vũ Trang, bay lên rồi bổ nhào vào mục tiêu, gây {1} sát thương Ngưng Băng và đóng băng mục tiêu.
-Khi trang bị Thanh Hài này ở vị trí đầu tiên, bản thân nhận thêm {2} bonus sát thương Ngưng Băng, {3} bonus sát thương Kỹ Năng Cộng Hưởng.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280014_SimplyDescription,幻形为异构武装，连续攻击前方敌人造成冷凝伤害。装配角色施放共鸣解放可持续提升「强袭功率」。「强袭功率」升满时可幻形为异构武装对敌人俯冲造成冷凝伤害。在首位装配时提高自身的冷凝和共鸣技能伤害。,"Transform into Sentry Construct and deal Glacio DMG to enemies. Casting Resonance Liberation while equipped with this Echo enhances Strike Capacitor. At max Strike Capacitor, transform into Sentry Construct and deal Glacio DMG to enemies. Equipping this Echo in the main slot grants Glacio DMG Bonus and Resonance Skill Bonus.","Hóa hình thành Dị Cấu Vũ Trang, liên tục tấn công kẻ địch phía trước gây sát thương Ngưng Băng. Nhân vật trang bị thi triển Giải Phóng Cộng Hưởng sẽ liên tục tăng ""Cường Tập Công Suất"". Khi ""Cường Tập Công Suất"" đầy, có thể hóa hình thành Dị Cấu Vũ Trang bổ nhào vào kẻ địch gây sát thương Ngưng Băng. Khi trang bị ở vị trí đầu tiên, tăng sát thương Ngưng Băng và sát thương Kỹ Năng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280015_DescriptionEx,"使用声骸技能，幻形为叹息古龙，召唤「悲恸领域」，持续5秒，对「悲恸领域」内的敌人周期性造成{0}的热熔伤害。
-在首位装配该声骸技能时，自身获得{1}热熔伤害加成提升，{2}普攻伤害加成提升。
-技能冷却：{3}秒","Transform into Dragon of Dirge and summon a Grief Rift lasting for 5s. Periodically deal {0} Fusion DMG to enemies within the area of effect.
-The Resonator with this Echo equipped in the main slot gains {1} Fusion DMG Bonus and {2} Basic Attack DMG Bonus.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Thán Tức Cổ Long, triệu hồi ""Bi Thống Lĩnh Vực"", duy trì 5 giây, định kỳ gây {0} sát thương Nhiệt Dung cho kẻ địch trong phạm vi.
-Khi trang bị Thanh Hài này ở vị trí đầu tiên, bản thân nhận thêm {1} bonus sát thương Nhiệt Dung, {2} bonus sát thương Phổ Công.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280015_SimplyDescription,幻形为叹息古龙召唤「悲恸领域」，对一定范围内的敌人持续造成热熔伤害。在首位装配时提高自身的热熔和普攻伤害。,"Transform into Dragon of Dirge and summon a Grief Rift, deal Fusion DMG to enemies within over time. Equipping this Echo in the main slot grants Fusion DMG Bonus and Basic Attack DMG Bonus.","Hóa hình thành Thán Tức Cổ Long triệu hồi ""Bi Thống Lĩnh Vực"", liên tục gây sát thương Nhiệt Dung cho kẻ địch trong phạm vi nhất định. Khi trang bị ở vị trí đầu tiên, tăng sát thương Nhiệt Dung và sát thương Phổ Công của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280016_DescriptionEx,"使用声骸技能，在周身召唤3个持续旋舞的「冥月侍女」。「冥月侍女」的旋刃将对敌人造成{0}的湮灭伤害。旋刃成功触发逆势回击时，重置「冥月侍女」存在的时间。
-在首位装配该声骸技能时，自身协同攻击造成的伤害提升{1}。
-技能冷却：{2}秒","Summon 3 twirling Crescent Servants around you. Crescent Servants attack enemies with their spinning blades, dealing {0} Havoc DMG. Triggering a Counterattack with the Echo attacks resets the Crescent Servants' duration.
-The Resonator with this Echo equipped in the main slot has their Coordinated Attack DMG increased by {1}.
-CD: {2}s.","Sử dụng Thanh Hài Kỹ, triệu hồi 3 ""Minh Nguyệt Thị Nữ"" liên tục xoay múa quanh mình. Lưỡi xoay của ""Minh Nguyệt Thị Nữ"" sẽ gây cho kẻ địch {0} sát thương Giải Ly. Khi lưỡi xoay kích hoạt thành công Phản Kích nghịch thế, thời gian tồn tại của ""Minh Nguyệt Thị Nữ"" sẽ được đặt lại.
-Khi trang bị Thanh Hài này ở vị trí đầu tiên, sát thương hiệp đồng tấn công của bản thân tăng thêm {1}.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280016_SimplyDescription,召唤旋舞的「冥月侍女」，对周围敌人造成湮灭伤害。「冥月侍女」的旋刃成功触发逆势回击时重置其存在时间。在首位装配时提高自身的协同攻击伤害。,Summon Crescent Servants to deal Havoc DMG to enemies. Triggering a Counterattack with the attacks resets the summon duration. Equipping this Echo in the main slot increases Coordinated Attack DMG.,"Triệu hồi ""Minh Nguyệt Thị Nữ"" xoay múa, gây sát thương Giải Ly cho kẻ địch xung quanh. Khi lưỡi xoay của ""Minh Nguyệt Thị Nữ"" kích hoạt thành công Phản Kích nghịch thế, thời gian tồn tại sẽ được đặt lại. Khi trang bị ở vị trí đầu tiên, tăng sát thương hiệp đồng tấn công của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280017_DescriptionEx,"使用声骸技能，幻形为罗蕾莱，对周围敌人造成{0}的湮灭属性伤害。
-在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，普攻伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Lorelei and attack surrounding enemies, dealing {0} Havoc DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Havoc DMG Bonus and {2} Basic Attack DMG Bonus.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Lorelei, gây cho kẻ địch xung quanh {0} sát thương thuộc tính Giải Ly.
-Khi trang bị Thanh Hài này ở vị trí đầu tiên, bản thân nhận thêm {1} bonus sát thương Giải Ly, {2} bonus sát thương Phổ Công.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280017_SimplyDescription,幻形为罗蕾莱，对周围敌人造成湮灭伤害。在首位装配时提高自身的湮灭和普攻伤害。,Transform into Lorelei and deal Havoc DMG to enemies. Equipping this Echo in the main slot grants Havoc DMG Bonus and Basic Attack DMG Bonus.,"Hóa hình thành Lorelei, gây sát thương Giải Ly cho kẻ địch xung quanh. Khi trang bị ở vị trí đầu tiên, tăng sát thương Giải Ly và sát thương Phổ Công của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280018_DescriptionEx,"使用声骸技能，召唤梦魇·飞廉之猩攻击敌人，造成{0}的气动伤害；留存的「风旋榕木」将持续攻击周围敌人，造成最多5段，每段{1}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{2}，重击伤害加成提升{3}。
-技能冷却：{4}秒","Summon a Nightmare: Feilian Beringal to attack enemies, dealing {0} Aero DMG. The remaining Whirlwind Beam will continuously attack surrounding enemies up to 5 times, each dealing {1} Aero DMG.
-The Resonator with this Echo equipped in their main slot gains {2} Aero DMG Bonus and {3} Heavy Attack DMG Bonus.
-CD: {4}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Mộng Yểm - Phi Liêm Chi Tinh tấn công kẻ địch, gây {0} sát thương Khí Động; ""Phong Toàn Dong Mộc"" còn lại sẽ liên tục tấn công kẻ địch xung quanh, gây tối đa 5 đợt, mỗi đợt {1} sát thương Khí Động.
-Khi trang bị Thanh Hài này ở vị trí đầu tiên, bản thân nhận thêm {2} bonus sát thương Khí Động, {3} bonus sát thương Trọng Kích.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280018_SimplyDescription,召唤梦魇·飞廉之猩，攻击敌人造成气动伤害。留存的「风旋榕木」也将对周围敌人持续造成气动伤害。在首位装配时提高自身的气动和重击伤害。,Summon a Nightmare: Feilian Beringal to deal Aero DMG to enemies. The remaining Whirlwind Beam deals continuous Aero DMG. Equipping this Echo in the main slot grants Aero DMG Bonus and Heavy Attack DMG Bonus.,"Triệu hồi Mộng Yểm - Phi Liêm Chi Tinh, tấn công kẻ địch gây sát thương Khí Động. ""Phong Toàn Dong Mộc"" còn lại cũng sẽ liên tục gây sát thương Khí Động cho kẻ địch xung quanh. Khi trang bị ở vị trí đầu tiên, tăng sát thương Khí Động và sát thương Trọng Kích của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280019_DescriptionEx,"使用声骸技能，幻形为梦魇·无常凶鹭，对周围敌人造成最多10段，每段{0}的湮灭伤害。
-在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，重击伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Impermanence Heron and deliver up to 10 consecutive strikes to surrounding enemies, each dealing {0} Havoc DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Havoc DMG Bonus and {2} Heavy Attack DMG Bonus.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Mộng Yểm - Vô Thường Hung Lộ, gây cho kẻ địch xung quanh tối đa 10 đợt, mỗi đợt {0} sát thương Giải Ly.
-Khi trang bị Thanh Hài này ở vị trí đầu tiên, bản thân nhận thêm {1} bonus sát thương Giải Ly, {2} bonus sát thương Trọng Kích.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280019_SimplyDescription,幻形为梦魇·无常凶鹭，对周围敌人造成多段湮灭伤害，在首位装配时提高自身的湮灭和重击伤害。,Transform into Nightmare: Impermanence Heron and deal Havoc DMG to enemies. Equipping this Echo in the main slot grants Havoc DMG Bonus and Heavy Attack DMG Bonus.,"Hóa hình thành Mộng Yểm - Vô Thường Hung Lộ, gây nhiều đoạn sát thương Giải Ly cho kẻ địch xung quanh. Trang bị ở vị trí chính sẽ tăng sát thương Giải Ly và sát thương Trọng Kích."
-lang_multi_text.db,MultiText,PhantomSkill_280020_DescriptionEx,"使用声骸技能，幻形为梦魇·云闪之鳞，对前方敌人造成{0}的导电伤害。
-在首位装配该声骸技能时，自身导电伤害加成提升{1}，共鸣解放伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Thundering Mephis and attack enemies in front, dealing {0} Electro DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Electro DMG Bonus and {2} Resonance Liberation DMG Bonus.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Mộng Yểm - Vân Thiểm Chi Lân, gây {0} sát thương Dẫn Điện cho kẻ địch phía trước.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {1} bonus sát thương Dẫn Điện và {2} bonus sát thương Giải Phóng Cộng Hưởng.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280020_SimplyDescription,幻形为梦魇·云闪之鳞，对前方敌人造成导电伤害，在首位装配时提高自身的导电和共鸣解放伤害。,Transform into Nightmare: Thundering Mephis and deal Electro DMG to enemies. Equipping this Echo in the main slot grants Electro DMG Bonus and Resonance Liberation DMG Bonus.,"Hóa hình thành Mộng Yểm - Vân Thiểm Chi Lân, gây sát thương Dẫn Điện cho kẻ địch phía trước. Trang bị ở vị trí chính sẽ tăng sát thương Dẫn Điện và sát thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,PhantomSkill_280021_DescriptionEx,"使用声骸技能，幻形为梦魇·朔雷之鳞，对周围敌人造成{0}的导电伤害。
-在首位装配该声骸技能时，自身导电伤害加成提升{1}，共鸣技能伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Tempest Mephis and attack surrounding enemies, dealing {0} Electro DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Electro DMG Bonus and {2} Resonance Skill DMG Bonus.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Mộng Yểm - Sóc Lôi Chi Lân, gây {0} sát thương Dẫn Điện cho kẻ địch xung quanh.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {1} bonus sát thương Dẫn Điện và {2} bonus sát thương Kỹ Năng Cộng Hưởng.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280021_SimplyDescription,幻形为梦魇·朔雷之鳞，对周围敌人造成导电伤害，在首位装配时提高自身的导电和共鸣技能伤害。,Transform into Nightmare: Tempest Mephis and deal Electro DMG to enemies. Equipping this Echo in the main slot grants Electro DMG Bonus and Resonance Skill DMG Bonus.,"Hóa hình thành Mộng Yểm - Sóc Lôi Chi Lân, gây sát thương Dẫn Điện cho kẻ địch xung quanh. Trang bị ở vị trí chính sẽ tăng sát thương Dẫn Điện và sát thương Kỹ Năng Cộng Hưởng."
-lang_multi_text.db,MultiText,PhantomSkill_280022_DescriptionEx,"使用声骸技能，幻形为梦魇·无冠者，对前方敌人造成{0}的湮灭伤害。
-在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，普攻伤害加成提升{2}。
-初始拥有{3}次可使用次数，每{4}秒可使用次数增加1次，可使用次数上限{5}次。梦魇·无冠者命中目标后，该声骸技能造成的伤害提升{6}，持续{7}秒，不可叠加。
-技能冷却：{4}秒","Transform into Nightmare: Crownless and attack enemies in front, dealing {0} Havoc DMG. The Resonator with this Echo equipped in their main slot gains {1} Havoc DMG Bonus and {2} Basic Attack DMG Bonus.
-This skill has {3} initial charges, replenished once every {4}s, max {5} charges. When Nightmare: Crownless hits a target, DMG dealt by this skill is increased by {6}. This effect lasts for {7}s and does not stack.
-CD: {4}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Mộng Yểm - Crownless, gây {0} sát thương Giải Ly cho kẻ địch phía trước.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {1} bonus sát thương Giải Ly và {2} bonus sát thương Phổ Công.
-Ban đầu có {3} lần sử dụng, mỗi {4} giây hồi phục 1 lần, tối đa {5} lần. Khi Mộng Yểm - Crownless trúng mục tiêu, sát thương gây ra bởi Thanh Hài Kỹ này tăng {6}, kéo dài {7} giây, không cộng dồn.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280022_SimplyDescription,幻形为梦魇·无冠者，对前方敌人造成湮灭伤害，在首位装配时提高自身的湮灭和普攻伤害。,Transform into Nightmare: Crownless and deal Havoc DMG to enemies. Equipping this Echo in the main slot grants Havoc DMG Bonus and Basic Attack DMG Bonus.,"Hóa hình thành Mộng Yểm - Crownless, gây sát thương Giải Ly cho kẻ địch phía trước. Trang bị ở vị trí chính sẽ tăng sát thương Giải Ly và sát thương Phổ Công."
-lang_multi_text.db,MultiText,PhantomSkill_280023_DescriptionEx,"使用声骸技能，幻形为梦魇·燎照之骑，跃起对前方敌人造成{0}的热熔伤害。
-在首位装配该声骸技能时，自身热熔伤害加成提升{1}，共鸣技能伤害加成提升{2}。
-长按声骸技能，持续幻形为燎照之骑并进入骑行状态，结束时对前方的目标造成一次{3}的热熔伤害。
-技能冷却：{4}秒","Transform into Nightmare: Inferno Rider and jump to attack enemies in front, dealing {0} Fusion DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Fusion DMG Bonus and {2} Resonance Skill DMG Bonus.
-Hold Echo Skill to transform into Nightmare: Inferno Rider and enter Riding Mode. When exiting Riding Mode, deal {3} Fusion DMG to enemies in front.
-CD: {4}s.","Sử dụng Thanh Hài Kỹ, hóa hình thành Mộng Yểm - Liêu Chiếu Chi Kỵ, nhảy lên gây {0} sát thương Nhiệt Dung cho kẻ địch phía trước.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {1} bonus sát thương Nhiệt Dung và {2} bonus sát thương Kỹ Năng Cộng Hưởng.
-Giữ Thanh Hài Kỹ để duy trì hóa hình thành Liêu Chiếu Chi Kỵ và vào trạng thái cưỡi, khi kết thúc gây {3} sát thương Nhiệt Dung cho mục tiêu phía trước.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280023_SimplyDescription,"幻形为梦魇·燎照之骑，对前方敌人造成热熔伤害，在首位装配时提高自身的热熔和共鸣技能伤害。
-长按声骸技能可以持续幻形为骑行状态的梦魇·燎照之骑。","Transform into Nightmare: Inferno Rider and deal Fusion DMG to enemies. Equipping this Echo in the main slot grants Fusion DMG Bonus and Resonance Skill DMG Bonus.
-Hold Echo Skill to transform into Nightmare: Inferno Rider and enter Riding Mode.","Hóa hình thành Mộng Yểm - Liêu Chiếu Chi Kỵ, gây sát thương Nhiệt Dung cho kẻ địch phía trước. Trang bị ở vị trí chính sẽ tăng sát thương Nhiệt Dung và sát thương Kỹ Năng Cộng Hưởng.
-Giữ Thanh Hài Kỹ để duy trì hóa hình thành Mộng Yểm - Liêu Chiếu Chi Kỵ ở trạng thái cưỡi."
-lang_multi_text.db,MultiText,PhantomSkill_280024_DescriptionEx,"使用声骸技能，召唤梦魇·哀声鸷，对周围敌人造成{0}的衍射伤害。若敌人处于受「光噪效应」影响状态时，哀声鸷造成的伤害提升{1}。
-在首位装配该声骸技能时，自身衍射伤害加成提升{2}。
-技能冷却：{3}秒","Summon a Nightmare: Mourning Aix to attack surrounding enemies, dealing {0} Spectro DMG. DMG dealt to enemies inflicted by Spectro Frazzle is increased by {1}.
-The Resonator with this Echo equipped in their main slot gains {2} Spectro DMG Bonus.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Mộng Yểm - Ai Thanh Chí, gây {0} sát thương Nhiễu Xạ cho kẻ địch xung quanh. Nếu kẻ địch đang chịu ảnh hưởng ""Hiệu Ứng Quang Tạp"", sát thương gây ra bởi Ai Thanh Chí tăng {1}.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {2} bonus sát thương Nhiễu Xạ.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280024_SimplyDescription,召唤梦魇·哀声鸷，对周围敌人造成衍射伤害，对受「光噪效应」影响的敌人造成更多伤害。 在首位装配时提高自身的衍射伤害。,Summon a Nightmare: Mourning Aix to deal Spectro DMG to enemies. Deal increased DMG to enemies inflicted by Spectro Frazzle. Equipping this Echo in the main slot grants Spectro DMG Bonus.,"Triệu hồi Mộng Yểm - Ai Thanh Chí, gây sát thương Nhiễu Xạ cho kẻ địch xung quanh, gây thêm sát thương cho kẻ địch đang chịu ảnh hưởng ""Hiệu Ứng Quang Tạp"". Trang bị ở vị trí chính sẽ tăng sát thương Nhiễu Xạ."
-lang_multi_text.db,MultiText,PhantomSkill_280025_DescriptionEx,"使用声骸技能，召唤梦魇·辉萤军势，对周围敌人造成{0}的冷凝伤害。
-在首位装配该声骸技能时，自身冷凝伤害加成提升{1}，协同攻击造成的伤害提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Lampylumen Myriad and attack surrounding enemies, dealing {0} Glacio DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Glacio DMG Bonus and deals {2} more Coordinated Attack DMG.
-CD: {3}s.","Sử dụng Thanh Hài Kỹ, triệu hồi Mộng Yểm - Huy Huỳnh Quân Thế, gây {0} sát thương Ngưng Băng cho kẻ địch xung quanh.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {1} bonus sát thương Ngưng Băng và tăng {2} sát thương Hiệp Đồng Công Kích.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280025_SimplyDescription,召唤梦魇·辉萤军势，对周围敌人造成冷凝伤害。 在首位装配时提高自身的冷凝伤害和协同攻击造成的伤害。,Summon a Nightmare: Lampylumen Myriad and deal Glacio DMG to nearby enemies. Equipping this Echo in the main slot grants Glacio DMG Bonus and increases Coordinated Attack DMG.,"Triệu hồi Mộng Yểm - Huy Huỳnh Quân Thế, gây sát thương Ngưng Băng cho kẻ địch xung quanh. Trang bị ở vị trí chính sẽ tăng sát thương Ngưng Băng và sát thương Hiệp Đồng Công Kích."
-lang_multi_text.db,MultiText,PhantomSkill_280026_DescriptionEx,"使用声骸技能，召唤【破空幻刃】，攻击目标，造成八段{0}和一段{1}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{2}，当装配角色为漂泊者·气动或卡提希娅时，自身气动伤害加成额外提升{3}。
-技能冷却：{4}秒","Summon Windcleaver and attack the target, dealing {0} Aero DMG 8 times and {1} Aero DMG once.
-The Resonator with this Echo equipped in the main slot gains {2} Aero DMG Bonus. When Resonator: Aero or Cartethyia equips this Echo, they gain {3} more Aero DMG Bonus.
-CD: {4}s.","Sử dụng Thanh Hài Kỹ, triệu hồi [Phá Không Huyễn Nhẫn], tấn công mục tiêu, gây 8 đoạn {0} và 1 đoạn {1} sát thương Khí Động.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {2} bonus sát thương Khí Động. Khi nhân vật trang bị là Lữ Khách - Khí Động hoặc Cartethyia, bonus sát thương Khí Động tăng thêm {3}.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280026_SimplyDescription,召唤【破空幻刃】，对敌人造成气动伤害。在首位装配时提高自身的气动伤害，漂泊者·气动和卡提希娅在首位装配时气动伤害加成额外提高。,"Summon the Windercleaver to deal Aero DMG. Equipping this Echo in the main slot grants Aero DMG Bonus. If equipped by Rover: Aero or Cartethyia, grant an extra Aero DMG bonus.","Triệu hồi [Phá Không Huyễn Nhẫn], gây sát thương Khí Động cho kẻ địch. Trang bị ở vị trí chính sẽ tăng sát thương Khí Động. Lữ Khách - Khí Động và Cartethyia trang bị ở vị trí chính sẽ được tăng thêm bonus sát thương Khí Động."
-lang_multi_text.db,MultiText,PhantomSkill_280027_DescriptionEx,"使用声骸技能，幻形为梦魇·凯尔匹，对周围敌人造成{0}的冷凝伤害。
-在首位装配该声骸技能时，自身冷凝伤害加成提升{2}，气动伤害加成提升{3}；使用延奏技能离场时可召唤梦魇·凯尔匹，对敌人造成{1}的气动伤害。
-技能冷却：{4}秒","Transform into Nightmare: Kelpie to attack nearby targets, dealing {0} Glacio DMG.
-The Resonator with this Echo equipped in the main slot gains {2} Glacio DMG Bonus and {3} Aero DMG Bonus. Switching out the Resonator with Outro Skill summons Nightmare: Kelpie to deal {1} Aero DMG.
-CD: {4}s","Sử dụng Thanh Hài Kỹ, hóa hình thành Mộng Yểm - Kelpie, gây {0} sát thương Ngưng Băng cho kẻ địch xung quanh.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {2} bonus sát thương Ngưng Băng và {3} bonus sát thương Khí Động; khi sử dụng kỹ năng Hiệp Tấu để rời sân có thể triệu hồi Mộng Yểm - Kelpie, gây {1} sát thương Khí Động cho kẻ địch.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280027_SimplyDescription,"幻形为梦魇·凯尔匹，对周围敌人造成冷凝伤害。
-在首位装配时，提高自身冷凝和气动伤害；使用延奏技能离场时可召唤梦魇·凯尔匹，对敌人造成气动伤害。","Transform into Nightmare: Kelpie to attack nearby targets, dealing Glacio DMG.
-The Resonator with this Echo equipped in the main slot gains Glacio and Aero DMG Bonus. Switching out the Resonator with Outro Skill summons Nightmare: Kelpie to deal Aero DMG.","Hóa hình thành Mộng Yểm - Kelpie, gây sát thương Ngưng Băng cho kẻ địch xung quanh.
-Trang bị ở vị trí chính sẽ tăng sát thương Ngưng Băng và Khí Động; khi sử dụng kỹ năng Hiệp Tấu để rời sân có thể triệu hồi Mộng Yểm - Kelpie, gây sát thương Khí Động cho kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_280028_DescriptionEx,"使用声骸技能，召唤【荣光之戟】，对周围敌人造成{0}的热熔伤害，一定时间后再造成{1}的热熔伤害。
-在首位装配该声骸技能时，自身热熔伤害加成提升{2}，共鸣解放伤害加成提升{3}。
-技能冷却：{4}秒","Summon the Halberd of Glory to crush an area, dealing {0} Fusion DMG to nearby targets, and then blast off after a short delay, dealing {1} Fusion DMG.
-The Resonator with this Echo equipped in the main slot gains {2} Fusion DMG Bonus and {3} Resonance Liberation DMG Bonus.
-CD: {4}s","Sử dụng Thanh Hài Kỹ, triệu hồi [Vinh Quang Chi Kích], gây {0} sát thương Nhiệt Dung cho kẻ địch xung quanh, sau một khoảng thời gian gây thêm {1} sát thương Nhiệt Dung.
-Khi trang bị Thanh Hài này ở vị trí chính, tăng {2} bonus sát thương Nhiệt Dung và {3} bonus sát thương Giải Phóng Cộng Hưởng.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280028_SimplyDescription,"使用声骸技能，召唤【荣光之戟】，对周围敌人造成热熔伤害。
-在首位装配时，提高自身热熔和共鸣解放伤害。","Summon the Halberd of Glory to deal Fusion DMG to nearby targets.
-The Resonator with this Echo equipped in the main slot gains Fusion and Resonance Liberation DMG Bonus.","Sử dụng Thanh Hài Kỹ, triệu hồi [Vinh Quang Chi Kích], gây sát thương Nhiệt Dung cho kẻ địch xung quanh.
-Trang bị ở vị trí chính sẽ tăng sát thương Nhiệt Dung và sát thương Giải Phóng Cộng Hưởng."
+Đặc tính Đấu sĩ: Người sở hữu kỹ năng giảm 5 sát thương nhận được trong Giai đoạn Chiến đấu."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2016,"奥德吉尔听从来自内心深处的呼唤。他独自在旷野追逐隧群，希望从它们那里获得野性的智慧。
+
+决斗家特性：该技能持有者，每当召唤声骸时，使该声骸获得【坚韧】技能。","Odgier heeds the calling from deep within his heart. Alone, he pursues the Exoswarm in the wilderness, hoping to gain wild wisdom from them.
+
+Duelist Traits: Each time the duelist deploys an Echo, the Echo gains Toughness.","Odgier lắng nghe tiếng gọi từ sâu thẳm trong tim. Một mình giữa hoang dã, anh đuổi theo bầy Exoswarm, hy vọng học được trí tuệ hoang dã từ chúng.
+
+Đặc tính Đấu sĩ: Mỗi khi người sở hữu kỹ năng triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Kiên Cường]."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2017,"来，一决胜负吧。
+
+决斗家特性：该技能持有者，每回合开始时，使对方失去7点生命。","Come, let's settle this once and for all.
+
+Duelist Traits: The duelist's opponent loses 7 HP at the start of each round.","Đến, phân thắng bại nào.
+
+Đặc tính Đấu sĩ: Mỗi lượt bắt đầu, người sở hữu kỹ năng khiến đối phương mất 7 điểm máu."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_2018,"阿尔多对拉海洛的古代生物很感兴趣，并将自己对它们的想象添加到了卡组之中。
+
+决斗家特性：
+	该技能持有者，每当召唤声骸时，使该声骸获得【不屈】与【坚韧】技能。
+每当在部署阶段与战斗阶段失去生命时，失去的生命-1。
+回合结束时，所操控的声骸的力量与耐久均+X，X为当前回合数。","Aldo takes great interest in the ancient creatures of Lahai-Roi and has implemented his imagination of them in his deck.
+
+Duelist Traits:
+Each time the duelist deploys an Echo, the Echo gains Resilience and Toughness.
+The duelist loses 1 less HP each time they lose HP during the Deployment Stage and Battle Stage.
+At the end of each round, the duelist's Echoes gain X points of STR and CON, with X being the current round number.","Aldo rất hứng thú với các sinh vật cổ đại ở Lahai-Roi và đã đưa trí tưởng tượng của mình về chúng vào bộ bài.
+
+Đặc tính Đấu sĩ:
+	Mỗi khi người sở hữu kỹ năng triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Bất Khuất] và [Kiên Cường].
+Mỗi khi mất máu trong Giai đoạn Triển khai và Giai đoạn Chiến đấu, lượng máu mất đi giảm 1.
+Khi kết thúc lượt, sức mạnh và độ bền của các Thanh Hài đang điều khiển đều tăng thêm X, X bằng số lượt hiện tại."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3001,"伊塔洛是来自拉古那的留学生，虽然他在拉海洛亲眼见到了许多神奇的科技，但他仍觉得声骸才是最强的。
+
+决斗家特性：无特殊效果","Italo is an exchange student from Ragunna. Despite having seen the technological wonders of Lahai-Roi, he still believes that nothing is stronger than an Echo.
+
+Duelist Traits: None","Italo là du học sinh đến từ Ragunna. Dù đã tận mắt chứng kiến nhiều công nghệ kỳ diệu ở Lahai-Roi, anh vẫn tin rằng Thanh Hài mới là mạnh nhất.
+
+Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3002,"安德鲁是他所在的科研小组中的技术员，也负责整个团队的后勤调配——但据认识他的人说，他似乎并不是个特别靠谱的人。
+
+决斗家特性：本场决斗的最大回合数为1！","Andrius is the technician and logistics coordinator for his research expedition team. However, people who know him say he's not particularly reliable.
+
+Duelist Traits: This duel only lasts 1 round!","Andrius là kỹ thuật viên trong nhóm nghiên cứu, đồng thời phụ trách hậu cần cho cả đội - nhưng theo những người quen biết, anh ta có vẻ không phải người đáng tin cậy cho lắm.
+
+Đặc tính Đấu sĩ: Số lượt tối đa của trận đấu này là 1!"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3003,"峦泉意识到自己在前来冰原时落下了一个至关重要的东西，这让她的科考之旅变得黯然失色。
+
+决斗家特性：无特殊效果","Luanquan realized that she had left a crucial item behind on the way to frostlands. This mistake cast a shadow over her scientific expedition.
+
+Duelist Traits: None","Luanquan nhận ra mình đã bỏ quên một thứ vô cùng quan trọng khi lên đường đến băng nguyên, khiến chuyến khảo sát khoa học của cô phủ một lớp bóng u ám.
+
+Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt"
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3004,"作为罗伊族，兰娜对星炬学院的科考摩托特别感兴趣。而因为某个传言，她产生了一个相当疯狂的创意……
+
+决斗家特性：技能持有者的对手每次召唤声骸时，技能持有者失去5点生命","As a Roya, Lana is particularly interested in Startorch Academy's expedition motorbikes. A certain rumor led her to come up with a rather crazy idea…
+
+Duelist Traits: The duelist's opponent loses 5 HP whenever the opponent deploys an Echo.","Là người Roya, Lana đặc biệt hứng thú với xe máy khảo sát của Học viện Startorch. Và vì một tin đồn nào đó, cô nảy ra một ý tưởng khá điên rồ...
+
+Đặc tính Đấu sĩ: Mỗi khi đối thủ triệu hồi Thanh Hài, người sở hữu kỹ năng mất 5 điểm máu."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3005,"乔安娜目前正在罗伊冰原负责数据收集工作，为了在这枯燥的工作中打发时间，她急需一个强大的对手。
+
+决斗家特性：技能持有者每次受到的伤害-5","Joanna is currently responsible for data collection in the Roya Frostlands. The job is monotonous, and she desperately needs a strong opponent to kill time.
+
+Duelist Traits: Every instance of DMG taken by the duelist is reduced by 5.","Joanna hiện đang phụ trách thu thập dữ liệu tại Băng Nguyên Roya. Để giết thời gian trong công việc nhàm chán này, cô cần gấp một đối thủ xứng tầm.
+
+Đặc tính Đấu sĩ: Mỗi lần nhận sát thương, người sở hữu kỹ năng giảm 5 sát thương."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3006,"乌苏拉追寻强者，为此踏上了环境严酷的罗伊冰原。也许她在此能够找到她所期望的荣誉和乐趣。
+
+决斗家特性：技能持有者的对手每上阵一张卡牌，技能持有者失去66点生命","Ursula ventured into the harsh Roya Frostlands in search of a strong opponent. Perhaps here, she will find honor and joy.
+
+Duelist Traits: The duelist's opponent loses 66 HP whenever the opponent deploys a card.","Ursula tìm kiếm kẻ mạnh, vì thế mà đặt chân đến Băng Nguyên Roya khắc nghiệt. Có lẽ tại đây cô sẽ tìm được vinh quang và niềm vui mà mình mong đợi.
+
+Đặc tính Đấu sĩ: Mỗi khi đối thủ ra một lá bài, người sở hữu kỹ năng mất 66 điểm máu."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3007,"罗伊人相信，环境越是恶劣的地方，就越有可能藏着美食。对布里姆而言当然也不例外。
+
+决斗家特性：每次召唤声骸时，技能持有者的一个随机声骸力量与耐久均+1","The Roya believe that delicious quarry is only found in the harshest environments. Bream is no exception.
+
+Duelist Traits: One of the duelist's Echoes gains 1 STR and CON whenever the duelist deploys an Echo.","Người Roya tin rằng, môi trường càng khắc nghiệt thì càng có thể giấu những món ngon. Với Bream, điều này tất nhiên cũng không ngoại lệ.
+
+Đặc tính Đấu sĩ: Mỗi khi triệu hồi Thanh Hài, một Thanh Hài ngẫu nhiên của người sở hữu kỹ năng được tăng 1 điểm sức mạnh và 1 điểm độ bền."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3008,"吉尔森一直在守望沉眠的隧者，而随着拉海洛新的太阳升起，他预感到自己的守望也即将结束。
+
+决斗家特性：技能持有者在战斗阶段受到的伤害-15，但是只有1点生命","Gilson has been watching over the slumbering Exostrider. With the rise of the new sun over Lahai-Roi, he knows his watch is coming to an end.
+
+Duelist Traits: Damage taken by the duelist in the Battle Stage is reduced by 15, but the duelist only has 1 HP.","Gilson đã luôn canh giữ Exostrider đang say giấc. Và khi mặt trời mới mọc lên trên Lahai-Roi, anh linh cảm rằng cuộc canh giữ của mình cũng sắp đến hồi kết.
+
+Đặc tính Đấu sĩ: Sát thương nhận vào trong giai đoạn chiến đấu của người sở hữu kỹ năng giảm 15, nhưng chỉ có 1 điểm máu."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3009,"瓦尔正在构思一个有趣的小说，而它的灵感似乎来源于隧者的传说……
+
+决斗家特性：每当技能持有者的对手使用主动技能时，使其场上所有声骸力量与耐久均-1","Varr is brainstorming ideas for an interesting novel. His inspiration mainly seems to come from the legend of the Exostrider.
+
+Duelist Traits: On-field Echoes belonging to the duelist's opponent lose 1 STR and CON whenever the opponent uses Active Skills.","Varr đang ấp ủ ý tưởng cho một cuốn tiểu thuyết thú vị, và nguồn cảm hứng của anh dường như bắt nguồn từ truyền thuyết về Exostrider...
+
+Đặc tính Đấu sĩ: Mỗi khi đối thủ của người sở hữu kỹ năng sử dụng kỹ năng chủ động, mọi Thanh Hài trên sân của đối thủ bị giảm 1 điểm sức mạnh và 1 điểm độ bền."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3010,"深空联合的数据库中有一条记载：某个坠毁的航天器中藏着一件拥有宇宙之力的宝物。威尔艾米娜正是被这条记载指引于此。
+
+决斗家特性：技能持有者的对手每进行一次特殊召唤时，技能持有者的对手失去4点生命","There is a record in the Spacetrek Collective's database of a crashed spacecraft that hides a treasure with the power of the cosmos. This is what drew Wilhelmina here.
+
+Duelist Traits: The duelist's opponent loses 4 HP whenever the opponent Quick-Deploys an Echo.","Trong cơ sở dữ liệu của Spacetrek Collective có một bản ghi: bên trong một phi thuyền rơi có ẩn giấu một bảo vật mang sức mạnh vũ trụ. Wilhelmina chính là được bản ghi ấy dẫn dắt đến đây.
+
+Đặc tính Đấu sĩ: Mỗi khi đối thủ của người sở hữu kỹ năng thực hiện triệu hồi nhanh, đối thủ mất 4 điểm máu."
+lang_multi_text.db,MultiText,PhantomBattleMapDes_3011,"加西亚在等待他的补给，而在补给送达之前，他决定做点什么打发时间。
+
+决斗家特性：技能持有者的对手每上阵1个奇藏卡牌时，技能持有者失去10点生命","Garcia is waiting for supplies, and before they arrive, he decides to do something to pass the time. 
+
+Duelist Traits: The duelist's opponent loses 10 HP whenever the opponent deploys a Supply Chest card.","Garcia đang chờ đợi tiếp tế, và trước khi hàng đến, anh quyết định làm gì đó cho đỡ buồn.
+
+Đặc tính Đấu sĩ: Mỗi khi đối thủ của người sở hữu kỹ năng ra 1 lá bài Rương Bí Tàng, người sở hữu kỹ năng mất 10 điểm máu."

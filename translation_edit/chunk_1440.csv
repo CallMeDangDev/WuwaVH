@@ -1,101 +1,174 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,MenuConfig_20031_Name,受伤表现,Wounded Effect,Hiệu ứng bị thương
-lang_multi_text.db,MultiText,MenuConfig_20032_Name,插帧,Frame Generation,Nội suy khung hình
-lang_multi_text.db,MultiText,MenuConfig_20033_Desc,开启后，环境元素会对玩家攻击、技能等行为产生反馈。具体效果将根据画质设置自动调整。,"Once enabled, the environment objects have physics-based responses to the player's behaviors, such as attacks and skills. The effect will be adjusted automatically to the graphic settings.","Sau khi bật, các yếu tố môi trường sẽ phản hồi lại hành vi tấn công, kỹ năng... của người chơi. Hiệu ứng cụ thể sẽ được tự động điều chỉnh theo cài đặt chất lượng hình ảnh."
-lang_multi_text.db,MultiText,MenuConfig_20033_Name,环境交互,Interactive Environment,Tương tác môi trường
-lang_multi_text.db,MultiText,MenuConfig_20034_Desc,摄像机进入植被内部时的半透效果,Applies a semi-transparent effect when the camera enters foliage.,Hiệu ứng bán trong suốt khi camera đi vào bên trong thảm thực vật.
-lang_multi_text.db,MultiText,MenuConfig_20034_Name,植被虚化,Foliage Fade-Out,Mờ hóa thực vật
-lang_multi_text.db,MultiText,MenuConfig_20035_Name,植被密度,Foliage Density,Mật độ thực vật
-lang_multi_text.db,MultiText,MenuConfig_20035_OptionsName_0,低,Low,Thấp
-lang_multi_text.db,MultiText,MenuConfig_20035_OptionsName_1,中,Medium,Trung bình
-lang_multi_text.db,MultiText,MenuConfig_20035_OptionsName_2,高,High,Cao
-lang_multi_text.db,MultiText,MenuConfig_20035_OptionsName_3,极高,Ultra High,Cực cao
-lang_multi_text.db,MultiText,MenuConfig_201006_ButtonText,查看,View,Xem
-lang_multi_text.db,MultiText,MenuConfig_201006_Name,设备信息,Device Info,Thông tin thiết bị
-lang_multi_text.db,MultiText,MenuConfig_20203_Name,图像颜色设置,Color Settings,Cài đặt màu sắc hình ảnh
-lang_multi_text.db,MultiText,MenuConfig_20204_Name,饱和度,Saturation,Độ bão hòa
-lang_multi_text.db,MultiText,MenuConfig_20205_Name,对比度,Contrast,Độ tương phản
-lang_multi_text.db,MultiText,MenuConfig_20206_Desc,滤镜效果不对演出和界面生效,Filter effects do not affect UI elements and cutscenes.,Hiệu ứng bộ lọc không áp dụng cho phần biểu diễn và giao diện.
-lang_multi_text.db,MultiText,MenuConfig_20206_Name,全局滤镜设置,Global Filter,Cài đặt bộ lọc toàn cục
-lang_multi_text.db,MultiText,MenuConfig_20210_Desc,护眼模式不对演出和界面生效,Eye Comfort settings do not affect UI elements and cutscenes.,Chế độ bảo vệ mắt không áp dụng cho phần biểu diễn và giao diện.
-lang_multi_text.db,MultiText,MenuConfig_20210_Name,护眼模式,Eye Comfort,Chế độ bảo vệ mắt
-lang_multi_text.db,MultiText,MenuConfig_20211_Name,模式选择,Select Mode,Chọn chế độ
-lang_multi_text.db,MultiText,MenuConfig_20211_OptionsName_0,关闭,Close,Đóng
-lang_multi_text.db,MultiText,MenuConfig_20211_OptionsName_1,强光,Bright Light,Ánh sáng mạnh
-lang_multi_text.db,MultiText,MenuConfig_20211_OptionsName_2,弱光,Low Light,Ánh sáng yếu
-lang_multi_text.db,MultiText,MenuConfig_20211_OptionsName_3,自定义,Custom,Tùy chỉnh
-lang_multi_text.db,MultiText,MenuConfig_20212_Name,色温,Color Temperature,Nhiệt độ màu
-lang_multi_text.db,MultiText,MenuConfig_20213_Name,强度,Intensity,Cường độ
-lang_multi_text.db,MultiText,MenuConfig_20214_Name,亮度,Brightness,Độ sáng
-lang_multi_text.db,MultiText,MenuConfig_20215_Name,纹理强度,Texture Intensity,Cường độ kết cấu
-lang_multi_text.db,MultiText,MenuConfig_20216_Name,图像显示模式,Image Display Mode,Chế độ hiển thị hình ảnh
-lang_multi_text.db,MultiText,MenuConfig_20216_OptionsName_0,默认,Default,Mặc định
-lang_multi_text.db,MultiText,MenuConfig_20216_OptionsName_1,全局滤镜,Global Filter,Bộ lọc toàn cục
-lang_multi_text.db,MultiText,MenuConfig_20216_OptionsName_2,护眼模式,Eye Comfort,Chế độ bảo vệ mắt
-lang_multi_text.db,MultiText,MenuConfig_20305_Desc,在HDR或SDR显示游戏之间切换。只有在Windows设备下启用HDR时才能切换此选项。,Switches between HDR and SDR display modes. This option is only available when HDR is enabled on Windows devices.,Chuyển đổi giữa chế độ hiển thị HDR và SDR. Tùy chọn này chỉ khả dụng khi HDR được bật trên thiết bị Windows.
-lang_multi_text.db,MultiText,MenuConfig_20305_Name,HDR,HDR,HDR
-lang_multi_text.db,MultiText,MenuConfig_20306_Name,UI亮度（HDR）,UI Brightness (HDR),Độ sáng UI (HDR)
-lang_multi_text.db,MultiText,MenuConfig_20307_Name,HDR最大亮度,HDR Peak Brightness,Độ sáng tối đa HDR
-lang_multi_text.db,MultiText,MenuConfig_20310_Name,Intel XeSS2,Intel XeSS2,Intel XeSS2
-lang_multi_text.db,MultiText,MenuConfig_20350_Name,AMD FSR3,AMD FSR3,AMD FSR3
-lang_multi_text.db,MultiText,MenuConfig_20360_Desc,Vulkan修改需重启客户端后生效,Changes to Vulkan settings will be effective after the client is rebooted.,Thay đổi cài đặt Vulkan sẽ có hiệu lực sau khi khởi động lại client.
-lang_multi_text.db,MultiText,MenuConfig_20360_Name,Vulkan,Vulkan,Vulkan
-lang_multi_text.db,MultiText,MenuConfig_20610_Name,自动曝光,Auto Exposure,Tự động phơi sáng
-lang_multi_text.db,MultiText,MenuConfig_20611_Desc,控制远处场景与物体的显示距离,Sets the display distance for distant environments and objects.,Điều chỉnh khoảng cách hiển thị cảnh vật và vật thể ở xa.
-lang_multi_text.db,MultiText,MenuConfig_20611_Name,渲染距离,Render Distance,Khoảng cách dựng hình
-lang_multi_text.db,MultiText,MenuConfig_20611_OptionsName_0,当前预设默认,Default,Mặc định theo thiết lập
-lang_multi_text.db,MultiText,MenuConfig_20611_OptionsName_1,远,Far,Xa
-lang_multi_text.db,MultiText,MenuConfig_20611_OptionsName_2,最远,Farthest,Xa nhất
-lang_multi_text.db,MultiText,MenuConfig_20_KeyMap,Q,Q,Q
-lang_multi_text.db,MultiText,MenuConfig_20_Name,声骸技能,Echo Skill,Thanh Hài Kỹ
-lang_multi_text.db,MultiText,MenuConfig_20_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_21_KeyMap,G,G,G
-lang_multi_text.db,MultiText,MenuConfig_21_Name,切换瞄准模式,Switch to Aim Mode,Chuyển chế độ ngắm
-lang_multi_text.db,MultiText,MenuConfig_21_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_22_KeyMap,Space,Space,Space
-lang_multi_text.db,MultiText,MenuConfig_22_Name,跳跃,Jump,Nhảy
-lang_multi_text.db,MultiText,MenuConfig_22_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_23_KeyMap,X,X,X
-lang_multi_text.db,MultiText,MenuConfig_23_Name,落下,Fall,Rơi xuống
-lang_multi_text.db,MultiText,MenuConfig_23_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_24_KeyMap,鼠标右键,Right Click,Chuột phải
-lang_multi_text.db,MultiText,MenuConfig_24_Name,纵跑,Wall Dash,Chạy tường
-lang_multi_text.db,MultiText,MenuConfig_24_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_25_KeyMap,F,F,F
-lang_multi_text.db,MultiText,MenuConfig_25_Name,拾取/交互,Pick Up/Interact,Nhặt/Tương tác
-lang_multi_text.db,MultiText,MenuConfig_25_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_26_KeyMap,1,1,1
-lang_multi_text.db,MultiText,MenuConfig_26_Name,切换小队角色1,Switch to Character 1,Chuyển nhân vật đội 1
-lang_multi_text.db,MultiText,MenuConfig_26_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_27_KeyMap,2,2,2
-lang_multi_text.db,MultiText,MenuConfig_27_Name,切换小队角色2,Switch to Character 2,Chuyển nhân vật đội 2
-lang_multi_text.db,MultiText,MenuConfig_27_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_28_KeyMap,3,3,3
-lang_multi_text.db,MultiText,MenuConfig_28_Name,切换小队角色3,Switch to Character 3,Chuyển nhân vật đội 3
-lang_multi_text.db,MultiText,MenuConfig_28_SubName,操作,Actions,Thao tác
-lang_multi_text.db,MultiText,MenuConfig_29_KeyMap,N,N,N
-lang_multi_text.db,MultiText,MenuConfig_29_Name,邮件,Mail,Thư
-lang_multi_text.db,MultiText,MenuConfig_29_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_2_Name,音乐音量,Music Volume,Âm lượng nhạc
-lang_multi_text.db,MultiText,MenuConfig_2_SubName,音量,Volume,Âm lượng
-lang_multi_text.db,MultiText,MenuConfig_30200_Name,前后和转弯操控,Forward/Backward & Turning,Điều khiển tiến/lùi và rẽ
-lang_multi_text.db,MultiText,MenuConfig_30200_OptionsName_0,摇杆,Stick,Cần điều khiển
-lang_multi_text.db,MultiText,MenuConfig_30200_OptionsName_1,按钮和滑动,Buttons & Swipe,Nút bấm và vuốt
-lang_multi_text.db,MultiText,MenuConfig_30201_Desc,若选择载具“摇杆”操控，那么摇杆在按键布局中的位置和尺寸，和常规保持一致,"If the Vehicle control is set to Stick, the stick's position and size in the layout remain consistent with the Regular settings.","Nếu chọn điều khiển phương tiện bằng ""Cần điều khiển"", vị trí và kích thước cần điều khiển trong bố cục phím sẽ giữ nhất quán với cài đặt thông thường."
-lang_multi_text.db,MultiText,MenuConfig_30201_Name,按键自定义,Custom Keybinds,Tùy chỉnh phím
-lang_multi_text.db,MultiText,MenuConfig_30202_Desc,若选择载具“摇杆”操控，此选项和常规保持一致,"If Vehicle control is set to stick, this option follows the Regular control settings.","Nếu chọn điều khiển phương tiện bằng ""Cần điều khiển"", tùy chọn này sẽ giữ nhất quán với cài đặt thông thường."
-lang_multi_text.db,MultiText,MenuConfig_30202_Name,摇杆模式,Controller,Chế độ cần điều khiển
-lang_multi_text.db,MultiText,MenuConfig_302_SubName,载具,Mounted,Phương tiện
-lang_multi_text.db,MultiText,MenuConfig_30_KeyMap,M,M,M
-lang_multi_text.db,MultiText,MenuConfig_30_Name,地图,Map,Bản đồ
-lang_multi_text.db,MultiText,MenuConfig_30_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_31_KeyMap,J,J,J
-lang_multi_text.db,MultiText,MenuConfig_31_Name,任务,Quests,Nhiệm vụ
-lang_multi_text.db,MultiText,MenuConfig_31_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_32_KeyMap,Esc,Esc,Esc
-lang_multi_text.db,MultiText,MenuConfig_32_Name,功能菜单,Menu,Menu chức năng
-lang_multi_text.db,MultiText,MenuConfig_32_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_33_KeyMap,L,L,L
-lang_multi_text.db,MultiText,MenuConfig_33_Name,编辑队伍,Team Setup,Chỉnh sửa đội hình
-lang_multi_text.db,MultiText,MenuConfig_33_SubName,菜单,Menu,Menu
-lang_multi_text.db,MultiText,MenuConfig_34_KeyMap,B,B,B
+lang_multi_text.db,MultiText,MapMark_170013_MarkDesc,"在黎那汐塔存在着部分奇藏富集的区域。
+使用感知能力，搜索这些地点内的奇藏吧。","Areas in Rinascita abundant with Supply Chests.
+Use the Sensor to locate the Supply Chests in these areas.","Tại Rinascita có một số khu vực tập trung nhiều kho báu.
+Hãy dùng khả năng cảm nhận để tìm kiếm kho báu tại những nơi này."
+lang_multi_text.db,MultiText,MapMark_170013_MarkTitle,藏宝地,Treasure Spot,Vùng Kho Báu
+lang_multi_text.db,MultiText,MapMark_170014_MarkDesc,"在黎那汐塔存在着部分奇藏富集的区域。
+使用感知能力，搜索这些地点内的奇藏吧。","Areas in Rinascita abundant with Supply Chests.
+Use the Sensor to locate the Supply Chests in these areas.","Tại Rinascita có một số khu vực tập trung nhiều kho báu.
+Hãy dùng khả năng cảm nhận để tìm kiếm kho báu tại những nơi này."
+lang_multi_text.db,MultiText,MapMark_170014_MarkTitle,藏宝地,Treasure Spot,Vùng Kho Báu
+lang_multi_text.db,MultiText,MapMark_170015_MarkDesc,"在黎那汐塔存在着部分奇藏富集的区域。
+使用感知能力，搜索这些地点内的奇藏吧。","Areas in Rinascita abundant with Supply Chests.
+Use the Sensor to locate the Supply Chests in these areas.","Tại Rinascita có một số khu vực tập trung nhiều kho báu.
+Hãy dùng khả năng cảm nhận để tìm kiếm kho báu tại những nơi này."
+lang_multi_text.db,MultiText,MapMark_170015_MarkTitle,藏宝地,Treasure Spot,Vùng Kho Báu
+lang_multi_text.db,MultiText,MapMark_170016_MarkDesc,"在黎那汐塔存在着部分奇藏富集的区域。
+使用感知能力，搜索这些地点内的奇藏吧。","Areas in Rinascita abundant with Supply Chests.
+Use the Sensor to locate the Supply Chests in these areas.","Tại Rinascita có một số khu vực tập trung nhiều kho báu.
+Hãy dùng khả năng cảm nhận để tìm kiếm kho báu tại những nơi này."
+lang_multi_text.db,MultiText,MapMark_170016_MarkTitle,藏宝地,Treasure Spot,Vùng Kho Báu
+lang_multi_text.db,MultiText,MapMark_170017_MarkDesc,"在黎那汐塔存在着部分奇藏富集的区域。
+使用感知能力，搜索这些地点内的奇藏吧。","Areas in Rinascita abundant with Supply Chests.
+Use the Sensor to locate the Supply Chests in these areas.","Tại Rinascita có một số khu vực tập trung nhiều kho báu.
+Hãy dùng khả năng cảm nhận để tìm kiếm kho báu tại những nơi này."
+lang_multi_text.db,MultiText,MapMark_170017_MarkTitle,藏宝地,Treasure Spot,Vùng Kho Báu
+lang_multi_text.db,MultiText,MapMark_170018_MarkDesc,"在黎那汐塔存在着部分奇藏富集的区域。
+使用感知能力，搜索这些地点内的奇藏吧。","Areas in Rinascita abundant with Supply Chests.
+Use the Sensor to locate the Supply Chests in these areas.","Tại Rinascita có một số khu vực tập trung nhiều kho báu.
+Hãy dùng khả năng cảm nhận để tìm kiếm kho báu tại những nơi này."
+lang_multi_text.db,MultiText,MapMark_170018_MarkTitle,藏宝地,Treasure Spot,Vùng Kho Báu
+lang_multi_text.db,MultiText,MapMark_170019_MarkDesc,"在黎那汐塔存在着部分奇藏富集的区域。
+使用感知能力，搜索这些地点内的奇藏吧。","Areas in Rinascita abundant with Supply Chests.
+Use the Sensor to locate the Supply Chests in these areas.","Tại Rinascita có một số khu vực tập trung nhiều kho báu.
+Hãy dùng khả năng cảm nhận để tìm kiếm kho báu tại những nơi này."
+lang_multi_text.db,MultiText,MapMark_170019_MarkTitle,藏宝地,Treasure Spot,Vùng Kho Báu
+lang_multi_text.db,MultiText,MapMark_170020_MarkDesc,"坍缩的声骸画不断吞噬、汲取周边地块的频率与能量，以维持自身的存在，而那些剥夺了频率的矿石、花草，甚至是动物，都陷入了静默的定格状态，如同失去了色彩。
+
+这些被汲取的色彩，化作了画中混杂的色块。清除画中的杂乱色块，将色彩归还给大地，恢复往日的风景吧。","The collapsing morph painting constantly devours and absorbs frequencies and energy from its surroundings to sustain itself. Stones, plants, and even animals stripped of their frequencies are left in a silent, frozen state, as if drained of all life and color.
+
+The stolen colors manifest as chaotic color blocks within the painting. Remove the incorrect color blocks to release these trapped colors, restoring the scenery to its original splendor.","Bức họa Thanh Hài sụp đổ không ngừng nuốt chửng và hút lấy tần số cùng năng lượng từ vùng đất xung quanh để duy trì sự tồn tại. Những khoáng thạch, hoa cỏ, thậm chí cả động vật bị tước đoạt tần số đều rơi vào trạng thái đông cứng im lặng, như thể mất đi sắc màu.
+
+Những sắc màu bị hút lấy ấy đã hóa thành các mảng màu hỗn tạp trong bức họa. Hãy xóa bỏ những mảng màu lộn xộn trong bức họa, trả lại sắc màu cho mặt đất, khôi phục phong cảnh ngày xưa."
+lang_multi_text.db,MultiText,MapMark_170020_MarkTitle,溢彩画,Overflowing Palette,Họa Tràn Sắc
+lang_multi_text.db,MultiText,MapMark_170021_MarkDesc,"坍缩的声骸画不断吞噬、汲取周边地块的频率与能量，以维持自身的存在，而那些剥夺了频率的矿石、花草，甚至是动物，都陷入了静默的定格状态，如同失去了色彩。
+
+这些被汲取的色彩，化作了画中混杂的色块。清除画中的杂乱色块，将色彩归还给大地，恢复往日的风景吧。","The collapsing morph painting constantly devours and absorbs frequencies and energy from its surroundings to sustain itself. Stones, plants, and even animals stripped of their frequencies are left in a silent, frozen state, as if drained of all life and color.
+
+The stolen colors manifest as chaotic color blocks within the painting. Remove the incorrect color blocks to release these trapped colors, restoring the scenery to its original splendor.","Bức họa Thanh Hài sụp đổ không ngừng nuốt chửng và hút lấy tần số cùng năng lượng từ vùng đất xung quanh để duy trì sự tồn tại. Những khoáng thạch, hoa cỏ, thậm chí cả động vật bị tước đoạt tần số đều rơi vào trạng thái đông cứng im lặng, như thể mất đi sắc màu.
+
+Những sắc màu bị hút lấy ấy đã hóa thành các mảng màu hỗn tạp trong bức họa. Hãy xóa bỏ những mảng màu lộn xộn trong bức họa, trả lại sắc màu cho mặt đất, khôi phục phong cảnh ngày xưa."
+lang_multi_text.db,MultiText,MapMark_170021_MarkTitle,溢彩画,Overflowing Palette,Họa Tràn Sắc
+lang_multi_text.db,MultiText,MapMark_170022_MarkDesc,"坍缩的声骸画不断吞噬、汲取周边地块的频率与能量，以维持自身的存在，而那些剥夺了频率的矿石、花草，甚至是动物，都陷入了静默的定格状态，如同失去了色彩。
+
+这些被汲取的色彩，化作了画中混杂的色块。清除画中的杂乱色块，将色彩归还给大地，恢复往日的风景吧。","The collapsing morph painting constantly devours and absorbs frequencies and energy from its surroundings to sustain itself. Stones, plants, and even animals stripped of their frequencies are left in a silent, frozen state, as if drained of all life and color.
+
+The stolen colors manifest as chaotic color blocks within the painting. Remove the incorrect color blocks to release these trapped colors, restoring the scenery to its original splendor.","Bức họa Thanh Hài sụp đổ không ngừng nuốt chửng và hút lấy tần số cùng năng lượng từ vùng đất xung quanh để duy trì sự tồn tại. Những khoáng thạch, hoa cỏ, thậm chí cả động vật bị tước đoạt tần số đều rơi vào trạng thái đông cứng im lặng, như thể mất đi sắc màu.
+
+Những sắc màu bị hút lấy ấy đã hóa thành các mảng màu hỗn tạp trong bức họa. Hãy xóa bỏ những mảng màu lộn xộn trong bức họa, trả lại sắc màu cho mặt đất, khôi phục phong cảnh ngày xưa."
+lang_multi_text.db,MultiText,MapMark_170022_MarkTitle,溢彩画,Overflowing Palette,Họa Tràn Sắc
+lang_multi_text.db,MultiText,MapMark_170023_MarkDesc,"坍缩的声骸画不断吞噬、汲取周边地块的频率与能量，以维持自身的存在，而那些剥夺了频率的矿石、花草，甚至是动物，都陷入了静默的定格状态，如同失去了色彩。
+
+这些被汲取的色彩，化作了画中混杂的色块。清除画中的杂乱色块，将色彩归还给大地，恢复往日的风景吧。","The collapsing morph painting constantly devours and absorbs frequencies and energy from its surroundings to sustain itself. Stones, plants, and even animals stripped of their frequencies are left in a silent, frozen state, as if drained of all life and color.
+
+The stolen colors manifest as chaotic color blocks within the painting. Remove the incorrect color blocks to release these trapped colors, restoring the scenery to its original splendor.","Bức họa Thanh Hài sụp đổ không ngừng nuốt chửng và hút lấy tần số cùng năng lượng từ vùng đất xung quanh để duy trì sự tồn tại. Những khoáng thạch, hoa cỏ, thậm chí cả động vật bị tước đoạt tần số đều rơi vào trạng thái đông cứng im lặng, như thể mất đi sắc màu.
+
+Những sắc màu bị hút lấy ấy đã hóa thành các mảng màu hỗn tạp trong bức họa. Hãy xóa bỏ những mảng màu lộn xộn trong bức họa, trả lại sắc màu cho mặt đất, khôi phục phong cảnh ngày xưa."
+lang_multi_text.db,MultiText,MapMark_170023_MarkTitle,溢彩画,Overflowing Palette,Họa Tràn Sắc
+lang_multi_text.db,MultiText,MapMark_170024_MarkDesc,"坍缩的声骸画不断吞噬、汲取周边地块的频率与能量，以维持自身的存在，而那些剥夺了频率的矿石、花草，甚至是动物，都陷入了静默的定格状态，如同失去了色彩。
+
+这些被汲取的色彩，化作了画中混杂的色块。清除画中的杂乱色块，将色彩归还给大地，恢复往日的风景吧。","The collapsing morph painting constantly devours and absorbs frequencies and energy from its surroundings to sustain itself. Stones, plants, and even animals stripped of their frequencies are left in a silent, frozen state, as if drained of all life and color.
+
+The stolen colors manifest as chaotic color blocks within the painting. Remove the incorrect color blocks to release these trapped colors, restoring the scenery to its original splendor.","Bức họa Thanh Hài sụp đổ không ngừng nuốt chửng và hút lấy tần số cùng năng lượng từ vùng đất xung quanh để duy trì sự tồn tại. Những khoáng thạch, hoa cỏ, thậm chí cả động vật bị tước đoạt tần số đều rơi vào trạng thái đông cứng im lặng, như thể mất đi sắc màu.
+
+Những sắc màu bị hút lấy ấy đã hóa thành các mảng màu hỗn tạp trong bức họa. Hãy xóa bỏ những mảng màu lộn xộn trong bức họa, trả lại sắc màu cho mặt đất, khôi phục phong cảnh ngày xưa."
+lang_multi_text.db,MultiText,MapMark_170024_MarkTitle,溢彩画,Overflowing Palette,Họa Tràn Sắc
+lang_multi_text.db,MultiText,MapMark_170025_MarkDesc,"坍缩的声骸画不断吞噬、汲取周边地块的频率与能量，以维持自身的存在，而那些剥夺了频率的矿石、花草，甚至是动物，都陷入了静默的定格状态，如同失去了色彩。
+
+这些被汲取的色彩，化作了画中混杂的色块。清除画中的杂乱色块，将色彩归还给大地，恢复往日的风景吧。","The collapsing morph painting constantly devours and absorbs frequencies and energy from its surroundings to sustain itself. Stones, plants, and even animals stripped of their frequencies are left in a silent, frozen state, as if drained of all life and color.
+
+The stolen colors manifest as chaotic color blocks within the painting. Remove the incorrect color blocks to release these trapped colors, restoring the scenery to its original splendor.","Bức họa Thanh Hài sụp đổ không ngừng nuốt chửng và hút lấy tần số cùng năng lượng từ vùng đất xung quanh để duy trì sự tồn tại. Những khoáng thạch, hoa cỏ, thậm chí cả động vật bị tước đoạt tần số đều rơi vào trạng thái đông cứng im lặng, như thể mất đi sắc màu.
+
+Những sắc màu bị hút lấy ấy đã hóa thành các mảng màu hỗn tạp trong bức họa. Hãy xóa bỏ những mảng màu lộn xộn trong bức họa, trả lại sắc màu cho mặt đất, khôi phục phong cảnh ngày xưa."
+lang_multi_text.db,MultiText,MapMark_170025_MarkTitle,溢彩画,Overflowing Palette,Họa Tràn Sắc
+lang_multi_text.db,MultiText,MapMark_170026_MarkDesc,"坍缩的声骸画不断吞噬、汲取周边地块的频率与能量，以维持自身的存在，而那些剥夺了频率的矿石、花草，甚至是动物，都陷入了静默的定格状态，如同失去了色彩。
+
+这些被汲取的色彩，化作了画中混杂的色块。清除画中的杂乱色块，将色彩归还给大地，恢复往日的风景吧。","The collapsing morph painting constantly devours and absorbs frequencies and energy from its surroundings to sustain itself. Stones, plants, and even animals stripped of their frequencies are left in a silent, frozen state, as if drained of all life and color.
+
+The stolen colors manifest as chaotic color blocks within the painting. Remove the incorrect color blocks to release these trapped colors, restoring the scenery to its original splendor.","Bức họa Thanh Hài sụp đổ không ngừng nuốt chửng và hút lấy tần số cùng năng lượng từ vùng đất xung quanh để duy trì sự tồn tại. Những khoáng thạch, hoa cỏ, thậm chí cả động vật bị tước đoạt tần số đều rơi vào trạng thái đông cứng im lặng, như thể mất đi sắc màu.
+
+Những sắc màu bị hút lấy ấy đã hóa thành các mảng màu hỗn tạp trong bức họa. Hãy xóa bỏ những mảng màu lộn xộn trong bức họa, trả lại sắc màu cho mặt đất, khôi phục phong cảnh ngày xưa."
+lang_multi_text.db,MultiText,MapMark_170026_MarkTitle,溢彩画,Overflowing Palette,Họa Tràn Sắc
+lang_multi_text.db,MultiText,MapMark_170027_MarkDesc,在全息战略·刀伶之舞中，四面将袭来琉璃刀伶，在限定时间内躲避琉璃刀伶即可完成挑战。,"In Tactical Hologram: Vitreum Dancer, you will be sieged by batches of Vitreum Dancers. Dodge their attacks within the specified time to complete the challenge.","Trong Chiến Thuật Toàn Ảnh - Vũ Điệu Đao Linh, Đao Linh Lưu Ly sẽ ập đến từ bốn phía. Né tránh Đao Linh Lưu Ly trong thời gian giới hạn để hoàn thành thử thách."
+lang_multi_text.db,MultiText,MapMark_170027_MarkTitle,全息战略·刀伶之舞,Tactical Hologram: Vitreum Dancer,Chiến Thuật Toàn Ảnh - Vũ Điệu Đao Linh
+lang_multi_text.db,MultiText,MapMark_170028_MarkDesc,在全息战略·刀伶之舞中，四面将袭来琉璃刀伶，在限定时间内躲避琉璃刀伶即可完成挑战。,"In Tactical Hologram: Vitreum Dancer, you will be sieged by batches of Vitreum Dancers. Dodge their attacks within the specified time to complete the challenge.","Trong Chiến Thuật Toàn Ảnh - Vũ Điệu Đao Linh, Đao Linh Lưu Ly sẽ ập đến từ bốn phía. Né tránh Đao Linh Lưu Ly trong thời gian giới hạn để hoàn thành thử thách."
+lang_multi_text.db,MultiText,MapMark_170028_MarkTitle,全息战略·刀伶之舞,Tactical Hologram: Vitreum Dancer,Chiến Thuật Toàn Ảnh - Vũ Điệu Đao Linh
+lang_multi_text.db,MultiText,MapMark_170029_MarkDesc,在全息战略·刀伶之舞中，四面将袭来琉璃刀伶，在限定时间内躲避琉璃刀伶即可完成挑战。,"In Tactical Hologram: Vitreum Dancer, you will be sieged by batches of Vitreum Dancers. Dodge their attacks within the specified time to complete the challenge.","Trong Chiến Thuật Toàn Ảnh - Vũ Điệu Đao Linh, Đao Linh Lưu Ly sẽ ập đến từ bốn phía. Né tránh Đao Linh Lưu Ly trong thời gian giới hạn để hoàn thành thử thách."
+lang_multi_text.db,MultiText,MapMark_170029_MarkTitle,全息战略·刀伶之舞,Tactical Hologram: Vitreum Dancer,Chiến Thuật Toàn Ảnh - Vũ Điệu Đao Linh
+lang_multi_text.db,MultiText,MapMark_170030_MarkDesc,遗迹的角落中还残留着污染，尽快将其清除吧。,There is still contamination left in the ruins. Clean them all.,"Trong góc di tích vẫn còn sót lại ô nhiễm, hãy nhanh chóng dọn sạch chúng."
+lang_multi_text.db,MultiText,MapMark_170030_MarkTitle,污染残留,Contamination,Ô Nhiễm Tồn Dư
+lang_multi_text.db,MultiText,MapMark_170100_MarkDesc,"卡提希娅向扶风转标中注入了特殊的力量。
+使用扶风转标<color=#ffd12f>可以改变自身的重力方向</color>，有助于前往原本无法抵达的区域。","Cartethyia has infused the Gravity Calibrator with a special power. 
+Use the Gravity Calibrator to <color=#ffd12f>change the gravity direction</color>, enabling access to unreachable areas.","Cartethyia đã truyền sức mạnh đặc biệt vào Chuẩn Trọng Lực.
+Sử dụng Chuẩn Trọng Lực <color=#ffd12f>có thể thay đổi hướng trọng lực của bản thân</color>, giúp đến được những khu vực trước đây không thể tới."
+lang_multi_text.db,MultiText,MapMark_170100_MarkTitle,扶风转标,Gravity Calibrator,Chuẩn Trọng Lực
+lang_multi_text.db,MultiText,MapMark_170301_MarkDesc,使用探索工具·翱翔，在一定长度的风轨中追逐并捕获嬉闹的光团。,Use Utility: Flight to chase and capture light sparks along the Wind Trail.,"Sử dụng công cụ khám phá - Bay Lượn, đuổi theo và bắt lấy những quả cầu sáng đang đùa nghịch trên đường gió có độ dài nhất định."
+lang_multi_text.db,MultiText,MapMark_170301_MarkTitle,飞翼竞速,Ace Wings,Đua Cánh Bay
+lang_multi_text.db,MultiText,MapMark_170302_MarkTitle,【声骸挑战·翱翔】,[Echo Challenge: Flight],[Thử Thách Thanh Hài - Bay Lượn]
+lang_multi_text.db,MultiText,MapMark_170401_MarkDesc,"乘坐贡多拉，跟随光团的去向，前往航道的终点。
+穿过<color=#ffd12f>黄色能量圈</color>来保持航行能量，避开途中的<color=#ffd12f>障碍圈</color>吧！","Board the Gondola and follow the light spark to the destination.
+Pass through <color=#ffd12f>Power-up Rings</color> to maintain your cruising speed and avoid <color=#ffd12f>Obstacle Rings</color> along the way.","Lên Gondola, đi theo hướng quả cầu sáng, tiến đến điểm cuối tuyến đường.
+Đi qua <color=#ffd12f>vòng năng lượng vàng</color> để duy trì năng lượng di chuyển, tránh các <color=#ffd12f>vòng chướng ngại</color> trên đường!"
+lang_multi_text.db,MultiText,MapMark_170401_MarkTitle,行船竞速,Boat Racing,Đua Thuyền
+lang_multi_text.db,MultiText,MapMark_170501_MarkDesc,接受来自小翼龙的挑战，在限定时间内躲避闪电攻击，在从天而降的闪电中坚持到最后吧！,Complete the Drake's challenge by evading lightning strikes within a given time period.,"Chấp nhận thử thách từ rồng con, né tránh các đòn sét đánh trong thời gian giới hạn, trụ vững đến cuối cùng giữa những tia sét từ trên trời!"
+lang_multi_text.db,MultiText,MapMark_170501_MarkTitle,闪翼挑战,Flash Dodge,Thử Thách Cánh Chớp
+lang_multi_text.db,MultiText,MapMark_170601_MarkDesc,阿维纽林的巨塔之间，隐藏着无数奇妙的水域通道。灵活掌握浮水的节奏，化身咕咕河豚跃入其中，奔赴源流所在吧。,"An intricate network of waterways weave around the towering spires of Avinoleum. Transform into a Gulpuff, manage your pace, and chase down the river flow.","Giữa những tòa tháp khổng lồ của Avinoleum, ẩn giấu vô số con đường nước kỳ diệu. Hóa thân thành Gulpuff, nắm bắt nhịp bơi và lao mình vào dòng nước, hướng về nguồn cội nào!"
+lang_multi_text.db,MultiText,MapMark_170601_MarkTitle,声骸挑战·咕咕河豚,Echo Challenge: Gulpuff,Thử Thách Thanh Hài: Gulpuff
+lang_multi_text.db,MultiText,MapMark_170701_MarkDesc,随着重力的倒转，世界在你眼前翻覆变幻，云层即是旅途的起点。顺应引力所向，你将跨越云隙与星辉，最终抵达那片梦境般的彼岸。,The gravity is inverted. The world before you tilts. Clouds surge into a path beneath your feet. Follow the direction of gravity and travel through starlit skies toward the dreamlit unknown.,"Khi trọng lực đảo ngược, thế giới trước mắt bạn lật nhào biến ảo, tầng mây trở thành khởi điểm của hành trình. Thuận theo hướng dẫn lực, bạn sẽ vượt qua kẽ mây và ánh sao, cuối cùng đến được bờ bên kia như trong giấc mơ."
+lang_multi_text.db,MultiText,MapMark_170701_MarkTitle,浮沉云梦,Cloud Platformer,Phù Trầm Vân Mộng
+lang_multi_text.db,MultiText,MapMark_180001_MarkDesc,哀恸谷地区连通集域的梦境节点，完成挑战可收集梦境样本，获得奖励。“穿上世间最重的铠甲，就没什么能伤害到你了。”,"A Dreamscape Node in the Mournfell Canyon. Complete the challenge to claim Dream Samples and rewards. ""Wear the heaviest armor this world can offer, and nothing will ever harm you.""","Nút Mộng Cảnh kết nối Tập Vực tại khu vực Mournfell Canyon. Hoàn thành thử thách để thu thập Mẫu Mộng Cảnh và nhận thưởng. ""Khoác lên bộ giáp nặng nhất thế gian, thì chẳng gì có thể làm tổn thương ngươi nữa."""
+lang_multi_text.db,MultiText,MapMark_180001_MarkDesc_Finish,哀恸谷地区连通集域的梦境节点，已完成该节点，可尝试再次挑战。“穿上世间最重的铠甲，就没什么能伤害到你了。”,"A Dreamscape Node in the Mournfell Canyon. This challenge is completed and can be challenged again. ""Wear the heaviest armor this world can offer, and nothing will ever harm you.""","Nút Mộng Cảnh kết nối Tập Vực tại khu vực Mournfell Canyon. Đã hoàn thành nút này, có thể thử thách lại. ""Khoác lên bộ giáp nặng nhất thế gian, thì chẳng gì có thể làm tổn thương ngươi nữa."""
+lang_multi_text.db,MultiText,MapMark_180001_MarkTitle,染秽之梦·壳之残骸,Dream Contagion: Remains of the Shell,Giấc Mơ Ô Uế: Tàn Tích Vỏ Giáp
+lang_multi_text.db,MultiText,MapMark_180002_MarkDesc,巨石原地区连通集域的梦境节点，完成挑战可收集梦境样本，获得奖励。“勇气可嘉！但足下不会真的以为能胜过我们三个吧？”,"A Dreamscape Node in the Titanbone Expanse. Complete the challenge to claim Dream Samples and rewards. ""You have the guts to challenge the three of us? But is your strength equal to your courage?""","Nút Mộng Cảnh kết nối Tập Vực tại khu vực Titanbone Expanse. Hoàn thành thử thách để thu thập Mẫu Mộng Cảnh và nhận thưởng. ""Dũng khí đáng khen! Nhưng ngươi không thật sự nghĩ mình thắng nổi ba ta chứ?"""
+lang_multi_text.db,MultiText,MapMark_180002_MarkDesc_Finish,巨石原地区连通集域的梦境节点，已完成该节点，可尝试再次挑战。“勇气可嘉！但足下不会真的以为能胜过我们三个吧？”,"A Dreamscape Node in the Titanbone Expanse. This challenge is completed and can be challenged again. ""You have the guts to challenge the three of us? But is your strength equal to your courage?""","Nút Mộng Cảnh kết nối Tập Vực tại khu vực Titanbone Expanse. Đã hoàn thành nút này, có thể thử thách lại. ""Dũng khí đáng khen! Nhưng ngươi không thật sự nghĩ mình thắng nổi ba ta chứ?"""
+lang_multi_text.db,MultiText,MapMark_180002_MarkTitle,染秽之梦·七丘三虎,Dream Contagion: Three Tigers of Septimont,Giấc Mơ Ô Uế: Ba Hổ Septimont
+lang_multi_text.db,MultiText,MapMark_180003_MarkDesc,卡庇托山地区连通集域的梦境节点，完成挑战可收集梦境样本，获得奖励。“变成了这副模样，是否还能够回到家乡？”,"A Dreamscape Node in Capitoline Hill. Complete the challenge to claim Dream Samples and rewards. ""Now that I've taken on this form… can the path home still remember my name?""","Nút Mộng Cảnh kết nối Tập Vực tại khu vực Capitoline Hill. Hoàn thành thử thách để thu thập Mẫu Mộng Cảnh và nhận thưởng. ""Biến thành bộ dạng thế này, liệu còn có thể trở về quê nhà không?"""
+lang_multi_text.db,MultiText,MapMark_180003_MarkDesc_Finish,卡庇托山地区连通集域的梦境节点，已完成该节点，可尝试再次挑战。“变成了这副模样，是否还能够回到家乡？”,"A Dreamscape Node in Capitoline Hill. This challenge is completed and can be challenged again. ""Now that I've taken on this form… can the path home still remember my name?""","Nút Mộng Cảnh kết nối Tập Vực tại khu vực Capitoline Hill. Đã hoàn thành nút này, có thể thử thách lại. ""Biến thành bộ dạng thế này, liệu còn có thể trở về quê nhà không?"""
+lang_multi_text.db,MultiText,MapMark_180003_MarkTitle,染秽之梦·征战的野兽,Dream Contagion: Savage Outrider,Giấc Mơ Ô Uế: Dã Thú Chinh Chiến
+lang_multi_text.db,MultiText,MapMark_180004_MarkDesc,分界山地区连通集域的梦境节点，完成挑战可收集梦境样本，获得奖励。“毁灭的回音奔流！完美！无敌！最强！”,"A Dreamscape Node in the Border Mountains. Complete the challenge to claim Dream Samples and rewards. ""Behold the Remnant stream of destruction! The greatest! The invincible! The unbeatable!""","Nút Mộng Cảnh kết nối Tập Vực tại khu vực Border Mountains. Hoàn thành thử thách để thu thập Mẫu Mộng Cảnh và nhận thưởng. ""Dòng hồi âm hủy diệt! Hoàn hảo! Vô địch! Mạnh nhất!"""
+lang_multi_text.db,MultiText,MapMark_180004_MarkDesc_Finish,分界山地区连通集域的梦境节点，已完成该节点，可尝试再次挑战。“毁灭的回音奔流！完美！无敌！最强！”,A Dreamscape Node in Border Mountains area. This challenge is completed and can be challenged again. “Behold the Remnant stream of destruction! The greatest! The invincible! The unbeatable!”,"Nút Mộng Cảnh kết nối Tập Vực tại khu vực Border Mountains. Đã hoàn thành nút này, có thể thử thách lại. ""Dòng hồi âm hủy diệt! Hoàn hảo! Vô địch! Mạnh nhất!"""
+lang_multi_text.db,MultiText,MapMark_180004_MarkTitle,染秽之梦·究极翼龙,Dream Contagion: Ultimate Winged Dragon,Giấc Mơ Ô Uế: Dực Long Tối Thượng
+lang_multi_text.db,MultiText,MapMark_3000_MarkDesc,"“遗落于疮痍之地的珍品，重新绽放辉光。”
+ 将收集的古物与商人交换，可以获得不同的谢礼。
+ 搜集散落各地的声匣，让珍品重现于世吧。",Rediscover forgotten treasures in Solaris and exchange them with Relic Merchants for unique rewards. Search the world for scattered Sonance Caskets to revive these lost treasures.,"""Báu vật thất lạc nơi đất hoang tàn, nay tỏa sáng trở lại.""
+ Đem cổ vật thu thập được đổi với thương nhân để nhận các phần thưởng khác nhau.
+ Hãy tìm kiếm những Hộp Âm rải rác khắp nơi, để báu vật được tái hiện!"
+lang_multi_text.db,MultiText,MapMark_3000_MarkTitle,寻遗商人,Relic Merchant,Thương Nhân Tìm Di Vật
+lang_multi_text.db,MultiText,MapMark_300201_MarkDesc,作为生态情报系统的一部分，小型信标记录着范围内的野外数据，并将数据传输至中枢信标。,"Part of the Resonance ecological information network, Resonance Beacons collect field data in a small radius and transmit it back to the Resonance Nexus.","Là một phần của hệ thống thông tin sinh thái, tín hiệu nhỏ ghi lại dữ liệu thực địa trong phạm vi xung quanh và truyền về tín hiệu trung tâm."
+lang_multi_text.db,MultiText,MapMark_300201_MarkTitle,小型信标,Resonance Beacon,Tín Hiệu Nhỏ
+lang_multi_text.db,MultiText,MapMark_300202_MarkDesc,基于鸣潮科学研发的生态情报系统的中枢，普遍坐落于中大型城镇，用于检测、计算周边地区能量波动、残象活动等情况，从而分析和预测海蚀现象引发的灾害。,"The nexus of an ecological information network designed based on the principles of Wutherium Science. Typically situated in medium and large towns, it detects and models energy fluctuations, activities of Tacet Discords, and other abnormal signals to provide early warnings of Waveworn Phenomena.","Trung tâm của hệ thống thông tin sinh thái được phát triển dựa trên khoa học Minh Triều. Thường đặt tại các thị trấn vừa và lớn, dùng để dò tìm, tính toán biến động năng lượng, hoạt động của Tàn Tượng trong khu vực xung quanh, từ đó phân tích và dự đoán thảm họa do hiện tượng Hải Thực gây ra."
+lang_multi_text.db,MultiText,MapMark_300202_MarkTitle,中枢信标,Resonance Nexus,Tín Hiệu Trung Tâm
+lang_multi_text.db,MultiText,MapMark_3002_MarkDesc,伟叔提供的印造台，只要备足材料，就能印造出威力上乘的武器。,"A weapon crafting table, courtesy of Uncle Wei. Wieh enough materials, you can create top-of-the-line weapons that would give you an advantage in battle.","Bàn in tạo do bác Vĩ cung cấp, chỉ cần đủ nguyên liệu là có thể chế tạo ra vũ khí hạng nhất."
+lang_multi_text.db,MultiText,MapMark_3002_MarkTitle,印造台,Weapon Crafting,Bàn Chế Tạo
+lang_multi_text.db,MultiText,MapMark_30030001_MarkDesc,千道门扉的异想,Fantasies of the Thousand Gateways,Kỳ tưởng của Nghìn Cánh Cửa
+lang_multi_text.db,MultiText,MapMark_3003_MarkDesc,瑝珑研究院开放给共鸣者使用的操作平台，提供合剂制造、物品构造及纯化服务。,"The Academy's Synthesis platform allows Resonators to create potions, construct materials, and purify substances with ease.","Nền tảng thao tác do Viện Nghiên Cứu Hoàng Long mở cho Cộng Hưởng Giả sử dụng, cung cấp dịch vụ chế tạo hợp chất, cấu tạo vật phẩm và tinh luyện."
+lang_multi_text.db,MultiText,MapMark_3003_MarkTitle,合成台,Synthesizer,Bàn Tổng Hợp
+lang_multi_text.db,MultiText,MapMark_300417_MarkDesc,潜藏于七丘地下水道深处的隐秘之地，残星会曾在此进行过实验。,"Hidden deep within the sewers of Septimont lies a secret site, once used by the Fractsidus for their experiments.","Nơi bí mật ẩn sâu trong hệ thống cống ngầm của Septimont, nơi Tàn Tinh Hội từng tiến hành thí nghiệm."
+lang_multi_text.db,MultiText,MapMark_300417_MarkTitle,幽域实验场,Experiment Records,Trường Thí Nghiệm U Vực
+lang_multi_text.db,MultiText,MapMark_300418_MarkDesc,潜藏于七丘地下水道深处，残星会曾经的据点。利用残星会留下的轨道，可以在地底体验飞行的乐趣。,"Hidden deep beneath Septimont, this former site of the Fractsidus still holds secrets. Following the remnants of their old tracks, you can now experience the thrill of underground flight.","Ẩn sâu dưới cống ngầm Septimont, đây từng là căn cứ của Tàn Tinh Hội. Sử dụng đường ray mà chúng để lại, bạn có thể trải nghiệm niềm vui bay lượn dưới lòng đất."
+lang_multi_text.db,MultiText,MapMark_300418_MarkTitle,地底飞行挑战,Unground Flight Challenge,Thử Thách Bay Dưới Lòng Đất
+lang_multi_text.db,MultiText,MapMark_300419_MarkDesc,以英雄的姿态挥剑，完成瞬斩挑战，即可获得奖励。,"A Dreamscape Node in Capitoline Hill. This challenge is completed and can be challenged again. ""Now that I've taken on this form… can the path home still remember my name?""","Vung kiếm với tư thế anh hùng, hoàn thành thử thách Chém Tức Thì để nhận thưởng."
+lang_multi_text.db,MultiText,MapMark_300419_MarkTitle,【瞬斩挑战·角斗士的剑意·其一】,[Quick Slash Challenge: Gladiator's Spirit I],[Thử Thách Chém Tức Thì: Kiếm Ý Giác Đấu Sĩ I]
+lang_multi_text.db,MultiText,MapMark_300420_MarkTitle,【瞬斩挑战·角斗士的剑意·其二】,[Quick Slash Challenge: Gladiator's Spirit II],[Thử Thách Chém Tức Thì: Kiếm Ý Giác Đấu Sĩ II]
+lang_multi_text.db,MultiText,MapMark_300421_MarkTitle,【瞬斩挑战·角斗士的剑意·其三】,[Quick Slash Challenge: Gladiator's Spirit III],[Thử Thách Chém Tức Thì: Kiếm Ý Giác Đấu Sĩ III]
+lang_multi_text.db,MultiText,MapMark_300423_MarkDesc,曾在旧日七丘响起悠扬钟声的塔楼，似乎通向被淹没已久的地下水道深处……,"Once home to the chimes that echoed across Septimont, the Bell Tower now leads deep into long-submerged underground waterways…","Tòa tháp từng vang lên tiếng chuông du dương khắp Septimont xưa kia, dường như dẫn đến sâu thẳm hệ thống cống ngầm đã bị ngập từ lâu..."
+lang_multi_text.db,MultiText,MapMark_300424_MarkDesc,门后的古老宫殿曾一度被黑潮完全浸没，洞窟深处偶尔会传来一阵神秘的吼声……,"The ancient palace behind the gate was once entirely engulfed by the Dark Tide. Every so often, a mysterious roar echoes from the depths...","Cung điện cổ xưa phía sau cánh cửa từng bị Hắc Triều nhấn chìm hoàn toàn, từ sâu trong hang động thỉnh thoảng vọng ra tiếng gầm bí ẩn..."
+lang_multi_text.db,MultiText,MapMark_3005_MarkDesc,行走于世界之上时经常能见到这类散落各处的“木纹残片”，各国对其感兴趣的商人都很乐意用所谓的“纪念品”来交换它们。,"Scattered throughout the region, these Wood-textured Shards attract curious merchants from all nations. They'd be happy to pay you with their various ""souvenirs.""","Khi đi khắp thế giới, bạn thường bắt gặp những ""Mảnh Vân Mộc"" rải rác khắp nơi. Thương nhân từ các quốc gia đều sẵn lòng dùng ""quà lưu niệm"" để đổi lấy chúng."
+lang_multi_text.db,MultiText,MapMark_3005_MarkTitle,“纪念品”商店,Souvenir Store,"Cửa Hàng ""Quà Lưu Niệm"""
+lang_multi_text.db,MultiText,MapMark_3010_MarkDesc,攀花在今州开的攀花饭馆，明灶明厨。来往行人络绎不绝，是今州最有名最火爆的饭店。各种老饕都喜欢在此寻求美味，并暗中将攀花认为是整个今州的厨神，是瑝珑饮食文化的代表。,"Jinzhou's Panhua restaurant boasts open stoves and a bustling kitchen, making it the city's premier dining destination. With a steady stream of satisfied patrons, this establishment has earned a reputation as the culinary god of Jinzhou, representing its unique Huanglong food culture. Foodies flock here for delectable dishes and to immerse themselves in local gastronomy.","Quán ăn Phan Hoa do Phan Hoa mở tại Kim Châu, bếp mở lò sáng. Khách qua lại nườm nượp, là nhà hàng nổi tiếng và đông khách nhất Kim Châu. Các tín đồ ẩm thực đều thích đến đây tìm món ngon, và ngầm coi Phan Hoa là thần bếp của cả Kim Châu, đại diện cho văn hóa ẩm thực Hoàng Long."
+lang_multi_text.db,MultiText,MapMark_3010_MarkTitle,攀花饭馆,Panhua Restaurant,Quán Phan Hoa
+lang_multi_text.db,MultiText,MapMark_3011_MarkDesc,出售各种药剂的商店，日常所需的各种药品大部分可以在这里找到。,"A store selling a variety of pharmaceuticals, various daily medicinal drugs you need can be found here.","Cửa hàng bán đủ loại dược phẩm, phần lớn thuốc cần dùng hàng ngày đều có thể tìm thấy ở đây."
+lang_multi_text.db,MultiText,MapMark_3011_MarkTitle,拾方药房,Shifang Pharmacy,Hiệu Thuốc Thập Phương
+lang_multi_text.db,MultiText,MapMark_301203_MarkDesc,华胥研究院发起的大型实验项目，通过深塔中的试炼可以获得丰厚的回报。,The Huaxu Academy's experimental project offers generous rewards. Conquer the tower's challenges for great prizes.,"Dự án thí nghiệm quy mô lớn do Viện Nghiên Cứu Hoa Tư khởi xướng, hoàn thành thử thách trong Tháp Sâu để nhận phần thưởng hậu hĩnh."
+lang_multi_text.db,MultiText,MapMark_301203_MarkTitle,逆境深塔,Tower of Adversity,Tháp Sâu Nghịch Cảnh
+lang_multi_text.db,MultiText,MapMark_301204_MarkDesc,于怨鸟泽开启的神秘门扉，通过它可通往名为心之集域的空间。据说，它承载了索拉里斯所有生命的梦境……,"A mysterious gateway emerges in the Whining Aix's Mire, providing access to a realm known as Somnoire. Legend has it that it hosts the dreams of all beings in Solaris.","Cánh cửa bí ẩn mở ra tại Đầm Oán Điểu, qua đó có thể đến không gian mang tên Tâm Chi Tập Vực. Tương truyền, nơi đây chứa đựng giấc mơ của mọi sinh linh trên Solaris..."
+lang_multi_text.db,MultiText,MapMark_301204_MarkTitle,深坠异想奇境,Depths of Illusive Realm,Thâm Trụy Dị Tưởng Kỳ Cảnh
+lang_multi_text.db,MultiText,MapMark_301205_MarkDesc,在思绪世界的冰山底层，每一个梦都彼此相连；那些深海中的被忽视之物经年累月地郁积，于深渊中合而为一，纠缠联系。,"Beneath the iceberg of thought's deepest layers, all dreams are interconnected. Those neglected in the deep sea accumulate over time, merging and entangling in the abyss.","Dưới tầng sâu nhất của tảng băng tư duy, mọi giấc mơ đều kết nối với nhau; những thứ bị lãng quên dưới đáy biển sâu tích tụ theo năm tháng, hòa làm một trong vực thẳm, vướng víu đan xen."
+lang_multi_text.db,MultiText,MapMark_301205_MarkTitle,浸梦海床,Dreaming Deep,Đáy Biển Chìm Mộng
+lang_multi_text.db,MultiText,MapMark_3012_MarkDesc,瑝珑今州主城区的食材商店。店主马和老实内向，踏实做事。曾经的耙耳朵，但因坚持“做菜好吃是食材更重要”而和妻子爆发争吵，分居至今。,"Located in Huanglong's bustling city of Jinzhou, Mahe runs an honest grocery store. Despite being a practical worker, his insistence on using the best ingredients for tasty dishes has caused a rift with his wife. The couple now lives apart, their marriage strained by his unwavering dedication to quality.","Cửa hàng thực phẩm ở khu trung tâm Kim Châu, Hoàng Long. Chủ tiệm Mã Hòa hiền lành, ít nói, làm việc chắc chắn. Từng là người sợ vợ, nhưng vì khăng khăng ""nấu ăn ngon thì nguyên liệu mới quan trọng"" mà cãi nhau với vợ, ly thân đến giờ."
+lang_multi_text.db,MultiText,MapMark_3012_MarkTitle,马和杂货,Mahe's Grocery,Tạp Hóa Mã Hòa
+lang_multi_text.db,MultiText,MapMark_3014_MarkDesc,各大城市中常见的兑换处，可以使用险境取样中获得的干涉玻片换取稀有的物资。,"Exchange offices found in major cities, where you can use Interferences to exchange for rare supplies.","Quầy đổi thường thấy ở các thành phố lớn, có thể dùng Phiến Giao Thoa thu được từ Hiểm Cảnh Lấy Mẫu để đổi lấy vật tư hiếm."
+lang_multi_text.db,MultiText,MapMark_3015_MarkDesc,虎口矿场开放给共鸣者交易矿石的平台，提供矿石购买、回收服务。,"A bustling ore trading hub in Tiger's Maw Mine, providing ore purchase and recycling services.","Nền tảng giao dịch quặng dành cho Cộng Hưởng Giả tại mỏ Hổ Khẩu, cung cấp dịch vụ mua bán và thu hồi quặng."
+lang_multi_text.db,MultiText,MapMark_3015_MarkTitle,虎口矿石,Tiger's Maw Ore,Quặng Hổ Khẩu
+lang_multi_text.db,MultiText,MapMark_3016_MarkDesc,虎口矿场开放给共鸣者购买食物的商铺，提供矿场常见食物的售卖服务。,"A food stall in Tiger's Maw Mine, providing a variety of common food.","Quán ăn dành cho Cộng Hưởng Giả tại mỏ Hổ Khẩu, bán các loại thức ăn phổ biến trong mỏ."
