@@ -21,29 +21,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download repak
-        shell: pwsh
-        run: |
-          # Get latest repak release URL
-          $release = Invoke-RestMethod -Uri "https://api.github.com/repos/trumank/repak/releases/latest"
-          $asset = $release.assets | Where-Object { $_.name -eq "repak_cli-x86_64-pc-windows-msvc.zip" }
-          $downloadUrl = $asset.browser_download_url
-
-          Write-Host "Downloading repak from: $downloadUrl"
-          Invoke-WebRequest -Uri $downloadUrl -OutFile "repak.zip"
-
-          # Extract repak
-          Expand-Archive -Path "repak.zip" -DestinationPath "repak" -Force
-          Remove-Item "repak.zip"
-
-          # Verify repak exists
-          if (Test-Path "repak\repak.exe") {
-            Write-Host "repak.exe ready"
-          } else {
-            Write-Error "repak.exe not found after extraction"
-            exit 1
-          }
-
       - name: Download font and prepare files
         shell: pwsh
         run: |
@@ -73,7 +50,7 @@ jobs:
       - name: Pack into .pak
         shell: pwsh
         run: |
-          $repak = "repak\repak.exe"
+          $repak = "Fonts\repak.exe"
           $inputFolder = "Fonts\Client"
           $outputPak = "Fonts\${{ inputs.output_name }}.pak"
 
