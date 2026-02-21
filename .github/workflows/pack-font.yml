@@ -24,7 +24,7 @@ jobs:
       - name: Download font and prepare files
         shell: pwsh
         run: |
-          $fontDir = "Fonts\Client\Content\Aki\UI\Framework\LGUI\Font"
+          $fontDir = "Fonts\Fonts\Client\Content\Aki\UI\Framework\LGUI\Font"
 
           # Ensure directory exists
           New-Item -ItemType Directory -Path $fontDir -Force | Out-Null
@@ -51,7 +51,7 @@ jobs:
         shell: pwsh
         run: |
           $repak = ".\Fonts\repak.exe"
-          $inputFolder = "Fonts\Client"
+          $inputFolder = "Fonts\Fonts"
           $outputPak = "Fonts\${{ inputs.output_name }}.pak"
 
           Write-Host "Packing $inputFolder -> $outputPak"
