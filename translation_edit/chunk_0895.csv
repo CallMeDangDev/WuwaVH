@@ -446,11 +446,11 @@ lang_multi_text.db,MultiText,HelpText_424_Content,"【外观定制】
 通过选择不同的外观模组，可以改变科考摩托的外观
 
 【导入预设】
-为科考摩托快速装配一整套外观方案","[Look Customization]
-Various customization modules can be applied to the expedition motorbike to change its appearance.
+为科考摩托快速装配一整套外观方案","[Appearance Customization]
+The expedition motorbike's appearance can be changed by applying various Liveries.
 
 [Import Presets]
-You can save and import presets to quickly apply customization settings.","[Tùy chỉnh ngoại hình]
+Allows your motorbike to quickly take on a customized kit.","[Tùy chỉnh ngoại hình]
 Bằng cách chọn các mô-đun ngoại hình khác nhau, bạn có thể thay đổi vẻ ngoài của xe mô tô thám hiểm.
 
 [Nhập thiết lập sẵn]
@@ -652,27 +652,27 @@ lang_multi_text.db,MultiText,HelpText_42_Content,"【声骸强化】
 锁定词条数量为4时，消耗3个【频整器】。
 对于辅音属性数据重构，可选择是否保留重构结果；舍弃结果不返还已消耗的【频整器】。
 
-对于意外退出导致未确认的辅音属性重构结果，服务器将保留至多30天，请漂泊者及时处理。","[Echo Upgrade]
-Upgrading an Echo raises an Echo's Mainstat. This improvement is not randomized.
-Echo Upgrade also unlocks new Substat slots every 5 levels.
-The level cap of an Echo depends on its rarity.
+对于意外退出导致未确认的辅音属性重构结果，服务器将保留至多30天，请漂泊者及时处理。","[Echo Enhancement]
+Enhancement boosts an Echo's Mainstat. Improvement in Mainstat is guaranteed, and not randomized.
+Echo Enhancement also adds new Substat slots every 5 levels.
+The maximum level of enhancement varies for different rarity Echoes.
 
 [Echo Tuning]
-By Tuning an Echo, you can unlock new random Substats and unleash its potential. The unlock Substats will be fixed and cannot be tuned again.
+By Tuning an Echo, you can unlock the new random Substats to release its full potential. Keep in mind that once Tuned, the slot cannot be used again.
 (Echoes with the lowest rarity may not be able to be Tuned due to data interference.)
 
-[Data Modification]
-Data Modification for Mainstats and Substats has different rules and item requirements.
-Use a Modifier to adjust the first Mainstat of a selected Echo into the designated stat. This can only be done on unupgraded 5-star Echoes.
-1 Modifier is consumed for each Mainstat Modification.
-Use a Transducer to adjust the Substats of a selected Echo to random stats, excluding locked Substats. This can only be done on fully tuned 5-star Echoes.
-The number of locked Substats determines the amount of Transducers consumed in each Modification:
-- With 2 or fewer locked stats, consume 1 Transducer.
-- With 3 locked stats, consume 2 Transducers.
-- With 4 locked stats, consume 3 Transducers.
-You may choose whether to apply the Modification results in Substat Modification. Discarding the result does not refund used Transducers.
+[Data Modify]
+Mainstats and Substats employ two separate Data Modify rules.
+Use a Modifier to adjust the first Mainstat of a selected Echo into the designated stat. This can only be done on unenhanced 5-star Echoes.
+A single Mainstat Modification requires 1 Modifier.
+Use a Transducer to adjust a Substat of a selected Echo to a random stat, excluding locked Substats. This can only be done on fully tuned 5-star Echoes.
+The number of locked Substats determines the amount of Transducers used in a single Modification:
+With 2 or fewer locked stats, consume 1 Transducer.
+With 3 locked stats, consume 2 Transducers.
+With 4 locked stats, consume 3 Transducers.
+You may choose whether to keep the Modification result during the Modification. Discarding the result does not refund used Transducers.
 
-Substat Modification results that are not confirmed due to unexpected errors will be saved in the server for up to 30 days. Please confirm your results in time.","[Cường hóa Thanh Hài]
+Substat Modification results that were not confirmed due to unexpected page exits will be saved for up to 30 days. Please confirm your results in time.","[Cường hóa Thanh Hài]
 Cường hóa có thể nâng cao thuộc tính Chủ Âm của Thanh Hài, mức tăng này không ngẫu nhiên.
 Mỗi khi Thanh Hài tăng 5 cấp, có thể mở khóa một ô thuộc tính Phụ Âm dùng để Điều Hòa.
 Giới hạn cấp độ cường hóa của Thanh Hài có phẩm chất khác nhau sẽ khác nhau.
@@ -1649,7 +1649,6 @@ lang_multi_text.db,MultiText,HelpText_464_Content,"【活动简介】
 
 【参与条件】
 联觉等级达到14级。
-获取科考摩托后解锁。
 
 【游戏形式】
 活动开启后可选择共鸣者参与测试。共鸣者将与汉密斯一起使用全新武装完成赛道挑战。赛道路程中，共鸣者可以获得强化模块增强汉密斯各项属性或升级武装。完成所有比赛，即视为测试完成。
@@ -1657,7 +1656,7 @@ lang_multi_text.db,MultiText,HelpText_464_Content,"【活动简介】
 To help Startorch freshmen learn to drive safely, the Biological Mechanical Exoswarm Materials Manufacturing and Research Club developed H.E.R.M.E.S., a motorbike simulator running on heuristic algorithms. But due to some issues with the model's training data, the system accidentally became sentient and refused to be driven. In their last-ditch effort, the developer reached out to you for help with the testing.
 
 [Eligibility]
-Reach Union Level 14 and obtain access to the expedition motorbike.
+Reach Union Level 14.
 
 [Event Rules]
 Select a Resonator to challenge the tracks with H.E.R.M.E.S. with an arsenal of new weapons. Use enhancement modules to boost the stats of H.E.R.M.E.S. and upgrade their weapons. Complete all tracks to finalize the testing.

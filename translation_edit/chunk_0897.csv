@@ -70,7 +70,7 @@ Mỗi ván game chỉ được sử dụng tối đa 1 lần."
 lang_multi_text.db,MultiText,HelpText_522_Title,锐目直觉,Sharp Instinct,Trực Giác Sắc Bén
 lang_multi_text.db,MultiText,HelpText_523_Content,被动效果：陆·赫斯在抽牌时，有更高的几率抽到其他牌，而不是无冠者牌。开局时手牌中不会包含无冠者牌。,"Luuk Herssen has a reduced chance of drawing the Crownless Card, and his initial hand is guaranteed not to contain it.","Hiệu quả nội tại: Khi Luuk Herssen rút bài, có tỷ lệ cao hơn rút được các lá bài khác thay vì Bài Vô Quan Giả. Khi bắt đầu ván, bài trên tay sẽ không bao gồm Bài Vô Quan Giả."
 lang_multi_text.db,MultiText,HelpText_523_Title,洞彻人心,Mind Scalpel,Thấu Hiểu Lòng Người
-lang_multi_text.db,MultiText,HelpText_527_Content,【登录游戏】天数刷新时间为服务器所在时区0点，漂泊者在0点后登录就会增加1天登录游戏天数。,The number of days you have logged into the game refreshes at 00:00 (server time). Logging in after 00:00 will count as an additional login day.,"Thời gian làm mới số ngày [Đăng nhập game] là 0 giờ theo múi giờ máy chủ, Lữ Khách đăng nhập sau 0 giờ sẽ được tính thêm 1 ngày đăng nhập."
+lang_multi_text.db,MultiText,HelpText_527_Content,【登录游戏】天数刷新时间为服务器所在时区0点，漂泊者在0点后登录就会增加1天登录游戏天数。,The number of days you have <b>logged into the game</b> refreshes at 00:00 (server time). Logging in after 00:00 will count as an additional login day.,"Thời gian làm mới số ngày [Đăng nhập game] là 0 giờ theo múi giờ máy chủ, Lữ Khách đăng nhập sau 0 giờ sẽ được tính thêm 1 ngày đăng nhập."
 lang_multi_text.db,MultiText,HelpText_527_Title,登录天数说明,Login Days,Giải Thích Số Ngày Đăng Nhập
 lang_multi_text.db,MultiText,HelpText_52_Content,"【初醒之征程】
 1.活动开启后联觉等级达到指定要求即可领取丰厚奖励。
@@ -282,26 +282,26 @@ lang_multi_text.db,MultiText,HelpText_70_Content,"【标准融合】
 
 【自动放入】
 在数据融合中，点击自动放入，会将未强化的声骸按照材料选择界面的顺序依次放入，漂泊者可更改此处的筛选排序以更加细致地控制自动放入。","[Standard Merge]
-You can merge or Batch Merge 5 unupgraded Echoes into 1 random new Echo in the Terminal.
+You can merge or Batch Merge 5 unenhanced Echoes into 1 random new Echo in the Terminal.
 You cannot select equipped and locked Echoes as Merge Materials.
 
 [Targeted Merge]
 This feature unlocks at Data Bank Lv. 15.
-You can merge 5 unupgraded 5-Star Echoes into a random new Echo of the Sonata Effect of your choice.
+You can merge 5 unenhanced 5-Star Echoes into a random new Echo of the Sonata Effect of your choice.
 You cannot select equipped and locked Echoes as Merge Materials.
-*If a selected Sonata Effect currently only has Cost-1 or Cost-3 Echoes unlocked, Targeted Merge may still produce an Echo of a locked Cost type. In this case, the Echo produced will be of 3-Star rarity and will unlock the corresponding Echo Collection entry. Afterward, you may obtain Echoes of the newly unlocked Cost type. The highest Rarity of the Echoes obtained will depend on the current Data Bank level.
+*If a selected Sonata Effect currently only has Cost-1 or Cost-3 Echoes unlocked, Targeted Merge may still produce an Echo of a locked Cost type. In this case, the first newly-unlocked Echo of that Cost type will always be 3-Star and will unlock the corresponding Echo Collection. Afterward, Echoes of that Cost type obtained through Targeted Merge will be generated randomly from the unlocked Echoes, with their Rarity determined by your Data Bank Level.
 
 [New Echoes]
-The Rarity of the Echo produced depends on your Data Bank level and is irrelevant to the Rarity of merged Echoes. Upgrade your Data Bank to get Echoes of higher Rarity from Data Merge.
-Data Merge only produces Echoes already unlocked.
+The Rarity of the new Echo is subject to your Data Bank level. It is not determined by the Rarity of merged Echoes. Upgrade your Data Bank to get Echoes of higher Rarity from Data Merge.
+Data Merge only produces Echoes that are already unlocked.
 
-[Extra Yield]
-Standard Merge sometimes produce extra Echoes in addition to the base yield.
-Merge Echoes of higher Rarity and Cost for a higher chance to yield extra Echoes.
+[Extras]
+Standard Merge produces at least one random new Echo, and sometimes extra Echoes.
+Merge Echoes of higher Rarity and COST for a higher chance to produce extras.
 *Targeted Merge does not produce extra Echoes.
 
 [Auto Select]
-Auto Select lets you quickly select available Echoes in the order displayed. You can change the sort and filter settings to change which Echoes are displayed and selected first.","[Dung Hợp Tiêu Chuẩn]
+Auto Select lets you quickly select available Echoes to merge. You can change the sort and filter settings to determine what Echoes will be selected.","[Dung Hợp Tiêu Chuẩn]
 Thiết Bị có thể chuyển đổi 5 Thanh Hài chưa cường hóa thành 1 Thanh Hài mới ngẫu nhiên, hỗ trợ dung hợp hàng loạt.
 Thanh Hài đang trang bị và bị khóa không thể chọn làm nguyên liệu.
 

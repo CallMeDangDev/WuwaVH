@@ -1,101 +1,661 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_property.db,PropertyIndex,50,test/反应增幅系数2,Reaction increase factor 2,test/Hệ số tăng cường phản ứng 2
-lang_property.db,PropertyIndex,51,test/反应增幅系数3,Reaction increase factor 3,test/Hệ số tăng cường phản ứng 3
-lang_property.db,PropertyIndex,52,test/反应增幅系数4,Reaction increase factor 4,test/Hệ số tăng cường phản ứng 4
-lang_property.db,PropertyIndex,53,test/反应增幅系数5,Reaction increase factor 5,test/Hệ số tăng cường phản ứng 5
-lang_property.db,PropertyIndex,54,test/反应增幅系数6,Reaction increase factor 6,test/Hệ số tăng cường phản ứng 6
-lang_property.db,PropertyIndex,55,test/反应增幅系数7,Reaction increase factor 7,test/Hệ số tăng cường phản ứng 7
-lang_property.db,PropertyIndex,56,test/反应增幅系数8,Reaction increase factor 8,test/Hệ số tăng cường phản ứng 8
-lang_property.db,PropertyIndex,57,test/反应增幅系数9,Reaction increase factor 9,test/Hệ số tăng cường phản ứng 9
-lang_property.db,PropertyIndex,58,test/反应增幅系数10,Reaction increase factor 10,test/Hệ số tăng cường phản ứng 10
-lang_property.db,PropertyIndex,59,test/反应增幅系数11,Reaction increase factor 11,test/Hệ số tăng cường phản ứng 11
-lang_property.db,PropertyIndex,60,test/反应增幅系数12,Reaction increase factor 12,test/Hệ số tăng cường phản ứng 12
-lang_property.db,PropertyIndex,61,test/反应增幅系数13,Reaction increase factor 13,test/Hệ số tăng cường phản ứng 13
-lang_property.db,PropertyIndex,62,test/反应增幅系数14,Reaction increase factor 14,test/Hệ số tăng cường phản ứng 14
-lang_property.db,PropertyIndex,63,test/反应增幅系数15,Reaction increase factor 15,test/Hệ số tăng cường phản ứng 15
-lang_property.db,PropertyIndex,64,共鸣能量上限,Resonance energy limit,Giới hạn Năng Lượng Cộng Hưởng
-lang_property.db,PropertyIndex,65,共鸣能量,Resonance energy,Năng Lượng Cộng Hưởng
-lang_property.db,PropertyIndex,66,test/特殊能量1上限,Special energy 1 limit,test/Giới hạn năng lượng đặc biệt 1
-lang_property.db,PropertyIndex,67,test/特殊能量1,Special energy 1,test/Năng lượng đặc biệt 1
-lang_property.db,PropertyIndex,68,test/特殊能量2上限,Special energy 2 limit,test/Giới hạn năng lượng đặc biệt 2
-lang_property.db,PropertyIndex,69,test/特殊能量2,Special energy 2,test/Năng lượng đặc biệt 2
-lang_property.db,PropertyIndex,70,test/特殊能量3上限,Special energy 3 limit,test/Giới hạn năng lượng đặc biệt 3
-lang_property.db,PropertyIndex,71,test/特殊能量3,Special energy 3,test/Năng lượng đặc biệt 3
-lang_property.db,PropertyIndex,72,test/特殊能量4上限,Special energy 4 limit,test/Giới hạn năng lượng đặc biệt 4
-lang_property.db,PropertyIndex,73,test/特殊能量4,Special energy 4,test/Năng lượng đặc biệt 4
-lang_property.db,PropertyIndex,74,耐力上限,Stamina Limit,Giới hạn Thể Lực
-lang_property.db,PropertyIndex,75,耐力,Stamina,Thể Lực
-lang_property.db,PropertyIndex,76,test/耐力恢复速度,Stamina Recovery,test/Tốc độ hồi thể lực
-lang_property.db,PropertyIndex,77,test/空耐力惩罚时间,Zero stamina penalty time,test/Thời gian phạt khi hết thể lực
-lang_property.db,PropertyIndex,78,test/疾跑耐力消耗速度,,test/Tốc độ tiêu hao thể lực khi chạy nhanh
-lang_property.db,PropertyIndex,79,test/游泳耐力消耗速度,,test/Tốc độ tiêu hao thể lực khi bơi
-lang_property.db,PropertyIndex,80,test/快速游泳耐力消耗速度,,test/Tốc độ tiêu hao thể lực khi bơi nhanh
-lang_property.db,PropertyIndex,81,test/攀爬耐力消耗速度,,test/Tốc độ tiêu hao thể lực khi leo trèo
-lang_property.db,PropertyIndex,82,test/快速攀爬耐力消耗,,test/Tiêu hao thể lực khi leo trèo nhanh
-lang_property.db,PropertyIndex,83,共振度上限,Max Plangency,Giới hạn Độ Cộng Hưởng
-lang_property.db,PropertyIndex,84,共振度上限,Max Plangency,Giới hạn Độ Cộng Hưởng
-lang_property.db,PropertyIndex,85,共振度恢复速度,Plangency Recovery Rate,Tốc độ hồi Độ Cộng Hưởng
-lang_property.db,PropertyIndex,86,空共振度惩罚时间,Extra zero Plangency time,Thời gian phạt khi hết Độ Cộng Hưởng
-lang_property.db,PropertyIndex,87,破共振度倍率,Plangency Reduction multiplier,Bội suất phá Độ Cộng Hưởng
-lang_property.db,PropertyIndex,88,被破共振度倍率,Passive Plangency Reduction multiplier,Bội suất bị phá Độ Cộng Hưởng
-lang_property.db,PropertyIndex,89,韧性上限,Max Toughness,Giới hạn Độ Bền
-lang_property.db,PropertyIndex,90,韧性,Toughness,Độ Bền
-lang_property.db,PropertyIndex,91,韧性恢复速度,Toughness Recovery Speed,Tốc độ hồi Độ Bền
-lang_property.db,PropertyIndex,92,削韧倍率,Toughness Reduction multiplier,Bội suất giảm Độ Bền
-lang_property.db,PropertyIndex,93,被削韧倍率,Passive Toughness Reduction multiplier,Bội suất bị giảm Độ Bền
-lang_property.db,PropertyIndex,94,test/属性1能量值,,test/Giá trị năng lượng thuộc tính 1
-lang_property.db,PropertyIndex,95,test/属性2能量值,,test/Giá trị năng lượng thuộc tính 2
-lang_property.db,PropertyIndex,96,test/属性3能量值,,test/Giá trị năng lượng thuộc tính 3
-lang_property.db,PropertyIndex,97,test/属性4能量值,,test/Giá trị năng lượng thuộc tính 4
-lang_property.db,PropertyIndex,98,test/属性5能量值,,test/Giá trị năng lượng thuộc tính 5
-lang_property.db,PropertyIndex,99,test/属性6能量值,,test/Giá trị năng lượng thuộc tính 6
-lang_property.db,PropertyIndex,100,test/特殊伤害倍率,,test/Bội suất sát thương đặc biệt
-lang_property.db,PropertyIndex,101,test/快速攀爬耐力消耗x/帧,,test/Tiêu hao thể lực leo trèo nhanh x/khung hình
-lang_property.db,PropertyIndex,102,test/元素属性类型,,test/Loại thuộc tính nguyên tố
-lang_property.db,PropertyIndex,103,test/脆弱时间,,test/Thời gian suy yếu
-lang_property.db,PropertyIndex,104,无视防御率,Defense Penetration Ratio,Tỷ lệ bỏ qua phòng thủ
-lang_property.db,PropertyIndex,105,test/无视物理伤害抗性,,test/Bỏ qua kháng sát thương Vật lý
-lang_property.db,PropertyIndex,106,test/无视属性1伤害抗性,,test/Bỏ qua kháng sát thương thuộc tính 1
-lang_property.db,PropertyIndex,107,test/无视属性2伤害抗性,,test/Bỏ qua kháng sát thương thuộc tính 2
-lang_property.db,PropertyIndex,108,test/无视属性3伤害抗性,,test/Bỏ qua kháng sát thương thuộc tính 3
-lang_property.db,PropertyIndex,109,test/无视属性4伤害抗性,,test/Bỏ qua kháng sát thương thuộc tính 4
-lang_property.db,PropertyIndex,110,test/无视属性5伤害抗性,,test/Bỏ qua kháng sát thương thuộc tính 5
-lang_property.db,PropertyIndex,111,test/无视属性6伤害抗性,,test/Bỏ qua kháng sát thương thuộc tính 6
-lang_property.db,PropertyIndex,112,test/技能状态韧性系数,,test/Hệ số độ bền trạng thái kỹ năng
-lang_property.db,PropertyIndex,113,test/攀爬跳跃消耗的耐力（一次）,,test/Thể lực tiêu hao khi nhảy trong lúc leo trèo (một lần)
-lang_property.db,PropertyIndex,114,test/滑翔耐力消耗速度x/秒,,test/Tốc độ tiêu hao thể lực khi lượn x/giây
-lang_property.db,PropertyIndex,115,test/质量,,test/Khối lượng
-lang_property.db,PropertyIndex,116,test/摩擦力系数,,test/Hệ số ma sát
-lang_property.db,PropertyIndex,117,test/重力系数,,test/Hệ số trọng lực
-lang_property.db,PropertyIndex,118,移动速率,Movement Speed,Tốc độ di chuyển
-lang_property.db,PropertyIndex,119,声骸技能伤害加成,Wutrelic skill DMG bonus,Tăng sát thương Kỹ Năng Thanh Hài
-lang_property.db,PropertyIndex,120,普攻速度,Normal Attack Speed,Tốc độ Đánh Thường
-lang_property.db,PropertyIndex,121,重击速度,Charged Attack Speed,Tốc độ Đánh Mạnh
-lang_property.db,PropertyIndex,122,test/状态累积值1 上限,,test/Giới hạn giá trị tích lũy trạng thái 1
-lang_property.db,PropertyIndex,123,test/状态累积值1,,test/Giá trị tích lũy trạng thái 1
-lang_property.db,PropertyIndex,124,test/状态累积值2 上限,,test/Giới hạn giá trị tích lũy trạng thái 2
-lang_property.db,PropertyIndex,125,test/状态累积值2,,test/Giá trị tích lũy trạng thái 2
-lang_property.db,PropertyIndex,126,test/状态累积值3 上限,,test/Giới hạn giá trị tích lũy trạng thái 3
-lang_property.db,PropertyIndex,127,test/状态累积值3,,test/Giá trị tích lũy trạng thái 3
-lang_property.db,PropertyIndex,128,test/状态累积值4 上限,,test/Giới hạn giá trị tích lũy trạng thái 4
-lang_property.db,PropertyIndex,129,test/状态累积值4,,test/Giá trị tích lũy trạng thái 4
-lang_property.db,PropertyIndex,130,test/状态累积值5 上限,,test/Giới hạn giá trị tích lũy trạng thái 5
-lang_property.db,PropertyIndex,131,test/状态累积值5,,test/Giá trị tích lũy trạng thái 5
-lang_property.db,PropertyIndex,132,test/狂暴上限,,test/Giới hạn cuồng nộ
-lang_property.db,PropertyIndex,133,test/狂暴,,test/Cuồng nộ
-lang_property.db,PropertyIndex,134,test/狂暴恢复,,test/Hồi phục cuồng nộ
-lang_property.db,PropertyIndex,135,test/空狂暴惩罚时间,,test/Thời gian phạt khi hết cuồng nộ
-lang_property.db,PropertyIndex,136,test/破狂暴倍率,,test/Bội suất phá cuồng nộ
-lang_property.db,PropertyIndex,137,test/被破狂暴倍率,,test/Bội suất bị phá cuồng nộ
-lang_property.db,PropertyIndex,138,test/韧性恢复延迟时间,,test/Thời gian trễ hồi phục độ bền
-lang_property.db,PropertyIndex,139,等级,Level,Cấp
-lang_property.db,PropertyIndex,140,生命,HP,Sinh Mệnh
-lang_property.db,PropertyIndex,141,生命,HP,Sinh Mệnh
-lang_property.db,PropertyIndex,142,护盾值,Shield,Giá trị khiên
-lang_property.db,PropertyIndex,143,test/破盾倍率,DEF Down Multiplier,test/Bội suất phá khiên
-lang_property.db,PropertyIndex,144,test/被破盾倍率,Passive DEF Down Multiplier,test/Bội suất bị phá khiên
-lang_property.db,PropertyIndex,145,攻击,Attack,Tấn Công
-lang_property.db,PropertyIndex,146,暴击,Crit. Rate,Bạo Kích
-lang_property.db,PropertyIndex,147,暴击伤害,Critical DMG,Sát Thương Bạo Kích
-lang_property.db,PropertyIndex,148,防御,Defense,Phòng Thủ
-lang_property.db,PropertyIndex,149,共鸣效率,Resonance Efficiency,Hiệu Suất Cộng Hưởng
+lang_phantom.db,PhantomSkill,567,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,568,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,569,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,570,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,571,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,572,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,573,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,574,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,575,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,576,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,577,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,578,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,579,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,580,"召唤成体石化蜥进行吐息，每次对敌人造成{0}%热熔伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Geohide Saurian to let out breath, dealing {0}% of Thermo damage each time.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Thằn Lằn Đá Trưởng Thành phun lửa, mỗi lần gây cho kẻ địch {0}% sát thương Hỏa Liệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,581,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,582,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,583,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,584,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,585,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,586,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,587,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,588,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,589,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,590,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,591,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,592,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,593,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,594,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,595,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,596,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,597,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,598,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,599,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,600,"召唤幼体刺玫菇发出能量球，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒",,"Triệu hồi Nấm Hoa Hồng Ấu Thể bắn ra quả cầu năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,601,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,602,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,603,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,604,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,605,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,606,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,607,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,608,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,609,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,610,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,611,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,612,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,613,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,614,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,615,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,616,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,617,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,618,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,619,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,620,"召唤成体刺玫菇发出射线，造成{0}%解离伤害。
+协奏值：{1}点
+技能冷却：{2}秒","Summon adult Roseshroom to knock nearby enemies, dealing {0}% of Dissociation damage and blowing them airborne.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Triệu hồi Nấm Hoa Hồng Trưởng Thành bắn tia năng lượng, gây {0}% sát thương Hủy Diệt.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,621,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,622,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,623,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,624,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,625,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,626,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,627,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,628,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,629,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,630,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,631,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,632,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,633,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,634,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,635,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,636,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,637,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,638,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,639,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,640,"变身寒霜陆龟，变身期间降低自身受到的{0}%伤害，再次点按可立即结束变身。
+协奏值：{1}点
+技能冷却：{2}秒","Summon Frostbite Tertoise to strike around, dealing {0}% Glacio damage.
+Concerto Vibrancy: {1}
+Cooldown: {2} seconds","Biến hình thành Rùa Băng, trong thời gian biến hình giảm {0}% sát thương phải chịu, ấn lại lần nữa để kết thúc biến hình ngay lập tức.
+Hiệp Tấu: {1} điểm
+Hồi chiêu: {2} giây"
+lang_phantom.db,PhantomSkill,641,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,642,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,643,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,644,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,645,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,646,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,647,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,648,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,649,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,650,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,651,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,652,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,653,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,654,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,655,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,656,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,657,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,658,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,659,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,660,"变身箭簇熊，向前冲锋，对路径上的敌人造成伤害，每次碰撞造成{0}%物理伤害，变身最多持续{1}秒。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Spearback Ursa and charge forward, dealing damage to enemies on the path. Each encounter deals {0}% physical damage. The shapeshift may be maintained for max. {1} second.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Gấu Mũi Tên, lao về phía trước, gây sát thương cho kẻ địch trên đường đi, mỗi lần va chạm gây {0}% sát thương vật lý, biến hình duy trì tối đa {1} giây.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,661,"变身暗鬃狼，发动甩尾攻击造成{0}%解离伤害，同时向前形成气刃，造成{1}%的解离伤害。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Shadow Dreadmane and throw tail to deal {0}% of Dissociation damage, forming an energetic blade on the front at the same time that deals {1}% of Dissociation damage.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Sói Bờm Đen, thực hiện đòn quất đuôi gây {0}% sát thương Hủy Diệt, đồng thời tạo ra lưỡi đao khí về phía trước, gây {1}% sát thương Hủy Diệt.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,662,"变身暗鬃狼，发动甩尾攻击造成{0}%解离伤害，同时向前形成气刃，造成{1}%的解离伤害。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Shadow Dreadmane and throw tail to deal {0}% of Dissociation damage, forming an energetic blade on the front at the same time that deals {1}% of Dissociation damage.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Sói Bờm Đen, thực hiện đòn quất đuôi gây {0}% sát thương Hủy Diệt, đồng thời tạo ra lưỡi đao khí về phía trước, gây {1}% sát thương Hủy Diệt.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,663,"变身暗鬃狼，发动甩尾攻击造成{0}%解离伤害，同时向前形成气刃，造成{1}%的解离伤害。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Shadow Dreadmane and throw tail to deal {0}% of Dissociation damage, forming an energetic blade on the front at the same time that deals {1}% of Dissociation damage.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Sói Bờm Đen, thực hiện đòn quất đuôi gây {0}% sát thương Hủy Diệt, đồng thời tạo ra lưỡi đao khí về phía trước, gây {1}% sát thương Hủy Diệt.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,664,"变身暗鬃狼，发动甩尾攻击造成{0}%解离伤害，同时向前形成气刃，造成{1}%的解离伤害。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Shadow Dreadmane and throw tail to deal {0}% of Dissociation damage, forming an energetic blade on the front at the same time that deals {1}% of Dissociation damage.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Sói Bờm Đen, thực hiện đòn quất đuôi gây {0}% sát thương Hủy Diệt, đồng thời tạo ra lưỡi đao khí về phía trước, gây {1}% sát thương Hủy Diệt.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,665,"变身暗鬃狼，发动甩尾攻击造成{0}%解离伤害，同时向前形成气刃，造成{1}%的解离伤害。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Shadow Dreadmane and throw tail to deal {0}% of Dissociation damage, forming an energetic blade on the front at the same time that deals {1}% of Dissociation damage.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Sói Bờm Đen, thực hiện đòn quất đuôi gây {0}% sát thương Hủy Diệt, đồng thời tạo ra lưỡi đao khí về phía trước, gây {1}% sát thương Hủy Diệt.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
+lang_phantom.db,PhantomSkill,666,"变身暗鬃狼，发动甩尾攻击造成{0}%解离伤害，同时向前形成气刃，造成{1}%的解离伤害。
+协奏值：{2}点
+技能冷却：{3}秒","Shape-shift to Shadow Dreadmane and throw tail to deal {0}% of Dissociation damage, forming an energetic blade on the front at the same time that deals {1}% of Dissociation damage.
+Concerto Vibrancy: {2}
+Cooldown: {3} seconds","Biến hình thành Sói Bờm Đen, thực hiện đòn quất đuôi gây {0}% sát thương Hủy Diệt, đồng thời tạo ra lưỡi đao khí về phía trước, gây {1}% sát thương Hủy Diệt.
+Hiệp Tấu: {2} điểm
+Hồi chiêu: {3} giây"
