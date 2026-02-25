@@ -1,284 +1,122 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1203_1,主动技能({0})：从卡组中展示至多三个具有【变幻】技能的卡牌，选择其中{1}个加入手牌，将未选择的卡牌洗回卡组。,"Active Tactic ({0}): Display up to 3 cards with Transform from the deck. Add <SapTag=1>{1}</SapTag> of them to your hand. Shuffle the unselected {Cus:Sap,S=cards P=card SapTag=1} back into your deck.","Kỹ năng chủ động ({0}): Hiển thị tối đa ba lá bài có kỹ năng [Biến Huyễn] từ bộ bài, chọn <SapTag=1>{1}</SapTag> lá thêm vào tay, xáo các lá chưa chọn trở lại bộ bài."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1203_2,被动技能：在本场决斗的第{0}到第{1}回合开始时，额外抽一张牌。,Passive Tactic: Draw one additional card when a round starts. Effective from Round {0} to Round {1}.,"Kỹ năng bị động: Vào đầu lượt thứ {0} đến lượt thứ {1} trong trận đấu này, rút thêm một lá bài."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_1,主动技能({0})：向对手造成{1}点伤害。,Active Tactic ({0}): Deal {1} point of DMG to your opponent.,Kỹ năng chủ động ({0}): Gây {1} điểm sát thương cho đối thủ.
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_2,被动技能：在我方回合的战斗阶段开始时，我方声骸的伤害+{0}，持续1回合。,Passive Tactic: Increase your Echoes' DMG by {0} at the start of the Battle Stage for one round.,"Kỹ năng bị động: Khi bắt đầu giai đoạn chiến đấu trong lượt bên ta, sát thương Thanh Hài bên ta +{0}, kéo dài 1 lượt."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_1,主动技能({0})：将一张手牌重构，在下回合抽卡时，必定抽到这张手牌。,Active Tactic ({0}): Reconstruct a card on hand. You're bound to draw this card in the next round.,"Kỹ năng chủ động ({0}): Tái cấu trúc một lá bài trên tay, trong lượt rút bài tiếp theo, chắc chắn sẽ rút được lá bài này."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_2,被动技能：在本场决斗的前三回合开始时，额外抽一张牌。,Passive Tactic: Draw one additional card at the start of the first three rounds.,"Kỹ năng bị động: Vào đầu ba lượt đầu tiên của trận đấu, rút thêm một lá bài."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_1,主动技能({0})：于本回合中，我方声骸的力量+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' STR by {1}.","Kỹ năng chủ động ({0}): Trong lượt này, sức mạnh Thanh Hài bên ta +{1}."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_2,被动技能：每当我方进行一次调谐时，使随机一个我方声骸力量+{0}直到回合结束。,"Passive Tactic: Each time you Modulate, randomly increase the STR of one of your Echoes by {0} until the end of the round.","Kỹ năng bị động: Mỗi khi bên ta thực hiện một lần điều chỉnh, ngẫu nhiên tăng sức mạnh của một Thanh Hài bên ta +{0} cho đến cuối lượt."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_1,主动技能({0})：我方声骸力量与耐久均+{1}，持续1回合。,Active Tactic ({0}): Increase your Echoes' STR and CON by {1} for one round.,"Kỹ năng chủ động ({0}): Sức mạnh và độ bền Thanh Hài bên ta +{1}, kéo dài 1 lượt."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_2,被动技能：每次进行特殊召唤时，我方决斗家获得{0}点生命。,"Passive Tactic: For each Quick-Deploy, you gain {0} points of HP.","Kỹ năng bị động: Mỗi lần triệu hồi đặc biệt, đấu thủ bên ta nhận {0} điểm sinh mệnh."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1501_1,本回合中，受到的生命值伤害减少1,Take 1 less DMG as duelist in this round.,"Trong lượt này, sát thương sinh mệnh nhận vào giảm 1."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1501_2,dnt/本回合开始时，敌方声骸全部不能行动，持续8S,,"dnt/Khi bắt đầu lượt này, toàn bộ Thanh Hài đối phương không thể hành động, kéo dài 8 giây."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_1,主动技能({0})：于本回合中，我方声骸伤害+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' DMG by {1}.","Kỹ năng chủ động ({0}): Trong lượt này, sát thương Thanh Hài bên ta +{1}."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_2,被动技能：在战斗阶段中，我方能量消耗为{0}的声骸提升{1}暴击。,"Passive Tactic: In the Battle Stage, increase Crit. Rate of your Cost {0} Echoes by {1}.","Kỹ năng bị động: Trong giai đoạn chiến đấu, Thanh Hài bên ta có năng lượng tiêu hao {0} được tăng {1} bạo kích."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_1,主动技能({0})：抽一张牌。,Active Tactic ({0}): Draw a card.,Kỹ năng chủ động ({0}): Rút một lá bài.
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_2,被动技能：在我方回合开始时，额外获得{0}点能量。,Passive Tactic: Gain {0} additional point of Energy at the start of each round.,"Kỹ năng bị động: Khi bắt đầu lượt bên ta, nhận thêm {0} điểm năng lượng."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1607_1,主动技能({0})：选择一个我方声骸。该声骸在本回合的战斗阶段中所受的伤害减少{1}，持续{2}秒。,Active Tactic ({0}): Select one of your Echoes to make it take {1} less DMG for {2}s in the Battle Stage of the current round.,"Kỹ năng chủ động ({0}): Chọn một Thanh Hài bên ta. Thanh Hài đó giảm {1} sát thương nhận vào trong giai đoạn chiến đấu của lượt này, kéo dài {2} giây."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1607_2,被动技能：在本场决斗的前三回合，我方决斗家在战斗阶段受到的伤害-{0}。,"Passive Tactic: In the first three rounds, you take {0} less DMG as the duelist in the Battle Stage.","Kỹ năng bị động: Trong ba lượt đầu của trận đấu, sát thương đấu thủ bên ta nhận vào trong giai đoạn chiến đấu -{0}."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1107_1,致命弱点,Fatal Flaw,Điểm Yếu Chí Mạng
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1107_2,枪弹轮舞,Crystal Tango,Vũ Điệu Đạn
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1203_1,小咩快长大,"Grow, Woolies!",Bé Cừu Mau Lớn
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1203_2,羊咩梦幻乐园,Woolies' Wonderland,Thiên Đường Cừu Non
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1208_1,自由射击,Weapons Free,Bắn Tự Do
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1208_2,无尽追猎,Hunt Without End,Truy Đuổi Bất Tận
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1305_1,物质重构,Matter Reconstruction,Tái Cấu Trúc Vật Chất
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1305_2,系统过载,System Overload,Quá Tải Hệ Thống
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1406_1,声庇吾身,Resonant Blessing,Thanh Âm Hộ Thể
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1406_2,"{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}"
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1410_1,时刻将至,Time Draws Near,Thời Khắc Đến Gần
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1410_2,月相轮转,Lunar Sequence,Nguyệt Tướng Luân Chuyển
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1507_1,强制加班,Mandatory Overtime,Tăng Ca Bắt Buộc
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1507_2,适当激励,Productivity Boost,Khích Lệ Đúng Lúc
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1508_1,视限解明,Infinite Visability,Giải Minh Tầm Nhìn
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1508_2,洞察诸弦,Vision of Threads,Thấu Suốt Chư Huyền
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1607_1,适者生存,Survival of the Fittest,Mạnh Được Yếu Thua
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1607_2,慢性满足,Slow-Burn Satisfaction,Thỏa Mãn Từ Từ
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1,赛程积分等级达到2级「认证选手」后解锁,"Unlocked after reaching Rank Level 2 as ""Certified Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 2 ""Tay Đấu Chứng Nhận"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1107,取得与“荣光王”的决赛资格,Qualify for the final against Conqueror of Prestige,"Giành quyền vào chung kết với ""Vua Vinh Quang"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1203,击败“梦魇”加卢斯,Defeat Gallus the Nightmare,"Đánh Bại ""Ác Mộng"" Gallus"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1305,击败“梦魇”加卢斯,Defeat Gallus the Nightmare,"Đánh Bại ""Ác Mộng"" Gallus"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1501,击败“铸铁”阿格里帕,Defeat Agrippa the Ironheart,"Đánh Bại ""Sắt Thép"" Agrippa"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1507,击败“尘土”劳尔,Defeat Raul the Dustbound,"Đánh Bại ""Bụi Trần"" Raul"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1607,击败“甘霖”玛尔茜亚,Defeat Marcia the Lifespring,"Đánh Bại ""Cam Lộ"" Marcia"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_2,赛程积分等级达到5级「知名选手」后解锁,"Unlocked after reaching Rank Level 5 as ""Popular Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 5 ""Tay Đấu Nổi Tiếng"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_3,赛程积分等级达到6级「资深选手」后解锁,"Unlocked after reaching Rank Level 6 as ""Veteran Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 6 ""Tay Đấu Kỳ Cựu"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_4,赛程积分等级达到7级「明星选手」后解锁,"Unlocked after reaching Rank Level 7 as ""All-Star Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 7 ""Tay Đấu Ngôi Sao"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_5,赛程积分等级达到8级「传奇选手」后解锁,"Unlocked after reaching Rank Level 8 as ""Legendary Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 8 ""Tay Đấu Huyền Thoại"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_6,赛程积分等级达到9级「传奇选手」后解锁,"Unlocked after reaching Rank Level 9 as ""Legendary Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 9 ""Tay Đấu Huyền Thoại"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_7,赛程积分等级达到3级「新秀选手」后解锁,"Unlocked after reaching Rank Level 3 as ""Promising Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 3 ""Tay Đấu Tân Binh"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_8,赛程积分等级达到4级「老练选手」后解锁,"Unlocked after reaching Rank Level 4 as ""Experienced Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 4 ""Tay Đấu Dày Dạn"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_9,赛程积分等级达到4级「老练选手」后解锁,"Unlocked after reaching Rank Level 4 as ""Experienced Duelist""","Mở khóa sau khi đạt cấp điểm giải đấu cấp 4 ""Tay Đấu Dày Dạn"""
-lang_multi_text.db,MultiText,PhantomBattleLVDes_1,解锁图鉴,Echo Collection Unlocked,Mở khóa Đồ giám
-lang_multi_text.db,MultiText,PhantomBattleLVDes_10,解锁无尽挑战·困难难度；解锁练习者之勋,Endless Challenge - Difficult and Trainee Medal Unlocked,Mở khóa Thử Thách Vô Tận - Độ khó Khó; Mở khóa Huân Chương Người Tập Luyện
-lang_multi_text.db,MultiText,PhantomBattleLVDes_11,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_12,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_13,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_14,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_15,解锁进阶者之勋,Adept Medal Unlocked,Mở khóa Huân Chương Người Nâng Cao
-lang_multi_text.db,MultiText,PhantomBattleLVDes_16,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_17,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_18,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_19,已解锁全部功能,All Features Unlocked,Đã mở khóa tất cả tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_2,解锁战术,Resonator Tactics Unlocked,Mở khóa Chiến Thuật
-lang_multi_text.db,MultiText,PhantomBattleLVDes_20,解锁老练者之勋,Veteran Medal Unlocked,Mở khóa Huân Chương Người Lão Luyện
-lang_multi_text.db,MultiText,PhantomBattleLVDes_3,无新功能开放,No New Feature Available,Không có tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleLVDes_4,解锁自由创建卡组及声骸功能,Free Deck Building and Echo Setup Unlocked,Mở khóa tính năng tự do tạo bộ bài và Thanh Hài
-lang_multi_text.db,MultiText,PhantomBattleLVDes_5,解锁初学者之勋,Novice Medal Unlocked,Mở khóa Huân Chương Người Mới
-lang_multi_text.db,MultiText,PhantomBattleLVDes_6,解锁战斗阶段加速,Battle Stage Acceleration Unlocked,Mở khóa tăng tốc giai đoạn chiến đấu
-lang_multi_text.db,MultiText,PhantomBattleLVDes_7,无新功能开放,No New Feature Available,Không có tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleLVDes_8,解锁无尽挑战·普通难度；解锁声骸外观升级,Endless Challenge - Normal and Echo Appearance Upgrade Unlocked,Mở khóa Thử Thách Vô Tận - Độ khó Thường; Mở khóa nâng cấp ngoại hình Thanh Hài
-lang_multi_text.db,MultiText,PhantomBattleLVDes_9,无新功能开放,No New Feature Available,Không có tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2001,"阿希尔德为同好会的命运感到担忧。虽然她对会长安妮塔无比信任，但直到现在为止，她都没能在任何同好会成员那里看到击败教授们的希望。
-
-决斗家特性：无特性","Ashild is worried about the fate of the fan club. Although she places great trust in the fan club's leader, Anita, she still sees no hope of defeating the professors from any of the members up until now.
-
-Duelist Traits: None","Ashild lo lắng cho số phận của câu lạc bộ. Dù cô tin tưởng tuyệt đối vào hội trưởng Anita, nhưng cho đến giờ, cô vẫn chưa thấy bất kỳ thành viên nào có hy vọng đánh bại các giáo sư.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2002,"丹尼斯老师认为，同好会成员的所谓决斗缺乏必要的优雅，也毫无艺术美感。他决定按照自己的意志来重塑这一切。
-
-决斗家特性：无特性","Professor Dennis believes that the fan club members' duels lack the necessary elegance and artistic beauty. He is now committed to reshaping it all based on his own ideal.
-
-Duelist Traits: None","Thầy Dennis cho rằng những trận đấu của các thành viên câu lạc bộ thiếu sự thanh nhã cần thiết và chẳng có chút mỹ cảm nghệ thuật nào. Ông quyết định sẽ tự tay nhào nặn lại tất cả theo ý mình.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2003,"菲斯塔教授认为自己找到了完美的决斗算法——能够让她在任何情况下都立于不败之地。然而，总有些东西是算法无法预测的。
-
-决斗家特性：无特性","Professor Festa believes she has found the perfect algorithm for dueling—one that would make her undefeated under any scenario. However, there are always variables that algorithms cannot predict.
-
-Duelist Traits: None","Giáo sư Festa tin rằng mình đã tìm ra thuật toán đấu hoàn hảo - có thể giúp bà bất bại trong mọi tình huống. Tuy nhiên, luôn có những thứ mà thuật toán không thể dự đoán được.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2004,"切斯特对决斗毫无兴趣，也并不关心同好会的命运如何。对她来说，摧毁同好会只是她平淡无奇的工作中一个无法拒绝的额外差事而已。
-
-决斗家特性：无特性","Chessa has no interest in dueling, and cares little about the fan club's future. To her, destroying the fan club is just an unavoidable extra work in her normal, boring job.
-
-Duelist Traits: None","Chessa chẳng hứng thú gì với việc đấu, cũng không quan tâm đến số phận câu lạc bộ ra sao. Với cô, phá hủy câu lạc bộ chỉ là một việc vặt không thể từ chối trong công việc nhàm chán thường ngày mà thôi.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2005,"卡利斯教授将荣耀之丘的创始人富里乌斯视为宿敌。他坚持要解散《荣耀之丘》同好会，很难说这是为了不让学生们重蹈富里乌斯的覆辙，还是单纯因仇恨使然。
-
-决斗家特性：无特性","Professor Calith sees Furius, the founder of Peaks of Prestige, as his archenemy. His campaign to disband the fan club might stem from a desire to shield his students from following… or it might be fueled by pure, personal animosity.
-
-Duelist Traits: None","Giáo sư Calith coi Furius, người sáng lập Peaks of Prestige, là kẻ thù không đội trời chung. Ông nhất quyết giải tán câu lạc bộ Peaks of Prestige, khó mà nói rõ đây là để ngăn học sinh đi vào vết xe đổ của Furius, hay đơn thuần vì lòng thù hận.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2006,"《荣耀之丘》拉海洛赛区负责人，安妮塔。在此发起决斗请求。
-
-决斗家特性：无特性","Anita, the Division Manager for the Peaks of Prestige Lahai-Roi Ranked Tournament, challenges you to a duel.
-
-Duelist Traits: None","Người phụ trách khu vực Lahai-Roi của Peaks of Prestige, Anita, gửi lời thách đấu tại đây.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2007,"对绫而言，《荣耀之丘》是缓解学习压力的方式，也是生活中不可缺少的一部分。
-
-决斗家特性：无特性","To Aya, Peaks of Prestige is a way to relieve stress from her schoolwork and an indispensable part of her life.
-
-Duelist Traits: None","Với Aya, Peaks of Prestige là cách giảm bớt áp lực học tập, cũng là phần không thể thiếu trong cuộc sống của cô.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2008,"机器护士会使出电子组合技吗？让我们拭目以待吧！
-
-决斗家特性：无特性","Do mech nurses use electric combos? Stay tuned right here on Peaks of Prestige!
-
-Duelist Traits: None","Y tá máy có thể tung combo điện tử không? Hãy cùng chờ xem nhé!
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2009,"I.R.I.S.似乎切换了一个奇怪而又似曾相识的人格，虽然有点在意……但还是先决斗吧。
-
-决斗家特性：无特性","Looks like I.R.I.S. might have switched to a strange but familiar personality. It's a bit concerning... but let's duel first.
-
-Duelist Traits: None","I.R.I.S. dường như đã chuyển sang một nhân cách kỳ lạ nhưng quen thuộc, tuy hơi để tâm... nhưng thôi cứ đấu trước đã.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2010,"扎希拉将《荣耀之丘》从学院带到了罗伊族，她并没想到这款游戏在这么短的时间内就能在整个浮光林流传开来。
-
-决斗家特性：无特性","When Zahira brought Peaks of Prestige from the Academy to her Roya tribe, she never imagined it would sweep through Bjartr Woods like wildfire.
-
-Duelist Traits: None","Zahira mang Peaks of Prestige từ học viện đến bộ tộc Roya, cô không ngờ trò chơi này lại lan rộng khắp Bjartr Woods nhanh đến vậy.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2011,"为了守护重要之物，拉格希尔德一直在追求力量。而《荣耀之丘》似乎已经成为了她的力量来源之一。
-
-决斗家特性：无特性","Lagerith has been pursuing power to protect something precious to her. Now, Peaks of Prestige seems to have become one of her sources of power.
-
-Duelist Traits: None","Để bảo vệ những gì quan trọng, Lagerith luôn theo đuổi sức mạnh. Và Peaks of Prestige dường như đã trở thành một trong những nguồn sức mạnh của cô.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2012,"卡塔丽娜想要离开拉海洛，成为一名七丘角斗士……也许某一天，她真的能实现自己的愿望。
-
-决斗家特性：无特性","Katrina wants to leave Lahai-Roi and become a Septimont Gladiator... Perhaps one day her dreams will come true.
-
-Duelist Traits: None","Katrina muốn rời khỏi Lahai-Roi để trở thành một đấu sĩ Septimont... Biết đâu một ngày nào đó, cô ấy thật sự có thể thực hiện ước mơ của mình.
-
-Đặc tính Đấu sĩ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2013,"和乔娜决斗吧！让你看看谁才是真正的狠角色！
-
-决斗家特性：该技能持有者，每当召唤声骸时，使该声骸获得【不屈】技能。","Challenge Jonna! Let her see who's the real Duelist!
-
-Duelist Traits: Each time the duelist deploys an Echo, the Echo gains Resilience.","Đấu với Jonna đi! Để xem ai mới là tay chơi thực thụ!
-
-Đặc tính Đấu sĩ: Mỗi khi người sở hữu kỹ năng triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Bất Khuất]."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2014,"太好了！终于有人来和伊温德决斗了！
-
-决斗家特性：该技能持有者，每当在部署阶段与战斗阶段失去生命时，失去的生命-1。","Great! Finally, someone has come to challenge Eyvind!
-
-Duelist Traits: The duelist loses 1 less HP each time they lose HP during the Deployment Stage and Battle Stage.","Tuyệt vời! Cuối cùng cũng có người đến đấu với Eyvind rồi!
-
-Đặc tính Đấu sĩ: Mỗi khi người sở hữu kỹ năng mất máu trong Giai đoạn Triển khai và Giai đoạn Chiến đấu, lượng máu mất đi giảm 1."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2015,"日灵也会玩《荣耀之丘》吗？还是说，它们仅仅是伊洛妮对于自己战术的伪装呢？
-
-决斗家特性：该技能持有者，在战斗阶段受到的伤害-5。","Do Soliskin also play Peaks of Prestige? Or are they just acting as Eloni's tactical disguise?
-
-Duelist Traits: The duelist takes 5 less DMG during the Battle Stage.","Linh hồn mặt trời cũng chơi Peaks of Prestige sao? Hay chúng chỉ là lớp ngụy trang chiến thuật của Eloni?
-
-Đặc tính Đấu sĩ: Người sở hữu kỹ năng giảm 5 sát thương nhận được trong Giai đoạn Chiến đấu."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2016,"奥德吉尔听从来自内心深处的呼唤。他独自在旷野追逐隧群，希望从它们那里获得野性的智慧。
-
-决斗家特性：该技能持有者，每当召唤声骸时，使该声骸获得【坚韧】技能。","Odgier heeds the calling from deep within his heart. Alone, he pursues the Exoswarm in the wilderness, hoping to gain wild wisdom from them.
-
-Duelist Traits: Each time the duelist deploys an Echo, the Echo gains Toughness.","Odgier lắng nghe tiếng gọi từ sâu thẳm trong tim. Một mình giữa hoang dã, anh đuổi theo bầy Exoswarm, hy vọng học được trí tuệ hoang dã từ chúng.
-
-Đặc tính Đấu sĩ: Mỗi khi người sở hữu kỹ năng triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Kiên Cường]."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2017,"来，一决胜负吧。
-
-决斗家特性：该技能持有者，每回合开始时，使对方失去7点生命。","Come, let's settle this once and for all.
-
-Duelist Traits: The duelist's opponent loses 7 HP at the start of each round.","Đến, phân thắng bại nào.
-
-Đặc tính Đấu sĩ: Mỗi lượt bắt đầu, người sở hữu kỹ năng khiến đối phương mất 7 điểm máu."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2018,"阿尔多对拉海洛的古代生物很感兴趣，并将自己对它们的想象添加到了卡组之中。
-
-决斗家特性：
-	该技能持有者，每当召唤声骸时，使该声骸获得【不屈】与【坚韧】技能。
-每当在部署阶段与战斗阶段失去生命时，失去的生命-1。
-回合结束时，所操控的声骸的力量与耐久均+X，X为当前回合数。","Aldo takes great interest in the ancient creatures of Lahai-Roi and has implemented his imagination of them in his deck.
-
-Duelist Traits:
-Each time the duelist deploys an Echo, the Echo gains Resilience and Toughness.
-The duelist loses 1 less HP each time they lose HP during the Deployment Stage and Battle Stage.
-At the end of each round, the duelist's Echoes gain X points of STR and CON, with X being the current round number.","Aldo rất hứng thú với các sinh vật cổ đại ở Lahai-Roi và đã đưa trí tưởng tượng của mình về chúng vào bộ bài.
-
-Đặc tính Đấu sĩ:
-	Mỗi khi người sở hữu kỹ năng triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Bất Khuất] và [Kiên Cường].
-Mỗi khi mất máu trong Giai đoạn Triển khai và Giai đoạn Chiến đấu, lượng máu mất đi giảm 1.
-Khi kết thúc lượt, sức mạnh và độ bền của các Thanh Hài đang điều khiển đều tăng thêm X, X bằng số lượt hiện tại."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3001,"伊塔洛是来自拉古那的留学生，虽然他在拉海洛亲眼见到了许多神奇的科技，但他仍觉得声骸才是最强的。
-
-决斗家特性：无特殊效果","Italo is an exchange student from Ragunna. Despite having seen the technological wonders of Lahai-Roi, he still believes that nothing is stronger than an Echo.
-
-Duelist Traits: None","Italo là du học sinh đến từ Ragunna. Dù đã tận mắt chứng kiến nhiều công nghệ kỳ diệu ở Lahai-Roi, anh vẫn tin rằng Thanh Hài mới là mạnh nhất.
-
-Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3002,"安德鲁是他所在的科研小组中的技术员，也负责整个团队的后勤调配——但据认识他的人说，他似乎并不是个特别靠谱的人。
-
-决斗家特性：本场决斗的最大回合数为1！","Andrius is the technician and logistics coordinator for his research expedition team. However, people who know him say he's not particularly reliable.
-
-Duelist Traits: This duel only lasts 1 round!","Andrius là kỹ thuật viên trong nhóm nghiên cứu, đồng thời phụ trách hậu cần cho cả đội - nhưng theo những người quen biết, anh ta có vẻ không phải người đáng tin cậy cho lắm.
-
-Đặc tính Đấu sĩ: Số lượt tối đa của trận đấu này là 1!"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3003,"峦泉意识到自己在前来冰原时落下了一个至关重要的东西，这让她的科考之旅变得黯然失色。
-
-决斗家特性：无特殊效果","Luanquan realized that she had left a crucial item behind on the way to frostlands. This mistake cast a shadow over her scientific expedition.
-
-Duelist Traits: None","Luanquan nhận ra mình đã bỏ quên một thứ vô cùng quan trọng khi lên đường đến băng nguyên, khiến chuyến khảo sát khoa học của cô phủ một lớp bóng u ám.
-
-Đặc tính Đấu sĩ: Không có hiệu ứng đặc biệt"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3004,"作为罗伊族，兰娜对星炬学院的科考摩托特别感兴趣。而因为某个传言，她产生了一个相当疯狂的创意……
-
-决斗家特性：技能持有者的对手每次召唤声骸时，技能持有者失去5点生命","As a Roya, Lana is particularly interested in Startorch Academy's expedition motorbikes. A certain rumor led her to come up with a rather crazy idea…
-
-Duelist Traits: The duelist's opponent loses 5 HP whenever the opponent deploys an Echo.","Là người Roya, Lana đặc biệt hứng thú với xe máy khảo sát của Học viện Startorch. Và vì một tin đồn nào đó, cô nảy ra một ý tưởng khá điên rồ...
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ triệu hồi Thanh Hài, người sở hữu kỹ năng mất 5 điểm máu."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3005,"乔安娜目前正在罗伊冰原负责数据收集工作，为了在这枯燥的工作中打发时间，她急需一个强大的对手。
-
-决斗家特性：技能持有者每次受到的伤害-5","Joanna is currently responsible for data collection in the Roya Frostlands. The job is monotonous, and she desperately needs a strong opponent to kill time.
-
-Duelist Traits: Every instance of DMG taken by the duelist is reduced by 5.","Joanna hiện đang phụ trách thu thập dữ liệu tại Băng Nguyên Roya. Để giết thời gian trong công việc nhàm chán này, cô cần gấp một đối thủ xứng tầm.
-
-Đặc tính Đấu sĩ: Mỗi lần nhận sát thương, người sở hữu kỹ năng giảm 5 sát thương."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3006,"乌苏拉追寻强者，为此踏上了环境严酷的罗伊冰原。也许她在此能够找到她所期望的荣誉和乐趣。
-
-决斗家特性：技能持有者的对手每上阵一张卡牌，技能持有者失去66点生命","Ursula ventured into the harsh Roya Frostlands in search of a strong opponent. Perhaps here, she will find honor and joy.
-
-Duelist Traits: The duelist's opponent loses 66 HP whenever the opponent deploys a card.","Ursula tìm kiếm kẻ mạnh, vì thế mà đặt chân đến Băng Nguyên Roya khắc nghiệt. Có lẽ tại đây cô sẽ tìm được vinh quang và niềm vui mà mình mong đợi.
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ ra một lá bài, người sở hữu kỹ năng mất 66 điểm máu."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3007,"罗伊人相信，环境越是恶劣的地方，就越有可能藏着美食。对布里姆而言当然也不例外。
-
-决斗家特性：每次召唤声骸时，技能持有者的一个随机声骸力量与耐久均+1","The Roya believe that delicious quarry is only found in the harshest environments. Bream is no exception.
-
-Duelist Traits: One of the duelist's Echoes gains 1 STR and CON whenever the duelist deploys an Echo.","Người Roya tin rằng, môi trường càng khắc nghiệt thì càng có thể giấu những món ngon. Với Bream, điều này tất nhiên cũng không ngoại lệ.
-
-Đặc tính Đấu sĩ: Mỗi khi triệu hồi Thanh Hài, một Thanh Hài ngẫu nhiên của người sở hữu kỹ năng được tăng 1 điểm sức mạnh và 1 điểm độ bền."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3008,"吉尔森一直在守望沉眠的隧者，而随着拉海洛新的太阳升起，他预感到自己的守望也即将结束。
-
-决斗家特性：技能持有者在战斗阶段受到的伤害-15，但是只有1点生命","Gilson has been watching over the slumbering Exostrider. With the rise of the new sun over Lahai-Roi, he knows his watch is coming to an end.
-
-Duelist Traits: Damage taken by the duelist in the Battle Stage is reduced by 15, but the duelist only has 1 HP.","Gilson đã luôn canh giữ Exostrider đang say giấc. Và khi mặt trời mới mọc lên trên Lahai-Roi, anh linh cảm rằng cuộc canh giữ của mình cũng sắp đến hồi kết.
-
-Đặc tính Đấu sĩ: Sát thương nhận vào trong giai đoạn chiến đấu của người sở hữu kỹ năng giảm 15, nhưng chỉ có 1 điểm máu."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3009,"瓦尔正在构思一个有趣的小说，而它的灵感似乎来源于隧者的传说……
-
-决斗家特性：每当技能持有者的对手使用主动技能时，使其场上所有声骸力量与耐久均-1","Varr is brainstorming ideas for an interesting novel. His inspiration mainly seems to come from the legend of the Exostrider.
-
-Duelist Traits: On-field Echoes belonging to the duelist's opponent lose 1 STR and CON whenever the opponent uses Active Skills.","Varr đang ấp ủ ý tưởng cho một cuốn tiểu thuyết thú vị, và nguồn cảm hứng của anh dường như bắt nguồn từ truyền thuyết về Exostrider...
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ của người sở hữu kỹ năng sử dụng kỹ năng chủ động, mọi Thanh Hài trên sân của đối thủ bị giảm 1 điểm sức mạnh và 1 điểm độ bền."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3010,"深空联合的数据库中有一条记载：某个坠毁的航天器中藏着一件拥有宇宙之力的宝物。威尔艾米娜正是被这条记载指引于此。
-
-决斗家特性：技能持有者的对手每进行一次特殊召唤时，技能持有者的对手失去4点生命","There is a record in the Spacetrek Collective's database of a crashed spacecraft that hides a treasure with the power of the cosmos. This is what drew Wilhelmina here.
-
-Duelist Traits: The duelist's opponent loses 4 HP whenever the opponent Quick-Deploys an Echo.","Trong cơ sở dữ liệu của Spacetrek Collective có một bản ghi: bên trong một phi thuyền rơi có ẩn giấu một bảo vật mang sức mạnh vũ trụ. Wilhelmina chính là được bản ghi ấy dẫn dắt đến đây.
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ của người sở hữu kỹ năng thực hiện triệu hồi nhanh, đối thủ mất 4 điểm máu."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_3011,"加西亚在等待他的补给，而在补给送达之前，他决定做点什么打发时间。
-
-决斗家特性：技能持有者的对手每上阵1个奇藏卡牌时，技能持有者失去10点生命","Garcia is waiting for supplies, and before they arrive, he decides to do something to pass the time. 
-
-Duelist Traits: The duelist's opponent loses 10 HP whenever the opponent deploys a Supply Chest card.","Garcia đang chờ đợi tiếp tế, và trước khi hàng đến, anh quyết định làm gì đó cho đỡ buồn.
-
-Đặc tính Đấu sĩ: Mỗi khi đối thủ của người sở hữu kỹ năng ra 1 lá bài Rương Bí Tàng, người sở hữu kỹ năng mất 10 điểm máu."
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1009,入门决斗家,Apprentice Duelist,Đấu Thủ Nhập Môn
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1010,入门决斗家,Apprentice Duelist,Đấu Thủ Nhập Môn
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1011,初级决斗家,Trained Duelist,Đấu Thủ Sơ Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1012,初级决斗家,Trained Duelist,Đấu Thủ Sơ Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1013,初级决斗家,Trained Duelist,Đấu Thủ Sơ Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1014,初级决斗家,Trained Duelist,Đấu Thủ Sơ Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1015,中级决斗家,Skilled Duelist,Đấu Thủ Trung Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1016,中级决斗家,Skilled Duelist,Đấu Thủ Trung Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1017,中级决斗家,Skilled Duelist,Đấu Thủ Trung Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1018,中级决斗家,Skilled Duelist,Đấu Thủ Trung Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1019,高级决斗家,Expert Duelist,Đấu Thủ Cao Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1020,高级决斗家,Expert Duelist,Đấu Thủ Cao Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1021,高级决斗家,Expert Duelist,Đấu Thủ Cao Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1022,高级决斗家,Expert Duelist,Đấu Thủ Cao Cấp
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1023,大师决斗家,Master Duelist,Đấu Thủ Bậc Thầy
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1024,大师决斗家,Master Duelist,Đấu Thủ Bậc Thầy
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1025,大师决斗家,Master Duelist,Đấu Thủ Bậc Thầy
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1026,大师决斗家,Master Duelist,Đấu Thủ Bậc Thầy
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1027,传奇决斗家,Legendary Duelist,Đấu Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1028,传奇决斗家,Legendary Duelist,Đấu Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1029,传奇决斗家,Legendary Duelist,Đấu Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1030,巅峰决斗家,Apex Duelist,Đấu Thủ Đỉnh Cao
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1031,巅峰决斗家,Apex Duelist,Đấu Thủ Đỉnh Cao
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1032,巅峰决斗家,Apex Duelist,Đấu Thủ Đỉnh Cao
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_1033,巅峰决斗家,Apex Duelist,Đấu Thủ Đỉnh Cao
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2001,入围选手,Qualified Duelist,Tuyển Thủ Vòng Loại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2002,认证选手,Certified Duelist,Tuyển Thủ Chứng Nhận
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2003,认证选手,Certified Duelist,Tuyển Thủ Chứng Nhận
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2004,新秀选手,Promising Duelist,Tuyển Thủ Tiềm Năng
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2005,新秀选手,Promising Duelist,Tuyển Thủ Tiềm Năng
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2006,老练选手,Experienced Duelist,Tuyển Thủ Lão Luyện
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2007,老练选手,Experienced Duelist,Tuyển Thủ Lão Luyện
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2008,知名选手,Popular Duelist,Tuyển Thủ Danh Tiếng
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2009,知名选手,Popular Duelist,Tuyển Thủ Danh Tiếng
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2010,资深选手,Veteran Duelist,Tuyển Thủ Thâm Niên
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2011,资深选手,Veteran Duelist,Tuyển Thủ Thâm Niên
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2012,明星选手,All-Star Duelist,Tuyển Thủ Ngôi Sao
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2013,明星选手,All-Star Duelist,Tuyển Thủ Ngôi Sao
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2014,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2015,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2016,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2017,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleChallengeTitle_2018,传奇选手,Legendary Duelist,Tuyển Thủ Huyền Thoại
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_1,"·将手牌中的声骸，通过放置在召唤区已有的声骸之上进行召唤的方式，称为调谐。调谐时，会让登场的声骸，获得被调谐的声骸的全部特殊技能，并且激活。
+·能量消耗为1的声骸，仅能调谐于，能量消耗为1且没有被调谐的声骸之上。
+·能量消耗为3的声骸，仅能调谐于，能量消耗为1且已经被调谐的声骸之上。","- Modulation is the act of Deploying an Echo from your hand by placing it on top of an Echo already on the field. The newly Deployed Echo inherits and activates all Special Skills from the Echo it was placed on.
+- Cost 1 Echoes can only be Modulated onto another Cost 1 Echo that has not been previously Modulated.
+- Cost 3 Echoes can only be Modulated onto another Cost 1 Echo that has already been Modulated.",". Đặt Thanh Hài từ trên tay lên một Thanh Hài đã có sẵn trong Khu Triệu Hồi để triệu hồi được gọi là Điều Hưởng. Khi Điều Hưởng, Thanh Hài xuất hiện sẽ nhận được tất cả Kỹ Năng Đặc Biệt của Thanh Hài bị Điều Hưởng, đồng thời kích hoạt chúng.
+. Thanh Hài tiêu hao 1 năng lượng chỉ có thể Điều Hưởng lên trên Thanh Hài tiêu hao 1 năng lượng và chưa bị Điều Hưởng.
+. Thanh Hài tiêu hao 3 năng lượng chỉ có thể Điều Hưởng lên trên Thanh Hài tiêu hao 1 năng lượng và đã bị Điều Hưởng."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_10,·我方累计死亡6个声骸，或决斗进行至第五回合,"- Have 6 of your Echoes downed in total, or reach Round 5.",". Phe ta có tổng cộng 6 Thanh Hài tử vong, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_11,·我方召唤区存在3个激活的【翼守】技能，或决斗进行至第五回合,"- Have 3 Activated ""Flank Force"" in the Deployment Zone, or reach Round 5.",". Khu Triệu Hồi của phe ta có 3 kỹ năng [Dực Thủ] đang kích hoạt, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_12,·我方累计使用6次【变幻】，或决斗进行至第五回合,"- Use Transform 6 times, or reach Round 5.",". Phe ta sử dụng tổng cộng 6 lần [Biến Huyễn], hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_13,核心挑战：我方累计进行6次重构，或决斗进行至第五回合,"Trial: Reconstruct cards 6 times, or reach Round 5.","Thử Thách Lõi: Phe ta thực hiện tổng cộng 6 lần Tái Cấu Trúc, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_14,核心挑战：我方累计使用卡牌的主动技能5次，或决斗进行至第五回合,"Trial: Use Active Skill 5 times, or reach Round 5.","Thử Thách Lõi: Phe ta sử dụng Kỹ Năng Chủ Động của lá bài tổng cộng 5 lần, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_15,核心挑战：我方累计使用卡牌的主动技能5次，或决斗进行至第五回合,"Trial: Use Active Skill 5 times, or reach Round 5.","Thử Thách Lõi: Phe ta sử dụng Kỹ Năng Chủ Động của lá bài tổng cộng 5 lần, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_16,核心挑战：我方累计召唤4个能量消耗为3的声骸，或决斗进行至第五回合,"Trial: Deploy 4 Cost 3 Echoes, or reach Round 5.","Thử Thách Lõi: Phe ta triệu hồi tổng cộng 4 Thanh Hài tiêu hao 3 năng lượng, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_17,核心挑战：我方累计召唤4个能量消耗为3的声骸，或决斗进行至第五回合,"Trial: Deploy 4 Cost 3 Echoes, or reach Round 5.","Thử Thách Lõi: Phe ta triệu hồi tổng cộng 4 Thanh Hài tiêu hao 3 năng lượng, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_18,核心挑战：我方累计触发5次充能技能，或决斗进行至第五回合,"Trial: Trigger Recharge effect 5 times, or reach Round 5.","Thử Thách Lõi: Phe ta kích hoạt 5 lần kỹ năng Nạp Năng Lượng, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_19,卡牌所拥有的基础特殊能力，一般会持续生效，或是在满足某些条件后触发。,The basic unique abilities of cards. Special Effects generally remain in effect for the duration of the duel or can be triggered after meeting certain conditions.,"Khả năng đặc biệt cơ bản mà lá bài sở hữu, thường sẽ liên tục có hiệu lực hoặc kích hoạt sau khi thỏa mãn một số điều kiện nhất định."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_2,·带有变幻的声骸，可以被拖动到变幻区来使用其变幻效果。一般来说，进行变幻的声骸不会回到卡组，而是会被消耗。被消耗的声骸本场决斗中不会再被抽到。,"Echoes with Transform take effect when dragged into the Transform area. Normally, Transformed cards are not returned to your deck, but are destroyed in this duel instead.",". Thanh Hài có Biến Huyễn có thể được kéo vào Khu Biến Huyễn để sử dụng hiệu ứng Biến Huyễn của nó. Thông thường, Thanh Hài thực hiện Biến Huyễn sẽ không quay về bộ bài mà sẽ bị tiêu hao. Thanh Hài bị tiêu hao sẽ không thể rút lại trong trận đấu này."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_20,通过进行某些特定操作，或触发技能，可获得一层【充能】。在【充能】累积到一定层数后，会自动触发【爆发】技能。,Performing certain actions or triggering skills grants one stack of Recharge. Accumulating certain stacks of Recharge triggers Overburst automatically.,"Thông qua một số thao tác nhất định hoặc kích hoạt kỹ năng, có thể nhận một tầng [Nạp Năng Lượng]. Sau khi [Nạp Năng Lượng] tích lũy đến số tầng nhất định, sẽ tự động kích hoạt kỹ năng [Bùng Nổ]."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_21,在满足条件后，可以主动使用的特殊能力。主动技能每回合只能使用一次，但某些效果可以重置卡牌主动技能的使用次数。,Unique abilities that can be used after meeting certain conditions. Active Skills can only be used once per round. Some effects can reset the card's Active Skill Uses.,"Khả năng đặc biệt có thể chủ động sử dụng sau khi thỏa mãn điều kiện. Kỹ Năng Chủ Động mỗi hiệp chỉ được dùng một lần, nhưng một số hiệu ứng có thể làm mới số lần sử dụng Kỹ Năng Chủ Động của lá bài."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_22,【领域】是在拉海洛版本《荣耀之丘》中新增加的卡牌类别。【领域】具有相当强大的力量，足以影响决斗的胜负。,Domain is a new card category added to the Lahai-Roi version of Peaks of Prestige. These cards possess extremely powerful abilities that can shift the tide of any duel.,"[Lĩnh Vực] là loại lá bài mới được thêm vào trong phiên bản Lahai-Roi của ""Đồi Vinh Quang"". [Lĩnh Vực] có sức mạnh khá lớn, đủ để ảnh hưởng đến thắng bại của trận đấu."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_23,除了支付费用，从手牌召唤外，通过其他方式进行的声骸召唤。这些召唤被视为【特殊召唤】，可能会触发某些能力。,Quick-Deploy refers to deploying an Echo without playing it from your hand at the standard Energy cost. These special deployments count as Quick-Deploys and can activate certain card abilities.,"Ngoài việc trả phí năng lượng để triệu hồi từ trên tay, còn có việc triệu hồi Thanh Hài thông qua các cách khác. Những lần triệu hồi này được coi là [Triệu Hồi Đặc Biệt] và có thể kích hoạt một số năng lực nhất định."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_24,【奇藏】是在拉海洛版本《荣耀之丘》中新增加的卡牌类别，指具有奇特力量的物品。【奇藏】不会如同声骸一样直接参与战斗，而是通过自身的特殊能力影响战局。,"Novelty is a new card category added to the Lahai-Roi version of Peaks of Prestige. They are items with unique powers. Novelties do not directly participate in the Battle Stage like Echoes, but instead influence the battlefield through their unique abilities.","[Kỳ Tàng] là loại lá bài mới được thêm vào trong phiên bản Lahai-Roi của ""Đồi Vinh Quang"", chỉ những vật phẩm có sức mạnh kỳ lạ. [Kỳ Tàng] sẽ không trực tiếp tham gia chiến đấu như Thanh Hài, mà sẽ ảnh hưởng đến cục diện trận đấu thông qua năng lực đặc biệt của bản thân."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_25,奇藏在被放置到召唤区后，所能持续存在的回合数。当奇藏的持续时间结束后，它将被洗回卡组。,The number of rounds the Novelty can endure after being deployed. The Novelty is returned to the deck at the end of its duration.,"Số hiệp mà Kỳ Tàng có thể duy trì sau khi được đặt vào Khu Triệu Hồi. Khi thời gian duy trì của Kỳ Tàng kết thúc, nó sẽ được xáo lại vào bộ bài."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_26,奇藏能使用主动技能的总次数。在耗尽所有使用次数后，奇藏将被洗回卡组。,The uses of the Novelty's Active Skill. The Novelty is returned to the deck after uses are depleted.,"Tổng số lần Kỳ Tàng có thể sử dụng Kỹ Năng Chủ Động. Sau khi dùng hết số lần, Kỳ Tàng sẽ được xáo lại vào bộ bài."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_27,将召唤区或手牌中的卡牌拖入重构区，可使其洗回卡组。在拉海洛版本的《荣耀之丘》决斗中，重构无法获得能量，但依然可以触发与重构相关的卡牌技能。,"Placing cards from the Deployment Zone or your hand into the Reconstruction Zone shuffles it back into your deck. In the Lahai-Roi version of Peaks of Prestige, Reconstruction does not grant energy, but can still trigger Reconstruction-related card skills.","Kéo lá bài từ Khu Triệu Hồi hoặc trên tay vào Khu Tái Cấu Trúc có thể khiến nó được xáo lại vào bộ bài. Trong trận đấu ""Đồi Vinh Quang"" phiên bản Lahai-Roi, Tái Cấu Trúc không thể nhận được năng lượng, nhưng vẫn có thể kích hoạt kỹ năng lá bài liên quan đến Tái Cấu Trúc."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_28,卡牌的主动技能一回合只能使用一次，但某些具有「重置」效应的卡牌技能可以重置主动技能的使用次数，让主动技能可以在一回合中再次使用。,"Unique abilities that can only be used once per round. However, some cards with Reset effects can reset the uses of a card's Active Skill.","Kỹ Năng Chủ Động của lá bài mỗi hiệp chỉ được dùng một lần, nhưng một số kỹ năng lá bài có hiệu ứng ""Làm Mới"" có thể đặt lại số lần dùng Kỹ Năng Chủ Động, cho phép sử dụng lại trong cùng một hiệp."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_3,"·声骸调谐后，可以激活的强大能力。
+·特殊技能初始为未激活状态，只有将其激活才能生效。
+·声骸调谐时，会激活被调谐声骸的特殊技能。","- Modulation allows Echoes to Activate powerful abilities.
+- Special Skills are Unactivated when Echoes are first Deployed and need to be Activated.
+- Modulation Activates the Special Skills of the Modulated Echo.",". Năng lực mạnh mẽ có thể kích hoạt sau khi Thanh Hài được Điều Hưởng.
+. Kỹ Năng Đặc Biệt ban đầu ở trạng thái chưa kích hoạt, chỉ khi kích hoạt mới có hiệu lực.
+. Khi Điều Hưởng Thanh Hài, sẽ kích hoạt Kỹ Năng Đặc Biệt của Thanh Hài bị Điều Hưởng."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_4,"·在此阶段内，可以召唤声骸、调谐声骸、使用变幻、或是将声骸拖至重构区以回复能量。
+·点击开始战斗后，会结束该阶段。","- In this stage, you can Deploy, Modulate, or Transform an Echo. You may also drag the Echo to the Reconstruction Area to recover Energy.
+- {Cus:Ipt,Touch=Tap PC=Click Gamepad=Press} ""Fight!"" to finish this stage.",". Trong giai đoạn này, có thể triệu hồi Thanh Hài, Điều Hưởng Thanh Hài, sử dụng Biến Huyễn, hoặc kéo Thanh Hài vào Khu Tái Cấu Trúc để hồi phục năng lượng.
+. Sau khi nhấn Bắt Đầu Chiến Đấu, giai đoạn này sẽ kết thúc."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_5,"·声骸之间互相战斗的阶段。
+·点击开始战斗后，会进入该阶段。","- A stage where Echoes fight against each other.
+- {Cus:Ipt,Touch=Tap PC=Click Gamepad=Press} ""Fight!"" to enter this stage.",". Giai đoạn các Thanh Hài chiến đấu với nhau.
+. Sau khi nhấn Bắt Đầu Chiến Đấu, sẽ tiến vào giai đoạn này."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_6,"·核心声骸具备超强的战斗能力以及战斗效果，是取胜的核心。
+·跟通常声骸不同，核心声骸的召唤不需要费用，但是需要完成对应的挑战。","- Core Echoes possess powerful combat abilities and effects. They are the key to securing victory.
+- Unlike Normal Echoes, Core Echoes cost no Energy to Deploy and can only be Deployed by fulfilling specific conditions.",". Thanh Hài Lõi sở hữu khả năng chiến đấu và hiệu ứng chiến đấu siêu mạnh, là cốt lõi để giành chiến thắng.
+. Khác với Thanh Hài thường, việc triệu hồi Thanh Hài Lõi không tốn phí, nhưng cần hoàn thành thử thách tương ứng."
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_7,·我方在战斗阶段累计未获胜三次，或决斗进行至第五回合,"- Fail to win 3 Battle Stages in total, or reach Round 5.",". Phe ta tổng cộng chưa thắng 3 lần trong giai đoạn chiến đấu, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_8,·我方累计进行8次调谐，或决斗进行至第五回合,"- Modulate 8 times, or reach Round 5.",". Phe ta thực hiện tổng cộng 8 lần Điều Hưởng, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryDes_9,·我方生命小于或等于15，或决斗进行至第五回合,"- HP is at or below 15, or reach Round 5.",". Sinh lực phe ta nhỏ hơn hoặc bằng 15, hoặc trận đấu tiến hành đến hiệp 5"
+lang_multi_text.db,MultiText,PhantomBattleEntryName_1,调谐,Modulation,Điều Hưởng
+lang_multi_text.db,MultiText,PhantomBattleEntryName_10,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_11,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_12,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_13,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_14,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_15,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_16,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_17,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_18,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_19,被动技能,Passive Tactic,Kỹ Năng Bị Động
+lang_multi_text.db,MultiText,PhantomBattleEntryName_2,变幻,Transform,Biến Huyễn
+lang_multi_text.db,MultiText,PhantomBattleEntryName_20,充能技能,Recharge Effect,Kỹ Năng Nạp Năng Lượng
+lang_multi_text.db,MultiText,PhantomBattleEntryName_21,主动技能,Active Skill,Kỹ Năng Chủ Động
+lang_multi_text.db,MultiText,PhantomBattleEntryName_22,领域,Domain,Lĩnh Vực
+lang_multi_text.db,MultiText,PhantomBattleEntryName_23,特殊召唤,Quick-Deploy,Triệu Hồi Đặc Biệt
+lang_multi_text.db,MultiText,PhantomBattleEntryName_24,奇藏,Novelty,Kỳ Tàng
+lang_multi_text.db,MultiText,PhantomBattleEntryName_25,奇藏·持续时间,Novelty: Duration,Kỳ Tàng - Thời Gian Duy Trì
+lang_multi_text.db,MultiText,PhantomBattleEntryName_26,奇藏·耐久度,Novelty: Uses,Kỳ Tàng - Độ Bền
+lang_multi_text.db,MultiText,PhantomBattleEntryName_27,重构,Reconstruction,Tái Cấu Trúc
+lang_multi_text.db,MultiText,PhantomBattleEntryName_28,重置,Reset,Làm Mới
+lang_multi_text.db,MultiText,PhantomBattleEntryName_3,特殊技能,Special Skill,Kỹ Năng Đặc Biệt
+lang_multi_text.db,MultiText,PhantomBattleEntryName_4,部署阶段,Deployment Stage,Giai Đoạn Triển Khai
+lang_multi_text.db,MultiText,PhantomBattleEntryName_5,战斗阶段,Battle Stage,Giai Đoạn Chiến Đấu
+lang_multi_text.db,MultiText,PhantomBattleEntryName_6,核心声骸,Core Echo,Thanh Hài Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_7,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_8,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleEntryName_9,核心挑战,Trial,Thử Thách Lõi
+lang_multi_text.db,MultiText,PhantomBattleFactorDeActiveDes_1,<color=#e4c69b>【隐身】</color><color=#fb6464>（未激活）</color>-在战斗阶段开始{0}秒内，直到该声骸造成伤害前，该声骸不会受到攻击。在解除隐身后的{1}秒内，该声骸造成的伤害提升{2}。,"<color=#e4c69b>Invisibility</color> <color=#fb6464>(Unactivated)</color> - For {0}s after the Battle Stage begins and until it deals damage, this Echo cannot be attacked. For {1}s after Invisibility ends, damage dealt by this Echo is increased by {2}.","<color=#e4c69b>[Ẩn Thân]</color><color=#fb6464>(Chưa kích hoạt)</color>-Trong vòng {0} giây khi bắt đầu giai đoạn chiến đấu, cho đến trước khi Thanh Hài này gây sát thương, Thanh Hài sẽ không bị tấn công. Trong {1} giây sau khi giải trừ ẩn thân, sát thương Thanh Hài gây ra tăng {2}."

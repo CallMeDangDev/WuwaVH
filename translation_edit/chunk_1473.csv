@@ -1,110 +1,568 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,MotorBike_ExpGuide_6,在拉海洛地区击败敌人,Defeat enemies in Lahai-Roi,Đánh bại kẻ địch ở khu vực Lahai-Roi
-lang_multi_text.db,MultiText,MotorBike_ExpGuide_Title,通过以下方式，可以快速提升科考摩托开发等级,You may effectively increase your Modding Level in the following ways:,Có thể nhanh chóng nâng cấp phát triển xe máy thám hiểm bằng các cách sau:
-lang_multi_text.db,MultiText,MotorBike_ExpLimit_Tips,今日击败敌人获取的调试经验已达上限,You can't gain more Modding EXP by defeating enemies today,EXP tinh chỉnh nhận được từ đánh bại kẻ địch hôm nay đã đạt giới hạn
-lang_multi_text.db,MultiText,MotorBike_LevelUpTips,摩托开发等级,Modding Level,Cấp Phát Triển Xe
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_Attack,攻击力,Attack,Sức Tấn Công
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_Attack_Detail,该属性受索拉等级影响。,Dependent on SOL3 Phase.,Chỉ số này chịu ảnh hưởng bởi Cấp SOL3.
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_BoostAmount,动能储备,Energy Tank,Dự Trữ Động Năng
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_BoostAmount_Detail,摩托车可存储的动能，消耗动能可使用动能爆发增速。,The total Energy reserve of the motorbike. You can use Boost to accelerate the motorbike at the cost of Energy.,Động năng xe máy có thể tích trữ. Tiêu hao động năng để sử dụng tăng tốc bùng nổ.
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_BoostConsumeRate,动能消耗速率,Energy Consumption Rate,Tốc Độ Tiêu Hao Động Năng
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_BoostCoolDown,动能爆发冷却时间,Boost Cooldown,Thời Gian Hồi Tăng Tốc
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_BoostCoolDown_Detail,摩托车动能未耗尽时，停止使用动能爆发增速后动能恢复的冷却时间。,The cooldown of regenerating Energy after Boost stops when Energy is not fully depleted.,Thời gian hồi để động năng bắt đầu phục hồi sau khi ngừng tăng tốc khi động năng chưa cạn kiệt.
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_BoostRecoverRate,动能恢复速率,Energy Recovery Rate,Tốc Độ Phục Hồi Động Năng
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_BoostSpeed,动能爆发速度,Boost Speed,Tốc Độ Tăng Tốc
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_CurrentTechTree,已装载拓展模块,Expansion Module Installed,Mô-đun Mở Rộng Đã Lắp
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_Exp,调试经验,Modding EXP,EXP Tinh Chỉnh
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_InitialShield,初始力场强度,Initial Force Field Strength,Trường Lực Ban Đầu
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_Level,开发等级,Modding Level,Cấp Phát Triển
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_RewardPreview,奖励预览,Rewards Preview,Xem Trước Phần Thưởng
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldAmount,防御力场强度,Shield Strength,Cường Độ Trường Lực
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldAmount_Detail,该属性受索拉等级影响。,Dependent on SOL3 Phase.,Chỉ số này chịu ảnh hưởng bởi Cấp SOL3.
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldCoolDown,力场冷却时间,Force Field Cooldown,Thời Gian Hồi Trường Lực
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldCoolDown_Detail,脱离战斗或摩托防御力场归零后，防御力场重新恢复的冷却时间。,The time needed before the motorbike Force Field regenerates after exiting the combat state or when the Force Field is down.,Thời gian hồi để trường lực phòng thủ bắt đầu phục hồi sau khi thoát chiến đấu hoặc khi trường lực về 0.
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_ShieldRecoverRate,力场恢复速率,Force Field Regen Rate,Tốc Độ Phục Hồi Trường Lực
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_Speed,速度,Speed,Tốc Độ
-lang_multi_text.db,MultiText,MotorBike_MotorStatus_Title,摩托性能,Motorbike Specs,Hiệu Năng Xe
-lang_multi_text.db,MultiText,MotorBike_RewardDetail_Desc,通过提升摩托开发等级，总共可获得以下奖励。,Increase Modding Level to obtain the following rewards,Nâng cấp phát triển xe máy để nhận được tổng cộng các phần thưởng sau.
-lang_multi_text.db,MultiText,MotorBike_RewardDetail_Title,奖励详情,Rewards,Chi Tiết Phần Thưởng
-lang_multi_text.db,MultiText,MotorBike_RewardStatus_Collect,领取,Claim,Nhận
-lang_multi_text.db,MultiText,MotorBike_RewardStatus_Collected,已领取,Claimed,Đã nhận
-lang_multi_text.db,MultiText,MotorBike_RewardStatus_NotAvailable,未达到当前等级,Conditions not met,Chưa đạt cấp yêu cầu
-lang_multi_text.db,MultiText,MotorBike_Shop_CloseButton,关闭,Close,Đóng
-lang_multi_text.db,MultiText,MotorBike_Shop_EquipButton,应用,Apply,Áp dụng
-lang_multi_text.db,MultiText,MotorBike_Status_Speed_Lv,Lv.{0},Lv. {0},Lv. {0}
-lang_multi_text.db,MultiText,MotorBike_Status_Speed_LvUp,Lv.{0}->Lv.{1},Lv. {0} -> Lv. {1},Lv. {0} -> Lv. {1}
-lang_multi_text.db,MultiText,MotorBike_Suffix_BoostConsumeRate,/秒,/s,/giây
-lang_multi_text.db,MultiText,MotorBike_Suffix_BoostCoolDown,秒,s,giây
-lang_multi_text.db,MultiText,MotorBike_Suffix_BoostRecoverRate,/秒,/s,/giây
-lang_multi_text.db,MultiText,MotorBike_Suffix_ShieldCoolDown,秒,s,giây
-lang_multi_text.db,MultiText,MotorBike_Suffix_ShieldRecoverRate,/秒,/s,/giây
-lang_multi_text.db,MultiText,MotorBike_TechCube_Collect,领取,Claim,Nhận
-lang_multi_text.db,MultiText,MotorBike_TechCube_CollectStatus,改装点数获取进度,Modding Points Progress,Tiến độ nhận điểm nâng cấp
-lang_multi_text.db,MultiText,MotorBike_TechCube_CurrentAvailable,当前可用：{0},Currently Available: {0},Hiện có: {0}
-lang_multi_text.db,MultiText,MotorBike_TechCube_Go,前往,Go,Đi đến
-lang_multi_text.db,MultiText,MotorBike_TechCube_Ongoing,进行中,In progress,Đang thực hiện
-lang_multi_text.db,MultiText,MotorBike_TechCube_RepeatStatus,重复：{0}/{1},Duplicates: {0}/{1},Trùng lặp: {0}/{1}
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301001,获取科考摩托驾驶权限,Obtain the expedition motorbike vehicle permit,Nhận quyền lái xe mô tô khảo sát
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301002,完成潮汐任务「冰原下的星炬」,"Complete Main Quest ""What Burns Beneath Frostlands""","Hoàn thành nhiệm vụ Triều Tịch ""Ngọn Lửa Dưới Băng Nguyên"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301003,完成潮汐任务「致第二次日出」,"Complete Main Quest ""Ode to the Second Sunrise""","Hoàn thành nhiệm vụ Triều Tịch ""Gửi Đến Bình Minh Thứ Hai"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301004,解锁拉海洛地区所有信标,Activate all Resonance Beacons in Lahai-Roi,Mở khóa tất cả tín hiệu ở khu vực Lahai-Roi
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301005,在活动「开辟测界之路」完成深空测界台重建工程,"Completely rebuild the Spacetrek Observatory in ""Operation: Frontier Renewal""","Hoàn thành tái thiết Đài Quan Trắc Thâm Không trong sự kiện ""Khai Phá Con Đường Quan Trắc"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301006,在活动「荣耀之丘：激斗重燃」中，赛程积分等级达到8级,"Reach Rank Level 8 in ""Peaks of Prestige: Rekindled Duel""","Đạt cấp tích điểm 8 trong sự kiện ""Đồi Vinh Quang: Kịch Chiến Tái Bùng"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301007,解锁拉海洛地区任意3个中枢信标,Unlock any 3 Resonance Nexus in Lahai-Roi,Mở khóa 3 tín hiệu trung tâm bất kỳ ở khu vực Lahai-Roi
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301008,拉海洛地区任意3个地块探索度达到25%,Reach 25% Exploration Progress in any 3 areas in Lahai-Roi,Đạt 25% tiến độ khám phá ở 3 khu vực bất kỳ tại Lahai-Roi
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301009,拉海洛地区任意6个地块探索度达到25%,Reach 25% Exploration Progress in any 6 areas in Lahai-Roi,Đạt 25% tiến độ khám phá ở 6 khu vực bất kỳ tại Lahai-Roi
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301010,拉海洛地区任意6个地块探索度达到50%,Reach 50% Exploration Progress in any 6 areas in Lahai-Roi,Đạt 50% tiến độ khám phá ở 6 khu vực bất kỳ tại Lahai-Roi
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_301011,拉海洛地区任意9个地块探索度达到50%,Reach 50% Exploration Progress in any 9 areas in Lahai-Roi,Đạt 50% tiến độ khám phá ở 9 khu vực bất kỳ tại Lahai-Roi
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_302001,在活动「开辟测界之路」达成阶段Ⅱ：悬台工程,"Complete the Platform Phase of ""Operation: Frontier Renewal""","Đạt giai đoạn II: Công Trình Đài Treo trong sự kiện ""Khai Phá Con Đường Quan Trắc"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_302002,在活动「荣耀之丘：激斗重燃」中，赛程积分等级达到4级,"Reach Rank Level 4 in ""Peaks of Prestige: Rekindled Duel""","Đạt cấp tích điểm 4 trong sự kiện ""Đồi Vinh Quang: Kịch Chiến Tái Bùng"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_302003,在活动「矩阵叠兵·先行版」稳态协议中积分达到10000分,"Reach 10,000 points in the Stability Accords in ""Doubled Pawns Matrix: Pilot""","Đạt 10000 điểm trong Giao Thức Ổn Định của sự kiện ""Ma Trận Xếp Quân - Phiên Bản Tiên Phong"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_303001,累计获得1000活跃度,"Obtain 1,000 Activity Points in Total",Tích lũy đạt 1000 điểm hoạt động
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311001,在活动「荣耀之丘·激斗重燃」中，赛程积分等级达到15级,"Reach Rank Level 15 in ""Peaks of Prestige: Rekindled Duel""","Đạt cấp tích điểm 15 trong sự kiện ""Đồi Vinh Quang: Kịch Chiến Tái Bùng"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311002,完成危行任务「冰与铁之歌」,"Complete Exploration Quest ""The Song of Ice and Steel""","Hoàn thành nhiệm vụ Nguy Hành ""Bài Ca Băng Và Thép"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311003,完成纪闻任务「冲破寒冰之镜」,"Complete Side Quest ""Fracture the Frozen Mirror""","Hoàn thành nhiệm vụ Ký Văn ""Phá Vỡ Tấm Gương Băng"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311004,罗伊冰原3个地块探索度达到25%,Reach 25% Exploration Progress in 3 areas of the Roya Frostlands,Đạt 25% tiến độ khám phá ở 3 khu vực thuộc Băng Nguyên Roya
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311005,罗伊冰原3个地块探索度达到50%,Reach 50% Exploration Progress in 3 areas of the Roya Frostlands,Đạt 50% tiến độ khám phá ở 3 khu vực thuộc Băng Nguyên Roya
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311006,罗伊冰原3个地块探索度达到50%,Reach 50% Exploration Progress in 3 areas of the Roya Frostlands,Đạt 50% tiến độ khám phá ở 3 khu vực thuộc Băng Nguyên Roya
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311007,获得科考摩托的凝冰疾行能力,Unlock Glacier Track for the expedition motorbike,Mở khóa khả năng Lướt Băng cho mô tô khảo sát
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311008,完成潮汐任务「远航星」,"Complete Main Quest ""The Star That Voyages Far”","Hoàn thành nhiệm vụ Triều Tịch ""Ngôi Sao Viễn Hành"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_311009,完成潮汐续闻「日光落处」,"Complete Afterstory ""All That Sunlight Touches""","Hoàn thành Triều Tịch Tục Văn ""Nơi Ánh Nắng Rơi Xuống"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312001,在活动「矩阵叠兵·先行版」稳态协议中积分达到10000分,"Reach 10,000 points in the Stability Accords in ""Doubled Pawns Matrix: Pilot""","Đạt 10000 điểm trong Giao Thức Ổn Định của sự kiện ""Ma Trận Xếp Quân - Phiên Bản Tiên Phong"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312002,在活动「银河倾落之间」中聚乐值阶段达到6,"Reach Vibe Level 6 in ""Where Stars Cascade Down""","Đạt cấp vui chơi 6 trong sự kiện ""Nơi Ngân Hà Đổ Xuống"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312003,在活动「银河倾落之间」中聚乐值阶段达到9,"Reach Vibe Level 9 in ""Where Stars Cascade Down""","Đạt cấp vui chơi 9 trong sự kiện ""Nơi Ngân Hà Đổ Xuống"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312004,通关「奔驰！箭速与激情！」活动精英赛第1关,"Pass Elite Track 1 in ""Full Throttle! Bolt & Blitz!""","Vượt qua ải 1 giải Tinh Anh trong sự kiện ""Lao Đi! Tốc Độ Và Đam Mê!"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312005,通关「奔驰！箭速与激情！」活动精英赛第2关,"Pass Elite Track 2 in ""Full Throttle! Bolt & Blitz!""","Vượt qua ải 2 giải Tinh Anh trong sự kiện ""Lao Đi! Tốc Độ Và Đam Mê!"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_312006,在活动「平息！慌乱的迁徙！」中，通关慌乱的迁徙·VII（简单）,"Pass Migration Mayhem VII (Normal) in ""Rein Back! Migration Mayhem!""","Vượt qua Cuộc Di Cư Hoảng Loạn VII (Dễ) trong sự kiện ""Bình Ổn! Cuộc Di Cư Hoảng Loạn!"""
-lang_multi_text.db,MultiText,MotorBike_TechCube_Task_313001,累计获得1000活跃度,"Obtain 1,000 Activity Points in total",Tích lũy đạt 1000 điểm hoạt động
-lang_multi_text.db,MultiText,MotorBike_TechCube_Title,摩托改装任务,Motorbike Modding Tasks,Nhiệm vụ nâng cấp mô tô
-lang_multi_text.db,MultiText,MotorBike_TechTag_Combat,作战模块,Combat Module,Mô-đun chiến đấu
-lang_multi_text.db,MultiText,MotorBike_TechTag_Explore,探索模块,Exploration Modules,Mô-đun khám phá
-lang_multi_text.db,MultiText,MotorBike_TechTag_MotorStatus,核心模块,Core Module,Mô-đun lõi
-lang_multi_text.db,MultiText,MotorBike_TechTree_10000_Name,对虚策略,Antivoid Tactics,Chiến thuật chống Hư Không
-lang_multi_text.db,MultiText,MotorBike_TechTree_100010_Desc,专注模式持续时间延长15秒。,Extends Split-Second Mode by 15s.,Thời gian duy trì Chế Độ Tập Trung tăng thêm 15 giây.
-lang_multi_text.db,MultiText,MotorBike_TechTree_10001_Desc,专注模式持续时间延长。,Extends Split-Second Mode.,Thời gian duy trì Chế Độ Tập Trung được kéo dài.
-lang_multi_text.db,MultiText,MotorBike_TechTree_10001_Hint,累计获得5个对虚改装点数,Obtain 5 Antivoid Modding Points in total,Tích lũy đạt 5 điểm nâng cấp chống Hư Không
-lang_multi_text.db,MultiText,MotorBike_TechTree_10001_LevelUpPreview,"模块升级后：
-专注模式持续时间延长15秒。","Upgrade Effect:
-Extends Split-Second Mode by 15s.","Sau khi nâng cấp mô-đun:
-Thời gian duy trì Chế Độ Tập Trung tăng thêm 15 giây."
-lang_multi_text.db,MultiText,MotorBike_TechTree_10001_Name,专注模式,Split-Second Mode,Chế Độ Tập Trung
-lang_multi_text.db,MultiText,MotorBike_TechTree_100020_Desc,使用海豚跳后，可额外进行一次梭形冲刺。,Allows for an additional Hop Dash after a Bounce Jump.,"Sau khi dùng Nhảy Cá Heo, có thể thực hiện thêm một lần Lao Thoi."
-lang_multi_text.db,MultiText,MotorBike_TechTree_10002_Desc,可额外进行一次梭形冲刺。,Allows for an additional Hop Dash.,Có thể thực hiện thêm một lần Lao Thoi.
-lang_multi_text.db,MultiText,MotorBike_TechTree_10002_Hint,累计获得9个对虚改装点数,Obtain 9 Antivoid Modding Points in total,Tích lũy đạt 9 điểm nâng cấp chống Hư Không
-lang_multi_text.db,MultiText,MotorBike_TechTree_10002_LevelUpPreview,"模块升级后：
-使用海豚跳后，可额外进行一次梭形冲刺。","Upgrade Effect:
-Allows for an additional Hop Dash after a Bounce Jump.","Sau khi nâng cấp mô-đun:
-Sau khi dùng Nhảy Cá Heo, có thể thực hiện thêm một lần Lao Thoi."
-lang_multi_text.db,MultiText,MotorBike_TechTree_10002_Name,矢量推进,Vectored Thrust,Đẩy Véc-tơ
-lang_multi_text.db,MultiText,MotorBike_TechTree_100030_Desc,拉海洛地区的声骸掉落概率提升。,Increases the Echo drop rate in Lahai-Roi.,Tăng tỷ lệ rơi Thanh Hài ở khu vực Lahai-Roi.
-lang_multi_text.db,MultiText,MotorBike_TechTree_10003_Desc,拉海洛地区的声骸掉落概率提升。,Increases the Echo drop rate in Lahai-Roi.,Tăng tỷ lệ rơi Thanh Hài ở khu vực Lahai-Roi.
-lang_multi_text.db,MultiText,MotorBike_TechTree_10003_Hint,累计获得12个对虚改装点数,Obtain 12 Antivoid Modding Points in total,Tích lũy đạt 12 điểm nâng cấp chống Hư Không
-lang_multi_text.db,MultiText,MotorBike_TechTree_10003_LevelUpPreview,"模块升级后：
-拉海洛地区的声骸掉落概率提升。","Upgrade Effect:
-Increases the Echo drop rate in Lahai-Roi.","Sau khi nâng cấp mô-đun:
-Tăng tỷ lệ rơi Thanh Hài ở khu vực Lahai-Roi."
-lang_multi_text.db,MultiText,MotorBike_TechTree_10003_Name,声态扫描,Ecoacoustics Scan,Quét Sóng Âm
-lang_multi_text.db,MultiText,MotorBike_TechTree_110000_Desc,退出骑乘状态，并对范围内的目标造成摩托1200%攻击的物理伤害，使目标偏谐值小幅增加，冷却10秒。,Dismount the motorbike and deal DMG equal to 1200% of the motorbike's ATK to targets within range while also slightly raising the targets' Off-Tune Level. Cooldown: 10s.,"Rời trạng thái cưỡi xe, gây sát thương vật lý bằng 1200% tấn công của mô tô lên mục tiêu trong phạm vi, tăng nhẹ giá trị lệch hài của mục tiêu, hồi chiêu 10 giây."
-lang_multi_text.db,MultiText,MotorBike_TechTree_110001_Desc,退出骑乘状态，并对范围内的目标造成摩托1600%攻击的物理伤害，使目标偏谐值中小幅增加，冷却10秒。,Dismount the motorbike and deal DMG equal to 1600% of the motorbike's ATK to targets within range while also moderately raising the targets' Off-Tune Level. Cooldown: 10s.,"Rời trạng thái cưỡi xe, gây sát thương vật lý bằng 1600% tấn công của mô tô lên mục tiêu trong phạm vi, tăng vừa phải giá trị lệch hài của mục tiêu, hồi chiêu 10 giây."
-lang_multi_text.db,MultiText,MotorBike_TechTree_110002_Desc,退出骑乘状态，并对范围内的目标造成摩托2000%攻击的物理伤害，使目标偏谐值中幅增加，冷却10秒。,Dismount the motorbike and deal DMG equal to 2000% of the motorbike's ATK to targets within range while also moderately raising the targets' Off-Tune Level. Cooldown: 10s.,"Rời trạng thái cưỡi xe, gây sát thương vật lý bằng 2000% tấn công của mô tô lên mục tiêu trong phạm vi, tăng đáng kể giá trị lệch hài của mục tiêu, hồi chiêu 10 giây."
-lang_multi_text.db,MultiText,MotorBike_TechTree_11000_Desc,退出骑乘状态，并对范围内目标造成伤害。,Dismount the motorbike and deal damage to targets within range.,"Rời trạng thái cưỡi xe, gây sát thương lên mục tiêu trong phạm vi."
+lang_multi_text.db,MultiText,Morale_flagbuff4_1,共鸣技能冷却时间减少50%。,Resonance Skill Cooldown is reduced by 50%.,Giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng.
+lang_multi_text.db,MultiText,Morale_flagbuff5_0,辉光,Luster,Huy Quang
+lang_multi_text.db,MultiText,Morale_flagbuff5_1,共鸣解放冷却时间减少50%。,Resonance Liberation Cooldown is reduced by 50%.,Giảm 50% thời gian hồi chiêu Giải Phóng Cộng Hưởng.
+lang_multi_text.db,MultiText,Morale_flagbuff6_0,蓄势,Momentum,Súc Thế
+lang_multi_text.db,MultiText,Morale_flagbuff6_1,变奏技能命中目标时回复25点协奏能量，20秒可触发1次。,"Hitting a target with Intro Skill recovers 25 Concerto Energy, triggered once every 20s.","Khi Kỹ Năng Biến Tấu trúng mục tiêu, hồi phục 25 điểm Năng Lượng Hiệp Tấu, 20 giây kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Morale_flagbuff7_0,效率,Efficiency,Hiệu Suất
+lang_multi_text.db,MultiText,Morale_flagbuff7_1,「临场点」获取效率提升50%。,Battle Engagement Points gained are increased by 50%.,"Hiệu suất nhận ""Điểm Lâm Trận"" tăng 50%."
+lang_multi_text.db,MultiText,Morale_flagbuff8_0,强健,Robustness,Cường Kiện
+lang_multi_text.db,MultiText,Morale_flagbuff8_1,耐力固定为上限的100%。,STA is fixed at 100% of the max limit.,Thể Lực cố định ở mức 100% giới hạn.
+lang_multi_text.db,MultiText,Morale_flagbuff9_0,再袭,Resurgence,Tái Kích
+lang_multi_text.db,MultiText,Morale_flagbuff9_1,施放共鸣解放时，回复50点共鸣能量，每5秒可触发1次。,"Casting Resonance Liberation recovers 50 Resonance Energy, triggered once every 5s.","Khi thi triển Giải Phóng Cộng Hưởng, hồi phục 50 điểm Năng Lượng Cộng Hưởng, mỗi 5 giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,Morale_flagdesc_1,"该区域敌人<color=Thunder>导电伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3> 破碎的遗迹彩窗构筑而成的人形拟态残象，一举一动皆能折射出令人目眩神迷的光芒，散发着破而后立的坚毅之美。
+构成琉璃刀伶的彩窗千扇千面、各有成色，使得每一个刀伶都成为了独一无二的存在。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Thunder>Electro DMG</color>.
+
+<color=#9a9da3> A humanoid Tacet Discord with a body assembled from shattered stained glass. Glittering lights beam from its body with each move. It exudes a resilient beauty born of rebirth through destruction.
+The stained glasses that form the Vitreum Dancers are varied and unique, making each Vitreum Dancer a unique existence.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Thunder>Sát Thương Điện Từ</color> cao.
+
+<color=#9a9da3> Tàn Tượng mô phỏng hình người được cấu tạo từ những mảnh kính màu vỡ nát của di tích, mỗi cử động đều phản chiếu ánh sáng mê hoặc, tỏa ra vẻ đẹp kiên nghị của sự tái sinh sau đổ nát.
+Những mảnh kính màu cấu tạo nên Vũ Công Thủy Tinh có muôn hình vạn trạng, màu sắc riêng biệt, khiến mỗi Vũ Công đều trở thành sự tồn tại độc nhất vô nhị.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_10,"该区域敌人<color=Thunder>导电伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>装束华贵，手执利刃的人形拟态残象，拥有与传说相匹的强大战力。
+据说是昔日英雄们的影子，曾被目击到为守护村民而斩杀其他残象，实质上只是本能地向往决斗。
+虽然失去了心，但依然不愿放下荣耀，孤独地在世界各处徘徊。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Thunder>Electro DMG</color>.
+
+<color=#9a9da3>A humanoid Tacet Discord clad in fine attire, wielding a sharp blade and extraordinary might existing only in legends.
+Said to be the lost souls of fallen heroes, it was once witnessed slaying other Tacet Discords to protect villagers. Yet such acts were driven purely by an instinctual hunger for battle.
+Though it has lost its heart, it stubbornly clings to the vestiges of past honor, wandering the world in solitary defiance.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Thunder>Sát Thương Điện Từ</color> cao.
+
+<color=#9a9da3>Tàn Tượng mô phỏng hình người mặc trang phục hoa lệ, tay cầm lưỡi sắc, sở hữu chiến lực mạnh mẽ ngang tầm truyền thuyết.
+Nghe nói là cái bóng của những anh hùng ngày xưa, từng được nhìn thấy khi chém giết Tàn Tượng khác để bảo vệ dân làng, nhưng thực chất chỉ là bản năng khao khát quyết đấu.
+Tuy đã mất đi trái tim, nhưng vẫn không nguyện buông bỏ vinh quang, cô độc lang thang khắp thế gian.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_11,"该区域敌人<color=Fire>热熔伤害</color><color=HighlightB>抗性提高</color>。
+盖希诺姆每秒可对周围目标造成目标4%最大生命值的热熔伤害。
+盖希诺姆攻击命中目标时，延长目标5秒共鸣技能、共鸣解放的冷却时间，每5秒可触发1次。
+
+<color=#9a9da3>不知为何栖息在悲叹墓岛岛首，无差别吞噬一切频率的龙形残象。因吸收了大量关乎衰败与死亡的频率，最终化为了如骨架般可怖的模样。
+昔日神圣的祭礼地，也因之成为凄苦悲恸的坟茔。救赎之道不在此处，凡进入者，当领受审判的火，接受它的定夺。
+盖希诺姆，它的火焰焚毁生灵，它的苦痛深入骨髓，它的灵魂仍在渴望解脱。</color>","The enemy has a <color=HighlightB>higher RES</color> against <color=Fire>Fusion DMG</color>.
+Gehinom deals Fusion DMG equal to 4% of the targets' Max HP per second to the surrounding targets.
+When Gehinom hits a target, the target's Resonance Skill and Resonance Liberation's cooldown is extended by 5s, triggered once every 5s.
+
+<color=#9a9da3>A dragon-like Tacet Discord that haunts the peak of Penitent's End for an unknown reason, devouring all frequencies indiscriminately. Twisted by the frequencies of decay and death it consumes, it now appears as a dreadful, skeletal beast.
+Once a sacred place, this island is now a grave of sorrow, and anyone who comes for redemption must face its fire of judgment.
+Such is Gehinom, the Dragon of Dirge, whose flames burn to the bone, whose pain echoes, yearning for a final release.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Fire>Sát Thương Hỏa Liệt</color> cao.
+Gehinom mỗi giây gây Sát Thương Hỏa Liệt bằng 4% HP tối đa của mục tiêu cho các mục tiêu xung quanh.
+Khi đòn tấn công của Gehinom trúng mục tiêu, kéo dài thời gian hồi chiêu Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng của mục tiêu thêm 5 giây, mỗi 5 giây kích hoạt 1 lần.
+
+<color=#9a9da3>Không biết vì sao lại trú ngụ ở đầu Đảo Mộ Bi Thán, Tàn Tượng hình rồng nuốt chửng mọi tần số một cách bừa bãi. Do hấp thụ lượng lớn tần số liên quan đến sự suy tàn và cái chết, cuối cùng hóa thành hình dạng bộ xương đáng sợ.
+Nơi tế lễ thần thánh ngày xưa, cũng vì thế mà trở thành nấm mồ thê lương bi thống. Con đường cứu rỗi không nằm ở đây, phàm là kẻ bước vào, đều phải chịu ngọn lửa phán xét, chấp nhận sự định đoạt của nó.
+Gehinom, ngọn lửa của nó thiêu rụi sinh linh, nỗi đau của nó thấu tận xương tủy, linh hồn của nó vẫn đang khao khát giải thoát.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_12,"该区域敌人<color=Wind>气动伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+羽冠角斗家忠于自由的意志：不为陈规所囿，不为名利所困，愿以身作斩断束缚的自由之刃。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Wind>Aero DMG</color>.
+
+<color=#9a9da3>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Galecrest Gladiators follow the will of freedom. Bound by neither rule nor glory, they become the blade that severs all chains.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Wind>Sát Thương Khí Động</color> cao.
+
+<color=#9a9da3>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Lông trung thành với ý chí tự do: không bị trói buộc bởi lề thói cũ, không bị vây hãm bởi danh lợi, nguyện dùng thân mình làm lưỡi dao tự do chém đứt mọi ràng buộc.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_13,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>象征解构与重构的拟态石雕残象，动作笨重而迟缓，但拳力惊人，
+能远距离投掷岩石与幼岩，并以此作为进攻手段之一。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Light>Spectro DMG</color>.
+
+<color=#9a9da3>A stone statue TD that embodies deconstruction and reconstruction. Though sluggish and clumsy, its punches are devastating.
+It hurls rocks and other rock-mimic Tacet Discords as a means of attack.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Light>Sát Thương Quang Phổ</color> cao.
+
+<color=#9a9da3>Tàn Tượng điêu khắc đá mô phỏng tượng trưng cho sự giải cấu trúc và tái cấu trúc, động tác nặng nề chậm chạp nhưng lực đấm kinh người,
+có thể ném đá tảng và đá nhỏ từ xa, dùng đó làm một trong những thủ đoạn tấn công.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_14,"该区域敌人<color=Dark>湮灭伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>装束华贵，手执利刃的人形拟态残象，只会在暗月的清辉下现身。
+据说是昔日英雄们的影子，即便身为残象，却还是保留着优雅的举止。
+身为骑士，早已忘却了被授予的名讳；失去了守护之物，空余对荣耀的偏执。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Dark>Havoc DMG</color>.
+
+<color=#9a9da3>A humanoid Tacet Discord clad in fine attire, wielding a sharp blade. Seen only in the pale glow of the moon.
+Said to be the lingering shadows of heroes in the old days, their kind retains a chivalrous demeanor even as they decay into TDs.
+Glorious knights who have long forgotten their titles. Protectors with nothing to defend, bound by their relentless obsession with honor.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Dark>Sát Thương Hủy Diệt</color> cao.
+
+<color=#9a9da3>Tàn Tượng mô phỏng hình người mặc trang phục hoa lệ, tay cầm lưỡi sắc, chỉ hiện thân dưới ánh trăng mờ ảo.
+Nghe nói là cái bóng của những anh hùng ngày xưa, dù thân là Tàn Tượng nhưng vẫn giữ được cử chỉ tao nhã.
+Thân là kỵ sĩ, đã sớm quên mất danh xưng được ban tặng; mất đi vật bảo vệ, chỉ còn lại sự cố chấp với vinh quang.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_15,"该区域敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>游鳞机枢由「角」体表分布的防御模块构筑而成，也就是通常认知上的「龙鳞」。
+游鳞机枢分布于乘霄山各个稷廷遗迹内，以肃清所有擅闯禁区、可能威胁到「角」的来者。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Ice>Glacio DMG</color>.
+
+<color=#9a9da3>Lumiscale Constructs are composed of Jué's defensive modules, commonly known as ""Loong's Scales.""
+They are found throughout the Court of Savantae ruins in Mt. Firmament, tasked with eliminating intruders and potential threats to Jué.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Ice>Sát Thương Ngưng Băng</color> cao.
+
+<color=#9a9da3>Du Lân Cơ Xu được cấu tạo từ các mô-đun phòng thủ phân bố trên cơ thể của ""Giác"", hay còn được gọi là ""Vảy Rồng"" theo nhận thức thông thường.
+Du Lân Cơ Xu phân bố khắp các di tích Tắc Đình trên núi Thừa Tiêu, nhằm thanh trừng tất cả những kẻ xâm nhập trái phép vào khu vực cấm, có khả năng đe dọa đến ""Giác"".</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_16,"该区域敌人<color=Dark>湮灭伤害</color><color=HighlightB>抗性提高</color>。
+罗蕾莱持有光噪时，自身受到的伤害提升100%。
+罗蕾莱攻击命中目标时，延长目标5秒共鸣技能、共鸣解放的冷却时间，每5秒可触发1次。
+
+<color=#9a9da3>本是云海万千回音生物中的一只，因岁主英白拉多的神力而获得灵智，肩负着吸收与净化云海中污染频率的职责。
+如今，日益膨胀的恶欲逐渐侵蚀了罗蕾莱，使其显现出「夜之女皇」的姿态：所有罪孽皆当以鲜血偿赎，她要降下无边的夜幕，倾覆整片云海，直至淹没所有罪恶。
+罗蕾莱用最后的理智将自己封印在庭院之中，终日低吟着哀伤的歌谣，等待有来者能够将她真正唤醒。</color>","The enemy has a <color=HighlightB>higher RES</color> against <color=Dark>Havoc DMG</color>.
+When inflicted with Spectro Frazzle, Lorelei takes 100% more damage.
+When Lorelei hits a target, the target's Resonance Skill and Resonance Liberation's cooldown is extended by 5s, triggered once every 5s.
+
+<color=#9a9da3>Once a remnant creature in Nimbus Sanctum, Lorelei gained intelligence through Sentinel Imperator's power, entrusted to purify corrupted frequencies drifting in the clouds.
+Yet wicked desires have transformed her into the ""Queen of the Night,"" seeking to cloak the Sanctum in endless darkness to clear all sins.
+With her final grasp on reason, Lorelei sealed herself within the atrium, where she sings a haunting lament, awaiting one who can awaken her from this dismal slumber.</color>","Kẻ địch trong khu vực này <color=HighlightB>tăng Kháng</color> <color=Dark>Sát Thương Hủy Diệt</color>.
+Khi Lorelei chịu hiệu ứng Quang Nhiễu, sát thương bản thân phải chịu tăng 100%.
+Khi Lorelei tấn công trúng mục tiêu, kéo dài thời gian hồi chiêu Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng của mục tiêu thêm 5 giây, mỗi 5 giây kích hoạt 1 lần.
+
+<color=#9a9da3>Vốn là một trong muôn vàn sinh vật dội âm nơi biển mây, nhờ thần lực của Tuế Chủ Imperator mà có được linh trí, gánh vác trọng trách hấp thụ và thanh tẩy tần số ô nhiễm trong biển mây.
+Ngày nay, ác dục ngày càng bành trướng đã dần xâm chiếm Lorelei, khiến cô hiện ra tư thái của ""Nữ Hoàng Bóng Đêm"": Mọi tội lỗi đều phải trả giá bằng máu tươi, cô muốn giáng xuống màn đêm vô tận, lật đổ cả biển mây, cho đến khi nhấn chìm mọi tội ác.
+Lorelei dùng chút lý trí cuối cùng phong ấn bản thân trong đình viện, suốt ngày ngâm nga những khúc ca bi thương, chờ đợi có người đến thực sự đánh thức cô.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_17,"该区域敌人<color=Fire>热熔伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+炽冠角斗家忠于永燃的战意：以伤痕作烈火，以磨难作锻炉，浴血而战即是归于本真的淬炼。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Fire>Fusion DMG</color>.
+
+<color=#9a9da3>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Flamecrest Gladiators embody a warrior's undying passion. Wounds become fire, hardship their forge. Battle after battle, they chase a blood-lit path to their truest form.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Fire>Sát Thương Hỏa Liệt</color> cao.
+
+<color=#9a9da3>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Lửa trung thành với chiến ý rực cháy mãi mãi: lấy vết thương làm lửa liệt, lấy gian nan làm lò rèn, chiến đấu tắm máu chính là sự tôi luyện để trở về với bản chân.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_18,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>装束华贵，手执利刃的人形拟态残象，只会在白日的光辉中现身。
+据说是昔日英雄们的影子，即便身为残象，却还是保留着威严的举止。
+身为骑士，早已忘却了被授予的名讳；失去了守护之物，空余对荣耀的偏执。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Light>Spectro DMG</color>.
+
+<color=#9a9da3>A humanoid Tacet Discord clad in fine attire, wielding a sharp blade. Seen only in the radiance of the sun.
+Said to be the lost souls of fallen heroes, it retains an air of commanding dignity, even as a Tacet Discord.
+Once a knight who has long forgotten the title they once bore, it has lost all it was sworn to protect. Now, only an unyielding obsession with honor remains.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Light>Sát Thương Quang Phổ</color> cao.
+
+<color=#9a9da3>Tàn Tượng mô phỏng hình người mặc trang phục hoa lệ, tay cầm lưỡi sắc, chỉ hiện thân dưới ánh mặt trời rực rỡ.
+Nghe nói là cái bóng của những anh hùng ngày xưa, dù thân là Tàn Tượng nhưng vẫn giữ được cử chỉ uy nghiêm.
+Thân là kỵ sĩ, đã sớm quên mất danh xưng được ban tặng; mất đi vật bảo vệ, chỉ còn lại sự cố chấp với vinh quang.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_19,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>大型猫科拟态残象，瑝珑境内仅在乘霄山当地存有目击报告。
+虹镇镇志有云：......生性孤僻，喜独居......四爪、脊背被鳞......踵迹留明，山人谓之踏光。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Light>Spectro DMG</color>.
+
+<color=#9a9da3>An enormous feline-mimic TD, only sighted in Mt. Firmament in Huanglong.
+According to the Hongzhen Chronicle, it is a solitary TD with four claws and a scaly back. It is called ""Lightcrusher"" because of the glowing tracks left in its wake.</color>","Kẻ địch trong khu vực này <color=HighlightB>tăng Kháng</color> <color=Light>Sát Thương Quang Phổ</color>.
+
+<color=#9a9da3>Tàn Tượng mô phỏng loài mèo cỡ lớn, trong lãnh thổ Hoàng Long chỉ có báo cáo nhìn thấy tại núi Thừa Tiêu.
+Trấn chí Hồng Trấn có ghi: ...tính tình cô độc, thích sống một mình... bốn vuốt, sống lưng có vảy... dấu chân để lại ánh sáng, người miền núi gọi là Đạp Quang.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_2,"该区域敌人<color=Wind>气动伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3> 蜥鳄拟态残象，拥有不俗的两栖作战能力，因其体表布满硬棘尖刺，得名「角鳄」。
+角鳄并非七丘本土的残象，因其独特的外观与活跃的攻击性，七丘引入其作为角斗士挑战对象，供角斗赛事使用。
+此外，角鳄强烈的领地意识使其被驯服为功能性声骸，以履行城防与守卫的职责。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Wind>Aero DMG</color>.
+
+<color=#9a9da3>Kerasaurs are amphibious Tacet Discords mimicking Saurosuchus. Fierce in battles, they are named for the rows of horns covering their bodies.
+Not native to Septimont, Kerasaurs were introduced as gladiatorial opponents in matches, prized for their distinct appearance and aggressive behavior.
+Their pronounced territorial instincts also make them suitable for training as functional Echoes, where they serve in roles such as city defense and patrol.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Wind>Sát Thương Khí Động</color> cao.
+
+<color=#9a9da3> Tàn Tượng mô phỏng Thằn Lằn Cá Sấu, sở hữu khả năng tác chiến lưỡng cư không tồi, vì cơ thể phủ đầy gai nhọn cứng nên có tên là ""Giác Ngạc"".
+Giác Ngạc không phải là Tàn Tượng bản địa của Thất Khâu, do vẻ ngoài độc đáo và tính hiếu chiến, Thất Khâu đã đưa nó vào làm đối tượng thách đấu cho các võ sĩ giác đấu, phục vụ cho các giải đấu.
+Ngoài ra, ý thức lãnh thổ mạnh mẽ của Giác Ngạc khiến nó được thuần hóa thành Thanh Hài chức năng, để thực hiện trách nhiệm phòng thủ thành phố và bảo vệ.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_20,"该区域敌人<color=Fire>热熔伤害</color><color=HighlightB>抗性提高</color>。
+亚狮诺索攻击命中目标扣除目标100%耐力，每10秒可触发一次
+亚狮诺索初始获得生命上限20%的护盾，未受到伤害超过10秒时，自身获得生命上限20%的护盾。
+亚狮诺索攻击命中目标时，延长目标5秒共鸣技能、共鸣解放的冷却时间，每5秒可触发1次。
+
+<color=#9a9da3>荣光之都的守护者，角斗场的女武神。
+它以石与声铸就而成，以英雄的嘶吼和大笑，以雕刻狮鹫英姿的洁白石料铸成。
+亚狮诺索将守护七丘的荣耀，直到永远。</color>","The enemy has a <color=HighlightB>higher RES</color> to <color=Fire>Fusion DMG</color>.
+When Arsinosa hits a target, the target's STA is reduced by 100%, triggered once every 10s.
+Upon entering the battle, Arsinosa gains a Shield equal to 20% of her Max HP. If she hasn't taken damage for over 10s, she gains a Shield equal to 20% of her Max HP.
+When Arsinosa hits a target, the target's Resonance Skill and Resonance Liberation's cooldown is extended by 5s, triggered once every 5s.
+
+<color=#9a9da3>She guards the City of Glory, a valiant lioness of the arena.
+Built with the pristine white stones that Gryphons are carved out of and tempered in the echoes of battle cries and the laughter of heroes.
+This is Arsinosa, ever steadfast, watching over Septimont’s glory for all time.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Fire>Sát Thương Hỏa Liệt</color> cao.
+Khi đòn tấn công của Arsinosa trúng mục tiêu sẽ trừ 100% Thể Lực của mục tiêu, mỗi 10 giây kích hoạt một lần.
+Arsinosa ban đầu nhận được khiên chắn bằng 20% HP tối đa, khi không chịu sát thương quá 10 giây, bản thân nhận được khiên chắn bằng 20% HP tối đa.
+Khi đòn tấn công của Arsinosa trúng mục tiêu, kéo dài thời gian hồi chiêu Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng của mục tiêu thêm 5 giây, mỗi 5 giây kích hoạt 1 lần.
+
+<color=#9a9da3>Người bảo vệ Đô Thành Vinh Quang, Valkyrie của đấu trường.
+Nó được đúc thành từ đá và âm thanh, từ tiếng gầm thét và tiếng cười lớn của anh hùng, từ vật liệu đá trắng tinh khiết điêu khắc dáng vẻ oai hùng của sư tử ưng.
+Arsinosa sẽ bảo vệ vinh quang của Thất Khâu, cho đến mãi mãi.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_3,"该区域敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性提高</color>。
+辉萤军势造成伤害时，对目标添加3层霜渐，该效果每6秒可触发1次。
+
+<color=#9a9da3>蛰居于寒冷矿洞中的诱捕者，痴迷于收集、模仿声音，能通过震颤的嗡鸣模仿人类的话语。
+辉萤军势以声为饵，将诱来的猎物冻毙于深寒之中。失温与弥留带来的幻觉，会让人类倾吐蕴含着巨大的感情波动的临终之语。
+对辉萤军势而言，这便是无上美味的频率。</color>","The enemy has a <color=HighlightB>higher RES</color> to <color=Ice>Glacio DMG</color>.
+ When Lampylumen Myriad deals damage, it inflicts 3 stacks of Glacio Chafe on the target, triggered once every 6s.
+ 
+ <color=#9a9da3>An ensnarer that slumbers in a freezing mine pit, obsessed with collecting and imitating sounds. It can imitate human speech through a vibrating hum.
+ Lampylumen Myriad uses sound as bait to lure its prey, which will be frozen in the deep cold. The loss of warmth and the illusion before dying will cause human beings to pour out their last words, which contain great emotional fluctuations.
+ For Lampylumen Myriad, this is the frequency of the supreme taste.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Ice>Sát Thương Ngưng Băng</color> cao.
+Khi Quân Đoàn Huy Huỳnh gây sát thương, thêm 3 tầng Sương Giá cho mục tiêu, hiệu quả này mỗi 6 giây kích hoạt 1 lần.
+
+<color=#9a9da3>Kẻ săn mồi ẩn náu trong hầm mỏ lạnh lẽo, si mê thu thập, bắt chước âm thanh, có thể thông qua tiếng vo ve rung động để bắt chước tiếng người.
+Quân Đoàn Huy Huỳnh dùng âm thanh làm mồi nhử, khiến con mồi bị dụ đến chết cóng trong cái lạnh thấu xương. Ảo giác do mất nhiệt và hấp hối mang lại, sẽ khiến con người thốt ra những lời trăn trối chứa đựng dao động cảm xúc to lớn.
+Đối với Quân Đoàn Huy Huỳnh, đây chính là tần số mỹ vị vô thượng.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_4,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+耀冠角斗家忠于公义的理想：不为贵胄低头，不为黑暗俯首。若公正已腐，则当以新光铸之。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Light>Spectro DMG</color>.
+
+<color=#9a9da3>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Lightcrest Gladiators uphold the ideal of justice. They bow to no tyrant, yield to no shadow. If justice has rotted, they shall forge it anew in light.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Light>Sát Thương Quang Phổ</color> cao.
+
+<color=#9a9da3>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Sáng trung thành với lý tưởng công nghĩa: không cúi đầu trước quyền quý, không khuất phục trước bóng tối. Nếu công chính đã mục nát, thì sẽ dùng ánh sáng mới để đúc lại.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_5,"该区域敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+凛冠角斗家忠于凛肃的傲骨：风霜摧不垮，苦寒压不倒。纵冰刃折戟，信条仍如初。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Ice>Glacio DMG</color>.
+
+<color=#9a9da3>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Frostcrest Gladiators bear unyielding resolve. Their fortitude is impervious to frost and bitter cold. Though blades may shatter, their creed endures.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Ice>Sát Thương Ngưng Băng</color> cao.
+
+<color=#9a9da3>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Lạnh trung thành với khí phách nghiêm nghị: sương gió không quật ngã, lạnh lẽo không đè bẹp. Dù băng đao gãy kích, tín điều vẫn như xưa.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_6,"该区域敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性</color>、<color=Wind>气动伤害</color><color=HighlightB>抗性提高</color>。
+凯尔匹被逆势回击时，共振度的削减程度提升50%。
+凯尔匹处于非瘫痪状态下时，所有属性的抗性提升200%。
+凯尔匹攻击命中目标时，延长目标5秒共鸣技能、共鸣解放的冷却时间，每5秒可触发1次。
+
+<color=#9a9da3>自深海中诞生的类人形残象，常活动于各类水域，以迅猛暴戾而著称。
+以爪击作为攻击手段，利用寄宿于指尖的毒素将猎物麻痹后再将其撕碎吞噬。</color>","The enemy has a <color=HighlightB>higher RES</color> against <color=Ice>Glacio DMG</color> and <color=Wind>Aero DMG</color>.
+Hitting Kelpie with Counterattack further reduces its Vibration Strength by 50%.
+When Kelpie is not Immobilized, its all Attribute RES is increased by 200%.
+When Kelpie hits a target, the target's Resonance Skill and Resonance Liberation's cooldown is extended by 5s, triggered once every 5s.
+
+<color=#9a9da3>A humanoid TD born from the deep sea. Commonly found in all types of waters, it's known for its aggression and ferocity.
+It attacks with sharp claws laced with paralytic toxins, then rips its prey apart and swallows them whole.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Ice>Sát Thương Ngưng Băng</color>, <color=HighlightB>Kháng</color> <color=Wind>Sát Thương Khí Động</color> cao.
+Khi Kelpie bị Phản Đòn, mức độ giảm Độ Rung tăng 50%.
+Khi Kelpie ở trạng thái không bị tê liệt, kháng tất cả thuộc tính tăng 200%.
+Khi đòn tấn công của Kelpie trúng mục tiêu, kéo dài thời gian hồi chiêu Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng của mục tiêu thêm 5 giây, mỗi 5 giây kích hoạt 1 lần.
+
+<color=#9a9da3>Tàn Tượng dạng người sinh ra từ biển sâu, thường hoạt động ở các loại vùng nước, nổi tiếng vì sự hung dữ tàn bạo.
+Dùng vuốt để tấn công, lợi dụng độc tố ký sinh ở đầu ngón tay làm tê liệt con mồi rồi xé xác nuốt chửng.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_7,"该区域敌人<color=Wind>气动伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3> 凶残的拟态熊类残象，头颈和肩臂覆盖着箭簇状的尖利黑石，其挥击的力量犹如飓风骤袭。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Wind>Aero DMG</color>.
+
+<color=#9a9da3>A ferocious bear-mimic TD with Tacetite spikes on its head, neck, and shoulders. Its swings strike like a hurricane.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Wind>Sát Thương Khí Động</color> cao.
+
+<color=#9a9da3> Tàn Tượng mô phỏng loài gấu hung tàn, đầu cổ và vai tay phủ đầy Hắc Thạch nhọn như mũi tên, sức mạnh cú tát của nó như cơn bão bất ngờ ập đến.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_8,"该区域敌人<color=Thunder>导电伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+雷冠角斗家忠于暴烈的威仪：不为私情偏倚，不为强权折腰，万钧雷槌之下，善恶终有分野。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Thunder>Electro DMG</color>.
+
+<color=#9a9da3>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Thundercrest Gladiators wield stormborne might. Unmoved by favor and unbowed by power. Beneath the thunder’s judgment, right and wrong divide.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Thunder>Sát Thương Điện Từ</color> cao.
+
+<color=#9a9da3>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Sấm trung thành với uy nghi bạo liệt: không thiên vị vì tư tình, không khom lưng trước cường quyền, dưới lôi chùy ngàn cân, thiện ác cuối cùng cũng phân minh.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_9,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#9a9da3> 拥有指挥调度其他节使的权限，遵从修会的指令对所有忤逆者进行清除。
+权威不可侵犯，修会不容质疑。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Light>Spectro DMG</color>.
+
+<color=#9a9da3>It holds the authority to command other Echoes of the Order, carrying out the Order's will to eliminate any transgressors.
+Just as the Order's authority is inviolable, so too is the power of the Echo.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Light>Sát Thương Quang Phổ</color> cao.
+
+<color=#9a9da3> Có quyền hạn chỉ huy điều động các sứ giả khác, tuân theo chỉ lệnh của Tu Hội tiến hành thanh trừng tất cả những kẻ ngỗ nghịch.
+Quyền uy không thể xâm phạm, Tu Hội không dung thứ sự nghi ngờ.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_1,"该区域敌人<color=Thunder>导电伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676> 破碎的遗迹彩窗构筑而成的人形拟态残象，一举一动皆能折射出令人目眩神迷的光芒，散发着破而后立的坚毅之美。
+构成琉璃刀伶的彩窗千扇千面、各有成色，使得每一个刀伶都成为了独一无二的存在。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Thunder>Electro DMG</color>.
+
+<color=#767676> A humanoid Tacet Discord with a body assembled from shattered stained glass. Glittering lights beam from its body with each move. It exudes a resilient beauty born of rebirth through destruction.
+The stained glasses that form the Vitreum Dancers are varied and unique, making each Vitreum Dancer a unique existence.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Thunder>Sát Thương Điện Từ</color> cao.
+
+<color=#767676> Tàn Tượng mô phỏng hình người được cấu tạo từ những mảnh kính màu vỡ nát của di tích, mỗi cử động đều phản chiếu ánh sáng mê hoặc, tỏa ra vẻ đẹp kiên nghị của sự tái sinh sau đổ nát.
+Những mảnh kính màu cấu tạo nên Vũ Công Thủy Tinh có muôn hình vạn trạng, màu sắc riêng biệt, khiến mỗi Vũ Công đều trở thành sự tồn tại độc nhất vô nhị.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_10,"该区域敌人<color=Thunder>导电伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>装束华贵，手执利刃的人形拟态残象，拥有与传说相匹的强大战力。
+据说是昔日英雄们的影子，曾被目击到为守护村民而斩杀其他残象，实质上只是本能地向往决斗。
+虽然失去了心，但依然不愿放下荣耀，孤独地在世界各处徘徊。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Thunder>Electro DMG</color>.
+
+<color=#767676>A humanoid Tacet Discord clad in fine attire, wielding a sharp blade and extraordinary might existing only in legends.
+Said to be the lost souls of fallen heroes, it was once witnessed slaying other Tacet Discords to protect villagers. Yet such acts were driven purely by an instinctual hunger for battle.
+Though it has lost its heart, it stubbornly clings to the vestiges of past honor, wandering the world in solitary defiance.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Thunder>Sát Thương Điện Từ</color> cao.
+
+<color=#767676>Tàn Tượng mô phỏng hình người mặc trang phục hoa lệ, tay cầm lưỡi sắc, sở hữu chiến lực mạnh mẽ ngang tầm truyền thuyết.
+Nghe nói là cái bóng của những anh hùng ngày xưa, từng được nhìn thấy khi chém giết Tàn Tượng khác để bảo vệ dân làng, nhưng thực chất chỉ là bản năng khao khát quyết đấu.
+Tuy đã mất đi trái tim, nhưng vẫn không nguyện buông bỏ vinh quang, cô độc lang thang khắp thế gian.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_11,"该区域敌人<color=Fire>热熔伤害</color><color=HighlightB>抗性提高</color>。
+盖希诺姆每秒可对周围目标造成目标4%最大生命值的热熔伤害。
+盖希诺姆攻击命中目标时，延长目标5秒共鸣技能、共鸣解放的冷却时间，每5秒可触发1次。
+
+<color=#767676>不知为何栖息在悲叹墓岛岛首，无差别吞噬一切频率的龙形残象。因吸收了大量关乎衰败与死亡的频率，最终化为了如骨架般可怖的模样。
+昔日神圣的祭礼地，也因之成为凄苦悲恸的坟茔。救赎之道不在此处，凡进入者，当领受审判的火，接受它的定夺。
+盖希诺姆，它的火焰焚毁生灵，它的苦痛深入骨髓，它的灵魂仍在渴望解脱。</color>","The enemy has a <color=HighlightB>higher RES</color> against <color=Fire>Fusion DMG</color>.
+Gehinom deals Fusion DMG equal to 4% of the targets' Max HP per second to the surrounding targets.
+When Gehinom hits a target, the target's Resonance Skill and Resonance Liberation's cooldown is extended by 5s, triggered once every 5s.
+
+<color=#767676>A dragon-like Tacet Discord that haunts the peak of Penitent's End for an unknown reason, devouring all frequencies indiscriminately. Twisted by the frequencies of decay and death it consumes, it now appears as a dreadful, skeletal beast.
+Once a sacred place, this island is now a grave of sorrow, and anyone who comes for redemption must face its fire of judgment.
+Such is Gehinom, the Dragon of Dirge, whose flames burn to the bone, whose pain echoes, yearning for a final release.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Fire>Sát Thương Hỏa Liệt</color> cao.
+Gehinom mỗi giây gây Sát Thương Hỏa Liệt bằng 4% HP tối đa của mục tiêu cho các mục tiêu xung quanh.
+Khi đòn tấn công của Gehinom trúng mục tiêu, kéo dài thời gian hồi chiêu Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng của mục tiêu thêm 5 giây, mỗi 5 giây kích hoạt 1 lần.
+
+<color=#767676>Không biết vì sao lại trú ngụ ở đầu Đảo Mộ Bi Thán, Tàn Tượng hình rồng nuốt chửng mọi tần số một cách bừa bãi. Do hấp thụ lượng lớn tần số liên quan đến sự suy tàn và cái chết, cuối cùng hóa thành hình dạng bộ xương đáng sợ.
+Nơi tế lễ thần thánh ngày xưa, cũng vì thế mà trở thành nấm mồ thê lương bi thống. Con đường cứu rỗi không nằm ở đây, phàm là kẻ bước vào, đều phải chịu ngọn lửa phán xét, chấp nhận sự định đoạt của nó.
+Gehinom, ngọn lửa của nó thiêu rụi sinh linh, nỗi đau của nó thấu tận xương tủy, linh hồn của nó vẫn đang khao khát giải thoát.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_12,"该区域敌人<color=Wind>气动伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+羽冠角斗家忠于自由的意志：不为陈规所囿，不为名利所困，愿以身作斩断束缚的自由之刃。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Wind>Aero DMG</color>.
+
+<color=#767676>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Galecrest Gladiators follow the will of freedom. Bound by neither rule nor glory, they become the blade that severs all chains.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Wind>Sát Thương Khí Động</color> cao.
+
+<color=#767676>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Lông trung thành với ý chí tự do: không bị trói buộc bởi lề thói cũ, không bị vây hãm bởi danh lợi, nguyện dùng thân mình làm lưỡi dao tự do chém đứt mọi ràng buộc.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_13,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>象征解构与重构的拟态石雕残象，动作笨重而迟缓，但拳力惊人，
+能远距离投掷岩石与幼岩，并以此作为进攻手段之一。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Light>Spectro DMG</color>.
+
+<color=#767676>A stone statue TD that embodies deconstruction and reconstruction. Though sluggish and clumsy, its punches are devastating.
+It hurls rocks and other rock-mimic Tacet Discords as a means of attack.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Light>Sát Thương Quang Phổ</color> cao.
+
+<color=#767676>Tàn Tượng điêu khắc đá mô phỏng tượng trưng cho sự giải cấu trúc và tái cấu trúc, động tác nặng nề chậm chạp nhưng lực đấm kinh người,
+có thể ném đá tảng và đá nhỏ từ xa, dùng đó làm một trong những thủ đoạn tấn công.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_14,"该区域敌人<color=Dark>湮灭伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>装束华贵，手执利刃的人形拟态残象，只会在暗月的清辉下现身。
+据说是昔日英雄们的影子，即便身为残象，却还是保留着优雅的举止。
+身为骑士，早已忘却了被授予的名讳；失去了守护之物，空余对荣耀的偏执。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Dark>Havoc DMG</color>.
+
+<color=#767676>A humanoid Tacet Discord clad in fine attire, wielding a sharp blade. Seen only in the pale glow of the moon.
+Said to be the lingering shadows of heroes in the old days, their kind retains a chivalrous demeanor even as they decay into TDs.
+Glorious knights who have long forgotten their titles. Protectors with nothing to defend, bound by their relentless obsession with honor.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Dark>Sát Thương Hủy Diệt</color> cao.
+
+<color=#767676>Tàn Tượng mô phỏng hình người mặc trang phục hoa lệ, tay cầm lưỡi sắc, chỉ hiện thân dưới ánh trăng mờ ảo.
+Nghe nói là cái bóng của những anh hùng ngày xưa, dù thân là Tàn Tượng nhưng vẫn giữ được cử chỉ tao nhã.
+Thân là kỵ sĩ, đã sớm quên mất danh xưng được ban tặng; mất đi vật bảo vệ, chỉ còn lại sự cố chấp với vinh quang.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_15,"该区域敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>游鳞机枢由「角」体表分布的防御模块构筑而成，也就是通常认知上的「龙鳞」。
+游鳞机枢分布于乘霄山各个稷廷遗迹内，以肃清所有擅闯禁区、可能威胁到「角」的来者。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Ice>Glacio DMG</color>.
+
+<color=#767676>Lumiscale Constructs are composed of Jué's defensive modules, commonly known as ""Loong's Scales.""
+They are found throughout the Court of Savantae ruins in Mt. Firmament, tasked with eliminating intruders and potential threats to Jué.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Ice>Sát Thương Ngưng Băng</color> cao.
+
+<color=#767676>Du Lân Cơ Xu được cấu tạo từ các mô-đun phòng thủ phân bố trên cơ thể của ""Giác"", hay còn được gọi là ""Vảy Rồng"" theo nhận thức thông thường.
+Du Lân Cơ Xu phân bố khắp các di tích Tắc Đình trên núi Thừa Tiêu, nhằm thanh trừng tất cả những kẻ xâm nhập trái phép vào khu vực cấm, có khả năng đe dọa đến ""Giác"".</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_16,"该区域敌人<color=Dark>湮灭伤害</color><color=HighlightB>抗性提高</color>。
+罗蕾莱持有光噪时，自身受到的伤害提升100%。
+罗蕾莱攻击命中目标时，延长目标5秒共鸣技能、共鸣解放的冷却时间，每5秒可触发1次。
+
+<color=#767676>本是云海万千回音生物中的一只，因岁主英白拉多的神力而获得灵智，肩负着吸收与净化云海中污染频率的职责。
+如今，日益膨胀的恶欲逐渐侵蚀了罗蕾莱，使其显现出「夜之女皇」的姿态：所有罪孽皆当以鲜血偿赎，她要降下无边的夜幕，倾覆整片云海，直至淹没所有罪恶。
+罗蕾莱用最后的理智将自己封印在庭院之中，终日低吟着哀伤的歌谣，等待有来者能够将她真正唤醒。</color>","The enemy has a <color=HighlightB>higher RES</color> against <color=Dark>Havoc DMG</color>.
+When inflicted with Spectro Frazzle, Lorelei takes 100% more damage.
+When Lorelei hits a target, the target's Resonance Skill and Resonance Liberation's cooldown is extended by 5s, triggered once every 5s.
+
+<color=#767676>Once a remnant creature in Nimbus Sanctum, Lorelei gained intelligence through Sentinel Imperator's power, entrusted to purify corrupted frequencies drifting in the clouds.
+Yet wicked desires have transformed her into the ""Queen of the Night,"" seeking to cloak the Sanctum in endless darkness to clear all sins.
+With her final grasp on reason, Lorelei sealed herself within the atrium, where she sings a haunting lament, awaiting one who can awaken her from this dismal slumber.</color>","Kẻ địch trong khu vực này <color=HighlightB>tăng Kháng</color> <color=Dark>Sát Thương Hủy Diệt</color>.
+Khi Lorelei chịu hiệu ứng Quang Nhiễu, sát thương bản thân phải chịu tăng 100%.
+Khi Lorelei tấn công trúng mục tiêu, kéo dài thời gian hồi chiêu Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng của mục tiêu thêm 5 giây, mỗi 5 giây kích hoạt 1 lần.
+
+<color=#767676>Vốn là một trong muôn vàn sinh vật dội âm nơi biển mây, nhờ thần lực của Tuế Chủ Imperator mà có được linh trí, gánh vác trọng trách hấp thụ và thanh tẩy tần số ô nhiễm trong biển mây.
+Ngày nay, ác dục ngày càng bành trướng đã dần xâm chiếm Lorelei, khiến cô hiện ra tư thái của ""Nữ Hoàng Bóng Đêm"": Mọi tội lỗi đều phải trả giá bằng máu tươi, cô muốn giáng xuống màn đêm vô tận, lật đổ cả biển mây, cho đến khi nhấn chìm mọi tội ác.
+Lorelei dùng chút lý trí cuối cùng phong ấn bản thân trong đình viện, suốt ngày ngâm nga những khúc ca bi thương, chờ đợi có người đến thực sự đánh thức cô.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_17,"该区域敌人<color=Fire>热熔伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+炽冠角斗家忠于永燃的战意：以伤痕作烈火，以磨难作锻炉，浴血而战即是归于本真的淬炼。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Fire>Fusion DMG</color>.
+
+<color=#767676>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Flamecrest Gladiators embody a warrior's undying passion. Wounds become fire, hardship their forge. Battle after battle, they chase a blood-lit path to their truest form.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Fire>Sát Thương Hỏa Liệt</color> cao.
+
+<color=#767676>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Lửa trung thành với chiến ý rực cháy mãi mãi: lấy vết thương làm lửa liệt, lấy gian nan làm lò rèn, chiến đấu tắm máu chính là sự tôi luyện để trở về với bản chân.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_18,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>装束华贵，手执利刃的人形拟态残象，只会在白日的光辉中现身。
+据说是昔日英雄们的影子，即便身为残象，却还是保留着威严的举止。
+身为骑士，早已忘却了被授予的名讳；失去了守护之物，空余对荣耀的偏执。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Light>Spectro DMG</color>.
+
+<color=#767676>A humanoid Tacet Discord clad in fine attire, wielding a sharp blade. Seen only in the radiance of the sun.
+Said to be the lost souls of fallen heroes, it retains an air of commanding dignity, even as a Tacet Discord.
+Once a knight who has long forgotten the title they once bore, it has lost all it was sworn to protect. Now, only an unyielding obsession with honor remains.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Light>Sát Thương Quang Phổ</color> cao.
+
+<color=#767676>Tàn Tượng mô phỏng hình người mặc trang phục hoa lệ, tay cầm lưỡi sắc, chỉ hiện thân dưới ánh mặt trời rực rỡ.
+Nghe nói là cái bóng của những anh hùng ngày xưa, dù thân là Tàn Tượng nhưng vẫn giữ được cử chỉ uy nghiêm.
+Thân là kỵ sĩ, đã sớm quên mất danh xưng được ban tặng; mất đi vật bảo vệ, chỉ còn lại sự cố chấp với vinh quang.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_19,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>大型猫科拟态残象，瑝珑境内仅在乘霄山当地存有目击报告。
+虹镇镇志有云：......生性孤僻，喜独居......四爪、脊背被鳞......踵迹留明，山人谓之踏光。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Light>Spectro DMG</color>.
+
+<color=#767676>An enormous feline-mimic TD, only sighted in Mt. Firmament in Huanglong.
+According to the Hongzhen Chronicle, it is a solitary TD with four claws and a scaly back. It is called ""Lightcrusher"" because of the glowing tracks left in its wake.</color>","Kẻ địch trong khu vực này <color=HighlightB>tăng Kháng</color> <color=Light>Sát Thương Quang Phổ</color>.
+
+<color=#767676>Tàn Tượng mô phỏng loài mèo cỡ lớn, trong lãnh thổ Hoàng Long chỉ có báo cáo nhìn thấy tại núi Thừa Tiêu.
+Trấn chí Hồng Trấn có ghi: ...tính tình cô độc, thích sống một mình... bốn vuốt, sống lưng có vảy... dấu chân để lại ánh sáng, người miền núi gọi là Đạp Quang.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_2,"该区域敌人<color=Wind>气动伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676> 蜥鳄拟态残象，拥有不俗的两栖作战能力，因其体表布满硬棘尖刺，得名「角鳄」。
+角鳄并非七丘本土的残象，因其独特的外观与活跃的攻击性，七丘引入其作为角斗士挑战对象，供角斗赛事使用。
+此外，角鳄强烈的领地意识使其被驯服为功能性声骸，以履行城防与守卫的职责。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Wind>Aero DMG</color>.
+
+<color=#767676>Kerasaurs are fierce, amphibious Tacet Discords mimicking Saurosuchus. They gain their name from the spiky scales covering their bodies. Kerasaurs are not indigenous to Septimont. They were introduced as gladiatorial opponents in matches for their distinct appearance and aggressive behavior.
+Their pronounced territorial instincts also make them the ideal Echoes to serve in the city's defense force once tamed.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Wind>Sát Thương Khí Động</color> cao.
+
+<color=#767676> Tàn Tượng mô phỏng Thằn Lằn Cá Sấu, sở hữu khả năng tác chiến lưỡng cư không tồi, vì cơ thể phủ đầy gai nhọn cứng nên có tên là ""Giác Ngạc"".
+Giác Ngạc không phải là Tàn Tượng bản địa của Thất Khâu, do vẻ ngoài độc đáo và tính hiếu chiến, Thất Khâu đã đưa nó vào làm đối tượng thách đấu cho các võ sĩ giác đấu, phục vụ cho các giải đấu.
+Ngoài ra, ý thức lãnh thổ mạnh mẽ của Giác Ngạc khiến nó được thuần hóa thành Thanh Hài chức năng, để thực hiện trách nhiệm phòng thủ thành phố và bảo vệ.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_20,"该区域敌人<color=Fire>热熔伤害</color><color=HighlightB>抗性提高</color>。
+亚狮诺索攻击命中目标扣除目标100%耐力，每10秒可触发一次
+亚狮诺索初始获得生命上限20%的护盾，未受到伤害超过10秒时，自身获得生命上限20%的护盾。
+亚狮诺索攻击命中目标时，延长目标5秒共鸣技能、共鸣解放的冷却时间，每5秒可触发1次。
+
+<color=#767676>荣光之都的守护者，角斗场的女武神。
+它以石与声铸就而成，以英雄的嘶吼和大笑，以雕刻狮鹫英姿的洁白石料铸成。
+亚狮诺索将守护七丘的荣耀，直到永远。</color>","The enemy has a <color=HighlightB>higher RES</color> to <color=Fire>Fusion DMG</color>.
+When Arsinosa hits a target, the target's STA is reduced by 100%, triggered once every 10s.
+Upon entering the battle, Arsinosa gains a Shield equal to 20% of her Max HP. If she hasn't taken damage for over 10s, she gains a Shield equal to 20% of her Max HP.
+When Arsinosa hits a target, the target's Resonance Skill and Resonance Liberation's cooldown is extended by 5s, triggered once every 5s.
+
+<color=#767676>She guards the City of Glory, a valiant lioness of the arena.
+Built with the pristine white stones that Gryphons are carved out of and tempered in the echoes of battle cries and the laughter of heroes.
+This is Arsinosa, ever steadfast, watching over Septimont’s glory for all time.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Fire>Sát Thương Hỏa Liệt</color> cao.
+Khi đòn tấn công của Arsinosa trúng mục tiêu sẽ trừ 100% Thể Lực của mục tiêu, mỗi 10 giây kích hoạt một lần.
+Arsinosa ban đầu nhận được khiên chắn bằng 20% HP tối đa, khi không chịu sát thương quá 10 giây, bản thân nhận được khiên chắn bằng 20% HP tối đa.
+Khi đòn tấn công của Arsinosa trúng mục tiêu, kéo dài thời gian hồi chiêu Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng của mục tiêu thêm 5 giây, mỗi 5 giây kích hoạt 1 lần.
+
+<color=#767676>Người bảo vệ Đô Thành Vinh Quang, Valkyrie của đấu trường.
+Nó được đúc thành từ đá và âm thanh, từ tiếng gầm thét và tiếng cười lớn của anh hùng, từ vật liệu đá trắng tinh khiết điêu khắc dáng vẻ oai hùng của sư tử ưng.
+Arsinosa sẽ bảo vệ vinh quang của Thất Khâu, cho đến mãi mãi.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_3,"该区域敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性提高</color>。
+辉萤军势造成伤害时，对目标添加3层霜渐，该效果每6秒可触发1次。
+
+<color=#767676>蛰居于寒冷矿洞中的诱捕者，痴迷于收集、模仿声音，能通过震颤的嗡鸣模仿人类的话语。
+辉萤军势以声为饵，将诱来的猎物冻毙于深寒之中。失温与弥留带来的幻觉，会让人类倾吐蕴含着巨大的感情波动的临终之语。
+对辉萤军势而言，这便是无上美味的频率。</color>","The enemy has a <color=HighlightB>higher RES</color> to <color=Ice>Glacio DMG</color>.
+When Lampylumen Myriad deals damage, it inflicts 3 stacks of Glacio Chafe on the target, triggered once every 6s.
+
+<color=#767676>An ensnarer that slumbers in a freezing mine pit, obsessed with collecting and imitating sounds. It can imitate human speech through a vibrating hum.
+Lampylumen Myriad uses sound as bait to lure its prey, which will be frozen in the deep cold. The loss of warmth and the illusion before dying will cause human beings to pour out their last words, which contain great emotional fluctuations.
+For Lampylumen Myriad, this is the frequency of the supreme taste.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Ice>Sát Thương Ngưng Băng</color> cao.
+Khi Quân Đoàn Huy Huỳnh gây sát thương, thêm 3 tầng Sương Giá cho mục tiêu, hiệu quả này mỗi 6 giây kích hoạt 1 lần.
+
+<color=#767676>Kẻ săn mồi ẩn náu trong hầm mỏ lạnh lẽo, si mê thu thập, bắt chước âm thanh, có thể thông qua tiếng vo ve rung động để bắt chước tiếng người.
+Quân Đoàn Huy Huỳnh dùng âm thanh làm mồi nhử, khiến con mồi bị dụ đến chết cóng trong cái lạnh thấu xương. Ảo giác do mất nhiệt và hấp hối mang lại, sẽ khiến con người thốt ra những lời trăn trối chứa đựng dao động cảm xúc to lớn.
+Đối với Quân Đoàn Huy Huỳnh, đây chính là tần số mỹ vị vô thượng.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_4,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+耀冠角斗家忠于公义的理想：不为贵胄低头，不为黑暗俯首。若公正已腐，则当以新光铸之。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Light>Spectro DMG</color>.
+
+<color=#767676>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Lightcrest Gladiators uphold the ideal of justice. They bow to no tyrant, yield to no shadow. If justice has rotted, they shall forge it anew in light.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Light>Sát Thương Quang Phổ</color> cao.
+
+<color=#767676>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Sáng trung thành với lý tưởng công nghĩa: không cúi đầu trước quyền quý, không khuất phục trước bóng tối. Nếu công chính đã mục nát, thì sẽ dùng ánh sáng mới để đúc lại.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_5,"该区域敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+凛冠角斗家忠于凛肃的傲骨：风霜摧不垮，苦寒压不倒。纵冰刃折戟，信条仍如初。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Ice>Glacio DMG</color>.
+
+<color=#767676>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Frostcrest Gladiators bear unyielding resolve. Their fortitude is impervious to frost and bitter cold. Though blades may shatter, their creed endures.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Ice>Sát Thương Ngưng Băng</color> cao.
+
+<color=#767676>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Lạnh trung thành với khí phách nghiêm nghị: sương gió không quật ngã, lạnh lẽo không đè bẹp. Dù băng đao gãy kích, tín điều vẫn như xưa.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_6,"该区域敌人<color=Ice>冷凝伤害</color><color=HighlightB>抗性</color>、<color=Wind>气动伤害</color><color=HighlightB>抗性提高</color>。
+凯尔匹被逆势回击时，共振度的削减程度提升50%。
+凯尔匹处于非瘫痪状态下时，所有属性的抗性提升200%。
+凯尔匹攻击命中目标时，延长目标5秒共鸣技能、共鸣解放的冷却时间，每5秒可触发1次。
+
+<color=#767676>自深海中诞生的类人形残象，常活动于各类水域，以迅猛暴戾而著称。
+以爪击作为攻击手段，利用寄宿于指尖的毒素将猎物麻痹后再将其撕碎吞噬。</color>","The enemy has a <color=HighlightB>higher RES</color> against <color=Ice>Glacio DMG</color> and <color=Wind>Aero DMG</color>.
+Hitting Kelpie with Counterattack further reduces its Vibration Strength by 50%.
+When Kelpie is not Immobilized, its all Attribute RES is increased by 200%.
+When Kelpie hits a target, the target's Resonance Skill and Resonance Liberation's cooldown is extended by 5s, triggered once every 5s.
+
+<color=#767676>A humanoid TD born from the deep sea. Commonly found in all types of waters, it's known for its aggression and ferocity.
+It attacks with sharp claws laced with paralytic toxins, then rips its prey apart and swallows them whole.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Ice>Sát Thương Ngưng Băng</color>, <color=HighlightB>Kháng</color> <color=Wind>Sát Thương Khí Động</color> cao.
+Khi Kelpie bị Phản Đòn, mức độ giảm Độ Rung tăng 50%.
+Khi Kelpie ở trạng thái không bị tê liệt, kháng tất cả thuộc tính tăng 200%.
+Khi đòn tấn công của Kelpie trúng mục tiêu, kéo dài thời gian hồi chiêu Kỹ Năng Cộng Hưởng, Giải Phóng Cộng Hưởng của mục tiêu thêm 5 giây, mỗi 5 giây kích hoạt 1 lần.
+
+<color=#767676>Tàn Tượng dạng người sinh ra từ biển sâu, thường hoạt động ở các loại vùng nước, nổi tiếng vì sự hung dữ tàn bạo.
+Dùng vuốt để tấn công, lợi dụng độc tố ký sinh ở đầu ngón tay làm tê liệt con mồi rồi xé xác nuốt chửng.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_7,"该区域敌人<color=Wind>气动伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676> 凶残的拟态熊类残象，头颈和肩臂覆盖着箭簇状的尖利黑石，其挥击的力量犹如飓风骤袭。</color>","The enemies have a <color=HighlightB>higher RES</color> against <color=Wind>Aero DMG</color>.
+
+<color=#767676>A ferocious bear-mimic TD with Tacetite spikes on its head, neck, and shoulders. Its swings strike like a hurricane.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Wind>Sát Thương Khí Động</color> cao.
+
+<color=#767676> Tàn Tượng mô phỏng loài gấu hung tàn, đầu cổ và vai tay phủ đầy Hắc Thạch nhọn như mũi tên, sức mạnh cú tát của nó như cơn bão bất ngờ ập đến.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_8,"该区域敌人<color=Thunder>导电伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676>得行无监之斗的七丘角斗士，与声骸为伴，择强而战。
+雷冠角斗家忠于暴烈的威仪：不为私情偏倚，不为强权折腰，万钧雷槌之下，善恶终有分野。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Thunder>Electro DMG</color>.
+
+<color=#767676>Gladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.
+Thundercrest Gladiators wield stormborne might. Unmoved by favor and unbowed by power. Beneath the thunder’s judgment, right and wrong divide.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Thunder>Sát Thương Điện Từ</color> cao.
+
+<color=#767676>Võ sĩ giác đấu Thất Khâu chiến đấu không bị giám sát, làm bạn với Thanh Hài, chọn kẻ mạnh để chiến.
+Võ Sĩ Giác Đấu Mào Sấm trung thành với uy nghi bạo liệt: không thiên vị vì tư tình, không khom lưng trước cường quyền, dưới lôi chùy ngàn cân, thiện ác cuối cùng cũng phân minh.</color>"
+lang_multi_text.db,MultiText,Morale_flagdesc_map_9,"该区域敌人<color=Light>衍射伤害</color><color=HighlightB>抗性提高</color>。
+
+<color=#767676> 拥有指挥调度其他节使的权限，遵从修会的指令对所有忤逆者进行清除。
+权威不可侵犯，修会不容质疑。</color>","The enemies have a <color=HighlightB>higher RES</color> to <color=Light>Spectro DMG</color>.
+
+<color=#767676>It holds the authority to command other Echoes of the Order, carrying out the Order's will to eliminate any transgressors.
+Just as the Order's authority is inviolable, so too is the power of the Echo.</color>","Kẻ địch trong khu vực này có <color=HighlightB>Kháng</color> <color=Light>Sát Thương Quang Phổ</color> cao.
+
+<color=#767676> Có quyền hạn chỉ huy điều động các sứ giả khác, tuân theo chỉ lệnh của Tu Hội tiến hành thanh trừng tất cả những kẻ ngỗ nghịch.
+Quyền uy không thể xâm phạm, Tu Hội không dung thứ sự nghi ngờ.</color>"
+lang_multi_text.db,MultiText,Morale_flagnumber_1,01,01,1.0
+lang_multi_text.db,MultiText,Morale_flagnumber_10,10,10,10
+lang_multi_text.db,MultiText,Morale_flagnumber_11,11,11,11
+lang_multi_text.db,MultiText,Morale_flagnumber_12,12,12,12
+lang_multi_text.db,MultiText,Morale_flagnumber_13,13,13,13
+lang_multi_text.db,MultiText,Morale_flagnumber_14,14,14,14
+lang_multi_text.db,MultiText,Morale_flagnumber_15,15,15,15
+lang_multi_text.db,MultiText,Morale_flagnumber_16,16,16,16
+lang_multi_text.db,MultiText,Morale_flagnumber_17,17,17,17
+lang_multi_text.db,MultiText,Morale_flagnumber_18,18,18,18
+lang_multi_text.db,MultiText,Morale_flagnumber_19,19,19,19
+lang_multi_text.db,MultiText,Morale_flagnumber_2,02,02,02
+lang_multi_text.db,MultiText,Morale_flagnumber_20,20,20,20
+lang_multi_text.db,MultiText,Morale_flagnumber_3,03,03,3.0
+lang_multi_text.db,MultiText,Morale_flagnumber_4,04,04,4.0
+lang_multi_text.db,MultiText,Morale_flagnumber_5,05,05,5.0
+lang_multi_text.db,MultiText,Morale_flagnumber_6,06,06,6.0
+lang_multi_text.db,MultiText,Morale_flagnumber_7,07,07,07
+lang_multi_text.db,MultiText,Morale_flagnumber_8,08,08,08
+lang_multi_text.db,MultiText,Morale_flagnumber_9,09,09,09
+lang_multi_text.db,MultiText,Morale_flagtitle_1,不落旌旗·中1,Banner of Conquest: Medium 1,Cờ Hiệu Bất Diệt - Trung 1
+lang_multi_text.db,MultiText,Morale_flagtitle_10,不落旌旗·中10,Banner of Conquest: Medium 10,Cờ Hiệu Bất Diệt - Trung 10
+lang_multi_text.db,MultiText,Morale_flagtitle_11,不落旌旗·大11,Banner of Conquest: Major 11,Cờ Hiệu Bất Diệt - Đại 11
+lang_multi_text.db,MultiText,Morale_flagtitle_12,不落旌旗·中12,Banner of Conquest: Medium 12,Cờ Hiệu Bất Diệt - Trung 12
+lang_multi_text.db,MultiText,Morale_flagtitle_13,不落旌旗·中13,Banner of Conquest: Medium 13,Cờ Hiệu Bất Diệt - Trung 13
+lang_multi_text.db,MultiText,Morale_flagtitle_14,不落旌旗·中14,Banner of Conquest: Medium 14,Cờ Hiệu Bất Diệt - Trung 14
+lang_multi_text.db,MultiText,Morale_flagtitle_15,不落旌旗·中15,Banner of Conquest: Medium 15,Cờ Hiệu Bất Diệt - Trung 15
+lang_multi_text.db,MultiText,Morale_flagtitle_16,不落旌旗·大16,Banner of Conquest: Major 16,Cờ Hiệu Bất Diệt - Đại 16
+lang_multi_text.db,MultiText,Morale_flagtitle_17,不落旌旗·中17,Banner of Conquest: Medium 17,Cờ Hiệu Bất Diệt - Trung 17
+lang_multi_text.db,MultiText,Morale_flagtitle_18,不落旌旗·中18,Banner of Conquest: Medium 18,Cờ Hiệu Bất Diệt - Trung 18
+lang_multi_text.db,MultiText,Morale_flagtitle_19,不落旌旗·中19,Banner of Conquest: Medium 19,Cờ Hiệu Bất Diệt - Trung 19
+lang_multi_text.db,MultiText,Morale_flagtitle_2,不落旌旗·中2,Banner of Conquest: Medium 2,Cờ Hiệu Bất Diệt - Trung 2
+lang_multi_text.db,MultiText,Morale_flagtitle_20,不落旌旗·大20,Banner of Conquest: Major 20,Cờ Hiệu Bất Diệt - Đại 20
+lang_multi_text.db,MultiText,Morale_flagtitle_3,不落旌旗·大3,Banner of Conquest: Major 3,Cờ Hiệu Bất Diệt - Đại 3
+lang_multi_text.db,MultiText,Morale_flagtitle_4,不落旌旗·中4,Banner of Conquest: Medium 4,Cờ Hiệu Bất Diệt - Trung 4
+lang_multi_text.db,MultiText,Morale_flagtitle_5,不落旌旗·中5,Banner of Conquest: Medium 5,Cờ Hiệu Bất Diệt - Trung 5
+lang_multi_text.db,MultiText,Morale_flagtitle_6,不落旌旗·大6,Banner of Conquest: Major 6,Cờ Hiệu Bất Diệt - Đại 6
+lang_multi_text.db,MultiText,Morale_flagtitle_7,不落旌旗·中7,Banner of Conquest: Medium 7,Cờ Hiệu Bất Diệt - Trung 7
+lang_multi_text.db,MultiText,Morale_flagtitle_8,不落旌旗·中8,Banner of Conquest: Medium 8,Cờ Hiệu Bất Diệt - Trung 8
+lang_multi_text.db,MultiText,Morale_flagtitle_9,不落旌旗·中9,Banner of Conquest: Medium 9,Cờ Hiệu Bất Diệt - Trung 9
+lang_multi_text.db,MultiText,Morale_title_1,挑战赛进度,Progress,Tiến Độ Giải Đấu Thách Thức
+lang_multi_text.db,MultiText,Morale_title_10,临时激活,Temporary Activation,Kích Hoạt Tạm Thời
+lang_multi_text.db,MultiText,Morale_title_11,已激活,Activated,Đã Kích Hoạt
+lang_multi_text.db,MultiText,Morale_title_12,未激活,Unactivated,Chưa Kích Hoạt
+lang_multi_text.db,MultiText,Morale_title_13,敌方荣耀等级,Target Glory Level,Cấp Độ Vinh Quang Địch
+lang_multi_text.db,MultiText,Morale_title_14,已占领所有赛点,Conquered all challenges,Đã chiếm lĩnh tất cả điểm thi đấu
+lang_multi_text.db,MultiText,Morale_title_15,赛区增益,Challenge Zone Buffs,Buff Khu Vực Thi Đấu
+lang_multi_text.db,MultiText,Morale_title_16,<size=40><color=#fff6bb>{0}</color></size>/{1},<size=40><color=#fff6bb>{0}</color></size>/{1},<size=40><color=#fff6bb>{0}</color></size>/{1}
+lang_multi_text.db,MultiText,Morale_title_17,<size=60><color=#ffa257>{0}</color></size>/{1},<size=60><color=#ffa257>{0}</color></size>/{1},<size=60><color=#ffa257>{0}</color></size>/{1}

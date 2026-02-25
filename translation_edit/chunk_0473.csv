@@ -1,101 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ErrRiskHarvestRoleTrial,拥有试用角色情况下无法开启活动，请完成相关任务玩法后再尝试,Unable to proceed when a trial Resonator is present. Please finish the relevant quest or event and try again.,"Không thể mở hoạt động khi có nhân vật dùng thử, vui lòng hoàn thành nhiệm vụ liên quan rồi thử lại."
-lang_multi_text.db,MultiText,ErrRiskHarvestScoreNotEnough,未达到奖励领取需要的,Insufficient Tactic Points to claim the reward.,Chưa đạt đủ điểm để nhận thưởng.
-lang_multi_text.db,MultiText,ErrRiskHarvestScoreRewardNotFound,积分数据异常，请联系客服,Abnormal Tactic Point Data. Please contact Customer Service for assistance.,"Dữ liệu điểm bất thường, vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrRiskHarvestScoreRewarded,奖励已领取,Reward already claimed.,Phần thưởng đã được nhận.
-lang_multi_text.db,MultiText,ErrorCode_0_Text,成功,Success,Thành công
-lang_multi_text.db,MultiText,ErrorCode_1000000_Text,buff道具配置不存在,Buff item configuration does not exist,Cấu hình vật phẩm buff không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000001_Text,buff道具不是共享类型,Buff item is not sharing type,Vật phẩm buff không phải loại chia sẻ
-lang_multi_text.db,MultiText,ErrorCode_1000002_Text,buff道具角色Id不是共享,Buff item character ID is not sharing type,ID nhân vật của vật phẩm buff không phải loại chia sẻ
-lang_multi_text.db,MultiText,ErrorCode_1000003_Text,buff道具角色Id不在编队,Buff item character ID is not in team,ID nhân vật của vật phẩm buff không có trong đội hình
-lang_multi_text.db,MultiText,ErrorCode_1000004_Text,buff道具不足,Insufficient buff item,Không đủ vật phẩm buff
-lang_multi_text.db,MultiText,ErrorCode_1000005_Text,buff道具有cd时长不能多个使用,Buff item cannot be repeatedly used while still in cooldown,"Vật phẩm buff đang trong thời gian hồi, không thể dùng nhiều lần"
-lang_multi_text.db,MultiText,ErrorCode_1000006_Text,buff道具还在cd中,Buff item still in cooldown,Vật phẩm buff đang trong thời gian hồi
-lang_multi_text.db,MultiText,ErrorCode_1000007_Text,buff道具使用数量错误,Buff item usage amount error,Số lượng sử dụng vật phẩm buff bị lỗi
-lang_multi_text.db,MultiText,ErrorCode_1000008_Text,buff道具使用找不到玩家,Buff item cannot find target player,Không tìm thấy người chơi khi sử dụng vật phẩm buff
-lang_multi_text.db,MultiText,ErrorCode_1000009_Text,场景物件不存在,Terrain object does not exist,Vật thể trong cảnh không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_100000_Text,注册已关闭,Registration closed,Đăng ký đã đóng
-lang_multi_text.db,MultiText,ErrorCode_1000010_Text,场景物件类型不对,Incorrect terrain object type,Loại vật thể trong cảnh không đúng
-lang_multi_text.db,MultiText,ErrorCode_1000011_Text,场景物件操作类型不正确,Incorrect terrain object operation type,Loại thao tác vật thể trong cảnh không đúng
-lang_multi_text.db,MultiText,ErrorCode_1000012_Text,场景物件状态错误,Terrain object status error,Trạng thái vật thể trong cảnh bị lỗi
-lang_multi_text.db,MultiText,ErrorCode_1000013_Text,找不到实体状态变更实体,Entity status change entity not found,Không tìm thấy thực thể thay đổi trạng thái
-lang_multi_text.db,MultiText,ErrorCode_1000014_Text,变更状态实体没有tag组件,Missing tag component for status change entity,Thực thể thay đổi trạng thái thiếu thành phần tag
-lang_multi_text.db,MultiText,ErrorCode_1000015_Text,变更状态实体Type不存在,Status change entity Type does not exist,Type của thực thể thay đổi trạng thái không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000016_Text,变更状态实体State不存在,Status change entity State does not exist,State của thực thể thay đổi trạng thái không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000017_Text,变更状态实体没有配置,Missing configuration for status change entity,Thực thể thay đổi trạng thái chưa được cấu hình
-lang_multi_text.db,MultiText,ErrorCode_1000018_Text,状态变更类型不一致,Status change mismatch,Loại thay đổi trạng thái không khớp
-lang_multi_text.db,MultiText,ErrorCode_1000019_Text,状态变更新旧状态一致,Matching old and new status changes,Trạng thái mới và cũ giống nhau
-lang_multi_text.db,MultiText,ErrorCode_100001_Text,注册人数已满,Registration full,Số lượng đăng ký đã đầy
-lang_multi_text.db,MultiText,ErrorCode_1000020_Text,静默中不可以改变状态,Status cannot be changed while silent,Không thể thay đổi trạng thái khi đang im lặng
-lang_multi_text.db,MultiText,ErrorCode_1000021_Text,完成态不可改变状态,Completed status cannot be changed,Không thể thay đổi trạng thái đã hoàn thành
-lang_multi_text.db,MultiText,ErrorCode_1000022_Text,锁定中不可改变状态,Status cannot be changed while locked,Không thể thay đổi trạng thái khi đang bị khóa
-lang_multi_text.db,MultiText,ErrorCode_1000023_Text,实体不是初始状态,Entity not in initial status,Thực thể không ở trạng thái ban đầu
-lang_multi_text.db,MultiText,ErrorCode_1000024_Text,实体状态不存在,Entity status does not exist,Trạng thái thực thể không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000025_Text,处于出生态不能变更,Cannot change while in spawn state,Không thể thay đổi khi đang ở trạng thái sinh ra
-lang_multi_text.db,MultiText,ErrorCode_1000026_Text,条件不满足变更状态,Conditions not met to change status,Chưa đáp ứng điều kiện để thay đổi trạng thái
-lang_multi_text.db,MultiText,ErrorCode_1000027_Text,状态变更没有主机玩家,Missing console player for status change,Không có người chơi chủ trì khi thay đổi trạng thái
-lang_multi_text.db,MultiText,ErrorCode_1000028_Text,改变实体自身状态调用错误,Entity self status change error,Lỗi khi gọi thay đổi trạng thái chính thực thể
-lang_multi_text.db,MultiText,ErrorCode_1000029_Text,控物底座实体不存在,Levitation base entity does not exist,Thực thể bệ điều khiển không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_100002_Text,没有创建角色,Create a player profile first,Chưa tạo nhân vật
-lang_multi_text.db,MultiText,ErrorCode_1000030_Text,被控物不存在,Levitation target does not exist,Vật thể bị điều khiển không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000031_Text,控物底座实体没有Foundation组件,Missing Levitation base entity Foundation component,Thực thể bệ điều khiển thiếu thành phần Foundation
-lang_multi_text.db,MultiText,ErrorCode_1000032_Text,控物底座已激活,Levitation base activated,Bệ điều khiển đã được kích hoạt
-lang_multi_text.db,MultiText,ErrorCode_1000033_Text,控物底座未激活,Levitation base inactive,Bệ điều khiển chưa được kích hoạt
-lang_multi_text.db,MultiText,ErrorCode_1000034_Text,被控物tag不匹配,Levitation target tag mismatch,Tag của vật thể bị điều khiển không khớp
-lang_multi_text.db,MultiText,ErrorCode_1000035_Text,被控物不在附近,Levitation target not within range,Vật thể bị điều khiển không ở gần
-lang_multi_text.db,MultiText,ErrorCode_1000036_Text,被控物状态tag不匹配,Levitation target status tag mismatch,Tag trạng thái của vật thể bị điều khiển không khớp
-lang_multi_text.db,MultiText,ErrorCode_1000037_Text,重力机关不存在,Gravity puzzle does not exist,Cơ quan trọng lực không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000038_Text,没有重力机关组件,Missing gravity puzzle components,Thiếu thành phần cơ quan trọng lực
-lang_multi_text.db,MultiText,ErrorCode_1000039_Text,重力机关禁止复位,Restricted gravity puzzle reset,Cơ quan trọng lực không được phép đặt lại
-lang_multi_text.db,MultiText,ErrorCode_100003_Text,非法的角色名,Illegal player name,Tên nhân vật không hợp lệ
-lang_multi_text.db,MultiText,ErrorCode_1000040_Text,隙声碟实体不存在,Mutterfly entity does not exist,Thực thể Mutterfly không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000041_Text,隙声碟实体没有跟随组件,Missing Mutterfly entity tracking component,Thực thể Mutterfly thiếu thành phần theo dõi
-lang_multi_text.db,MultiText,ErrorCode_1000042_Text,隙声碟没有配置底座id,Missing Mutterfly base ID,Mutterfly chưa được cấu hình ID bệ
-lang_multi_text.db,MultiText,ErrorCode_1000043_Text,隙声碟没有配置底座不存在,Missing Mutterfly base,Bệ cấu hình của Mutterfly không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000044_Text,隙声碟底座已激活,Mutterfly base activated,Bệ Mutterfly đã được kích hoạt
-lang_multi_text.db,MultiText,ErrorCode_1000045_Text,投掷玩家不存在,Tossing player does not exist,Người chơi ném không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000046_Text,小动物消灭实体不存在,Small animal destroyed entity does not exist,Thực thể động vật nhỏ bị tiêu diệt không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000047_Text,不是小动物实体,Not a small animal entity,Không phải thực thể động vật nhỏ
-lang_multi_text.db,MultiText,ErrorCode_1000048_Text,潜行行为树不存在,Stealth behavior tree does not exist,Cây hành vi lén lút không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000049_Text,潜行行为树节点不存在,Stealth behavior tree nodes do not exist,Nút cây hành vi lén lút không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_100004_Text,创建角色失败,Failed to create player profile,Tạo nhân vật thất bại
-lang_multi_text.db,MultiText,ErrorCode_1000050_Text,潜行节点不是失败节点,Stealth node is not a failure node,Nút lén lút không phải nút thất bại
-lang_multi_text.db,MultiText,ErrorCode_1000051_Text,没有潜行时间配置,Missing stealth time configuration,Thiếu cấu hình thời gian lén lút
-lang_multi_text.db,MultiText,ErrorCode_1000052_Text,潜行配置错误,Stealth configuration error,Lỗi cấu hình lén lút
-lang_multi_text.db,MultiText,ErrorCode_1000053_Text,已经在潜行中,Already in stealth mode,Đang trong chế độ lén lút
-lang_multi_text.db,MultiText,ErrorCode_1000054_Text,不在潜行中,Not in stealth mode,Không trong chế độ lén lút
-lang_multi_text.db,MultiText,ErrorCode_1000055_Text,被控物实体不存在,Levitation target entity does not exist,Thực thể vật thể bị điều khiển không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1000056_Text,不是被控物,Not a levitation target,Không phải vật thể bị điều khiển
-lang_multi_text.db,MultiText,ErrorCode_1000057_Text,控制实体已有控制者,Control entity already has controller,Thực thể điều khiển đã có người điều khiển
-lang_multi_text.db,MultiText,ErrorCode_1000058_Text,取消控物实体没有控制者,Cancellation control entity does not have controller,Thực thể hủy điều khiển không có người điều khiển
-lang_multi_text.db,MultiText,ErrorCode_1000059_Text,存在异常，如有疑问请联系官方客服,An error occurred. For inquiries please contact customer support.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_100005_Text,创建角色失败,Failed to create player profile,Tạo nhân vật thất bại
-lang_multi_text.db,MultiText,ErrorCode_1000060_Text,存在异常，如有疑问请联系官方客服,An error occurred. For inquiries please contact customer support.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000061_Text,存在异常，如有疑问请联系官方客服,An error occurred. For inquiries please contact customer support.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000062_Text,存在异常，如有疑问请联系官方客服,An error occurred. For inquiries please contact customer support.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000063_Text,存在异常，如有疑问请联系官方客服,An error occurred. For inquiries please contact customer support.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000064_Text,存在异常，如有疑问请联系官方客服,An error occurred. For inquiries please contact customer support.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000065_Text,如有疑问请联系官方客服,Please contact customer support for help.,"Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000066_Text,如有疑问请联系官方客服,Please contact customer support for help.,"Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000067_Text,如有疑问请联系官方客服,Please contact customer support for help.,"Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000068_Text,如有疑问请联系官方客服,Please contact customer support for help.,"Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000069_Text,当前行为树不在潜行中,Current behavior tree not in stealth mode,Cây hành vi hiện tại không trong chế độ lén lút
-lang_multi_text.db,MultiText,ErrorCode_100006_Text,玩家已登录,Logged in,Người chơi đã đăng nhập
-lang_multi_text.db,MultiText,ErrorCode_1000070_Text,移动条件不满足,Movement condition not met,Chưa đáp ứng điều kiện di chuyển
-lang_multi_text.db,MultiText,ErrorCode_1000071_Text,没有控物配置,Missing Levitation configuration,Thiếu cấu hình điều khiển vật thể
-lang_multi_text.db,MultiText,ErrorCode_1000072_Text,被控物已被扔出,Levitation target already discarded,Vật thể bị điều khiển đã bị ném ra
-lang_multi_text.db,MultiText,ErrorCode_1000073_Text,被控物没配销毁时间,Missing dismantle time for Levitation target,Vật thể bị điều khiển chưa được cấu hình thời gian hủy
-lang_multi_text.db,MultiText,ErrorCode_1000074_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000075_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1000076_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_100007_Text,玩家正在登录,Logging in,Người chơi đang đăng nhập
-lang_multi_text.db,MultiText,ErrorCode_100008_Text,账号断线重连中，请稍后重试。,You are disconnected and reconnecting to the game. Please try again later.,"Đang kết nối lại, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_100009_Text,重新登录,Re-login,Đăng nhập lại
-lang_multi_text.db,MultiText,ErrorCode_100010_Text,查询玩家数据失败,Failed to request user data,Truy vấn dữ liệu người chơi thất bại
-lang_multi_text.db,MultiText,ErrorCode_100011_Text,校验玩家数据失败,Failed to verify user data,Xác minh dữ liệu người chơi thất bại
-lang_multi_text.db,MultiText,ErrorCode_100012_Text,校验玩家数据失败。请更换新账号或联系服务端值班同学清档。,Failed to verify user data. Please use a new account or contact server maintenance team.,Xác minh dữ liệu người chơi thất bại. Vui lòng đổi tài khoản mới hoặc liên hệ đội ngũ bảo trì máy chủ để xóa dữ liệu.
-lang_multi_text.db,MultiText,ErrorCode_100013_Text,登录异常，请稍后重试或联系客服。,Login error. Please try again later or contact Customer Service.,"Đăng nhập bị lỗi, vui lòng thử lại sau hoặc liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_100014_Text,账号在别处登录,Account logged in elsewhere,Tài khoản đã đăng nhập ở nơi khác
-lang_multi_text.db,MultiText,ErrorCode_100015_Text,您的账号因违规行为已被封禁，如有疑问可联系官方客服。,Your account is banned for misconduct. For queries please contact official Customer Service.,"Tài khoản của bạn đã bị khóa do vi phạm quy định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_100016_Text,数据量过大，请等待15分钟后再进行登录,Server overload. Please try to log in 15 minutes later.,"Dữ liệu quá lớn, vui lòng đợi 15 phút rồi đăng nhập lại."
-lang_multi_text.db,MultiText,ErrorCode_100017_Text,已与服务器断开连接，请尝试重新登录，如有疑问请联系客服,Disconnected form the server. Please try again or contact our Customer Service for assistance.,"Đã mất kết nối với máy chủ, vui lòng thử đăng nhập lại. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ."
+lang_multi_text.db,MultiText,EpithetName_Role_17,默声裁决,Silent Judge,Phán Quyết Lặng Thầm
+lang_multi_text.db,MultiText,EpithetName_Role_18,时溯浮光,Chrono Thawbringer,Phù Quang Ngược Dòng
+lang_multi_text.db,MultiText,EpithetName_Role_19,离火长明,Eternal Fire,Ly Hỏa Trường Minh
+lang_multi_text.db,MultiText,EpithetName_Role_2,犹如云中雀,Lark Among Clouds,Tựa Như Chim Trong Mây
+lang_multi_text.db,MultiText,EpithetName_Role_20,真理视界,Vision of Truth,Tầm Nhìn Chân Lý
+lang_multi_text.db,MultiText,EpithetName_Role_21,墨染云水间,Ink Dyed Nature,Mực Nhuộm Giữa Mây Nước
+lang_multi_text.db,MultiText,EpithetName_Role_22,漫步于星海,Stellar Roamer,Dạo Bước Biển Sao
+lang_multi_text.db,MultiText,EpithetName_Role_23,慧眼览古物,Keen Conservator,Tuệ Nhãn Ngắm Cổ Vật
+lang_multi_text.db,MultiText,EpithetName_Role_24,赤染椿华,Camellya Rouge,Xích Nhiễm Xuân Hoa
+lang_multi_text.db,MultiText,EpithetName_Role_25,太阳升起之时,Courier of Dawn,Khi Mặt Trời Mọc
+lang_multi_text.db,MultiText,EpithetName_Role_26,溢彩欧泊,Overflowing Opal,Opal Rực Rỡ
+lang_multi_text.db,MultiText,EpithetName_Role_27,星光舞者,Dancer in the Starlight,Vũ Công Ánh Sao
+lang_multi_text.db,MultiText,EpithetName_Role_28,愚者自娱,The Merry Fool,Kẻ Khờ Tự Vui
+lang_multi_text.db,MultiText,EpithetName_Role_29,启明信使,Envoy of Light,Tín Sứ Khai Sáng
+lang_multi_text.db,MultiText,EpithetName_Role_3,英雄戏,Hero Play Hero,Kịch Anh Hùng
+lang_multi_text.db,MultiText,EpithetName_Role_30,坠于幻梦之海,Diver of Dreams,Rơi Vào Biển Mộng Ảo
+lang_multi_text.db,MultiText,EpithetName_Role_31,命运的独奏者,Soloist of Fate,Người Độc Tấu Của Số Mệnh
+lang_multi_text.db,MultiText,EpithetName_Role_32,焰光灼夜,Night Aflame,Diễm Quang Chước Dạ
+lang_multi_text.db,MultiText,EpithetName_Role_33,湮灭万律,Havoc Reaper,Yên Diệt Vạn Luật
+lang_multi_text.db,MultiText,EpithetName_Role_34,吾剑永随,The Vanguard Gale,Kiếm Ta Vĩnh Tùy
+lang_multi_text.db,MultiText,EpithetName_Role_35,逆潮告死者,The Death Defier,Kẻ Báo Tử Nghịch Triều
+lang_multi_text.db,MultiText,EpithetName_Role_36,焰狼星,Lupus Firestar,Diễm Lang Tinh
+lang_multi_text.db,MultiText,EpithetName_Role_37,永不复焉,The Nevermore,Vĩnh Bất Phục Yên
+lang_multi_text.db,MultiText,EpithetName_Role_38,不灭烈阳,Eternal Blazing Sun,Liệt Dương Bất Diệt
+lang_multi_text.db,MultiText,EpithetName_Role_39,忤逆终局者,Defier of Fated End,Kẻ Nghịch Lại Kết Cục
+lang_multi_text.db,MultiText,EpithetName_Role_4,雪中华,Bloom in Snow,Hoa Trong Tuyết
+lang_multi_text.db,MultiText,EpithetName_Role_40,永火恒燃,Flame Undying,Vĩnh Hỏa Hằng Nhiên
+lang_multi_text.db,MultiText,EpithetName_Role_41,裁竹为锋,Blade Within Bamboo,Cắt Trúc Làm Kiếm
+lang_multi_text.db,MultiText,EpithetName_Role_43,红线所系之处,Where the Red Thread Binds,Nơi Sợi Chỉ Đỏ Buộc
+lang_multi_text.db,MultiText,EpithetName_Role_44,神鬼咸听,Heeded by Divinities and Demons,Thần Quỷ Hàm Thính
+lang_multi_text.db,MultiText,EpithetName_Role_45,向着多彩明天,Colorful Dawn,Hướng Tới Ngày Mai Đa Sắc
+lang_multi_text.db,MultiText,EpithetName_Role_46,理想的锚点,Anchor of Ideals,Điểm Neo Lý Tưởng
+lang_multi_text.db,MultiText,EpithetName_Role_47,飞吧，朝向春天,Wings to Spring,"Bay Đi, Hướng Về Mùa Xuân"
+lang_multi_text.db,MultiText,EpithetName_Role_48,黄金医谕,Golden Diagnosis,Hoàng Kim Y Dụ
+lang_multi_text.db,MultiText,EpithetName_Role_5,绯玉,Crimson Jadeite,Phi Ngọc
+lang_multi_text.db,MultiText,EpithetName_Role_6,破·业障,Unhindered Perception,Phá - Nghiệp Chướng
+lang_multi_text.db,MultiText,EpithetName_Role_7,悠然见四时,Leisurely Observer,Ung Dung Ngắm Bốn Mùa
+lang_multi_text.db,MultiText,EpithetName_Role_8,灼热思维,Flaming Intellect,Tư Duy Nóng Bỏng
+lang_multi_text.db,MultiText,EpithetName_Role_9,点到为止,Grand Master,Điểm Đến Là Dừng
+lang_multi_text.db,MultiText,EpithetName_SuiBo,穗波终末旅行,Honami Doom Walker,Du Hành Cuối Cùng Ở Honami
+lang_multi_text.db,MultiText,EpithetName_Tafang,黯潮的守望者,Catcher in the Tide,Người Trông Coi Thủy Triều Đen
+lang_multi_text.db,MultiText,EpithetName_Tower_1,坠入深境,Adversity Expeditioner,Rơi Vào Thâm Cảnh
+lang_multi_text.db,MultiText,EpithetName_Tower_2,逐暗前行,Darkness Repeller,Tiến Bước Theo Bóng Tối
+lang_multi_text.db,MultiText,EpithetName_Tower_3,深塔的霸者,Ruler of the Tower,Bá Giả Tháp Sâu
+lang_multi_text.db,MultiText,EpithetSourceDesc_3.0HuanTong,在「全息战略·幻痛」中完成全部挑战,Complete all challenges in Tactical Hologram: Phantom Pain,"Hoàn thành tất cả thử thách trong ""Chiến Lược Toàn Tức - Ảo Thống"""
+lang_multi_text.db,MultiText,EpithetSourceDesc_3.0QiangXi,在「全息战略·强袭」中完成全部挑战,Complete all challenges in Tactical Hologram: Calamity,"Hoàn thành tất cả thử thách trong ""Chiến Lược Toàn Tức - Cường Tập"""
+lang_multi_text.db,MultiText,EpithetSourceDesc_3.1LiChenBei,「长迹伴行」中，伴行积分达到5000,"Reach 5,000 Journey Points in ""Starpaths Intertwined""","Trong ""Trường Tích Bạn Hành"", điểm đồng hành đạt 5000"
+lang_multi_text.db,MultiText,EpithetSourceDesc_3.1XiuXiuXiu,在「奔驰！箭速与激情！」无尽挑战中达到80000分,"Reach 80,000 points in the Endless Track of ""Full Throttle! Bolt & Blitz!""","Đạt 80000 điểm trong thử thách vô tận của ""Chạy Mau! Tốc Độ Và Đam Mê!"""
+lang_multi_text.db,MultiText,EpithetSourceDesc_Babel_1,达成「虚域危局·原型解算」总负荷等级48的挑战,Complete a challenge with Total Stress Level 48 in Virtual Crisis: Prototype Trials.,"Đạt cấp tổng tải trọng 48 trong thử thách ""Nguy Cơ Hư Vực - Giải Toán Nguyên Mẫu"""
+lang_multi_text.db,MultiText,EpithetSourceDesc_Babel_2,达成「虚域危局·维度超验」总负荷等级48的挑战,Reach Total Stress Level 48 in Virtual Crisis: Frontier Trials.,"Đạt cấp tổng tải trọng 48 trong thử thách ""Nguy Cơ Hư Vực - Siêu Nghiệm Chiều"""
+lang_multi_text.db,MultiText,EpithetSourceDesc_GecaoTower_1,累计1期在「冥歌海墟·无尽湍渊」中以SSS级评分通关（当前已累计SSS级评分通关（{0}/{1}）期）,Clear 1 phase of Whimpering Wastes: Infinite Torrents with SSS Rank (Current progress: {0}/{1}),"Tích lũy 1 kỳ vượt ải ""Minh Ca Hải Khư - Vô Tận Đoan Uyên"" với đánh giá SSS (Hiện đã tích lũy vượt ải đánh giá SSS ({0}/{1}) kỳ)"
+lang_multi_text.db,MultiText,EpithetSourceDesc_GecaoTower_2,累计5期在「冥歌海墟·无尽湍渊」中以SSS级评分通关（当前已累计SSS级评分通关（{0}/{1}）期）,Clear 5 phases of Whimpering Wastes: Infinite Torrents with SSS Rank (Current progress: {0}/{1}),"Tích lũy 5 kỳ vượt ải ""Minh Ca Hải Khư - Vô Tận Đoan Uyên"" với đánh giá SSS (Hiện đã tích lũy vượt ải đánh giá SSS ({0}/{1}) kỳ)"
+lang_multi_text.db,MultiText,EpithetSourceDesc_GecaoTower_3,累计10期在「冥歌海墟·无尽湍渊」中以SSS级评分通关（当前已累计SSS级评分通关（{0}/{1}）期）,Clear 10 phases of Whimpering Wastes: Infinite Torrents with SSS Rank (Current progress: {0}/{1}),"Tích lũy 10 kỳ vượt ải ""Minh Ca Hải Khư - Vô Tận Đoan Uyên"" với đánh giá SSS (Hiện đã tích lũy vượt ải đánh giá SSS ({0}/{1}) kỳ)"
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role1,激活漂泊者·衍射的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Rover: Spectro's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lữ Khách - Quang Phổ (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role10,激活秋水的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Aalto's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Aalto (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role11,激活维里奈的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Verina's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Verina (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role12,激活安可的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Encore's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Encore (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role13,激活卡卡罗的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Calcharo's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Calcharo (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role14,激活凌阳的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Lingyang's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lingyang (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role15,激活鉴心的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Jianxin's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Jianxin (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role16,激活忌炎的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Jiyan's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Jiyan (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role17,激活吟霖的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Yinlin's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Yinlin (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role18,激活今汐的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Jinhsi's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Jinhsi (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role19,激活长离的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Changli's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Changli (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role2,激活秧秧的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Yangyang's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Yangyang (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role20,激活相里要的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Xiangli Yao's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Xiangli Yao (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role21,激活折枝的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Zhezhi's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Zhezhi (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role22,激活守岸人的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Shorekeeper's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Shorekeeper (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role23,激活釉瑚的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Youhu's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Youhu (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role24,激活椿的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Camellya's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Camellya (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role25,激活灯灯的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Lumi's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lumi (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role26,激活珂莱塔的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Carlotta's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Carlotta (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role27,激活洛可可的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Roccia's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Roccia (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role28,激活布兰特的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Brant's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Brant (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role29,激活菲比的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Phoebe's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Phoebe (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role3,激活炽霞的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Chixia's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Chixia (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role30,激活坎特蕾拉的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Cantarella's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Cantarella (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role31,激活夏空的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Ciaccona's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Ciaccona (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role32,激活赞妮的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Zani's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Zani (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role33,激活漂泊者·湮灭的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Rover: Havoc's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lữ Khách - Hủy Diệt (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role34,激活漂泊者·气动的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Rover: Aero's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lữ Khách - Khí Động (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role35,激活卡提希娅的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Cartethyia's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Cartethyia (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role36,激活露帕的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Lupa's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lupa (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role37,激活弗洛洛的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Phrolova's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Phrolova (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role38,激活奥古斯塔的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Augusta's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Augusta (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role39,激活尤诺的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Iuno's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Iuno (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role4,激活白芷的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Baizhi's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Baizhi (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role40,激活嘉贝莉娜的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Galbrena's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Galbrena (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role41,激活仇远的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Qiuyuan's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Qiuyuan (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role43,激活千咲的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Chisa's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Chisa (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role44,激活卜灵的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Buling's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Buling (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role45,激活琳奈的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Lynae's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lynae (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role46,激活莫宁的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Mornye's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Mornye (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role47,激活爱弥斯的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Aemeath's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Aemeath (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role48,激活陆·赫斯的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Luuk Herssen's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Luuk Herssen (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role5,激活丹瑾的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Danjin's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Danjin (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role6,激活散华的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate San'hua's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Sanhua (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role7,激活桃祈的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Taoqi's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Taoqi (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role8,激活莫特斐的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Mortefi's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Mortefi (Hiện đã kích hoạt ({0}/{1}) chuỗi)
+lang_multi_text.db,MultiText,EpithetSourceDesc_Role9,激活渊武的全部共鸣链（当前已激活（{0}/{1}）链）,Fully activate Yuanwu's Resonance Chain ({0}/{1} activated),Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Yuanwu (Hiện đã kích hoạt ({0}/{1}) chuỗi)

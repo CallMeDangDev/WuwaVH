@@ -1,144 +1,440 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,InstanceDungeon_8746_MapName,dnt/2.6塔防活动6-2,,dnt/Sự kiện phòng thủ tháp 2.6 6-2
-lang_multi_text.db,MultiText,InstanceDungeon_8747_MapName,dnt/2.6塔防活动6-3,,dnt/Sự kiện phòng thủ tháp 2.6 6-3
-lang_multi_text.db,MultiText,InstanceDungeon_8748_MapName,dnt/2.6塔防活动肉鸽-1,,dnt/Sự kiện phòng thủ tháp 2.6 roguelike-1
-lang_multi_text.db,MultiText,InstanceDungeon_8749_MapName,dnt/2.6塔防活动肉鸽-2,,dnt/Sự kiện phòng thủ tháp 2.6 roguelike-2
-lang_multi_text.db,MultiText,InstanceDungeon_8750_MapName,dnt/2.6塔防活动肉鸽-无尽,,dnt/Sự kiện phòng thủ tháp 2.6 roguelike-vô tận
-lang_multi_text.db,MultiText,InstanceDungeon_88_MapName,dnt/TD-副本测试2,TD-副本测试2,dnt/TD-Test phụ bản 2
-lang_multi_text.db,MultiText,InstanceDungeon_89_MapName,dnt/TD-副本测试3,TD-副本测试3,dnt/TD-Test phụ bản 3
-lang_multi_text.db,MultiText,InstanceDungeon_8_MapName,瑝珑,Huanglong,Hoàng Long
-lang_multi_text.db,MultiText,InstanceDungeon_9001_Desc,"岛屿高地广袤荒凉，朝圣船搁浅于此，古龙残象不断吞噬着周遭的频率，回音云雾召唤着残象来此聚集——穿梭在这片荒凉墓岛时，千万小心。
-【温馨提示】
-不同身高的共鸣者，跑步速度也会略有不同哦。","Vast and desolate, this land serves as the grave for countless Pilgrim's Sails. The colossal, dragon-shaped Tacet Discord relentlessly devours the nearby frequencies, and Remnant Clouds draw Tacet Discords to gather—never lower your guard when traversing this forsaken isle.
+lang_multi_text.db,MultiText,InstanceDungeon_8312_MonsterTips,"仿声：仿声战略活动中，所有敌人的抗性为0
+充盈：进入战斗时回复全部共鸣能量
+涌流：击败敌人时回复50点共鸣能量
+技巧评分：战斗操作会逐步提高技巧评分，成功闪避、闪避反击与逆势回击将大幅提升技巧评分，而受到攻击则会大幅降低技巧评分","Simulation: All enemies have 0 RES during the Tactical Simulacra event.
+Abundance: Recover all Resonance Energy when entering combat.
+Surge: Recover 50 Resonance Energy when defeating an enemy.
+Combat Rank: Your combat actions will count towards your Combat Rank. Successful Dodge, Dodge Counter, and Counterattack significantly boost your Combat Rank, while being hit drastically decreases your Combat Rank.","Mô Phỏng: Trong hoạt động Chiến Lược Mô Phỏng, kháng tính của tất cả kẻ địch bằng 0
+Tràn Đầy: Khi vào chiến đấu hồi phục toàn bộ Năng Lượng Cộng Hưởng
+Dòng Chảy: Khi đánh bại kẻ địch hồi phục 50 điểm Năng Lượng Cộng Hưởng
+Điểm Kỹ Thuật: Thao tác chiến đấu sẽ dần dần tăng điểm kỹ thuật, né tránh thành công, né tránh phản công và phản đòn sẽ tăng mạnh điểm kỹ thuật, còn khi bị tấn công sẽ giảm mạnh điểm kỹ thuật"
+lang_multi_text.db,MultiText,InstanceDungeon_8313_MonsterTips,"仿声：仿声战略活动中，所有敌人的抗性为0
+充盈：进入战斗时回复全部共鸣能量
+涌流：击败敌人时回复50点共鸣能量
+技巧评分：战斗操作会逐步提高技巧评分，成功闪避、闪避反击与逆势回击将大幅提升技巧评分，而受到攻击则会大幅降低技巧评分","Simulation: All enemies have 0 RES during the Tactical Simulacra event.
+Abundance: Recover all Resonance Energy when entering combat.
+Surge: Recover 50 Resonance Energy when defeating an enemy.
+Combat Rank: Your combat actions will count towards your Combat Rank. Successful Dodge, Dodge Counter, and Counterattack significantly boost your Combat Rank, while being hit drastically decreases your Combat Rank.","Mô Phỏng: Trong hoạt động Chiến Lược Mô Phỏng, kháng tính của tất cả kẻ địch bằng 0
+Tràn Đầy: Khi vào chiến đấu hồi phục toàn bộ Năng Lượng Cộng Hưởng
+Dòng Chảy: Khi đánh bại kẻ địch hồi phục 50 điểm Năng Lượng Cộng Hưởng
+Điểm Kỹ Thuật: Thao tác chiến đấu sẽ dần dần tăng điểm kỹ thuật, né tránh thành công, né tránh phản công và phản đòn sẽ tăng mạnh điểm kỹ thuật, còn khi bị tấn công sẽ giảm mạnh điểm kỹ thuật"
+lang_multi_text.db,MultiText,InstanceDungeon_8314_MonsterTips,"进入战斗时回复50%共鸣能量，目标全属性抗性为0；触发逆势回击时，削减目标21.5%共振度；战斗操作会逐步提高技巧评分，击败目标时，大幅度提升技巧评分。其中，目标处于瘫痪状态时（效果随技巧评分变化）：
+A：受到伤害提升50%；S：受到伤害额外提升50%；SS：受到伤害额外提升100%。","At the start of the challenge, Resonance Energy is recovered by 50%, and the target's RES to All Attributes is reduced to 0. Triggering Counterattack reduces the target's Vibration Strength by 21.5%. Your combat actions will count towards your Combat Rank. Defeating targets significantly boosts your Combat Rank. When targets are immobilized, they receive one of the following debuffs based on your Combat Rank:
 
-[Note]
-Resonators of different heights in Solaris run at different speeds.","Cao nguyên đảo rộng lớn hoang vu, thuyền hành hương mắc cạn nơi đây, Tàn Tượng cổ long không ngừng nuốt chửng tần số xung quanh, mây vọng âm triệu tập Tàn Tượng tụ tập tại đây - khi xuyên qua hòn đảo hoang vu này, hãy thật cẩn thận.
-[Gợi ý]
-Cộng Hưởng Giả có chiều cao khác nhau sẽ có tốc độ chạy hơi khác nhau."
-lang_multi_text.db,MultiText,InstanceDungeon_9001_Title,悲叹墓岛,Penitent's End,Đảo Mộ Ai Than
-lang_multi_text.db,MultiText,InstanceDungeon_9002_Desc,"存储有大量珍贵声骸与艺术品的金库，矗立于云雾缥缈的水境之上。在此处翱翔时，或许能睥睨雪白云海。
-【温馨提示】
-不同身高的共鸣者，跑步速度也会略有不同哦。","A vault, boasting priceless Echoes and artifacts, rises above the ethereal waters. As you soar overhead, you may find yourself swimming in a sea of pure white clouds.
+A: Target takes 50% more damage.
+S: Target takes 100% more damage.
+SS: Target takes 200% more damage.","Khi vào chiến đấu hồi phục 50% Năng Lượng Cộng Hưởng, kháng tính toàn bộ thuộc tính của mục tiêu bằng 0; khi kích hoạt phản đòn, giảm 21.5% độ rung của mục tiêu; thao tác chiến đấu sẽ dần dần tăng điểm kỹ thuật, khi đánh bại mục tiêu, tăng mạnh điểm kỹ thuật. Trong đó, khi mục tiêu ở trạng thái tê liệt (hiệu quả thay đổi theo điểm kỹ thuật):
+A: Sát thương phải chịu tăng 50%; S: Sát thương phải chịu tăng thêm 50%; SS: Sát thương phải chịu tăng thêm 100%."
+lang_multi_text.db,MultiText,InstanceDungeon_8315_MonsterTips,"进入战斗时回复50%共鸣能量，目标全属性抗性为0；触发逆势回击时，削减目标21.5%共振度；战斗操作会逐步提高技巧评分，击败目标时，大幅度提升技巧评分。其中，目标处于瘫痪状态时（效果随技巧评分变化）：
+A：受到伤害提升50%；S：受到伤害额外提升50%；SS：受到伤害额外提升100%。","At the start of the challenge, Resonance Energy is recovered by 50%, and the target's RES to All Attributes is reduced to 0. Triggering Counterattack reduces the target's Vibration Strength by 21.5%. Your combat actions will count towards your Combat Rank. Defeating targets significantly boosts your Combat Rank. When targets are immobilized, they receive one of the following debuffs based on your Combat Rank:
 
-[Note]
-Resonators of different heights in Solaris run at different speeds.","Kho vàng lưu trữ lượng lớn Thanh Hài quý giá và tác phẩm nghệ thuật, sừng sững trên mặt nước mây mờ ảo. Khi bay lượn nơi đây, có lẽ bạn sẽ được ngắm nhìn biển mây trắng xóa.
-[Gợi ý]
-Cộng Hưởng Giả có chiều cao khác nhau sẽ có tốc độ chạy hơi khác nhau."
-lang_multi_text.db,MultiText,InstanceDungeon_9002_Title,埃弗拉德金库,Averardo Vault,Hầm Vàng Averardo
-lang_multi_text.db,MultiText,InstanceDungeon_9003_Desc,"在凄凄冷风中，似乎有缥缈长吟在永夜中响起。你在月色与迷雾间，望见通往未知的长路。
-【温馨提示】
-不同身高的共鸣者，跑步速度也会略有不同哦。","In the chilling winds, faint, lingering tunes echo through the eternal night. Beneath the moonlight and the veil of mist, a long path to the unknown seems to unfold before you.
+A: Target takes 50% more damage.
+S: Target takes 100% more damage.
+SS: Target takes 200% more damage.","Khi vào chiến đấu hồi phục 50% Năng Lượng Cộng Hưởng, kháng tính toàn bộ thuộc tính của mục tiêu bằng 0; khi kích hoạt phản đòn, giảm 21.5% độ rung của mục tiêu; thao tác chiến đấu sẽ dần dần tăng điểm kỹ thuật, khi đánh bại mục tiêu, tăng mạnh điểm kỹ thuật. Trong đó, khi mục tiêu ở trạng thái tê liệt (hiệu quả thay đổi theo điểm kỹ thuật):
+A: Sát thương phải chịu tăng 50%; S: Sát thương phải chịu tăng thêm 50%; SS: Sát thương phải chịu tăng thêm 100%."
+lang_multi_text.db,MultiText,InstanceDungeon_8316_MonsterTips,"进入战斗时回复50%共鸣能量，目标全属性抗性为0；触发逆势回击时，削减目标21.5%共振度；战斗操作会逐步提高技巧评分，击败目标时，大幅度提升技巧评分。其中，目标处于瘫痪状态时（效果随技巧评分变化）：
+A：受到伤害提升50%；S：受到伤害额外提升50%；SS：受到伤害额外提升100%。","At the start of the challenge, Resonance Energy is recovered by 50%, and the target's RES to All Attributes is reduced to 0. Triggering Counterattack reduces the target's Vibration Strength by 21.5%. Your combat actions will count towards your Combat Rank. Defeating targets significantly boosts your Combat Rank. When targets are immobilized, they receive one of the following debuffs based on your Combat Rank:
 
-[Note]
-Resonators of different heights in Solaris run at different speeds.","Trong làn gió lạnh lẽo, dường như có tiếng ngân nga mơ hồ vang lên giữa đêm trường. Giữa ánh trăng và sương mù, bạn nhìn thấy con đường dài dẫn đến nơi chưa biết.
-[Gợi ý]
-Cộng Hưởng Giả có chiều cao khác nhau sẽ có tốc độ chạy hơi khác nhau."
-lang_multi_text.db,MultiText,InstanceDungeon_9003_Title,咏夜歌庭,Atrium of Reflections,Sân Vườn Ngâm Đêm
-lang_multi_text.db,MultiText,InstanceDungeon_9004_Desc,"高塔伫立于静谧的海脊之上，如一条虽已离群却随时能够君临深海的剑鱼。它不断汲取着云海中的能量，铸造罪恶的冠冕。
-【温馨提示】
-不同身高的共鸣者，跑步速度也会略有不同哦。","The towering spire stands atop Thessaleo Fells like a lone swordfish, once separated from its school but ever poised to rule the deep sea. It constantly draws energy from the sea of clouds, forging a sinful crown.
+A: Target takes 50% more damage.
+S: Target takes 100% more damage.
+SS: Target takes 200% more damage.","Khi vào chiến đấu hồi phục 50% Năng Lượng Cộng Hưởng, kháng tính toàn bộ thuộc tính của mục tiêu bằng 0; khi kích hoạt phản đòn, giảm 21.5% độ rung của mục tiêu; thao tác chiến đấu sẽ dần dần tăng điểm kỹ thuật, khi đánh bại mục tiêu, tăng mạnh điểm kỹ thuật. Trong đó, khi mục tiêu ở trạng thái tê liệt (hiệu quả thay đổi theo điểm kỹ thuật):
+A: Sát thương phải chịu tăng 50%; S: Sát thương phải chịu tăng thêm 50%; SS: Sát thương phải chịu tăng thêm 100%."
+lang_multi_text.db,MultiText,InstanceDungeon_8317_MonsterTips,"进入战斗时回复50%共鸣能量，目标全属性抗性为0；触发逆势回击时，削减目标21.5%共振度；战斗操作会逐步提高技巧评分，击败目标时，大幅度提升技巧评分。其中，目标处于瘫痪状态时（效果随技巧评分变化）：
+A：受到伤害提升50%；S：受到伤害额外提升50%；SS：受到伤害额外提升100%。","At the start of the challenge, Resonance Energy is recovered by 50%, and the target's RES to All Attributes is reduced to 0. Triggering Counterattack reduces the target's Vibration Strength by 21.5%. Your combat actions will count towards your Combat Rank. Defeating targets significantly boosts your Combat Rank. When targets are immobilized, they receive one of the following debuffs based on your Combat Rank:
 
-[Note]
-Resonators of different heights in Solaris run at different speeds.","Tòa tháp cao đứng sừng sững trên sống núi tĩnh lặng, như một con cá kiếm tuy đã rời đàn nhưng luôn sẵn sàng thống trị biển sâu. Nó không ngừng hút lấy năng lượng từ biển mây, rèn đúc nên vương miện tội lỗi.
-[Gợi ý]
-Cộng Hưởng Giả có chiều cao khác nhau sẽ có tốc độ chạy hơi khác nhau."
-lang_multi_text.db,MultiText,InstanceDungeon_9004_Title,三重冠塔,Thorncrown Rises,Tháp Vương Miện Gai
-lang_multi_text.db,MultiText,InstanceDungeon_9005_Desc,"在树林环绕的静谧湖泊上驾船而行，再跨过漫漫山野，穿过幽暗洞穴，去亲眼见证终点的风景。
-【温馨提示】
-不同身高的共鸣者，跑步速度也会略有不同哦。","Sail across a serene lake embraced by dense woods, then venture across vast mountain ranges and dark caverns to witness the scenery hidden at the journey's ends.
+A: Target takes 50% more damage.
+S: Target takes 100% more damage.
+SS: Target takes 200% more damage.","Khi vào chiến đấu hồi phục 50% Năng Lượng Cộng Hưởng, kháng tính toàn bộ thuộc tính của mục tiêu bằng 0; khi kích hoạt phản đòn, giảm 21.5% độ rung của mục tiêu; thao tác chiến đấu sẽ dần dần tăng điểm kỹ thuật, khi đánh bại mục tiêu, tăng mạnh điểm kỹ thuật. Trong đó, khi mục tiêu ở trạng thái tê liệt (hiệu quả thay đổi theo điểm kỹ thuật):
+A: Sát thương phải chịu tăng 50%; S: Sát thương phải chịu tăng thêm 50%; SS: Sát thương phải chịu tăng thêm 100%."
+lang_multi_text.db,MultiText,InstanceDungeon_8318_MonsterTips,"进入战斗时回复50%共鸣能量，目标全属性抗性为0；触发逆势回击时，削减目标21.5%共振度；战斗操作会逐步提高技巧评分，击败目标时，大幅度提升技巧评分。其中，目标处于瘫痪状态时（效果随技巧评分变化）：
+A：受到伤害提升50%；S：受到伤害额外提升50%；SS：受到伤害额外提升100%。","At the start of the challenge, Resonance Energy is recovered by 50%, and the target's RES to All Attributes is reduced to 0. Triggering Counterattack reduces the target's Vibration Strength by 21.5%. Your combat actions will count towards your Combat Rank. Defeating targets significantly boosts your Combat Rank. When targets are immobilized, they receive one of the following debuffs based on your Combat Rank:
 
-[Note]
-Resonators of different heights in Solaris run at different speeds.","Chèo thuyền trên mặt hồ tĩnh lặng được rừng cây bao quanh, rồi vượt qua núi non bạt ngàn, xuyên qua hang động u tối, để tận mắt chứng kiến cảnh sắc nơi điểm đến.
-[Gợi ý]
-Cộng Hưởng Giả có chiều cao khác nhau sẽ có tốc độ chạy hơi khác nhau."
-lang_multi_text.db,MultiText,InstanceDungeon_9005_Title,白月林迹,Silver Moon Grove,Dấu Tích Rừng Trăng Bạc
-lang_multi_text.db,MultiText,InstanceDungeon_9006_Desc,"凶险残象盘旋于空中，沿路遍布破败倒坍的树木，风中似乎也酝酿着风暴的气息。要越过惊雷，跨过狂风，才可抵达风平浪静的彼端。
-【温馨提示】
-不同身高的共鸣者，跑步速度也会略有不同哦。","Fierce Tacet Discords circle the skies, while the remnants of fallen trees scatter the path. The air is thick with the scent of an approaching storm. Only by enduring the thunder and gusting winds can you reach the land of peace.
+A: Target takes 50% more damage.
+S: Target takes 100% more damage.
+SS: Target takes 200% more damage.","Khi vào chiến đấu hồi phục 50% Năng Lượng Cộng Hưởng, kháng tính toàn bộ thuộc tính của mục tiêu bằng 0; khi kích hoạt phản đòn, giảm 21.5% độ rung của mục tiêu; thao tác chiến đấu sẽ dần dần tăng điểm kỹ thuật, khi đánh bại mục tiêu, tăng mạnh điểm kỹ thuật. Trong đó, khi mục tiêu ở trạng thái tê liệt (hiệu quả thay đổi theo điểm kỹ thuật):
+A: Sát thương phải chịu tăng 50%; S: Sát thương phải chịu tăng thêm 50%; SS: Sát thương phải chịu tăng thêm 100%."
+lang_multi_text.db,MultiText,InstanceDungeon_8319_MonsterTips,"进入战斗时回复50%共鸣能量，目标全属性抗性为0；触发逆势回击时，削减目标21.5%共振度；战斗操作会逐步提高技巧评分，击败目标时，大幅度提升技巧评分。其中，目标处于瘫痪状态时（效果随技巧评分变化）：
+A：受到伤害提升50%；S：受到伤害额外提升50%；SS：受到伤害额外提升100%。","At the start of the challenge, Resonance Energy is recovered by 50%, and the target's RES to All Attributes is reduced to 0. Triggering Counterattack reduces the target's Vibration Strength by 21.5%. Your combat actions will count towards your Combat Rank. Defeating targets significantly boosts your Combat Rank. When targets are immobilized, they receive one of the following debuffs based on your Combat Rank:
 
-[Note]
-Resonators of different heights in Solaris run at different speeds.","Tàn Tượng hung dữ lượn vòng trên không, dọc đường đầy cây cối đổ nát, trong gió dường như cũng ấp ủ hơi thở bão tố. Phải vượt qua sấm sét, băng qua cuồng phong, mới có thể đến được bến bờ yên bình.
-[Gợi ý]
-Cộng Hưởng Giả có chiều cao khác nhau sẽ có tốc độ chạy hơi khác nhau."
-lang_multi_text.db,MultiText,InstanceDungeon_9006_Title,残息海岸,Shores of Last Breath,Bờ Biển Tàn Hơi
-lang_multi_text.db,MultiText,InstanceDungeon_900_MapName,dnt/泰缇斯之底-AKIwp,test/泰缇斯之底-AKIwp,dnt/Đáy Tethys-AKIwp
-lang_multi_text.db,MultiText,InstanceDungeon_903_DianDaoTa,阿维纽林,Avinoleum,Avinoleum
-lang_multi_text.db,MultiText,InstanceDungeon_904_GuiZuZhaiDi,波蒂维诺堡,Porto-Veno Castle,Lâu Đài Porto-Veno
-lang_multi_text.db,MultiText,InstanceDungeon_90_MapName,dnt/TD-副本内玩法回退测试,TD-副本内玩法回退测试,dnt/TD-Test rollback gameplay trong phụ bản
-lang_multi_text.db,MultiText,InstanceDungeon_91_DungeonDesc,过往的记忆与执念被当做材料，虚构出熟悉的样貌，一如往日的蜃景。其中道路变幻莫测，稍有不慎便会跌落深渊。,"The mind's recollections and fixations serve as fodder, creating a deceiving facade reminiscent of the past. The internal path is treacherous, with any misstep potentially plunging one into a bottomless pit.","Ký ức và ám ảnh trong quá khứ được dùng làm nguyên liệu, dựng nên hình dáng quen thuộc, như ảo ảnh ngày xưa. Con đường bên trong biến ảo khôn lường, chỉ cần sơ suất một chút là rơi xuống vực sâu."
-lang_multi_text.db,MultiText,InstanceDungeon_91_MapName,往日蜃景,Echoes of the Past,Ảo Ảnh Ngày Xưa
-lang_multi_text.db,MultiText,InstanceDungeon_92_MapName,dnt/安全版本跑测,副本综合跑测,dnt/Test chạy phiên bản an toàn
-lang_multi_text.db,MultiText,InstanceDungeon_93_MapName,dnt/子关卡相关测试,test 子 Challenge 相关测试,dnt/Test liên quan màn con
-lang_multi_text.db,MultiText,InstanceDungeon_94_DungeonDesc,昏暗的洞穴之中传来呼啸的风声，狭窄的入口似乎通向另一片天地。深入之时，务必小心——这里亦是猎手们的狩猎场。,"A chilling wind howls through the dark cave, its narrow entrance beckoning to a mysterious realm. But take heed, for this is also the domain of hunters, lurking in the depths. Tread cautiously as you venture deeper into their hunting ground.","Tiếng gió rít vọng ra từ hang động tối tăm, lối vào hẹp dường như dẫn đến một thế giới khác. Khi đi sâu vào, hãy thật cẩn thận - nơi đây cũng là sân săn của những thợ săn."
-lang_multi_text.db,MultiText,InstanceDungeon_94_MapName,隐地洞天,Hidden Cave,Động Trời Ẩn Giấu
-lang_multi_text.db,MultiText,InstanceDungeon_95_DungeonDesc,用于大量生产归魂人偶的大型工厂，除了失控的流放者之外，还有大量致命的陷阱。,"This factory is a maze of malfunctioning Exiles and treacherous traps. Its sole purpose: to mass produce chilling puppets. 
-Treacherous traps lay in wait at every turn.","Nhà máy lớn dùng để sản xuất hàng loạt rối Quy Hồn, ngoài những Kẻ Lưu Đày mất kiểm soát, còn có vô số bẫy chết người."
-lang_multi_text.db,MultiText,InstanceDungeon_95_MapName,傀儡归魂,Puppets Factory,Rối Quy Hồn
-lang_multi_text.db,MultiText,InstanceDungeon_9600_MapName,dnt/2.6找BUG趣味活动今州,,dnt/Sự kiện tìm BUG vui 2.6 Kim Châu
-lang_multi_text.db,MultiText,InstanceDungeon_9601_MapName,dnt/2.6找BUG趣味活动乘霄山,,dnt/Sự kiện tìm BUG vui 2.6 Thừa Tiêu Sơn
-lang_multi_text.db,MultiText,InstanceDungeon_9602_MapName,dnt/2.6找BUG趣味活动黑海岸,,dnt/2.6 Sự kiện tìm BUG Bờ Biển Đen
-lang_multi_text.db,MultiText,InstanceDungeon_9603_MapName,dnt/2.6找BUG趣味活动黎娜汐塔1,,dnt/2.6 Sự kiện tìm BUG Tháp Rinascita 1
-lang_multi_text.db,MultiText,InstanceDungeon_9604_MapName,dnt/2.6找BUG趣味活动黎娜汐塔2,,dnt/2.6 Sự kiện tìm BUG Tháp Rinascita 2
-lang_multi_text.db,MultiText,InstanceDungeon_9605_MapName,dnt/2.6找BUG趣味活动阿维纽林,,dnt/2.6 Sự kiện tìm BUG Avenuelin
-lang_multi_text.db,MultiText,InstanceDungeon_9606_MapName,dnt/2.6找BUG趣味活动七丘,,dnt/2.6 Sự kiện tìm BUG Thất Khâu
-lang_multi_text.db,MultiText,InstanceDungeon_9701_DungeonDesc,照片吗？有机会的话，我也想“亲眼”看看……开玩笑的。,"Photographs? I'd like to ""see"" them myself if possible... Just my sense of humor.","Ảnh chụp á? Nếu có dịp, tôi cũng muốn ""tận mắt"" xem thử... Đùa thôi."
-lang_multi_text.db,MultiText,InstanceDungeon_9701_DungeonTask_1,拍摄仇远的重击动作,Photo of Qiuyuan performing a Heavy Attack,Chụp ảnh Cừu Viễn thực hiện Đánh Mạnh
-lang_multi_text.db,MultiText,InstanceDungeon_9701_DungeonTask_2,拍摄仇远的下落攻击,Photo of Qiuyuan performing a Plunging Attack,Chụp ảnh Cừu Viễn thực hiện đòn tấn công từ trên cao
-lang_multi_text.db,MultiText,InstanceDungeon_9701_DungeonTask_3,使用滤镜·黑白拍摄仇远的写字动作,Photo of Qiuyuan writing (with Filter: Noir),Dùng bộ lọc Đen Trắng chụp ảnh Cừu Viễn viết chữ
-lang_multi_text.db,MultiText,InstanceDungeon_9701_MapName,定格·一叶落竹,As the Bamboo Leaf Falls,Khoảnh Khắc - Lá Trúc Rơi
-lang_multi_text.db,MultiText,InstanceDungeon_9702_DungeonDesc,没事，随便拍。确认过了，这算加班，有加班费。,"It's fine, photo away. I've already confirmed that I'll get overtime pay.","Không sao, cứ chụp thoải mái. Xác nhận rồi, cái này tính làm thêm giờ, có phụ cấp."
-lang_multi_text.db,MultiText,InstanceDungeon_9702_DungeonTask_1,拍摄赞妮的第3段普攻,Photo of Zani performing Basic Attack Stage 3,Chụp ảnh Zani thực hiện Đánh Thường đoạn 3
-lang_multi_text.db,MultiText,InstanceDungeon_9702_DungeonTask_2,拍摄赞妮的重击动作,Photo of Zani performing a Heavy Attack,Chụp ảnh Zani thực hiện Đánh Mạnh
-lang_multi_text.db,MultiText,InstanceDungeon_9702_DungeonTask_3,拍摄赞妮的下落攻击,Photo of Zani performing a Plunging Attack,Chụp ảnh Zani thực hiện đòn tấn công từ trên cao
-lang_multi_text.db,MultiText,InstanceDungeon_9702_MapName,定格·黑街夜焰,Night Flame of Black Alley,Khoảnh Khắc - Lửa Đêm Hẻm Tối
-lang_multi_text.db,MultiText,InstanceDungeon_9703_DungeonDesc,浮光盈雪，春意灼灼。,"Sunlight gleams over the snow, radiating the warmth of spring.","Ánh sáng lấp lánh trên tuyết, hơi xuân rực rỡ."
-lang_multi_text.db,MultiText,InstanceDungeon_9703_DungeonTask_1,拍摄今汐的第4段普攻,Photo of Jinhsi performing Basic Attack Stage 4,Chụp ảnh Kim Tịch thực hiện Đánh Thường đoạn 4
-lang_multi_text.db,MultiText,InstanceDungeon_9703_DungeonTask_2,拍摄今汐的第4段凌霄·普攻,Photo of Jinhsi performing Incarnation Basic Attack Stage 4,Chụp ảnh Kim Tịch thực hiện Lăng Tiêu - Đánh Thường đoạn 4
-lang_multi_text.db,MultiText,InstanceDungeon_9703_DungeonTask_3,拍摄今汐的重击动作,Photo of Jinhsi performing a Heavy Attack,Chụp ảnh Kim Tịch thực hiện Đánh Mạnh
-lang_multi_text.db,MultiText,InstanceDungeon_9703_MapName,定格·时济春舒,The Hour of Hope,Khoảnh Khắc - Xuân Về Đúng Lúc
-lang_multi_text.db,MultiText,InstanceDungeon_9704_DungeonDesc,优美的姿态于狩猎无益，但如果你需要……,"A splendid pose is of no use in a hunt, but if you insist...","Tư thế đẹp chẳng ích gì cho việc săn bắn, nhưng nếu ngươi cần thì..."
-lang_multi_text.db,MultiText,InstanceDungeon_9704_DungeonTask_1,拍摄嘉贝莉娜的第2段普攻,Photo of Galbrena performing Basic Attack Stage 2,Chụp ảnh Galbrena thực hiện Đánh Thường đoạn 2
-lang_multi_text.db,MultiText,InstanceDungeon_9704_DungeonTask_2,拍摄嘉贝莉娜的第4段普攻,Photo of Galbrena performing Basic Attack Stage 4,Chụp ảnh Galbrena thực hiện Đánh Thường đoạn 4
-lang_multi_text.db,MultiText,InstanceDungeon_9704_DungeonTask_3,拍摄嘉贝莉娜的重击动作,Photo of Galbrena performing a Heavy Attack,Chụp ảnh Galbrena thực hiện Đánh Mạnh
-lang_multi_text.db,MultiText,InstanceDungeon_9704_MapName,定格·地狱归亡,Rebirth from the Abyss,Khoảnh Khắc - Tái Sinh Từ Vực Sâu
-lang_multi_text.db,MultiText,InstanceDungeon_9705_DungeonDesc,记录下战斗的动作，并对此加以改进……是个思路。,Picturing movements during combat as reference for future improvements... An interesting approach.,Ghi lại động tác chiến đấu rồi cải tiến thêm... cũng là một hướng hay.
-lang_multi_text.db,MultiText,InstanceDungeon_9705_DungeonTask_1,拍摄忌炎的共鸣技能,Photo of Jiyan performing Resonance Skill,Chụp ảnh Kỵ Viêm thực hiện Kỹ Năng Cộng Hưởng
-lang_multi_text.db,MultiText,InstanceDungeon_9705_DungeonTask_2,拍摄忌炎的第5段普攻,Photo of Jiyan performing Basic Attack Stage 5,Chụp ảnh Kỵ Viêm thực hiện Đánh Thường đoạn 5
-lang_multi_text.db,MultiText,InstanceDungeon_9705_DungeonTask_3,拍摄忌炎的下落攻击,Photo of Jiyan performing a Plunging Attack,Chụp ảnh Kỵ Viêm thực hiện đòn tấn công từ trên cao
-lang_multi_text.db,MultiText,InstanceDungeon_9705_MapName,定格·鳞跃青苍,Dance of Qingloong,Khoảnh Khắc - Vảy Rồng Vút Trời Xanh
-lang_multi_text.db,MultiText,InstanceDungeon_9706_DungeonDesc,看来有人终于赶上了一场演奏。,It seems someone has finally come to my performance in time.,Có vẻ cuối cùng cũng có người đến kịp buổi biểu diễn rồi.
-lang_multi_text.db,MultiText,InstanceDungeon_9706_DungeonTask_1,拍摄弗洛洛的第2段普攻,Photo of Phrolova performing Basic Attack Stage 2,Chụp ảnh Phrolova thực hiện Đánh Thường đoạn 2
-lang_multi_text.db,MultiText,InstanceDungeon_9706_DungeonTask_2,拍摄弗洛洛的普攻·亡与死的乐章,Photo of Phrolova performing Basic Attack - Movement of Fate and Finality,Chụp ảnh Phrolova thực hiện Đánh Thường - Nhạc Chương Vong Tử
-lang_multi_text.db,MultiText,InstanceDungeon_9706_DungeonTask_3,拍摄弗洛洛的共鸣技能,Photo of Phrolova performing Resonance Skill,Chụp ảnh Phrolova thực hiện Kỹ Năng Cộng Hưởng
-lang_multi_text.db,MultiText,InstanceDungeon_9706_MapName,定格·彼岸幽冥,Phantom of the Beyond,Khoảnh Khắc - U Minh Bờ Bên Kia
-lang_multi_text.db,MultiText,InstanceDungeon_9707_DungeonDesc,在你的镜头下，我看起来……怎么样？,How do I look through your lens?,"Qua ống kính của ngươi, ta trông... thế nào?"
-lang_multi_text.db,MultiText,InstanceDungeon_9707_DungeonTask_1,dnt/拍摄白椿的最后一段普攻,Photo of Camellya performing the final stage of Basic Attack,dnt/Chụp ảnh Bạch Xuân thực hiện đoạn Đánh Thường cuối cùng
-lang_multi_text.db,MultiText,InstanceDungeon_9707_DungeonTask_2,dnt/拍摄椿的共鸣技能,Photo of Camellya performing a Resonance Skill,dnt/Chụp ảnh Xuân thực hiện Kỹ Năng Cộng Hưởng
-lang_multi_text.db,MultiText,InstanceDungeon_9707_DungeonTask_3,dnt/拍摄红椿的最后一段普攻,Photo of Camellya performing the final stage of Basic Attack in Blossom Mode,dnt/Chụp ảnh Hồng Xuân thực hiện đoạn Đánh Thường cuối cùng
-lang_multi_text.db,MultiText,InstanceDungeon_9707_MapName,定格·红椿蔓舞,Crimson Waltz,Khoảnh Khắc - Hồng Xuân Vấn Vũ
-lang_multi_text.db,MultiText,InstanceDungeon_9708_DungeonDesc,华丽地、优雅地……！,More magnificence. More elegance!,"Lộng lẫy, thanh nhã...!"
-lang_multi_text.db,MultiText,InstanceDungeon_9708_DungeonTask_1,拍摄尤诺的下落攻击,Photo of Iuno performing a Plunging Attack,Chụp ảnh Iuno thực hiện đòn tấn công từ trên cao
-lang_multi_text.db,MultiText,InstanceDungeon_9708_DungeonTask_2,拍摄尤诺的第3段普攻,Photo of Iuno performing Basic Attack Stage 3,Chụp ảnh Iuno thực hiện Đánh Thường đoạn 3
-lang_multi_text.db,MultiText,InstanceDungeon_9708_DungeonTask_3,拍摄尤诺的共鸣技能,Photo of Iuno performing Resonance Skill,Chụp ảnh Iuno thực hiện Kỹ Năng Cộng Hưởng
-lang_multi_text.db,MultiText,InstanceDungeon_9708_MapName,定格·黯夜皎月,Bright Moon in the Dark,Khoảnh Khắc - Trăng Sáng Đêm Đen
-lang_multi_text.db,MultiText,InstanceDungeon_9709_DungeonDesc,剑能感受到自己的形状。,The sword can sense its own form.,Thanh kiếm có thể cảm nhận được hình dáng của chính mình.
-lang_multi_text.db,MultiText,InstanceDungeon_9709_DungeonTask_1,拍摄仇远使用竹壶喝药的画面,Photo of Qiuyuan drinking,Chụp ảnh Cừu Viễn uống thuốc từ ống trúc
-lang_multi_text.db,MultiText,InstanceDungeon_9709_DungeonTask_2,拍摄仇远召唤竹林的战斗动作,Photo of Qiuyuan summoning bamboos,Chụp ảnh Cừu Viễn triệu hồi rừng trúc khi chiến đấu
-lang_multi_text.db,MultiText,InstanceDungeon_9709_DungeonTask_3,拍摄仇远佩戴斗笠的动作,Photo of Qiuyuan wearing his bamboo hat,Chụp ảnh Cừu Viễn đội nón lá trúc
-lang_multi_text.db,MultiText,InstanceDungeon_9709_MapName,定格·一叶落竹,As the Bamboo Leaf Falls,Khoảnh Khắc - Lá Trúc Rơi
-lang_multi_text.db,MultiText,InstanceDungeon_9710_DungeonDesc,这种高难度动作……得多要点加班费才行。,That was a difficult move to pull off... I might need to ask for more overtime pay.,Động tác khó thế này... phải đòi thêm tiền làm ngoài giờ mới được.
-lang_multi_text.db,MultiText,InstanceDungeon_9710_DungeonTask_1,拍摄赞妮将盾牌掷出的攻击动作,Photo of Zani throwing her shield at the enemy,Chụp ảnh Zani ném khiên tấn công
-lang_multi_text.db,MultiText,InstanceDungeon_9710_DungeonTask_2,拍摄赞妮坐在椅子上休息的画面,Photo of Zani resting on a chair,Chụp ảnh Zani ngồi nghỉ trên ghế
-lang_multi_text.db,MultiText,InstanceDungeon_9710_DungeonTask_3,拍摄赞妮的「重斩」动作,Photo of Zani performing Heavy Slash,"Chụp ảnh Zani thực hiện ""Trọng Trảm"""
-lang_multi_text.db,MultiText,InstanceDungeon_9710_MapName,定格·黑街夜焰,Night Flame of Black Alley,Khoảnh Khắc - Lửa Đêm Hẻm Tối
-lang_multi_text.db,MultiText,InstanceDungeon_9711_DungeonDesc,欲展晴光拂尘雪，与君同看万山前。,"May the snow be brushed away under this clear light, as we gaze at the myriad mountains together.","Muốn trải ánh nắng xua tan tuyết bụi, cùng ngươi ngắm nhìn muôn núi trùng trùng."
-lang_multi_text.db,MultiText,InstanceDungeon_9711_DungeonTask_1,拍摄今汐驭剑的画面,Photo of Jinhsi sitting or stepping on her sword,Chụp ảnh Kim Tịch cưỡi kiếm
-lang_multi_text.db,MultiText,InstanceDungeon_9711_DungeonTask_2,拍摄今汐在【乘岁凌霄】状态下凌空而行的战斗动作,Photo of Jinhsi performing an airborne combat move in Incarnation state,Chụp ảnh Kim Tịch chiến đấu trên không trong trạng thái [Thừa Tuế Lăng Tiêu]
-lang_multi_text.db,MultiText,InstanceDungeon_9711_DungeonTask_3,拍摄今汐召唤岁主「角」的画面,Photo of Jinhsi summoning Sentinel Jué,"Chụp ảnh Kim Tịch triệu hồi Tuế Chủ ""Giác"""
-lang_multi_text.db,MultiText,InstanceDungeon_9711_MapName,定格·时济春舒,The Hour of Hope,Khoảnh Khắc - Xuân Về Đúng Lúc
-lang_multi_text.db,MultiText,InstanceDungeon_9712_DungeonDesc,看着吧，最真实的，狩猎的姿态。,Observe. This is what a real hunting stance looks like.,"Hãy nhìn đây, tư thế săn mồi chân thực nhất."
-lang_multi_text.db,MultiText,InstanceDungeon_9712_DungeonTask_1,拍摄嘉贝莉娜倒立开枪的动作,Photo of Galbrena firing her pistols upside down,Chụp ảnh Galbrena trồng cây chuối bắn súng
-lang_multi_text.db,MultiText,InstanceDungeon_9712_DungeonTask_2,拍摄嘉贝莉娜使用霰弹枪攻击的时刻,Photo of Galbrena firing her shotgun,Chụp ảnh Galbrena tấn công bằng súng hoa cải
-lang_multi_text.db,MultiText,InstanceDungeon_9712_DungeonTask_3,拍摄嘉贝莉娜使用翅膀攻击的画面,Photo of Galbrena attacking with her wings,Chụp ảnh Galbrena tấn công bằng đôi cánh
-lang_multi_text.db,MultiText,InstanceDungeon_9712_MapName,定格·地狱归亡,Rebirth from the Abyss,Khoảnh Khắc - Tái Sinh Từ Vực Sâu
-lang_multi_text.db,MultiText,InstanceDungeon_9713_DungeonDesc,恰当的记录对增进武艺大有裨益，多谢了，挚友。,"Appropriate recordings are indeed a great help in advancing combat skills. Much appreciated, my friend.","Ghi chép đúng cách rất có ích cho việc nâng cao võ nghệ, cảm ơn ngươi, tri kỷ."
+A: Target takes 50% more damage.
+S: Target takes 100% more damage.
+SS: Target takes 200% more damage.","Khi vào chiến đấu hồi phục 50% Năng Lượng Cộng Hưởng, kháng tính toàn bộ thuộc tính của mục tiêu bằng 0; khi kích hoạt phản đòn, giảm 21.5% độ rung của mục tiêu; thao tác chiến đấu sẽ dần dần tăng điểm kỹ thuật, khi đánh bại mục tiêu, tăng mạnh điểm kỹ thuật. Trong đó, khi mục tiêu ở trạng thái tê liệt (hiệu quả thay đổi theo điểm kỹ thuật):
+A: Sát thương phải chịu tăng 50%; S: Sát thương phải chịu tăng thêm 50%; SS: Sát thương phải chịu tăng thêm 100%."
+lang_multi_text.db,MultiText,InstanceDungeon_8401_MapName,梦中人,Blooming Reverie,Người Trong Mộng
+lang_multi_text.db,MultiText,InstanceDungeon_8402_MapName,勇者的舞台剧,Little Warrior's Stage,Vở Kịch Của Dũng Giả
+lang_multi_text.db,MultiText,InstanceDungeon_8403_MapName,无间地狱,Neverending Inferno,Địa Ngục Vô Gián
+lang_multi_text.db,MultiText,InstanceDungeon_8404_MapName,雪隐疑案,A Study in Snow,Vụ Án Ẩn Trong Tuyết
+lang_multi_text.db,MultiText,InstanceDungeon_8405_MapName,山水与六贝币,The Mountain and Six Credits,Non Nước Và Sáu Đồng Shell
+lang_multi_text.db,MultiText,InstanceDungeon_8406_MapName,逆风速运,Against All Odds,Vận Chuyển Ngược Gió
+lang_multi_text.db,MultiText,InstanceDungeon_8407_MapName,dnt/永夜无终,,dnt/Vĩnh Dạ Vô Chung
+lang_multi_text.db,MultiText,InstanceDungeon_8407_MonsterTips,完成永夜重现难度I,Complete Nightmare Revisits Difficulty I,Hoàn thành Đêm Dài Tái Hiện độ khó I
+lang_multi_text.db,MultiText,InstanceDungeon_8408_DungeonDesc,"湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。","The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare.","Cái bóng khổng lồ trong hồ với ánh mắt rực lửa, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...
+Hãy cùng những người bạn tin cậy bước vào Vùng Tập Hợp Trái Tim, liên kết với nhau, trải nghiệm lại cuộc chiến với ác mộng."
+lang_multi_text.db,MultiText,InstanceDungeon_8408_MapName,永夜凶铃Ⅰ,Sinister Calling I,Chuông Hung Đêm Dài I
+lang_multi_text.db,MultiText,InstanceDungeon_8408_MonsterTips,完成永夜重现难度II,Complete Nightmare Revisits Difficulty II,Hoàn thành Đêm Dài Tái Hiện độ khó II
+lang_multi_text.db,MultiText,InstanceDungeon_8409_DungeonDesc,"湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。","The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare.","Cái bóng khổng lồ trong hồ với ánh mắt rực lửa, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...
+Hãy cùng những người bạn tin cậy bước vào Vùng Tập Hợp Trái Tim, liên kết với nhau, trải nghiệm lại cuộc chiến với ác mộng."
+lang_multi_text.db,MultiText,InstanceDungeon_8409_MapName,永夜凶铃Ⅱ,Sinister Calling II,Chuông Hung Đêm Dài II
+lang_multi_text.db,MultiText,InstanceDungeon_8409_MonsterTips,完成永夜重现难度III,Complete Nightmare Revisits Difficulty III,Hoàn thành Đêm Dài Tái Hiện độ khó III
+lang_multi_text.db,MultiText,InstanceDungeon_8410_DungeonDesc,"湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。","The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare.","Cái bóng khổng lồ trong hồ với ánh mắt rực lửa, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...
+Hãy cùng những người bạn tin cậy bước vào Vùng Tập Hợp Trái Tim, liên kết với nhau, trải nghiệm lại cuộc chiến với ác mộng."
+lang_multi_text.db,MultiText,InstanceDungeon_8410_MapName,梦魇再临Ⅰ,Terror Reborn I,Ác Mộng Trở Lại I
+lang_multi_text.db,MultiText,InstanceDungeon_8410_MonsterTips,完成永夜重现难度IV,Complete Nightmare Revisits Difficulty IV,Hoàn thành Đêm Dài Tái Hiện độ khó IV
+lang_multi_text.db,MultiText,InstanceDungeon_8411_DungeonDesc,"湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。","The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare.","Cái bóng khổng lồ trong hồ với ánh mắt rực lửa, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...
+Hãy cùng những người bạn tin cậy bước vào Vùng Tập Hợp Trái Tim, liên kết với nhau, trải nghiệm lại cuộc chiến với ác mộng."
+lang_multi_text.db,MultiText,InstanceDungeon_8411_MapName,永夜凶铃Ⅲ,Sinister Calling III,Chuông Hung Đêm Dài III
+lang_multi_text.db,MultiText,InstanceDungeon_8411_MonsterTips,完成永夜重现难度V,Complete Nightmare Revisits Difficulty V,Hoàn thành Đêm Dài Tái Hiện độ khó V
+lang_multi_text.db,MultiText,InstanceDungeon_8412_DungeonDesc,"湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。","The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare.","Cái bóng khổng lồ trong hồ với ánh mắt rực lửa, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...
+Hãy cùng những người bạn tin cậy bước vào Vùng Tập Hợp Trái Tim, liên kết với nhau, trải nghiệm lại cuộc chiến với ác mộng."
+lang_multi_text.db,MultiText,InstanceDungeon_8412_MapName,永夜凶铃Ⅳ,Sinister Calling IV,Chuông Hung Đêm Dài IV
+lang_multi_text.db,MultiText,InstanceDungeon_8412_MonsterTips,完成永夜重现难度VI,Complete Nightmare Revisits Difficulty VI,Hoàn thành Đêm Dài Tái Hiện độ khó VI
+lang_multi_text.db,MultiText,InstanceDungeon_8413_DungeonDesc,"湖中的巨影目光灼灼，似是要将你再度拉入永夜……
+与你信任的伙伴一同踏入心之集域，链接彼此，重历与梦魇的战斗。","The looming shadow stares at you with its fiery eyes, as if trying to draw you back into the endless darkness. Enter the Somnoire with your trusted companions, link your minds and spirits, and relive your epic battle against the ever-lurking nightmare.","Cái bóng khổng lồ trong hồ với ánh mắt rực lửa, dường như muốn kéo bạn trở lại đêm dài vĩnh cửu...
+Hãy cùng những người bạn tin cậy bước vào Vùng Tập Hợp Trái Tim, liên kết với nhau, trải nghiệm lại cuộc chiến với ác mộng."
+lang_multi_text.db,MultiText,InstanceDungeon_8413_MapName,梦魇再临Ⅱ,Terror Reborn II,Ác Mộng Trở Lại II
+lang_multi_text.db,MultiText,InstanceDungeon_8501_DungeonDesc,"遗响在荒野上回荡，它们匍匐在地，抬起头颅，倾听那嘶哑的呢喃。
+海算沙盘投映着危机四伏的索诺拉，请保持警戒。","The phantoms linger in the wilderness, creeping ahead as they tilt their heads toward the husky whispers.
+
+The Infinite Reality Sandbox projects a Sonoro Sphere fraught with danger. Proceed with caution.","Dư âm vang vọng trên vùng hoang dã, chúng trườn bò trên mặt đất, ngẩng đầu lên, lắng nghe những lời thì thầm khàn đục.
+Sa Bàn Dữ Liệu Lớn đang chiếu ra một Sonora đầy rẫy nguy hiểm, hãy giữ cảnh giác."
+lang_multi_text.db,MultiText,InstanceDungeon_8501_MapName,幽泽险径-Ⅰ,Secluded Bog I,Đầm Lầy Hiểm Trở - I
+lang_multi_text.db,MultiText,InstanceDungeon_8501_MonsterTips,"此关卡中，默认获得【浮游变量】能力强化
+-施放钩索后一段时间内，钩索技能无冷却时间
+
+<color=Highlight>本关卡最高可获取4000战略数据</color>
+<color=Highlight>本关战略数据结算倍率：1</color>","In this series of challenges, you are granted the ""Roaming Variable"" by default.
+-The Grapple does not enter Cooldown within a short period after activation.
+
+<color=Highlight>You can obtain up to 4,000 Tactic Points in this challenge.</color>
+<color=Highlight>Tactic Point conversion rate: 1</color>","Trong ải này, mặc định nhận được cường hóa năng lực [Biến Số Trôi Nổi]
+-Trong một khoảng thời gian sau khi dùng Móc Treo, kỹ năng Móc Treo không có thời gian hồi chiêu
+
+<color=Highlight>Ải này tối đa có thể nhận 4000 Dữ Liệu Chiến Lược</color>
+<color=Highlight>Tỷ lệ quy đổi Dữ Liệu Chiến Lược ải này: 1</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8502_DungeonDesc,"战争呼唤战争，苦痛呼唤苦痛，恶意的种子正在沉睡中成长。
+海算沙盘投映着危机四伏的索诺拉，请保持警戒。","War begets more war, and pain breeds further suffering. In the quiet of slumber, seeds of malice take root.
+
+The Infinite Reality Sandbox projects a Sonoro Sphere fraught with danger. Proceed with caution.","Chiến tranh kêu gọi chiến tranh, khổ đau kêu gọi khổ đau, hạt giống của ác ý đang lớn lên trong giấc ngủ.
+Sa Bàn Dữ Liệu Lớn đang chiếu ra một Sonora đầy rẫy nguy hiểm, hãy giữ cảnh giác."
+lang_multi_text.db,MultiText,InstanceDungeon_8502_MapName,幽泽险径-Ⅱ,Secluded Bog II,Đầm Lầy Hiểm Trở - II
+lang_multi_text.db,MultiText,InstanceDungeon_8502_MonsterTips,"此关卡中，默认获得【浮游变量】能力强化
+-施放钩索后一段时间内，钩索技能无冷却时间
+
+<color=Highlight>此关卡最高可获取12000战略数据</color>
+<color=Highlight>本关战略数据结算倍率：2</color>","In this series of challenges, you are granted the ""Roaming Variable"" by default.
+-The Grapple does not enter Cooldown within a short period after activation.
+
+<color=Highlight>You can obtain up to 12,000 Tactic Points in this challenge.</color>
+<color=Highlight>Tactic Point conversion rate: 2</color>","Trong ải này, mặc định nhận được cường hóa năng lực [Biến Số Trôi Nổi]
+-Trong một khoảng thời gian sau khi dùng Móc Treo, kỹ năng Móc Treo không có thời gian hồi chiêu
+
+<color=Highlight>Ải này tối đa có thể nhận 12000 Dữ Liệu Chiến Lược</color>
+<color=Highlight>Tỷ lệ quy đổi Dữ Liệu Chiến Lược ải này: 2</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8503_DungeonDesc,"摇荡的残响由平缓变得高昂，它高唱厮杀的战歌，将触及的一切融为和声。
+海算沙盘投映着危机四伏的索诺拉，请保持警戒。","The unsettling Reverberation rises from tranquility to its zenith, chanting a war song of chaos that binds all within its reach into a discordant harmony.
+
+The Infinite Reality Sandbox projects a Sonoro Sphere fraught with danger. Proceed with caution.","Dư âm dao động từ êm dịu trở nên cao vút, nó hát vang khúc ca chiến trận giết chóc, hòa tan mọi thứ chạm vào thành hòa âm.
+Sa Bàn Dữ Liệu Lớn đang chiếu ra một Sonora đầy rẫy nguy hiểm, hãy giữ cảnh giác."
+lang_multi_text.db,MultiText,InstanceDungeon_8503_MapName,幽泽险径-Ⅲ,Secluded Bog III,Đầm Lầy Hiểm Trở - III
+lang_multi_text.db,MultiText,InstanceDungeon_8503_MonsterTips,"此关卡中，默认获得【浮游变量】能力强化
+-施放钩索后一段时间内，钩索技能无冷却时间
+
+<color=Highlight>本关战略数据结算倍率：3</color>","In this series of challenges, you are granted the ""Roaming Variable"" by default.
+-The Grapple does not enter Cooldown within a short period after activation.
+
+<color=Highlight>Tactic Point conversion rate: 3</color>","Trong ải này, mặc định nhận được cường hóa năng lực [Biến Số Trôi Nổi]
+-Trong một khoảng thời gian sau khi dùng Móc Treo, kỹ năng Móc Treo không có thời gian hồi chiêu
+
+<color=Highlight>Tỷ lệ quy đổi Dữ Liệu Chiến Lược ải này: 3</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8510_DungeonDesc,"涛声如潮，无相燹主的子群自海岸前行，在暴风里逡巡。
+海算沙盘投映着危机四伏的索诺拉，请保持警戒。","As waves crash in the distance, servants of the Ovathrax emerge from the coasts, prowling through the storm.
+
+The Infinite Reality Sandbox projects a Sonoro Sphere fraught with danger. Proceed with caution.","Tiếng sóng như thủy triều, bầy con của Vô Tướng Tiển Chủ tiến lên từ bờ biển, tuần tra trong cơn bão.
+Sa Bàn Dữ Liệu Lớn đang chiếu ra một Sonora đầy rẫy nguy hiểm, hãy giữ cảnh giác."
+lang_multi_text.db,MultiText,InstanceDungeon_8510_MapName,异象涛声-Ⅰ,Tide of Perils I,Tiếng Sóng Dị Tượng - I
+lang_multi_text.db,MultiText,InstanceDungeon_8510_MonsterTips,"此关卡中，默认获得【飞驰变量】能力强化
+-角色移动速度默认提高
+-进入冲刺状态后，10秒内当前角色冲刺时会附带额外的冲击伤害，该效果切人后消失，且存在10秒冷却时间
+
+<color=Highlight>当前关卡最高可获取4000战略数据</color>
+<color=Highlight>本关战略数据结算倍率：1</color>","In this series of challenges, you are granted the ""Speeding Variable"".
+-Resonator's movement speed is increased by default.
+-Dashing launches enemies in the air and deals DMG. This effect lasts for 10s and will be removed after switching to another Resonator, with a Cooldown of 10s.
+
+<color=Highlight>You can obtain up to 4,000 Tactic Points in this challenge.</color>
+<color=Highlight>Tactic Point conversion rate: 1</color>","Trong ải này, mặc định nhận được cường hóa năng lực [Biến Số Tốc Độ]
+-Tốc độ di chuyển của nhân vật mặc định được tăng lên
+-Sau khi vào trạng thái lướt, trong 10 giây nhân vật hiện tại khi lướt sẽ kèm theo sát thương xung kích, hiệu quả này mất khi đổi người, và có 10 giây thời gian hồi chiêu
+
+<color=Highlight>Ải hiện tại tối đa có thể nhận 4000 Dữ Liệu Chiến Lược</color>
+<color=Highlight>Tỷ lệ quy đổi Dữ Liệu Chiến Lược ải này: 1</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8511_DungeonDesc,"涛声如潮，无相燹主的子群自海岸前行，在烈阳下游荡。
+海算沙盘投映着危机四伏的索诺拉，请保持警戒。","As waves crash in the distance, servants of the Ovathrax emerge from the coasts, roaming under the sun.
+
+The Infinite Reality Sandbox projects a Sonoro Sphere fraught with danger. Proceed with caution.","Tiếng sóng như thủy triều, bầy con của Vô Tướng Tiển Chủ tiến lên từ bờ biển, lang thang dưới ánh mặt trời gay gắt.
+Sa Bàn Dữ Liệu Lớn đang chiếu ra một Sonora đầy rẫy nguy hiểm, hãy giữ cảnh giác."
+lang_multi_text.db,MultiText,InstanceDungeon_8511_MapName,异象涛声-Ⅱ,Tide of Perils II,Tiếng Sóng Dị Tượng - II
+lang_multi_text.db,MultiText,InstanceDungeon_8511_MonsterTips,"此关卡中，默认获得【飞驰变量】能力强化
+-角色移动速度默认提高
+-进入冲刺状态后，10秒内当前角色冲刺时会附带额外的冲击伤害，该效果切人后消失，且存在10秒冷却时间
+
+<color=Highlight>本关卡最高可获取12000战略数据</color>
+<color=Highlight>本关战略数据结算倍率：2</color>","In this series of challenges, you are granted the ""Speeding Variable"" by default.
+-Resonator's movement speed is increased by default
+-Dashing launches enemies in the air and deals DMG. This effect lasts for 10s and will be removed after switching to another Resonator, with a Cooldown of 10s.
+
+<color=Highlight>You can obtain up to 12,000 Tactic Points in this challenge.</color>
+<color=Highlight>Tactic Point conversion rate: 2</color>","Trong ải này, mặc định nhận được cường hóa năng lực [Biến Số Tốc Độ]
+-Tốc độ di chuyển của nhân vật mặc định được tăng lên
+-Sau khi vào trạng thái lướt, trong 10 giây nhân vật hiện tại khi lướt sẽ kèm theo sát thương xung kích, hiệu quả này mất khi đổi người, và có 10 giây thời gian hồi chiêu
+
+<color=Highlight>Ải này tối đa có thể nhận 12000 Dữ Liệu Chiến Lược</color>
+<color=Highlight>Tỷ lệ quy đổi Dữ Liệu Chiến Lược ải này: 2</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8512_DungeonDesc,"涛声如潮，无相燹主的子群自海岸前行，在骤雨中疾驰。
+海算沙盘投映着危机四伏的索诺拉，请保持警戒。","As waves crash in the distance, servants of the Ovathrax emerge from the coasts, galloping in the tempest.
+
+The Infinite Reality Sandbox projects a Sonoro Sphere fraught with danger. Proceed with caution.","Tiếng sóng như thủy triều, bầy con của Vô Tướng Tiển Chủ tiến lên từ bờ biển, lao nhanh trong cơn mưa rào.
+Sa Bàn Dữ Liệu Lớn đang chiếu ra một Sonora đầy rẫy nguy hiểm, hãy giữ cảnh giác."
+lang_multi_text.db,MultiText,InstanceDungeon_8512_MapName,异象涛声-Ⅲ,Tide of Perils III,Tiếng Sóng Dị Tượng - III
+lang_multi_text.db,MultiText,InstanceDungeon_8512_MonsterTips,"此关卡中，默认获得【飞驰变量】能力强化
+-角色移动速度默认提高
+-进入冲刺状态后，10秒内当前角色冲刺时会附带额外的冲击伤害，该效果切人后消失，且存在10秒冷却时间
+
+<color=Highlight>本关战略数据结算倍率：3</color>","In this series of challenges, you are granted the ""Speeding Variable"" by default.
+-Resonator's movement speed is increased by default
+-Dashing launches enemies in the air and deals DMG. This effect lasts for 10s and will be removed after switching to another Resonator, with a Cooldown of 10s.
+
+<color=Highlight>Tactic Point conversion rate: 3</color>","Trong ải này, mặc định nhận được cường hóa năng lực [Biến Số Tốc Độ]
+-Tốc độ di chuyển của nhân vật mặc định được tăng lên
+-Sau khi vào trạng thái lướt, trong 10 giây nhân vật hiện tại khi lướt sẽ kèm theo sát thương xung kích, hiệu quả này mất khi đổi người, và có 10 giây thời gian hồi chiêu
+
+<color=Highlight>Tỷ lệ quy đổi Dữ Liệu Chiến Lược ải này: 3</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8519_DungeonDesc,"黑海岸似乎在研发海算沙盘方面取得了新的突破，更逼真的地图与更刺激的战斗接踵而来……
+这次，场地被置于了悲叹墓岛，那个曾接纳无数被流放之人的……荒岛。","It seems the Black Shores has made breakthroughs in its Infinite Reality Sandbox, now offering more immersive environments and thrilling battles.
+
+This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Bờ Biển Đen dường như đã đạt được đột phá mới trong việc nghiên cứu phát triển Sa Bàn Dữ Liệu Lớn, bản đồ chân thực hơn và những trận chiến kích thích hơn đang lần lượt xuất hiện...
+Lần này, địa điểm được đặt tại Đảo Mộ Than Khóc, hòn đảo hoang từng tiếp nhận vô số kẻ bị lưu đày."
+lang_multi_text.db,MultiText,InstanceDungeon_8519_MapName,悲叹墓岛-Ⅰ,Penitent's End I,Đảo Mộ Than Khóc - I
+lang_multi_text.db,MultiText,InstanceDungeon_8519_MonsterTips,"该关卡内，<color=Highlight>洛可可</color>的共鸣技能无冷却时间。
+该关卡内，翱翔体力消耗减少。
+
+核心增益：<color=Highlight>冲刺状态和下落攻击</color>时会召唤【旋风】造成湮灭属性伤害。","In this challenge: 
+<color=Highlight>Roccia's</color> Resonance Skill has no cooldown.
+Flight STA cost is reduced.
+
+Key Buff: <color=Highlight>Dash and Plunge Attack</color> summon a Cyclone that deals Havoc DMG.","Trong ải này, Kỹ Năng Cộng Hưởng của <color=Highlight>Roccia</color> không có thời gian hồi chiêu.
+Trong ải này, tiêu hao thể lực khi Bay Lượn giảm.
+
+Lợi ích cốt lõi: Khi <color=Highlight>trạng thái lướt và tấn công đáp xuống</color> sẽ triệu hồi [Gió Xoáy] gây Sát Thương Hủy Diệt."
+lang_multi_text.db,MultiText,InstanceDungeon_8520_DungeonDesc,"黑海岸似乎在研发海算沙盘方面取得了新的突破，更逼真的地图与更刺激的战斗接踵而来……
+这次，场地被置于了悲叹墓岛，那个曾接纳无数被流放之人的……荒岛。","It seems the Black Shores has made breakthroughs in its Infinite Reality Sandbox, now offering more immersive environments and thrilling battles.
+
+This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Bờ Biển Đen dường như đã đạt được đột phá mới trong việc nghiên cứu phát triển Sa Bàn Dữ Liệu Lớn, bản đồ chân thực hơn và những trận chiến kích thích hơn đang lần lượt xuất hiện...
+Lần này, địa điểm được đặt tại Đảo Mộ Than Khóc, hòn đảo hoang từng tiếp nhận vô số kẻ bị lưu đày."
+lang_multi_text.db,MultiText,InstanceDungeon_8520_MapName,悲叹墓岛-II,Penitent's End II,Đảo Mộ Than Khóc - II
+lang_multi_text.db,MultiText,InstanceDungeon_8520_MonsterTips,"该关卡内，<color=Highlight>洛可可</color>的共鸣技能无冷却时间。
+该关卡内，翱翔体力消耗减少。
+
+核心增益：<color=Highlight>冲刺状态和下落攻击</color>时会召唤【旋风】造成湮灭属性伤害。","In this challenge:
+<color=Highlight>Roccia's</color> Resonance Skill has no cooldown.
+Flight STA cost is reduced.
+
+Key Buff: <color=Highlight>Dash and Plunge Attack</color> summon a Cyclone that deals Havoc DMG.","Trong ải này, Kỹ Năng Cộng Hưởng của <color=Highlight>Roccia</color> không có thời gian hồi chiêu.
+Trong ải này, tiêu hao thể lực khi Bay Lượn giảm.
+
+Lợi ích cốt lõi: Khi <color=Highlight>trạng thái lướt và tấn công đáp xuống</color> sẽ triệu hồi [Gió Xoáy] gây Sát Thương Hủy Diệt."
+lang_multi_text.db,MultiText,InstanceDungeon_8521_DungeonDesc,"黑海岸似乎在研发海算沙盘方面取得了新的突破，更逼真的地图与更刺激的战斗接踵而来……
+这次，场地被置于了悲叹墓岛，那个曾接纳无数被流放之人的……荒岛。","It seems the Black Shores has made breakthroughs in its Infinite Reality Sandbox, now offering more immersive environments and thrilling battles.
+
+This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Bờ Biển Đen dường như đã đạt được đột phá mới trong việc nghiên cứu phát triển Sa Bàn Dữ Liệu Lớn, bản đồ chân thực hơn và những trận chiến kích thích hơn đang lần lượt xuất hiện...
+Lần này, địa điểm được đặt tại Đảo Mộ Than Khóc, hòn đảo hoang từng tiếp nhận vô số kẻ bị lưu đày."
+lang_multi_text.db,MultiText,InstanceDungeon_8521_MapName,悲叹墓岛-III,Penitent's End III,Đảo Mộ Than Khóc - III
+lang_multi_text.db,MultiText,InstanceDungeon_8521_MonsterTips,"该关卡内，<color=Highlight>菲比</color>空中重击无施放次数限制。
+该关卡内，翱翔体力消耗减少。
+
+核心增益：<color=Highlight>变奏技能入场</color>时，造成额外触发【风蚀效应】与【光噪效应】。","In this challenge:
+<color=Highlight>Phoebe</color> can cast Mid-air Heavy Attacks unlimited times. 
+Flight STA cost is reduced.
+
+Key Buff: <color=Highlight>Casting Intro Skill</color> will also inflict Aero Erosion and Spectro Frazzle on the target.","Trong ải này, Đánh Mạnh trên không của <color=Highlight>Phoebe</color> không giới hạn số lần thi triển.
+Trong ải này, tiêu hao thể lực khi Bay Lượn giảm.
+
+Lợi ích cốt lõi: Khi <color=Highlight>vào trận bằng Kỹ Năng Biến Tấu</color>, gây thêm [Hiệu Ứng Phong Thực] và [Hiệu Ứng Quang Táo]."
+lang_multi_text.db,MultiText,InstanceDungeon_8522_DungeonDesc,"黑海岸似乎在研发海算沙盘方面取得了新的突破，更逼真的地图与更刺激的战斗接踵而来……
+这次，场地被置于了悲叹墓岛，那个曾接纳无数被流放之人的……荒岛。","It seems the Black Shores has made breakthroughs in its Infinite Reality Sandbox, now offering more immersive environments and thrilling battles.
+
+This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Bờ Biển Đen dường như đã đạt được đột phá mới trong việc nghiên cứu phát triển Sa Bàn Dữ Liệu Lớn, bản đồ chân thực hơn và những trận chiến kích thích hơn đang lần lượt xuất hiện...
+Lần này, địa điểm được đặt tại Đảo Mộ Than Khóc, hòn đảo hoang từng tiếp nhận vô số kẻ bị lưu đày."
+lang_multi_text.db,MultiText,InstanceDungeon_8522_MapName,悲叹墓岛-IV,Penitent's End IV,Đảo Mộ Than Khóc - IV
+lang_multi_text.db,MultiText,InstanceDungeon_8522_MonsterTips,"该关卡内，<color=Highlight>长离</color>将一直处于<color=Highlight>心眼</color>状态。
+该关卡内，翱翔体力消耗减少。
+
+核心增益：进行<color=Highlight>空中攻击</color>命中怪物时，额外召唤【陨石】造成热熔伤害。","In this challenge:
+<color=Highlight>Changli</color> remains in the <color=Highlight>True Sight</color> state.
+Flight STA cost is reduced.
+
+Key Buff: <color=Highlight>Mid-air Attack</color> summons a Meteorite on hit, dealing Fusion DMG.","Trong ải này, <color=Highlight>Trường Ly</color> sẽ luôn ở trong trạng thái <color=Highlight>Tâm Nhãn</color>.
+Trong ải này, tiêu hao thể lực khi Bay Lượn giảm.
+
+Lợi ích cốt lõi: Khi thực hiện <color=Highlight>tấn công trên không</color> trúng quái vật, triệu hồi thêm [Thiên Thạch] gây Sát Thương Hỏa Liệt."
+lang_multi_text.db,MultiText,InstanceDungeon_8523_DungeonDesc,"黑海岸似乎在研发海算沙盘方面取得了新的突破，更逼真的地图与更刺激的战斗接踵而来……
+这次，场地被置于了悲叹墓岛，那个曾接纳无数被流放之人的……荒岛。","It seems the Black Shores has made breakthroughs in its Infinite Reality Sandbox, now offering more immersive environments and thrilling battles.
+
+This time, the simulation takes place on Penitent's End, a desolate island where countless banished souls meet their fate.","Bờ Biển Đen dường như đã đạt được đột phá mới trong việc nghiên cứu phát triển Sa Bàn Dữ Liệu Lớn, bản đồ chân thực hơn và những trận chiến kích thích hơn đang lần lượt xuất hiện...
+Lần này, địa điểm được đặt tại Đảo Mộ Than Khóc, hòn đảo hoang từng tiếp nhận vô số kẻ bị lưu đày."
+lang_multi_text.db,MultiText,InstanceDungeon_8523_MapName,悲叹墓岛-V,Penitent's End V,Đảo Mộ Than Khóc - V
+lang_multi_text.db,MultiText,InstanceDungeon_8523_MonsterTips,"该关卡内，<color=Highlight>灯灯</color>的<color=Highlight>黄灯·疾奔</color>不消耗耐力。
+该关卡内，翱翔体力消耗减少。
+
+
+核心增益：角色<color=Highlight>普攻命中敌人</color>或<color=Highlight>造成普攻伤害</color>时，额外召唤【坠星】造成导电伤害。","In this challenge:
+<color=Highlight>Lumi's</color> <color=Highlight>Yellow Light: Zoom</color> doesn't consume STA.
+Flight STA cost is reduced.
+
+Key Buff: <color=Highlight>Hitting a target with Basic Attack</color> or <color=Highlight>dealing Basic Attack DMG</color> additionally summons Starfall that deals Electro DMG.","Trong ải này, <color=Highlight>Đăng Đăng</color> thi triển <color=Highlight>Đèn Vàng: Phóng Nhanh</color> không tiêu hao thể lực.
+Trong ải này, tiêu hao thể lực khi Bay Lượn giảm.
+
+
+Lợi ích cốt lõi: Khi nhân vật <color=Highlight>Đánh Thường trúng kẻ địch</color> hoặc <color=Highlight>gây sát thương Đánh Thường</color>, triệu hồi thêm [Sao Rơi] gây Sát Thương Điện Từ."
+lang_multi_text.db,MultiText,InstanceDungeon_8610_Description,"夏日晴朗的早晨，有人用画笔记下了寂寞小姐撑阳伞漫步于微风中的场景。
+“我能否将你比作夏天？”","Painted on a bright summer morning, this piece captures a Lottie Lost strolling under her parasol, the breeze flowing gently around her. 
+""Shall I compare thee to a summer's day?""","Vào một buổi sáng mùa hè trong trẻo, có người đã dùng cọ vẽ ghi lại cảnh Quý Cô Cô Đơn cầm dù đi dạo trong gió nhẹ.
+""Liệu tôi có thể ví em như mùa hạ?"""
+lang_multi_text.db,MultiText,InstanceDungeon_8610_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+<color=#c25757>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8610_Name,撑阳伞的寂寞小姐,Lottie Lost with a Parasol,Quý Cô Cô Đơn Cầm Dù
+lang_multi_text.db,MultiText,InstanceDungeon_8611_Description,"在没有狂欢节的日子里，拉古那的星夜中流淌着忧郁和不安的梦。
+“那夜繁星点点，你在画板上涂抹着灰与蓝。”","In the absence of the Carnevale, restless dreams drift through Ragunna's starry night.
+""Starry, starry night. Paint your palette blue and gray.""","Trong những ngày không có lễ hội, đêm đầy sao ở Ragunna trôi chảy những giấc mơ u sầu và bất an.
+""Đêm đó sao trời lấp lánh, người bôi lên bảng vẽ những gam màu xám và xanh."""
+lang_multi_text.db,MultiText,InstanceDungeon_8611_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+<color=#c25757>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8611_Name,拉古那城的星夜,Starry Night Over Ragunna,Đêm Đầy Sao Thành Phố Ragunna
+lang_multi_text.db,MultiText,InstanceDungeon_8612_Description,"拉古那肖像画的典范，没有人知道画中的神使为何微笑。
+“我并不擅长摄影，因为画家不需要那种东西。”","A portrait hailed as the pinnacle of Ragunna's artistry, yet the Divine Envoy's smile on the canvas remains an enigma.
+""I'm not good at photography, for it holds no value to a painter.""","Một bức chân dung mẫu mực của Ragunna, không ai biết vì sao sứ giả trong tranh lại mỉm cười.
+""Tôi không giỏi chụp ảnh, bởi vì họa sĩ không cần thứ đó."""
+lang_multi_text.db,MultiText,InstanceDungeon_8612_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+<color=#c25757>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8612_Name,琉璃刀伶的微笑,Vitreum Dancer's Smile,Nụ Cười Của Vũ Công Lưu Ly
+lang_multi_text.db,MultiText,InstanceDungeon_8613_Description,"在朝圣者眼中，汹涌狂暴的大海充满了崇高与激情。
+“你要尝试画出自己想象中的不曾目睹之物。”","Through the pilgrim's eyes, the turbulent sea is the very embodiment of virtue and passion.
+""Try to imagine something you've never seen and let your hand flow across the canvas.""","Trong mắt người hành hương, biển cả cuộn trào hung bạo tràn đầy sự cao cả và đam mê.
+""Bạn phải thử vẽ ra những thứ mình tưởng tượng nhưng chưa từng nhìn thấy."""
+lang_multi_text.db,MultiText,InstanceDungeon_8613_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+敌方获得20%最大生命的护盾，持有护盾时攻击提升70%
+<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+Enemies gain a Shield worth 20% of their Max HP, with 70% increased ATK while shielded. 
+<color=#c25757>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+Kẻ địch nhận được lá chắn bằng 20% máu tối đa, khi có lá chắn tấn công tăng 70%
+<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8613_Name,雾海中的朝圣者,Pilgrim in the Sea of Fog,Người Hành Hương Trong Biển Sương
+lang_multi_text.db,MultiText,InstanceDungeon_8614_Description,"头戴珍珠耳环的教士永恒地凝望着画框外的画师，欲言又止。
+“难道那金色的青春，枉然赠我以玫瑰？”","Adorned with pearl earrings, the acolyte on the canvas casts her eternal gaze upon the painter, her silence echoing.
+""Was it my golden youth that vainly gave me the roses?""","Vị giáo sĩ đeo khuyên tai ngọc trai vĩnh viễn nhìn chăm chú vào họa sĩ bên ngoài khung tranh, muốn nói lại thôi.
+""Lẽ nào tuổi thanh xuân vàng son ấy, lại tặng hoa hồng cho tôi một cách uổng phí?"""
+lang_multi_text.db,MultiText,InstanceDungeon_8614_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+敌方获得5层【坚硬】，每层【坚硬】提升20%防御，每受到1次伤害失去1层【坚硬】
+<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+Enemies start with 5 stacks of Toughness. Each stack increases their DEF by 20%. Each time the enemy takes DMG, they lose 1 stack of Toughness.
+<color=#c25757>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+Kẻ địch nhận được 5 tầng [Kiên Cố], mỗi tầng [Kiên Cố] tăng 20% phòng thủ, mỗi khi chịu 1 lần sát thương mất 1 tầng [Kiên Cố]
+<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8614_Name,戴珍珠耳环的教士,Acolyte with the Pearl Earrings,Giáo Sĩ Đeo Khuyên Tai Ngọc Trai
+lang_multi_text.db,MultiText,InstanceDungeon_8615_Description,"灾难来临时，拉古那的人民团结在她的圣旗下同仇敌忾。
+“万福英白拉多！”","In times of peril, the people of Ragunna rally under her banner to resist the invaders. 
+""Praise be to Imperator!""","Khi tai họa ập đến, người dân Ragunna đoàn kết dưới lá cờ thánh của cô ấy, cùng chung mối thù.
+""Vạn phúc Imperator!"""
+lang_multi_text.db,MultiText,InstanceDungeon_8615_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+角色使用声骸技能时，会对自己造成20%最大生命值的伤害
+<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+Using Echo Skills costs the Resonator 20% of their Max HP. 
+<color=#c25757>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+Khi nhân vật sử dụng Kỹ Năng Thanh Hài, sẽ gây sát thương bằng 20% máu tối đa cho bản thân
+<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8615_Name,信仰引导人民,Faith Leading the People,Đức Tin Dẫn Lối Người Dân
+lang_multi_text.db,MultiText,InstanceDungeon_8616_Description,"翡萨烈其实并不知道英白拉多来自何处，但在他们的梦里，祂高于这世上的一切。
+“祂命海水冲洗尘世的崖岸，静静地俯视荒原与群山。”","The Fisalias do not know of Sentinel Imperator's origins, but in their dreams, there is no higher authority.
+""Silent above the wastelands and the mountains, They command the sea to dash upon the cliffs.""","Người Fisalia thực ra không biết Imperator đến từ đâu, nhưng trong giấc mơ của họ, Ngài cao hơn mọi thứ trên thế gian này.
+""Ngài ra lệnh cho nước biển rửa sạch bờ cõi trần thế, lặng lẽ nhìn xuống vùng hoang vu và những ngọn núi."""
+lang_multi_text.db,MultiText,InstanceDungeon_8616_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+高难度挑战关卡，请做好充分的准备。
+完成挑战可获得隐藏道具。
+<color=#c25757>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+This is a high-difficulty challenge. Please be fully prepared. Hidden rewards await those who finish the challenge. 
+<color=#c25757>Trial Resonators will be available in Solo mode</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+Ải thử thách độ khó cao, hãy chuẩn bị đầy đủ.
+Hoàn thành thử thách có thể nhận đạo cụ ẩn.
+<color=#c25757>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8616_Name,英白拉多的诞生,The Birth of Imperator,Sự Ra Đời Của Imperator
+lang_multi_text.db,MultiText,InstanceDungeon_8620_Description,"“他只是不想遵守向死亡做出的承诺。”
+请帮助多萝西击败门内的怪物吧。","""No, he made a promise to death that he didn't keep.""
+Help Dorothy defeat the monster behind the door.","""Hắn chỉ là không muốn tuân thủ lời hứa đã đưa ra với cái chết.""
+Hãy giúp Dorothy đánh bại quái vật bên trong cánh cửa nhé."
+lang_multi_text.db,MultiText,InstanceDungeon_8620_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+<color=#aa9b6a>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+<color=#aa9b6a>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+<color=#aa9b6a>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8620_Name,三元悖论,The Triangle,Nghịch Lý Tam Nguyên
+lang_multi_text.db,MultiText,InstanceDungeon_8620_Title,迷失海上,Lost at Sea,Lạc Lối Trên Biển
+lang_multi_text.db,MultiText,InstanceDungeon_8621_Description,"“当你以为一切已经结束，其实才刚刚开始。”
+可以尝试挑战门内的特殊怪物。祝你好运。","""Just when you think it's over, it's only just begun.""
+Try challenging the special enemy behind the door. Good luck.","""Khi bạn tưởng rằng mọi thứ đã kết thúc, thực ra nó mới chỉ bắt đầu.""
+Có thể thử thách đấu với quái vật đặc biệt bên trong cánh cửa. Chúc may mắn."
+lang_multi_text.db,MultiText,InstanceDungeon_8621_MonsterTips,"复苏时间（单人模式）：15秒
+复苏时间（联机模式）：10秒
+
+<color=#aa9b6a>单人模式提供试用角色。</color>
+敌方血量低于50%时，获得自身最大生命值30%的护盾。护盾存在时，敌方攻击提升50%，受到共鸣解放伤害提升100%。","Revival Time: 15s (Solo); 10s (Co-op)
+<color=#aa9b6a>Trial Resonators will be available in Solo mode.</color>
+When the enemy's HP is lower than 50%, gain a shield based on 30% of your Max HP. When you are shielded, the enemy's ATK is increased by 50%, but the Resonance Liberation DMG it takes is increased by 100%.","Thời gian hồi sinh (Chế độ đơn): 15 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+
+<color=#aa9b6a>Chế độ đơn cung cấp nhân vật dùng thử.</color>
+Khi lượng máu kẻ địch dưới 50%, nhận lá chắn bằng 30% máu tối đa của bản thân. Khi lá chắn tồn tại, tấn công của kẻ địch tăng 50%, sát thương Giải Phóng Cộng Hưởng phải chịu tăng 100%."
+lang_multi_text.db,MultiText,InstanceDungeon_8621_Name,受困循环,Trapped in Loop,Vòng Lặp Giam Cầm
+lang_multi_text.db,MultiText,InstanceDungeon_8621_Title,致命心愿,Deadly Wish,Nguyện Ước Chí Mạng
+lang_multi_text.db,MultiText,InstanceDungeon_8622_Description,"“你许下愿望，愿望就属于你……而属于你的事物终将回到你身边。”
+请帮助多萝西击败门内的怪物吧。","""You make a wish, and it becomes yours... In the end, everything that’s yours will come back to you.""
+Help Dorothy defeat the monster behind the door.","""Bạn ước nguyện, điều ước sẽ thuộc về bạn... và những thứ thuộc về bạn cuối cùng sẽ trở về bên bạn.""
+Hãy giúp Dorothy đánh bại quái vật bên trong cánh cửa nhé."
+lang_multi_text.db,MultiText,InstanceDungeon_8622_MonsterTips,"复苏时间（单人模式）：10秒
+复苏时间（联机模式）：10秒
+<color=#aa9b6a>单人模式提供试用角色。</color>","Revival Time: 10s (Solo & Co-op)
+<color=#aa9b6a>Trial Resonators will be available in Solo mode.</color>","Thời gian hồi sinh (Chế độ đơn): 10 giây
+Thời gian hồi sinh (Chế độ liên minh): 10 giây
+<color=#aa9b6a>Chế độ đơn cung cấp nhân vật dùng thử.</color>"
+lang_multi_text.db,MultiText,InstanceDungeon_8622_Name,偏执希望,Paranoid Hope,Hy Vọng Cố Chấp
+lang_multi_text.db,MultiText,InstanceDungeon_8622_Title,诡镇怪谈,Cursed Town,Chuyện Lạ Trấn Ma Quái
+lang_multi_text.db,MultiText,InstanceDungeon_8623_Description,"“你以为你在尖叫，但其实那是……”
+可以尝试挑战门内的特殊怪物。祝你好运。","""You think you're screaming, but that's actually...""
+Try challenging the special enemy behind the door. Good luck.","""Bạn tưởng rằng mình đang la hét, nhưng thực ra đó là...""
+Có thể thử thách đấu với quái vật đặc biệt bên trong cánh cửa. Chúc may mắn."

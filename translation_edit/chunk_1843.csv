@@ -1,376 +1,287 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,RogueBuffPool_140903_BuffDesc,"<color=#c49e55>【共鸣解放】</color>施放共鸣解放·听骑士从心祈愿时，获得2层「圣现」。「芙露德莉斯」的「决意」达到120点并拥有「圣现」时，共鸣技能替换为「共鸣技能·裁断浊世诸恶」。
-「共鸣技能·裁断浊世诸恶」：
-施放时消耗1层「圣现」并清空「决意」，对前方直线范围内目标造成共计生命上限{0}的气动伤害，同时视为【风蚀效应】伤害和普攻伤害，其后给命中的目标附加{1}层【风蚀效应】，并回复自身50%生命上限的生命值。
-施放「共鸣技能·裁断浊世诸恶」后，「芙露德莉斯」会重新进入「显化」状态，并获得1层「自由仪典」，至多可叠加2层。「芙露德莉斯」施放共鸣解放·看潮怒风哮之刃，或「卡提希娅」处于「风潮祝颂」状态中施放空中攻击·卡提希娅时，将消耗全部层数的「自由仪典」，每消耗1层「自由仪典」使本次攻击的伤害倍率提升{2}，随后清空「圣现」。
-
-当「芙露德莉斯」在「显化」状态下首次化身「卡提希娅」时，将施放变奏技能·此剑，为潮水的过去。同时消耗1层「圣现」获得「此誓永无背弃」效果，持续{3}秒。
-「此誓永无背弃」：
-·「卡提希娅」造成的所有伤害加深{4}。
-·「卡提希娅」自身一定范围内，目标【风蚀效应】触发的间隔减少50%，并使目标受到的【风蚀效应】伤害加深50%。
-·若「卡提希娅」同时拥有「人权之心」、「神权之意」、「异权之力」，且不处于「风潮祝颂」状态时，空中攻击·卡提希娅命中目标时将延长「此誓永无背弃」{5}秒的持续时间，并获得1层「自由仪典」。","<color=#c49e55>[Resonance Liberation]</color>
-- Casting Resonance Liberation - A Knight's Heartfelt Prayers grants 2 stacks of Sanctity. If Fleurdelys has 120 points of Conviction and Sanctity, Resonance Skill is replaced with Resonance Skill - Adjudicator of Evil.
-- Resonance Skill - Adjudicator of Evil:
-Casting the skill consumes 1 stack of Sanctity and all Conviction, dealing Aero DMG equal to {0} of Max HP to all targets in an area along a straight line in front. The DMG dealt is considered both Aero Erosion DMG and Basic Attack DMG. Then inflict <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Aero Erosion on targets hit.
-After casting Resonance Skill - Adjudicator of Evil, Fleurdelys will re-enter Manifest and gain 1 stack of Rite of Freedom, stacking up to 2 times. Casting Resonance Liberation - Blade of Howling Squall as Fleurdelys or Mid-air Attack - Cartethyia as Cartethyia in the Blessed Storm state consumes all stacks of Rite of Freedom, with each stack consumed increasing the DMG Multiplier of this instance of attack by {2}. Afterward, clear all Sanctity.
-- When Fleurdelys transforms back into Cartethyia for the first time in Manifest, she will cast Intro Skill - Sword to Mark Tide's Trace and consume 1 stack of Sanctity to gain Unbreakable Oath for {3}s.
-Unbreakable Oath:
-- All DMG dealt by Cartethyia is Amplified by {4}.
-- The interval of triggering Aero Erosion DMG on targets within a certain range of Cartethyia is reduced by 50%, and the Aero Erosion DMG dealt is Amplified by 50%.
-- If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord simultaneously and she is not in the Blessed Storm state, Mid-air Attack- Cartethyia will extend Unbreakable Oath by {5}s on hit and grant 1 stack of Rite of Freedom.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Khi thi triển Giải Phóng Cộng Hưởng - Lắng Nghe Lời Cầu Nguyện Từ Trái Tim Hiệp Sĩ, nhận được 2 tầng ""Thánh Hiện"". Khi ""Quyết Ý"" của ""Fleurdelys"" đạt 120 điểm và sở hữu ""Thánh Hiện"", Kỹ Năng Cộng Hưởng được thay thế bằng ""Kỹ Năng Cộng Hưởng - Phán Quyết Chư Ác"".
-""Kỹ Năng Cộng Hưởng - Phán Quyết Chư Ác"":
-Khi thi triển, tiêu hao 1 tầng ""Thánh Hiện"" và xóa sạch ""Quyết Ý"", gây tổng cộng {0} HP tối đa sát thương Khí Động cho mục tiêu trong phạm vi đường thẳng phía trước, đồng thời được tính là sát thương [Hiệu Ứng Phong Thực] và sát thương Đánh Thường, sau đó gây thêm {1} tầng [Hiệu Ứng Phong Thực] cho mục tiêu bị trúng, và hồi phục 50% HP tối đa cho bản thân.
-Sau khi thi triển ""Kỹ Năng Cộng Hưởng - Phán Quyết Chư Ác"", ""Fleurdelys"" sẽ vào lại trạng thái ""Hiển Hóa"" và nhận được 1 tầng ""Nghi Lễ Tự Do"", tối đa cộng dồn 2 tầng. Khi ""Fleurdelys"" thi triển Giải Phóng Cộng Hưởng - Lưỡi Gió Gào Triều Nộ, hoặc khi ""Cartethyia"" đang trong trạng thái ""Phong Triều Chúc Tụng"" thi triển Tấn Công Trên Không - Cartethyia, sẽ tiêu hao toàn bộ tầng ""Nghi Lễ Tự Do"", mỗi tầng tiêu hao tăng hệ số sát thương của lần tấn công này thêm {2}, sau đó xóa sạch ""Thánh Hiện"".
-
-Khi ""Fleurdelys"" trong trạng thái ""Hiển Hóa"" lần đầu hóa thân thành ""Cartethyia"", sẽ thi triển Kỹ Năng Biến Tấu - Thanh Kiếm Này, Vì Quá Khứ Của Triều Thủy. Đồng thời tiêu hao 1 tầng ""Thánh Hiện"" để nhận được hiệu ứng ""Lời Thề Không Bao Giờ Phản Bội"", kéo dài {3} giây.
-""Lời Thề Không Bao Giờ Phản Bội"":
-- Toàn bộ sát thương do ""Cartethyia"" gây ra được tăng thêm {4}.
-- Trong phạm vi nhất định quanh ""Cartethyia"", khoảng cách kích hoạt [Hiệu Ứng Phong Thực] trên mục tiêu giảm 50%, và sát thương [Hiệu Ứng Phong Thực] mục tiêu chịu được tăng thêm 50%.
-- Nếu ""Cartethyia"" đồng thời sở hữu ""Tâm Nhân Quyền"", ""Ý Thần Quyền"", ""Lực Dị Quyền"" và không đang trong trạng thái ""Phong Triều Chúc Tụng"", khi Tấn Công Trên Không - Cartethyia trúng mục tiêu sẽ kéo dài thêm {5} giây thời gian hiệu lực của ""Lời Thề Không Bao Giờ Phản Bội"" và nhận được 1 tầng ""Nghi Lễ Tự Do""."
-lang_multi_text.db,MultiText,RogueBuffPool_140903_BuffDesc_0,"<color=#c49e55>【共鸣解放】</color>「芙露德莉斯」在特定情况下获得技能「共鸣技能·裁断浊世诸恶」。
-施放共鸣解放·看潮怒风哮之刃或空中攻击·卡提希娅时，获得特殊强化。
-「卡提希娅」造成的伤害提高。","<color=#c49e55>[Resonance Liberation]</color>
-Fleurdelys gains Resonance Skill - Ajudicator of Evil in certain circumstances.
-Resonance Liberation - Blade of Howling Squall and Mid-air Attack - Cartethyia gain special enhancements.
-Increase the DMG dealt by Cartethyia.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>""Fleurdelys"" trong điều kiện nhất định sẽ nhận được kỹ năng ""Kỹ Năng Cộng Hưởng - Phán Quyết Chư Ác"".
-Khi thi triển Giải Phóng Cộng Hưởng - Lưỡi Gió Gào Triều Nộ hoặc Tấn Công Trên Không - Cartethyia, nhận được tăng cường đặc biệt.
-Sát thương do ""Cartethyia"" gây ra được tăng."
-lang_multi_text.db,MultiText,RogueBuffPool_140903_BuffDesc_1,心决,Resoluteness,Resoluteness
-lang_multi_text.db,MultiText,RogueBuffPool_140903_BuffDesc_2_8,"<color=Highlight>【共鸣解放】</color>施放共鸣解放·听骑士从心祈愿时，获得2层「圣现」。「芙露德莉斯」的「决意」达到120点并拥有「圣现」时，共鸣技能替换为「共鸣技能·裁断浊世诸恶」。
-「共鸣技能·裁断浊世诸恶」：
-施放时消耗1层「圣现」并清空「决意」，对前方直线范围内目标造成共计生命上限<color=Highlight>{0}</color>的气动伤害，同时视为【风蚀效应】伤害和普攻伤害，其后给命中的目标附加<color=Highlight>{1}</color>层【风蚀效应】，并回复自身50%生命上限的生命值。
-施放「共鸣技能·裁断浊世诸恶」后，「芙露德莉斯」会重新进入「显化」状态，并获得1层「自由仪典」，至多可叠加2层。「芙露德莉斯」施放共鸣解放·看潮怒风哮之刃，或「卡提希娅」处于「风潮祝颂」状态中施放空中攻击·卡提希娅时，将消耗全部层数的「自由仪典」，每消耗1层「自由仪典」使本次攻击的伤害倍率提升<color=Highlight>{2}</color>，随后清空「圣现」。
-
-当「芙露德莉斯」在「显化」状态下首次化身「卡提希娅」时，将施放变奏技能·此剑，为潮水的过去。同时消耗1层「圣现」获得「此誓永无背弃」效果，持续<color=Highlight>{3}</color>秒。
-「此誓永无背弃」：
-·「卡提希娅」造成的所有伤害加深<color=Highlight>{4}</color>。
-·「卡提希娅」自身一定范围内，目标【风蚀效应】触发的间隔减少50%，并使目标受到的【风蚀效应】伤害加深50%。
-·若「卡提希娅」同时拥有「人权之心」、「神权之意」、「异权之力」，且不处于「风潮祝颂」状态时，空中攻击·卡提希娅命中目标时将延长「此誓永无背弃」<color=Highlight>{5}</color>秒的持续时间，并获得1层「自由仪典」。","<color=Highlight>[Resonance Liberation]</color>
-- Casting Resonance Liberation - A Knight's Heartfelt Prayers grants 2 stacks of Sanctity. If Fleurdelys has 120 points of Conviction and Sanctity, Resonance Skill is replaced with Resonance Skill - Adjudicator of Evil.
-- Resonance Skill - Adjudicator of Evil:
-Casting the skill consumes 1 stack of Sanctity and all Conviction, dealing Aero DMG equal to <color=Highlight>{0}</color> of Max HP to all targets in an area along a straight line in front. The DMG dealt is considered both Aero Erosion DMG and Basic Attack DMG. Then inflict <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=stack P=stacks SapTag=1} of Aero Erosion on targets hit and restore 50% of Max HP.
-After casting Resonance Skill - Adjudicator of Evil, Fleurdelys will re-enter Manifest and gain 1 stack of Rite of Freedom, stacking up to 2 times. Casting Resonance Liberation - Blade of Howling Squall as Fleurdelys or Mid-air Attack - Cartethyia as Cartethyia in the Blessed Storm state consumes all stacks of Rite of Freedom, with each stack consumed increasing the DMG Multiplier of this instance of attack by <color=Highlight>{2}</color>. Afterward, clear all Sanctity.
-- When Fleurdelys transforms back into Cartethyia for the first time in Manifest, she will cast Intro Skill - Sword to Mark Tide's Trace and consume 1 stack of Sanctity to gain Unbreakable Oath for <color=Highlight>{3}s</color>.
-Unbreakable Oath:
-- All DMG dealt by Cartethyia is Amplified by <color=Highlight>{4}</color>.
-- The interval of triggering Aero Erosion DMG on targets within a certain range of Cartethyia is reduced by 50%, and the Aero Erosion DMG dealt is Amplified by 50%.
-- If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord simultaneously and she is not in the Blessed Storm state, Mid-air Attack- Cartethyia will extend Unbreakable Oath by <color=Highlight>{5}s</color> on hit and grant 1 stack of Rite of Freedom.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Khi thi triển Giải Phóng Cộng Hưởng - Lắng Nghe Lời Cầu Nguyện Từ Trái Tim Hiệp Sĩ, nhận được 2 tầng ""Thánh Hiện"". Khi ""Quyết Ý"" của ""Fleurdelys"" đạt 120 điểm và sở hữu ""Thánh Hiện"", Kỹ Năng Cộng Hưởng được thay thế bằng ""Kỹ Năng Cộng Hưởng - Phán Quyết Chư Ác"".
-""Kỹ Năng Cộng Hưởng - Phán Quyết Chư Ác"":
-Khi thi triển, tiêu hao 1 tầng ""Thánh Hiện"" và xóa sạch ""Quyết Ý"", gây tổng cộng HP tối đa <color=Highlight>{0}</color> sát thương Khí Động cho mục tiêu trong phạm vi đường thẳng phía trước, đồng thời được tính là sát thương [Hiệu Ứng Phong Thực] và sát thương Đánh Thường, sau đó gây thêm <color=Highlight>{1}</color> tầng [Hiệu Ứng Phong Thực] cho mục tiêu bị trúng, và hồi phục 50% HP tối đa cho bản thân.
-Sau khi thi triển ""Kỹ Năng Cộng Hưởng - Phán Quyết Chư Ác"", ""Fleurdelys"" sẽ vào lại trạng thái ""Hiển Hóa"" và nhận được 1 tầng ""Nghi Lễ Tự Do"", tối đa cộng dồn 2 tầng. Khi ""Fleurdelys"" thi triển Giải Phóng Cộng Hưởng - Lưỡi Gió Gào Triều Nộ, hoặc khi ""Cartethyia"" đang trong trạng thái ""Phong Triều Chúc Tụng"" thi triển Tấn Công Trên Không - Cartethyia, sẽ tiêu hao toàn bộ tầng ""Nghi Lễ Tự Do"", mỗi tầng tiêu hao tăng hệ số sát thương của lần tấn công này thêm <color=Highlight>{2}</color>, sau đó xóa sạch ""Thánh Hiện"".
-
-Khi ""Fleurdelys"" trong trạng thái ""Hiển Hóa"" lần đầu hóa thân thành ""Cartethyia"", sẽ thi triển Kỹ Năng Biến Tấu - Thanh Kiếm Này, Vì Quá Khứ Của Triều Thủy. Đồng thời tiêu hao 1 tầng ""Thánh Hiện"" để nhận được hiệu ứng ""Lời Thề Không Bao Giờ Phản Bội"", kéo dài <color=Highlight>{3}</color> giây.
-""Lời Thề Không Bao Giờ Phản Bội"":
-- Toàn bộ sát thương do ""Cartethyia"" gây ra được tăng thêm <color=Highlight>{4}</color>.
-- Trong phạm vi nhất định quanh ""Cartethyia"", khoảng cách kích hoạt [Hiệu Ứng Phong Thực] trên mục tiêu giảm 50%, và sát thương [Hiệu Ứng Phong Thực] mục tiêu chịu được tăng thêm 50%.
-- Nếu ""Cartethyia"" đồng thời sở hữu ""Tâm Nhân Quyền"", ""Ý Thần Quyền"", ""Lực Dị Quyền"" và không đang trong trạng thái ""Phong Triều Chúc Tụng"", khi Tấn Công Trên Không - Cartethyia trúng mục tiêu sẽ kéo dài thêm <color=Highlight>{5}</color> giây thời gian hiệu lực của ""Lời Thề Không Bao Giờ Phản Bội"" và nhận được 1 tầng ""Nghi Lễ Tự Do""."
-lang_multi_text.db,MultiText,RogueBuffPool_140903_BuffDesc_2_8_0,"<color=Highlight>【共鸣解放】</color>「芙露德莉斯」在特定情况下获得技能「共鸣技能·裁断浊世诸恶」。
-施放共鸣解放·看潮怒风哮之刃或空中攻击·卡提希娅时，获得特殊强化。
-「卡提希娅」造成的伤害提高。","<color=Highlight>[Resonance Liberation]</color>
-- Fleurdelys can cast Resonance Skill - Adjudicator of Evil under certain conditions.
-- Casting Resonance Liberation - Blade of Howling Squall or Mid-air Attack - Cartethyia gains special enhancements.
-- Cartethyia deals more DMG.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>""Fleurdelys"" trong điều kiện nhất định sẽ nhận được kỹ năng ""Kỹ Năng Cộng Hưởng - Phán Quyết Chư Ác"".
-Khi thi triển Giải Phóng Cộng Hưởng - Lưỡi Gió Gào Triều Nộ hoặc Tấn Công Trên Không - Cartethyia, nhận được tăng cường đặc biệt.
-Sát thương do ""Cartethyia"" gây ra được tăng."
-lang_multi_text.db,MultiText,RogueBuffPool_140904_BuffDesc,"<color=#c49e55>【共鸣回路】</color>施放普攻·芙露德莉斯第4段、空中攻击·芙露德莉斯第2段、闪避反击·芙露德莉斯、共鸣技能·凭风斩浪破敌、变奏技能·此剑，为潮水的过去时将召唤1波「涤罪之霖」。「卡提希娅」拥有「人权之心」、「神权之意」、「异权之力」时，施放空中攻击·卡提希娅也将召唤1波「涤罪之霖」。
-
-「涤罪之霖」：减少共鸣技能·此剑为潮浪之意{0}秒冷却时间，对范围内目标共计造成生命上限{1}的气动伤害，同时视为【风蚀效应】伤害和普攻伤害。","<color=#c49e55>[Forte Circuit]</color>
-Basic Attack - Fleurdelys Stage 4, Mid-air Attack - Fleurdelys Stage 2, Dodge Counter - Fleurdelys, Resonance Skill - May Tempest Break the Tides, and Intro Skill -  Sword to Mark Tide's Trace summon 1 wave of Purifying Rain. If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord, Mid-air Attack - Cartethyia also summons a wave of Purifying Rain.
-
-Purifying Rain reduces the cooldown of Resonance Skill - Sword to Answer Waves' Call by {0}s and deals Aero DMG equal to {1} of Max HP in total to targets within range. The DMG dealt is considered both Aero Erosion DMG and Basic attack DMG.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>Khi thi triển Đánh Thường - Fleurdelys đoạn 4, Tấn Công Trên Không - Fleurdelys đoạn 2, Phản Công Né Tránh - Fleurdelys, Kỹ Năng Cộng Hưởng - Cưỡi Gió Chém Sóng Phá Địch, Kỹ Năng Biến Tấu - Thanh Kiếm Này, Vì Quá Khứ Của Triều Thủy sẽ triệu hồi 1 đợt ""Mưa Tẩy Tội"". Khi ""Cartethyia"" sở hữu ""Tâm Nhân Quyền"", ""Ý Thần Quyền"", ""Lực Dị Quyền"", thi triển Tấn Công Trên Không - Cartethyia cũng sẽ triệu hồi 1 đợt ""Mưa Tẩy Tội"".
-
-""Mưa Tẩy Tội"": Giảm {0} giây thời gian hồi chiêu Kỹ Năng Cộng Hưởng - Kiếm Này Là Ý Chí Sóng Triều, gây tổng cộng {1} HP tối đa sát thương Khí Động cho mục tiêu trong phạm vi, đồng thời được tính là sát thương [Hiệu Ứng Phong Thực] và sát thương Đánh Thường."
-lang_multi_text.db,MultiText,RogueBuffPool_140904_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>「芙露德莉斯」和「卡提希娅」施放部分技能时，可以召唤「涤罪之霖」。
-「涤罪之霖」可以造成伤害并减少共鸣技能·此剑为潮浪之意的冷却时间。","<color=#c49e55>[Forte Circuit]</color>
-Casting certain skills of Fleurdelys and Cartethyia summons Purifying Rain.
-Purifying Rain deals DMG and reduces the cooldown of Resonance Skill - Sword to Answer Waves' Call.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>Khi ""Fleurdelys"" và ""Cartethyia"" thi triển một số kỹ năng nhất định, có thể triệu hồi ""Mưa Tẩy Tội"".
-""Mưa Tẩy Tội"" có thể gây sát thương và giảm thời gian hồi chiêu Kỹ Năng Cộng Hưởng - Kiếm Này Là Ý Chí Sóng Triều."
-lang_multi_text.db,MultiText,RogueBuffPool_140904_BuffDesc_1,雨骤,Rain Shower,Rain Shower
-lang_multi_text.db,MultiText,RogueBuffPool_140904_BuffDesc_2_8,"<color=#c49e55>【共鸣回路】</color>施放普攻·芙露德莉斯第4段、空中攻击·芙露德莉斯第2段、闪避反击·芙露德莉斯、共鸣技能·凭风斩浪破敌、变奏技能·此剑，为潮水的过去时将召唤1波「涤罪之霖」。「卡提希娅」拥有「人权之心」、「神权之意」、「异权之力」时，施放空中攻击·卡提希娅也将召唤1波「涤罪之霖」。
-
-「涤罪之霖」：减少共鸣技能·此剑为潮浪之意<color=#c49e55>{0}</color>秒冷却时间，对范围内目标共计造成生命上限<color=#c49e55>{1}</color>的气动伤害，同时视为【风蚀效应】伤害和普攻伤害。","<color=#c49e55>[Forte Circuit]</color>
-- Basic Attack - Fleurdelys Stage 4, Mid-air Attack - Fleurdelys Stage 2, Dodge Counter - Fleurdelys, Resonance Skill - May Tempest Break the Tides, and Intro Skill -  Sword to Mark Tide's Trace summon 1 wave of Purifying Rain. If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord, Mid-air Attack - Cartethyia also summons a wave of Purifying Rain.
-
-- Purifying Rain reduces the cooldown of Resonance Skill - Sword to Answer Waves' Call by <color=#c49e55>{0}s</color> and deals Aero DMG equal to <color=#c49e55>{1}</color> of Max HP in total to targets within range. The DMG dealt is considered both Aero Erosion DMG and Basic attack DMG.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>Khi thi triển Đánh Thường - Fleurdelys đoạn 4, Tấn Công Trên Không - Fleurdelys đoạn 2, Phản Công Né Tránh - Fleurdelys, Kỹ Năng Cộng Hưởng - Cưỡi Gió Chém Sóng Phá Địch, Kỹ Năng Biến Tấu - Thanh Kiếm Này, Vì Quá Khứ Của Triều Thủy sẽ triệu hồi 1 đợt ""Mưa Tẩy Tội"". Khi ""Cartethyia"" sở hữu ""Tâm Nhân Quyền"", ""Ý Thần Quyền"", ""Lực Dị Quyền"", thi triển Tấn Công Trên Không - Cartethyia cũng sẽ triệu hồi 1 đợt ""Mưa Tẩy Tội"".
-
-""Mưa Tẩy Tội"": Giảm <color=#c49e55>{0}</color> giây thời gian hồi chiêu Kỹ Năng Cộng Hưởng - Kiếm Này Là Ý Chí Sóng Triều, gây tổng cộng HP tối đa <color=#c49e55>{1}</color> sát thương Khí Động cho mục tiêu trong phạm vi, đồng thời được tính là sát thương [Hiệu Ứng Phong Thực] và sát thương Đánh Thường."
-lang_multi_text.db,MultiText,RogueBuffPool_140905_BuffDesc,"<color=#c49e55>【共鸣回路】</color>施放共鸣解放·看潮怒风哮之刃、「共鸣技能·裁断浊世诸恶」时，获得「忤逆利刃」。「卡提希娅」拥有「人权之心」、「神权之意」、「异权之力」时，施放空中攻击·卡提希娅也将获得「忤逆利刃」。
-
-「忤逆利刃」：使自身生命上限提高{0}、造成的所有伤害无视目标{1}气动抗性，持续{2}秒，可叠加{3}层。","<color=#c49e55>[Forte Circuit]</color>
-Casting Resonance Liberation - Blade of Howling Squall and Resonance Skill - Adjudicator of Evil grants Blade of Defiance. If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord, casting Mid-air Attack - Cartethyia also grants Blade of Defiance.
-
-Blade of Defiance increases her Max HP by {0} and makes all of the damage she deals ignore {1} of the target's Aero RES, lasting for {2}s and stacking up to {3} times.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>Khi thi triển Giải Phóng Cộng Hưởng - Lưỡi Dao Triều Gào Gió Thét, ""Kỹ Năng Cộng Hưởng - Phán Xử Chư Ác Trọc Thế"", nhận được ""Lưỡi Dao Nghịch Phản"". Khi ""Cartethyia"" sở hữu ""Tâm Nhân Quyền"", ""Ý Thần Quyền"", ""Lực Dị Quyền"", thi triển Tấn Công Trên Không - Cartethyia cũng sẽ nhận được ""Lưỡi Dao Nghịch Phản"".
-
-""Lưỡi Dao Nghịch Phản"": Tăng HP tối đa của bản thân thêm {0}, mọi sát thương gây ra bỏ qua {1} kháng Khí Động của mục tiêu, kéo dài {2} giây, cộng dồn tối đa {3} tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_140905_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>施放共鸣解放·看潮怒风哮之刃、「共鸣技能·裁断浊世诸恶」、空中攻击·卡提希娅时，可以提高自身生命上限，并使造成的所有伤害无视目标气动抗性。,"<color=#c49e55>[Forte Circuit]</color>
-Casting Resonance Liberation - Blade of Howling Squall, Resonance Skill - Ajudicator of Evil, and Mid-air Attack - Cartethyia increases Max HP and makes all DMG dealt ignore the target's Aero RES.","<color=#c49e55>[Cộng Hưởng Hồi Lộ]</color>Khi thi triển Giải Phóng Cộng Hưởng - Lưỡi Dao Triều Gào Gió Thét, ""Kỹ Năng Cộng Hưởng - Phán Xử Chư Ác Trọc Thế"", Tấn Công Trên Không - Cartethyia, có thể tăng HP tối đa của bản thân, đồng thời khiến mọi sát thương gây ra bỏ qua kháng Khí Động của mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_140905_BuffDesc_1,浪破,Breaking Wave,Sóng Vỡ
-lang_multi_text.db,MultiText,RogueBuffPool_140905_BuffDesc_2_8,"<color=Highlight>【共鸣回路】</color>施放共鸣解放·看潮怒风哮之刃、「共鸣技能·裁断浊世诸恶」时，获得「忤逆利刃」。「卡提希娅」拥有「人权之心」、「神权之意」、「异权之力」时，施放空中攻击·卡提希娅也将获得「忤逆利刃」。
-
-「忤逆利刃」：使自身生命上限提高<color=Highlight>{0}</color>、造成的所有伤害无视目标<color=Highlight>{1}</color>气动抗性，持续<color=Highlight>{2}</color>秒，可叠加<color=Highlight>{3}</color>层。","<color=Highlight>[Forte Circuit]</color>
-- Casting Resonance Liberation - Blade of Howling Squall and Resonance Skill - Ajudicator of Evil grants Blade of Defiance. If Cartethyia has Heart of Virtue, Mandate of Divinity, and Power of Discord, Mid-air Attack - Cartethyia also grants Blade of Defiance.
-- Blade of Defiance: Increases Max HP by <color=Highlight>{0}</color>. All DMG dealt ignores <color=Highlight>{1}</color> of the target's Aero RES. This effect lasts <color=Highlight>{2}</color>s and stacks up to <color=Highlight>{3}</color> times.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Khi thi triển Giải Phóng Cộng Hưởng - Lưỡi Dao Triều Gào Gió Thét, ""Kỹ Năng Cộng Hưởng - Phán Xử Chư Ác Trọc Thế"", nhận được ""Lưỡi Dao Nghịch Phản"". Khi ""Cartethyia"" sở hữu ""Tâm Nhân Quyền"", ""Ý Thần Quyền"", ""Lực Dị Quyền"", thi triển Tấn Công Trên Không - Cartethyia cũng sẽ nhận được ""Lưỡi Dao Nghịch Phản"".
-
-""Lưỡi Dao Nghịch Phản"": Tăng HP tối đa của bản thân thêm <color=Highlight>{0}</color>, mọi sát thương gây ra bỏ qua <color=Highlight>{1}</color> kháng Khí Động của mục tiêu, kéo dài <color=Highlight>{2}</color> giây, cộng dồn tối đa <color=Highlight>{3}</color> tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_140905_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>施放共鸣解放·看潮怒风哮之刃、「共鸣技能·裁断浊世诸恶」、空中攻击·卡提希娅时，可以提高自身生命上限，并使造成的所有伤害无视目标气动抗性。,"<color=Highlight>[Forte Circuit]</color>
-Casting Resonance Liberation - Blade of Howling Squall and Resonance Skill - Ajudicator of Evil grants Blade of Defiance increases Max HP and make all DMG dealt ignore Aero RES of the target.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Khi thi triển Giải Phóng Cộng Hưởng - Lưỡi Dao Triều Gào Gió Thét, ""Kỹ Năng Cộng Hưởng - Phán Xử Chư Ác Trọc Thế"", Tấn Công Trên Không - Cartethyia, có thể tăng HP tối đa của bản thân, đồng thời khiến mọi sát thương gây ra bỏ qua kháng Khí Động của mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_141001_BuffDesc,"<color=Highlight>【共鸣技能】</color>「共鸣技能·越限的弦引」最终伤害提升<color=Highlight>{0}</color>。 
-施放「共鸣技能·告终的喧响」 和「共鸣技能·未终的喧响」时，牵引附近的敌人。","<color=Highlight>[Resonance Skill]</color>
-- The total DMG of Resonance Skill - Arc Beyond the Edge is increased by <color=Highlight>{0}</color>.
-- Casting Resonance Skill - Closing Refrain and Resonance Skill - Unfinished Refrain pulls in nearby targets.","<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>Sát thương cuối cùng của ""Kỹ Năng Cộng Hưởng - Dây Cung Vượt Giới"" tăng thêm <color=Highlight>{0}</color>.
-Khi thi triển ""Kỹ Năng Cộng Hưởng - Tiếng Vang Kết Thúc"" và ""Kỹ Năng Cộng Hưởng - Tiếng Vang Chưa Dứt"", kéo các kẻ địch xung quanh lại gần."
-lang_multi_text.db,MultiText,RogueBuffPool_141001_BuffDesc_0,"<color=Highlight>【共鸣技能】</color>「越限的弦引」获得强化。
-「告终的喧响」 和「未终的喧响」能牵引附近的敌人。","<color=Highlight>[Resonance Skill]</color>
-- Arc Beyond the Edge is enhanced.
-- Closing Refrain and Unfinished Refrain pull in nearby targets.","<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>""Dây Cung Vượt Giới"" được tăng cường.
-""Tiếng Vang Kết Thúc"" và ""Tiếng Vang Chưa Dứt"" có thể kéo các kẻ địch xung quanh lại gần."
-lang_multi_text.db,MultiText,RogueBuffPool_141001_BuffDesc_2_8,"<color=Highlight>【共鸣技能】</color>「共鸣技能·越限的弦引」最终伤害提升<color=Highlight>{0}</color>。 
-施放「共鸣技能·告终的喧响」 和「共鸣技能·未终的喧响」时，牵引附近的敌人。","<color=Highlight>[Resonance Skill]</color>
-- The total DMG of Resonance Skill - Arc Beyond the Edge is increased by <color=Highlight>{0}</color>.
-- Casting Resonance Skill - Closing Refrain and Resonance Skill - Unfinished Refrain pulls in nearby targets.","<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>Sát thương cuối cùng của ""Kỹ Năng Cộng Hưởng - Dây Cung Vượt Giới"" tăng thêm <color=Highlight>{0}</color>.
-Khi thi triển ""Kỹ Năng Cộng Hưởng - Tiếng Vang Kết Thúc"" và ""Kỹ Năng Cộng Hưởng - Tiếng Vang Chưa Dứt"", kéo các kẻ địch xung quanh lại gần."
-lang_multi_text.db,MultiText,RogueBuffPool_141001_BuffDesc_2_8_0,"<color=Highlight>【共鸣技能】</color>「越限的弦引」获得强化。
-「告终的喧响」 和「未终的喧响」能牵引附近的敌人。","<color=Highlight>[Resonance Skill]</color>
-- Arc Beyond the Edge is enhanced.
-- Closing Refrain and Unfinished Refrain pull in nearby targets.","<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>""Dây Cung Vượt Giới"" được tăng cường.
-""Tiếng Vang Kết Thúc"" và ""Tiếng Vang Chưa Dứt"" có thể kéo các kẻ địch xung quanh lại gần."
-lang_multi_text.db,MultiText,RogueBuffPool_141002_BuffDesc,"<color=Highlight>【共鸣回路】</color>尤诺每<color=Highlight>{0}</color>秒获得<color=Highlight>{1}</color>层「苍白死光的祝颂」。
-施放「重击·流变」时，气动伤害提升<color=Highlight>{2}</color>，持续<color=Highlight>{3}</color>秒，并使周围敌人停滞<color=Highlight>{4}</color>秒。","<color=Highlight>[Forte Circuit]</color>
-- Iuno gains <color=Highlight>{1}</color> stacks of Blessing of the Wan Light every <color=Highlight>{0}s</color>.
-- Casting Heavy Attack - Flux increases Aero DMG by <color=Highlight>{2}</color> for <color=Highlight>{3}s</color> and stagnates surrounding enemies for <color=Highlight>{4}s</color>.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Iuno mỗi <color=Highlight>{0}</color> giây nhận được <color=Highlight>{1}</color> tầng ""Chúc Tụng Tử Quang Thương Bạch"".
-Khi thi triển ""Đánh Mạnh - Lưu Biến"", sát thương Khí Động tăng <color=Highlight>{2}</color>, kéo dài <color=Highlight>{3}</color> giây, đồng thời khiến kẻ địch xung quanh đình trệ trong <color=Highlight>{4}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_141002_BuffDesc_0,<color=Highlight>【共鸣回路】</color>持续不断获得「苍白死光的祝颂」，且「重击·流变」获得特殊强化。,"<color=Highlight>[Forte Circuit]</color>
-- Iuno continuously gains Blessing of the Wan Light.
-- Heavy Attack - Flux is enhanced.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Liên tục nhận được ""Chúc Tụng Tử Quang Thương Bạch"", đồng thời ""Đánh Mạnh - Lưu Biến"" được tăng cường đặc biệt."
-lang_multi_text.db,MultiText,RogueBuffPool_141002_BuffDesc_2_8,"<color=Highlight>【共鸣回路】</color>尤诺每<color=Highlight>{0}</color>秒获得<color=Highlight>{1}</color>层「苍白死光的祝颂」。
-施放「重击·流变」时，气动伤害提升<color=Highlight>{2}</color>，持续<color=Highlight>{3}</color>秒，并使周围敌人停滞<color=Highlight>{4}</color>秒。","<color=Highlight>[Forte Circuit]</color>
-- Iuno gains <color=Highlight>{1}</color> stacks of Blessing of the Wan Light every <color=Highlight>{0}s</color>.
-- Casting Heavy Attack - Flux increases Aero DMG by <color=Highlight>{2}</color> for <color=Highlight>{3}s</color> and stagnates surrounding enemies for <color=Highlight>{4}s</color>.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Iuno mỗi <color=Highlight>{0}</color> giây nhận được <color=Highlight>{1}</color> tầng ""Chúc Tụng Tử Quang Thương Bạch"".
-Khi thi triển ""Đánh Mạnh - Lưu Biến"", sát thương Khí Động tăng <color=Highlight>{2}</color>, kéo dài <color=Highlight>{3}</color> giây, đồng thời khiến kẻ địch xung quanh đình trệ trong <color=Highlight>{4}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_141002_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>持续不断获得「苍白死光的祝颂」，且「重击·流变」获得特殊强化。,"<color=Highlight>[Forte Circuit]</color>
-- Iuno continuously gains Blessing of the Wan Light.
-- Heavy Attack - Flux is enhanced.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Liên tục nhận được ""Chúc Tụng Tử Quang Thương Bạch"", đồng thời ""Đánh Mạnh - Lưu Biến"" được tăng cường đặc biệt."
-lang_multi_text.db,MultiText,RogueBuffPool_141003_BuffDesc,<color=Highlight>【共鸣解放】</color>「共鸣解放·溺失月海」冷却时间减少<color=Highlight>{0}</color>秒，且额外发射<color=Highlight>{1}</color>枚「澄明之矢」，各造成攻击<color=Highlight>{2}</color>的气动伤害，此次伤害为共鸣解放伤害。,"<color=Highlight>[Resonance Liberation]</color>
-Resonance Liberation - Beneath Lunar Tides has its Cooldown reduced by <color=Highlight>{0}s</color> and can now launch <color=Highlight>{1}</color> additional Arrows of Clarity, each dealing Aero DMG equal to <color=Highlight>{2}</color> of Iuno's ATK, considered Resonance Liberation DMG.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Thời gian hồi chiêu của ""Giải Phóng Cộng Hưởng - Chìm Đắm Biển Trăng"" giảm <color=Highlight>{0}</color> giây, đồng thời bắn thêm <color=Highlight>{1}</color> mũi ""Tên Trừng Minh"", mỗi mũi gây sát thương Khí Động bằng <color=Highlight>{2}</color> tấn công. Sát thương này được tính là sát thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_141003_BuffDesc_0,<color=Highlight>【共鸣解放】</color>共鸣解放冷却时间减少，且额外发射「澄明之矢」。,"<color=Highlight>[Resonance Liberation]</color>
-Resonance Liberation has reduced Cooldown and can now additionally launch Arrows of Clarity.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Giảm thời gian hồi chiêu Giải Phóng Cộng Hưởng, đồng thời bắn thêm ""Tên Trừng Minh""."
-lang_multi_text.db,MultiText,RogueBuffPool_141003_BuffDesc_2_8,<color=Highlight>【共鸣解放】</color>「共鸣解放·溺失月海」冷却时间减少<color=Highlight>{0}</color>秒，且额外发射<color=Highlight>{1}</color>枚「澄明之矢」，各造成攻击<color=Highlight>{2}</color>的气动伤害，此次伤害为共鸣解放伤害。,"<color=Highlight>[Resonance Liberation]</color>
-Resonance Liberation - Beneath Lunar Tides has its Cooldown reduced by <color=Highlight>{0}s</color> and can now launch <color=Highlight>{1}</color> additional Arrows of Clarity, each dealing Aero DMG equal to <color=Highlight>{2}</color> of Iuno's ATK, considered Resonance Liberation DMG.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Thời gian hồi chiêu của ""Giải Phóng Cộng Hưởng - Chìm Đắm Biển Trăng"" giảm <color=Highlight>{0}</color> giây, đồng thời bắn thêm <color=Highlight>{1}</color> mũi ""Tên Trừng Minh"", mỗi mũi gây sát thương Khí Động bằng <color=Highlight>{2}</color> tấn công. Sát thương này được tính là sát thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_141003_BuffDesc_2_8_0,<color=Highlight>【共鸣解放】</color>共鸣解放冷却时间减少，且额外发射「澄明之矢」。,"<color=Highlight>[Resonance Liberation]</color>
-Resonance Liberation has reduced Cooldown and can now additionally launch Arrows of Clarity.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Giảm thời gian hồi chiêu Giải Phóng Cộng Hưởng, đồng thời bắn thêm ""Tên Trừng Minh""."
-lang_multi_text.db,MultiText,RogueBuffPool_141101_BuffDesc,"<color=Highlight>【共鸣回路】</color>暴击提升<color=Highlight>{0}</color>，暴击超过<color=Highlight>{1}</color>时，超过部分每<color=Highlight>{2}</color>转化为<color=Highlight>{3}</color>攻击。
-造成暴击时追加<color=Highlight>{4}</color>道「吹毫」，共造成攻击<color=Highlight>{5}</color>的气动伤害，此次伤害为重击伤害，每<color=Highlight>{6}</color>秒可生效<color=Highlight>{7}</color>次。","<color=Highlight>[Forte Circuit]</color>
-- Crit. Rate is increased by <color=Highlight>{0}</color>. Every <color=Highlight>{1}</color> Crit. Rate that exceeds <color=Highlight>{2}</color> is converted to <color=Highlight>{3}</color> ATK.
-- Landing a Critical Hit generates <color=Highlight><SapTag=4>{4}</SapTag></color> Zephyr {Cus:Sap,S=Slash P=Slashes SapTag=4}, dealing Aero DMG equal to <color=Highlight>{5}</color> of Qiuyuan's ATK, considered Heavy Attack DMG. This effect can be triggered <color=Highlight><SapTag=7>{7}</SapTag></color> {Cus:Sap,S=time P=times SapTag=7} every <color=Highlight>{6}s</color>.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Tỷ lệ bạo kích tăng <color=Highlight>{0}</color>, khi tỷ lệ bạo kích vượt quá <color=Highlight>{1}</color>, mỗi <color=Highlight>{2}</color> phần vượt quá sẽ chuyển hóa thành <color=Highlight>{3}</color> tấn công.
-Khi gây bạo kích, phóng thêm <color=Highlight>{4}</color> đạo ""Xuy Hào"", tổng cộng gây sát thương Khí Động bằng <color=Highlight>{5}</color> tấn công. Sát thương này được tính là sát thương Đánh Mạnh, mỗi <color=Highlight>{6}</color> giây có thể kích hoạt <color=Highlight>{7}</color> lần."
-lang_multi_text.db,MultiText,RogueBuffPool_141101_BuffDesc_0,"<color=Highlight>【共鸣回路】</color>暴击提升，溢出部分可转化为攻击。
-暴击时追加「吹毫」，造成气动伤害。","<color=Highlight>[Forte Circuit]</color>
-- Crit. Rate is increased. Crit. Rate that exceeds the specific value is converted to ATK.
-- Landing a Critical Hit generates Zephyr Slash that deals Aero DMG.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Tăng tỷ lệ bạo kích, phần vượt quá sẽ chuyển hóa thành tấn công.
-Khi bạo kích, phóng thêm ""Xuy Hào"", gây sát thương Khí Động."
-lang_multi_text.db,MultiText,RogueBuffPool_141101_BuffDesc_2_8,"<color=Highlight>【共鸣回路】</color>暴击提升<color=Highlight>{0}</color>，暴击超过<color=Highlight>{1}</color>时，超过部分每<color=Highlight>{2}</color>转化为<color=Highlight>{3}</color>攻击。
-造成暴击时追加<color=Highlight>{4}</color>道「吹毫」，共造成攻击<color=Highlight>{5}</color>的气动伤害，此次伤害为重击伤害，每<color=Highlight>{6}</color>秒可生效<color=Highlight>{7}</color>次。","<color=Highlight>[Forte Circuit]</color>
-- Crit. Rate is increased by <color=Highlight>{0}</color>. Every <color=Highlight>{1}</color> Crit. Rate that exceeds <color=Highlight>{2}</color> is converted to <color=Highlight>{3}</color> ATK.
-- Landing a Critical Hit generates <color=Highlight><SapTag=4>{4}</SapTag></color> Zephyr {Cus:Sap,S=Slash P=Slashes SapTag=4}, dealing Aero DMG equal to <color=Highlight>{5}</color> of Qiuyuan's ATK, considered Heavy Attack DMG. This effect can be triggered <color=Highlight><SapTag=7>{7}</SapTag></color> {Cus:Sap,S=time P=times SapTag=7} every <color=Highlight>{6}s</color>.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Tỷ lệ bạo kích tăng <color=Highlight>{0}</color>, khi tỷ lệ bạo kích vượt quá <color=Highlight>{1}</color>, mỗi <color=Highlight>{2}</color> phần vượt quá sẽ chuyển hóa thành <color=Highlight>{3}</color> tấn công.
-Khi gây bạo kích, phóng thêm <color=Highlight>{4}</color> đạo ""Xuy Hào"", tổng cộng gây sát thương Khí Động bằng <color=Highlight>{5}</color> tấn công. Sát thương này được tính là sát thương Đánh Mạnh, mỗi <color=Highlight>{6}</color> giây có thể kích hoạt <color=Highlight>{7}</color> lần."
-lang_multi_text.db,MultiText,RogueBuffPool_141101_BuffDesc_2_8_0,"<color=Highlight>【共鸣回路】</color>暴击提升，溢出部分可转化为攻击。
-暴击时追加「吹毫」，造成气动伤害。","<color=Highlight>[Forte Circuit]</color>
-- Crit. Rate is increased. Crit. Rate that exceeds the specific value is converted to ATK.
-- Landing a Critical Hit generates Zephyr Slash that deals Aero DMG.","<color=Highlight>[Cộng Hưởng Hồi Lộ]</color>Tăng tỷ lệ bạo kích, phần vượt quá sẽ chuyển hóa thành tấn công.
-Khi bạo kích, phóng thêm ""Xuy Hào"", gây sát thương Khí Động."
-lang_multi_text.db,MultiText,RogueBuffPool_141102_BuffDesc,"<color=#c49e55>【普攻】</color>普攻替换为「普攻·答剑·质黑相青」，且第<color=Highlight>{0}</color>段额外回复<color=Highlight>{1}</color>点「挑灯问剑」。
-重击或「普攻·答剑·质黑相青」第<color=Highlight>{2}</color>段命中目标时，生成一道「飂戾」，吸附周围目标并使他们受到的气动伤害加深<color=Highlight>{3}</color>，持续<color=Highlight>{4}</color>秒，每<color=Highlight>{5}</color>秒可生效<color=Highlight>{6}</color>次。","<color=#c49e55>[Basic Attack]</color>
-- Basic Attack is replaced with Thus Spoke the Blade - Inkwash, and the Stage <color=Highlight>{0}</color> attack additionally restores <color=Highlight>{1}</color> points of Swordster's Soliloquy.
-- When Heavy Attack or Thus Spoke the Blade - Inkwash Stage <color=Highlight>{2}</color> hits a target, generate a Wind Howl that pulls in targets and Amplifies the Aero DMG they take by <color=Highlight>{3}</color> for <color=Highlight>{4}s</color>. This effect can be triggered <color=Highlight><SapTag=6>{6}</SapTag></color> {Cus:Sap,S=time P=times SapTag=6} every <color=Highlight>{5}s</color>.","<color=#c49e55>[Đánh Thường]</color>Đánh Thường được thay thế bằng ""Đánh Thường - Đáp Kiếm - Chất Hắc Tương Thanh"", đoạn thứ <color=Highlight>{0}</color> hồi phục thêm <color=Highlight>{1}</color> điểm ""Khiêu Đăng Vấn Kiếm"".
-Khi Đánh Mạnh hoặc đoạn thứ <color=Highlight>{2}</color> của ""Đánh Thường - Đáp Kiếm - Chất Hắc Tương Thanh"" trúng mục tiêu, tạo ra một đạo ""Phiêu Lệ"", hút các mục tiêu xung quanh và khiến sát thương Khí Động mà chúng chịu tăng thêm <color=Highlight>{3}</color>, kéo dài <color=Highlight>{4}</color> giây, mỗi <color=Highlight>{5}</color> giây có thể kích hoạt <color=Highlight>{6}</color> lần."
-lang_multi_text.db,MultiText,RogueBuffPool_141102_BuffDesc_0,<color=#c49e55>【普攻】</color>普攻获得特殊强化，重击或普攻第<color=Highlight>{2}</color>段额外生成「飂戾」。,"<color=#c49e55>[Basic Attack]</color>
-- Basic Attack is enhanced.
-- Heavy Attack or Basic Attack Stage <color=Highlight>{2}</color> generates a Wind Howl.","<color=#c49e55>[Đánh Thường]</color>Đánh Thường được tăng cường đặc biệt, Đánh Mạnh hoặc đoạn thứ <color=Highlight>{2}</color> của Đánh Thường tạo thêm ""Phiêu Lệ""."
-lang_multi_text.db,MultiText,RogueBuffPool_141102_BuffDesc_2_8,"<color=Highlight>【普攻】</color>普攻替换为「普攻·答剑·质黑相青」，且第<color=Highlight>{0}</color>段额外回复<color=Highlight>{1}</color>点「挑灯问剑」。
-重击或「普攻·答剑·质黑相青」第<color=Highlight>{2}</color>段命中目标时，生成一道「飂戾」，吸附周围目标并使他们受到的气动伤害加深<color=Highlight>{3}</color>，持续<color=Highlight>{4}</color>秒，每<color=Highlight>{5}</color>秒可生效<color=Highlight>{6}</color>次。","<color=Highlight>[Basic Attack]</color>
-- Basic Attack is replaced with Thus Spoke the Blade - Inkwash, and the Stage <color=Highlight>{0}</color> attack additionally restores <color=Highlight>{1}</color> points of Swordster's Soliloquy.
-- When Heavy Attack or Thus Spoke the Blade - Inkwash Stage <color=Highlight>{2}</color> hits a target, generate a Wind Howl that pulls in targets and Amplifies the Aero DMG they take by <color=Highlight>{3}</color> for <color=Highlight>{4}s</color>. This effect can be triggered <color=Highlight><SapTag=6>{6}</SapTag></color> {Cus:Sap,S=time P=times SapTag=6} every <color=Highlight>{5}s</color>.","<color=Highlight>[Đánh Thường]</color>Đánh Thường được thay thế bằng ""Đánh Thường - Đáp Kiếm - Chất Hắc Tương Thanh"", đoạn thứ <color=Highlight>{0}</color> hồi phục thêm <color=Highlight>{1}</color> điểm ""Khiêu Đăng Vấn Kiếm"".
-Khi Đánh Mạnh hoặc đoạn thứ <color=Highlight>{2}</color> của ""Đánh Thường - Đáp Kiếm - Chất Hắc Tương Thanh"" trúng mục tiêu, tạo ra một đạo ""Phiêu Lệ"", hút các mục tiêu xung quanh và khiến sát thương Khí Động mà chúng chịu tăng thêm <color=Highlight>{3}</color>, kéo dài <color=Highlight>{4}</color> giây, mỗi <color=Highlight>{5}</color> giây có thể kích hoạt <color=Highlight>{6}</color> lần."
-lang_multi_text.db,MultiText,RogueBuffPool_141102_BuffDesc_2_8_0,<color=Highlight>【普攻】</color>普攻获得特殊强化，重击或普攻第<color=Highlight>{2}</color>段额外生成「飂戾」。,"<color=Highlight>[Basic Attack]</color>
-- Basic Attack is enhanced.
-- Heavy Attack or Basic Attack Stage <color=Highlight>{2}</color> generates a Wind Howl.","<color=Highlight>[Đánh Thường]</color>Đánh Thường được tăng cường đặc biệt, Đánh Mạnh hoặc đoạn thứ <color=Highlight>{2}</color> của Đánh Thường tạo thêm ""Phiêu Lệ""."
-lang_multi_text.db,MultiText,RogueBuffPool_141103_BuffDesc,"<color=#c49e55>【共鸣技能】</color>「共鸣技能·穿林打叶」冷却时间减少<color=Highlight>{0}</color>秒，最终伤害提升<color=Highlight>{1}</color>，施放时气动伤害加成提升<color=Highlight>{2}</color>，持续<color=Highlight>{3}</color>秒。
-即将受到攻击时施放「共鸣技能·穿林打叶」，使周围敌人停滞<color=Highlight>{4}</color>秒，并回复<color=Highlight>{5}</color>点「挑灯问剑」。","<color=#c49e55>[Resonance Skill]</color>
-- Resonance Skill - Through the Groves has its Cooldown reduced by <color=Highlight>{0}s</color> and its total DMG increased by <color=Highlight>{1}</color>. Casting this skill grants <color=Highlight>{2}</color> Aero DMG Bonus for <color=Highlight>{3}s</color>.
-- Resonance Skill - Through the Groves will be automatically cast when Qiuyuan is being hit, stagnating nearby enemies for <color=Highlight>{4}s</color> and restoring <color=Highlight>{5}</color> points of Swordster's Soliloquy.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>""Kỹ Năng Cộng Hưởng - Xuyên Lâm Đả Diệp"" giảm thời gian hồi <color=Highlight>{0}</color> giây, sát thương cuối cùng tăng <color=Highlight>{1}</color>, khi thi triển tăng thêm sát thương Khí Động <color=Highlight>{2}</color>, kéo dài <color=Highlight>{3}</color> giây.
-Khi sắp bị tấn công mà thi triển ""Kỹ Năng Cộng Hưởng - Xuyên Lâm Đả Diệp"", khiến kẻ địch xung quanh đình trệ <color=Highlight>{4}</color> giây, đồng thời hồi phục <color=Highlight>{5}</color> điểm ""Khiêu Đăng Vấn Kiếm""."
-lang_multi_text.db,MultiText,RogueBuffPool_141103_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>共鸣技能获得特殊强化。
-即将受到攻击时施放共鸣技能，使周围敌人停滞，并回复全部「挑灯问剑」。","<color=#c49e55>[Resonance Skill]</color>
-- Resonance Skill is enhanced.
-- Resonance Skill will be automatically cast when Qiuyuan is being hit, stagnating nearby enemies and restoring all Swordster's Soliloquy.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>Kỹ Năng Cộng Hưởng được tăng cường đặc biệt.
-Khi sắp nhận đòn tấn công, thi triển Kỹ Năng Cộng Hưởng khiến kẻ địch xung quanh đình trệ và hồi phục toàn bộ ""Khiêu Đăng Vấn Kiếm""."
-lang_multi_text.db,MultiText,RogueBuffPool_141103_BuffDesc_2_8,"<color=Highlight>【共鸣技能】</color>「共鸣技能·穿林打叶」冷却时间减少<color=Highlight>{0}</color>秒，最终伤害提升<color=Highlight>{1}</color>，施放时气动伤害加成提升<color=Highlight>{2}</color>，持续<color=Highlight>{3}</color>秒。
-即将受到攻击时施放「共鸣技能·穿林打叶」，使周围敌人停滞<color=Highlight>{4}</color>秒，并回复<color=Highlight>{5}</color>点「挑灯问剑」。","<color=Highlight>[Resonance Skill]</color>
-- Resonance Skill - Through the Groves has its Cooldown reduced by <color=Highlight>{0}s</color> and its total DMG increased by <color=Highlight>{1}</color>. Casting this skill grants <color=Highlight>{2}</color> Aero DMG Bonus for <color=Highlight>{3}s</color>.
-- Resonance Skill - Through the Groves will be automatically cast when Qiuyuan is being hit, stagnating nearby enemies for <color=Highlight>{4}s</color> and restoring <color=Highlight>{5}</color> points of Swordster's Soliloquy.","<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>""Kỹ Năng Cộng Hưởng - Xuyên Lâm Đả Diệp"" giảm thời gian hồi chiêu <color=Highlight>{0}</color> giây, sát thương cuối tăng <color=Highlight>{1}</color>, khi thi triển tăng thêm sát thương Khí Động <color=Highlight>{2}</color>, kéo dài <color=Highlight>{3}</color> giây.
-Khi sắp nhận đòn tấn công, thi triển ""Kỹ Năng Cộng Hưởng - Xuyên Lâm Đả Diệp"" khiến kẻ địch xung quanh đình trệ <color=Highlight>{4}</color> giây và hồi phục <color=Highlight>{5}</color> điểm ""Khiêu Đăng Vấn Kiếm""."
-lang_multi_text.db,MultiText,RogueBuffPool_141103_BuffDesc_2_8_0,"<color=Highlight>【共鸣技能】</color>共鸣技能获得特殊强化。
-即将受到攻击时施放共鸣技能，使周围敌人停滞，并回复全部「挑灯问剑」。","<color=Highlight>[Resonance Skill]</color>
-- Resonance Skill is enhanced.
-- Resonance Skill will be automatically cast when Qiuyuan is being hit, stagnating nearby enemies and restoring all Swordster's Soliloquy.","<color=Highlight>[Kỹ Năng Cộng Hưởng]</color>Kỹ Năng Cộng Hưởng được tăng cường đặc biệt.
-Khi sắp nhận đòn tấn công, thi triển Kỹ Năng Cộng Hưởng khiến kẻ địch xung quanh đình trệ và hồi phục toàn bộ ""Khiêu Đăng Vấn Kiếm""."
-lang_multi_text.db,MultiText,RogueBuffPool_141104_BuffDesc,<color=Highlight>【共鸣回路】</color>「淋漓醉墨」状态下，答剑·弦歌不辍、答剑·割股之心、答剑·忠烈死节最终伤害提升<color=Highlight>{0}</color>，「挑灯问剑」消耗降低<color=Highlight>{1}</color>，施放时额外回复<color=Highlight>{2}</color>点共鸣能量。,"<color=Highlight>[Forte Circuit]</color>
-While in Inksplash of Mind, Thus Spoke the Blade: To Teach, Thus Spoke the Blade: To Save, and Thus Spoke the Blade: To Sacrifice have their total DMG increased by <color=Highlight>{0}</color> and their Swordster's Soliloquy cost reduced by <color=Highlight>{1}</color>, and additionally restore <color=Highlight>{2}</color> points of Resonance Energy.","<color=Highlight>[Cộng Hưởng Mạch]</color>Trong trạng thái ""Lâm Ly Túy Mặc"", sát thương cuối của Đáp Kiếm - Huyền Ca Bất Chuyết, Đáp Kiếm - Cát Cổ Chi Tâm, Đáp Kiếm - Trung Liệt Tử Tiết tăng <color=Highlight>{0}</color>, tiêu hao ""Khiêu Đăng Vấn Kiếm"" giảm <color=Highlight>{1}</color>, khi thi triển hồi phục thêm <color=Highlight>{2}</color> điểm năng lượng cộng hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_141104_BuffDesc_0,<color=Highlight>【共鸣回路】</color>「淋漓醉墨」状态下，重击答剑·弦歌不辍、答剑·割股之心、答剑·忠烈死节获得特殊强化。,"<color=Highlight>[Forte Circuit]</color>
-While in Inksplash of Mind, Thus Spoke the Blade: To Teach, Thus Spoke the Blade: To Save, and Thus Spoke the Blade: To Sacrifice are enhanced.","<color=Highlight>[Cộng Hưởng Mạch]</color>Trong trạng thái ""Lâm Ly Túy Mặc"", Đánh Mạnh Đáp Kiếm - Huyền Ca Bất Chuyết, Đáp Kiếm - Cát Cổ Chi Tâm, Đáp Kiếm - Trung Liệt Tử Tiết được tăng cường đặc biệt."
-lang_multi_text.db,MultiText,RogueBuffPool_141104_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>「淋漓醉墨」状态下，答剑·弦歌不辍、答剑·割股之心、答剑·忠烈死节最终伤害提升<color=Highlight>{0}</color>，「挑灯问剑」消耗降低<color=Highlight>{1}</color>，施放时额外回复<color=Highlight>{2}</color>点共鸣能量。,"<color=Highlight>[Forte Circuit]</color>
-While in Inksplash of Mind, Thus Spoke the Blade: To Teach, Thus Spoke the Blade: To Save, and Thus Spoke the Blade: To Sacrifice have their total DMG increased by <color=Highlight>{0}</color> and their Swordster's Soliloquy cost reduced by <color=Highlight>{1}</color>, and additionally restore <color=Highlight>{2}</color> points of Resonance Energy.","<color=Highlight>[Cộng Hưởng Mạch]</color>Trong trạng thái ""Lâm Ly Túy Mặc"", sát thương cuối của Đáp Kiếm - Huyền Ca Bất Chuyết, Đáp Kiếm - Cát Cổ Chi Tâm, Đáp Kiếm - Trung Liệt Tử Tiết tăng <color=Highlight>{0}</color>, tiêu hao ""Khiêu Đăng Vấn Kiếm"" giảm <color=Highlight>{1}</color>, khi thi triển hồi phục thêm <color=Highlight>{2}</color> điểm năng lượng cộng hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_141104_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>「淋漓醉墨」状态下，重击答剑·弦歌不辍、答剑·割股之心、答剑·忠烈死节获得特殊强化。,"<color=Highlight>[Forte Circuit]</color>
-While in Inksplash of Mind, Thus Spoke the Blade: To Teach, Thus Spoke the Blade: To Save, and Thus Spoke the Blade: To Sacrifice are enhanced.","<color=Highlight>[Cộng Hưởng Mạch]</color>Trong trạng thái ""Lâm Ly Túy Mặc"", Đánh Mạnh Đáp Kiếm - Huyền Ca Bất Chuyết, Đáp Kiếm - Cát Cổ Chi Tâm, Đáp Kiếm - Trung Liệt Tử Tiết được tăng cường đặc biệt."
-lang_multi_text.db,MultiText,RogueBuffPool_141105_BuffDesc,<color=Highlight>【共鸣解放】</color>「共鸣解放·万钧一断」最终伤害提升<color=Highlight>{0}</color>，冷却时间减少<color=Highlight>{1}</color>秒。,"<color=Highlight>[Resonance Liberation]</color>
-Resonance Liberation - Sundering Strike has its total DMG increased by <color=Highlight>{0}</color> and Cooldown reduced by <color=Highlight>{1}s</color>.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>""Giải Phóng Cộng Hưởng - Vạn Quân Nhất Đoạn"" tăng sát thương cuối <color=Highlight>{0}</color>, giảm thời gian hồi chiêu <color=Highlight>{1}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_141105_BuffDesc_0,<color=Highlight>【共鸣解放】</color>共鸣解放最终伤害提升，冷却时间减少。,"<color=Highlight>[Resonance Liberation]</color>
-Resonance Liberation - Sundering Strike has higher total DMG and lower Cooldown.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng tăng sát thương cuối, giảm thời gian hồi chiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_141105_BuffDesc_2_8,<color=Highlight>【共鸣解放】</color>「共鸣解放·万钧一断」最终伤害提升<color=Highlight>{0}</color>，冷却时间减少<color=Highlight>{1}</color>秒。,"<color=Highlight>[Resonance Liberation]</color>
-Resonance Liberation - Sundering Strike has its total DMG increased by <color=Highlight>{0}</color> and Cooldown reduced by <color=Highlight>{1}s</color>.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>""Giải Phóng Cộng Hưởng - Vạn Quân Nhất Đoạn"" tăng sát thương cuối <color=Highlight>{0}</color>, giảm thời gian hồi chiêu <color=Highlight>{1}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_141105_BuffDesc_2_8_0,<color=Highlight>【共鸣解放】</color>共鸣解放最终伤害提升，冷却时间减少。,"<color=Highlight>[Resonance Liberation]</color>
-Resonance Liberation - Sundering Strike has higher total DMG and lower Cooldown.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng tăng sát thương cuối, giảm thời gian hồi chiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_1501700010_BuffDesc,<color=#c49e55>【特殊强化】</color>消耗特殊能量时，暴击提升{0}，并且特殊能量的获取效率降低{1}，持续{2}秒。,<color=#c49e55>[Special Enhancement]</color> Consuming Diminutive Sound increases Crit. Rate by {0} but reduces Forte Gauge gain by {1}. Lasts for {2}s.,"<color=#c49e55>[Tăng Cường Đặc Biệt]</color>Khi tiêu hao năng lượng đặc biệt, tăng tỷ lệ bạo kích {0}, đồng thời giảm hiệu suất thu thập năng lượng đặc biệt {1}, kéo dài {2} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_1501700010_BuffDesc_0,<color=#c49e55>【特殊强化】</color>消耗特殊能量后短时间内暴击提升，特殊能量的获取效率降低,<color=#c49e55>[Special Enhancement]</color> Consuming Diminutive Sound increases Crit. Rate but reduces Forte Gauge gain for a short duration.,"<color=#c49e55>[Tăng Cường Đặc Biệt]</color>Sau khi tiêu hao năng lượng đặc biệt, trong thời gian ngắn tỷ lệ bạo kích tăng, hiệu suất thu thập năng lượng đặc biệt giảm"
-lang_multi_text.db,MultiText,RogueBuffPool_1501700010_BuffDesc_1,尘声,Dusty Sound,Trần Thanh
-lang_multi_text.db,MultiText,RogueBuffPool_1501700060_BuffDesc,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置共鸣技能的冷却时间，每10s可触发一次。,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill. This can be triggered once every 10s.,"<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color>Thi triển Kỹ Năng Cộng Hưởng đã tăng cường sẽ đặt lại thời gian hồi chiêu của Kỹ Năng Cộng Hưởng, mỗi 10 giây có thể kích hoạt một lần."
-lang_multi_text.db,MultiText,RogueBuffPool_1501700060_BuffDesc_0,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置其冷却时间,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill.,<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color>Thi triển Kỹ Năng Cộng Hưởng đã tăng cường sẽ đặt lại thời gian hồi chiêu
-lang_multi_text.db,MultiText,RogueBuffPool_1501700060_BuffDesc_1,存在异常，如有疑问请联系官方客服,Resonance Skill Enhancement,"Có lỗi xảy ra, nếu có thắc mắc xin liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,RogueBuffPool_1502700001_BuffDesc,<color=#c49e55>【普攻】</color><color=#c49e55>【重击】</color>普攻第{0}段、重击会额外召唤{1}把「飞剑」，造成{2}伤害。,"<color=#c49e55>[Basic Attack]</color> <color=#c49e55>[Heavy Attack]</color> Basic Attack {0} and Heavy Attack will summon {1} additional ""flying swords"", dealing {2} DMG.","<color=#c49e55>[Đánh Thường]</color><color=#c49e55>[Đánh Mạnh]</color>Đánh Thường đoạn {0}, Đánh Mạnh sẽ triệu hồi thêm {1} thanh ""Phi Kiếm"", gây {2} sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_1502700001_BuffDesc_0,<color=#c49e55>【普攻】</color><color=#c49e55>【重击】</color>普攻、重击召唤的「飞剑」变为三把,"<color=#c49e55>[Basic Attack]</color> <color=#c49e55>[Heavy Attack]</color> Basic Attack and Heavy Attack now summon 3 ""Flying Swords"".","<color=#c49e55>[Đánh Thường]</color><color=#c49e55>[Đánh Mạnh]</color>""Phi Kiếm"" được triệu hồi bởi Đánh Thường, Đánh Mạnh tăng lên ba thanh"
-lang_multi_text.db,MultiText,RogueBuffPool_1502700001_BuffDesc_1,回锋,Blade Returning,Hồi Phong
-lang_multi_text.db,MultiText,RogueBuffPool_1502700010_BuffDesc,<color=#c49e55>【特殊强化】</color>消耗特殊能量时，暴击提升{0}，并且特殊能量的获取效率降低{1}，持续{2}秒。,<color=#c49e55>[Special Enhancement]</color> Consuming Forte Gauge increases Crit. Rate by {0} but reduces Forte Gauge recovery by {1}. Lasts for {2}s.,"<color=#c49e55>[Tăng Cường Đặc Biệt]</color>Khi tiêu hao năng lượng đặc biệt, tăng tỷ lệ bạo kích {0}, đồng thời giảm hiệu suất thu thập năng lượng đặc biệt {1}, kéo dài {2} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_1502700010_BuffDesc_0,<color=#c49e55>【特殊强化】</color>消耗特殊能量后短时间内暴击提升，特殊能量的获取效率降低,<color=#c49e55>[Special Enhancement]</color> Consuming Forte Gauge temporarily increases Crit. Rate while but reduces Forte Gauge recovery.,"<color=#c49e55>[Tăng Cường Đặc Biệt]</color>Sau khi tiêu hao năng lượng đặc biệt, trong thời gian ngắn tỷ lệ bạo kích tăng, hiệu suất thu thập năng lượng đặc biệt giảm"
-lang_multi_text.db,MultiText,RogueBuffPool_1502700010_BuffDesc_1,尘声,Dusty Sound,Trần Thanh
-lang_multi_text.db,MultiText,RogueBuffPool_1502700020_BuffDesc,<color=#c49e55>【普攻】</color><color=#c49e55>【特殊强化】</color>施放「浮生千斩·旋音」后{0}秒内，每次普攻命中时会额外增加{1}次「飞剑」攻击，造成{2}伤害，共鸣技能冷却时间延长{3}秒。,"<color=#c49e55>[Basic Attack ]</color> <color=#c49e55>[Special Enhancement]</color> Within {0}s after casting Resonating Spin, each Basic Attack triggers {1} additional attack(s) of ""Flying Sword,"" dealing {2} DMG. Resonance Skill Cooldown is increased by {3}s.","<color=#c49e55>[Đánh Thường]</color><color=#c49e55>[Tăng Cường Đặc Biệt]</color>Trong vòng {0} giây sau khi thi triển ""Phù Sinh Thiên Trảm - Toàn Âm"", mỗi lần Đánh Thường trúng mục tiêu sẽ kích hoạt thêm {1} lần tấn công ""Phi Kiếm"", gây {2} sát thương, thời gian hồi chiêu Kỹ Năng Cộng Hưởng tăng thêm {3} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_1502700020_BuffDesc_0,<color=#c49e55>【普攻】</color><color=#c49e55>【特殊强化】</color>施放「浮生千斩·旋音」后，获得短期强化，每次普攻额外增加「飞剑」攻击，共鸣技能冷却时间延长,"<color=#c49e55>[Basic Attack ]</color><color=#c49e55>[Special Enhancement]</color> After casting Resonating Spin, each Basic Attack triggers additional ""Flying Sword"" attacks. Increases Cooldown of Resonance Skill.","<color=#c49e55>[Đánh Thường]</color><color=#c49e55>[Tăng Cường Đặc Biệt]</color>Sau khi thi triển ""Phù Sinh Thiên Trảm - Toàn Âm"", nhận tăng cường tạm thời, mỗi lần Đánh Thường kích hoạt thêm tấn công ""Phi Kiếm"", thời gian hồi chiêu Kỹ Năng Cộng Hưởng tăng thêm"
-lang_multi_text.db,MultiText,RogueBuffPool_1502700020_BuffDesc_1,折影,Folding Shadow,Chiết Ảnh
-lang_multi_text.db,MultiText,RogueBuffPool_1502700030_BuffDesc,<color=#ffd12f>【重击】</color>「重击·余音」会额外造成2次爆炸，每次造成150%衍射伤害。,"<color=#ffd12f>[Heavy Attack]</color> Heavy Attack: Aftertune will cause 2 extra explosions, each dealing 150% Spectro DMG.","<color=#ffd12f>[Đánh Mạnh]</color>""Đánh Mạnh - Dư Âm"" sẽ tạo thêm 2 lần nổ, mỗi lần gây 150% sát thương Quang Phổ."
-lang_multi_text.db,MultiText,RogueBuffPool_1502700030_BuffDesc_0,<color=#ffd12f>【重击】</color>增加重击后的爆炸次数,<color=#ffd12f>[Heavy Attack]</color> Increase the number of explosions after Heavy Attack.,<color=#ffd12f>[Đánh Mạnh]</color>Tăng số lần nổ sau Đánh Mạnh
-lang_multi_text.db,MultiText,RogueBuffPool_1502700030_BuffDesc_1,存在异常，如有疑问请联系官方客服,Basic Attack Enhancement,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ hỗ trợ chính thức"
-lang_multi_text.db,MultiText,RogueBuffPool_1502700040_BuffDesc,<color=#c49e55>【共鸣技能】</color>「浮生千斩·旋音」会召唤{0}个额外的「剑轮」，每个「剑轮」造成{1}伤害。,"<color=#c49e55>[Resonance Skill]</color> ""Resonating Echoes"" will generate {0} additional Sword Wheels, each dealing {1} DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>""Phù Sinh Thiên Trảm - Toàn Âm"" sẽ triệu hồi thêm {0} ""Kiếm Luân"", mỗi ""Kiếm Luân"" gây {1} sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_1502700040_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>派生共鸣技能召唤额外「剑轮」,<color=#c49e55>[Resonance Skill]</color> The Chain Basic Attack following the Resonance Skill generates additional Sword Wheels.,"<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>Kỹ Năng Cộng Hưởng phái sinh triệu hồi thêm ""Kiếm Luân"""
-lang_multi_text.db,MultiText,RogueBuffPool_1502700040_BuffDesc_1,剑铓,Sword Point,Kiếm Mang
-lang_multi_text.db,MultiText,RogueBuffPool_1502700050_BuffDesc,<color=#c49e55>【共鸣解放】</color>共鸣解放可以消耗所有的特殊能量，每消耗一半可以提升一次共鸣解放的爆炸次数。,<color=#c49e55>[Resonance Liberation]</color> Resonance Liberation consumes all Diminutive Sound and causes one extra explosion for each half consumed.,"<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng có thể tiêu hao toàn bộ năng lượng đặc biệt, mỗi lần tiêu hao một nửa sẽ tăng thêm một lần nổ cho Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_1502700050_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放可消耗特殊能量提升爆炸次数,<color=#c49e55>[Resonance Liberation]</color> Resonance Liberation consumes all Diminutive Sound to cause extra explosions.,<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>Giải Phóng Cộng Hưởng có thể tiêu hao năng lượng đặc biệt để tăng số lần nổ
-lang_multi_text.db,MultiText,RogueBuffPool_1502700050_BuffDesc_1,重鸣,Heavy Hum,Trùng Minh
-lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置共鸣技能的冷却时间，每10s可触发一次。,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill. This can be triggered once every 10s.,"<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color>Thi triển Kỹ Năng Cộng Hưởng đã tăng cường sẽ đặt lại thời gian hồi chiêu Kỹ Năng Cộng Hưởng, có thể kích hoạt mỗi 10 giây một lần."
-lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc_0,<color=#ffd12f>【共鸣技能】</color>施放强化后的共鸣技能会重置其冷却时间,<color=#ffd12f>[Resonance Skill]</color> Enhanced Resonance Skill resets the Cooldown of Resonance Skill.,<color=#ffd12f>[Kỹ Năng Cộng Hưởng]</color>Thi triển Kỹ Năng Cộng Hưởng đã tăng cường sẽ đặt lại thời gian hồi chiêu
-lang_multi_text.db,MultiText,RogueBuffPool_1502700060_BuffDesc_1,存在异常，如有疑问请联系官方客服,Resonance Skill Enhancement,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ hỗ trợ chính thức"
-lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·满血时，暴击提升{0}。
-·满血时，施放共鸣技能会扣除自身{1}生命值，在自身自身前后左右各施放1次「蔓生」，造成攻击{2}的衍射伤害，此次伤害为共鸣技能伤害，并且该伤害无视目标{3}防御。","<color=#c49e55>[Resonance Skill]</color>
-- While Verina is at full HP, her Crit. Rate is increased by {0}.
-- While Verina is at full HP, casting Resonance Skill consumes {1} of her max HP and triggers 1 Overgrowth around her, dealing Spectro DMG equal to {2} of her ATK. This DMG is considered Resonance Skill DMG and ignores {3} of the target's DEF.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-- Khi đầy máu, tỷ lệ bạo kích tăng {0}.
-- Khi đầy máu, thi triển Kỹ Năng Cộng Hưởng sẽ trừ {1} sinh mệnh bản thân, đồng thời thi triển 1 lần ""Mạn Sinh"" ở bốn hướng trước sau trái phải, gây sát thương Quang Phổ bằng {2} tấn công, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng và bỏ qua {3} phòng thủ mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·满血时，暴击提升。
-·满血时，施放共鸣技能会扣除自身一定生命值，在自身自身前后左右各施放1次「蔓生」，造成衍射伤害，并且该伤害无视目标一定防御。","<color=#c49e55>[Resonance Skill]</color>
-- While Verina is at full HP, her Crit. Rate is increased.
-- While Verina is at full HP, casting Resonance Skill consumes a certain amount of her max HP and triggers 1 Overgrowth around her, dealing Spectro DMG that ignores a certain amount of the target's DEF.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-- Khi đầy máu, tỷ lệ bạo kích tăng.
-- Khi đầy máu, thi triển Kỹ Năng Cộng Hưởng sẽ trừ một lượng sinh mệnh bản thân, đồng thời thi triển 1 lần ""Mạn Sinh"" ở bốn hướng trước sau trái phải, gây sát thương Quang Phổ và bỏ qua một phần phòng thủ mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_150301_BuffDesc_1,萌芽一瞬,Moment of Emergence,Khoảnh Khắc Nảy Mầm
-lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc,"<color=#c49e55>【普攻】</color>
-·普攻循环只保留第四段和第五段，并且每次命中额外获得1点光合能量。
-·重击命中时会在前方施放1次「盛放花蕾」，造成攻击{0}的衍射伤害，此次伤害为共鸣技能伤害，每{1}秒可触发1次。
-·维里奈衍射伤害加成提升{2}。","<color=#c49e55>[Basic Attack]</color>
-- Basic Attack cycle now starts from Stage 4, and restores 1 additional Photosynthesis Energy on each hit.
-- Upon hitting a target with Heavy Attack, Verina casts 1 Bloombud in front of her, dealing Spectro DMG equal to {0} of her ATK, which is considered Resonance Skill DMG. This effect can be triggered once every {1}s.
-- Verina gains {2} Spectro DMG Bonus.","<color=#c49e55>[Đánh Thường]</color>
-- Vòng lặp Đánh Thường chỉ giữ lại đoạn thứ tư và thứ năm, mỗi lần trúng sẽ nhận thêm 1 điểm năng lượng quang hợp.
-- Khi Đánh Mạnh trúng mục tiêu, sẽ thi triển 1 lần ""Nụ Hoa Mãn Khai"" phía trước, gây sát thương Quang Phổ bằng {0} tấn công, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng, có thể kích hoạt mỗi {1} giây 1 lần.
-- Bonus sát thương Quang Phổ của Verina tăng {2}."
-lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·普攻循环只保留第四段和第五段，并且每次命中额外获得光合能量。
-·重击命中时会在前方施放「盛放花蕾」造成衍射伤害。
-·维里奈衍射伤害加成提升。","<color=#c49e55>[Basic Attack]</color>
-- Basic Attack cycle now starts from Stage 4, and restores additional Photosynthesis Energy on each hit.
-- Upon hitting a target with Heavy Attack, Verina casts Bloombud in front of her, dealing Spectro DMG.
-- Verina gains Spectro DMG Bonus.","<color=#c49e55>[Đánh Thường]</color>
-- Vòng lặp Đánh Thường chỉ giữ lại đoạn thứ tư và thứ năm, mỗi lần trúng sẽ nhận thêm năng lượng quang hợp.
-- Khi Đánh Mạnh trúng mục tiêu, sẽ thi triển ""Nụ Hoa Mãn Khai"" phía trước gây sát thương Quang Phổ.
-- Bonus sát thương Quang Phổ của Verina tăng."
-lang_multi_text.db,MultiText,RogueBuffPool_150302_BuffDesc_1,盛放拥抱,Blossoming Embrace,Vòng Tay Nở Rộ
-lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc,"<color=#c49e55>【共鸣回路】</color>
-·每次消耗光合能量时，共鸣技能的冷却时间减少{0}秒。
-·施放共鸣技能时，会额外造成4次共计攻击{1}的大范围衍射伤害，此次伤害为共鸣技能伤害，并且可以回复{2}点光合能量。
-·维里奈衍射伤害加成提升{3}。","<color=#c49e55>[Forte Circuit]</color>
-- Verina's Resonance Skill Cooldown is reduced by {0}s each time she consumes Photosynthesis Energy.
-- Casting Resonance Skill also deals an additional Spectro DMG equal to {1} of Verina's ATK, striking a large area 4 times, which is considered Resonance Skill DMG, and recovers {2} Photosynthesis Energy.
-- Verina gains {3} Spectro DMG Bonus.","<color=#c49e55>[Mạch Cộng Hưởng]</color>
-- Mỗi lần tiêu hao năng lượng quang hợp, thời gian hồi chiêu Kỹ Năng Cộng Hưởng giảm {0} giây.
-- Khi thi triển Kỹ Năng Cộng Hưởng, sẽ gây thêm 4 lần sát thương Quang Phổ diện rộng tổng cộng bằng {1} tấn công, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng, đồng thời hồi phục {2} điểm năng lượng quang hợp.
-- Bonus sát thương Quang Phổ của Verina tăng {3}."
-lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>
-·每次消耗光合能量时，共鸣技能的冷却时间减少.
-·施放共鸣技能时，会额外造成范围伤害并回复光合能量。
-·维里奈衍射伤害加成提升。","<color=#c49e55>[Forte Circuit]</color>
-- Verina's Resonance Skill Cooldown is reduced each time she consumes Photosynthesis Energy.
-- Casting Resonance Skill also deals an additional DMG over a large area and recovers Photosynthesis Energy.
-- Verina gains Spectro DMG Bonus.","<color=#c49e55>[Mạch Cộng Hưởng]</color>
-- Mỗi lần tiêu hao năng lượng quang hợp, thời gian hồi chiêu Kỹ Năng Cộng Hưởng giảm.
-- Khi thi triển Kỹ Năng Cộng Hưởng, sẽ gây thêm sát thương diện rộng và hồi phục năng lượng quang hợp.
-- Bonus sát thương Quang Phổ của Verina tăng."
-lang_multi_text.db,MultiText,RogueBuffPool_150303_BuffDesc_1,晒足太阳,Bask in the Sunlight!,Tắm Đủ Nắng
-lang_multi_text.db,MultiText,RogueBuffPool_150304_BuffDesc,"<color=#c49e55>【共鸣回路】</color>
-·普攻、共鸣技能命中目标时，会给目标附加「光合标记」，持续{0}秒。
-·维里奈衍射伤害加成提升{1}。","<color=#c49e55>[Forte Circuit]</color>
-- Basic Attack and Resonance Skill apply a Photosynthesis Mark on the targets for {0}s on hit.
-- Verina gains {1} Spectro DMG Bonus.","<color=#c49e55>[Cộng Hưởng Mạch]</color>
-- Đánh Thường, Kỹ Năng Cộng Hưởng khi trúng mục tiêu sẽ gắn ""Dấu Quang Hợp"" lên mục tiêu, kéo dài {0} giây.
-- Tăng thêm sát thương Quang Phổ của Verina {1}."
-lang_multi_text.db,MultiText,RogueBuffPool_150304_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>
-·普攻、共鸣技能命中目标时，会给目标附加「光合标记」。
-·维里奈衍射伤害加成提升。","<color=#c49e55>[Forte Circuit]</color>
-- Basic Attack and Resonance Skill apply a Photosynthesis Mark on the targets on hit.
-- Verina gains Spectro DMG Bonus.","<color=#c49e55>[Cộng Hưởng Mạch]</color>
-- Đánh Thường, Kỹ Năng Cộng Hưởng khi trúng mục tiêu sẽ gắn ""Dấu Quang Hợp"" lên mục tiêu.
-- Tăng thêm sát thương Quang Phổ của Verina."
-lang_multi_text.db,MultiText,RogueBuffPool_150304_BuffDesc_1,丰获喜悦,Joy of Harvest,Niềm Vui Thu Hoạch
-lang_multi_text.db,MultiText,RogueBuffPool_150305_BuffDesc,"<color=#c49e55>【普攻】</color>
-·施放空中攻击与空中重击时，额外回复{0}点体力。
-·满体力施放空中重击时，暴击伤害提升{1}，持续{2}秒。","<color=#c49e55>[Basic Attack]</color>
-- Performing Mid-air Attack and Mid-air Heavy Attack additionally restores {0} STA.
-- Performing Mid-air Heavy Attack while at full STA increases Verina's Crit. DMG by {1} for {2}s.","<color=#c49e55>[Đánh Thường]</color>
-- Khi tung đòn tấn công trên không và Đánh Mạnh trên không, hồi thêm {0} điểm thể lực.
-- Khi tung Đánh Mạnh trên không lúc thể lực đầy, tăng sát thương bạo kích {1}, kéo dài {2} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_150305_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·施放空中攻击与空中重击时，额外回复体力。
-·满体力施放空中重击时，暴击伤害提升。","<color=#c49e55>[Basic Attack]</color>
-- Performing Mid-air Attack and Mid-air Heavy Attack additionally restores STA.
-- Performing Mid-air Heavy Attack while at full STA increases Verina's Crit. DMG.","<color=#c49e55>[Đánh Thường]</color>
-- Khi tung đòn tấn công trên không và Đánh Mạnh trên không, hồi thêm thể lực.
-- Khi tung Đánh Mạnh trên không lúc thể lực đầy, tăng sát thương bạo kích."
-lang_multi_text.db,MultiText,RogueBuffPool_150305_BuffDesc_1,生生不息,Renewal of Life,Sinh Sinh Bất Tức
-lang_multi_text.db,MultiText,RogueBuffPool_1503_BuffDesc,<color=#ffd12f>【角色助战】</color>可触发变奏技能，满协奏能量后召唤维里奈施放共鸣解放,"<color=#ffd12f>[Companion's Aid]</color> Summon Verina to cast her Resonance Liberation when Concerto Energy is full, triggering the Intro Skill.","<color=#ffd12f>[Nhân Vật Hỗ Trợ]</color> Có thể kích hoạt kỹ năng Biến Tấu, khi năng lượng Hiệp Tấu đầy sẽ triệu hồi Verina thi triển Giải Phóng Cộng Hưởng"
-lang_multi_text.db,MultiText,RogueBuffPool_1503_BuffDesc_0,<color=#ffd12f>【角色助战】</color>召唤维里奈协战,<color=#ffd12f>[Companion's Aid]</color> Summon Verina for assistance.,<color=#ffd12f>[Nhân Vật Hỗ Trợ]</color> Triệu hồi Verina hỗ trợ chiến đấu
-lang_multi_text.db,MultiText,RogueBuffPool_1503_BuffName,协奏·维里奈,Concerto: Verina,Hiệp Tấu - Verina
-lang_multi_text.db,MultiText,RogueBuffPool_150401_BuffDesc,"<color=#c49e55>【重击】</color>
-「红灯·重击」范围扩大，不再消耗体力。灯灯导电伤害加成提升{0}。","<color=#c49e55>[Heavy Attack]</color>
-Red Light: Heavy Attack has a larger range and no longer consumes STA. Lumi gains {0} Electro DMG Bonus.","<color=#c49e55>[Đánh Mạnh]</color>
-""Đèn Đỏ - Đánh Mạnh"" mở rộng phạm vi, không còn tiêu hao thể lực. Tăng thêm sát thương Điện Từ của Lumi {0}."
-lang_multi_text.db,MultiText,RogueBuffPool_150401_BuffDesc_0,"<color=#c49e55>【重击】</color>
-「红灯·重击」范围扩大，不再消耗体力。 灯灯导电伤害加成提升。","<color=#c49e55>[Heavy Attack]</color>
-Red Light: Heavy Attack has a larger range and no longer consumes STA. Lumi gains Electro DMG Bonus.","<color=#c49e55>[Đánh Mạnh]</color>
-""Đèn Đỏ - Đánh Mạnh"" mở rộng phạm vi, không còn tiêu hao thể lực. Tăng thêm sát thương Điện Từ của Lumi."
-lang_multi_text.db,MultiText,RogueBuffPool_150401_BuffDesc_1,烁亮四方,Unhindered Light,Rực Sáng Bốn Phương
-lang_multi_text.db,MultiText,RogueBuffPool_150402_BuffDesc,"<color=#c49e55>【普攻】</color>
-进入「疾奔」状态时，释放的飞星数量翻倍。额外的飞星造成{0}的伤害，此次伤害为普攻伤害，并且不会获得「黄灯光能」。","<color=#c49e55>[Basic Attack]</color>
-After entering Zoom, the amount of Glitter projectiles is doubled. Glitter gained this way deals {0} DMG, which is considered Basic Attack DMG, and does not generate Yellow Light Spark.","<color=#c49e55>[Đánh Thường]</color>
-Khi vào trạng thái ""Lao Nhanh"", số lượng sao bay phóng ra tăng gấp đôi. Sao bay thêm gây {0} sát thương, sát thương này được tính là sát thương Đánh Thường và không nhận được ""Quang Năng Đèn Vàng""."
-lang_multi_text.db,MultiText,RogueBuffPool_150402_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-进入「疾奔」状态时，释放的飞星数量翻倍。额外的飞星不会获得「黄灯光能」。","<color=#c49e55>[Basic Attack]</color>
-After entering Zoom, the amount of Glitter projectiles is doubled. Glitter gained this way does not generate Yellow Light Spark.","<color=#c49e55>[Đánh Thường]</color>
-Khi vào trạng thái ""Lao Nhanh"", số lượng sao bay phóng ra tăng gấp đôi. Sao bay thêm không nhận được ""Quang Năng Đèn Vàng""."
-lang_multi_text.db,MultiText,RogueBuffPool_150402_BuffDesc_1,闪耀流彩,Flying Luster,Lấp Lánh Lưu Quang
-lang_multi_text.db,MultiText,RogueBuffPool_150403_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-「强化·前扑」命中敌人后的{0}秒内，短按普攻，灯灯向后跳起，并召唤5道「流光」轰击目标，每道「流光」造成{1}的伤害，此次伤害为普攻伤害。","<color=#c49e55>[Resonance Skill]</color>
-After Energized Pounce hits a target, perform a Basic Attack within {0}s to have Lumi leap backward and summon a barrage of 5 Lightbeams, each Lightbeam dealing {1} DMG, which is considered Basic Attack DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-Sau khi ""Tăng Cường - Lao Tới"" trúng kẻ địch, trong vòng {0} giây, nhấn nhanh Đánh Thường, Lumi sẽ nhảy lùi lại và triệu hồi 5 tia ""Lưu Quang"" bắn phá mục tiêu, mỗi tia ""Lưu Quang"" gây {1} sát thương, sát thương này được tính là sát thương Đánh Thường."
-lang_multi_text.db,MultiText,RogueBuffPool_150403_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-「强化·前扑」命中敌人后的一段时间内，短按普攻，灯灯向后跳起，并召唤5颗「流光」轰击目标，造成导电伤害。","<color=#c49e55>[Resonance Skill]</color>
-After Energized Pounce hits a target, perform a Basic Attack to have Lumi leap backward and summon a barrage of 5 Lightbeams, dealing Electro DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-Sau khi ""Tăng Cường - Lao Tới"" trúng kẻ địch, trong một khoảng thời gian, nhấn nhanh Đánh Thường, Lumi sẽ nhảy lùi lại và triệu hồi 5 tia ""Lưu Quang"" bắn phá mục tiêu, gây sát thương Điện Từ."
-lang_multi_text.db,MultiText,RogueBuffPool_150403_BuffDesc_1,明灯遥坠,Lightbeam Barrage,Minh Đăng Rơi Xa
+lang_multi_text.db,MultiText,RogueBuffPool_120803_BuffDesc_2_8_0,<color=Highlight>【共鸣解放】</color>共鸣解放冷却时间减少，额外回复「余火」并使自身伤害加成提升。,"<color=Highlight>[Resonance Liberation]</color>
+- The cooldown of Resonance Liberation is reduced.
+- Casting Resonance Liberation additionally restores Afterflame and increases DMG dealt.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Hồi chiêu Giải Phóng Cộng Hưởng giảm, hồi thêm ""Dư Hỏa"" và tăng buff sát thương bản thân."
+lang_multi_text.db,MultiText,RogueBuffPool_120804_BuffDesc,<color=Highlight>【共鸣回路】</color>「恶魔位格」期间，声骸技能伤害加成提升<color=Highlight>{0}</color>，普攻和重击的最终伤害提升<color=Highlight>{1}</color>。,"<color=Highlight>[Forte Circuit]</color>
+Demon Hypostasis grants <color=Highlight>{0}</color> Echo Skill DMG Bonus, and increases the total DMG of Basic Attack and Heavy Attack by <color=Highlight>{1}</color>.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Ác Ma Vị Cách"", buff Sát Thương Kỹ Năng Thanh Hài tăng <color=Highlight>{0}</color>, sát thương cuối cùng của Đánh Thường và Đánh Mạnh tăng <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,RogueBuffPool_120804_BuffDesc_0,<color=Highlight>【共鸣回路】</color>「恶魔位格」期间，获得特殊强化。,"<color=Highlight>[Forte Circuit]</color>
+Demon Hypostasis grants special enhancements.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Ác Ma Vị Cách"", nhận được cường hóa đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_120804_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>「恶魔位格」期间，声骸技能伤害加成提升<color=Highlight>{0}</color>，普攻和重击的最终伤害提升<color=Highlight>{1}</color>，攻击速度提升<color=Highlight>{2}</color>。,"<color=Highlight>[Forte Circuit]</color>
+Demon Hypostasis grants <color=Highlight>{0}</color> Echo Skill DMG Bonus, increases the total DMG of Basic Attack and Heavy Attack by <color=Highlight>{1}</color>, and increases Attack Speed by <color=Highlight>{2}</color>.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Ác Ma Vị Cách"", buff Sát Thương Kỹ Năng Thanh Hài tăng <color=Highlight>{0}</color>, sát thương cuối cùng của Đánh Thường và Đánh Mạnh tăng <color=Highlight>{1}</color>, tốc độ tấn công tăng <color=Highlight>{2}</color>."
+lang_multi_text.db,MultiText,RogueBuffPool_120804_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>「恶魔位格」期间，获得特殊强化。,"<color=Highlight>[Forte Circuit]</color>
+Demon Hypostasis grants special enhancements.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Ác Ma Vị Cách"", nhận được cường hóa đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_130101_BuffDesc,"<color=#c49e55>【普攻】</color>
+施放重击·「仁慈」、重击·「死告」、闪避反击后一定时间内短按普攻，可施放「狂猎」，共造成攻击{0}的导电伤害，此次伤害为共鸣解放伤害。","<color=#c49e55>[Basic Attack]</color>
+Within a short time after performing Heavy Attack: Mercy, Heavy Attack: Death Messenger, or Dodge Counter, using Normal Attack will cast Wild Hunt, dealing Electro DMG equal to {0} of Calcharo's ATK, which is considered Resonance Liberation DMG.","<color=#c49e55>[Đánh Thường]</color>
+Trong một khoảng thời gian ngắn sau khi thi triển Đánh Mạnh - ""Nhân Từ"", Đánh Mạnh - ""Tử Cáo"", Phản Kích Né Tránh, nhấn Đánh Thường có thể thi triển ""Cuồng Liệp"", gây tổng cộng Sát Thương Điện Từ bằng {0} tấn công, sát thương này được tính là Sát Thương Giải Phóng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130101_BuffDesc_0,"<color=#c49e55>【普攻】</color>
+施放重击·「仁慈」、重击·「死告」、闪避反击后一定时间内短按普攻，可施放「狂猎」，造成导电伤害，此次伤害为共鸣解放伤害。","<color=#c49e55>[Basic Attack]</color>
+Within a short time after performing Heavy Attack: Mercy, Heavy Attack: Death Messenger, and Dodge Counter, using Normal Attack will cast Wild Hunt, dealing Electro DMG, which is considered Resonance Liberation DMG.","<color=#c49e55>[Đánh Thường]</color>
+Trong một khoảng thời gian ngắn sau khi thi triển Đánh Mạnh - ""Nhân Từ"", Đánh Mạnh - ""Tử Cáo"", Phản Kích Né Tránh, nhấn Đánh Thường có thể thi triển ""Cuồng Liệp"", gây Sát Thương Điện Từ, sát thương này được tính là Sát Thương Giải Phóng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130101_BuffDesc_1,无终狩猎,Ceaseless Hunt,Săn Bắn Không Dứt
+lang_multi_text.db,MultiText,RogueBuffPool_130102_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
+·施放共鸣技能时，会额外召唤分身发动攻击，造成攻击{0}的导电伤害，此次伤害为共鸣解放伤害，并且直接获得3点「残忍」。
+·重击·「仁慈」可通过普攻施放。每次施放重击·「仁慈」或重击·「死告」时，导电伤害加成提升{1}，持续{2}秒，可叠加{3}层。","<color=#c49e55>[Resonance Skill]</color>
+- Upon casting Resonance Skill, Calcharo additionally summons a phantom of himself that deals Electro DMG equal to {0} of his ATK. The DMG dealt is considered Resonance Liberation DMG, and he gains 3 stacks of Cruelty.
+- Heavy Attack: Mercy can now be performed through Basic Attack. Each time Calcharo performs Heavy Attack: Mercy or Heavy Attack: Death Messenger, he gains {1} Electro DMG Bonus for {2}s, stacking up to {3} times.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+. Khi thi triển Kỹ Năng Cộng Hưởng, sẽ triệu hồi thêm phân thân tấn công, gây Sát Thương Điện Từ bằng {0} tấn công, sát thương này được tính là Sát Thương Giải Phóng Cộng Hưởng, đồng thời nhận ngay 3 điểm ""Tàn Nhẫn"".
+. Đánh Mạnh - ""Nhân Từ"" có thể thi triển thông qua Đánh Thường. Mỗi lần thi triển Đánh Mạnh - ""Nhân Từ"" hoặc Đánh Mạnh - ""Tử Cáo"", buff Sát Thương Điện Từ tăng {1}, duy trì {2} giây, có thể cộng dồn {3} tầng."
+lang_multi_text.db,MultiText,RogueBuffPool_130102_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
+·施放共鸣技能时，造成额外导电伤害，此次伤害为共鸣解放伤害，并且直接获得3点「残忍」。
+·重击·「仁慈」可通过普攻施放。每次施放重击·「仁慈」或重击·「死告」时，导电伤害加成提升。","<color=#c49e55>[Resonance Skill]</color>
+- Upon casting Resonance Skill, Calcharo deals additional Electro DMG. The DMG dealt is considered Resonance Liberation DMG, and he gains 3 stacks of Cruelty.
+- Heavy Attack: Mercy can now be performed through Basic Attack. Calcharo gains Electro DMG Bonus with each Heavy Attack: Mercy or Heavy Attack: Death Messenger performed.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+. Khi thi triển Kỹ Năng Cộng Hưởng, gây thêm Sát Thương Điện Từ, sát thương này được tính là Sát Thương Giải Phóng Cộng Hưởng, đồng thời nhận ngay 3 điểm ""Tàn Nhẫn"".
+. Đánh Mạnh - ""Nhân Từ"" có thể thi triển thông qua Đánh Thường. Mỗi lần thi triển Đánh Mạnh - ""Nhân Từ"" hoặc Đánh Mạnh - ""Tử Cáo"", buff Sát Thương Điện Từ tăng."
+lang_multi_text.db,MultiText,RogueBuffPool_130102_BuffDesc_1,集群围猎,Pack Assault,Bầy Đàn Vây Săn
+lang_multi_text.db,MultiText,RogueBuffPool_130103_BuffDesc,"<color=#c49e55>【共鸣解放】</color>
+共鸣解放期间，卡卡罗获得强化效果：
+·抗打断能力提升。
+·普攻速度提升{0}。
+·每次施放共鸣技能时，共鸣解放的持续时间延长{1}秒。","<color=#c49e55>[Resonance Liberation]</color>
+While in the state triggered by Resonance Liberation, Calcharo gains the following effects:
+- Increase resistance to interruption.
+- Increase Basic Attack speed by {0}.
+- Casting Resonance Skill extends the state's duration by {1}s.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
+Trong thời gian Giải Phóng Cộng Hưởng, Calcharo nhận hiệu quả cường hóa:
+. Khả năng kháng gián đoạn tăng.
+. Tốc độ Đánh Thường tăng {0}.
+. Mỗi lần thi triển Kỹ Năng Cộng Hưởng, thời gian duy trì Giải Phóng Cộng Hưởng kéo dài {1} giây."
+lang_multi_text.db,MultiText,RogueBuffPool_130103_BuffDesc_0,"<color=#c49e55>【共鸣解放】</color>
+共鸣解放期间，卡卡罗获得强化效果：
+·抗打断能力提升。
+·普攻速度提升。
+·每次施放共鸣技能时，共鸣解放的持续时间延长。","<color=#c49e55>[Resonance Liberation]</color>
+While in the state triggered by Resonance Liberation, Calcharo gains the following effects:
+- Increase resistance to interruption.
+- Increase Basic Attack speed.
+- Casting Resonance Skill extends the state's duration.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
+Trong thời gian Giải Phóng Cộng Hưởng, Calcharo nhận hiệu quả cường hóa:
+. Khả năng kháng gián đoạn tăng.
+. Tốc độ Đánh Thường tăng.
+. Mỗi lần thi triển Kỹ Năng Cộng Hưởng, thời gian duy trì Giải Phóng Cộng Hưởng kéo dài."
+lang_multi_text.db,MultiText,RogueBuffPool_130103_BuffDesc_1,猎杀本能,Hunter's Instinct,Bản Năng Sát Thủ
+lang_multi_text.db,MultiText,RogueBuffPool_130104_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
+·施放重击·「仁慈」或重击·「死告」时，会获得一层「血性」。
+·持有4层「血性」时，共鸣技能替换为「极端手段」，共造成攻击{0}的导电伤害，此次伤害为共鸣解放伤害。","<color=#c49e55>[Resonance Skill]</color>
+- Performing Heavy Attack: Mercy or Heavy Attack: Death Messenger generates 1 stack of Bloodlust.
+- While having 4 stacks of Bloodlust, Resonance Skill is replaced with Extreme Measures, dealing Electro DMG equal to {0} of Calcharo's ATK, which is considered Resonance Liberation DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+. Khi thi triển Đánh Mạnh - ""Nhân Từ"" hoặc Đánh Mạnh - ""Tử Cáo"", sẽ nhận được một tầng ""Huyết Tính"".
+. Khi có 4 tầng ""Huyết Tính"", Kỹ Năng Cộng Hưởng thay thế bằng ""Thủ Đoạn Cực Đoan"", gây tổng cộng Sát Thương Điện Từ bằng {0} tấn công, sát thương này được tính là Sát Thương Giải Phóng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130104_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
+·施放重击·「仁慈」或重击·「死告」时，会获得一层「血性」。
+·持有4层「血性」时，共鸣技能替换为「极端手段」，共造成导电伤害，此次伤害为共鸣解放伤害。","<color=#c49e55>[Resonance Skill]</color>
+- Performing Heavy Attack: Mercy or Heavy Attack: Death Messenger generates 1 stack of Bloodlust.
+- While having 4 stacks of Bloodlust, Resonance Skill is replaced with Extreme Measures, dealing Electro DMG, which is considered Resonance Liberation DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
+. Khi thi triển Đánh Mạnh - ""Nhân Từ"" hoặc Đánh Mạnh - ""Tử Cáo"", sẽ nhận được một tầng ""Huyết Tính"".
+. Khi có 4 tầng ""Huyết Tính"", Kỹ Năng Cộng Hưởng thay thế bằng ""Thủ Đoạn Cực Đoan"", gây tổng cộng Sát Thương Điện Từ, sát thương này được tính là Sát Thương Giải Phóng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130104_BuffDesc_1,猎手血性,Hunter's Bloodlust,Huyết Tính Thợ Săn
+lang_multi_text.db,MultiText,RogueBuffPool_130105_BuffDesc,"<color=#c49e55>【普攻】</color>
+重击·「仁慈」、重击·「死告」时，减少共鸣技能与共鸣解放的冷却时间{0}秒，并且回复{1}点共鸣能量。","<color=#c49e55>[Basic Attack]</color>
+Performing Heavy Attack: Mercy and Heavy Attack: Death Messenger reduces Resonance Skill and Resonance Liberation Cooldown by {0}s and restores {1} Resonance Energy.","<color=#c49e55>[Đánh Thường]</color>
+Khi Đánh Mạnh - ""Nhân Từ"", Đánh Mạnh - ""Tử Cáo"", giảm hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng {0} giây, đồng thời hồi {1} điểm Năng Lượng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130105_BuffDesc_0,"<color=#c49e55>【普攻】</color>
+重击·「仁慈」、重击·「死告」时，减少共鸣技能与共鸣解放的冷却时间，并且回复共鸣能量。","<color=#c49e55>[Basic Attack]</color>
+Performing Heavy Attack: Mercy and Heavy Attack: Death Messenger reduces Resonance Skill and Resonance Liberation Cooldown and restores Resonance Energy.","<color=#c49e55>[Đánh Thường]</color>
+Khi Đánh Mạnh - ""Nhân Từ"", Đánh Mạnh - ""Tử Cáo"", giảm hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng, đồng thời hồi Năng Lượng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130105_BuffDesc_1,剔骨食髓,Slaughter Spree,Lóc Xương Hút Tủy
+lang_multi_text.db,MultiText,RogueBuffPool_1302_BuffDesc,<color=#ffd12f>【角色助战】</color>可触发变奏技能，满协奏能量后召唤吟霖施放共鸣解放,"<color=#ffd12f>[Companion's Aid]</color> Summon Yinlin to cast her Resonance Liberation when Concerto Energy is full, triggering the Intro Skill.","<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Có thể kích hoạt Kỹ Năng Biến Tấu, sau khi đầy Năng Lượng Hiệp Tấu sẽ triệu hồi Yinlin thi triển Giải Phóng Cộng Hưởng"
+lang_multi_text.db,MultiText,RogueBuffPool_1302_BuffDesc_0,<color=#ffd12f>【角色助战】</color>召唤吟霖协战,<color=#ffd12f>[Companion's Aid]</color> Summon Yinlin for assistance.,<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Triệu hồi Yinlin hiệp chiến
+lang_multi_text.db,MultiText,RogueBuffPool_1302_BuffName,协奏·吟霖,Concerto: Yinlin,Hiệp Tấu - Yinlin
+lang_multi_text.db,MultiText,RogueBuffPool_130301_BuffDesc,<color=#c49e55>【共鸣回路】</color>造成伤害时额外回复「锋芒」，处于「雷厉风行」状态时，导电伤害加成提升{0}。,"<color=#c49e55>[Forte Circuit]</color> Restore additional ""Readiness"" when dealing DMG. When in ""Lightning Infused"" state, gain {0} Electro DMG Bonus.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Khi gây sát thương hồi thêm ""Phong Mang"", khi ở trạng thái ""Sấm Sét Gió Cuốn"", buff Sát Thương Điện Từ tăng {0}."
+lang_multi_text.db,MultiText,RogueBuffPool_130301_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>造成伤害时额外回复特殊能量，处于「雷厉风行」状态时大幅提升导电伤害加成,"<color=#c49e55>[Forte Circuit]</color> Dealing DMG additionally restores Forte Gauge. When in ""Lightning Infused"" state, gain a significant Electro DMG Bonus.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Khi gây sát thương hồi thêm năng lượng đặc biệt, khi ở trạng thái ""Sấm Sét Gió Cuốn"" buff Sát Thương Điện Từ tăng mạnh"
+lang_multi_text.db,MultiText,RogueBuffPool_130301_BuffDesc_1,藏锋,Hidden Blade,Tàng Phong
+lang_multi_text.db,MultiText,RogueBuffPool_130302_BuffDesc,"<color=#c49e55>【共鸣回路】</color>处于「雷厉风行」状态时，重击与闪避反击会替换为「絮雷」,造成等同于雷厉风行普攻第五段{0}的伤害，并且额外造成等同于共鸣解放{1}的伤害。","<color=#c49e55>[Forte Circuit]</color> When in ""Lightning Infused"" state, Heavy Attack and Dodge Counter will be replaced by ""Thunderfall,"" dealing DMG equal to {0} of Lightning Infused Basic Attack Stage 5 DMG, and extra DMG equal to {1} of Resonance Liberation DMG.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Khi ở trạng thái ""Sấm Sét Gió Cuốn"", Đánh Mạnh và Phản Kích Né Tránh sẽ thay thế bằng ""Nhứ Lôi"", gây sát thương bằng {0} Đánh Thường đoạn 5 của Sấm Sét Gió Cuốn, đồng thời gây thêm sát thương bằng {1} Giải Phóng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130302_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>处于「雷厉风行」状态时，重击与闪避反击额外附带伤害。,"<color=#c49e55>[Forte Circuit]</color> When in ""Lightning Infused"" state, Heavy Attack and Dodge Counter deal extra damage.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Khi ở trạng thái ""Sấm Sét Gió Cuốn"", Đánh Mạnh và Phản Kích Né Tránh kèm thêm sát thương."
+lang_multi_text.db,MultiText,RogueBuffPool_130302_BuffDesc_1,霆骤,Thunder Cluster,Đình Sậu
+lang_multi_text.db,MultiText,RogueBuffPool_130303_BuffDesc,<color=#c49e55>【共鸣技能】</color>「雷之楔」附带的协同攻击会额外回复「锋芒」。「锋芒」达到上限时短按共鸣技能能直接引爆「雷之楔」，会额外造成攻击{0}的伤害，并牵引周围敌人，同时让渊武获得防御{1}的护盾，持续{2}秒。,"<color=#c49e55>[Resonance Skill]</color> Coordinated Attacks from ""Thunder Wedge"" restore extra ""Readiness"". ""Thunder Wedges"" can be detonated by pressing the Resonance Skill button when ""Readiness"" is full, dealing extra DMG equal to {0} of Yuanwu's ATK, and pulling enemies in, while granting him a shield equal to {1} of Yuanwu's DEF for {2}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Đòn tấn công phối hợp của ""Lôi Chi Tiết"" sẽ hồi thêm ""Phong Mang"". Khi ""Phong Mang"" đạt giới hạn, nhấn Kỹ Năng Cộng Hưởng có thể trực tiếp kích nổ ""Lôi Chi Tiết"", gây thêm sát thương bằng {0} tấn công, và hút kẻ địch xung quanh, đồng thời giúp Yuanwu nhận khiên bằng {1} phòng thủ, duy trì {2} giây."
+lang_multi_text.db,MultiText,RogueBuffPool_130303_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>「雷之楔」协同攻击会额外回复特殊能量，引爆「雷之楔」额外造成伤害且获得护盾。,"<color=#c49e55>[Resonance Skill]</color> Coordinated Attacks from ""Thunder Wedge"" restore extra Forte Gauge. Detonating Thunder Wedges deals extra damage and grants Yuanwu a shield.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Đòn tấn công phối hợp của ""Lôi Chi Tiết"" sẽ hồi thêm năng lượng đặc biệt, kích nổ ""Lôi Chi Tiết"" gây thêm sát thương và nhận khiên."
+lang_multi_text.db,MultiText,RogueBuffPool_130303_BuffDesc_1,惊雳,Thrilling Crack,Kinh Lịch
+lang_multi_text.db,MultiText,RogueBuffPool_130304_BuffDesc,<color=#c49e55>【共鸣解放】</color>共鸣解放伤害加成提升{0}。造成共鸣解放伤害时，当前每有{1}点护盾值会使该次伤害额外提升{2}。,"<color=#c49e55>[Resonance Liberation]</color> Gain {0} Resonance Liberation DMG Bonus. When casting Resonance Liberation, each {1} point(s) of active shield increases that Resonance Liberation's DMG by an additional {2}.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Buff Sát Thương Giải Phóng Cộng Hưởng tăng {0}. Khi gây Sát Thương Giải Phóng Cộng Hưởng, mỗi {1} điểm khiên hiện có sẽ khiến sát thương lần này tăng thêm {2}."
+lang_multi_text.db,MultiText,RogueBuffPool_130304_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放伤害随持有的护盾量提升。,<color=#c49e55>[Resonance Liberation]</color> Increase Resonance Liberation DMG in proportion to the active shield points.,<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Sát Thương Giải Phóng Cộng Hưởng tăng theo lượng khiên đang có.
+lang_multi_text.db,MultiText,RogueBuffPool_130304_BuffDesc_1,明彻,Empyreal Illumination,Minh Triệt
+lang_multi_text.db,MultiText,RogueBuffPool_130305_BuffDesc,<color=#c49e55>【普攻】</color>施放共鸣技能后，获得最多3段连续的强化普攻。处于「雷厉风行」状态时，防御获得提升，提升量为攻击的{0}。,"<color=#c49e55>[Basic Attack]</color> Casting Resonance Skill enhances the next up to 3 Basic Attacks. When in ""Lightning Infused"" state, DEF is increased by {0} of Yuanwu's ATK.","<color=#c49e55>[Đánh Thường]</color> Sau khi thi triển Kỹ Năng Cộng Hưởng, nhận tối đa 3 đoạn Đánh Thường cường hóa liên tiếp. Khi ở trạng thái ""Sấm Sét Gió Cuốn"", phòng thủ tăng, lượng tăng bằng {0} tấn công."
+lang_multi_text.db,MultiText,RogueBuffPool_130305_BuffDesc_0,<color=#c49e55>【普攻】</color>施放共鸣技能后强化普攻，处于「雷厉风行」状态时额外提升防御。,"<color=#c49e55>[Basic Attack]</color> Casting Resonance Skill enhances Yuanwu's Basic Attack. Gain extra DEF when in ""Lightning Infused"" state.","<color=#c49e55>[Đánh Thường]</color> Sau khi thi triển Kỹ Năng Cộng Hưởng sẽ cường hóa Đánh Thường, khi ở trạng thái ""Sấm Sét Gió Cuốn"" tăng thêm phòng thủ."
+lang_multi_text.db,MultiText,RogueBuffPool_130305_BuffDesc_1,震守,Lightning Juggernaut,Chấn Thủ
+lang_multi_text.db,MultiText,RogueBuffPool_1303_BuffDesc,<color=#ffd12f>【角色助战】</color>可触发变奏技能，满协奏能量后召唤渊武施放共鸣解放,"<color=#ffd12f>[Companion's Aid]</color> Summon Yuanwu to cast his Resonance Liberation when Concerto Energy is full, triggering the Intro Skill.","<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Có thể kích hoạt Kỹ Năng Biến Tấu, sau khi đầy Năng Lượng Hiệp Tấu sẽ triệu hồi Yuanwu thi triển Giải Phóng Cộng Hưởng"
+lang_multi_text.db,MultiText,RogueBuffPool_1303_BuffDesc_0,<color=#ffd12f>【角色助战】</color>召唤渊武协战,<color=#ffd12f>[Companion's Aid]</color> Summon Yuanwu for assistance.,<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Triệu hồi Yuanwu hiệp chiến
+lang_multi_text.db,MultiText,RogueBuffPool_1303_BuffName,协奏·渊武,Concerto: Yuanwu,Hiệp Tấu - Yuanwu
+lang_multi_text.db,MultiText,RogueBuffPool_130401_BuffDesc,<color=#c49e55>【共鸣技能】</color>「乘岁凌霄」期间暴击伤害提升{0}，大幅提升「凌霄·普攻」第四段攻击的牵引效果。,"<color=#c49e55>[Resonance Skill]</color> While in Incarnation, Crit. DMG is increased by {0}, and the pulling effect of Incarnation: Basic Attack Stage 4 is significantly increased.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Trong thời gian ""Thừa Tuế Lăng Tiêu"" sát thương Bạo Kích tăng {0}, tăng mạnh hiệu quả hút của đòn tấn công đoạn 4 ""Lăng Tiêu - Đánh Thường""."
+lang_multi_text.db,MultiText,RogueBuffPool_130401_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>「乘岁凌霄」期间大幅提升暴击伤害，大幅提升第四段攻击的牵引效果,"<color=#c49e55>[Resonance Skill]</color> While in Incarnation, Crit. DMG and the pulling effect of Basic Attack Stage 4 are significantly increased.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Trong thời gian ""Thừa Tuế Lăng Tiêu"" tăng mạnh sát thương Bạo Kích, tăng mạnh hiệu quả hút của đòn tấn công đoạn 4"
+lang_multi_text.db,MultiText,RogueBuffPool_130401_BuffDesc_1,烁光,Glitters,Thước Quang
+lang_multi_text.db,MultiText,RogueBuffPool_130402_BuffDesc,<color=#c49e55>【普攻】</color>普攻循环只保留第三段和第四段，且伤害倍率增加{0}。大幅提升普攻第三段的牵引效果，以及普攻第四段的攻击范围。普攻第四段改为造成{1}次伤害，且造成伤害时额外回复{2}点特殊能量。,"<color=#c49e55>[Basic Attack]</color> Basic Attack now starts from Stage 3, increasing their DMG Multiplier by {0}. The pulling effect of Basic Attack 3 and the range of Basic Attack 4 are significantly increased. Basic Attack 4 now deals DMG {1} time(s) and additionally restores Forte Gauge by {2} upon dealing damage.","<color=#c49e55>[Đánh Thường]</color> Chu kỳ Đánh Thường chỉ giữ lại đoạn 3 và đoạn 4, đồng thời bội suất sát thương tăng {0}. Tăng mạnh hiệu quả hút của Đánh Thường đoạn 3, cũng như phạm vi tấn công của Đánh Thường đoạn 4. Đánh Thường đoạn 4 đổi thành gây {1} lần sát thương, và khi gây sát thương hồi thêm {2} điểm năng lượng đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_130402_BuffDesc_0,<color=#c49e55>【普攻】</color>普攻循环只保留第三段和第四段，大幅提升伤害，并附加特殊强化,"<color=#c49e55>[Basic Attack]</color> Basic Attack now starts from Stage 3, gaining substantial DMG boosts and special enhancement effects.","<color=#c49e55>[Đánh Thường]</color> Chu kỳ Đánh Thường chỉ giữ lại đoạn 3 và đoạn 4, tăng mạnh sát thương, và kèm theo cường hóa đặc biệt"
+lang_multi_text.db,MultiText,RogueBuffPool_130402_BuffDesc_1,飞芒,Sparkles,Phi Mang
+lang_multi_text.db,MultiText,RogueBuffPool_130402_BuffDesc_2_8,<color=Highlight>【普攻】</color>普攻循环只保留第三段和第四段，且伤害倍率增加<color=Highlight>{0}</color>。大幅提升普攻第三段的牵引效果，以及普攻第四段的攻击范围。普攻第四段改为造成<color=Highlight>{1}</color>次伤害，且造成伤害时额外回复<color=Highlight>{2}</color>点特殊能量。,"<color=Highlight>[Basic Attack]</color>
+- Basic Attack now starts from Stage 3, increasing their DMG Multiplier by <color=Highlight>{0}</color>.
+- The pulling effect of Basic Attack 3 and the range of Basic Attack 4 are significantly increased.
+- Basic Attack 4 now deals DMG <color=Highlight>{1}</color> times and additionally restores Forte Gauge by <color=Highlight>{2}</color> points upon dealing damage.","<color=Highlight>[Đánh Thường]</color> Chu kỳ Đánh Thường chỉ giữ lại đoạn 3 và đoạn 4, đồng thời bội suất sát thương tăng <color=Highlight>{0}</color>. Tăng mạnh hiệu quả hút của Đánh Thường đoạn 3, cũng như phạm vi tấn công của Đánh Thường đoạn 4. Đánh Thường đoạn 4 đổi thành gây <color=Highlight>{1}</color> lần sát thương, và khi gây sát thương hồi thêm <color=Highlight>{2}</color> điểm năng lượng đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_130402_BuffDesc_2_8_0,<color=Highlight>【普攻】</color>普攻循环只保留第三段和第四段，大幅提升伤害，并附加特殊强化,"<color=Highlight>[Basic Attack]</color>
+- Basic Attack now starts from Stage 3, greatly increasing their DMG and gaining special enhancements.","<color=Highlight>[Đánh Thường]</color> Chu kỳ Đánh Thường chỉ giữ lại đoạn 3 và đoạn 4, tăng mạnh sát thương, và kèm theo cường hóa đặc biệt"
+lang_multi_text.db,MultiText,RogueBuffPool_130403_BuffDesc,<color=#c49e55>【普攻】</color><color=#c49e55>「共鸣技能」</color>「乘岁凌霄」期间，每次施放普攻或共鸣技能时，回复{0}点特殊能量。且攻击提升{1}，持续{2}秒，可叠加{3}层。,"<color=#c49e55>[Basic Attack]</color> <color=#c49e55>[Resonance Skill]</color> While in Incarnation, each Basic Attack or Resonance Skill restores {0} Forte Gauge and increases the Resonator's ATK by {1} for {2}s, stacking up to {3} time(s).","<color=#c49e55>[Đánh Thường]</color><color=#c49e55>""Kỹ Năng Cộng Hưởng""</color> Trong thời gian ""Thừa Tuế Lăng Tiêu"", mỗi lần thi triển Đánh Thường hoặc Kỹ Năng Cộng Hưởng, hồi {0} điểm năng lượng đặc biệt. Đồng thời tấn công tăng {1}, duy trì {2} giây, có thể cộng dồn {3} tầng."
+lang_multi_text.db,MultiText,RogueBuffPool_130403_BuffDesc_0,<color=#c49e55>【普攻】</color><color=#c49e55>【共鸣技能】</color>「乘岁凌霄」期间施放普攻与共鸣技能回复特殊能量，并小幅提升攻击力,"<color=#c49e55>[Basic Attack]</color> <color=#c49e55>[Resonance Skill]</color> While in Incarnation, casting Basic Attack and Resonance Skill restores Forte Gauge and slightly increases the Resonator's ATK.","<color=#c49e55>[Đánh Thường]</color><color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Trong thời gian ""Thừa Tuế Lăng Tiêu"" thi triển Đánh Thường và Kỹ Năng Cộng Hưởng hồi năng lượng đặc biệt, và tăng nhẹ tấn công"
+lang_multi_text.db,MultiText,RogueBuffPool_130403_BuffDesc_1,凝时,Time Stilling,Ngưng Thời
+lang_multi_text.db,MultiText,RogueBuffPool_130403_BuffDesc_2_8,<color=Highlight>【普攻】</color><color=Highlight>「共鸣技能」</color>「乘岁凌霄」期间，每次施放普攻或共鸣技能时，回复<color=Highlight>{0}</color>点特殊能量。且攻击提升<color=Highlight>{1}</color>，持续<color=Highlight>{2}</color>秒，可叠加<color=Highlight>{3}</color>层。,"<color=Highlight>[Basic Attack]</color>
+During <color=Highlight>Resonance Skill</color> - Incarnation, ATK is increased by <color=Highlight>{1}</color>, and each time casting Basic Attack or Resonance Skill restores <color=Highlight>{0}</color> points of Forte Gauge. This effect lasts <color=Highlight>{2}</color>s and stacks up to <color=Highlight>{3}</color> times.","<color=Highlight>[Đánh Thường]</color><color=Highlight>""Kỹ Năng Cộng Hưởng""</color> Trong thời gian ""Thừa Tuế Lăng Tiêu"", mỗi lần thi triển Đánh Thường hoặc Kỹ Năng Cộng Hưởng, hồi <color=Highlight>{0}</color> điểm năng lượng đặc biệt. Đồng thời tấn công tăng <color=Highlight>{1}</color>, duy trì <color=Highlight>{2}</color> giây, có thể cộng dồn <color=Highlight>{3}</color> tầng."
+lang_multi_text.db,MultiText,RogueBuffPool_130403_BuffDesc_2_8_0,<color=Highlight>【普攻】</color><color=Highlight>【共鸣技能】</color>「乘岁凌霄」期间施放普攻与共鸣技能回复特殊能量，并小幅提升攻击力,"<color=Highlight>[Basic Attack]</color>
+During <color=Highlight>Resonance Skill</color> - Incarnation, ATK is mildly increased, and casting Basic Attack or Resonance Skill restores Forte Gauge.","<color=Highlight>[Đánh Thường]</color><color=Highlight>[Kỹ Năng Cộng Hưởng]</color> Trong thời gian ""Thừa Tuế Lăng Tiêu"" thi triển Đánh Thường và Kỹ Năng Cộng Hưởng hồi năng lượng đặc biệt, và tăng nhẹ tấn công"
+lang_multi_text.db,MultiText,RogueBuffPool_130404_BuffDesc,<color=#c49e55>【闪避】</color>成功闪避时触发「龙心霓境」，生成停滞区域，衍射伤害加成提升{1}，持续{2}秒，每{3}秒可触发1次。停滞区域生成时每影响一个敌方目标，能让今汐回复{0}点特殊能量。,"<color=#c49e55>[Dodge]</color> Successful Dodges trigger Loong's Reign, generating a stagnation area. Spectro DMG Bonus is increased by {1} for {2}s. This effect can be triggered once every {3}s. Jinhsi restores {0} Forte Gauge for each target influenced by the stagnation effect.","<color=#c49e55>[Né Tránh]</color> Khi Né Tránh thành công kích hoạt ""Long Tâm Nghê Cảnh"", tạo ra khu vực đình trệ, buff Sát Thương Quang Phổ tăng {1}, duy trì {2} giây, mỗi {3} giây có thể kích hoạt 1 lần. Khi khu vực đình trệ được tạo ra, mỗi khi ảnh hưởng một mục tiêu địch, sẽ giúp Jinhsi hồi {0} điểm năng lượng đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_130404_BuffDesc_0,<color=#c49e55>【闪避】</color>成功闪避获得特殊能量，触发「龙心霓境」，大幅提升衍射伤害加成,"<color=#c49e55>[Dodge]</color> Successful Dodges restore Forte Gauge and trigger Loong's Reign, significantly increasing Spectro DMG Bonus.","<color=#c49e55>[Né Tránh]</color> Né Tránh thành công nhận năng lượng đặc biệt, kích hoạt ""Long Tâm Nghê Cảnh"", tăng mạnh buff Sát Thương Quang Phổ"
+lang_multi_text.db,MultiText,RogueBuffPool_130404_BuffDesc_1,空游,Celestial Walker,Không Du
+lang_multi_text.db,MultiText,RogueBuffPool_130404_BuffDesc_2_8,<color=Highlight>【闪避】</color>成功闪避时触发「龙心霓境」，生成停滞区域，衍射伤害加成提升<color=Highlight>{1}</color>，持续<color=Highlight>{2}</color>秒，每<color=Highlight>{3}</color>秒可触发1次。停滞区域生成时每影响一个敌方目标，能让今汐回复<color=Highlight>{0}</color>点特殊能量。,"<color=Highlight>[Dodge]</color>
+- Successful Dodges trigger Loong's Reign, generating a Stagnant Zone.
+- Spectro DMG Bonus is increased by <color=Highlight>{1}</color> for <color=Highlight>{2}s</color>. This effect can be triggered once every <color=Highlight>{3}s</color>.
+- Jinhsi restores <color=Highlight>{0}</color> points of Forte Gauge for each target influenced by the Stagnant Zone.","<color=Highlight>[Né Tránh]</color> Khi Né Tránh thành công kích hoạt ""Long Tâm Nghê Cảnh"", tạo ra khu vực đình trệ, buff Sát Thương Quang Phổ tăng <color=Highlight>{1}</color>, duy trì <color=Highlight>{2}</color> giây, mỗi <color=Highlight>{3}</color> giây có thể kích hoạt 1 lần. Khi khu vực đình trệ được tạo ra, mỗi khi ảnh hưởng một mục tiêu địch, sẽ giúp Jinhsi hồi <color=Highlight>{0}</color> điểm năng lượng đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_130404_BuffDesc_2_8_0,<color=Highlight>【闪避】</color>成功闪避获得特殊能量，触发「龙心霓境」，大幅提升衍射伤害加成,"<color=Highlight>[Dodge]</color>
+Successful Dodges restore Forte Gauge and trigger Loong's Reign, significantly increasing Spectro DMG Bonus.","<color=Highlight>[Né Tránh]</color> Né Tránh thành công nhận năng lượng đặc biệt, kích hoạt ""Long Tâm Nghê Cảnh"", tăng mạnh buff Sát Thương Quang Phổ"
+lang_multi_text.db,MultiText,RogueBuffPool_130405_BuffDesc,"<color=#c49e55>【共鸣回路】</color>「龙心霓境」获得强化：
+·施放共鸣解放时，触发「龙心霓境」，生成停滞区域，衍射伤害加成提升{0}，持续{1}秒。每{2}秒可触发1次。
+·持续期间，对领域内目标每{3}秒释放落雷，造成{4}攻击的衍射伤害，并在「龙心霓境」消失时造成一次等同于「凌霄·普攻」第四段伤害的衍射伤害，且造成{5}攻击的大范围衍射伤害。","<color=#c49e55>[Forte Circuit]</color> Loong's Reign is now enhanced: 
+- Loong's Reign is triggered upon casting Resonance Liberation, which generates a Stagnant Zone and grants Jinhsi {0} Spectro DMG Bonus for {1}s. This effect can be triggered once every {2}s. 
+- While Loong's Reign is active, unleash thunder strikes on targets within the area every {3}s, dealing Spectro DMG equal to {4} of Jinhsi's ATK. When Loong's Reign ends, deal Spectro DMG equal to DMG Multiplier of Incarnation: Basic Attack 4 and then strike the surrounding area with Spectro DMG equal to {5} of Jinhsi's ATK.","<color=#c49e55>[Mạch Cộng Hưởng]</color> ""Long Tâm Nghê Cảnh"" được cường hóa:
+. Khi thi triển Giải Phóng Cộng Hưởng, kích hoạt ""Long Tâm Nghê Cảnh"", tạo ra khu vực đình trệ, buff Sát Thương Quang Phổ tăng {0}, duy trì {1} giây. Mỗi {2} giây có thể kích hoạt 1 lần.
+. Trong thời gian duy trì, mỗi {3} giây giáng sấm sét lên mục tiêu trong lĩnh vực, gây Sát Thương Quang Phổ bằng {4} tấn công, và khi ""Long Tâm Nghê Cảnh"" biến mất gây một lần Sát Thương Quang Phổ tương đương sát thương Đánh Thường đoạn 4 của ""Lăng Tiêu"", đồng thời gây Sát Thương Quang Phổ phạm vi rộng bằng {5} tấn công."
+lang_multi_text.db,MultiText,RogueBuffPool_130405_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>「龙心霓境」获得特殊强化,<color=#c49e55>[Forte Circuit]</color> Loong's Reign gains a special enhancement.,"<color=#c49e55>[Mạch Cộng Hưởng]</color> ""Long Tâm Nghê Cảnh"" nhận được cường hóa đặc biệt"
+lang_multi_text.db,MultiText,RogueBuffPool_130405_BuffDesc_1,醒明,Coruscation,Tỉnh Minh
+lang_multi_text.db,MultiText,RogueBuffPool_130405_BuffDesc_2_8,"<color=Highlight>【共鸣回路】</color>「龙心霓境」获得强化：
+·施放共鸣解放时，触发「龙心霓境」，生成停滞区域，衍射伤害加成提升<color=Highlight>{0}</color>，持续<color=Highlight>{1}</color>秒。每<color=Highlight>{2}</color>秒可触发1次。
+·持续期间，对领域内目标每<color=Highlight>{3}</color>秒释放落雷，造成<color=Highlight>{4}</color>攻击的衍射伤害，并在「龙心霓境」消失时造成一次等同于「凌霄·普攻」第四段伤害的衍射伤害，且造成<color=Highlight>{5}</color>攻击的大范围衍射伤害。","<color=Highlight>[Forte Circuit]</color>
+Loong's Reign is now enhanced: 
+- Loong's Reign is triggered upon casting Resonance Liberation, which generates a Stagnant Zone and grants Jinhsi <color=Highlight>{0}</color> Spectro DMG Bonus for <color=Highlight>{1}</color>s. This effect can be triggered once every <color=Highlight>{2}</color>s. 
+- While Loong's Reign is active, unleash thunder strikes on targets within the area every <color=Highlight>{3}</color>s, dealing Spectro DMG equal to <color=Highlight>{4}</color> of Jinhsi's ATK. When Loong's Reign ends, deal Spectro DMG equal to DMG of Incarnation: Basic Attack 4 and then strike the surrounding area with Spectro DMG equal to <color=Highlight>{5}</color> of Jinhsi's ATK.","<color=Highlight>[Mạch Cộng Hưởng]</color> ""Long Tâm Nghê Cảnh"" được cường hóa:
+. Khi thi triển Giải Phóng Cộng Hưởng, kích hoạt ""Long Tâm Nghê Cảnh"", tạo ra khu vực đình trệ, buff Sát Thương Quang Phổ tăng <color=Highlight>{0}</color>, duy trì <color=Highlight>{1}</color> giây. Mỗi <color=Highlight>{2}</color> giây có thể kích hoạt 1 lần.
+. Trong thời gian duy trì, mỗi <color=Highlight>{3}</color> giây giáng sấm sét lên mục tiêu trong lĩnh vực, gây Sát Thương Quang Phổ bằng <color=Highlight>{4}</color> tấn công, và khi ""Long Tâm Nghê Cảnh"" biến mất gây một lần Sát Thương Quang Phổ tương đương sát thương Đánh Thường đoạn 4 của ""Lăng Tiêu"", đồng thời gây Sát Thương Quang Phổ phạm vi rộng bằng <color=Highlight>{5}</color> tấn công."
+lang_multi_text.db,MultiText,RogueBuffPool_130405_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>「龙心霓境」获得特殊强化,"<color=Highlight>[Forte Circuit]</color>
+Loong's Reign is enhanced.","<color=Highlight>[Mạch Cộng Hưởng]</color> ""Long Tâm Nghê Cảnh"" nhận được cường hóa đặc biệt"
+lang_multi_text.db,MultiText,RogueBuffPool_130501_BuffDesc,"<color=#c49e55>【共鸣解放】</color>共鸣解放获得强化：
+·普攻枢机·勘破每次造成伤害时，获得{0}个「幻方」，每{1}秒可触发1次。
+·施放时，「超算效能」回复到上限，且「幻方」的持有上限变为{2}个。
+·施放共鸣技能·万方法则时，攻击提升{3}，持续{4}秒。","<color=#c49e55>[Resonance Liberation]</color> Resonance Liberation is enhanced:
+- Each time Basic Attack: Pivot - Impale deals DMG, gain {0} Hypercube(s). This effect can be triggered once every {1}s.
+- Casting Resonance Liberation restores Performance Capacity to the full and allows Xiangli Yao to hold up to {2} Hypercubes.
+- Casting Resonance Skill: Law of Reigns increases Xiangli Yao's ATK by {3} for {4}s.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng được cường hóa:
+. Mỗi lần Đánh Thường Xu Cơ - Khám Phá gây sát thương, nhận {0} ""Huyễn Phương"", mỗi {1} giây có thể kích hoạt 1 lần.
+. Khi thi triển, ""Hiệu Năng Siêu Tính"" hồi phục đến giới hạn, và giới hạn sở hữu ""Huyễn Phương"" đổi thành {2} cái.
+. Khi thi triển Kỹ Năng Cộng Hưởng - Vạn Phương Pháp Tắc, tấn công tăng {3}, duy trì {4} giây."
+lang_multi_text.db,MultiText,RogueBuffPool_130501_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>施放共鸣解放后恢复特殊能量，可通过普攻获取「幻方」并提升持有上限。共鸣解放期间特殊能量满时施放共鸣技能大幅提升攻击,"<color=#c49e55>[Resonance Liberation]</color> Casting Resonance Liberation restores Forte Gauge. Basic Attack generates Hypercubes and increases Hypercube's max amount. When in Resonance Liberation state, casting Resonance Skill at full Forte Gauge greatly increases Xiangli Yao's ATK.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Sau khi thi triển Giải Phóng Cộng Hưởng hồi phục năng lượng đặc biệt, có thể thông qua Đánh Thường để nhận ""Huyễn Phương"" và tăng giới hạn sở hữu. Trong thời gian Giải Phóng Cộng Hưởng, khi đầy năng lượng đặc biệt thi triển Kỹ Năng Cộng Hưởng sẽ tăng mạnh tấn công"
+lang_multi_text.db,MultiText,RogueBuffPool_130501_BuffDesc_1,机变,Reconfiguration,Cơ Biến
+lang_multi_text.db,MultiText,RogueBuffPool_130502_BuffDesc,"<color=#c49e55>【共鸣解放】</color>共鸣解放获得强化：
+·造成普攻伤害时额外回复{0}点共鸣能量，每{1}秒可触发1次。
+·施放共鸣解放时，额外获得{2}个「幻方」，且「幻方」的持有上限变为{3}个。共鸣解放·洞见状态的持续时间内导电伤害加成提升{4}。","<color=#c49e55>[Resonance Liberation]</color> Resonance Liberation is enhanced:
+- Upon dealing Basic Attack DMG, restore {0} additional Resonance Energy. This effect can be triggered once every {1}s.
+- Casting Resonance Liberation grants {2} extra Hypercube(s) and allows Xiangli Yao to hold up to {3} Hypercubes. When in Resonance Liberation: Intuition state, gain {4} Electro DMG Bonus.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng được cường hóa:
+. Khi gây sát thương Đánh Thường hồi thêm {0} điểm Năng Lượng Cộng Hưởng, mỗi {1} giây có thể kích hoạt 1 lần.
+. Khi thi triển Giải Phóng Cộng Hưởng, nhận thêm {2} ""Huyễn Phương"", và giới hạn sở hữu ""Huyễn Phương"" đổi thành {3} cái. Trong thời gian duy trì trạng thái Giải Phóng Cộng Hưởng - Động Kiến, buff Sát Thương Điện Từ tăng {4}."
+lang_multi_text.db,MultiText,RogueBuffPool_130502_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>施放共鸣解放后额外获取「幻方」并提升持有上限，共鸣解放期间导电伤害加成大幅提升，且造成普攻伤害时可额外回复共鸣能量,"<color=#c49e55>[Resonance Liberation]</color> Casting Resonance Liberation generates additional Hypercubes and increases Hypercube's max amount. When in Resonance Liberation state, gain a significant Electro DMG Bonus. Basic Attacks restore extra Resonance Energy.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Sau khi thi triển Giải Phóng Cộng Hưởng nhận thêm ""Huyễn Phương"" và tăng giới hạn sở hữu, trong thời gian Giải Phóng Cộng Hưởng buff Sát Thương Điện Từ tăng mạnh, và khi gây sát thương Đánh Thường có thể hồi thêm Năng Lượng Cộng Hưởng"
+lang_multi_text.db,MultiText,RogueBuffPool_130502_BuffDesc_1,诽恶,Tarnish,Phỉ Ác
+lang_multi_text.db,MultiText,RogueBuffPool_130503_BuffDesc,<color=#c49e55>【普攻】</color>导电伤害加成提升{0}。造成普攻伤害时额外回复{1}点「演算效能」，每{2}秒可触发1次。「演算效能」满时施放共鸣技能·应刃会回复{3}点共鸣能量，并减少共鸣解放的冷却时间{4}秒。,"<color=#c49e55>[Basic Attack]</color> Gain {0} Electro DMG Bonus. Each time Basic Attack deals DMG, restore {1} Capacity. This effect can be triggered once every {2}s. Casting Resonance Skill: Decipher at max Capacity restores {3} Resonance Energy and reduces Resonance Liberation cooldown by {4}s.","<color=#c49e55>[Đánh Thường]</color> Tăng {0} buff sát thương Điện Từ. Khi Đánh Thường gây sát thương, hồi thêm {1} điểm ""Hiệu Suất Tính Toán"", mỗi {2} giây có thể kích hoạt 1 lần. Khi ""Hiệu Suất Tính Toán"" đầy, thi triển Kỹ Năng Cộng Hưởng - Ứng Nhận sẽ hồi {3} năng lượng Cộng Hưởng, đồng thời giảm {4} giây thời gian hồi chiêu của Giải Phóng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130503_BuffDesc_0,<color=#c49e55>【普攻】</color>导电伤害加成大幅提升，非共鸣解放期间：普攻可额外获取特殊能量，特殊能量满时施放共鸣技能可回复共鸣能量，并减少共鸣解放的冷却时间。,<color=#c49e55>[Basic Attack]</color> Gain significant Electro DMG Bonus increase. Basic Attacks restore extra Forte Gauge and reduce active Resonance Liberation cooldown while not in Resonance Liberation state.,"<color=#c49e55>[Đánh Thường]</color> Tăng mạnh buff sát thương Điện Từ. Trong thời gian không thi triển Giải Phóng Cộng Hưởng: Đánh Thường có thể nhận thêm năng lượng đặc biệt, khi năng lượng đặc biệt đầy, thi triển Kỹ Năng Cộng Hưởng sẽ hồi phục năng lượng Cộng Hưởng và giảm thời gian hồi chiêu của Giải Phóng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_130503_BuffDesc_1,大藏,Repository,Đại Tạng
+lang_multi_text.db,MultiText,RogueBuffPool_130504_BuffDesc,<color=#c49e55>【共鸣技能】</color>共鸣技能·应刃与共鸣技能·万方法则无视目标{0}防御。并获得基于相里要最大生命{1}的护盾，持续{2}秒，每{3}秒可触发1次。,<color=#c49e55>[Resonance Skill]</color> Resonance Skill: Decipher and Resonance Skill: Law of Reigns ignore {0} of the target's DEF and grant Xiangli Yao a shield based on {1} of his Max HP for {2}s. This effect can be triggered once every {3}s.,"<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Kỹ Năng Cộng Hưởng - Ứng Nhận và Kỹ Năng Cộng Hưởng - Vạn Phương Pháp Tắc bỏ qua {0} phòng ngự của mục tiêu. Đồng thời nhận lá chắn dựa trên {1} giới hạn máu của Tương Lý Yếu, duy trì {2} giây, mỗi {3} giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_130504_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>施放共鸣技能无视目标大量防御，并可获得护盾,<color=#c49e55>[Resonance Skill]</color> Resonance Skills significantly ignore the target's DEF and grant Xiangli Yao a shield.,"<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Thi triển Kỹ Năng Cộng Hưởng bỏ qua lượng lớn phòng ngự của mục tiêu, đồng thời nhận lá chắn."
+lang_multi_text.db,MultiText,RogueBuffPool_130504_BuffDesc_1,楹生,Protégé,Doanh Sinh
+lang_multi_text.db,MultiText,RogueBuffPool_130505_BuffDesc,<color=#c49e55>【共鸣解放】</color>共鸣解放期间，抗打断能力提升，攻击提升{0}。,"<color=#c49e55>[Resonance Liberation]</color> When in Resonance Liberation state, enhance Xiangli Yao's resistance to interruption and increase his ATK by {0}.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Trong thời gian Giải Phóng Cộng Hưởng, khả năng kháng gián đoạn tăng, tấn công tăng {0}."
+lang_multi_text.db,MultiText,RogueBuffPool_130505_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放期间大幅提升抗打断能力和攻击,"<color=#c49e55>[Resonance Liberation]</color> When in Resonance Liberation state, greatly enhance resistance to interruption and ATK.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Trong thời gian Giải Phóng Cộng Hưởng, tăng mạnh khả năng kháng gián đoạn và tấn công."
+lang_multi_text.db,MultiText,RogueBuffPool_130505_BuffDesc_1,非攻,Pacifism,Phi Công
+lang_multi_text.db,MultiText,RogueBuffPool_130601_BuffDesc,"<color=Highlight>【重击】</color>「战势」达到<color=Highlight>{0}</color>点时，长按普攻或在空中短按普攻，消耗<color=Highlight>{0}</color>点「战势」，施放「重击·烁雷·升拳」。
+施放「重击·烁雷·升拳」时，额外回复<color=Highlight>{1}</color>「权炳」，伤害加成提升<color=Highlight>{2}</color>，可叠加<color=Highlight>{3}</color>层，持续<color=Highlight>{4}</color>秒。
+「战势」达到<color=Highlight>{0}</color>点时，普攻2段后长按普攻，消耗<color=Highlight>{0}</color>点「战势」，施放「重击·烁雷·后撤」。","<color=Highlight>[Heavy Attack]</color>
+- When Prowess reaches <color=Highlight>{0}</color> points, hold Basic Attack or {Cus:Ipt,Touch=tap PC=click Gamepad=press} Basic Attack while in mid-air to consume <color=Highlight>{0}</color> points of Prowess and cast Heavy Attack - Thunderoar: Uppercut.
+- Casting Heavy Attack - Thunderoar: Uppercut additionally restores <color=Highlight>{1}</color> Ascendancy and grants <color=Highlight>{2}</color> DMG Bonus for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{3}</color> times.
+- When Prowess reaches <color=Highlight>{0}</color> points, hold Basic Attack after casting Basic Attack Stage 2 to consume <color=Highlight>{0}</color> points of Prowess and cast Heavy Attack - Thunderoar: Backstep.","<color=Highlight>[Đánh Mạnh]</color> Khi ""Chiến Thế"" đạt <color=Highlight>{0}</color> điểm, nhấn giữ Đánh Thường hoặc nhấn Đánh Thường trên không, tiêu hao <color=Highlight>{0}</color> điểm ""Chiến Thế"" để thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"".
+Khi thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"", hồi thêm <color=Highlight>{1}</color> ""Quyền Bính"", tăng <color=Highlight>{2}</color> buff sát thương, có thể cộng dồn <color=Highlight>{3}</color> tầng, duy trì <color=Highlight>{4}</color> giây.
+Khi ""Chiến Thế"" đạt <color=Highlight>{0}</color> điểm, sau Đánh Thường đoạn 2 nhấn giữ Đánh Thường, tiêu hao <color=Highlight>{0}</color> điểm ""Chiến Thế"" để thi triển ""Đánh Mạnh - Thước Lôi - Hậu Triệt""."
+lang_multi_text.db,MultiText,RogueBuffPool_130601_BuffDesc_0,"<color=Highlight>【重击】</color>长按普攻或空中短按普攻，消耗「战势」，可施放「重击·烁雷·升拳」，并获得特殊强化。
+普攻2段后长按普攻，消耗「战势」，可施放「重击·烁雷·后撤」。","<color=Highlight>[Heavy Attack]</color>
+- Hold Basic Attack or {Cus:Ipt,Touch=tap PC=click Gamepad=press} Basic Attack while in mid-air to cast Heavy Attack - Thunderoar: Uppercut at the cost of Prowess and gain enhancements.
+- Hold Basic Attack after casting Basic Attack Stage 2 to cast Heavy Attack - Thunderoar: Backstep at the cost of Prowess.","<color=Highlight>[Đánh Mạnh]</color> Nhấn giữ Đánh Thường hoặc nhấn Đánh Thường trên không, tiêu hao ""Chiến Thế"" để thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"", đồng thời nhận cường hóa đặc biệt.
+Sau Đánh Thường đoạn 2 nhấn giữ Đánh Thường, tiêu hao ""Chiến Thế"" để thi triển ""Đánh Mạnh - Thước Lôi - Hậu Triệt""."
+lang_multi_text.db,MultiText,RogueBuffPool_130601_BuffDesc_2_8,"<color=Highlight>【重击】</color>「战势」达到<color=Highlight>{0}</color>点时，长按普攻或在空中短按普攻，消耗<color=Highlight>{0}</color>点「战势」，施放「重击·烁雷·升拳」。
+施放「重击·烁雷·升拳」时，额外回复<color=Highlight>{1}</color>「权炳」，伤害加成提升<color=Highlight>{2}</color>，可叠加<color=Highlight>{3}</color>层，持续<color=Highlight>{4}</color>秒。
+「战势」达到<color=Highlight>{0}</color>点时，普攻2段后长按普攻，消耗<color=Highlight>{0}</color>点「战势」，施放「重击·烁雷·后撤」。","<color=Highlight>[Heavy Attack]</color>
+- When Prowess reaches <color=Highlight>{0}</color> points, hold Basic Attack or {Cus:Ipt,Touch=tap PC=click Gamepad=press} Basic Attack while in mid-air to consume <color=Highlight>{0}</color> points of Prowess and cast Heavy Attack - Thunderoar: Uppercut.
+- Casting Heavy Attack - Thunderoar: Uppercut additionally restores <color=Highlight>{1}</color> Ascendancy and grants <color=Highlight>{2}</color> DMG Bonus for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{3}</color> times.
+- When Prowess reaches <color=Highlight>{0}</color> points, hold Basic Attack after casting Basic Attack Stage 2 to consume <color=Highlight>{0}</color> points of Prowess and cast Heavy Attack - Thunderoar: Backstep.","<color=Highlight>[Đánh Mạnh]</color> Khi ""Chiến Thế"" đạt <color=Highlight>{0}</color> điểm, nhấn giữ Đánh Thường hoặc nhấn Đánh Thường trên không, tiêu hao <color=Highlight>{0}</color> điểm ""Chiến Thế"" để thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"".
+Khi thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"", hồi thêm <color=Highlight>{1}</color> ""Quyền Bính"", tăng <color=Highlight>{2}</color> buff sát thương, có thể cộng dồn <color=Highlight>{3}</color> tầng, duy trì <color=Highlight>{4}</color> giây.
+Khi ""Chiến Thế"" đạt <color=Highlight>{0}</color> điểm, sau Đánh Thường đoạn 2 nhấn giữ Đánh Thường, tiêu hao <color=Highlight>{0}</color> điểm ""Chiến Thế"" để thi triển ""Đánh Mạnh - Thước Lôi - Hậu Triệt""."
+lang_multi_text.db,MultiText,RogueBuffPool_130601_BuffDesc_2_8_0,"<color=Highlight>【重击】</color>长按普攻或空中短按普攻，消耗「战势」，可施放「重击·烁雷·升拳」，并获得特殊强化。
+普攻2段后长按普攻，消耗「战势」，可施放「重击·烁雷·后撤」。","<color=Highlight>[Heavy Attack]</color>
+- Hold Basic Attack or {Cus:Ipt,Touch=tap PC=click Gamepad=press} Basic Attack while in mid-air to cast Heavy Attack - Thunderoar: Uppercut at the cost of Prowess and gain enhancements.
+- Hold Basic Attack after casting Basic Attack Stage 2 to cast Heavy Attack - Thunderoar: Backstep at the cost of Prowess.","<color=Highlight>[Đánh Mạnh]</color> Nhấn giữ Đánh Thường hoặc nhấn Đánh Thường trên không, tiêu hao ""Chiến Thế"" để thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"", đồng thời nhận cường hóa đặc biệt.
+Sau Đánh Thường đoạn 2 nhấn giữ Đánh Thường, tiêu hao ""Chiến Thế"" để thi triển ""Đánh Mạnh - Thước Lôi - Hậu Triệt""."
+lang_multi_text.db,MultiText,RogueBuffPool_130602_BuffDesc,"<color=Highlight>【共鸣解放】</color>施放「重击·烁雷·升拳」或「重击·烁雷·后撤」能积攒<color=Highlight>{0}</color>层「耀日」，可叠加<color=Highlight>{1}</color>层。
+「耀日」达到<color=Highlight>{2}</color>层及以上时，短按共鸣解放，消耗<color=Highlight>{2}</color>层「耀日」，施放「烁斩」。
+「烁斩」连续施放<color=Highlight>{3}</color>段后，「耀日」仍剩余<color=Highlight>{4}</color>层及以上时，继续短按共鸣解放，消耗<color=Highlight>{2}</color>层「耀日」，施放「凌日之赫」。
+「烁斩」和「凌日之赫」分别造成攻击<color=Highlight>{5}</color>和攻击<color=Highlight>{6}</color>的导电伤害，此次伤害为重击伤害。
+施放「重击·烁雷·升拳」、「重击·烁雷·后撤」、「烁斩」、「凌日之赫」时，额外回复<color=Highlight>{7}</color>点共鸣能量，伤害加成提升<color=Highlight>{8}</color>，最高<color=Highlight>{9}</color>层，持续<color=Highlight>{10}</color>秒。","<color=Highlight>[Resonance Liberation]</color>
+- Casting Heavy Attack - Thunderoar: Uppercut or Heavy Attack - Thunderoar: Backstep generates <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=stack P=stacks SapTag=0} of Daystar, stacking to <color=Highlight>{1}</color> times.
+- With at least <color=Highlight>{2}</color> stacks of Daystar, use Resonance Liberation to consume <color=Highlight>{2}</color> stacks of Daystar and cast Burst Slash.
+- After performing <color=Highlight>{3}</color> stages of Burst Slash with at least <color=Highlight>{4}</color> stacks of Daystar left, use Resonance Liberation again to consume <color=Highlight>{2}</color> stacks of Daystar and cast Eclipse.
+- Burst Slash and Eclipse deal Electro DMG equal to <color=Highlight>{5}</color> and <color=Highlight>{6}</color> of Augusta's ATK respectively, considered Heavy Attack DMG.
+- Casting Heavy Attack - Thunderoar: Uppercut, Heavy Attack - Thunderoar: Backstep, Burst Slash, and Eclipse additionally restores <color=Highlight>{7}</color> points of Resonance Energy and grants <color=Highlight>{8}</color> DMG Bonus for <color=Highlight>{10}s</color>, stacking up to <color=Highlight>{9}</color> times.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"" hoặc ""Đánh Mạnh - Thước Lôi - Hậu Triệt"" có thể tích lũy <color=Highlight>{0}</color> tầng ""Diệu Nhật"", tối đa cộng dồn <color=Highlight>{1}</color> tầng.
+Khi ""Diệu Nhật"" đạt từ <color=Highlight>{2}</color> tầng trở lên, nhấn Giải Phóng Cộng Hưởng, tiêu hao <color=Highlight>{2}</color> tầng ""Diệu Nhật"" để thi triển ""Thước Trảm"".
+Sau khi thi triển liên tục <color=Highlight>{3}</color> đoạn ""Thước Trảm"", nếu ""Diệu Nhật"" vẫn còn từ <color=Highlight>{4}</color> tầng trở lên, tiếp tục nhấn Giải Phóng Cộng Hưởng, tiêu hao <color=Highlight>{2}</color> tầng ""Diệu Nhật"" để thi triển ""Lăng Nhật Chi Hách"".
+""Thước Trảm"" và ""Lăng Nhật Chi Hách"" lần lượt gây sát thương Điện Từ bằng <color=Highlight>{5}</color> tấn công và <color=Highlight>{6}</color> tấn công, sát thương lần này được tính là sát thương Đánh Mạnh.
+Khi thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"", ""Đánh Mạnh - Thước Lôi - Hậu Triệt"", ""Thước Trảm"", ""Lăng Nhật Chi Hách"", hồi thêm <color=Highlight>{7}</color> điểm năng lượng Cộng Hưởng, tăng <color=Highlight>{8}</color> buff sát thương, tối đa <color=Highlight>{9}</color> tầng, duy trì <color=Highlight>{10}</color> giây."
+lang_multi_text.db,MultiText,RogueBuffPool_130602_BuffDesc_0,"<color=Highlight>【共鸣解放】</color>「重击·烁雷·升拳」、「重击·烁雷·后撤」能积攒「耀日」。
+短按共鸣解放，消耗「耀日」，可施放「烁斩」或「凌日之赫」。
+「重击·烁雷·升拳」、「重击·烁雷·后撤」、「烁斩」、「凌日之赫」获得特殊强化。","<color=Highlight>[Resonance Liberation]</color>
+- Casting Heavy Attack - Thunderoar: Uppercut or Heavy Attack - Thunderoar: Backstep generates Daystar.
+- Use Resonance Liberation to cast Burst Slash or Eclipse at the cost of Daystar.
+- Heavy Attack - Thunderoar: Uppercut, Heavy Attack - Thunderoar: Backstep, Burst Slash, and Eclipse are enhanced.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> ""Đánh Mạnh - Thước Lôi - Thăng Quyền"", ""Đánh Mạnh - Thước Lôi - Hậu Triệt"" có thể tích lũy ""Diệu Nhật"".
+Nhấn Giải Phóng Cộng Hưởng, tiêu hao ""Diệu Nhật"" để thi triển ""Thước Trảm"" hoặc ""Lăng Nhật Chi Hách"".
+""Đánh Mạnh - Thước Lôi - Thăng Quyền"", ""Đánh Mạnh - Thước Lôi - Hậu Triệt"", ""Thước Trảm"", ""Lăng Nhật Chi Hách"" nhận cường hóa đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_130602_BuffDesc_2_8,"<color=Highlight>【共鸣解放】</color>施放「重击·烁雷·升拳」或「重击·烁雷·后撤」能积攒<color=Highlight>{0}</color>层「耀日」，可叠加<color=Highlight>{1}</color>层。
+「耀日」达到<color=Highlight>{2}</color>层及以上时，短按共鸣解放，消耗<color=Highlight>{2}</color>层「耀日」，施放「烁斩」。
+「烁斩」连续施放<color=Highlight>{3}</color>段后，「耀日」仍剩余<color=Highlight>{4}</color>层以上时，继续短按共鸣解放，消耗<color=Highlight>{2}</color>层「耀日」，施放「凌日之赫」。
+「烁斩」和「凌日之赫」分别造成攻击<color=Highlight>{5}</color>和攻击<color=Highlight>{6}</color>的导电伤害，此次伤害为重击伤害。
+施放「重击·烁雷·升拳」、「重击·烁雷·后撤」、「烁斩」、「凌日之赫」时，额外回复<color=Highlight>{7}</color>点共鸣能量，伤害加成提升<color=Highlight>{8}</color>，最高<color=Highlight>{9}</color>层，持续<color=Highlight>{10}</color>秒。","<color=Highlight>[Resonance Liberation]</color>
+- Casting Heavy Attack - Thunderoar: Uppercut or Heavy Attack - Thunderoar: Backstep generates <color=Highlight><SapTag=0>{0}</SapTag></color> {Cus:Sap,S=stack P=stacks SapTag=0} of Daystar, stacking to <color=Highlight>{1}</color> times.
+- With at least <color=Highlight>{2}</color> stacks of Daystar, use Resonance Liberation to consume <color=Highlight>{2}</color> stacks of Daystar and cast Burst Slash.
+- After performing <color=Highlight>{3}</color> stages of Burst Slash with at least <color=Highlight>{4}</color> stacks of Daystar left, use Resonance Liberation again to consume <color=Highlight>{2}</color> stacks of Daystar and cast Eclipse.
+- Burst Slash and Eclipse deal Electro DMG equal to <color=Highlight>{5}</color> and <color=Highlight>{6}</color> of Augusta's ATK respectively, considered Heavy Attack DMG.
+- Casting Heavy Attack - Thunderoar: Uppercut, Heavy Attack - Thunderoar: Backstep, Burst Slash, and Eclipse additionally restores <color=Highlight>{7}</color> points of Resonance Energy and grants <color=Highlight>{8}</color> DMG Bonus for <color=Highlight>{10}s</color>, stacking up to <color=Highlight>{9}</color> times.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"" hoặc ""Đánh Mạnh - Thước Lôi - Hậu Triệt"" có thể tích lũy <color=Highlight>{0}</color> tầng ""Diệu Nhật"", tối đa cộng dồn <color=Highlight>{1}</color> tầng.
+Khi ""Diệu Nhật"" đạt từ <color=Highlight>{2}</color> tầng trở lên, nhấn Giải Phóng Cộng Hưởng, tiêu hao <color=Highlight>{2}</color> tầng ""Diệu Nhật"" để thi triển ""Thước Trảm"".
+Sau khi thi triển liên tục <color=Highlight>{3}</color> đoạn ""Thước Trảm"", nếu ""Diệu Nhật"" vẫn còn từ <color=Highlight>{4}</color> tầng trở lên, tiếp tục nhấn Giải Phóng Cộng Hưởng, tiêu hao <color=Highlight>{2}</color> tầng ""Diệu Nhật"" để thi triển ""Lăng Nhật Chi Hách"".
+""Thước Trảm"" và ""Lăng Nhật Chi Hách"" lần lượt gây sát thương Điện Từ bằng <color=Highlight>{5}</color> tấn công và <color=Highlight>{6}</color> tấn công, sát thương lần này được tính là sát thương Đánh Mạnh.
+Khi thi triển ""Đánh Mạnh - Thước Lôi - Thăng Quyền"", ""Đánh Mạnh - Thước Lôi - Hậu Triệt"", ""Thước Trảm"", ""Lăng Nhật Chi Hách"", hồi thêm <color=Highlight>{7}</color> điểm năng lượng Cộng Hưởng, tăng <color=Highlight>{8}</color> buff sát thương, tối đa <color=Highlight>{9}</color> tầng, duy trì <color=Highlight>{10}</color> giây."
+lang_multi_text.db,MultiText,RogueBuffPool_130602_BuffDesc_2_8_0,"<color=Highlight>【共鸣解放】</color>「重击·烁雷·升拳」、「重击·烁雷·后撤」能积攒「耀日」。
+短按共鸣解放，消耗「耀日」，可施放「烁斩」或「凌日之赫」。
+「重击·烁雷·升拳」、「重击·烁雷·后撤」、「烁斩」、「凌日之赫」获得特殊强化。","<color=Highlight>[Resonance Liberation]</color>
+- Casting Heavy Attack - Thunderoar: Uppercut or Heavy Attack - Thunderoar: Backstep generates Daystar.
+- Use Resonance Liberation to cast Burst Slash or Eclipse at the cost of Daystar.
+- Heavy Attack - Thunderoar: Uppercut, Heavy Attack - Thunderoar: Backstep, Burst Slash, and Eclipse are enhanced.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> ""Đánh Mạnh - Thước Lôi - Thăng Quyền"", ""Đánh Mạnh - Thước Lôi - Hậu Triệt"" có thể tích lũy ""Diệu Nhật"".
+Nhấn Giải Phóng Cộng Hưởng, tiêu hao ""Diệu Nhật"" để thi triển ""Thước Trảm"" hoặc ""Lăng Nhật Chi Hách"".
+""Đánh Mạnh - Thước Lôi - Thăng Quyền"", ""Đánh Mạnh - Thước Lôi - Hậu Triệt"", ""Thước Trảm"", ""Lăng Nhật Chi Hách"" nhận cường hóa đặc biệt."
+lang_multi_text.db,MultiText,RogueBuffPool_130603_BuffDesc,"<color=Highlight>【共鸣解放】</color>「共鸣解放·誓锋不殒」、「共鸣解放·赫日威临」、「赫日威临·烈阳」、「赫日威临·不朽者之肃」最终伤害提升<color=Highlight>{0}</color>。
+「共鸣解放·誓锋不殒」冷却时间减少<color=Highlight>{1}</color>秒，施放后回复<color=Highlight>{2}</color>「权炳」。","<color=Highlight>[Resonance Liberation]</color>
+- The total DMG of Resonance Liberation - Sword of Eternal Oath, Resonance Liberation - Sublime is the Sun, Sublime is the Sun - Sunborne, and Sublime is the Sun - Everbright Protector is increased by <color=Highlight>{0}</color>.
+- The cooldown of Resonance Liberation - Sword of Eternal Oath is reduced by <color=Highlight>{1}</color>s. Casting this skill restores <color=Highlight>{2}</color> Ascendancy.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Sát thương cuối cùng của ""Giải Phóng Cộng Hưởng - Thệ Phong Bất Vẫn"", ""Giải Phóng Cộng Hưởng - Hách Nhật Uy Lâm"", ""Hách Nhật Uy Lâm - Liệt Dương"", ""Hách Nhật Uy Lâm - Bất Hủ Giả Chi Túc"" tăng <color=Highlight>{0}</color>.
+Thời gian hồi chiêu của ""Giải Phóng Cộng Hưởng - Thệ Phong Bất Vẫn"" giảm <color=Highlight>{1}</color> giây, sau khi thi triển hồi <color=Highlight>{2}</color> ""Quyền Bính""."
+lang_multi_text.db,MultiText,RogueBuffPool_130603_BuffDesc_0,"<color=Highlight>【共鸣解放】</color>共鸣解放最终伤害提升。
+「共鸣解放·誓锋不殒」冷却时间减少，可回复全部「权炳」。","<color=Highlight>[Resonance Liberation]</color>
+- The total DMG of Resonance Liberation is increased.
+- The cooldown of Resonance Liberation - Sword of Eternal Oath is reduced. Casting this skill restores all Ascendancy.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Tăng sát thương cuối cùng của Giải Phóng Cộng Hưởng.
+Giảm thời gian hồi chiêu của ""Giải Phóng Cộng Hưởng - Thệ Phong Bất Vẫn"", có thể hồi toàn bộ ""Quyền Bính""."
+lang_multi_text.db,MultiText,RogueBuffPool_130603_BuffDesc_2_8,"<color=Highlight>【共鸣解放】</color>「共鸣解放·誓锋不殒」、「共鸣解放·赫日威临」、「赫日威临·烈阳」、「赫日威临·不朽者之肃」最终伤害提升<color=Highlight>{0}</color>。
+「共鸣解放·誓锋不殒」冷却时间减少<color=Highlight>{1}</color>秒，施放后回复<color=Highlight>{2}</color>「权炳」。","<color=Highlight>[Resonance Liberation]</color>
+- The total DMG of Resonance Liberation - Sword of Eternal Oath, Resonance Liberation - Sublime is the Sun, Sublime is the Sun - Sunborne, and Sublime is the Sun - Everbright Protector is increased by <color=Highlight>{0}</color>.
+- The cooldown of Resonance Liberation - Sword of Eternal Oath is reduced by <color=Highlight>{1}</color>s. Casting this skill restores <color=Highlight>{2}</color> Ascendancy.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Sát thương cuối cùng của ""Giải Phóng Cộng Hưởng - Thệ Phong Bất Vẫn"", ""Giải Phóng Cộng Hưởng - Hách Nhật Uy Lâm"", ""Hách Nhật Uy Lâm - Liệt Dương"", ""Hách Nhật Uy Lâm - Bất Hủ Giả Chi Túc"" tăng <color=Highlight>{0}</color>.
+Thời gian hồi chiêu của ""Giải Phóng Cộng Hưởng - Thệ Phong Bất Vẫn"" giảm <color=Highlight>{1}</color> giây, sau khi thi triển hồi <color=Highlight>{2}</color> ""Quyền Bính""."
+lang_multi_text.db,MultiText,RogueBuffPool_130603_BuffDesc_2_8_0,"<color=Highlight>【共鸣解放】</color>共鸣解放最终伤害提升。
+「共鸣解放·誓锋不殒」冷却时间减少，可回复全部「权炳」。","<color=Highlight>[Resonance Liberation]</color>
+- The total DMG of Resonance Liberation is increased.
+- The cooldown of Resonance Liberation - Sword of Eternal Oath is reduced. Casting this skill restores all Ascendancy.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Tăng sát thương cuối cùng của Giải Phóng Cộng Hưởng.
+Giảm thời gian hồi chiêu của ""Giải Phóng Cộng Hưởng - Thệ Phong Bất Vẫn"", có thể hồi toàn bộ ""Quyền Bính""."
+lang_multi_text.db,MultiText,RogueBuffPool_130605_BuffDesc_0,<color=Highlight>【共鸣回路】</color>每次获得护盾时，重击伤害加成和伤害减免提升。,"<color=Highlight>[Forte Circuit]</color>
+Each time obtaining a Shield grants Heavy Attack DMG Bonus and increases DMG Reduction.","<color=Highlight>[Mạch Cộng Hưởng]</color> Mỗi khi nhận lá chắn, tăng buff sát thương Đánh Mạnh và giảm sát thương phải chịu."
+lang_multi_text.db,MultiText,RogueBuffPool_130605_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>每次获得护盾时，重击伤害加成提升<color=Highlight>{0}</color>，伤害减免提升<color=Highlight>{1}</color>，可叠加<color=Highlight>{2}</color>层，持续<color=Highlight>{3}</color>秒。,"<color=Highlight>[Forte Circuit]</color>
+Each time obtaining a Shield grants <color=Highlight>{0}</color> Heavy Attack DMG Bonus and increases DMG Reduction by <color=Highlight>{1}</color> for <color=Highlight>{3}s</color>, stacking up to <color=Highlight>{2}</color> times.","<color=Highlight>[Mạch Cộng Hưởng]</color> Mỗi khi nhận lá chắn, buff sát thương Đánh Mạnh tăng <color=Highlight>{0}</color>, giảm sát thương phải chịu tăng <color=Highlight>{1}</color>, có thể cộng dồn <color=Highlight>{2}</color> tầng, duy trì <color=Highlight>{3}</color> giây."
+lang_multi_text.db,MultiText,RogueBuffPool_130605_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>每次获得护盾时，重击伤害加成和伤害减免提升。,"<color=Highlight>[Forte Circuit]</color>
+Each time obtaining a Shield grants Heavy Attack DMG Bonus and increases DMG Reduction.","<color=Highlight>[Mạch Cộng Hưởng]</color> Mỗi khi nhận lá chắn, tăng buff sát thương Đánh Mạnh và giảm sát thương phải chịu."
+lang_multi_text.db,MultiText,RogueBuffPool_1402999002_BuffDesc,<color=#c49e55>【重击】</color>「重击·风袭」生成「风场」，造成共计{0}伤害，且具有牵引效果。,"<color=#c49e55>[Heavy Attack]</color> ""Heavy Attack: Stormy Strike"" generates ""Wind Fields"" to deal {0} DMG and pull enemies.","<color=#c49e55>[Đánh Mạnh]</color> ""Đánh Mạnh - Phong Tập"" tạo ra ""Vùng Gió"", gây tổng cộng {0} sát thương và có hiệu quả hút địch."
+lang_multi_text.db,MultiText,RogueBuffPool_1402999002_BuffDesc_0,<color=#c49e55>【重击】</color>「重击·风袭」生成「风场」,<color=#c49e55>[Heavy Attack]</color> Heavy Attack: Stormy Strike generates Wind Fields.,"<color=#c49e55>[Đánh Mạnh]</color> ""Đánh Mạnh - Phong Tập"" tạo ra ""Vùng Gió""."
+lang_multi_text.db,MultiText,RogueBuffPool_1402999002_BuffDesc_1,流风集韵,Rhythm of the Wind,Lưu Phong Tập Vận
+lang_multi_text.db,MultiText,RogueBuffPool_1402999003_BuffDesc,<color=#c49e55>【特殊强化】</color>「风场」伤害倍率提升{0}，牵引效果提升{1}。,<color=#c49e55>[Special Enhancement]</color> Wind Field DMG multiplier is increased by {0} and the pulling effect increased by {1}.,"<color=#c49e55>[Cường Hóa Đặc Biệt]</color> Tăng {0} bội số sát thương của ""Vùng Gió"", tăng {1} hiệu quả hút địch."
+lang_multi_text.db,MultiText,RogueBuffPool_1402999003_BuffDesc_0,<color=#c49e55>【特殊强化】</color>所有「风场」伤害大幅提升，牵引效果提升,<color=#c49e55>[Special Enhancement]</color> All Wind Fields gain increased damage and traction effects.,"<color=#c49e55>[Cường Hóa Đặc Biệt]</color> Tăng mạnh sát thương của tất cả ""Vùng Gió"" và tăng hiệu quả hút địch."
+lang_multi_text.db,MultiText,RogueBuffPool_1402999003_BuffDesc_1,听凭风引,Give Yourself to Wind,Thính Bằng Phong Dẫn

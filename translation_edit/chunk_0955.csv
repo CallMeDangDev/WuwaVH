@@ -1,115 +1,394 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,InfoDisplay_11040132_Title,《物资申领登记表模板》,Supply Application Form Template,"""Mẫu Đơn Đăng Ký Nhận Vật Tư"""
-lang_multi_text.db,MultiText,InfoDisplay_11040133_Text,"……巡尉是锻炼自我的最佳对手。
-……把失败的突袭当做是一次磨砺。
-……能多接下几招也是一种进步！","...Train hard. Challenge Patrollers. 
-...Failure breeds growth. 
-...Build your resilience. Improve your skills!","...Tuần Úy là đối thủ tốt nhất để rèn luyện bản thân.
-...Hãy coi những lần tập kích thất bại như một lần tôi luyện.
-...Chống đỡ được thêm vài chiêu cũng là một bước tiến!"
-lang_multi_text.db,MultiText,InfoDisplay_11040133_Title,流放者标语,Exiles' Slogan,Khẩu hiệu Kẻ Lưu Đày
-lang_multi_text.db,MultiText,InfoDisplay_11040134_Text,"《稷廷遗址实地考察手记·十三》
-重新实地探访考察稷廷消失的谜团，没有增加任何有用信息。
-现场遗迹、周边居民的笔录、华胥研究院的档案……整合起来的记录，依旧寥寥无几。
-有人说，稷廷为自己的傲慢付出了代价，也有人说，稷廷为人类的未来指明了一条道路。
-而彼时最先进的研究机构，在今州多地留下了难解的机巧，这究竟是意欲何为？
-（无意冒犯！私以为稷廷到处遗留装置的行为非常不环保，仅从我个人的角度予以谴责。）","""Field Investigation Notes of CSC Ruins - No. 13""  The mystery of the CSC's disappearance has not been solved by the re-investigation of the site. Documents of the site, transcripts of residents from surrounding areas, and the archives of the Huaxu Academy... All remain very few in quantity even combined. Some remarked that CSC paid the price for their arrogance, and others said that CSC led the way toward the future of mankind.  But what exactly did the most advanced research institute at the time intend to achieve when they left behind these perplexing facilities all across Jinzhou?  (No offense intended! Personally, I believe CSC's behavior of leaving equipment everywhere is not very environmentally friendly. I condemn them only from my personal point of view.)","""Ghi Chép Khảo Sát Thực Địa Di Tích Tắc Đình - Mười Ba""
-Tái khảo sát thực địa về bí ẩn biến mất của Tắc Đình, nhưng không thu được thêm thông tin hữu ích nào.
-Di tích hiện trường, lời khai của cư dân xung quanh, hồ sơ của Hoa Tư Nghiên Cứu Viện... tổng hợp lại vẫn chẳng được bao nhiêu.
-Có người nói Tắc Đình đã trả giá cho sự kiêu ngạo của mình, cũng có người nói Tắc Đình đã chỉ ra một con đường cho tương lai nhân loại.
-Vậy mà cơ quan nghiên cứu tiên tiến nhất thời đó đã để lại khắp Kim Châu những cơ quan tinh xảo khó hiểu, rốt cuộc là vì mục đích gì?
-(Không có ý xúc phạm! Riêng tôi cho rằng việc Tắc Đình để lại thiết bị khắp nơi thực sự rất không thân thiện với môi trường, tôi chỉ lên án từ góc độ cá nhân thôi.)"
-lang_multi_text.db,MultiText,InfoDisplay_11040134_Title,稷廷实验室考察手记,Jiting's Research Note,Ghi chép khảo sát phòng thí nghiệm Tắc Đình
-lang_multi_text.db,MultiText,InfoDisplay_11040135_Text,"《召唤神秘的玉玉女侠！》
+lang_multi_text.db,MultiText,InfoDisplay_103012513_Title,设备维修记录,Equipment Maintenance Log,Nhật ký sửa chữa thiết bị
+lang_multi_text.db,MultiText,InfoDisplay_103012514_Text,"给老程：
+我查清楚那个守夜的新人报告的问题了。
+果然跟你说的一样，根本不是什么诡异现象，只是有人把升降机的感应阈值调低了而已，现在就是一阵风吹来，都能让这大家伙敏感地动起来。
+现在的小年轻，怎么跟我们上一辈的人一样，总是疑神疑鬼的……
+不过这里的修理还得你过来搭把手，我调试了半天，还是差了21克的误差。","To Cheng:
+I got through the problem reported by the new watchman.
+Just as you said, the elevator running without a payload is not at all paranormal. It's simply that someone has lowered the weight sensing threshold of the elevator. Now, even a few grains of sand can keep this machine going up and down endlessly. I don’t like to criticize people but young guys nowadays are just so doubtful about everything...
+Nevertheless, we need your help for the reparing here. Only you have access to the system initialization.","Gửi Lão Trình:
+Tôi đã kiểm tra rõ vấn đề mà người mới trực đêm báo cáo rồi.
+Quả nhiên đúng như ông nói, chẳng phải hiện tượng ma quái gì cả, chỉ là có người chỉnh ngưỡng cảm biến của thang máy xuống thấp quá thôi. Bây giờ chỉ cần một cơn gió thổi qua cũng đủ làm cái gã khổng lồ này nhạy cảm mà tự chuyển động.
+Đám trẻ bây giờ sao mà giống hệt thế hệ trước chúng ta, lúc nào cũng thần hồn nát thần tính...
+Cơ mà việc sửa chữa ở đây vẫn cần ông qua giúp một tay, tôi chỉnh cả buổi rồi mà vẫn còn sai số 21 gram."
+lang_multi_text.db,MultiText,InfoDisplay_103012514_Title,工程师的留言,Engineer's Log,Tin nhắn của kỹ sư
+lang_multi_text.db,MultiText,InfoDisplay_103012515_Text,"别把罐装鸣液当成一般罐头！
+1、它不会在一般市场售卖。
+2、它不能承受暴力运输。
+3、它不能长时间储存。
+4、最重要的是，别蠢到像开食品罐头一样随便打开一个鸣液罐，那是致命的！","Don't think of canned song liquid as regular canned goods!
+1, It will not be sold in the general market.
+2, It cannot withstand violent transportation.
+3, It cannot be stored for long periods of time.
+4, Most importantly, don't be stupid enough to open a random can of NaruLiquid like a can of food, it's deadly!","Đừng coi Dung Dịch Minh Triều đóng hộp như đồ hộp thông thường!
+1, Nó không được bán ở chợ thông thường.
+2, Nó không chịu được vận chuyển mạnh bạo.
+3, Nó không thể lưu trữ trong thời gian dài.
+4, Quan trọng nhất là, đừng có ngốc đến mức mở hộp Dung Dịch Minh Triều tùy tiện như mở đồ hộp thực phẩm, chết người đấy!"
+lang_multi_text.db,MultiText,InfoDisplay_103012515_Title,鸣液罐的警告,Warnings for Liquid Tanks,Cảnh báo về hộp Dung Dịch Minh Triều
+lang_multi_text.db,MultiText,InfoDisplay_103012516_Text,"黑石 辐射 
+黑石 辐射 影响 
+黑石 长期接触 患病 
+黑石 病症 认知障碍 
+黑石 患病 治愈
+……","Tacetite Radiation
+Tacetite Radiation Effects
+Tacetite Long-term exposure Disease
+Tacetite Disease Cognitive impairment
+Tacetite Disease Cure
+......","Hắc Thạch bức xạ
+Hắc Thạch bức xạ ảnh hưởng
+Hắc Thạch tiếp xúc lâu dài mắc bệnh
+Hắc Thạch triệu chứng bệnh rối loạn nhận thức
+Hắc Thạch mắc bệnh chữa trị
+..."
+lang_multi_text.db,MultiText,InfoDisplay_103012516_Title,某位矿工的搜索记录,A Miner's Search Record,Lịch sử tìm kiếm của một thợ mỏ
+lang_multi_text.db,MultiText,InfoDisplay_103012517_Text,"谁说演奏一定要乐器！
+在矿下工作的期间，我总能听到一些怪声，一开始还以为就是传闻所说的那个“声音”呢……但随后我发现，这些怪声其实是从黑石中传出的，更神奇的是，它们有自己的韵律！
+黑石在被共振箱转化为鸣潮波时，其中部分频域是人耳可以捕捉到的。而黑石切割的形状、矿石的性质好坏，都会影响这段声波奏出不同的旋律。
+我把这些年录下的声音整理了一下，重新编曲成了一首歌，就是这首《石之音》。
+希望有一天，这种新型的演奏方式，可以获得大家的喜爱。","Who said music must be played by instrument?
+During my time working in the mine, I kept hearing strange sounds. At first, I thought it was the rumored ""sound"" everyone talked about... But later on, I discovered that these strange sounds actually came from the minerals themselves, and even more astonishingly, they formed a unique tune!
+The shape the Tacetite is cut into and the quality of the Tacetite both dictates how this tune goes.
+I sorted through the recordings across the years and arranged them into a song, which is now known as “Tune of Rocks"".
+I don’t feel quite vigorous lately... But fortunately the Pioneer Association Radio has received the mastertape of “Tune of Rocks”. My wish has been fulfilled!","Ai nói biểu diễn nhất định phải cần nhạc cụ!
+Trong thời gian làm việc dưới mỏ, tôi luôn nghe thấy những âm thanh lạ, ban đầu cứ tưởng là cái ""tiếng động"" trong lời đồn... Nhưng sau đó tôi phát hiện ra, những âm thanh lạ này thực chất phát ra từ Hắc Thạch, và kỳ diệu hơn là chúng có nhịp điệu riêng!
+Khi Hắc Thạch được hộp cộng hưởng chuyển hóa thành sóng Minh Triều, một phần dải tần số có thể được tai người bắt được. Hình dạng cắt gọt của Hắc Thạch, chất lượng quặng tốt hay xấu đều sẽ ảnh hưởng khiến sóng âm tấu lên những giai điệu khác nhau.
+Tôi đã tổng hợp lại những âm thanh ghi âm được trong những năm qua, phối lại thành một bài hát, chính là bài ""Thạch Chi Âm"" này.
+Hy vọng một ngày nào đó, phương thức biểu diễn mới mẻ này sẽ được mọi người yêu thích."
+lang_multi_text.db,MultiText,InfoDisplay_103012517_Title,石之音,Tune of Rocks,Thạch Chi Âm
+lang_multi_text.db,MultiText,InfoDisplay_104000901_Text,"孩子，爷爷也不想离开你，但时境危艰，只能用这一张碎纸片送几句话给你。
+你要挺胸抬头地好好活着，你的父母为了艺术的尊严而死，你身上流着他们的骨血。
+我以个人的自由为代价，只求追寻声骸背后的无限秘密。
+爷爷相信你是个坚强的孩子，心怀希望地活下去吧！
+那在埃弗拉德金库深处，被我们珍视着的宝物，终会带来新的希望。
+<alignright/>艾许","My dear boy,
+ 
+Leaving you is the last thing I want, but these troubled times force my hand. All I can offer now are a few words on this torn paper.
 
-发帖人：女侠救我鼠命
-最近的流放者像饿狼一样在运输线上到处游荡，而且下手贼狠！
-俗话说，功夫再高也怕菜刀。在下所在的运输队不幸遭遇了流放者的奇袭，幸好有神秘的红发女侠帮我们解了围，大恩大德没齿难忘！女侠的名讳我已记不清，只记得好像和「玉」有关。希望万能的呜呜内网能帮我打听她的下落，我一定要当面答谢她！","Title: Looking for a Mysterious Maiden with Jade Pendant! 
-u/MaidenS8vedMyL1fe  
-The Exiles have been stalking the transportation lines like hungry wolves, and boy are they ruthless! 
-My team was ambushed by them, but luckily a red-haired Maiden came to our rescue. I am forever grateful for her help and want to find her again. I can’t quite remember her name, maybe it was ""Jin""? Does anyone know her name or how to contact her through the Lollo Network? I owe her my thanks in person!","""Tìm Kiếm Nữ Hiệp Bí Ẩn Tên Có Chữ ""Ngọc""!""
+Stand tall and live your life with pride. Your parents gave their lives for the dignity of art, and you carry the same blood in your veins.
 
-Người đăng: Nữ Hiệp Cứu Mạng Tôi
-Gần đây bọn Kẻ Lưu Đày lang thang khắp tuyến vận chuyển như sói đói, mà ra tay cực kỳ tàn nhẫn!
-Như người ta nói, võ công cao đến mấy cũng sợ dao phay. Đội vận chuyển của tại hạ không may bị Kẻ Lưu Đày tập kích, may mắn có một nữ hiệp tóc đỏ bí ẩn ra tay giải vây, ơn lớn này suốt đời không quên! Tên của nữ hiệp tôi không nhớ rõ, chỉ nhớ hình như có liên quan đến chữ ""Ngọc"". Mong mạng nội bộ Ô Ô vạn năng có thể giúp tôi tìm tung tích của cô ấy, tôi nhất định phải đích thân cảm tạ!"
-lang_multi_text.db,MultiText,InfoDisplay_11040135_Title,呜呜物流内部论坛,Lollo Logistics Forum Post,Diễn đàn nội bộ Ô Ô Vật Lưu
-lang_multi_text.db,MultiText,InfoDisplay_11040136_Text,"《稷廷遗址实地考察手记·七》
-曾以军用设施构筑起的简易居住区，居住条件不佳。
-如今周边的环境依然恶劣，浓雾频发，青苔、锈蚀随处可见。
-废墟早已被附近行动的流放者搜刮得一干二净，什么都没留下。","""Field Investigation Notes of CSC Ruins - No. 7""  A simple residential area, built with military facilities. Living conditions are poor. The surrounding environment remains harsh, with frequent fog weather, and moss and rust everywhere. The ruins have long been rummaged by the Exiles who are active nearby, leaving nothing behind.","""Ghi Chép Khảo Sát Thực Địa Di Tích Tắc Đình - Bảy""
-Khu dân cư đơn giản được xây dựng từ các cơ sở quân sự, điều kiện sinh sống không tốt.
-Đến nay môi trường xung quanh vẫn khắc nghiệt, sương mù dày đặc thường xuyên xuất hiện, rêu phong và gỉ sét có thể thấy khắp nơi.
-Phế tích đã bị Kẻ Lưu Đày hoạt động gần đó lục soát sạch sẽ, chẳng còn lại gì."
-lang_multi_text.db,MultiText,InfoDisplay_11040136_Title,塬上废墟考察手记,Fieild Investigation Note,Ghi chép khảo sát phế tích trên cao nguyên
-lang_multi_text.db,MultiText,InfoDisplay_11040137_Text,"硬度：6度
-密度：3.0-3.5g/cm³
-抗压强度：3000-5000kg/cm³
+I've sacrificed my freedom in pursuit of the endless mysteries these Echoes hold, but I believe in you—you have a strong heart. Hold on to hope and keep moving forward.
 
-该样本被命名为云纹石，其结构细密，硬度、抗压强度高，化学稳定性好，能适应极端温差变化。
-云纹石在云陵谷内分布广泛，形成规模大，因此开采方便，易出大料，是极佳的建筑原材料，可用于修筑大型雕塑、房屋外墙、硬质铺装等。
+One day, the treasure we have valued deep within the Averardo Vault will bring forth new hope.
 
-<i>备注：用于今州城建、岁主雕塑修筑。</i>","Hardness: 6
-Density: 3.0-3.5 g/cm?
-Compressive Strength: 3000-5000 kg/cm?
+With Love,
+Ash","Cháu à, ông cũng không muốn rời xa cháu, nhưng thời thế nguy nan, chỉ có thể dùng mảnh giấy vụn này gửi vài lời cho cháu.
+Cháu phải ngẩng cao đầu mà sống cho thật tốt, cha mẹ cháu đã chết vì tôn nghiêm của nghệ thuật, trong người cháu đang chảy dòng máu của họ.
+Ông đã đánh đổi tự do cá nhân, chỉ mong theo đuổi những bí mật vô tận đằng sau Thanh Hài.
+Ông tin cháu là một đứa trẻ kiên cường, hãy sống tiếp với niềm hy vọng trong tim nhé!
+Kho báu được chúng ta trân trọng nằm sâu trong hầm ngầm Averardo đó, cuối cùng sẽ mang lại hy vọng mới.
+<alignright/>Ash"
+lang_multi_text.db,MultiText,InfoDisplay_104000901_Title,一封写在残页上的信,A Letter Written on Torn Paper,Bức thư viết trên trang giấy rách
+lang_multi_text.db,MultiText,InfoDisplay_104000902_Text,"金库内的事我都知道了。
+现在，我放在你那儿的秘密又多了一个。
+这里留了些好东西给你，我想你会满意。
+你手里的权限也一并留给你了，它能打开我为你准备的“隐藏关卡”。
+我们之间的“雇佣关系”，可不会这么简单就结束。
+哦对了，教士小姐也有东西要给你，也一并放在这儿了。","I've learned what happened in the Vault. 
 
-The specimen is named Moire Stone, characterized by its fine structure, high hardness, and strong compressive strength. It exhibits excellent chemical stability and can withstand extreme temperature variations.
-Moire Stones are widely distributed in the Gorges of Spirits, forming large-scale deposits that faciliate easy mining. Sizable blocks can be easily mined. All these factors make Moire Stones excellent construction materials suitable for large-scale sculptures, exterior walls of buildings, and hard paving.
+Now, I have another secret to share with you. I've left something special for you here, and I trust it will please you.
+ 
+You're welcome to keep the clearance device. It will grant access to the ""hidden challenge"" I've prepared for you. 
 
-<i>Note: It is used in the construction of Jinzhou and the creation of the Sentinel sculpture.</i>","Độ cứng: 6
-Mật độ: 3.0-3.5g/cm³
-Cường độ chịu nén: 3000-5000kg/cm³
+You'll find our ""employment agreement"" won't be so easily concluded.
+ 
+Oh, and the Acolyte also has something for you. I've included it here with this note.","Chuyện trong hầm ngầm tôi đều biết cả rồi.
+Bây giờ, bí mật tôi đặt nơi bạn lại nhiều thêm một cái.
+Ở đây tôi để lại vài món đồ tốt cho bạn, tôi nghĩ bạn sẽ hài lòng.
+Quyền hạn trong tay bạn cũng để lại cho bạn luôn đấy, nó có thể mở ra ""màn chơi ẩn"" mà tôi chuẩn bị cho bạn.
+""Quan hệ thuê mướn"" giữa chúng ta sẽ không kết thúc đơn giản như vậy đâu.
+À đúng rồi, cô nàng Giáo Sĩ cũng có đồ muốn đưa cho bạn, tôi cũng để chung ở đây luôn."
+lang_multi_text.db,MultiText,InfoDisplay_104000902_Title,珂莱塔留下的字条,A Note Left by Carlotta,Mẩu giấy Carlotta để lại
+lang_multi_text.db,MultiText,InfoDisplay_104122501_Text,"通缉！通缉！
+奔驰在焚焰海的强大残象……
+挑战它，战胜它，消灭它！
+成功的人将会获得10万钱的巨额悬赏金！
+发布者：华胥研究院所属潮汐气象研究中心","Wanted! Wanted!
+Mighty Tacet Discord bolting through the Sea of Flame’s burning petals…
+Challenge it, defeat it, destroy it!
+Score a sweet 100,000 SHC bounty!
+Center for Wutherological Climate Studies, Huaxu Academy","TRUY NÃ! TRUY NÃ!
+Tàn Tượng hùng mạnh đang hoành hành tại Biển Lửa...
+Thách thức nó, đánh bại nó, tiêu diệt nó!
+Người thành công sẽ nhận được khoản tiền thưởng khổng lồ lên tới 100.000 tín dụng!
+Người đăng: Trung tâm Nghiên cứu Khí tượng Thủy triều thuộc Viện Nghiên Cứu Hoa Tư"
+lang_multi_text.db,MultiText,InfoDisplay_104122501_Title,通缉令,WANTED,Lệnh Truy Nã
+lang_multi_text.db,MultiText,InfoDisplay_104134000_Text,"房间里挂满了钟表，我听着指针在黑暗里缓慢地转动，睁开眼，这里什么也没有，只有原始的黑暗。
+我迅速起身拿起钢笔记录下一切，梦境，对，是梦境，这次我终于抓住了它，清晰地将它记录了下来。
+我没有吟游诗人那般的才能，也不像旅者拥有精彩的传说，就当是一位普通的故事叙述者，将这场困扰我的梦和文字组合在了一起。
+那是从漫长的冬季开始，港口的老船长在航行前总会有相同的开场白，以此欢迎新招募的年轻水手。
+”海洋对于人类来说，总是未知的。虽然人类凭借着智慧和勇敢一次次握住了前进的舵盘，但海洋却永远也不会向人类低下头来……无数的灾难降临到了雄心勃勃冲向海洋的人身上，而且这悲剧还在不断地上演着。“
+老船长用乏味的语调吐出了每一个字，但没有关系，为即将出海航行感到兴奋的水手们只是鼓掌叫好，并没有心思去听。
+船缓缓离岸，远航的颠簸让年轻水手们感到反胃，不停地呕吐一点点耗尽了他们的兴奋。
+巨大的生物从海洋中一跃而起，年轻水手吓得躲进了船舱内，而船长和老水手们却从容自若地站在甲板上。
+“这次我就原谅你们的怯弱，因为这是你们第一次见到它，请记住它的样貌，我们把它叫做古鲸。它就是海洋所引发的灾难，神秘、力量巨大，是大自然恶魔化的化身。当然对待这类未知的生物，人类也并不会因此屈服，这是你们远航的第一课……“
+海面上响起了断断续续的枪炮声，越来越多的水手投入到了这场单方面攻击的战斗，连续扣动扳机让他们逐渐忘却了恐惧，也忘记了为什么要攻击眼前这头并没有伤害自己的巨物，硝烟下的航船顺着血红色的迹线缓缓向前驶动……","The room was filled with clocks. I listened to the hands slowly ticking in the darkness. I opened my eyes, but there was nothing here, only the primitive darkness. I quickly got up and picked up a pen to record everything, the dream, yes, it was a dream. This time, I finally caught it and recorded it clearly. I do not possess the talent of a bard, nor do I have the fascinating legends of a traveler. I am simply an ordinary storyteller, combining the dream that troubles me with words. It all begins from the long winter season. The old captain at the harbor always had the same opening lines before setting sail, as a way to welcome the newly recruited young sailors. “The ocean is always unknown to humanity. Although humans have grasped the helm of progress time and time again with wisdom and bravery, the ocean will never bow down to humanity... Countless disasters have befallen those ambitious individuals who venture into the ocean, and this tragedy continues to unfold.” The old captain uttered each word with a dull tone, but it didn't matter. The sailors, excited for the upcoming voyage, simply applauded and cheered, without paying much attention to the words. The ship slowly left the shore, and the young sailors felt nauseous from the rough voyage, with constant vomiting slowly draining their enthusiasm. A huge creature leaped out of the ocean, causing the young sailors to hide in the cabin, while the captain and the old sailors stood calmly on the deck. ""I will forgive your timidity this time, as it is your first encounter with it. Please remember its appearance. We call it the ancient whale. It is the disaster caused by the ocean, mysterious and immensely powerful. It is the embodiment of demons of nature. Of course, when dealing with such unknown creatures, humans will not succumb. This is the first lesson of your voyage..."" Intermittent gunfire broke out on the sea surface, and more and more sailors joined the one-sided attack. Continuously pulling the trigger made them gradually get their fear and also the reason why they were attacking the giant creature in front of them, which had not harmed them. Under the smoke, the ship slowly moved forward along the blood-red trail...","Căn phòng treo đầy đồng hồ, tôi lắng nghe tiếng kim quay chậm rãi trong bóng tối. Mở mắt ra, nơi này chẳng có gì cả, chỉ có bóng tối nguyên thủy.
+Tôi nhanh chóng ngồi dậy cầm bút ghi lại tất cả, giấc mơ, đúng vậy, là giấc mơ, lần này cuối cùng tôi cũng nắm bắt được nó, ghi chép lại nó một cách rõ ràng.
+Tôi không có tài năng như những nhà thơ rong, cũng không giống lữ khách sở hữu những truyền thuyết đặc sắc, cứ coi như một người kể chuyện bình thường, ghép nối giấc mơ ám ảnh tôi và con chữ lại với nhau.
+Đó là bắt đầu từ mùa đông đằng đẵng, lão thuyền trưởng ở bến cảng luôn có cùng một lời mở đầu trước khi ra khơi, dùng để chào đón những thủy thủ trẻ mới tuyển mộ.
+""Đại dương đối với loài người mà nói, luôn là ẩn số. Tuy con người dựa vào trí tuệ và lòng dũng cảm hết lần này đến lần khác nắm lấy bánh lái tiến lên, nhưng đại dương sẽ mãi mãi không bao giờ cúi đầu trước con người... Vô số tai họa đã giáng xuống những kẻ đầy tham vọng lao ra biển lớn, và bi kịch này vẫn đang không ngừng diễn ra.""
+Lão thuyền trưởng nhả từng chữ bằng giọng điệu nhạt nhẽo, nhưng không sao cả, đám thủy thủ đang hưng phấn vì sắp được ra khơi chỉ biết vỗ tay hoan hô, chẳng ai để tâm lắng nghe.
+Con tàu từ từ rời bến, sự tròng trành của chuyến đi xa khiến các thủy thủ trẻ cảm thấy buồn nôn, những cơn nôn mửa liên tục dần vắt kiệt sự hưng phấn của họ.
+Sinh vật khổng lồ nhảy vọt lên từ đại dương, thủy thủ trẻ sợ hãi trốn vào trong khoang tàu, còn thuyền trưởng và các thủy thủ già lại điềm nhiên đứng trên boong.
+""Lần này ta sẽ tha thứ cho sự hèn nhát của các cậu, bởi vì đây là lần đầu tiên các cậu nhìn thấy nó, hãy ghi nhớ hình dáng của nó, chúng ta gọi nó là Cổ Kình. Nó chính là tai họa do đại dương gây ra, bí ẩn, sức mạnh to lớn, là hiện thân ác quỷ hóa của mẹ thiên nhiên. Tất nhiên đối mặt với loại sinh vật chưa biết này, con người cũng sẽ không vì thế mà khuất phục, đây là bài học đầu tiên trong chuyến đi xa của các cậu...""
+Trên mặt biển vang lên tiếng súng pháo đứt quãng, ngày càng nhiều thủy thủ lao vào cuộc chiến tấn công đơn phương này, việc liên tục bóp cò khiến họ dần quên đi nỗi sợ hãi, cũng quên mất tại sao phải tấn công sinh vật khổng lồ trước mắt vốn chẳng hề làm hại mình, con tàu dưới làn khói súng cứ thế từ từ tiến về phía trước theo vệt máu đỏ..."
+lang_multi_text.db,MultiText,InfoDisplay_104134000_Title,鸿伯日记（其一）,Uncle Hong's Diary I,Nhật ký Bác Hồng (Phần 1)
+lang_multi_text.db,MultiText,InfoDisplay_104134001_Text,"我坐在方桌的一角，一摞摞研究资料被他推到我的跟前，他明明张大嘴在喋喋不休地说着什么，可我听到的只是支离破碎的词句。矿场，生存，平衡……这些词语毫无关联地从我笔尖下一个一个出现。
+对啊，我和他是在争吵，我推开资料后，用力地向桌面锤去，平日里积攒的怒气瞬间释放了出来。","I sat in one corner of the square table, and piles of research materials were pushed in front of me by him. He was clearly talking incessantly with his mouth wide open, but all I heard were fragmented words and phrases... the Mine, survival, balance... These words appeared one by one from beneath my pen without any connection. Yes, we were arguing. After pushing the materials aside, I forcefully hammered the table, releasing all the pent-up anger accumulated over the days.","Tôi ngồi ở một góc bàn vuông, từng chồng tài liệu nghiên cứu bị cậu ta đẩy đến trước mặt tôi. Cậu ta rõ ràng đang há to miệng thao thao bất tuyệt điều gì đó, nhưng những gì tôi nghe được chỉ là những câu từ rời rạc. Mỏ quặng, sinh tồn, cân bằng... Những từ ngữ này chẳng liên quan gì đến nhau cứ lần lượt hiện ra dưới ngòi bút của tôi.
+Phải rồi, tôi và cậu ta đang tranh cãi. Sau khi đẩy tài liệu ra, tôi đấm mạnh xuống mặt bàn, cơn giận tích tụ bấy lâu nay bỗng chốc bùng phát."
+lang_multi_text.db,MultiText,InfoDisplay_104134001_Title,鸿伯日记（其二）,Uncle Hong's Diary II,Nhật ký Bác Hồng (Phần 2)
+lang_multi_text.db,MultiText,InfoDisplay_104134002_Text,"矿场最近越来越冷了，在底部作业的矿工兄弟们说偶尔还会听见奇怪的声音，这样的传闻现在成了矿工间的夜话，不过还是对底部调查一下吧。
+忙碌了一整天，再美美地吃上一碗今州烩，这滋味……别提了，奇怪的是碗底贴着一张纸条，上面画着乱七八糟的石头图案，想都不用多想，这纸条就是坐在饭桌对面那小子写的，学着故事里依葫芦画瓢，说着这是方便通讯的独特语言，没想到一向稳重的骅医生也参与了进来，不过像这样三个人一起吵吵嚷嚷地吃饭也挺不错。","The mine has been getting colder and colder lately, and the miner brothers operating at the bottom say that they still hear strange noises occasionally, and such rumors have now become the nightly talk among miners, but it's better to investigate the bottom.
+Busy all day, and then eat a bowl of Jinzhou chowder, the taste ...... don't mention it, the strange thing is that the bottom of the bowl is stuck with a note, which is painted with a messy stone pattern, do not even need to think about it, this note is sitting on the opposite side of the dining table the boy wrote, learning from the story according to the Gourd draw a dipper, saying that this is to facilitate the communication of the unique language. I didn't expect the ever-steady Dr. Hua to get involved, but it's nice to eat noisily with three people like this.","Mỏ quặng dạo này ngày càng lạnh, các anh em thợ mỏ làm việc dưới đáy nói thỉnh thoảng còn nghe thấy tiếng động lạ, tin đồn như vậy giờ thành chuyện kể đêm khuya giữa các thợ mỏ, nhưng chắc vẫn nên điều tra dưới đáy một chút.
+Bận rộn cả ngày, rồi được ăn một bát Hầm Kim Châu ngon lành, cái vị này... miễn bàn. Kỳ lạ là dưới đáy bát có dán một mảnh giấy, trên đó vẽ những hình thù đá lộn xộn, chẳng cần nghĩ nhiều cũng biết mảnh giấy này do thằng nhóc ngồi đối diện bàn ăn viết, học đòi theo truyện vẽ hươu vẽ vượn, nói là ngôn ngữ độc đáo để tiện liên lạc. Không ngờ bác sĩ Hoa vốn điềm đạm cũng tham gia vào, nhưng mà ba người cùng nhau ăn cơm ồn ào náo nhiệt thế này cũng khá tuyệt."
+lang_multi_text.db,MultiText,InfoDisplay_104134002_Title,**年**月**日 多云,AL XXXX Cloudy,"Ngày ** tháng ** năm **, nhiều mây"
+lang_multi_text.db,MultiText,InfoDisplay_109000001_Text,"若邻里无法信任，则土地不能开垦；若岛屿无法联合，则堤坝无从建成。
+兄弟姐妹啊，让天空相连，让陆地相连，让海洋相连。
+唯有找到正确的道路，方能点燃圣火践行“<color=#ffd12f>联结</color>”之教义。","Trust thy neighbor, else land will stay fallow. Unite the isles, else levees will stay unbuilt.
 
-Mẫu vật này được đặt tên là Vân Văn Thạch, có cấu trúc chặt chẽ, độ cứng và cường độ chịu nén cao, tính ổn định hóa học tốt, có thể thích ứng với biến đổi nhiệt độ khắc nghiệt.
-Vân Văn Thạch phân bố rộng rãi trong Vân Lăng Cốc, hình thành quy mô lớn, do đó khai thác thuận tiện, dễ lấy khối lớn, là nguyên liệu xây dựng tuyệt vời, có thể dùng để xây tượng lớn, tường ngoài nhà, lát nền cứng...
+Brothers and sisters, let the sky, the land, and the seas be united.
 
-<i>Ghi chú: Dùng cho xây dựng thành Kim Châu, tu sửa tượng Tuế Chủ.</i>"
-lang_multi_text.db,MultiText,InfoDisplay_11040137_Title,云纹石实验报告,Experiment Report on Moire Stone,Báo cáo thí nghiệm Vân Văn Thạch
-lang_multi_text.db,MultiText,InfoDisplay_11040138_Text,"工作概况：初步完成了勘探单元分布图的测绘，可大致确定通往瑝珑关内的新通路修筑方位。采集影像信息时遭遇了小规模残象袭击，夜归特种小队支援及时，勘测小队中仅两名队员受轻伤，但勘探设备受损严重。
-设备补给预计一周后抵达，在此之前全队将暂停所有勘探工作。","Work Overview: The initial phase of mapping for the distribution of the Exploration Units has been completed, allowing for a preliminary determination of the orientation for constructing a new route leading to the inner Huanglong. While collecting image data, the survey team encountered a small-scale onslaught of the Tacet Discords. As the special operation forces of the Midnight Rangers provided timely support, only two team members sustained minor injuries. However, the exploration equipment suffered heavy damage.
-<i>New equipment is scheduled to arrive one week from now. Until then, all exploration activites will be temporarily suspended.</i>","Tổng quan công việc: Đã hoàn thành sơ bộ việc đo vẽ bản đồ phân bố đơn vị thăm dò, có thể xác định đại khái phương hướng xây dựng tuyến đường mới dẫn vào bên trong Hoàng Long Quan. Khi thu thập hình ảnh đã gặp phải cuộc tấn công quy mô nhỏ của Tàn Tượng, đội đặc nhiệm Dạ Quy hỗ trợ kịp thời, đội thăm dò chỉ có hai thành viên bị thương nhẹ, nhưng thiết bị thăm dò bị hư hại nặng.
-Dự kiến vật tư bổ sung sẽ đến sau một tuần, trước đó toàn đội sẽ tạm dừng mọi công việc thăm dò."
-lang_multi_text.db,MultiText,InfoDisplay_11040138_Title,《勘探选址工作报告 · 其一》,Work Report on Exploration Site Selection-Part One,"""Báo Cáo Công Tác Thăm Dò Chọn Địa Điểm - Phần Một"""
-lang_multi_text.db,MultiText,InfoDisplay_11040139_Text,"内容：今天队长又来找我谈话了，他希望我作为技术骨干能给出一个具有决断性的意见——是否还能如期完成勘探工作。我和他，甚至是所有人都明白第二条长途运输线的开凿是至关重要的，这条通路将以今州为始，途径云陵谷通向瑝珑关内其余的一庭五州，今州亦需要与瑝珑的其它地域更密切地、更便捷地往来。说句不好听的，万一未来其中一条运输线出现了什么状况，我们还能指望另外一条，不至于孤立无援。
+The path to righteousness is lit by the sacred fire of <color=#ffd12f>Unity</color>.","Nếu hàng xóm không thể tin tưởng nhau, thì đất đai chẳng thể khai khẩn; nếu các hòn đảo không thể liên kết, thì đê đập chẳng thể dựng xây.
+Hỡi các anh chị em, hãy để bầu trời kết nối, để mặt đất kết nối, để đại dương kết nối.
+Chỉ khi tìm được con đường đúng đắn, mới có thể thắp lên ngọn lửa thánh thực hiện giáo lý ""<color=#ffd12f>Liên Kết</color>""."
+lang_multi_text.db,MultiText,InfoDisplay_109000001_Title,破旧的石碑,Weathered Stele,Tấm bia đá cũ nát
+lang_multi_text.db,MultiText,InfoDisplay_109000002_Text,"我们征服大地，在高山上建造了不落之城。
+从始至终，声骸都是我们最忠勇的伙伴。
+勇敢的黎那汐塔人，未来的战士们啊。
+向此碑展现力量与忠勇吧。
+<color=#ffd12f>最初是至强无匹的狮子</color>，
+<color=#ffd12f>最后是至死不渝的骑士</color>。
+我们留下的一切，终将为你开启。","We have conquered the land and built an impenetrable fortress upon the mountain’s crown.
+From the very beginning, the Echoes stood with us—loyal, unyielding, and true.
+O Brave people of Rinascita, future warriors. Let this monument bear witness to your courage.
+<color=#ffd12f>In the beginning is the lion, peerless in might.</color>
+<color=#ffd12f>In the end is the knight, faithful to the last breath.</color>
+What we leave behind will one day rise again through you.","Chúng ta chinh phục mặt đất, xây dựng tòa thành bất diệt trên núi cao.
+Từ đầu đến cuối, Thanh Hài đều là người bạn đồng hành trung dũng nhất của chúng ta.
+Hỡi người dân Rinascita dũng cảm, những chiến binh tương lai.
+Hãy thể hiện sức mạnh và lòng trung dũng trước tấm bia này.
+<color=#ffd12f>Khởi đầu là sư tử dũng mãnh vô song</color>,
+<color=#ffd12f>Kết thúc là kỵ sĩ trung thành đến chết</color>.
+Tất cả những gì chúng tôi để lại, cuối cùng sẽ mở ra vì bạn."
+lang_multi_text.db,MultiText,InfoDisplay_109000002_Title,七丘之柱神,Divinity of Septimont,Thần Trụ Bảy Ngọn Đồi
+lang_multi_text.db,MultiText,InfoDisplay_109000003_Text,"“直到最后，也没能找到所谓龙的力量……
+作为第十七代家主的骑士，既没能守护好约定之人，也没能完成她那救赎家族的遗愿。
+一事无成，客死他乡……何其失败的人生啊。”","""Even in the end… I never found the so-called power of the dragon.
+As the knight who served the 17th head of the family, I failed to protect the one I swore to. I failed to fulfill her wish, to redeem her family's name.
+I achieved nothing. Died in a foreign land... Ha, what a pitiful, wasted life.""","""Cho đến cuối cùng, cũng chẳng thể tìm thấy cái gọi là sức mạnh của rồng...
+Là kỵ sĩ của gia chủ đời thứ mười bảy, ta đã không thể bảo vệ người đã ước hẹn, cũng chẳng thể hoàn thành di nguyện cứu rỗi gia tộc của cô ấy.
+Chẳng làm được trò trống gì, bỏ mạng nơi đất khách quê người... Một cuộc đời thất bại làm sao."""
+lang_multi_text.db,MultiText,InfoDisplay_109000003_Title,翡萨烈骑士的手札,Fisalia Knight's Letter,Sổ tay của kỵ sĩ Fisalia
+lang_multi_text.db,MultiText,InfoDisplay_10900002_Text,"一、实验目的
+1.研究孢子原液提取的可行性。 
+2.研究不同浓度孢子的效果的不同。
+二、实验材料 
+猩猩，未感染体和感染体各1，2只/组。1ml注射器、生理盐水。 
+三、实验步骤 
+1、每组体重相近猩猩2只，称重，编号； 
+2、抽取感染体孢子原液，与生理盐水混合，制作成0.2%、0.4%、0.8%浓度，按组分类。 
+3、将不同浓度的原液分别注射进未感染体，给药后仔细观察样本活动情况，并记录在表。 
+4、实验结束后，对实验结果进行统计分析，并得出结论。 
+四、实验结论 
+1、孢子原液提取过程会产生58%左右的损耗，但仍然可以提取。 
+2、0.4%浓度的原液效果最佳，但具体效果或因给药对象有异，需进一步验证。  
 
-近期监测表明，云陵谷周边随时可能有无音区出现，但我们已经走到了这一步。如果就此停下，这些年来的成果将会付诸东流，但如果再进一步，赔进去的也许就是队员的性命……","Today, the captain had another discussion with me. He hoped that, as a technical backbone, I could provide a decisive opinion on whether the exploration work could still be completed as scheduled. Both he and I, and even everyone else, understand the importance of excavating the second long-distance transportation route. This route, starting from Jinzhou, passes through the Gorges of Spirits to connect the remaining areas in Huanglong. It is important for Jinzhou to have closer and more convenient interactions with other territories in Huanglong. To put it bluntly, in case there are issues with one transportation route in the future, we can still rely on the other, avoiding falling into a desperate situation.
+批注：取得阶段性成果，准许将实验对象更换为人类。","I. Objectives
+1. Assess the feasibility of spore essence extraction.
+2. Investigate the diverse effects of spores at different concentrations.
+II. Materials
+Hoochiefs, with one uncontaminated and one contaminated specimen per group; 1ml syringe, saline solution.
+III. Procedure
+1. Group two Hoochiefs with similar body weights, weigh them, and assign unique identifiers.
+2. Extract spore essence from contaminated individuals, blend it with saline solution, and establish concentrations of 0.2%, 0.4%, and 0.8%, categorized by groups.
+3. Administer various concentrations of the spore extracts to uncontaminated individuals, observe their activity, and record findings.
+4. After completing the experiment, conduct statistical analysis on the results and formulate conclusions.
+IV. Conclusions
+1. The spore essence extraction process results in approximately 58% loss, but extraction remains viable.
+2. The 0.4% concentration of the extract exhibits the optimal effect, although outcomes may differ based on subjects and necessitate further validation.
 
-Recent monitoring indicates the potential emergence of Tacet Fields around the Gorges of Spirits at any time, but we can't stop now as we have already come this far. If we stop now, all our hard-earned achievements will be in vain. However, if we don't stop, we may risk the lives of our team members.","Nội dung: Hôm nay đội trưởng lại đến nói chuyện với tôi, anh ấy mong tôi với tư cách là trụ cột kỹ thuật có thể đưa ra một ý kiến quyết định - liệu có thể hoàn thành công tác thăm dò đúng hạn hay không. Tôi và anh ấy, thậm chí tất cả mọi người đều hiểu rằng việc khai mở tuyến vận chuyển đường dài thứ hai là vô cùng quan trọng. Tuyến đường này sẽ bắt đầu từ Kim Châu, đi qua Vân Lăng Cốc hướng vào bên trong Hoàng Long Quan đến một đình năm châu còn lại. Kim Châu cũng cần giao lưu mật thiết và thuận tiện hơn với các vùng khác của Hoàng Long. Nói thẳng ra, lỡ trong tương lai một trong hai tuyến vận chuyển gặp vấn đề, chúng ta vẫn còn tuyến kia để dựa vào, không đến nỗi bị cô lập.
+Note: Achieved interim success. Transitioning the experimental subjects to humans is authorized.","I. Mục đích thí nghiệm
+1. Nghiên cứu tính khả thi của việc chiết xuất dung dịch bào tử gốc.
+2. Nghiên cứu sự khác biệt về hiệu quả của các nồng độ bào tử khác nhau.
+II. Vật liệu thí nghiệm
+Tinh tinh, cá thể chưa nhiễm và đã nhiễm mỗi loại 1 con, 2 con/nhóm. Ống tiêm 1ml, nước muối sinh lý.
+III. Các bước thí nghiệm
+1. Mỗi nhóm 2 con tinh tinh có trọng lượng tương đương, cân trọng lượng, đánh số;
+2. Hút dung dịch bào tử gốc từ cá thể đã nhiễm, trộn với nước muối sinh lý, pha chế thành nồng độ 0.2%, 0.4%, 0.8%, phân loại theo nhóm.
+3. Tiêm dung dịch gốc có nồng độ khác nhau vào cá thể chưa nhiễm, sau khi tiêm thuốc quan sát kỹ tình hình hoạt động của mẫu vật và ghi vào bảng.
+4. Sau khi kết thúc thí nghiệm, tiến hành thống kê phân tích kết quả thí nghiệm và đưa ra kết luận.
+IV. Kết luận thí nghiệm
+1. Quá trình chiết xuất dung dịch bào tử gốc sẽ phát sinh hao hụt khoảng 58%, nhưng vẫn có thể chiết xuất được.
+2. Dung dịch gốc nồng độ 0.4% có hiệu quả tốt nhất, nhưng hiệu quả cụ thể có thể khác nhau tùy theo đối tượng tiêm thuốc, cần kiểm chứng thêm.
 
-Theo dõi gần đây cho thấy Vùng Vô Thanh có thể xuất hiện bất cứ lúc nào quanh Vân Lăng Cốc, nhưng chúng ta đã đi đến bước này rồi. Nếu dừng lại ở đây, thành quả bao năm sẽ đổ sông đổ biển, nhưng nếu tiến thêm một bước, cái giá phải trả có thể là mạng sống của anh em..."
-lang_multi_text.db,MultiText,InfoDisplay_11040139_Title,《勘探选址工作报告 · 其二》,Work Report on Exploration Site Selection-Part Two,"""Báo Cáo Công Tác Thăm Dò Chọn Địa Điểm - Phần Hai"""
-lang_multi_text.db,MultiText,InfoDisplay_11040140_Text,"<b>【最新公告】</b>  
-内容：因近期有天空海聚集趋势、周边频率异常等特殊情况，二号运输线修筑工程即日起停工，天工及夜归全员立即撤出，工程重启时间待定。","<b>Latest Notice</b>
-Due to recent trends of the Etheric Sea converging and abnormal frequencies in the proximity, construction of the second transportation route is hereby suspended with immediate effect. All members of the Ministry of Development and the Midnight Rangers are to evacuate immediately, and the restart date is yet to be determined.","<b>[Thông báo mới nhất]</b>  
-Nội dung: Do gần đây có xu hướng Thiên Không Hải tụ tập, tần số xung quanh bất thường và các tình huống đặc biệt khác, công trình xây dựng tuyến vận chuyển số 2 sẽ ngừng thi công kể từ hôm nay. Toàn bộ nhân sự Thiên Công và Dạ Quy lập tức rút lui, thời gian tái khởi công chưa xác định."
-lang_multi_text.db,MultiText,InfoDisplay_11040140_Title,营地公告,Camp Notice,Thông báo doanh trại
-lang_multi_text.db,MultiText,InfoDisplay_11040141_Text,"【通讯器的杂音——】
-昨天和家里通讯，女儿嘀咕了好几次想看大瀑布和大乌龟，还想亲眼看！还非得去现场看！
-我的小祖宗啊……讨价还价了大半天，她才同意只看看照片。
-说来奇怪，这里竟然没有其它残象的出现，多半是因为湖里有个大家伙坐镇吧。
-我也得小心点，别惊动了它。","[Interference in Communication]
-Yesterday, while on a video call with my daughter, she couldn't stop talking about how badly she wanted to see the grand waterfall and the giant turtle in person! Oh, my little one. It took some serious negotiating to convince her that looking at photos would be just as thrilling.
-Oddly enough, I haven't spotted any other Tacet Discords around here, probably because there's a big boss reigning over the lake.
-I need to be cautious not to disturb it.","[Tạp âm từ máy liên lạc...]
-Hôm qua liên lạc với nhà, con gái cứ lẩm bẩm mấy lần muốn xem thác nước lớn và con rùa khổng lồ, lại còn đòi tận mắt xem! Nhất định phải đến tận nơi xem!
-Trời ơi cô nương nhỏ của tôi... mặc cả nửa ngày, con bé mới chịu đồng ý chỉ xem ảnh thôi.
-Nói cũng lạ, ở đây lại không thấy Tàn Tượng nào khác xuất hiện, chắc là nhờ có con lớn ngồi trấn dưới hồ.
-Tôi cũng phải cẩn thận, đừng kinh động nó mới được."
-lang_multi_text.db,MultiText,InfoDisplay_11040141_Title,云陵谷调查报告,Investigation Report on the Gorges of Spirits,Báo cáo điều tra Vân Lăng Cốc
-lang_multi_text.db,MultiText,InfoDisplay_11040142_Text,"【本期剧院精选】
+Ghi chú: Đã đạt được thành quả giai đoạn, cho phép thay đổi đối tượng thí nghiệm sang con người."
+lang_multi_text.db,MultiText,InfoDisplay_10900002_Title,实验报告,Experiment Report,Báo cáo thí nghiệm
+lang_multi_text.db,MultiText,InfoDisplay_10900003_Text,虽然好不容易从破洞出来，但哥几个要回洞了！这回可不能叫破洞，得叫好洞，家洞！以后这洞就是咱哥几个的家了！,"Finally got out of that old cave, but we're moving to a new cave now! This time, it's not just any old cave—it's a nice one, a cozy home cave! From now on, this cave is our home!","Tuy khó khăn lắm mới chui ra khỏi cái hang rách nát, nhưng mấy anh em lại sắp quay về hang rồi! Lần này không được gọi là hang rách nữa, phải gọi là hang xịn, hang nhà! Sau này cái hang đó chính là nhà của anh em chúng ta!"
+lang_multi_text.db,MultiText,InfoDisplay_10900003_Title,猫三日记,Maosan's Diary,Nhật ký Mèo Ba
+lang_multi_text.db,MultiText,InfoDisplay_10900004_Text,"螺母 一筐
+看不懂的零件 十二个
+看不懂的书  五本
+……
+这些红衣人留下的东西真多，嘿嘿，发财咯！","Nuts-1 Basket
+Unreadable Parts-12
+Unreadable Books-5
+…
+They left a ton of stuff behind! We're about to hit the jackpot!","Ốc vít - một giỏ
+Linh kiện không hiểu là gì - mười hai cái
+Sách đọc không hiểu - năm quyển
+...
+Mấy tên áo đỏ này để lại nhiều đồ thật, hì hì, phát tài rồi!"
+lang_multi_text.db,MultiText,InfoDisplay_10900004_Title,狗四便条,Gousi's Note,Mẩu giấy của Chó Bốn
+lang_multi_text.db,MultiText,InfoDisplay_10900005_Text,"洞里那些个猿猴，好像都回森林里去了。
+也好，这地方就留给咱兄弟好好过日子吧，哈哈哈！","Looks like the Hoochiefs in the cave went back to the forest. Well, let this place be our fresh start to the good life, hahaha!","Mấy con vượn trong hang hình như đều về rừng hết rồi.
+Cũng tốt, chỗ này để lại cho anh em ta sống thoải mái, ha ha ha!"
+lang_multi_text.db,MultiText,InfoDisplay_10900005_Title,龙二笔记,Note of Long'er,Ghi chép của Long Hai
+lang_multi_text.db,MultiText,InfoDisplay_10900006_Text,"过去，曾经有人告诉过我一个传说，只要和最重要的人完成这个传说，那么这份感情就会得到上天的祝福，至死不渝。
+过去，曾经也有人愿意牵起我的手，但我错过了这一切，完全无视了对方的心意，我一直觉得我们不过是彼此人生的过客。
+直到我老去，直到双手低垂什么也抓不住，直到双眼模糊什么也看不清，活着的意义已经所剩无几。
+但唯独过去的遗憾让我无法坦然面对注定会到来的死亡，我有无论如何都想要完成的事情。
+我想要寻找记忆中我们约定相遇的地方，去完成这个传说——即便我早已错过，但年轻人们，你们不一样……你们还有机会，去握紧身边的那个重要的人。
+所以我拜托先行公约的那位小姐，为我张贴这则告示，将这个可能已经没人知道的传说告诉大家，希望有人能够解开这个谜题：
+<b>共游此夜，明月已过半
+今州登高，游星荡屏庭
+执手相携，与子沐心湖
+星心相印，刹那共永远</b>","As I grow old and reflect on my life, I am haunted by the regret of not fulfilling a legend someone once told me. They said that if the most important person in your life is willing to fulfill this legend, your relationship will be blessed by the heavens until death do you part. I missed my chance and have always felt like we were just passing through each other's lives.
+But now, as I face my impending death with only regrets, I feel compelled to find the place where we promised to meet and fulfill the legend. Even though it may be too late for me, I hope this notice can reach young people who still have a chance to hold onto their loved ones. So please, kind lady at the Pioneer Association, share this unknown legend and perhaps someone can finally solve its mystery.
+<b>Under the crescent moon, we roam
+On a screen court, stars dance and moan
+Timeless, by this heart-shaped lake
+Together, hand in hand we take
+Starry-eyed, our love shall never break.</b>","Ngày xưa, từng có người kể cho tôi nghe một truyền thuyết, chỉ cần cùng người quan trọng nhất hoàn thành truyền thuyết này, thì tình cảm ấy sẽ được ông trời chúc phúc, đến chết cũng không đổi thay.
+Ngày xưa, cũng từng có người nguyện nắm lấy tay tôi, nhưng tôi đã bỏ lỡ tất cả, hoàn toàn phớt lờ tâm ý của đối phương, tôi luôn cảm thấy chúng tôi chẳng qua chỉ là khách qua đường trong đời nhau.
+Cho đến khi tôi già đi, cho đến khi đôi tay buông thõng chẳng nắm được gì, cho đến khi đôi mắt mờ đục chẳng nhìn rõ gì, ý nghĩa sống đã chẳng còn lại bao nhiêu.
+Nhưng duy chỉ có sự hối tiếc trong quá khứ khiến tôi không thể thản nhiên đối mặt với cái chết định mệnh, tôi có việc dù thế nào cũng muốn hoàn thành.
+Tôi muốn tìm lại nơi chúng tôi đã hẹn gặp trong ký ức, để hoàn thành truyền thuyết này... dẫu cho tôi đã bỏ lỡ từ lâu, nhưng hỡi những người trẻ tuổi, các bạn thì khác... các bạn vẫn còn cơ hội, hãy nắm chặt lấy người quan trọng bên cạnh mình.
+Vì vậy tôi nhờ cô gái ở Hiệp Ước Tiên Phong dán cáo thị này giúp tôi, kể cho mọi người nghe về truyền thuyết có lẽ đã không còn ai biết đến này, hy vọng có người có thể giải được câu đố:
+<b>Cùng du đêm nay, trăng sáng đã quá bán
+Lên cao Kim Châu, sao bay vờn sân bình
+Nắm tay dắt dìu, cùng người tắm hồ tâm
+Sao tim in dấu, khoảnh khắc hóa vĩnh hằng</b>"
+lang_multi_text.db,MultiText,InfoDisplay_10900006_Title,最后的心愿,Last Wish,Tâm nguyện cuối cùng
+lang_multi_text.db,MultiText,InfoDisplay_10900007_Text,"在接到先行公约的这份邀约后，我思来想去，最终还是决定走遍今州的大街小巷，重新尝遍今州的每一道菜。在寻味的过程中，还是有很多让我感到惊喜的地方，这些惊喜最终连缀成这本小册，让我绘制出属于今州城的美食地图。如果你看到这本书的时候，会萌生出一些“我也想去试试”的想法，那真是再好不过！尽情去尝试就好，美食的意义，就在于尝到嘴边、吃进肚中的一刻！
+<color=Highlight>攀花饭馆</color>：☆☆☆☆☆
+写这本册子的时候，我正坐在攀花饭馆的小座听着周围聊着家长里短。有位巡尉似乎刚下班，火急火燎地跑进来，点上一份香汁鸡、一份凉拌香苏和一份冒菜。接着，她的小蓝帽朋友和冷冰冰朋友走了进来，她们坐在一起，开始聊自己的生活趣事，那位巡尉还分享了自己作为社区民警的一天，最让我印象深刻的还是她跟一个难过的小女孩大讲英雄戏，结果两人成了好朋友的故事。要想在吃饭的时候有个轻松、热闹的氛围，攀花饭馆一定是最好的选择！
+写到这里，我点的香汁鸡也上了，这香汁鸡看上去淡而无味，但要是将肉浸入攀花饭店特制的香汁里搅过，让酱汁充分浸入到肉的油脂部位，一口下去，肉汁迸溅在口中，鲜香四溢。而搭配的青菜也是刚炒过的，被精心择过的菜叶还呈现出翠绿的颜色，表面上滚过一层薄薄的、还在跳动的油珠。搭配店里特烹的颗颗饱满珠圆玉润的米饭一起吃下，美味、美味、美味！
+我还要再点上一盘！
+<color=Highlight>珍宝糖水</color>：☆☆☆☆
+噗噗咩咩好喝到好耶！珍宝糖水！要说这今州菜和糖水啊还是会分装到两个胃里，今州菜在左，那糖水一定在右！而糖水去哪喝——我会推荐珍宝糖水。毕竟，这珍宝糖水已经是三十多年的老字号了，还是这样好喝不贵！写着写着，我终于排到队，刚点上一杯新出的买一送一款糖水！据说这是因为前几天有对恩爱小情侣来店里喝糖水，刚好二人在庆祝生日，老板高兴就送上一杯特调，二人喝过后连声称赞，老板就顺势推出了这款新品——不过，像我这样一个人来喝糖水的，拿着两杯还是会难过。糖水好买，朋友难求啊。这香甜好喝的糖水，只好我一人满满喝下啦！
+<color=Highlight>六羡茶馆</color>：☆☆☆☆
+要想吃茶谈天，最好去六羡茶馆；要想进行勇气的挑战，也最好去六羡茶馆。六羡茶馆的金铃子茶，苦得分明，苦得让人怀疑人生。不过，这金铃子茶虽苦，但入口久后却感受到些许的回甘，实在是让人……印象深刻。
+而且，相较于攀花饭馆的热闹，六羡茶馆要悠哉很多。在这里拿把躺椅，支把蒲扇，满上杯滚茶，悠悠哉坐上半天，看云卷云舒，人走车往，好不惬意。
+<color=Highlight>边庭料理</color>：☆☆☆☆☆
+……","I recently received an invitation from the Pioneer Association to explore the culinary delights of Jinzhou. Eager to embark on this food journey, I wandered through the city's streets, savoring every dish the city has to offer. My journey led me to uncover delightful surprises that have now come together to form this unique booklet—a comprehensive food map of Jinzhou. I hope that as you read these pages, you will feel inspired to embark on your own food exploration—then my hard work is worth it. For it is in the moment when flavors dance upon your taste buds, igniting a symphony of sensations that resonate deep within, that the true essence of these delicacies lies.
+<color=Highlight>Panhua's Restaurant</color>, rating: ☆☆☆☆☆
+While writing this booklet, I found myself seated at a small table at Panhua's Restaurant, enveloped by the vibrant buzz of lively conversations. It was here that I witnessed a heartwarming gathering involving a Patroller who had just completed her duty, her friend wearing a blue beret, and another friend in an icy demeanor. Before the Patroller could sit down, she swiftly placed an order for Poached Chicken, Perilla Salad, and Maocai before being joined by her friends. They shared anecdotes with each other, and the vivid expressions and gestures of that Patroller made the atmosphere even more lively. This experience makes me confident that Panhua's Restaurant has the ability to provide a relaxing and spirited dining environment, making it a standout choice for any culinary enthusiast.
 
-“万里旌旗战兵燹，孤枪一胆破残月。”
-——回梦今昔，穿越时空，沉浸式剧目《孤光满弓刀》即将上演。
+As I penned these words, the Poached Chicken arrived at my table. While the chicken itself appeared flat, when immersed in the restaurant's specially crafted sauce, it provides an unforgettable flavor. As I savored each bite, the meat juices burst forth, accompanied by a fresh aroma that lingered in the mouth. The accompanying vegetables, stir-fried to perfection, boasted a vibrant green, complemented by sizzling oil droplets. Paired with tender and fluffy rice, the dish left me with only one word in my mind—""delicious"". 
+
+So I couldn't resist having another serving:)
+<color=Highlight>Jewel Boba</color>, rating: ☆☆☆☆
+I found myself longing for more as I savored the delightful Jewel Boba, each sip leaving me yearning for another taste. If I had a second stomach dedicated solely to desserts, there's no doubt it would be reserved for the delicious dessert soup offered here in Jinzhou.. And if I were to recommend just one, Jewel Boba would undoubtedly be my top choice. Boasting over thirty years of renowned excellence, this sweet treat remains as delicious and affordable as ever.
+During my visit, I ordered the new buy-one-get-one-free dessert soup. The owner told me that its launch was inspired by a happy couple celebrating their anniversary at the shop—the owner, pleased with their happiness, presented them with a specially made drink. As the couple highly praised its taste, the owner decided to share its taste to more customers. After listening to this warm story, I, who was holding two cups alone, couldn't shake the bitterness of coming here alone. Luckily, the sweetness of the Jewel Boba somewhat lifted my spirits.
+<color=Highlight>Liuxian Teahouse</color>, rating: ☆☆☆☆
+Liuxian Teahouse boasts its Bittberry Tea with distinctive bitterness, which forces you to question everything with a single sip. However, beneath the initial shock, a subtle sweetness emerges, with great persistence in the mouth. 
+Unlike the bustling Panhua's Restaurant, Liuxian Teahouse provides a tranquil atmosphere where one can recline in a chair, fan in hand, and while away the hours immersed in the peaceful embrace of life unfolding around them.
+<color=Highlight>Borderland Cuisine</color>, rating: ☆☆☆☆☆
+...","Sau khi nhận được lời mời từ Hiệp Ước Tiên Phong, tôi suy đi tính lại, cuối cùng vẫn quyết định đi khắp các hang cùng ngõ hẻm của Kim Châu, nếm lại từng món ăn của Kim Châu. Trong quá trình tìm kiếm hương vị, vẫn có rất nhiều điều khiến tôi bất ngờ, những bất ngờ này cuối cùng kết nối thành cuốn sổ nhỏ này, để tôi vẽ nên bản đồ ẩm thực thuộc về thành Kim Châu. Nếu khi bạn đọc cuốn sách này và nảy sinh suy nghĩ ""tôi cũng muốn đi thử xem sao"", thì thật là tuyệt vời! Cứ thỏa thích đi thử thôi, ý nghĩa của ẩm thực chính là ở khoảnh khắc nếm nơi đầu môi, ăn vào trong bụng!
+<color=Highlight>Tiệm Cơm Phan Hoa</color>: ☆☆☆☆☆
+Lúc viết cuốn sổ này, tôi đang ngồi ở một góc nhỏ trong Tiệm Cơm Phan Hoa nghe mọi người xung quanh tán gẫu chuyện nhà cửa. Có một vị Tuần Úy dường như vừa tan làm, vội vội vàng vàng chạy vào, gọi một phần Gà Sốt Thơm, một phần Nộm Tía Tô và một phần Mạo Thái. Tiếp đó, cô bạn mũ xanh và cô bạn lạnh lùng của cô ấy bước vào, họ ngồi cùng nhau, bắt đầu kể về những chuyện thú vị trong cuộc sống của mình. Vị Tuần Úy kia còn chia sẻ về một ngày làm cảnh sát khu vực của mình, điều khiến tôi ấn tượng nhất vẫn là câu chuyện cô ấy thao thao bất tuyệt về kịch anh hùng với một cô bé đang buồn bã, kết quả hai người trở thành bạn tốt. Muốn có một bầu không khí thoải mái, náo nhiệt khi ăn cơm, Tiệm Cơm Phan Hoa chắc chắn là lựa chọn tốt nhất!
+Viết đến đây, món Gà Sốt Thơm tôi gọi cũng đã lên rồi. Món gà này trông có vẻ nhạt nhẽo vô vị, nhưng nếu nhúng thịt vào nước sốt đặc chế của tiệm Phan Hoa khuấy đều, để nước sốt thấm đẫm vào phần mỡ của thịt, cắn một miếng, nước thịt bắn ra trong miệng, hương thơm tươi mới tràn trề. Còn rau xanh ăn kèm cũng vừa mới xào xong, những lá rau được nhặt kỹ lưỡng vẫn giữ màu xanh ngọc bích, trên bề mặt phủ một lớp dầu mỏng còn đang nhảy nhót. Ăn kèm với cơm trắng hạt nào hạt nấy tròn trịa căng mọng do tiệm nấu đặc biệt, ngon, ngon, ngon quá đi mất!
+Tôi phải gọi thêm một đĩa nữa mới được!
+<color=Highlight>Chè Trân Bảo</color>: ☆☆☆☆
+Ực ực ngon tuyệt cú mèo! Chè Trân Bảo! Phải nói là món ăn Kim Châu và chè ngọt vẫn cứ là chia vào hai cái dạ dày, món Kim Châu ở bên trái, thì chè ngọt nhất định ở bên phải! Mà chè thì đi đâu ăn - tôi sẽ đề xuất Chè Trân Bảo. Dù sao thì, Chè Trân Bảo này đã là thương hiệu lâu đời hơn ba mươi năm rồi, vẫn cứ ngon mà rẻ như vậy! Viết mãi viết mãi, cuối cùng tôi cũng xếp hàng tới nơi, vừa gọi một ly chè loại mới ra mắt mua một tặng một! Nghe nói là vì mấy hôm trước có cặp đôi ân ái đến quán ăn chè, đúng lúc hai người đang mừng sinh nhật, ông chủ vui vẻ tặng một ly đặc biệt, hai người uống xong khen nức nở, ông chủ liền thuận thế tung ra món mới này... Có điều, người đi ăn chè một mình như tôi, cầm hai ly vẫn thấy hơi buồn. Chè dễ mua, bạn hiền khó kiếm a. Ly chè thơm ngon ngọt ngào này, đành để một mình tôi uống cạn vậy!
+<color=Highlight>Trà Quán Lục Tiễn</color>: ☆☆☆☆
+Muốn uống trà đàm đạo, tốt nhất hãy đến Trà Quán Lục Tiễn; muốn thử thách lòng dũng cảm, cũng tốt nhất hãy đến Trà Quán Lục Tiễn. Trà Kim Linh Tử của Trà Quán Lục Tiễn, đắng rõ mồn một, đắng đến mức khiến người ta hoài nghi nhân sinh. Có điều, trà Kim Linh Tử này tuy đắng, nhưng uống vào lâu sau lại cảm nhận được chút vị ngọt hậu, thực sự khiến người ta... ấn tượng sâu sắc.
+Hơn nữa, so với sự náo nhiệt của Tiệm Cơm Phan Hoa, Trà Quán Lục Tiễn thong thả hơn nhiều. Ở đây lấy cái ghế nằm, cầm cái quạt nan, rót đầy chén trà nóng, thong dong ngồi cả buổi, ngắm mây trôi mây tan, người xe qua lại, thật là dễ chịu.
+<color=Highlight>Ẩm Thực Biên Đình</color>: ☆☆☆☆☆
+..."
+lang_multi_text.db,MultiText,InfoDisplay_10900007_Title,《墨麒麟餐饮指南·享味今州·寻味篇》,Mochelin Dining Guide: Tasty Jinzhou - Food Exploration,"""Cẩm nang Ẩm thực Mặc Kỳ Lân - Thưởng vị Kim Châu - Phần Tìm Vị"""
+lang_multi_text.db,MultiText,InfoDisplay_10900008_Text,"小龙包、今州烩、星星酥……在推荐这些所有今州特色的美食之前，我最想推荐的还是龙抬头这道今州传统名菜。
+<color=Highlight>龙抬头</color>，推荐指数：☆☆☆☆☆
+要是来今州旅行，最不能错过的名菜就是——龙抬头！这道菜菜身金黄焦香，制作起来工序复杂，要做的就是这鲤鱼望天、似有化龙之愿的景象！毕竟，这道菜所描绘的是传说中的角宿苏醒之时的场面。相传当角宿苏醒之时，沉鳞竞相越过水面，这可是大吉兆啊！相信来今州旅行的朋友大多想要讨个好彩头，所以这龙抬头，非吃不可！
+……
+<color=Highlight>戍边粮</color>，推荐指数：☆☆☆
+虽然只给了三颗星，但这道菜对今州的意义大过了味道本身。戍边粮最大的特点就是便捷、方便且热量充足，能够供应到前线每一个正在浴血奋战的将士手中。
+最重要的是，每一份戍边粮都附有留言，这些留言是今州人民对于在前线浴血奋战的将士们的思念、祝愿和感谢。
+长夜虽然漫漫无边，但今州始终就在身后。将士们以身守护背后今州，而今州，就成了将士们最坚实的护盾。","Loong Buns, Jinzhou Stew, Star Flakes... Before delving into the numerous specialties of Jinzhou, let me introduce you to a time-honored dish—""Rising Loong"".
+<color=Highlight>Rising Loong</color>, rating: ☆☆☆☆☆
+For anyone exploring Jinzhou, tasting Rising Loong is a must. The dish presents itself with a captivating golden crispiness, with its preparation involving intricate steps to reproduce the scene where a carp looks up to the sky, aspiring to become a dragon. This dish narrates the awakening of Jué. Back then, countless carps leaped from the water to pay homage to it. It is an event seem auspicious by Jinzhou people. Therefore, if you seek good fortune, don't miss the chance to savor Rising Loong!
+
+<color=Highlight>Food Ration Bar</color>, rating: ☆☆☆
+Although I've given it only three stars, the significance of Food Ration Bar goes beyond its taste. Its major characteristic lies in its convenience, accessibility, and ample nutritional value, making it available for every soldier who fights bravely and relentlessly on the frontlines.
+More importantly, each Food Ration Bar comes with a note, expressing Jinzhou people's thoughts, wishes, and gratitude to the soldiers who safeguard the peace and prosperity of Jinzhou.
+Even though countless challenges may lie ahead, Jinzhou and its people consistently stand in support of the soldiers. The soldiers courageously protect Jinzhou with their lives, and in return, Jinzhou becomes their steadfast shield.","Tiểu Long Bao, Hầm Kim Châu, Bánh Sao Giòn... Trước khi giới thiệu tất cả những món ngon đặc sắc này của Kim Châu, món tôi muốn giới thiệu nhất vẫn là món truyền thống nổi tiếng Kim Châu: Rồng Ngẩng Đầu.
+<color=Highlight>Rồng Ngẩng Đầu</color>, chỉ số đề xuất: ☆☆☆☆☆
+Nếu đến Kim Châu du lịch, món nổi tiếng không thể bỏ qua nhất chính là... Rồng Ngẩng Đầu! Món ăn này có màu vàng kim cháy cạnh thơm lừng, quy trình chế biến phức tạp, cái cần làm ra chính là cảnh tượng cá chép vọng trời, như có ý nguyện hóa rồng này! Dù sao thì, món ăn này mô tả cảnh tượng khi Giác Túc trong truyền thuyết thức tỉnh. Tương truyền khi Giác Túc thức tỉnh, loài cá thi nhau vượt khỏi mặt nước, đây là điềm đại cát đấy! Tin rằng các bạn đến Kim Châu du lịch đa phần đều muốn cầu may mắn, cho nên món Rồng Ngẩng Đầu này, nhất định phải ăn!
+...
+<color=Highlight>Lương Khô Trấn Biên</color>, chỉ số đề xuất: ☆☆☆
+Tuy chỉ cho ba sao, nhưng ý nghĩa của món này đối với Kim Châu lớn hơn cả hương vị của nó. Đặc điểm lớn nhất của Lương Khô Trấn Biên là tiện lợi, dễ dùng và đủ năng lượng, có thể cung cấp đến tay mỗi chiến sĩ đang tắm máu chiến đấu ngoài tiền tuyến.
+Quan trọng nhất là, mỗi phần Lương Khô Trấn Biên đều kèm theo lời nhắn, những lời nhắn này là nỗi nhớ, lời chúc và lòng biết ơn của người dân Kim Châu đối với các chiến sĩ đang chiến đấu ngoài tiền tuyến.
+Đêm dài tuy mênh mông vô tận, nhưng Kim Châu vẫn luôn ở ngay phía sau. Các chiến sĩ dùng thân mình bảo vệ Kim Châu sau lưng, mà Kim Châu, chính là tấm khiên vững chắc nhất của các chiến sĩ."
+lang_multi_text.db,MultiText,InfoDisplay_10900008_Title,《墨麒麟餐饮指南·享味今州·美食篇》,Mochelin Dining Guide: Tasty Jinzhou - Food Exploration,"""Cẩm nang Ẩm thực Mặc Kỳ Lân - Thưởng vị Kim Châu - Phần Món Ngon"""
+lang_multi_text.db,MultiText,InfoDisplay_10900009_Text,"呜呜物流，使命必达！
+出门在外，想要吃到今州本帮菜？没问题，呜呜物流来帮你！
+人在今州，想要尝到六国特色菜？还是没问题，呜呜物流来帮你！
+呜呜物流，采用特色冷链技术，让你最爱的菜肴在运输过程中享受到最顶级的看护，让它到你面前的时候还保持着新鲜出炉的品质！
+放心，就用呜呜物流；特快，就用呜呜物流！
+———————————————————————
+健将健将：这是真的！之前我不在今州，但特想吃攀花饭馆的手撕鸡。思来想去抓耳挠腮家人们都汗流浃背了，最后叫了个呜呜物流小哥点了个外送，结果小哥忘取餐，但好心把我载到今州吃饭了！
+就是刷子：好家伙！坏消息：忘记取外卖了，好消息：把食客带到店里吃了是不？
+AAA新鲜食材批发：确实新鲜，放心！
+红绿灯灯灯：嘿嘿，咱办事你放心，咱说到做到！","We Promise, We Deliver—Lollo Logistics
+
+Away from Jinzhou and yearning for its specialties? Look no further–Lollo Logistics has got you covered!
+Staying in Jinzhou and craving specialties from the Six Countries? No problem–Lollo Logistics is here to help again!
+Picture this: when you open those take-out boxes, hot steam rises, carrying the aroma that wafts into your nostrils, igniting your appetite for these delights.
+For unrivaled quality and swift delivery, make the smart choice–choose Lollo Logistics!
+
+BodyBuilder: Totally! Wasn't in Jinzhou before, but I was craving Panhua's Restaurant's Pulled Chicken so bad. Every sec, min, hour, couldn't stop thinking about it, lost sleep over it. Finally gave in, called Lollo Logistics, and ordered takeout. However, the delivery guy forgot pickup, but drove me to Jinzhou for that Pulled Chicken!
+AM JUST A BRUSH: Hahaha! Bad News: Forgot to pick up the takeout; Good News: Ended up bringing the customer to the restaurant.
+AAA Fresh Ingredients Wholesaler: Definitely fresh. Trustworthy!
+Green Light Forever: Thanks, mate! You can count on us. We always keep our promises!","Vận Chuyển Ô Ô, sứ mệnh tất đạt!
+Đi xa nhà, muốn ăn món bản địa Kim Châu? Không thành vấn đề, Vận Chuyển Ô Ô giúp bạn!
+Người ở Kim Châu, muốn nếm thử đặc sản sáu nước? Vẫn không thành vấn đề, Vận Chuyển Ô Ô giúp bạn!
+Vận Chuyển Ô Ô, áp dụng công nghệ chuỗi cung ứng lạnh đặc sắc, để món ăn yêu thích của bạn được chăm sóc đẳng cấp nhất trong quá trình vận chuyển, để khi đến trước mặt bạn vẫn giữ được chất lượng như vừa mới ra lò!
+Yên tâm, cứ dùng Vận Chuyển Ô Ô; Tốc hành, cứ dùng Vận Chuyển Ô Ô!
+...
+Kiện Tướng Kiện Tướng: Cái này là thật đấy! Trước đây tôi không ở Kim Châu, nhưng cực kỳ muốn ăn gà xé phay của Tiệm Cơm Phan Hoa. Nghĩ đi nghĩ lại vò đầu bứt tai cả nhà đều toát mồ hôi hột, cuối cùng gọi một anh shipper Vận Chuyển Ô Ô đặt giao hàng, kết quả anh shipper quên lấy đồ ăn, nhưng lại có lòng tốt chở tôi đến tận Kim Châu ăn cơm luôn!
+Đúng Là Cái Cọ: Khá lắm! Tin xấu: Quên lấy đồ ship, tin tốt: Chở thực khách đến tận quán ăn luôn hả?
+AAA Bán Buôn Thực Phẩm Tươi Sống: Quả thực tươi ngon, yên tâm!
+Đèn Xanh Đèn Đỏ: Hì hì, bọn tôi làm việc bạn cứ yên tâm, nói được làm được!"
+lang_multi_text.db,MultiText,InfoDisplay_10900009_Title,呜呜物流，使命必达！,"We Promise, We Deliver—Lollo Logistics","Vận Chuyển Ô Ô, sứ mệnh tất đạt!"
+lang_multi_text.db,MultiText,InfoDisplay_10900010_Text,"今日份的每日清茶已到货，如有需要可随时领取。
+感谢为今州辛苦劳动的每一个人。","Today's daily refreshment tea has arrived. Feel free to collect it if needed.
+A thank you to the hard-working men and women of Jinzhou.","Trà thanh nhiệt mỗi ngày hôm nay đã về, nếu có nhu cầu có thể đến nhận bất cứ lúc nào.
+Cảm ơn mỗi người đang lao động vất vả vì Kim Châu."
+lang_multi_text.db,MultiText,InfoDisplay_10900010_Title,每日清茶发放公告,Refreshment Tea Distribution Notice,Thông báo phát trà thanh nhiệt mỗi ngày
+lang_multi_text.db,MultiText,InfoDisplay_10900011_Text,够活力，够劲爽！华胥研究院与天工联合研发的电解质功能饮料，让你精力充沛每一天！,Vibrant and refreshing! Energize your days with the electrolyte energy drink jointly developed by Huaxu Academy and the Ministry of Development!,"Đủ sức sống, đủ sảng khoái! Nước uống chức năng bổ sung điện giải do Viện Nghiên Cứu Hoa Tư và Bộ Thiên Công hợp tác nghiên cứu, giúp bạn tràn trề năng lượng mỗi ngày!"
+lang_multi_text.db,MultiText,InfoDisplay_10900011_Title,活力饮料海报,Energy Drink Poster,Poster nước uống tăng lực
+lang_multi_text.db,MultiText,InfoDisplay_10900012_Text,每天，在天还蒙蒙亮的时候，马和杂货的店主马和就已经开始了一天的工作。在接下来的几个小时里，他要准备今日要贩卖的食材。一年四季，时节不同，择选的蔬菜瓜果，也都有不同。马和是如何依据时节选择的食材百货，又是如何让这些新鲜食材送入千家万户？让我们收看今天的《走进今州》，本期节目将带你探访马和百货。,"Every morning, well before the sun graces the sky, Mahe, the owner of Mahe's Grocery, has already begun his work. Over the next few hours, he carefully prepares the ingredients for today's sale. With changing seasons come distinct selections of vegetables and fruits. How does Mahe choose seasonal ingredients, and how does he ensure them reaches households far and wide? Join us today on ""Meeting Jinzhou"", as this episode takes you on a visit to Mahe's Grocery.","Mỗi ngày, khi trời còn tờ mờ sáng, Mã Hòa - chủ tiệm Tạp Hóa Mã Hòa đã bắt đầu công việc của một ngày. Trong vài giờ tiếp theo, ông phải chuẩn bị nguyên liệu sẽ bán trong ngày hôm nay. Bốn mùa quanh năm, thời tiết khác nhau, rau củ quả được chọn lựa cũng đều khác nhau. Mã Hòa làm thế nào để chọn lựa nguyên liệu tạp hóa dựa theo mùa, và làm thế nào để đưa những nguyên liệu tươi ngon này đến với hàng ngàn hộ gia đình? Hãy cùng đón xem chương trình ""Đến Với Kim Châu"" hôm nay, kỳ này sẽ đưa bạn đến thăm Tạp Hóa Mã Hòa."
+lang_multi_text.db,MultiText,InfoDisplay_10900012_Title,走进今州·探访马和百货,Meeting Jinzhou: A Visit to Mahe's Grocery,Đến Với Kim Châu - Thăm Tạp Hóa Mã Hòa
+lang_multi_text.db,MultiText,InfoDisplay_11010101_Text,"【本期剧院精选】
+ 
+ 
+“见焦土好一似孤村旧梦，
+不由我知来事泪眼蒙蒙。”
+——回梦今昔，穿越时空，全新沉浸式戏剧《月满天脊》即将上演。
 
 
-“飞羽撷焰，除瘴烬邪。”
-——经典重映：英雄戏《火焰英雄》回归季。
+第五届今州相声大会开幕在即。
+青禾、将生相声作品《旧城风云》首次公演。
+雅俗共赏，齐聚曲艺之夜。
+
 
 【观演指南】
 1. 今州剧院为开放式剧场，请观众自觉遵守公共秩序。
-2. 演出期间请暂时禁用终端提示灯，并调至静音状态，请勿摄录舞台；
-    如有需要，在不打扰其他观众的前提下进出场，并保持安静；
-    严禁擅闯舞台，违者交由巡尉处理。
-3. 做文明有礼今州人。演出结束后，请自行带走垃圾。","[Current Recommendations]
+2. 演出期间可随时进出场，但请保持安静。
+3. 严禁擅闯舞台，违者交由晓卫处理。
+4. 爱护公共环境人人有责，演出结束后，请自行带走垃圾。","[Current Recommendations]
 
 ""Banners raised with pride, warriors fight in valorous stride; a lone spear pierces the waning moon's guide.""
 Relive dreams of the past and traverse through time and space. The immersive play <i>Moonlight Shines as Ever</i> is coming soon.
@@ -121,78 +400,83 @@ Re-release of the classic: Hero Play <i>Fiamma</i>
 1. The Jinzhou Theater is an open-air venue. Please be mindful of public order.
 2. Please arrive at the theater on time and remain in your seat for the entire performance. If you must leave, exit quietly without distracting your fellow audience members.
 3. During the performance, turn off your Terminal or, if it must be on, put it on vibrate. 
-4. There is no photography or videoing allowed in the thater.
+4. There is no photography or videoing allowed in the theater.
 5. Trespassing on the stage is strictly prohibited and violators will be handled by Patrollers.
-6. After the performance, please take your trash with you.","[Vở diễn nổi bật mùa này]
-
-""Vạn dặm cờ xí chiến trường lửa, một thương một mật phá trăng tàn.""
-- Mơ về xưa cũ, xuyên không gian thời gian, vở kịch nhập vai ""Cô Quang Mãn Cung Đao"" sắp công diễn.
+6. After the performance, please take your trash with you.","[Tuyển chọn kỳ này của nhà hát]
 
 
-""Lông vũ bắt lửa, trừ tà diệt chướng.""
-- Tái chiếu kinh điển: Vở anh hùng ""Anh Hùng Lửa"" trở lại.
+""Thấy đất cháy ngỡ như mộng cũ thôn xưa,
+Chẳng ngăn được lệ nhòa biết chuyện ngày sau.""
+... Mộng về kim cổ, xuyên không thời gian, vở kịch nhập vai hoàn toàn mới ""Trăng Tròn Đỉnh Trời"" sắp công diễn.
 
-[Hướng dẫn xem biểu diễn]
-1. Nhà hát Kim Châu là sân khấu ngoài trời, xin khán giả tự giác tuân thủ trật tự công cộng.
-2. Trong thời gian biểu diễn, vui lòng tắt đèn báo thiết bị đầu cuối và chuyển sang chế độ im lặng, không quay phim chụp ảnh sân khấu;
-    Nếu cần ra vào, xin không làm phiền khán giả khác và giữ yên lặng;
-    Nghiêm cấm tự ý lên sân khấu, vi phạm sẽ được giao cho Tuần Úy xử lý.
-3. Hãy là người Kim Châu văn minh lịch sự. Sau khi kết thúc biểu diễn, xin tự mang rác đi."
-lang_multi_text.db,MultiText,InfoDisplay_11040142_Title,《当季热门剧目推荐》,Seasonal Popular Play Recommendations,"""Giới Thiệu Vở Diễn Hot Trong Mùa"""
-lang_multi_text.db,MultiText,InfoDisplay_11040143_Text,"“采撷，春花入景，见一奁山水，一隅故乡。”
 
-【岁时造景主题：月】
+Đại hội Tướng Thanh Kim Châu lần thứ 5 sắp khai mạc.
+Tác phẩm tướng thanh ""Gió Mây Thành Cũ"" của Thanh Hòa, Tương Sinh lần đầu công diễn.
+Thanh tục cùng thưởng, tề tựu đêm hội khúc nghệ.
 
-命题一：
-——摇光落萤海，玉宇探烟波。
 
-命题二：
-——乌啼西楼武陵色。
+[Hướng dẫn xem diễn]
+1. Nhà hát Kim Châu là rạp hát không gian mở, mong quý khán giả tự giác tuân thủ trật tự công cộng.
+2. Trong thời gian biểu diễn có thể ra vào bất cứ lúc nào, nhưng vui lòng giữ im lặng.
+3. Nghiêm cấm tự ý xông lên sân khấu, người vi phạm sẽ giao cho Hiểu Vệ xử lý.
+4. Bảo vệ môi trường công cộng là trách nhiệm của mỗi người, sau khi kết thúc buổi diễn, vui lòng tự mang rác đi."
+lang_multi_text.db,MultiText,InfoDisplay_11010101_Title,当季热门剧目推荐,Popular Hero Play Recommendations,Đề xuất kịch mục hot mùa này
+lang_multi_text.db,MultiText,InfoDisplay_11010102_Text,"“采撷，归梦之声，给您身临其境般的体验。”
 
-命题三：
-——烛阴。","""Nature's blooms, time's trace. A tiny penjing, home's embrace.""
+【今日主题：月】
 
-[Seasonal Penjing Theme: Moon]
+如月光坠落荧海，涟漪轻语。
+——沉月 1000贝币
+
+乌啼西楼，窗竹影摇。
+——晚秋 5000贝币
+
+滴答、滴答，屋檐的鸣泣。
+——不见月 9999贝币","""Nature's blooms, time's trace. A tiny penjing, home's embrace.""
+
+[Today's Penjing Theme: Moon]
 
 Prompt One: Create a penjing with the theme of ""Fireflies Sea and the Moon"";
+—Submitted by: Chenyue, Prize Money: 1000 SHC
 
 Prompt Two: Create a penjing with the theme of ""The Peach Haven in the Central Plains and the Moon"";
+—Submitted by: Wanqiu, Prize Money: 5000 SHC
 
-Prompt Three: Create a penjing with the theme of ""Clawless Loong"".","""Hái nhặt hoa xuân vào cảnh, thấy một khung sơn thủy, một góc quê hương.""
+Prompt Three: Create a penjing with the theme of ""Clawless Loong"".
+—Submitted by: Moonless, Prize Money: 9999 SHC","""Hái lượm, âm thanh mộng về, mang đến cho bạn trải nghiệm như đang ở trong cảnh.""
 
-[Chủ đề tạo cảnh theo mùa: Trăng]
+[Chủ đề hôm nay: Trăng]
 
-Đề bài một:
-- Ánh sáng lay động biển đom đóm, ngọc vũ dò sóng khói.
+Như ánh trăng rơi xuống biển huỳnh quang, sóng gợn thì thầm.
+... Trầm Nguyệt 1000 Tín Dụng
 
-Đề bài hai:
-- Quạ kêu lầu tây sắc Vũ Lăng.
+Quạ kêu lầu tây, bóng trúc lay cửa sổ.
+... Vãn Thu 5000 Tín Dụng
 
-Đề bài ba:
-- Chúc Âm."
-lang_multi_text.db,MultiText,InfoDisplay_11040143_Title,博古盆景店,Bogu's Arbor,Tiệm Bonsai Bác Cổ
-lang_multi_text.db,MultiText,InfoDisplay_11040144_Text,"管线透明化、精细化、阶段化
-落地标准化、流程化、工业化。
-
-                            ——天工发布","Transparent, detailed, and phased pipeline management.
+Tí tách, tí tách, tiếng khóc của mái hiên.
+... Bất Kiến Nguyệt 9999 Tín Dụng"
+lang_multi_text.db,MultiText,InfoDisplay_11010102_Title,归梦声料店,Returning Dreams Sound Material Store,Cửa Tiệm Thanh Liệu Quy Mộng
+lang_multi_text.db,MultiText,InfoDisplay_11010103_Text,"标准化、流程化、工业化。
+高效开采黑石，精密提炼鸣液。
+安全运输，合规生产。
+ 
+  ——天工发布","Transparent, detailed, and phased pipeline management.
 Standardized, proceduralized, and industrialized implementation.
-Ministry of Development","Quy trình minh bạch, tinh gọn, theo từng giai đoạn
-Triển khai chuẩn hóa, quy trình hóa, công nghiệp hóa.
+—Issued by the Ministry of Development","Tiêu chuẩn hóa, quy trình hóa, công nghiệp hóa.
+Khai thác Hắc Thạch hiệu quả cao, tinh luyện Dung Dịch Minh Triều chuẩn xác.
+Vận chuyển an toàn, sản xuất đúng quy định.
 
- ...Thiên Công phát hành"
-lang_multi_text.db,MultiText,InfoDisplay_11040144_Title,安全生产公告,Notice on Safety Production,Thông Báo An Toàn Sản Xuất
-lang_multi_text.db,MultiText,InfoDisplay_11040145_Text,"新历159年  12月31日
-记录人：怀瑾
-
-研究院和天工联合发布了最新版的《能源安全运输手册》，工头说这里就属我心细，让我先学习学习，顺便给其他矿工们培训下。百来页的守则，怎么着也得一两周才能讲明白吧，而且这讲明白和想明白还是两码事，我还得整理一批事故案例分析，才能加深大家的安全意识。
-
-呐，你看扉页就写着：“每一个规定都是教训换来的。”
-今州的工业能走到今天，说到底还是安全、安全，全靠的安全。
-
-这本矿工专用的说明手册，措辞也算简单直白，不拽文也不掉书袋，才能最快进脑子。听说桃祈事务长在修订的事儿上没少下功夫。
-
-哎，算了，算了，虽然麻烦了点儿，看在工头的面子上，我给大家提炼提炼重点吧。
-哎，大周末的还要加班备课，真希望干了这活儿，能给我来点调休。","Date: December 31, AL 159
+... Bộ Thiên Công thông báo"
+lang_multi_text.db,MultiText,InfoDisplay_11010103_Title,安全生产公告,Notice on Safety Production,Thông báo sản xuất an toàn
+lang_multi_text.db,MultiText,InfoDisplay_11010104_Text,"新历159年 12月31日
+ 记录人：怀瑾
+ 
+研究院和天工联合发布了最新版的《鸣潮子泄漏应急手册》，工头说这里就属我最懂黑石能源，让我先学习学习，过两天给其他矿工们培训下。六十多页的说明，两天哪够，怎么着也得两周吧。
+“对于沾染了放射性粉尘的人员、装备、物资，可通过洗消措施降低放射性污染。”
+ “被污染的废水，必须经过离子交换处理，不可随意排放。”
+研究院的人不知道怎么想的，既然是给矿工的手册，就应该用简单直白的话。什么离子交换，矿工哪懂这些。
+ 算了，算了，虽然麻烦了点儿，看在工头的面子上，我给大家提炼提炼重点吧。
+哎，大过节的还要加班，真希望干了这活儿，能给我放一周假。","Date: December 31, AL 159
 Reporter: Huaijin
 
 In collaboration with the Huaxu Academy, the Ministry of Development has issued the latest edition of the <i>Energy Safe Transportation Guide</i>. 
@@ -200,137 +484,123 @@ Acknowledging the importance of thorough comprehension, the foreman entrusted me
 To facilitate better understanding among my fellow miners, I have taken on the responsibility of distilling and highlighting key points for the team.","Tân lịch năm 159, ngày 31 tháng 12
 Người ghi chép: Hoài Cẩn
 
-Viện Nghiên cứu và Thiên Công đã phối hợp phát hành phiên bản mới nhất của ""Sổ tay Vận chuyển Năng lượng An toàn"". Đốc công nói ở đây tôi là người tỉ mỉ nhất, bảo tôi nghiên cứu trước, tiện thể đào tạo cho các thợ mỏ khác. Cả trăm trang quy định, ít nhất cũng mất một hai tuần mới giảng rõ được, mà giảng rõ với hiểu rõ lại là hai chuyện khác nhau. Tôi còn phải tổng hợp một loạt phân tích tình huống sự cố để nâng cao ý thức an toàn cho mọi người.
+Viện Nghiên Cứu và Bộ Thiên Công đã cùng phát hành phiên bản mới nhất của ""Sổ tay ứng phó rò rỉ hạt Minh Triều"", đốc công nói ở đây tôi là người hiểu rõ nhất về năng lượng Hắc Thạch, bảo tôi học trước, hai ngày nữa đào tạo lại cho các thợ mỏ khác. Hơn sáu mươi trang hướng dẫn, hai ngày sao mà đủ, kiểu gì cũng phải hai tuần chứ.
+""Đối với nhân viên, trang bị, vật tư bị nhiễm bụi phóng xạ, có thể thông qua biện pháp tẩy rửa để giảm thiểu ô nhiễm phóng xạ.""
+""Nước thải bị ô nhiễm, bắt buộc phải qua xử lý trao đổi ion, không được tùy ý xả thải.""
+Người của Viện Nghiên Cứu không biết nghĩ thế nào, đã là sổ tay cho thợ mỏ thì nên dùng từ ngữ đơn giản trực quan. Trao đổi ion cái gì chứ, thợ mỏ sao hiểu mấy cái này.
+Thôi kệ, thôi kệ, tuy hơi phiền phức, nhưng nể mặt đốc công, tôi sẽ tóm tắt lại trọng điểm cho mọi người vậy.
+Haizz, ngày lễ ngày tết mà còn phải tăng ca, thật hy vọng làm xong việc này, có thể cho tôi nghỉ một tuần."
+lang_multi_text.db,MultiText,InfoDisplay_11010104_Title,工作简报,Work Report,Báo cáo công việc tóm tắt
+lang_multi_text.db,MultiText,InfoDisplay_11010105_Text,"即使暗夜淹没了足迹，只要常怀探索未知的勇气，我们终将抵达远方。
+ ——致献身长夜的战士们 
+ 
+ 【鸣钟园背景】
+鸣钟园建立于新历155年，意在铭记每一位为人类文明献身的勇士，园内每朵花均由第五任夜归团长忌炎亲自播种、浇灌。花种由特聘植物研究员维里奈根据瑝珑地质、气候特殊培育，即使在恶劣天气下也能保证100%存活率，象征着不屈的瑝珑精神。
+各位市民在吊唁时，请尊重逝者，勿踩踏花海，违者将交由晓卫处理。","Even if the darkness of the night drowns the tracks, as long as we always have the courage to explore the unknown, we will eventually arrive at a faraway place.
+ --To the warriors of the long night.
 
-Đấy, nhìn trang bìa đã ghi: ""Mỗi quy định đều được đổi bằng bài học xương máu.""
-Nền công nghiệp Kim Châu phát triển đến ngày hôm nay, nói cho cùng vẫn là nhờ an toàn, an toàn, tất cả đều nhờ an toàn.
+ Background
+The Garden of Bells was established in AL155 to remember every warrior who sacrificed his life for human civilization. Every flower in the garden was sown and watered by Jiyan, the fifth leader of Midnight Rangers. The flower seeds were specially cultivated by Verina, a plant researcher, according to the geology and climate of Huanglong to ensure 100% survival rate even in bad weather, symbolizing the unyielding spirit of Huanglong.
+Members of the public are requested to respect the deceased and not to trample on the flowers during condolences, offenders will be referred to Mornguard for action.","Dẫu cho màn đêm nhấn chìm dấu chân, chỉ cần luôn mang lòng dũng cảm khám phá những điều chưa biết, chúng ta cuối cùng sẽ đến được phương xa.
+... Gửi những chiến sĩ đã hiến thân cho đêm trường
 
-Cuốn sổ tay dành riêng cho thợ mỏ này, cách dùng từ cũng khá đơn giản dễ hiểu, không dùng từ hoa mỹ hay trích dẫn rườm rà, để mọi người tiếp thu nhanh nhất. Nghe nói Đào Kỳ sự vụ trưởng đã bỏ không ít công sức vào việc chỉnh sửa.
-
-Thôi, thôi được rồi, tuy hơi phiền một chút, nhưng nể mặt đốc công, tôi sẽ tóm tắt trọng điểm cho mọi người vậy.
-Cuối tuần rồi mà vẫn phải tăng ca soạn bài, thật mong làm xong việc này sẽ được nghỉ bù."
-lang_multi_text.db,MultiText,InfoDisplay_11040145_Title,工作简报,Work Report,Tóm Tắt Công Việc
-lang_multi_text.db,MultiText,InfoDisplay_11040146_Text,"即使暗夜淹没了足迹，只要常怀探索未知的勇气，我们终将抵达远方。
-——致献身长夜的战士们                                                                      
-
-【鸣钟广场背景】
-鸣钟广场的设立意在铭记每一位为人类文明献身的勇士，花甸中的每朵花均由夜归战士亲手种下，花名「如故」。","Even if the darkness enguls our footprints, the unwavering courage to venture into the unknown will guide us to distant horizons. Dedicated to the valiant warriors who willingly sacrificed themselves in the lasting night.
-
-[History of the Knell Square]
-The Knell Squre is dedicated to honoring every warrior who selflessly gave their all to protect human civilization. Each flower within this space has been tenderly planted by the members of the Midnight Rangers, and the flowers are named ""Emortia"".","Dù đêm tối nhấn chìm dấu chân, chỉ cần luôn mang trong lòng dũng khí khám phá điều chưa biết, chúng ta rồi sẽ đến được nơi xa.
-...Kính tặng những chiến sĩ hiến mình cho đêm trường 
-
-[Lịch sử Quảng trường Minh Chung]
-Quảng trường Minh Chung được lập nên để tưởng nhớ mỗi dũng sĩ đã hiến thân vì nền văn minh nhân loại. Mỗi bông hoa trong vườn đều do các chiến sĩ Dạ Quy tự tay trồng, tên hoa là ""Như Cố""."
-lang_multi_text.db,MultiText,InfoDisplay_11040146_Title,鸣钟广场,Knell Square,Quảng Trường Minh Chung
-lang_multi_text.db,MultiText,InfoDisplay_11040147_Text,"康健：您脚下的每一块石碑，都刻有牺牲将士们的姓名。
-           遥闻、绥远、满志、栖霞、明珂…… 
-康健：如果您愿意的话，请来我身边。
-康健：我可以为您讲述每一个名字背后的故事。","Kangjian: Each stone brick beneath your feet bears the names of the sacrificed soldiers.
-Yaowen, Suiyuan, Manzhi, Qixia, Mingke...
-Kangjian: If you're interested in their stories, feel free to ask me.
-Kangjian: I'm willing to share the stories behind each name with you.","Khang Kiện: Mỗi tấm bia đá dưới chân ngài đều khắc tên những tướng sĩ đã hy sinh.
-           Dao Văn, Tuy Viễn, Mãn Chí, Thê Hà, Minh Kha...
-Khang Kiện: Nếu ngài muốn, xin hãy đến bên tôi.
-Khang Kiện: Tôi có thể kể cho ngài nghe câu chuyện đằng sau mỗi cái tên."
-lang_multi_text.db,MultiText,InfoDisplay_11040147_Title,无，范围触发的语音。,"None, range-triggered speech.","Không có, giọng nói kích hoạt theo phạm vi."
-lang_multi_text.db,MultiText,InfoDisplay_11040148_Text,"【当季严选】
-甄选春茶，佐以“荷顶朝露”，有安神、静心之效，欢迎各位客人进店品茶。
-
-【温馨提示】
-茶馆外座的小猫小狗性情温顺，是茶馆特殊的客人，可逗玩投喂。
-对猫狗过敏的贵客可移步二楼的露台雅座，一览今州高岸，观市井淳风。
-
-【招贤纳士】
-半壁山房待明月，一盏清茗酬知音。茶馆招聘寻茗人，薪资可议。","[Seasonal Picks]
-Carefully selected Spring Tea, paired with ""Lotus Top Morning Dew"", known for its calming and soothing effects. Feel free to come in and enjoy our tea.
-
-[Reminder]
-The cute cats and dogs outside the teahouse are not just visitors; they are cherished members of our teahouse family. Guests are invited to interact with and treat them kindly. For those with sensitivities to our furry friends, we recommend the serene terrace on the second floor. From there, you can bask in the breathtaking view of Jinzhou and embrace the delightful atmosphere of the city.
-
-[Now Hiring]
-Tea for refreshment and tea for kindred spirits. Liuxian Teahouse is now hiring tea enthusiasts to join our team, and salary is negotiable.","[Tuyển chọn theo mùa]
-Trà xuân tuyển chọn, pha cùng ""Sương Sớm Đỉnh Sen"", có tác dụng an thần, tĩnh tâm. Chào đón quý khách vào tiệm thưởng trà.
-
-[Lưu ý nhỏ]
-Mèo và chó bên ngoài quán trà tính tình hiền lành, là những vị khách đặc biệt của quán, quý khách có thể đùa giỡn và cho ăn.
-Quý khách bị dị ứng với mèo chó có thể di chuyển lên sân thượng tầng hai, ngắm toàn cảnh Kim Châu, thưởng ngoạn nét bình dị nơi phố thị.
-
-[Tuyển dụng]
-Nửa gian trà thất đợi trăng lên, một chén trà thanh đãi tri âm. Quán trà tuyển nhân viên tìm trà, lương thỏa thuận."
-lang_multi_text.db,MultiText,InfoDisplay_11040148_Title,六羡茶馆,Liuxian Teahouse,Quán Trà Lục Tiện
-lang_multi_text.db,MultiText,InfoDisplay_11040149_Text,"<花瓣评分：五颗星>
+[Bối cảnh Vườn Minh Chung]
+Vườn Minh Chung được xây dựng vào Tân Lịch năm 155, nhằm ghi nhớ từng vị dũng sĩ đã hiến thân cho văn minh nhân loại, mỗi đóa hoa trong vườn đều do Đoàn trưởng Dạ Quy đời thứ năm Kỵ Viêm đích thân gieo trồng, tưới nước. Hạt giống hoa do nhà nghiên cứu thực vật đặc biệt Verina nuôi cấy riêng dựa theo địa chất, khí hậu Hoàng Long, dù trong thời tiết khắc nghiệt vẫn đảm bảo tỷ lệ sống 100%, tượng trưng cho tinh thần Hoàng Long bất khuất.
+Các vị công dân khi đến viếng, xin hãy tôn trọng người đã khuất, đừng giẫm đạp lên biển hoa, người vi phạm sẽ giao cho Hiểu Vệ xử lý."
+lang_multi_text.db,MultiText,InfoDisplay_11010105_Title,鸣钟园,Knell Garden,Vườn Minh Chung
+lang_multi_text.db,MultiText,InfoDisplay_11010106_Text,"康健：请尊重逝者，不得踩踏！
+康健：最后警告一次，不！得！踩！踏！
+康健：不得……真是屡教不改！我已经通知晓卫了。","KANG: Please respect the deceased and do not trample on them!
+KANG: Last warning, no! Gotta! Trample! Tread!
+Kangen: shall not ...... is really a repeat offender! I've notified Mornguard.","Khang Kiện: Xin hãy tôn trọng người đã khuất, không được giẫm đạp!
+Khang Kiện: Cảnh báo lần cuối, KHÔNG! ĐƯỢC! GIẪM! ĐẠP!
+Khang Kiện: Không được... đúng là chứng nào tật nấy! Tôi đã báo cho Hiểu Vệ rồi."
+lang_multi_text.db,MultiText,InfoDisplay_11010106_Title,鸣钟语音,Knell Recording,Giọng nói Minh Chung
+lang_multi_text.db,MultiText,InfoDisplay_11010107_Text,"时间：1600125
+检修记录：例行检修，无特殊故障报告。
+责任人：0134
+下次预计检修时间：1600424
+时间：1600425
+检修记录：右侧自（修订记录：“自”改为“制”）制动装置回声异常，有联合（修订记录：“联合”改为“接合”）接合元件老化可能。
+责任人：0210
+下次预计检修时间：16006（修订记录：“6”改为“7”）725
+时间：1600426
+检修记录：已排除接合元件老化可能性，为异物卡顿问题，已上报故障，上报编号0766。
+责任人：0134
+下次预计检修时间：1600725
+备注：请注意检修日期间隔，保持术语准确、规范，修订记录已附，望查阅。","Time: 1600125
+Inspection record: routine inspection, no specific faults reported.
+Responsible person: 0134
+Next expected maintenance time: 1600424
+Time: 1600425
+Record of inspection: Abnormal echo of right side self (Revised record: ""self"" changed to ""brake"") brake, joint (Revised record: ""joint"" changed to ""engagement"") brake. (Revised: ""joint"" to ""engagement"") engagement element may be deteriorating.
+Responsible person: 0210
+Next estimated service time: 16006 (Revised record: ""6"" changed to ""7"") 725
+Time: 1600426
+Inspection record: has ruled out the possibility of deterioration of the jointing element, for the problem of foreign body jamming, has been reported to the fault, reported No. 0766.
+Responsible person: 0134
+Next expected maintenance time: 1600725
+Note: Please pay attention to the maintenance date interval, keep the terminology accurate, standardized, revised records have been attached, look forward to checking.","Thời gian: 1600125
+Ghi chép bảo trì: Bảo trì định kỳ, không có báo cáo hỏng hóc đặc biệt.
+Người chịu trách nhiệm: 0134
+Thời gian bảo trì dự kiến lần sau: 1600424
+Thời gian: 1600425
+Ghi chép bảo trì: Tiếng vọng của thiết bị tự (Lịch sử sửa đổi: ""Tự"" đổi thành ""Phanh"") phanh bên phải bất thường, có khả năng linh kiện liên hợp (Lịch sử sửa đổi: ""Liên hợp"" đổi thành ""Tiếp hợp"") tiếp hợp bị lão hóa.
+Người chịu trách nhiệm: 0210
+Thời gian bảo trì dự kiến lần sau: 16006 (Lịch sử sửa đổi: ""6"" đổi thành ""7"") 725
+Thời gian: 1600426
+Ghi chép bảo trì: Đã loại trừ khả năng linh kiện tiếp hợp bị lão hóa, là vấn đề kẹt dị vật, đã báo cáo hỏng hóc, mã báo cáo 0766.
+Người chịu trách nhiệm: 0134
+Thời gian bảo trì dự kiến lần sau: 1600725
+Ghi chú: Xin chú ý khoảng cách ngày bảo trì, giữ cho thuật ngữ chính xác, quy chuẩn, lịch sử sửa đổi đã đính kèm, mong xem xét."
+lang_multi_text.db,MultiText,InfoDisplay_11010107_Title,检修记录,Service Record,Ghi chép bảo trì
+lang_multi_text.db,MultiText,InfoDisplay_11010108_Text,"<留言编号010>
 呜呜呜呜呜呜——
-《孤光满弓刀》也太好哭了吧！什么样的编剧老师能写出这么悲壮的故事啊！散场了我的眼泪都止不住！呜——
-剧场回复：本英雄戏根据真实历史事件改编，感谢贵客的厚爱。
+《月满天脊》也太好哭了吧！什么样的编剧老师能写出这样的故事啊！散场了我的眼泪都止不住，下周休假一定再来二刷！呜——
+剧场回复：感谢贵客对该剧的热爱，下周日晚18点30分，期待您的光临。
 
-
-<花瓣评分：四星半>
-《火焰英雄》真的下饭！我下次可以带点我老姨做的冠军辣酱来边吃边看吗？
-剧场回复：感谢贵客对该剧的喜爱，本剧场不禁止饮食，但请注意不要食用气味过于强烈的食物。","<Audience Review: ★★★★★>
+<留言编号025>
+《旧城风云》真的下饭！我下次可以带点我老姨做的辣酱来边吃边看吗？
+剧场回复：感谢贵客对该剧的喜爱，本剧场不禁止饮食，但请注意不要食用气味过于强烈的食物。","<Petal Rating: Five Stars>
 I was brought to tears!
 <i>Moonlight Shines as Ever</i> is an absolute tearjerker! Kudos to the brilliant scriptwriter who crafted such a heart-wrenching story. My tears just kept flowing even after the show ended!
 Theater's Response: This Hero Play is based on real historical events. Thank you for sharing your experience.
 
-<Audience Review: ★★★★☆>
+<Petal Rating: Four Stars>
 <i>Fiamma</i> really whetted my appetite! Planning to bring some homemade Victor Savor by my aunt next time to savor during the performance. Can't wait!
-Theater's Response: Thank you for your comment. You're welcome to bring your own snacks, but please be mindful of pungent smells.","<Đánh giá: năm sao>
-Hu hu hu hu hu hu...
-""Cô Quang Mãn Cung Đao"" hay quá, khóc quá đi mất! Biên kịch nào mà viết được câu chuyện bi tráng đến vậy! Tan rạp rồi mà nước mắt vẫn không ngừng chảy! Hu...
-Nhà hát trả lời: Vở anh hùng kịch này được chuyển thể từ sự kiện lịch sử có thật, cảm ơn quý khách đã yêu mến.
+Theater's Response: Thank you for your comment. You're welcome to bring your own snacks, but please be mindful of pungent smells.","<Tin nhắn số 010>
+Huhuhuhuhuuuuu...
+""Trăng Tròn Đỉnh Trời"" cũng dễ khóc quá đi mất! Biên kịch nào mà viết ra được câu chuyện như vậy chứ! Tan rạp rồi mà nước mắt tôi vẫn không ngừng rơi, tuần sau nghỉ phép nhất định phải đi xem lại lần hai! Huhuuu...
+Nhà hát trả lời: Cảm ơn quý khách đã yêu thích vở kịch, 18 giờ 30 tối chủ nhật tuần sau, mong chờ sự hiện diện của bạn.
 
-
-<Đánh giá: bốn sao rưỡi>
-""Anh Hùng Lửa"" xem cực đã! Lần sau tôi mang tương ớt Quán Quân do dì tôi làm vào vừa ăn vừa xem được không?
-Nhà hát trả lời: Cảm ơn quý khách đã yêu thích vở diễn, nhà hát không cấm ăn uống, nhưng xin lưu ý không mang theo đồ ăn có mùi quá nồng."
-lang_multi_text.db,MultiText,InfoDisplay_11040149_Title,观众留言,Viewer Comments,Lời Nhắn Khán Giả
-lang_multi_text.db,MultiText,InfoDisplay_11040150_Text,"前日晚间21时《火焰英雄》散场后，有观众于剧场内捡拾到他人遗失财物，现列举如下：
+<Tin nhắn số 025>
+""Gió Mây Thành Cũ"" đúng là đưa cơm! Lần sau tôi có thể mang chút tương ớt dì tôi làm đến vừa ăn vừa xem không?
+Nhà hát trả lời: Cảm ơn quý khách đã yêu thích vở kịch, nhà hát này không cấm ăn uống, nhưng vui lòng chú ý đừng dùng những món có mùi quá nồng."
+lang_multi_text.db,MultiText,InfoDisplay_11010108_Title,观众留言,Viewer Comments,Tin nhắn khán giả
+lang_multi_text.db,MultiText,InfoDisplay_11010109_Text,"前日晚间21时《月满天脊》散场后，有观众于剧场内捡拾到他人遗失财物，现列举如下：
 
 蓝色耳环 5排9座 1只
-天工工牌 6排9座 1张
+天工造物局身份识别卡 6排9座 1张
 小龙包兑换券（含特殊龙纹标记） 8排10座 2张
 手工发带（红蓝交织，未编完） 16排11座 1条
 
 请以上物品失主或相关人士于招领公告发布的10日之内前来认领。","Following the conclusion of <i>Fiamma</i> at 9:00 PM two nights ago, some viewers found lost items within the theater and promptly reported them. The items are detailed as follows:
 
 Blue Earring: Row 5, Seat 9, quantity: 1
-Ministry of Development ID Card: Row 6, Seat 9, quantity: 1
-Loong Buns Coupon (with special pattern): Row 8, Seat 10, quantity: 2
+Ministry of Development Work Card: Row 6, Seat 9, quantity: 
+Loong Buns Exchange Voucher (with special dragon pattern): Row 8, Seat 10, quantity: 2
 Handmade Headband (red and blue, partially braided): Row 16, Seat 11, quantity: 1
 
-The owners of the above items are requested to claim them within a 10-day period from the date of this notice.","Sau buổi chiếu ""Anh Hùng Lửa"" lúc 21 giờ tối hôm kia, có khán giả nhặt được tài sản thất lạc trong nhà hát, liệt kê như sau:
+The owners of the above items are requested to claim them within a 10-day period from the date of this notice.","Sau khi vở ""Trăng Tròn Đỉnh Trời"" kết thúc vào lúc 21 giờ tối hôm kia, có khán giả nhặt được tài sản người khác đánh rơi trong nhà hát, nay liệt kê như sau:
 
-Hoa tai xanh - Hàng 5 ghế 9 - 1 chiếc
-Thẻ nhân viên Thiên Công - Hàng 6 ghế 9 - 1 tấm
-Phiếu đổi Tiểu Long Bao (có hoa văn rồng đặc biệt) - Hàng 8 ghế 10 - 2 tấm
-Băng đô thủ công (đan xen đỏ xanh, chưa hoàn thành) - Hàng 16 ghế 11 - 1 chiếc
+Khuyên tai màu xanh lam, Hàng 5 Ghế 9, 1 chiếc
+Thẻ nhận dạng Cục Tạo Vật Thiên Công, Hàng 6 Ghế 9, 1 tấm
+Vé đổi Tiểu Long Bao (có dấu rồng đặc biệt), Hàng 8 Ghế 10, 2 vé
+Dây buộc tóc thủ công (đỏ xanh đan xen, chưa đan xong), Hàng 16 Ghế 11, 1 chiếc
 
-Xin chủ nhân các vật phẩm trên hoặc người liên quan đến nhận lại trong vòng 10 ngày kể từ ngày đăng thông báo."
-lang_multi_text.db,MultiText,InfoDisplay_11040150_Title,失物招领,Lost and Found,Nhận Lại Đồ Thất Lạc
-lang_multi_text.db,MultiText,InfoDisplay_11040151_Text,"瑝珑境内：
-六州：首重80贝币，续重20贝币；
-一庭：首重100贝币，续重25贝币；
-其他区域：视内容物和具体危险情况而定，详情联系收派员。
-
-跨境运输：
-新联邦：首重300贝币，续重60贝币；
-其他国家与地区：视内容物和具体危险情况而定，详情联系收派员。","Domestic Shipping (Within Huanglong)
-Six Provinces: First weight 80 SHC, additional weight 20 SHC;
-Capital: First weight 100 SHC, additional weight 25 SHC;
-Other Regions: Rates vary based on the nature of the content and specific risks involved. For detailed information, kindly get in touch with our delivery personnel.
-
-International Shipping 
-New Federation: First weight 300 SHC, additional weight 60 SHC;
-Other Countries & Regions: Rates vary based on the nature of the content and specific risks involved. For detailed information, kindly get in touch with our delivery personnel.","Trong lãnh thổ Hoàng Long:
-Sáu Châu: Trọng lượng đầu 80 Bối Tệ, trọng lượng tiếp theo 20 Bối Tệ;
-Kinh đô: Trọng lượng đầu 100 Bối Tệ, trọng lượng tiếp theo 25 Bối Tệ;
-Các khu vực khác: Tùy theo nội dung hàng hóa và mức độ nguy hiểm cụ thể, chi tiết xin liên hệ nhân viên thu phát.
-
-Vận chuyển xuyên biên giới:
-Tân Liên Bang: Trọng lượng đầu 300 Bối Tệ, trọng lượng tiếp theo 60 Bối Tệ;
-Các quốc gia và khu vực khác: Tùy theo nội dung hàng hóa và mức độ nguy hiểm cụ thể, chi tiết xin liên hệ nhân viên thu phát."
-lang_multi_text.db,MultiText,InfoDisplay_11040151_Title,呜呜物流寄送指南,Lollo Logistics Price List,Hướng Dẫn Gửi Hàng Lollo
-lang_multi_text.db,MultiText,InfoDisplay_11040152_Text,"岗位名称：
+Xin mời chủ nhân các vật phẩm trên hoặc người liên quan đến nhận lại trong vòng 10 ngày kể từ khi thông báo tìm đồ thất lạc được phát ra."
+lang_multi_text.db,MultiText,InfoDisplay_11010109_Title,失物招领,Lost and Found,Tìm đồ thất lạc
+lang_multi_text.db,MultiText,InfoDisplay_11010110_Text,"岗位名称：
 【速运收派员】
 岗位要求：
 年龄不限，持有任意国家驾驶执照，按照公司要求，安全、快捷、准确地完成日常收、派件工作。
@@ -341,7 +611,7 @@ lang_multi_text.db,MultiText,InfoDisplay_11040152_Text,"岗位名称：
 
 薪资福利：
 1.多劳多得，按计件提，上不封顶；
-2.公司提供完善的人身安全保险，配运输车辆，提供住宿及相应收派技能教育（包括但不限于危险物种辨识、污染物无害化处理、急救等），可颁发相应职业资格证书；
+2.公司提供完善的人身安全保险，配运输车辆，提供住宿及相应收派技能教育（包括但不限于危险物种辨识、黑石污染物无害化处理、急救等），可颁发相应职业资格证书；
 3.节假日三倍薪资；
 4.免费提供一年四季的工作服装；
 5.危险区域收派将提供完善的人身安全保障（包括但不限于物资保障、武装支援、专人护送等），费用由本公司权全承担。","Position:
@@ -364,35 +634,35 @@ Salary and Benefits:
 2. The company provides personal safety insurance, transportation vehicles, accommodation, and specialized collection and delivery skills training (including but not limited to hazardous material identification, harmless treatment of pollutants, first aid, etc.). The company issues corresponding professional qualification certificates upon completion;
 3. Triple salary on holidays;
 4. Free supply of work unifroms throughout the year;
-5. Personal safety protection will be provided for collection and delivery in dangerous zones (including but not limited to material support, armed support, dedicated escorts, etc.), with all expenses covered by the company.","Vị trí tuyển dụng:
-[Nhân viên thu phát chuyển phát nhanh]
-Yêu cầu:
-Không giới hạn tuổi, có bằng lái xe của bất kỳ quốc gia nào, hoàn thành công việc thu phát hàng ngày một cách an toàn, nhanh chóng, chính xác theo yêu cầu công ty.
+5. Personal safety protection will be provided for collection and delivery in dangerous zones (including but not limited to material support, armed support, dedicated escorts, etc.), with all expenses covered by the company.","Tên vị trí:
+[Nhân viên giao nhận chuyển phát nhanh]
+Yêu cầu vị trí:
+Không giới hạn độ tuổi, có bằng lái xe của bất kỳ quốc gia nào, hoàn thành công việc thu, phát kiện hàng ngày một cách an toàn, nhanh chóng, chính xác theo yêu cầu của công ty.
 Địa điểm làm việc:
-Phân bổ trạm gần nhất theo nguyện vọng ứng viên và nhu cầu thực tế.
+Phân bổ trạm gần nhất dựa trên nguyện vọng của người tìm việc và nhu cầu thực tế của vị trí còn trống.
 Thời gian làm việc:
-Chế độ 5 ngày, 9 tiếng mỗi ngày. Bắt đầu khoảng 7 giờ sáng, kết thúc khoảng 7 giờ tối, nghỉ trưa khoảng 3 tiếng. Ngoài khung giờ này đều tính làm thêm và trả lương gấp đôi.
+Chế độ làm việc 5 ngày 9 tiếng, đến nơi làm việc khoảng 7 giờ sáng, kết thúc công việc khoảng 7 giờ tối, nghỉ trưa khoảng 3 tiếng, vượt quá khung giờ này đều được coi là tăng ca và trả thù lao gấp đôi tương ứng.
 
 Lương và phúc lợi:
-1. Làm nhiều hưởng nhiều, tính theo sản phẩm, không giới hạn trần;
-2. Công ty cung cấp bảo hiểm an toàn cá nhân đầy đủ, xe vận chuyển, chỗ ở và đào tạo kỹ năng thu phát (bao gồm nhưng không giới hạn: nhận diện loài nguy hiểm, xử lý chất ô nhiễm, sơ cứu...), có thể cấp chứng chỉ nghề nghiệp tương ứng;
-3. Ngày lễ lương gấp ba;
-4. Cung cấp miễn phí đồng phục bốn mùa;
-5. Thu phát tại khu vực nguy hiểm sẽ được đảm bảo an toàn cá nhân toàn diện (bao gồm nhưng không giới hạn: hỗ trợ vật tư, chi viện vũ trang, hộ tống chuyên trách...), chi phí do công ty chịu hoàn toàn."
-lang_multi_text.db,MultiText,InfoDisplay_11040152_Title,呜呜物流招聘启事,Lollo Logistics Recruitment Notice,Thông Báo Tuyển Dụng Lollo
-lang_multi_text.db,MultiText,InfoDisplay_11040153_Text,"学术交流周讲座安排：
+1. Làm nhiều hưởng nhiều, tính theo sản phẩm, không giới hạn mức trần;
+2. Công ty cung cấp bảo hiểm an toàn thân thể hoàn thiện, cấp phương tiện vận chuyển, cung cấp chỗ ở và đào tạo kỹ năng thu phát tương ứng (bao gồm nhưng không giới hạn ở nhận biết loài nguy hiểm, xử lý vô hại chất ô nhiễm Hắc Thạch, sơ cứu...), có thể cấp chứng chỉ nghề nghiệp tương ứng;
+3. Lương gấp ba vào ngày lễ tết;
+4. Cung cấp miễn phí đồng phục làm việc bốn mùa quanh năm;
+5. Thu phát tại khu vực nguy hiểm sẽ được cung cấp bảo đảm an toàn thân thể hoàn thiện (bao gồm nhưng không giới hạn ở bảo đảm vật tư, hỗ trợ vũ trang, người hộ tống chuyên trách...), chi phí do công ty chịu hoàn toàn."
+lang_multi_text.db,MultiText,InfoDisplay_11010110_Title,吱吱快运招聘启事,Lollo Logistics Recruitment Notice,Thông báo tuyển dụng Vận Chuyển Chi Chi
+lang_multi_text.db,MultiText,InfoDisplay_11010111_Text,"学术交流周讲座安排：
 
-讲座题目：黑石武器分类及其能源学研究意义——以瑝珑制式为例
+讲座题目：残象分类及其能源学研究意义——以湮灭棱镜为例
 讲座地点：第一报告厅
-主讲人：莫特斐
-主讲人简介：黑石武器应用领域专家，安全科审核评估专家，华胥研究院特聘研究员。
+主讲人：詹斯曼
+主讲人简介：新联邦科学院首席研究员，残象研究中心审核评估专家，新联邦鸣潮生态研究学会常务理事。主要研究领域为残象分类学、鸣潮生态学等。
 
-讲座题目：呜呜物流线路配载前端算法的逻辑
+讲座题目：从巡回法庭案例看学术伦理
 讲座地点：阶梯报告厅
-主讲人：鲁泊特
-主讲人简介：呜呜物流前端工程师，华胥研究院客座讲师。","Huaxu Academy Academic Exchange Week Lecture Schedule:
+主讲人：麦赫西丝
+主讲人简介：先行公约高级法律顾问，新联邦《科学技术普及法周刊》执行主编，瑝珑研究院名誉研究员。","Huaxu Academy Academic Exchange Week Lecture Schedule:
 
-Lecture Title: Classification of Tacetite Weapon and Its Significance in Energy Studies: A Case Study of Huanglong Weaponry
+Lecture Title: Classification of Tacetite Weapon and Its Significance in Energy Studies—A Case Study of Huanglong Weaponary
 Lecture Venue: First Lecture Hall
 Speaker: Mortefi
 Speaker Bio: Expert in Tacetite Weaponary, assessment specialist in the Department of Safety, and distinguished researcher at the Huaxu Academy.
@@ -400,506 +670,227 @@ Speaker Bio: Expert in Tacetite Weaponary, assessment specialist in the Departme
 Lecture Title: Logic of the Front-End Algorithm for Route Allocation in Lollo Logistics
 Lecture Venue: Tiered Lecture Hall
 Speaker: Rubert
-Speaker Bio: Front-end engineer at Lollo Logistics and guest lecturer at the Huaxu Academy.","Lịch trình bài giảng Tuần Giao lưu Học thuật:
+Speaker Bio: Front-end engineer at Lollo Logistics and guest lecturer at the Huaxu Academy.","Lịch trình tọa đàm Tuần lễ Giao lưu Học thuật:
 
-Tiêu đề bài giảng: Phân loại vũ khí Hắc Thạch và ý nghĩa nghiên cứu năng lượng học - Lấy chế thức Hoàng Long làm ví dụ
-Địa điểm: Hội trường Báo cáo số 1
-Diễn giả: Mortefi
-Giới thiệu diễn giả: Chuyên gia lĩnh vực ứng dụng vũ khí Hắc Thạch, chuyên gia đánh giá thẩm định của Khoa An toàn, nghiên cứu viên đặc biệt của Viện Nghiên cứu Hoa Tư.
+Đề tài tọa đàm: Phân loại Tàn Tượng và ý nghĩa nghiên cứu Năng lượng học - Lấy Lăng Kính Hủy Diệt làm ví dụ
+Địa điểm tọa đàm: Hội trường báo cáo số 1
+Diễn giả chính: Mortefi
+Giới thiệu diễn giả: Nghiên cứu viên trưởng Viện Hàn lâm Khoa học Tân Liên Bang, chuyên gia thẩm định đánh giá Trung tâm Nghiên cứu Tàn Tượng, Ủy viên thường vụ Hội Nghiên cứu Sinh thái Minh Triều Tân Liên Bang. Lĩnh vực nghiên cứu chính là Phân loại học Tàn Tượng, Sinh thái học Minh Triều...
 
-Tiêu đề bài giảng: Logic thuật toán front-end phân bổ tuyến đường vận chuyển Lollo
-Địa điểm: Hội trường Báo cáo bậc thang
-Diễn giả: Rubert
-Giới thiệu diễn giả: Kỹ sư front-end Lollo, giảng viên thỉnh giảng Viện Nghiên cứu Hoa Tư."
-lang_multi_text.db,MultiText,InfoDisplay_11040153_Title,瑝珑研究院学术讲座安排,Huaxu Academy Academic Lecture Schedule,Lịch Bài Giảng Học Thuật Viện Nghiên Cứu Hoàng Long
-lang_multi_text.db,MultiText,InfoDisplay_11040154_Text,"无光之森毫无疑问是瑝珑区域里最伟大的宝库，没有一个区域的物种丰度可以与之相比。
-仅仅站在这个大门的入口，我就能清晰地听到植物的声音，听见它们的召唤。
-据说森林深处的声态学部旧址保存着不少植物的图像记载，包括一种名为象牙蕉的美味作物，这种作物原产自无光之森。象牙蕉曾是戏猿主要的食物，而在林中攀援、四处搜寻象牙蕉的戏猿也成为了绝佳的传粉者。
-自毒雾孢子蔓延后，野生的象牙蕉便在无光之森中销声匿迹了，也仅能在部分历史文献中，寻找到这一脆弱品种的相关信息。
-所谓悲鸣，或许也是优胜劣汰的必经之路。","The Dim Forest is unquestionably the most significant treasure trove in the entire Huanglong region, boasting unparalleled species richness in the world.
-Upon setting foot at the entrance of this gate, I could distinctly hear the plants whispering and their summons.
-It is said that deep within the forest, the former site of the Department of Ecoacoustics holds image records of numerous plants, including a delectable species known as Ivory Banana, originating from the Dim Forest. Ivory Bananas were once a primary food source for Hoochiefs, and, in return, Hoochiefs exploring the forest in search of Ivory Bananas became excellent pollinators.
-Since the spread of the toxic spore mist, wild Ivory Bananas have disappeared from the Dim Forest, and information about this species can now only be found in historical records.
-The Lament might be an inevitable process of natural selection.","Rừng Vô Quang chắc chắn là kho báu vĩ đại nhất trong toàn khu vực Hoàng Long, không có vùng nào có thể sánh được về độ phong phú loài.
-Chỉ đứng ở lối vào cánh cổng này, tôi đã có thể nghe rõ ràng tiếng của cây cỏ, nghe thấy lời mời gọi của chúng.
-Nghe nói sâu trong rừng, di chỉ cũ của Bộ Thanh Thái Học còn lưu giữ không ít hình ảnh ghi chép về thực vật, bao gồm một loại cây trồng ngon tên là Chuối Ngà, vốn có nguồn gốc từ Rừng Vô Quang. Chuối Ngà từng là thức ăn chính của Hí Viên, và những con Hí Viên leo trèo khắp rừng tìm kiếm Chuối Ngà cũng trở thành những kẻ thụ phấn tuyệt vời.
-Kể từ khi sương độc bào tử lan rộng, Chuối Ngà hoang dã đã biến mất khỏi Rừng Vô Quang, chỉ có thể tìm thấy thông tin về giống loài mong manh này trong một số tài liệu lịch sử.
-Bi Minh, có lẽ cũng là con đường tất yếu của quy luật đào thải tự nhiên."
-lang_multi_text.db,MultiText,InfoDisplay_11040154_Title,无光之森生态调查1,Ecological Survey of the Dim Forest 1,Khảo Sát Sinh Thái Rừng Vô Quang 1
-lang_multi_text.db,MultiText,InfoDisplay_11040155_Text,"在荧光植物的指引下，我找到了这棵紫色枝叶的大型乔木。
-基于其独木成林的特质，我判断这棵乔木很有可能是榕属的亚种。叶片上的奇妙紫色来源不明，有待进一步的研究查证。
-或许是由于季节的原因，我并没有采集到该树种的花以及果实的样本，周边也没有见到传粉昆虫的踪影。更令人称奇的是，紫月榕暂未受到毒雾孢子的侵蚀。显然，它的身上仍有诸多待揭示的谜题。
-不过我敢肯定，这是这个树种第一次被发现。我将其暂定名为紫月榕。","Guided by the fluorescent plants, I discovered a large purple tree.
-Considering its characteristic of resembling an entire forest on its own, I speculated that this tree is likely a sub-species of the Ficus genus. The mysterious purple color on its leaves remains unexplained and requires further research and verification.
-Due to the season, I failed to collect samples of the flowers and fruits of this tree, and there were no traces of pollinating insects in the vicinity. Surprisingly, the Violuna Banyan hasn't been contaminated by the toxic spores. Many mysteries still surround it, waiting to be unveiled.
-I am certain that this is the first time this tree species has been discovered, and I have temporarily named it the Violuna Banyan.","Dưới sự dẫn lối của các loài thực vật phát quang, tôi đã tìm thấy cây đại mộc có cành lá tím này.
-Dựa trên đặc tính một cây thành rừng, tôi phán đoán cây đại mộc này rất có thể là phân loài thuộc chi Đa. Màu tím kỳ lạ trên lá chưa rõ nguồn gốc, cần nghiên cứu thêm để xác minh.
-Có lẽ do thời vụ, tôi không thu thập được mẫu hoa và quả của loài cây này, xung quanh cũng không thấy dấu vết côn trùng thụ phấn. Điều kỳ lạ hơn nữa là Đa Tử Nguyệt tạm thời chưa bị bào tử sương độc xâm thực. Rõ ràng, trên nó vẫn còn nhiều bí ẩn chờ được giải đáp.
-Tuy nhiên, tôi dám chắc đây là lần đầu tiên loài cây này được phát hiện. Tôi tạm đặt tên cho nó là Đa Tử Nguyệt."
-lang_multi_text.db,MultiText,InfoDisplay_11040155_Title,无光之森生态调查2,Ecological Survey of the Dim Forest 2,Khảo Sát Sinh Thái Rừng Vô Quang 2
-lang_multi_text.db,MultiText,InfoDisplay_11040156_Text,"在告别了紫月榕后，我向着最重要的目标——中央巨榕，前进。
-那是一棵高逾千寻的大树，盘踞在树顶的巨大孢子云迎风散布着毒雾孢子。
-任何靠近此处的生物都会表现出明显的焦躁与恐惧——毒雾孢子如同雪花般飘散......将周围的一切染成了污浊而迷离的纯白。若是仔细倾听，便能听到林中传来了隐约的咳嗽声......接下来的每一步我都需要更加谨慎。
-越是靠近这个大树，我的内心越是不安——巨榕中央的空洞传来了沉重的鼻息，呼吸之间引发的振动，摇落了树枝上积压的孢子。霎时间，「雪势」变得更紧了一些，我不自觉地捂紧了过滤器。
-这些海蚀现象的造物，正不择手段地渗透着我们的世界，将一切都变得危险而陌生......","After bidding farewell to the Violuna Banyan, I proceeded towards the most important target—the Central Banyan.
-It's a tree towering into the sky, with a large spore cloud perched at the top, spreading toxic spores with the wind.
-Any creature approaching this tree exhibited obvious anxiety and fear—the white toxic spores floated around the Central Banyan, almost blocking out my sight. I could even hear faint coughing from the forest. I needed to take every step with extreme caution from now on.
-The closer I got to the Central Banyan, the more uneasy I felt—there was a heavy snorting coming from its hollow, and the vibrations caused by breathing shook off the spores accumulated on the branches. As more and more spores fell down, I tightened my filter.
-These creations of the Waveworn Phenomenon are infiltrating our world, making everything dangerous and unfamiliar.","Sau khi từ biệt cây Đa Tử Nguyệt, tôi tiến về mục tiêu quan trọng nhất - cây Đại Đa trung tâm.
-Đó là một cây cổ thụ cao hơn nghìn tầm, đám mây bào tử khổng lồ đậu trên ngọn cây tung rải bào tử độc theo gió.
-Bất kỳ sinh vật nào tiến gần đều tỏ ra bồn chồn và sợ hãi rõ rệt - bào tử độc bay tản như bông tuyết... nhuộm trắng tinh mọi thứ xung quanh thành một màu đục mờ ảo. Nếu lắng tai, có thể nghe thấy tiếng ho vọng lại từ trong rừng... Mỗi bước tiếp theo tôi đều phải thận trọng hơn.
-Càng tiến gần cây đại thụ, lòng tôi càng bất an - từ hốc rỗng giữa thân cây vọng ra tiếng thở nặng nề, rung động theo mỗi nhịp thở làm rụng lớp bào tử tích tụ trên cành. Trong nháy mắt, ""tuyết"" rơi dày hơn, tôi vô thức siết chặt bộ lọc.
-Những tạo vật của hiện tượng hải thực đang bằng mọi cách xâm nhập thế giới của chúng ta, biến mọi thứ trở nên nguy hiểm và xa lạ..."
-lang_multi_text.db,MultiText,InfoDisplay_11040156_Title,无光之森生态调查3,Ecological Survey of the Dim Forest 3,Khảo Sát Sinh Thái Rừng Vô Quang 3
-lang_multi_text.db,MultiText,InfoDisplay_11040157_Text,"呼，上一次这么剧烈的运动已经不知道是什么时候了。
+Đề tài tọa đàm: Nhìn nhận đạo đức học thuật từ các vụ án của Tòa Án Lưu Động
+Địa điểm tọa đàm: Hội trường bậc thang
+Diễn giả chính: Baizhi
+Giới thiệu diễn giả: Cố vấn pháp luật cấp cao Hiệp Ước Tiên Phong, Tổng biên tập điều hành ""Tuần san Luật Phổ cập Khoa học Kỹ thuật"" Tân Liên Bang, Nghiên cứu viên danh dự Viện Nghiên Cứu Hoàng Long."
+lang_multi_text.db,MultiText,InfoDisplay_11010111_Title,瑝珑研究院学术讲座安排,Huaxu Academy Academic Lecture Schedule,Lịch trình tọa đàm học thuật Viện Nghiên Cứu Hoàng Long
+lang_multi_text.db,MultiText,InfoDisplay_11010112_Text,"【茶疗推荐】
+渊武老板甄选春茶，佐以“晚秋”声料，冷水冲泡五分钟，即可听见四季在茶韵中流转，有安神、静心之效，欢迎各位客人进店品茶。
 
-被孢子感染的戏猿，追起人来根本不知疲倦。逃命的时候我非但不觉得恐慌，大脑反而开始飞速地运转——已知毒雾孢子是海蚀现象后才出现的造物，基于声态学的标准，被毒雾孢子感染的残象猿应该如何分类？残象被孢子感染的原理又是什么？药物又能否对残象生效？
 
-我用钩索灵巧地晃到了隐蔽的枝干上，被感染的戏猿失去了目标，只是迷茫地左顾右盼。它的神情如同迷路的孩子，呜咽着、咳嗽着，而它灰白的双目似乎也丧失了对空间的感知。伴随着每次剧烈的咳嗽，它的周身就会扬起一阵鳞粉般的孢子雾。孢子传播自身的本能，驱动着戏猿早已不堪重负的身体。
+【温馨提示】
+茶馆附近的小猫小狗性情温顺，是渊武老板的特殊客人，可逗玩投喂，不可驱赶虐待，否则后果自负。
 
-这是一种协同进化？抑或是一种寄生模式？","It's been a while since I had such an intense workout.
+【急招！！！】
+本店急招茶疗研发师，培训上岗，薪资面聊！","[Seasonal Picks]
+Carefully selected Spring Tea, paired with ""Lotus Top Morning Dew"", known for its calming and soothing effects. Feel free to come in and enjoy our tea.
 
-The contaminated Hoochief exhibited an astonishing lack of fatigue in their relentless pursuit of its prey—unfortunately, that prey was me. However, when escaping, I didn't feel panic and my brain started racing. I was well aware that the toxic spores are a direct consequence of the Waveworm Phenomenon. Based on the Ecoacoustics standards, how should we classify those contaminated Hoochiefs? Furthermore, how do those toxic spores contaminate Tacet Discords and is meditation a viable solution for Tacet Discords contamination?
+[Reminder]
+The cute cats and dogs outside the teahouse are not just visitors; they are cherished members of our teahouse family. Guests are invited to interact with and treat them kindly. For those with sensitivities to our furry friends, we recommend the serene terrace on the second floor. From there, you can bask in the breathtaking view of Jinzhou and embrace the delightful atmosphere of the city.
 
-Utilizing the Grapple function, I skillfully swung onto a hidden branch. The contaminated Hoochief lost track of its target and scanned around in confusion. It looked like a lost kid, whimpering and coughing, and it seemed to lose spatial perception. Each intense cough released a burst of toxic spores into the air. The spores, driven by their innate instinct to propagate, further pushed the already weakend body of the Hoochief to its utmost limit.
+[Now Hiring]
+Tea for refreshment and tea for kindred spirits. Liuxian Teahouse is now hiring tea enthusiasts to join our team, and salary is negotiable.","[Đề xuất Trà trị liệu]
+Trà xuân được ông chủ Yuanwu tuyển chọn kỹ càng, kết hợp với thanh liệu ""Vãn Thu"", hãm bằng nước lạnh trong năm phút, là có thể nghe thấy bốn mùa luân chuyển trong vị trà, có tác dụng an thần, tĩnh tâm, chào mừng quý khách vào quán thưởng trà.
 
-I started wondering: is it a form of co-evolution, or does it represent a parasitic relationship?","Phù, lần cuối vận động dữ dội thế này là khi nào rồi không nhớ nổi.
 
-Lũ hí viên bị bào tử lây nhiễm, đuổi người mà không hề biết mệt. Lúc chạy thoát thân, tôi chẳng những không hoảng loạn mà đầu óc lại quay nhanh hơn bao giờ hết - đã biết bào tử độc là tạo vật xuất hiện sau hiện tượng hải thực, theo tiêu chuẩn thanh thái học, Tàn Tượng viên bị bào tử độc lây nhiễm nên được phân loại thế nào? Cơ chế bào tử lây nhiễm Tàn Tượng là gì? Thuốc liệu có tác dụng với Tàn Tượng không?
+[Nhắc nhở ấm áp]
+Chó mèo nhỏ gần quán trà có tính tình hiền lành, là những vị khách đặc biệt của ông chủ Yuanwu, có thể chơi đùa cho ăn, không được xua đuổi ngược đãi, nếu không tự gánh hậu quả.
 
-Tôi dùng móc dây uyển chuyển đu lên nhánh cây khuất, con hí viên bị nhiễm mất dấu mục tiêu, chỉ ngơ ngác nhìn quanh. Thần sắc nó như đứa trẻ lạc đường, rên rỉ và ho sặc sụa, đôi mắt xám trắng dường như đã mất khả năng nhận biết không gian. Mỗi lần ho dữ dội, quanh người nó lại bốc lên một đám bào tử mịn như phấn vảy. Bản năng phát tán của bào tử thúc đẩy thân xác đã kiệt sức của hí viên.
+[Tuyển gấp!!!]
+Quán cần tuyển gấp chuyên gia phát triển trà trị liệu, đào tạo trước khi làm việc, lương thỏa thuận!"
+lang_multi_text.db,MultiText,InfoDisplay_11010112_Title,夜莺茶馆,Liuxian Teahouse,Trà Quán Dạ Oanh
+lang_multi_text.db,MultiText,InfoDisplay_11010113_Text,"石头负责批次10200至10299：已过检，已完成运输及配装。
+连珂负责批次10300至10399：已过检，运输中。
+谢伯负责批次10400至10449：<s>无检测信息，状态未知。</s>人工过检，相关事宜联系本人处理。","Stone is responsible for batches 10200 to 10299: inspected, transportation and assembly completed.
+Lian Ke is responsible for batch 10300 to 10399: inspection has been done, transportation is in progress.
+Batch 10400 to 10449: <s>No inspection information, status unknown. </s>Manually inspected, contact me to handle related matters.","Thạch Đầu phụ trách lô 10200 đến 10299: Đã qua kiểm tra, đã hoàn thành vận chuyển và lắp ráp.
+Liên Kha phụ trách lô 10300 đến 10399: Đã qua kiểm tra, đang vận chuyển.
+Tạ Bá phụ trách lô 10400 đến 10449: <s>Không có thông tin kiểm tra, trạng thái chưa rõ.</s> Đã qua kiểm tra thủ công, các vấn đề liên quan liên hệ chính chủ xử lý."
+lang_multi_text.db,MultiText,InfoDisplay_11010113_Title,检查日志,Check logs,Nhật ký kiểm tra
+lang_multi_text.db,MultiText,InfoDisplay_11010114_Text,"经试语认证，试夏已经成功爬到这封信所在的高度了！
 
-Đây là tiến hóa cộng sinh? Hay là một dạng ký sinh?"
-lang_multi_text.db,MultiText,InfoDisplay_11040157_Title,无光之森生态调查4,Ecological Survey of the Dim Forest 4,Khảo Sát Sinh Thái Rừng Vô Quang 4
-lang_multi_text.db,MultiText,InfoDisplay_11040158_Text,"戏猿群落的社会行为比想象中的还要神奇，正因如此它们也成为了无光之森中的优势种群。
+试夏考上了今州最好的学宫，她说她以后想要去天工部。嗯……她果然又比以前厉害了，我很骄傲，也很羡慕。我还没有想好自己长大后的目标。
+她今天又说了那些蠢话。我早就知道她会考上，她从早学到晚，放假也不和我出去玩，什么好运，我才不信。","Here's Shiyu's stamp of approval: Shixia has officially reached the summit where this letter resides!
 
-根据我的调查，爆发的毒雾孢子云，以中央巨榕为圆心不断向着森林外围扩散。而为了躲避毒雾孢子的侵袭，逃窜至不同安全区的戏猿们，也逐渐形成了以「家长制」为核心的族群。而如此程度的智能，我并未在其它类型的残象身上见到。而戏猿的聚落区附近，也鲜少出现其它类型残象的活动痕迹，猜测是「领地意识」驱使它们拥有了分工，并协同攻击试图入侵领地的生物。
+Shixia recently got accepted into the top school in Jinzhou and has set her sights on working for the Ministry of Development. She's come a long way and I can't help but feel proud and a little envious. Meanwhile, I'm still figuring out my own career path. Shixia joked about her intense studying habits again today, but I know she'll pass with flying colors — she's always been dedicated and doesn't even take breaks to hang out with me during vacation. I can hardly believe her good luck, but I couldn't be happier for her.","Được Thí Ngữ chứng nhận, Thí Hạ đã leo thành công đến độ cao nơi đặt lá thư này!
 
-更令我我更好奇的是，如果族群内部出现了被孢子感染的戏猿，猿群会做出什么样的抉择？以及……我在飞廉之猩出没的沿途，瞥见了形似坟茔的土堆，但我还没来得及仔细观察。","The social behavior of Hoochiefs is even more astonishing than imagined, establishing them as the dominant species in the Dim Forest.
+Thí Hạ đã thi đỗ vào học cung tốt nhất Kim Châu, cậu ấy nói sau này muốn vào Bộ Thiên Công. Ừm... cậu ấy quả nhiên lại giỏi hơn trước rồi, tôi rất tự hào, cũng rất ghen tị. Tôi vẫn chưa nghĩ ra mục tiêu sau khi lớn lên của mình.
+Hôm nay cậu ấy lại nói những lời ngốc nghếch đó. Tôi sớm đã biết cậu ấy sẽ thi đỗ, cậu ấy học từ sáng đến tối, nghỉ lễ cũng không đi chơi với tôi, may mắn cái gì chứ, tôi mới không tin."
+lang_multi_text.db,MultiText,InfoDisplay_11010114_Title,试语的信,Shiyu's Letter,Thư của Thí Ngữ
+lang_multi_text.db,MultiText,InfoDisplay_11010115_Text,"经试语认证，试夏已经成功爬到这封信所在的高度了！
 
-According to my survey, the toxic spore mist constantly spreads outward from the Central Banyan. To avoid the invasion of those spores, Hoochiefs disperse into different groups, seeking refuge in various safe zones, gradually forming communities characterized by ""paternalism"". The intelligence displayed by those Hoochiefs seem to be unique among Tacet Discords. Besides, near the Hoochief communities, sightings of activities from other Tacet Discords are notably scarce, which I attribute to a possible manifestation of ""territorial consciousness"". This consciousness prompts Hoochiefs to take different jobs and collaborate in repelling intruders from their territories.
+试夏说她不愿意继续爬山了，可是看到我开始爬之后，她很快追了上来，拼了命手脚并用跟在我身后，终于和我一起爬到了这么高的地方。我就知道她不是那么轻易认输的人。
+试夏考上了乐肄太学。还好她考上了，否则，她的卧室里真的要迈不开腿了。我从来没见过那么多学习资料，没见过有人卧室里的灯在近一年的时间里一直彻夜亮着，学霸真是恐怖啊……好在她看起来乐在其中。
+我不明白，为什么成功考上后她的心情会这么差……她在看风景呢，我要现在趁机去问问。","Here's Shiyu's stamp of approval: Shixia has officially reached the summit where this letter resides!
 
-What makes me even more curious is the response of a community if a Hoochief becomes contaminated. I am left wondering about the decisions such communities would make in such a scenario. Along the frequented path of the Feilian Beringal, I caught a glimpse of some grave-like mounds. Unfortunately, I didn't have the time to examine them carefully.","Hành vi xã hội của quần thể hí viên còn kỳ diệu hơn tưởng tượng, chính vì thế chúng trở thành loài chiếm ưu thế trong Rừng Vô Quang.
+Shixia just got accepted into the top school in Jinzhou, and she's set her sights on working at the Ministry of Development. I couldn't be happier for her, but also a bit envious of her drive and success. Meanwhile, I still have no idea what I want to do with my life. Shixia keeps bragging about how she'll pass the exam with flying colors, but let's be real, she studies all day and night while I'm out having fun on vacation. She's like a mountain climber, reaching new heights with every achievement. Good for her!
 
-Theo điều tra của tôi, đám mây bào tử độc bùng phát từ cây Đại Đa trung tâm liên tục lan ra vùng ngoài rừng. Để tránh sự xâm lấn của bào tử độc, những con hí viên chạy tản đến các khu vực an toàn khác nhau, dần hình thành các bầy đàn lấy chế độ ""gia trưởng"" làm trung tâm. Mức độ thông minh như vậy, tôi chưa từng thấy ở bất kỳ loại Tàn Tượng nào khác. Gần khu vực cư trú của hí viên cũng hiếm khi thấy dấu vết hoạt động của các loại Tàn Tượng khác, tôi đoán là ""ý thức lãnh thổ"" thúc đẩy chúng phân công hợp tác và cùng tấn công những kẻ xâm phạm lãnh địa.
+Despite Shixia's initial hesitation, she ended up crawling up the steep terrain alongside me. And after reaching such great heights together, it was clear she wouldn't back down easily. Thankfully, she got into Leyi Academy, otherwise her legs would have been permanently stuck in her bedroom from all the studying. I've never seen someone with so many textbooks and a consistently lit bedroom for a whole year... the school bully must be terrifying! But Shixia seems to be enjoying herself. 
 
-Điều khiến tôi tò mò hơn là, nếu trong bầy đàn xuất hiện hí viên bị bào tử lây nhiễm, chúng sẽ đưa ra lựa chọn gì? Và nữa... trên đường đi ngang nơi Phi Liêm Chi Tinh hay xuất hiện, tôi thoáng thấy những ụ đất hình dáng giống mộ phần, nhưng chưa kịp quan sát kỹ."
-lang_multi_text.db,MultiText,InfoDisplay_11040158_Title,无光之森生态调查5,Ecological Survey of the Dim Forest 5,Khảo Sát Sinh Thái Rừng Vô Quang 5
-lang_multi_text.db,MultiText,InfoDisplay_11040159_Text,"褪色的告示板：
-……观览请仔细阅读《自然保护区观览须知》：
-……栈道区以南为自然保护区，请勿跨越隔离网，贸然进入；
-……保护区内严禁使用明火，违者将依法追究法律责任；
-……文明观览，请勿随意投喂猿群。","Faded Notice Board
-Before... your sightseeing adventure, please... to familiarize yourself with the <i>Natural Reserve Sightseeing Guide</i>:
-The natural reserve... to the south of the gallery roads. For your safety, please refrain from... the barrier netting and entering... without proper authorization.
-The use of fire is strictly prohibited in... violators... prosecuted.
-For better conservation, please refrain... feeding the Hoochiefs.","Bảng thông báo đã phai màu:
-...Trước khi tham quan, vui lòng đọc kỹ ""Quy Định Tham Quan Khu Bảo Tồn Thiên Nhiên"":
-...Phía nam khu vực đường lát ván là khu bảo tồn thiên nhiên, xin không vượt qua lưới rào, tự ý xâm nhập;
-...Nghiêm cấm sử dụng lửa trong khu bảo tồn, người vi phạm sẽ bị truy cứu trách nhiệm theo pháp luật;
-...Tham quan văn minh, xin không tự ý cho bầy viên ăn."
-lang_multi_text.db,MultiText,InfoDisplay_11040159_Title,北部入口的告示板,Notice Board at the Northern Entrance,Bảng Thông Báo Cổng Phía Bắc
-lang_multi_text.db,MultiText,InfoDisplay_11040160_Text,"褪色的告示板：通往港市请由此出。
+I just don't understand why she's suddenly in a bad mood after acing the exam... I should take the chance to ask her, since she’s busy enjoying the scenery right now.","Được Thí Ngữ chứng nhận, Thí Hạ đã leo thành công đến độ cao nơi đặt lá thư này!
 
-流放者的涂鸦：谁知道老大怎么想的，竟然挑了这么个鬼地方扎营……
-流放者的涂鸦：看起来物资多，实际上全是那帮猩猩的！
-流放者的涂鸦：它们一个比一个精，连个云芝都甭想从它们手里抢走！
-流放者的涂鸦：今天又要挨饿了，哎……","Faded Notice Board
-
-Exile's Graffiti: Seriously, can anyone clue me in on what's going through Boss's mind? I just can't wrap my head around why he chose this awful spot to settle down.
-Exile's Graffiti: Even though it looks like there's a ton of supplies here, we can't get our hands on any! Those Hoochiefs are keeping a tight grip on everything.
-Exile's Graffiti: Turns out, they're smarter than I thought, and it's impossible to snatch a Coriolus from them.
-Exile's Graffiti: Looks like it's another day of going hungry...","Bảng thông báo đã phai màu: Đi hướng này để ra thành phố cảng.
-
-Vẽ bậy của Kẻ Lưu Đày: Ai mà biết đầu lĩnh nghĩ gì, lại chọn cái nơi khỉ ho cò gáy thế này để dựng trại...
-Vẽ bậy của Kẻ Lưu Đày: Trông thì tưởng nhiều vật tư lắm, thực ra toàn là của lũ khỉ đột!
-Vẽ bậy của Kẻ Lưu Đày: Lũ ấy con nào cũng tinh ranh, đến một cây vân chi cũng đừng hòng giành được từ tay chúng!
-Vẽ bậy của Kẻ Lưu Đày: Hôm nay lại phải nhịn đói rồi, haiz..."
-lang_multi_text.db,MultiText,InfoDisplay_11040160_Title,归墟港市和无光之森交界处告示板,Notice Board at the border of Port City of Guixu and the Dim Forest,Bảng Thông Báo Giao Giới Thành Phố Cảng Quy Khư Và Rừng Vô Quang
-lang_multi_text.db,MultiText,InfoDisplay_11040161_Text,褪色的告示板：前方羽鹭湿地保护区，请勿翻越护栏。,"Faded Notice Board
-Heron Wetland Reserve ahead. Please do not climb the fence.","Bảng thông báo đã phai màu: Phía trước là khu bảo tồn đất ngập nước Vũ Lộ, xin không trèo qua hàng rào."
-lang_multi_text.db,MultiText,InfoDisplay_11040161_Title,东部森林告示板,Notice Board in the Eastern Forest,Bảng Thông Báo Rừng Phía Đông
-lang_multi_text.db,MultiText,InfoDisplay_11040162_Text,"在毒雾孢子的侵占下，地区内的多数物种正处于一个相对危险的境地。
-以紫月榕为例，一旦毒雾孢子的载量超出其抵御能力，或许沦陷也只是时间问题。
-还有不愿离开中央巨榕的飞廉之猩......虽然还未出现明显的寄生病症，但长期暴露于高浓度的毒雾孢子之下，其心智必然会受到影响。
-
-那些形似坟茔的土堆我也查明了，飞廉之猩似乎会（电波干扰声）对被感染的族人进行（电波干扰声），再将其埋葬在中央巨榕的树下。
-
-记录者：据说，中央巨榕曾是猿群最初的家园。另外……
-【戏猿的吱吱声——】
-记录者：坏猩猩！那个不是吃的东西！
-【戏猿的嘲笑声——】
-记录者：给我站住——（声音渐远）","In the face of the encroaching threat of toxic spores, most species in this region find themselves in a perilous situation. Take the Violuna Banyan as an example. Once its spore load surpasses its defensive capacity, contamination is just a matter of time.
-The Feilian Beringal refused to leave the forest and lingered around the Central Banyan. While there are no apparent symptoms of parasitism, prolonged exposure to the high concentration of toxic spores has evidently affected its mental well-being.
-
-Furthermore, I found out that those grave-like mounds were. It seems that the Feilian Beringal will (interference sound) those contaminated fellows, burying them under the Central Banyan.
-
-Recorder: It's said that the Central Banyan used to the very first home of the Hoochiefs. Besides...
-[Hoochiefs' Gibbering]
-Recorder: Hey! That's not something to eat!
-[Hoochiefs' Mocking]
-Recorder: Stop! Give that back to me! (Sound gradually fades away)","Dưới sự xâm chiếm của bào tử độc, phần lớn các loài trong khu vực đang ở trong tình thế khá nguy hiểm.
-Lấy cây Đa Tử Nguyệt làm ví dụ, một khi lượng bào tử độc vượt quá khả năng chống chịu, có lẽ thất thủ chỉ là vấn đề thời gian.
-Còn có con Phi Liêm Chi Tinh không chịu rời cây Đại Đa trung tâm... tuy chưa xuất hiện triệu chứng ký sinh rõ ràng, nhưng tiếp xúc lâu dài với bào tử độc nồng độ cao, tâm trí chắc chắn sẽ bị ảnh hưởng.
-
-Những ụ đất hình mộ kia tôi cũng đã tìm hiểu rõ, Phi Liêm Chi Tinh dường như sẽ (tiếng nhiễu sóng) đồng tộc bị nhiễm bệnh (tiếng nhiễu sóng), rồi chôn chúng dưới gốc cây Đại Đa trung tâm.
-
-Người ghi chép: Nghe nói, cây Đại Đa trung tâm từng là ngôi nhà đầu tiên của bầy viên. Ngoài ra...
-[Tiếng kêu chí chóe của hí viên-]
-Người ghi chép: Khỉ hư! Cái đó không phải đồ ăn!
-[Tiếng cười chế giễu của hí viên-]
-Người ghi chép: Đứng lại cho ta- (tiếng xa dần)"
-lang_multi_text.db,MultiText,InfoDisplay_11040162_Title,无光之森生态调查总结,Ecological Survey Conclusion of the Dim Forest,Tổng Kết Khảo Sát Sinh Thái Rừng Vô Quang
-lang_multi_text.db,MultiText,InfoDisplay_11040163_Text,"特派员：你好，我们是先行公约的特派员，可以采访你吗？
-特派员：你觉得这里为什么叫虎口呢？
-矿工大叔：嗐，虎口虎口，养家糊口嘛，顾名思义。
-小朋友：明明是这里的大坑像老虎的尖牙利嘴！
-外邦游客：可能和今州的太平乐有点关系吧？啊？太平乐是舞狮啊？（周围人的笑声）","Interviewer: Hello, I'm an interviewer from Pioneer Association. May I interview you?
-Interviewer: Why do you think this place is called ""Tiger's Maw""?
-Senior miner: Ha. We work here and we feed hungry mouths, in the way tigers would feed themselves. That's why.
-Child: No! Apparently it's because the giant pit here looks like a tiger's gaping maw!
-Visitor from away: Maybe it has something to do with Tigerdance at Jinzhou? Oh? So it's actually Liondance? (Laughter of others)","Đặc phái viên: Xin chào, chúng tôi là đặc phái viên của Hiệp Ước Tiên Phong, có thể phỏng vấn anh/chị được không?
-Đặc phái viên: Anh/chị nghĩ vì sao nơi đây lại gọi là Hổ Khẩu?
-Chú thợ mỏ: Hà, Hổ Khẩu ấy mà, nuôi miệng nuôi nhà thôi, đúng nghĩa đen luôn.
-Bé nhỏ: Rõ ràng là vì cái hố lớn ở đây giống hệt hàm răng nhọn của con hổ mà!
-Du khách ngoại bang: Có lẽ liên quan đến Thái Bình Nhạc ở Kim Châu nhỉ? Á? Thái Bình Nhạc là múa lân hả? (Tiếng cười xung quanh)"
-lang_multi_text.db,MultiText,InfoDisplay_11040163_Title,《潮汐地理·今州访谈》,Wutherium Geographic - Interviews in Jinzhou,"""Triều Tịch Địa Lý - Phỏng Vấn Kim Châu"""
-lang_multi_text.db,MultiText,InfoDisplay_11040164_Text,"都注意了，近期矿区专用运输车的年审又要开始了，大家记得带上驾照，驾照必须在有效期内。
-凡是证件过期的，不管他是干了几年的老手，统统算无证人员，不准上路。
-送检申请时间是本月月底到下月月中，要年审的带好个人证件到天工办理申请，考核时间之后另行通知。
-年审之前，都看看下面这几个文件，做好准备。别到时候考不合格，叫人家笑话。
-
-附件：1《矿区运输车年审细则》
-2《车辆技术等级评定基本要求》","Hear me, everyone. The Annual Inspection of the Transport lorries for the mines is about to begin. Bring your license when you go to the inspection. It must be valid.
-Anyone with an expired license will all be considered uncertified personnel. You're gonna be denied access to your vehicle, no matter how experienced you are as a driver.
-The inspection will take place from the end of this month to the middle of the next. Bring your ID papers and file your application at Ministry of Development. The time of the examination will be published on another occasion.
-Ready the files attached here carefully before you go and get yourself prepared. You're gonna want to thank me.
-
-Attachments: 1) <i>Particulars of the Annual Inspections of Transport Lorries at the mine</i>
-2) <i>Basic Criteria for the Assessments of Vehicle Driving Skills</i>","Mọi người chú ý, đợt kiểm định hằng năm xe vận chuyển chuyên dụng của khu mỏ sắp bắt đầu rồi, nhớ mang theo bằng lái, bằng lái phải còn trong thời hạn.
-Ai chứng nhận hết hạn, dù là tay lão luyện mấy năm, đều tính là người không có giấy phép, không được lên đường.
-Thời gian nộp đơn kiểm định là từ cuối tháng này đến giữa tháng sau, ai cần kiểm định thì mang giấy tờ cá nhân đến Thiên Công làm thủ tục, thời gian khảo hạch sẽ thông báo sau.
-Trước khi kiểm định, đọc kỹ mấy tài liệu dưới đây, chuẩn bị cho tốt. Đừng để lúc thi không đạt, bị người ta cười.
-
-Đính kèm: 1. ""Chi Tiết Kiểm Định Hằng Năm Xe Vận Chuyển Khu Mỏ""
-2. ""Yêu Cầu Cơ Bản Đánh Giá Cấp Bậc Kỹ Thuật Phương Tiện"""
-lang_multi_text.db,MultiText,InfoDisplay_11040164_Title,运输车年审电子告示,Electronic Notice for the Annual Inspection of Transport lorry,Thông Báo Điện Tử Kiểm Định Hằng Năm Xe Vận Chuyển
-lang_multi_text.db,MultiText,InfoDisplay_11040165_Text,"《虎口矿场作业安全管理条例》中的几条高压线守则，矿工以荧光笔标注：
-
-43.需以两人为一组的最小单位行动，作业须随身携带分贝计量仪。
-
-44.听到求助声与呼唤声时，须与工友共同确认音源方位，并观察分贝计量仪是否存在数值变化，再决定下一步的行动。
-
-* 若为是，请继续阅读第45条；若为否，请跳转阅读至《紧急避险》条目下第78至79条。
-
-45.若分贝计量仪存在明显数值变化，请以终端向调度站报备。报备并得到许可后，再前往音源处进行施救。
-
-……
-
-78.若分贝计量仪无数值变化，请立刻将终端切换至应急导航模式（以终端光效显示为红，并闪烁3次为启用信号），请停止作业，并依照指引有序撤离作业点，请勿解开你与工友的安全绳。
-
-79.精炼塔南侧将有应急小队接引您前往矿场医疗科，医疗科将提供相应的诊察。","Critical paragraphs in <i>Security Regulations for Operations at the mines of Tiger's Maw</i>, highlighted by a miner:
-
-43) The minimum unit of action is a group of two people, and a decibel meter must be carried in operations.
-
-44) When hearing cries for help and calls, you should work with your colleague(s) to confirm the direction of the sound and observe whether there is a change in readings of the decibel meter before deciding on the following action to take.
-
-*If there is a change, read Article 45; if there isn't, jump to Article 78 and 79 of ""Emergency Section"".
-
-45) If an apparent change in readings is observed of the decibel meter. Report to the Control Station with your Terminal. After the report is approved, attempt your rescue.
-...
-78) If the decibel meter shows no changes in the readings, IMMEDIATELY switch the Terminal to emergency navigation mode (effective when the terminal light will turn red and blink 3 times). STOP any operation and evacuate the site in an orderly manner according to the instructions. DO NOT UNTIE the safety rope connecting you and your colleagues.
-
-79) An emergency team will guide you to the mine's medical department on the south side of the Refinery Tower. The medical department will provide the necessary examination for you.","Một số điều khoản quan trọng trong ""Quy Chế Quản Lý An Toàn Tác Nghiệp Mỏ Hổ Khẩu"", được thợ mỏ đánh dấu bút dạ quang:
-
-43. Phải hoạt động theo đơn vị tối thiểu hai người một tổ, khi tác nghiệp phải mang theo máy đo decibel.
-
-44. Khi nghe thấy tiếng kêu cứu hay tiếng gọi, phải cùng đồng nghiệp xác nhận hướng nguồn âm, đồng thời quan sát máy đo decibel có thay đổi chỉ số hay không, rồi mới quyết định bước tiếp theo.
-
-* Nếu có, vui lòng đọc tiếp điều 45; nếu không, vui lòng chuyển đến điều 78 đến 79 trong mục ""Sơ Tán Khẩn Cấp"".
-
-45. Nếu máy đo decibel có thay đổi chỉ số rõ rệt, hãy dùng thiết bị đầu cuối báo cáo với trạm điều phối. Sau khi báo cáo và được cho phép, mới đến nơi phát ra âm thanh để tiến hành cứu hộ.
-
-...
-
-78. Nếu máy đo decibel không có thay đổi chỉ số, lập tức chuyển thiết bị đầu cuối sang chế độ dẫn đường khẩn cấp (khi đèn thiết bị chuyển đỏ và nhấp nháy 3 lần là tín hiệu kích hoạt), dừng tác nghiệp ngay, di tản khỏi vị trí làm việc theo hướng dẫn một cách trật tự, KHÔNG được tháo dây an toàn nối bạn với đồng nghiệp.
-
-79. Phía nam tháp tinh luyện sẽ có đội ứng cứu đưa bạn đến khoa y tế của mỏ, khoa y tế sẽ tiến hành kiểm tra tương ứng."
-lang_multi_text.db,MultiText,InfoDisplay_11040165_Title,《虎口矿场作业安全管理条例》,Security Regulations for Operations at the mines of Tiger's Maw,"""Quy Chế Quản Lý An Toàn Tác Nghiệp Mỏ Hổ Khẩu"""
-lang_multi_text.db,MultiText,InfoDisplay_11040166_Text,"近日矿场内异象活跃，多起作业失踪案件仍在持续调查中。
-为了在职员工的生命安全，请严格遵从《虎口矿场作业安全管理条例》。
-安全线就是生命线，切勿听信来源不明的呼救声。
-夜归已派遣调查小队进行勘察，请耐性等待调查结果。","Lately the ""dormant Tacet Discord"" displays strange activities. Multiple incidents of miners missing have happend and are under investigation.
-You are advised to strictly follow the <i>Security Regulations for Operations at the mines of Tiger's Maw</i> to ensure the safety of yourselves and everyone around.
-Safety is everything. Do not follow any unidentified cries for help.
-Midnight Rangers have sent out teams for investigation. The cause of the anomalies will soon be clear,","Gần đây trong khu mỏ xuất hiện nhiều dị tượng, nhiều vụ mất tích trong lúc tác nghiệp vẫn đang được tiếp tục điều tra.
-Vì sự an toàn tính mạng của toàn thể nhân viên, xin hãy tuân thủ nghiêm ngặt ""Quy Chế Quản Lý An Toàn Tác Nghiệp Mỏ Hổ Khẩu"".
-Ranh giới an toàn chính là ranh giới sinh mạng, tuyệt đối không tin vào tiếng kêu cứu không rõ nguồn gốc.
-Dạ Quy đã cử đội điều tra đến khảo sát, xin kiên nhẫn chờ đợi kết quả."
-lang_multi_text.db,MultiText,InfoDisplay_11040166_Title,关于矿场下“蛰伏残象”出现异动的调查通报,"Notice Regarding the Anomalous Behaviors of the ""Dormant Tacet Discord"" Underneath the Mine","Thông Báo Điều Tra Về Dị Động Của ""Tàn Tượng Ẩn Phục"" Dưới Khu Mỏ"
-lang_multi_text.db,MultiText,InfoDisplay_11040167_Text,"我们沉入了迷雾几秒钟，或者几分钟？我现在还没有缓过劲来，失温依然让我浑身发颤，整个人都像是刚从冰柜里被取出来，僵硬地蜷缩着，我的思考能力近乎停滞。
-那是什么……我们经历了什么……我们现在在哪？
-他们，被雾带走的矿工们，又在哪里？
-……
-我会继续记录的，这能让我的头脑维持运转。直到我解出这些问题。","How long have we been sunken into the haze? A few seconds, or perhaps a few minutes? I have yet to recover from the ordeal; the hypothermia is still causing my entire body to tremble. I feel as if I have just been pulled out of a freezer, stiff and curled up. My ability to think has almost come to a standstill.
-What was it? What did we go through? Where are we?
-The miners taken away by the haze, where are they?
-...
-I will keep jotting things. It keeps my brain running. Until I figure this out.","Chúng tôi chìm vào màn sương mấy giây, hay mấy phút? Giờ tôi vẫn chưa hoàn hồn, hạ thân nhiệt khiến toàn thân run rẩy, cả người như vừa được lôi ra khỏi tủ đông, co quắp cứng đờ, khả năng suy nghĩ gần như đình trệ.
-Đó là gì... chúng tôi đã trải qua gì... giờ chúng tôi đang ở đâu?
-Họ, những thợ mỏ bị sương cuốn đi, đang ở đâu?
-...
-Tôi sẽ tiếp tục ghi chép, điều này giúp đầu óc tôi duy trì hoạt động. Cho đến khi tôi tìm ra lời giải cho những câu hỏi này."
-lang_multi_text.db,MultiText,InfoDisplay_11040167_Title,迷雾深坑勘探队记录1,"Logs of Hazy Depths Prospecting Team, I",Nhật Ký Đội Thăm Dò Hố Sâu Sương Mù 1
-lang_multi_text.db,MultiText,InfoDisplay_11040168_Text,"驰速把背包留下给我了，我知道他已经做好了涉陷营救的准备。我很害怕，怕他回不来，更怕他变成别的什么回来……黑石武器，不应该用在战友身上。
-更何况，是他留给我的这把。","Chisu left his backpack to me, and I knew he was prepared for a risky rescue. I was filled with fear, afraid that he might not return, and even more afraid that he might come back something else... Tacetite Weapon should never be used against comrades.
-Especially the one he left me with.","Trì Tốc để lại ba lô cho tôi, tôi biết anh ấy đã sẵn sàng cho cuộc giải cứu đầy rủi ro. Tôi rất sợ, sợ anh ấy không trở về, càng sợ anh ấy biến thành thứ gì khác mà quay lại... Vũ khí Hắc Thạch, không nên dùng với đồng đội.
-Huống chi, đây là khẩu anh ấy để lại cho tôi."
-lang_multi_text.db,MultiText,InfoDisplay_11040168_Title,迷雾深坑勘探队记录2,"Logs of Hazy Depths Prospecting Team, II",Nhật ký Đội Thăm dò Hố Sương Mù 2
-lang_multi_text.db,MultiText,InfoDisplay_11040169_Text,"嗯……我想，那是驰速的声音……他就像一直以来安慰我时那样，平静地说着“没事了”……
-我的心情意外地随着他的声音而平静了下来，可我的手却无法控制地颤抖着。
-
-分贝计数器没有变化，我知道那并不是他，而是残象拙劣的把戏。","Hmm... I believe that was Chisu's voice. He spoke calmly, just like he always did when comforting me, ""It's alright""...
-My mood unexpectedly calmed down with his voice, but my hands trembled uncontrollably.
-
-The readings of the decibel counter remained unchanged. I knew it wasn't him. It was a shoddy trick of the TD.","Hừm... tôi nghĩ, đó là giọng của Trì Tốc... anh ấy bình tĩnh nói ""Không sao rồi"" như mọi lần an ủi tôi vậy...
-Tâm trạng tôi bất ngờ dịu lại theo giọng nói của anh, nhưng tay tôi lại run lên không kiểm soát được.
-
-Bộ đếm decibel không có thay đổi gì, tôi biết đó không phải anh ấy, mà chỉ là trò bịp vụng về của Tàn Tượng."
-lang_multi_text.db,MultiText,InfoDisplay_11040169_Title,迷雾深坑勘探队记录3,"Logs of Hazy Depths Prospecting Team, III",Nhật ký Đội Thăm dò Hố Sương Mù 3
-lang_multi_text.db,MultiText,InfoDisplay_11040170_Text,"小明的母亲问小明以后想做什么工作，小明说想当矿工。
-妈妈不理解为什么好吃懒做的小明想去做矿工，小明回答：“因为当矿工就可以【光明正大】地【旷工】了。”
-
-小字批注：好烂的谐音梗。矿洞里【乌漆嘛黑】的，谁跟你【光明正大】？","Jack's mother asks Jack what job he would like to do. Jack says he wants be a miner.
-Mother doesn't understand because Jack is not a hardworking boy. Jack says: ""I can take everything 'mine when I'm a miner.""
-
-Comments in small fonts: Nice one. Be careful of the ""hissers"" underground though.","Mẹ Tiểu Minh hỏi Tiểu Minh sau này muốn làm nghề gì, Tiểu Minh nói muốn làm thợ mỏ.
-Mẹ không hiểu vì sao thằng bé lười biếng lại muốn làm thợ mỏ, Tiểu Minh đáp: ""Vì làm thợ mỏ thì có thể [quang minh chính đại] mà [khoáng công] rồi.""
-
-Ghi chú nhỏ bên lề: Chơi chữ dở quá. Trong mỏ [tối thui] thế, ai mà [quang minh chính đại] với cậu?"
-lang_multi_text.db,MultiText,InfoDisplay_11040170_Title,谐音梗一则,A Pun,Một câu chơi chữ
-lang_multi_text.db,MultiText,InfoDisplay_11040171_Text,"阿谭：你真的去矿场上夜班了？
-阿井：在家里断水断粮之前，我还是决定给自己找个活计，抢救一下自己。
-阿井：不过这里也没有之前想的那么糟糕，我一直盯着对面上上下下的“大电梯”打发无聊，这一晚已经上下七七四九回了。
-阿谭：这个次数是不是频繁了一点？
-阿谭：而且我听说，近期矿场缩减了夜间排班的啊，怎么还有那么多动静呢？
-阿井：这倒是不太清楚，让我用专业适配夜间安保的共鸣能力看看情况。
-阿井：太不对劲了……
-阿谭：怎么了怎么了？
-阿井：这电梯怎么没有人坐啊？几层的开关我也看过了，附近都没人……不行，我得出去看看。
-阿谭：喂喂喂，你可别轻易行动啊，按故事走向，在外面等着你的可不知道是什么东西。
-阿井：那可不行，既然我接了这份工作，哪能只顾着我自己的安全。而且你也讲点科学行不行，还自诩是今州新一代呢，比老古板还相信这些……
-阿井：再说了，说不定是机械故障，或者我的同事们在恶作剧呢？毕竟矿场里工作那么无聊，也许他们商量好了给我这个新人一个“惊喜”？
-阿谭：岁主保佑，只能说祝你好运吧。","Tan: Are you really working the night shift at the mine?
-Jing: I decided to find myself a means of livelihood before the water and food run out at home. Saves me from starving myself.
-Jing: It wasn't as terrible as I had imagined, though. I kept staring at the ""grand elevator"" on that side, trying to kill time. It must have gone up and down at least fifty times this evening.
-Tan: Isn't it too frequent?
-Tan: Moreover, I heard that the mine has recently reduced the night shifts. So why is there still so much activity?
-Jing: I don't know either. Let me check with my night-security-adapted Forte.
-Jing: Something's definitely wrong...
-Tan: What is it?
-Jing: Nobody's in the elevator. I checked the platforms across the levels. No one's waiting... I have to go and check for myself.
-Tan: Hey hey hey. Don't get ahead of yourself yet. If this was a movie, the thing waiting for you out there definitely would not be what you expected.
-Jing: That's not true. I have to take care of more than my own safety, now that I'm in this job. Besides, you should start to be rational. Didn't you brag about being the new generation of Jinzhou? Why do you believe in this kind of thing more than those squares?
-Jing: Maybe it's just mechanical malfunctioning, or my co-workers being naughty? The work here is so dull. Maybe they decided to ""surprise"" me a little?
-Tan: Sentinel bless you. Good luck, then.","A Đàm: Cậu thật sự đi làm ca đêm ở mỏ à?
-A Tỉnh: Trước khi hết nước hết gạo ở nhà, tôi quyết định tìm cho mình một việc làm, tự cứu lấy mình.
-A Tỉnh: Mà ở đây cũng không tệ như tôi tưởng, tôi cứ ngồi nhìn cái ""thang máy lớn"" bên kia chạy lên chạy xuống cho đỡ buồn, tối nay nó đã lên xuống bốn chín lần rồi.
-A Đàm: Số lần đó có hơi nhiều quá không?
-A Đàm: Mà tôi nghe nói gần đây mỏ đã cắt giảm ca đêm rồi mà, sao vẫn còn nhiều động tĩnh thế?
-A Tỉnh: Cái này thì không rõ lắm, để tôi dùng năng lực cộng hưởng chuyên dùng cho bảo vệ ban đêm xem tình hình thế nào.
-A Tỉnh: Không ổn rồi...
-A Đàm: Sao sao sao?
-A Tỉnh: Thang máy này sao không có ai ngồi vậy? Tôi kiểm tra công tắc mấy tầng rồi, xung quanh chẳng có ai cả... không được, tôi phải ra ngoài xem.
-A Đàm: Ê ê ê, cậu đừng có hành động bừa, theo mạch truyện thì thứ đang chờ cậu ngoài kia chưa chắc là gì đâu.
-A Tỉnh: Không được đâu, đã nhận việc này rồi thì đâu có thể chỉ lo cho bản thân mình. Mà cậu cũng khoa học một chút đi được không, còn tự nhận là thế hệ mới của Kim Châu, tin mấy thứ này còn hơn cả mấy ông cổ hủ...
-A Tỉnh: Với lại, biết đâu là hỏng máy, hoặc mấy đồng nghiệp đang chơi khăm thì sao? Công việc trong mỏ chán thế, có khi họ bàn nhau tặng thằng mới một ""bất ngờ"" đấy?
-A Đàm: Tuế Chủ phù hộ, chỉ biết chúc cậu may mắn thôi."
-lang_multi_text.db,MultiText,InfoDisplay_11040171_Title,终端聊天记录,Chat Log found in a Terminal,Nhật ký trò chuyện trên thiết bị
-lang_multi_text.db,MultiText,InfoDisplay_11040172_Text,"设备名称：人货两用轿厢
-设备编号：HLHk-09
-使用部门：虎口矿场运输部
-故障状况：钢丝绳磨损量、断丝数异常增加，导致缆车架体之间软连接，无法正常运行。
-维修处理：已更换线缆。
-原因分析：已检查曳引轮、导向轮轴、限速器等相关部位，未锁定异常原因，怀疑操作不当导致。
-处理建议：再让我逮到哪个浑小子敢胡乱装货导致超载，我就把他挂线缆上，把他不装事情的脑瓜子给我晃匀喽！！
-维修人：老程","Name: Passenger/Freight Elevator
-Number HLHk-09
-Used by: Transport, Tiger's Maw Mine
-Issue Description: Steel wires wear out and fracture on an abnormally increased regularity. The support of the car on the frame is weakened. The elevator is out of function.
-Steps taken: Replaced the wires.
-Suspected Cause: Checked the traction wheel, the guide wheel and the speed governor. Found no issues. Improper operation suspected.
-Suggestion: If I catch anyone stacking too much cargo and going overload again, I'll tie him to the wire and make him remember!
-Handled by: Cheng","Tên thiết bị: Thang máy chở người và hàng
-Mã thiết bị: HLHk-09
-Bộ phận sử dụng: Phòng Vận tải Mỏ Hổ Khẩu
-Tình trạng hỏng: Dây cáp thép bị mài mòn, số sợi đứt tăng bất thường, khiến kết nối mềm giữa cabin và khung bị lỏng, không thể vận hành bình thường.
-Xử lý sửa chữa: Đã thay cáp mới.
-Phân tích nguyên nhân: Đã kiểm tra bánh kéo, trục bánh dẫn hướng, bộ hạn tốc và các bộ phận liên quan, chưa xác định được nguyên nhân bất thường, nghi do vận hành sai cách.
-Đề xuất xử lý: Để tôi bắt được thằng nào dám chất hàng bừa bãi gây quá tải, tôi treo nó lên dây cáp, lắc cho cái đầu không biết nghĩ của nó tỉnh ra!!
-Người sửa: Lão Trình"
-lang_multi_text.db,MultiText,InfoDisplay_11040172_Title,设备维修记录,Equipment maintenance records,Biên bản sửa chữa thiết bị
-lang_multi_text.db,MultiText,InfoDisplay_11040173_Text,"给老程：
-我查清楚那个守夜的新人报告的问题了。
-果然跟你说的一样，电梯空驶根本不是啥诡异现象，只是有人把升降机的重量感应阈值调低了而已，现在就是几粒沙子，都能让这大家伙空转个不停。现在的小年轻，老喜欢疑神疑鬼的……
-不过这里的修理还得你过来搭把手，需要用你的权限初始化系统设置。","To Cheng:
-I got through the problem reported by the new watchman.
-Just as you said, the elevator running without a payload is not at all paranormal. It's simply that someone has lowered the weight sensing threshold of the elevator. Now, even a few grains of sand can keep this machine going up and down endlessly. I don't like to criticize people but young guys nowadays are just so doubtful about everything...
-Nevertheless, we need your help for the reparing here. Only you have access to the system initialization.","Gửi lão Trình:
-Tôi đã tìm ra vấn đề mà tay trực đêm mới báo cáo rồi.
-Đúng như anh nói, thang máy chạy không tải chẳng phải hiện tượng kỳ quái gì, chỉ là có người chỉnh ngưỡng cảm biến trọng lượng của thang máy xuống thấp thôi, giờ chỉ vài hạt cát cũng đủ làm cái máy này chạy không ngừng. Bọn trẻ bây giờ, cứ hay nghi ngờ lung tung...
-Nhưng mà sửa chữa ở đây vẫn cần anh qua hỗ trợ, phải dùng quyền hạn của anh để khởi tạo lại cài đặt hệ thống."
-lang_multi_text.db,MultiText,InfoDisplay_11040173_Title,工程师的留言,Engineer's Note,Lời nhắn của kỹ sư
-lang_multi_text.db,MultiText,InfoDisplay_11040174_Text,"不可直接拆封！
-1、严格遵循安全规范，请使用配套设备启封。
-2、轻拿轻放，请勿倒置。
-3、临期勿用，否则可能导致设施运转效率降低。","DO NOT UNPACK with BARE HANDS
-1) Please follow security guidelines and unpack with ancillary equipment.
-2) Handle with care. Keep upright.
-3) Discard if this nears expiration, or it might slow down your facility.","KHÔNG được mở trực tiếp!
-1. Tuân thủ nghiêm ngặt quy tắc an toàn, hãy sử dụng thiết bị chuyên dụng để mở.
-2. Nhẹ tay, không lật ngược.
-3. Không sử dụng khi sắp hết hạn, nếu không có thể làm giảm hiệu suất vận hành của cơ sở."
-lang_multi_text.db,MultiText,InfoDisplay_11040174_Title,燃料包装上的警告标识,Warnings on the Packages of Fuel,Nhãn cảnh báo trên bao bì nhiên liệu
-lang_multi_text.db,MultiText,InfoDisplay_11040175_Text,"共鸣者 黑石武器
-黑石武器 对抗残象 原理
-共鸣者 开采 黑石
-如何成为共鸣者
-黑石 价值
-……","Resonator
- Tacetite Weapon
-How does Tacetite Weapon work against Tacet Discord
-Resonator mines Tacetite 
-How to be a Resonator
-Tacetite value
-...","Cộng Hưởng Giả Vũ khí Hắc Thạch
-Vũ khí Hắc Thạch chống Tàn Tượng nguyên lý
-Cộng Hưởng Giả khai thác Hắc Thạch
-Làm sao trở thành Cộng Hưởng Giả
-Hắc Thạch giá trị
+Thí Hạ nói cậu ấy không muốn tiếp tục leo núi nữa, nhưng sau khi thấy tôi bắt đầu leo, cậu ấy rất nhanh đã đuổi theo, liều mạng dùng cả tay chân bám theo sau lưng tôi, cuối cùng cũng cùng tôi leo lên được nơi cao thế này. Tôi biết ngay cậu ấy không phải người dễ dàng chịu thua mà.
+Thí Hạ đã thi đỗ Thái Học Nhạc Dị. May mà cậu ấy thi đỗ, nếu không, phòng ngủ của cậu ấy thực sự không còn chỗ chen chân nữa. Tôi chưa từng thấy nhiều tài liệu học tập đến thế, chưa từng thấy đèn trong phòng ngủ ai sáng suốt đêm trong gần một năm trời, học bá thật đáng sợ mà... may là cậu ấy có vẻ vui vẻ với điều đó.
+Tôi không hiểu, tại sao sau khi thi đỗ thành công tâm trạng cậu ấy lại tệ đến thế... Cậu ấy đang ngắm cảnh kìa, tôi phải tranh thủ lúc này đi hỏi xem sao."
+lang_multi_text.db,MultiText,InfoDisplay_11010115_Title,试语的信,Shiyu's Letter,Thư của Thí Ngữ
+lang_multi_text.db,MultiText,InfoDisplay_11020101_Text,"并肩子：兄弟、老兄、朋友。
+甩/报个蔓：报上名来。
+闷条子，不亮钢：不便通报名号。
+大/响蔓：名头大的人。
+空子：不懂行话的小白。
+团春：用行话交流。
+腿儿：受敬仰的人。
+瓢把子：老大，首领。
+端碗水来：钱财交出来。
+招路把合：眼睛放亮点，看仔细。
+招子：眼睛。
+顺风子：耳朵。
+金杆子：腿。
+青子：刀兵。
+棍子：枪械。
+……","Side by side: brother, buddy, friend.
+Shake/report a crank: to report a name.
+Stifle the bars, not to shine the steel: inconvenient to inform the name.
+Big/Loud crank: a person with a big name.
+Empty: a white person who doesn't know the jargon.
+Tuanchun: communicating in jargon.
+Legs: a person who is admired.
+Ladybird: boss, chief.
+Tuan Shui Huo: hand over the SHC money.
+Zhaoluzhuanghe: put your eyes on, look carefully.
+Zhaizi: eyes.
+Shunfengzi: ears.
+Golden rod: legs.
+Qingzi: swords and weapons.
+Stick: guns.
+....","Kề Vai: Huynh đệ, lão huynh, bạn bè.
+Quăng/Báo Dây Leo: Báo danh tính đi.
+Ngậm Thẻ, Không Sáng Thép: Không tiện báo danh tính.
+Dây Leo Lớn/Vang: Người có danh tiếng lớn.
+Người Rỗng: Tay mơ không hiểu tiếng lóng.
+Đoàn Xuân: Giao tiếp bằng tiếng lóng.
+Chân Chạy: Người được kính trọng.
+Cái Gáo: Đại ca, thủ lĩnh.
+Bưng Bát Nước Đến: Giao tiền tài ra.
+Chiêu Lộ Hợp: Mở to mắt ra, nhìn cho kỹ.
+Chiêu Tử: Mắt.
+Thuận Phong Tử: Tai.
+Cán Vàng: Chân.
+Thanh Tử: Đao kiếm.
+Gậy: Súng ống.
 ..."
-lang_multi_text.db,MultiText,InfoDisplay_11040175_Title,某位矿工的搜索记录,A Miner’s Search Record,Lịch sử tìm kiếm của một thợ mỏ
-lang_multi_text.db,MultiText,InfoDisplay_11040176_Text,"谁说演奏一定要乐器！
-在矿下工作的期间，我总能听到一些怪声，一开始还以为就是传闻所说的那个“声音”呢……但随后我发现，这些怪声其实是从矿物传出的，更神奇的是，它们有自己的韵律！
-黑石切割的形状、黑石的性质好坏，都会影响这段声波奏出不同的旋律。
-我把这些年录下的声音整理了一下，重新编曲成了一首歌，就是这首《石之音》。
-不过总感觉最近身体有些疲乏……好在先约电台已经收到了《石之音》的母带，我的一大心愿已经达成了！","Who said music must be played by instrument?
-During my time working in the mine, I kept hearing strange sounds. At first, I thought it was the rumored ""sound"" everyone talked about... But later on, I discovered that these strange sounds actually came from the minerals themselves, and even more astonishingly, they formed a unique tune!
-The shape the Tacetite is cut into and the quality of the Tacetite both dictates how this tune goes.
-I sorted through the recordings across the years and arranged them into a song, which is now known as ""Tune of Rocks"".
-I don't feel quite vigorous lately... But fortunately the Pioneer Association Radio has received the mastertape of ""Tune of Rocks"". My wish has been fulfilled!","Ai bảo chơi nhạc nhất định phải có nhạc cụ!
-Trong thời gian làm việc dưới mỏ, tôi luôn nghe thấy những âm thanh lạ, ban đầu còn tưởng là cái ""tiếng"" mà người ta đồn... nhưng sau đó tôi phát hiện ra, những âm thanh lạ đó thực ra phát ra từ khoáng vật, và kỳ diệu hơn nữa là chúng có nhịp điệu riêng!
-Hình dạng cắt của Hắc Thạch, chất lượng Hắc Thạch tốt xấu, đều ảnh hưởng đến giai điệu mà sóng âm tạo ra.
-Tôi đã sắp xếp lại những âm thanh thu được trong suốt mấy năm qua, biên soạn lại thành một bài hát, chính là bài ""Âm Thanh Của Đá"" này.
-Dạo gần đây cảm thấy người hơi mệt mỏi... nhưng may là đài phát thanh Hiệp Ước Tiên Phong đã nhận được bản gốc của ""Âm Thanh Của Đá"" rồi, tâm nguyện lớn nhất của tôi đã hoàn thành!"
-lang_multi_text.db,MultiText,InfoDisplay_11040176_Title,石之音,Tune of Rocks,Âm Thanh Của Đá
-lang_multi_text.db,MultiText,InfoDisplay_11040177_Text,"“灯塔的光永远不会熄灭，欢迎回家，朋友。”
-音频可以使用摩斯密码电报：-/...././.-../../--./..../-/.../.--/../.-../.-../-././...-/./.-./--./---/---/..-/-/.-.-.-/.--/./.-../-.-./---/--/./..../---/--/./--..--/--/-.--/..-./.-./.././-./-../.-.-.-
-缩略版：-/...././.-../../--./..../-/.../.--/../.-../.-../-././...-/./.-./--./---/---/..-/-","""The lighthouse will always shine with its eternal light. Welcome home, my friend.""","""Ánh sáng ngọn hải đăng sẽ không bao giờ tắt, chào mừng trở về nhà, bạn ơi.""
-Âm thanh có thể dùng mã Morse: -/...././.-../../--./..../-/.../.--/../.-../.-../-././...-/./.-./--./---/---/..-/-/.-.-.-/.--/./.-../-.-./---/--/./..../---/--/./--..--/--/-.--/..-./.-./.././-./-../.-.-.-
-Bản rút gọn: -/...././.-../../--./..../-/.../.--/../.-../.-../-././...-/./.-./--./---/---/..-/-"
-lang_multi_text.db,MultiText,InfoDisplay_11040177_Title,未知信号,Unknown Signal,Tín hiệu không xác định
-lang_multi_text.db,MultiText,InfoDisplay_11040178_Text,"各位村民、调查区驻地人员：
-近日观测到村落（含第九调查区）周边出现异常频率，有天空海聚集的趋势，华胥研究院判断出现无音区的概率较大。
-为了各位的生命财产安全，请在收到本通知后即刻准备撤离，不要携带过多物资。夜归兵团将尽快派出小队进行疏散。
-再次重复，不要携带过多物资，快速撤离！
+lang_multi_text.db,MultiText,InfoDisplay_11020101_Title,新东春西典·其一,Eastern Spring and Western Canon: I,Tân Đông Xuân Tây Điển - Phần 1
+lang_multi_text.db,MultiText,InfoDisplay_11020102_Text,"甩/报个蔓：报上名来
+闷条子，不亮钢：不便通报名号
+空子：不懂行话的小白
+团春：用行话交流
+端碗水来：钱财交出来
 
-另：调查区驻地人员请关注后续通知。","To all villagers and stationed personnel of the Investigation Area: 
-There have been reports of abnormal frequencies in the vicinity of the village (including Investigation Zone No. 9). The Huaxu Academy has projected a build-up of Etheric Sea, and a high probability of Tacet Field occurrence in these areas. To ensure the safety of your life and/or properties, please prepare for an immediate evacuation upon receiving this notice. Gather essential items only. Midnight Rangers will be dispatched to assist with evacuation. REPEAT. ESSENTIAL ITEMS ONLY. EVACUATE IMMEDIATELY!
+这里听不懂的话也太多了，我先记这些要紧的吧，其他的就见机行事，努力一把一定能在这里活下去的！","To fling/report a man's name: to report a name
+Stifled, not shining steel: inconvenient to report the name
+Empty: a white person who doesn't know the lingo
+Tuanchun: to communicate in the lingo
+Tuan Shui: handing over SHC money
 
-Additional Instructions: All stationed personnel of the investigation area must pay close attention to subsequent alerts/notices.","Gửi toàn thể dân làng và nhân viên đóng tại khu điều tra:
-Gần đây quan trắc thấy tần số bất thường xuất hiện xung quanh làng (bao gồm Khu Điều tra số 9), có xu hướng tụ tập Thiên Không Hải, Hoa Tư Nghiên Cứu Viện đánh giá khả năng xuất hiện Vùng Vô Thanh là rất cao.
-Vì sự an toàn tính mạng và tài sản của mọi người, xin hãy chuẩn bị sơ tán ngay khi nhận được thông báo này, không mang theo quá nhiều vật tư. Binh đoàn Dạ Quy sẽ sớm cử đội đến hỗ trợ di tản.
-Nhắc lại một lần nữa, không mang theo quá nhiều vật tư, sơ tán nhanh chóng!
+There are too many unintelligible words here, so I'll memorize the important ones first, and the others will be taken as they come, and I'm sure I can survive here with a little effort!","Quăng/Báo Dây Leo: Báo danh tính đi
+Ngậm Thẻ, Không Sáng Thép: Không tiện báo danh tính
+Người Rỗng: Tay mơ không hiểu tiếng lóng
+Đoàn Xuân: Giao tiếp bằng tiếng lóng
+Bưng Bát Nước Đến: Giao tiền tài ra
 
-Bổ sung: Nhân viên đóng tại khu điều tra vui lòng theo dõi thông báo tiếp theo."
-lang_multi_text.db,MultiText,InfoDisplay_11040178_Title,【紧急撤离通知】,[EMERGENCY EVACUATION NOTICE],[THÔNG BÁO SƠ TÁN KHẨN CẤP]
-lang_multi_text.db,MultiText,InfoDisplay_11040179_Text,"干燥潮饼、小龙包、家庭菜谱。
-<i>-别只顾着拿干粮，我的菜谱拿了吗？</i>
-<i>-妈，等进了今州你再教我就好，这本菜谱都快翻烂了，不拿也罢。</i>
-<i>-你懂啥！有这本食谱在的地方，就有家的味道。万一以后我不在了......</i>
-
-活力饮料一组。
-<i>-活力饮料也太重了，带个水壶不行吗？</i>
-<i>-万一路上没有干净的水源，能靠得住的就只有罐装饮料了吧！</i>
-<i>-既然你都这么说了，那你自己背着吧。</i>
-<i>-你有本事就一罐都别喝！</i>
-
-帐篷、户外装备若干。
-<i>-宝贝，我们不是去野炊。</i>
-<i>-爸爸说是野炊。</i>
-<i>-嗯……不是普通的野炊。别忘了系上奶奶做的平安扣。</i>","Dried Wuthercake, Loong Buns, and the family cookbook.
-<i>-Enough packing dry foods, did you get my cookbook?</i>
-<i>-Mom, I'll just learn the recipes from you when we get to Jinzhou. This cookbook is falling apart, I'd say we just leave it.</i>
-<i>-What would you know! Wherever this cookbook goes, there will be the taste of home. What happens if I'm not around anymore sometime in the future...</i>
-
-A pack of energy drinks.
-<i>-Energy drinks are too heavy to carry. Can't we just bring a water bottle?</i>
-<i>-What if there's no clean water source on the way? These canned drinks will be the only thing we can rely on!</i>
-<i>-Well, if you say so. You carry it then.</i>
-<i>-Oh, you better not drink a single can when the time comes!</i>
-
-Tents and outdoor equipment.
-<i>-We're not going on a camping trip, honey.</i>
-<i>-But Dad told me we are going camping.</i>
-<i>-Hmm... Not just any camping trip. Oh, don't forget to put on your fortune pendant from Grandma.</i>","Bánh Triều khô, Tiểu Long Bao, sổ công thức nấu ăn gia đình.
-<i>-Đừng chỉ lo lấy đồ khô, sổ công thức của mẹ lấy chưa?</i>
-<i>-Mẹ ơi, vào Kim Châu rồi mẹ dạy con cũng được, cuốn sổ này lật sắp rách rồi, không lấy cũng được.</i>
-<i>-Con biết gì! Có cuốn sổ này ở đâu, ở đó có hương vị của nhà. Lỡ sau này mẹ không còn...</i>
-
-Một lốc nước tăng lực.
-<i>-Nước tăng lực nặng quá, mang bình nước không được sao?</i>
-<i>-Lỡ trên đường không có nguồn nước sạch thì chỉ có đồ uống đóng lon là đáng tin thôi!</i>
-<i>-Cậu đã nói vậy thì tự vác đi nhé.</i>
-<i>-Có giỏi thì đừng uống một lon nào đấy!</i>
-
-Lều trại, một số dụng cụ dã ngoại.
-<i>-Con yêu, mình không phải đi dã ngoại đâu.</i>
-<i>-Bố bảo là đi dã ngoại mà.</i>
-<i>-Ừ... không phải dã ngoại thường đâu. Đừng quên đeo khóa bình an bà nội làm cho con nhé.</i>"
-lang_multi_text.db,MultiText,InfoDisplay_11040179_Title,【打包清单】,[Packing List],[Danh sách đóng gói]
-lang_multi_text.db,MultiText,InfoDisplay_11040180_Text,"古树「龙望」，位于中曲台地龙望郊北部。据《今州植物考》记载，龙望的树龄推测在1400-1500年间，历经悲鸣仍屹立不倒。其根曲折，如蟒绕龙幡；虬枝似利爪，尽显恣意。岿然不动的古树如同大地的坐标，成为人们内心的依靠。只要龙望还在，中曲台地就有再次重生的一天。
-
-*温馨提示：请勿在树干、树枝上刻字。爱护古木，人人有责。","The ancient tree ""Loong's Gaze"", is located in the northern parts of Loong's Gaze Outskirts, Central Plains. Based on records found inside ""Plants of Jinzhou"", the Loong's Gaze is estimated to be between 1400 and 1500 years old, having withstood the test of the Lament and continues to stand tall. Its twisting roots are like a python wrapped around a loong banner, its branches as though piercing claws, both showing the tree's unrestrained nature. This unshakable ancient tree has long since become an icon of the land, as people seek to it as a beacon of hope. As long as the Loong's Gaze stands, the day of the Central Plains' rebirth will sure to come.
-
-*Reminder: Please do not carve on the bark or branches of the tree. We all share an equal responsibility to safe keep the ancient tree's well-being.","Cổ thụ ""Long Vọng"", nằm ở phía bắc ngoại ô Long Vọng, Cao nguyên Trung Khúc. Theo ghi chép trong ""Kim Châu Thực Vật Khảo"", tuổi thọ của Long Vọng được ước tính khoảng 1400-1500 năm, trải qua Bi Minh vẫn đứng sừng sững. Rễ cây uốn lượn như trăn quấn quanh phướn rồng; cành nhánh xoắn tựa móng vuốt sắc bén, thể hiện sự phóng khoáng. Cổ thụ sừng sững bất động như tọa độ của đại địa, trở thành chỗ dựa tinh thần cho mọi người. Chỉ cần Long Vọng còn đứng đó, Cao nguyên Trung Khúc sẽ có ngày tái sinh.
-
-*Lưu ý: Xin đừng khắc chữ lên thân cây hay cành cây. Bảo vệ cổ thụ là trách nhiệm của tất cả mọi người."
-lang_multi_text.db,MultiText,InfoDisplay_11040180_Title,古树“龙望”,"Ancient Tree ""Loong's Gaze""","Cổ thụ ""Long Vọng"""
-lang_multi_text.db,MultiText,InfoDisplay_11040181_Text,"……地上……唯一的……光……
-……人……聚集……
-……熄灭……灯塔……
-……悲鸣……永远……长夜……
-
-（重复的记号）
-
-（岩壁上的刻字被消磨得几乎无法辨认，只能认出零星的言语）","... on the ground ... the only ... light ...
-... people ... gather ...
-... extinguish ... the lighthouse ...
-... Lament ... forever ... long night ...
-
-(Repeating symbols)
-
-(The carvings on the rock wall have been worn away, making them difficult to distinguish.)","...trên mặt đất...ánh sáng...duy nhất...
-...con người...tụ họp...
-...tắt lịm...ngọn hải đăng...
-...Bi Minh...mãi mãi...đêm dài...
-
-(Ký hiệu lặp lại)
-
-(Những dòng chữ khắc trên vách đá đã bị bào mòn gần như không thể đọc được, chỉ còn nhận ra vài từ rời rạc)"
-lang_multi_text.db,MultiText,InfoDisplay_11040181_Title,模糊的刻字,Indistinct Carvings,Dòng chữ khắc mờ
-lang_multi_text.db,MultiText,InfoDisplay_11040182_Text,"各位外来人员，如果您在转运站门口发现流浪猫，请不要随意投喂或者呼唤。
-附近有两只恶霸经常以柔顺亲人的姿态接近工作人员，趁机偷跑进站，躲藏在重要设备的阴暗处。被发现时又张牙舞爪，蓄意伤人，已是惯犯！
-请小心两只恶霸，不要被它们可爱的外表蒙骗。
-
-**我们有专人定点投喂。","Attention to visitors: If you see any stray cats at the transfer station, please do not feed or yell at them.
-There are two menacing cats lurking in the station's vicinity, often approaching staff members in a gentle and affectionate manner, then proceeding to sneak into the station at any given opportunity and hide in dark corners of critical equipment.
-When discovered, they lash out their teeth and claws, hurting anyone that gets close.
-Caution is advised when approaching these cats. Do not be fooled by their cute appearances.
-
-**We have dedicated personnel feeding these stray cats.","Gửi các vị khách ghé thăm, nếu phát hiện mèo hoang trước cửa trạm trung chuyển, xin đừng tùy tiện cho ăn hoặc gọi chúng.
-Gần đây có hai tên côn đồ thường giả vẻ ngoan ngoãn, quấn quýt để tiếp cận nhân viên, rồi thừa cơ lẻn vào trạm, ẩn nấp trong những góc tối của thiết bị quan trọng. Khi bị phát hiện, chúng lại nhe nanh múa vuốt, cố tình tấn công người, đã là tái phạm nhiều lần!
-Xin hãy cảnh giác với hai tên côn đồ này, đừng bị vẻ ngoài dễ thương của chúng đánh lừa.
-
-**Chúng tôi có người chuyên trách cho mèo ăn định kỳ."
+Ở đây có quá nhiều từ nghe không hiểu, mình ghi nhớ mấy từ quan trọng này trước đã, mấy cái khác thì tùy cơ ứng biến, cố gắng một chút nhất định có thể sống sót ở đây!"
+lang_multi_text.db,MultiText,InfoDisplay_11020102_Title,《新人流放者的备忘录》,Memorandum for Newcomer Exiles,"""Ghi chú của Kẻ Lưu Đày mới"""
+lang_multi_text.db,MultiText,InfoDisplay_11020103_Text,海市，欢迎你！,"Haymarket, welcome!",Hải Thị chào mừng bạn!
+lang_multi_text.db,MultiText,InfoDisplay_11020103_Title,陈旧的路牌,Obsolete Road Sign,Biển chỉ đường cũ kỹ
+lang_multi_text.db,MultiText,InfoDisplay_11020104_Text,空白的警告牌，上面的图案被海水浸泡脱落，无法得知它曾经在警告人们什么……,Blank warning sign with a design soaked off by seawater that it's impossible to know what it was once warning people about ......,"Biển cảnh báo trống trơn, hình vẽ bên trên bị nước biển ngâm bong tróc, không thể biết được nó đã từng cảnh báo mọi người điều gì..."
+lang_multi_text.db,MultiText,InfoDisplay_11020104_Title,迷失标志,Lost Signs,Dấu hiệu thất lạc
+lang_multi_text.db,MultiText,InfoDisplay_11020105_Text,"你是个不夜城
+华灯起
+乐声响
+歌舞升平……","You're a city that never sleeps
+The lights come on
+The music is playing
+Singing and dancing ......","Người là thành phố không ngủ
+Đèn hoa lên
+Nhạc vang rền
+Ca vũ thái bình..."
+lang_multi_text.db,MultiText,InfoDisplay_11020105_Title,旧日歌谣,Rhymes of the Olden Days,Bài ca ngày cũ
+lang_multi_text.db,MultiText,InfoDisplay_11020106_Text,"真是奇了怪了，都用石头把这大管道堵上了，怎么还一直有水渗出来？
+自从阿粒进管道里探索没出来，去找他的小皮也不见踪影后，老大就不许人再进去了，我们旧城帮刚成立不久，人手可不够折损在这奇怪的隧道里的。
+听最有文化的老大叔叔说，以前的大城市都有迷宫一样的地下水道，不知道这是不是也通着一座迷宫？","It's really strange, how can water keep seeping out of this big pipe even though we've blocked it with rocks?
+Since A grain into the pipeline exploration did not come out, to find his small skin also disappeared, the boss will not allow people to go in again, our old city gang has just established a short period of time, manpower can not be enough to be lost in this strange tunnels.
+Listen to the most cultured boss uncle said, the former big cities have a maze of underground waterways, I wonder if this is also leading to a labyrinth?","Thật là kỳ lạ, đã dùng đá bịt kín cái ống lớn này rồi, sao vẫn cứ có nước rỉ ra mãi thế?
+Từ sau khi A Lạp chui vào ống thám hiểm không thấy ra, Tiểu Bì đi tìm cậu ta cũng mất tăm mất tích, đại ca đã cấm không cho ai vào nữa. Bang Phái Thành Cũ của chúng ta vừa mới thành lập không lâu, nhân lực đâu có đủ để mà hao tổn trong cái đường hầm kỳ quái này.
+Nghe ông chú có văn hóa nhất của đại ca nói, các thành phố lớn ngày xưa đều có hệ thống cống ngầm như mê cung, không biết cái này có phải cũng thông đến một mê cung nào đó không?"
+lang_multi_text.db,MultiText,InfoDisplay_11020106_Title,排水系统,Drainage System,Hệ thống thoát nước
+lang_multi_text.db,MultiText,InfoDisplay_11020107_Text,放假期间，店铺正常营业，欢迎新老顾客前来品尝。,"During the vacation period, the store is open for business as usual, and new and old customers are welcome to come and taste.","Trong thời gian nghỉ lễ, cửa hàng hoạt động bình thường, chào mừng khách mới khách cũ đến thưởng thức."
+lang_multi_text.db,MultiText,InfoDisplay_11020107_Title,潮汐之家,Tide House,Ngôi Nhà Thủy Triều
+lang_multi_text.db,MultiText,InfoDisplay_11020108_Text,"他们说这里可以等来救援的！
+市政大楼，海市最高的地方，不管哪里都可以一眼看到的地标！
+为什么，为什么还是没有人发现这里？
+海水，就要涨上来了啊……","They said this is where help could wait!
+The Municipal Building, the highest place in Sea City, a landmark that can be seen at a glance no matter where!
+Why, why hasn't anyone found this place?
+The sea is about to rise. ......","Họ nói ở đây có thể đợi được cứu viện mà!
+Tòa nhà thị chính, nơi cao nhất Hải Thị, cột mốc mà dù ở đâu cũng có thể nhìn thấy ngay!
+Tại sao, tại sao vẫn chưa có ai phát hiện ra nơi này?
+Nước biển sắp dâng lên rồi..."
+lang_multi_text.db,MultiText,InfoDisplay_11020108_Title,刻在墙上的字,Writings on the Wall,Chữ khắc trên tường
+lang_multi_text.db,MultiText,InfoDisplay_11020109_Text,"叔叔的旧书上有一句“东临结石，以观沧海”，据说是表现了英雄胸怀天下的壮志。
+虽然不知道和“结石”有什么关系，但我也算在这里看过大海了。
+希望我们“旧城帮”可以就此发展壮大！","In my uncle's old book, there is a phrase ""looking at the stones to the east to see the sea"", which is said to express the hero's ambition to see the world.
+Although I don't know what it has to do with ""stones"", I have seen the sea here.
+I hope that our ""Old Town Gang"" can grow and develop in this way!","Trong cuốn sách cũ của chú có câu ""Đông lâm Kết Thạch, dĩ quan thương hải"" (Phía đông đến núi Kiệt Thạch, để ngắm biển xanh), nghe nói là thể hiện chí lớn bao trùm thiên hạ của bậc anh hùng.
+Tuy không biết có liên quan gì đến ""kết thạch"" (sỏi thận/đá), nhưng tôi cũng coi như đã ngắm biển lớn ở đây rồi.
+Hy vọng ""Bang Phái Thành Cũ"" của chúng ta có thể từ đây phát triển lớn mạnh!"
+lang_multi_text.db,MultiText,InfoDisplay_11020109_Title,观海笔记,Sea Watch Notes,Ghi chép ngắm biển
+lang_multi_text.db,MultiText,InfoDisplay_11020110_Text,"我想要水！多贵我都买！
+被海水困在这里已经五天了，修得再坚固的房间也开始渗水了……
+但我不是想要这种咸的海水，给我能喝的水啊！
+这些钱全部拿去吧！只要给我（纸从这里破开了）","I want water! I'll buy it however expensive it is!
+It's been five days since I've been trapped here by seawater, and even the sturdiest of repaired rooms are starting to seep ......
+But I don't want this salty seawater, give me water I can drink!
+Take all this SHC! Just give it to me (the paper broke from here)","Tôi muốn nước! Đắt bao nhiêu tôi cũng mua!
+Bị nước biển nhốt ở đây đã năm ngày rồi, căn phòng sửa kiên cố đến mấy cũng bắt đầu rỉ nước...
+Nhưng tôi không muốn loại nước biển mặn chát này, cho tôi nước uống được đi!
+Lấy hết chỗ tiền này đi! Chỉ cần cho tôi (giấy bị rách từ chỗ này)"
+lang_multi_text.db,MultiText,InfoDisplay_11020110_Title,破损的废纸,Tattered Paper,Giấy vụn rách nát
+lang_multi_text.db,MultiText,InfoDisplay_11020111_Text,"编撰人：阿芊
+我们在这里发现了一处奇怪的建筑，看着像个用周围废墟的边角料搭成的塔楼。
+难道是有人赶在我们之前就入驻过这里？
+只是这些海水浸泡过的痕迹，又像是悲鸣前留下的。
+……
+老大在附近检查了下，发现这里的灯竟然还是能通电的。
+不管这塔楼之前的人是拿它做啥的，等我们给它换好灯泡，就可以当做我们旧城帮在这里的第一个据点了！
+真是期待今晚点亮它的样子啊。
+……
+四眼那个笨蛋，不小心掉下去了一个灯，这下好了，看不到它曾经的样子了。
+还得帮他求情，希望老大没有像我一样期待吧……","Compiled by: Ah Chin
+We found a strange structure here, looking like a tower made from the edges of the surrounding ruins.
+Could it be that someone had settled here before us?
+It's just that these seawater-soaked traces look like they were left before the Lament.
+......
+Boss checked around the neighborhood and found that the lights here were surprisingly still electrified.
+No matter what the people before this tower did with it, once we change the bulbs in it, we can use it as our first stronghold of the Old City Gang here!
+Really looking forward to lighting it up tonight.
+......
+That idiot, Four Eyes, accidentally dropped a lamp, so it's a good thing we can't see it as it once was.
+Still have to plead for him, hope the boss isn't looking forward to it as much as I am ......","Người biên soạn: A Thiên
+Chúng tôi phát hiện một kiến trúc kỳ lạ ở đây, trông giống một tòa tháp canh được dựng từ những vật liệu thừa của phế tích xung quanh.
+Lẽ nào có người đã đến đây trú ngụ trước chúng tôi?
+Chỉ là những dấu vết bị nước biển ngâm này lại giống như để lại từ trước Bi Minh.
+...
+Đại ca kiểm tra xung quanh một chút, phát hiện đèn ở đây lại vẫn có thể thông điện.
+Bất kể người trước đây dùng tháp canh này làm gì, đợi chúng tôi thay bóng đèn xong, là có thể dùng làm cứ điểm đầu tiên của Bang Phái Thành Cũ tại đây rồi!
+Thật mong chờ dáng vẻ khi thắp sáng nó tối nay.
+...
+Tứ Nhãn cái đồ ngốc đó, lỡ tay làm rơi mất một cái đèn, thế là xong, không nhìn thấy dáng vẻ trước đây của nó nữa rồi.
+Còn phải giúp cậu ta xin xỏ, hy vọng đại ca không mong chờ nhiều như tôi..."

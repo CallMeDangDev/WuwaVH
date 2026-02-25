@@ -1,899 +1,1674 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,HelpText_517_Content,完成活动指定目标，可获得相应奖励,Complete Event Objectives to obtain corresponding rewards.,Hoàn thành mục tiêu chỉ định của sự kiện để nhận phần thưởng tương ứng.
-lang_multi_text.db,MultiText,HelpText_517_Title,TERM-X 拓展行动说明,TERM-X: Outreach,TERM-X: Hướng Dẫn Hoạt Động Mở Rộng
-lang_multi_text.db,MultiText,HelpText_518_Content,"【活动简介】
-你在一处索诺拉附近遇到了一个愁眉不展的研究员，他似乎背负着某个相当重要的使命……
+lang_multi_text.db,MultiText,HelpText_403_Content,"1、在此页面可查看所有作战装置和库洛洛武器的属性及功能。
+2、可使用通关模拟作战后获得的拟像铸块对作战装置和库洛洛武器进行升级，升级后它们的属性会获得提升。
+在升至三级后，能够解锁作战装置的可选模块。可选模块能够提升作战装置的作战效率，可以选择其中一个对作战装置进行强化。
+3、作战装置与库洛洛武器的强化等级均可以重置，重置时返还所有拟像铸块。
+4、进入模拟作战后，无法再进行升级与分支选择操作。","1. You can view the stats and effects of all the Combat Machines and KU-Roro's Weapons on this page.
+
+2. You can upgrade and strengthen them using Sim Ingots earned after completing a stage. 
+Reaching Level 3 unlocks Optional Modules for Combat Machines, allowing you to customize and improve their combat efficiency based on your strategy.
+
+3. All upgrades can be reset for a full Sim Ingot refund.
+
+4. Please note that upgrades and module changes cannot be made during a wave of attack.","1. Tại trang này có thể xem thuộc tính và chức năng của tất cả Thiết Bị Chiến Đấu và Vũ Khí KU-Roro.
+2. Có thể sử dụng Thỏi Mô Phỏng nhận được sau khi vượt ải Tác Chiến Mô Phỏng để nâng cấp Thiết Bị Chiến Đấu và Vũ Khí KU-Roro, sau khi nâng cấp thuộc tính của chúng sẽ được tăng cường.
+Khi nâng lên cấp 3, sẽ mở khóa Mô-đun Tùy Chọn cho Thiết Bị Chiến Đấu. Mô-đun Tùy Chọn giúp nâng cao hiệu quả tác chiến của thiết bị, bạn có thể chọn một trong số đó để cường hóa.
+3. Cấp cường hóa của Thiết Bị Chiến Đấu và Vũ Khí KU-Roro đều có thể thiết lập lại, khi thiết lập lại sẽ hoàn trả toàn bộ Thỏi Mô Phỏng.
+4. Sau khi vào Tác Chiến Mô Phỏng, sẽ không thể thực hiện thao tác nâng cấp và chọn nhánh nữa."
+lang_multi_text.db,MultiText,HelpText_403_Title,作战装置与库洛洛武器说明,Combat Machines & KU-Roro's Weapons,Giải thích về Thiết Bị Chiến Đấu và Vũ Khí KU-Roro
+lang_multi_text.db,MultiText,HelpText_405_Content,"1、完成模拟作战的挑战目标可获得作战评级。
+2、消耗作战评级能够解锁新的守望协议，来提升作战效率。
+3、需要解锁前置协议后，才可以解锁后续的协议。","1. Complete stage objectives to earn Rating Stars, which can be used to unlock new Overwatch Protocols.
+2. These Protocols enhance your performance in the simulation.
+3. Higher-level Protocols require you to unlock lower-tier ones first.","1. Hoàn thành mục tiêu thử thách của Tác Chiến Mô Phỏng để nhận Sao Đánh Giá.
+2. Tiêu hao Sao Đánh Giá để mở khóa Giao Thức Overwatch mới, giúp nâng cao hiệu quả tác chiến.
+3. Cần mở khóa giao thức trước đó mới có thể mở khóa giao thức tiếp theo."
+lang_multi_text.db,MultiText,HelpText_405_Title,守望协议说明,Overwatch Protocol,Giải thích Giao Thức Overwatch
+lang_multi_text.db,MultiText,HelpText_407_Content,"【活动简介】
+碧蓝天空下，繁华的楼宇间，粉雪如霞绽放，五彩鱼旗迎风悠游。人们安闲穿梭于街市，浑然不知己身，仅是浪涛的余音，是那转瞬即逝的幻梦。
+一位陌生的客人来到了咖啡厅，请求你协助她，打捞那些虹光中的记忆……
 
 【参与条件】
-联觉等级达到14级，并在潮汐任务「冰原下的星炬」中启用星炬学院的中枢信标后解锁
-
-【活动规则】
-1、在【银翼猎手：荒野】中，玩家可进入特殊领域，在特殊增益的加持下在限时内连续挑战多个波次的敌人。
-2、玩家对敌人造成伤害后获得活动积分【款项】、玩家受到敌人造成的伤害后会损失【款项】。
-3、玩家在每次挑战的过程中，根据波次将逐步解锁更多的特殊增益，帮助玩家更好地完成后续挑战。
-4、每波次敌人清理完成后获得加时，倒计时结束后玩家以当前获得的【款项】结束此次挑战。","[About]
-Around a Sonoro Sphere, you run across a troubled researcher, who seems to have an important job to do...
-
-[Eligibility]
-Reach Union Level 14 and unlock the Resonance Nexus of the Spacetrek Collective during Main Quest ""What Burns Beneath Frostlands""
-
-[Event Rules]
-1. During the event, you will enter a special sphere to battle waves of enemies within a set time limit, with the aid of unique buffs.
-2. You will collect Coins by dealing damage to enemies, but taking damage will cause you to lose Coins.
-3. Progressing through enemy waves unlocks more special buffs to give you the support you need.
-4. Clearing a wave grants bonus time. The Coins you have collected by the end of the countdown will be your Coins record of this stage.","[Giới thiệu]
-Gần một Sonoro, bạn tình cờ gặp một nhà nghiên cứu đang đầy lo lắng, anh ấy dường như đang gánh trên vai một sứ mệnh vô cùng quan trọng...
-
-[Điều kiện tham gia]
-Đạt cấp Liên Giác 14 và mở khóa Tín Hiệu Trung Tâm của Học Viện Tinh Cự trong Nhiệm Vụ Thủy Triều ""Ngọn Đuốc Dưới Băng Nguyên""
-
-[Luật chơi]
-1. Trong [Thợ Săn Cánh Bạc: Hoang Dã], người chơi có thể tiến vào lãnh địa đặc biệt, với sự hỗ trợ của các tăng cường đặc biệt, liên tục thách đấu nhiều đợt kẻ địch trong thời gian giới hạn.
-2. Người chơi gây sát thương lên kẻ địch sẽ nhận được điểm hoạt động [Tiền]. Khi nhận sát thương từ kẻ địch, người chơi sẽ mất [Tiền].
-3. Trong mỗi lần thách đấu, theo từng đợt sẽ dần mở khóa thêm nhiều tăng cường đặc biệt, giúp người chơi hoàn thành tốt hơn các thử thách tiếp theo.
-4. Sau khi hoàn thành mỗi đợt kẻ địch sẽ được cộng thêm thời gian, khi hết thời gian đếm ngược, người chơi kết thúc thử thách với số [Tiền] hiện có."
-lang_multi_text.db,MultiText,HelpText_518_Title,【银翼猎手：荒野】活动说明,Blade Hunter: Wilderness,Hướng Dẫn Sự Kiện [Thợ Săn Cánh Bạc: Hoang Dã]
-lang_multi_text.db,MultiText,HelpText_51_Content,"全新内容「异梦聚合」开放！
-
-【活动简介】
-当心之集域停止扩张，门里的世界似乎并未恢复往日的平静。异常的梦境深陷于谬误的螺旋，孕育出了新的混乱。聆听着意识深处的呢喃，你又来到了那扇门前……
-
-【参与条件】
-完成潮汐任务「暗夜叩响白昼之门」后解锁。
-
-【活动规则】
-只可使用部分已开放共鸣者参与「深坠异想奇境」挑战。
-异想奇境当中蕴藏特殊的力量，进入其中的共鸣者的声骸属性将被剥夺，而专属的异想声骸、隐喻、信物、共鸣者的特殊强化则在其中等待着探索。
-选择合适的搭配组合探索异想奇境可以获得不同的战斗体验。
-通过探索异想奇境，可以获得丰厚的奖励。
-
-【回音结晶】
-击败最深处的梦境聚合物后，记忆区内将出现回音结晶，可以消耗奖励次数领取奖励；
-「回音结晶奖励次数」将在每周一凌晨4时重置；
-在不同难度的「异梦聚合」均可领取相同的回音结晶奖励。","All new content Phantasm Amass is now available!
-
-[About]
-As the Somnoire's expansion comes to a halt, the domain beyond the gateway appears far from restoring its former peace. New chaos emerges from abnormal dreams trapped in a spiral of fallacy. Hearing the whispers from your subconscious, you find yourself standing before that very gateway once again...
-
-[Eligibility]
-Complete Main Quest ""When the Night Knocks"" to unlock.
-
-[Event Rules]
-Only certain available Resonators are available in the Depths of Illusive Realm challenges.
-The Illusive Realm harbors a special power that nullifies the Resonators' Echo stats. However, exclusive Illusive Echoes, Metaphors, Tokens, and special Resonator enhancements await those who explore.
-Experiment with party lineups and builds for different combat experiences.
-Explore the Illusive Realm for great rewards.
-
-[Remnant Crystal]
-A Remnant Crystal will appear in the Memory Zone after defeating the dream mass found at the deepest parts of the realm. Use Reward Attempts to collect its rewards.
-Remnant Crystal Reward Attempts reset every Monday at 04:00 A.M. server time.
-The Remnant Crystal grants equal rewards across all Phantasm Amass difficulties.","Nội dung mới ""Dị Mộng Tụ Hợp"" đã mở!
-
-[Giới thiệu]
-Khi Tâm Chi Tập Vực ngừng mở rộng, thế giới bên kia cánh cửa dường như chưa trở lại sự yên bình ngày trước. Những giấc mơ bất thường chìm sâu trong vòng xoáy sai lầm, thai nghén nên hỗn loạn mới. Lắng nghe những lời thì thầm từ sâu thẳm ý thức, bạn lại đứng trước cánh cửa đó...
-
-[Điều kiện tham gia]
-Mở khóa sau khi hoàn thành Nhiệm Vụ Thủy Triều ""Đêm Tối Gõ Cửa Ban Ngày"".
-
-[Luật chơi]
-Chỉ có thể sử dụng một số Cộng Hưởng Giả đã mở để tham gia thử thách ""Rơi Sâu Vào Kỳ Cảnh Ảo Tưởng"".
-Kỳ Cảnh Ảo Tưởng ẩn chứa sức mạnh đặc biệt, thuộc tính Thanh Hài của Cộng Hưởng Giả khi bước vào sẽ bị vô hiệu hóa, thay vào đó là các Thanh Hài Ảo Tưởng, Ẩn Dụ, Tín Vật và các tăng cường đặc biệt dành riêng cho Cộng Hưởng Giả đang chờ được khám phá.
-Chọn tổ hợp phù hợp để khám phá Kỳ Cảnh Ảo Tưởng sẽ mang lại trải nghiệm chiến đấu khác nhau.
-Khám phá Kỳ Cảnh Ảo Tưởng có thể nhận được phần thưởng hậu hĩnh.
-
-[Tinh Thể Hồi Âm]
-Sau khi đánh bại Thể Tụ Hợp Mộng Cảnh ở tầng sâu nhất, Tinh Thể Hồi Âm sẽ xuất hiện trong Khu Vực Ký Ức, có thể tiêu hao lượt thưởng để nhận phần thưởng.
-""Lượt thưởng Tinh Thể Hồi Âm"" sẽ được đặt lại vào lúc 4 giờ sáng thứ Hai hàng tuần.
-Có thể nhận phần thưởng Tinh Thể Hồi Âm giống nhau ở các mức độ khó khác nhau của ""Dị Mộng Tụ Hợp""."
-lang_multi_text.db,MultiText,HelpText_51_Title,深坠异想奇境说明,Depths of Illusive Realm,Hướng Dẫn Rơi Sâu Vào Kỳ Cảnh Ảo Tưởng
-lang_multi_text.db,MultiText,HelpText_520_Content,"当对手抽取漂泊者手中的变化牌时，漂泊者可以使用技能，使这次抽取无效并重新抽一次牌。
-每局游戏中最多能够使用一次。","Rover may use this skill whenever the opponent draws a Wild Card so as to veto the draw and force a redraw.
-Can be used once per game.","Khi đối thủ rút lá bài Biến Hóa từ tay Lữ Khách, Lữ Khách có thể sử dụng kỹ năng để vô hiệu hóa lần rút đó và bắt đối thủ rút lại.
-Mỗi ván chỉ có thể sử dụng một lần."
-lang_multi_text.db,MultiText,HelpText_520_Title,即刻否决,Instant Veto,Phủ Quyết Tức Thì
-lang_multi_text.db,MultiText,HelpText_521_Content,"当今汐抽到无冠者牌时，可能会使用该技能。使用技能后，今汐将放弃当前抽选的牌并重新抽一次牌。
-每局游戏中最多能够使用1次。","Jinhsi may use this skill when she draws the Crownless Card. After using it, she gives up this draw and does a redraw.
-Can be used once per game.","Khi Kim Tịch rút được lá bài Vô Miện Giả, cô có thể sử dụng kỹ năng này. Sau khi sử dụng, Kim Tịch sẽ bỏ lá bài đã rút và rút lại một lần.
-Mỗi ván chơi chỉ có thể sử dụng tối đa 1 lần."
-lang_multi_text.db,MultiText,HelpText_521_Title,逆转时序,Time Reverse,Đảo Ngược Thời Gian
-lang_multi_text.db,MultiText,HelpText_522_Content,"当对手手牌数量为3～5时，嘉贝莉娜可能会使用该技能。使用技能后，嘉贝莉娜将查看一张对手的手牌。
-每局游戏中最多能够使用1次。","Galbrena may use this skill when her opponent has 3–5 cards in hand. After using it, she may check one of the opponent's cards.
-Can be used once per game.","Khi đối thủ có 3~5 lá bài trên tay, Galbrena có thể sử dụng kỹ năng này. Sau khi sử dụng, Galbrena sẽ xem một lá bài trên tay đối thủ.
-Mỗi ván chơi chỉ có thể sử dụng tối đa 1 lần."
-lang_multi_text.db,MultiText,HelpText_522_Title,锐目直觉,Sharp Instinct,Trực Giác Sắc Bén
-lang_multi_text.db,MultiText,HelpText_523_Content,被动效果：陆·赫斯在抽牌时，有更高的几率抽到其他牌，而不是无冠者牌。开局时手牌中不会包含无冠者牌。,"Luuk Herssen has a reduced chance of drawing the Crownless Card, and his initial hand is guaranteed not to contain it.","Hiệu ứng bị động: Khi Luuk Herssen rút bài, tỷ lệ rút được các lá bài khác thay vì lá Vô Miện Giả sẽ cao hơn. Bài trên tay khi bắt đầu ván sẽ không chứa lá Vô Miện Giả."
-lang_multi_text.db,MultiText,HelpText_523_Title,洞彻人心,Mind Scalpel,Thấu Hiểu Nhân Tâm
-lang_multi_text.db,MultiText,HelpText_527_Content,【登录游戏】天数刷新时间为服务器所在时区0点，漂泊者在0点后登录就会增加1天登录游戏天数。,The number of days you have <b>logged into the game</b> refreshes at 00:00 (server time). Logging in after 00:00 will count as an additional login day.,Số ngày <b>đăng nhập game</b> được làm mới vào lúc 0 giờ theo múi giờ máy chủ. Lữ Khách đăng nhập sau 0 giờ sẽ được tính thêm 1 ngày đăng nhập.
-lang_multi_text.db,MultiText,HelpText_527_Title,登录天数说明,Login Days,Giải thích số ngày đăng nhập
-lang_multi_text.db,MultiText,HelpText_52_Content,"【初醒之征程】
-1.活动开启后联觉等级达到指定要求即可领取丰厚奖励。
-2.本活动没有参与时间限制，当所有奖励全部领取后，此界面关闭。","[Awakening Journey]
-1. After the event starts, you can claim rich rewards by reaching specified Union Levels.
-2. This event is a permanent event. After you claim all rewards, this event will automatically conclude.","[Hành Trình Tỉnh Thức]
-1. Sau khi sự kiện mở, đạt đến Cấp Liên Giác yêu cầu sẽ nhận được phần thưởng hậu hĩnh.
-2. Sự kiện này không giới hạn thời gian tham gia. Sau khi nhận hết tất cả phần thưởng, giao diện này sẽ đóng lại."
-lang_multi_text.db,MultiText,HelpText_52_Title,初醒之征程说明,Awakening Journey,Hướng dẫn Hành Trình Tỉnh Thức
-lang_multi_text.db,MultiText,HelpText_53_Content,"【漂泊铭书】
-1.漂泊铭书收录了游戏前期一些重要奖励的获取方式。
-2.本活动没有参与时间限制，当所有奖励全部领取后，此界面关闭。","[Voyage's Beginning]
-See this page for tips on how to unlock various rewards as you explore the world of Wuthering Waves.
-This permanent event automatically ends once all rewards have been claimed.","[Minh Thư Phiêu Bạt]
-1. Minh Thư Phiêu Bạt ghi lại cách nhận một số phần thưởng quan trọng trong giai đoạn đầu game.
-2. Sự kiện này không giới hạn thời gian tham gia. Sau khi nhận hết tất cả phần thưởng, giao diện này sẽ đóng lại."
-lang_multi_text.db,MultiText,HelpText_53_Title,漂泊铭书说明,Voyage's Beginning,Hướng dẫn Minh Thư Phiêu Bạt
-lang_multi_text.db,MultiText,HelpText_54_Content,"【活动简介】
-完成逆境深塔「稳定区」和「实验区」后可领取共鸣者「渊武」以及其他奖励。","[Event Details]
-After completing Tower of Adversity: Stable Zone & Experiment Zone, you can claim Resonator ""Yuanwu"" and other rewards.","[Giới thiệu sự kiện]
-Sau khi hoàn thành Tháp Nghịch Cảnh ""Khu Ổn Định"" và ""Khu Thí Nghiệm"", có thể nhận Cộng Hưởng Giả ""Uyên Vũ"" cùng các phần thưởng khác."
-lang_multi_text.db,MultiText,HelpText_54_Title,幽境奔霆说明,Rumbling Hollows,Hướng dẫn Sấm Vang U Cảnh
-lang_multi_text.db,MultiText,HelpText_56_Content,"【参与条件】
-联觉等级达到14级。
-
-【活动规则】
-活动期间，完成「模拟领域」挑战时可消耗「结晶波片」获取双倍奖励。
-双倍奖励的领取机会以「特备训练」活动界面的显示为准。","[Eligibility]
-Reach Union Level 14.
-
-[Event Rule]
-During the event, you can consume Waveplates to obtain double rewards after completing Simulation Challenges.
-Please refer to Intensive Training page for the remaining attempts to claim double rewards.","[Điều kiện tham gia]
-Cấp Liên Giác đạt 14.
-
-[Luật sự kiện]
-Trong thời gian sự kiện, khi hoàn thành thử thách ""Mô Phỏng Lĩnh Vực"" có thể tiêu hao ""Kết Tinh Ba Phiến"" để nhận thưởng gấp đôi.
-Số lần nhận thưởng gấp đôi lấy theo hiển thị trên giao diện sự kiện ""Huấn Luyện Đặc Biệt""."
-lang_multi_text.db,MultiText,HelpText_56_Title,特备训练说明,Intensive Training,Hướng dẫn Huấn Luyện Đặc Biệt
-lang_multi_text.db,MultiText,HelpText_57_Content,"【活动简介】
-新联邦作家卡尔的《第二索拉》最近在各大地区持续热销，这本书不仅想象力极其丰富，书中的世界观也极其严谨，具有地理与历史科普价值。
-先行公约接手了《第二索拉》的游戏改编工作，但似乎遇到了一些困难，需要漂泊者提供帮助……
-
-【参与条件】
-联觉等级达到14级，并完成前置任务：潮汐任务「撞金止行阵」后开启。
-
-【活动规则】
-每日马琪都将发布委托，漂泊者根据委托要求提交正确的道具，即可获得奖励。","[About]
-<i>The Second Coming of Solaris</i>, written by Karl from the New Federation, has gained widespread popularity and continues to sell exceptionally well across the globe. The book is not only highly imaginative but also provides valuable insights into geography and history, offering a rigorous worldview.
-The Pioneer Association has recently obtained the game adaptation rights of <i>The Second Coming of Solaris</i>, but they appear to be facing challenges and are seeking your aid.
-
-[Eligibility]
-Reach Union Level 14 and complete Main Quest: Chapter 1 Act 2.
-
-[Event Rules]
-Maqi will issue commissions every day. Deliver the required items as per the commission instructions to obtain rewards.","[Giới thiệu sự kiện]
-Tác phẩm ""Solaris Thứ Hai"" của nhà văn Karl đến từ Tân Liên Bang gần đây bán chạy khắp nơi. Cuốn sách không chỉ giàu trí tưởng tượng mà còn có thế giới quan chặt chẽ, mang giá trị phổ cập về địa lý và lịch sử.
-Hiệp Ước Tiên Phong đã nhận công việc chuyển thể ""Solaris Thứ Hai"" thành game, nhưng dường như gặp phải một số khó khăn, cần sự giúp đỡ của Lữ Khách...
-
-[Điều kiện tham gia]
-Cấp Liên Giác đạt 14 và hoàn thành nhiệm vụ tiền đề: Mở sau khi hoàn thành Nhiệm vụ Triều Tịch ""Trận Chung Đáo Kim Hành"".
-
-[Luật sự kiện]
-Mỗi ngày Mã Kỳ sẽ đăng ủy thác, Lữ Khách nộp đúng vật phẩm theo yêu cầu ủy thác sẽ nhận được phần thưởng."
-lang_multi_text.db,MultiText,HelpText_57_Title,【第二索拉】活动说明,Second Coming of Solaris,Hướng dẫn sự kiện [Solaris Thứ Hai]
-lang_multi_text.db,MultiText,HelpText_58_Content,"【活动规则】
-活动开启期间，可使用包含所选试用角色的固定队伍，无限次体验指定关卡。
-试用的角色为固定等级，且拥有一套固定的武器与声骸搭配。试用关卡中的队伍阵容和角色的武器与声骸搭配无法修改。
-
-【活动奖励】
-完成关卡挑战后，将可以在活动界面领取关卡奖励。
-各关卡奖励在活动期间仅可领取一次。
-活动结束时，达成关卡挑战但没有领取的奖励将会以邮件的形式统一发放。","[Event Rules]
-During the event, you can use set teams including the trial Resonators to repeatedly challenge specific stages. The trial Resonators are fixed at specific stages and equipped with preselected sets of weapons and Echoes. In the trial stages, team composition and the sets of weapons and Echoes cannot be changed.
-
-[Event Rewards]
-After completing the event stages, you can claim stage rewards on the event page.
-Each stage rewards can be claimed once only.
-After the event concludes, rewards for cleared stages will be distributed via mail.","[Luật sự kiện]
-Trong thời gian sự kiện, có thể dùng đội hình cố định bao gồm nhân vật dùng thử để trải nghiệm không giới hạn các màn chơi chỉ định.
-Nhân vật dùng thử có cấp độ cố định, trang bị sẵn một bộ vũ khí và Thanh Hài. Đội hình, vũ khí và Thanh Hài trong màn chơi dùng thử không thể thay đổi.
-
-[Phần thưởng sự kiện]
-Sau khi hoàn thành thử thách, có thể nhận phần thưởng tại giao diện sự kiện.
-Phần thưởng mỗi màn chỉ nhận được một lần trong thời gian sự kiện.
-Khi sự kiện kết thúc, phần thưởng đã hoàn thành nhưng chưa nhận sẽ được gửi qua thư."
-lang_multi_text.db,MultiText,HelpText_58_Title,【初露峥嵘】活动说明,Ascendant Aces,Hướng dẫn sự kiện [Tài Năng Tỏa Sáng]
-lang_multi_text.db,MultiText,HelpText_59_Content,"声骸对策技是部分声骸具有的特殊能力，能够在敌人释放<color=HighlightB>特殊的强力攻击</color>时击破对方的攻击，并使对方陷入短暂的<color=HighlightB>瘫痪</color>状态。
-
-怪物在使用强力攻击前，会有<color=HighlightB>红光提示</color>，这类技能能被声骸对策技打断。","Echo Counter Skills are special abilities that some Echo have that can break an enemy's attack when they unleash a <color=HighlightB>Special Attack</color> and shortly<color=HighlightB>Immoblize</color> them.
-
-A <color=HighlightB>Red Warning Prompt</color> can be seen before enemies use their Special Attacks. You can use Echo Counter Skills to block them.","Kỹ Năng Đối Sách Thanh Hài là khả năng đặc biệt mà một số Thanh Hài sở hữu, có thể phá vỡ đòn tấn công của kẻ địch khi chúng tung ra <color=HighlightB>đòn tấn công mạnh đặc biệt</color>, đồng thời khiến đối phương rơi vào trạng thái <color=HighlightB>tê liệt</color> trong thời gian ngắn.
-
-Quái vật trước khi tung đòn tấn công mạnh sẽ có <color=HighlightB>ánh sáng đỏ cảnh báo</color>, những kỹ năng này có thể bị Kỹ Năng Đối Sách Thanh Hài ngắt."
-lang_multi_text.db,MultiText,HelpText_59_Title,声骸对策技,Echo Counter Skill,Kỹ Năng Đối Sách Thanh Hài
-lang_multi_text.db,MultiText,HelpText_5_Content,提升<color=yellow>战斗异能</color>等级，可获得终端升级经验。,Increase <color=yellow>Forte</color> level to obtain Terminal level-up EXP.,Nâng cấp <color=yellow>Dị Năng Chiến Đấu</color> để nhận kinh nghiệm nâng cấp thiết bị đầu cuối.
-lang_multi_text.db,MultiText,HelpText_5_Title,终端经验,Terminal EXP,Kinh nghiệm thiết bị đầu cuối
-lang_multi_text.db,MultiText,HelpText_60_Content,"【活动简介】
-“矿石通”石琅一直在研究如何制成性能最优异的合金。
-而在最近，一处特殊的声之领域出现，石琅发现自己冶炼的合金在这个领域中能够发挥出非同寻常的力量。
-
-【参与条件】
-联觉等级达到14级后开启。
-
-【活动规则】
-玩家进入特殊副本中，在【试冶合金】的作用下获得特殊增益，进行酣畅淋漓地战斗。","[Event Details]
-Shilang has been conducting research on optimizing alloy properties.
-A unique Sonoro Sphere has emerged recently, and Shilang discovers that the alloys he has forged possess exceptional abilities in this domain.
-
-[Eligibility]
-Reach Union Level 14.
-
-[Event Rules]
-In this event, Resonators are granted special buffs by Alloys. Utilize these buffs and engage in exhilarating battles!","[Giới thiệu sự kiện]
-""Chuyên gia khoáng thạch"" Thạch Lang vẫn luôn nghiên cứu cách chế tạo hợp kim có hiệu năng tốt nhất.
-Gần đây, một Lĩnh Vực Thanh đặc biệt xuất hiện, Thạch Lang phát hiện hợp kim do mình luyện chế có thể phát huy sức mạnh phi thường trong lĩnh vực này.
-
-[Điều kiện tham gia]
-Mở sau khi Cấp Liên Giác đạt 14.
-
-[Luật sự kiện]
-Người chơi vào phụ bản đặc biệt, dưới tác dụng của [Hợp Kim Thử Nghiệm] nhận được tăng cường đặc biệt, tham gia chiến đấu sảng khoái."
-lang_multi_text.db,MultiText,HelpText_60_Title,【合金试冶】活动说明,[Alloy Smelt] Event Rules,Hướng dẫn sự kiện [Thử Nghiệm Hợp Kim]
-lang_multi_text.db,MultiText,HelpText_65_Content,"【参与条件】
-联觉等级达到14级。
-
-【活动规则】
-活动期间，完成「模拟领域」和「凝素领域」挑战时可消耗「结晶波片」获取双倍奖励。
-「模拟领域」和「凝素领域」共享奖励翻倍的次数。
-双倍奖励的领取机会以「回音盈域」活动界面的显示为准。","[Eligibility]
-Reach Union Level 14.
-
-[Event Rules]
-During the event, you can consume Waveplates to obtain double rewards after completing Simulation Challenges and Forgery Challenges.
-The double reward attempts are shared between Simulation Challenges and Forgery Challenges.
-Please refer to Bountiful Crescendo page for the remaining attempts to claim double rewards.","[Điều kiện tham gia]
-Cấp Liên Giác đạt 14.
-
-[Luật sự kiện]
-Trong thời gian sự kiện, khi hoàn thành thử thách ""Mô Phỏng Lĩnh Vực"" và ""Ngưng Tố Lĩnh Vực"" có thể tiêu hao ""Kết Tinh Ba Phiến"" để nhận thưởng gấp đôi.
-Số lần thưởng gấp đôi được chia sẻ giữa ""Mô Phỏng Lĩnh Vực"" và ""Ngưng Tố Lĩnh Vực"".
-Số lần nhận thưởng gấp đôi lấy theo hiển thị trên giao diện sự kiện ""Hồi Âm Doanh Vực""."
-lang_multi_text.db,MultiText,HelpText_65_Title,回音盈域说明,About Bountiful Crescendo,Hướng dẫn Hồi Âm Doanh Vực
-lang_multi_text.db,MultiText,HelpText_66_Content,"【参与条件】
-联觉等级达到19级。
-
-【活动规则】
-活动期间，完成「无音清剿」挑战时可消耗「结晶波片」获取双倍奖励。
-双倍奖励的领取机会以「声弦涤荡」活动界面的显示为准。","[Participation Requirement]
-Reach Union Level 19.
-
-Event Rules
-During the event, you can consume Waveplates to obtain double rewards after completing Tacet Suppression.
-Please refer to Chord Cleansing page for the remaining attempts to claim double rewards.","[Điều kiện tham gia]
-Cấp Liên Giác đạt 19.
-
-[Luật sự kiện]
-Trong thời gian sự kiện, khi hoàn thành thử thách ""Vô Thanh Truy Quét"" có thể tiêu hao ""Kết Tinh Ba Phiến"" để nhận thưởng gấp đôi.
-Số lần nhận thưởng gấp đôi lấy theo hiển thị trên giao diện sự kiện ""Thanh Huyền Địch Đãng""."
-lang_multi_text.db,MultiText,HelpText_66_Title,声弦涤荡说明,Chord Cleansing,Hướng dẫn Thanh Huyền Địch Đãng
-lang_multi_text.db,MultiText,HelpText_67_Content,"【参与条件】
-联觉等级达到8级。
-
-【活动简介】
-完成3个指定目标，可获得相应奖励。
-1.搜寻并吸收指定声骸。点击图片即可跳转至声骸图鉴进行追踪。
-2.数据坞等级达到10级。解锁新声骸，或解锁已有声骸的更高品质，可获得数据坞经验。
-3.完成「银发声骸训练师」系列任务。","[Eligibility]
-Reach Union Level 8.
-
-[Event Details]
-Complete the following three quests to obtain corresponding rewards.
-1. Search for and absorb specific Echoes. Tap the image to navigate to Echo Collection to track the target.
-2. Data Bank level reaches 10. Unlock new Echoes or higher rarity of existing Echoes to obtain Data Bank EXP.
-3. Complete quests of ""Silver-haired Echo Trainer"" series.","[Điều kiện tham gia]
-Cấp Liên Giác đạt 8.
-
-[Giới thiệu sự kiện]
-Hoàn thành 3 mục tiêu chỉ định để nhận phần thưởng tương ứng.
-1. Tìm kiếm và hấp thu Thanh Hài chỉ định. Nhấn vào hình ảnh để chuyển đến Đồ Giám Thanh Hài để theo dõi.
-2. Cấp Kho Dữ Liệu đạt 10. Mở khóa Thanh Hài mới hoặc mở khóa phẩm chất cao hơn của Thanh Hài đã có để nhận kinh nghiệm Kho Dữ Liệu.
-3. Hoàn thành chuỗi nhiệm vụ ""Huấn Luyện Viên Thanh Hài Tóc Bạc""."
-lang_multi_text.db,MultiText,HelpText_67_Title,狩影拾忆,Echo Hunters,Săn Bóng Nhặt Ký Ức
-lang_multi_text.db,MultiText,HelpText_69_Content,"1.部分角色拥有属于自己的伴星任务，在伴星任务中可体验与角色相关的故事。
-2.伴星任务达到特定条件后即可解锁，完成后可获得丰厚的奖励。","1. Some Resonators have special Companion Stories, through which you get to learn all the intimate details of them.
-2. Companion Stories are unlocked when certain requirements are met. You can claim abundant rewards after completing them.","1. Một số nhân vật có nhiệm vụ Bạn Đồng Hành riêng, trong đó bạn có thể trải nghiệm câu chuyện liên quan đến nhân vật.
-2. Nhiệm vụ Bạn Đồng Hành mở khóa khi đạt điều kiện nhất định, hoàn thành sẽ nhận được phần thưởng hậu hĩnh."
-lang_multi_text.db,MultiText,HelpText_69_Title,伴星任务说明,Companion Stories,Hướng dẫn Nhiệm vụ Bạn Đồng Hành
-lang_multi_text.db,MultiText,HelpText_6_Content,<color=yellow>角色介绍：</color>,<color=yellow>Character Introduction: </color>,<color=yellow>Giới thiệu nhân vật:</color>
-lang_multi_text.db,MultiText,HelpText_6_Title,角色介绍-桃祈,Character Introduction: Taoqi,Giới thiệu nhân vật - Đào Kỳ
-lang_multi_text.db,MultiText,HelpText_70_Content,"【标准融合】
-终端可以将5个未强化声骸转化为1个随机新声骸，支持批量融合。
-装备中和被锁定的声骸不能被选为材料。
-
-【定向融合】
-数据坞等级15级即可解锁
-定向融合可以将5个未强化的五星品质声骸，转化为漂泊者指定合鸣效果的随机新声骸。
-装备中和被锁定的声骸不能被选为材料。
-*漂泊者如只解锁了某一合鸣效果的1COST或3COST声骸，在定向融合时依旧有概率获取该合鸣效果下未解锁COST种类的随机声骸。在这种情况下，漂泊者首次获取的声骸固定为三星品质，并将解锁其对应的声骸图鉴。解锁图鉴后，漂泊者获取对应cost种类的声骸时，将依照数据坞等级对应的稀有度区间在已解锁的声骸中进行产出。
-
-【产出声骸】
-产出新声骸的品质由当前数据坞等级决定，与放入声骸的品质无关。提升数据坞等级可提高产出声骸的品质。
-数据融合只能获得已解锁的声骸。
-
-【额外产出】
-标准融合在基础的产出1个随机新声骸之外，还有概率额外产出更多数量。
-放入声骸的品质和COST越高，出现额外产出的概率越大。
-*定向融合不包含额外产出
-
-【自动放入】
-在数据融合中，点击自动放入，会将未强化的声骸按照材料选择界面的顺序依次放入，漂泊者可更改此处的筛选排序以更加细致地控制自动放入。","[Standard Merge]
-You can merge or Batch Merge 5 unenhanced Echoes into 1 random new Echo in the Terminal.
-You cannot select equipped and locked Echoes as Merge Materials.
-
-[Targeted Merge]
-This feature unlocks at Data Bank Lv. 15.
-You can merge 5 unenhanced 5-Star Echoes into a random new Echo of the Sonata Effect of your choice.
-You cannot select equipped and locked Echoes as Merge Materials.
-*If a selected Sonata Effect currently only has Cost-1 or Cost-3 Echoes unlocked, Targeted Merge may still produce an Echo of a locked Cost type. In this case, the first newly-unlocked Echo of that Cost type will always be 3-Star and will unlock the corresponding Echo Collection. Afterward, Echoes of that Cost type obtained through Targeted Merge will be generated randomly from the unlocked Echoes, with their Rarity determined by your Data Bank Level.
-
-[New Echoes]
-The Rarity of the new Echo is subject to your Data Bank level. It is not determined by the Rarity of merged Echoes. Upgrade your Data Bank to get Echoes of higher Rarity from Data Merge.
-Data Merge only produces Echoes that are already unlocked.
-
-[Extras]
-Standard Merge produces at least one random new Echo, and sometimes extra Echoes.
-Merge Echoes of higher Rarity and COST for a higher chance to produce extras.
-*Targeted Merge does not produce extra Echoes.
-
-[Auto Select]
-Auto Select lets you quickly select available Echoes to merge. You can change the sort and filter settings to determine what Echoes will be selected.","[Dung Hợp Tiêu Chuẩn]
-Thiết bị đầu cuối có thể chuyển đổi 5 Thanh Hài chưa cường hóa thành 1 Thanh Hài mới ngẫu nhiên, hỗ trợ dung hợp hàng loạt.
-Thanh Hài đang trang bị và bị khóa không thể chọn làm nguyên liệu.
-
-[Dung Hợp Định Hướng]
-Mở khóa khi Kho Dữ Liệu đạt cấp 15.
-Dung Hợp Định Hướng có thể chuyển đổi 5 Thanh Hài 5 sao chưa cường hóa thành Thanh Hài mới ngẫu nhiên thuộc hiệu ứng Hợp Minh mà Lữ Khách chỉ định.
-Thanh Hài đang trang bị và bị khóa không thể chọn làm nguyên liệu.
-*Nếu Lữ Khách chỉ mở khóa Thanh Hài COST 1 hoặc COST 3 của một hiệu ứng Hợp Minh nhất định, khi Dung Hợp Định Hướng vẫn có xác suất nhận được Thanh Hài ngẫu nhiên thuộc loại COST chưa mở khóa trong hiệu ứng Hợp Minh đó. Trong trường hợp này, Thanh Hài đầu tiên nhận được sẽ cố định là phẩm chất 3 sao và sẽ mở khóa đồ giám Thanh Hài tương ứng. Sau khi mở khóa đồ giám, Thanh Hài thuộc loại COST tương ứng mà Lữ Khách nhận được sẽ được tạo ra theo khoảng độ hiếm tương ứng với cấp Kho Dữ Liệu từ các Thanh Hài đã mở khóa.
-
-[Thanh Hài tạo ra]
-Phẩm chất Thanh Hài mới được quyết định bởi cấp Kho Dữ Liệu hiện tại, không liên quan đến phẩm chất Thanh Hài đưa vào. Nâng cấp Kho Dữ Liệu có thể tăng phẩm chất Thanh Hài tạo ra.
-Dung Hợp Dữ Liệu chỉ có thể nhận được Thanh Hài đã mở khóa.
-
-[Sản phẩm thêm]
-Dung Hợp Tiêu Chuẩn ngoài việc tạo ra 1 Thanh Hài mới ngẫu nhiên cơ bản, còn có xác suất tạo thêm số lượng nhiều hơn.
-Phẩm chất và COST của Thanh Hài đưa vào càng cao, xác suất có sản phẩm thêm càng lớn.
-*Dung Hợp Định Hướng không có sản phẩm thêm.
-
-[Tự động đưa vào]
-Trong Dung Hợp Dữ Liệu, nhấn tự động đưa vào sẽ lần lượt đưa các Thanh Hài chưa cường hóa vào theo thứ tự trên giao diện chọn nguyên liệu. Lữ Khách có thể thay đổi bộ lọc và sắp xếp tại đây để kiểm soát chi tiết hơn việc tự động đưa vào."
-lang_multi_text.db,MultiText,HelpText_70_Title,数据融合,Data Merge,Dung Hợp Dữ Liệu
-lang_multi_text.db,MultiText,HelpText_71_Content,"【活动规则】
-先行公约将中曲台地选为了新一期《潮汐地理》杂志的主题地区。 为此，先约组织了针对中曲台地的专项勘察活动。
-完成勘察任务，积累勘察点数，即可获得先约提供的珍贵奖励。
-
-【任务刷新】
-勘察任务每日4点刷新。刷新时，未领取的勘察点数会自动领取，未完成的任务无法再次完成。
-活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Event Rules]
-The Pioneer Association has picked the Central Plains as the theme for an upcoming edition of <i>Wutherium Geographic</i>. To that end, the association has organized a special survey of the Central Plains.
-Complete Survey Tasks and accumulate Survey Points to secure valuable rewards offered by the Pioneer Association.
-
-[Task Reset]
-Survey Tasks reset daily at 04:00. Upon reset, any unclaimed Survey Points will be automatically claimed, and uncompleted tasks will expire.
-If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to claim them in your Mail.","[Luật sự kiện]
-Hiệp Ước Tiên Phong đã chọn Trung Khúc Đài Địa làm chủ đề cho số mới của tạp chí ""Địa Lý Triều Tịch"". Vì vậy, Hiệp Ước đã tổ chức hoạt động khảo sát chuyên biệt cho Trung Khúc Đài Địa.
-Hoàn thành nhiệm vụ khảo sát, tích lũy điểm khảo sát để nhận phần thưởng quý giá từ Hiệp Ước.
-
-[Làm mới nhiệm vụ]
-Nhiệm vụ khảo sát làm mới lúc 4 giờ sáng mỗi ngày. Khi làm mới, điểm khảo sát chưa nhận sẽ được tự động nhận, nhiệm vụ chưa hoàn thành không thể hoàn thành lại.
-Sau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc sẽ được bổ sung qua thư."
-lang_multi_text.db,MultiText,HelpText_71_Title,【潮汐觅闻】活动说明,[Wuthering Exploration] Event Description,Hướng dẫn sự kiện [Triều Tịch Tầm Văn]
-lang_multi_text.db,MultiText,HelpText_72_Content,"对于指定危险等级的残象，终端可以消耗额外的算力大幅提升其声骸掉落概率。
-目前的算力支持有限，在总计强化吸收有限次数之后会耗尽，需要一定时间重新累积。
-不同危险等级残象的强化吸收次数分别计算。
-每周一服务器时间04:00更新。","For certain classes of Tacet Discords, your Terminal can consume extra computational power to enhance its Echo absorption and increase your chances of getting Echo drops. It can perform a limited number of enhanced absorptions, and then it will need time to recharge.
-The enhanced absorption attempts of different classes are counted separately.
-*Cooldown resets at server time 04:00 every Monday.","Đối với Tàn Tượng ở cấp nguy hiểm chỉ định, thiết bị đầu cuối có thể tiêu hao thêm năng lực tính toán để tăng đáng kể tỷ lệ rơi Thanh Hài.
-Năng lực tính toán hiện tại có hạn, sau khi sử dụng hết số lần hấp thu cường hóa sẽ cần một khoảng thời gian để tích lũy lại.
-Số lần hấp thu cường hóa của các cấp nguy hiểm khác nhau được tính riêng.
-Làm mới vào lúc 04:00 giờ máy chủ mỗi thứ Hai."
-lang_multi_text.db,MultiText,HelpText_72_Title,强化吸收概率,Enhanced Drop Rate,Tỷ lệ hấp thu cường hóa
-lang_multi_text.db,MultiText,HelpText_73_Content,"【活动简介】
-研究院正在实验一项技术，据称这项技术可以模拟出各种强大的敌人，在模拟领域中帮助战士们进行训练……
-
-【参与条件】
-联觉等级达到14级后开启。
-
-【活动规则】
-1、在【仿声战略】中，玩家可进入特殊的模拟领域，在特殊增益的加持下连续挑战多个强大的敌人。
-2、在完成挑战的过程中将逐步解锁更多的特殊增益，从而帮助玩家更好地完成后续挑战。
-3、挑战最后积分构成为怪物积分、时间积分和技术积分。
-     i、怪物积分为玩家在挑战中击败敌人获得。
-     ii、时间积分为玩家完成挑战剩余时间折算积分，击败敌人数量越多积分系数越高。
-     iii、技术积分为逆势回击和成功闪避触发时获得，单次挑战有一定上限值。","[About]
-
-The Academy is experimenting with a new type of technology rumored to be capable of simulating powerful enemies to help with the troops' combat training...
-
-[Eligibility]
-
-Reach Union Level 14.
-
-[Event Rules]
-
-1. In Tactical Simulacra, challenge waves of powerful enemies by using special buffs across different simulation domains.
-
-2. As you complete more challenges, more special buffs will be unlocked to aid you in taking on subsequent challenges.
-
-3. The results of each challenge consist of three parts: Monster Points, Time Points, and Technical Points.
-
-i. Monster Points are earned by defeating enemies in challenges.
-
-ii. Time Points are earned based on the time remaining when a challenge is completed. The more enemies that are defeated, the higher the point conversion factor.
-
-iii. Technical Points are earned for each successful Counterattack and Dodge triggered. There's a maximum limit to the number of Technical Points that can be earned from each challenge.","[Giới thiệu sự kiện]
-Viện Nghiên Cứu đang thử nghiệm một công nghệ, được cho là có thể mô phỏng nhiều loại kẻ thù mạnh mẽ, giúp chiến sĩ huấn luyện trong lĩnh vực mô phỏng...
-
-[Điều kiện tham gia]
-Mở sau khi Cấp Liên Giác đạt 14.
-
-[Luật sự kiện]
-1. Trong [Chiến Lược Phỏng Thanh], người chơi có thể vào lĩnh vực mô phỏng đặc biệt, dưới sự hỗ trợ của tăng cường đặc biệt liên tục thử thách nhiều kẻ thù mạnh.
-2. Trong quá trình hoàn thành thử thách sẽ dần mở khóa thêm nhiều tăng cường đặc biệt, giúp người chơi hoàn thành tốt hơn các thử thách tiếp theo.
-3. Điểm số cuối cùng gồm: điểm quái vật, điểm thời gian và điểm kỹ thuật.
-     i. Điểm quái vật: nhận được khi Đánh Bại kẻ thù trong thử thách.
-     ii. Điểm thời gian: quy đổi từ thời gian còn lại sau khi hoàn thành thử thách, số kẻ thù Đánh Bại càng nhiều thì hệ số điểm càng cao.
-     iii. Điểm kỹ thuật: nhận được khi kích hoạt Phản Công và Né Tránh thành công, mỗi lần thử thách có giới hạn nhất định."
-lang_multi_text.db,MultiText,HelpText_73_Title,【仿声战略】活动说明,About Tactical Simulacra,Hướng dẫn sự kiện [Chiến Lược Phỏng Thanh]
-lang_multi_text.db,MultiText,HelpText_74_Content,"【活动简介】
-福伯说，他的手里有一个奇异的“法宝”。
-据说这“法宝”状如鳞片，拥有名为“停影”的能力，能够带人重新经历过往的时空……
-
-【参与条件】
-完成前置纪闻任务「长路鳞迹」。
-纪闻任务「长路鳞迹」将在完成潮汐任务「但觉今州胜旧州·往岁乘霄醒惊蛰」后解锁。
+完成潮汐任务时隙废都第二章·幕间「星光流转于眼眸之间」及纪闻任务「长路鳞迹」后解锁。
 
 【活动规则】
 跟随线索的指引，前往对应区域探索，收集散落的停影吧。
 完成收集还可获取包含「星声」在内的各类奖励。
 未来会有更多区域的停影等待着漂泊者的探索……
 
-该系统为常驻系统，「停影霄山」活动页关闭后漂泊者仍可继续通过装备特殊道具「迹鳞」进入「长路鳞迹」。","[About]
-Uncle Fu says that he has a magical item.
-It's said that this item is shaped like a scale and has a magical power called Chrono Trace that can make people relive moments from their past...
+该系统为常驻系统，「浪沫余音」活动页关闭后漂泊者仍可继续通过装备特殊道具「迹鳞」进入「长路鳞迹」。","[About]
+Beneath the azure sky, amidst towering buildings and bustling streets, powdery snow swirls, while colorful koi streamers drift in the wind. People stroll through the city markets, unaware that they are but whispers of waves—fleeting illusions in a vanishing dream.
+A stranger arrives at the cafe and asks for your help to retrieve the memories hidden within the Irideglow...
 
 [Eligibility]
-Complete the prerequisite side quest Scale of Past.
-The side quest Scale of Past unlocks after completing the main quests Jinzhou Rising: Thaw of Eons.
+Complete Main Quest Chronorift Metropolis Chapter II - Segue ""Flowing Starlight in the Iris"" and Side Quest ""Scale of Past"" to unlock.
 
 [Event Rules]
 Explore areas according to the clues to collect the scattered Chrono Traces.
 Collect all the Chrono Traces to receive Astrites and other rewards.
-More Chrono Traces will be available for collection in other areas in the future...
+More Chrono Traces will be available for collection in other areas in the future.
 
-This system is permanently available, and Traces of Mt. Firmament can still be accessed via Trace Scale after the event ends.","[Giới thiệu sự kiện]
-Phúc Bá nói, ông có một ""bảo vật"" kỳ lạ trong tay.
-Nghe nói ""bảo vật"" này hình dạng như vảy, sở hữu năng lực gọi là ""Đình Ảnh"", có thể đưa người ta trải nghiệm lại không gian thời gian trong quá khứ...
+This feature is permanently available, and Scale of Past can still be accessed via Trace Scale after Whispers of the Waves ends.","[Giới thiệu]
+Dưới bầu trời xanh thẳm, giữa những tòa nhà phồn hoa, tuyết phấn nở rộ như ráng chiều, cờ cá chép ngũ sắc bơi lội trong gió. Người người thảnh thơi qua lại giữa phố chợ, hoàn toàn không biết bản thân chỉ là dư âm của sóng triều, là giấc mộng thoáng qua trong chớp mắt.
+Một vị khách lạ mặt đã đến quán cà phê, nhờ bạn giúp cô ấy vớt lấy những ký ức trong ánh cầu vồng đó...
 
 [Điều kiện tham gia]
-Hoàn thành nhiệm vụ Ký Văn tiền đề ""Dấu Vảy Đường Dài"".
-Nhiệm vụ Ký Văn ""Dấu Vảy Đường Dài"" mở khóa sau khi hoàn thành Nhiệm vụ Triều Tịch ""Đãn Giác Kim Châu Thắng Cựu Châu - Vãng Tuế Thừa Tiêu Tỉnh Kinh Trập"".
+Mở khóa sau khi hoàn thành Nhiệm Vụ Triều Tịch: Đô Thị Thời Gian Chương II - Màn Đệm ""Ánh Sao Lưu Chuyển Trong Mắt"" và Nhiệm Vụ Kỷ Văn ""Dấu Vết Vảy Cá"".
 
-[Luật sự kiện]
-Theo chỉ dẫn manh mối, đến khu vực tương ứng khám phá, thu thập các Đình Ảnh rải rác.
-Hoàn thành thu thập còn nhận được các phần thưởng bao gồm ""Tinh Thanh"" và nhiều loại khác.
-Tương lai sẽ có thêm Đình Ảnh ở nhiều khu vực khác chờ Lữ Khách khám phá...
+[Quy tắc sự kiện]
+Lần theo manh mối, đi đến khu vực tương ứng để khám phá và thu thập Dư Ảnh Thời Gian nằm rải rác.
+Hoàn thành thu thập còn có thể nhận các loại phần thưởng bao gồm ""Tinh Thanh"".
+Trong tương lai sẽ có thêm Dư Ảnh Thời Gian ở nhiều khu vực khác chờ Lữ Khách khám phá...
 
-Đây là hệ thống thường trực, sau khi trang sự kiện ""Đình Ảnh Tiêu Sơn"" đóng, Lữ Khách vẫn có thể tiếp tục vào ""Dấu Vảy Đường Dài"" bằng cách trang bị vật phẩm đặc biệt ""Tích Lân""."
-lang_multi_text.db,MultiText,HelpText_74_Title,【停影霄山】活动说明,"About ""Traces of Mt. Firmament""",Hướng dẫn sự kiện [Đình Ảnh Tiêu Sơn]
-lang_multi_text.db,MultiText,HelpText_75_Content,"【玩法简介】
-福伯说，他的手里有一个奇异的“法宝”。
-据说这“法宝”状如鳞片，拥有名为“停影”的能力，能够带人重新经历过往的时空……
-
-【玩法规则】
-漂泊者可通过装备特殊道具「迹鳞」进入「长路鳞迹」。
-请跟随线索的指引，前往对应区域探索，收集散落的停影吧。
-完成收集还可获取包含「星声」在内的各类奖励。
-未来会有更多区域的停影等待着漂泊者的探索……","[About]
-Uncle Fu says that he has a magical item.
-It's said that this item is shaped like a scale and has a magical power called Chrono Trace that can make people relive moments from their past...
-
-[Event Rules]
-Explore areas according to the clues to collect the scattered Chrono Traces.
-Collect all the Chrono Traces to receive Astrites and other rewards.
-More Chrono Traces will be available for collection in other areas in the future...","[Giới thiệu]
-Phúc Bá nói, ông có một ""bảo vật"" kỳ lạ trong tay.
-Nghe nói ""bảo vật"" này hình dạng như vảy, sở hữu năng lực gọi là ""Đình Ảnh"", có thể đưa người ta trải nghiệm lại không gian thời gian trong quá khứ...
-
-[Luật chơi]
-Lữ Khách có thể trang bị vật phẩm đặc biệt ""Tích Lân"" để vào ""Dấu Vảy Đường Dài"".
-Hãy theo chỉ dẫn manh mối, đến khu vực tương ứng khám phá, thu thập các Đình Ảnh rải rác.
-Hoàn thành thu thập còn nhận được các phần thưởng bao gồm ""Tinh Thanh"" và nhiều loại khác.
-Tương lai sẽ có thêm Đình Ảnh ở nhiều khu vực khác chờ Lữ Khách khám phá..."
-lang_multi_text.db,MultiText,HelpText_75_Title,【长路鳞迹】功能说明,About Scale of Past,Hướng dẫn chức năng [Dấu Vảy Đường Dài]
-lang_multi_text.db,MultiText,HelpText_76_Content,"【调梦模因】
-在开始「异想奇境」的探索前，可以选用「调梦模因」调整探索的难度及奖励倍率。（「调梦模因」仅在难度Ⅳ、V、VI可选用。）
-「调梦模因」会影响本次探索中共鸣者在「异想奇境」中的战斗体验以及敌人的能力，其奖励获得倍率会同时作用于完成探索后获取的「异想标本」与「记忆点」。
-
-「美梦模因」：降低本次探索的整体难度，同时降低探索后奖励获得倍率。
-「噩梦模因」：增加本次探索的整体难度，同时增加探索后奖励获得倍率。","[Memetic Tuning]
-Before exploring the Illusive Realm, Memetic Tuning can be selected to adjust the difficulty of the exploration and the reward rate (Memetic Tuning can only be used in Difficulty Ⅳ, V, and VI).
-Memetic Tuning affects Resonators' combat experience and enemies' abilities in the upcoming Illusive Realm exploration. The reward rate will be applied to the Illusive Specimens and Memory Points obtained after completing the upcoming exploration.
-
-Reverie Memes: Reduce the overall difficulty and the reward rate of the upcoming exploration.
-Nightmare Memes: Increase the overall difficulty and the reward rate of the upcoming exploration.","[Meme Điều Mộng]
-Trước khi bắt đầu khám phá ""Dị Tưởng Kỳ Cảnh"", có thể chọn ""Meme Điều Mộng"" để điều chỉnh độ khó và hệ số thưởng khi khám phá. (""Meme Điều Mộng"" chỉ khả dụng ở độ khó IV, V, VI.)
-""Meme Điều Mộng"" sẽ ảnh hưởng đến trải nghiệm chiến đấu của Cộng Hưởng Giả và năng lực kẻ thù trong ""Dị Tưởng Kỳ Cảnh"". Hệ số thưởng sẽ áp dụng cho cả ""Dị Tưởng Tiêu Bản"" và ""Điểm Ký Ức"" nhận được sau khi hoàn thành khám phá.
-
-""Meme Mộng Đẹp"": Giảm độ khó tổng thể của lần khám phá này, đồng thời giảm hệ số thưởng sau khám phá.
-""Meme Ác Mộng"": Tăng độ khó tổng thể của lần khám phá này, đồng thời tăng hệ số thưởng sau khám phá."
-lang_multi_text.db,MultiText,HelpText_76_Title,调梦模因说明,About Memetic Tuning,Hướng dẫn Meme Điều Mộng
-lang_multi_text.db,MultiText,HelpText_77_Content,"【活动简介】
-完成今州呜呜物流管理员马计的「呜呜企划」，即可获得呜呜物流的谢礼——「呜呜邮币」。
-「呜呜邮币」可用于兑换呜呜物流回赠的「助呜为乐」特别邮递。
+Đây là hệ thống thường trú, sau khi trang sự kiện ""Dư Âm Sóng Triều"" đóng lại, Lữ Khách vẫn có thể tiếp tục vào ""Dấu Vết Vảy Cá"" thông qua việc trang bị đạo cụ đặc biệt ""Vảy Dấu Vết""."
+lang_multi_text.db,MultiText,HelpText_407_Title,【浪沫余音】活动说明,Whispers of the Waves,Giới thiệu sự kiện [Dư Âm Sóng Triều]
+lang_multi_text.db,MultiText,HelpText_409_Title,【琥珀赠礼】活动说明,Gifts of Amber,Giới thiệu sự kiện [Món Quà Hổ Phách]
+lang_multi_text.db,MultiText,HelpText_410_Title,【墨影凤歌】活动说明,Gifts of Ink Song,Giới thiệu sự kiện [Mặc Ảnh Phượng Ca]
+lang_multi_text.db,MultiText,HelpText_411_Content,"【活动简介】
+黑海岸的机器人库里安正在寻求黑海岸人员的协助，收集七丘地区的海蚀现象监测数据。如果感兴趣的话，不妨去找他聊聊吧。
 
 【参与条件】
-联觉等级达到14级。
+联觉等级达到14级，且在潮汐任务「荣耀暗面」中完成实验装置坠落任务。
 
 【活动规则】
-活动期间，漂泊者每天可完成一次「呜呜企划」，获得一定数目的呜呜邮币；
-每次消耗一枚呜呜邮币，可随机获赠一份「助呜为乐」特别邮递。
-「助呜为乐」特别邮递总计三轮库存，获得前序库存内的全部邮递后，将开启下一库存；
-若于本轮中选「呜闪达」专送服务，即刻获得当前库存内的全部邮递；
-活动结束时，未参与的「呜呜企划」将无法体验，并统一回收未兑换的呜呜邮币。","[About]
-Complete the Lollo Campaigns proposed by Maji, the administrator of Jinzhou Lollo Logistics, to claim your Lollo Stamps—a gift of gratitude from Lollo Logistics.
-Lollo Stamps can be exchanged for a Lollo Helper special delivery.
-
+在活动中，参与者需要前往各地区开启装置触发挑战。可选择任意已开启的玩法参与挑战。
+开启挑战后可在一定时间内生成辅助机关并使侦测数据显形，参与者需要在限时时间内尽可能多地收集侦测数据；当抵达终点或者限定时间结束后，会根据收集的侦测数据积分获得对应奖励。
+在挑战中有着各种各样的模块，合理运用它们可以更快收集数据。
+活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[About]
+KU-Ryan, a Black Shores robot, is currently looking for help in gathering Surveillance Datasets on Waveworn Phenomena in Septimont. Interested individuals are welcome to speak with him.
+ 
 [Eligibility]
-Reach Union Level 14.
-
+Reach Union Level 14 and successfully collapse the experimental unit during the Main Quest ""Shadow of Glory.""
+ 
 [Event Rules]
-During the event, you can complete Lollo Campaigns once per day to obtain a set number of Lollo Stamps.
-Each Lollo Stamp can be exchanged for a Lollo Helper special delivery.
-There are 3 Inventories for the Lollo Helper special deliveries. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.
-If you win the Lollo Express special delivery service, you can claim all deliveries in the current Inventory.
-After the event ends, the unfinished Lollo Campaigns will not be available, and all the remaining Lollo Stamps will be recycled.","[Giới thiệu sự kiện]
-Hoàn thành ""Kế Hoạch Ù Ù"" của Mã Kế - quản lý Vận Chuyển Ù Ù tại Kim Châu, sẽ nhận được quà cảm ơn từ Vận Chuyển Ù Ù - ""Tem Ù Ù"".
-""Tem Ù Ù"" có thể dùng để đổi bưu kiện đặc biệt ""Vui Giúp Ù Ù"" từ Vận Chuyển Ù Ù.
+1. During the event, you need to activate challenges across different locations. You can participate in any activated challenge as many times as you want.
+2. After the challenge starts, Surveillance Datasets will appear. Try to collect as many Surveillance Datasets as possible within the time limit. When all the datasets have been collected or when time runs out, you will receive rewards based on the points obtained.
+3. There are various modules available in the challenges. Utilize them strategically to speed up Dataset collection.
+4. If there are any unclaimed rewards after the event ends, they will be automatically sent to your inbox when you log in again within 30 days.","[Giới thiệu]
+Người máy KU-Ryan của Bờ Biển Đen đang tìm kiếm sự hỗ trợ từ nhân sự Bờ Biển Đen để thu thập dữ liệu giám sát hiện tượng Sóng Mòn ở khu vực Septimont. Nếu hứng thú, hãy đến trò chuyện với cậu ấy xem sao.
 
 [Điều kiện tham gia]
-Cấp Liên Giác đạt 14.
+Cấp Liên Giác đạt 14, và hoàn thành nhiệm vụ phá hủy thiết bị thí nghiệm trong Nhiệm Vụ Triều Tịch ""Bóng Tối Của Vinh Quang"".
 
-[Luật sự kiện]
-Trong thời gian sự kiện, mỗi ngày Lữ Khách có thể hoàn thành một lần ""Kế Hoạch Ù Ù"", nhận được một số lượng Tem Ù Ù nhất định;
-Mỗi lần tiêu hao một Tem Ù Ù, có thể nhận ngẫu nhiên một bưu kiện đặc biệt ""Vui Giúp Ù Ù"".
-Bưu kiện đặc biệt ""Vui Giúp Ù Ù"" có tổng cộng ba đợt kho, sau khi nhận hết tất cả bưu kiện trong đợt trước sẽ mở đợt tiếp theo;
-Nếu trúng dịch vụ chuyển phát nhanh ""Ù Ù Siêu Tốc"" trong đợt này, lập tức nhận toàn bộ bưu kiện còn lại trong kho hiện tại;
-Khi sự kiện kết thúc, ""Kế Hoạch Ù Ù"" chưa tham gia sẽ không thể trải nghiệm, và Tem Ù Ù chưa đổi sẽ bị thu hồi."
-lang_multi_text.db,MultiText,HelpText_77_Title,呜呜企划说明,About Lollo Campaign,Hướng dẫn Kế Hoạch Ù Ù
-lang_multi_text.db,MultiText,HelpText_78_Content,"【活动规则】
-先行公约将乘霄山选为了新一期《潮汐地理》杂志的主题地区。 为此，先约组织了针对乘霄山的专项勘察活动。
-完成勘察任务，积累勘察点数，即可获得先约提供的珍贵奖励。
-
-【任务刷新】
-勘察任务每日4点刷新。刷新时，未领取的勘察点数会自动领取，未完成的任务无法再次完成。
-活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Event Rules]
-The Pioneer Association has picked Mt. Firmament as the theme for an upcoming edition of <i>Wutherium Geographic</i>. To that end, the association has organized a special survey of Mt. Firmament.
-Complete Survey Tasks and accumulate Survey Points to secure valuable rewards offered by the Pioneer Association.
-
-[Task Reset]
-Survey Tasks reset daily at 04:00. Upon reset, any unclaimed Survey Points will be automatically claimed, and uncompleted tasks will expire.
-If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to claim them in your Mail.","[Luật sự kiện]
-Hiệp Ước Tiên Phong đã chọn Thừa Tiêu Sơn làm chủ đề cho số mới của tạp chí ""Địa Lý Triều Tịch"". Vì vậy, Hiệp Ước đã tổ chức hoạt động khảo sát chuyên biệt cho Thừa Tiêu Sơn.
-Hoàn thành nhiệm vụ khảo sát, tích lũy điểm khảo sát để nhận phần thưởng quý giá từ Hiệp Ước.
-
-[Làm mới nhiệm vụ]
-Nhiệm vụ khảo sát làm mới lúc 4 giờ sáng mỗi ngày. Khi làm mới, điểm khảo sát chưa nhận sẽ được tự động nhận, nhiệm vụ chưa hoàn thành không thể hoàn thành lại.
-Sau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc sẽ được bổ sung qua thư."
-lang_multi_text.db,MultiText,HelpText_79_Content,"【活动简介】
-乘霄山，一片与世隔绝的秘境。据说，岁主「角」的初次降临便是在此处……
-完成活动任务即可获得丰厚的奖励。
-
-【参与条件】
-联觉等级达到14级，且在潮汐任务【远赴乘霄】中抵达乘霄山后解锁。
-
-【活动规则】
-整个活动共分为四个阶段，根据潮汐任务的进度依次解锁；
-完成活动任务即可领取丰厚的奖励；
-活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发；
-请注意部分活动任务联机情况下无法完成；部分游戏内场景无法进行任务追踪。","[About]
-Mt. Firmament is a secluded haven, detached from the rest of the world. It is rumored to be the very place where the Sentinel Jué descended...
-Complete event quests to earn great rewards.
-
-[Eligibility]
-Reach Union Level 14 and arrive at Mt. Firmament in the main quest ""Voyage to Firmament.""
-
-[Event Rules]
-The event consists of four phases, with each phase unlocking progressively as you advance through the main quests.
-Complete event quests to earn great rewards.
-If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to receive the rewards via mail.
-Please note that certain content of the event is not available while in Co-op mode. Quest Tracking is not available while in certain game scenes.","[Giới thiệu sự kiện]
-Thừa Tiêu Sơn, một bí cảnh cách biệt với thế giới bên ngoài. Tương truyền, lần giáng lâm đầu tiên của Tuế Chủ ""Giác"" chính là tại nơi đây...
-Hoàn thành nhiệm vụ sự kiện để nhận phần thưởng hậu hĩnh.
-
-[Điều kiện tham gia]
-Cấp Liên Giác đạt 14, và mở khóa sau khi đến Thừa Tiêu Sơn trong Nhiệm vụ Triều Tịch [Viễn Phó Thừa Tiêu].
-
-[Luật sự kiện]
-Toàn bộ sự kiện chia thành bốn giai đoạn, mở khóa lần lượt theo tiến độ Nhiệm vụ Triều Tịch;
-Hoàn thành nhiệm vụ sự kiện để nhận phần thưởng hậu hĩnh;
-Sau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc sẽ được bổ sung qua thư;
-Xin lưu ý một số nhiệm vụ sự kiện không thể hoàn thành khi chơi chung; một số cảnh trong game không thể theo dõi nhiệm vụ."
-lang_multi_text.db,MultiText,HelpText_79_Title,霄山源记活动说明,About the Tales from Mt. Firmament,Hướng dẫn sự kiện Tiêu Sơn Nguyên Ký
-lang_multi_text.db,MultiText,HelpText_7_Content,"<color=yellow>桃祈特色能力：防守反击</color>
-当桃祈使用【重击】时，如果攻击动作被打断，可消耗1点殇能再次普攻打出【玄武反击】，触发【玄武冥域】造成范围减速并为队伍全体恢复血量
-通过【普攻连段】、【变奏技能】、【下落攻击】、【共鸣解放】亦可触发【玄武冥域】","<color=yellow>Taoqi's Special Ability: Defensive Counterattack</color>
-When Taoqi uses a [Heavy Attack], if the attack action is interrupted, she can consume 1 point of Shangneng to launch a [Black Tortoise Counterattack] with a [Basic Attack], triggering [Black Tortoise's Underworld] to slow down the range and restore HP for the entire team.
-[Black Tortoise's Underworld] can also be triggered through [Basic Attack Combo], [Intro Skill], [Plunging Attack], and [Resonance Liberation].","<color=yellow>Năng lực đặc trưng của Đào Kỳ: Phòng Thủ Phản Công</color>
-Khi Đào Kỳ sử dụng [Đánh Mạnh], nếu động tác tấn công bị gián đoạn, có thể tiêu hao 1 điểm Thương Năng để tung ra [Phản Công Huyền Vũ] bằng Đánh Thường, kích hoạt [Huyền Vũ Minh Vực] gây giảm tốc phạm vi và hồi máu cho toàn đội.
-Thông qua [Chuỗi Đánh Thường], [Kỹ Năng Biến Tấu], [Tấn Công Lao Xuống], [Giải Phóng Cộng Hưởng] cũng có thể kích hoạt [Huyền Vũ Minh Vực]."
-lang_multi_text.db,MultiText,HelpText_7_Title,角色介绍-桃祈,Character Introduction: Taoqi,Giới thiệu nhân vật - Đào Kỳ
-lang_multi_text.db,MultiText,HelpText_80_Content,"【参与条件】
-联觉等级达到8级
-
-【活动规则】
-活动开启后每天服务器时间04:00登录游戏即可领取签到奖励；
-活动结束后，存在已完成签到但未领取奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Eligibility]
-Reach Union Level 8
-
-[Event Rules]
-After the event starts, log in to the game to claim daily sign-in rewards. Sign-in records refresh daily at 04:00 server time.
-After the event ends, any unclaimed sign-in rewards you earned will be reissued via in-game mail within 30 days upon your next login.","[Điều kiện tham gia]
-Cấp Liên Giác đạt 8.
-
-[Luật sự kiện]
-Sau khi sự kiện mở, đăng nhập game sau 04:00 giờ máy chủ mỗi ngày sẽ nhận được phần thưởng điểm danh;
-Sau khi sự kiện kết thúc, nếu đã điểm danh nhưng chưa nhận phần thưởng, đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc sẽ được bổ sung qua thư."
-lang_multi_text.db,MultiText,HelpText_80_Title,拾光赠礼活动说明,Gifts of Celestial Light Event Rules,Hướng dẫn sự kiện Nhặt Ánh Sáng Tặng Quà
-lang_multi_text.db,MultiText,HelpText_84_Content,"【活动简介】
-感谢全球漂泊者的大力支持，我们为漂泊者们准备了丰厚的奖励。
-达到领取时间即可到活动界面领取。
-
-【参与条件】
+[Quy tắc sự kiện]
+Trong sự kiện, người tham gia cần đến các khu vực để kích hoạt thiết bị và bắt đầu thử thách. Có thể chọn bất kỳ lối chơi nào đã mở để tham gia thử thách.
+Sau khi bắt đầu thử thách, cơ quan hỗ trợ sẽ được tạo ra trong một khoảng thời gian nhất định và dữ liệu trinh sát sẽ hiện hình. Người tham gia cần thu thập càng nhiều dữ liệu trinh sát càng tốt trong thời gian giới hạn; khi đến đích hoặc hết thời gian, sẽ nhận được phần thưởng tương ứng dựa trên điểm số dữ liệu trinh sát thu thập được.
+Trong thử thách có nhiều loại mô-đun khác nhau, sử dụng chúng hợp lý có thể giúp thu thập dữ liệu nhanh hơn.
+Sau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, hãy đăng nhập vào game trong vòng 30 ngày kể từ khi sự kiện kết thúc, phần thưởng sẽ được gửi bù qua thư."
+lang_multi_text.db,MultiText,HelpText_411_Title,七丘气象前沿说明：,Septimont Weather Forecast,Giải thích về Khí Tượng Tiền Tuyến Septimont:
+lang_multi_text.db,MultiText,HelpText_412_Content,"【参与条件】
 联觉等级达到8级。
 
 【活动规则】
-本次活动奖励将分为三个阶段领取，各阶段按照指定时间（服务器时间04:00）解锁；
-活动结束后，本次活动的奖励将不会通过邮件进行补发，请漂泊者注意活动时间及时参与。","[About]
-We have prepared awesome rewards as our thank you to Rovers from across the world for your support.
-You may claim your rewards once the event goes live.
-
-[Eligibility]
+达到指定时间后，可以解锁领取巡游月穹之礼的奖励。
+活动结束后，本次活动的奖励将不会通过邮件进行补发，请漂泊者注意活动时间及时参与。","[Eligibility]
 Reach Union Level 8.
 
 [Event Rules]
-Rewards for this event will be distributed in three stages, each stage will unlock on the specified date (server time 04:00).
-Please note that rewards for this event will NOT be reissued via in-game mail once the event ends. Please keep in the the event duration and claim the rewards before the end of the event.","[Giới thiệu sự kiện]
-Cảm ơn sự ủng hộ nhiệt tình của các Lữ Khách trên toàn cầu, chúng tôi đã chuẩn bị phần thưởng hậu hĩnh dành cho các Lữ Khách.
-Đến thời gian nhận thưởng có thể đến giao diện sự kiện để nhận.
-
-[Điều kiện tham gia]
+The rewards of the Gifts of the Moon Roamer event will be unlocked after the specified time and date.
+Note that all rewards of this event will NOT be reissued via in-game Mail once the event ends. Please remember to participate and claim your rewards in time.","[Điều kiện tham gia]
 Cấp Liên Giác đạt 8.
 
-[Luật sự kiện]
-Phần thưởng sự kiện lần này chia thành ba giai đoạn nhận thưởng, mỗi giai đoạn mở khóa theo thời gian chỉ định (giờ máy chủ 04:00);
-Sau khi sự kiện kết thúc, phần thưởng sẽ không được bổ sung qua thư, xin Lữ Khách lưu ý thời gian sự kiện và tham gia kịp thời."
-lang_multi_text.db,MultiText,HelpText_84_Title,特别感恩回馈活动说明,About Gifts of Gratitude Event,Hướng dẫn sự kiện Tri Ân Đặc Biệt
-lang_multi_text.db,MultiText,HelpText_86_Content,"【活动介绍】
-如今歌声再一次响起，那些乐谱将指引你重新了解这个世界。
-根据漂泊者离开的时间长度，「七日签到」奖励将区分为两档。
-
-【重奏之旅】
-漂泊者可前往「重奏之旅」完成指定目标获取积分，领取【重奏赠礼】对应奖励。
-同时还可通过购买解锁【重奏荣礼】，从而获取更多奖励。
-
-【七日签到】
-活动期间，漂泊者可前往「七日签到」领取每日签到奖励。
-
-【协作共鸣者】
-海歌重奏开放期间，漂泊者还可根据索拉等级解锁试用角色参与日常探索。
-（注：试用角色只可参与大世界探索及部分日常声之领域）
-
-【养成助力】
-活动期间，当期角色活动唤取中的角色所需培养材料和推荐声骸的获取途径会提前开放，便于漂泊者快速获取对应角色的培养材料和推荐声骸。
-
-【双倍掉落】
-海歌重奏活动期间，「讨伐强敌」与「战歌重奏」挑战时可享受专属双倍掉落。
-
-【新内容展示】
-漂泊者可以在界面上查看整合的活动体验推荐以及版本最新的潮汐任务和当前开放唤取的共鸣者。","[About]
-As the songs echo once more, let those musical scores guide you on a journey to rediscover this world.
-There are two tiers of [7-day Login] rewards, with different requirements for how long you have been away.
-
-[Reprise Journey]
-During the Reprise Journey, you can claim Reprise Gift rewards by completing set tasks.
-You can also purchase the Reprise Bounty Unlock to obtain more rewards.
-
-[7-Day Login]
-During the event, you can claim daily rewards through the 7-Day Login event. 
-
-[Support Resonators]
-During Reprise of Tides, you may unlock Support Resonators to join your exploration if you meet their SOL-3 Phase requirements.
-(Note: Support Resonators can only join you in the overworld and certain recurring Sonoro Spheres)
-
-[Leveling Aid]
-During the event, to fast-track leveling for new players, you will enjoy access to locations that contain the upgrade materials and the recommended Echoes of the current Resonators available for Convene.
-
-[Double Drop]
-During the Reprise of Tides event, enjoy exclusive double drop bonuses in both Boss Challenges and Weekly Challenges.
-
-[New Content Showcase]
-Visit this page to check Featured Events, the latest Main Quest, and currently available Resonators for Convene.","[Giới thiệu sự kiện]
-Giờ đây tiếng hát lại vang lên, những bản nhạc sẽ dẫn dắt bạn khám phá lại thế giới này.
-Dựa trên thời gian rời đi của Lữ Khách, phần thưởng ""Điểm danh 7 ngày"" sẽ chia thành hai mức.
-
-[Hành Trình Trùng Tấu]
-Lữ Khách có thể đến ""Hành Trình Trùng Tấu"" hoàn thành mục tiêu chỉ định để nhận điểm, đổi phần thưởng [Quà Trùng Tấu] tương ứng.
-Đồng thời có thể mua mở khóa [Vinh Lễ Trùng Tấu] để nhận thêm phần thưởng.
-
-[Điểm danh 7 ngày]
-Trong thời gian sự kiện, Lữ Khách có thể đến ""Điểm danh 7 ngày"" để nhận phần thưởng điểm danh hàng ngày.
-
-[Cộng Hưởng Giả Hỗ Trợ]
-Trong thời gian mở Hải Ca Trùng Tấu, Lữ Khách còn có thể mở khóa nhân vật dùng thử theo cấp Solaris để tham gia khám phá hàng ngày.
-(Lưu ý: Nhân vật dùng thử chỉ có thể tham gia khám phá thế giới mở và một số Lĩnh Vực Thanh hàng ngày.)
-
-[Hỗ Trợ Bồi Dưỡng]
-Trong thời gian sự kiện, đường nhận nguyên liệu bồi dưỡng và Thanh Hài đề xuất cho nhân vật trong Hoán Thủ sự kiện hiện tại sẽ được mở sớm, giúp Lữ Khách nhanh chóng nhận nguyên liệu bồi dưỡng và Thanh Hài đề xuất tương ứng.
-
-[Rơi đồ gấp đôi]
-Trong thời gian sự kiện Hải Ca Trùng Tấu, thử thách ""Thảo Phạt Cường Địch"" và ""Chiến Ca Trùng Tấu"" được hưởng rơi đồ gấp đôi độc quyền.
-
-[Giới thiệu nội dung mới]
-Lữ Khách có thể xem trên giao diện các đề xuất trải nghiệm sự kiện tổng hợp cũng như Nhiệm vụ Triều Tịch mới nhất và Cộng Hưởng Giả đang mở Hoán Thủ hiện tại."
-lang_multi_text.db,MultiText,HelpText_86_Title,海歌重奏说明,About Reprise of Tides,Hướng dẫn Hải Ca Trùng Tấu
-lang_multi_text.db,MultiText,HelpText_87_Content,"【活动规则】
-先行公约将荒石高地选为了新一期《潮汐地理》杂志的主题地区。 为此，先约组织了针对荒石高地的专项勘察活动。
-完成勘察任务，积累勘察点数，即可获得先约提供的珍贵奖励。
-
-【任务刷新】
-勘察任务每日4点刷新。刷新时，未领取的勘察点数会自动领取，未完成的任务无法再次完成。
-活动结束后，存在未领取的奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Event Rules]
-The Pioneer Association has picked Desorock Highland as the theme for an upcoming edition of <i>Wutherium Geographic</i>. To that end, the association has organized a special survey of Desorock Highland.
-Complete Survey Tasks and accumulate Survey Points to secure valuable rewards offered by the Pioneer Association.
-
-[Task Reset]
-Survey Tasks reset daily at 04:00. Upon reset, any unclaimed Survey Points will be automatically claimed, and uncompleted tasks will expire.
-If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to claim them in your Mail.","[Luật sự kiện]
-Hiệp Ước Tiên Phong đã chọn Hoang Thạch Cao Địa làm chủ đề cho số mới của tạp chí ""Địa Lý Triều Tịch"". Vì vậy, Hiệp Ước đã tổ chức hoạt động khảo sát chuyên biệt cho Hoang Thạch Cao Địa.
-Hoàn thành nhiệm vụ khảo sát, tích lũy điểm khảo sát để nhận phần thưởng quý giá từ Hiệp Ước.
-
-[Làm mới nhiệm vụ]
-Nhiệm vụ khảo sát làm mới lúc 4 giờ sáng mỗi ngày. Khi làm mới, điểm khảo sát chưa nhận sẽ được tự động nhận, nhiệm vụ chưa hoàn thành không thể hoàn thành lại.
-Sau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc sẽ được bổ sung qua thư."
-lang_multi_text.db,MultiText,HelpText_88_Content,"1、挑战完成，消耗60结晶波片可领取奖励。
-2、每个无音区掉落特定套装的声骸，以及声骸调谐器、声骸密音筒。","1. When you complete the challenge, you may spend 60 Waveplates to claim the reward.
-2. Each Tacet Field drops specific sets of Echoes as well as Echo Tuners and Echo Sealed Tubes.","1. Hoàn thành thử thách, tiêu hao 60 Kết Tinh Ba Phiến để nhận phần thưởng.
-2. Mỗi Vùng Vô Thanh rơi Thanh Hài thuộc bộ trang bị nhất định, cùng với Bộ Chỉnh Thanh Hài và Mật Âm Đồng Thanh Hài."
-lang_multi_text.db,MultiText,HelpText_88_Title,无音区,Tacet Field,Vùng Vô Thanh
-lang_multi_text.db,MultiText,HelpText_89_Content,"1、模拟领域战斗完成，消耗40结晶波片可领取奖励，主要产出武器、角色培养经验材料及贝币。
-2、凝素领域战斗完成，消耗40结晶波片可领取奖励，主要产出武器、角色及角色技能突破材料。
-3、战歌重奏战斗完成，消耗60结晶波片可领取奖励，每周合计能领取三次奖励，到达上限无法再领取，每周一凌晨4点刷新次数。
-4、战歌重奏主要产出角色技能突破材料、武器印造材料。","1. When you complete a Simulation Challenge, you may spend 40 Waveplates to claim the reward. Main drops include weapon EXP materials, Resonator EXP materials, and Shell Credits.
-2. When you complete a Forgery Challenge, you may spend 40 Waveplates to claim the reward. Main drops include upgrade materials for weapons, Resonators, and Resonator skills.
-3. When you complete a Weekly Challenge, you may spend 60 Waveplates to claim the reward. You can claim the reward up to 3 times per week. Attempts refresh at 4:00 AM every Monday.
-4. Main drops in Weekly Challenge include Resonator skill upgrade materials and weapon crafting materials.","1. Hoàn thành chiến đấu Mô Phỏng Lĩnh Vực, tiêu hao 40 Kết Tinh Ba Phiến để nhận phần thưởng, chủ yếu nhận được nguyên liệu kinh nghiệm bồi dưỡng vũ khí, nhân vật và Bối Tệ.
-2. Hoàn thành chiến đấu Ngưng Tố Lĩnh Vực, tiêu hao 40 Kết Tinh Ba Phiến để nhận phần thưởng, chủ yếu nhận được nguyên liệu đột phá vũ khí, nhân vật và kỹ năng nhân vật.
-3. Hoàn thành chiến đấu Chiến Ca Trùng Tấu, tiêu hao 60 Kết Tinh Ba Phiến để nhận phần thưởng, mỗi tuần tổng cộng nhận được ba lần, đạt giới hạn không thể nhận thêm, làm mới số lần vào 4 giờ sáng thứ Hai mỗi tuần.
-4. Chiến Ca Trùng Tấu chủ yếu nhận được nguyên liệu đột phá kỹ năng nhân vật, nguyên liệu chế tạo vũ khí."
-lang_multi_text.db,MultiText,HelpText_89_Title,声之领域,Sonoro Sphere,Lĩnh Vực Thanh
-lang_multi_text.db,MultiText,HelpText_8_Content,"<color=yellow>搭配指引：</color>
-通过桃祈的防守反击，触发回血效果，同时减速敌人为队伍提供输出空间","<color=yellow>Team-up Guide: </color>
-
-Trigger the healing effect through Taoqi's defensive counterattack, while slowing down the enemies to provide output space for the team.","<color=yellow>Hướng dẫn kết hợp:</color>
-Thông qua phòng thủ phản công của Đào Kỳ, kích hoạt hiệu ứng hồi máu, đồng thời giảm tốc kẻ thù tạo không gian tấn công cho đội."
-lang_multi_text.db,MultiText,HelpText_8_Title,角色介绍-桃祈,Character Introduction: Taoqi,Giới thiệu nhân vật - Đào Kỳ
-lang_multi_text.db,MultiText,HelpText_90_Content,"【活动简介】
-“矿石通”石琅一直在研究如何制成性能最优异的合金。
-而在最近，一处特殊的声之领域出现，石琅发现自己冶炼的合金在这个领域中能够发挥出非同寻常的力量。
+[Quy tắc sự kiện]
+Sau khi đạt đến thời gian quy định, có thể mở khóa để nhận phần thưởng Quà Tặng Tuần Du Cung Trăng.
+Sau khi sự kiện kết thúc, phần thưởng của sự kiện này sẽ không được gửi bù qua thư, Lữ Khách vui lòng chú ý thời gian sự kiện để tham gia kịp thời."
+lang_multi_text.db,MultiText,HelpText_412_Title,巡游月穹之礼活动说明,Gifts of the Moon Roamer,Giới thiệu sự kiện Quà Tặng Tuần Du Cung Trăng
+lang_multi_text.db,MultiText,HelpText_413_Content,"【活动简介】
+本活动将展示新版本的重要更新内容，漂泊者可以在此查看相关内容信息。","[About]
+This page showcases the important updates of the new patch for Rovers to catch up on what's coming next.","[Giới thiệu]
+Sự kiện này sẽ giới thiệu những nội dung cập nhật quan trọng của phiên bản mới, Lữ Khách có thể xem thông tin liên quan tại đây."
+lang_multi_text.db,MultiText,HelpText_413_Title,【新版本内容专题】活动说明,New Update Highlight,Giới thiệu sự kiện [Tiêu Điểm Phiên Bản Mới]
+lang_multi_text.db,MultiText,HelpText_414_Content,"【活动简介】
+在「仿声战略」计划的推进下，研究院已完成对残象「谐度」的测定：残象并非由单一频率构成，而是由无数残响的交织成形。残响的织构方式，被称作「谐度」。一旦谐度被扰动，残象的结构便会瓦解，行动能力随之丧失……
 
 【参与条件】
-联觉等级达到14级后开启。
+联觉等级达到14级
 
 【活动规则】
-玩家进入特殊副本中，在【试冶合金】的作用下获得特殊增益，进行酣畅淋漓地战斗。","[About]
-Shilang has been conducting research on optimizing alloy properties.
-A unique Sonoro Sphere has emerged recently, and Shilang discovers that the alloys he has forged possess exceptional abilities in this domain.
+1、在【仿声战略·谐度篇】中，玩家可进入特殊的模拟领域，在特殊增益的加持下连续挑战多个强大的敌人。
+2、在完成挑战的过程中将逐步解锁新的特殊增益，从而帮助玩家更好地完成后续挑战。
+3、挑战结算积分由怪物积分、时间积分和技术积分构成。
+i、怪物积分为玩家在挑战中击败敌人获得。
+ii、时间积分为玩家完成挑战剩余时间折算积分，击败敌人数量越多积分系数越高。
+iii、技术积分为逆势回击、成功闪避和闪避反击触发时获得。","[About]
+As the Tactical Simulacra project advances, the Huaxu Academy has successfully achieved the measurement of Tunability, a property through which countless Reverberations converge into Tacet Discords. Disrupting their Tunability would mean a lethal blow that paralyzes them...
 
 [Eligibility]
 Reach Union Level 14.
 
 [Event Rules]
-In this event, Resonators are granted special buffs by Alloys. Utilize these buffs and engage in exhilarating battles!","[Giới thiệu sự kiện]
-""Chuyên gia khoáng thạch"" Thạch Lang vẫn luôn nghiên cứu cách chế tạo hợp kim có hiệu năng tốt nhất.
-Gần đây, một Lĩnh Vực Thanh đặc biệt xuất hiện, Thạch Lang phát hiện hợp kim do mình luyện chế có thể phát huy sức mạnh phi thường trong lĩnh vực này.
+1. In Tactical Simulacra: Off Tune, challenge waves of powerful enemies using special buffs across different simulation domains.
+2. As you complete more challenges, new special buffs will be available to you in the subsequent challenges. 
+3. The results of each challenge will be tallied based on Monster Points, Time Points, and Technical Points.
+i. Monster Points are earned by defeating enemies in challenges.
+ii. Time Points are earned based on the time remaining at challenge completion and a conversation factor that increases with the number of enemies that are defeated.
+iii. Technical Points are earned by triggering Counterattacks, successful Dodges, and Dodge Counters.","[Giới thiệu]
+Dưới sự thúc đẩy của kế hoạch ""Chiến Lược Giả Lập"", Học Viện đã hoàn thành việc đo đạc ""Độ Điều Hòa"" của Tàn Tượng: Tàn Tượng không được cấu thành từ một tần số đơn lẻ, mà được hình thành từ vô số Tàn Hưởng đan xen. Cách thức đan dệt của Tàn Hưởng được gọi là ""Độ Điều Hòa"". Một khi Độ Điều Hòa bị xáo trộn, cấu trúc của Tàn Tượng sẽ tan rã, khả năng hành động cũng theo đó mà mất đi...
 
 [Điều kiện tham gia]
-Mở sau khi Cấp Liên Giác đạt 14.
+Cấp Liên Giác đạt 14
 
-[Luật sự kiện]
-Người chơi vào phụ bản đặc biệt, dưới tác dụng của [Hợp Kim Thử Nghiệm] nhận được tăng cường đặc biệt, tham gia chiến đấu sảng khoái."
-lang_multi_text.db,MultiText,HelpText_90_Title,【合金试冶Ⅱ】活动说明,Alloy Smelt II,Hướng dẫn sự kiện [Thử Nghiệm Hợp Kim II]
-lang_multi_text.db,MultiText,HelpText_91_Content,"【活动简介】
-神秘门扉旁，“黑咩”请求漂泊者进入门扉协助完成测试。
-门后的世界纠缠在一起，光怪陆离——
-“善良的漂泊者啊，祝愿你能在清醒的世界里找到自己的财宝。“
+[Quy tắc sự kiện]
+1. Trong [Chiến Lược Giả Lập - Lệch Nhịp], người chơi có thể vào lĩnh vực mô phỏng đặc biệt, liên tục thách đấu nhiều kẻ địch mạnh mẽ dưới sự hỗ trợ của các buff đặc biệt.
+2. Trong quá trình hoàn thành thử thách sẽ dần mở khóa các buff đặc biệt mới, giúp người chơi hoàn thành tốt hơn các thử thách tiếp theo.
+3. Điểm tổng kết thử thách bao gồm điểm quái vật, điểm thời gian và điểm kỹ thuật.
+i. Điểm quái vật nhận được khi người chơi đánh bại kẻ địch trong thử thách.
+ii. Điểm thời gian được quy đổi từ thời gian còn lại khi hoàn thành thử thách, số lượng kẻ địch bị đánh bại càng nhiều thì hệ số điểm càng cao.
+iii. Điểm kỹ thuật nhận được khi kích hoạt Đòn Phản Công, Né Tránh thành công và Phản Công Né Tránh."
+lang_multi_text.db,MultiText,HelpText_414_Title,仿声战略·谐度篇说明,Tactical Simulacra: Off Tune,Giải thích Chiến Lược Giả Lập - Lệch Nhịp
+lang_multi_text.db,MultiText,HelpText_415_Content,"【活动简介】
+星炬学院的《荣耀之丘》同好会正遭遇着成立以来的最大危机。而这场危机并非来自于学院之外，而是来自……平时无比关心学生的老师们？
+如今，同好会的命运完全取决于你——以胜利为武器，来击碎那黑暗的未来吧！
 
 【参与条件】
-联觉等级达到22级。
+联觉等级达到14级，并在潮汐任务「冰原下的星炬」中解锁星炬学院的中枢信标后解锁
 
 【活动规则】
-保证实验设备不被破坏，直到消灭所有残象！
-为了协助各位共鸣者，黑咩会提供仿制声骸作为协助。
-此模式中只可使用特定的仿制声骸（合鸣依旧生效，只替换主声骸技能）。
-积分获取规则：每波剩余时间*时间系数+结算时基地剩余血量*关卡难度系数。
-总积分随关卡开放解锁更高上限，重复挑战关卡可累计获得积分。","[About]
-Cosmos has shown up near a strange gate, asking you to go inside and assist with some kind of test.
-The worlds behind the gate intertwine in a tapestry of mystery—
-""Kind Rover, may you find your fortune in the lucid world.""
+漂泊者能够使用“荣耀之丘”的特殊卡牌，构筑属于自己的独特卡组，并在「拉海洛」地区与决斗家们进行荣耀对决！
+活动中，漂泊者可通过击败「拉海洛」地区的决斗家们，来获得「拉海洛地区赛积分」以提升「赛程积分等级」，并解锁更多的卡牌和战术。
+通过完成各项赛程挑战，还能领取包括「异相·浮灵偶」在内的丰厚赛程奖励。
+该活动无法在联机状态下推进，需要退出联机状态，以完成流程任务。","[About]
+The Peaks of Prestige fan club at Startorch Academy is facing its greatest crisis since its inception. However, the threat does not come from beyond these walls, but from... the very teachers who claim to hold their students' best interests at heart. Now, the fate of the fan club lies entirely in your hands. Seize victory, and shatter the shadow that looms ahead!
 
 [Eligibility]
-Reach Union Level 22.
+Reach Union Level 14, and activate the Startorch Academy Resonance Nexus during Main Quest ""What Burns Beneath Frostlands"" to unlock.
 
 [Event Rules]
-1. Defend the experimental device and defeat the Tacet Discord to achieve the ultimate victory!
-2. Cosmos will provide special Echoids to help the Resonators.
-2. You can only use designated Echoids in this mode (Sonatas will remain effective and only the main Echo Skill will be replaced).
-3. Points = (Remaining time per wave x time coefficient) + (Remaining device HP at the end x level difficulty coefficient)
-4. The cap on total points will increase with higher levels unlocked. Replaying stages allows you to accumulate more points.","[Giới thiệu sự kiện]
-Bên cánh cổng bí ẩn, ""Hắc Mê"" nhờ Lữ Khách bước vào cánh cổng hỗ trợ hoàn thành thử nghiệm.
-Thế giới phía sau cánh cổng đan xen vào nhau, kỳ dị khôn lường -
-""Hỡi Lữ Khách tốt bụng, chúc ngươi tìm được kho báu của mình trong thế giới tỉnh táo.""
+- Build your own custom Peaks of Prestige decks using new special cards and face off against every duelist in Lahai-Roi!
+- Earn Lahai-Roi Rank Points by defeating opponents to increase your Rank Level. Climbing the ranks unlocks new cards and powerful Tactics.
+- Complete Division Challenges for generous rewards, including the exclusive Phantom: Chop Chop.
+- Event progression is not available in Co-Op Mode. Please exit Co-Op to complete event quests.","[Giới thiệu]
+Hội những người yêu thích ""Đồi Vinh Quang"" của Học Viện Startorch đang gặp phải cuộc khủng hoảng lớn nhất kể từ khi thành lập. Và cuộc khủng hoảng này không đến từ bên ngoài học viện, mà đến từ... những giáo viên bình thường vô cùng quan tâm đến học sinh?
+Giờ đây, vận mệnh của hội hoàn toàn phụ thuộc vào bạn - hãy dùng chiến thắng làm vũ khí để đập tan tương lai đen tối đó!
 
 [Điều kiện tham gia]
-Cấp Liên Giác đạt 22.
+Cấp Liên Giác đạt 14, và mở khóa sau khi kích hoạt Tín Tiêu Trung Khu của Học Viện Startorch trong Nhiệm Vụ Triều Tịch ""Ngọn Đuốc Dưới Băng Nguyên"".
 
-[Luật sự kiện]
-Bảo vệ thiết bị thí nghiệm không bị phá hủy cho đến khi tiêu diệt hết tất cả Tàn Tượng!
-Để hỗ trợ các Cộng Hưởng Giả, Hắc Mê sẽ cung cấp Thanh Hài nhân bản.
-Trong chế độ này chỉ có thể sử dụng Thanh Hài nhân bản chỉ định (hiệu ứng Hợp Minh vẫn có hiệu lực, chỉ thay thế kỹ năng Thanh Hài chính).
-Quy tắc tính điểm: Thời gian còn lại mỗi đợt * hệ số thời gian + máu còn lại của căn cứ khi kết toán * hệ số độ khó màn chơi.
-Tổng điểm mở khóa mức trần cao hơn khi các màn chơi được mở, chơi lại màn có thể tích lũy thêm điểm."
-lang_multi_text.db,MultiText,HelpText_91_Title,全新活动「仿声骸会梦到电子羊么」开放！,"New Event ""Do Echoids Dream of Electric Sheep?"" Available!","Sự kiện mới ""Thanh Hài Nhân Bản Có Mơ Về Cừu Điện Không?"" đã mở!"
-lang_multi_text.db,MultiText,HelpText_92_Content,"【参与条件】
-联觉等级达到8级
+[Quy tắc sự kiện]
+Lữ Khách có thể sử dụng các thẻ bài đặc biệt của ""Đồi Vinh Quang"" để xây dựng bộ bài độc đáo của riêng mình, và tham gia quyết đấu vinh quang với các đấu thủ tại khu vực ""Lahai-Roi""!
+Trong sự kiện, Lữ Khách có thể nhận ""Điểm Khu Vực Lahai-Roi"" thông qua việc đánh bại các đấu thủ tại khu vực ""Lahai-Roi"" để nâng cao ""Cấp Điểm Thi Đấu"", đồng thời mở khóa thêm nhiều thẻ bài và chiến thuật.
+Thông qua việc hoàn thành các thử thách thi đấu, còn có thể nhận phần thưởng thi đấu hậu hĩnh bao gồm ""Dị Tương - Chop Chop"".
+Sự kiện này không thể tiến hành trong trạng thái liên cơ (Co-op), cần thoát khỏi trạng thái liên cơ để hoàn thành nhiệm vụ theo quy trình."
+lang_multi_text.db,MultiText,HelpText_415_Title,荣耀之丘：激斗重燃,Peaks of Prestige: Rekindled Duel,Đồi Vinh Quang: Tái Chiến Rực Lửa
+lang_multi_text.db,MultiText,HelpText_416_Content,"【活动简介】
+星炬学院的《荣耀之丘》同好会正遭遇着成立以来的最大危机。而这场危机并非来自于学院之外，而是来自……平时无比关心学生的老师们？
+如今，同好会的命运完全取决于你——以胜利为武器，来击碎那黑暗的未来吧！
+
+【参与条件】
+联觉等级达到14级，并在潮汐任务「冰原下的星炬」中解锁星炬学院的中枢信标后解锁
 
 【活动规则】
-活动开启后每天服务器时间04:00登录游戏即可领取签到奖励；
-活动结束后，存在已完成签到但未领取奖励时，若在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。","[Eligibility]
-Reach Union Level 8.
+漂泊者能够使用“荣耀之丘”的特殊卡牌，构筑属于自己的独特卡组，并在「拉海洛」地区与决斗家们进行荣耀对决！
+活动中，漂泊者可通过击败「拉海洛」地区的决斗家们，来获得「拉海洛地区赛积分」以提升「赛程积分等级」，并解锁更多的卡牌和战术。
+通过完成各项赛程挑战，还能领取包括「异相·浮灵偶」在内的丰厚赛程奖励。
+该活动无法在联机状态下推进，需要退出联机状态，以完成流程任务。","[About]
+The Peaks of Prestige fan club at Startorch Academy is facing its greatest crisis since its inception. However, the threat does not come from beyond these walls, but from... the very teachers who claim to hold their students' best interests at heart. Now, the fate of the fan club lies entirely in your hands. Seize victory, and shatter the shadow that looms ahead!
+
+[Eligibility]
+Reach Union Level 14, and activate the Startorch Academy Resonance Nexus during Main Quest ""What Burns Beneath Frostlands"" to unlock.
 
 [Event Rules]
-Once the event is available, log in to the game daily at 04:00 server time to claim your login rewards.
-After the event concludes, any unclaimed login rewards will be sent via mail if you log in to the game within 30 days afterward.","[Điều kiện tham gia]
-Cấp Liên Giác đạt 8.
+- Build your own custom Peaks of Prestige decks using new special cards and face off against every duelist in Lahai-Roi!
+- Earn Lahai-Roi Rank Points by defeating opponents to increase your Rank Level. Climbing the ranks unlocks new cards and powerful Tactics.
+- Complete Division Challenges for generous rewards, including the exclusive Phantom: Chop Chop.
+- Event progression is not available in Co-Op Mode. Please exit Co-Op to complete event quests.","[Giới thiệu]
+Hội những người yêu thích ""Đồi Vinh Quang"" của Học Viện Startorch đang gặp phải cuộc khủng hoảng lớn nhất kể từ khi thành lập. Và cuộc khủng hoảng này không đến từ bên ngoài học viện, mà đến từ... những giáo viên bình thường vô cùng quan tâm đến học sinh?
+Giờ đây, vận mệnh của hội hoàn toàn phụ thuộc vào bạn - hãy dùng chiến thắng làm vũ khí để đập tan tương lai đen tối đó!
 
-[Luật sự kiện]
-Sau khi sự kiện mở, đăng nhập game sau 04:00 giờ máy chủ mỗi ngày sẽ nhận được phần thưởng điểm danh;
-Sau khi sự kiện kết thúc, nếu đã điểm danh nhưng chưa nhận phần thưởng, đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc sẽ được bổ sung qua thư."
-lang_multi_text.db,MultiText,HelpText_92_Title,宵月赠礼活动说明,About Gifts of Lunar Radiance,Hướng dẫn sự kiện Tiêu Nguyệt Tặng Quà
-lang_multi_text.db,MultiText,HelpText_93_Content,"施放<color=highlight>共鸣技能</color>后共鸣解放冷却时间减少，并恢复共鸣能量。
-施放<color=highlight>共鸣解放</color>后，全队角色共鸣技能冷却时间减少，且3秒内共鸣技能造成的伤害暴击提升，每次施放<color=highlight>共鸣解放</color>后，全队角色共鸣技能造成的暴伤提升，该效果可叠加。","Casting <color=highlight>Resonance Skill</color> reduces Resonance Liberation Cooldown and regenerates Resonance Energy.
-Casting <color=highlight>Resonance Liberation</color> reduces all party members' Resonance Skill Cooldown, increases their Resonance Skill Crit. Rate for 3s, and boosts their Resonance Skill Crit. DMG. This effect can be stacked.","Sau khi tung <color=highlight>Kỹ Năng Cộng Hưởng</color>, thời gian hồi Giải Phóng Cộng Hưởng giảm và hồi phục năng lượng cộng hưởng.
-Sau khi tung <color=highlight>Giải Phóng Cộng Hưởng</color>, thời gian hồi Kỹ Năng Cộng Hưởng của toàn đội giảm, đồng thời trong 3 giây tỷ lệ bạo kích của sát thương từ Kỹ Năng Cộng Hưởng tăng. Mỗi lần tung <color=highlight>Giải Phóng Cộng Hưởng</color>, sát thương bạo kích của Kỹ Năng Cộng Hưởng toàn đội tăng, hiệu ứng này có thể cộng dồn."
-lang_multi_text.db,MultiText,HelpText_93_Title,【合金试冶Ⅱ】本关机制说明,Alloy Smelt II Stage Details,Hướng dẫn cơ chế màn chơi [Thử Nghiệm Hợp Kim II]
-lang_multi_text.db,MultiText,HelpText_94_Content,"角色处于<color=highlight>空中</color>时，每秒提升角色的暴击率和暴伤，且每次攻击造成伤害时可触发额外的攻击，该攻击造成的伤害为共鸣解放伤害。
-触发的额外攻击可以提升当前角色的<color=highlight>共鸣解放伤害</color>，效果可以叠加。","While the active Resonator is <color=highlight>in mid-air</color>, increase their Crit. Rate and Crit. DMG each second. Whenever a Mid-air Attack hits the target, it triggers an additional attack that deals Resonance Liberation DMG.
-The additional attack increases the Resonator's <color=highlight>Resonance Liberation DMG</color>. This effect can be stacked.","Khi nhân vật ở trạng thái <color=highlight>trên không</color>, mỗi giây tăng tỷ lệ bạo kích và sát thương bạo kích, đồng thời mỗi lần tấn công gây sát thương có thể kích hoạt đòn tấn công bổ sung, sát thương của đòn tấn công này tính là sát thương Giải Phóng Cộng Hưởng.
-Đòn tấn công bổ sung có thể tăng <color=highlight>sát thương Giải Phóng Cộng Hưởng</color> của nhân vật hiện tại, hiệu ứng có thể cộng dồn."
-lang_multi_text.db,MultiText,HelpText_94_Title,【合金试冶Ⅱ】本关机制说明,Alloy Smelt II Stage Details,Hướng dẫn cơ chế màn chơi [Thử Nghiệm Hợp Kim II]
-lang_multi_text.db,MultiText,HelpText_95_Content,"<color=highlight>协同攻击</color>命中时，不在场的角色造成的伤害提升，该效果可叠加。
-<color=highlight>协同攻击</color>命中时，全队角色获得额外的共鸣能量和协奏能量。
-施放<color=highlight>变奏技能</color>命中时，全队角色暴击提升，暴伤提升，持续8秒。","Increase inactive Resonators' DMG when <color=highlight>Coordinated Attack</color> hits the target. This effect can be stacked.
-All party members gain extra Resonance Energy and Concerto Energy when <color=highlight>Coordinated Attack</color> hits the target.
-Increase all party members' Crit. Rate and Crit. DMG for 8s when <color=highlight>Intro Skill</color> hits the target.","Khi <color=highlight>Tấn Công Hiệp Đồng</color> trúng đích, sát thương của nhân vật không ra sân tăng, hiệu ứng có thể cộng dồn.
-Khi <color=highlight>Tấn Công Hiệp Đồng</color> trúng đích, toàn đội nhận thêm năng lượng cộng hưởng và năng lượng Hiệp Tấu.
-Khi <color=highlight>Kỹ Năng Biến Tấu</color> trúng đích, tỷ lệ bạo kích và sát thương bạo kích toàn đội tăng, kéo dài 8 giây."
-lang_multi_text.db,MultiText,HelpText_95_Title,【合金试冶Ⅱ】本关机制说明,Alloy Smelt II Stage Details,Hướng dẫn cơ chế màn chơi [Thử Nghiệm Hợp Kim II]
-lang_multi_text.db,MultiText,HelpText_96_Content,"<color=highlight>共鸣解放</color>的冷却时间减少。
-每次击败敌人时可获得额外的共鸣能量与协奏能量。
-每次击败敌人时，全队角色<color=highlight>共鸣解放</color>造成的伤害暴击提升，暴伤提升，该效果可以叠加。","Reduce <color=highlight>Resonance Liberation</color> Cooldown.
-Defeating an enemy regenerates extra Resonance Energy and Concerto Energy.
-Defeating an enemy also increases the Crit. Rate and Crit. DMG of all party members' <color=highlight>Resonance Liberation</color>. This effect can be stacked.","Thời gian hồi <color=highlight>Giải Phóng Cộng Hưởng</color> giảm.
-Mỗi lần Đánh Bại kẻ thù nhận thêm năng lượng cộng hưởng và năng lượng Hiệp Tấu.
-Mỗi lần Đánh Bại kẻ thù, tỷ lệ bạo kích và sát thương bạo kích của <color=highlight>Giải Phóng Cộng Hưởng</color> toàn đội tăng, hiệu ứng có thể cộng dồn."
-lang_multi_text.db,MultiText,HelpText_96_Title,【合金试冶Ⅱ】本关机制说明,Alloy Smelt II Stage Details,Hướng dẫn cơ chế màn chơi [Thử Nghiệm Hợp Kim II]
-lang_multi_text.db,MultiText,HelpText_97_Content,"<color=highlight>声骸技能</color>冷却减少，施放<color=highlight>声骸技能</color>时以及<color=highlight>声骸技能</color>结束时，会在声骸位置生成弧光斩，造成的伤害为声骸技能伤害。
-每次击败敌人时，全队造成的伤害提升，声骸技能造成的伤害提升。","Reduce <color=highlight>Echo Skill</color> Cooldown. At the beginning and end of an <color=highlight>Echo Skill</color>, cast a Crescent Slash beside the active Echo, dealing Echo Skill DMG to the enemy.
-Defeating an enemy increases all party members' Attack DMG and Echo Skill DMG.","Thời gian hồi <color=highlight>Kỹ Năng Thanh Hài</color> giảm. Khi tung và khi kết thúc <color=highlight>Kỹ Năng Thanh Hài</color>, sẽ tạo ra lưỡi chém hồ quang tại vị trí Thanh Hài, sát thương tính là sát thương Kỹ Năng Thanh Hài.
-Mỗi lần Đánh Bại kẻ thù, sát thương toàn đội tăng, sát thương Kỹ Năng Thanh Hài tăng."
-lang_multi_text.db,MultiText,HelpText_97_Title,【合金试冶Ⅱ】本关机制说明,Alloy Smelt II Stage Details,Hướng dẫn cơ chế màn chơi [Thử Nghiệm Hợp Kim II]
-lang_multi_text.db,MultiText,HelpText_98_Content,<color=highlight>声骸技能</color>冷却减少，施放<color=highlight>声骸技能</color>时可造成凝滞效果，并标记敌人，攻击被标记敌人时造成额外伤害。,Reduce <color=highlight>Echo Skill</color> Cooldown. <color=highlight>Echo Skill</color> inflicts a Stagnation effect on the enemy and marks it. Every marked enemy takes extra DMG.,Thời gian hồi <color=highlight>Kỹ Năng Thanh Hài</color> giảm. Khi tung <color=highlight>Kỹ Năng Thanh Hài</color> có thể gây hiệu ứng ngưng trệ và đánh dấu kẻ thù. Tấn công kẻ thù bị đánh dấu sẽ gây thêm sát thương.
-lang_multi_text.db,MultiText,HelpText_98_Title,【合金试冶Ⅱ】本关机制说明,Alloy Smelt II Stage Details,Hướng dẫn cơ chế màn chơi [Thử Nghiệm Hợp Kim II]
-lang_multi_text.db,MultiText,HelpText_99_Content,"施放<color=highlight>声骸技能</color>时，一定时间内，共鸣技能的暴击和暴伤提升，该效果可叠加。
-使用<color=highlight>共鸣技能</color>击败敌人时，减少声骸技能和共鸣技能的冷却时间，并获得一定的协奏能量。","Increase the Crit. Rate and Crit. DMG of Resonance Skill within a certain period after casting <color=highlight>Echo Skill</color>. This effect can be stacked.
-Defeating an enemy with <color=highlight>Resonance Skill</color> reduces the Resonator's Echo Skill Cooldown and Resonance Skill Cooldown and regenerates a certain amount of Concerto Energy.","Sau khi tung <color=highlight>Kỹ Năng Thanh Hài</color>, trong một khoảng thời gian, tỷ lệ bạo kích và sát thương bạo kích của Kỹ Năng Cộng Hưởng tăng, hiệu ứng có thể cộng dồn.
-Khi dùng <color=highlight>Kỹ Năng Cộng Hưởng</color> Đánh Bại kẻ thù, giảm thời gian hồi Kỹ Năng Thanh Hài và Kỹ Năng Cộng Hưởng, đồng thời nhận một lượng năng lượng Hiệp Tấu nhất định."
-lang_multi_text.db,MultiText,HelpText_99_Title,【合金试冶Ⅱ】本关机制说明,Alloy Smelt II Stage Details,Hướng dẫn cơ chế màn chơi [Thử Nghiệm Hợp Kim II]
-lang_multi_text.db,MultiText,HelpText_9_Content,"<color=yellow>关卡说明</color>：
-为方便体验角色的特色能力，试用的关卡中将会有额外的增益","<color=yellow>Stage Details</color>: 
-For an enhanced experience of utilizing Resonators' unique abilities, additional buffs will be granted in the trial stages.","<color=yellow>Giới thiệu màn chơi</color>:
-Để tiện trải nghiệm năng lực đặc trưng của nhân vật, màn chơi dùng thử sẽ có thêm tăng cường."
-lang_multi_text.db,MultiText,HelpText_9_Title,角色介绍-桃祈,Character Introduction: Taoqi,Giới thiệu nhân vật - Đào Kỳ
+[Điều kiện tham gia]
+Cấp Liên Giác đạt 14, và mở khóa sau khi kích hoạt Tín Tiêu Trung Khu của Học Viện Startorch trong Nhiệm Vụ Triều Tịch ""Ngọn Đuốc Dưới Băng Nguyên"".
+
+[Quy tắc sự kiện]
+Lữ Khách có thể sử dụng các thẻ bài đặc biệt của ""Đồi Vinh Quang"" để xây dựng bộ bài độc đáo của riêng mình, và tham gia quyết đấu vinh quang với các đấu thủ tại khu vực ""Lahai-Roi""!
+Trong sự kiện, Lữ Khách có thể nhận ""Điểm Khu Vực Lahai-Roi"" thông qua việc đánh bại các đấu thủ tại khu vực ""Lahai-Roi"" để nâng cao ""Cấp Điểm Thi Đấu"", đồng thời mở khóa thêm nhiều thẻ bài và chiến thuật.
+Thông qua việc hoàn thành các thử thách thi đấu, còn có thể nhận phần thưởng thi đấu hậu hĩnh bao gồm ""Dị Tương - Chop Chop"".
+Sự kiện này không thể tiến hành trong trạng thái liên cơ (Co-op), cần thoát khỏi trạng thái liên cơ để hoàn thành nhiệm vụ theo quy trình."
+lang_multi_text.db,MultiText,HelpText_416_Title,荣耀之丘：激斗重燃,Peaks of Prestige: Rekindled Duel,Đồi Vinh Quang: Tái Chiến Rực Lửa
+lang_multi_text.db,MultiText,HelpText_417_Content,"【活动简介】
+突然弹出的窗口，陌生的不明信号，正在断断续续发送着的满是错误字符的讯息。
+讯息的发送者是谁，这些模糊的信息又传递着怎样的思绪和情感？或许完整解析了所有讯息后，就能在脑海中勾勒出发信者的模糊轮廓了。
+
+【参与条件】
+联觉等级达到8级后解锁。
+
+【活动规则】
+活动开启后，每天服务器时间04:00开放一条可供解析的「讯息」。
+总共存在七则「讯息」需按序解析处理。
+通过对错误「讯息」的解析，可还原「讯息」所含文字图片的全貌，并获得相应奖励。","[About]
+A window suddenly blinks open, choking messages filled with garbled letters from unknown signals.
+Who's sending the messages? What's this noise trying to say? Perhaps by untangling these cryptic messages, you could get a clearer picture of the sender.
+
+[Eligibility] Reach Union Level 8.
+
+[Event Rules]
+One WavesLine message to be deciphered will be sent daily at 04:00 server time.
+There are a total of 7 WavesLine messages that need to be deciphered in order.
+Deciphering an unknown Wavesline message will reveal its true message and earn you rewards.","[Giới thiệu]
+Cửa sổ đột nhiên bật lên, tín hiệu lạ không xác định, đang gửi đứt quãng những tin nhắn đầy ký tự lỗi.
+Người gửi tin nhắn là ai, những thông tin mơ hồ này truyền tải những suy tư và cảm xúc gì? Có lẽ sau khi giải mã hoàn chỉnh tất cả tin nhắn, hình dáng mơ hồ của người gửi sẽ hiện lên trong tâm trí.
+
+[Điều kiện tham gia]
+Mở khóa sau khi Cấp Liên Giác đạt 8.
+
+[Quy tắc sự kiện]
+Sau khi sự kiện bắt đầu, mỗi ngày vào lúc 04:00 giờ server sẽ mở một ""Tin nhắn"" để giải mã.
+Tổng cộng có bảy ""Tin nhắn"" cần được giải mã và xử lý theo thứ tự.
+Thông qua việc giải mã các ""Tin nhắn"" lỗi, có thể khôi phục toàn bộ văn bản và hình ảnh chứa trong ""Tin nhắn"", đồng thời nhận phần thưởng tương ứng."
+lang_multi_text.db,MultiText,HelpText_417_Title,【来自寂静之声】活动说明,Signs of a Silent Star,Giới thiệu sự kiện [Từ Ngôi Sao Im Lặng]
+lang_multi_text.db,MultiText,HelpText_418_Content,"「索拉里斯回归邀约」回归邀约网页活动开启，参与活动最高可获得530星声奖励。
+邀请昔日同伴回归索拉里斯，共同完成任务可领取星声、贝币等奖励。回归漂泊者完成绑定更有额外好礼！
+
+【参与条件】
+联觉等级≥8级
+
+【活动介绍】
+1.活动期间，漂泊者可通过分享个人专属邀请码，邀约同服务器内的「回归漂泊者」参与回归活动（至多3名），并通过完成游戏内特定行为来获得“星炬印章”，可兑换共计星声*480、贝币*300000的奖励。
+2.活动期间，「回归漂泊者」可以通过在【活动界面】-【回归绑定】处，输入他人的邀请码完成回归邀约绑定（至多1次），绑定关系不可更改。完成绑定后，可直接获得专属回归奖励：星声*50，高级拾遗封装箱*5，贝币*50000。
+
+※游戏内奖励邮件领取有效期：自完成奖励兑换后30天内有效。
+※「回归漂泊者」与活动任务达成等状态更新、游戏内奖励发放可能存在延迟，漂泊者可在2分钟后再次刷新网页/重启游戏查看。
+※「回归漂泊者」与其他「回归漂泊者」之间仅可单向绑定，重复的互相绑定无效。
+ 
+【回归漂泊者定义】
+1.联觉等级≥8级；
+2.活动开启前或者2025年12月11日3:59(UTC+8)前，连续未登录游戏天数≥14天；
+3.「回归漂泊者」状态将从活动开启之时，持续生效至本期活动结束。","The ""Back to Solaris"" web event is now live! Participate to earn up to 530 Astrites.
+Invite your former companions back and complete tasks together to receive Astrites, Shell Credits, and more! Returning Rovers who link their accounts will also receive bonus gifts!
+
+[Eligibility]
+Union Level ≥ 8
+
+[Rules]
+1. Share your invitation code with up to 3 Returning Players in your server, complete in-game tasks to obtain Startorch Sigils, and exchange them for up to Astrite x480 and Shell Credit x300,000.
+2. Returning Players can link their accounts with the Player of their choice by using their corresponding invitation code. This can be done once and cannot be changed later. After linking, Returning Players are eligible to claim a reward of Astrite x50, Advanced Enclosure Tank x5, and Shell Credit x50,000.
+
+※ In-game reward Mail can be claimed within 30 days after the issuance of the reward. 
+※ Upon completing an event task, there may be a slight delay before you can claim the rewards. If this occurs, please wait at least 2 minutes before refreshing the page or restarting the game.
+※ A Returning Player cannot be both the inviter and invitee of another Returning Player.
+
+[Returning Player Eligibility]
+1. Union Level ≥ 8.
+2. Has not logged into the game for at least 14 consecutive days immediately before the start of this event or before December 11, 2025, 03:59 (UTC+8).
+3. Eligible Returning Players will retain their status for the duration of this event.","Sự kiện web Mời Gọi Trở Về ""Mời Gọi Trở Về Solaris"" đã mở, tham gia sự kiện có thể nhận phần thưởng tối đa 530 Tinh Thanh.
+Mời những người bạn đồng hành xưa trở lại Solaris, cùng hoàn thành nhiệm vụ để nhận Tinh Thanh, Tiền Shell và các phần thưởng khác. Lữ Khách trở về hoàn thành liên kết còn có thêm quà tặng hấp dẫn!
+
+[Điều kiện tham gia]
+Cấp Liên Giác ≥ 8
+
+[Giới thiệu sự kiện]
+1. Trong thời gian sự kiện, Lữ Khách có thể chia sẻ mã mời cá nhân, mời ""Lữ Khách Trở Về"" cùng server tham gia sự kiện trở về (tối đa 3 người), và thông qua việc hoàn thành các hành động cụ thể trong game để nhận ""Ấn Tín Startorch"", có thể đổi lấy tổng cộng Tinh Thanh *480, Tiền Shell *300.000.
+2. Trong thời gian sự kiện, ""Lữ Khách Trở Về"" có thể nhập mã mời của người khác tại [Giao diện Sự kiện] - [Liên Kết Trở Về] để hoàn thành liên kết mời gọi trở về (tối đa 1 lần), quan hệ liên kết không thể thay đổi. Sau khi hoàn thành liên kết, có thể nhận ngay phần thưởng trở về độc quyền: Tinh Thanh *50, Hộp Đựng Di Vật Cao Cấp *5, Tiền Shell *50.000.
+
+※ Thời hạn nhận thư phần thưởng trong game: Có hiệu lực trong vòng 30 ngày kể từ khi hoàn thành đổi thưởng.
+※ Việc cập nhật trạng thái hoàn thành nhiệm vụ sự kiện của ""Lữ Khách Trở Về"" và việc phát phần thưởng trong game có thể bị trễ, Lữ Khách có thể làm mới trang web/khởi động lại game sau 2 phút để kiểm tra.
+※ Giữa ""Lữ Khách Trở Về"" và ""Lữ Khách Trở Về"" khác chỉ có thể liên kết một chiều, liên kết qua lại lặp lại là không hợp lệ.
+
+[Định nghĩa Lữ Khách Trở Về]
+1. Cấp Liên Giác ≥ 8;
+2. Số ngày liên tục không đăng nhập game ≥ 14 ngày trước khi sự kiện bắt đầu hoặc trước 03:59 ngày 11/12/2025 (UTC+8);
+3. Trạng thái ""Lữ Khách Trở Về"" sẽ có hiệu lực từ khi sự kiện bắt đầu cho đến khi sự kiện kỳ này kết thúc."
+lang_multi_text.db,MultiText,HelpText_418_Title,索拉里斯回归邀约,Back to Solaris,Mời Gọi Trở Về Solaris
+lang_multi_text.db,MultiText,HelpText_419_Content,"【活动简介】
+为鼓励协会旗下的成员们积极分享遍历拉海洛之际的见闻，先行公约与呜呜物流联合推出了 “踏潮探历：探索激励计划”。
+参与活动并于呜呜物流车处上传探历札记，即可获得奖励丰厚的 “探历补给”！
+
+【参与条件】
+联觉等级达到14级，并在潮汐任务「冰原下的星炬」中启用星炬学院的中枢信标。
+
+【活动规则】
+活动期间，漂泊者每天通过完成活动目标，可获得一定数目的探历札记；
+每次消耗一枚探历札记，可在活动中随机获赠一份补给；补给中包含特殊机关，触发时可一次性解锁大量奖励。
+探历补给共计三轮库存，获得当前轮次库存的全部补给奖励后开启下一库存。","[About]
+To encourage the Pioneers to further share their Lahai-Roi explorations, Lollo Logistics has partnered with the Pioneer Association to proudly present the campaign: Beyond the Waves! Participate and upload your Adventure Logs to the Lollo courier truck to get various rewards!
+
+[Eligibility]
+Reach Union Level 14 and activate the Resonance Nexus in Startorch Academy during the Main Quest ""What Burns Beneath Frostlands"" to unlock
+
+[Event Rules]
+During the event, you can complete event tasks once per day to obtain a set number of Adventure Logs.
+Each Adventure Log can be exchanged for an Adventure Package; Adventure Packages contain special mechanics that, when triggered, unlock a large amount of rewards.
+There are 3 Inventories for the Adventure Packages. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.","[Giới thiệu]
+Để khuyến khích các thành viên trực thuộc hiệp hội tích cực chia sẻ những điều mắt thấy tai nghe khi du hành khắp Lahai-Roi, Hiệp Ước Tiên Phong và Giao Vận Lollo đã phối hợp ra mắt ""Khám Phá Sóng Triều: Kế Hoạch Khích Lệ Thám Hiểm"".
+Tham gia sự kiện và tải lên Nhật Ký Thám Hiểm tại xe của Giao Vận Lollo để nhận ""Tiếp Tế Thám Hiểm"" với phần thưởng hậu hĩnh!
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt 14, và kích hoạt Tín Tiêu Trung Khu của Học Viện Startorch trong Nhiệm Vụ Triều Tịch ""Ngọn Đuốc Dưới Băng Nguyên"".
+
+[Quy tắc sự kiện]
+Trong thời gian sự kiện, Lữ Khách hoàn thành mục tiêu sự kiện mỗi ngày sẽ nhận được một số lượng Nhật Ký Thám Hiểm nhất định;
+Mỗi lần tiêu hao một Nhật Ký Thám Hiểm, có thể nhận ngẫu nhiên một phần tiếp tế trong sự kiện; trong tiếp tế có chứa cơ quan đặc biệt, khi kích hoạt có thể mở khóa lượng lớn phần thưởng một lần.
+Tiếp Tế Thám Hiểm có tổng cộng 3 vòng kho, sau khi nhận hết phần thưởng tiếp tế trong kho của vòng hiện tại sẽ mở kho tiếp theo."
+lang_multi_text.db,MultiText,HelpText_419_Title,踏潮探历·拉海洛活动说明,Beyond the Waves: Lahai-Roi,Giới thiệu sự kiện Khám Phá Sóng Triều - Lahai-Roi
+lang_multi_text.db,MultiText,HelpText_41_Content,"【声骸装配】
+装配声骸可以获得属性、主动技能和特定效果加成。
+通过拖动可以更加快捷地进行装配。
+
+【负载/COST】
+可装配声骸会受到负载/COST约束，当前装配声骸的COST之和不可超过COST上限。
+通过解锁更多种类的声骸来提升数据坞等级，可以提高COST上限。
+
+【声骸技能】
+装配在主音声骸位置（第一位）可以激活对应声骸的声骸技能。切换“简述”按键可以查看声骸技能的详细和简短描述。
+声骸技能正在使用时，相应主音声骸暂时不可替换或卸下。
+
+【声骸合鸣】
+每个声骸会带有一条“合鸣”，相同合鸣的声骸装配数量达到2个或5个时，就可以激活相应的合鸣效果。
+多个相同合鸣的同名声骸，在一组声骸合鸣效果中，仅计算一次数量。
+同名声骸可能会因为数据差异，随机带有不同的合鸣。","[Equip Echoes]
+Equip Echo to gain attributes, Echo Skills, and specific bonuses.
+Drag and drop for faster equipping.
+
+[COST]
+The number of Echoes you can equip is limited by the total COST. The COST of equipped Echoes cannot exceed your current COST limit. 
+Collect Echoes of new types to upgrade your Data Bank level and increase the COST limit.
+
+[Echo Skills]
+The Echo assembled in the main Echo position (first position) can activate the corresponding Echo skills. Switch the ""Summary"" button to view the detailed and brief descriptions of Echo skills.
+When Echo skills are in use, the corresponding main Echo cannot be replaced or unloaded temporarily.
+
+[Sonata Effects]
+Every Echo comes with its own ""Sonata."" When the number of Echo assembled with the same Sonata reaches 2 or 5, the corresponding Sonata Effect can be activated.
+Multiple Echo with the same Sonata and the same name equipped will only count towards the Sonata Effect once.
+Echo with the same name may carry different Sonata due to data differences.","[Trang bị Thanh Hài]
+Trang bị Thanh Hài có thể nhận được thuộc tính, kỹ năng chủ động và hiệu ứng đặc biệt.
+Có thể trang bị nhanh hơn bằng cách kéo thả.
+
+[Tải trọng/COST]
+Thanh Hài có thể trang bị sẽ bị giới hạn bởi Tải trọng/COST, tổng COST của các Thanh Hài đang trang bị không được vượt quá giới hạn COST.
+Mở khóa thêm nhiều loại Thanh Hài để nâng cấp Đài Dữ Liệu, từ đó có thể tăng giới hạn COST.
+
+[Kỹ năng Thanh Hài]
+Trang bị vào vị trí Thanh Hài Chủ Âm (vị trí đầu tiên) có thể kích hoạt kỹ năng Thanh Hài tương ứng. Chuyển đổi nút ""Tóm tắt"" để xem mô tả chi tiết và ngắn gọn của kỹ năng Thanh Hài.
+Khi kỹ năng Thanh Hài đang được sử dụng, Thanh Hài Chủ Âm tương ứng tạm thời không thể thay thế hoặc tháo gỡ.
+
+[Hợp Âm Thanh Hài]
+Mỗi Thanh Hài sẽ mang một ""Hợp Âm"", khi số lượng Thanh Hài trang bị có cùng Hợp Âm đạt 2 hoặc 5, sẽ kích hoạt hiệu ứng Hợp Âm tương ứng.
+Nhiều Thanh Hài cùng tên có cùng Hợp Âm, trong một bộ hiệu ứng Hợp Âm Thanh Hài, chỉ tính số lượng một lần.
+Thanh Hài cùng tên có thể ngẫu nhiên mang các Hợp Âm khác nhau do sự khác biệt về dữ liệu."
+lang_multi_text.db,MultiText,HelpText_41_Title,声骸系统说明,Echo System,Giải thích hệ thống Thanh Hài
+lang_multi_text.db,MultiText,HelpText_421_Content,"【活动简介】
+一望无际的冰原之上，无数遗迹正静静在寒冰中沉眠。探索真理之人，敬服自然之人，各自寻求着此行的终点。
+一位科考站的维修员将要开始她十年来的第一次假期旅行，她希望你能引领她走遍罗伊冰原，记录极点风光……
+
+【参与条件】
+完成潮汐任务第三章第三幕「远航星」后解锁。
+
+【活动规则】
+跟随线索的指引，前往对应区域探索，收集散落的停影吧。
+完成收集还可获取包含「星声」在内的各类奖励。
+未来会有更多区域的停影等待着漂泊者的探索……","[About]
+On the endless expanse of the frostlands, countless relics lie quietly dormant beneath the frozen ice. Here, truth seekers and those who revere nature come in search of the destination of their pilgrimage.
+A maintenance worker from the Frostlands Polar Research Outpost prepares to embark on her first vacation in a decade. She hopes you will guide her across the Roya Frostlands, documenting the views of the pole along the way...
+
+[Eligibility]
+Complete Main Quest Chapter III Act III ""The Star That Voyages Far"" to unlock.
+
+[Event Rules]
+Explore areas according to the clues to collect the scattered Chrono Traces.
+Collect all Chrono Traces to receive Astrites and other rewards.
+More Chrono Traces will be available for collection in other areas in the future.","[Giới thiệu]
+Trên băng nguyên mênh mông bát ngát, vô số di tích đang lặng lẽ ngủ yên trong băng giá. Những người tìm kiếm chân lý, những người kính phục tự nhiên, mỗi người đều đang tìm kiếm điểm đến của chuyến hành trình này.
+Một nhân viên bảo trì của trạm khảo sát khoa học sắp bắt đầu kỳ nghỉ đầu tiên của cô ấy trong mười năm qua, cô ấy hy vọng bạn có thể dẫn cô ấy đi khắp Băng Nguyên Roya, ghi lại phong cảnh cực địa...
+
+[Điều kiện tham gia]
+Mở khóa sau khi hoàn thành Nhiệm Vụ Triều Tịch Chương III Màn III ""Ngôi Sao Viễn Du"".
+
+[Quy tắc sự kiện]
+Lần theo manh mối, đi đến khu vực tương ứng để khám phá và thu thập Dư Ảnh Thời Gian nằm rải rác.
+Hoàn thành thu thập còn có thể nhận các loại phần thưởng bao gồm ""Tinh Thanh"".
+Trong tương lai sẽ có thêm Dư Ảnh Thời Gian ở nhiều khu vực khác chờ Lữ Khách khám phá..."
+lang_multi_text.db,MultiText,HelpText_421_Title,【冰川存忆】活动说明,Footprints on Frostlands,Giới thiệu sự kiện [Ký Ức Băng Nguyên]
+lang_multi_text.db,MultiText,HelpText_422_Content,"【活动简介】
+在步行街路口的裂隙出现后，穗波市各地出现了不少来自拉海洛地区的“漂流物”，它们被索诺拉转化成了往人们所熟悉的模样。波仔似乎有办法从这些频率中，还原出原本的信息……来自拉海洛的遥远风光将在你眼前展开。
+
+【参与条件】
+完成潮汐任务「星光流转于眼眸之间」
+
+【活动规则】
+活动开启后，波仔每天会提供一个关于漂流物的新线索。找到对应漂流物，并还原其中隐藏的信息即可获得对应奖励。","[About]
+After a rift appeared at the entrance of Honami Crossing, many ""castaway"" objects from Lahai-Roi have begun surfacing across Honami. They have been transformed by the Sonoro into things familiar to the Left Behind. Namipon seems to have a way to restore the original messages hidden within these objects… Soon, the distant scenery of Lahai-Roi will unfold before you.
+
+
+[Eligibility]
+Complete Main Quest ""Flowing Starlight in the Iris.""
+
+[Event Rules]
+Once the event begins, Namipon will provide a new clue each day about a castaway object. Track down the correct object and uncover its hidden message to earn rewards.","[Giới thiệu]
+Sau khi vết nứt xuất hiện ở ngã tư phố đi bộ, nhiều ""Vật Trôi Nổi"" từ vùng Lahai-Roi đã xuất hiện khắp nơi trong thành phố Honami. Chúng bị Sonoro biến đổi thành những hình dạng quen thuộc với con người. Namipon dường như có cách để khôi phục thông tin ban đầu từ những tần số này... Phong cảnh xa xôi từ Lahai-Roi sẽ mở ra trước mắt bạn.
+
+[Điều kiện tham gia]
+Hoàn thành Nhiệm Vụ Triều Tịch ""Ánh Sao Lưu Chuyển Trong Mắt""
+
+[Quy tắc sự kiện]
+Sau khi sự kiện bắt đầu, mỗi ngày Namipon sẽ cung cấp một manh mối mới về vật trôi nổi. Tìm thấy vật trôi nổi tương ứng và khôi phục thông tin ẩn chứa bên trong để nhận phần thưởng."
+lang_multi_text.db,MultiText,HelpText_422_Title,【寻找吧！拉海洛漂流物】活动说明,Search for It! Bits of Lahai-Roi,Giới thiệu sự kiện [Tìm Kiếm Nào! Vật Trôi Nổi Lahai-Roi]
+lang_multi_text.db,MultiText,HelpText_424_Content,"【外观定制】
+通过选择不同的外观模组，可以改变科考摩托的外观
+
+【导入预设】
+为科考摩托快速装配一整套外观方案","[Look Customization]
+Various customization modules can be applied to the expedition motorbike to change its appearance.
+
+[Import Presets]
+You can save and import presets to quickly apply customization settings.","[Tùy chỉnh ngoại hình]
+Bằng cách chọn các mô-đun ngoại hình khác nhau, bạn có thể thay đổi vẻ ngoài của xe mô tô thám hiểm.
+
+[Nhập thiết lập sẵn]
+Trang bị nhanh một bộ giao diện hoàn chỉnh cho xe mô tô thám hiểm."
+lang_multi_text.db,MultiText,HelpText_424_Title,摩托外观说明,Motorbike Appearance,Giải thích ngoại hình mô tô
+lang_multi_text.db,MultiText,HelpText_425_Title,【开学赠礼】活动说明,Gifts of Freshers Week,Giới thiệu sự kiện [Quà Tặng Tựu Trường]
+lang_multi_text.db,MultiText,HelpText_426_Content,"【矩阵叠兵·先行版】
+在矩阵叠兵·先行版中，需要完成高难度的关卡挑战。挑战敌人将获得积分，累积获得的积分到达一定值时，将能够获得奖励。
+
+【参与条件】
+3.0版本更新后,在逆境深塔的深境区中至少一期最高获得印记不少于24个,并且在冥歌海墟的再生海墟-湍流中至少一期累计积分不低于3500分。
+
+【矩阵】
+矩阵叠兵·先行版分为【稳态协议】、【奇点扩张】两大区域，稳态协议积分达到一定分数后解锁奇点扩张。
+
+【稳态协议】
+最多可以上阵三支队伍，击败一个轮次中的所有敌人即可完成挑战。
+
+【奇点扩张】
+可以上阵的队伍数量无上限，击败一个轮次中的所有敌人后将开启下一轮次，敌人会随着轮次逐渐变强。
+
+【增幅回路】
+在矩阵叠兵·先行版中，需要在每支队伍中上阵三位共鸣者，并选择相应的增幅回路后即可开始挑战。
+
+【模板角色】
+需要玩家拥有对应角色后才可以使用，模板角色等级为90级，装备90级武器，装备正确的声骸套装，所有声骸25级，共鸣链数量将根据玩家角色情况进行继承。
+
+【角色强化】
+在矩阵叠兵·先行版中，部分角色的技能将获得特殊强化效果。
+
+【病毒侵染】
+奇点扩张中，敌人生命值将随轮次提升，同时解锁更强力的词条效果。
+
+【疲劳值】
+共鸣者每次出战都会消耗1点疲劳值，疲劳值为0的共鸣者将无法出战。在【稳态协议】与【奇点扩张】中，角色的疲劳值将独立计算。
+
+【武器与声骸占用】
+本玩法中相同的武器和声骸无法被两位不同的共鸣者使用，若共鸣者装备了已有挑战记录的共鸣者使用的武器或声骸时无法开启挑战。","[Doubled Pawns Matrix: Pilot]
+In Doubled Pawns Matrix: Pilot, your skills will be tested through multiple challenging stages. Confront the enemies and earn points to claim corresponding rewards.
+
+[Eligibility]
+Achieve at least 24 Crests in one phase of the Tower of Adversity and reach at least 3,500 points in one phase of the Respawning Waters: Torrents in Whimpering Wastes after 3.0 is released.
+
+[Matrix]
+Doubled Pawns Matrix: Pilot consists of two Zones: Stability Accords and Singularity Expansion. Earn the required points in Stability Accords to unlock Singularity Expansion.
+
+[Stability Accords]
+You may deploy up to 3 teams. Defeat all enemies in one round to complete the challenge.
+
+[Singularity Expansion]
+There is no limit to the number of teams you can deploy. Defeating all enemies in a round will open the next round, with enemies growing stronger each time.
+
+[Power Circuits]
+In Doubled Pawns Matrix: Pilot, you must deploy three Resonators in each team and select a Power Circuit before starting the challenge.
+
+[Demo Resonators]
+Demo Resonators are available only if you own the corresponding Resonators. Each Demo Resonator is set to Lv. 90, equipped with a Lv. 90 weapon and a fitting Echo set with Lv. 25 Echoes . They inherit the Resonance Chain from your own Resonators.
+
+[Resonator Enhancements]
+In Doubled Pawns Matrix: Pilot, certain Resonators will receive special skill enhancements.
+
+[Viral Infection]
+In Singularity Expansion, enemy HP increases by each round, and stronger enemy effects will be unlocked as rounds progress.
+
+[Vigor]
+Each time a Resonator participates in a challenge, 1 point of Vigor is consumed. Resonators with 0 Vigor cannot be deployed. Vigor is calculated separately for Stability Accords and Singularity Expansion.
+
+[Weapon & Echo Occupation]
+Different Resonators cannot use the same weapon and Echo in this event. If a Resonator in the team has equipped a weapon or Echo used by another Resonator with a challenge record, you cannot start the challenge with this team.","[Ma Trận Điệp Binh - Thử Nghiệm]
+Trong Ma Trận Điệp Binh - Thử Nghiệm, bạn cần hoàn thành các ải thử thách có độ khó cao. Thách đấu kẻ địch để nhận điểm, khi tích lũy điểm đạt mức nhất định sẽ nhận được phần thưởng.
+
+[Điều kiện tham gia]
+Sau khi cập nhật phiên bản 3.0, đạt ít nhất 24 Ấn Ký trong một kỳ tại Khu Vực Sâu của Tháp Nghịch Cảnh, và đạt tổng điểm ít nhất 3500 trong một kỳ tại Hải Hư Tái Sinh - Dòng Chảy của Minh Ca Hải Hư.
+
+[Ma Trận]
+Ma Trận Điệp Binh - Thử Nghiệm được chia thành hai khu vực lớn: [Giao Thức Ổn Định] và [Mở Rộng Điểm Kỳ Dị]. Khi điểm số tại Giao Thức Ổn Định đạt mức nhất định sẽ mở khóa Mở Rộng Điểm Kỳ Dị.
+
+[Giao Thức Ổn Định]
+Có thể đưa ra trận tối đa ba đội, đánh bại tất cả kẻ địch trong một lượt để hoàn thành thử thách.
+
+[Mở Rộng Điểm Kỳ Dị]
+Số lượng đội có thể ra trận không giới hạn, sau khi đánh bại tất cả kẻ địch trong một lượt sẽ mở lượt tiếp theo, kẻ địch sẽ mạnh dần lên theo từng lượt.
+
+[Mạch Khuếch Đại]
+Trong Ma Trận Điệp Binh - Thử Nghiệm, cần đưa ra trận ba Cộng Hưởng Giả trong mỗi đội, và chọn Mạch Khuếch Đại tương ứng để bắt đầu thử thách.
+
+[Nhân Vật Mẫu]
+Người chơi cần sở hữu nhân vật tương ứng mới có thể sử dụng. Nhân vật mẫu có cấp độ 90, trang bị vũ khí cấp 90, trang bị bộ Thanh Hài phù hợp, tất cả Thanh Hài cấp 25, số lượng Chuỗi Cộng Hưởng sẽ được kế thừa dựa trên tình trạng nhân vật của người chơi.
+
+[Cường Hóa Nhân Vật]
+Trong Ma Trận Điệp Binh - Thử Nghiệm, kỹ năng của một số nhân vật sẽ nhận được hiệu ứng cường hóa đặc biệt.
+
+[Lây Nhiễm Virus]
+Trong Mở Rộng Điểm Kỳ Dị, HP của kẻ địch sẽ tăng theo từng lượt, đồng thời mở khóa các hiệu ứng dòng thuộc tính mạnh hơn.
+
+[Độ Mệt Mỏi]
+Mỗi lần Cộng Hưởng Giả xuất chiến sẽ tiêu hao 1 điểm độ mệt mỏi, Cộng Hưởng Giả có độ mệt mỏi bằng 0 sẽ không thể xuất chiến. Trong [Giao Thức Ổn Định] và [Mở Rộng Điểm Kỳ Dị], độ mệt mỏi của nhân vật được tính riêng biệt.
+
+[Chiếm Dụng Vũ Khí và Thanh Hài]
+Trong lối chơi này, cùng một vũ khí và Thanh Hài không thể được sử dụng bởi hai Cộng Hưởng Giả khác nhau. Nếu Cộng Hưởng Giả trang bị vũ khí hoặc Thanh Hài đang được sử dụng bởi Cộng Hưởng Giả đã có ghi chép thử thách, sẽ không thể bắt đầu thử thách."
+lang_multi_text.db,MultiText,HelpText_426_Title,矩阵叠兵·先行版,Doubled Pawns Matrix: Pilot,Ma Trận Điệp Binh - Thử Nghiệm
+lang_multi_text.db,MultiText,HelpText_427_Content,"【活动简介】
+拉海洛的路网系统以及负责观测记录地形、生态与气候的深空测界台被虚质磁暴摧毁，如今亟待重建。
+使用在拉海洛获得的重建材料，协助德莉珐完成路网与深空测界台的重建
+
+【参与条件】
+联觉等级8级
+完成道引任务「开辟测界之路」后解锁
+
+【活动规则】
+通过探索拉海洛，使用3种重建材料进行10段路网的重建。
+到达各造路悬仪后，可以激活造路悬仪的传送
+启动造路悬仪，路网会自动进行建造。路网建设会驱动周边生态繁荣，进而解锁各类支线任务与挑战。
+每当路网重建完成后，会提升路网活跃度，当路网活跃度提升至一定点数时，可以推进深空测界台的重建工程。
+该玩法为常驻玩法，在3.0版本及之后的版本内， 漂泊者都可在拉海洛的地图上通过「区域导览」进入本玩法。","[About]
+Lahai-Roi's route network, along with the Spacetrek Observatory that used to monitor its terrain, ecosystem, and climate, has been devastated by a Void Storm. It's time to rebuild them all!
+Use rebuild materials gathered in Lahai-Roi to assist Dhalifa in restoring the Route Network and the Spacetrek Observatory.
+
+[Eligibility]
+Reach Union Level 8 and complete Tutorial Quest ""Operation: Frontier Renewal""
+
+[Event Rules]
+Explore Lahai-Roi and use 3 types of materials to rebuild 10 routes.
+Reaching a Route Constructor unlocks it as a Fast Travel point.
+Once activated, the Constructor will automatically complete the route rebuild. Restored routes will revitalize the surrounding area, unlocking a variety of side quests and challenges.
+Each completed route increases Network Activity. Reaching certain Activity milestones advances the Spacetrek Observatory's rebuild progress.
+
+This event is permanently available. From Version 3.0 onward, you can access this event via the Region Guide on the Lahai-Roi map.","[Giới thiệu]
+Hệ thống mạng lưới đường bộ của Lahai-Roi và Đài Đo Đạc Không Gian Sâu chịu trách nhiệm quan sát ghi chép địa hình, sinh thái và khí hậu đã bị Bão Từ Hư Chất phá hủy, hiện đang cần được tái thiết gấp rút.
+Sử dụng vật liệu tái thiết thu được tại Lahai-Roi, hỗ trợ Dhalifa hoàn thành việc tái thiết mạng lưới đường bộ và Đài Đo Đạc Không Gian Sâu.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt 8
+Mở khóa sau khi hoàn thành nhiệm vụ hướng dẫn ""Khai Phá Con Đường Đo Đạc"".
+
+[Quy tắc sự kiện]
+Thông qua việc khám phá Lahai-Roi, sử dụng 3 loại vật liệu tái thiết để tiến hành tái thiết 10 đoạn đường.
+Khi đến các Máy Làm Đường Bay, có thể kích hoạt dịch chuyển của Máy Làm Đường Bay.
+Khởi động Máy Làm Đường Bay, mạng lưới đường bộ sẽ tự động được xây dựng. Việc xây dựng mạng lưới đường bộ sẽ thúc đẩy sự phồn vinh của hệ sinh thái xung quanh, từ đó mở khóa các loại nhiệm vụ nhánh và thử thách.
+Mỗi khi hoàn thành tái thiết một đoạn đường, sẽ tăng độ sôi nổi của mạng lưới. Khi độ sôi nổi mạng lưới tăng đến mức nhất định, có thể thúc đẩy công trình tái thiết Đài Đo Đạc Không Gian Sâu.
+Đây là lối chơi thường trú, trong phiên bản 3.0 và các phiên bản sau này, Lữ Khách đều có thể vào lối chơi này thông qua ""Hướng Dẫn Khu Vực"" trên bản đồ Lahai-Roi."
+lang_multi_text.db,MultiText,HelpText_427_Title,开辟测界之路,Operation: Frontier Renewal,Khai Phá Con Đường Đo Đạc
+lang_multi_text.db,MultiText,HelpText_428_Content,通过重建拉海洛路网，提升路网活跃度，让更多物资运往深空测界台，推动其重建。,"Rebuild Lahai-Roi's route network to increase Network Activity, enabling more supplies to reach the Spacetrek Observatory and accelerate its reconstruction.","Thông qua việc tái thiết mạng lưới đường bộ Lahai-Roi, nâng cao độ sôi nổi mạng lưới, giúp vận chuyển nhiều vật tư hơn đến Đài Đo Đạc Không Gian Sâu, thúc đẩy quá trình tái thiết tại đó."
+lang_multi_text.db,MultiText,HelpText_428_Title,路网活跃度,Network Activity,Độ Sôi Nổi Mạng Lưới
+lang_multi_text.db,MultiText,HelpText_429_Content,"【活动简介】
+拉贝尔学部的适格者们，隧者模拟驾驶舱的虚境实装·同步模拟系统已于本学年开启。
+驾驶舱通过神经接口装置，使适格者得以在安全环境下模拟与隧者的同步，完成频率与意识的安全链接。
+在此过程中，适格者可对自身的同步率进行测试与记录，以评估共鸣适配度与神经载荷的极限。
+完成指定训练目标后，即可获得学部颁发的「同步纹币」，兑换各类珍稀补给与奖励。
+
+【参与条件】
+联觉等级达到27级，且在潮汐任务「冰原下的星炬」中开启星炬学院信标后解锁。
+
+【同步商店】
+完成「全息战略·同步」可获得星声奖励以及专用兑换道具【同步纹币】，【同步纹币】可在【同步商店】中兑换各种奖励。
+「全息战略·同步」为可随时体验的常驻玩法，并在后续版本中会持续更新，敬请期待。","[About]
+The Synchrolink System is now online in the Exostrider simulator cockpit.
+The cockpit is embedded with the Exostrider's neurons, designed for training Synchronists in Augmented Resonance with the Exostrider. 
+During this process, Synchronists can measure and record their resonance stress to assess adaptation levels and neural-load thresholds.
+Complete training goals to earn Department-issued Synchro Coins, which can be exchanged for a variety of rare supplies and rewards.
+
+[Eligibility]
+Reach Union Level 27 and activate the Startorch Academy Resonance Nexus during Main Quest ""What Burns Beneath Frostlands.""
+
+[Synchro Shop]
+Complete Tactical Hologram: Synchronization to obtain Astrite and Synchro Coins, which can be exchanged for rewards at the Synchro Shop.
+
+Tactical Hologram: Synchronization is a permanent event that can be experienced at any time and will continue to be updated in future versions. Please stay tuned.","[Giới thiệu]
+Các ứng viên phù hợp của Khoa Rabel thân mến, hệ thống mô phỏng đồng bộ thực cảnh ảo của buồng lái mô phỏng Người Đi Hầm đã được mở trong năm học này.
+Buồng lái thông qua thiết bị giao diện thần kinh, giúp người phù hợp có thể mô phỏng đồng bộ với Người Đi Hầm trong môi trường an toàn, hoàn thành liên kết an toàn giữa tần số và ý thức.
+Trong quá trình này, người phù hợp có thể kiểm tra và ghi lại tỷ lệ đồng bộ của bản thân, để đánh giá độ thích ứng cộng hưởng và giới hạn tải thần kinh.
+Sau khi hoàn thành mục tiêu huấn luyện chỉ định, sẽ nhận được ""Xu Đồng Bộ"" do Khoa cấp, dùng để đổi các loại tiếp tế và phần thưởng quý hiếm.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt 27, và mở khóa sau khi kích hoạt Tín Tiêu Học Viện Startorch trong Nhiệm Vụ Triều Tịch ""Ngọn Đuốc Dưới Băng Nguyên"".
+
+[Cửa Hàng Đồng Bộ]
+Hoàn thành ""Chiến Lược Toàn Tức - Đồng Bộ"" có thể nhận thưởng Tinh Thanh và vật phẩm đổi thưởng chuyên dụng [Xu Đồng Bộ]. [Xu Đồng Bộ] có thể dùng để đổi nhiều phần thưởng khác nhau trong [Cửa Hàng Đồng Bộ].
+""Chiến Lược Toàn Tức - Đồng Bộ"" là lối chơi thường trú có thể trải nghiệm bất cứ lúc nào, và sẽ tiếp tục được cập nhật trong các phiên bản sau, hãy cùng chờ đón."
+lang_multi_text.db,MultiText,HelpText_429_Title,【全息战略·同步】活动说明,Tactical Hologram: Synchronization,Giới thiệu sự kiện [Chiến Lược Toàn Tức - Đồng Bộ]
+lang_multi_text.db,MultiText,HelpText_42_Content,"【声骸强化】
+强化可以提升声骸的主音属性，这个提升不含随机。
+声骸每提升5级，可以解锁一个辅音属性栏位用于调谐。
+不同品质的声骸可强化到的等级上限会不同。
+
+【声骸调谐】
+调谐可解锁辅音属性栏位，解放其中潜在力量，获得随机属性加成。
+已经调谐过的辅音属性栏位，无法重复进行调谐。
+（最低品质的声骸，因为数据中过多的杂音，无法进行调谐）
+
+【数据重构】
+数据重构区分主音属性和辅音属性。
+通过消耗【调频仪】，将指定声骸的首条主音属性重构为指定的词条；仅未强化过的五星声骸可进行主音属性数据重构。
+单次主音属性重构需消耗1个【调频仪】。
+通过消耗【频整器】，可对指定声骸除锁定的辅音属性外的词条进行随机重构，仅已完成全部调谐的五星声骸可进行辅音属性数据重构。
+锁定的辅音属性数量影响单次重构中【频整器】的消耗数量：
+锁定词条数量为2及以下时，消耗1个【频整器】；
+锁定词条数量为3时，消耗2个【频整器】；
+锁定词条数量为4时，消耗3个【频整器】。
+对于辅音属性数据重构，可选择是否保留重构结果；舍弃结果不返还已消耗的【频整器】。
+
+对于意外退出导致未确认的辅音属性重构结果，服务器将保留至多30天，请漂泊者及时处理。","[Echo Upgrade]
+Upgrading an Echo raises an Echo's Mainstat. This improvement is not randomized.
+Echo Upgrade also unlocks new Substat slots every 5 levels.
+The level cap of an Echo depends on its rarity.
+
+[Echo Tuning]
+By Tuning an Echo, you can unlock new random Substats and unleash its potential. The unlock Substats will be fixed and cannot be tuned again.
+(Echoes with the lowest rarity may not be able to be Tuned due to data interference.)
+
+[Data Modification]
+Data Modification for Mainstats and Substats has different rules and item requirements.
+Use a Modifier to adjust the first Mainstat of a selected Echo into the designated stat. This can only be done on unupgraded 5-star Echoes.
+1 Modifier is consumed for each Mainstat Modification.
+Use a Transducer to adjust the Substats of a selected Echo to random stats, excluding locked Substats. This can only be done on fully tuned 5-star Echoes.
+The number of locked Substats determines the amount of Transducers consumed in each Modification:
+- With 2 or fewer locked stats, consume 1 Transducer.
+- With 3 locked stats, consume 2 Transducers.
+- With 4 locked stats, consume 3 Transducers.
+You may choose whether to apply the Modification results in Substat Modification. Discarding the result does not refund used Transducers.
+
+Substat Modification results that are not confirmed due to unexpected errors will be saved in the server for up to 30 days. Please confirm your results in time.","[Cường hóa Thanh Hài]
+Cường hóa có thể nâng cao thuộc tính Chủ Âm của Thanh Hài, mức tăng này không ngẫu nhiên.
+Mỗi khi Thanh Hài tăng 5 cấp, có thể mở khóa một ô thuộc tính Phụ Âm dùng để Điều Hòa.
+Giới hạn cấp độ cường hóa của Thanh Hài có phẩm chất khác nhau sẽ khác nhau.
+
+[Điều Hòa Thanh Hài]
+Điều Hòa có thể mở khóa ô thuộc tính Phụ Âm, giải phóng sức mạnh tiềm ẩn bên trong, nhận thêm thuộc tính ngẫu nhiên.
+Ô thuộc tính Phụ Âm đã được Điều Hòa sẽ không thể Điều Hòa lại.
+(Thanh Hài phẩm chất thấp nhất không thể Điều Hòa do có quá nhiều tạp âm trong dữ liệu)
+
+[Tái Cấu Trúc Dữ Liệu]
+Tái Cấu Trúc Dữ Liệu phân biệt giữa thuộc tính Chủ Âm và thuộc tính Phụ Âm.
+Bằng cách tiêu hao [Máy Chỉnh Tần], tái cấu trúc thuộc tính Chủ Âm đầu tiên của Thanh Hài chỉ định thành dòng thuộc tính mong muốn; chỉ Thanh Hài 5 sao chưa cường hóa mới có thể tái cấu trúc dữ liệu thuộc tính Chủ Âm.
+Mỗi lần tái cấu trúc thuộc tính Chủ Âm tiêu hao 1 [Máy Chỉnh Tần].
+Bằng cách tiêu hao [Bộ Chỉnh Tần Số], có thể tái cấu trúc ngẫu nhiên các dòng thuộc tính của Thanh Hài chỉ định ngoại trừ các thuộc tính Phụ Âm đã khóa. Chỉ Thanh Hài 5 sao đã hoàn thành toàn bộ Điều Hòa mới có thể tái cấu trúc dữ liệu thuộc tính Phụ Âm.
+Số lượng thuộc tính Phụ Âm bị khóa ảnh hưởng đến số lượng [Bộ Chỉnh Tần Số] tiêu hao trong một lần tái cấu trúc:
+Khi số lượng dòng thuộc tính bị khóa là 2 trở xuống, tiêu hao 1 [Bộ Chỉnh Tần Số];
+Khi số lượng dòng thuộc tính bị khóa là 3, tiêu hao 2 [Bộ Chỉnh Tần Số];
+Khi số lượng dòng thuộc tính bị khóa là 4, tiêu hao 3 [Bộ Chỉnh Tần Số].
+Đối với tái cấu trúc dữ liệu thuộc tính Phụ Âm, có thể chọn giữ lại kết quả tái cấu trúc hay không; nếu bỏ qua kết quả sẽ không hoàn trả [Bộ Chỉnh Tần Số] đã tiêu hao.
+
+Đối với kết quả tái cấu trúc thuộc tính Phụ Âm chưa được xác nhận do thoát đột ngột, máy chủ sẽ lưu giữ tối đa 30 ngày, Lữ Khách vui lòng xử lý kịp thời."
+lang_multi_text.db,MultiText,HelpText_42_Title,声骸培养说明,Echo Build,Hướng dẫn bồi dưỡng Thanh Hài
+lang_multi_text.db,MultiText,HelpText_430_Content,"【活动简介】
+穗波市的循环危机结束后，列车长咖啡厅的波仔委托你与千咲协助调查穗波市内出现的种种怪异现象。
+一一边协助波仔进行调查，一边搜集物资建设列车长咖啡厅吧。
+
+【参与条件】
+完成潮汐任务第二章·幕间「星光流转于眼眸之间」
+联觉等级达到14级
+
+【活动规则】
+在穗波怪异物语中，漂泊者将进入穗波市进行探索，并随着故事的推进逐步探索城市中的怪异谜团。
+探索过程中漂泊者将搜寻到一些战利品，这些战利品可以进行售卖或用于提升自身作战能力。
+探索中获取的资源可用于升级列车长咖啡厅的装潢，为角色提供更多支援效果。
+因受到穗波市悲鸣残留的影响，角色无法装配声骸、角色失去战斗力后将无法通过常规手段复苏。
+通过虹音塔挑战，可获得大量米团。
+限时奖励将在限定时间截止后关闭领取，漂泊者届时仍可以继续参与活动获取常驻奖励。","[About]
+After the end of Honami's City looping crisis, Namipon from Shashou Cafe contacts you to request your and Chisa's help in investigating a series of strange occurrences throughout Honami City.
+Assist Namipon with the investigation while also gathering supplies to renovate Shashou Cafe.
+
+[Eligibility]
+Complete Main Quest Chapter II - Segue ""Flowing Starlight in the Iris.""
+Reach Union Level 14
+
+[Rules]
+Explore the strange occurrences in Honami City and unravel their stories in the Stranger Things in Honami event.
+Find loot to sell for revenue or to upgrade your combat power as you explore.
+Resources gathered during exploration can be used to upgrade Shashou Cafe's Decor to provide support for your Resonators.
+Due to the prevailing Lament Residue, Resonators cannot equip their Echoes, and downed Resonators cannot be revived by normal means.
+Large amounts of Rice Dango rewards can be obtained by clearing Neon Tower challenges.
+Limited-time rewards cannot be claimed once the reward window ends, but you can continue playing to earn permanent rewards.","[Giới thiệu]
+Sau khi cuộc khủng hoảng vòng lặp tại thành phố Honami kết thúc, Namipon của Quán Cà Phê Trưởng Tàu ủy thác bạn và Chisa hỗ trợ điều tra những hiện tượng kỳ lạ xuất hiện trong thành phố Honami.
+Vừa hỗ trợ Namipon điều tra, vừa thu thập vật tư để xây dựng Quán Cà Phê Trưởng Tàu nhé.
+
+[Điều kiện tham gia]
+Hoàn thành Nhiệm Vụ Triều Tịch Chương II - Màn Đệm ""Ánh Sao Lưu Chuyển Trong Mắt""
+Cấp Liên Giác đạt 14
+
+[Quy tắc sự kiện]
+Trong ""Truyện Kỳ Dị Honami"", Lữ Khách sẽ tiến vào thành phố Honami để khám phá, và dần dần tìm hiểu những bí ẩn kỳ lạ trong thành phố theo diễn biến câu chuyện.
+Trong quá trình khám phá, Lữ Khách sẽ tìm thấy một số chiến lợi phẩm, những chiến lợi phẩm này có thể bán đi hoặc dùng để nâng cao khả năng tác chiến của bản thân.
+Tài nguyên thu được trong quá trình khám phá có thể dùng để nâng cấp trang trí cho Quán Cà Phê Trưởng Tàu, cung cấp thêm hiệu quả hỗ trợ cho nhân vật.
+Do ảnh hưởng còn sót lại của Bi Minh tại thành phố Honami, nhân vật không thể trang bị Thanh Hài, và sau khi mất khả năng chiến đấu sẽ không thể hồi sinh bằng các phương pháp thông thường.
+Thông qua thử thách Tháp Cầu Vồng, có thể nhận được lượng lớn Bánh Gạo.
+Phần thưởng giới hạn thời gian sẽ đóng nhận sau khi hết hạn, lúc đó Lữ Khách vẫn có thể tiếp tục tham gia sự kiện để nhận phần thưởng thường trú."
+lang_multi_text.db,MultiText,HelpText_430_Title,穗波怪异物语,Stranger Things in Honami,Truyện Kỳ Dị Honami
+lang_multi_text.db,MultiText,HelpText_431_Content,"当在穗波市探索中，首次将搜集到的红色传说品质的非装备战利品带回列车长咖啡厅时，即可在图鉴中收录该藏品。
+一但收录后，就算是在仓库中卖出该道具，藏品也会永久保持收录状态。","When exploring Honami City, after bringing any Legendary Quality unequippable loot item back to Shashou Cafe for the first time, that item will be displayed in the Gallery.
+Even if you later sell that item from the Warehouse, it will remain displayed in the Gallery.","Trong quá trình khám phá thành phố Honami, khi lần đầu tiên mang chiến lợi phẩm phẩm chất Truyền Thuyết màu đỏ (không phải trang bị) thu thập được về Quán Cà Phê Trưởng Tàu, vật phẩm đó sẽ được ghi vào Sổ Tay Sưu Tầm.
+Một khi đã được ghi nhận, dù có bán vật phẩm đó trong kho đi chăng nữa, vật phẩm sưu tầm vẫn sẽ vĩnh viễn ở trạng thái đã thu thập."
+lang_multi_text.db,MultiText,HelpText_431_Title,收集藏品,Gallery Collectibles,Thu thập vật phẩm
+lang_multi_text.db,MultiText,HelpText_432_Title,穗波怪异物语·新内容,Stranger Things in Honami: New Content,Truyện Kỳ Dị Honami - Nội Dung Mới
+lang_multi_text.db,MultiText,HelpText_434_Title,强化共鸣者,Enhance Resonator,Cường hóa Cộng Hưởng Giả
+lang_multi_text.db,MultiText,HelpText_435_Title,战力值,Combat Power,Lực chiến
+lang_multi_text.db,MultiText,HelpText_436_Title,波仔能力,Namipon Ability,Năng lực Namipon
+lang_multi_text.db,MultiText,HelpText_437_Title,探索其一·穗波市,Exploration I - Honami City,Khám phá I - Thành phố Honami
+lang_multi_text.db,MultiText,HelpText_438_Title,探索其二·虹音塔,Exploration II - Neon Tower,Khám phá II - Tháp Cầu Vồng
+lang_multi_text.db,MultiText,HelpText_439_Title,店铺装潢,Cafe Decor,Trang trí cửa hàng
+lang_multi_text.db,MultiText,HelpText_43_Content,存在异常，如有疑问请联系官方客服,Somnoire,"Có lỗi bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,HelpText_43_Title,存在异常，如有疑问请联系官方客服,Somnoire,"Có lỗi bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,HelpText_440_Title,寻找迷途波仔,Finding the Missing Namipons,Tìm Namipon đi lạc
+lang_multi_text.db,MultiText,HelpText_441_Title,补给站,Supply Station,Trạm Tiếp Tế
+lang_multi_text.db,MultiText,HelpText_443_Content,"【活动简介】
+新的漂泊者参与此活动后，可通过提升索拉等级来获得额外奖励，并解锁试用角色，快速成长。
+
+【参与条件】
+2025年12月12日04:00（服务器时间）之后创建角色的漂泊者，在活动功能开启后可解锁。
+
+【活动规则】
+满足参与条件时解锁【新声潮引】活动，活动持续30天。
+活动期间，新玩家随着索拉等级的提升，可获得对应的星声奖励和数据坞经验，以及指定的五星试用角色：吟霖、今汐、长离、守岸人、椿。
+同时，活动期间，当期角色活动唤取中的限定角色以及新旅角色，所需的培养材料和推荐声骸的获取途径会提前开放，便于漂泊者快速获取对应角色的培养材料和推荐声骸。
+（注：试用角色只可参与大世界探索及部分日常声之领域）","[About]
+New players may receive bonus rewards and unlock new Support Resonators through this event to aid their leveling.
+
+[Eligibility]
+Create a character profile after 2025-12-12 04:00 (server time) during the event.
+
+[Rules]
+The Herald of New Tides event lasts for 30 days.
+During the event, upon unlocking new SOL3 Phases, new players may claim the Astrite and Data Bank EXP rewards along with 5-Star Support Resonators: Yinlin, Jinhsi, Changli, Shorekeeper, and Camellya.
+During the event, to fast-track leveling for new players, you will enjoy access to locations that contain the upgrade materials and the recommended Echoes of the current Featured Resonators and New Voyage Resonators.
+(Note: Support Resonators can only join you in the overworld and certain recurring Sonoro Spheres)","[Giới thiệu]
+Lữ Khách mới sau khi tham gia sự kiện này, có thể nhận thêm phần thưởng thông qua việc tăng Cấp SOL3, đồng thời mở khóa nhân vật dùng thử để trưởng thành nhanh chóng.
+
+[Điều kiện tham gia]
+Lữ Khách tạo nhân vật sau 04:00 ngày 12/12/2025 (giờ server), sẽ mở khóa sau khi chức năng sự kiện được kích hoạt.
+
+[Quy tắc sự kiện]
+Khi đáp ứng điều kiện tham gia sẽ mở khóa sự kiện [Triều Mới Dẫn Lối], sự kiện kéo dài 30 ngày.
+Trong thời gian sự kiện, người chơi mới khi tăng Cấp SOL3 sẽ nhận được phần thưởng Tinh Thanh và kinh nghiệm Đài Dữ Liệu tương ứng, cùng với các nhân vật 5 sao dùng thử chỉ định: Yinlin, Jinhsi, Changli, Shorekeeper, Camellya.
+Đồng thời, trong thời gian sự kiện, các nguyên liệu bồi dưỡng và Thanh Hài đề xuất cần thiết cho nhân vật giới hạn đang trong đợt Hoán Đổi và nhân vật hành trình mới sẽ được mở sớm cách thức thu thập, giúp Lữ Khách nhanh chóng kiếm được nguyên liệu và Thanh Hài cần thiết.
+(Lưu ý: Nhân vật dùng thử chỉ có thể tham gia khám phá thế giới rộng lớn và một số Vùng Chứa Âm thanh thường nhật)"
+lang_multi_text.db,MultiText,HelpText_443_Title,【新声潮引】活动说明,Herald of New Tides,Giới thiệu sự kiện [Triều Mới Dẫn Lối]
+lang_multi_text.db,MultiText,HelpText_448_Content,飞讯是先行公约为终端开发的远程通讯程序，生活在索拉里斯的人们可以用飞讯互相联系。,WavesLine is a Terminal messaging app developed by the Pioneer Association. It is available to all inhabitants of Solaris.,"Sóng Tần là chương trình liên lạc từ xa do Hiệp Ước Tiên Phong phát triển cho thiết bị đầu cuối, những người sống tại Solaris có thể dùng Sóng Tần để liên lạc với nhau."
+lang_multi_text.db,MultiText,HelpText_448_Title,飞讯说明,WavesLine,Giải thích về Sóng Tần
+lang_multi_text.db,MultiText,HelpText_449_Content,"【活动简介】
+受浪潮指引的人啊，你已踏足今州的山巅，也已聆听黑海岸的潮声。穿过风暴，你听闻拉古那双生一体的福音，也享受了七丘角斗场中无上的荣光。现如今，通往一片冰封极境的道路已经在穗波市铺就，动身吧，前往拉海洛。
+
+【参与条件】
+在「嘤鸣初相召」任务中，前往今州城中枢信标处登录终端后解锁。
+
+【活动规则】
+潮汐任务第三章现已开启，漂泊者可提前解锁并体验该章节。
+提前解锁后，潮汐任务第一章/第二章/第三章将会并存，可以分别体验且互不影响。提前解锁不会影响原有任务进度或解锁情况。
+提前解锁后会同步解锁时间调整、声序转换功能和部分探索模块。
+*完成潮汐任务第二章·幕间「星光流转于眼眸之间」后，再进行潮汐任务第三章体验更佳。","[About]
+O Rover guided by the tides, you have climbed the peaks of Jinzhou and listened to the waves crash against the Black Shores. You've braved tempests, heard the dual nature of Ragunna's faith, and tasted the glory in the arenas of Septimont. Now, the path to the frozen frontier unfolds in Honami City. It's time to set forth to Lahai-Roi.
+
+[Eligibility]
+Go to the Resonance Nexus in Jinzhou and unlock the Terminal during Main Quest ""First Resonance.""
+
+[Event Rules]
+Main Quest Chapter III is now available. Eligible players can now experience this Chapter early. Chapters I, II, and III are available in parallel. Taking on later Chapters early does not affect progress in previous Chapters, and you can always resume previous Chapters from where you left off.
+Early access to Chapter II/Chapter III also unlocks Time Adjustment, Resonance Conversion functions, as well as some Utilities.
+*For the optimal experience, we recommend completing Chapter II - Segue ""Flowing Starlight in the Iris"" before starting Chapter III.","[Giới thiệu]
+Hỡi người được sóng triều dẫn lối, bạn đã đặt chân lên đỉnh núi Kim Châu, cũng đã lắng nghe tiếng sóng của Bờ Biển Đen. Băng qua bão tố, bạn nghe thấy phúc âm song sinh nhất thể của Ragunna, cũng đã tận hưởng vinh quang tối cao trong đấu trường Septimont. Giờ đây, con đường dẫn đến vùng cực địa băng phong đã được trải sẵn tại thành phố Honami, hãy lên đường đi đến Lahai-Roi thôi.
+
+[Điều kiện tham gia]
+Trong nhiệm vụ ""Tiếng Vang Đầu Tiên"", đi đến Tín Tiêu Trung Khu trong thành Kim Châu đăng nhập thiết bị đầu cuối để mở khóa.
+
+[Quy tắc sự kiện]
+Nhiệm Vụ Triều Tịch Chương III hiện đã mở, Lữ Khách có thể mở khóa trước và trải nghiệm chương này.
+Sau khi mở khóa trước, Nhiệm Vụ Triều Tịch Chương I/Chương II/Chương III sẽ cùng tồn tại, có thể trải nghiệm riêng biệt mà không ảnh hưởng lẫn nhau. Việc mở khóa trước sẽ không ảnh hưởng đến tiến độ nhiệm vụ cũ hoặc tình trạng mở khóa.
+Sau khi mở khóa trước sẽ đồng bộ mở khóa chức năng điều chỉnh thời gian, chuyển đổi Hệ Âm và một số mô-đun khám phá.
+*Hoàn thành Nhiệm Vụ Triều Tịch Chương II - Màn Đệm ""Ánh Sao Lưu Chuyển Trong Mắt"" trước rồi mới trải nghiệm Nhiệm Vụ Triều Tịch Chương III sẽ mang lại trải nghiệm tốt hơn."
+lang_multi_text.db,MultiText,HelpText_449_Title,【前往拉海洛】活动说明,Next Stop: Lahai-Roi,Giới thiệu sự kiện [Đi Đến Lahai-Roi]
+lang_multi_text.db,MultiText,HelpText_44_Content,"【异梦聚合主题更新！】
+追加开放共鸣者：椿、灯灯、釉瑚、守岸人、安可、维里奈、卡卡罗、凌阳、莫特斐。
+「思维变迁」将提供专属等级助力，激活对应加成可以提升所有共鸣者在异想奇境中的等级。
+
+全新探索场景，全新敌人，梦境聚合离散，踏入重重深梦，探寻更深层的秘密吧！
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择一名开放共鸣者参与探索。
+本期开放共鸣者：漂泊者·衍射、秧秧、炽霞、白芷、桃祈、忌炎、吟霖、鉴心、散华、今汐、长离、相里要、折枝、渊武、丹瑾、椿、灯灯、釉瑚、守岸人、安可、维里奈、卡卡罗、凌阳、莫特斐。
+该玩法无法应用共鸣者拥有的声骸技能及属性，但会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「异想声骸」、「隐喻」、「角色强化」、「信物」带来的强力增幅。
+并且根据搜集到的「隐喻」，共鸣者可以逐步解锁来自「异想声骸」的强力技能。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+新的难度内容会随闯关进度逐渐解锁，难度越高，通关可以获取的奖励越丰富，且可以解锁兑换「异想商店」中的更高等级的奖励。
+
+在「异想奇境」的探索过程中，进入战斗时将激活「激斗等级」。
+所有战斗操作会逐步提高激斗等级，受到攻击时会大幅降低激斗等级；
+战斗中一段时间内没有获得激斗等级时，会逐步降低激斗等级。
+
+激斗等级分为D、C、B、A、S、SS六档，达到A级及以上等级时可获得特殊增益：
+等级A：闪避反击伤害增加100%；
+等级S：闪避反击后所有技能冷却时间减少30%；
+等级SS：暴击提高100%，暴击伤害提高100%，且短时间内激斗等级不会降至SS以下。
+
+【思维变迁】
+完成「异想奇境」的探索可获得「记忆点」，在「思维变迁」中激活专属加成，以提升共鸣者在「异想奇境」中的实力。
+
+【异常调查】
+完成特殊条件下的探索，可以解锁专属成就并领取奖励。
+
+【异想商店】
+完成「异想奇境」的探索可获得「异想标本」，可用于在「异想商店」中兑换专属奖励。
+「异想标本」将在每期活动结束后清空，请及时使用。
+
+【回音结晶】
+击败最深处的梦境聚合物后，记忆区内将出现回音结晶，可以消耗奖励次数领取奖励；
+「回音结晶奖励次数」将在每周一凌晨4时重置；
+在不同难度的「异梦聚合」均可领取相同的回音结晶奖励。","[Event Update: Phantasm Amass]
+New Resonators available: Camellya, Lumi, Youhu, Shorekeeper, Encore, Verina, Calcharo, Lingyang, and Mortefi.
+Exclusive level boosts will be available in Thought Evolution. Activate corresponding bonuses to increase all Resonators' levels in the Illusive Realm.
+
+Explore all-new scenes and face off against new enemies! Step into the ever-shifting dreamscapes and uncover the secrets that lie within!
+
+[Exploration]
+Embark on epic battles in the Illusive Realm and choose your Resonator from a diverse pool including Rover: Spectro, Yangyang, Chixia, Baizhi, Taoqi, Jiyan, Yinlin, Jianxin, Sanhua, Jinhsi, Changli, Xiangli Yao, Zhezhi, Yuanwu, Danjin, Camellya, Lumi, Youhu, Shorekeeper, Encore, Verina, Calcharo, Lingyang, and Mortefi.
+The Levels, Resonance Chains, and Weapons of Resonators may be carried over in the event but the Echo Skills and Stats will be ineffective.
+Utilize powerful boosts such as Illusive Echoes, Metaphor, Character Enhancement, and Token to defeat challenging enemy combinations.
+Collect Metaphors to unlock unique skills of the Illusive Echoes for the Resonators.
+With higher levels of difficulty, each playthrough offers new challenges and rewards. As you progress through the levels, higher difficulties and better rewards become available in the Illusive Store.
+
+Symphony Rank is activated during battle.
+All combat actions will progressively raise your Symphony Rank, while being attacked will significantly lower it.
+During battles, if you do not achieve a Symphony Rank within a specified period, your Symphony Rank will decrease over time.
+
+Symphony Rank is categorized into 6 tiers: D, C, B, A, S, and SS. If you achieve Rank A or higher, you'll obtain special buffs.
+Rank A: Dodge Counter DMG is increased by 100%.
+Rank S: After performing a Dodge Counter, the Cooldown of all skills is reduced by 30%.
+Rank SS: Crit. Rate and Crit. DMG are increased by 100%, and your Symphony Rank will not drop below SS for a brief time.
+
+[Thought Evolution]
+By successfully navigating through Illusive Realm, you can earn valuable Memory Points. These points can then be used in Thought Evolution to unlock powerful enhancements, ultimately making the Resonator a force to be reckoned with in the Illusive Realm.
+
+[Anomaly Investigation]
+Complete the exploration under designated conditions to unlock exclusive achievements and rewards.
+
+[Illusive Store]
+Complete the exploration of the Illusive Realm to earn Illusive Specimens and exchange them for exclusive rewards in the Illusive Store.
+Illusive Specimens will expire at the end of each event period, so don't forget to use them in time.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the dream mass found at the deepest parts of the realm. Use Reward Attempts to collect its rewards.
+Remnant Crystal Reward Attempts reset every Monday at 04:00 A.M. server time.
+The Remnant Crystal grants equal rewards across all Phantasm Amass difficulties.","[Cập nhật chủ đề Mộng Dị Hợp Nhất!]
+Thêm Cộng Hưởng Giả: Camellya, Lumi, Youhu, Shorekeeper, Encore, Verina, Calcharo, Lingyang, Mortefi.
+""Biến Thiên Tư Duy"" sẽ cung cấp hỗ trợ cấp độ độc quyền, kích hoạt buff tương ứng để tăng cấp độ cho tất cả Cộng Hưởng Giả trong Cõi Mộng Hư Ảo.
+
+Cảnh quan khám phá hoàn toàn mới, kẻ địch mới, mộng cảnh hợp nhất rồi phân tán, hãy bước vào giấc mộng trùng điệp để tìm kiếm những bí mật sâu xa hơn!
+
+[Khám Phá Cõi Mộng]
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần có thể chọn một Cộng Hưởng Giả đã mở để tham gia khám phá.
+Cộng Hưởng Giả mở trong kỳ này: Lữ Khách - Quang Phổ, Yangyang, Chixia, Baizhi, Taoqi, Jiyan, Yinlin, Jianxin, Sanhua, Jinhsi, Changli, Xiangli Yao, Zhezhi, Yuanwu, Danjin, Camellya, Lumi, Youhu, Shorekeeper, Encore, Verina, Calcharo, Lingyang, Mortefi.
+Lối chơi này không thể áp dụng kỹ năng Thanh Hài và thuộc tính mà Cộng Hưởng Giả đang sở hữu, nhưng sẽ kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Thanh Hài Hư Ảo"", ""Ẩn Dụ"", ""Cường Hóa Nhân Vật"", ""Tín Vật"".
+Và dựa vào ""Ẩn Dụ"" thu thập được, Cộng Hưởng Giả có thể dần mở khóa các kỹ năng mạnh mẽ từ ""Thanh Hài Hư Ảo"".
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Nội dung độ khó mới sẽ dần được mở khóa theo tiến độ vượt ải, độ khó càng cao, phần thưởng khi vượt ải càng phong phú, và có thể mở khóa đổi thưởng cấp cao hơn trong ""Cửa Hàng Hư Ảo"".
+
+Trong quá trình khám phá ""Cõi Mộng Hư Ảo"", khi vào trận chiến sẽ kích hoạt ""Cấp Độ Kịch Chiến"".
+Mọi thao tác chiến đấu sẽ dần tăng Cấp Độ Kịch Chiến, khi bị tấn công sẽ giảm mạnh Cấp Độ Kịch Chiến;
+Trong trận chiến nếu không đạt được Cấp Độ Kịch Chiến trong một khoảng thời gian, Cấp Độ Kịch Chiến sẽ giảm dần.
+
+Cấp Độ Kịch Chiến chia làm 6 mức D, C, B, A, S, SS, khi đạt cấp A trở lên sẽ nhận được buff đặc biệt:
+Cấp A: Sát thương Phản Công Né Tránh tăng 100%;
+Cấp S: Sau khi Phản Công Né Tránh, thời gian hồi chiêu tất cả kỹ năng giảm 30%;
+Cấp SS: Tỷ lệ Bạo Kích tăng 100%, Sát thương Bạo Kích tăng 100%, và trong thời gian ngắn Cấp Độ Kịch Chiến sẽ không giảm xuống dưới mức SS.
+
+[Biến Thiên Tư Duy]
+Hoàn thành khám phá ""Cõi Mộng Hư Ảo"" có thể nhận ""Điểm Ký Ức"", kích hoạt buff độc quyền trong ""Biến Thiên Tư Duy"" để nâng cao thực lực của Cộng Hưởng Giả trong ""Cõi Mộng Hư Ảo"".
+
+[Điều Tra Dị Thường]
+Hoàn thành khám phá dưới các điều kiện đặc biệt, có thể mở khóa thành tựu độc quyền và nhận thưởng.
+
+[Cửa Hàng Hư Ảo]
+Hoàn thành khám phá ""Cõi Mộng Hư Ảo"" có thể nhận ""Mẫu Vật Hư Ảo"", dùng để đổi phần thưởng độc quyền trong ""Cửa Hàng Hư Ảo"".
+""Mẫu Vật Hư Ảo"" sẽ bị xóa sau khi kết thúc mỗi kỳ sự kiện, vui lòng sử dụng kịp thời.
+
+[Tinh Thể Hồi Âm]
+Sau khi đánh bại Dị Mộng Hợp Nhất ở nơi sâu nhất, Tinh Thể Hồi Âm sẽ xuất hiện trong Khu Ký Ức, có thể tiêu hao số lần nhận thưởng để nhận quà;
+""Số lần nhận thưởng Tinh Thể Hồi Âm"" sẽ được làm mới vào lúc 4 giờ sáng thứ Hai hàng tuần;
+Tại các độ khó khác nhau của ""Mộng Dị Hợp Nhất"" đều có thể nhận phần thưởng Tinh Thể Hồi Âm giống nhau."
+lang_multi_text.db,MultiText,HelpText_44_Title,深坠异想奇境说明,Depths of Illusive Realm,Giải thích Cõi Mộng Hư Ảo Vực Sâu
+lang_multi_text.db,MultiText,HelpText_450_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护更新】
+本期梦境援护角色：琳奈、赞妮、今汐、菲比、守岸人、维里奈，使用至少1位梦境援护角色可获得150%积分加成！
+本期梦境援护效果：
+· 全队角色衍射伤害加成提升30%；
+· 造成衍射伤害时，获得30点「梦境能量」，每秒可触发一次；
+· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，拥有「梦境权能」标识的隐喻在本期梦境援护进入「明晰梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid Update]
+Current Dreamscape Aid Resonators: Lynae, Zani, Jinhsi, Phoebe, Shorekeeper, Verina. Use at least one Dreamscape Aid Resonator to gain a 150% Points Bonus!
+Current Dreamscape Aid Effects:
+- All Resonators in the team gain 30% Spectro DMG Bonus.
+- Dealing Spectro DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.
+- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators from the Resonator pool and embark on epic battles in the Illusive Realm.
+The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Metaphors marked with Dreamscape Power provide additional enhancements when Lucid Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày xưa lắng đọng nơi sâu thẳm của giấc mơ, và chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Cập nhật Viện Trợ Mộng Cảnh]
+Nhân vật Viện Trợ Mộng Cảnh kỳ này: Lynae, Zani, Jinhsi, Phoebe, Shorekeeper, Verina. Sử dụng ít nhất 1 nhân vật Viện Trợ Mộng Cảnh có thể nhận thêm 150% điểm số!
+Hiệu quả Viện Trợ Mộng Cảnh kỳ này:
+- Tăng 30% sát thương Quang Phổ cho toàn đội;
+- Khi gây sát thương Quang Phổ, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;
+- Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ vào trạng thái ""Mộng Sáng Suốt"". Trong trạng thái ""Mộng Sáng Suốt"", các Ẩn Dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% Bạo Kích, tăng 100% Hiệu Suất Cộng Hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Mộng Sáng Suốt"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Mộng Cảnh"" sẽ giảm về 0.
+
+[Khám Phá Cõi Mộng]
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Lối chơi này sẽ áp dụng kỹ năng Thanh Hài và thuộc tính mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, các Ẩn Dụ có biểu tượng ""Quyền Năng Mộng Cảnh"" sẽ nhận thêm hiệu quả cường hóa khi vào trạng thái ""Mộng Sáng Suốt"" nhờ Viện Trợ Mộng Cảnh kỳ này.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Tinh Thể Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, ""Tinh Thể Hồi Âm"" sẽ xuất hiện trong Khu Ký Ức, có thể tiêu hao Tấm Sóng Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng không cần tiêu hao Tấm Sóng Kết Tinh, số lần miễn phí này không được cộng dồn.
+
+[Độ Khó Khám Phá]
+Khi Cấp SOL3 tăng lên, sẽ tiến vào [Khám Phá Cõi Mộng] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Tinh Thể Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp SOL3 được tính dựa trên cấp hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần), việc tăng hoặc giảm Cấp SOL3 trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Cõi Mộng] kỳ đó."
+lang_multi_text.db,MultiText,HelpText_450_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_451_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护更新】
+本期梦境援护角色：仇远、尤诺、卡提希娅、夏空、忌炎、鉴心、秧秧、秋水，使用至少1位梦境援护角色可获得150%积分加成！
+本期梦境援护效果：
+· 全队角色气动伤害加成提升30%；
+· 造成气动伤害时，获得30点「梦境能量」，每秒可触发一次；
+· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，拥有「梦境权能」标识的隐喻在本期梦境援护进入「明晰梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid Update]
+Current Dreamscape Aid Resonators: Qiuyuan, Iuno, Cartethyia, Ciaccona, Jiyan, Jianxin, Yangyang, Aalto. Use at least one Dreamscape Aid Resonator to gain a 150% Points Bonus!
+Current Dreamscape Aid Effects:
+- All Resonators in the team gain 30% Aero DMG Bonus.
+- Dealing Aero DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.
+- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators from the Resonator pool and embark on epic battles in the Illusive Realm.
+The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Metaphors marked with Dreamscape Power provide additional enhancements when Lucid Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày xưa lắng đọng nơi sâu thẳm của giấc mơ, và chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Cập nhật Viện Trợ Mộng Cảnh]
+Nhân vật Viện Trợ Mộng Cảnh kỳ này: Qiuyuan, Iuno, Cartethyia, Ciaccona, Jiyan, Jianxin, Yangyang, Aalto. Sử dụng ít nhất 1 nhân vật Viện Trợ Mộng Cảnh có thể nhận thêm 150% điểm số!
+Hiệu quả Viện Trợ Mộng Cảnh kỳ này:
+- Tăng 30% sát thương Khí Động cho toàn đội;
+- Khi gây sát thương Khí Động, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;
+- Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ vào trạng thái ""Mộng Sáng Suốt"". Trong trạng thái ""Mộng Sáng Suốt"", các Ẩn Dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% Bạo Kích, tăng 100% Hiệu Suất Cộng Hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Mộng Sáng Suốt"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Mộng Cảnh"" sẽ giảm về 0.
+
+[Khám Phá Cõi Mộng]
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Lối chơi này sẽ áp dụng kỹ năng Thanh Hài và thuộc tính mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, các Ẩn Dụ có biểu tượng ""Quyền Năng Mộng Cảnh"" sẽ nhận thêm hiệu quả cường hóa khi vào trạng thái ""Mộng Sáng Suốt"" nhờ Viện Trợ Mộng Cảnh kỳ này.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Tinh Thể Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, ""Tinh Thể Hồi Âm"" sẽ xuất hiện trong Khu Ký Ức, có thể tiêu hao Tấm Sóng Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng không cần tiêu hao Tấm Sóng Kết Tinh, số lần miễn phí này không được cộng dồn.
+
+[Độ Khó Khám Phá]
+Khi Cấp SOL3 tăng lên, sẽ tiến vào [Khám Phá Cõi Mộng] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Tinh Thể Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp SOL3 được tính dựa trên cấp hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần), việc tăng hoặc giảm Cấp SOL3 trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Cõi Mộng] kỳ đó."
+lang_multi_text.db,MultiText,HelpText_451_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_452_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护更新】
+本期梦境援护角色：千咲、弗洛洛、椿、洛可可、丹瑾、坎特蕾拉，使用至少1位梦境援护角色可获得150%积分加成！
+本期梦境援护效果：
+· 全队角色湮灭伤害加成提升30%；
+· 造成湮灭伤害时，获得30点「梦境能量」，每秒可触发一次；
+· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，拥有「梦境权能」标识的隐喻在本期梦境援护进入「明晰梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid Update]
+Current Dreamscape Aid Resonators: Chisa, Phrolova, Camellya, Roccia, Danjin, Cantarella. Use at least one Dreamscape Aid Resonator to gain a 150% Points Bonus!
+Current Dreamscape Aid Effects:
+- All Resonators in the team gain 30% Havoc DMG Bonus.
+- Dealing Havoc DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.
+- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators from the Resonator pool and embark on epic battles in the Illusive Realm.
+The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Metaphors marked with Dreamscape Power provide additional enhancements when Lucid Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày xưa lắng đọng nơi sâu thẳm của giấc mơ, và chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Cập nhật Viện Trợ Mộng Cảnh]
+Nhân vật Viện Trợ Mộng Cảnh kỳ này: Chisa, Phrolova, Camellya, Roccia, Danjin, Cantarella. Sử dụng ít nhất 1 nhân vật Viện Trợ Mộng Cảnh có thể nhận thêm 150% điểm số!
+Hiệu quả Viện Trợ Mộng Cảnh kỳ này:
+- Tăng 30% sát thương Hủy Diệt cho toàn đội;
+- Khi gây sát thương Hủy Diệt, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;
+- Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ vào trạng thái ""Mộng Sáng Suốt"". Trong trạng thái ""Mộng Sáng Suốt"", các Ẩn Dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% Bạo Kích, tăng 100% Hiệu Suất Cộng Hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Mộng Sáng Suốt"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Mộng Cảnh"" sẽ giảm về 0.
+
+[Khám Phá Cõi Mộng]
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Lối chơi này sẽ áp dụng kỹ năng Thanh Hài và thuộc tính mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, các Ẩn Dụ có biểu tượng ""Quyền Năng Mộng Cảnh"" sẽ nhận thêm hiệu quả cường hóa khi vào trạng thái ""Mộng Sáng Suốt"" nhờ Viện Trợ Mộng Cảnh kỳ này.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Tinh Thể Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, ""Tinh Thể Hồi Âm"" sẽ xuất hiện trong Khu Ký Ức, có thể tiêu hao Tấm Sóng Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng không cần tiêu hao Tấm Sóng Kết Tinh, số lần miễn phí này không được cộng dồn.
+
+[Độ Khó Khám Phá]
+Khi Cấp SOL3 tăng lên, sẽ tiến vào [Khám Phá Cõi Mộng] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Tinh Thể Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp SOL3 được tính dựa trên cấp hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần), việc tăng hoặc giảm Cấp SOL3 trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Cõi Mộng] kỳ đó."
+lang_multi_text.db,MultiText,HelpText_452_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_453_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护更新】
+本期梦境援护角色：莫宁、嘉贝莉娜、露帕、布兰特、长离、安可、炽霞、莫特斐，使用至少1位梦境援护角色可获得150%积分加成！
+本期梦境援护效果：
+· 全队角色热熔伤害加成提升30%；
+· 造成热熔伤害时，获得30点「梦境能量」，每秒可触发一次；
+· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，拥有「梦境权能」标识的隐喻在本期梦境援护进入「明晰梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid Update]
+Current Dreamscape Aid Resonators: Mornye, Galbrena, Lupa, Brant, Changli, Encore, Chixia, Mortefi. Use at least one Dreamscape Aid Resonator to gain a 150% Points Bonus!
+Current Dreamscape Aid Effects:
+- All Resonators in the team gain 30% Fusion DMG Bonus.
+- Dealing Fusion DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.
+- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators from the Resonator pool and embark on epic battles in the Illusive Realm.
+The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Metaphors marked with Dreamscape Power provide additional enhancements when Lucid Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày xưa lắng đọng nơi sâu thẳm của giấc mơ, và chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Cập nhật Viện Trợ Mộng Cảnh]
+Nhân vật Viện Trợ Mộng Cảnh kỳ này: Mornye, Galbrena, Lupa, Brant, Changli, Encore, Chixia, Mortefi. Sử dụng ít nhất 1 nhân vật Viện Trợ Mộng Cảnh có thể nhận thêm 150% điểm số!
+Hiệu quả Viện Trợ Mộng Cảnh kỳ này:
+- Tăng 30% sát thương Hỏa Liệt cho toàn đội;
+- Khi gây sát thương Hỏa Liệt, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;
+- Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ vào trạng thái ""Mộng Sáng Suốt"". Trong trạng thái ""Mộng Sáng Suốt"", các Ẩn Dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% Bạo Kích, tăng 100% Hiệu Suất Cộng Hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Mộng Sáng Suốt"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Mộng Cảnh"" sẽ giảm về 0.
+
+[Khám Phá Cõi Mộng]
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Lối chơi này sẽ áp dụng kỹ năng Thanh Hài và thuộc tính mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, các Ẩn Dụ có biểu tượng ""Quyền Năng Mộng Cảnh"" sẽ nhận thêm hiệu quả cường hóa khi vào trạng thái ""Mộng Sáng Suốt"" nhờ Viện Trợ Mộng Cảnh kỳ này.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Tinh Thể Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, ""Tinh Thể Hồi Âm"" sẽ xuất hiện trong Khu Ký Ức, có thể tiêu hao Tấm Sóng Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng không cần tiêu hao Tấm Sóng Kết Tinh, số lần miễn phí này không được cộng dồn.
+
+[Độ Khó Khám Phá]
+Khi Cấp SOL3 tăng lên, sẽ tiến vào [Khám Phá Cõi Mộng] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Tinh Thể Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp SOL3 được tính dựa trên cấp hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần), việc tăng hoặc giảm Cấp SOL3 trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Cõi Mộng] kỳ đó."
+lang_multi_text.db,MultiText,HelpText_453_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_454_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护更新】
+本期梦境援护角色：奥古斯塔、相里要、吟霖、卡卡罗、渊武、卜灵，使用至少1位梦境援护角色可获得150%积分加成！
+本期梦境援护效果：
+· 全队角色导电伤害加成提升30%；
+· 造成导电伤害时，获得30点「梦境能量」，每秒可触发一次；
+· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，拥有「梦境权能」标识的隐喻在本期梦境援护进入「明晰梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid Update]  Current Dreamscape Aid Resonators: Augusta, Xiangli Yao, Yinlin, Calcharo, Yuanwu, Buling. Use at least one Dreamscape Aid Resonator to gain a 150% Points Bonus!
+Current Dreamscape Aid Effects:
+- All Resonators in the team gain 30% Electro DMG Bonus.
+- Dealing Electro DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.
+- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators from the Resonator pool and embark on epic battles in the Illusive Realm.
+The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Metaphors marked with Dreamscape Power provide additional enhancements when Lucid Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày xưa lắng đọng nơi sâu thẳm của giấc mơ, và chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Cập nhật Viện Trợ Mộng Cảnh]
+Nhân vật Viện Trợ Mộng Cảnh kỳ này: Augusta, Xiangli Yao, Yinlin, Calcharo, Yuanwu, Buling. Sử dụng ít nhất 1 nhân vật Viện Trợ Mộng Cảnh có thể nhận thêm 150% điểm số!
+Hiệu quả Viện Trợ Mộng Cảnh kỳ này:
+- Tăng 30% sát thương Điện Từ cho toàn đội;
+- Khi gây sát thương Điện Từ, nhận 30 điểm ""Năng Lượng Mộng Cảnh"", mỗi giây kích hoạt một lần;
+- Khi ""Năng Lượng Mộng Cảnh"" đạt 500 điểm sẽ vào trạng thái ""Mộng Sáng Suốt"". Trong trạng thái ""Mộng Sáng Suốt"", các Ẩn Dụ nhất định sẽ được cường hóa, đồng thời toàn đội tăng 50% Bạo Kích, tăng 100% Hiệu Suất Cộng Hưởng, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Mộng Sáng Suốt"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Mộng Cảnh"" sẽ giảm về 0.
+
+[Khám Phá Cõi Mộng]
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Lối chơi này sẽ áp dụng kỹ năng Thanh Hài và thuộc tính mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, các Ẩn Dụ có biểu tượng ""Quyền Năng Mộng Cảnh"" sẽ nhận thêm hiệu quả cường hóa khi vào trạng thái ""Mộng Sáng Suốt"" nhờ Viện Trợ Mộng Cảnh kỳ này.
+Trong quá trình chiến đấu tại ""Cõi Mộng Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Tinh Thể Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, ""Tinh Thể Hồi Âm"" sẽ xuất hiện trong Khu Ký Ức, có thể tiêu hao Tấm Sóng Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng không cần tiêu hao Tấm Sóng Kết Tinh, số lần miễn phí này không được cộng dồn.
+
+[Độ Khó Khám Phá]
+Khi Cấp SOL3 tăng lên, sẽ tiến vào [Khám Phá Cõi Mộng] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Tinh Thể Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp SOL3 được tính dựa trên cấp hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần), việc tăng hoặc giảm Cấp SOL3 trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Cõi Mộng] kỳ đó."
+lang_multi_text.db,MultiText,HelpText_454_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_455_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护更新】
+本期梦境援护角色：珂莱塔、折枝、凌阳、散华、釉瑚、白芷，使用至少1位梦境援护角色可获得150%积分加成！
+本期梦境援护效果：
+· 全队角色冷凝伤害加成提升30%；
+· 造成冷凝伤害时，获得30点「梦境能量」，每秒可触发一次；
+· 「梦境能量」达到500点后进入「明晰梦」状态，「明晰梦」状态下，特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、共鸣技能和共鸣解放冷却时间减少50%，「明晰梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，拥有「梦境权能」标识的隐喻在本期梦境援护进入「明晰梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid Update]
+Current Dreamscape Aid Resonators: Carlotta, Zhezhi, Lingyang, Sanhua, Youhu, Baizhi. Use at least one Dreamscape Aid Resonator to gain a 150% Points Bonus!
+Current Dreamscape Aid Effects:
+- All Resonators in the team gain 30% Glacio DMG Bonus.
+- Dealing Glacio DMG grants 30 Dreamscape Energy. This effect can be triggered once every second.
+- Enter Lucid Dream when Dreamscape Energy reaches 500. In this mode, certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively, and the cooldown of their Resonance Skill and Resonance Liberation is reduced by 50%. Lucid Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators from the Resonator pool and embark on epic battles in the Illusive Realm.
+The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Metaphors marked with Dreamscape Power provide additional enhancements when Lucid Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày cũ lắng đọng nơi sâu thẳm giấc mơ, còn chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Cập nhật Viện Trợ Giấc Mơ]
+Nhân vật Viện Trợ Giấc Mơ kỳ này: Carlotta, Zhezhi, Lingyang, Sanhua, Youhu, Baizhi. Sử dụng ít nhất 1 nhân vật Viện Trợ Giấc Mơ để nhận thêm 150% điểm!
+Hiệu quả Viện Trợ Giấc Mơ kỳ này:
+. Tăng 30% sát thương Ngưng Băng cho toàn đội;
+. Khi gây sát thương Ngưng Băng, nhận 30 điểm ""Năng Lượng Giấc Mơ"", kích hoạt 1 lần mỗi giây;
+. Khi ""Năng Lượng Giấc Mơ"" đạt 500 điểm sẽ vào trạng thái ""Mơ Tỉnh"", trong trạng thái ""Mơ Tỉnh"", các Ẩn Dụ đặc biệt sẽ được cường hóa, đồng thời tăng 50% Tỷ Lệ Bạo Kích, tăng 100% Hiệu Quả Nạp Năng Lượng cho toàn đội, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng. Trạng thái ""Mơ Tỉnh"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Giấc Mơ"" sẽ giảm về 0.
+
+[Khám Phá Kỳ Cảnh]
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Chế độ chơi này sẽ áp dụng Kỹ Năng Thanh Hài và chỉ số mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, các Ẩn Dụ có biểu tượng ""Quyền Năng Giấc Mơ"" sẽ nhận thêm hiệu quả cường hóa sau khi vào trạng thái ""Mơ Tỉnh"" nhờ Viện Trợ Giấc Mơ kỳ này.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Kết Tinh Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, trong Khu Vực Ký Ức sẽ xuất hiện ""Kết Tinh Hồi Âm"", có thể tiêu hao Nhựa Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng mà không cần tiêu hao Nhựa Kết Tinh, số lần miễn phí này sẽ không được tích lũy.
+
+[Độ Khó Khám Phá]
+Khi Cấp Thế Giới Solaris tăng lên, sẽ bước vào [Khám Phá Kỳ Cảnh] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Kết Tinh Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp Thế Giới Solaris được tính dựa trên cấp độ hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần). Việc tăng hoặc giảm Cấp Thế Giới Solaris trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Kỳ Cảnh] trong kỳ đó."
+lang_multi_text.db,MultiText,HelpText_455_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_456_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护】
+「梦境能量」达到500点后可主动进入「解梦」状态，「解梦」状态下，「徽记」及特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、施放共鸣技能或共鸣解放后，该技能的冷却时间减少50%，每4秒可触发一次，「解梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，「徽记」及特定隐喻会在本期梦境援护进入「解梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid]
+Manually trigger the Divined Dream state when Dreamscape Energy reaches 500 points. In this state, Sigils and certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively. The cooldown after casting Resonance Skill or Resonance Liberation is reduced by 50%, triggered once every 4s. Divined Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators and embark on epic battles in the Illusive Realm.
+- The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Sigils and certain Metaphors provide additional enhancements when Divined Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày cũ lắng đọng nơi sâu thẳm giấc mơ, còn chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Viện Trợ Giấc Mơ]
+Khi ""Năng Lượng Giấc Mơ"" đạt 500 điểm có thể chủ động vào trạng thái ""Giải Mộng"". Trong trạng thái ""Giải Mộng"", ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ được cường hóa, đồng thời tăng 50% Tỷ Lệ Bạo Kích, tăng 100% Hiệu Quả Nạp Năng Lượng cho toàn đội. Sau khi thi triển Kỹ Năng Cộng Hưởng hoặc Giải Phóng Cộng Hưởng, thời gian hồi chiêu của kỹ năng đó giảm 50%, kích hoạt 1 lần mỗi 4 giây. Trạng thái ""Giải Mộng"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Giấc Mơ"" sẽ giảm về 0.
+
+[Khám Phá Kỳ Cảnh]
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Chế độ chơi này sẽ áp dụng Kỹ Năng Thanh Hài và chỉ số mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ nhận thêm hiệu quả cường hóa sau khi vào trạng thái ""Giải Mộng"" nhờ Viện Trợ Giấc Mơ kỳ này.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Kết Tinh Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, trong Khu Vực Ký Ức sẽ xuất hiện ""Kết Tinh Hồi Âm"", có thể tiêu hao Nhựa Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng mà không cần tiêu hao Nhựa Kết Tinh, số lần miễn phí này sẽ không được tích lũy.
+
+[Độ Khó Khám Phá]
+Khi Cấp Thế Giới Solaris tăng lên, sẽ bước vào [Khám Phá Kỳ Cảnh] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Kết Tinh Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp Thế Giới Solaris được tính dựa trên cấp độ hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần). Việc tăng hoặc giảm Cấp Thế Giới Solaris trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Kỳ Cảnh] trong kỳ đó."
+lang_multi_text.db,MultiText,HelpText_456_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_457_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护】
+「梦境能量」达到500点后可主动进入「解梦」状态，「解梦」状态下，「徽记」及特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、施放共鸣技能或共鸣解放后，该技能的冷却时间减少50%，每4秒可触发一次，「解梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，「徽记」及特定隐喻会在本期梦境援护进入「解梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid]
+Manually trigger the Divined Dream state when Dreamscape Energy reaches 500 points. In this state, Sigils and certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively. The cooldown after casting Resonance Skill or Resonance Liberation is reduced by 50%, triggered once every 4s. Divined Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators and embark on epic battles in the Illusive Realm.
+- The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Sigils and certain Metaphors provide additional enhancements when Divined Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày cũ lắng đọng nơi sâu thẳm giấc mơ, còn chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Viện Trợ Giấc Mơ]
+Khi ""Năng Lượng Giấc Mơ"" đạt 500 điểm có thể chủ động vào trạng thái ""Giải Mộng"". Trong trạng thái ""Giải Mộng"", ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ được cường hóa, đồng thời tăng 50% Tỷ Lệ Bạo Kích, tăng 100% Hiệu Quả Nạp Năng Lượng cho toàn đội. Sau khi thi triển Kỹ Năng Cộng Hưởng hoặc Giải Phóng Cộng Hưởng, thời gian hồi chiêu của kỹ năng đó giảm 50%, kích hoạt 1 lần mỗi 4 giây. Trạng thái ""Giải Mộng"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Giấc Mơ"" sẽ giảm về 0.
+
+[Khám Phá Kỳ Cảnh]
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Chế độ chơi này sẽ áp dụng Kỹ Năng Thanh Hài và chỉ số mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ nhận thêm hiệu quả cường hóa sau khi vào trạng thái ""Giải Mộng"" nhờ Viện Trợ Giấc Mơ kỳ này.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Kết Tinh Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, trong Khu Vực Ký Ức sẽ xuất hiện ""Kết Tinh Hồi Âm"", có thể tiêu hao Nhựa Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng mà không cần tiêu hao Nhựa Kết Tinh, số lần miễn phí này sẽ không được tích lũy.
+
+[Độ Khó Khám Phá]
+Khi Cấp Thế Giới Solaris tăng lên, sẽ bước vào [Khám Phá Kỳ Cảnh] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Kết Tinh Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp Thế Giới Solaris được tính dựa trên cấp độ hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần). Việc tăng hoặc giảm Cấp Thế Giới Solaris trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Kỳ Cảnh] trong kỳ đó."
+lang_multi_text.db,MultiText,HelpText_457_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_458_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护】
+「梦境能量」达到500点后可主动进入「解梦」状态，「解梦」状态下，「徽记」及特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、施放共鸣技能或共鸣解放后，该技能的冷却时间减少50%，每4秒可触发一次，「解梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，「徽记」及特定隐喻会在本期梦境援护进入「解梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid]
+Manually trigger the Divined Dream state when Dreamscape Energy reaches 500 points. In this state, Sigils and certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively. The cooldown after casting Resonance Skill or Resonance Liberation is reduced by 50%, triggered once every 4s. Divined Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators and embark on epic battles in the Illusive Realm.
+- The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Sigils and certain Metaphors provide additional enhancements when Divined Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày cũ lắng đọng nơi sâu thẳm giấc mơ, còn chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Viện Trợ Giấc Mơ]
+Khi ""Năng Lượng Giấc Mơ"" đạt 500 điểm có thể chủ động vào trạng thái ""Giải Mộng"". Trong trạng thái ""Giải Mộng"", ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ được cường hóa, đồng thời tăng 50% Tỷ Lệ Bạo Kích, tăng 100% Hiệu Quả Nạp Năng Lượng cho toàn đội. Sau khi thi triển Kỹ Năng Cộng Hưởng hoặc Giải Phóng Cộng Hưởng, thời gian hồi chiêu của kỹ năng đó giảm 50%, kích hoạt 1 lần mỗi 4 giây. Trạng thái ""Giải Mộng"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Giấc Mơ"" sẽ giảm về 0.
+
+[Khám Phá Kỳ Cảnh]
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Chế độ chơi này sẽ áp dụng Kỹ Năng Thanh Hài và chỉ số mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ nhận thêm hiệu quả cường hóa sau khi vào trạng thái ""Giải Mộng"" nhờ Viện Trợ Giấc Mơ kỳ này.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Kết Tinh Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, trong Khu Vực Ký Ức sẽ xuất hiện ""Kết Tinh Hồi Âm"", có thể tiêu hao Nhựa Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng mà không cần tiêu hao Nhựa Kết Tinh, số lần miễn phí này sẽ không được tích lũy.
+
+[Độ Khó Khám Phá]
+Khi Cấp Thế Giới Solaris tăng lên, sẽ bước vào [Khám Phá Kỳ Cảnh] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Kết Tinh Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp Thế Giới Solaris được tính dựa trên cấp độ hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần). Việc tăng hoặc giảm Cấp Thế Giới Solaris trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Kỳ Cảnh] trong kỳ đó."
+lang_multi_text.db,MultiText,HelpText_458_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_459_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护】
+「梦境能量」达到500点后可主动进入「解梦」状态，「解梦」状态下，「徽记」及特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、施放共鸣技能或共鸣解放后，该技能的冷却时间减少50%，每4秒可触发一次，「解梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，「徽记」及特定隐喻会在本期梦境援护进入「解梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid]
+Manually trigger the Divined Dream state when Dreamscape Energy reaches 500 points. In this state, Sigils and certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively. The cooldown after casting Resonance Skill or Resonance Liberation is reduced by 50%, triggered once every 4s. Divined Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators and embark on epic battles in the Illusive Realm.
+- The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Sigils and certain Metaphors provide additional enhancements when Divined Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày cũ lắng đọng nơi sâu thẳm giấc mơ, còn chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Viện Trợ Giấc Mơ]
+Khi ""Năng Lượng Giấc Mơ"" đạt 500 điểm có thể chủ động vào trạng thái ""Giải Mộng"". Trong trạng thái ""Giải Mộng"", ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ được cường hóa, đồng thời tăng 50% Tỷ Lệ Bạo Kích, tăng 100% Hiệu Quả Nạp Năng Lượng cho toàn đội. Sau khi thi triển Kỹ Năng Cộng Hưởng hoặc Giải Phóng Cộng Hưởng, thời gian hồi chiêu của kỹ năng đó giảm 50%, kích hoạt 1 lần mỗi 4 giây. Trạng thái ""Giải Mộng"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Giấc Mơ"" sẽ giảm về 0.
+
+[Khám Phá Kỳ Cảnh]
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Chế độ chơi này sẽ áp dụng Kỹ Năng Thanh Hài và chỉ số mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ nhận thêm hiệu quả cường hóa sau khi vào trạng thái ""Giải Mộng"" nhờ Viện Trợ Giấc Mơ kỳ này.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Kết Tinh Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, trong Khu Vực Ký Ức sẽ xuất hiện ""Kết Tinh Hồi Âm"", có thể tiêu hao Nhựa Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng mà không cần tiêu hao Nhựa Kết Tinh, số lần miễn phí này sẽ không được tích lũy.
+
+[Độ Khó Khám Phá]
+Khi Cấp Thế Giới Solaris tăng lên, sẽ bước vào [Khám Phá Kỳ Cảnh] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Kết Tinh Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp Thế Giới Solaris được tính dựa trên cấp độ hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần). Việc tăng hoặc giảm Cấp Thế Giới Solaris trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Kỳ Cảnh] trong kỳ đó."
+lang_multi_text.db,MultiText,HelpText_459_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_45_Content,存在异常，如有疑问请联系官方客服,Somnoire Collection System,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức"
+lang_multi_text.db,MultiText,HelpText_45_Title,存在异常，如有疑问请联系官方客服,Somnoire Collection System,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức"
+lang_multi_text.db,MultiText,HelpText_460_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护】
+「梦境能量」达到500点后可主动进入「解梦」状态，「解梦」状态下，「徽记」及特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、施放共鸣技能或共鸣解放后，该技能的冷却时间减少50%，每4秒可触发一次，「解梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，「徽记」及特定隐喻会在本期梦境援护进入「解梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid]
+Manually trigger the Divined Dream state when Dreamscape Energy reaches 500 points. In this state, Sigils and certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively. The cooldown after casting Resonance Skill or Resonance Liberation is reduced by 50%, triggered once every 4s. Divined Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators and embark on epic battles in the Illusive Realm.
+- The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Sigils and certain Metaphors provide additional enhancements when Divined Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày cũ lắng đọng nơi sâu thẳm giấc mơ, còn chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Viện Trợ Giấc Mơ]
+Khi ""Năng Lượng Giấc Mơ"" đạt 500 điểm có thể chủ động vào trạng thái ""Giải Mộng"". Trong trạng thái ""Giải Mộng"", ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ được cường hóa, đồng thời tăng 50% Tỷ Lệ Bạo Kích, tăng 100% Hiệu Quả Nạp Năng Lượng cho toàn đội. Sau khi thi triển Kỹ Năng Cộng Hưởng hoặc Giải Phóng Cộng Hưởng, thời gian hồi chiêu của kỹ năng đó giảm 50%, kích hoạt 1 lần mỗi 4 giây. Trạng thái ""Giải Mộng"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Giấc Mơ"" sẽ giảm về 0.
+
+[Khám Phá Kỳ Cảnh]
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Chế độ chơi này sẽ áp dụng Kỹ Năng Thanh Hài và chỉ số mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ nhận thêm hiệu quả cường hóa sau khi vào trạng thái ""Giải Mộng"" nhờ Viện Trợ Giấc Mơ kỳ này.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Kết Tinh Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, trong Khu Vực Ký Ức sẽ xuất hiện ""Kết Tinh Hồi Âm"", có thể tiêu hao Nhựa Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng mà không cần tiêu hao Nhựa Kết Tinh, số lần miễn phí này sẽ không được tích lũy.
+
+[Độ Khó Khám Phá]
+Khi Cấp Thế Giới Solaris tăng lên, sẽ bước vào [Khám Phá Kỳ Cảnh] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Kết Tinh Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp Thế Giới Solaris được tính dựa trên cấp độ hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần). Việc tăng hoặc giảm Cấp Thế Giới Solaris trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Kỳ Cảnh] trong kỳ đó."
+lang_multi_text.db,MultiText,HelpText_460_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_461_Content,"往日的记忆沉淀于梦的深处，而探索的钥匙就在你的手中。请不要忘记，在梦中，也只有梦会告诉我们答案。
+
+【梦境援护】
+「梦境能量」达到500点后可主动进入「解梦」状态，「解梦」状态下，「徽记」及特定隐喻会获得强化，且全队角色暴击提升50%、共鸣效率提升100%、施放共鸣技能或共鸣解放后，该技能的冷却时间减少50%，每4秒可触发一次，「解梦」状态持续10秒，持续时间结束后「梦境能量」降至0点。
+
+【奇境探索】
+在「异想奇境」的战斗过程中，每次可选择三名共鸣者参与探索。
+该玩法会应用共鸣者拥有的声骸技能及属性，并且会继承共鸣者等级、共鸣链及武器。
+在「异想奇境」的战斗过程中，可以获得来自「隐喻」带来的强力增幅，其中，「徽记」及特定隐喻会在本期梦境援护进入「解梦」状态后获得额外强化效果。
+在「异想奇境」的战斗过程中，每次将遭遇不同的敌人组合与挑战。
+挑战完成后将获得「异想积分」，达到不同的「异想积分」要求可领取丰富的奖励。
+
+【回音结晶】
+击败强力的敌人后，记忆区内将出现「回音结晶」，可以消耗结晶波片领取奖励。
+每周，有两次无需消耗结晶波片即可领取奖励的机会，此免费次数不会累计。
+
+【探索难度】
+随着索拉等级的提升，将进入更高难度的【奇境探索】中，并获得更丰富的「回音结晶」奖励以及「异想积分」奖励。索拉等级以周期刷新时（每周一凌晨4时）的当前索拉等级为准，周期内提升或降低索拉等级不会改变当期【奇境探索】难度和奖励。","Past memories lie buried deep within dreams, and the key to exploration is in your hands. Please do not forget, only within dreams will the answers be revealed.
+
+[Dreamscape Aid]
+Manually trigger the Divined Dream state when Dreamscape Energy reaches 500 points. In this state, Sigils and certain Metaphors will be enhanced, Crit. Rate and Energy Regen of all Resonators in the team are increased by 50% and 100% respectively. The cooldown after casting Resonance Skill or Resonance Liberation is reduced by 50%, triggered once every 4s. Divined Dream lasts for 10s and depletes all Dreamscape Energy when it ends.
+
+[Exploration]
+- Choose three Resonators and embark on epic battles in the Illusive Realm.
+- The Echo Skills, Stats, Levels, Resonance Chains, and Weapons of Resonators can be carried over in the event.
+- In the Illusive Realm, you can gain powerful boosts from Metaphors. Sigils and certain Metaphors provide additional enhancements when Divined Dream is activated through Dreamscape Aid.
+- Each battle in the Illusive Realm brings you against different enemies. Complete these challenges to earn Illusive Points and reach milestones to claim bountiful rewards.
+
+[Remnant Crystal]
+A Remnant Crystal will appear in the Memory Zone after defeating the powerful enemies found in the deepest parts of the realm. Use Waveplates to collect its rewards.
+Each week, the first 2 reward collections from the Remnant Crystal are free and do not require Waveplates. Free reward collections do not carry over to the next week.
+
+[Difficulty]
+Higher SOL3 Phases offer more challenging Exploration in the Illusive Realm with more rewards from the Remnant Crystals and Illusive Points. The difficulty of the Illusive Realm is dependent on the SOL3 Phase you're in when the Illusive Realm resets (04:00 every Monday). Adjusting your SOL3 Phase during each exploration cycle does not affect the difficulty and rewards of the current cycle.","Ký ức ngày cũ lắng đọng nơi sâu thẳm giấc mơ, còn chìa khóa khám phá nằm ngay trong tay bạn. Xin đừng quên, trong giấc mơ, cũng chỉ có giấc mơ mới cho chúng ta câu trả lời.
+
+[Viện Trợ Giấc Mơ]
+Khi ""Năng Lượng Giấc Mơ"" đạt 500 điểm có thể chủ động vào trạng thái ""Giải Mộng"". Trong trạng thái ""Giải Mộng"", ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ được cường hóa, đồng thời tăng 50% Tỷ Lệ Bạo Kích, tăng 100% Hiệu Quả Nạp Năng Lượng cho toàn đội. Sau khi thi triển Kỹ Năng Cộng Hưởng hoặc Giải Phóng Cộng Hưởng, thời gian hồi chiêu của kỹ năng đó giảm 50%, kích hoạt 1 lần mỗi 4 giây. Trạng thái ""Giải Mộng"" kéo dài 10 giây, sau khi kết thúc ""Năng Lượng Giấc Mơ"" sẽ giảm về 0.
+
+[Khám Phá Kỳ Cảnh]
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần có thể chọn ba Cộng Hưởng Giả tham gia khám phá.
+Chế độ chơi này sẽ áp dụng Kỹ Năng Thanh Hài và chỉ số mà Cộng Hưởng Giả đang sở hữu, đồng thời kế thừa cấp độ, Chuỗi Cộng Hưởng và vũ khí của Cộng Hưởng Giả.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", có thể nhận được sự tăng cường mạnh mẽ từ ""Ẩn Dụ"". Trong đó, ""Huy Hiệu"" và các Ẩn Dụ đặc biệt sẽ nhận thêm hiệu quả cường hóa sau khi vào trạng thái ""Giải Mộng"" nhờ Viện Trợ Giấc Mơ kỳ này.
+Trong quá trình chiến đấu tại ""Kỳ Cảnh Hư Ảo"", mỗi lần sẽ gặp các tổ hợp kẻ địch và thử thách khác nhau.
+Sau khi hoàn thành thử thách sẽ nhận được ""Điểm Hư Ảo"", đạt các mốc ""Điểm Hư Ảo"" khác nhau có thể nhận phần thưởng phong phú.
+
+[Kết Tinh Hồi Âm]
+Sau khi đánh bại kẻ địch mạnh, trong Khu Vực Ký Ức sẽ xuất hiện ""Kết Tinh Hồi Âm"", có thể tiêu hao Nhựa Kết Tinh để nhận thưởng.
+Mỗi tuần có hai cơ hội nhận thưởng mà không cần tiêu hao Nhựa Kết Tinh, số lần miễn phí này sẽ không được tích lũy.
+
+[Độ Khó Khám Phá]
+Khi Cấp Thế Giới Solaris tăng lên, sẽ bước vào [Khám Phá Kỳ Cảnh] có độ khó cao hơn, đồng thời nhận được phần thưởng ""Kết Tinh Hồi Âm"" và ""Điểm Hư Ảo"" phong phú hơn. Cấp Thế Giới Solaris được tính dựa trên cấp độ hiện tại vào thời điểm làm mới chu kỳ (04:00 sáng thứ Hai hàng tuần). Việc tăng hoặc giảm Cấp Thế Giới Solaris trong chu kỳ sẽ không thay đổi độ khó và phần thưởng của [Khám Phá Kỳ Cảnh] trong kỳ đó."
+lang_multi_text.db,MultiText,HelpText_461_Title,千道门扉的异想说明,Fantasies of the Thousand Gateways,Giải thích Hư Ảo Ngàn Cánh Cửa
+lang_multi_text.db,MultiText,HelpText_462_Content,"1、每日生成固定数量的残象。
+2、清剿聚落时概率掉落残象对应的声骸。
+3、怪物聚落内的残象不会掉落任何材料奖励。","1. Tacet Discords spawn in fixed quantities each day.
+2. Clear the Nests to earn Echoes of the defeated Tacet Discords.
+3. Tacet Discords in the Nests do not drop any additional materials.","1. Mỗi ngày sản sinh một lượng Tàn Tượng cố định.
+2. Khi dọn dẹp tụ điểm, có xác suất rơi ra Thanh Hài tương ứng với Tàn Tượng.
+3. Tàn Tượng trong tụ điểm quái vật sẽ không rơi ra bất kỳ nguyên liệu thưởng nào."
+lang_multi_text.db,MultiText,HelpText_462_Title,残象聚落,Tacet Discord Nests,Tụ Điểm Tàn Tượng
+lang_multi_text.db,MultiText,HelpText_463_Content,"1、使用结晶波片可兑换对应无音区的通关奖励，包括套装声骸、养成材料等；
+2、需先解锁并完成目标无音区的挑战，并已领取过其原始奖励后，方可在此界面中自选领取同等奖励；
+3、每周，「千道门扉的异想」提供 2 次无消耗领取奖励的机会。无消耗次数随每周的玩法更新而刷新，未使用次数则不会累积。","1. Exchange Waveplates at the Remnant Crystal to claim the corresponding Tacet Field rewards, including Echoes and upgrade materials.
+2. You must clear the target Tacet Field challenge and claim its original reward before you can claim the same set of rewards again from this interface.
+3. Each week, Fantasies of the Thousand Gateways provides 2 attempts to freely claim the first 2 rewards from Remnant Crystal without Waveplates. Free reward collections do not carry over to the next week.","1. Sử dụng Nhựa Kết Tinh có thể đổi lấy phần thưởng vượt ải của Vùng Vô Thanh tương ứng, bao gồm bộ Thanh Hài, nguyên liệu bồi dưỡng, v.v.
+2. Cần phải mở khóa và hoàn thành thử thách Vùng Vô Thanh mục tiêu trước, đồng thời đã nhận phần thưởng gốc, sau đó mới có thể tự chọn nhận phần thưởng tương đương tại giao diện này.
+3. Mỗi tuần, ""Hư Ảo Ngàn Cánh Cửa"" cung cấp 2 cơ hội nhận thưởng không tiêu hao. Số lần không tiêu hao sẽ được làm mới theo cập nhật lối chơi hàng tuần, số lần chưa sử dụng sẽ không được tích lũy."
+lang_multi_text.db,MultiText,HelpText_463_Title,回音结晶奖励,Remnant Crystal Rewards,Thưởng Kết Tinh Hồi Âm
+lang_multi_text.db,MultiText,HelpText_464_Content,"【活动简介】
+为了帮助新生们安全地学习驾驶，生体机械隧群造物研究社研发了一台能模拟赛道并辅助驾驶的启发式科考摩托（简称汉密斯）。但或许是输入的数据出现了问题，获得了一定智能的它，拒绝被他人所驾驶。走投无路的研发者向你求助，发来了测试的请求。
+
+【参与条件】
+联觉等级达到14级。
+获取科考摩托后解锁。
+
+【游戏形式】
+活动开启后可选择共鸣者参与测试。共鸣者将与汉密斯一起使用全新武装完成赛道挑战。赛道路程中，共鸣者可以获得强化模块增强汉密斯各项属性或升级武装。完成所有比赛，即视为测试完成。
+活动结束后，若存在未领取的奖励，在活动结束后的30天内登录游戏，奖励将会通过邮件进行补发。","[About]
+To help Startorch freshmen learn to drive safely, the Biological Mechanical Exoswarm Materials Manufacturing and Research Club developed H.E.R.M.E.S., a motorbike simulator running on heuristic algorithms. But due to some issues with the model's training data, the system accidentally became sentient and refused to be driven. In their last-ditch effort, the developer reached out to you for help with the testing.
+
+[Eligibility]
+Reach Union Level 14 and obtain access to the expedition motorbike.
+
+[Event Rules]
+Select a Resonator to challenge the tracks with H.E.R.M.E.S. with an arsenal of new weapons. Use enhancement modules to boost the stats of H.E.R.M.E.S. and upgrade their weapons. Complete all tracks to finalize the testing.
+Any unclaimed rewards will be reissued via in-game Mail the next time you log in to the game within 30 days after the event ends.","[Giới thiệu sự kiện]
+Để giúp các tân sinh viên học lái xe an toàn, CLB Nghiên Cứu Chế Tạo Bầy Sinh Cơ đã phát triển một chiếc xe máy khảo sát khoa học kiểu gợi mở (gọi tắt là H.E.R.M.E.S) có khả năng mô phỏng đường đua và hỗ trợ lái xe. Nhưng có lẽ do dữ liệu đầu vào gặp vấn đề, chiếc xe có được trí thông minh nhất định này lại từ chối để người khác lái. Nhà phát triển trong lúc bế tắc đã cầu cứu bạn và gửi đến yêu cầu thử nghiệm.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt cấp 14.
+Mở khóa sau khi nhận được xe máy khảo sát.
+
+[Hình thức trò chơi]
+Sau khi mở sự kiện, có thể chọn Cộng Hưởng Giả tham gia thử nghiệm. Cộng Hưởng Giả sẽ cùng H.E.R.M.E.S sử dụng vũ trang mới để hoàn thành thử thách đường đua. Trên đường đua, Cộng Hưởng Giả có thể nhận được mô-đun cường hóa để tăng cường các chỉ số cho H.E.R.M.E.S hoặc nâng cấp vũ trang. Hoàn thành tất cả các cuộc đua được coi là hoàn thành thử nghiệm.
+Sau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, hãy đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc, phần thưởng sẽ được gửi bù qua thư."
+lang_multi_text.db,MultiText,HelpText_464_Title,奔驰！箭速与激情！活动说明,Full Throttle! Bolt & Blitz!,Phi Nhanh! Tốc Độ Và Đam Mê! Giải thích sự kiện

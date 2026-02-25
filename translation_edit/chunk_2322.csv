@@ -1,208 +1,14 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_skill.db,Skill,217,test/固有技能2,,test/Kỹ Năng Nội Tại 2
-lang_skill.db,Skill,218,test/<color=#ffffff>卡卡罗根据消耗的特殊能量会增加下一次蓄力和共鸣解放终结技伤害，每消耗1点特殊能量会使下一次的蓄力和共鸣解放终结技伤害提升8%。</color>,,"test/<color=#ffffff>Dựa trên năng lượng đặc biệt đã tiêu hao, Kakaro tăng sát thương cho lần tích lực và chiêu kết thúc Giải Phóng Cộng Hưởng tiếp theo. Mỗi điểm năng lượng đặc biệt tiêu hao sẽ tăng 8% sát thương cho lần tích lực và chiêu kết thúc Giải Phóng Cộng Hưởng tiếp theo.</color>"
-lang_skill.db,Skill,219,test/连携技能,,test/Kỹ Năng Liên Kết
-lang_skill.db,Skill,220,"test/<color=#ffffff>卡卡罗出场和影子一起造成雷属性伤害，并获得一次目押机会，目押成功后卡卡罗会和影子追加一次攻击，此次攻击伤害更高并造成雷属性伤害。</color>
-
-<color=#ffffff>卡卡罗连携技能与连携技能的目押命中敌人都会给自己各增加1点特殊能量。",,"test/<color=#ffffff>Kakaro xuất trận cùng bóng ảnh gây sát thương thuộc tính Sấm, đồng thời nhận một cơ hội nhấn đúng nhịp. Nếu thành công, Kakaro và bóng ảnh sẽ bổ sung thêm một đòn tấn công, đòn này có sát thương cao hơn và gây sát thương thuộc tính Sấm.</color>
-
-<color=#ffffff>Kỹ Năng Liên Kết của Kakaro và đòn nhấn đúng nhịp của Kỹ Năng Liên Kết trúng kẻ địch đều tăng thêm 1 điểm năng lượng đặc biệt cho bản thân."
-lang_skill.db,Skill,221,test/异能力,,test/Dị Năng
-lang_skill.db,Skill,222,"test/<color=#ffffff>卡卡罗施放共鸣技能后，自身攻击力获得提升持续5秒，最多1层。（随异能力等级提升）</color>
-
-<color=#ffffff>卡卡罗的特殊能量获取方式：</color>
-<color=#ffffff>1.获取：普攻第3段最后一击命中、普攻第4段最后一击命中、连携技能命中、连携技能的目押命中、施放共鸣技能、施放共鸣技能派生</color>
-
-<color=#ffffff>2.消耗：蓄力（最多3点），终结技（消耗当前已有的全部）</color>
-
-<color=#ffffff>3.每消耗1点特殊能量带来的增益：</color>
-<color=#ffffff>a.卡卡罗获得5点协奏能量;</color>
-<color=#ffffff>b.卡卡罗的下一次的蓄力和共鸣技能终结技伤害提升8%(解锁固有技能2后获得）</color>
-
-<color=#ffffff>4.特殊能量上限5点",,"test/<color=#ffffff>Sau khi Kakaro thi triển Kỹ Năng Cộng Hưởng, tấn công bản thân được tăng trong 5 giây, tối đa 1 tầng. (Tăng theo cấp Dị Năng)</color>
-
-<color=#ffffff>Cách nhận năng lượng đặc biệt của Kakaro:</color>
-<color=#ffffff>1. Nhận: Đòn cuối Đánh Thường đoạn 3 trúng, đòn cuối Đánh Thường đoạn 4 trúng, Kỹ Năng Liên Kết trúng, nhấn đúng nhịp Kỹ Năng Liên Kết trúng, thi triển Kỹ Năng Cộng Hưởng, thi triển kỹ năng phái sinh Cộng Hưởng.</color>
-
-<color=#ffffff>2. Tiêu hao: Tích lực (tối đa 3 điểm), chiêu kết thúc (tiêu hao toàn bộ hiện có).</color>
-
-<color=#ffffff>3. Tăng cường mỗi khi tiêu hao 1 điểm năng lượng đặc biệt:</color>
-<color=#ffffff>a. Kakaro nhận 5 điểm năng lượng Hiệp Tấu;</color>
-<color=#ffffff>b. Sát thương tích lực và chiêu kết thúc Kỹ Năng Cộng Hưởng tiếp theo của Kakaro tăng 8% (nhận sau khi mở khóa Kỹ Năng Nội Tại 2).</color>
-
-<color=#ffffff>4. Giới hạn năng lượng đặc biệt: 5 điểm."
-lang_skill.db,Skill,223,巧手烹调,,Khéo Tay Nấu Nướng
-lang_skill.db,Skill,224,test/<color=#ffffff>生活技能</color>,,test/<color=#ffffff>Kỹ năng sinh hoạt</color>
-lang_skill.db,Skill,225,悬丝寻迹,,Treo Chỉ Tìm Dấu
-lang_skill.db,Skill,226,"<color=#ffffff><color=#d4bf5f>普攻</color>
-操纵小家伙进行最多4段连续攻击，造成<color=#9656d8ff>导电伤害</color>。第4段命中目标时，为1个目标附加【罚印】。
-
-<color=#d4bf5f>重击</color>
-消耗一定耐力，操纵小家伙进行攻击，造成<color=#9656d8ff>导电伤害</color>，命中携带【罚印】的目标时，回收【罚印】。
-回收【罚印】时，额外造成<color=#9656d8ff>导电伤害</color>，此次伤害为普攻伤害。
-
-<color=#d4bf5f>空中攻击</color>
-消耗一定耐力，唤回小家伙并撞向地面，造成<color=#9656d8ff>导电伤害</color>。
-
-<color=#d4bf5f>闪避反击</color>
-成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会攻击目标，造成<color=#9656d8ff>导电伤害</color>，并为1个目标附加【罚印】。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
-Điều khiển Nhóc Nhỏ thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=#9656d8ff>sát thương Điện Từ</color>. Khi đòn thứ 4 trúng mục tiêu, gắn [Phạt Ấn] lên 1 mục tiêu.
-
-<color=#d4bf5f>Đánh Mạnh</color>
-Tiêu hao một lượng thể lực nhất định, điều khiển Nhóc Nhỏ tấn công, gây <color=#9656d8ff>sát thương Điện Từ</color>. Khi trúng mục tiêu mang [Phạt Ấn], thu hồi [Phạt Ấn].
-Khi thu hồi [Phạt Ấn], gây thêm <color=#9656d8ff>sát thương Điện Từ</color>, sát thương này tính là sát thương Đánh Thường.
-
-<color=#d4bf5f>Tấn Công Trên Không</color>
-Tiêu hao một lượng thể lực nhất định, gọi Nhóc Nhỏ về và lao xuống mặt đất, gây <color=#9656d8ff>sát thương Điện Từ</color>.
-
-<color=#d4bf5f>Né Phản Công</color>
-Sau khi <color=#f4d582>Né Tránh</color> thành công, sử dụng <color=#f4d582>Đánh Thường</color> trong khoảng thời gian nhất định sẽ tấn công mục tiêu, gây <color=#9656d8ff>sát thương Điện Từ</color>, đồng thời gắn [Phạt Ấn] lên 1 mục tiêu.</color>"
-lang_skill.db,Skill,227,掌中之物,,Vật Trong Tay
-lang_skill.db,Skill,228,<color=#ffffff>操纵小家伙攻击敌人，造成<color=#9656d8ff>导电伤害</color>，命中目标时，为自身恢复1个【罚印】同时对其附加1个【罚印】，最多为2个目标附加【罚印】。</color>,,"<color=#ffffff>Điều khiển Nhóc Nhỏ tấn công kẻ địch, gây <color=#9656d8ff>sát thương Điện Từ</color>. Khi trúng mục tiêu, hồi phục 1 [Phạt Ấn] cho bản thân đồng thời gắn 1 [Phạt Ấn] lên mục tiêu, tối đa gắn [Phạt Ấn] cho 2 mục tiêu.</color>"
-lang_skill.db,Skill,229,哀求于我,,Cầu Xin Ta Đi
-lang_skill.db,Skill,230,"<color=#ffffff>施放审判银丝攻击敌人，造成<color=#9656d8ff>导电伤害</color>。
-
-在哀求于我持续期间，小家伙攻击目标时，审判银丝会协同攻击，造成<color=#9656d8ff>导电伤害</color>。</color>",,"<color=#ffffff>Thi triển Tơ Bạc Phán Xét tấn công kẻ địch, gây <color=#9656d8ff>sát thương Điện Từ</color>.
-
-Trong thời gian Cầu Xin Ta Đi duy trì, khi Nhóc Nhỏ tấn công mục tiêu, Tơ Bạc Phán Xét sẽ phối hợp tấn công, gây <color=#9656d8ff>sát thương Điện Từ</color>.</color>"
-lang_skill.db,Skill,231,浸渍痛楚,,Nỗi Đau Thấm Đẫm
-lang_skill.db,Skill,232,<color=#ffffff>【罚印】附着的持续时间延长至300秒。</color>,,<color=#ffffff>Thời gian duy trì [Phạt Ấn] được kéo dài lên 300 giây.</color>
-lang_skill.db,Skill,233,潜在目标,,Mục Tiêu Tiềm Ẩn
-lang_skill.db,Skill,234,<color=#ffffff>吟霖未登场时，其导电伤害加成每秒提升3%，最多可叠加6层，效果持续4秒。</color>,,"<color=#ffffff>Khi Ngâm Lâm chưa ra trận, bonus sát thương Điện Từ của cô tăng 3% mỗi giây, cộng dồn tối đa 6 tầng, hiệu ứng kéo dài 4 giây.</color>"
-lang_skill.db,Skill,235,指尖悲叹,,Tiếng Than Đầu Ngón Tay
-lang_skill.db,Skill,236,"<color=#ffffff>吟霖操纵小家伙攻击目标，造成<color=#9656d8ff>导电伤害</color>，并为自身恢复2个【罚印】，命中携带【罚印】的目标时，回收【罚印】。
-回收【罚印】时，额外造成<color=#9656d8ff>导电伤害</color>，此次伤害为普攻伤害。</color>",,"<color=#ffffff>Ngâm Lâm điều khiển Nhóc Nhỏ tấn công mục tiêu, gây <color=#9656d8ff>sát thương Điện Từ</color>, đồng thời hồi phục 2 [Phạt Ấn] cho bản thân. Khi trúng mục tiêu mang [Phạt Ấn], thu hồi [Phạt Ấn].
-Khi thu hồi [Phạt Ấn], gây thêm <color=#9656d8ff>sát thương Điện Từ</color>, sát thương này tính là sát thương Đánh Thường.</color>"
-lang_skill.db,Skill,237,审判室哀鸣,,Tiếng Khóc Phòng Phán Xét
-lang_skill.db,Skill,238,"<color=#ffffff>吟霖离场时，消耗所有【罚印】，每消耗1点【罚印】，小家伙会额外进行1段攻击，造成<color=#9656d8ff>导电伤害</color>，此次伤害为共鸣技能伤害。
-
-<color=#d4bf5f>罚印的附加规则</color>
-<color=#f4d582>普攻第4段</color>命中目标时，为1个目标附加1层【罚印】。
-<color=#f4d582>共鸣技能·掌中之物</color>命中目标时，至多为2个目标分别附加1层【罚印】。
-单个目标最多可以叠加2层【罚印】。
-
-<color=#d4bf5f>【罚印】的回收规则</color>
-<color=#f4d582>重击</color>命中目标时，回收【罚印】。
-<color=#f4d582>连携技能·指尖悲叹</color>命中目标时，回收【罚印】。</color>",,"<color=#ffffff>Khi Ngâm Lâm rời trận, tiêu hao toàn bộ [Phạt Ấn]. Mỗi 1 điểm [Phạt Ấn] tiêu hao, Nhóc Nhỏ sẽ thực hiện thêm 1 đòn tấn công, gây <color=#9656d8ff>sát thương Điện Từ</color>, sát thương này tính là sát thương Kỹ Năng Cộng Hưởng.
-
-<color=#d4bf5f>Quy tắc gắn Phạt Ấn</color>
-Khi <color=#f4d582>Đánh Thường đòn thứ 4</color> trúng mục tiêu, gắn 1 tầng [Phạt Ấn] lên 1 mục tiêu.
-Khi <color=#f4d582>Kỹ Năng Cộng Hưởng - Vật Trong Tay</color> trúng mục tiêu, gắn tối đa 1 tầng [Phạt Ấn] lên mỗi mục tiêu, tối đa 2 mục tiêu.
-Mỗi mục tiêu cộng dồn tối đa 2 tầng [Phạt Ấn].
-
-<color=#d4bf5f>Quy tắc thu hồi [Phạt Ấn]</color>
-Khi <color=#f4d582>Đánh Mạnh</color> trúng mục tiêu, thu hồi [Phạt Ấn].
-Khi <color=#f4d582>Kỹ Năng Liên Kết - Tiếng Than Đầu Ngón Tay</color> trúng mục tiêu, thu hồi [Phạt Ấn].</color>"
-lang_skill.db,Skill,239,精密纯化,,Tinh Luyện Chính Xác
-lang_skill.db,Skill,240,<color=#ffffff>纯化异能升级材料时，有10%概率返还所有原材料。</color>,,"<color=#ffffff>Khi tinh luyện nâng cấp vật liệu dị năng, có 10% xác suất hoàn trả toàn bộ nguyên liệu gốc.</color>"
-lang_skill.db,Skill,241,雷煌拳,,Lôi Hoàng Quyền
-lang_skill.db,Skill,242,"<color=#ffffff><color=#d4bf5f>普攻</color>
-以刚劲有力的拳脚，进行最多5段连续攻击。
-
-<color=#d4bf5f>重击</color>
-消耗一定耐力，向前冲撞攻击目标。
-
-<color=#d4bf5f>空中攻击</color>
-消耗一定耐力，从空中跃起向下攻击，造成<color=#9656d8ff>导电伤害</color>。
-
-<color=#d4bf5f>闪避反击</color>
-成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会攻击目标，造成<color=#9656d8ff>导电伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
-Với quyền cước mạnh mẽ, thực hiện tối đa 5 đòn tấn công liên tiếp.
-
-<color=#d4bf5f>Đánh Mạnh</color>
-Tiêu hao một lượng thể lực nhất định, lao về phía trước tấn công mục tiêu.
-
-<color=#d4bf5f>Tấn Công Trên Không</color>
-Tiêu hao một lượng thể lực nhất định, nhảy lên từ trên không và tấn công xuống dưới, gây <color=#9656d8ff>sát thương Điện Từ</color>.
-
-<color=#d4bf5f>Né Phản Công</color>
-Sau khi <color=#f4d582>Né Tránh</color> thành công, sử dụng <color=#f4d582>Đánh Thường</color> trong khoảng thời gian nhất định sẽ tấn công mục tiêu, gây <color=#9656d8ff>sát thương Điện Từ</color>.</color>"
-lang_skill.db,Skill,243,拳震凌武,,Quyền Chấn Lăng Vũ
-lang_skill.db,Skill,244,"<color=#ffffff><color=#d4bf5f>枯夜之楔</color>
-点按拳震凌武，渊武召唤枯夜之楔，造成<color=#9656d8ff>导电伤害</color>，并以枯夜之楔为中心，形成<color=#f4d582>无光雷区</color>。
-枯夜之楔持续时间10秒。
-
-<color=#d4bf5f>无光雷区</color>
-队伍中登场角色处于无光雷区内攻击时，<color=#f4d582>枯夜之楔</color>会进行协同攻击，造成<color=#9656d8ff>导电伤害</color>，每2.5秒可触发1次。
-
-<color=#d4bf5f>万壑雷</color>
-【雷芒】充满时，长按拳震凌武可以消耗所有【雷芒】，施放万壑雷，造成<color=#9656d8ff>导电伤害</color>，并为目标附加1层<color=#f4d582>共鸣回路·雷痕</color>。
-万壑雷会引爆渊武自身5米范围内的<color=#f4d582>枯夜之楔</color>，造成<color=#9656d8ff>导电伤害</color>，并额外附加1层<color=#f4d582>共鸣回路·雷痕</color>。
-
-<color=#d4bf5f>舍身无我</color>
-施放<color=#f4d582>万壑雷</color>后，渊武会进入持续6秒的舍身无我状态，在该状态下，渊武的攻击能力将大幅提升：
-<color=#f4d582>普攻</color>的攻击范围扩大，攻击伤害提升，并造成<color=#9656d8ff>导电伤害</color>，此次伤害为普攻伤害，削减怪物共振度的能力提升；
-<color=#f4d582>重击</color>将以磅薄之势持续向前冲锋攻击，造成<color=#9656d8ff>导电伤害</color>，此次伤害为重击伤害，削减怪物共振度的能力提升。</color>",,"<color=#ffffff><color=#d4bf5f>Nêm Khô Dạ</color>
-Nhấn Quyền Chấn Lăng Vũ, Uyên Vũ triệu hồi Nêm Khô Dạ, gây <color=#9656d8ff>sát thương Điện Từ</color>, đồng thời lấy Nêm Khô Dạ làm trung tâm, tạo thành <color=#f4d582>Vùng Sấm Vô Quang</color>.
-Nêm Khô Dạ tồn tại trong 10 giây.
-
-<color=#d4bf5f>Vùng Sấm Vô Quang</color>
-Khi nhân vật ra trận trong đội tấn công bên trong Vùng Sấm Vô Quang, <color=#f4d582>Nêm Khô Dạ</color> sẽ phối hợp tấn công, gây <color=#9656d8ff>sát thương Điện Từ</color>, có thể kích hoạt mỗi 2.5 giây.
-
-<color=#d4bf5f>Vạn Hác Lôi</color>
-Khi [Lôi Mang] đầy, giữ nhấn Quyền Chấn Lăng Vũ để tiêu hao toàn bộ [Lôi Mang], thi triển Vạn Hác Lôi, gây <color=#9656d8ff>sát thương Điện Từ</color>, đồng thời gắn 1 tầng <color=#f4d582>Mạch Cộng Hưởng - Lôi Ngấn</color> lên mục tiêu.
-Vạn Hác Lôi sẽ kích nổ <color=#f4d582>Nêm Khô Dạ</color> trong phạm vi 5 mét quanh Uyên Vũ, gây <color=#9656d8ff>sát thương Điện Từ</color>, đồng thời gắn thêm 1 tầng <color=#f4d582>Mạch Cộng Hưởng - Lôi Ngấn</color>.
-
-<color=#d4bf5f>Xả Thân Vô Ngã</color>
-Sau khi thi triển <color=#f4d582>Vạn Hác Lôi</color>, Uyên Vũ sẽ tiến vào trạng thái Xả Thân Vô Ngã kéo dài 6 giây. Trong trạng thái này, khả năng tấn công của Uyên Vũ tăng mạnh:
-Phạm vi <color=#f4d582>Đánh Thường</color> mở rộng, sát thương tăng, gây <color=#9656d8ff>sát thương Điện Từ</color>, sát thương này tính là sát thương Đánh Thường, khả năng giảm cộng hưởng quái vật tăng;
-<color=#f4d582>Đánh Mạnh</color> sẽ liên tục xung phong tấn công về phía trước với sức mạnh cuồn cuộn, gây <color=#9656d8ff>sát thương Điện Từ</color>, sát thương này tính là sát thương Đánh Mạnh, khả năng giảm cộng hưởng quái vật tăng.</color>"
-lang_skill.db,Skill,245,寂土重明,,Tịch Thổ Trùng Minh
-lang_skill.db,Skill,246,"<color=#ffffff>唤醒雷电之力，为队伍中登场角色附加<color=#f4d582>敛光</color>的状态，并全力攻击目标，造成<color=#9656d8ff>导电伤害</color>，命中目标时附加1层<color=#f4d582>共鸣回路·憾雷之痕</color>。
-
-若目标已有<color=#f4d582>共鸣回路·雷痕</color>，则过载的电流会使<color=#f4d582>共鸣回路·雷痕</color>升级为<color=#f4d582>共鸣回路·憾雷之痕</color>。
-
-场上若有<color=#f4d582>共鸣技能·枯夜之楔</color>，在寂土重明命中目标时会立刻销毁<color=#f4d582>共鸣技能·枯夜之楔</color>，并为目标再附加1层<color=#f4d582>共鸣回路·憾雷之痕</color>。
-
-<color=#d4bf5f>敛光</color>
-处于该状态时，电闪之光将聚敛于角色身上，使其攻击提升，抗打断能力提升。</color>",,"<color=#ffffff>Đánh thức sức mạnh sấm sét, gắn trạng thái <color=#f4d582>Liễm Quang</color> cho nhân vật ra trận trong đội, rồi dồn toàn lực tấn công mục tiêu, gây <color=#9656d8ff>sát thương Điện Từ</color>. Khi trúng mục tiêu, gắn 1 tầng <color=#f4d582>Mạch Cộng Hưởng - Hám Lôi Chi Ngấn</color>.
-
-Nếu mục tiêu đã có <color=#f4d582>Mạch Cộng Hưởng - Lôi Ngấn</color>, dòng điện quá tải sẽ nâng cấp <color=#f4d582>Mạch Cộng Hưởng - Lôi Ngấn</color> thành <color=#f4d582>Mạch Cộng Hưởng - Hám Lôi Chi Ngấn</color>.
-
-Nếu trên sân có <color=#f4d582>Kỹ Năng Cộng Hưởng - Nêm Khô Dạ</color>, khi Tịch Thổ Trùng Minh trúng mục tiêu sẽ lập tức phá hủy <color=#f4d582>Kỹ Năng Cộng Hưởng - Nêm Khô Dạ</color>, đồng thời gắn thêm 1 tầng <color=#f4d582>Mạch Cộng Hưởng - Hám Lôi Chi Ngấn</color> lên mục tiêu.
-
-<color=#d4bf5f>Liễm Quang</color>
-Khi ở trạng thái này, ánh sáng sấm chớp sẽ tụ lại trên người nhân vật, giúp tăng tấn công và khả năng chống gián đoạn.</color>"
-lang_skill.db,Skill,247,壮怀难追,,Tráng Hoài Nan Truy
-lang_skill.db,Skill,248,<color=#ffffff>施放<color=#f4d582>连携技能·难逝之忆</color>时，额外恢复自身10点共鸣能量。</color>,,"<color=#ffffff>Khi thi triển <color=#f4d582>Kỹ Năng Liên Kết - Nan Thệ Chi Ức</color>, hồi phục thêm 10 điểm năng lượng cộng hưởng cho bản thân.</color>"
-lang_skill.db,Skill,249,人生憾事,,Tiếc Nuối Đời Người
-lang_skill.db,Skill,250,<color=#ffffff>战斗状态中离场时，若【雷芒】没有充满，则在原地留下1个<color=#f4d582>共鸣技能·枯夜之楔</color>。</color>,,"<color=#ffffff>Khi rời trận trong trạng thái chiến đấu, nếu [Lôi Mang] chưa đầy, sẽ để lại 1 <color=#f4d582>Kỹ Năng Cộng Hưởng - Nêm Khô Dạ</color> tại chỗ.</color>"
-lang_skill.db,Skill,251,难逝之忆,,Ký Ức Khó Phai
-lang_skill.db,Skill,252,<color=#ffffff>召唤<color=#f4d582>共鸣技能·枯夜之楔</color>并立刻引爆，命中目标时附加1层<color=#f4d582>共鸣回路·雷痕</color>。</color>,,"<color=#ffffff>Triệu hồi <color=#f4d582>Kỹ Năng Cộng Hưởng - Nêm Đêm Khô</color> và kích nổ ngay lập tức, khi trúng mục tiêu sẽ cộng thêm 1 tầng <color=#f4d582>Mạch Cộng Hưởng - Lôi Ngấn</color>.</color>"
-lang_skill.db,Skill,253,雷耀之愿,,Nguyện Ước Sấm Rạng
-lang_skill.db,Skill,254,"<color=#ffffff><color=#d4bf5f>雷痕</color>
-携带雷痕的目标受到的伤害提升。
-雷痕层数越高，受到伤害越高，效果持续12秒，上限3层。
-
-<color=#d4bf5f>憾雷之痕</color>
-憾雷之痕将雷痕的效果全面提升，其威力为雷痕的2倍。
-携带憾雷之痕的目标受到的伤害提升。
-憾雷之痕层数越高，受到伤害越高，效果持续12秒，上限3层。
-
-<color=#d4bf5f>雷芒获取规则</color>
-场上存在<color=#f4d582>共鸣技能·枯夜之楔</color>时，自身会缓慢恢复【雷芒】，该效果在渊武处于后台时依然生效。
-<color=#f4d582>共鸣技能·枯夜之楔</color>协同攻击命中目标时，恢复5点【雷芒】。
-<color=#f4d582>连携技能·难逝之忆</color>命中目标时，恢复20点【雷芒】。
-
-【雷芒】充满时，渊武自身攻击将目标击退到<color=#f4d582>共鸣技能·枯夜之楔</color>上时，会引爆<color=#f4d582>共鸣技能·枯夜之楔</color>，造成导电伤害，并为目标附加1层<color=#f4d582>雷痕</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Lôi Ngấn</color>
-Mục tiêu mang Lôi Ngấn sẽ nhận thêm sát thương.
-Số tầng Lôi Ngấn càng cao, sát thương nhận càng lớn, hiệu quả kéo dài 12 giây, tối đa 3 tầng.
-
-<color=#d4bf5f>Hám Lôi Chi Ngấn</color>
-Hám Lôi Chi Ngấn nâng cấp toàn diện hiệu quả của Lôi Ngấn, uy lực gấp 2 lần Lôi Ngấn.
-Mục tiêu mang Hám Lôi Chi Ngấn sẽ nhận thêm sát thương.
-Số tầng Hám Lôi Chi Ngấn càng cao, sát thương nhận càng lớn, hiệu quả kéo dài 12 giây, tối đa 3 tầng.
-
-<color=#d4bf5f>Quy tắc nhận Lôi Mang</color>
-Khi trên sân tồn tại <color=#f4d582>Kỹ Năng Cộng Hưởng - Nêm Đêm Khô</color>, bản thân sẽ hồi phục chậm [Lôi Mang], hiệu quả này vẫn có tác dụng khi Uyên Vũ ở hậu trường.
-<color=#f4d582>Kỹ Năng Cộng Hưởng - Nêm Đêm Khô</color> tấn công phối hợp trúng mục tiêu sẽ hồi phục 5 điểm [Lôi Mang].
-<color=#f4d582>Kỹ Năng Liên Kết - Ký Ức Khó Phai</color> trúng mục tiêu sẽ hồi phục 20 điểm [Lôi Mang].
-
-Khi [Lôi Mang] đầy, nếu Uyên Vũ đánh bật mục tiêu vào <color=#f4d582>Kỹ Năng Cộng Hưởng - Nêm Đêm Khô</color>, sẽ kích nổ <color=#f4d582>Kỹ Năng Cộng Hưởng - Nêm Đêm Khô</color>, gây sát thương Điện Từ và cộng thêm 1 tầng <color=#f4d582>Lôi Ngấn</color> cho mục tiêu.</color>"
-lang_skill.db,Skill,255,巧手烹调,,Khéo Tay Nấu Nướng
-lang_skill.db,Skill,256,<color=#ffffff>烹饪辅助战斗类菜肴时，有20%概率返还所有食材。</color>,,"<color=#ffffff>Khi nấu món ăn hỗ trợ chiến đấu, có 20% xác suất hoàn trả toàn bộ nguyên liệu.</color>"
-lang_skill.db,Skill,257,test/化声为形,,test/Hóa Thanh Thành Hình
-lang_skill.db,Skill,258,"<color=#ffffff><color=#d4bf5f>普攻</color>
+lang_shop.db,ShopFixed,243,这道可是我的拿手菜，想学吗？,,"Món này là món tủ của tôi đấy, muốn học không?"
+lang_shop.db,ShopFixed,244,你莫慌嘛，把握火候和调味，啷个做都好吃。,,"Bạn đừng cuống mà, chỉ cần nắm vững lửa và gia vị, làm thế nào cũng ngon hết."
+lang_shop.db,ShopFixed,245,这道可是我的拿手菜，想学吗？,,"Món này là món tủ của tôi đấy, muốn học không?"
+lang_shop.db,ShopFixed,246,你莫慌嘛，把握火候和调味，啷个做都好吃。,,"Bạn đừng cuống mà, chỉ cần nắm vững lửa và gia vị, làm thế nào cũng ngon hết."
+lang_shop.db,ShopFixed,247,这道可是我的拿手菜，想学吗？,,"Món này là món tủ của tôi đấy, muốn học không?"
+lang_shop.db,ShopFixed,248,你莫慌嘛，把握火候和调味，啷个做都好吃。,,"Bạn đừng cuống mà, chỉ cần nắm vững lửa và gia vị, làm thế nào cũng ngon hết."
+lang_shop.db,ShopFixed,249,这道可是我的拿手菜，想学吗？,,"Món này là món tủ của tôi đấy, muốn học không?"
+lang_shop.db,ShopFixed,250,你莫慌嘛，把握火候和调味，啷个做都好吃。,,"Bạn đừng cuống mà, chỉ cần nắm vững lửa và gia vị, làm thế nào cũng ngon hết."
+lang_skill.db,Skill,1,风羽为刃,,Phong Vũ Vi Nhẫn
+lang_skill.db,Skill,2,"<color=#ffffff><color=#d4bf5f>普攻</color>
 进行最多4段连续攻击，第4段攻击命中目标时，造成<color=#46c3d4ff>气动伤害</color>，获得1声【流响】。
 
 <color=#d4bf5f>重击</color>
@@ -216,31 +22,31 @@ lang_skill.db,Skill,258,"<color=#ffffff><color=#d4bf5f>普攻</color>
 
 <color=#d4bf5f>闪避反击</color>
 成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会向前突刺，造成<color=#46c3d4ff>气动伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
-Thực hiện tối đa 4 đoạn tấn công liên tục, đoạn tấn công thứ 4 trúng mục tiêu sẽ gây <color=#46c3d4ff>sát thương Khí Động</color>, nhận được 1 thanh [Lưu Hưởng].
+Thực hiện tối đa 4 đoạn tấn công liên tiếp, khi đòn tấn công thứ 4 trúng mục tiêu, gây <color=#46c3d4ff>Sát Thương Khí Động</color>, nhận được 1 [Lưu Hưởng].
 
 <color=#d4bf5f>Đánh Mạnh</color>
-Tiêu hao một lượng thể lực nhất định, đâm về phía trước, gây <color=#46c3d4ff>sát thương Khí Động</color>.
+Tiêu hao một lượng Thể Lực nhất định, lao tới trước đâm mạnh, gây <color=#46c3d4ff>Sát Thương Khí Động</color>.
 
-<color=#d4bf5f>Đánh Mạnh - Phong Ngâm</color>
-Sau khi Đánh Mạnh, trong một khoảng thời gian nhất định sử dụng Đánh Thường, Ương Ương sẽ phóng ra 1 lưỡi gió, gây <color=#46c3d4ff>sát thương Khí Động</color>, nhận được 1 thanh [Lưu Hưởng].
+<color=#d4bf5f>Đánh Mạnh . Phong Ngâm</color>
+Sau khi Đánh Mạnh, trong một khoảng thời gian nhất định sử dụng Đánh Thường, Yangyang sẽ tung ra 1 luồng đao gió, gây <color=#46c3d4ff>Sát Thương Khí Động</color>, nhận được 1 [Lưu Hưởng].
 
 <color=#d4bf5f>Tấn Công Trên Không</color>
-Tiêu hao một lượng thể lực nhất định, nhảy lên từ trên không rồi lao xuống tấn công, gây <color=#46c3d4ff>sát thương Khí Động</color>.
+Tiêu hao một lượng Thể Lực nhất định, nhảy lên không trung rồi lao xuống tấn công, gây <color=#46c3d4ff>Sát Thương Khí Động</color>.
 
-<color=#d4bf5f>Né Tránh Phản Công</color>
-Sau khi <color=#f4d582>Né Tránh</color> thành công, trong một khoảng thời gian nhất định sử dụng <color=#f4d582>Đánh Thường</color>, sẽ đâm về phía trước, gây <color=#46c3d4ff>sát thương Khí Động</color>.</color>"
-lang_skill.db,Skill,259,test/浮声鸣尘,,test/Phù Thanh Minh Trần
-lang_skill.db,Skill,260,<color=#ffffff>使用鸣刀划分风场，并将周围的目标牵引至风场中心，造成<color=#46c3d4ff>气动伤害</color>，获得1声【流响】。</color>,,"<color=#ffffff>Dùng Kiếm phân chia vùng gió, kéo các mục tiêu xung quanh vào trung tâm vùng gió, gây <color=#46c3d4ff>sát thương Khí Động</color>, nhận được 1 thanh [Lưu Hưởng].</color>"
-lang_skill.db,Skill,261,test/寂鸣极异,,test/Tịch Minh Cực Dị
-lang_skill.db,Skill,262,<color=#ffffff>挥刃制造旋风，将周围的目标牵引至旋风中心，造成<color=#46c3d4ff>气动伤害</color>，并在最后击飞目标。</color>,,"<color=#ffffff>Vung kiếm tạo ra lốc xoáy, kéo các mục tiêu xung quanh vào trung tâm lốc xoáy, gây <color=#46c3d4ff>sát thương Khí Động</color>, và hất bay mục tiêu ở đòn cuối cùng.</color>"
-lang_skill.db,Skill,263,test/屏息,,test/Nín Thở
-lang_skill.db,Skill,264,<color=#ffffff>施放<color=#f4d582>空中攻击·释羽</color>后，队伍中所有角色的共鸣解放伤害提升20%，效果持续10秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Tấn Công Trên Không - Thả Vũ</color>, sát thương Giải Phóng Cộng Hưởng của tất cả nhân vật trong đội tăng 20%, hiệu quả kéo dài 10 giây.</color>"
-lang_skill.db,Skill,265,test/凝神,,test/Tập Trung
-lang_skill.db,Skill,266,<color=#ffffff>施放<color=#f4d582>连携技能·湛蓝礼赞</color>后，秧秧的气动伤害加成提升15%，效果持续8秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Kỹ Năng Liên Kết - Tán Dương Xanh Thẳm</color>, bonus sát thương Khí Động của Ương Ương tăng 15%, hiệu quả kéo dài 8 giây.</color>"
-lang_skill.db,Skill,267,test/震声,,test/Chấn Thanh
-lang_skill.db,Skill,268,<color=#ffffff>使用鸣刀击飞目标，造成<color=#46c3d4ff>气动伤害</color>，获取1声【流响】。</color>,,"<color=#ffffff>Dùng Kiếm hất bay mục tiêu, gây <color=#46c3d4ff>sát thương Khí Động</color>, nhận được 1 thanh [Lưu Hưởng].</color>"
-lang_skill.db,Skill,269,test/万物微尘,,test/Vạn Vật Vi Trần
-lang_skill.db,Skill,270,"<color=#ffffff><color=#d4bf5f>重击·风袭</color>
+<color=#d4bf5f>Phản Công Né Tránh</color>
+Sau khi <color=#f4d582>Né Tránh</color> thành công, trong thời gian nhất định sử dụng <color=#f4d582>Đánh Thường</color>, sẽ lao tới trước đâm mạnh, gây <color=#46c3d4ff>Sát Thương Khí Động</color>.</color>"
+lang_skill.db,Skill,3,流风载域,,Lưu Phong Tái Vực
+lang_skill.db,Skill,4,<color=#ffffff>使用鸣刀划分风场，并将周围的目标牵引至风场中心，造成<color=#46c3d4ff>气动伤害</color>，获得1声【流响】。</color>,,"<color=#ffffff>Sử dụng Kiếm tạo ra vùng gió, hút các mục tiêu xung quanh vào tâm vùng gió, gây <color=#46c3d4ff>Sát Thương Khí Động</color>, nhận được 1 [Lưu Hưởng].</color>"
+lang_skill.db,Skill,5,朔风旋涌,,Sóc Phong Toàn Dũng
+lang_skill.db,Skill,6,<color=#ffffff>挥刃制造旋风，将周围的目标牵引至旋风中心，造成<color=#46c3d4ff>气动伤害</color>，并在最后击飞目标。</color>,,"<color=#ffffff>Vung kiếm tạo ra lốc xoáy, hút các mục tiêu xung quanh vào tâm lốc xoáy, gây <color=#46c3d4ff>Sát Thương Khí Động</color>, và cuối cùng hất bay mục tiêu.</color>"
+lang_skill.db,Skill,7,解意,,Giải Ý
+lang_skill.db,Skill,8,<color=#ffffff>施放<color=#f4d582>空中攻击·释羽</color>后，队伍中所有角色的共鸣解放伤害提升20%，效果持续8秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Tấn Công Trên Không . Thích Vũ</color>, sát thương Giải Phóng Cộng Hưởng của tất cả nhân vật trong đội tăng 20%, hiệu quả kéo dài 8 giây.</color>"
+lang_skill.db,Skill,9,怀悯,,Hoài Mẫn
+lang_skill.db,Skill,10,<color=#ffffff>施放<color=#f4d582>连携技能·湛蓝礼赞</color>后，秧秧的气动伤害加成提升15%，效果持续8秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Kỹ Năng Liên Kết . Trạm Lam Lễ Tán</color>, Sát Thương Khí Động của Yangyang tăng 15%, hiệu quả kéo dài 8 giây.</color>"
+lang_skill.db,Skill,11,湛蓝礼赞,,Trạm Lam Lễ Tán
+lang_skill.db,Skill,12,<color=#ffffff>使用鸣刀击飞目标，造成<color=#46c3d4ff>气动伤害</color>，获取1声【流响】。</color>,,"<color=#ffffff>Sử dụng Kiếm hất bay mục tiêu, gây <color=#46c3d4ff>Sát Thương Khí Động</color>, nhận được 1 [Lưu Hưởng].</color>"
+lang_skill.db,Skill,13,掠风释羽,Of Wind and Feathers,Lược Phong Thích Vũ
+lang_skill.db,Skill,14,"<color=#ffffff><color=#d4bf5f>重击·风袭</color>
 当秧秧持有3声【流响】时，使用重击后可触发风袭，造成<color=#46c3d4ff>气动伤害</color>并击飞目标，此次伤害为重击伤害。
 
 <color=#d4bf5f>空中攻击·释羽</color>
@@ -249,111 +55,317 @@ lang_skill.db,Skill,270,"<color=#ffffff><color=#d4bf5f>重击·风袭</color>
 <color=#d4bf5f>流响获取规则</color>
 使用<color=#f4d582>普攻第4段</color>命中目标可获取1声【流响】。
 施放<color=#f4d582>重击·风吟</color>命中目标可获取1声【流响】。
-施放<color=#f4d582>共鸣技能·载流风域</color>命中目标可获取1声【流响】。
-施放<color=#f4d582>连携技能·湛蓝礼赞</color>命中目标可获取1声【流响】。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Mạnh - Phong Tập</color>
-Khi Ương Ương có 3 thanh [Lưu Hưởng], sau khi sử dụng Đánh Mạnh có thể kích hoạt Phong Tập, gây <color=#46c3d4ff>sát thương Khí Động</color> và hất bay mục tiêu, sát thương này tính là sát thương Đánh Mạnh.
+施放<color=#f4d582>共鸣技能·流风载域</color>命中目标可获取1声【流响】。
+施放<color=#f4d582>连携技能·湛蓝礼赞</color>命中目标可获取1声【流响】。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Mạnh . Phong Tập</color>
+Khi Yangyang sở hữu 3 [Lưu Hưởng], sau khi sử dụng Đánh Mạnh có thể kích hoạt Phong Tập, gây <color=#46c3d4ff>Sát Thương Khí Động</color> và hất bay mục tiêu, sát thương lần này được tính là sát thương Đánh Mạnh.
 
-<color=#d4bf5f>Tấn Công Trên Không - Thả Vũ</color>
-Khi Ương Ương có 3 thanh [Lưu Hưởng], sử dụng <color=#f4d582>Tấn Công Trên Không</color> khi đang ở trên không sẽ tiêu hao toàn bộ [Lưu Hưởng], phát động tấn công liên tục, và lao xuống từ trên không gây <color=#46c3d4ff>sát thương Khí Động</color>. Sau khi tiếp đất, Ương Ương sẽ thu kiếm tấn công, gây <color=#46c3d4ff>sát thương Khí Động</color>, sát thương này tính là sát thương Đánh Thường.
+<color=#d4bf5f>Tấn Công Trên Không . Thích Vũ</color>
+Khi Yangyang sở hữu 3 [Lưu Hưởng], sử dụng <color=#f4d582>Tấn Công Trên Không</color> trên không trung, sẽ tiêu hao tất cả [Lưu Hưởng], phát động tấn công liên tiếp, và lao xuống từ không trung gây <color=#46c3d4ff>Sát Thương Khí Động</color>. Sau khi tiếp đất, Yangyang sẽ thu kiếm tấn công, gây <color=#46c3d4ff>Sát Thương Khí Động</color>, sát thương lần này được tính là sát thương Đánh Thường.
 
 <color=#d4bf5f>Quy tắc nhận Lưu Hưởng</color>
-Sử dụng <color=#f4d582>Đánh Thường đoạn 4</color> trúng mục tiêu sẽ nhận được 1 thanh [Lưu Hưởng].
-Thi triển <color=#f4d582>Đánh Mạnh - Phong Ngâm</color> trúng mục tiêu sẽ nhận được 1 thanh [Lưu Hưởng].
-Thi triển <color=#f4d582>Kỹ Năng Cộng Hưởng - Tải Lưu Phong Vực</color> trúng mục tiêu sẽ nhận được 1 thanh [Lưu Hưởng].
-Thi triển <color=#f4d582>Kỹ Năng Liên Kết - Tán Dương Xanh Thẳm</color> trúng mục tiêu sẽ nhận được 1 thanh [Lưu Hưởng].</color>"
-lang_skill.db,Skill,271,test/步测鸣域,,test/Bước Đo Minh Vực
-lang_skill.db,Skill,272,<color=#ffffff>纵跑减少20%耐力消耗。</color>,,<color=#ffffff>Khi chạy nước rút giảm 20% tiêu hao thể lực.</color>
-lang_skill.db,Skill,273,test/常态攻击,,test/Đánh Thường
-lang_skill.db,Skill,274,"test/<color=#ffffff><color=#d4bf5f>普攻</color>
-以刚劲有力的拳脚，进行最多5段连续攻击。普攻命中敌人时可获得【猛虎之力】，【猛虎之力】最多叠加2层。
+Sử dụng <color=#f4d582>Đánh Thường đoạn 4</color> trúng mục tiêu có thể nhận 1 [Lưu Hưởng].
+Thi triển <color=#f4d582>Đánh Mạnh . Phong Ngâm</color> trúng mục tiêu có thể nhận 1 [Lưu Hưởng].
+Thi triển <color=#f4d582>Kỹ Năng Cộng Hưởng . Lưu Phong Tái Vực</color> trúng mục tiêu có thể nhận 1 [Lưu Hưởng].
+Thi triển <color=#f4d582>Kỹ Năng Liên Kết . Trạm Lam Lễ Tán</color> trúng mục tiêu có thể nhận 1 [Lưu Hưởng].</color>"
+lang_skill.db,Skill,15,步测鸣域,,Bước Đo Minh Vực
+lang_skill.db,Skill,16,<color=#ffffff>纵跑减少20%耐力消耗。</color>,,<color=#ffffff>Chạy dọc tường giảm 20% tiêu hao Thể Lực.</color>
+lang_skill.db,Skill,17,给你两梭子,,Cho Ngươi Hai Băng Đạn
+lang_skill.db,Skill,18,"<color=#ffffff><color=#d4bf5f>普攻</color>
+装填子弹，进行最多4段连续射击，第4段射击造成<color=#e15226ff>热熔伤害</color>。
 
 <color=#d4bf5f>重击</color>
-消耗一定耐力进行升龙攻击，特殊能量超过一半时进入【醒狮】状态。
+进入瞄准状态，可以进行更强力的射击。
+蓄力完成后打出的1枪，命中即造成<color=#e15226ff>热熔伤害</color>并积攒【热压弹】。
 
 <color=#d4bf5f>空中攻击</color>
-消耗一定耐力，从空中跃起向下攻击。
+消耗一定耐力，在空中对目标连续射击，造成伤害。
 
 <color=#d4bf5f>闪避反击</color>
-成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会攻击目标，造成<color=#9656d8ff>冷凝伤害</color>。</color>",,"test/<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
-Dùng nắm đấm và cước pháp mạnh mẽ, thực hiện tối đa 5 đoạn tấn công liên tục. Đánh Thường trúng kẻ địch sẽ nhận được [Mãnh Hổ Chi Lực], [Mãnh Hổ Chi Lực] tối đa cộng dồn 2 tầng.
+成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会攻击目标，造成<color=#e15226ff>热熔伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
+Nạp đạn, thực hiện tối đa 4 đoạn bắn liên tiếp, đoạn bắn thứ 4 gây <color=#e15226ff>Sát Thương Hỏa Liệt</color>.
 
 <color=#d4bf5f>Đánh Mạnh</color>
-Tiêu hao một lượng thể lực nhất định để thực hiện đòn thăng long, khi năng lượng đặc biệt vượt quá một nửa sẽ vào trạng thái [Tỉnh Sư].
+Tiến vào trạng thái ngắm bắn, có thể thực hiện bắn mạnh hơn.
+Sau khi tụ lực xong bắn ra 1 phát, trúng đích sẽ gây <color=#e15226ff>Sát Thương Hỏa Liệt</color> và tích lũy [Đạn Nhiệt Áp].
 
 <color=#d4bf5f>Tấn Công Trên Không</color>
-Tiêu hao một lượng thể lực nhất định, nhảy lên từ trên không rồi tấn công xuống.
+Tiêu hao một lượng Thể Lực nhất định, bắn liên tiếp vào mục tiêu trên không, gây sát thương.
 
-<color=#d4bf5f>Né Tránh Phản Công</color>
-Sau khi <color=#f4d582>Né Tránh</color> thành công, trong một khoảng thời gian nhất định sử dụng <color=#f4d582>Đánh Thường</color>, sẽ tấn công mục tiêu, gây <color=#9656d8ff>sát thương Ngưng Băng</color>.</color>"
-lang_skill.db,Skill,275,test/共鸣技能,,test/Kỹ Năng Cộng Hưởng
-lang_skill.db,Skill,276,"test/释放共鸣技能，造成冷凝伤害。
+<color=#d4bf5f>Phản Công Né Tránh</color>
+Sau khi <color=#f4d582>Né Tránh</color> thành công, trong thời gian nhất định sử dụng <color=#f4d582>Đánh Thường</color>, sẽ tấn công mục tiêu, gây <color=#e15226ff>Sát Thương Hỏa Liệt</color>.</color>"
+lang_skill.db,Skill,19,咻咻斗意,,Vèo Vèo Chiến Ý
+lang_skill.db,Skill,20,"<color=#ffffff>燃起斗志对目标进行高速连射，攻击命中可积攒【热压弹】。
 
-释放共鸣技能时，若阿呜拥有【猛虎之力】将会强化技能形态并获得特殊能量。每1层【猛虎之力】转化成1点特殊能量。
-【猛虎之力】层数越多，共鸣技能造成的伤害也越高",,"test/Tung Kỹ Năng Cộng Hưởng, gây sát thương Ngưng Băng.
+咻咻斗意初始拥有2次可使用次数。</color>",,"<color=#ffffff>Khơi dậy ý chí chiến đấu, bắn liên thanh tốc độ cao vào mục tiêu, tấn công trúng đích có thể tích lũy [Đạn Nhiệt Áp].
 
-Khi tung Kỹ Năng Cộng Hưởng, nếu Awu sở hữu [Mãnh Hổ Chi Lực] sẽ tăng cường hình thái kỹ năng và nhận năng lượng đặc biệt. Mỗi 1 tầng [Mãnh Hổ Chi Lực] chuyển hóa thành 1 điểm năng lượng đặc biệt.
-Số tầng [Mãnh Hổ Chi Lực] càng nhiều, sát thương Kỹ Năng Cộng Hưởng gây ra càng cao."
-lang_skill.db,Skill,277,test/共鸣解放,,test/Giải Phóng Cộng Hưởng
-lang_skill.db,Skill,278,"test/释放共鸣解放，造成冷凝伤害。
+Vèo Vèo Chiến Ý ban đầu có 2 lần sử dụng.</color>"
+lang_skill.db,Skill,21,爆炸不回头,,Nổ Không Ngoảnh Lại
+lang_skill.db,Skill,22,<color=#ffffff>体内热流涌现，对附近目标进行快速射击，命中即造成<color=#e15226ff>热熔伤害</color>并积攒【热压弹】。</color>,,"<color=#ffffff>Dòng nhiệt trào dâng trong cơ thể, bắn nhanh vào các mục tiêu gần đó, trúng đích sẽ gây <color=#e15226ff>Sát Thương Hỏa Liệt</color> và tích lũy [Đạn Nhiệt Áp].</color>"
+lang_skill.db,Skill,23,无限弹匣,,Băng Đạn Vô Hạn
+lang_skill.db,Skill,24,<color=#ffffff>【热压弹】容量上限扩充10发，成功触发<color=#f4d582>共鸣技能·轰轰</color>时获得5发【热压弹】。</color>,,"<color=#ffffff>Giới hạn [Đạn Nhiệt Áp] mở rộng thêm 10 viên, khi kích hoạt thành công <color=#f4d582>Kỹ Năng Cộng Hưởng . Ầm Ầm</color> sẽ nhận được 5 viên [Đạn Nhiệt Áp].</color>"
+lang_skill.db,Skill,25,加麻加辣,,Thêm Cay Thêm Tê
+lang_skill.db,Skill,26,<color=#ffffff><color=#f4d582>共鸣技能·咔咔压制</color>持续期间，每发【热压弹】命中可使攻击提升1%，最多叠加30层，持续6秒。</color>,,"<color=#ffffff>Trong thời gian duy trì <color=#f4d582>Kỹ Năng Cộng Hưởng . Rắc Rắc Trấn Áp</color>, mỗi viên [Đạn Nhiệt Áp] trúng đích giúp tấn công tăng 1%, tối đa cộng dồn 30 tầng, kéo dài 6 giây.</color>"
+lang_skill.db,Skill,27,堂堂登场,,Đường Đường Chính Chính
+lang_skill.db,Skill,28,<color=#ffffff>飒爽登场，对目标进行快速射击，命中即造成<color=#e15226ff>热熔伤害</color>并积攒【热压弹】。</color>,,"<color=#ffffff>Xuất hiện oai phong, bắn nhanh vào mục tiêu, trúng đích sẽ gây <color=#e15226ff>Sát Thương Hỏa Liệt</color> và tích lũy [Đạn Nhiệt Áp].</color>"
+lang_skill.db,Skill,29,英魂炽火流,,Anh Hồn Sí Hỏa Lưu
+lang_skill.db,Skill,30,"<color=#ffffff><color=#d4bf5f>共鸣技能·咔咔压制</color>
+长按<color=#f4d582>共鸣技能·咻咻斗意</color>，进入咔咔压制射击状态，在该状态下：
+持续消耗【热压弹】攻击目标，造成<color=#e15226ff>热熔伤害</color>，此次伤害为共鸣技能伤害；
+当【热压弹】消耗完毕后，退出咔咔压制；
+咔咔压制期间，点按普攻会进行1次射击，造成<color=#e15226ff>热熔伤害</color>，此次伤害为共鸣技能伤害，并退出咔咔压制；
+若点按普攻时已消耗30发【热压弹】，则触发1次<color=#f4d582>轰轰</color>，并退出咔咔压制。
 
-释放共鸣解放后，阿呜受到【狮子奋迅】祝福，持续10秒。
-【狮子奋迅】持续期间，阿呜额外获得增伤20%，同时消耗完特殊能量后将会立刻补充至满。",,"test/Tung Giải Phóng Cộng Hưởng, gây sát thương Ngưng Băng.
+<color=#d4bf5f>共鸣技能·轰轰</color>
+造成<color=#e15226ff>热熔伤害</color>，此次伤害为共鸣技能伤害。
 
-Sau khi tung Giải Phóng Cộng Hưởng, Awu nhận được phúc lành [Sư Tử Phấn Tấn], kéo dài 10 giây.
-Trong thời gian [Sư Tử Phấn Tấn], Awu được tăng thêm 20% sát thương, đồng thời sau khi tiêu hao hết năng lượng đặc biệt sẽ lập tức hồi đầy."
-lang_skill.db,Skill,279,test/固有技能1,,test/Kỹ Năng Nội Tại 1
-lang_skill.db,Skill,280,test/阿呜的蓄力攻击命中敌人后，减少敌人冰抗10%，持续12秒。,,"test/Sau khi đòn tích lực của Awu trúng kẻ địch, giảm 10% kháng băng của kẻ địch, kéo dài 12 giây."
-lang_skill.db,Skill,281,test/固有技能2,,test/Kỹ Năng Nội Tại 2
-lang_skill.db,Skill,282,test/阿呜在舞狮状态下每进行1次舞狮特殊普攻，会使自身获得攻击力加成7%，持续6秒。（最多叠加2层）,,"test/Mỗi lần Awu thực hiện 1 đòn đánh thường đặc biệt múa lân trong trạng thái múa lân, bản thân nhận thêm 7% tấn công, kéo dài 6 giây. (Tối đa cộng dồn 2 tầng)"
-lang_skill.db,Skill,283,test/连携技能,,test/Kỹ Năng Liên Kết
-lang_skill.db,Skill,284,"test/阿呜出场造成冷凝伤害，并回复2点特殊能量。
-连携出场技能可衔接2段特殊醒狮普攻。
-每次醒狮普攻命中敌人都会恢复2点特殊能量。",,"test/Awu xuất trận gây sát thương Ngưng Băng và hồi phục 2 điểm năng lượng đặc biệt.
-Kỹ năng xuất trận liên kết có thể nối tiếp 2 đoạn đánh thường đặc biệt Tỉnh Sư.
-Mỗi lần đánh thường Tỉnh Sư trúng kẻ địch sẽ hồi phục 2 điểm năng lượng đặc biệt."
-lang_skill.db,Skill,285,test/异能力,,test/Dị Năng Lực
-lang_skill.db,Skill,286,"test/
-阿呜的普攻命中敌人和触发极限闪避可获得【猛虎之力】，共鸣技能可以释放阿呜的【猛虎之力】并获特殊能量。
-【猛虎之力】最多叠加2层，特殊能量最多为6点。
-阿呜的特殊能量超过一半时，蓄力攻击会进入【醒狮】状态，【醒狮】状态下：
+<color=#d4bf5f>热压弹获取规则</color>
+使用<color=#f4d582>共鸣技能·咔咔压制</color>以外的攻击方式命中目标时，均可为自身积攒【热压弹】。</color>",,"<color=#ffffff><color=#d4bf5f>Kỹ Năng Cộng Hưởng . Rắc Rắc Trấn Áp</color>
+Nhấn giữ <color=#f4d582>Kỹ Năng Cộng Hưởng . Vèo Vèo Chiến Ý</color>, tiến vào trạng thái bắn Rắc Rắc Trấn Áp, trong trạng thái này:
+Liên tục tiêu hao [Đạn Nhiệt Áp] tấn công mục tiêu, gây <color=#e15226ff>Sát Thương Hỏa Liệt</color>, sát thương lần này được tính là sát thương Kỹ Năng Cộng Hưởng;
+Khi [Đạn Nhiệt Áp] tiêu hao hết, thoát khỏi Rắc Rắc Trấn Áp;
+Trong thời gian Rắc Rắc Trấn Áp, nhấn Đánh Thường sẽ thực hiện 1 lần bắn, gây <color=#e15226ff>Sát Thương Hỏa Liệt</color>, sát thương lần này được tính là sát thương Kỹ Năng Cộng Hưởng, và thoát khỏi Rắc Rắc Trấn Áp;
+Nếu khi nhấn Đánh Thường đã tiêu hao 30 viên [Đạn Nhiệt Áp], sẽ kích hoạt 1 lần <color=#f4d582>Ầm Ầm</color>, và thoát khỏi Rắc Rắc Trấn Áp.
 
-阿呜普攻变为强化普攻，每次强化普攻消耗3点特殊能量。
-当特殊能量耗尽时，点按普攻，阿呜会发动空中终结技。
-终结结束时，阿呜的下落攻击变为强化下落攻击。",,"test/
-Đánh thường của Awu trúng kẻ địch và kích hoạt né tránh tối ưu sẽ nhận được [Mãnh Hổ Chi Lực], Kỹ Năng Cộng Hưởng có thể giải phóng [Mãnh Hổ Chi Lực] của Awu và nhận năng lượng đặc biệt.
-[Mãnh Hổ Chi Lực] tối đa cộng dồn 2 tầng, năng lượng đặc biệt tối đa 6 điểm.
-Khi năng lượng đặc biệt của Awu vượt quá một nửa, đòn tích lực sẽ vào trạng thái [Tỉnh Sư], trong trạng thái [Tỉnh Sư]:
+<color=#d4bf5f>Kỹ Năng Cộng Hưởng . Ầm Ầm</color>
+Gây <color=#e15226ff>Sát Thương Hỏa Liệt</color>, sát thương lần này được tính là sát thương Kỹ Năng Cộng Hưởng.
 
-Đánh thường của Awu chuyển thành đánh thường tăng cường, mỗi lần đánh thường tăng cường tiêu hao 3 điểm năng lượng đặc biệt.
-Khi năng lượng đặc biệt cạn kiệt, nhấn đánh thường, Awu sẽ tung chiêu kết liễu trên không.
-Khi kết thúc chiêu kết liễu, đòn tấn công rơi xuống của Awu chuyển thành đòn rơi xuống tăng cường."
-lang_skill.db,Skill,287,test/巧手烹调,,test/Nấu Nướng Khéo Tay
-lang_skill.db,Skill,288,test/<color=#ffffff>烹饪辅助战斗类菜肴时，有20%概率返还所有食材。</color>,,"test/<color=#ffffff>Khi nấu món ăn hỗ trợ chiến đấu, có 20% xác suất hoàn trả toàn bộ nguyên liệu.</color>"
-lang_skill.db,SkillType,1,常态攻击,,Đánh Thường
-lang_skill.db,SkillType,2,共鸣技能,,Kỹ Năng Cộng Hưởng
-lang_skill.db,SkillType,3,共鸣解放,Resonance Liberation,Giải Phóng Cộng Hưởng
-lang_skill.db,SkillType,4,固有技能,,Kỹ Năng Nội Tại
-lang_skill.db,SkillType,5,连携技能,,Kỹ Năng Liên Kết
-lang_skill.db,SkillType,6,共鸣回路,,Mạch Cộng Hưởng
-lang_skill.db,SkillType,7,固有技能,,Kỹ Năng Nội Tại
-lang_skill.db,SkillType,8,固有技能,,Kỹ Năng Nội Tại
-lang_skill.db,SkillType,9,固有技能,,Kỹ Năng Nội Tại
-lang_skill.db,SkillType,10,固有技能,,Kỹ Năng Nội Tại
-lang_skill.db,SkillDescription,1,第一段伤害,,Sát thương đoạn 1
-lang_skill.db,SkillDescription,2,第二段伤害,,Sát thương đoạn 2
-lang_skill.db,SkillDescription,3,第三段伤害,,Sát thương đoạn 3
-lang_skill.db,SkillDescription,4,第四段伤害,,Sát thương đoạn 4
-lang_skill.db,SkillDescription,5,重击伤害,,Sát Thương Đánh Mạnh
-lang_skill.db,SkillDescription,6,重击耐力消耗,,Thể lực tiêu hao Đánh Mạnh
-lang_skill.db,SkillDescription,7,空中攻击伤害,,Sát thương tấn công trên không
-lang_skill.db,SkillDescription,8,空中攻击耐力消耗,,Thể lực tiêu hao tấn công trên không
-lang_skill.db,SkillDescription,9,风吟伤害,,Sát thương Phong Ngâm
-lang_skill.db,SkillDescription,10,技能伤害,,Sát thương kỹ năng
-lang_skill.db,SkillDescription,11,冷却时间,,Thời gian hồi
-lang_skill.db,SkillDescription,12,{0}秒,,{0} giây
-lang_skill.db,SkillDescription,13,恢复协奏值,,Hồi phục giá trị Hiệp Tấu
-lang_skill.db,SkillDescription,14,旋风伤害,,Sát thương xoáy gió
-lang_skill.db,SkillDescription,15,击飞伤害,,Sát thương hất tung
-lang_skill.db,SkillDescription,16,冷却时间,,Thời gian hồi
-lang_skill.db,SkillDescription,17,{0}秒,,{0} giây
-lang_skill.db,SkillDescription,18,恢复协奏值,,Hồi phục giá trị Hiệp Tấu
+<color=#d4bf5f>Quy tắc nhận Đạn Nhiệt Áp</color>
+Khi sử dụng các phương thức tấn công ngoài <color=#f4d582>Kỹ Năng Cộng Hưởng . Rắc Rắc Trấn Áp</color> trúng mục tiêu, đều có thể tích lũy [Đạn Nhiệt Áp] cho bản thân.</color>"
+lang_skill.db,Skill,31,步测鸣域,,Bước Đo Minh Vực
+lang_skill.db,Skill,32,<color=#ffffff>战斗中快跑减少20%耐力消耗</color>,,<color=#ffffff>Chạy nhanh trong chiến đấu giảm 20% tiêu hao Thể Lực</color>
+lang_skill.db,Skill,33,育苗,,Ươm Mầm
+lang_skill.db,Skill,34,"<color=#ffffff><color=#d4bf5f>普攻</color>
+培育藤蔓进行最多5段攻击，造成<color=#f9ff4a>衍射伤害</color>。第5段攻击命中目标时，玦园获得1层【光合能量】。
+
+<color=#d4bf5f>重击</color>
+消耗一定耐力往前冲刺，并造成<color=#f9ff4a>衍射伤害</color>。
+
+<color=#d4bf5f>空中攻击</color>
+在空中发动连续攻击，造成<color=#f9ff4a>衍射伤害</color>。
+
+<color=#d4bf5f>空中重击</color>
+消耗一定耐力从空中下砸攻击，造成<color=#f9ff4a>衍射伤害</color>。
+
+<color=#d4bf5f>闪避反击</color>
+成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会攻击目标，造成<color=#f9ff4a>衍射伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
+Nuôi dưỡng dây leo thực hiện tối đa 5 đoạn tấn công, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>. Khi đòn tấn công thứ 5 trúng mục tiêu, Verina nhận được 1 tầng [Năng Lượng Quang Hợp].
+
+<color=#d4bf5f>Đánh Mạnh</color>
+Tiêu hao một lượng Thể Lực nhất định lao về phía trước, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>.
+
+<color=#d4bf5f>Tấn Công Trên Không</color>
+Phát động tấn công liên tiếp trên không trung, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>.
+
+<color=#d4bf5f>Đánh Mạnh Trên Không</color>
+Tiêu hao một lượng Thể Lực nhất định từ trên không giáng xuống tấn công, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>.
+
+<color=#d4bf5f>Phản Công Né Tránh</color>
+Sau khi <color=#f4d582>Né Tránh</color> thành công, trong thời gian nhất định sử dụng <color=#f4d582>Đánh Thường</color>, sẽ tấn công mục tiêu, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>.</color>"
+lang_skill.db,Skill,35,扩繁试验,,Thí Nghiệm Nhân Giống
+lang_skill.db,Skill,36,<color=#ffffff>向前方集聚能量，让部分植物急速生长，在范围内造成<color=#f9ff4a>衍射伤害</color>，并获得1层【光合能量】。</color>,,"<color=#ffffff>Tích tụ năng lượng về phía trước, khiến một phần thực vật sinh trưởng cấp tốc, gây <color=#f9ff4a>Sát Thương Quang Phổ</color> trong phạm vi, và nhận 1 tầng [Năng Lượng Quang Hợp].</color>"
+lang_skill.db,Skill,37,草木生长,,Cỏ Cây Sinh Trưởng
+lang_skill.db,Skill,38,"<color=#ffffff>促使周围的草木急速生长，造成<color=#f9ff4a>衍射伤害</color>，恢复队伍中所有角色的生命值，命中目标时给目标添加<color=#f4d582>光合标记</color>。
+
+<color=#d4bf5f>光合标记</color>
+队伍中所有角色攻击命中携带光合标记的目标时，玦园都会进行协同攻击，造成<color=#f9ff4a>衍射伤害</color>，并为造成伤害的角色恢复生命值。</color>",,"<color=#ffffff>Thúc đẩy cỏ cây xung quanh sinh trưởng cấp tốc, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>, hồi phục HP cho tất cả nhân vật trong đội, khi trúng mục tiêu sẽ gắn <color=#f4d582>Ấn Ký Quang Hợp</color> lên mục tiêu.
+
+<color=#d4bf5f>Ấn Ký Quang Hợp</color>
+Khi bất kỳ nhân vật nào trong đội tấn công trúng mục tiêu mang Ấn Ký Quang Hợp, Verina đều sẽ thực hiện tấn công phối hợp, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>, và hồi phục HP cho nhân vật gây sát thương.</color>"
+lang_skill.db,Skill,39,维里奈定律,,Định Luật Verina
+lang_skill.db,Skill,40,<color=#ffffff>治疗目标时，若目标生命值低于50%，治疗效果提升20%。</color>,,"<color=#ffffff>Khi trị liệu mục tiêu, nếu HP của mục tiêu thấp hơn 50%, hiệu quả trị liệu tăng 20%.</color>"
+lang_skill.db,Skill,41,异变植物学,,Thực Vật Học Dị Biến
+lang_skill.db,Skill,42,<color=#ffffff>施放<color=#f4d582>连携技能·破土萌芽</color>登场后，自身的衍射伤害加成提升15%，持续8秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Kỹ Năng Liên Kết . Phá Đất Nảy Mầm</color> để xuất trận, Sát Thương Quang Phổ của bản thân tăng 15%, duy trì 8 giây.</color>"
+lang_skill.db,Skill,43,破土萌芽,,Phá Đất Nảy Mầm
+lang_skill.db,Skill,44,<color=#ffffff>滑步攻击目标，造成<color=#f9ff4a>衍射伤害</color>，并获得1层【光合能量】。</color>,,"<color=#ffffff>Lướt tới tấn công mục tiêu, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>, và nhận 1 tầng [Năng Lượng Quang Hợp].</color>"
+lang_skill.db,Skill,45,星星花绽放,,Hoa Sao Nở Rộ
+lang_skill.db,Skill,46,"<color=#ffffff><color=#d4bf5f>重击·星星花绽放</color>
+使用<color=#f4d582>重击</color>时，若拥有【光合能量】，则消耗1层【光合能量】，施放重击·星星花绽放，造成<color=#f9ff4a>衍射伤害</color>，此次伤害为重击伤害，并恢复队伍中所有角色的生命值。
+
+<color=#d4bf5f>光合能量获取规则</color>
+使用<color=#f4d582>普攻第5段</color>命中目标时能获得1层【光合能量】。
+使用<color=#f4d582>共鸣技能·扩繁试验</color>命中目标时能获得1层【光合能量】。
+使用<color=#f4d582>连携技能·破土萌芽</color>命中目标时能获得1层【光合能量】。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Mạnh . Hoa Sao Nở Rộ</color>
+Khi sử dụng <color=#f4d582>Đánh Mạnh</color>, nếu sở hữu [Năng Lượng Quang Hợp], sẽ tiêu hao 1 tầng [Năng Lượng Quang Hợp], thi triển Đánh Mạnh . Hoa Sao Nở Rộ, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>, sát thương lần này được tính là sát thương Đánh Mạnh, và hồi phục HP cho tất cả nhân vật trong đội.
+
+<color=#d4bf5f>Quy tắc nhận Năng Lượng Quang Hợp</color>
+Sử dụng <color=#f4d582>Đánh Thường đoạn 5</color> trúng mục tiêu có thể nhận 1 tầng [Năng Lượng Quang Hợp].
+Sử dụng <color=#f4d582>Kỹ Năng Cộng Hưởng . Thí Nghiệm Nhân Giống</color> trúng mục tiêu có thể nhận 1 tầng [Năng Lượng Quang Hợp].
+Sử dụng <color=#f4d582>Kỹ Năng Liên Kết . Phá Đất Nảy Mầm</color> trúng mục tiêu có thể nhận 1 tầng [Năng Lượng Quang Hợp].</color>"
+lang_skill.db,Skill,47,巧手烹调,,Khéo Tay Hay Làm
+lang_skill.db,Skill,48,<color=#ffffff>烹饪鸣域探索类菜肴时，有20%概率获得双倍相同菜肴。</color>,,"<color=#ffffff>Khi nấu các món ăn thám hiểm Minh Vực, có 20% xác suất nhận được gấp đôi món ăn tương tự.</color>"
+lang_skill.db,Skill,49,划下限界,,Vạch Ra Giới Hạn
+lang_skill.db,Skill,50,"<color=#ffffff><color=#d4bf5f>普攻</color>
+指挥忧昙进行最多4段连续攻击，造成<color=#1891e7ff>冷凝伤害</color>。
+
+<color=#d4bf5f>重击</color>
+持续消耗耐力，牵引忧昙不断旋转攻击附近目标，造成<color=#1891e7ff>冷凝伤害</color>。重击期间可控制忧昙进行移动。
+
+<color=#d4bf5f>空中攻击</color>
+消耗一定耐力，在空中召唤忧昙进行下落攻击，造成<color=#1891e7ff>冷凝伤害</color>。
+
+<color=#d4bf5f>闪避反击</color>
+成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会攻击目标，造成<color=#1891e7ff>冷凝伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
+Chỉ huy Ưu Đàm thực hiện tối đa 4 đoạn tấn công liên tiếp, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>.
+
+<color=#d4bf5f>Đánh Mạnh</color>
+Liên tục tiêu hao Thể Lực, kéo Ưu Đàm xoay tròn liên tục tấn công mục tiêu gần đó, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>. Trong khi Đánh Mạnh có thể điều khiển Ưu Đàm di chuyển.
+
+<color=#d4bf5f>Tấn Công Trên Không</color>
+Tiêu hao một lượng Thể Lực nhất định, triệu hồi Ưu Đàm trên không thực hiện tấn công từ trên xuống, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>.
+
+<color=#d4bf5f>Phản Công Né Tránh</color>
+Sau khi <color=#f4d582>Né Tránh</color> thành công, trong thời gian nhất định sử dụng <color=#f4d582>Đánh Thường</color>, sẽ tấn công mục tiêu, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>.</color>"
+lang_skill.db,Skill,51,乍暖还寒,,Chợt Ấm Lại Lạnh
+lang_skill.db,Skill,52,<color=#ffffff>呼唤忧昙回到身边，并立即恢复全队生命值。</color>,,"<color=#ffffff>Gọi Ưu Đàm quay về bên cạnh, và lập tức hồi phục HP cho toàn đội.</color>"
+lang_skill.db,Skill,53,溯返之力,,Sức Mạnh Hồi Tố
+lang_skill.db,Skill,54,"<color=#ffffff>召唤忧昙瞬间恢复全队生命值，并依次产生4个<color=#f4d582>冰徊结晶</color>。
+
+<color=#d4bf5f>冰徊结晶</color>
+冰徊结晶会跟随队伍中登场角色，每2.5秒会自动消耗一个冰徊结晶攻击目标，造成<color=#1891e7ff>冷凝伤害</color>，命中目标时以命中点为中心，恢复附近友方单位的生命值。</color>",,"<color=#ffffff>Triệu hồi Ưu Đàm hồi phục ngay lập tức HP cho toàn đội, và lần lượt tạo ra 4 <color=#f4d582>Kết Tinh Băng Hồi</color>.
+
+<color=#d4bf5f>Kết Tinh Băng Hồi</color>
+Kết Tinh Băng Hồi sẽ đi theo nhân vật đang chiến đấu trong đội, mỗi 2.5 giây sẽ tự động tiêu hao một Kết Tinh Băng Hồi tấn công mục tiêu, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>, khi trúng mục tiêu sẽ lấy điểm trúng đích làm tâm, hồi phục HP cho đơn vị phe ta gần đó.</color>"
+lang_skill.db,Skill,55,暖雪,,Tuyết Ấm
+lang_skill.db,Skill,56,"test/<color=#ffffff><color=#f4d582>重击</color>每次命中目标时，都能为全队恢复生命值，恢复量为白莲自身生命上限的0.25%。
+<color=#f4d582>重击</color>每命中3次，白莲获得1点【寒意】。</color>",,"test/<color=#ffffff>Mỗi khi <color=#f4d582>Đánh Mạnh</color> trúng mục tiêu, đều có thể hồi phục HP cho toàn đội, lượng hồi phục bằng 0.25% giới hạn HP của Baizhi.
+<color=#f4d582>Đánh Mạnh</color> mỗi khi trúng 3 lần, Baizhi nhận được 1 điểm [Hàn Ý].</color>"
+lang_skill.db,Skill,57,落花,,Hoa Rơi
+lang_skill.db,Skill,58,"<color=#ffffff>施放<color=#f4d582>共鸣技能·乍暖还寒</color>时，忧昙会飘落2片【花瓣】，存在时间15秒。
+当前角色每拾取1片【花瓣】，将会获得1层护盾。
+该护盾可持续10秒，最多可叠加3层。</color>",,"<color=#ffffff>Khi thi triển <color=#f4d582>Kỹ Năng Cộng Hưởng . Chợt Ấm Lại Lạnh</color>, Ưu Đàm sẽ rơi ra 2 cánh [Hoa Biện], tồn tại trong 15 giây.
+Nhân vật hiện tại mỗi khi nhặt 1 cánh [Hoa Biện], sẽ nhận được 1 tầng khiên.
+Khiên này có thể duy trì 10 giây, tối đa cộng dồn 3 tầng.</color>"
+lang_skill.db,Skill,59,切勿烦扰,,Xin Đừng Quấy Rầy
+lang_skill.db,Skill,60,<color=#ffffff>白莲召唤忧昙，进行1次俯冲攻击，造成<color=#1891e7ff>冷凝伤害</color>，并获得2点【寒意】。</color>,,"<color=#ffffff>Baizhi triệu hồi Ưu Đàm, thực hiện 1 lần tấn công bổ nhào, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>, và nhận 2 điểm [Hàn Ý].</color>"
+lang_skill.db,Skill,61,莲绽覆冰,,Sen Nở Phủ Băng
+lang_skill.db,Skill,62,"<color=#ffffff><color=#d4bf5f>忧昙</color>
+与白莲一体共生的残响生物，继承白莲的全部属性。白莲闪避时，忧昙会回到白莲身边。
+
+<color=#d4bf5f>寒意</color>
+施放<color=#f4d582>共鸣技能·乍暖还寒</color>时，消耗所有【寒意】，每消耗1点【寒意】，额外恢复1次生命，每次恢复间隔2秒。
+
+<color=#d4bf5f>寒意获取规则</color>
+<color=#f4d582>普攻第2、4段</color>命中目标时，获得1点【寒意】。
+施放<color=#f4d582>连携技能·切勿烦扰</color>时，获得1点【寒意】。</color>",,"<color=#ffffff><color=#d4bf5f>Ưu Đàm</color>
+Sinh vật tàn hưởng cộng sinh nhất thể với Baizhi, kế thừa toàn bộ chỉ số của Baizhi. Khi Baizhi né tránh, Ưu Đàm sẽ quay về bên cạnh Baizhi.
+
+<color=#d4bf5f>Hàn Ý</color>
+Khi thi triển <color=#f4d582>Kỹ Năng Cộng Hưởng . Chợt Ấm Lại Lạnh</color>, tiêu hao tất cả [Hàn Ý], mỗi khi tiêu hao 1 điểm [Hàn Ý], hồi phục thêm 1 lần HP, mỗi lần hồi phục cách nhau 2 giây.
+
+<color=#d4bf5f>Quy tắc nhận Hàn Ý</color>
+<color=#f4d582>Đánh Thường đoạn 2, 4</color> trúng mục tiêu, nhận 1 điểm [Hàn Ý].
+Thi triển <color=#f4d582>Kỹ Năng Liên Kết . Xin Đừng Quấy Rầy</color>, nhận 1 điểm [Hàn Ý].</color>"
+lang_skill.db,Skill,63,巧手烹调,,Khéo Tay Hay Làm
+lang_skill.db,Skill,64,<color=#ffffff>烹饪强化生存类菜肴时，有20%概率获得双倍相同菜肴。</color>,,"<color=#ffffff>Khi nấu các món ăn cường hóa sinh tồn, có 20% xác suất nhận được gấp đôi món ăn tương tự.</color>"
+lang_skill.db,Skill,65,锋华,,Phong Hoa
+lang_skill.db,Skill,66,"<color=#ffffff><color=#d4bf5f>普攻</color>
+进行最多5段连续攻击。使用第5段攻击时，造成<color=#1891e7ff>冷凝伤害</color>，获得1层【透视】。
+
+<color=#d4bf5f>重击</color>
+消耗一定耐力，发动攻击，造成<color=#1891e7ff>冷凝伤害</color>。
+
+<color=#d4bf5f>空中攻击</color>
+从空中跃起，下坠冲击地面，造成<color=#1891e7ff>冷凝伤害</color>。
+
+<color=#d4bf5f>闪避反击</color>
+成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会攻击目标，造成<color=#1891e7ff>冷凝伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
+Thực hiện tối đa 5 đoạn tấn công liên tiếp. Khi sử dụng đòn tấn công thứ 5, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>, nhận 1 tầng [Thấu Thị].
+
+<color=#d4bf5f>Đánh Mạnh</color>
+Tiêu hao một lượng Thể Lực nhất định, phát động tấn công, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>.
+
+<color=#d4bf5f>Tấn Công Trên Không</color>
+Nhảy lên từ không trung, lao xuống đập mạnh vào mặt đất, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>.
+
+<color=#d4bf5f>Phản Công Né Tránh</color>
+Sau khi <color=#f4d582>Né Tránh</color> thành công, trong thời gian nhất định sử dụng <color=#f4d582>Đánh Thường</color>, sẽ tấn công mục tiêu, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>.</color>"
+lang_skill.db,Skill,67,朔雪永冻,,Sóc Tuyết Vĩnh Đông
+lang_skill.db,Skill,68,<color=#ffffff>造成<color=#1891e7ff>冷凝伤害</color>，获得1层【透视】，并恢复协奏值。剑气会留下1道【冰棱】，持续5秒。</color>,,"<color=#ffffff>Gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>, nhận 1 tầng [Thấu Thị], và hồi phục Năng Lượng Hiệp Tấu. Kiếm khí sẽ để lại 1 [Băng Lăng], duy trì 5 giây.</color>"
+lang_skill.db,Skill,69,焦瞑冻土,,Tiêu Minh Đống Thổ
+lang_skill.db,Skill,70,"<color=#ffffff>造成<color=#1891e7ff>冷凝伤害</color>，并形成1道【冰川】，持续5秒。
+同时会获得2层【透视】。</color>",,"<color=#ffffff>Gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>, và hình thành 1 [Sông Băng], duy trì 5 giây.
+Đồng thời sẽ nhận 2 tầng [Thấu Thị].</color>"
+lang_skill.db,Skill,71,凝冰不化,,Ngưng Băng Bất Hóa
+lang_skill.db,Skill,72,<color=#ffffff>散华成功引爆【冰棱】、【冰棘】、【冰川】时，会使全队提升15%攻击力，持续7秒。</color>,,"<color=#ffffff>Khi Sanhua kích nổ thành công [Băng Lăng], [Băng Cức], [Sông Băng], sẽ khiến toàn đội tăng 15% tấn công, duy trì 7 giây.</color>"
+lang_skill.db,Skill,73,饮冰啜雪,,Ẩm Băng Xuyết Tuyết
+lang_skill.db,Skill,74,<color=#ffffff>施放<color=#f4d582>共鸣技能·朔雪永冻</color>后，<color=#f4d582>重击·爆裂</color>会提高40%伤害，持续7秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Kỹ Năng Cộng Hưởng . Sóc Tuyết Vĩnh Đông</color>, <color=#f4d582>Đánh Mạnh . Bạo Liệt</color> sẽ tăng 40% sát thương, duy trì 7 giây.</color>"
+lang_skill.db,Skill,75,凛刺,,Lẫm Thích
+lang_skill.db,Skill,76,<color=#ffffff>往下刺出1下，造成<color=#1891e7ff>冷凝伤害</color>，留下1道【冰棘】，获得1层【透视】。</color>,,"<color=#ffffff>Đâm xuống dưới 1 nhát, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>, để lại 1 [Băng Cức], nhận 1 tầng [Thấu Thị].</color>"
+lang_skill.db,Skill,77,爆裂无声,,Bạo Liệt Vô Thanh
+lang_skill.db,Skill,78,"<color=#ffffff><color=#d4bf5f>重击·爆裂</color>
+散华长按<color=#f4d582>重击</color>时，若指针在【冰痕】区域内松开重击，散华将施放重击·爆裂，向目标突进，造成<color=#1891e7ff>冷凝伤害</color>，此次伤害为重击伤害。
+
+<color=#d4bf5f>冰爆</color>
+<color=#f4d582>重击·爆裂</color>会引爆攻击路径内的【冰棘】、【冰棱】和【冰川】，造成<color=#1891e7ff>冷凝伤害</color>，【冰棘】的伤害为连携技能伤害，【冰棱】的爆炸伤害为共鸣技能伤害，【冰川】的爆炸伤害为共鸣解放伤害。
+
+<color=#d4bf5f>冰痕区域扩大规则</color>
+每拥有1层【透视】都会使【冰痕】区域扩大，最多拥有两层【透视】。
+施放<color=#f4d582>普攻第5段</color>时，获得1层【透视】。
+施放<color=#f4d582>连携技能·凛刺</color>时，获得1层【透视】。
+施放<color=#f4d582>共鸣技能·朔雪永冻</color>时，获得1层【透视】。
+施放<color=#f4d582>共鸣解放·焦瞑冻土</color>时，获得2层【透视】。
+扩大后的【冰痕】存在5秒后会恢复初始区域大小。
+成功使用<color=#f4d582>重击·爆裂</color>也会使扩大后的【冰痕】恢复初始大小。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Mạnh . Bạo Liệt</color>
+Khi Sanhua nhấn giữ <color=#f4d582>Đánh Mạnh</color>, nếu thả Đánh Mạnh khi con trỏ nằm trong khu vực [Băng Ngân], Sanhua sẽ thi triển Đánh Mạnh . Bạo Liệt, lao tới mục tiêu, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>, sát thương lần này được tính là sát thương Đánh Mạnh.
+
+<color=#d4bf5f>Băng Bạo</color>
+<color=#f4d582>Đánh Mạnh . Bạo Liệt</color> sẽ kích nổ [Băng Cức], [Băng Lăng] và [Sông Băng] trong đường tấn công, gây <color=#1891e7ff>Sát Thương Ngưng Băng</color>. Sát thương của [Băng Cức] được tính là sát thương Kỹ Năng Liên Kết, sát thương nổ của [Băng Lăng] được tính là sát thương Kỹ Năng Cộng Hưởng, sát thương nổ của [Sông Băng] được tính là sát thương Giải Phóng Cộng Hưởng.
+
+<color=#d4bf5f>Quy tắc mở rộng khu vực Băng Ngân</color>
+Mỗi tầng [Thấu Thị] sở hữu đều khiến khu vực [Băng Ngân] mở rộng, tối đa sở hữu 2 tầng [Thấu Thị].
+Khi thi triển <color=#f4d582>Đánh Thường đoạn 5</color>, nhận 1 tầng [Thấu Thị].
+Khi thi triển <color=#f4d582>Kỹ Năng Liên Kết . Lẫm Thích</color>, nhận 1 tầng [Thấu Thị].
+Khi thi triển <color=#f4d582>Kỹ Năng Cộng Hưởng . Sóc Tuyết Vĩnh Đông</color>, nhận 1 tầng [Thấu Thị].
+Khi thi triển <color=#f4d582>Giải Phóng Cộng Hưởng . Tiêu Minh Đống Thổ</color>, nhận 2 tầng [Thấu Thị].
+[Băng Ngân] sau khi mở rộng tồn tại 5 giây sẽ khôi phục kích thước khu vực ban đầu.
+Sử dụng thành công <color=#f4d582>Đánh Mạnh . Bạo Liệt</color> cũng sẽ khiến [Băng Ngân] đã mở rộng khôi phục kích thước ban đầu.</color>"
+lang_skill.db,Skill,79,步测鸣域,,Bước Đo Minh Vực
+lang_skill.db,Skill,80,<color=#ffffff>游泳时减少20%耐力消耗</color>,,<color=#ffffff>Khi bơi giảm 20% tiêu hao Thể Lực</color>
+lang_skill.db,Skill,81,化声为形,,Hóa Thanh Vi Hình
+lang_skill.db,Skill,82,"<color=#ffffff><color=#d4bf5f>普攻</color>
+进行4段连续攻击，每次攻击命中都会恢复一定量的【尘微之声】。
+
+<color=#d4bf5f>重击</color>
+消耗耐力，造成多段伤害。
+
+<color=#d4bf5f>重击·鸣奏</color>
+<color=#f4d582>第3段普攻</color>后，特效亮起时，点按普攻键，则会施放重击·鸣奏攻击目标。
+施放<color=#f4d582>重击</color>后，特效亮起时，点按普攻键，则会施放重击·鸣奏攻击目标。
+
+<color=#d4bf5f>重击·余音</color>
+<color=#f4d582>重击·鸣奏</color>命中目标后，下次攻击将会触发重击·余音，对目标再次造成<color=#f9ff4a>衍射伤害</color>。
+重击·余音命中目标后，将恢复50点【尘微之声】。
+
+<color=#d4bf5f>空中攻击</color>
+在空中发动1次向下攻击，造成<color=#f9ff4a>衍射伤害</color>。
+
+<color=#d4bf5f>闪避反击</color>
+成功<color=#f4d582>闪避</color>后一定时间内使用<color=#f4d582>普攻</color>，将会施放重击·鸣奏攻击目标，造成<color=#f9ff4a>衍射伤害</color>。</color>",,"<color=#ffffff><color=#d4bf5f>Đánh Thường</color>
+Thực hiện 4 đoạn tấn công liên tiếp, mỗi lần tấn công trúng đích đều sẽ hồi phục một lượng [Trần Vi Chi Thanh] nhất định.
+
+<color=#d4bf5f>Đánh Mạnh</color>
+Tiêu hao Thể Lực, gây sát thương nhiều đoạn.
+
+<color=#d4bf5f>Đánh Mạnh . Minh Tấu</color>
+Sau <color=#f4d582>Đánh Thường đoạn 3</color>, khi hiệu ứng sáng lên, nhấn phím Đánh Thường, sẽ thi triển Đánh Mạnh . Minh Tấu tấn công mục tiêu.
+Sau khi thi triển <color=#f4d582>Đánh Mạnh</color>, khi hiệu ứng sáng lên, nhấn phím Đánh Thường, sẽ thi triển Đánh Mạnh . Minh Tấu tấn công mục tiêu.
+
+<color=#d4bf5f>Đánh Mạnh . Dư Âm</color>
+Sau khi <color=#f4d582>Đánh Mạnh . Minh Tấu</color> trúng mục tiêu, lần tấn công tiếp theo sẽ kích hoạt Đánh Mạnh . Dư Âm, gây thêm <color=#f9ff4a>Sát Thương Quang Phổ</color> lên mục tiêu.
+Sau khi Đánh Mạnh . Dư Âm trúng mục tiêu, sẽ hồi phục 50 điểm [Trần Vi Chi Thanh].
+
+<color=#d4bf5f>Tấn Công Trên Không</color>
+Phát động 1 lần tấn công xuống dưới từ không trung, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>.
+
+<color=#d4bf5f>Phản Công Né Tránh</color>
+Sau khi <color=#f4d582>Né Tránh</color> thành công, trong thời gian nhất định sử dụng <color=#f4d582>Đánh Thường</color>, sẽ thi triển Đánh Mạnh . Minh Tấu tấn công mục tiêu, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>.</color>"
+lang_skill.db,Skill,83,浮声鸣尘,,Phù Thanh Minh Trần
+lang_skill.db,Skill,84,<color=#ffffff>向前方发动1次攻击，造成<color=#f9ff4a>衍射伤害</color>。</color>,,"<color=#ffffff>Phát động 1 lần tấn công về phía trước, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>.</color>"
+lang_skill.db,Skill,85,寂鸣极异,,Tịch Minh Cực Dị
+lang_skill.db,Skill,86,<color=#ffffff>聚集衍射能量攻击目标区域。短暂延迟后，目标区域将发生爆炸，造成<color=#f9ff4a>衍射伤害</color>。</color>,,"<color=#ffffff>Tụ tập năng lượng Quang Phổ tấn công khu vực mục tiêu. Sau một khoảng trễ ngắn, khu vực mục tiêu sẽ phát nổ, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>.</color>"
+lang_skill.db,Skill,87,屏息,,Bình Tức
+lang_skill.db,Skill,88,<color=#ffffff>施放<color=#f4d582>重击·鸣奏</color>后，漂泊者的攻击提升15%，持续5秒。</color>,,"<color=#ffffff>Sau khi thi triển <color=#f4d582>Đánh Mạnh . Minh Tấu</color>, tấn công của Lữ Khách tăng 15%, duy trì 5 giây.</color>"
+lang_skill.db,Skill,89,凝神,,Ngưng Thần
+lang_skill.db,Skill,90,<color=#ffffff><color=#f4d582>共鸣技能·浮声鸣尘·回声</color>命中目标后，将恢复漂泊者20点协奏值。</color>,,"<color=#ffffff>Sau khi <color=#f4d582>Kỹ Năng Cộng Hưởng . Phù Thanh Minh Trần . Hồi Thanh</color> trúng mục tiêu, sẽ hồi phục cho Lữ Khách 20 điểm Năng Lượng Hiệp Tấu.</color>"
+lang_skill.db,Skill,91,震声,,Chấn Thanh
+lang_skill.db,Skill,92,<color=#ffffff>发动1次向下攻击，造成<color=#f9ff4a>衍射伤害</color>，并恢复50点【尘微之声】。</color>,,"<color=#ffffff>Phát động 1 lần tấn công xuống dưới, gây <color=#f9ff4a>Sát Thương Quang Phổ</color>, và hồi phục 50 điểm [Trần Vi Chi Thanh].</color>"

@@ -1,101 +1,102 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ErrorCode_100018_Text,游戏版本号不匹配，请检查目前游戏版本是否为最新版本，如有疑问请联系官方客服,Version number unmatched.,"Phiên bản game không khớp, vui lòng kiểm tra xem phiên bản game hiện tại có phải bản mới nhất không. Nếu có thắc mắc, vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_100019_Text,更新器版本号过低，请重启更新游戏,Launcher outdated. Please restart to update the game.,"Phiên bản trình cập nhật quá thấp, vui lòng khởi động lại để cập nhật game"
-lang_multi_text.db,MultiText,ErrorCode_100020_Text,资源版本号过低，请重启更新游戏,Asset outdated. Please restart to update the game.,"Phiên bản tài nguyên quá thấp, vui lòng khởi động lại để cập nhật game"
-lang_multi_text.db,MultiText,ErrorCode_100021_Text,与服务器断开连接，请稍后再试。,Disconnected from the server. Please try again later.,"Đã mất kết nối với máy chủ, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_100022_Text,获取登录状态失败，请稍后再试。,"Failed to get the login status, please try again later.","Không thể lấy trạng thái đăng nhập, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_100023_Text,正在登出和数据保存，请稍后再试。,"Logging out and saving data, please try again later.","Đang đăng xuất và lưu dữ liệu, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_100024_Text,网络异常，请稍后再试。,Network error. Please try again later.,"Lỗi mạng, vui lòng thử lại sau."
-lang_multi_text.db,MultiText,ErrorCode_100025_Text,登录超时，请重新尝试。,Login timeout. Please try again later.,"Đăng nhập quá thời gian, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_1051001_Text,黑金秘市活动未开放,Gilded Nightmarket unavailable,Sự kiện Chợ Đêm Hắc Kim chưa mở
-lang_multi_text.db,MultiText,ErrorCode_1051002_Text,黑金秘市任务异常，请重试,Gilded Nightmarket task error. Please try again,"Nhiệm vụ Chợ Đêm Hắc Kim bị lỗi, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1051003_Text,黑金秘市任务未完成,Gilded Nightmarket task not completed,Nhiệm vụ Chợ Đêm Hắc Kim chưa hoàn thành
-lang_multi_text.db,MultiText,ErrorCode_1051004_Text,黑金秘市任务奖励已领取,Gilded Nightmarket task rewards already claimed,Phần thưởng nhiệm vụ Chợ Đêm Hắc Kim đã được nhận
-lang_multi_text.db,MultiText,ErrorCode_1051005_Text,黑金秘市活动异常，请重试,Gilded Nightmarket event error. Please try again,"Sự kiện Chợ Đêm Hắc Kim bị lỗi, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_10_Text,存在异常，如有疑问请联系官方客服,Wrong GM parameter,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100000_Text,"引导信息为空,引导组:{0}",Missing guide information. Guide group: {0},"Thông tin hướng dẫn trống, nhóm hướng dẫn: {0}"
-lang_multi_text.db,MultiText,ErrorCode_1100001_Text,"引导状态错误, 引导组:{0}, 状态:{1}",Guide status error. Guide group: {0}. Status: {1},"Lỗi trạng thái hướng dẫn, nhóm hướng dẫn: {0}, trạng thái: {1}"
-lang_multi_text.db,MultiText,ErrorCode_1100002_Text,"引导配置找不到, 引导Id:{0}",Guide configuration not found. Guide ID: {0},"Không tìm thấy cấu hình hướng dẫn, ID hướng dẫn: {0}"
-lang_multi_text.db,MultiText,ErrorCode_1100003_Text,"引导尚未满足完成条件, 引导Id:{0}, 条件Id:{1}",Guide completion requirements not met. Guide ID: {0}. Condition ID: {1},"Hướng dẫn chưa đáp ứng điều kiện hoàn thành, ID hướng dẫn: {0}, ID điều kiện: {1}"
-lang_multi_text.db,MultiText,ErrorCode_1100004_Text,"引导已完成, 引导组:{0}",Guide completed. Guide group: {0},"Hướng dẫn đã hoàn thành, nhóm hướng dẫn: {0}"
-lang_multi_text.db,MultiText,ErrorCode_1100005_Text,"前置引导未完成, 当前引导Id:{0}, 前置引导Id:{1}",Guide prerequisite incomplete. Current guide ID: {0}. Guide prerequisite ID: {1},"Hướng dẫn trước chưa hoàn thành, ID hướng dẫn hiện tại: {0}, ID hướng dẫn trước: {1}"
-lang_multi_text.db,MultiText,ErrorCode_1100006_Text,"引导没有完成条件, 引导Id:{0}",Missing guide completion requirement. Guide ID: {0},"Hướng dẫn không có điều kiện hoàn thành, ID hướng dẫn: {0}"
-lang_multi_text.db,MultiText,ErrorCode_1100007_Text,没有执行中的导航组,No running navigation group,Không có nhóm điều hướng đang chạy
-lang_multi_text.db,MultiText,ErrorCode_1100008_Text,无法完成服务器监听的引导步骤,Cannot complete guide procedure of server monitoring,Không thể hoàn thành bước hướng dẫn do máy chủ theo dõi
-lang_multi_text.db,MultiText,ErrorCode_1100009_Text,当前触发引导不在挂起列表,Current activation guide not in pending list,Hướng dẫn đang kích hoạt không nằm trong danh sách chờ
-lang_multi_text.db,MultiText,ErrorCode_1100010_Text,引导步骤重复触发,Repeated activation for guide step,Bước hướng dẫn bị kích hoạt lặp lại
-lang_multi_text.db,MultiText,ErrorCode_1100011_Text,非前端控制的引导组,Not a front end controlled guide group,Nhóm hướng dẫn không do giao diện điều khiển
-lang_multi_text.db,MultiText,ErrorCode_1100012_Text,"引导组进行中, 不能加到挂起列表","Guide group currently running, cannot be added to pending list","Nhóm hướng dẫn đang tiến hành, không thể thêm vào danh sách chờ"
-lang_multi_text.db,MultiText,ErrorCode_1100013_Text,引导组不可以重复触发,Guide group cannot be activated repeatedly,Nhóm hướng dẫn không thể kích hoạt lặp lại
-lang_multi_text.db,MultiText,ErrorCode_1100014_Text,教程配置不存在,Tutorial configuration does not exist,Cấu hình hướng dẫn không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1100015_Text,教程已解锁,Tutorial unlocked,Hướng dẫn đã mở khóa
-lang_multi_text.db,MultiText,ErrorCode_1100016_Text,教程未解锁,Tutorial locked,Hướng dẫn chưa mở khóa
-lang_multi_text.db,MultiText,ErrorCode_1100017_Text,教程奖励已领取,Already claimed tutorial rewards,Phần thưởng hướng dẫn đã được nhận
-lang_multi_text.db,MultiText,ErrorCode_1100018_Text,教程奖励掉落配置不存在,Tutorial reward drop configuration does not exist,Cấu hình rơi phần thưởng hướng dẫn không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1100019_Text,教程奖励发放出现错误,Tutorial reward drop deliver error,Đã xảy ra lỗi khi phát phần thưởng hướng dẫn
-lang_multi_text.db,MultiText,ErrorCode_1100020_Text,当前引导组Id不匹配,Current guide group ID mismatch,ID nhóm hướng dẫn hiện tại không khớp
-lang_multi_text.db,MultiText,ErrorCode_1100021_Text,请求的图鉴类型不存在,Requested index type does not exist,Loại đồ giám được yêu cầu không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1100022_Text,图鉴条目尚未解锁,Index entry locked,Mục đồ giám chưa mở khóa
-lang_multi_text.db,MultiText,ErrorCode_1100023_Text,该类型条目尚不支持解锁,Current type of entry cannot be unlocked,Loại mục này hiện chưa hỗ trợ mở khóa
-lang_multi_text.db,MultiText,ErrorCode_1100024_Text,请求数量超过最大图鉴数量,Requested amount exceeds max index quantity,Số lượng yêu cầu vượt quá giới hạn đồ giám
-lang_multi_text.db,MultiText,ErrorCode_1100025_Text,成就条目未激活，如有疑问请联系官方客服,"Achievement entry not activated, if you have any questions, please contact the official customer service","Mục thành tựu chưa kích hoạt, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100026_Text,成就条目未完成，如有疑问请联系官方客服,"Achievement entry not completed, if you have any questions, please contact the official customer service","Mục thành tựu chưa hoàn thành, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100027_Text,成就条目已领取，如有疑问请联系官方客服,"Achievement entry has been claimed, if you have any questions, please contact the official customer service","Mục thành tựu đã được nhận, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100028_Text,成就条目不存在，如有疑问请联系官方客服,"Achievement entry does not exist, if you have any questions, please contact the official customer service","Mục thành tựu không tồn tại, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100029_Text,成就条目未开放，如有疑问请联系官方客服,"Achievement entry not open, if you have any questions, please contact the official customer service","Mục thành tựu chưa mở, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100030_Text,成就组条目未激活，如有疑问请联系官方客服,"Achievement group entry not activated, if you have any questions, please contact the official customer service","Mục nhóm thành tựu chưa kích hoạt, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100031_Text,成就组条目未完成，如有疑问请联系官方客服,"Achievement group entry not completed, if you have any questions, please contact the official customer service","Mục nhóm thành tựu chưa hoàn thành, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100032_Text,成就组条目已领取，如有疑问请联系官方客服,"Achievement group entry has been claimed, if you have any questions, please contact the official customer service","Mục nhóm thành tựu đã được nhận, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100033_Text,成就组条目不存在，如有疑问请联系官方客服,"Achievement group entry does not exist, if you have any questions, please contact the official customer service","Mục nhóm thành tựu không tồn tại, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100034_Text,成就组条目未开放，如有疑问请联系官方客服,"Achievement group entry not open, if you have any questions, please contact the official customer service","Mục nhóm thành tựu chưa mở, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100035_Text,无音区配置异常，如有疑问请联系官方客服,"Tacet Field configuration is abnormal, if you have any questions, please contact the official customer service","Cấu hình Vùng Vô Thanh bị lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100036_Text,"无音区未解锁, 无法领取首通奖励，如有疑问请联系官方客服","Tacet Field not unlocked, unable to claim the first pass reward, if you have any questions, please contact the official customer service","Vùng Vô Thanh chưa mở khóa, không thể nhận thưởng qua lần đầu. Nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1100037_Text,"相关无音区未完成, 无法领取首通奖励，如有疑问请联系官方客服","Related Tacet Field not completed, unable to claim the first pass reward, if you have any questions, please contact the official customer service","Vùng Vô Thanh liên quan chưa hoàn thành, không thể nhận thưởng qua lần đầu. Nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1100038_Text,"首通奖励已领取, 无法再次领取，如有疑问请联系官方客服","First pass reward has been claimed, unable to claim again, if you have any questions, please contact the official customer service","Thưởng qua lần đầu đã được nhận, không thể nhận lại. Nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ."
-lang_multi_text.db,MultiText,ErrorCode_1100039_Text,成就条目已完成,Achievement entry has been completed,Mục thành tựu đã hoàn thành
-lang_multi_text.db,MultiText,ErrorCode_1100040_Text,成就条目需要条件才能完成,Achievement entry requires conditions to be completed,Mục thành tựu cần đáp ứng điều kiện mới hoàn thành được
-lang_multi_text.db,MultiText,ErrorCode_1100041_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100042_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100043_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100044_Text,共鸣者影像簿展示列表数量已超过最大值,The display list of the Resonator Showcase has exceeded the maximum value,Danh sách trưng bày Album Cộng Hưởng Giả đã vượt quá giới hạn
-lang_multi_text.db,MultiText,ErrorCode_1100045_Text,共鸣者影像簿展示列表显示异常，如有疑问请联系官方客服,"The display list of the Resonator Showcase is abnormal, if you have any questions, please contact the official customer service","Danh sách trưng bày Album Cộng Hưởng Giả hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100046_Text,共鸣者影像簿展示列表显示异常，如有疑问请联系官方客服,"The display list of theResonator Showcase is abnormal, if you have any questions, please contact the official customer service","Danh sách trưng bày Album Cộng Hưởng Giả hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100047_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách ấn chương lữ hành hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100048_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách ấn chương lữ hành hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100049_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách ấn chương lữ hành hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100050_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách ấn chương lữ hành hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100051_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách ấn chương lữ hành hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100052_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách ấn chương lữ hành hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100053_Text,共鸣者影像簿展示列表不能为空,The display list of the Resonator Showcase cannot be empty,Danh sách trưng bày Album Cộng Hưởng Giả không được để trống
-lang_multi_text.db,MultiText,ErrorCode_1100054_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100055_Text,心之集域路线表配置异常，如有疑问请联系官方客服,"The configuration of the Somnoire route table is abnormal, if you have any questions, please contact the official customer service","Cấu hình bảng tuyến đường Somnoire bị lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100056_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100057_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100058_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100059_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100060_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100061_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá thời gian, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100062_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá thời gian, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100063_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá thời gian, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100064_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá thời gian, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100065_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá thời gian, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100066_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá thời gian, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100067_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá thời gian, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100068_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá thời gian, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100069_Text,成就系统未开启,Achievement system is not activated,Hệ thống thành tựu chưa mở
-lang_multi_text.db,MultiText,ErrorCode_1100070_Text,已完成影片挑战，无法再进行移动指令,You have completed the Theater. Cannot perform movement input futher.,"Đã hoàn thành thử thách Theater, không thể thực hiện lệnh di chuyển nữa"
-lang_multi_text.db,MultiText,ErrorCode_1100071_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100072_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100073_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100074_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100075_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100076_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100077_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100078_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100079_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100080_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100081_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100082_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100083_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100084_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Somnoire gặp lỗi không xác định, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
-lang_multi_text.db,MultiText,ErrorCode_1100085_Text,当前记忆区无可刷新隐喻,No other Metaphors are currently available in this Memory Zone,Khu vực ký ức hiện tại không có Ẩn Dụ nào có thể làm mới
+lang_multi_text.db,MultiText,EpithetSourceDesc_SuiBo,在活动「穗波怪异物语」中完成危险等级6的虹音塔挑战，仅能在限时奖励期间获得此称号,"Clear Neon Tower Challenge at Danger Level Lv. 6 in the event ""Stranger Things in Honami"" within the Limited-Time Reward period.","Hoàn thành thử thách Tháp Cầu Vồng cấp độ nguy hiểm 6 trong sự kiện ""Dị Truyện Honami"", chỉ có thể nhận danh hiệu này trong thời gian thưởng hạn giờ"
+lang_multi_text.db,MultiText,EpithetSourceDesc_Tafang,在活动「潮蚀模拟」的「全局防卫测试」关卡中，坚守至第15波次并成功结算。仅能在限时奖励期间获得此称号,"Hold out until Wave 15 and then successfully finalize in the ""Total Defense Test"" of ""Tidal Defense Simulator.""
+Only available during the event's limited-time reward window.","Trong ải ""Kiểm Tra Phòng Thủ Toàn Cục"" của sự kiện ""Mô Phỏng Triều Thực"", kiên thủ đến đợt thứ 15 và tổng kết thành công. Chỉ có thể nhận danh hiệu này trong thời gian thưởng hạn giờ"
+lang_multi_text.db,MultiText,EpithetSourceDesc_Tower_1,累计获得1个周期「逆境深塔·深境区」的全部印记（当前已累计获得全部印记（{0}/{1}）期）,Obtain all Crests in the Tower of Adversity: Hazard Zone in 1 Trial Phase (Current progress: {0}/{1}),"Tích lũy nhận toàn bộ ấn ký của 1 chu kỳ ""Tháp Nghịch Cảnh - Khu Vực Sâu"" (Hiện đã tích lũy nhận toàn bộ ấn ký ({0}/{1}) kỳ)"
+lang_multi_text.db,MultiText,EpithetSourceDesc_Tower_2,累计获得5个周期「逆境深塔·深境区」的全部印记（当前已累计获得全部印记（{0}/{1}）期）,Obtain all Crests in the Tower of Adversity: Hazard Zone in 5 Trial Phases (Current progress: {0}/{1}),"Tích lũy nhận toàn bộ ấn ký của 5 chu kỳ ""Tháp Nghịch Cảnh - Khu Vực Sâu"" (Hiện đã tích lũy nhận toàn bộ ấn ký ({0}/{1}) kỳ)"
+lang_multi_text.db,MultiText,EpithetSourceDesc_Tower_3,累计获得10个周期「逆境深塔·深境区」的全部印记（当前已累计获得全部印记（{0}/{1}）期）,Obtain all Crests in the Tower of Adversity: Hazard Zone in 10 Trial Phases (Current progress: {0}/{1}),"Tích lũy nhận toàn bộ ấn ký của 10 chu kỳ ""Tháp Nghịch Cảnh - Khu Vực Sâu"" (Hiện đã tích lũy nhận toàn bộ ấn ký ({0}/{1}) kỳ)"
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_3.0HuanTong,在「全息战略·幻痛」中完成全部挑战,Complete all challenges in Tactical Hologram: Phantom Pain,"Hoàn thành tất cả thử thách trong ""Chiến Lược Toàn Tức - Ảo Thống"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_3.0QiangXi,在「全息战略·强袭」中完成全部挑战,Complete all challenges in Tactical Hologram: Calamity,"Hoàn thành tất cả thử thách trong ""Chiến Lược Toàn Tức - Cường Tập"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_3.1LiChenBei,「长迹伴行」中，伴行积分达到5000,"Reach 5,000 Journey Points in ""Starpaths Intertwined""","Trong ""Trường Tích Bạn Hành"", điểm đồng hành đạt 5000"
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_3.1XiuXiuXiu,在「奔驰！箭速与激情！」无尽挑战中达到80000分,"Reach 80,000 points in the Endless Track of ""Full Throttle! Bolt & Blitz!""","Đạt 80000 điểm trong thử thách vô tận của ""Chạy Mau! Tốc Độ Và Đam Mê!"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Babel_1,「虚域危局·原型解算」总负荷等级最高达到{0},Reach Total Stress Level {0} in Virtual Crisis: Prototype Trials.,"Cấp tổng tải trọng của ""Nguy Cơ Hư Vực - Giải Toán Nguyên Mẫu"" đạt tối đa {0}"
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Babel_2,「虚域危局·维度超验」总负荷等级最高达到{0},Reach Total Stress Level {0} in Virtual Crisis: Frontier Trials.,"Cấp tổng tải trọng của ""Nguy Cơ Hư Vực - Siêu Nghiệm Chiều"" đạt tối đa {0}"
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_GecaoTower_1,累计1期在「冥歌海墟·无尽湍渊」获得SSS级评分,Clear 1 phase of Whimpering Wastes: Infinite Torrents with SSS Rank.,"Tích lũy 1 kỳ nhận đánh giá SSS tại ""Minh Ca Hải Khư - Vô Tận Đoan Uyên"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_GecaoTower_2,累计5期在「冥歌海墟·无尽湍渊」获得SSS级评分,Clear 5 phases of Whimpering Wastes: Infinite Torrents with SSS Rank.,"Tích lũy 5 kỳ nhận đánh giá SSS tại ""Minh Ca Hải Khư - Vô Tận Đoan Uyên"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_GecaoTower_3,累计10期在「冥歌海墟·无尽湍渊」获得SSS级评分,Clear 10 phases of Whimpering Wastes: Infinite Torrents with SSS Rank.,"Tích lũy 10 kỳ nhận đánh giá SSS tại ""Minh Ca Hải Khư - Vô Tận Đoan Uyên"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_1,激活漂泊者·衍射的全部共鸣链,Fully activate Rover: Spectro's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lữ Khách - Quang Phổ
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_10,激活秋水的全部共鸣链,Fully activate Aalto's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Aalto
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_11,激活维里奈的全部共鸣链,Fully activate Verina's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Verina
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_12,激活安可的全部共鸣链,Fully activate Encore's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Encore
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_13,激活卡卡罗的全部共鸣链,Fully activate Calcharo's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Calcharo
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_14,激活凌阳的全部共鸣链,Fully activate Lingyang's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lingyang
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_15,激活鉴心的全部共鸣链,Fully activate Jianxin's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Jianxin
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_16,激活忌炎的全部共鸣链,Fully activate Jiyan's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Jiyan
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_17,激活吟霖的全部共鸣链,Fully activate Yinlin's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Yinlin
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_18,激活今汐的全部共鸣链,Fully activate Jinhsi's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Jinhsi
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_19,激活长离的全部共鸣链,Fully activate Changli's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Changli
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_2,激活秧秧的全部共鸣链,Fully activate Yangyang's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Yangyang
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_20,激活相里要的全部共鸣链,Fully activate Xiangli Yao's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Xiangli Yao
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_21,激活折枝的全部共鸣链,Fully activate Zhezhi's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Zhezhi
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_22,激活守岸人的全部共鸣链,Fully activate Shorekeeper's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Shorekeeper
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_23,激活釉瑚的全部共鸣链,Fully activate Youhu's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Youhu
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_24,激活椿的全部共鸣链,Fully activate Camellya's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Camellya
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_25,激活灯灯的全部共鸣链,Fully activate Lumi's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lumi
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_26,激活珂莱塔的全部共鸣链,Fully activate Carlotta's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Carlotta
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_27,激活洛可可的全部共鸣链,Fully activate Roccia's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Roccia
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_28,激活布兰特的全部共鸣链,Fully activate Brant's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Brant
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_29,激活菲比的全部共鸣链,Fully activate Phoebe's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Phoebe
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_3,激活炽霞的全部共鸣链,Fully activate Chixia's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Chixia
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_30,激活坎特蕾拉的全部共鸣链,Fully activate Cantarella's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Cantarella
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_31,激活夏空的全部共鸣链,Fully activate Ciaccona's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Ciaccona
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_32,激活赞妮的全部共鸣链,Fully activate Zani's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Zani
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_33,激活漂泊者·湮灭的全部共鸣链,Fully activate Rover: Havoc's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lữ Khách - Hủy Diệt
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_34,激活漂泊者·气动的全部共鸣链,Fully activate Rover: Aero's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lữ Khách - Khí Động
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_35,激活卡提希娅的全部共鸣链,Fully activate Cartethyia's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Cartethyia
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_36,激活露帕的全部共鸣链,Fully activate Lupa's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lupa
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_37,激活弗洛洛的全部共鸣链,Fully activate Phrolova's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Phrolova
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_38,激活奥古斯塔的全部共鸣链,Fully activate Augusta's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Augusta
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_39,激活尤诺的全部共鸣链,Fully activate Iuno's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Iuno
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_4,激活白芷的全部共鸣链,Fully activate Baizhi's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Baizhi
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_40,激活嘉贝莉娜的全部共鸣链,Fully activate Galbrena's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Galbrena
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_41,激活仇远的全部共鸣链,Fully activate Qiuyuan's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Qiuyuan
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_43,激活千咲的全部共鸣链,Fully activate Chisa's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Chisa
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_44,激活卜灵的全部共鸣链,Fully activate Buling's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Buling
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_45,激活琳奈的全部共鸣链,Fully activate Lynae's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Lynae
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_46,激活莫宁的全部共鸣链,Fully activate Mornye's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Mornye
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_47,激活爱弥斯的全部共鸣链,Fully activate Aemeath's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Aemeath
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_48,激活陆·赫斯的全部共鸣链,Fully activate Luuk Herssen's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Luuk Herssen
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_5,激活丹瑾的全部共鸣链,Fully activate Danjin's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Danjin
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_6,激活散华的全部共鸣链,Fully activate Sanhua's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Sanhua
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_7,激活桃祈的全部共鸣链,Fully activate Taoqi's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Taoqi
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_8,激活莫特斐的全部共鸣链,Fully activate Mortefi's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Mortefi
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Role_9,激活渊武的全部共鸣链,Fully activate Yuanwu's Resonance Chain,Kích hoạt toàn bộ Chuỗi Cộng Hưởng của Yuanwu
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_SuiBo,「穗波怪异物语」中完成危险等级6的虹音塔挑战,"Clear Neon Tower Challenge at Danger Level Lv. 6 in ""Stranger Things in Honami.""","Hoàn thành thử thách Tháp Cầu Vồng cấp độ nguy hiểm 6 trong ""Dị Truyện Honami"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Tafang,「全局防卫测试」最高防御波次达到{0}波次,"Hold out until Wave {0} in ""Total Defense Test""","Đợt phòng thủ cao nhất của ""Kiểm Tra Phòng Thủ Toàn Cục"" đạt đợt {0}"
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Tower_1,累计1期在「逆境深塔·深境区」获得全部印记,Obtain all Crests in the Tower of Adversity: Hazard Zone in 1 Trial Phase.,"Tích lũy 1 kỳ nhận toàn bộ ấn ký tại ""Tháp Nghịch Cảnh - Khu Vực Sâu"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Tower_2,累计5期在「逆境深塔·深境区」获得全部印记,Obtain all Crests in the Tower of Adversity: Hazard Zone in 5 Trial Phases.,"Tích lũy 5 kỳ nhận toàn bộ ấn ký tại ""Tháp Nghịch Cảnh - Khu Vực Sâu"""
+lang_multi_text.db,MultiText,EpithetSourcebriefDesc_Tower_3,累计10期在「逆境深塔·深境区」获得全部印记,Obtain all Crests in the Tower of Adversity: Hazard Zone in 10 Trial Phases.,"Tích lũy 10 kỳ nhận toàn bộ ấn ký tại ""Tháp Nghịch Cảnh - Khu Vực Sâu"""
+lang_multi_text.db,MultiText,EquipLockTipsText,该模块已被装备,This module has been equipped,Module này đã được trang bị
+lang_multi_text.db,MultiText,ErrEnterInstTypeErr,进入副本类型错误，请反馈客服处理,Wrong instance type. Please contact Customer Service for support.,"Loại phó bản vào bị lỗi, vui lòng liên hệ CSKH để xử lý"
+lang_multi_text.db,MultiText,ErrRiskHarvestActivityClosePlay,活动已结束,Event already concluded.,Sự kiện đã kết thúc
+lang_multi_text.db,MultiText,ErrRiskHarvestActivityNotOpen,活动数据异常，请联系客服,Abnormal event data. Please contact Customer Service for assistance.,"Dữ liệu sự kiện bất thường, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestBuffCountNotEnough,未达到领取奖励条件,Reward eligibility not met.,Chưa đạt điều kiện nhận thưởng
+lang_multi_text.db,MultiText,ErrRiskHarvestBuffCountRewardNotFound,活动数据异常，请联系客服,Abnormal event data. Please contact Customer Service for assistance.,"Dữ liệu sự kiện bất thường, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestBuffCountRewarded,奖励已领取,Reward already claimed.,Phần thưởng đã nhận
+lang_multi_text.db,MultiText,ErrRiskHarvestBuffGroupNotFound,活动数据异常，请联系客服,Abnormal event data. Please contact Customer Service for assistance.,"Dữ liệu sự kiện bất thường, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestBuffLocked,未达到领取奖励条件,Reward eligibility not met.,Chưa đạt điều kiện nhận thưởng
+lang_multi_text.db,MultiText,ErrRiskHarvestBuffNoReward,活动数据异常，请联系客服,Abnormal event data. Please contact Customer Service for assistance.,"Dữ liệu sự kiện bất thường, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestBuffRewarded,奖励已领取,Reward already claimed.,Phần thưởng đã nhận
+lang_multi_text.db,MultiText,ErrRiskHarvestInstDataNotFound,活动数据异常，请联系客服,Abnormal event data. Please contact Customer Service for assistance.,"Dữ liệu sự kiện bất thường, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestInstLocked,活动已结束,Event already concluded.,Sự kiện đã kết thúc
+lang_multi_text.db,MultiText,ErrRiskHarvestInstNotFound,活动数据异常，请联系客服,Abnormal event data. Please contact Customer Service for assistance.,"Dữ liệu sự kiện bất thường, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestInstNotPass,关卡数据异常，请联系客服,Abnormal challenge data. Please contact Customer Service for assistance.,"Dữ liệu ải bất thường, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestInstOpen,挑战开启,Challenge unlocked.,Mở khiêu chiến
+lang_multi_text.db,MultiText,ErrRiskHarvestInstRewarded,奖励已领取,Reward already claimed.,Phần thưởng đã nhận
+lang_multi_text.db,MultiText,ErrRiskHarvestInstScoreNotEnough,奖励已领取,Reward already claimed.,Phần thưởng đã nhận
+lang_multi_text.db,MultiText,ErrRiskHarvestInstTeleportEntityNotFound,找不到传送点，请联系客服,Unable to locate a nearby beacon. Please contact customer service.,"Không tìm thấy điểm dịch chuyển, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestLeaveClosePlay,离开玩法范围，玩法已关闭,You have left the event area. Unable to proceed.,"Rời khỏi phạm vi cách chơi, cách chơi đã đóng"
+lang_multi_text.db,MultiText,ErrRiskHarvestMatching,请离开多人游戏匹配状态再尝试,Please stop Co-op Mode matching and try again.,Vui lòng thoát trạng thái ghép đội nhiều người chơi rồi thử lại
+lang_multi_text.db,MultiText,ErrRiskHarvestModeChangeClosePlay,切换到多人模式，玩法已关闭,You have switched to Co-op Mode. Unable to proceed.,"Chuyển sang chế độ nhiều người chơi, cách chơi đã đóng"
+lang_multi_text.db,MultiText,ErrRiskHarvestMultiMode,处于多人模式中，不可进入关卡,Currently in Co-op Mode. Unable to proceed.,"Đang trong chế độ nhiều người chơi, không thể vào ải"
+lang_multi_text.db,MultiText,ErrRiskHarvestNotDefaultWorld,角色所处场景异常，无法开启活动，请联系客服,Unable to proceed due to abnormal environment. Please contact customer service.,"Cảnh nhân vật đang đứng bất thường, không thể mở sự kiện, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestNotInInst,不在海算模演活动副本内，无法进行操作,This action is not supported outside of the Infinite Battle Simulation instances.,"Không ở trong phó bản sự kiện Hải Toán Mô Diễn, không thể thao tác"
+lang_multi_text.db,MultiText,ErrRiskHarvestPlayDataNotFound,挑战开启失败，请联系客服,Failed to unlock the challenge. Please contact Customer Service for assistance.,"Mở khiêu chiến thất bại, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestPlayOpenFailed,挑战开启失败，请联系客服,Failed to unlock the challenge. Please contact Customer Service for assistance.,"Mở khiêu chiến thất bại, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestRoleTrial,拥有试用角色情况下无法开启活动，请完成相关任务玩法后再尝试,Unable to proceed when a trial Resonator is present. Please finish the relevant quest or event and try again.,"Không thể mở sự kiện khi đang sở hữu nhân vật dùng thử, vui lòng hoàn thành nhiệm vụ liên quan rồi thử lại"
+lang_multi_text.db,MultiText,ErrRiskHarvestScoreNotEnough,未达到奖励领取需要的,Insufficient Tactic Points to claim the reward.,Chưa đạt mức cần thiết để nhận thưởng
+lang_multi_text.db,MultiText,ErrRiskHarvestScoreRewardNotFound,积分数据异常，请联系客服,Abnormal Tactic Point Data. Please contact Customer Service for assistance.,"Dữ liệu điểm bất thường, vui lòng liên hệ CSKH"
+lang_multi_text.db,MultiText,ErrRiskHarvestScoreRewarded,奖励已领取,Reward already claimed.,Phần thưởng đã nhận
+lang_multi_text.db,MultiText,ErrorCode_0_Text,成功,Success,Thành công
+lang_multi_text.db,MultiText,ErrorCode_1000000_Text,buff道具配置不存在,Buff item configuration does not exist,Cấu hình đạo cụ buff không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_1000001_Text,buff道具不是共享类型,Buff item is not sharing type,Đạo cụ buff không phải loại chia sẻ

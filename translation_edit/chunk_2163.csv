@@ -1,173 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,TowerDefence_400050_PhantomDesc,"使用声骸技能，幻形为无归的谬误，对前方连续锤击，总计造成{0}的<color=#ffd12f>衍射伤害</color>。
-该技能造成伤害时，附近队伍中所有角色减少{1}的共鸣技能冷却时间，并获得{2}共鸣技能伤害加成，上限{3}层，持续{4}秒。重复触发刷新持续时间。
-技能冷却：{5}秒","Transform into Fallacy of No Return and perform consecutive strikes forward, dealing a total of {0} <color=#ffd12f>Spectro DMG</color>.
-Dealing DMG to enemies with this Echo Skill reduces Resonance Skill Cooldown by {1} for all nearby Resonators in the team and grants {2} Resonance Skill DMG Bonus for {4}s, stacking up to {3} times. Retriggering the effect resets its duration.
-CD: {5}s","Sử dụng Kỹ Năng Thanh Hài, biến hình thành Vô Quy Sai Lầm, liên tục đập búa về phía trước, tổng cộng gây {0} <color=#ffd12f>sát thương Quang Phổ</color>.
-Khi kỹ năng này gây sát thương, tất cả nhân vật trong đội ở gần được giảm {1} thời gian hồi Kỹ Năng Cộng Hưởng và nhận thêm {2} bonus sát thương Kỹ Năng Cộng Hưởng, tối đa {3} tầng, kéo dài {4} giây. Kích hoạt lại sẽ làm mới thời gian.
-Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,TowerDefence_400050_PhantomTitle,破门的利斧,Door-smashing Axe,Rìu Phá Cửa
-lang_multi_text.db,MultiText,TowerDefence_400060_PhantomDesc,"使用声骸技能，召唤魔术先生，释放3次强化乐章。每次使附近队伍中所有角色获得{0}点<color=#ffd12f>共鸣能量</color>与{1}共鸣解放伤害加成，持续{2}秒。并减少{3}的共鸣解放冷却时间。
-技能冷却：{4}秒","Summon a Hocus Pocus to release Augmented Note 3 times. Each time, all nearby Resonators in the team gain {0} <color=#ffd12f>Resonance Energy</color> and {1} Resonance Liberation DMG Bonus for {2}s, and have their Resonance Liberation Cooldown reduced by {3}.
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Ngài Ảo Thuật, phóng ra 3 lần nhạc chương tăng cường. Mỗi lần, tất cả nhân vật trong đội ở gần nhận được {0} <color=#ffd12f>Năng Lượng Cộng Hưởng</color> và {1} bonus sát thương Giải Phóng Cộng Hưởng, kéo dài {2} giây. Đồng thời giảm {3} thời gian hồi Giải Phóng Cộng Hưởng.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,TowerDefence_400060_PhantomTitle,眨眼的玩偶,Winking Doll,Búp Bê Nháy Mắt
-lang_multi_text.db,MultiText,TowerDefence_400070_PhantomDesc,"使用声骸技能，召唤幽翎火攻击，造成{0}的<color=#ffd12f>湮灭伤害</color>，并附加{1}层<color=#ffd12f>[恐慌]</color>。若目标<color=#ffd12f>[恐慌]</color>层数不小于70层，则本次攻击改为附加30层<color=#ffd12f>[恐慌]</color>。
-目标后续受到伤害时，获得{2}层<color=#ffd12f>[恐慌]</color>，每1秒最多触发1次。
-<color=#ffd12f>[恐慌]</color>达到100层后，对目标造成最大共振值100.00%的共振值伤害，使目标陷入瘫痪，期间目标受到伤害必定暴击，全属性伤害抗性降低{3}。触发效果后，移除<color=#ffd12f>[恐慌]</color>。
-目标瘫痪期间无法获得<color=#ffd12f>[恐慌]</color>。
-技能冷却：{4}秒","Summon a Fae Ignis to attack, dealing {0} <color=#ffd12f>Havoc DMG</color> and inflicting <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=#ffd12f>Panic</color> on the target. If the target has 70 or more stacks of <color=#ffd12f>Panic</color>, the attack deals the same DMG but inflicts 30 stacks of <color=#ffd12f>Panic</color> instead.
-When targets with Panic take DMG, they receive <SapTag=2>{2}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of <color=#ffd12f>Panic</color>. This effect is triggered once every second.
-When the target receives 100 stacks of <color=#ffd12f>Panic</color>, deal Vibration Strength DMG equal to 100.00% of the Max Vibration Strength and Immobilize the target. All Attribute DMG taken by the target under this effect is guaranteed to be Crit. DMG, and their DMG RES is reduced by {3}. Triggering this effect removes all stacks of <color=#ffd12f>Panic</color>.
-The target will not gain new stacks of <color=#ffd12f>Panic</color> when Immobilized.
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi U Linh Hỏa tấn công, gây {0} <color=#ffd12f>sát thương Hủy Diệt</color> và áp dụng {1} tầng <color=#ffd12f>[Hoảng Loạn]</color>. Nếu mục tiêu có từ 70 tầng <color=#ffd12f>[Hoảng Loạn]</color> trở lên, đòn tấn công này sẽ áp dụng 30 tầng <color=#ffd12f>[Hoảng Loạn]</color> thay thế.
-Khi mục tiêu nhận sát thương, nhận thêm {2} tầng <color=#ffd12f>[Hoảng Loạn]</color>, tối đa kích hoạt 1 lần mỗi giây.
-Khi <color=#ffd12f>[Hoảng Loạn]</color> đạt 100 tầng, gây sát thương cộng chấn bằng 100.00% giá trị cộng chấn tối đa lên mục tiêu, khiến mục tiêu rơi vào trạng thái tê liệt. Trong thời gian này, sát thương lên mục tiêu chắc chắn bạo kích, kháng sát thương toàn thuộc tính giảm {3}. Sau khi kích hoạt, xóa toàn bộ <color=#ffd12f>[Hoảng Loạn]</color>.
-Mục tiêu trong trạng thái tê liệt không thể nhận thêm <color=#ffd12f>[Hoảng Loạn]</color>.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,TowerDefence_400070_PhantomTitle,漂浮的气球,Floating Balloon,Bóng Bay Lơ Lửng
-lang_multi_text.db,MultiText,TowerDefence_400080_PhantomDesc,"使用声骸技能，幻形为浮灵偶，持续{0}秒。每次造成{1}<color=#ffd12f>热熔伤害</color>。该技能造成伤害时，刷新幻形持续时间，最多可持续{2}秒，并为目标附加{3}层<color=#ffd12f>[恐慌]</color>，对同一目标每秒最多触发1次。角色不在场时，不会刷新持续时间。
-<color=#ffd12f>[恐慌]</color>达到100层后，对目标造成最大共振值100.00%的共振值伤害，使目标陷入瘫痪，期间目标受到伤害必定暴击，全属性伤害抗性降低{4}。触发效果后，移除<color=#ffd12f>[恐慌]</color>。
-目标瘫痪期间无法获得<color=#ffd12f>[恐慌]</color>。
-技能冷却：{5}秒","Transform into Chop Chop for {0}s, dealing {1} <color=#ffd12f>Fusion DMG</color>. Dealing DMG to enemies resets the duration of Echo Transformation, with a maximum of {2}s, and inflicts <SapTag=3>{3}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=3} of <color=#ffd12f>Panic</color> on the target. This effect can be triggered once per second on each target. The Echo Transformation duration will not be reset when the Resonator is not on the field.
-When the target receives 100 stacks of <color=#ffd12f>Panic</color>, deplete the target's Vibration Strength by 100.00% of the Max Vibration Strength and Immobilize the target. The DMG taken by the target when Immobilized is guaranteed to be Crit. DMG, and their DMG RES for all Attributes is reduced by {4}. Triggering this effect removes all stacks of <color=#ffd12f>Panic</color>.
-The target will not gain new stacks of <color=#ffd12f>Panic</color> when Immobilized.
-CD: {5}s","Sử dụng Kỹ Năng Thanh Hài, biến hình thành Phù Linh Ngẫu, kéo dài {0} giây. Mỗi lần gây {1} <color=#ffd12f>sát thương Hỏa Liệt</color>. Khi kỹ năng này gây sát thương, làm mới thời gian biến hình, tối đa kéo dài {2} giây, đồng thời áp dụng {3} tầng <color=#ffd12f>[Hoảng Loạn]</color> lên mục tiêu, tối đa kích hoạt 1 lần mỗi giây trên cùng một mục tiêu. Khi nhân vật không ở trên sân, thời gian sẽ không được làm mới.
-Khi <color=#ffd12f>[Hoảng Loạn]</color> đạt 100 tầng, gây sát thương cộng chấn bằng 100.00% giá trị cộng chấn tối đa lên mục tiêu, khiến mục tiêu rơi vào trạng thái tê liệt. Trong thời gian này, sát thương lên mục tiêu chắc chắn bạo kích, kháng sát thương toàn thuộc tính giảm {4}. Sau khi kích hoạt, xóa toàn bộ <color=#ffd12f>[Hoảng Loạn]</color>.
-Mục tiêu trong trạng thái tê liệt không thể nhận thêm <color=#ffd12f>[Hoảng Loạn]</color>.
-Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,TowerDefence_400080_PhantomTitle,裂开的眼镜,Cracked Glasses,Kính Vỡ
-lang_multi_text.db,MultiText,TowerDefence_400090_PhantomDesc,"使用声骸技能，召唤欺诈奇藏。欺诈奇藏不断喷涌金币，附近队伍中的角色拾取金币时<color=#ffd12f>回复</color>自身{0}的生命值与{1}点耐力。并为附近队伍中所有角色附加<color=#ffd12f>[狂热]</color>，持续{2}秒。
-拥有<color=#ffd12f>[狂热]</color>时，提升{3}攻击力与{4}移动速度加成。<color=#ffd12f>[狂热]</color>层数大于6时，额外提升{5}攻击力与{6}移动速度加成，对瘫痪目标造成伤害提升{7}。
-技能冷却：{8}秒","Summon a Mimic Chest that constantly spits out gold coins. When picked up, the coin <color=#ffd12f>restores</color> {0} HP and {1} Stamina for the Resonator, and applies <color=#ffd12f>Fervor</color> to all nearby Resonators in the team for {2}s.
-Obtaining <color=#ffd12f>Fervor</color> increases ATK by {3} and Movement Speed by {4}. Having more than 6 stacks of <color=#ffd12f>Fervor</color> additionally increases ATK by {5}, Movement Speed by {6}, and DMG dealt to Immobilized targets by {7}.
-CD: {8}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Kỳ Tàng Lừa Đảo. Kỳ Tàng liên tục phun ra đồng vàng, khi nhân vật trong đội ở gần nhặt đồng vàng sẽ <color=#ffd12f>hồi phục</color> {0} sinh lực và {1} điểm thể lực. Đồng thời áp dụng <color=#ffd12f>[Cuồng Nhiệt]</color> cho tất cả nhân vật trong đội ở gần, kéo dài {2} giây.
-Khi có <color=#ffd12f>[Cuồng Nhiệt]</color>, tăng {3} tấn công và {4} tốc độ di chuyển. Khi số tầng <color=#ffd12f>[Cuồng Nhiệt]</color> lớn hơn 6, tăng thêm {5} tấn công và {6} tốc độ di chuyển, sát thương lên mục tiêu tê liệt tăng {7}.
-Hồi chiêu: {8} giây"
-lang_multi_text.db,MultiText,TowerDefence_400090_PhantomTitle,不祥的藏品,Ominous Collection,Bộ Sưu Tập Xui Xẻo
-lang_multi_text.db,MultiText,TowerDefence_5,支援型,Assist,Hỗ trợ
-lang_multi_text.db,MultiText,TowerDefence_Cantplay,仅限世界所有者可以开始游戏,Only the host can start the game.,Chỉ chủ thế giới mới có thể bắt đầu trò chơi
-lang_multi_text.db,MultiText,TowerDefence_GPint,最高分数：{0},Highest Score: {0},Điểm cao nhất: {0}
-lang_multi_text.db,MultiText,TowerDefence_Getbt1,领取,Claim,Nhận
-lang_multi_text.db,MultiText,TowerDefence_Getbt2,已完成,Completed,Đã hoàn thành
-lang_multi_text.db,MultiText,TowerDefence_Getbt3,未达成,Not Completed,Chưa đạt
-lang_multi_text.db,MultiText,TowerDefence_LV,<color=#ffd12f>{0}</color>/{1},<color=#ffd12f>{0}</color>/{1},<color=#ffd12f>{0}</color>/{1}
-lang_multi_text.db,MultiText,TowerDefence_Lvup,仿制声骸等级提升,Echoid level increased.,Cấp Thanh Hài mô phỏng tăng lên
-lang_multi_text.db,MultiText,TowerDefence_PhantasmTips,准备状态不能更换声骸,Cannot change Echoes in the Ready state,Không thể đổi Thanh Hài trong trạng thái chuẩn bị
-lang_multi_text.db,MultiText,TowerDefence_PintDesc,活动总积分,Total Points,Tổng điểm sự kiện
-lang_multi_text.db,MultiText,TowerDefence_PintOnly,最高分数：{0},Highest Score: {0},Điểm cao nhất: {0}
-lang_multi_text.db,MultiText,TowerDefence_PintOnlyMore,积分上限解锁至：{0},Max points limit increased to: {0},Giới hạn điểm mở khóa đến: {0}
-lang_multi_text.db,MultiText,TowerDefence_Restart,重新挑战,Restart,Thử lại
-lang_multi_text.db,MultiText,TowerDefence_Rolename,联觉等级：{0},Union Level: {0},Cấp Liên Giác: {0}
-lang_multi_text.db,MultiText,TowerDefence_Score,活动总积分,Total Points,Tổng điểm sự kiện
-lang_multi_text.db,MultiText,TowerDefence_Vison,解锁声骸,Unlocked Echoes,Mở khóa Thanh Hài
-lang_multi_text.db,MultiText,TowerDefence_confirm,装配,Equip,Trang bị
-lang_multi_text.db,MultiText,TowerDefence_dead0,失去意识,Defeated,Bất tỉnh
-lang_multi_text.db,MultiText,TowerDefence_dead1,当前波次结束后自动恢复状态,Status fully refreshed after the current wave.,Tự động hồi phục sau khi đợt hiện tại kết thúc.
-lang_multi_text.db,MultiText,TowerDefence_dead2,中途退出将丢失当前进度,You will lose the current progress if you quit partway,Thoát giữa chừng sẽ mất tiến trình hiện tại.
-lang_multi_text.db,MultiText,TowerDefence_end,退出,Quit,Thoát
-lang_multi_text.db,MultiText,TowerDefence_friendMore,有{0}条好友申请,You have {0} Friend Request(s).,Có {0} lời mời kết bạn
-lang_multi_text.db,MultiText,TowerDefence_friendOnly,有好友申请,New Friend Request(s),Có lời mời kết bạn
-lang_multi_text.db,MultiText,TowerDefence_lock,未解锁,Locked,Chưa mở khóa
-lang_multi_text.db,MultiText,TowerDefenceclear,完成关卡{0},Complete {0},Hoàn thành màn {0}
-lang_multi_text.db,MultiText,TowerDefencelose,本次挑战失败,Challenge Failed,Thử thách thất bại
-lang_multi_text.db,MultiText,TowerDefencesettlement,已通关高难挑战！,I Beat The Highest Difficulty!,Đã vượt qua thử thách độ khó cao nhất!
-lang_multi_text.db,MultiText,TowerDefencewenhao,?,?,?
-lang_multi_text.db,MultiText,TowerDefense_Battle_AuxiliaryMax,库洛洛武器携带数量已达上限,Can't equip more KU-Roro's Weapons,Số lượng vũ khí KU-Roro mang theo đã đạt giới hạn
-lang_multi_text.db,MultiText,TowerDefense_Battle_AuxiliaryNeed,必须携带至少一个库洛洛武器,At least one KU-Roro's Weapon should be equipped,Phải mang theo ít nhất một vũ khí KU-Roro
-lang_multi_text.db,MultiText,TowerDefense_Battle_Coinlimit,拟像贝币不足,Insufficient Sim Credits,Không đủ Bối Tệ Mô Phỏng
-lang_multi_text.db,MultiText,TowerDefense_Battle_Equip,装备,Equip,Trang bị
-lang_multi_text.db,MultiText,TowerDefense_Battle_Equip_Auxiliary,装备,Equip,Trang bị
-lang_multi_text.db,MultiText,TowerDefense_Battle_Groundonly,该装置只能部署在地面上,This machine can only be deployed on the ground,Thiết bị này chỉ có thể triển khai trên mặt đất
-lang_multi_text.db,MultiText,TowerDefense_Battle_Numlimit,已达作战装置放置上限,Can't deploy more Combat Machines,Đã đạt giới hạn đặt thiết bị chiến đấu
-lang_multi_text.db,MultiText,TowerDefense_Battle_SlotLock,该作战装置无法卸下,This machine cannot be removed,Không thể tháo thiết bị chiến đấu này
-lang_multi_text.db,MultiText,TowerDefense_Battle_Toponly,该装置只能部署在天花板上,This machine can only be deployed on the ceiling,Thiết bị này chỉ có thể triển khai trên trần
-lang_multi_text.db,MultiText,TowerDefense_Battle_Unload,卸下,Remove,Tháo ra
-lang_multi_text.db,MultiText,TowerDefense_Battle_Wallonly,该装置只能部署在墙壁上,This machine can only be deployed on the wall,Thiết bị này chỉ có thể triển khai trên tường
-lang_multi_text.db,MultiText,TowerDefense_BranchName_0,基础模块,Basic Module,Module cơ bản
-lang_multi_text.db,MultiText,TowerDefense_BranchName_1,可选模块·一,Optional Module I,Module tùy chọn I
-lang_multi_text.db,MultiText,TowerDefense_BranchName_2,可选模块·二,Optional Module II,Module tùy chọn II
-lang_multi_text.db,MultiText,TowerDefense_BuildingAttr_CD,部署冷却时间,Deployment Cooldown,Thời gian hồi triển khai
-lang_multi_text.db,MultiText,TowerDefense_BuildingAttr_Cost,部署消耗,Deployment Cost,Chi phí triển khai
-lang_multi_text.db,MultiText,TowerDefense_BuildingAttr_Type,类型,Type,Loại
-lang_multi_text.db,MultiText,TowerDefense_BuildingLv_Text,<size=36><color=#e4e4e4ff>等级</color></size><color=#fde7a1ff>{0}</color>,<size=36><color=#e4e4e4ff>Level</color></size> <color=#fde7a1ff>{0}</color>,<size=36><color=#e4e4e4ff>Cấp</color></size><color=#fde7a1ff>{0}</color>
-lang_multi_text.db,MultiText,TowerDefense_Building_AllTitle_Text,全部,All,Tất cả
-lang_multi_text.db,MultiText,TowerDefense_Building_AuxiliaryTitle_Text,库洛洛武器,KU-Roro's Weapons,Vũ khí KU-Roro
-lang_multi_text.db,MultiText,TowerDefense_Building_AuxiliaryTypeDungeon_Text,库洛洛武器（可携带：{0}/{1}）,KU-Roro's Weapons (Equipable: {0}/{1}),Vũ khí KU-Roro (Có thể trang bị: {0}/{1})
-lang_multi_text.db,MultiText,TowerDefense_Building_AuxiliaryType_Text,库洛洛武器,KU-Roro's Weapons,Vũ khí KU-Roro
-lang_multi_text.db,MultiText,TowerDefense_Building_BdLock_Text,未解锁,Locked,Chưa mở khóa
-lang_multi_text.db,MultiText,TowerDefense_Building_BdLv_Text,等级{0},Level {0},Cấp {0}
-lang_multi_text.db,MultiText,TowerDefense_Building_BranchSelection_Text,选择可选模块,Select Optional Module,Chọn module tùy chọn
-lang_multi_text.db,MultiText,TowerDefense_Building_BuildingTitle_Text,作战装置,Combat Machines,Thiết bị chiến đấu
-lang_multi_text.db,MultiText,TowerDefense_Building_CurMax_Text,已达当前最大等级,Level Cap Reached,Đã đạt cấp tối đa hiện tại
-lang_multi_text.db,MultiText,TowerDefense_Building_FloorBuildingType_Text,地面,Ground,Mặt đất
-lang_multi_text.db,MultiText,TowerDefense_Building_LevelUp,作战装置已升级,Combat Machine Upgraded,Thiết bị chiến đấu đã nâng cấp
-lang_multi_text.db,MultiText,TowerDefense_Building_TopBuildingType_Text,天花板,Ceiling,Trần nhà
-lang_multi_text.db,MultiText,TowerDefense_Building_WallBuildingType_Text,墙壁,Wall,Tường
-lang_multi_text.db,MultiText,TowerDefense_ESC_WaveCountNum_Text,<color=#fee7a1ff>{0}</color>/{1},<color=#fee7a1ff>{0}</color>/{1},<color=#fee7a1ff>{0}</color>/{1}
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainBdUp_Text,获得拟像铸块,Sim Ingot Obtained,Nhận được Khối Đúc Nghĩ Tượng
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainBuildingShare_Text,携带装置,Machine Equipped,Thiết bị mang theo
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainBuilding_Text,解锁作战装置,Combat Machine Unlocked,Mở khóa thiết bị chiến đấu
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainSchoolShare_Text,战术集,Tactic Set,Bộ chiến thuật
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainSchool_Text,解锁战术集,Tactic Set Unlocked,Mở khóa bộ chiến thuật
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainStar_Text,历史最高记录,Highest Record,Kỷ lục cao nhất
-lang_multi_text.db,MultiText,TowerDefense_Ending_MainTypeTitle_Text,扼守要地：{0},Pass Guardian: {0},Trấn giữ yếu địa: {0}
-lang_multi_text.db,MultiText,TowerDefense_Ending_RougeTypeTitle_Text,孤绝险地：{0},Deathtrap Mode: {0},Tử địa hiểm cảnh: {0}
-lang_multi_text.db,MultiText,TowerDefense_EndlesslevelTips_Main6-1,在成功抵御第7波次的残象后，后续波次中将重复出现第7波次的残象,"After successfully surviving the 7th wave of Tacet Discords, the same enemies from Wave 7 will appear in all the following waves.","Sau khi chống đỡ thành công đợt Tàn Tượng thứ 7, các đợt tiếp theo sẽ lặp lại Tàn Tượng của đợt 7."
-lang_multi_text.db,MultiText,TowerDefense_EndlesslevelTips_Rouge4,在成功抵御第19波次的残象后，后续波次中将重复出现第15~19波次的残象,"After successfully surviving the 19th wave of Tacet Discords, the same enemies from Wave 15-19 will appear in all the following waves.","Sau khi chống đỡ thành công đợt Tàn Tượng thứ 19, các đợt tiếp theo sẽ lặp lại Tàn Tượng của đợt 15~19."
-lang_multi_text.db,MultiText,TowerDefense_FinalBigReward_1,累计获得1000个“残象杀手“奖券。,"Obtain 1,000 ""TD Slayer"" Coupons.","Nhận tổng cộng 1000 vé thưởng ""Sát Thủ Tàn Tượng""."
-lang_multi_text.db,MultiText,TowerDefense_HomeHp_Text,矩阵耐久度,Matrix Durability,Độ bền Ma Trận
-lang_multi_text.db,MultiText,TowerDefense_Main_BdCostGreen_Text,<color=#e4e4e4ff>{0}</color>/{1},<color=#e4e4e4ff>{0}</color>/{1},<color=#e4e4e4ff>{0}</color>/{1}
-lang_multi_text.db,MultiText,TowerDefense_Main_BdCostRed_Text,<color=#e4e4e4ff>{0}</color>/{1},<color=#e4e4e4ff>{0}</color>/{1},<color=#e4e4e4ff>{0}</color>/{1}
-lang_multi_text.db,MultiText,TowerDefense_Main_BuildCost,部署所需消耗,Cost,Chi phí triển khai
-lang_multi_text.db,MultiText,TowerDefense_Main_BuildTower,部署,Deploy,Triển khai
-lang_multi_text.db,MultiText,TowerDefense_Main_DestroyTower,回收,Recall,Thu hồi
-lang_multi_text.db,MultiText,TowerDefense_Main_Option,战前准备,Prepare,Chuẩn bị
-lang_multi_text.db,MultiText,TowerDefense_Main_Shop,库默尼商行,KU-Money's Shop,Cửa hàng KU-Money
-lang_multi_text.db,MultiText,TowerDefense_Main_StartFight,开始模拟,Start,Bắt đầu mô phỏng
-lang_multi_text.db,MultiText,TowerDefense_Main_SwitchTower,旋转,Rotate,Xoay
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_1-1,情景模拟：残象集群试图穿过桥梁，袭击尚未疏散的平民。请固守桥梁，并歼灭所见的任何目标。,Simulated Scenario: Hordes of Tacet Discords are attempting to cross the bridge and attack civilians who have yet to be evacuated. Hold the line and eliminate all enemies on sight.,Mô phỏng tình huống: Đàn Tàn Tượng đang cố vượt qua cầu để tấn công dân thường chưa kịp sơ tán. Hãy giữ vững cây cầu và tiêu diệt mọi mục tiêu trong tầm nhìn.
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_1-2,"威胁演进：矩阵耐久度上限降至<color=#fde7a1ff>15</color>。
-区域中地形将被扩展。","Threat Escalation: Max Matrix Durability is reduced to <color=#fde7a1ff>15</color>.
-Terrain is expanded in this simulation.","Mối đe dọa leo thang: Giới hạn độ bền Ma Trận giảm xuống <color=#fde7a1ff>15</color>.
-Địa hình khu vực sẽ được mở rộng."
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_2-1,情景模拟：这片早已废弃的庭院中存在某种吸引残象的特殊频率源。收容特勤正尝试将其无害化处理，请在处理工作完成前，尽可能迟滞残象的行动。,"Simulated Scenario: A special frequency source that attracts Tacet Discords has appeared in a long-abandoned courtyard, and agents are working to neutralize it. Keep the Tacet Discords at bay as long as possible until the operation is complete.",Mô phỏng tình huống: Trong sân vườn bỏ hoang từ lâu tồn tại một nguồn tần số đặc biệt thu hút Tàn Tượng. Đội đặc nhiệm đang cố vô hiệu hóa nó. Hãy trì hoãn bước tiến của Tàn Tượng càng lâu càng tốt cho đến khi công việc hoàn tất.
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_2-2,"威胁演进：矩阵耐久度上限降至<color=#fde7a1ff>15</color>。
-残象生命值提升。
-区域中地形将被扩展。","Threat Escalation: Max Matrix Durability is reduced to <color=#fde7a1ff>15</color>.
-Tacet Discords have higher HP.
-Terrain is expanded in this simulation.","Mối đe dọa leo thang: Giới hạn độ bền Ma Trận giảm xuống <color=#fde7a1ff>15</color>.
-HP Tàn Tượng tăng.
-Địa hình khu vực sẽ được mở rộng."
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_3-1,情景模拟：因悲鸣而沦为废墟的城市中形成了大量残象。当地执花计划在残象潮形成前利用频率诱饵吸引它们，并借助有利地形尽量削减其数量。请前往既定区域建立防线，以协助他的计划。,"Simulated Scenario: Destroyed by the Lament, a ruined city has become a large gathering spot for Tacet Discords. A local Bloom Bearer intends to lure them out with frequencies and eliminate them as many as possible using favorable terrain. Proceed to the designated area and establish a defense line in support of the operation.","Mô phỏng tình huống: Thành phố đổ nát vì Bi Minh đã sinh ra lượng lớn Tàn Tượng. Một người mang hoa tại đây dự định dùng mồi tần số để dụ chúng ra trước khi chúng hình thành làn sóng, rồi tận dụng địa hình có lợi để giảm bớt số lượng. Hãy đến khu vực chỉ định thiết lập phòng tuyến để hỗ trợ kế hoạch của anh ấy."
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_3-2,"威胁演进：矩阵耐久度上限降至<color=#fde7a1ff>15</color>，初始携带的拟像贝币额外增加<color=#fde7a1ff>1000</color>。
-导电作战装置伤害提升<color=#fde7a1ff>20%</color>，暴击伤害提升<color=#fde7a1ff>50%</color>。
-残象受到的麻痹状态持续时间增加<color=#fde7a1ff>50%</color>。
-残象生命值提升。
-区域中地形将被扩展。","Threat Escalation: Max Matrix Durability is reduced to <color=#fde7a1ff>15</color>. Start with <color=#fde7a1ff>1000</color> more Sim Credits.
-Electro-Type Combat Machines deal <color=#fde7a1ff>20%</color> more DMG and their Crit. DMG is increased by <color=#fde7a1ff>50%</color>.
-Paralysis effect on Tacet Discords lasts <color=#fde7a1ff>50%</color> longer.
-Tacet Discords have higher HP.
-Terrain is expanded in this simulation.","Mối đe dọa leo thang: Giới hạn độ bền Ma Trận giảm xuống <color=#fde7a1ff>15</color>, số Bối Tệ Mô Phỏng ban đầu tăng thêm <color=#fde7a1ff>1000</color>.
-Sát thương thiết bị tác chiến Điện Từ tăng <color=#fde7a1ff>20%</color>, sát thương bạo kích tăng <color=#fde7a1ff>50%</color>.
-Thời gian tê liệt lên Tàn Tượng kéo dài thêm <color=#fde7a1ff>50%</color>.
-HP Tàn Tượng tăng.
-Địa hình khu vực sẽ được mở rộng."
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_4-1,情景模拟：接收到特勤小队发来的求助讯息，他们正在调查的未知地下结构已被残象占据，难以继续向结构下层推进。请在标定位置部署作战装置，并尽可能将残象吸引至此地，以保障调查工作继续进行。,"Simulated Scenario: A distress signal has been received from a special operation squad. The underground structure under investigation has been overrun by Tacet Discords, preventing further progress into the lower levels. Deploy Combat Machines at the marked locations and lure the Tacet Discords away to secure safe passage for the team.","Mô phỏng tình huống: Nhận được tín hiệu cầu cứu từ đội đặc nhiệm. Công trình ngầm đang được điều tra đã bị Tàn Tượng chiếm giữ, không thể tiến sâu hơn. Hãy triển khai thiết bị tác chiến tại vị trí đánh dấu và dụ Tàn Tượng đến đây càng nhiều càng tốt, đảm bảo công tác điều tra tiếp tục."
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_4-2,"威胁演进：矩阵耐久度上限降至<color=#fde7a1ff>15</color>，初始携带的拟像贝币额外增加<color=#fde7a1ff>1000</color>。
-热熔作战装置伤害的暴击率额外提升<color=#fde7a1ff>50%</color>。
-残象生命值提升。
-区域中地形将被扩展。","Threat Escalation: Max Matrix Durability is reduced to <color=#fde7a1ff>15</color>. Start with <color=#fde7a1ff>1000</color> more Sim Credits.
-Crit. Rate of Fusion-Type Combat Machines is increased by <color=#fde7a1ff>50%</color>.
-Tacet Discords have higher HP.
-Terrain is expanded in this simulation.","Mối đe dọa leo thang: Giới hạn độ bền Ma Trận giảm xuống <color=#fde7a1ff>15</color>, số Bối Tệ Mô Phỏng ban đầu tăng thêm <color=#fde7a1ff>1000</color>.
-Tỷ lệ bạo kích thiết bị tác chiến Hỏa Liệt tăng thêm <color=#fde7a1ff>50%</color>.
-HP Tàn Tượng tăng.
-Địa hình khu vực sẽ được mở rộng."
-lang_multi_text.db,MultiText,TowerDefense_MainstageDesc_4-3,"危机拓展：矩阵耐久度上限降至<color=#fde7a1ff>1</color>，初始携带的拟像贝币额外增加<color=#fde7a1ff>1000</color>。
-残象生命值提升。
-区域中地形将被扩展。","Deepening Crisis: Max Matrix Durability is reduced to <color=#fde7a1ff>1</color>. Start with <color=#fde7a1ff>1000</color> more Sim Credits.
-Tacet Discords have higher HP.
-Terrain is expanded in this simulation.","Khủng hoảng mở rộng: Giới hạn độ bền Ma Trận giảm xuống <color=#fde7a1ff>1</color>, số Bối Tệ Mô Phỏng ban đầu tăng thêm <color=#fde7a1ff>1000</color>.
-HP Tàn Tượng tăng.
-Địa hình khu vực sẽ được mở rộng."
+lang_multi_text.db,MultiText,TowerChallengeConfig_109_ChallengeDesc,仿真的实景模拟会提高临场适应性。这是为了方便正常发挥战力的最好方法。,"Real-life simulations improve soldier's adaptability, making it the best training method for battle readiness.",Mô phỏng thực tế sẽ nâng cao khả năng thích ứng tại chỗ. Đây là phương pháp tốt nhất để phát huy sức chiến đấu bình thường.
+lang_multi_text.db,MultiText,TowerChallengeConfig_109_FailTips,行动失败，重新考虑战术后再尝试吧。,You've been defeated. Rethink your strategy and try again.,"Hành động thất bại, hãy cân nhắc lại chiến thuật rồi thử lại."
+lang_multi_text.db,MultiText,TowerChallengeConfig_109_LevelText,52,52,52
+lang_multi_text.db,MultiText,TowerChallengeConfig_109_Name,实景模拟1,Mock Battle Simulation I,Mô phỏng thực tế 1
+lang_multi_text.db,MultiText,TowerChallengeConfig_109_SwitchBtnText,实景模拟1,Mock Battle Simulation I,Mô phỏng thực tế 1
+lang_multi_text.db,MultiText,TowerChallengeConfig_110_ChallengeDesc,仿真的实景模拟会提高临场适应性。这是为了方便正常发挥战力的最好方法。,"Real-life simulations improve soldier's adaptability, making it the best training method for battle readiness.",Mô phỏng thực tế sẽ nâng cao khả năng thích ứng tại chỗ. Đây là phương pháp tốt nhất để phát huy sức chiến đấu bình thường.
+lang_multi_text.db,MultiText,TowerChallengeConfig_110_FailTips,行动失败，重新考虑战术后再尝试吧。,You've been defeated. Rethink your strategy and try again.,"Hành động thất bại, hãy cân nhắc lại chiến thuật rồi thử lại."
+lang_multi_text.db,MultiText,TowerChallengeConfig_110_LevelText,54,54,54
+lang_multi_text.db,MultiText,TowerChallengeConfig_110_Name,实景模拟2,Mock Battle Simulation II,Mô phỏng thực tế 2
+lang_multi_text.db,MultiText,TowerChallengeConfig_110_SwitchBtnText,实景模拟2,Mock Battle Simulation II,Mô phỏng thực tế 2
+lang_multi_text.db,MultiText,TowerChallengeConfig_111_ChallengeDesc,仿真的实景模拟会提高临场适应性。这是为了方便正常发挥战力的最好方法。,"Real-life simulations improve soldier's adaptability, making it the best training method for battle readiness.",Mô phỏng thực tế sẽ nâng cao khả năng thích ứng tại chỗ. Đây là phương pháp tốt nhất để phát huy sức chiến đấu bình thường.
+lang_multi_text.db,MultiText,TowerChallengeConfig_111_FailTips,行动失败，重新考虑战术后再尝试吧。,You've been defeated. Rethink your strategy and try again.,"Hành động thất bại, hãy cân nhắc lại chiến thuật rồi thử lại."
+lang_multi_text.db,MultiText,TowerChallengeConfig_111_LevelText,56,56,56.0
+lang_multi_text.db,MultiText,TowerChallengeConfig_111_Name,实景模拟3,Mock Battle Simulation III,Mô phỏng thực tế 3
+lang_multi_text.db,MultiText,TowerChallengeConfig_111_SwitchBtnText,实景模拟3,Mock Battle Simulation III,Mô phỏng thực tế 3
+lang_multi_text.db,MultiText,TowerChallengeConfig_112_ChallengeDesc,仿真的实景模拟会提高临场适应性。这是为了方便正常发挥战力的最好方法。,"Real-life simulations improve soldier's adaptability, making it the best training method for battle readiness.",Mô phỏng thực tế sẽ nâng cao khả năng thích ứng tại chỗ. Đây là phương pháp tốt nhất để phát huy sức chiến đấu bình thường.
+lang_multi_text.db,MultiText,TowerChallengeConfig_112_FailTips,行动失败，重新考虑战术后再尝试吧。,You've been defeated. Rethink your strategy and try again.,"Hành động thất bại, hãy cân nhắc lại chiến thuật rồi thử lại."
+lang_multi_text.db,MultiText,TowerChallengeConfig_112_LevelText,58,58,58
+lang_multi_text.db,MultiText,TowerChallengeConfig_112_Name,实景模拟4,Mock Battle Simulation IV,Mô phỏng thực tế 4
+lang_multi_text.db,MultiText,TowerChallengeConfig_112_SwitchBtnText,实景模拟4,Mock Battle Simulation IV,Mô phỏng thực tế 4
+lang_multi_text.db,MultiText,TowerChallengeConfig_113_ChallengeDesc,一切均已准备妥当，向许可证明发起冲击！,All set. Show off your skills in the Integrated Training challenge!,"Mọi thứ đã sẵn sàng, hãy tiến tới chứng nhận cho phép!"
+lang_multi_text.db,MultiText,TowerChallengeConfig_113_FailTips,行动失败，重新考虑战术后再尝试吧。,You've been defeated. Rethink your strategy and try again.,"Hành động thất bại, hãy cân nhắc lại chiến thuật rồi thử lại."
+lang_multi_text.db,MultiText,TowerChallengeConfig_113_LevelText,60,60,60
+lang_multi_text.db,MultiText,TowerChallengeConfig_113_Name,综合演训1,Integrated Training I,Huấn luyện tổng hợp 1
+lang_multi_text.db,MultiText,TowerChallengeConfig_113_SwitchBtnText,综合演训1,Integrated Training I,Huấn luyện tổng hợp 1
+lang_multi_text.db,MultiText,TowerChallengeTypeInfo_1_TypeName,dnt/基础单队伍挑战,basic single team challenge,dnt/Khiêu chiến đơn đội cơ bản
+lang_multi_text.db,MultiText,TowerChallengeTypeInfo_2_TypeName,dnt/最终单队伍挑战,final single team challenge,dnt/Khiêu chiến đơn đội cuối cùng
+lang_multi_text.db,MultiText,TowerChallengeTypeInfo_3_TypeName,dnt/基础双队伍挑战,basic dual team challenge,dnt/Khiêu chiến song đội cơ bản
+lang_multi_text.db,MultiText,TowerChallengeTypeInfo_4_TypeName,dnt/最终双队伍挑战,final double team challenge,dnt/Khiêu chiến song đội cuối cùng
+lang_multi_text.db,MultiText,TowerDefenceActivityEnd,活动已结束,This event has concluded,Sự kiện đã kết thúc
+lang_multi_text.db,MultiText,TowerDefenceAtlestOneRole,至少上阵一名角色才能开启挑战,Deploy at least one Resonator to start the challenge.,Ít nhất phải có một nhân vật ra trận mới có thể bắt đầu khiêu chiến
+lang_multi_text.db,MultiText,TowerDefenceBestTime,最佳记录：{0},Best Record: {0},Kỷ lục tốt nhất: {0}
+lang_multi_text.db,MultiText,TowerDefenceFullPoint,当前积分 ：{0},Current Points: {0},Điểm hiện tại: {0}
+lang_multi_text.db,MultiText,TowerDefenceFullScoreTips,总积分达到 ：{0},Total Points reach {0},Tổng điểm đạt: {0}
+lang_multi_text.db,MultiText,TowerDefenceLevelRewardText,关卡奖励,Stage Rewards,Thưởng ải
+lang_multi_text.db,MultiText,TowerDefenceLevelScoreTips,关卡积分达到： {0},Reach {0} stage points,Điểm ải đạt: {0}
+lang_multi_text.db,MultiText,TowerDefencePlayerDie,1P倒下的共鸣者将在{0}后恢复,Player 1's Resonator will be revived in {0},Cộng Hưởng Giả 1P gục ngã sẽ hồi phục sau {0}
+lang_multi_text.db,MultiText,TowerDefencePlayerRoleDie,{0}P将在{1}后恢复,Player {0} will be revived in {1},{0}P sẽ hồi phục sau {1}
+lang_multi_text.db,MultiText,TowerDefenceRecommendLevel,推荐等级： {0},Suggested Lv. {0},Cấp đề cử: {0}
+lang_multi_text.db,MultiText,TowerDefenceRoleDie,角色将在{0}后恢复,Resonator will be revived in {0},Nhân vật sẽ hồi phục sau {0}
+lang_multi_text.db,MultiText,TowerDefenceScoreRewardText,积分奖励,Point Rewards,Thưởng điểm
+lang_multi_text.db,MultiText,TowerDefenceSettlement01,挑战结束,Challenge Complete,Kết thúc khiêu chiến
+lang_multi_text.db,MultiText,TowerDefenceUnLockTime,{0}后解锁该关卡,This stage unlocks in {0}.,Mở khóa ải này sau {0}
+lang_multi_text.db,MultiText,TowerDefenceUnlockCondition,完成上一关卡解锁,Complete the previous stage to unlock.,Hoàn thành ải trước để mở khóa
+lang_multi_text.db,MultiText,TowerDefenceWellen1,第 <color=#ffd12f>一</color> 波,Wave <color=#ffd12f>1</color>,Đợt <color=#ffd12f>1</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen10,第 <color=#e2524c>十</color> 波,Wave <color=#e2524c>10</color>,Đợt <color=#e2524c>10</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen11,第 <color=#e2524c>二</color> 波,Wave <color=#e2524c>2</color>,Đợt <color=#e2524c>2</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen12,第 <color=#e2524c>三</color> 波,Wave <color=#e2524c>3</color>,Đợt <color=#e2524c>3</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen2,第 <color=#ffd12f>二</color> 波,Wave <color=#ffd12f>2</color>,Đợt <color=#ffd12f>2</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen3,第 <color=#ffd12f>三</color> 波,Wave <color=#ffd12f>3</color>,Đợt <color=#ffd12f>3</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen4,第 <color=#ffd12f>四</color> 波,Wave <color=#ffd12f>4</color>,Đợt <color=#ffd12f>4</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen5,第 <color=#ffd12f>五</color> 波,Wave <color=#ffd12f>5</color>,Đợt <color=#ffd12f>5</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen6,第 <color=#e2524c>六</color> 波,Wave <color=#e2524c>6</color>,Đợt <color=#e2524c>6</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen7,第 <color=#e2524c>七</color> 波,Wave <color=#e2524c>7</color>,Đợt <color=#e2524c>7</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen8,第 <color=#e2524c>八</color> 波,Wave <color=#e2524c>8</color>,Đợt <color=#e2524c>8</color>
+lang_multi_text.db,MultiText,TowerDefenceWellen9,第 <color=#e2524c>九</color> 波,Wave <color=#e2524c>9</color>,Đợt <color=#e2524c>9</color>
+lang_multi_text.db,MultiText,TowerDefenceWin,<color=#ffd12f>波次完成</color>,<color=#ffd12f>Wave Cleared</color>,<color=#ffd12f>Hoàn thành đợt</color>
+lang_multi_text.db,MultiText,TowerDefenceWinTime,挑战时间：,Challenge Time:,Thời gian khiêu chiến:
+lang_multi_text.db,MultiText,TowerDefence_1,攻击型,Attack,Dạng Tấn Công
+lang_multi_text.db,MultiText,TowerDefence_100010_PhantomTitle,回转雪月花,Snow Moon Flower Spinner,Tuyết Nguyệt Hoa Xoay Vòng
+lang_multi_text.db,MultiText,TowerDefence_100011_PhantomDesc,使用声骸技能，幻形为寒霜陆龟，持续4秒。每秒持续造成共计1125.00%冷凝伤害，并击飞周围的敌人。技能冷却：12秒,"Transform into Hoartoise for 4s, dealing 1125.00% Glacio DMG every second and juggling nearby enemies. Cooldown: 12s.","Sử dụng Kỹ Năng Thanh Hài, biến hình thành Lục Địa Quy Băng, duy trì 4 giây. Mỗi giây liên tục gây tổng cộng 1125.00% sát thương Ngưng Băng, và hất bay kẻ địch xung quanh. Hồi chiêu: 12 giây"
+lang_multi_text.db,MultiText,TowerDefence_100011_PhantomTitle,无尽舞曲,Perpetual Dance,Vũ Khúc Vô Tận
+lang_multi_text.db,MultiText,TowerDefence_100012_PhantomDesc,幻形时间延长4秒,Increase the transformation duration by 4s.,Thời gian biến hình kéo dài thêm 4 giây
+lang_multi_text.db,MultiText,TowerDefence_100012_PhantomTitle,离心加速,Centrifugal Acceleration,Tăng Tốc Ly Tâm
+lang_multi_text.db,MultiText,TowerDefence_100013_PhantomDesc,装配寒霜陆龟的角色施放延奏技能时，刷新该声骸的冷却时间,"When Resonators equipped with Hoartoise exit with Outro Skill, the Echo skill's Cooldown is reset.","Khi nhân vật trang bị Lục Địa Quy Băng thi triển Kỹ Năng Duyên Tấu, làm mới thời gian hồi chiêu của Thanh Hài này"
+lang_multi_text.db,MultiText,TowerDefence_100013_PhantomTitle,迪斯科之王,King of Disco,Vua Disco
+lang_multi_text.db,MultiText,TowerDefence_100014_PhantomTitle,梦幻再演,Fantasy Renewed,Mộng Ảo Tái Diễn
+lang_multi_text.db,MultiText,TowerDefence_100015_PhantomTitle,黄金回旋！,Golden Spin!,Hoàng Kim Hồi Toàn!
+lang_multi_text.db,MultiText,TowerDefence_100020_PhantomTitle,最强冷凝系声骸,Ultimate Glacio Echo,Thanh Hài Hệ Ngưng Băng Mạnh Nhất
+lang_multi_text.db,MultiText,TowerDefence_100021_PhantomDesc,使用声骸技能，召唤冷凝棱镜连续发射晶片，持续6秒。每一枚晶片造成538.00%冷凝伤害，对处于冰冻状态的敌人伤害提升66.67%。技能冷却：10.8秒,"Summon a Glacio Prism for 6s to attack enemies. Each attack deals 538.00% Glacio DMG, which will be increased by another 66.67% if the target is Frozen. Cooldown: 10.8s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Lăng Kính Ngưng Băng liên tục bắn mảnh tinh thể, duy trì 6 giây. Mỗi mảnh tinh thể gây 538.00% sát thương Ngưng Băng, sát thương lên kẻ địch đang bị đóng băng tăng 66.67%. Hồi chiêu: 10.8 giây"
+lang_multi_text.db,MultiText,TowerDefence_100021_PhantomTitle,天象眷从,Heavenly Subjugation,Thiên Tượng Quyến Tòng
+lang_multi_text.db,MultiText,TowerDefence_100022_PhantomDesc,召唤时间延长4秒,Increase the summon duration by 4s.,Thời gian triệu hồi kéo dài thêm 4 giây
+lang_multi_text.db,MultiText,TowerDefence_100022_PhantomTitle,大红莲华,Grand Crimson Lotus,Đại Hồng Liên Hoa
+lang_multi_text.db,MultiText,TowerDefence_100023_PhantomDesc,每一枚晶片命中时，会使目标的防御下降10.00%，持续6秒，每个目标最多可叠加6次,"Each attack reduces the target's DEF by 10% for 6s on hit, stacking up to 6 times.","Mỗi khi mảnh tinh thể trúng mục tiêu, sẽ khiến Phòng Thủ của mục tiêu giảm 10.00%, duy trì 6 giây, mỗi mục tiêu tối đa có thể cộng dồn 6 lần"
+lang_multi_text.db,MultiText,TowerDefence_100023_PhantomTitle,霜天端居,Stand On the Frozen Heavens,Sương Thiên Đoan Cư
+lang_multi_text.db,MultiText,TowerDefence_100024_PhantomTitle,四象冰封,Four-Realm Freeze,Tứ Tượng Băng Phong
+lang_multi_text.db,MultiText,TowerDefence_100025_PhantomTitle,解放形态,Form Unleashed,Hình Thái Giải Phóng
+lang_multi_text.db,MultiText,TowerDefence_100030_PhantomTitle,中央空调,Gigacooler,Điều Hòa Trung Tâm
+lang_multi_text.db,MultiText,TowerDefence_100031_PhantomDesc,使用声骸技能，幻形为巡哨机傀，造成1135.00%的冷凝伤害，并冻结周围的敌人3秒。技能冷却：7.2秒,"Transform into Autopuppet Scout to freeze nearby enemies for 3s, dealing 1135.00% Glacio DMG. Cooldown: 7.2s.","Sử dụng Kỹ Năng Thanh Hài, biến hình thành Người Máy Tuần Tra, gây 1135.00% sát thương Ngưng Băng, và đóng băng kẻ địch xung quanh trong 3 giây. Hồi chiêu: 7.2 giây"
+lang_multi_text.db,MultiText,TowerDefence_100031_PhantomTitle,我将以机傀形态出击,I Choose the Form of Autopuppet,Tôi Sẽ Xuất Kích Ở Dạng Người Máy
+lang_multi_text.db,MultiText,TowerDefence_100032_PhantomDesc,受到冰冻效果的敌人，在冰冻结束后，其造成的伤害减少50.00%，持续6秒,Frozen enemies deal 50% less DMG for 6s after the Freeze effect expires.,"Kẻ địch chịu hiệu quả đóng băng, sau khi hết đóng băng, sát thương gây ra giảm 50.00%, duy trì 6 giây"
+lang_multi_text.db,MultiText,TowerDefence_100032_PhantomTitle,冷冻干燥,Coolest Cooler,Sấy Thăng Hoa
+lang_multi_text.db,MultiText,TowerDefence_100033_PhantomDesc,冻结时间延长3秒,Increase the Freeze duration by 3s.,Thời gian đóng băng kéo dài thêm 3 giây
+lang_multi_text.db,MultiText,TowerDefence_100033_PhantomTitle,商用电气,Industrial HVAC,Điện Gia Dụng Thương Mại
+lang_multi_text.db,MultiText,TowerDefence_100034_PhantomTitle,祖传滤网,"""Freeze. Don't Move.""",Lưới Lọc Gia Truyền
+lang_multi_text.db,MultiText,TowerDefence_100035_PhantomTitle,降本增效,Man-Made Arctic,Giảm Chi Phí Tăng Hiệu Quả
+lang_multi_text.db,MultiText,TowerDefence_100040_PhantomTitle,宇宙漂浮的弃子,Blue Cosmos Drifter,Con Cờ Bị Bỏ Rơi Trôi Nổi Trong Vũ Trụ
+lang_multi_text.db,MultiText,TowerDefence_100041_PhantomDesc,使用声骸技能，召唤呜咔咔，在小段延迟后产生爆炸，对周围造成2220.36%的湮灭伤害。技能冷却：6秒,"Summon a Tick Tack that explodes after a short while, dealing 2220.36% Havoc DMG. Cooldown: 6s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Tik Tak, phát nổ sau một khoảng trễ ngắn, gây 2220.36% sát thương Hủy Diệt cho xung quanh. Hồi chiêu: 6 giây"
+lang_multi_text.db,MultiText,TowerDefence_100041_PhantomTitle,2887,2887,2887
+lang_multi_text.db,MultiText,TowerDefence_100042_PhantomDesc,爆炸伤害翻倍,Double the explosion DMG.,Sát thương nổ tăng gấp đôi
+lang_multi_text.db,MultiText,TowerDefence_100042_PhantomTitle,核反应堆,Nuclear Reactor,Lò Phản Ứng Hạt Nhân
+lang_multi_text.db,MultiText,TowerDefence_100043_PhantomDesc,当呜咔咔爆炸击杀敌人时，刷新该声骸的冷却时间,Reset its cooldown when Tick Tack defeats an enemy with its explosion.,"Khi Tik Tak phát nổ hạ gục kẻ địch, làm mới thời gian hồi chiêu của Thanh Hài này"
+lang_multi_text.db,MultiText,TowerDefence_100043_PhantomTitle,流水作业,Assembly Line,Dây Chuyền Sản Xuất
+lang_multi_text.db,MultiText,TowerDefence_100044_PhantomTitle,蓝色清净的世界,For Our Blue and Pure World,Thế Giới Xanh Trong Sạch
+lang_multi_text.db,MultiText,TowerDefence_100045_PhantomTitle,量产机体,Mass Production Suits,Cơ Thể Sản Xuất Hàng Loạt
+lang_multi_text.db,MultiText,TowerDefence_100050_PhantomTitle,已连接至共享大脑,"""R"" Button Presser",Đã Kết Nối Với Bộ Não Chung
+lang_multi_text.db,MultiText,TowerDefence_100051_PhantomDesc,使用声骸技能，幻形为磐石守卫，造成2526.00%的衍射伤害，并击飞敌人，若磐石守卫命中冷凝棱镜，冷凝棱镜会瞬间冰冻其周围的敌人，持续3秒。技能冷却：12秒,"Transform into Rocksteady Guardian, dealing 2526.00% Spectro DMG and juggling enemies. If Rocksteady Guardian hits the Glacio Prism, nearby enemies are immediately Frozen for 3s. Cooldown: 12s.","Sử dụng Kỹ Năng Thanh Hài, biến hình thành Hộ Vệ Bàn Thạch, gây 2526.00% sát thương Quang Phổ, và hất bay kẻ địch, nếu Hộ Vệ Bàn Thạch trúng Lăng Kính Ngưng Băng, Lăng Kính Ngưng Băng sẽ lập tức đóng băng kẻ địch xung quanh, duy trì 3 giây. Hồi chiêu: 12 giây"
+lang_multi_text.db,MultiText,TowerDefence_100051_PhantomTitle,花岗岩冲击,Granite Impact,Đá Hoa Cương Xung Kích
+lang_multi_text.db,MultiText,TowerDefence_100052_PhantomDesc,增加一次充能上限。每当自己或队友施放声骸技能时，减少磐石守卫33.33%的冷却时间,"Gain an additional charge. Each time this Resonator or a party member casts an Echo Skill, reduce Rocksteady Guardian's Cooldown by 33.33%.","Tăng một lần giới hạn nạp năng lượng. Mỗi khi bản thân hoặc đồng đội thi triển Kỹ Năng Thanh Hài, giảm 33.33% thời gian hồi chiêu của Hộ Vệ Bàn Thạch"
+lang_multi_text.db,MultiText,TowerDefence_100052_PhantomTitle,坚如磐石,Rock Solid,Vững Như Bàn Thạch

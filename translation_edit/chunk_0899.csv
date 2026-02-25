@@ -1,104 +1,125 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_21_Name,蝴蝶结管家菱形·二,Bowtie Butler Rhombus x2,Quản Gia Nơ Bướm Hình Thoi II
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_22_Desc,进入<color=Highlight><te href=851114>「增幅·咖啡守护」</te></color>状态时，获得<color=Highlight>{0}</color>攻击的护盾，持续<color=Highlight>{1}</color>秒。,Entering <color=Highlight><te href=851114>Boost - Coffee's Shelter</te></color> additionally grants a Shield equal to <color=Highlight>{0}</color> of the Resonator's ATK for <color=Highlight>{1}s</color>.,"Khi vào trạng thái <color=Highlight><te href=851114>""Tăng Cường - Che Chở Cà Phê""</te></color>, nhận khiên chắn bằng <color=Highlight>{0}</color> tấn công, kéo dài <color=Highlight>{1}</color> giây."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_22_Desc_0,进入<color=Highlight><te href=851114>「增幅·咖啡守护」</te></color>状态时，获得护盾。,Entering <color=Highlight><te href=851114>Boost - Coffee's Shelter</te></color> grants Shield.,"Khi vào trạng thái <color=Highlight><te href=851114>""Tăng Cường - Che Chở Cà Phê""</te></color>, nhận khiên chắn."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_22_Name,月台守护者圆形·二,Platform Guardian Circle x2,Người Bảo Vệ Sân Ga Hình Tròn II
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_23_Desc,获得的所有护盾量提高<color=Highlight>{0}</color>。,Shields gained are increased by <color=Highlight>{0}</color>.,Tăng <color=Highlight>{0}</color> lượng khiên chắn nhận được.
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_23_Desc_0,获得的所有护盾量提高。,Shields gained are increased.,Tăng lượng khiên chắn nhận được.
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_23_Name,月台守护者圆形·四,Platform Guardian Circle x4,Người Bảo Vệ Sân Ga Hình Tròn IV
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_24_Desc,每过<color=Highlight>{0}</color>秒，获得<color=Highlight>{1}</color>攻击的护盾，持续<color=Highlight>{2}</color>秒。,The Resonator gains a Shield equal to <color=Highlight>{1}</color> of their ATK for <color=Highlight>{2}s</color> every <color=Highlight>{0}s</color>.,"Mỗi <color=Highlight>{0}</color> giây, nhận được khiên bằng <color=Highlight>{1}</color> tấn công, kéo dài <color=Highlight>{2}</color> giây."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_24_Desc_0,每过20秒，获得护盾。,The Resonator gains a Shield every 20s.,"Mỗi 20 giây, nhận được khiên."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_24_Name,月台守护者六边形·二,Platform Guardian Hexagon x2,Platform Guardian Lục Giác x2
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_25_Desc,稳定值小于等于<color=Highlight>{0}</color>时，攻击提升<color=Highlight>{1}</color>。,"When Stability is at or below <color=Highlight>{0}</color>, the Resonator's ATK is increased by <color=Highlight>{1}</color>.","Khi giá trị ổn định nhỏ hơn hoặc bằng <color=Highlight>{0}</color>, tấn công tăng <color=Highlight>{1}</color>."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_25_Desc_0,稳定值小于等于30%时，攻击提升。,"When Stability is at or below 30%, the Resonator gains ATK increase.","Khi giá trị ổn định nhỏ hơn hoặc bằng 30%, tấn công tăng."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_25_Name,假期波仔圆形·二,Vacationer Namipon Circle x2,Vacationer Namipon Tròn x2
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_26_Desc,生命为<color=Highlight>{0}</color>时，受到攻击不会减少稳定值。,"When HP is at <color=Highlight>{0}</color>, taking attacks does not deplete Stability.","Khi sinh mệnh ở mức <color=Highlight>{0}</color>, bị tấn công sẽ không giảm giá trị ổn định."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_26_Desc_0,生命为100%时，受到攻击不会减少稳定值。,"When at 100% HP, taking attacks does not deplete Stability.","Khi sinh mệnh ở mức 100%, bị tấn công sẽ không giảm giá trị ổn định."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_26_Name,假期波仔圆形·四,Vacationer Namipon Circle x4,Vacationer Namipon Tròn x4
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_27_Desc,处于危险状态时，闪避反击额外对敌人造成<color=Highlight>{0}</color>次攻击<color=Highlight>{1}</color>的伤害，每<color=Highlight>{2}</color>秒可触发<color=Highlight>{3}</color>次。,"When Stability reaches Critical State, Dodge Counter additionally deals <color=Highlight>{0}</color> instances of damage, each equal to <color=Highlight>{1}</color> of the Resonator's ATK. This effect can be triggered <color=Highlight><SapTag=2>{3}</SapTag></color> {Cus:Sap,S=time P=times SapTag=2} every <color=Highlight>{2}s</color>.","Khi đang ở trạng thái nguy hiểm, Né Tránh Phản Công gây thêm <color=Highlight>{0}</color> lần sát thương bằng <color=Highlight>{1}</color> tấn công lên kẻ địch, có thể kích hoạt <color=Highlight>{3}</color> lần mỗi <color=Highlight>{2}</color> giây."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_27_Desc_0,处于危险状态时，闪避反击额外造成伤害。,"During Critical State, Dodge Counter deals additional DMG.","Khi đang ở trạng thái nguy hiểm, Né Tránh Phản Công gây thêm sát thương."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_27_Name,假期波仔菱形·二,Vacationer Namipon Circle x2,Vacationer Namipon Thoi x2
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_2_AcquisitionMethod,寻回“水上落樱”附近的点心波仔时解锁,"Find the Sweet Tooth Namipon near the ""Sakura Upon Water"" spot to unlock.","Tìm lại Namipon Bánh Ngọt gần khu vực ""Sakura Upon Water"" để mở khóa"
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_2_Desc,<color=Highlight><te href=851100>「连击·米团飞弹」</te></color><color=Highlight><te href=851101>「连击·米团飞弹·强」</te></color>命中目标时，后续<color=Highlight><te href=851100>「连击·米团飞弹」</te></color><color=Highlight><te href=851101>「连击·米团飞弹·强」</te></color>的伤害加成提升<color=Highlight>{0}</color>，可叠<color=Highlight>{1}</color>层，持续<color=Highlight>{2}</color>秒。,"When <color=Highlight><te href=851100>Combo - Rice Dango Missile</te></color> or <color=Highlight><te href=851101>Combo - Rice Dango Missile: Enhanced</te></color> hits a target, the subsequent <color=Highlight><te href=851100>Combo - Rice Dango Missile</te> and </color><color=Highlight><te href=851101>Combo - Rice Dango Missile: Enhanced</te></color> gain <color=Highlight>{0}</color> DMG Bonus for <color=Highlight>{2}s</color> upon hitting a target, stacking up to <color=Highlight>{1}</color> times.","Khi <color=Highlight><te href=851100>""Liên Kích - Tên Lửa Bánh Gạo""</te></color><color=Highlight><te href=851101>""Liên Kích - Tên Lửa Bánh Gạo - Mạnh""</te></color> trúng mục tiêu, bonus sát thương của <color=Highlight><te href=851100>""Liên Kích - Tên Lửa Bánh Gạo""</te></color><color=Highlight><te href=851101>""Liên Kích - Tên Lửa Bánh Gạo - Mạnh""</te></color> tiếp theo tăng <color=Highlight>{0}</color>, cộng dồn tối đa <color=Highlight>{1}</color> lần, kéo dài <color=Highlight>{2}</color> giây."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_2_Desc_0,<color=Highlight><te href=851100>「连击·米团飞弹」</te></color><color=Highlight><te href=851101>「连击·米团飞弹·强」</te></color>命中目标时，后续<color=Highlight><te href=851100>「连击·米团飞弹」</te></color><color=Highlight><te href=851101>「连击·米团飞弹·强」</te></color>的伤害加成提升。,"When <color=Highlight><te href=851100>Combo - Rice Dango Missile</te></color> or <color=Highlight><te href=851101>Combo - Rice Dango Missile: Enhanced</te></color> hits a target, the subsequent missiles gain DMG Bonus.","Khi <color=Highlight><te href=851100>""Liên Kích - Tên Lửa Bánh Gạo""</te></color><color=Highlight><te href=851101>""Liên Kích - Tên Lửa Bánh Gạo - Mạnh""</te></color> trúng mục tiêu, bonus sát thương của <color=Highlight><te href=851100>""Liên Kích - Tên Lửa Bánh Gạo""</te></color><color=Highlight><te href=851101>""Liên Kích - Tên Lửa Bánh Gạo - Mạnh""</te></color> tiếp theo tăng."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_2_Name,福尔波斯菱形·四,Polmes Rhombus x4,Polmes Thoi x4
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_2_Unlocked,寻回“水上落樱”附近的点心波仔时解锁,"Find the Sweet Tooth Namipon near the ""Sakura Upon Water"" spot to unlock.","Tìm lại Namipon Bánh Ngọt gần khu vực ""Sakura Upon Water"" để mở khóa"
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_3_AcquisitionMethod,解决迷津隧道怪异后解锁,Unlocked after resolving the anomaly in the Meishin Passageway,Mở khóa sau khi giải quyết dị biến ở Đường Hầm Meishin
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_3_Desc,<color=Highlight><te href=851100>「连击·米团飞弹」</te></color><color=Highlight><te href=851101>「连击·米团飞弹·强」</te></color>造成的暴击伤害提升<color=Highlight>{0}</color>。,Crit. DMG of <color=Highlight><te href=851100>Combo - Rice Dango Missile</te></color> and <color=Highlight><te href=851101>Combo - Rice Dango Missile: Enhanced</te></color> is increased by <color=Highlight>{0}</color>.,"Sát thương bạo kích của <color=Highlight><te href=851100>""Liên Kích - Tên Lửa Bánh Gạo""</te></color><color=Highlight><te href=851101>""Liên Kích - Tên Lửa Bánh Gạo - Mạnh""</te></color> tăng <color=Highlight>{0}</color>."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_3_Desc_0,<color=Highlight><te href=851100>「连击·米团飞弹」</te></color><color=Highlight><te href=851101>「连击·米团飞弹·强」</te></color>造成的暴击伤害提升。,Crit. DMG of <color=Highlight><te href=851100>Combo - Rice Dango Missile</te></color> and <color=Highlight><te href=851101>Combo - Rice Dango Missile: Enhanced</te></color> is increased.,"Sát thương bạo kích của <color=Highlight><te href=851100>""Liên Kích - Tên Lửa Bánh Gạo""</te></color><color=Highlight><te href=851101>""Liên Kích - Tên Lửa Bánh Gạo - Mạnh""</te></color> tăng."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_3_Name,福尔波斯菱形·六,Polmes Rhombus x6,Polmes Thoi x6
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_3_Unlocked,解决迷津隧道怪异后解锁,Unlocked after resolving the anomaly in the Meishin Passageway,Mở khóa sau khi giải quyết dị biến ở Đường Hầm Meishin
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_4_AcquisitionMethod,获得波仔徽章时解锁,Obtain Namipon Badge,Mở khóa khi nhận được Huy Hiệu Namipon
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_4_Desc,施放延奏技能时，召唤一道<color=Highlight><te href=851102>「爆发·灼热火柱」</te></color>。,Casting Outro Skill summons a <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color>.,"Khi thi triển kỹ năng Outro, triệu hồi một <color=Highlight><te href=851102>""Bùng Nổ - Cột Lửa Thiêu Đốt""</te></color>."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_4_Desc_0,施放延奏技能时，召唤一道<color=Highlight><te href=851102>「爆发·灼热火柱」</te></color>。,Casting Outro Skill summons a <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color>.,"Khi thi triển kỹ năng Outro, triệu hồi một <color=Highlight><te href=851102>""Bùng Nổ - Cột Lửa Thiêu Đốt""</te></color>."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_4_Name,波仔菱形·二,Namipon Rhombus x2,Namipon Thoi x2
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_4_Unlocked,获得波仔徽章时解锁,Obtain Namipon Badge,Mở khóa khi nhận được Huy Hiệu Namipon
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_5_AcquisitionMethod,解决花影地下街怪异后解锁,Unlocked after resolving the anomaly in Hanakage Underground Street,Mở khóa sau khi giải quyết dị biến ở Phố Ngầm Hanakage
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_5_Desc,<color=Highlight><te href=851103>「爆发·灼热冲击」</te></color><color=Highlight><te href=851102>「爆发·灼热火柱」</te></color>造成伤害无视目标防御。,<color=Highlight><te href=851103>Burst - Scorching Impact</te></color> and <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> ignore targets' DEF when dealing damage.,"Sát thương của <color=Highlight><te href=851103>""Bùng Nổ - Xung Kích Thiêu Đốt""</te></color><color=Highlight><te href=851102>""Bùng Nổ - Cột Lửa Thiêu Đốt""</te></color> bỏ qua phòng thủ mục tiêu."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_5_Desc_0,<color=Highlight><te href=851103>「爆发·灼热冲击」</te></color><color=Highlight><te href=851102>「爆发·灼热火柱」</te></color>造成伤害无视目标防御。,<color=Highlight><te href=851103>Burst - Scorching Impact</te></color> and <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> ignore targets' DEF.,"Sát thương của <color=Highlight><te href=851103>""Bùng Nổ - Xung Kích Thiêu Đốt""</te></color><color=Highlight><te href=851102>""Bùng Nổ - Cột Lửa Thiêu Đốt""</te></color> bỏ qua phòng thủ mục tiêu."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_5_Name,波仔菱形·四,Namipon Rhombus x4,Namipon Thoi x4
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_5_Unlocked,解决花影地下街怪异后解锁,Unlocked after resolving the anomaly in Hanakage Underground Street,Mở khóa sau khi giải quyết dị biến ở Phố Ngầm Hanakage
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_6_AcquisitionMethod,寻回地下街深处清泉花庭树附近的极道波仔时解锁,Find the Yakuza Namipon near the Seisen Garden Tree in the Underground Street to unlock.,Tìm lại Namipon Cực Đạo gần cây Seisen Garden Tree sâu trong phố ngầm để mở khóa
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_6_Desc,<color=Highlight><te href=851103>「爆发·灼热冲击」</te></color><color=Highlight><te href=851102>「爆发·灼热火柱」</te></color>命中敌人时，所有角色每秒回复施放者<color=Highlight>{0}</color>攻击的生命，持续<color=Highlight>{1}</color>秒，该效果每<color=Highlight>{2}</color>秒可触发<color=Highlight>{3}</color>次。,"When <color=Highlight><te href=851103>Burst - Scorching Impact</te></color> or <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> hits an enemy, all Resonators in the team recover HP every second for <color=Highlight>{1}s</color> at a rate equal to <color=Highlight>{0}</color> of the Resonator's ATK. This effect can only be triggered <color=Highlight><SapTag=3>{3}</color></SapTag> {Cus:Sap,S=time P=times SapTag=3} every <color=Highlight>{2}</color>s.","Khi <color=Highlight><te href=851103>""Bùng Nổ - Xung Kích Thiêu Đốt""</te></color><color=Highlight><te href=851102>""Bùng Nổ - Cột Lửa Thiêu Đốt""</te></color> trúng kẻ địch, toàn bộ nhân vật hồi phục mỗi giây một lượng sinh mệnh bằng <color=Highlight>{0}</color> tấn công của người thi triển, kéo dài <color=Highlight>{1}</color> giây, hiệu ứng này có thể kích hoạt <color=Highlight>{3}</color> lần mỗi <color=Highlight>{2}</color> giây."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_6_Desc_0,<color=Highlight><te href=851103>「爆发·灼热冲击」</te></color><color=Highlight><te href=851102>「爆发·灼热火柱」</te></color>命中敌人时，所有角色回复生命。,"When <color=Highlight><te href=851103>Burst - Scorching Impact</te></color> or <color=Highlight><te href=851102>Burst - Blazing Pillar</te></color> hits an enemy, all Resonators in the team recover HP.","Khi <color=Highlight><te href=851103>""Bùng Nổ - Xung Kích Thiêu Đốt""</te></color><color=Highlight><te href=851102>""Bùng Nổ - Cột Lửa Thiêu Đốt""</te></color> trúng kẻ địch, toàn bộ nhân vật hồi phục sinh mệnh."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_6_Name,波仔圆形·二,Namipon Circle x2,Namipon Tròn x2
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_6_Unlocked,寻回地下街深处清泉花庭树附近的极道波仔时解锁,Find the Yakuza Namipon near the Seisen Garden Tree in the Underground Street to unlock.,Tìm lại Namipon Cực Đạo gần cây Seisen Garden Tree sâu trong phố ngầm để mở khóa
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_7_AcquisitionMethod,获得波仔徽章时解锁,Obtain Namipon Badge,Mở khóa khi nhận được Huy Hiệu Namipon
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_7_Desc,处于<color=Highlight><te href=851104>「增幅·波仔援护」</te></color>时，受到伤害时会回复<color=Highlight>{0}</color>点稳定值。,"During <color=Highlight><te href=851104>Boost - Namipon Aid</te></color>, taking damage restores<color=Highlight>{0}</color> points of Stability.","Khi đang trong trạng thái <color=Highlight><te href=851104>""Tăng Cường - Namipon Hỗ Trợ""</te></color>, khi bị sát thương sẽ hồi phục <color=Highlight>{0}</color> điểm giá trị ổn định."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_7_Desc_0,处于<color=Highlight><te href=851104>「增幅·波仔援护」</te></color>时，受到伤害时回复稳定值。,"During <color=Highlight><te href=851104>Boost - Namipon Aid</te></color>, taking damage restores Stability.","Khi đang trong trạng thái <color=Highlight><te href=851104>""Tăng Cường - Namipon Hỗ Trợ""</te></color>, khi bị sát thương sẽ hồi phục giá trị ổn định."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_7_Name,点心波仔圆形·二,Sweet Tooth Namipon Circle x2,Namipon Bánh Ngọt Tròn x2
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_7_Unlocked,完成【穗波怪异物语】首个探索任务后解锁,Unlocked upon the completion of the first exploration task in Stranger Things in Honami,Mở khóa sau khi hoàn thành nhiệm vụ khám phá đầu tiên trong [Chuyện Kỳ Lạ Ở Honami]
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_8_AcquisitionMethod,解决花影地下街怪异后解锁,Unlocked after resolving the anomaly in Hanakage Underground Street,Mở khóa sau khi giải quyết dị biến ở Phố Ngầm Hanakage
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_8_Desc,退出<color=Highlight><te href=851104>「增幅·波仔援护」</te></color>时，所有角色获得施放者最大生命<color=Highlight>{0}</color>的治疗。,"When exiting <color=Highlight><te href=851104>Boost - Namipon Aid</te></color>, all Resonators in the team receive healing equal to <color=Highlight>{0}</color> of the caster's Max HP.","Khi thoát khỏi <color=Highlight><te href=851104>""Tăng Cường - Namipon Hỗ Trợ""</te></color>, toàn bộ nhân vật nhận hồi phục bằng <color=Highlight>{0}</color> sinh mệnh tối đa của người thi triển."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_8_Desc_0,退出<color=Highlight><te href=851104>「增幅·波仔援护」</te></color>时，所有角色获得治疗。,"When exiting <color=Highlight><te href=851104>Boost - Namipon Aid</te></color>, all Resonators in the team receive healing.","Khi thoát khỏi <color=Highlight><te href=851104>""Tăng Cường - Namipon Hỗ Trợ""</te></color>, toàn bộ nhân vật nhận hồi phục."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_8_Name,点心波仔圆形·四,Sweet Tooth Namipon Circle x4,Namipon Bánh Ngọt Tròn x4
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_8_Unlocked,解决花影地下街怪异后解锁,Unlocked after resolving the anomaly in Hanakage Underground Street,Mở khóa sau khi giải quyết dị biến ở Phố Ngầm Hanakage
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_9_AcquisitionMethod,寻回商业区巨大樱花树附近的假期波仔时解锁,Find the Vacationer Namipon near the giant cherry blossom tree in the Commercial District to unlcok.,Tìm lại Vacationer Namipon gần cây hoa anh đào khổng lồ ở Khu Thương Mại để mở khóa
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_9_Desc,进入<color=Highlight><te href=851104>「增幅·波仔援护」</te></color>时，队伍中的角色攻击提升<color=Highlight>{0}</color>，持续<color=Highlight>{1}</color>秒。,"When entering <color=Highlight><te href=851104>Boost - Namipon Aid</te></color>, all Resonators in the team have their ATK increased by <color=Highlight>{0}</color> for <color=Highlight>{1}s</color>.","Khi vào trạng thái <color=Highlight><te href=851104>""Tăng Cường - Namipon Hỗ Trợ""</te></color>, tấn công của các nhân vật trong đội tăng <color=Highlight>{0}</color>, kéo dài <color=Highlight>{1}</color> giây."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_9_Desc_0,进入<color=Highlight><te href=851104>「增幅·波仔援护」</te></color>时，队伍中的角色攻击提升。,"When entering <color=Highlight><te href=851104>Boost - Namipon Aid</te></color>, all Resonators in the team have their ATK increased.","Khi vào trạng thái <color=Highlight><te href=851104>""Tăng Cường - Namipon Hỗ Trợ""</te></color>, tấn công của các nhân vật trong đội tăng."
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_9_Name,点心波仔圆形·六,Sweet Tooth Namipon Circle x6,Namipon Bánh Ngọt Tròn x6
-lang_multi_text.db,MultiText,HonamiStoryWeaponSuit_9_Unlocked,寻回商业区巨大樱花树附近的假期波仔时解锁,Find the Vacationer Namipon near the giant cherry blossom tree in the Commercial District to unlcok.,Tìm lại Vacationer Namipon gần cây hoa anh đào khổng lồ ở Khu Thương Mại để mở khóa
-lang_multi_text.db,MultiText,HonamiStory_BackPack,背包,Storage Bag,Túi Đồ
-lang_multi_text.db,MultiText,HonamiStory_BackpackSort,整理,Sort,Sắp xếp
-lang_multi_text.db,MultiText,HonamiStory_Cancel_Track,取消追踪,Cancel Tracking,Hủy theo dõi
-lang_multi_text.db,MultiText,HonamiStory_CantEquipNormalItem,非装备类型，无法装配,This loot item is unequippable,"Không phải trang bị, không thể lắp đặt"
-lang_multi_text.db,MultiText,HonamiStory_CantSortBackpack,当前空间不足，无法进行整理,Out of space. Unable to sort.,"Không đủ chỗ trống, không thể sắp xếp"
-lang_multi_text.db,MultiText,HonamiStory_CantUnlockLastSlot,请先解锁上一个槽位,Unlock the prerequisite slot first,Vui lòng mở khóa ô trước đó trước
-lang_multi_text.db,MultiText,HonamiStory_Change,替换,Switch,Thay thế
-lang_multi_text.db,MultiText,HonamiStory_ChangeRole_Lock,无法切换角色,Cannot switch Resonators,Không thể đổi nhân vật
-lang_multi_text.db,MultiText,HonamiStory_ChangeWeapon_Lock,无法切换波仔,Cannot switch Namipons,Không thể đổi Namipon
-lang_multi_text.db,MultiText,HonamiStory_ChooseSlot,请选择替入槽位,Please select a slot to replace,Vui lòng chọn ô thay thế
-lang_multi_text.db,MultiText,HonamiStory_ClickSell,出售,Sell,Bán
-lang_multi_text.db,MultiText,HonamiStory_Collect_Finished,领取,Claim,Nhận
-lang_multi_text.db,MultiText,HonamiStory_Collect_GotReward,已获取,Claimed,Đã nhận
-lang_multi_text.db,MultiText,HonamiStory_Collect_Unfinished,未解锁,Locked,Chưa mở khóa
-lang_multi_text.db,MultiText,HonamiStory_CombatPowerTips,"与敌人对比战力值越强，战斗将会更轻松。
-装备的贴纸的品质、对应角色、对应波仔标签、激活波仔套装；都会影响战力值","The higher your Combat Power compared to the enemy's, the easier the battle will be.
-Sticker rarity, Resonators, Namipon tags, and activated Namipon sets all affect your Combat Power.","Chỉ số sức chiến đấu càng cao hơn kẻ địch, trận chiến sẽ càng dễ dàng.
-Chất lượng sticker được trang bị, nhân vật tương ứng, tag Namipon tương ứng, bộ Namipon kích hoạt - tất cả đều ảnh hưởng đến sức chiến đấu."
-lang_multi_text.db,MultiText,HonamiStory_DepartAnytime,继续探寻穗波市谜团,Keep exploring Honami City,Tiếp tục khám phá bí ẩn thành phố Honami
-lang_multi_text.db,MultiText,HonamiStory_DiscardItemTips,已丢弃{0},{0} discarded,Đã vứt bỏ {0}
-lang_multi_text.db,MultiText,HonamiStory_DoubleClickTip_Discard,双击快速丢弃,"Double-{Cus:Ipt,Touch=tap PC=click Gamepad=press} to quickly discard",Nhấp đúp để vứt nhanh
-lang_multi_text.db,MultiText,HonamiStory_DoubleClickTip_Equip,双击快速装备,"Double-{Cus:Ipt,Touch=tap PC=click Gamepad=press} to quickly equip",Nhấp đúp để trang bị nhanh
-lang_multi_text.db,MultiText,HonamiStory_DoubleClickTip_Pick,双击快速拾取,"Double-{Cus:Ipt,Touch=tap PC=click Gamepad=press} to collect",Nhấp đúp để nhặt nhanh
-lang_multi_text.db,MultiText,HonamiStory_DoubleClickTip_PickPlugin,双击快速拾取或装备,"Double-{Cus:Ipt,Touch=tap PC=click Gamepad=press} to collect or equip",Nhấp đúp để nhặt hoặc trang bị nhanh
-lang_multi_text.db,MultiText,HonamiStory_DoubleClickTip_UnloadPlugin,双击快速卸下,"Double-{Cus:Ipt,Touch=tap PC=click Gamepad=press} to quickly unequip",Nhấp đúp để tháo nhanh
-lang_multi_text.db,MultiText,HonamiStory_Entry,前往,Go,Đi đến
-lang_multi_text.db,MultiText,HonamiStory_Equip,装配,Equip,Trang bị
-lang_multi_text.db,MultiText,HonamiStory_EquipEffect,{0}赋予效果,Effects granted by {0},Hiệu ứng từ {0}
-lang_multi_text.db,MultiText,HonamiStory_EvacuationInterface_1,背包核算价值,Storage Bag Items' Total Value,Tổng giá trị túi đồ
-lang_multi_text.db,MultiText,HonamiStory_EvacuationInterface_2,探索时长,Exploration Duration,Thời gian khám phá
-lang_multi_text.db,MultiText,HonamiStory_EvacuationInterface_3,店铺装潢加成,Cafe Decor Bonus,Bonus trang trí quán
-lang_multi_text.db,MultiText,HonamiStory_EvacuationInterface_4,波仔为客人保留了{0}%的收益,Namipon has reserved {0}% of your income.,Namipon đã giữ lại {0}% thu nhập cho khách.
-lang_multi_text.db,MultiText,HonamiStory_EvacuationInterface_5,危险等级,Danger Level,Mức nguy hiểm
-lang_multi_text.db,MultiText,HonamiStory_EvacuationInterface_6,击杀怪物,Enemies Defeated,Quái vật đã hạ
-lang_multi_text.db,MultiText,HonamiStory_EvacuationInterface_7,通关时间,Clear Time,Thời gian hoàn thành
-lang_multi_text.db,MultiText,HonamiStory_EvacuationInterface_8,米团收益,Rice Dango Income,Thu nhập Bánh Gạo
-lang_multi_text.db,MultiText,HonamiStory_EvacuationWindow_1,安全撤离,Safe Extraction,Rút Lui An Toàn
-lang_multi_text.db,MultiText,HonamiStory_EvacuationWindow_10,未预约波仔快车！,You haven't booked a Namipon Shuttle!,Chưa đặt chuyến Namipon Express!
-lang_multi_text.db,MultiText,HonamiStory_EvacuationWindow_11,可在电话亭设施处预约波仔快车进行安全撤离,You can book the Namipon Shuttle at a Telephone Booth for Safe Extraction.,Có thể đặt chuyến Namipon Express tại Bốt Điện Thoại để rút lui an toàn
-lang_multi_text.db,MultiText,HonamiStory_EvacuationWindow_12,强制撤离后，您将会丢弃本次探索中获得的全部物资,A Forced Extraction will cause you to lose all items obtained in this run.,"Sau khi rút lui cưỡng chế, bạn sẽ mất toàn bộ vật tư thu được trong lần khám phá này"
-lang_multi_text.db,MultiText,HonamiStory_EvacuationWindow_13,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,HonamiStory_EvacuationWindow_14,强制撤离,Forced Extraction,Rút Lui Cưỡng Chế
-lang_multi_text.db,MultiText,HonamiStory_EvacuationWindow_15,中断,Quit,Gián Đoạn
-lang_multi_text.db,MultiText,HonamiStory_EvacuationWindow_16,结束挑战,Exit,Kết Thúc Thử Thách
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_11_Name,樱花伞,Sakura Umbrella,Ô Hoa Anh Đào
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_12_Access,传闻在樱漫町鲤鱼桥的污染奇藏中容易出现。,Rumored to be in a contaminated chest on Koi Bridge in Sakura Quarter.,Lời đồn dễ xuất hiện trong kho báu ô nhiễm tại cầu cá chép ở Sakura Quarter.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_12_Desc,"据说会在月亮到来时苏醒，在穗波的夜空中肆意游弋。
+经波仔查证系谣传。","It is said to come alive and roam the night sky when the moon rises above Honami. 
+A rumor later debunked by Namipon.","Nghe nói sẽ thức tỉnh khi mặt trăng đến, du ngoạn tự do trên bầu trời đêm Honami.
+Namipon đã kiểm chứng là tin đồn nhảm."
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_12_Name,鱼旗,Fish Windsock,Cờ Cá Chép
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_1_Access,传闻在迷津隧道的扭蛋机中容易出现。,Rumored to be in a capsule machine in the Meishin Passageway.,Lời đồn dễ xuất hiện trong máy Gashapon ở Lối Đi Meishin.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_1_Desc,"小型库洛洛玩偶。机器人脸上露出了死鱼眼的表情……
+有损黑海岸企业形象！","A small KU-Roro plushie. The robot wears a dead-eyed look...
+Not great for the Black Shores' public image!","Gấu bông KU-Roro cỡ nhỏ. Trên mặt robot lộ ra biểu cảm mắt cá chết...
+Tổn hại hình tượng doanh nghiệp Bờ Biển Đen!"
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_1_Name,娇小库洛洛,Tiny KU-Roro,KU-Roro Nhỏ Nhắn
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_2_Access,传闻在穗波市中有概率出现，似乎在列车长咖啡厅的补给站也在高价售卖。,Rumored to be in Honami City. The Cafe's Supply Shop also seems to sell this at a high price.,"Lời đồn có xác suất xuất hiện trong thành phố Honami, dường như cũng được bán với giá cao tại trạm tiếp tế của Quán Cà Phê Trưởng Tàu."
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_2_Desc,"这个模型看起来酷似某种令人无比在意的稀有资源……
+能用它换一些星声么？","This model bears a striking resemblance to some highly coveted rare resource...
+Could it be traded for Astrites?","Mô hình này trông cực giống một loại tài nguyên hiếm khiến người ta vô cùng để ý...
+Có thể dùng nó đổi lấy một ít Astrite không?"
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_2_Name,索拉里斯之星,Star of Solaris,Ngôi Sao Solaris
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_3_Access,传闻在花影地下街酷似星声摆件附近的污染区容易出现。,Rumored to be in a Contaminated Zone close to the Astrite-like ornaments in Hanakage Underground Street.,Lời đồn dễ xuất hiện trong khu ô nhiễm gần vật trang trí giống Astrite ở Phố Ngầm Hanakage.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_3_Desc,"快打破不对劲的游泳圈！
+……这次就不必了。","Quick! Destroy the weird swing ring!
+...Never mind. Let's ignore it this time.","Mau phá vỡ cái phao bơi bất thường đó đi!
+...Thôi lần này khỏi cần."
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_3_Name,不对劲游泳圈,Weird Swim Ring,Phao Bơi Bất Thường
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_4_Access,解决樱漫町的怪异源头后获取。,Resolve the anomaly in the Sakura Quarter to obtain.,Nhận được sau khi giải quyết nguồn gốc quái dị ở Sakura Quarter.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_4_Desc,和波仔本豚大小相近的公仔。做工精良，造型憨厚，穗波的孩子们都想要一个。,"A plushie roughly the same size as Namipon. Well-crafted, adorably chubby, and loved by every kid in Honami.","Thú bông có kích thước gần bằng bản thân Namipon. Gia công tinh xảo, tạo hình ngây ngô, trẻ con ở Honami đều muốn có một con."
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_4_Name,隐藏款波仔公仔,Secret Edition Namipon Plushie,Thú Bông Namipon Bản Ẩn
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_5_Access,传闻在穗波中央公园的怪异源头附近容易出现。,Rumored to be near the anomaly in the Honami Central Park.,Lời đồn dễ xuất hiện gần nguồn gốc quái dị ở Công Viên Trung Tâm Honami.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_5_Desc,"虹音塔的微缩版模型，做工非常精细。
+据说有些影视公司用它拍摄怪物来袭的特殊摄影。","A well-crafted miniature of Neon Tower.
+It is said that some film studios use it for monster-attack miniature shots.","Mô hình thu nhỏ của Tháp Neon, gia công vô cùng tinh tế.
+Nghe nói có vài công ty điện ảnh dùng nó để quay cảnh quái vật tấn công kỹ xảo đặc biệt."
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_5_Name,小型虹音塔,Miniature Neon Tower,Tháp Neon Cỡ Nhỏ
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_6_Access,解决穗波中央公园的怪异源头后获取。,Resolve the anomaly in Honami Central Park to obtain.,Nhận được sau khi giải quyết nguồn gốc quái dị ở Công Viên Trung Tâm Honami.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_6_Desc,"做工精致的风铃，风吹动时会发出悦耳的声响。
+每次风铃声响起，都是客人来到的预兆。
+经波仔查证系谣传。","A well-crafted wind chime that rings softly in the breeze.
+They say each chime heralds the arrival of a customer.
+A rumor later debunked by Namipon.","Chuông gió gia công tinh xảo, khi gió thổi sẽ phát ra âm thanh vui tai.
+Mỗi lần tiếng chuông gió vang lên, đều là điềm báo khách đến.
+Namipon đã kiểm chứng là tin đồn nhảm."
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_6_Name,工艺风铃,Handcrafted Wind Chime,Chuông Gió Thủ Công
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_7_Access,解决迷津隧道的怪异源头后获取。,Resolve the anomaly in the Meishin Passageway to obtain.,Nhận được sau khi giải quyết nguồn gốc quái dị ở Lối Đi Meishin.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_7_Desc,波仔形象的灯笼，每到重要节日时，穗波人就会挂起这样的灯笼来祈福。,"A Namipon-shaped lantern. During festivals, people in Honami hang these to pray for good fortune.","Lồng đèn hình Namipon, mỗi khi đến dịp lễ quan trọng, người dân Honami sẽ treo những chiếc lồng đèn như vậy để cầu phúc."
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_7_Name,波仔灯笼,Namipon Lantern,Lồng Đèn Namipon
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_8_Access,传闻在樱漫町自动售货机旁的扭蛋机中容易出现。,Rumored to be in a capsule machine by the vending machines in the Sakura Quarter.,Lời đồn dễ xuất hiện trong máy Gashapon cạnh máy bán hàng tự động ở Sakura Quarter.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_8_Desc,波子汽水！穗波人从小喝到大的汽水！,Namipon's Sparkling Water! A drink every Honami resident grows up with!,Nước ngọt Namipon! Loại nước ngọt người dân Honami uống từ nhỏ đến lớn!
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_8_Name,波子汽水三十周年款,Namipon's Sparkling Water 30 Year Anniversary Edition,Nước Ngọt Namipon Bản Kỷ Niệm 30 Năm
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_9_Access,解决花影地下街的怪异源头后获取。,Resolve the anomaly in Hanakage Underground Street to obtain.,Nhận được sau khi giải quyết nguồn gốc quái dị ở Phố Ngầm Hanakage.
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_9_Desc,"波仔博士的罐装汽水，据某些不靠谱传闻说，可以通过它穿越时间？
+经波仔查证系谣传。","Professor Namipon's Drink Can. According to certain dubious rumors, this drink lets you travel through time.
+A rumor later debunked by Namipon.","Nước ngọt đóng lon của Tiến sĩ Namipon, theo một số lời đồn không đáng tin thì có thể dùng nó để du hành thời gian?
+Namipon đã kiểm chứng là tin đồn nhảm."
+lang_multi_text.db,MultiText,HonamiStoryItemCollection_9_Name,波仔博士罐饮,Professor Namipon's Drink Can,Lon Nước Tiến Sĩ Namipon
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_10_TaskText,以危险等级5及以上通关虹音塔挑战,Clear the Neon Tower challenge at Danger Level Lv. 5 or above,Vượt ải Tháp Neon với độ nguy hiểm từ cấp 5 trở lên
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_11_TaskText,找回6个迷途波仔({0}/{1}),Find 6 Missing Namipons ({0}/{1}),Tìm về 6 Namipon đi lạc ({0}/{1})
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_12_TaskText,获得6个传说级藏品({0}/{1}),Obtain 6 Legendary collectibles  ({0}/{1}),Nhận 6 bộ sưu tập cấp Truyền Thuyết ({0}/{1})
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_13_TaskText,以危险等级6成功撤离，且最终收益估值大于1({0}/{1}),Successfully Extract at Danger Level Lv. 6 with Estimated Income > 1 ({0}/{1}),"Rút lui thành công với độ nguy hiểm cấp 6, và định giá lợi ích cuối cùng lớn hơn 1 ({0}/{1})"
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_14_TaskText,找回8个迷途波仔({0}/{1}),Find 8 Missing Namipons ({0}/{1}),Tìm về 8 Namipon đi lạc ({0}/{1})
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_15_TaskText,获得8个传说级藏品({0}/{1}),Obtain 8 Legendary collectibles  ({0}/{1}),Nhận 8 bộ sưu tập cấp Truyền Thuyết ({0}/{1})
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_16_TaskText,以危险等级6通关虹音塔挑战,Clear the Neon Tower challenge at Danger Level Lv. 6,Vượt ải Tháp Neon với độ nguy hiểm cấp 6
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_1_TaskText,成功撤离1次({0}/{1}),Successfully Extract 1 time ({0}/{1}),Rút lui thành công 1 lần ({0}/{1})
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_2_TaskText,通关住宅区,Clear the Residential District,Vượt ải Khu Dân Cư
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_3_TaskText,通关商业区,Clear the Commercial District,Vượt ải Khu Thương Mại
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_4_TaskText,解锁补给商店,Unlock the Supply Shop,Mở khóa Cửa Hàng Tiếp Tế
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_5_TaskText,通关花影地下街,Clear Hanakage Underground Street,Vượt ải Phố Ngầm Hanakage
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_6_TaskText,成功撤离3次({0}/{1}),Successfully Extract 3 times ({0}/{1}),Rút lui thành công 3 lần ({0}/{1})
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_7_TaskText,通关穗波中央公园,Clear Honami Central Park,Vượt ải Công Viên Trung Tâm Honami
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_8_TaskText,获得4个传说级藏品({0}/{1}),Obtain 4 Legendary collectibles {0}/{1},Nhận 4 bộ sưu tập cấp Truyền Thuyết ({0}/{1})
+lang_multi_text.db,MultiText,HonamiStoryLimitTask_9_TaskText,完成1次虹音塔挑战,Complete the Neon Tower challenge once,Hoàn thành 1 lần khiêu chiến Tháp Neon
+lang_multi_text.db,MultiText,HonamiStoryMapMark_0_Desc,能够在这里预约波仔快车,You can book the Namipon Shuttle here.,Có thể đặt Tốc Hành Namipon tại đây
+lang_multi_text.db,MultiText,HonamiStoryMapMark_0_Name,波仔电话亭,Namipon Telephone Booth,Bốt Điện Thoại Namipon
+lang_multi_text.db,MultiText,HonamiStoryMapMark_1_Desc,激活后可以获取周边信息,You can access nearby information upon activation.,Sau khi kích hoạt có thể nhận thông tin xung quanh
+lang_multi_text.db,MultiText,HonamiStoryMapMark_1_Name,波仔灯箱,Namipon Lightbox,Hộp Đèn Namipon
+lang_multi_text.db,MultiText,HonamiStoryMapMark_2_Desc,启动波仔扭蛋机可以获得随机奖励，部分扭蛋机遭到悲鸣残留污染，需要消耗稳定值才能开启。,You can obtain random rewards by starting the Namipon Capsule Machine. Some machines have been contaminated by Lament Residue and will cost Stability to open.,"Khởi động máy Gashapon Namipon có thể nhận phần thưởng ngẫu nhiên, một số máy Gashapon bị ô nhiễm tàn dư Bi Minh, cần tiêu hao độ ổn định mới có thể mở."
+lang_multi_text.db,MultiText,HonamiStoryMapMark_2_Name,波仔扭蛋机,Namipon Capsule Machine,Máy Gashapon Namipon
+lang_multi_text.db,MultiText,HonamiStoryMapMark_3_Desc,不知道会通向哪里的传送门……,A portal leading to an unknown destination...,Cổng dịch chuyển không biết sẽ dẫn tới đâu...
+lang_multi_text.db,MultiText,HonamiStoryMapMark_3_Name,虹光传送门,Irideglow Portal,Cổng Dịch Chuyển Cầu Vồng
+lang_multi_text.db,MultiText,HonamiStoryMapMark_4_Desc,高危险度的悲鸣残留区域,A high-risk Lament Residue Zone.,Khu vực tàn dư Bi Minh có độ nguy hiểm cao
+lang_multi_text.db,MultiText,HonamiStoryMapMark_4_Name,悲鸣残留区域,Lament Residue Zone,Khu Vực Tàn Dư Bi Minh
+lang_multi_text.db,MultiText,HonamiStoryMapMark_5_Desc,悲鸣残留高度聚集，附近似乎有特殊的残象。,Lament Residue is highly concentrated around here. There seems to be unusual Tacet Discords nearby.,"Tàn dư Bi Minh tụ tập mật độ cao, gần đó dường như có Tàn Tượng đặc biệt."
+lang_multi_text.db,MultiText,HonamiStoryMapMark_5_Name,特殊残象,Unusual Tacet Discord,Tàn Tượng Đặc Biệt
+lang_multi_text.db,MultiText,HonamiStoryMapMark_6_Desc,附近似乎有迷途波仔的行踪……,There are traces of a Missing Namipon here...,Gần đó dường như có dấu vết của Namipon đi lạc...
+lang_multi_text.db,MultiText,HonamiStoryMapMark_6_Name,迷途波仔,Missing Namipon,Namipon Đi Lạc
+lang_multi_text.db,MultiText,HonamiStoryMapMark_7_Desc,通往<color=#efece1>穗波中央公园</color>的传送门。,A portal that takes you to <color=#efece1>Honami Central Park</color>.,Cổng dịch chuyển dẫn đến <color=#efece1>Công Viên Trung Tâm Honami</color>.
+lang_multi_text.db,MultiText,HonamiStoryMapMark_8_Desc,返回<color=#efece1>穗波市中心区域</color>的传送门。,A portal that takes you back to <color=#efece1>Central Honami</color>.,Cổng dịch chuyển quay về <color=#efece1>Khu Trung Tâm Honami</color>.
+lang_multi_text.db,MultiText,HonamiStoryPluginTag_1_Name,增益,Buff,Hiệu Quả
+lang_multi_text.db,MultiText,HonamiStoryPluginTag_2_Name,回复,Healing,Hồi Phục
+lang_multi_text.db,MultiText,HonamiStoryPluginTag_3_Name,高频伤害,Multi-Stage DMG,Sát Thương Đa Đoạn
+lang_multi_text.db,MultiText,HonamiStoryPluginTag_4_Name,单段伤害,Single-Stage DMG,Sát Thương Đơn Đoạn
+lang_multi_text.db,MultiText,HonamiStoryPluginTag_5_Name,投射波仔,Namipon Projectile,Đạn Namipon
+lang_multi_text.db,MultiText,HonamiStoryPluginTag_6_Name,持续伤害,DoT,Sát Thương Duy Trì
+lang_multi_text.db,MultiText,HonamiStoryPluginTag_7_Name,负面效果,Debuff,Hiệu Ứng Xấu
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_10_TaskText,累计收益达到650000,"Obtain 650,000 Rice Dangos in total",Tổng thu nhập đạt 650000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_11_TaskText,累计收益达到850000,"Obtain 850,000 Rice Dangos in total",Tổng thu nhập đạt 850000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_12_TaskText,累计收益达到1200000,"Obtain 1,200,000 Rice Dangos in total",Tổng thu nhập đạt 1200000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_1_TaskText,累计收益达到1000,"Obtain 1,000 Rice Dangos in total",Tổng thu nhập đạt 1000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_2_TaskText,累计收益达到20000,"Obtain 20,000 Rice Dangos in total",Tổng thu nhập đạt 20000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_3_TaskText,累计收益达到40000,"Obtain 40,000 Rice Dangos in total",Tổng thu nhập đạt 40000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_4_TaskText,累计收益达到60000,"Obtain 60,000 Rice Dangos in total",Tổng thu nhập đạt 60000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_5_TaskText,累计收益达到100000,"Obtain 100,000 Rice Dangos in total",Tổng thu nhập đạt 100000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_6_TaskText,累计收益达到150000,"Obtain 150,000 Rice Dangos in total",Tổng thu nhập đạt 150000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_7_TaskText,累计收益达到250000,"Obtain 250,000 Rice Dangos in total",Tổng thu nhập đạt 250000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_8_TaskText,累计收益达到350000,"Obtain 350,000 Rice Dangos in total",Tổng thu nhập đạt 350000
+lang_multi_text.db,MultiText,HonamiStoryResidentTask_9_TaskText,累计收益达到450000,"Obtain 450,000 Rice Dangos in total",Tổng thu nhập đạt 450000
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_1_LockTip,锁定中,Locked,Đang khóa
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_1_Name,调谐器*50,Tuner *50,Bộ Điều Hợp *50
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_2_LockTip,锁定中,Locked,Đang khóa
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_2_Name,星声*100,Astrite *100,Tinh Thanh *100
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_3_LockTip,锁定中,Locked,Đang khóa
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_3_Name,调频仪*5,Modifier *5,Máy Chỉnh Tần *5
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_4_LockTip,锁定中,Locked,Đang khóa
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_4_Name,星声*100,Astrite *100,Tinh Thanh *100
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_5_LockTip,锁定中,Locked,Đang khóa
+lang_multi_text.db,MultiText,HonamiStoryScoreReward_5_Name,异相·伪作的神王,Phantom: The False Sovereign,Dị Tượng: Thần Vương Ngụy Tạo
+lang_multi_text.db,MultiText,HonamiStoryTalent_10_CampUpgradeDescription,增设新的手工看板，用于展示每日独特菜单。,Install a new handwritten chalkboard to display daily special menu.,Lắp đặt biển hiệu thủ công mới để hiển thị thực đơn đặc biệt mỗi ngày.
+lang_multi_text.db,MultiText,HonamiStoryTalent_10_CampUpgradeName,增设看板,Handwritten Menu,Thêm Biển Hiệu
+lang_multi_text.db,MultiText,HonamiStoryTalent_10_TechName,盲盒优惠,Blind Box Discount,Giảm Giá Hộp Mù
+lang_multi_text.db,MultiText,HonamiStoryTalent_11_CampUpgradeDescription,增添烘焙设施与甜品柜，可以在店内出售新产品了。,Set up baking equipment and a dessert case to extend the menu.,"Thêm thiết bị làm bánh và tủ tráng miệng, có thể bán sản phẩm mới trong cửa hàng."
+lang_multi_text.db,MultiText,HonamiStoryTalent_11_CampUpgradeName,甜品烘培,Dessert Baking,Làm Bánh Tráng Miệng
+lang_multi_text.db,MultiText,HonamiStoryTalent_11_TechName,背包扩容·二,Storage Expansion II,Mở Rộng Balo II
+lang_multi_text.db,MultiText,HonamiStoryTalent_12_CampUpgradeDescription,添置室内的植被摆放，改善店铺氛围与空气质量。,Add houseplants to improve the store's atmosphere and air quality.,"Bố trí thêm cây cảnh trong nhà, cải thiện bầu không khí và chất lượng không khí của quán."
+lang_multi_text.db,MultiText,HonamiStoryTalent_12_CampUpgradeName,室内绿化,Indoor Greenery,Phủ Xanh Trong Nhà

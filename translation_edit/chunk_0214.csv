@@ -1,120 +1,413 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Brochure_WithoutRangeTips_4,暂未进入拍摄范围，请前往泳池旁,You are not at the designated photo spot. Please go to the swimming pool.,"Chưa vào khu vực chụp, hãy đến bên hồ bơi"
-lang_multi_text.db,MultiText,Brochure_WithoutRangeTips_5,暂未进入拍摄范围，请前往餐吧,You are not at the designated photo spot. Please go to the bar.,"Chưa vào khu vực chụp, hãy đến quầy bar"
-lang_multi_text.db,MultiText,Brochure_WithoutRangeTips_6,暂未进入拍摄范围，请前往前厅,You are not at the designated photo spot. Please go to the lobby.,"Chưa vào khu vực chụp, hãy đến sảnh"
-lang_multi_text.db,MultiText,Brochure_WithoutRangeTips_7,暂未进入拍摄范围，请前往秋千旁,You are not at the designated photo spot. Please go to the swing.,"Chưa vào khu vực chụp, hãy đến bên xích đu"
-lang_multi_text.db,MultiText,BuildArchives_GeneralCommunication,收集{0}份感谢信,"Collect <SapTag=0>{0}</SapTag> {Cus:Sap,S=Message P=Messages SapTag=0} of Appreciation",Thu thập {0} thư cảm ơn
-lang_multi_text.db,MultiText,BuildArchives_GeneralTask,收集{0}份档案,"Collect <SapTag=0>{0}</SapTag> {Cus:Sap,S=File P=Files SapTag=0}",Thu thập {0} tài liệu
-lang_multi_text.db,MultiText,BuildObser_1_Des,"推进……展开……测界仪的地基……
-（经历虚质磁暴后，深空测界台的地基受损严重，但建于其上的能源转换阵列大部分还能继续使用，因此当时决定将地基收拢，避免能源转换阵列损耗，等待资源调配充足后，再展开地基，进行后续修复工作。德莉珐如是说！）","Advance… extend… the foundations of the Observatory…
-(""After the Void Storm, the foundations of the Spacetrek Observatory were heavily damaged. Fortunately, most of the energy conversion array built on top remained functional. So the team decided to retract the foundations to prevent further wear. Once resources were sufficient, we would extend them again and begin structural repairs,"" says Dhalifa!)","Triển khai... mở rộng... nền móng đài quan trắc...\n(Sau trận bão từ hư chất, nền móng của Đài Quan Trắc Thâm Không bị hư hại nặng, nhưng phần lớn mảng chuyển đổi năng lượng phía trên vẫn còn dùng được. Vì vậy, lúc đó đã quyết định thu gọn nền móng để tránh hao tổn mảng chuyển đổi năng lượng, chờ khi đủ tài nguyên sẽ mở rộng lại và tiến hành sửa chữa. Dhalifa nói vậy đấy!)"
-lang_multi_text.db,MultiText,BuildObser_1_Effect,"立刻获得协联点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Nhận ngay điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildObser_1_Level,Ⅰ,I,I
-lang_multi_text.db,MultiText,BuildObser_1_Name,阶段Ⅰ：拓原工程,Phase I: Foundation,Giai đoạn I: Công Trình Nền Móng
-lang_multi_text.db,MultiText,BuildObser_1_Result,"拓原工程已完成，下一阶段为悬台工程。
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_02,异构武装,Sentry Construct,Vũ Trang Dị Cấu
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_03,赫卡忒,Hecate,Hecate
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_04,叹息古龙,Dragon of Dirge,Cổ Long Than Khóc
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_05,罗蕾莱,Lorelei,Lorelei
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_06,芙露德莉斯,Fleurdelys,Fleurdelys
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_07,凯尔匹,Kelpie,Kelpie
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_08,海之女,Lady of the Sea,Nữ Thần Biển
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_09,荣耀狮像,Lioness of Glory,Sư Tử Vinh Quang
+lang_multi_text.db,MultiText,Bossch2.0_Gymtitle_10,伪作的神王,The False Sovereign,Thần Vương Giả Mạo
+lang_multi_text.db,MultiText,Bossch2.0_title_01,Ⅰ,Ⅰ,I
+lang_multi_text.db,MultiText,Bossch2.0_title_02,Ⅱ,Ⅱ,II
+lang_multi_text.db,MultiText,Bossch2.0_title_03,Ⅲ,Ⅲ,III
+lang_multi_text.db,MultiText,Bossch2.0_title_04,Ⅳ,Ⅳ,IV
+lang_multi_text.db,MultiText,Bossch2.0_title_05,Ⅴ,Ⅴ,Ⅴ
+lang_multi_text.db,MultiText,Bossch2.0_title_06,Ⅵ,Ⅵ,Ⅵ
+lang_multi_text.db,MultiText,Bossch3.0_Gymtitle_1,无妄者,Dreamless,Vô Vọng Giả
+lang_multi_text.db,MultiText,Bossch3.0_Gymtitle_2,炉芯机骸,Reactor Husk,Hài Cốt Máy Lò Phản Ứng
+lang_multi_text.db,MultiText,Bossch_detail_01,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_02,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_03,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_04,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_05,"【抗性】：敌人<color=Thunder>导电抗性</color>提高。
+【激霆】：战斗开始3分钟后，朔雷之鳞每10秒将提升50%攻击力，该效果无叠加层数上限。
+【朔雷】：朔雷之鳞的攻击命中时，朔雷之鳞的攻击力提升10%，防御力降低10%，持续12秒，该效果无叠加层数上限。
+【雷震】：逆势回击后的8秒内，角色攻击的共振值削减倍率提高25%，最多可叠加8层。","[Resistance]: This enemy has a higher <color=Thunder>Electro RES</color>.
 
-深空联合将永远铭记您的付出！","The Foundation Phase is complete. The next phase is the Platform Phase.
+[Thunderbolt]: 3 minutes after the battle begins, the ATK of the Tempest Mephis will increase by 50% every 10s, stacking up to no limit.
 
-The Spacetrek Collective will forever honor your service!","Công Trình Nền Móng đã hoàn thành, giai đoạn tiếp theo là Công Trình Đài Treo.\n\nLiên Hiệp Thâm Không sẽ mãi ghi nhớ sự cống hiến của bạn!"
-lang_multi_text.db,MultiText,BuildObser_1_TaskDes,继续重建路网，将路网活跃度提升至600,Continue rebuilding the route network and raise Network Activity to 600 points,"Tiếp tục xây dựng lại mạng lưới đường, nâng độ hoạt động mạng lưới lên 600"
-lang_multi_text.db,MultiText,BuildObser_2_Des,"悬台承载着测界仪。是控制的核心。资源需求量较大。需要付出更多努力。我们一起加油。
-（接下来要建成的悬台不仅承载着深空测界台的主体，其内部也是研究员们最主要的工作场所，而顶端更是有一片开阔的广场，供大家放松休息，还能一览蚀刻平原的奇景，真期待悬台重新修复的模样呢。德莉珐如是说！）","The Suspension Platform is the Observatory's primary support and control core. Restoring it calls for no small amount of resources and effort. Let's get through it together.
-(""The Suspension Platform we're rebuilding won't just support the main body of the Spacetrek Observatory, it will also become the primary workspace for the researchers. Its upper level will even feature an open plaza where people can relax and enjoy the view of the Etching Plains. I can't wait to see the platform after it's fully restored,"" says Dhalifa!)","Đài treo chịu tải đài quan trắc. Là lõi điều khiển. Cần nhiều tài nguyên. Phải nỗ lực hơn nữa. Cùng nhau cố gắng.\n(Đài treo sắp được xây lại không chỉ nâng đỡ phần chính của Đài Quan Trắc Thâm Không, bên trong còn là nơi làm việc chính của các nhà nghiên cứu. Trên đỉnh còn có một quảng trường rộng rãi để mọi người nghỉ ngơi, ngắm nhìn toàn cảnh Bình Nguyên Khắc Thực. Thật mong chờ được thấy đài treo sau khi sửa xong! Dhalifa nói vậy đấy!)"
-lang_multi_text.db,MultiText,BuildObser_2_Effect,"立刻获得协联点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Nhận ngay điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildObser_2_Level,Ⅱ,II,II
-lang_multi_text.db,MultiText,BuildObser_2_Name,阶段Ⅱ：悬台工程,Phase II: Platform,Giai đoạn II: Công Trình Đài Treo
-lang_multi_text.db,MultiText,BuildObser_2_Result,"悬台工程已完成，下一阶段为望域工程。
+[Thunder]: When the attacks of the Tempest Mephis hit, its ATK will increase by 10%, and DEF will decrease by 10% for 12s, stacking up to no limit.
 
-深空联合将永远铭记您的付出！","The Platform Phase is complete. The next phase is the Overwatch Phase.
+[Thunder Shock]: Within 8 seconds after a Counterattack, the Vibration Strength depletion rate of the Resonator's attacks is increased by 25%, stacking up to 8 times.","[Kháng]: Kẻ địch tăng <color=Thunder>Kháng Điện Từ</color>.
+[Kích Đình]: Sau khi bắt đầu chiến đấu 3 phút, Sóc Lôi Chi Lân tăng 50% Tấn Công mỗi 10 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Sóc Lôi]: Khi đòn tấn công của Sóc Lôi Chi Lân trúng đích, Tấn Công của Sóc Lôi Chi Lân tăng 10%, Phòng Thủ giảm 10%, duy trì 12 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Lôi Chấn]: Trong vòng 8 giây sau khi Phản Đòn, tấn công của nhân vật tăng 25% tỷ lệ bào mòn Thanh Rung Động, cộng dồn tối đa 8 tầng."
+lang_multi_text.db,MultiText,Bossch_detail_06,"【抗性】：敌人<color=Thunder>导电抗性</color>提高。
+【激霆】：战斗开始3分钟后，朔雷之鳞每10秒将提升50%攻击力，该效果无叠加层数上限。
+【朔雷】：朔雷之鳞的攻击命中时，朔雷之鳞的攻击力提升10%，防御力降低10%，持续12秒，该效果无叠加层数上限。
+【雷震】：逆势回击后的8秒内，角色攻击的共振值削减倍率提高25%，最多可叠加8层。","[Resistance]: This enemy has a higher <color=Thunder>Electro RES</color>.
 
-The Spacetrek Collective will forever honor your service!","Công Trình Đài Treo đã hoàn thành, giai đoạn tiếp theo là Công Trình Quan Sát.\n\nLiên Hiệp Thâm Không sẽ mãi ghi nhớ sự cống hiến của bạn!"
-lang_multi_text.db,MultiText,BuildObser_2_TaskDes,继续重建路网，将路网活跃度提升至1200,"Continue rebuilding the route network and raise Network Activity to 1,200 points","Tiếp tục xây dựng lại mạng lưới đường, nâng độ hoạt động mạng lưới lên 1200"
-lang_multi_text.db,MultiText,BuildObser_3_Des,"能够记录拉海洛生态、气候、地形的深空测界台第一次启动时，许多为此奋斗的研究员留下泪水，这是我们为了应对连“存在”都能抹消的虚质磁暴做出的反抗，如今在你的帮助下距离重建就差一步了，我希望最终你也能体会到那时的感动！
-（德莉珐如是说！）","When the Spacetrek Observatory first began recording Lahai-Roi's ecology, climate, and landscapes, many researchers who had worked tirelessly for it broke into tears. It was our way of resisting the Void Storms that could erase even existence. And now, with your help, we stand only one step from rebuilding it. I hope you, too, will feel what we felt on that day! (So says Dhalifa!)","Khi Đài Quan Trắc Thâm Không có khả năng ghi lại hệ sinh thái, khí hậu và địa hình của Lahai-Roi được khởi động lần đầu tiên, nhiều nhà nghiên cứu đã cống hiến cho nó đã rơi nước mắt. Đây là sự phản kháng của chúng ta trước những trận bão từ hư chất có thể xóa sổ cả ""sự tồn tại"". Giờ đây, nhờ sự giúp đỡ của bạn, chỉ còn một bước nữa là hoàn thành việc tái thiết. Tôi hy vọng cuối cùng bạn cũng sẽ cảm nhận được niềm xúc động ngày ấy!\n(Dhalifa nói vậy đấy!)"
-lang_multi_text.db,MultiText,BuildObser_3_Effect,"立刻获得协联点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Nhận ngay điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildObser_3_Level,Ⅲ,III,III
-lang_multi_text.db,MultiText,BuildObser_3_Name,阶段Ⅲ：望域工程,Phase III: Overwatch,Giai đoạn III: Công Trình Quan Sát
-lang_multi_text.db,MultiText,BuildObser_3_Result,"您已重建深空测界台，拉海洛的测绘与记录工作再度启动，如此卓越贡献，意义重大。
+[Thunderbolt]: 3 minutes after the battle begins, the ATK of the Tempest Mephis will increase by 50% every 10s, stacking up to no limit.
 
-深空联合将永远铭记您的付出！","You have successfully rebuilt the Spacetrek Observatory. Lahai-Roi's charting and monitoring systems have been fully reactivated. Your contribution is of substantial importance.
+[Thunder]: When the attacks of the Tempest Mephis hit, its ATK will increase by 10%, and DEF will decrease by 10% for 12s, stacking up to no limit.
 
-The Spacetrek Collective will forever honor your service!","Bạn đã tái thiết Đài Quan Trắc Thâm Không, công tác đo đạc và ghi chép Lahai-Roi được khởi động trở lại. Đóng góp xuất sắc này mang ý nghĩa vô cùng to lớn.\n\nLiên Hiệp Thâm Không sẽ mãi ghi nhớ sự cống hiến của bạn!"
-lang_multi_text.db,MultiText,BuildObser_3_TaskDes,继续重建路网，将路网活跃度提升至2100,"Continue rebuilding the route network and raise Network Activity to 2,100 points","Tiếp tục xây dựng lại mạng lưới đường, nâng độ hoạt động mạng lưới lên 2100"
-lang_multi_text.db,MultiText,BuildObser_4_Des,如今深空测界台重新开始转动，拉海洛曾经合上的眼睛再度睁开，将我们注视的景象化作有形的记录，数据仿佛随着大地的脉搏流入悬台中心，研究员们会分析、解读并保存它们，为深空联合分析虚质磁暴提供帮助。,"Now that the Spacetrek Observatory is operating again, Lahai-Roi's long-shut eyes have reopened. Everything it observes is once more captured in tangible records, streams of data flowing into the Suspension Platform like the pulse of the earth. The researchers will analyze, interpret, and archive this information to assist the Spacetrek Collective in studying Void Storm activity.","Giờ đây Đài Quan Trắc Thâm Không lại bắt đầu vận hành, đôi mắt từng khép lại của Lahai-Roi một lần nữa mở ra, biến những cảnh tượng ta quan sát thành những bản ghi hữu hình. Dữ liệu như mạch đập của đại địa chảy vào trung tâm đài treo, các nhà nghiên cứu sẽ phân tích, giải mã và lưu trữ chúng, hỗ trợ Liên Hiệp Thâm Không phân tích các trận bão từ hư chất."
-lang_multi_text.db,MultiText,BuildObser_4_Level,Ⅳ,IV,IV
-lang_multi_text.db,MultiText,BuildObser_4_Name,深空测界台,Spacetrek Observatory,Đài Quan Trắc Thâm Không
-lang_multi_text.db,MultiText,BuildObser_4_TaskDes,深空测界台重建工程已完成,The Spacetrek Observatory is now fully rebuilt.,Công trình tái thiết Đài Quan Trắc Thâm Không đã hoàn thành
-lang_multi_text.db,MultiText,BuildRoadFile_GetItem,领取,Claim,Nhận
-lang_multi_text.db,MultiText,BuildRoadFile_MessagePage,路网重建感谢信,Messages of Appreciation,Thư cảm ơn tái thiết mạng lưới đường
-lang_multi_text.db,MultiText,BuildRoadFile_RecordsPage,深空测界台文档,Spacetrek Observatory Files,Tài liệu Đài Quan Trắc Thâm Không
-lang_multi_text.db,MultiText,BuildRoadNet_CoreTask,开辟测界之路,Operation: Frontier Renewal,Mở đường quan trắc
-lang_multi_text.db,MultiText,BuildRoadNet_RoadButton_1,标记,Mark,Đánh dấu
-lang_multi_text.db,MultiText,BuildRoadNet_RoadButton_2,取消标记,Unmark,Bỏ đánh dấu
-lang_multi_text.db,MultiText,BuildRoadNet_RoadTag,标记为目标,Mark as Target,Đánh dấu làm mục tiêu
-lang_multi_text.db,MultiText,BuildRoadNet_RoadTagCancel,取消标记,Unmark,Bỏ đánh dấu
-lang_multi_text.db,MultiText,BuildRoadNet_RoadTask,重建目标({0}/{1}),Renewal Objective {0}/{1},Mục tiêu tái thiết ({0}/{1})
-lang_multi_text.db,MultiText,BuildRoadNet_SmsNotReceived,路网运行中,Network in Operation,Mạng lưới đường đang vận hành
-lang_multi_text.db,MultiText,BuildRoadNet_SmsReceived,感谢讯息,Message of Appreciation,Tin nhắn cảm ơn
-lang_multi_text.db,MultiText,BuildRoad_10_CompleteDes,联通浮光林与坠剑湖的水下隧道，依照新蓝图而重建的隧道能抵抗地壳运动的影响，且不仅实用性得到提升，秉承与拉海洛共呼吸的设计理念，溺森涡道的透明结构为途径此地的人们带来美轮美奂的体验。,"An underwater tunnel connecting Bjartr Woods to Sundermere. Rebuilt with a new blueprint, the tunnel now withstands the tectonic shifts caused by the Exostrider's greatsword. Beyond improved durability, its transparent structure offers travelers a stunning panoramic experience.","Đường hầm ngầm dưới nước nối Rừng Phù Quang với Hồ Trụy Kiếm. Đường hầm được tái thiết theo bản thiết kế mới, có khả năng chống chịu tác động từ hoạt động địa chất. Không chỉ nâng cao tính thực dụng, với triết lý thiết kế ""hòa nhịp cùng Lahai-Roi"", cấu trúc trong suốt của Nịch Sâm Oa Đạo mang đến trải nghiệm tuyệt đẹp cho những ai đi qua đây."
-lang_multi_text.db,MultiText,BuildRoad_10_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_10_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_10_Des,联通浮光林与坠剑湖的水下隧道，深入地底的隧者巨剑使这片海域的地壳运动异常，原先为尽快投入使用，而设计粗糙的隧道受其影响时常被破坏。,"An underwater tunnel connecting Bjartr Woods to Sundermere. Deep under the seabed, the Exostrider's greatsword causes unusual tectonic shifts, frequently compromising the integrity of the tunnel's rushed and flawed design.","Đường hầm ngầm dưới nước nối Rừng Phù Quang với Hồ Trụy Kiếm. Thanh đại kiếm của Toại Giả cắm sâu xuống đáy khiến hoạt động địa chất vùng biển này trở nên bất thường, đường hầm được thiết kế vội vàng để sớm đưa vào sử dụng nên thường xuyên bị hư hại."
-lang_multi_text.db,MultiText,BuildRoad_10_Name,溺森涡道,Submerged Tunnel,Nịch Sâm Oa Đạo
-lang_multi_text.db,MultiText,BuildRoad_1_CompleteDes,星炬学院通往深空测界台的主干道，驾驶着载具以深空测界台为目的地的学生们，常常这条公路边停下脚步，拍摄远处宏伟巨构的身影。,The main road linking Startorch Academy and the Spacetrek Observatory. Students often pull over here to capture the colossal silhouette of the Observatory against the distant sky.,Đường chính từ Học Viện Tinh Cự đến Đài Quan Trắc Thâm Không. Những sinh viên lái phương tiện hướng đến đài quan trắc thường dừng lại bên đường để chụp ảnh bóng dáng hùng vĩ của công trình khổng lồ phía xa.
-lang_multi_text.db,MultiText,BuildRoad_1_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_1_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_1_Des,"<color=#ddc992>这台旧款造路悬仪需要消耗「启动吧！造路悬仪！」中获取的特殊材料才能启动。</color>
-星炬学院通往深空测界台的主干道，如今荒凉泥泞的道路上留有运输车队艰难前行的痕迹。","<color=#ddc992>This old-model Route Constructor can only be activated using the special materials obtained from ""Fire It Up! Route Constructor!"".</color>
-The main road linking Startorch Academy and the Spacetrek Observatory. The now desolate, muddy path still bears the marks of the convoys that once struggled through here.","<color=#ddc992>Máy xây đường kiểu cũ này cần sử dụng vật liệu đặc biệt từ ""Khởi Động Đi! Máy Xây Đường!"" để kích hoạt.</color>\nĐường chính từ Học Viện Tinh Cự đến Đài Quan Trắc Thâm Không. Giờ đây trên con đường hoang tàn lầy lội chỉ còn dấu vết gian nan của đoàn xe vận tải."
-lang_multi_text.db,MultiText,BuildRoad_1_InfrPasserName,光矩能源学部的学生,Student of the Department of Light Energy Sciences,Sinh viên khoa Năng Lượng Quang Cự
-lang_multi_text.db,MultiText,BuildRoad_1_Name,深星公路,Observatory-Academy Highway,Đường Cao Tốc Thâm Tinh
-lang_multi_text.db,MultiText,BuildRoad_2_CompleteDes,依山建成的峡谷公路，拉海洛地貌的研究者们对此处高耸的弧形峡谷山壁叹为观止，而每当车队穿行其间，回声便从峡谷深处传来，仿佛在回应研究者们的惊叹。,"A cliffside road carved into the mountain. Researchers studying Lahai-Roi's terrain often marvel at the vast, arcing walls. When convoys pass through, echoes rise from the valley's depths as if answering their awe.","Đường cao tốc xây dọc theo vách núi hẻm núi. Các nhà nghiên cứu địa hình Lahai-Roi trầm trồ trước những vách đá hình vòng cung cao vút, và mỗi khi đoàn xe đi qua, tiếng vọng từ sâu thẳm hẻm núi vang lên, như đáp lại sự kinh ngạc của họ."
-lang_multi_text.db,MultiText,BuildRoad_2_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_2_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_2_Des,依山建成的峡谷公路，曾经席卷深空测界台的虚质磁暴吞没了道路，如今穿过峡谷的风声取代了车流，呼啸而过。,"A cliffside road carved into the mountain. The Void Storm that ravaged the Observatory erased this route as well, leaving only the wind's scream where traffic once passed.",Đường cao tốc xây dọc theo vách núi hẻm núi. Trận bão từ hư chất từng quét qua Đài Quan Trắc Thâm Không đã nuốt chửng con đường. Giờ đây chỉ còn tiếng gió rít qua hẻm núi thay cho dòng xe.
-lang_multi_text.db,MultiText,BuildRoad_2_InfrPasserName,隧者工学学部的学生,Student of the Department of Exostrider Engineering,Sinh viên Khoa Kỹ Thuật Exostrider
-lang_multi_text.db,MultiText,BuildRoad_2_Name,眶折谷公路北段,Orbit Valley Pass - North,Đoạn Bắc Đường Thung Lũng Orbit
-lang_multi_text.db,MultiText,BuildRoad_3_CompleteDes,依山建成的峡谷公路，道路尽头的瀑布卷着水汽如同门帘，连通深空测界台与更广阔的拉海洛南部区域。,"A cliffside road carved into the mountain, linking the Spacetrek Observatory with the broader southern Lahai-Roi. A waterfall shrouded in mist marks the road's end.","Con đường hẻm núi xây dọc theo vách đá, nối Đài Quan Trắc Spacetrek với vùng phía Nam Lahai-Roi rộng lớn hơn. Cuối đường, thác nước cuốn theo hơi sương như tấm rèm che."
-lang_multi_text.db,MultiText,BuildRoad_3_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_3_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_3_Des,依山建成的峡谷公路，北段被虚质磁暴摧毁后，南段也随之荒废，开裂的路面渐渐被尘沙掩埋。,"A cliffside road carved into the mountain. After the Void Storm destroyed the northern section, this stretch too fell into decay, its cracked surface now buried beneath sand and dirt.","Con đường hẻm núi xây dọc theo vách đá. Sau khi đoạn Bắc bị bão từ Hư Chất phá hủy, đoạn Nam cũng dần hoang phế, mặt đường nứt nẻ bị cát bụi dần vùi lấp."
-lang_multi_text.db,MultiText,BuildRoad_3_InfrPasserName,虚质科学部的学生,Student of the Department of Voidmatters Science,Sinh viên Khoa Khoa học Vật chất Hư không
-lang_multi_text.db,MultiText,BuildRoad_3_Name,眶折谷公路南段,Orbit Valley Pass - South,Đường Thung lũng Orbit - Đoạn Nam
-lang_multi_text.db,MultiText,BuildRoad_4_CompleteDes,连接路网主干道和峡谷公路的要道，每当车灯穿透风沙，人们总会侧头望向远方，凝望那片翻涌的沙暴和其中若隐若现的巨大黑影。,"A key link between the primary network and the cliffside roads. When headlights cut through the sandy wind, travelers can't help but glance toward the distant sandstorm, catching glimpses of a giant shadow moving within.","Tuyến đường trọng yếu nối trục đường chính với đường hẻm núi. Mỗi khi đèn xe xuyên qua cát gió, mọi người lại ngoái nhìn về phía xa, dõi theo bão cát cuồn cuộn và bóng đen khổng lồ thấp thoáng bên trong."
-lang_multi_text.db,MultiText,BuildRoad_4_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_4_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_4_Des,松散的土层覆盖破损的道路，这条连接路网主干道和峡谷公路的要道已经难以行驶。,"Loose soil covers this broken roadway. Once a key link between the primary network and the cliffside roads, it is now all but impassable.","Lớp đất tơi phủ lên mặt đường hư hỏng, tuyến đường trọng yếu nối trục đường chính với đường hẻm núi giờ đã gần như không thể đi lại."
-lang_multi_text.db,MultiText,BuildRoad_4_InfrPasserName,拉贝尔开发学部的学生,Student of Rabelle College,Sinh viên Học viện Rabelle
-lang_multi_text.db,MultiText,BuildRoad_4_Name,沙原通路,Sandreach Passage,Đường Sandreach
-lang_multi_text.db,MultiText,BuildRoad_5_CompleteDes,临近湖畔的平缓公路，视野开阔，不远处的湖面在炉光下闪着细碎的光，行车经过此处时能清楚望见远岸的倒影与浮动的波纹。,"A level waterside road offering a sweeping view. Under the Reactor's glow, the lake shimmers with flecks of light. As you pass, the reflected shoreline shifts and dances across the ripples.","Con đường bằng phẳng ven hồ, tầm nhìn rộng mở. Mặt hồ gần đó lấp lánh dưới ánh sáng lò phản ứng, khi xe đi qua đây có thể nhìn rõ bóng phản chiếu bờ bên kia cùng những gợn sóng nhấp nhô."
-lang_multi_text.db,MultiText,BuildRoad_5_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_5_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_5_Des,临近湖畔的平缓公路，但这里的风光无法为损坏的公路重新唤起活力。,A level road tracing the lakeshore. Even its sweeping views cannot restore the vitality the pavement itself has lost.,"Con đường bằng phẳng ven hồ, nhưng phong cảnh nơi đây không thể hồi sinh con đường đã hư hỏng."
-lang_multi_text.db,MultiText,BuildRoad_5_InfrPasserName,星炬学院的老师,Teacher of the Startorch Academy,Giáo viên Học viện Startorch
-lang_multi_text.db,MultiText,BuildRoad_5_Name,远行公路,Farer's Road,Đường Viễn Hành
-lang_multi_text.db,MultiText,BuildRoad_6_CompleteDes,横贯拉海洛南部的超长公路，在征求引日殿的同意后，深空联合在哥德法恩的基础上修建了公路，且出于尊重，公路沿用了罗伊人世代称呼此处的名字，译做朔尔之挽。,"A long highway stretching across southern Lahai-Roi. With the Solisylum's approval, the Spacetrek Collective expanded Godhfavn, turning it into a fully developed highway. Out of respect to the Roya, the original name was preserved and translated as Sol's Embrace.","Tuyến đường dài xuyên suốt phía nam Lahai-Roi. Sau khi được Solisylum chấp thuận, Spacetrek Collective đã xây dựng đường trên nền tảng Godhfavn. Để tỏ lòng tôn trọng, con đường giữ nguyên tên mà người Roya đã gọi qua bao đời, dịch ra là Sol's Embrace."
-lang_multi_text.db,MultiText,BuildRoad_6_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_6_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_6_Des,横贯拉海洛南部的超长公路，起初是一条通往浮光林的天然通路，罗伊人将这里称为哥德法恩，意指神明的拥抱。,"A long highway stretching across southern Lahai-Roi, initially a natural path leading to Bjartr Woods. The Roya refer to it as Godhfavn, meaning ""embrace of the divine.""","Tuyến đường dài xuyên suốt phía nam Lahai-Roi, ban đầu là lối đi tự nhiên dẫn đến rừng Bjartr. Người Roya gọi nơi đây là Godhfavn, nghĩa là ""vòng tay của thần linh""."
-lang_multi_text.db,MultiText,BuildRoad_6_InfrPasserName,深空联合的研究员,Researcher of the Spacetrek Collective,Nghiên cứu viên Spacetrek Collective
-lang_multi_text.db,MultiText,BuildRoad_6_Name,朔尔之挽,Sol's Embrace,Sol's Embrace
-lang_multi_text.db,MultiText,BuildRoad_7_CompleteDes,连接呼啸隧道和星炬学院的公路，和靠近星炬学院的其它公路相比，星跃公路长度适中，道路情况多变，是学生们进行科考摩托道路考试的主要考场之一。,"A road connecting the Howling Tunnel to Startorch Academy. Compared to other roads near the Academy, the Starleap Ascent is of moderate length and has varying road conditions, making it one of the main sites for students' expedition motorbike tests.","Con đường nối đường hầm Howling với Học viện Startorch. So với các con đường khác gần học viện, đường Starleap có chiều dài vừa phải, điều kiện đường đa dạng, là một trong những địa điểm chính để sinh viên thi sát hạch mô tô khảo sát."
-lang_multi_text.db,MultiText,BuildRoad_7_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_7_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_7_Des,连接呼啸隧道和星炬学院的公路，由于坡度陡峭，道路损坏后，此处几乎无法行驶。,A road connecting the Howling Tunnel to Startorch Academy. Damage has rendered its steep incline nearly impossible to traverse.,"Con đường nối đường hầm Howling với Học viện Startorch. Do dốc đứng, sau khi hư hỏng, nơi đây gần như không thể đi lại."
-lang_multi_text.db,MultiText,BuildRoad_7_InfrPasserName,来自引日殿的罗伊人,Roya from Solisylum,Người Roya đến từ Solisylum
-lang_multi_text.db,MultiText,BuildRoad_7_Name,星跃公路,Starleap Ascent,Đường Starleap
-lang_multi_text.db,MultiText,BuildRoad_8_CompleteDes,加固岩壁和铺就公路后，隧道足以容纳重型运输车队的通行，也让星炬学院通往拉海洛南部的旅途不再漫长，曾经回响在隧洞中的风声也有了新的解释，那是隧者在祝福经过隧道，前往星炬学院的罗伊人学生们。,"After reinforcing the rock walls and paving the highway, the tunnel can now accommodate heavy transport, shortening the journey from Startorch Academy to southern Lahai-Roi. The winds that once echoed here are now said to carry a different meaning: they are the Exostrider's blessing for Roya students heading to the Academy.","Sau khi gia cố vách đá và trải đường, đường hầm đủ rộng cho đoàn vận tải hạng nặng đi qua, rút ngắn hành trình từ Học viện Startorch đến phía nam Lahai-Roi. Tiếng gió từng vang vọng trong đường hầm giờ đã có cách giải thích mới - đó là Exostrider đang ban phước cho những sinh viên Roya đi qua đường hầm đến học viện."
-lang_multi_text.db,MultiText,BuildRoad_8_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_8_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_8_Des,呼啸的狂风在巨型天然隧道中隆隆作响，如隧者喉咙震动轰鸣，因而被罗伊人称为约屯豪尔隧道，意指隧者之喉。,"The winds roar through this massive natural tunnel, like the rumbling of the Exostrider's throat. The Roya call it Jotunhals, meaning ""throat of the Exostrider.""","Gió gào thét ầm ầm trong đường hầm tự nhiên khổng lồ, như tiếng rung từ cổ họng Exostrider, vì thế người Roya gọi nơi đây là đường hầm Jotunhals, nghĩa là ""cổ họng của Exostrider""."
-lang_multi_text.db,MultiText,BuildRoad_8_InfrPasserName,琳奈,Lynae,Lynae
-lang_multi_text.db,MultiText,BuildRoad_8_Name,呼啸隧道,Howling Tunnel,Đường hầm Howling
-lang_multi_text.db,MultiText,BuildRoad_9_CompleteDes,联通浮光林和蚀刻平原的跨海大桥，它拉近了浮光林与星炬学院的距离，对于那些前往学院就读的罗伊人学生来说，这里便是全新生活的入口，不安、期待、兴奋、忧愁，怀揣复杂心绪的他们迎着风踏上行程。,"A grand bay bridge linking Bjartr Woods to the Etching Plains and Startorch Academy. For Roya students bound for the Academy, the bridge is a gateway to a new life. With anticipation, anxiety, and excitement, they step onto it and begin their academic journey.","Cầu lớn vượt biển nối rừng Bjartr với bình nguyên Etching. Nó rút ngắn khoảng cách giữa rừng Bjartr và Học viện Startorch. Với những sinh viên Roya đến học viện, nơi đây chính là cánh cửa bước vào cuộc sống mới. Bất an, mong đợi, hào hứng, lo lắng - mang theo bao cảm xúc đan xen, họ đón gió bước lên hành trình."
-lang_multi_text.db,MultiText,BuildRoad_9_CompleteEffectDes_1,获得路网活跃度<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0},Gain Network Activity <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/> x{0},Nhận độ hoạt động mạng lưới <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity30/ActivityInfrastructure/Main/T_IconActivityInfrastructure6Small.T_IconActivityInfrastructure6Small/>{0}
-lang_multi_text.db,MultiText,BuildRoad_9_CompleteEffectDes_2,"每当该道路被使用，获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Whenever this road is used, gain Service Credit <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Mỗi khi con đường này được sử dụng, nhận điểm liên kết <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_9_Des,联通浮光林和蚀刻平原的跨海大桥，数年前，来自坠剑湖的一次震动使大桥出现了缺损，经年累月地磨损后最终断裂。,"A grand bay bridge linking Bjartr Woods and the Etching Plains. Several years ago, a tremor from Sundermere fractured its structure, and it eventually collapsed after seasons of erosion.","Cầu lớn vượt biển nối rừng Bjartr với bình nguyên Etching. Vài năm trước, một trận rung chấn từ Sundermere khiến cầu bị hư hại, qua năm tháng bào mòn, cuối cùng đã sụp đổ."
-lang_multi_text.db,MultiText,BuildRoad_9_InfrPasserName,拉科萨,Rakosan,Rakosan
-lang_multi_text.db,MultiText,BuildRoad_9_Name,深光大桥,Spacetrek–Bjartr Bridge,Cầu Spacetrek-Bjartr
-lang_multi_text.db,MultiText,BuildRoad_AccRoadPoints,"累计获得连携点数<texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}","Total Service Credit Gained <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48> x{0}","Tổng điểm liên kết đã nhận <texture=/Game/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.T_IconA80_Act_01_UI,0.48>{0}"
-lang_multi_text.db,MultiText,BuildRoad_CompleteDes_1,您已重建{0},You have rebuilt {0},Bạn đã tái xây dựng {0}
+[Thunder Shock]: Within 8 seconds after a Counterattack, the Vibration Strength depletion rate of the Resonator's attacks is increased by 25%, stacking up to 8 times.","[Kháng]: Kẻ địch tăng <color=Thunder>Kháng Điện Từ</color>.
+[Kích Đình]: Sau khi bắt đầu chiến đấu 3 phút, Sóc Lôi Chi Lân tăng 50% Tấn Công mỗi 10 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Sóc Lôi]: Khi đòn tấn công của Sóc Lôi Chi Lân trúng đích, Tấn Công của Sóc Lôi Chi Lân tăng 10%, Phòng Thủ giảm 10%, duy trì 12 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Lôi Chấn]: Trong vòng 8 giây sau khi Phản Đòn, tấn công của nhân vật tăng 25% tỷ lệ bào mòn Thanh Rung Động, cộng dồn tối đa 8 tầng."
+lang_multi_text.db,MultiText,Bossch_detail_1,【抗性】：敌人<color=Ice>冷凝抗性</color>提高。,[Resistance]: This enemy has a higher <color=Ice>Glacio RES</color>.,[Kháng]: Kẻ địch tăng <color=Ice>Kháng Ngưng Băng</color>.
+lang_multi_text.db,MultiText,Bossch_detail_2,【抗性】：敌人<color=Fire>热熔抗性</color>提高。,[Resistance]: This enemy has a higher <color=Fire>Fusion RES</color>.,[Kháng]: Kẻ địch tăng <color=Fire>Kháng Hỏa Liệt</color>.
+lang_multi_text.db,MultiText,Bossch_detail_21,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_22,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_23,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_24,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_25,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【凶鸣】：战斗开始3分钟后，无常凶鹭每10秒将提升50%攻击力，该效果无叠加层数上限。
+【摧骨】：被无常凶鹭的攻击命中时，角色防御力降低10%，持续15秒，该效果无叠加层数上限。
+【惊弓】：使用声骸对策技成功反制特殊技时，5秒内的下次攻击将额外减少敌人30%共振度。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[Fierce Cry]: 3 minutes after the battle begins, the Impermanence Heron will increase its ATK by 50% every 10s, stacking up to no limit.
+
+[Bone Crushing]: When hit by the Impermanence Heron's attacks, the Resonator's DEF is reduced by 10% for 15s, stacking up to no limit.
+
+[Startling Bow]: When the Echo Counter Skill successfully counters a Special Skill, the next attack within 5s will additionally deplete the enemy's Vibration Strength by 30%.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Hung Minh]: Sau khi bắt đầu chiến đấu 3 phút, Vô Thường Hung Lộ tăng 50% Tấn Công mỗi 10 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Tồi Cốt]: Khi bị đòn tấn công của Vô Thường Hung Lộ trúng đích, Phòng Thủ của nhân vật giảm 10%, duy trì 15 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Kinh Cung]: Khi dùng Kỹ Năng Thanh Hài phản kích thành công Kỹ Năng Đặc Biệt, đòn tấn công tiếp theo trong vòng 5 giây sẽ giảm thêm 30% Thanh Rung Động của kẻ địch."
+lang_multi_text.db,MultiText,Bossch_detail_26,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【凶鸣】：战斗开始3分钟后，无常凶鹭每10秒将提升50%攻击力，该效果无叠加层数上限。
+【摧骨】：被无常凶鹭的攻击命中时，角色防御力降低10%，持续15秒，该效果无叠加层数上限。
+【惊弓】：使用声骸对策技成功反制特殊技时，5秒内的下次攻击将额外减少敌人30%共振度。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[Fierce Cry]: 3 minutes after the battle begins, the Impermanence Heron will increase its ATK by 50% every 10s, stacking up to no limit.
+
+[Bone Crushing]: When hit by the Impermanence Heron's attacks, the Resonator's DEF is reduced by 10% for 15s, stacking up to no limit.
+
+[Startling Bow]: When the Echo Counter Skill successfully counters a Special Skill, the next attack within 5s will additionally deplete the enemy's Vibration Strength by 30%.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Hung Minh]: Sau khi bắt đầu chiến đấu 3 phút, Vô Thường Hung Lộ tăng 50% Tấn Công mỗi 10 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Tồi Cốt]: Khi bị đòn tấn công của Vô Thường Hung Lộ trúng đích, Phòng Thủ của nhân vật giảm 10%, duy trì 15 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Kinh Cung]: Khi dùng Kỹ Năng Thanh Hài phản kích thành công Kỹ Năng Đặc Biệt, đòn tấn công tiếp theo trong vòng 5 giây sẽ giảm thêm 30% Thanh Rung Động của kẻ địch."
+lang_multi_text.db,MultiText,Bossch_detail_3,【抗性】：敌人<color=Thunder>导电抗性</color>提高。,[Resistance]: This enemy has a higher <color=Thunder>Electro RES</color>.,[Kháng]: Kẻ địch tăng <color=Thunder>Kháng Điện Từ</color>.
+lang_multi_text.db,MultiText,Bossch_detail_31,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_32,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_33,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_34,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_35,"【抗性】：敌人<color=Light>衍射抗性</color>提高。
+【彻骨】：战斗开始3分钟后，哀声鸷每10秒将提升50%攻击力，该效果无叠加层数上限。
+【仓惶】：战斗中，若角色处于受伤状态，则闪避时额外消耗10点耐力。
+【蛰伏】：每逆势回击5次，下次攻击命中将额外减少敌人40%共振度。当角色受到攻击时，逆势回击的计数清零。","[Resistance]: This enemy has a higher <color=Light>Spectro RES</color>.
+
+[Bone Chilling]: 3 minutes after the battle begins, Mourning Aix will increase its ATK by 50% every 10s, stacking up to no limit.
+
+[Panic]: During the battle, Dodges consume an extra 10 STA for wounded Resonators.
+
+[Lurking] After every 5 Counterattacks, the next attack will additionally deplete the enemy's Vibration Strength by 40%. This timer is reset when attacked.","[Kháng]: Kẻ địch tăng <color=Light>Kháng Quang Phổ</color>.
+[Triệt Cốt]: Sau khi bắt đầu chiến đấu 3 phút, Ai Thanh Chí tăng 50% Tấn Công mỗi 10 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Thương Hoàng]: Trong chiến đấu, nếu nhân vật ở trạng thái bị thương, Né Tránh sẽ tiêu hao thêm 10 điểm Thể Lực.
+[Trập Phục]: Mỗi khi Phản Đòn 5 lần, đòn tấn công tiếp theo trúng đích sẽ giảm thêm 40% Thanh Rung Động của kẻ địch. Khi nhân vật chịu đòn, số lần đếm Phản Đòn sẽ bị xóa về 0."
+lang_multi_text.db,MultiText,Bossch_detail_36,"【抗性】：敌人<color=Light>衍射抗性</color>提高。
+【彻骨】：战斗开始3分钟后，哀声鸷每10秒将提升50%攻击力，该效果无叠加层数上限。
+【仓惶】：战斗中，若角色处于受伤状态，则闪避时额外消耗10点耐力。
+【蛰伏】：每逆势回击5次，下次攻击命中将额外减少敌人40%共振度。当角色受到攻击时，逆势回击的计数清零。","[Resistance]: This enemy has a higher <color=Light>Spectro RES</color>.
+
+[Bone Chilling]: 3 minutes after the battle begins, Mourning Aix will increase its ATK by 50% every 10s, stacking up to no limit.
+
+[Panic]: During the battle, Dodges consume an extra 10 STA for wounded Resonators.
+
+[Lurking] After every 5 Counterattacks, the next attack will additionally deplete the enemy's Vibration Strength by 40%. This timer is reset when attacked.","[Kháng]: Kẻ địch tăng <color=Light>Kháng Quang Phổ</color>.
+[Triệt Cốt]: Sau khi bắt đầu chiến đấu 3 phút, Ai Thanh Chí tăng 50% Tấn Công mỗi 10 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Thương Hoàng]: Trong chiến đấu, nếu nhân vật ở trạng thái bị thương, Né Tránh sẽ tiêu hao thêm 10 điểm Thể Lực.
+[Trập Phục]: Mỗi khi Phản Đòn 5 lần, đòn tấn công tiếp theo trúng đích sẽ giảm thêm 40% Thanh Rung Động của kẻ địch. Khi nhân vật chịu đòn, số lần đếm Phản Đòn sẽ bị xóa về 0."
+lang_multi_text.db,MultiText,Bossch_detail_4,【抗性】：敌人<color=Wind>气动抗性</color>提高。,[Resistance]: This enemy has a higher <color=Wind>Aero RES</color>.,[Kháng]: Kẻ địch tăng <color=Wind>Kháng Khí Động</color>.
+lang_multi_text.db,MultiText,Bossch_detail_41,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_42,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_43,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_44,无特殊机制,No special mechanism,Không có cơ chế đặc biệt
+lang_multi_text.db,MultiText,Bossch_detail_45,"【抗性】：敌人<color=Wind>气动抗性</color>提高。
+【战吼】：战斗开始3分钟后，飞廉之猩每10秒将提升50%攻击力，该效果无叠加层数上限。
+【联阵】：若角色处于未受伤状态，则变奏技能在命中时会使敌人的共振值被削减倍率提高5%，持续15秒，最多可叠加20层。
+【倒戈】：每闪避反击10次，下次攻击将额外减少敌人30%共振度。当角色受到攻击时，闪避反击的计数清零。","[Resistance]: This enemy has a higher <color=Wind>Aero RES</color>.
+
+[War Cry]: 3 minutes after the battle begins, Feilian Beringal will increase its ATK by 50% every 10s, stacking up to no limit.
+
+[Formation]: If the Resonator is at full HP, Intro Skills will increase the enemy's Vibration Strength Reduction Rate by 5% on hit for 15s, stacking up to 20 times.
+
+[Defection]: After every 10 Dodge Counters, the next attack will additionally deplete the enemy's Vibration Strength by 30%. This counter is reset when attacked.","[Kháng]: Kẻ địch tăng <color=Wind>Kháng Khí Động</color>.
+[Chiến Hống]: Sau khi bắt đầu chiến đấu 3 phút, Phi Liêm Chi Tinh tăng 50% Tấn Công mỗi 10 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Liên Trận]: Nếu nhân vật ở trạng thái không bị thương, Kỹ Năng Biến Tấu khi trúng đích sẽ khiến tỷ lệ bào mòn Thanh Rung Động của kẻ địch tăng 5%, duy trì 15 giây, cộng dồn tối đa 20 tầng.
+[Đảo Qua]: Mỗi khi Né Phản Kích 10 lần, đòn tấn công tiếp theo sẽ giảm thêm 30% Thanh Rung Động của kẻ địch. Khi nhân vật chịu đòn, số lần đếm Né Phản Kích sẽ bị xóa về 0."
+lang_multi_text.db,MultiText,Bossch_detail_46,"【抗性】：敌人<color=Wind>气动抗性</color>提高。
+【战吼】：战斗开始3分钟后，飞廉之猩每10秒将提升50%攻击力，该效果无叠加层数上限。
+【联阵】：若角色处于未受伤状态，则变奏技能在命中时会使敌人的共振值被削减倍率提高5%，持续15秒，最多可叠加20层。
+【倒戈】：每闪避反击10次，下次攻击将额外减少敌人30%共振度。当角色受到攻击时，闪避反击的计数清零。","[Resistance]: This enemy has a higher <color=Wind>Aero RES</color>.
+
+[War Cry]: 3 minutes after the battle begins, Feilian Beringal will increase its ATK by 50% every 10s, stacking up to no limit.
+
+[Formation]: If the Resonator is at full HP, Intro Skills will increase the enemy's Vibration Strength Reduction Rate by 5% on hit for 15s, stacking up to 20 times.
+
+[Defection]: After every 10 Dodge Counters, the next attack will additionally deplete the enemy's Vibration Strength by 30%. This counter is reset when attacked.","[Kháng]: Kẻ địch tăng <color=Wind>Kháng Khí Động</color>.
+[Chiến Hống]: Sau khi bắt đầu chiến đấu 3 phút, Phi Liêm Chi Tinh tăng 50% Tấn Công mỗi 10 giây, hiệu quả này không giới hạn số tầng cộng dồn.
+[Liên Trận]: Nếu nhân vật ở trạng thái không bị thương, Kỹ Năng Biến Tấu khi trúng đích sẽ khiến tỷ lệ bào mòn Thanh Rung Động của kẻ địch tăng 5%, duy trì 15 giây, cộng dồn tối đa 20 tầng.
+[Đảo Qua]: Mỗi khi Né Phản Kích 10 lần, đòn tấn công tiếp theo sẽ giảm thêm 30% Thanh Rung Động của kẻ địch. Khi nhân vật chịu đòn, số lần đếm Né Phản Kích sẽ bị xóa về 0."
+lang_multi_text.db,MultiText,Bossch_detail_5,【抗性】：敌人<color=Light>衍射抗性</color>提高。,[Resistance]: This enemy has a higher <color=Light>Spectro RES</color>.,[Kháng]: Kẻ địch tăng <color=Light>Kháng Quang Phổ</color>.
+lang_multi_text.db,MultiText,Bossch_detail_51,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【疾战】：闪避反击命中时，角色暴击伤害提升15%，持续15秒，可叠加4层。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[Zealous] Successful Dodge Counter increases the Resonator's Crit. DMG by 15% for 15s, stacking up to 4 times.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Tật Chiến]: Khi Né Phản Kích trúng đích, Sát Thương Bạo Kích của nhân vật tăng 15%, duy trì 15 giây, có thể cộng dồn 4 tầng."
+lang_multi_text.db,MultiText,Bossch_detail_52,【疾战】：闪避反击命中时，角色暴击伤害提升15%，持续15秒，可叠加4层。,"[Zealous] Successful Dodge Counter increases the Resonator's Crit. DMG by 15% for 15s, stacking up to 4 times.","[Tật Chiến]: Khi Né Phản Kích trúng đích, Sát Thương Bạo Kích của nhân vật tăng 15%, duy trì 15 giây, có thể cộng dồn 4 tầng."
+lang_multi_text.db,MultiText,Bossch_detail_53,【疾战】：闪避反击命中时，角色暴击伤害提升15%，持续15秒，可叠加4层。,"[Zealous] Successful Dodge Counter increases the Resonator's Crit. DMG by 15% for 15s, stacking up to 4 times.","[Tật Chiến]: Khi Né Phản Kích trúng đích, Sát Thương Bạo Kích của nhân vật tăng 15%, duy trì 15 giây, có thể cộng dồn 4 tầng."
+lang_multi_text.db,MultiText,Bossch_detail_54,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【疾战】：闪避反击命中时，角色暴击伤害提升15%，持续15秒，可叠加4层。
+【争锋】：角色闪避反击造成的伤害提升100%，并额外削减敌人5%共振度。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[Zealous] Successful Dodge Counter increases the Resonator's Crit. DMG by 15% for 15s, stacking up to 4 times.
+
+[Vehement] Dodge Counter deals 100% more DMG and reduces the enemy's Vibration Strength by an additional 5%.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Tật Chiến]: Khi Né Phản Kích trúng đích, Sát Thương Bạo Kích của nhân vật tăng 15%, duy trì 15 giây, có thể cộng dồn 4 tầng.
+[Tranh Phong]: Sát thương do nhân vật Né Phản Kích gây ra tăng 100%, đồng thời giảm thêm 5% Thanh Rung Động của kẻ địch."
+lang_multi_text.db,MultiText,Bossch_detail_55,"【疾战】：闪避反击命中时，角色暴击伤害提升15%，持续15秒，可叠加4层。
+【争锋】：角色闪避反击造成的伤害提升100%，并额外削减敌人5%共振度。","[Zealous] Successful Dodge Counter increases the Resonator's Crit. DMG by 15% for 15s, stacking up to 4 times.
+
+[Vehement] Dodge Counter deals 100% more DMG and reduces the enemy's Vibration Strength by an additional 5%.","[Tật Chiến]: Khi Né Phản Kích trúng đích, Sát Thương Bạo Kích của nhân vật tăng 15%, duy trì 15 giây, có thể cộng dồn 4 tầng.
+[Tranh Phong]: Sát thương do nhân vật Né Phản Kích gây ra tăng 100%, đồng thời giảm thêm 5% Thanh Rung Động của kẻ địch."
+lang_multi_text.db,MultiText,Bossch_detail_56,"【疾战】：闪避反击命中时，角色暴击伤害提升15%，持续15秒，可叠加4层。
+【争锋】：角色闪避反击造成的伤害提升100%，并额外削减敌人5%共振度。","[Zealous] Successful Dodge Counter increases the Resonator's Crit. DMG by 15% for 15s, stacking up to 4 times.
+
+[Vehement] Dodge Counter deals 100% more DMG and reduces the enemy's Vibration Strength by an additional 5%.","[Tật Chiến]: Khi Né Phản Kích trúng đích, Sát Thương Bạo Kích của nhân vật tăng 15%, duy trì 15 giây, có thể cộng dồn 4 tầng.
+[Tranh Phong]: Sát thương do nhân vật Né Phản Kích gây ra tăng 100%, đồng thời giảm thêm 5% Thanh Rung Động của kẻ địch."
+lang_multi_text.db,MultiText,Bossch_detail_57,"【抗性】：敌人<color=Fire>热熔抗性</color>提高。
+【永燃】：触发变奏技能时，队伍中的角色攻击提升10%，可叠加3层，持续15秒。
+【绝影】：角色生命值高于80%时，攻击提升20%。","[Resistance]: This enemy has a higher <color=Fire>Fusion RES</color>.
+
+[Conflagration] Intro Skill increases the ATK of all Resonators in the party by 10% for 15s, stacking up to 3 times.
+
+[Blitz] Increase the Resonator's ATK by 20% when their HP is above 80%.","[Kháng]: Kẻ địch tăng <color=Fire>Kháng Hỏa Liệt</color>.
+[Vĩnh Nhiên]: Khi kích hoạt Kỹ Năng Biến Tấu, Tấn Công của các nhân vật trong đội tăng 10%, có thể cộng dồn 3 tầng, duy trì 15 giây.
+[Tuyệt Ảnh]: Khi HP của nhân vật cao hơn 80%, Tấn Công tăng 20%."
+lang_multi_text.db,MultiText,Bossch_detail_58,"【抗性】：敌人<color=Light>衍射抗性</color>提高。
+【精密】：闪避成功时获得1层【浮点】，持续3秒，叠加至3层时将清空层数，并获得【超算】,持续20秒。【超算】：攻击提升30%，每秒额外回复角色5点耐力。
+【濒毁】：战斗开始3分钟后：敌人攻击每10秒提升30%，无叠加上限；角色每10秒攻击提升10%，最多提升100%；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Light>Spectro RES</color>.
+
+[Precision]: A successful Dodge grants 1 stack of Hoverpoint for 3s. At 3 stacks, all Hoverpoints will be cleared to grant Supercompute for 20s. [Supercompute]: The Resonator's ATK is increased by 30%, and additionally recovers 5 STA per second.
+
+[Crumble]: 3 minutes after the battle begins, the enemy's ATK is increased by 30% every 10s, with no stack limit. Resonators' ATK is increased by 10% every 10s, up to 100%. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng <color=Light>Kháng Quang Phổ</color>.
+[Tinh Mật]: Khi Né Tránh thành công nhận 1 tầng [Điểm Nổi], duy trì 3 giây, khi cộng dồn đến 3 tầng sẽ xóa số tầng và nhận [Siêu Toán], duy trì 20 giây. [Siêu Toán]: Tấn Công tăng 30%, mỗi giây hồi phục thêm 5 điểm Thể Lực cho nhân vật.
+[Tần Hủy]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của kẻ địch tăng 30% mỗi 10 giây, không giới hạn cộng dồn; Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_59,"【抗性】：敌人<color=Ice>冷凝抗性</color>提高。
+【固守】：异构武装处于防御姿态时不会再生成钩索点。
+【光陨】：异构武装处于空中状态时，每次受到伤害额外扣减1%共振值，每0.5秒可触发一次；受到【光噪效应】造成的伤害时，额外扣减2%共振值，每秒可触发1次。
+【濒毁】：战斗开始3分钟后：敌人攻击每10秒提升30%，无叠加上限；角色每10秒攻击提升10%，最多提升100%；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Ice>Glacio RES</color>.
+
+[Barricade]: No Grapple point will be generated when Sentry Construct is in defense stance.
+ 
+[Light Fall]: When Sentry Construct is in the air, it loses an additional 1% Vibration Strength every time it takes damage. This effect can be triggered once every 0.5s. Taking damage while inflicted with Spectro Frazzle reduces an additional 2% Vibration Strength. This effect can be triggered once per second.
+ 
+[Crumble]: 3 minutes after the battle begins, the enemy's ATK is increased by 30% every 10s, with no stack limit. Resonators' ATK is increased by 10% every 10s, up to 100%. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng <color=Ice>Kháng Ngưng Băng</color>.
+[Cố Thủ]: Khi Vũ Trang Dị Cấu ở tư thế phòng thủ sẽ không tạo điểm móc dây nữa.
+[Quang Vẫn]: Khi Vũ Trang Dị Cấu ở trên không, mỗi lần chịu sát thương sẽ giảm thêm 1% Thanh Rung Động, mỗi 0.5 giây kích hoạt một lần; khi chịu sát thương từ [Hiệu Ứng Nhiễu Quang], giảm thêm 2% Thanh Rung Động, mỗi giây kích hoạt 1 lần.
+[Tần Hủy]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của kẻ địch tăng 30% mỗi 10 giây, không giới hạn cộng dồn; Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_6,【抗性】：敌人<color=Dark>湮灭抗性</color>提高。,[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.,[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+lang_multi_text.db,MultiText,Bossch_detail_60,"【抗性】：敌人<color=Ice>冷凝抗性</color>提高。
+【固守】：异构武装处于防御姿态时不会再生成钩索点。","[Resistance]: This enemy has a higher <color=Ice>Glacio RES</color>.
+
+[Barricade]: No Grapple point will be generated when Sentry Construct is in defense stance.","[Kháng]: Kẻ địch tăng <color=Ice>Kháng Ngưng Băng</color>.
+[Cố Thủ]: Khi Vũ Trang Dị Cấu ở tư thế phòng thủ sẽ không tạo điểm móc dây nữa."
+lang_multi_text.db,MultiText,Bossch_detail_61,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【假面】：施放赫卡忒的声骸技能后，登场角色受到的伤害降低，抗打断能力提升，持续3秒。赫卡忒的声骸技能冷却时间减少30%。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[False Face]: After performing Hecate's Echo Skill, the active Resonator takes less DMG and obtains increased resistance to interruption for 3s. The cooldown of Hecate's Echo Skill is reduced by 30%.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Giả Diện]: Sau khi thi triển Kỹ Năng Thanh Hài của Hecate, sát thương nhân vật trên sân phải chịu giảm xuống, khả năng Kháng Gián Đoạn tăng lên, duy trì 3 giây. Thời gian hồi chiêu Kỹ Năng Thanh Hài của Hecate giảm 30%."
+lang_multi_text.db,MultiText,Bossch_detail_62,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【假面】：施放赫卡忒的声骸技能后，登场角色受到的伤害降低，抗打断能力提升，持续3秒。赫卡忒的声骸技能冷却时间减少30%。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[False Face]: After performing Hecate's Echo Skill, the active Resonator takes less DMG and obtains increased resistance to interruption for 3s. The cooldown of Hecate's Echo Skill is reduced by 30%.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Giả Diện]: Sau khi thi triển Kỹ Năng Thanh Hài của Hecate, sát thương nhân vật trên sân phải chịu giảm xuống, khả năng Kháng Gián Đoạn tăng lên, duy trì 3 giây. Thời gian hồi chiêu Kỹ Năng Thanh Hài của Hecate giảm 30%.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_63,"【抗性】：敌人<color=Fire>热熔抗性</color>提高。
+【幻音】：使用声骸技能幻形为罗蕾莱时，可免疫叹息古龙造成的伤害，并使队伍中角色的热熔抗性提升20%，持续15秒；若幻形过程中受到来自叹息古龙的攻击，可削减其一定的共振值。","[Resistance]: This enemy has a higher <color=Fire>Fusion RES</color>.
+
+[Illusive Chord]: When transformed into Lorelei, become immune to the Dragon of Dirge's DMG, increasing the Fusion RES of all Resonators in the team by 20% for 15s. Being attacked by the Dragon of Dirge during transformation reduces its Vibration Strength.","[Kháng]: Kẻ địch tăng <color=Fire>Kháng Hỏa Liệt</color>.
+[Huyễn Âm]: Khi dùng Kỹ Năng Thanh Hài biến hình thành Lorelei, có thể miễn nhiễm sát thương từ Cổ Long Than Khóc, đồng thời tăng 20% Kháng Hỏa Liệt cho các nhân vật trong đội, duy trì 15 giây; nếu trong quá trình biến hình chịu tấn công từ Cổ Long Than Khóc, có thể giảm một lượng nhất định Thanh Rung Động của nó."
+lang_multi_text.db,MultiText,Bossch_detail_64,"【抗性】：敌人<color=Fire>热熔抗性</color>提高。
+【幻音】：使用声骸技能幻形为罗蕾莱时，可免疫叹息古龙造成的伤害，并使队伍中角色的热熔抗性提升20%，持续15秒；若幻形过程中受到来自叹息古龙的攻击，可削减其一定的共振值。
+【濒毁】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。
+【展翼】：角色闪避成功时，回复一定耐力，自身攻击提升10%，持续5秒，可叠加5层。","[Resistance]: This enemy has a higher <color=Fire>Fusion RES</color>.
+
+[Illusive Chord]: When transformed into Lorelei, become immune to the Dragon of Dirge's DMG, increasing the Fusion RES of all Resonators in the team by 20% for 15s. Being attacked by the Dragon of Dirge during transformation reduces its Vibration Strength.
+
+[Crumble]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.
+
+[Wings Unfurled] Each successful Dodge recovers a certain amount of STA to Resonators and increases their ATK by 10% for 5s, stacking up to 5 times.","[Kháng]: Kẻ địch tăng <color=Fire>Kháng Hỏa Liệt</color>.
+[Huyễn Âm]: Khi dùng Kỹ Năng Thanh Hài biến hình thành Lorelei, có thể miễn nhiễm sát thương từ Cổ Long Than Khóc, đồng thời tăng 20% Kháng Hỏa Liệt cho các nhân vật trong đội, duy trì 15 giây; nếu trong quá trình biến hình chịu tấn công từ Cổ Long Than Khóc, có thể giảm một lượng nhất định Thanh Rung Động của nó.
+[Tần Hủy]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%.
+[Triển Dực]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực nhất định, Tấn Công của bản thân tăng 10%, duy trì 5 giây, có thể cộng dồn 5 tầng."
+lang_multi_text.db,MultiText,Bossch_detail_65,"【抗性】：敌人<color=Wind>气动抗性</color>提高。
+【涟漪】：角色闪避成功时，回复一定耐力，自身暴击伤害提升10%，持续5秒，可叠加5层。","[Resistance]: This enemy has a higher <color=Wind>Aero RES</color>.
+
+[Ripple]: A successful Dodge recovers certain STA and increases Crit. DMG by 10% for 5s, stacking up to 5 times.","[Kháng]: Kẻ địch tăng <color=Wind>Kháng Khí Động</color>.
+[Liên Y]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực nhất định, Sát Thương Bạo Kích của bản thân tăng 10%, duy trì 5 giây, có thể cộng dồn 5 tầng."
+lang_multi_text.db,MultiText,Bossch_detail_66,"【抗性】：敌人<color=Wind>气动抗性</color>提高。
+【涟漪】：角色闪避成功时，回复一定耐力，自身暴击伤害提升10%，持续5秒，可叠加5层。
+【湖光】：敌人受到【光噪效应】伤害时，队伍中所有角色防御提升2%，持续10秒，可叠加15层。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Wind>Aero RES</color>.
+
+[Ripple]: A successful Dodge recovers certain STA and increases Crit. DMG by 10% for 5s, stacking up to 5 times.
+
+[Lake Hue]: When the enemy takes Spectro Frazzle DMG, DEF of all Resonators in the team is increased by 2% for 10s, stacking up to 15 times.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng <color=Wind>Kháng Khí Động</color>.
+[Liên Y]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực nhất định, Sát Thương Bạo Kích của bản thân tăng 10%, duy trì 5 giây, có thể cộng dồn 5 tầng.
+[Hồ Quang]: Khi kẻ địch chịu sát thương [Hiệu Ứng Nhiễu Quang], Phòng Thủ của tất cả nhân vật trong đội tăng 2%, duy trì 10 giây, có thể cộng dồn 15 tầng.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_67,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【涟漪】：角色闪避成功时，回复一定耐力，自身暴击伤害提升10%，持续5秒，可叠加5层。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[Ripple]: A successful Dodge recovers certain STA and increases Crit. DMG by 10% for 5s, stacking up to 5 times.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Liên Y]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực nhất định, Sát Thương Bạo Kích của bản thân tăng 10%, duy trì 5 giây, có thể cộng dồn 5 tầng."
+lang_multi_text.db,MultiText,Bossch_detail_68,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【涟漪】：角色闪避成功时，回复一定耐力，自身暴击伤害提升10%，持续5秒，可叠加5层。
+【潮风】：敌人受到【风蚀效应】伤害时，队伍中所有角色生命上限提升5%，持续10秒，可叠加6层。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[Ripple]: A successful Dodge recovers certain STA and increases Crit. DMG by 10% for 5s, stacking up to 5 times.
+
+[Sea Wind]: When the enemy takes Aero Erosion DMG, the Max HP of all Resonators in the team is increased by 5% for 10s, stacking up to 6 times.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Liên Y]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực nhất định, Sát Thương Bạo Kích của bản thân tăng 10%, duy trì 5 giây, có thể cộng dồn 5 tầng.
+[Triều Phong]: Khi kẻ địch chịu sát thương [Hiệu Ứng Phong Thực], HP tối đa của tất cả nhân vật trong đội tăng 5%, duy trì 10 giây, có thể cộng dồn 6 tầng.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_69,"【抗性】：敌人<color=Wind>气动</color>和<color=Ice>冷凝</color>抗性提高。
+【匿流】：角色闪避成功时，回复一定耐力和协奏值。
+【传承】：角色施放变奏技能时，自身攻击提升20%，受到伤害降低30%，持续10秒。","[Resistance]: This enemy has a higher <color=Wind>Aero RES</color> and <color=Ice>Glacio RES</color>.
+
+[Undercurrent]: A successful Dodge recovers certain STA and Concerto Energy.
+
+[Impartation]: Casting Intro Skill increases the caster's ATK by 20% and decreases their DMG taken by 30% for 10s.","[Kháng]: Kẻ địch tăng Kháng <color=Wind>Khí Động</color> và <color=Ice>Ngưng Băng</color>.
+[Nặc Lưu]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực và Năng Lượng Hiệp Tấu.
+[Truyền Thừa]: Khi nhân vật thi triển Kỹ Năng Biến Tấu, Tấn Công của bản thân tăng 20%, sát thương phải chịu giảm 30%, duy trì 10 giây."
+lang_multi_text.db,MultiText,Bossch_detail_7,【抗性】：敌人<color=Wind>气动</color>和<color=Ice>冷凝</color>抗性提高。,[Resistance]: This enemy has a higher <color=Wind>Aero RES</color> and <color=Ice>Glacio RES</color>.,[Kháng]: Kẻ địch tăng Kháng <color=Wind>Khí Động</color> và <color=Ice>Ngưng Băng</color>.
+lang_multi_text.db,MultiText,Bossch_detail_70,"【抗性】：敌人<color=Wind>气动</color>和<color=Ice>冷凝</color>抗性提高。
+【匿流】：角色闪避成功时，回复一定耐力和协奏值。
+【传承】：角色施放变奏技能时，自身攻击提升20%，受到伤害降低30%，持续10秒。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Wind>Aero RES</color> and <color=Ice>Glacio RES</color>.
+
+[Undercurrent]: A successful Dodge recovers certain STA and Concerto Energy.
+
+[Impartation]: Casting Intro Skill increases the caster's ATK by 20% and decreases their DMG taken by 30% for 10s.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng Kháng <color=Wind>Khí Động</color> và <color=Ice>Ngưng Băng</color>.
+[Nặc Lưu]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực và Năng Lượng Hiệp Tấu.
+[Truyền Thừa]: Khi nhân vật thi triển Kỹ Năng Biến Tấu, Tấn Công của bản thân tăng 20%, sát thương phải chịu giảm 30%, duy trì 10 giây.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_71,"【抗性】：敌人<color=Wind>气动抗性</color>提高。
+【匿流】：角色闪避成功时，回复一定耐力和协奏值。","[Resistance]: This enemy has a higher <color=Wind>Aero RES</color>.
+
+[Undercurrent]: A successful Dodge recovers certain STA and Concerto Energy.","[Kháng]: Kẻ địch tăng <color=Wind>Kháng Khí Động</color>.
+[Nặc Lưu]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực và Năng Lượng Hiệp Tấu."
+lang_multi_text.db,MultiText,Bossch_detail_72,"【抗性】：敌人<color=Wind>气动抗性</color>提高。
+【匿流】：角色闪避成功时，回复一定耐力和协奏值。
+【潮佑】：角色获得护盾时，自身攻击提升30%，受到伤害降低30%，持续3秒。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Wind>Aero RES</color>.
+
+[Undercurrent]: A successful Dodge recovers certain STA and Concerto Energy.
+
+[Tide Swell]: Obtaining a Shield increases the shielded Resonator's ATK by 30% and decreases their DMG taken by 30% for 3s.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng <color=Wind>Kháng Khí Động</color>.
+[Nặc Lưu]: Khi nhân vật Né Tránh thành công, hồi phục một lượng Thể Lực và Năng Lượng Hiệp Tấu.
+[Triều Hữu]: Khi nhân vật nhận khiên, Tấn Công của bản thân tăng 30%, sát thương phải chịu giảm 30%, duy trì 3 giây.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_73,"【抗性】：敌人<color=Fire>热熔抗性</color>提高。
+【孤斗】：变奏技能削减的共振值减少，角色闪避成功时，回复一定耐力和协奏值，闪避反击额外削减共振值。","[Resistance]: This enemy has a higher <color=Fire>Fusion RES</color>.
+
+[Lonesome Fight]: Intro Skill's Vibration Strength Reduction is decreased. A successful Dodge recovers certain STA and Concerto Energy. Dodge Counter reduces Vibration Strength.","[Kháng]: Kẻ địch tăng <color=Fire>Kháng Hỏa Liệt</color>.
+[Cô Đấu]: Lượng Thanh Rung Động bị bào mòn bởi Kỹ Năng Biến Tấu giảm, khi nhân vật Né Tránh thành công sẽ hồi phục một lượng Thể Lực và Năng Lượng Hiệp Tấu, Né Phản Kích giảm thêm Thanh Rung Động."
+lang_multi_text.db,MultiText,Bossch_detail_74,"【抗性】：敌人<color=Fire>热熔抗性</color>提高。
+【孤斗】：变奏技能削减的共振值减少，角色闪避成功时，回复一定耐力和协奏值，闪避反击额外削减共振值。
+【战伤】：角色受到伤害时，全队每秒扣除3%耐力值，治疗效果减少15%，持续10秒，可以叠加5层。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Fire>Fusion RES</color>.
+
+[Lonesome Fight]: Intro Skill's Vibration Strength Reduction is decreased. A successful Dodge recovers certain STA and Concerto Energy. Dodge Counter reduces Vibration Strength.
+
+[War Wound]: When a Resonator takes damage, the STA of all Resonators in the team depletes by 3% every second, and the Healing Bonus is reduced by 15% for 10s, stacking up to 5 times.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng <color=Fire>Kháng Hỏa Liệt</color>.
+[Cô Đấu]: Lượng Thanh Rung Động bị bào mòn bởi Kỹ Năng Biến Tấu giảm, khi nhân vật Né Tránh thành công sẽ hồi phục một lượng Thể Lực và Năng Lượng Hiệp Tấu, Né Phản Kích giảm thêm Thanh Rung Động.
+[Chiến Thương]: Khi nhân vật chịu sát thương, toàn đội bị trừ 3% Thể Lực mỗi giây, hiệu quả trị liệu giảm 15%, duy trì 10 giây, có thể cộng dồn 5 tầng.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_75,"【抗性】：敌人<color=Thunder>导电</color>和<color=Dark>湮灭</color>抗性提高。
+【斥潮】：变奏技能削减的共振值减少，逆势回击造成神王攻击中断时额外削减共振值。","[Resistance]: This enemy has a higher <color=Thunder>Electro RES</color> and <color=Dark>Havoc RES</color>.
+
+[Tidebreaker]: Vibration Strength Reduction from Intro Skills is decreased, while increased for Counterattacks that interrupt the False Sovereign's attacks.","[Kháng]: Kẻ địch tăng Kháng <color=Thunder>Điện Từ</color> và <color=Dark>Hủy Diệt</color>.
+[Xích Triều]: Lượng Thanh Rung Động bị bào mòn bởi Kỹ Năng Biến Tấu giảm, khi Phản Đòn làm gián đoạn đòn tấn công của Thần Vương sẽ giảm thêm Thanh Rung Động."
+lang_multi_text.db,MultiText,Bossch_detail_76,"【抗性】：敌人<color=Thunder>导电</color>和<color=Dark>湮灭</color>抗性提高。
+【斥潮】：变奏技能削减的共振值减少，逆势回击造成神王攻击中断时额外削减共振值。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Thunder>Electro RES</color> and <color=Dark>Havoc RES</color>.
+
+[Tidebreaker]: Vibration Strength Reduction from Intro Skills is decreased, while increased for Counterattacks that interrupt the False Sovereign's attacks.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng Kháng <color=Thunder>Điện Từ</color> và <color=Dark>Hủy Diệt</color>.
+[Xích Triều]: Lượng Thanh Rung Động bị bào mòn bởi Kỹ Năng Biến Tấu giảm, khi Phản Đòn làm gián đoạn đòn tấn công của Thần Vương sẽ giảm thêm Thanh Rung Động.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_77,"【抗性】：敌人<color=Thunder>导电</color>和<color=Dark>湮灭</color>抗性提高。
+【斥潮】：变奏技能削减的共振值减少，逆势回击造成神王攻击中断时额外削减共振值。
+【没世】：神王的部分攻击未被逆势回击打断时会留下【滥潮之种】，【滥潮之种】数量达到三个时，神王提前进入【没世神王】状态，此时战场将被【没世之潮】覆盖。处于【滥潮之种】或【没世之潮】时，队伍中的角色受到的治疗效果降低50%。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Thunder>Electro RES</color> and <color=Dark>Havoc RES</color>.
+
+[Tidebreaker]: Vibration Strength Reduction from Intro Skills is decreased, while increased for Counterattacks that interrupt the False Sovereign's attacks.
+
+[Flood Myth]: If not interrupted by a Counterattack, certain False Sovereign attacks leave behind a [Seed of False Tide]. Upon accumulating 3 seeds, the False Sovereign immediately enters the [Sovereign of Deluge] state, unleashing the [Great Flood] to engulf the battlefield. While [Seed of False Tide] or [Great Flood] is active, all Resonators in the team receive 50% reduced Healing Bonus.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng Kháng <color=Thunder>Điện Từ</color> và <color=Dark>Hủy Diệt</color>.
+[Xích Triều]: Lượng Thanh Rung Động bị bào mòn bởi Kỹ Năng Biến Tấu giảm, khi Phản Đòn làm gián đoạn đòn tấn công của Thần Vương sẽ giảm thêm Thanh Rung Động.
+[Một Thế]: Nếu một số đòn tấn công của Thần Vương không bị Phản Đòn làm gián đoạn sẽ để lại [Hạt Giống Lạm Triều], khi số lượng [Hạt Giống Lạm Triều] đạt đến 3, Thần Vương sẽ sớm tiến vào trạng thái [Một Thế Thần Vương], lúc này chiến trường sẽ bị bao phủ bởi [Triều Dâng Một Thế]. Khi ở trong [Hạt Giống Lạm Triều] hoặc [Triều Dâng Một Thế], hiệu quả trị liệu các nhân vật trong đội nhận được giảm 50%.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_78,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【无妄】：第一次瘫痪状态结束后，无妄者进入【兵燹将临】状态，此时角色的攻击可以反弹【摧念之戟】和【坏毁之方】，削减无妄者的共振度，【摧念之戟】和【坏毁之方】无法被成功闪避。
+【无终】：无妄者进入【兵燹将临】状态后将会释放【月诞之时】。将共振度削减至50%以下可中断【月诞之时】。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[Dreamless] Dreamless enters the Looming Turmoil state upon recovering from Immobilization for the first time. During this state, Dreamless sends out deflectable Halberd of Destruction and Vectors of Ruin, which reduces Dreamless's Vibration Strength if successfully deflected. Dodging Halberd of Destruction and Vectors of Ruin cannot trigger Successful Dodges.
+
+[Endless] Dreamless will unleash Twilight Eve after entering Looming Turmoil. Reduce Dreamless's Vibration Strength to below 50% to interrupt the channeling of Twilight Eve.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Vô Vọng]: Sau khi kết thúc trạng thái tê liệt lần đầu, Vô Vọng Giả tiến vào trạng thái [Binh Hỏa Giáng Lâm], lúc này đòn tấn công của nhân vật có thể phản lại [Tồi Niệm Chi Kích] và [Hoại Hủy Chi Phương], làm giảm Thanh Rung Động của Vô Vọng Giả, [Tồi Niệm Chi Kích] và [Hoại Hủy Chi Phương] không thể Né Tránh thành công.
+[Vô Chung]: Sau khi Vô Vọng Giả tiến vào trạng thái [Binh Hỏa Giáng Lâm] sẽ thi triển [Nguyệt Đản Chi Thời]. Giảm Thanh Rung Động xuống dưới 50% có thể làm gián đoạn [Nguyệt Đản Chi Thời]."
+lang_multi_text.db,MultiText,Bossch_detail_79,"【抗性】：敌人<color=Dark>湮灭抗性</color>提高。
+【无妄】：第一次瘫痪状态结束后，无妄者进入【兵燹将临】状态，此时角色的攻击可以反弹【摧念之戟】和【坏毁之方】，削减无妄者的共振度，【摧念之戟】和【坏毁之方】无法被成功闪避。
+【无终】：无妄者进入【兵燹将临】状态后将会释放【月诞之时】。将共振度削减至50%以下可中断【月诞之时】。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Dark>Havoc RES</color>.
+
+[Dreamless] Dreamless enters the Looming Turmoil state upon recovering from Immobilization for the first time. During this state, Dreamless sends out deflectable Halberd of Destruction and Vectors of Ruin, which reduces Dreamless's Vibration Strength if successfully deflected. Dodging Halberd of Destruction and Vectors of Ruin cannot trigger Successful Dodges.
+
+[Endless] Dreamless will unleash Twilight Eve after entering Looming Turmoil. Reduce Dreamless's Vibration Strength to below 50% to interrupt the channeling of Twilight Eve.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches below 20%.","[Kháng]: Kẻ địch tăng <color=Dark>Kháng Hủy Diệt</color>.
+[Vô Vọng]: Sau khi kết thúc trạng thái tê liệt lần đầu, Vô Vọng Giả tiến vào trạng thái [Binh Hỏa Giáng Lâm], lúc này đòn tấn công của nhân vật có thể phản lại [Tồi Niệm Chi Kích] và [Hoại Hủy Chi Phương], làm giảm Thanh Rung Động của Vô Vọng Giả, [Tồi Niệm Chi Kích] và [Hoại Hủy Chi Phương] không thể Né Tránh thành công.
+[Vô Chung]: Sau khi Vô Vọng Giả tiến vào trạng thái [Binh Hỏa Giáng Lâm] sẽ thi triển [Nguyệt Đản Chi Thời]. Giảm Thanh Rung Động xuống dưới 50% có thể làm gián đoạn [Nguyệt Đản Chi Thời].
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_detail_8,【抗性】：敌人<color=Thunder>导电</color>和<color=Dark>湮灭</color>抗性提高。,[Resistance]: This enemy has a higher <color=Thunder>Electro RES</color> and <color=Dark>Havoc RES</color>.,[Kháng]: Kẻ địch tăng Kháng <color=Thunder>Điện Từ</color> và <color=Dark>Hủy Diệt</color>.
+lang_multi_text.db,MultiText,Bossch_detail_80,"【抗性】：敌人<color=Fire>热熔抗性</color>提高。
+【红变】：第一次瘫痪状态结束后，炉芯机骸进入【猎火】状态，此时左臂上的【破绽核心】不再因异常效应暴露；【破绽核心】暴露时，炉芯机骸受到的伤害提高。炉芯机骸再次进入瘫痪状态或左臂装甲被破坏时，【猎火】状态结束。
+【死舞】：战斗开始3分钟后：角色每10秒攻击提升10%，最多提升100%；角色每10秒受到的伤害提升10%，无叠加上限；全队角色每2秒失去10%生命上限的生命，生命最多减少至20%。","[Resistance]: This enemy has a higher <color=Fire>Fusion RES</color>.
+
+[Red Shift]: Reactor Husk enters the Huntfire state upon recovering from Immobilization for the first time. While in this state, the Vulnerable Core on its left arm will no longer be exposed under Negative Statuses. When the Vulnerable Core is exposed, Reactor Husk takes increased DMG. Huntfire ends when Reactor Husk is Immobilized again or when its left-arm armor is destroyed.
+
+[Death's Dance]: 3 minutes after the battle begins, Resonators' ATK is increased by 10% every 10s, up to 100%. The DMG taken by Resonators will also increase by 10% every 10s, with no stacking limit. All Resonators in the team lose 10% of their Max HP every 2s, until their HP reaches 20%.","[Kháng]: Kẻ địch tăng <color=Fire>Kháng Hỏa Liệt</color>.
+[Hồng Biến]: Sau khi kết thúc trạng thái tê liệt lần đầu, Lô Tâm Cơ Hài tiến vào trạng thái [Liệp Hỏa], lúc này [Lõi Yếu Điểm] trên tay trái không còn bị lộ ra do hiệu ứng bất thường; khi [Lõi Yếu Điểm] lộ ra, sát thương Lô Tâm Cơ Hài phải chịu sẽ tăng lên. Khi Lô Tâm Cơ Hài tiến vào trạng thái tê liệt lần nữa hoặc giáp tay trái bị phá hủy, trạng thái [Liệp Hỏa] kết thúc.
+[Tử Vũ]: Sau khi bắt đầu chiến đấu 3 phút: Tấn Công của nhân vật tăng 10% mỗi 10 giây, tối đa tăng 100%; sát thương nhân vật phải chịu tăng 10% mỗi 10 giây, không giới hạn cộng dồn; toàn bộ nhân vật trong đội mất 10% HP tối đa mỗi 2 giây, HP giảm tối đa xuống còn 20%."
+lang_multi_text.db,MultiText,Bossch_title_01,难度一,Difficulty I,Độ Khó I
+lang_multi_text.db,MultiText,Bossch_title_02,难度二,Difficulty II,Độ Khó II
+lang_multi_text.db,MultiText,Bossch_title_03,难度三,Difficulty III,Độ Khó III
+lang_multi_text.db,MultiText,Bossch_title_04,难度四,Difficulty IV,Độ Khó IV
+lang_multi_text.db,MultiText,Bossch_title_05,难度五,Difficulty V,Độ Khó V
+lang_multi_text.db,MultiText,Bossch_title_06,难度六,Difficulty VI,Độ Khó VI
+lang_multi_text.db,MultiText,Bossrush_TeamNotFull_Text,当前编队人数未满，是否确认直接开始挑战？,Your lineup is not complete yet. Are you sure you want to start the challenge?,"Đội hình hiện tại chưa đủ người, xác nhận bắt đầu khiêu chiến ngay?"
+lang_multi_text.db,MultiText,Brochure_ActivityName,呜呜欢乐集,Lollo Joy Album,Tập Ảnh Vù Vù Vui Vẻ
+lang_multi_text.db,MultiText,Brochure_AreaName_1,银泉回声,Echoes of Silver Spring,Tiếng Vọng Ngân Tuyền
+lang_multi_text.db,MultiText,Brochure_AreaName_2,漫游回廊,Winding Corridors,Hành Lang Mạn Du
+lang_multi_text.db,MultiText,Brochure_AreaName_3,繁花惊梦,Blossoms in Dreams,Phồn Hoa Kinh Mộng
+lang_multi_text.db,MultiText,Brochure_AreaName_4,荡漾繁星,Rippling Stars,Muôn Sao Gợn Sóng
+lang_multi_text.db,MultiText,Brochure_AreaName_5,琥珀时光,Amber-Tinted Time,Thời Khắc Hổ Phách
+lang_multi_text.db,MultiText,Brochure_AreaName_6,宴戏絮语,Whispers of Revelry,Thì Thầm Yến Tiệc
+lang_multi_text.db,MultiText,Brochure_AreaName_7,海海千秋,The Sea and the Swing,Biển Cả Ngàn Thu
+lang_multi_text.db,MultiText,Brochure_GuideDesc_1,拍下前院的瞬间。,Capture the special moment at the front yard.,Chụp lại khoảnh khắc ở tiền viện.
+lang_multi_text.db,MultiText,Brochure_GuideDesc_2,拍下回廊上的瞬间。,Capture the special moment at the corridor.,Chụp lại khoảnh khắc trên hành lang.
+lang_multi_text.db,MultiText,Brochure_GuideDesc_3,拍下后花园的瞬间。,Capture the special moment at the garden.,Chụp lại khoảnh khắc ở hậu viên.
+lang_multi_text.db,MultiText,Brochure_GuideDesc_4,拍下泳池旁的瞬间。,Capture the special moment by the swimming pool.,Chụp lại khoảnh khắc bên hồ bơi.
+lang_multi_text.db,MultiText,Brochure_GuideDesc_5,拍下餐吧的瞬间。,Capture the special moment at the bar.,Chụp lại khoảnh khắc ở quầy bar.
+lang_multi_text.db,MultiText,Brochure_GuideDesc_6,拍下前厅的瞬间。,Capture the special moment at the lobby.,Chụp lại khoảnh khắc ở tiền sảnh.

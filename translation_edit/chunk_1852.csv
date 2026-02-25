@@ -1,299 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,RogueBuffPool_900171000973_BuffName,危险游戏,Risky Game,Trò Chơi Nguy Hiểm
-lang_multi_text.db,MultiText,RogueBuffPool_900171000980_BuffDesc,"<color=#ffd12f>【暴击伤害】</color>
- 在场角色每击杀一个敌人，获得效果：生命上限降低0.5%，且自身<color=Highlight>溢出暴击</color>100%的部分，每溢出1%暴击提升0.02%暴击伤害，可叠加100层。","<color=#ffd12f>[Crit. DMG]</color>
-When the active Resonator defeats an enemy, reduce their Max HP by 0.5% and increase their Crit. DMG by 0.02% for <color=Highlight>every 1% Crit. Rate that exceeds 100% Crit. Rate</color>, stacking up to 100 times.","<color=#ffd12f>[Sát thương bạo kích]</color>
-Mỗi khi nhân vật trên sân Hạ Gục một kẻ địch, nhận hiệu ứng: HP tối đa giảm 0.5%, và phần <color=Highlight>tỷ lệ bạo kích vượt quá</color> 100%, cứ mỗi 1% vượt quá sẽ tăng 0.02% sát thương bạo kích, cộng dồn tối đa 100 tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000980_BuffDesc_0,"<color=#ffd12f>【暴击伤害】</color>
- 击杀敌人时，自身暴击伤害根据<color=Highlight>溢出暴击</color>轻微提升，生命上限轻微降低。","<color=#ffd12f>[Crit. DMG]</color>
-Defeating an enemy very slightly increases the active Resonator's Crit. DMG based on <color=Highlight>the excess Crit. Rate</color>, and very slightly reduces their Max HP.","<color=#ffd12f>[Sát thương bạo kích]</color>
-Khi Hạ Gục kẻ địch, sát thương bạo kích bản thân tăng rất nhẹ dựa trên <color=Highlight>tỷ lệ bạo kích vượt quá</color>, HP tối đa giảm rất nhẹ."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000980_BuffName,友谊的小鸟,Bird of Friendship,Chim Nhỏ Tình Bạn
-lang_multi_text.db,MultiText,RogueBuffPool_900171000983_BuffDesc,"<color=#ffd12f>【生命】</color>
-在场角色每击杀一个敌人，自身生命上限提升0.5%，可叠100层。","<color=#ffd12f>[Health]</color>
-When the active Resonator defeats an enemy, increase their Max HP by 0.5%, stacking up to 100 times.","<color=#ffd12f>[Sinh mệnh]</color>
-Mỗi khi nhân vật trên sân Hạ Gục một kẻ địch, HP tối đa bản thân tăng 0.5%, cộng dồn tối đa 100 tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000983_BuffDesc_0,"<color=#ffd12f>【生命】</color>
-击杀敌人时，自身生命上限轻微提升，可多次叠加","<color=#ffd12f>[Health]</color>
-Defeating an enemy very slightly increases the active Resonator's Max HP. This effect is stackable.","<color=#ffd12f>[Sinh mệnh]</color>
-Khi Hạ Gục kẻ địch, HP tối đa bản thân tăng rất nhẹ, có thể cộng dồn nhiều lần."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000983_BuffName,燥热拯救者,Torridity Rescuer,Người Cứu Rỗi Nóng Bỏng
-lang_multi_text.db,MultiText,RogueBuffPool_900171000985_BuffDesc,"<color=#ffd12f>【暴击伤害】</color>
- 在场角色每击杀一个敌人，获得效果：生命上限降低0.35%，且自身<color=Highlight>暴击溢出</color>100%的部分，每溢出1%暴击提升0.04%暴击伤害，可叠加50层。","<color=#ffd12f>[Crit. DMG]</color>
-When the active Resonator defeats an enemy, reduce their Max HP by 0.35%, and increase their Crit. DMG by 0.04% for <color=Highlight>every 1% Crit. Rate that exceeds 100% Crit. Rate</color>, stacking up to 50 times.","<color=#ffd12f>[Sát Thương Bạo Kích]</color>
-Mỗi khi nhân vật trên sân hạ gục một kẻ địch, nhận hiệu ứng: giảm 0.35% HP tối đa, đồng thời phần <color=Highlight>tỷ lệ bạo kích vượt quá 100%</color>, mỗi 1% vượt quá sẽ tăng 0.04% sát thương bạo kích, tối đa 50 tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000985_BuffDesc_0,"<color=#ffd12f>【暴击伤害】</color>
- 击杀敌人时，自身暴击伤害根据<color=Highlight>溢出暴击</color>轻微提升，生命上限轻微降低。","<color=#ffd12f>[Crit. DMG]</color>
-Defeating an enemy very slightly increases the active Resonator's Crit. DMG based on <color=Highlight>the excess Crit. Rate</color>, and very slightly reduces Max HP.","<color=#ffd12f>[Sát Thương Bạo Kích]</color>
-Khi hạ gục kẻ địch, sát thương bạo kích tăng nhẹ dựa trên <color=Highlight>tỷ lệ bạo kích vượt ngưỡng</color>, HP tối đa giảm nhẹ."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000985_BuffName,毁灭预言,Prophecy of Destruction,Lời Tiên Tri Hủy Diệt
-lang_multi_text.db,MultiText,RogueBuffPool_900171000988_BuffDesc,"<color=#ffd12f>【生命】</color>
-在场角色每击杀一个敌人，自身生命上限提升1%，上限50层。","<color=#ffd12f>[Health]</color>
-When the active Resonator defeats an enemy, increase their Max HP by 1%, stacking up to 50 times.","<color=#ffd12f>[Sinh Mệnh]</color>
-Mỗi khi nhân vật trên sân hạ gục một kẻ địch, HP tối đa tăng 1%, tối đa 50 tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000988_BuffDesc_0,"<color=#ffd12f>【生命】</color>
-击杀敌人时，自身生命上限轻微提升。","<color=#ffd12f>[Health]</color>
-Defeating an enemy increases the active Resonator's Max HP.","<color=#ffd12f>[Sinh Mệnh]</color>
-Khi hạ gục kẻ địch, HP tối đa tăng nhẹ."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000988_BuffName,余钟磬磬,Resounding Bell,Dư Âm Chuông Ngân
-lang_multi_text.db,MultiText,RogueBuffPool_900171000990_BuffDesc,"<color=#ffd12f>【梦境能量】</color>
-击杀敌人时获得40点【梦境能量】。","<color=#ffd12f>[Dreamscape Energy]</color>
-Defeating an enemy restores 40 Dreamscape Energy.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Khi hạ gục kẻ địch, nhận 40 điểm [Năng Lượng Mộng Cảnh]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000990_BuffDesc_0,"<color=#ffd12f>【梦境能量】</color>
-击杀敌人时获得少量【梦境能量】","<color=#ffd12f>[Dreamscape Energy]</color>
-Defeating an enemy restores a small amount of Dreamscape Energy.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Khi hạ gục kẻ địch, nhận một lượng nhỏ [Năng Lượng Mộng Cảnh]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000990_BuffName,残破梳篦,Timeworn Comb,Lược Cũ Sứt Mẻ
-lang_multi_text.db,MultiText,RogueBuffPool_900171000992_BuffDesc,"<color=#ffd12f>【梦境能量】</color>
-击杀敌人时获得80点【梦境能量】。","<color=#ffd12f>[Dreamscape Energy]</color>
-Defeating an enemy restores 80 Dreamscape Energy.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Khi hạ gục kẻ địch, nhận 80 điểm [Năng Lượng Mộng Cảnh]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000992_BuffDesc_0,"<color=#ffd12f>【梦境能量】</color>
-击杀敌人时获得【梦境能量】","<color=#ffd12f>[Dreamscape Energy]</color>
-Defeating an enemy restores Dreamscape Energy.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Khi hạ gục kẻ địch, nhận [Năng Lượng Mộng Cảnh]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171000992_BuffName,梳篦,Comb,Lược Chải
-lang_multi_text.db,MultiText,RogueBuffPool_900171001000_BuffDesc,"<color=#ffd12f>【梦境能量】</color>
-暴击时，回复10点【梦境能量】，如果是【梦境权能】造成的暴击则翻倍。","<color=#ffd12f>[Dreamscape Energy]</color>
-Dealing a Critical hit restores 10 Dreamscape Energy, which is doubled if the Critical hit is dealt by [Dreamscape Power: Damage] buffs.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Khi bạo kích, hồi 10 điểm [Năng Lượng Mộng Cảnh], nếu bạo kích do [Quyền Năng Mộng Cảnh: Sát Thương] gây ra thì nhân đôi."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001000_BuffDesc_0,"<color=#ffd12f>【梦境能量】</color>
-暴击时，回复少量【梦境能量】，如果是【梦境权能】造成的暴击则翻倍","<color=#ffd12f>[Dreamscape Energy]</color>
-Dealing a Critical hit restores a small amount of Dreamscape Energy, which is doubled if the Critical hit is dealt by [Dreamscape Power: Damage] buffs.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Khi bạo kích, hồi một lượng nhỏ [Năng Lượng Mộng Cảnh], nếu bạo kích do [Quyền Năng Mộng Cảnh: Sát Thương] gây ra thì nhân đôi."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001000_BuffName,无序魔方,Unordered Cube,Khối Vuông Hỗn Loạn
-lang_multi_text.db,MultiText,RogueBuffPool_900171001010_BuffDesc,"<color=#ffd12f>【明晰梦】</color>
- 【明晰梦】状态的持续时间变为永久，但角色<color=Highlight>攻击不会超过2000</color>。","<color=#ffd12f>[Lucid Dream]</color>
-The Lucid Dream status becomes permanent, but your Resonators' <color=Highlight>ATK will never exceed 2000</color>.","<color=#ffd12f>[Mộng Tỉnh]</color>
-Thời gian duy trì trạng thái [Mộng Tỉnh] trở thành vĩnh viễn, nhưng <color=Highlight>tấn công của nhân vật không vượt quá 2000</color>."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001010_BuffDesc_0,"<color=#ffd12f>【明晰梦】</color>
- 【明晰梦】状态的持续时间变为永久，但<color=Highlight>攻击不会超过2000</color>。","<color=#ffd12f>[Lucid Dream]</color>
-The Lucid Dream status becomes permanent, but <color=Highlight>ATK will never exceed 2000</color>.","<color=#ffd12f>[Mộng Tỉnh]</color>
-Thời gian duy trì trạng thái [Mộng Tỉnh] trở thành vĩnh viễn, nhưng <color=Highlight>tấn công không vượt quá 2000</color>."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001010_BuffName,齿轮之心,Heart of Gear,Trái Tim Bánh Răng
-lang_multi_text.db,MultiText,RogueBuffPool_900171001020_BuffDesc,"<color=#ffd12f>【攻击】</color>
-在场角色受到伤害时，触发效果：根据已损失的生命提升攻击，每损失10点生命提升1攻击，持续10秒。","<color=#ffd12f>[Attack]</color>
-When the active Resonator takes DMG, increase 1 ATK for every 10 HP lost, lasting for 10s.","<color=#ffd12f>[Tấn Công]</color>
-Khi nhân vật trên sân chịu sát thương, kích hoạt hiệu ứng: tăng tấn công dựa trên HP đã mất, mỗi 10 HP mất đi tăng 1 tấn công, kéo dài 10 giây."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001020_BuffDesc_0,"<color=#ffd12f>【攻击】</color>
-受到伤害时，根据已损失的生命提升攻击","<color=#ffd12f>[Attack]</color>
-Taking DMG increases ATK based on HP already lost.","<color=#ffd12f>[Tấn Công]</color>
-Khi chịu sát thương, tăng tấn công dựa trên HP đã mất."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001020_BuffName,林中骄阳,Scorching Sun in Forest,Ánh Dương Giữa Rừng
-lang_multi_text.db,MultiText,RogueBuffPool_900171001030_BuffDesc,"<color=#ffd12f>【触发间隔】</color>
- 【明晰梦】状态下的【梦境权能·伤害】造成伤害时，减少所有【梦境权能·伤害】80%触发间隔。","<color=#ffd12f>[Trigger Interval]</color>
-In the Lucid Dream status, when [Dreamscape Power: Damage] buffs deal damage, reduce the trigger intervals of all [Dreamscape Power: Damage] buffs by 80%.","<color=#ffd12f>[Thời Gian Kích Hoạt]</color>
-Trong trạng thái [Mộng Tỉnh], khi [Quyền Năng Mộng Cảnh: Sát Thương] gây sát thương, giảm 80% thời gian kích hoạt của tất cả [Quyền Năng Mộng Cảnh: Sát Thương]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001030_BuffDesc_0,"<color=#ffd12f>【触发间隔】</color>
- 【明晰梦】状态下的【梦境权能·伤害】造成伤害时，大幅减少所有【梦境权能·伤害】触发间隔。","<color=#ffd12f>[Trigger Interval]</color>
-When in the Lucid Dream status, when [Dreamscape Power: Damage] buffs deal damage, greatly reduce the trigger intervals of all [Dreamscape Power: Damage] buffs.","<color=#ffd12f>[Thời Gian Kích Hoạt]</color>
-Trong trạng thái [Mộng Tỉnh], khi [Quyền Năng Mộng Cảnh: Sát Thương] gây sát thương, giảm đáng kể thời gian kích hoạt của tất cả [Quyền Năng Mộng Cảnh: Sát Thương]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001030_BuffName,机动战靴,Mobile Combat Boots,Giày Chiến Đấu Cơ Động
-lang_multi_text.db,MultiText,RogueBuffPool_900171001040_BuffDesc,"<color=#ffd12f>【梦境能量】</color>
-【梦境权能】造成伤害时，回复20点【梦境能量】。","<color=#ffd12f>[Dreamscape Energy]</color>
-When [Dreamscape Power: Damage] buffs deal damage, restore 20 Dreamscape Energy.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Khi [Quyền Năng Mộng Cảnh] gây sát thương, hồi phục 20 điểm [Năng Lượng Mộng Cảnh]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001040_BuffDesc_0,"<color=#ffd12f>【梦境能量】</color>
-【梦境权能】造成伤害时，回复少量【梦境能量】。","<color=#ffd12f>[Dreamscape Energy]</color>
-When [Dreamscape Power: Damage] buffs deal damage, restore a small amount of [Dreamscape Energy].","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Khi [Quyền Năng Mộng Cảnh] gây sát thương, hồi phục một lượng nhỏ [Năng Lượng Mộng Cảnh]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001040_BuffName,仿声械羽,Mechanical Wing,Lông Máy Cơ Khí
-lang_multi_text.db,MultiText,RogueBuffPool_900171001050_BuffDesc,"<color=#ffd12f>【生命】</color>
- 【明晰梦】状态下，在场角色的<color=Highlight>生命的效果</color>被视为1点。（该效果对实际生命无影响）","<color=#ffd12f>[Health]</color>
-When in the Lucid Dream status, <color=Highlight>buffs that enhance the Resonator based on HP lost</color> will treat the Resonator as if they have only 1 HP left. The actual HP is not affected.","<color=#ffd12f>[Sinh Lực]</color>
-Trong trạng thái [Mộng Tỉnh Thức], <color=Highlight>hiệu ứng dựa trên sinh lực</color> của nhân vật đang ra trận được tính như còn 1 điểm. (Hiệu ứng này không ảnh hưởng đến sinh lực thực tế)"
-lang_multi_text.db,MultiText,RogueBuffPool_900171001050_BuffDesc_0,"<color=#ffd12f>【生命】</color>
- 在【明晰梦】状态下当前<color=Highlight>生命的效果</color>被视为1点。","<color=#ffd12f>[Health]</color>
-When in the Lucid Dream status, <color=Highlight>buffs that enhance the Resonator based on HP lost</color> will treat the Resonator as if they have only 1 HP left.","<color=#ffd12f>[Sinh Lực]</color>
-Trong trạng thái [Mộng Tỉnh Thức], <color=Highlight>hiệu ứng dựa trên sinh lực</color> hiện tại được tính như còn 1 điểm."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001050_BuffName,强心剂,Cardiotonic,Thuốc Trợ Tim
-lang_multi_text.db,MultiText,RogueBuffPool_900171001060_BuffDesc,"<color=#ffd12f>【攻击】</color>
- 在场角色施放共鸣解放时，<color=Highlight>消耗自身当前50%生命</color>，提升自身25%攻击，持续10秒，每10秒可触发一次。","<color=#ffd12f>[Attack]</color>
-When the active Resonator casts Resonance Liberation, <color=Highlight>consume 50% of their current HP</color> to increase their ATK by 25% for 10s. This effect can be triggered every 10s.","<color=#ffd12f>[Tấn Công]</color>
-Khi nhân vật đang ra trận thi triển Giải Phóng Cộng Hưởng, <color=Highlight>tiêu hao 50% sinh lực hiện tại</color>, tăng 25% tấn công bản thân, kéo dài 10 giây, mỗi 10 giây có thể kích hoạt một lần."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001060_BuffDesc_0,"<color=#ffd12f>【攻击】</color>
-施放共鸣解放时，<color=Highlight>消耗一半当前生命</color>，提升自身攻击","<color=#ffd12f>[Attack]</color>
-Casting Resonance Liberation <color=Highlight>consumes half of your current HP</color> to increase your ATK.","<color=#ffd12f>[Tấn Công]</color>
-Khi thi triển Giải Phóng Cộng Hưởng, <color=Highlight>tiêu hao một nửa sinh lực hiện tại</color>, tăng tấn công bản thân."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001060_BuffName,矛盾晶体,Crystal of Contradiction,Tinh Thể Mâu Thuẫn
-lang_multi_text.db,MultiText,RogueBuffPool_900171001070_BuffDesc,"<color=#ffd12f>【暴击伤害】</color>
- 【明晰梦】状态下，<color=Highlight>暴击溢出</color>100%的部分，每溢出1%暴击提升2%暴击伤害。","<color=#ffd12f>[Crit. DMG]</color>
-When in the Lucid Dream status, <color=Highlight>every 1% Crit. Rate that exceeds 100% Crit. Rate</color> increases Crit. DMG by 2%.","<color=#ffd12f>[Sát Thương Bạo Kích]</color>
-Trong trạng thái [Mộng Tỉnh Thức], phần <color=Highlight>tỷ lệ bạo kích vượt quá</color> 100%, mỗi 1% bạo kích dư thừa tăng 2% sát thương bạo kích."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001070_BuffDesc_0,"<color=#ffd12f>【暴击伤害】</color>
- 在【明晰梦】状态下<color=Highlight>溢出暴击</color>会转化为暴击伤害。","<color=#ffd12f>[Crit. DMG]</color>
-When in the Lucid Dream status, <color=Highlight>excess Crit. Rate</color> is converted into Crit. DMG.","<color=#ffd12f>[Sát Thương Bạo Kích]</color>
-Trong trạng thái [Mộng Tỉnh Thức], <color=Highlight>tỷ lệ bạo kích dư thừa</color> sẽ được chuyển hóa thành sát thương bạo kích."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001070_BuffName,悲鸣纪,The Lament Epoch,Kỷ Nguyên Bi Minh
-lang_multi_text.db,MultiText,RogueBuffPool_900171001080_BuffDesc,"<color=#ffd12f>【协奏】</color>
- 【明晰梦】状态下施放<color=Highlight>变奏技能</color>时获得效果：攻击提升25%，伤害提升25%，造成变奏伤害时，回复20点协奏能量，持续6秒，可叠5层。","<color=#ffd12f>[Concerto]</color>
-When in the [Lucid Dream] status, casting <color=Highlight>Intro Skill</color> increases ATK by 25% and grants a 25% increase for DMG dealt. Dealing Intro Skill DMG restores 20 Concerto Energy. This effect lasts for 6s, stacking up to 5 times.","<color=#ffd12f>[Hiệp Tấu]</color>
-Trong trạng thái [Mộng Tỉnh Thức], khi thi triển <color=Highlight>Kỹ Năng Biến Tấu</color> nhận được hiệu ứng: tăng 25% tấn công, tăng 25% sát thương, khi gây sát thương Biến Tấu hồi phục 20 điểm năng lượng Hiệp Tấu, kéo dài 6 giây, cộng dồn tối đa 5 tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001080_BuffDesc_0,"<color=#ffd12f>【协奏】</color>
- 【明晰梦】状态下施放<color=Highlight>变奏技能</color>时提升中幅攻击、伤害并回复少量协奏能量。","<color=#ffd12f>[Concerto]</color>
-When in the [Lucid Dream] status, casting <color=Highlight>Intro Skill</color> moderately increases ATK and DMG dealt, and restores a small amount of Concerto Energy.","<color=#ffd12f>[Hiệp Tấu]</color>
-Trong trạng thái [Mộng Tỉnh Thức], khi thi triển <color=Highlight>Kỹ Năng Biến Tấu</color> tăng vừa phải tấn công, sát thương và hồi phục một lượng nhỏ năng lượng Hiệp Tấu."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001080_BuffName,蓝夜舞曲,Blue Night Waltz,Vũ Khúc Đêm Xanh
-lang_multi_text.db,MultiText,RogueBuffPool_900171001090_BuffDesc,"<color=#ffd12f>【明晰梦】</color>
-【明晰梦】状态下：【梦境权能·伤害】造成伤害时回复20点<color=Highlight>协奏能量</color>。","<color=#ffd12f>[Lucid Dream]</color>
-When in the [Lucid Dream] status, dealing damage with [Dreamscape Power: Damage] buffs restores 20 <color=Highlight>Concerto Energy</color>.","<color=#ffd12f>[Mộng Tỉnh Thức]</color>
-Trong trạng thái [Mộng Tỉnh Thức]: khi [Quyền Năng Mộng Cảnh - Sát Thương] gây sát thương, hồi phục 20 điểm <color=Highlight>năng lượng Hiệp Tấu</color>."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001090_BuffDesc_0,"<color=#ffd12f>【明晰梦】</color>
-【明晰梦】状态下【梦境权能·伤害】造成伤害时回复少量<color=Highlight>协奏能量</color>。","<color=#ffd12f>[Lucid Dream]</color>
-When in the [Lucid Dream] status, dealing damage with [Dreamscape Power: Damage] buffs restores a small amount of <color=Highlight>Concerto Energy</color>.","<color=#ffd12f>[Mộng Tỉnh Thức]</color>
-Trong trạng thái [Mộng Tỉnh Thức], khi [Quyền Năng Mộng Cảnh - Sát Thương] gây sát thương, hồi phục một lượng nhỏ <color=Highlight>năng lượng Hiệp Tấu</color>."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001090_BuffName,世界,The World,Thế Giới
-lang_multi_text.db,MultiText,RogueBuffPool_900171001100_BuffDesc,"<color=#ffd12f>【协奏能量】</color>
-【明晰梦】状态下：造成伤害时，回复10点<color=Highlight>协奏能量</color>，每秒可触发1次。","<color=#ffd12f>[Concerto Energy]</color>
-When in the [Lucid Dream] status, dealing damage restores 10 <color=Highlight>Concerto Energy</color>. This effect can be triggered once every 1s.","<color=#ffd12f>[Năng Lượng Hiệp Tấu]</color>
-Trong trạng thái [Mộng Tỉnh Thức]: khi gây sát thương, hồi phục 10 điểm <color=Highlight>năng lượng Hiệp Tấu</color>, mỗi giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001100_BuffDesc_0,"<color=#ffd12f>【协奏能量】</color>
-【明晰梦】状态下造成伤害时回复少量的<color=Highlight>协奏能量</color>。","<color=#ffd12f>[Concerto Energy]</color>
-When in [Lucid Dream], dealing damage slightly recovers <color=Highlight>Concerto Energy</color>.","<color=#ffd12f>[Năng Lượng Hiệp Tấu]</color>
-Trong trạng thái [Mộng Tỉnh Thức], khi gây sát thương sẽ hồi phục một lượng nhỏ <color=Highlight>năng lượng Hiệp Tấu</color>."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001100_BuffName,导热零件,Thermal-Conduction Parts,Linh Kiện Dẫn Nhiệt
-lang_multi_text.db,MultiText,RogueBuffPool_900171001110_BuffDesc,"<color=#ffd12f>【明晰梦】</color>
- 【明晰梦】状态下：施放<color=Highlight>变奏技能</color>时，延长2秒【明晰梦】状态持续时间。","<color=#ffd12f>[Lucid Dream]</color>
-When in the [Lucid Dream] status, casting <color=Highlight>Intro Skill</color> increases the Lucid Dream status duration by 2s.","<color=#ffd12f>[Mộng Tỉnh Thức]</color>
-Trong trạng thái [Mộng Tỉnh Thức]: khi thi triển <color=Highlight>Kỹ Năng Biến Tấu</color>, kéo dài thêm 2 giây thời gian trạng thái [Mộng Tỉnh Thức]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001110_BuffDesc_0,"<color=#ffd12f>【明晰梦】</color>
- 【明晰梦】状态下施放<color=Highlight>变奏技能</color>时延长【明晰梦】状态持续时间。","<color=#ffd12f>[Lucid Dream]</color>
-When in the [Lucid Dream] status, casting <color=Highlight>Intro Skill</color> increases the Lucid Dream status duration.","<color=#ffd12f>[Mộng Tỉnh Thức]</color>
-Trong trạng thái [Mộng Tỉnh Thức], khi thi triển <color=Highlight>Kỹ Năng Biến Tấu</color> sẽ kéo dài thời gian trạng thái [Mộng Tỉnh Thức]."
-lang_multi_text.db,MultiText,RogueBuffPool_900171001110_BuffName,隔热零件,Insulation Parts,Linh Kiện Cách Nhiệt
-lang_multi_text.db,MultiText,RogueBuffPool_900172000113_BuffDesc,"<color=#ffd12f>【梦境能量】</color>
-普攻命中时回复50【梦境能量】，每0.5秒可触发1次。","<color=#ffd12f>[Dreamscape Energy]</color>
-Restore 50 Dreamscape Energy when a Basic Attack hits. This effect can be triggered once every 0.5s.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Hồi phục 50 [Năng Lượng Mộng Cảnh] khi Đánh Thường trúng mục tiêu. Hiệu ứng này kích hoạt tối đa 1 lần mỗi 0.5 giây."
-lang_multi_text.db,MultiText,RogueBuffPool_900172000113_BuffDesc_0,"<color=#ffd12f>【梦境能量】</color>
-普攻命中时回复【梦境能量】。","<color=#ffd12f>[Dreamscape Energy]</color>
-Restore Dreamscape Energy when a Basic Attack hits.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Hồi phục [Năng Lượng Mộng Cảnh] khi Đánh Thường trúng mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_900172000113_BuffName,永护的契约,Guardian's Pledge,Khế Ước Vĩnh Hộ
-lang_multi_text.db,MultiText,RogueBuffPool_900172000114_BuffDesc,"<color=#ffd12f>【梦境能量】</color>
-普攻命中时回复20【梦境能量】，每0.5秒可触发1次。","<color=#ffd12f>[Dreamscape Energy]</color>
-When a Basic Attack hits, restore 20 [Dreamscape Energy]. This effect can be triggered once every 0.5s.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Hồi phục 20 [Năng Lượng Mộng Cảnh] khi Đánh Thường trúng mục tiêu. Hiệu ứng này kích hoạt tối đa 1 lần mỗi 0.5 giây."
-lang_multi_text.db,MultiText,RogueBuffPool_900172000114_BuffDesc_0,"<color=#ffd12f>【梦境能量】</color>
-普攻命中时回复少量【梦境能量】。","<color=#ffd12f>[Dreamscape Energy]</color>
-When a Basic Attack hits, restore a small amount of [Dreamscape Energy].","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Hồi phục một lượng nhỏ [Năng Lượng Mộng Cảnh] khi Đánh Thường trúng mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_900172000114_BuffName,守望的承诺,Guardian's Promise,Lời Hứa Canh Giữ
-lang_multi_text.db,MultiText,RogueBuffPool_900172000115_BuffDesc,"<color=#ffd12f>【梦境能量】</color>
-普攻命中时回复10【梦境能量】，每0.5秒可触发1次。","<color=#ffd12f>[Dreamscape Energy]</color>
-When a Basic Attack hits, restore 10 [Dreamscape Energy]. This effect can be triggered once every 0.5s.","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Hồi phục 10 [Năng Lượng Mộng Cảnh] khi Đánh Thường trúng mục tiêu. Hiệu ứng này kích hoạt tối đa 1 lần mỗi 0.5 giây."
-lang_multi_text.db,MultiText,RogueBuffPool_900172000115_BuffDesc_0,"<color=#ffd12f>【梦境能量】</color>
-普攻命中时回复微量【梦境能量】。","<color=#ffd12f>[Dreamscape Energy]</color>
-When a Basic Attack hits, restore a very small amount of [Dreamscape Energy].","<color=#ffd12f>[Năng Lượng Mộng Cảnh]</color>
-Hồi phục một lượng rất nhỏ [Năng Lượng Mộng Cảnh] khi Đánh Thường trúng mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_900172000115_BuffName,守护的证明,Guardian's Proof,Chứng Minh Thủ Hộ
-lang_multi_text.db,MultiText,RogueBuffPool_900173000010_BuffDesc,"<color=#ffd12f>【攻击】</color>
-攻击提升22.5%。","<color=#ffd12f>[Attack]</color>
-Increase ATK by 22.5%.","<color=#ffd12f>[Tấn Công]</color>
-Tăng tấn công 22.5%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000010_BuffDesc_0,"<color=#ffd12f>【攻击】</color>
-小幅提升攻击","<color=#ffd12f>[Attack]</color>
-Slightly increase ATK.","<color=#ffd12f>[Tấn Công]</color>
-Tăng nhẹ tấn công."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000010_BuffName,破坏的欲望,Desire for Destruction,Khát Vọng Hủy Diệt
-lang_multi_text.db,MultiText,RogueBuffPool_900173000011_BuffDesc,"<color=#ffd12f>【攻击】</color>
-攻击提升45%。","<color=#ffd12f>[Attack]</color>
-Increase ATK by 45%.","<color=#ffd12f>[Tấn Công]</color>
-Tăng tấn công 45%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000011_BuffDesc_0,"<color=#ffd12f>【攻击】</color>
-中幅提升攻击","<color=#ffd12f>[Attack]</color>
-Moderately increase ATK.","<color=#ffd12f>[Tấn Công]</color>
-Tăng vừa tấn công."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000011_BuffName,摧毁的执念,Obsession for Devastation,Chấp Niệm Tàn Phá
-lang_multi_text.db,MultiText,RogueBuffPool_900173000012_BuffDesc,"<color=#ffd12f>【攻击】</color>
-攻击提升67.5%。","<color=#ffd12f>[Attack]</color>
-Increase ATK by 67.5%.","<color=#ffd12f>[Tấn Công]</color>
-Tăng tấn công 67.5%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000012_BuffDesc_0,"<color=#ffd12f>【攻击】</color>
-大幅提升攻击。","<color=#ffd12f>[Attack]</color>
-Greatly increase ATK.","<color=#ffd12f>[Tấn Công]</color>
-Tăng mạnh tấn công."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000012_BuffName,毁灭的代价,Price of Demolishment,Cái Giá Hủy Diệt
-lang_multi_text.db,MultiText,RogueBuffPool_900173000020_BuffDesc,"<color=#ffd12f>【生命】</color>
-生命上限提升22.5%。","<color=#ffd12f>[Health]</color>
-Increase Max HP by 22.5%.","<color=#ffd12f>[Sinh Mệnh]</color>
-Tăng HP tối đa 22.5%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000020_BuffDesc_0,"<color=#ffd12f>【生命】</color>
-小幅提升生命上限","<color=#ffd12f>[Health]</color>
-Slightly increase Max HP.","<color=#ffd12f>[Sinh Mệnh]</color>
-Tăng nhẹ HP tối đa."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000020_BuffName,旧式装置Ⅰ,Old Device I,Thiết Bị Cũ Ⅰ
-lang_multi_text.db,MultiText,RogueBuffPool_900173000021_BuffDesc,"<color=#ffd12f>【生命】</color>
-生命上限提升45%。","<color=#ffd12f>[Health]</color>
-Increase Max HP by 45%.","<color=#ffd12f>[Sinh Mệnh]</color>
-Tăng HP tối đa 45%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000021_BuffDesc_0,"<color=#ffd12f>【生命】</color>
-中幅提升生命上限","<color=#ffd12f>[Health]</color>
-Moderately increase Max HP.","<color=#ffd12f>[Sinh Mệnh]</color>
-Tăng vừa HP tối đa."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000021_BuffName,旧式装置Ⅱ,Old Device II,Thiết Bị Cũ Ⅱ
-lang_multi_text.db,MultiText,RogueBuffPool_900173000022_BuffDesc,"<color=#ffd12f>【生命】</color>
-生命上限提升67.5%。","<color=#ffd12f>[Health]</color>
-Increase Max HP by 67.5%.","<color=#ffd12f>[Sinh Mệnh]</color>
-Tăng HP tối đa 67.5%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000022_BuffDesc_0,"<color=#ffd12f>【生命】</color>
-大幅提升生命上限。","<color=#ffd12f>[Health]</color>
-Greatly increase Max HP.","<color=#ffd12f>[Sinh Mệnh]</color>
-Tăng đáng kể HP tối đa."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000022_BuffName,中度变异结构,Moderately Mutated Structure,Cấu Trúc Biến Dị Trung Bình
-lang_multi_text.db,MultiText,RogueBuffPool_900173000030_BuffDesc,"<color=#ffd12f>【防御】</color>
-防御提升22.5%。","<color=#ffd12f>[Defense]</color>
-Increase DEF by 22.5%.","<color=#ffd12f>[Phòng Thủ]</color>
-Tăng phòng thủ 22.5%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000030_BuffDesc_0,"<color=#ffd12f>【防御】</color>
-小幅提升防御","<color=#ffd12f>[Defense]</color>
-Slightly increase DEF.","<color=#ffd12f>[Phòng Thủ]</color>
-Tăng nhẹ phòng thủ."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000030_BuffName,防暴盾牌Ⅰ,Riot Shield I,Khiên Chống Bạo Động Ⅰ
-lang_multi_text.db,MultiText,RogueBuffPool_900173000031_BuffDesc,"<color=#ffd12f>【防御】</color>
-防御提升45%。","<color=#ffd12f>[Defense]</color>
-Increase DEF by 45%.","<color=#ffd12f>[Phòng Thủ]</color>
-Tăng phòng thủ 45%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000031_BuffDesc_0,"<color=#ffd12f>【防御】</color>
-中幅提升防御","<color=#ffd12f>[Defense]</color>
-Moderately increase DEF.","<color=#ffd12f>[Phòng Thủ]</color>
-Tăng vừa phòng thủ."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000031_BuffName,绿宝石,Emerald,Ngọc Lục Bảo
-lang_multi_text.db,MultiText,RogueBuffPool_900173000032_BuffDesc,"<color=#ffd12f>【防御】</color>
-防御提升67.5%。","<color=#ffd12f>[Defense]</color>
-Increase DEF by 67.5%.","<color=#ffd12f>[Phòng Thủ]</color>
-Tăng phòng thủ 67.5%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000032_BuffDesc_0,"<color=#ffd12f>【防御】</color>
-大幅提升防御。","<color=#ffd12f>[Defense]</color>
-Greatly increase DEF.","<color=#ffd12f>[Phòng Thủ]</color>
-Tăng đáng kể phòng thủ."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000032_BuffName,未鉴定的植物,Unidentified Plant,Thực Vật Chưa Xác Định
-lang_multi_text.db,MultiText,RogueBuffPool_900173000040_BuffDesc,"<color=#ffd12f>【暴击】</color>
-暴击提升15%。","<color=#ffd12f>[Crit. Rate]</color>
-Increase Crit. Rate by 15%.","<color=#ffd12f>[Bạo Kích]</color>
-Tăng tỉ lệ bạo kích 15%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000040_BuffDesc_0,"<color=#ffd12f>【暴击】</color>
-小幅提升暴击","<color=#ffd12f>[Crit. Rate]</color>
-Slightly increase Crit. Rate.","<color=#ffd12f>[Bạo Kích]</color>
-Tăng nhẹ tỉ lệ bạo kích."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000040_BuffName,老旧左轮,Old Revolver,Ổ Quay Cũ Kỹ
-lang_multi_text.db,MultiText,RogueBuffPool_900173000041_BuffDesc,"<color=#ffd12f>【暴击】</color>
-暴击提升30%。","<color=#ffd12f>[Crit. Rate]</color>
-Increase Crit. Rate by 30%.","<color=#ffd12f>[Bạo Kích]</color>
-Tăng tỉ lệ bạo kích 30%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000041_BuffDesc_0,"<color=#ffd12f>【暴击】</color>
-中幅提升暴击","<color=#ffd12f>[Crit. Rate]</color>
-Moderately increase Crit. Rate.","<color=#ffd12f>[Bạo Kích]</color>
-Tăng vừa tỉ lệ bạo kích."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000041_BuffName,士兵的铭牌,Soldier's Dog Tag,Thẻ Bài Lính
-lang_multi_text.db,MultiText,RogueBuffPool_900173000042_BuffDesc,"<color=#ffd12f>【暴击】</color>
-暴击提升45%。","<color=#ffd12f>[Crit. Rate]</color>
-Increase Crit. Rate by 45%.","<color=#ffd12f>[Bạo Kích]</color>
-Tăng tỉ lệ bạo kích 45%."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000042_BuffDesc_0,"<color=#ffd12f>【暴击】</color>
-大幅提升暴击。","<color=#ffd12f>[Crit. Rate]</color>
-Greatly increases Crit. Rate.","<color=#ffd12f>[Bạo Kích]</color>
-Tăng đáng kể tỉ lệ bạo kích."
-lang_multi_text.db,MultiText,RogueBuffPool_900173000042_BuffName,队长的铭牌,Captain's Dog Tag,Thẻ Bài Đội Trưởng
+lang_multi_text.db,MultiText,RogueBuffPool_900100000002_BuffDesc,"<color=#ffd12f>【共鸣】</color>共鸣技能命中目标后，共鸣效率提升20%，持续12秒,每12秒可触发1次。","<color=#ffd12f>[Resonance Skill]</color> After Resonance Skill hits a target, Energy Regen is increased by 20% for 12s. This can be triggered once every 12s.","<color=#ffd12f>[Cộng Hưởng]</color> Sau khi Kỹ Năng Cộng Hưởng trúng mục tiêu, Hiệu Suất Cộng Hưởng tăng 20%, duy trì 12 giây, mỗi 12 giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_900100000002_BuffDesc_0,<color=#ffd12f>【共鸣】</color>共鸣技能命中后，大幅提升共鸣效率,<color=#ffd12f>[Resonance Skill]</color> Energy Regen greatly increased after Resonance Skill hits a target.,"<color=#ffd12f>[Cộng Hưởng]</color> Sau khi Kỹ Năng Cộng Hưởng trúng đích, tăng mạnh Hiệu Suất Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_900100000002_BuffName,旧式装置Ⅱ,Old Device II,Thiết Bị Kiểu Cũ II
+lang_multi_text.db,MultiText,RogueBuffPool_900100000010_BuffDesc,,,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH."
+lang_multi_text.db,MultiText,RogueBuffPool_9001100000001_BuffName,存在异常，如有疑问请联系官方客服,Attack 1,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900110000000_BuffDesc,存在异常，如有疑问请联系官方客服,"For every common enemy defeated, you gain a 2% permanent ATK bonus (effective throughout this investigation, up to 15 stacks).","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900110000000_BuffDesc_0,存在异常，如有疑问请联系官方客服,ATK permanently increased after defeating common enemies.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_9001100000011_BuffName,存在异常，如有疑问请联系官方客服,Universal Stat 1,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900110000001_BuffDesc,存在异常，如有疑问请联系官方客服,"After each Dodge, gain an 18% DEF bonus for 12s, stacking up to 2 times.","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900110000001_BuffDesc_0,存在异常，如有疑问请联系官方客服,DEF increased after Dodge.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_9001100000021_BuffName,存在异常，如有疑问请联系官方客服,Universal Stat 2,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900110000002_BuffDesc,存在异常，如有疑问请联系官方客服,"For each elite enemy defeated, gain a 15% permanent increase in max HP (effective throughout this investigation, up to 3 stacks).","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900110000002_BuffDesc_0,存在异常，如有疑问请联系官方客服,Max HP permanently increased after defeating Elite enemies.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900110000003_BuffDesc,<color=#ffd12f>【暴击】</color>暴击提升8%。,<color=#ffd12f>[Crit. Hit]</color> Crit. Rate is increased by 8%.,<color=#ffd12f>[Bạo Kích]</color> Tỷ lệ Bạo Kích tăng 8%.
+lang_multi_text.db,MultiText,RogueBuffPool_900110000003_BuffDesc_0,<color=#ffd12f>【暴击】</color>小幅提升暴击,<color=#ffd12f>[Crit. Hit]</color> Crit. Rate slightly increased.,<color=#ffd12f>[Bạo Kích]</color> Tăng nhẹ Tỷ lệ Bạo Kích.
+lang_multi_text.db,MultiText,RogueBuffPool_900110000003_BuffName,血债,Blood for Blood,Nợ Máu
+lang_multi_text.db,MultiText,RogueBuffPool_900110000004_BuffDesc,<color=#ffd12f>【暴击】</color>暴击伤害提升16%。,<color=#ffd12f>[Crit. Hit]</color> Crit. DMG is increased by 16%.,<color=#ffd12f>[Bạo Kích]</color> Sát thương Bạo Kích tăng 16%.
+lang_multi_text.db,MultiText,RogueBuffPool_900110000004_BuffDesc_0,<color=#ffd12f>【暴击】</color>小幅提升暴击伤害,<color=#ffd12f>[Crit. Hit]</color> Crit. DMG slightly increased.,<color=#ffd12f>[Bạo Kích]</color> Tăng nhẹ Sát thương Bạo Kích.
+lang_multi_text.db,MultiText,RogueBuffPool_900110000004_BuffName,毁灭者银币,Destroyer's Silver,Đồng Bạc Của Kẻ Hủy Diệt
+lang_multi_text.db,MultiText,RogueBuffPool_900114000010_BuffDesc,<color=#ffd12f>【回复】</color>施放声骸技能后，回复自身生命上限15%的生命值，每15秒可触发1次。,"<color=#ffd12f>[Healing]</color> After casting Echo Skill, restore 15% of your max HP. This can be triggered once every 15s.","<color=#ffd12f>[Hồi Phục]</color> Sau khi thi triển Kỹ Năng Thanh Hài, hồi phục 15% giới hạn sinh mệnh cho bản thân, mỗi 15 giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000010_BuffDesc_0,<color=#ffd12f>【回复】</color>施放声骸技能后，回复少量生命值,<color=#ffd12f>[Healing]</color> Restore a small amount of HP after casting Echo Skill.,"<color=#ffd12f>[Hồi Phục]</color> Sau khi thi triển Kỹ Năng Thanh Hài, hồi phục lượng nhỏ sinh mệnh."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000010_BuffName,清甜的池底,Sweet Lotus Seed,Đáy Hồ Trong Ngọt
+lang_multi_text.db,MultiText,RogueBuffPool_900114000020_BuffDesc,<color=#ffd12f>【声骸】</color>击败目标时，减少声骸技能2秒冷却时间，每4秒可触发1次,"<color=#ffd12f>[Echo Skill]</color> After defeating a target, Echo Skill Cooldown is reduced by 2s. This can be triggered once every 4s.","<color=#ffd12f>[Thanh Hài]</color> Khi hạ gục mục tiêu, giảm 2 giây thời gian hồi chiêu Kỹ Năng Thanh Hài, mỗi 4 giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000020_BuffDesc_0,<color=#ffd12f>【声骸】</color>击败目标时，减少声骸技能冷却时间,<color=#ffd12f>[Echo Skill]</color> Echo Skill Cooldown reduced after defeating an enemy.,"<color=#ffd12f>[Thanh Hài]</color> Khi hạ gục mục tiêu, giảm thời gian hồi chiêu Kỹ Năng Thanh Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000020_BuffName,演算目镜,Calculation Goggles,Kính Mắt Diễn Toàn
+lang_multi_text.db,MultiText,RogueBuffPool_900114000030_BuffDesc,<color=#ffd12f>【增伤】</color>施放声骸技能后，攻击提升18%，持续10秒。,<color=#ffd12f>[Damage Increase]</color> ATK is increased by 18% for 10s after casting Echo Skill.,"<color=#ffd12f>[Tăng Sát Thương]</color> Sau khi thi triển Kỹ Năng Thanh Hài, tấn công tăng 18%, duy trì 10 giây."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000030_BuffDesc_0,<color=#ffd12f>【增伤】</color>施放声骸技能后，小幅提升攻击,<color=#ffd12f>[Damage Increase]</color> ATK slightly increased after casting Echo Skill.,"<color=#ffd12f>[Tăng Sát Thương]</color> Sau khi thi triển Kỹ Năng Thanh Hài, tăng nhẹ tấn công."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000030_BuffName,“全知之眼”,"""All-Seeing Eye""","""Con Mắt Toàn Tri"""
+lang_multi_text.db,MultiText,RogueBuffPool_900114000040_BuffDesc,<color=#ffd12f>【声骸】</color>施放共鸣解放后，重置声骸技能的冷却时间。,<color=#ffd12f>[Echo Skill]</color> Echo Skill Cooldown is reset after casting Resonance Liberation.,"<color=#ffd12f>[Thanh Hài]</color> Sau khi thi triển Giải Phóng Cộng Hưởng, làm mới thời gian hồi chiêu của Kỹ Năng Thanh Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000040_BuffDesc_0,<color=#ffd12f>【声骸】</color>施放共鸣解放后，重置声骸技能冷却时间,<color=#ffd12f>[Echo Skill]</color> Echo Skill Cooldown reset after casting Resonance Liberation.,"<color=#ffd12f>[Thanh Hài]</color> Sau khi thi triển Giải Phóng Cộng Hưởng, làm mới thời gian hồi chiêu Kỹ Năng Thanh Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000040_BuffName,改良终端,Improved Terminal,Thiết Bị Cải Tiến
+lang_multi_text.db,MultiText,RogueBuffPool_900114000050_BuffDesc,<color=#ffd12f>【共鸣】</color>施放声骸技能后，共鸣技能伤害提升48%，持续12秒。,"<color=#c49e55>[Resonance Skill]</color> After casting Echo skill, Resonance Skill DMG increased by 40% for 12s.","<color=#ffd12f>[Cộng Hưởng]</color> Sau khi thi triển Kỹ Năng Thanh Hài, sát thương Kỹ Năng Cộng Hưởng tăng 48%, duy trì 12 giây."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000050_BuffDesc_0,<color=#ffd12f>【共鸣】</color>施放声骸技能后，提升共鸣技能伤害,<color=#ffd12f>[Resonance Skill]</color> Resonance Skill DMG increased after casting Echo skill.,"<color=#ffd12f>[Cộng Hưởng]</color> Sau khi thi triển Kỹ Năng Thanh Hài, tăng sát thương Kỹ Năng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000050_BuffName,梳篦,Comb,Lược Chải
+lang_multi_text.db,MultiText,RogueBuffPool_900114000060_BuffDesc,<color=#ffd12f>【声骸】</color>施放共鸣解放后，声骸技能伤害提升60%，持续8秒。,"<color=#ffd12f>[Echo Skill]</color> After casting Resonance Liberation, Echo Skill DMG is increased by 60% for 8s.","<color=#ffd12f>[Thanh Hài]</color> Sau khi thi triển Giải Phóng Cộng Hưởng, sát thương Kỹ Năng Thanh Hài tăng 60%, duy trì 8 giây."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000060_BuffDesc_0,<color=#ffd12f>【声骸】</color>施放共鸣解放后，大幅提升声骸技能伤害,<color=#ffd12f>[Echo Skill]</color> Echo Skill DMG greatly increased after casting Resonance Liberation.,"<color=#ffd12f>[Thanh Hài]</color> Sau khi thi triển Giải Phóng Cộng Hưởng, tăng mạnh sát thương Kỹ Năng Thanh Hài."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000060_BuffName,轻度变异结构,Mildly Mutated Structure,Cấu Trúc Biến Dị Nhẹ
+lang_multi_text.db,MultiText,RogueBuffPool_900114000070_BuffDesc,<color=#ffd12f>【共鸣】</color>声骸技能命中目标时，共鸣技能冷却时间减少50%，每12秒可触发1次。,"<color=#ffd12f>[Resonance Skill]</color> When Echo Skill hits a target, Resonance Skill Cooldown is reduced by 50%. This can be triggered once every 12s.","<color=#ffd12f>[Cộng Hưởng]</color> Khi Kỹ Năng Thanh Hài trúng mục tiêu, giảm 50% thời gian hồi chiêu Kỹ Năng Cộng Hưởng, mỗi 12 giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000070_BuffDesc_0,<color=#ffd12f>【共鸣】</color>声骸技能命中后，大幅减少共鸣技能冷却时间,<color=#ffd12f>[Resonance Skill]</color> Resonance Skill Cooldown significantly reduced upon Echo Skill hitting a target.,"<color=#ffd12f>[Cộng Hưởng]</color> Sau khi Kỹ Năng Thanh Hài trúng đích, giảm mạnh thời gian hồi chiêu Kỹ Năng Cộng Hưởng."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000070_BuffName,香薰,Aromatherapy,Hương Liệu
+lang_multi_text.db,MultiText,RogueBuffPool_900114000090_BuffDesc,<color=#ffd12f>【声骸】</color>声骸技能命中目标时，目标的防御降低60%，持续8秒。,<color=#ffd12f>[Echo Skill]</color> Enemy DEF is reduced by 60% for 8s after Echo Skill hits it.,"<color=#ffd12f>[Thanh Hài]</color> Khi Kỹ Năng Thanh Hài trúng mục tiêu, phòng thủ của mục tiêu giảm 60%, duy trì 8 giây."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000090_BuffDesc_0,<color=#ffd12f>【声骸】</color>声骸技能命中后，大幅降低目标防御,<color=#ffd12f>[Echo Skill]</color> Enemy DEF greatly reduced after Echo Skill hits it.,"<color=#ffd12f>[Thanh Hài]</color> Sau khi Kỹ Năng Thanh Hài trúng đích, giảm mạnh phòng thủ của mục tiêu."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000090_BuffName,超级变异结构,Super Mutated Structure,Cấu Trúc Siêu Biến Dị
+lang_multi_text.db,MultiText,RogueBuffPool_900114000100_BuffDesc,<color=#ffd12f>【协奏】</color>每有1点共鸣能量，每次攻击命中目标回复0.1点协奏能量，每秒可触发1次。,"<color=#ffd12f>[Concerto]</color> For every 1 Resonance Energy, each attack recovers 0.1 Concerto Energy on-hit. This can be triggered once per second.","<color=#ffd12f>[Hiệp Tấu]</color> Mỗi khi có 1 điểm Năng Lượng Cộng Hưởng, mỗi lần tấn công trúng mục tiêu hồi phục 0.1 điểm Năng Lượng Hiệp Tấu, mỗi giây có thể kích hoạt 1 lần."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000100_BuffDesc_0,<color=#ffd12f>【协奏】</color>造成伤害时，随拥有的共鸣能量回复协奏能量,<color=#ffd12f>[Concerto]</color> Concerto Energy recovered for attacks performed according to the amount of Resonance Energy.,"<color=#ffd12f>[Hiệp Tấu]</color> Khi gây sát thương, hồi phục Năng Lượng Hiệp Tấu dựa theo Năng Lượng Cộng Hưởng đang sở hữu."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000100_BuffName,复合齿轮,Compound Gear,Bánh Răng Phức Hợp
+lang_multi_text.db,MultiText,RogueBuffPool_900114000110_BuffDesc,<color=#ffd12f>【暴击】</color>每有1点共鸣能量，暴击伤害提升0.4%。,"<color=#ffd12f>[Crit. Hit]</color> For every 1 Resonance Energy, Crit. DMG is increased by 0.4%.","<color=#ffd12f>[Bạo Kích]</color> Mỗi khi có 1 điểm Năng Lượng Cộng Hưởng, sát thương Bạo Kích tăng 0.4%."
+lang_multi_text.db,MultiText,RogueBuffPool_900114000110_BuffDesc_0,<color=#ffd12f>【暴击】</color>随拥有的共鸣能量提升暴击伤害,<color=#ffd12f>[Crit. Hit]</color> Crit. DMG increased according to the amount of Resonance Energy.,<color=#ffd12f>[Bạo Kích]</color> Sát thương Bạo Kích tăng theo Năng Lượng Cộng Hưởng đang sở hữu.
+lang_multi_text.db,MultiText,RogueBuffPool_900114000110_BuffName,减压弹簧,Relief Spring,Lò Xo Giảm Áp
+lang_multi_text.db,MultiText,RogueBuffPool_900120000000_BuffDesc,<color=#ffd12f>【连击】</color>普攻攻速提升8%。,<color=#ffd12f>[Combo]</color> Basic Attack speed is increased by 8%.,<color=#ffd12f>[Liên Kích]</color> Tốc độ Đánh Thường tăng 8%.
+lang_multi_text.db,MultiText,RogueBuffPool_900120000000_BuffDesc_0,<color=#ffd12f>【连击】</color>小幅提升普攻速度,<color=#ffd12f>[Combo]</color> Basic Attack speed slightly increased.,<color=#ffd12f>[Liên Kích]</color> Tăng nhẹ tốc độ Đánh Thường.
+lang_multi_text.db,MultiText,RogueBuffPool_900120000000_BuffName,螺母,Nut,Đai Ốc
+lang_multi_text.db,MultiText,RogueBuffPool_9001200000011_BuffName,存在异常，如有疑问请联系官方客服,Heavy Attack 2,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000001_BuffDesc,存在异常，如有疑问请联系官方客服,Heavy Attack Speed increased by 8%.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000001_BuffDesc_0,存在异常，如有疑问请联系官方客服,Heavy Attack Speed slightly increased.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_9001200000021_BuffName,存在异常，如有疑问请联系官方客服,Universal Stat 3,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000002_BuffDesc,存在异常，如有疑问请联系官方客服,Universal Damage Bonus 18%,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000002_BuffDesc_0,存在异常，如有疑问请联系官方客服,Universal Damage slightly increased.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_9001200000031_BuffName,存在异常，如有疑问请联系官方客服,Combo/Basic Attack 1,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000003_BuffDesc,存在异常，如有疑问请联系官方客服,Basic Attack DMG Bonus 20%,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000003_BuffDesc_0,存在异常，如有疑问请联系官方客服,Basic Attack DMG slightly increased.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_9001200000041_BuffName,存在异常，如有疑问请联系官方客服,Heavy Attack 1,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000004_BuffDesc,存在异常，如有疑问请联系官方客服,Heavy Attack DMG Bonus 20%,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000004_BuffDesc_0,存在异常，如有疑问请联系官方客服,Heavy Attack DMG slightly increased.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000005_BuffDesc,<color=#ffd12f>【共鸣】</color>共鸣技能伤害提升36%。,<color=#ffd12f>[Resonance Skill]</color> Resonance Skill DMG is increased by 36%.,<color=#ffd12f>[Cộng Hưởng]</color> Sát thương Kỹ Năng Cộng Hưởng tăng 36%.
+lang_multi_text.db,MultiText,RogueBuffPool_900120000005_BuffDesc_0,<color=#ffd12f>【共鸣】</color>中幅提升共鸣技能伤害,<color=#ffd12f>[Resonance Skill]</color> Resonance Skill DMG moderately increased.,<color=#ffd12f>[Cộng Hưởng]</color> Tăng mức trung bình sát thương Kỹ Năng Cộng Hưởng.
+lang_multi_text.db,MultiText,RogueBuffPool_900120000005_BuffName,隔热零件,Insulation Parts,Linh Kiện Cách Nhiệt
+lang_multi_text.db,MultiText,RogueBuffPool_9001200000061_BuffName,存在异常，如有疑问请联系官方客服,Resonance Liberation 9,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000006_BuffDesc,存在异常，如有疑问请联系官方客服,"When HP is below 50%, your Resonance Liberation DMG increased by 35%.","Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000006_BuffDesc_0,存在异常，如有疑问请联系官方客服,Resonance Liberation DMG is greatly increased when HP is below half.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_9001200000141_BuffName,存在异常，如有疑问请联系官方客服,Universal Attribute 4,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000014_BuffDesc,存在异常，如有疑问请联系官方客服,Healing Bonus 30%,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000014_BuffDesc_0,存在异常，如有疑问请联系官方客服,Healing Effect slightly increased.,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900120000016_BuffDesc,<color=#ffd12f>【声骸】</color>声骸技能伤害提升50%。,<color=#ffd12f>[Echo Skill]</color> Echo Skill DMG is increased by 50%.,<color=#ffd12f>[Thanh Hài]</color> Sát thương Kỹ Năng Thanh Hài tăng 50%.
+lang_multi_text.db,MultiText,RogueBuffPool_900120000016_BuffDesc_0,<color=#ffd12f>【声骸】</color>中幅提升声骸技能伤害,<color=#ffd12f>[Echo Skill]</color> Echo Skill DMG moderately increased.,<color=#ffd12f>[Thanh Hài]</color> Tăng mức trung bình sát thương Kỹ Năng Thanh Hài.
+lang_multi_text.db,MultiText,RogueBuffPool_900120000016_BuffName,修理箱,Repair Kit,Hòm Sửa Chữa
+lang_multi_text.db,MultiText,RogueBuffPool_9001300000001_BuffName,存在异常，如有疑问请联系官方客服,Resonance Liberation 5,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900130000000_BuffDesc,存在异常，如有疑问请联系官方客服,STA Recovery Rate +50%,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900130000000_BuffDesc_0,存在异常，如有疑问请联系官方客服,An error occurred. Please contact our Customer Service for assistance,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_9001300000011_BuffName,存在异常，如有疑问请联系官方客服,Universal Stat 6,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900130000001_BuffDesc,存在异常，如有疑问请联系官方客服,Movement Speed +20%,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900130000001_BuffDesc_0,存在异常，如有疑问请联系官方客服,Move Speed slightly increased,"Đã xảy ra lỗi, nếu có thắc mắc vui lòng liên hệ bộ phận hỗ trợ"
+lang_multi_text.db,MultiText,RogueBuffPool_900130000002_BuffDesc,<color=#ffd12f>【护盾】</color>大幅提升抗打断能力,<color=#ffd12f>[Shield]</color> Anti-interruption is greatly increased.,<color=#ffd12f>[Khiên]</color> Tăng mạnh khả năng kháng đánh ngắt.
+lang_multi_text.db,MultiText,RogueBuffPool_900130000002_BuffDesc_0,<color=#ffd12f>【护盾】</color>大幅提升抗打断能力,<color=#ffd12f>[Shield]</color> Anti-interruption greatly increased.,<color=#ffd12f>[Khiên]</color> Tăng mạnh khả năng kháng đánh ngắt.
+lang_multi_text.db,MultiText,RogueBuffPool_900130000002_BuffName,防暴盾牌,Riot Shield,Khiên Chống Bạo Động
+lang_multi_text.db,MultiText,RogueBuffPool_900160000010_BuffDesc,<color=#ffd12f>【护盾】</color>自身受到伤害降低20%。,<color=#ffd12f>[Shield]</color> Incoming DMG is reduced by 20%.,<color=#ffd12f>[Khiên]</color> Sát thương bản thân phải chịu giảm 20%.
+lang_multi_text.db,MultiText,RogueBuffPool_900160000010_BuffDesc_0,<color=#ffd12f>【护盾】</color>小幅减少受到伤害,<color=#ffd12f>[Shield]</color> DMG taken slightly reduced.,<color=#ffd12f>[Khiên]</color> Giảm nhẹ sát thương phải chịu.
+lang_multi_text.db,MultiText,RogueBuffPool_900160000010_BuffName,守望者银币,Watcher's Silver,Đồng Bạc Của Người Bảo Hộ
+lang_multi_text.db,MultiText,RogueBuffPool_900160000020_BuffDesc,<color=#ffd12f>【护盾】</color>施放共鸣解放后，抗打断能力提升，受到伤害降低20%，持续15秒。,"<color=#ffd12f>[Shield]</color> After casting Resonance Liberation, gain increased Anti-interruption and take 20% less DMG for 15s.","<color=#ffd12f>[Khiên]</color> Sau khi thi triển Giải Phóng Cộng Hưởng, khả năng kháng đánh ngắt tăng, sát thương phải chịu giảm 20%, duy trì 15 giây."
+lang_multi_text.db,MultiText,RogueBuffPool_900160000020_BuffDesc_0,<color=#ffd12f>【护盾】</color>施放共鸣解放后，提升抗打断能力，降低受到伤害,<color=#ffd12f>[Shield]</color> Anti-interruption increased and DMG taken reduced after casting Resonance Liberation.,"<color=#ffd12f>[Khiên]</color> Sau khi thi triển Giải Phóng Cộng Hưởng, tăng khả năng kháng đánh ngắt, giảm sát thương phải chịu."
+lang_multi_text.db,MultiText,RogueBuffPool_900160000020_BuffName,能量饮料,Energy Drink,Nước Tăng Lực
+lang_multi_text.db,MultiText,RogueBuffPool_900170000010_BuffDesc,<color=#ffd12f>【增伤】</color>施放共鸣解放后，普攻伤害加成提升24%，持续12秒。,<color=#ffd12f>[Damage Increase]</color> Basic Attack DMG is increased by 24% for 12s after casting Resonance Liberation.,"<color=#ffd12f>[Tăng Sát Thương]</color> Sau khi thi triển Giải Phóng Cộng Hưởng, sát thương Đánh Thường tăng 24%, duy trì 12 giây."
+lang_multi_text.db,MultiText,RogueBuffPool_900170000010_BuffDesc_0,<color=#ffd12f>【增伤】</color>施放共鸣解放后，中幅提升普攻伤害,<color=#ffd12f>[Damage Increase]</color> Basic Attack DMG moderately increased after cating Resonance Liberation.,"<color=#ffd12f>[Tăng Sát Thương]</color> Sau khi thi triển Giải Phóng Cộng Hưởng, tăng mức trung bình sát thương Đánh Thường."
+lang_multi_text.db,MultiText,RogueBuffPool_900170000010_BuffName,义手刀,Prosthetic Blade,Dao Gắn Tay Giả
+lang_multi_text.db,MultiText,RogueBuffPool_900170000020_BuffDesc,<color=#ffd12f>【连击】</color>攻击命中目标时，自身攻击提升6%、防御提升6%，每1.5秒触发1次，持续2秒，可叠加10层。,"<color=#ffd12f>[Combo]</color> When attacks hit a target, ATK is increased by 6%, and DEF is increased by 6% for 2s. This can be triggered once every 1.5s and stacked up to 10 times.","<color=#ffd12f>[Liên Kích]</color> Khi tấn công trúng mục tiêu, tấn công bản thân tăng 6%, phòng thủ tăng 6%, mỗi 1.5 giây kích hoạt 1 lần, duy trì 2 giây, có thể cộng dồn 10 tầng."
+lang_multi_text.db,MultiText,RogueBuffPool_900170000020_BuffDesc_0,<color=#ffd12f>【连击】</color>连击时提升攻击、防御，可叠加,"<color=#ffd12f>[Combo]</color> ATK and DEF increased for continuous attacks, stackable.","<color=#ffd12f>[Liên Kích]</color> Khi Liên Kích tăng tấn công và phòng thủ, có thể cộng dồn."
+lang_multi_text.db,MultiText,RogueBuffPool_900170000020_BuffName,玉扣,Jade Buckle,Khóa Ngọc
+lang_multi_text.db,MultiText,RogueBuffPool_900170000030_BuffDesc,<color=#ffd12f>【连击】</color>攻击命中目标时，自身获得持续恢复效果：每2秒恢复攻击力10%的生命值。2秒内如果没有继续命中目标，则效果消失。,"<color=#ffd12f>[Combo]</color> When attacks hit a target, restore HP equal to 10% of ATK every 2s. This effect discontinues if attacks don't hit a target in 2s.","<color=#ffd12f>[Liên Kích]</color> Khi tấn công trúng mục tiêu, bản thân nhận hiệu quả hồi phục liên tục: mỗi 2 giây hồi phục lượng sinh mệnh bằng 10% tấn công. Nếu trong 2 giây không tiếp tục trúng mục tiêu, hiệu quả sẽ biến mất."
+lang_multi_text.db,MultiText,RogueBuffPool_900170000030_BuffDesc_0,<color=#ffd12f>【连击】</color>连击时回复少量生命值,<color=#ffd12f>[Combo]</color> HP slightly restored when continuously hit  targets.,<color=#ffd12f>[Liên Kích]</color> Khi Liên Kích hồi phục lượng nhỏ sinh mệnh.
+lang_multi_text.db,MultiText,RogueBuffPool_900170000030_BuffName,强心剂,Cardiotonic,Thuốc Trợ Tim

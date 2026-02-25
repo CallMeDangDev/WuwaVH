@@ -1,104 +1,996 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,HomeBtnTips_Unavailable,当前状态下暂不可用,Currently not accessible,Hiện không khả dụng
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_1202_Desc,你从波仔那里接到了一些关于穗波怪异现象的委托……去调查一下现场吧。,You've received a commission from Namipon regarding some unusual occurrences in Honami… It's time to investigate.,Bạn nhận được một số ủy thác từ Namipon về hiện tượng kỳ lạ ở Honami... Hãy đi điều tra hiện trường.
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_1202_Name,和注视海报的女孩交谈,Talk to the girl studying the poster,Nói chuyện với cô gái đang nhìn áp phích
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_1203_Name,撕下樱漫町的波仔海报,Take down the Namipon Poster in Sakura Quarter,Gỡ áp phích Namipon ở Sakura Quarter
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_1204_Name,撕下沙地公园附近的波仔海报,Take down the Namipon Poster near the residential park,Gỡ áp phích Namipon gần công viên khu dân cư
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_1303_Name,启动一次被悲鸣污染的扭蛋机,Activate a Lament-Contaminated Capsule Machine once,Kích hoạt một lần máy gachapon bị ô nhiễm Bi Minh
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_1304_Name,消灭任意一区域中的怪异源头个体,Eliminate the anomaly in any one area,Tiêu diệt nguồn gốc dị thường ở bất kỳ khu vực nào
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_1305_Name,净化一次悲鸣污染区,Cleanse a Lament-Contaminated Zone,Thanh tẩy một lần Khu Ô Nhiễm Bi Minh
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_2202_Name,和注视海报的女孩交谈,Talk to the girl studying the poster,Nói chuyện với cô gái đang nhìn poster
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_2203_Name,撕下穗波国际会议中心的波仔海报,Take down the Namipon Poster in the Honami Convention Center,Gỡ poster Namipon tại Trung Tâm Hội Nghị Honami
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_2204_Name,撕下迷津隧道的波仔海报,Take down the Namipon Poster in the Meishin Passageway,Gỡ poster Namipon tại Đường Hầm Meishin
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_3201_Name,消灭地下街深处怪异源头：云闪之鳞,Eliminate the anomaly in the underground street: Thundering Mephis,Tiêu diệt nguồn dị thường sâu trong phố ngầm: Thundering Mephis
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_3202_Name,撕下花影地下街波仔海报,Take down the Namipon Poster in Hanakage Underground Street,Gỡ poster Namipon tại Phố Ngầm Hanakage
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_3203_Name,和注视海报的女孩交谈,Talk to the girl studying the poster,Nói chuyện với cô gái đang nhìn poster
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_4201_Name,消灭公园深处怪异源头：飞廉之猩,Eliminate the anomaly in the park: Feilian Beringal,Tiêu diệt nguồn dị thường sâu trong công viên: Feilian Beringal
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_4202_Name,和注视海报的女孩交谈,Talk to the girl studying the poster,Nói chuyện với cô gái đang nhìn poster
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_4203_Name,撕下穗波中央公园的波仔海报,Take down the Namipon Poster in Honami Central Park,Gỡ poster Namipon tại Công Viên Trung Tâm Honami
-lang_multi_text.db,MultiText,HonamiStoryAreaTask_4204_Name,撕下穗波中央公园的波仔海报,Take down the Namipon Poster in Honami Central Park,Gỡ poster Namipon tại Công Viên Trung Tâm Honami
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_1,<color=#efece1>普通</color>、<color=#59b4d3>稀有</color>,"<color=#efece1>Common</color>, <color=#59b4d3>Rare</color>","<color=#efece1>Thường</color>, <color=#59b4d3>Hiếm</color>"
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_10,稀有、独特、典藏、传说,"Rare, Unique, Limited, Legendary","Hiếm, Độc Đáo, Sưu Tầm, Huyền Thoại"
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_2,<color=#59b4d3>稀有</color>、<color=#ca6dff>独特</color>,"<color=#59b4d3>Rare</color>, <color=#ca6dff>Unique</color>","<color=#59b4d3>Hiếm</color>, <color=#ca6dff>Độc Đáo</color>"
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_3,<color=#ca6dff>独特</color>、<color=#ffe65a>典藏</color>,"<color=#ca6dff>Unique</color>, <color=#ffe65a>Limited</color>","<color=#ca6dff>Độc Đáo</color>, <color=#ffe65a>Sưu Tầm</color>"
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_4,<color=#ffe65a>典藏</color>,<color=#ffe65a>Limited</color>,<color=#ffe65a>Sưu Tầm</color>
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_5,<color=#ffe65a>典藏</color>、<color=#ed354d>传说</color>,"<color=#ffe65a>Limited</color>, <color=#ed354d>Legendary</color>","<color=#ffe65a>Sưu Tầm</color>, <color=#ed354d>Huyền Thoại</color>"
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_6,<color=#ed354d>传说</color>,<color=#ed354d>Legendary</color>,<color=#ed354d>Huyền Thoại</color>
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_7,稀有、独特、典藏,"Rare, Unique, Limited","Hiếm, Độc Đáo, Sưu Tầm"
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_8,稀有、独特、典藏,"Rare, Unique, Limited","Hiếm, Độc Đáo, Sưu Tầm"
-lang_multi_text.db,MultiText,HonamiStoryDropQuality_9,稀有、独特、典藏,"Rare, Unique, Limited","Hiếm, Độc Đáo, Sưu Tầm"
-lang_multi_text.db,MultiText,HonamiStoryEffect_10_Desc,补给商店中波仔盲盒的价格现在打8折优惠！,Namipon Blind Boxes in the Supply Shop are now 80% of their original price.,Hộp mù Namipon trong Cửa Hàng Tiếp Tế hiện được giảm giá 20%!
-lang_multi_text.db,MultiText,HonamiStoryEffect_10_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_10_Title,增设看板解锁成功,New Board Installation Unlocked,Mở khóa thành công Lắp Thêm Bảng Hiệu
-lang_multi_text.db,MultiText,HonamiStoryEffect_11_Desc,背包容量扩容14格。,Expands Bag capacity by 14 squares.,Mở rộng dung lượng túi đồ thêm 14 ô.
-lang_multi_text.db,MultiText,HonamiStoryEffect_11_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_11_Title,甜品烘培解锁成功,Dessert Baking Unlocked,Mở khóa thành công Làm Bánh Ngọt
-lang_multi_text.db,MultiText,HonamiStoryEffect_12_Desc,强制撤离时将保留30%的背包核算价值提升至50%。,Allows you to retain 50% of the exploration income upon Forced Extraction instead of 30%.,"Khi bị buộc rút lui, tỷ lệ giữ lại giá trị túi đồ tăng từ 30% lên 50%."
-lang_multi_text.db,MultiText,HonamiStoryEffect_12_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_12_Title,室内绿化解锁成功,Indoor Greening Unlocked,Mở khóa thành công Cây Xanh Trong Nhà
-lang_multi_text.db,MultiText,HonamiStoryEffect_13_Desc,穗波怪异物语中角色攻击提升30%。,Increases Resonators' ATK in Stranger Things in Honami by 30%.,Tăng 30% tấn công của nhân vật trong Chuyện Lạ Honami.
-lang_multi_text.db,MultiText,HonamiStoryEffect_13_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_13_Title,优质货源·二解锁成功,Premium Supplies II Unlocked,Mở khóa thành công Nguồn Hàng Chất Lượng II
-lang_multi_text.db,MultiText,HonamiStoryEffect_14_Desc,穗波怪异物语中角色生命提升10%。,Increases Resonators' HP in Stranger Things in Honami by 10%.,Tăng 10% sinh mệnh của nhân vật trong Chuyện Lạ Honami.
-lang_multi_text.db,MultiText,HonamiStoryEffect_14_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_14_Title,店铺宣传·二解锁成功,Store Promotion II Unlocked,Mở khóa thành công Quảng Bá Cửa Hàng II
-lang_multi_text.db,MultiText,HonamiStoryEffect_15_Desc,在穗波市探索中每隔60秒，自动回复5点稳定值。,Restore 5 points of Stability every 60s while exploring Honami City.,"Khi khám phá thành phố Honami, cứ mỗi 60 giây sẽ tự động hồi phục 5 điểm Ổn Định."
-lang_multi_text.db,MultiText,HonamiStoryEffect_15_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_15_Title,有口皆碑·二解锁成功,Good Reputation II Unlocked,Mở khóa thành công Tiếng Lành Đồn Xa II
-lang_multi_text.db,MultiText,HonamiStoryEffect_16_Desc,解锁图鉴，记录获得过的全部传说级非装备战利品。,"Unlocks the Gallery, which records all obtained Legendary unequippable loot items.","Mở khóa Bộ Sưu Tập, ghi lại toàn bộ chiến lợi phẩm không trang bị được cấp Huyền Thoại đã từng nhận."
-lang_multi_text.db,MultiText,HonamiStoryEffect_16_OpeningConditions,解决花影地下街怪异后解锁,Unlocked after resolving the anomaly in Hanakage Underground Street,Mở khóa sau khi giải quyết dị thường ở Phố Ngầm Hanakage
-lang_multi_text.db,MultiText,HonamiStoryEffect_16_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_16_Title,户外设计解锁成功,Outdoor Design Unlocked,Mở khóa thành công Thiết Kế Ngoại Thất
-lang_multi_text.db,MultiText,HonamiStoryEffect_17_Desc,在穗波市探索中每隔60秒，自动回复10点稳定值。,Restore 10 points of Stability every 60s while exploring Honami City.,"Khi khám phá thành phố Honami, cứ mỗi 60 giây sẽ tự động hồi phục 10 điểm Ổn Định."
-lang_multi_text.db,MultiText,HonamiStoryEffect_17_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_17_Title,穗波花卉解锁成功,Honami Floristry Unlocked,Mở khóa thành công Hoa Honami
-lang_multi_text.db,MultiText,HonamiStoryEffect_18_Desc,背包容量扩容14格。,Expands Bag capacity by 14 squares.,Mở rộng dung lượng túi đồ thêm 14 ô.
-lang_multi_text.db,MultiText,HonamiStoryEffect_18_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_18_Title,仓储升级解锁成功,Storage Upgrade Unlocked,Mở khóa thành công Nâng Cấp Kho
-lang_multi_text.db,MultiText,HonamiStoryEffect_19_Desc,增加采集物以及可破坏木箱的收益。,Gain bonus loot from collectibles and destructible crates.,Tăng lợi nhuận từ vật thu thập và thùng gỗ phá được.
-lang_multi_text.db,MultiText,HonamiStoryEffect_19_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_19_Title,桌面装饰解锁成功,Table Decor Unlocked,Mở khóa thành công Trang Trí Bàn
-lang_multi_text.db,MultiText,HonamiStoryEffect_1_Desc,开启店铺装潢功能，可通过消耗资源升级列车长咖啡厅。,Unlocks Cafe Decor. You can spend resources to upgrade Shashou Cafe.,"Mở tính năng Trang Trí Cửa Hàng, có thể tiêu tài nguyên để nâng cấp Quán Cà Phê Shashou."
-lang_multi_text.db,MultiText,HonamiStoryEffect_1_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_1_Title,店铺清扫解锁成功,Store Cleanup Unlocked,Mở khóa thành công Dọn Dẹp Cửa Hàng
-lang_multi_text.db,MultiText,HonamiStoryEffect_20_Desc,穗波怪异物语中角色攻击提升45%。,Increases Resonators' ATK in Stranger Things in Honami by 45%.,Tăng 45% tấn công của nhân vật trong Chuyện Lạ Honami.
-lang_multi_text.db,MultiText,HonamiStoryEffect_20_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_20_Title,优质货源·三解锁成功,Premium Supplies III Unlocked,Mở khóa thành công Nguồn Hàng Chất Lượng III
-lang_multi_text.db,MultiText,HonamiStoryEffect_21_Desc,穗波怪异物语中角色受到伤害降低20%。,Decreases Resonators' DMG Taken in Stranger Things in Honami by 20%.,Giảm 20% sát thương nhận vào của nhân vật trong Chuyện Lạ Honami.
-lang_multi_text.db,MultiText,HonamiStoryEffect_21_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_21_Title,店铺宣传·三解锁成功,Store Promotion III Unlocked,Mở khóa thành công Quảng Bá Cửa Hàng III
-lang_multi_text.db,MultiText,HonamiStoryEffect_22_Desc,所有贴纸的词条属性效果额外提升5%。,All Sticker bonus effects are increased by 5%.,Hiệu quả thuộc tính của tất cả sticker tăng thêm 5%.
-lang_multi_text.db,MultiText,HonamiStoryEffect_22_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_22_Title,有口皆碑·三解锁成功,Good Reputation III Unlocked,Mở khóa thành công Tiếng Lành Đồn Xa III
-lang_multi_text.db,MultiText,HonamiStoryEffect_2_Desc,开启波仔名单功能，救回迷途波仔后，可在福尔波斯处获得奖励。,Unlocks Namipon Case Files. Rescue the Missing Namipons and claim rewards from Polmes.,"Mở tính năng Danh Sách Namipon, sau khi cứu Namipon lạc đường, có thể nhận thưởng từ Polmes."
-lang_multi_text.db,MultiText,HonamiStoryEffect_2_OpeningConditions,解决樱漫町怪异后解锁,Unlocked after resolving the anomaly in the Sakura Quarter,Mở khóa sau khi giải quyết dị thường ở Sakura Quarter
-lang_multi_text.db,MultiText,HonamiStoryEffect_2_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_2_Title,灯光设计解锁成功,Lighting Design Unlocked,Mở khóa thành công Thiết Kế Ánh Sáng
-lang_multi_text.db,MultiText,HonamiStoryEffect_3_Desc,提高穗波怪异物语的支线任务收益30%。,Increases Side Objective income in Stranger Things in Honami by 30%.,Tăng 30% lợi nhuận nhiệm vụ phụ trong Chuyện Lạ Honami.
-lang_multi_text.db,MultiText,HonamiStoryEffect_3_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_3_Title,店铺招牌解锁成功,Cafe Sign Unlocked,Mở khóa thành công Biển Hiệu Cửa Hàng
-lang_multi_text.db,MultiText,HonamiStoryEffect_4_Desc,背包容量扩容14格。,Expands Bag capacity by 14 squares.,Mở rộng dung lượng túi đồ thêm 14 ô.
-lang_multi_text.db,MultiText,HonamiStoryEffect_4_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_4_Title,现磨咖啡解锁成功,Ground Coffee Unlocked,Mở khóa thành công Cà Phê Xay Tươi
-lang_multi_text.db,MultiText,HonamiStoryEffect_5_Desc,成功撤离时，将会获得额外米团收益10%。,Earn 10% more Rice Dango upon a successful Extraction.,"Khi rút lui thành công, nhận thêm 10% lợi nhuận Rice Dango."
-lang_multi_text.db,MultiText,HonamiStoryEffect_5_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_5_Title,手工艺台解锁成功,Crafting Table Unlocked,Mở khóa thành công Bàn Thủ Công
-lang_multi_text.db,MultiText,HonamiStoryEffect_6_Desc,穗波怪异物语中角色攻击提升30%。,Increases Resonators' ATK in Stranger Things in Honami by 30%.,Tăng 30% tấn công của nhân vật trong Chuyện Lạ Honami.
-lang_multi_text.db,MultiText,HonamiStoryEffect_6_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_6_Title,优质货源·一解锁成功,Premium Supplies I Unlocked,Mở khóa thành công Nguồn Hàng Chất Lượng I
-lang_multi_text.db,MultiText,HonamiStoryEffect_7_Desc,穗波怪异物语中角色生命提升10%。,Increases Resonators' HP in Stranger Things in Honami by 10%.,Tăng 10% sinh mệnh của nhân vật trong Chuyện Lạ Honami.
-lang_multi_text.db,MultiText,HonamiStoryEffect_7_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_7_Title,店铺宣传·一解锁成功,Store Promotion I Unlocked,Mở khóa thành công Quảng Bá Cửa Hàng I
-lang_multi_text.db,MultiText,HonamiStoryEffect_8_Desc,在穗波市探索中每隔60秒，自动回复5点稳定值。,Restore 5 points of Stability every 60s while exploring Honami City.,"Khi khám phá thành phố Honami, cứ mỗi 60 giây sẽ tự động hồi phục 5 điểm Ổn Định."
-lang_multi_text.db,MultiText,HonamiStoryEffect_8_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_8_Title,有口皆碑·一解锁成功,Good Reputation I Unlocked,Mở khóa thành công Tiếng Lành Đồn Xa I
-lang_multi_text.db,MultiText,HonamiStoryEffect_9_Desc,解锁金牌销冠的补给站，可以在补给站进行物资的购入。,Unlocks Sales Champ's Supply Shop for you to purchase supplies.,"Mở khóa Trạm Tiếp Tế của Quán Quân Bán Hàng, có thể mua vật tư tại trạm tiếp tế."
-lang_multi_text.db,MultiText,HonamiStoryEffect_9_OpeningConditions,解决迷津隧道怪异后解锁,Unlocked after resolving the anomaly in the Meishin Passageway,Mở khóa sau khi giải quyết dị thường ở Đường Hầm Meishin
-lang_multi_text.db,MultiText,HonamiStoryEffect_9_PromptWindow,暂未开启,Not yet available,Chưa mở
-lang_multi_text.db,MultiText,HonamiStoryEffect_9_Title,吧台扩充解锁成功,Bar Counter Expansion Unlocked,Mở khóa thành công Mở Rộng Quầy Bar
-lang_multi_text.db,MultiText,HonamiStoryItemCollection_10_Access,传闻在传送门中的污染区容易出现。,Rumored to be in a Contaminated Zone accessed through a portal.,Nghe đồn dễ xuất hiện trong Khu Ô Nhiễm bên trong cổng dịch chuyển.
-lang_multi_text.db,MultiText,HonamiStoryItemCollection_10_Desc,"不停摇摆的海盗船，电影中把它扔到真正的大海上就可以开始一场冒险。
-经波仔查证系谣传。","A rocking pirate ship. In the movie, tossing it into the sea starts a thrilling adventure.
-A rumor later debunked by Namipon.","Con tàu cướp biển không ngừng lắc lư, trong phim chỉ cần ném nó xuống biển thật là có thể bắt đầu một cuộc phiêu lưu.
-Đã được Namipon xác minh là tin đồn."
-lang_multi_text.db,MultiText,HonamiStoryItemCollection_10_Name,海盗船模型,Pirate Ship Model,Mô Hình Tàu Cướp Biển
+lang_multi_text.db,MultiText,HelpText_465_Content,"【共鸣者等级】
+协作共鸣者会随着索拉等级的提升而同步提升等级，对应索拉等级所能达到的角色最大等级。
+
+【同步等级】
+索拉等级提升时，若协作共鸣者处于战斗中，则无法自动提升，需要漂泊者脱离战斗后前往活动界面同步等级。","[Resonator Level]
+As your SOL3 Phase goes up, the level of Support Resonators available for you will increase to the level cap at the current SOL3 Phase.
+
+[Sync Level]
+If you reach a new SOL3 Phase during combat with a Support Resonator on your team, they cannot level up automatically. You may later level up your Support Resonator manually via the event page, after you've exited the combat state.","[Cấp Độ Cộng Hưởng Giả]
+Cộng Hưởng Giả Hỗ Trợ sẽ đồng bộ tăng cấp theo Cấp Thế Giới Solaris, tương ứng với cấp độ nhân vật tối đa mà Cấp Thế Giới Solaris đó có thể đạt được.
+
+[Cấp Độ Đồng Bộ]
+Khi Cấp Thế Giới Solaris tăng lên, nếu Cộng Hưởng Giả Hỗ Trợ đang trong trạng thái chiến đấu thì sẽ không thể tự động tăng cấp, Lữ Khách cần thoát khỏi trạng thái chiến đấu rồi vào giao diện sự kiện để đồng bộ cấp độ."
+lang_multi_text.db,MultiText,HelpText_465_Title,【协作共鸣者】说明,Support Resonators,Giải thích [Cộng Hưởng Giả Hỗ Trợ]
+lang_multi_text.db,MultiText,HelpText_466_Content,"【摩托开发等级】
+漂泊者可通过完成拉海洛地区任务、开启拉海洛地区奇藏、击败拉海洛地区敌人获得调试经验，提升摩托的开发等级。开发等级提升后，将提升摩托性能并解锁丰厚的奖励。
+击败拉海洛地区敌人（包括残象聚落、讨伐强敌、虚质磁暴等）可重复产出调试经验，每日最多通过以上途径获得5000调试经验，该限制在每天服务器时间04:00刷新。开发等级到达上限后将无法继续获得调试经验。
+
+【摩托性能】
+部分摩托性能可通过提升开发等级提升。摩托的攻击、防御力场强度会受索拉等级影响，索拉等级越高，摩托的攻击、防御力场强度越高。
+
+【摩托拓展模块】
+漂泊者可通过完改装任务，获取对应拓展模块的专属改装点数。
+消耗改装点数升级拓展模块将解锁更多摩托车能力。拓展模块分为核心模块和专属模块两类，专属模块仅在升级并装载对应拓展模块时生效。核心模块升级后，将在装载任意拓展模块时都生效。
+
+【摩托改装任务】
+拓展模块拥有相应的专属改装点数，和专属改装任务。
+改装任务分为常驻、限时、重复三种。
+限时任务仅可在限时期间内完成。限时结束后，未完成的任务将无法继续完成，且后续无法领取未完成任务的奖励。
+限时任务限时结束后，将在下版本上线重复任务，该任务为常驻任务。漂泊者可通过完成重复任务领取对应拓展模块缺少的改装点数。","[Motorbike Modding Level]
+The Motorbike Modding Level can be raised by completing quests in Lahai-Roi, opening Supply Chests, and defeating enemies. Reaching the next Modding Level improves your motorbike's performance and unlocks abundant rewards.
+Defeat enemies in Lahai-Roi (including Tacet Discord Nests, Boss Challenge, and Void Storms) to generate Modding EXP, up to a daily limit of 5,000. This limit is reset every day at 04:00 a.m. server time. Modding EXP can no longer be earned once you hit the Modding Level cap.
+
+[Motorbike Specs]
+Some of the motorbike's specs can be improved by raising the Modding Level. The motorbike's ATK and Shield Strength increase with your SOL3 Phase. 
+ 
+[Motorbike Expansion Modules]
+Complete Motorbike Modding Tasks to obtain Modding Points for specific modules, then spend those points to upgrade the Module to unlock more motorbike functions.
+Expansion Modules are either Core or Specialized types. The Specialized Modules can only be effective after being upgraded and installed on the corresponding Motorbike Expansion Modules. Core Modules can be installed on any Motorbike Expansion Module to receive their effects when upgraded.
+
+[Motorbike Modding Tasks]
+Expansion Modules have their corresponding Modding Points and Modding Tasks.
+Modding Tasks are either Permanent, Limited-Time, or Recurring.
+Limited-Time tasks have to be completed within the specified time. They cannot be progressed any further once time is up, and rewards are not granted for uncompleted Limited-Time Tasks.
+Limited-Time Tasks in this game version will be replaced with Recurring Tasks after the next game version update. Recurring Tasks are also permanent. You may complete the Recurring Tasks to earn the needed points for the corresponding Expansion Module.","[Cấp Độ Phát Triển Xe Máy]
+Lữ Khách có thể nhận kinh nghiệm điều chỉnh thông qua việc hoàn thành nhiệm vụ khu vực Lahai-Roi, mở Rương Báu khu vực Lahai-Roi, đánh bại kẻ địch khu vực Lahai-Roi để nâng cấp độ phát triển của xe máy. Sau khi nâng cấp độ phát triển, sẽ tăng hiệu suất xe máy và mở khóa phần thưởng phong phú.
+Đánh bại kẻ địch khu vực Lahai-Roi (bao gồm Tụ Điểm Tàn Tượng, Chinh Phạt Kẻ Địch Mạnh, Bão Từ Hư Chất...) có thể nhận lặp lại kinh nghiệm điều chỉnh, mỗi ngày nhận tối đa 5000 kinh nghiệm điều chỉnh qua các cách trên, giới hạn này được làm mới vào 04:00 giờ server mỗi ngày. Sau khi cấp độ phát triển đạt giới hạn sẽ không thể tiếp tục nhận kinh nghiệm điều chỉnh.
+
+[Hiệu Suất Xe Máy]
+Một phần hiệu suất xe máy có thể được nâng cao thông qua việc tăng cấp độ phát triển. Tấn công và cường độ trường lực phòng thủ của xe máy sẽ chịu ảnh hưởng bởi Cấp Thế Giới Solaris, Cấp Thế Giới Solaris càng cao, tấn công và cường độ trường lực phòng thủ của xe máy càng cao.
+
+[Mô-đun Mở Rộng Xe Máy]
+Lữ Khách có thể hoàn thành nhiệm vụ cải tiến để nhận điểm cải tiến chuyên dụng cho mô-đun mở rộng tương ứng.
+Tiêu hao điểm cải tiến để nâng cấp mô-đun mở rộng sẽ mở khóa thêm nhiều năng lực xe máy. Mô-đun mở rộng được chia thành hai loại: mô-đun cốt lõi và mô-đun chuyên dụng. Mô-đun chuyên dụng chỉ có hiệu lực khi nâng cấp và lắp đặt mô-đun mở rộng tương ứng. Sau khi nâng cấp mô-đun cốt lõi, nó sẽ có hiệu lực khi lắp đặt bất kỳ mô-đun mở rộng nào.
+
+[Nhiệm Vụ Cải Tiến Xe Máy]
+Mô-đun mở rộng có điểm cải tiến chuyên dụng và nhiệm vụ cải tiến chuyên dụng tương ứng.
+Nhiệm vụ cải tiến chia thành ba loại: thường trú, giới hạn thời gian và lặp lại.
+Nhiệm vụ giới hạn thời gian chỉ có thể hoàn thành trong thời gian quy định. Sau khi hết thời gian, nhiệm vụ chưa hoàn thành sẽ không thể tiếp tục thực hiện và không thể nhận thưởng nhiệm vụ chưa hoàn thành sau đó.
+Sau khi nhiệm vụ giới hạn thời gian kết thúc, nhiệm vụ lặp lại sẽ được ra mắt trong phiên bản tiếp theo, đây là nhiệm vụ thường trú. Lữ Khách có thể nhận điểm cải tiến còn thiếu của mô-đun mở rộng tương ứng bằng cách hoàn thành nhiệm vụ lặp lại."
+lang_multi_text.db,MultiText,HelpText_466_Title,摩托养成,Motorbike Progression,Bồi Dưỡng Xe Máy
+lang_multi_text.db,MultiText,HelpText_467_Content,"【活动简介】
+参与由深空联合发起的拉海洛先行计划，完成各类探索任务，进一步知晓拉海洛奥秘的同时获取丰厚奖励。
+
+【参与条件】
+联觉等级达到8级，在潮汐任务【冰原下的星炬】中到达学院后解锁
+
+【活动规则】
+完成各页签中的任务可获得【探索数据】，积累【探索数据】可提升探索等级并获得大量奖励；
+请注意部分活动任务联机情况下无法完成；部分游戏内场景无法进行任务追踪。","[About]
+Join the Lahai-Roi Pioneer Project launched by the Spacetrek Collective! Explore every corner of Lahai-Roi, uncover its wonders, and earn rewards along the way.
+
+[Eligibility]
+Reach Union Level 8 and arrive at Startorch Academy during Main Quest ""What Burns Beneath Frostlands"" to unlock.
+
+[Event Rules]
+Complete event tasks to collect Exploration Data, then use it to raise your Pioneer Level. Higher levels unlock even greater rewards.
+Please note that some event tasks can't be completed in Co-op Mode, and the quest-tracking feature may be disabled in certain game scenarios.","[Giới thiệu sự kiện]
+Tham gia Kế Hoạch Tiên Phong Lahai-Roi do Spacetrek Collective khởi xướng, hoàn thành các loại nhiệm vụ khám phá để hiểu rõ hơn về bí ẩn của Lahai-Roi, đồng thời nhận phần thưởng phong phú.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt cấp 8, mở khóa sau khi đến Học Viện trong Nhiệm Vụ Thủy Triều [Ngọn Đuốc Dưới Băng Nguyên]
+
+[Quy tắc sự kiện]
+Hoàn thành nhiệm vụ trong các tab để nhận [Dữ Liệu Khám Phá], tích lũy [Dữ Liệu Khám Phá] để tăng Cấp Tiên Phong và nhận lượng lớn phần thưởng;
+Vui lòng lưu ý một số nhiệm vụ sự kiện không thể hoàn thành trong chế độ liên máy; một số cảnh trong game không thể theo dõi nhiệm vụ."
+lang_multi_text.db,MultiText,HelpText_467_Title,【拉海洛先行计划】活动说明,Lahai-Roi Pioneers,Giải thích sự kiện [Kế Hoạch Tiên Phong Lahai-Roi]
+lang_multi_text.db,MultiText,HelpText_468_Content,"1.区域导览是各个地区的专属玩法与特殊功能的载体，漂泊者可以从中查看并前往体验各个地区的专属内容。
+2.支持对已解锁的地区专属玩法或特殊功能进行【固定】操作，【固定】后可以使玩法或功能常驻显示在地图界面对应位置处，最多同时可以固定两个玩法或功能。","1. The Region Guide shows the exclusive gameplays and features of each region. You can quickly view, find, and access the exclusive content of different regions here.
+2. The specific gameplays or features in unlocked regions can be pinned. This will mark the pinned gameplay or feature on the map interface. You can pin up to 2 gameplays and/or features.","1. Hướng Dẫn Khu Vực là nơi chứa các lối chơi độc quyền và tính năng đặc biệt của từng khu vực, Lữ Khách có thể xem và đến trải nghiệm nội dung độc quyền của từng khu vực từ đây.
+2. Hỗ trợ thao tác [Ghim] đối với các lối chơi độc quyền hoặc tính năng đặc biệt đã mở khóa của khu vực. Sau khi [Ghim], lối chơi hoặc tính năng có thể hiển thị thường trực tại vị trí tương ứng trên giao diện bản đồ, tối đa có thể ghim cùng lúc hai lối chơi hoặc tính năng."
+lang_multi_text.db,MultiText,HelpText_468_Title,区域导览,Region Guide,Hướng Dẫn Khu Vực
+lang_multi_text.db,MultiText,HelpText_469_Content,"【活动简介】
+「女神异闻录５ 皇家版」、「女神异闻录３ Reload」、「刺猬索尼克」主题联动活动。完成主题任务，即可获取对应联动涂装及各类养成材料。
+
+【参与条件】
+联觉等级达到8级，并在潮汐任务「冰原下的星炬」中解锁星炬学院的中枢信标","[About]
+Themed collaboration event with Persona 5 Royal, Persona 3 Reload, and Sonic the Hedgehog. Complete event tasks to earn Collab Liveries and materials.
+
+[Eligibility]
+Reach Union Level 8 and activate the Startorch Academy Resonance Nexus in Main Quest ""What Burns Beneath Frostlands.""","[Giới thiệu sự kiện]
+Sự kiện hợp tác chủ đề ""Persona 5 Royal"", ""Persona 3 Reload"", ""Sonic the Hedgehog"". Hoàn thành nhiệm vụ chủ đề để nhận ngoại quan hợp tác tương ứng và các loại nguyên liệu bồi dưỡng.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt cấp 8, và mở khóa Tín Hiệu Trung Khu của Học Viện Startorch trong Nhiệm Vụ Thủy Triều ""Ngọn Đuốc Dưới Băng Nguyên"""
+lang_multi_text.db,MultiText,HelpText_469_Title,音速异闻,Persona Sonic,Dị Văn Tốc Độ Âm Thanh
+lang_multi_text.db,MultiText,HelpText_46_Content,"【活动简介】
+飞檐同好会的阿水似乎正在宣传某个活动，如果感兴趣的话，不妨去今州城找他聊聊吧。
+
+【参与条件】
+联觉等级达到14级，并完成前置任务：潮汐任务【撞金止行阵】
+
+【活动规则】
+在活动中，需要参与多条全息战略·飞檐的赛道，可选择任意已开启的赛道参与挑战。
+开启挑战后，在限定时间内前往终点，并在过程中尽可能多地拾取全息代币；当抵达终点后，会根据获得全息代币的数量结算挑战得分，得分越高可领取奖励越多。
+在全息战略·飞檐赛道中有着各种各样的模块，合理运用它们可以更快抵达终点，但同时也需要仔细甄别陷阱。","[About]
+Shui is actively seeking new members for the prestigious Overdash Club. If you're interested, go have a friendly conversation with him to learn more.
+
+[Eligibility]
+Reach Union Level 14 and complete Main Quest: Chapter 1 Act 2.
+
+[Event Rules]
+1. During the event, you need to challenge several Tactical Hologram: Overdash Tracks. You can fast-travel to any available track to start the challenge.
+2. After the challenge starts, reach the finish line within the specified time and try to collect as many Hologram Tokens as possible. Upon reaching the finish line, challenge points will be calculated based on the number of Hologram Tokens collected. Reach higher points for better rewards!
+3. There are various modules available in Tactical Hologram: Overdash. You can utilize them strategically to reach the finish line faster, but be sure to mind the traps at the same time.","[Giới thiệu sự kiện]
+A Thủy của CLB Phi Thiềm dường như đang quảng bá cho một sự kiện nào đó, nếu hứng thú, hãy đến thành phố Kim Châu tìm cậu ấy nói chuyện nhé.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt cấp 14, và hoàn thành nhiệm vụ tiền đề: Nhiệm Vụ Thủy Triều [Hồi Chuông Cảnh Tỉnh]
+
+[Quy tắc sự kiện]
+Trong sự kiện, cần tham gia nhiều đường đua Chiến Thuật Giả Lập - Phi Thiềm, có thể chọn bất kỳ đường đua nào đã mở để tham gia thử thách.
+Sau khi bắt đầu thử thách, hãy đến đích trong thời gian giới hạn, và thu thập càng nhiều Token Giả Lập càng tốt trên đường đi; khi đến đích, điểm thử thách sẽ được tính dựa trên số lượng Token Giả Lập thu được, điểm càng cao phần thưởng nhận được càng nhiều.
+Trong đường đua Chiến Thuật Giả Lập - Phi Thiềm có đủ loại mô-đun, sử dụng hợp lý chúng có thể giúp đến đích nhanh hơn, nhưng đồng thời cũng cần cẩn thận quan sát bẫy."
+lang_multi_text.db,MultiText,HelpText_46_Title,飞檐同好会说明,Overdash Club,Giải thích CLB Phi Thiềm
+lang_multi_text.db,MultiText,HelpText_470_Content,"升级拓展模块需消耗专属改装点数，并满足前置条件：
+1. 专属模块：前置模块升级至Lv.1。
+2. 核心模块：专属改装点数获取达足够数量。","You can upgrade Expansion Modules with Modding Points under the following conditions:
+1. Specialized Modules can be upgraded after the preceding module has been upgraded to Lv. 1.
+2. Core Modules can be upgraded with sufficient Modding Points.","Nâng cấp mô-đun mở rộng cần tiêu hao điểm cải tiến chuyên dụng, và đáp ứng điều kiện tiên quyết:
+1. Mô-đun chuyên dụng: Mô-đun tiền đề nâng cấp đến Lv.1.
+2. Mô-đun cốt lõi: Nhận đủ số lượng điểm cải tiến chuyên dụng."
+lang_multi_text.db,MultiText,HelpText_470_Title,拓展模块升级,Expansion Module Upgrades,Nâng cấp mô-đun mở rộng
+lang_multi_text.db,MultiText,HelpText_471_Content,"拓展模块拥有相应的专属改装点数，和专属改装任务。
+改装任务分为常驻、限时、重复三种。
+限时任务仅可在限时期间内完成。限时结束后，未完成的任务将无法继续完成，且后续无法领取未完成任务的奖励。
+限时任务限时结束后，将在下版本上线重复任务，该任务为常驻任务。漂泊者可通过完成重复任务领取对应拓展模块缺少的改装点数。","Expansion Modules have their corresponding Modding Points and Modding Tasks.
+Modding Tasks are either Permanent, Limited-Time, or Recurring.
+Limited-Time tasks have to be completed within the specified time. They cannot be progressed any further once time is up, and rewards are not granted for uncompleted Limited-Time Tasks.
+Limited-Time Tasks in this game version will be replaced with Recurring Tasks after the next game version update. Recurring Tasks are also permanent. You may complete the Recurring Tasks to earn the needed points for the corresponding Expansion Module.","Mô-đun mở rộng có điểm cải tiến chuyên dụng và nhiệm vụ cải tiến chuyên dụng tương ứng.
+Nhiệm vụ cải tiến chia thành ba loại: thường trú, giới hạn thời gian và lặp lại.
+Nhiệm vụ giới hạn thời gian chỉ có thể hoàn thành trong thời gian quy định. Sau khi hết thời gian, nhiệm vụ chưa hoàn thành sẽ không thể tiếp tục thực hiện và không thể nhận thưởng nhiệm vụ chưa hoàn thành sau đó.
+Sau khi nhiệm vụ giới hạn thời gian kết thúc, nhiệm vụ lặp lại sẽ được ra mắt trong phiên bản tiếp theo, đây là nhiệm vụ thường trú. Lữ Khách có thể nhận điểm cải tiến còn thiếu của mô-đun mở rộng tương ứng bằng cách hoàn thành nhiệm vụ lặp lại."
+lang_multi_text.db,MultiText,HelpText_471_Title,摩托改装任务,Motorbike Modding Tasks,Nhiệm vụ cải tiến xe máy
+lang_multi_text.db,MultiText,HelpText_472_Content,击败拉海洛地区敌人（包括残象聚落、讨伐强敌、虚质磁暴等）可重复产出调试经验，每日最多通过以上途径获得5000调试经验，该限制在每天服务器时间04:00刷新。开发等级到达上限后将无法继续获得调试经验。,"Defeat enemies in Lahai-Roi (including Tacet Discord Nests, Boss Challenge, and Void Storms) to generate Modding EXP, up to a daily limit of 5,000. This limit is reset every day at 04:00 a.m. server time. Modding EXP can no longer be earned once you hit the Modding Level cap.","Đánh bại kẻ địch khu vực Lahai-Roi (bao gồm Tụ Điểm Tàn Tượng, Chinh Phạt Kẻ Địch Mạnh, Bão Từ Hư Chất...) có thể nhận lặp lại kinh nghiệm điều chỉnh, mỗi ngày nhận tối đa 5000 kinh nghiệm điều chỉnh qua các cách trên, giới hạn này được làm mới vào 04:00 giờ server mỗi ngày. Sau khi cấp độ phát triển đạt giới hạn sẽ không thể tiếp tục nhận kinh nghiệm điều chỉnh."
+lang_multi_text.db,MultiText,HelpText_472_Title,击败拉海洛地区敌人,Defeating Enemies in Lahai-Roi,Đánh bại kẻ địch khu vực Lahai-Roi
+lang_multi_text.db,MultiText,HelpText_473_Content,"漂泊者可编辑并装备在图鉴中已解锁的声骸，然后通过探索模块【显像】呼出的选择面板，展示对应的声骸。
+当漂泊者位于特殊区域内时，【显像】指定的声骸可使用特殊技能，帮助漂泊者完成对应的解谜。","You may project Echoes by equipping unlocked Echoes from the Gallery into the Projector via the Utility Wheel panel. 
+When in a designated area, projected Echos can perform special skills to help you solve puzzles.","Lữ Khách có thể chỉnh sửa và trang bị Thanh Hài đã mở khóa trong Thư Viện, sau đó thông qua bảng chọn hiện ra từ mô-đun thám hiểm [Hiển Tượng] để hiển thị Thanh Hài tương ứng.
+Khi Lữ Khách ở trong khu vực đặc biệt, Thanh Hài được chỉ định [Hiển Tượng] có thể sử dụng kỹ năng đặc biệt, giúp Lữ Khách hoàn thành giải đố tương ứng."
+lang_multi_text.db,MultiText,HelpText_473_Title,声骸显像说明,Echo Projector,Giải thích Hiển Tượng Thanh Hài
+lang_multi_text.db,MultiText,HelpText_474_Title,【轻雪赠礼】活动说明,Gifts of Soft Snow,Giải thích sự kiện [Món Quà Tuyết Nhẹ]
+lang_multi_text.db,MultiText,HelpText_475_Content,"通过深空测界台发射控制信号，调整大气拟造阵列在拉海洛地区生成模拟天气。
+部分模拟天气只能在特定时间段、特定区域内生效，因此在生成时需要先调整到匹配的时间段或移动至对应区域。
+在特定模拟天气情况下，可能会触发一些特殊事件。","Use the Spacetrek Observatory to broadcast control signals, adjusting the Sky Projection Array to generate simulated weather across Lahai-Roi.
+Certain weathers can only be simulated at specific times and areas. Please make sure you have adjusted to the right time or moved to the corresponding areas for the simulation.
+Some weather may trigger special events.","Thông qua Đài Quan Sát Spacetrek phát tín hiệu điều khiển, điều chỉnh Mảng Mô Phỏng Khí Quyển để tạo ra thời tiết mô phỏng tại khu vực Lahai-Roi.
+Một số thời tiết mô phỏng chỉ có hiệu lực trong khoảng thời gian nhất định, tại khu vực nhất định, vì vậy khi tạo cần điều chỉnh đến khoảng thời gian phù hợp hoặc di chuyển đến khu vực tương ứng trước.
+Trong tình trạng thời tiết mô phỏng đặc biệt, có thể kích hoạt một số sự kiện đặc biệt."
+lang_multi_text.db,MultiText,HelpText_475_Title,大气拟造阵列控制模块,Sky Projection Array Control Module,Mô-đun điều khiển Mảng Mô Phỏng Khí Quyển
+lang_multi_text.db,MultiText,HelpText_476_Content,"【活动简介】
+拉海洛的路网系统以及负责观测记录地形、生态与气候的深空测界台被虚质磁暴摧毁，如今亟待重建。
+使用在拉海洛获得的重建材料，协助德莉珐完成路网与深空测界台的重建
+
+【参与条件】
+联觉等级8级
+完成道引任务「开辟测界之路」后解锁
+
+【活动规则】
+通过探索拉海洛，使用3种重建材料进行10段路网的重建。
+到达各造路悬仪后，可以激活造路悬仪的传送
+启动造路悬仪，路网会自动进行建造。路网建设会驱动周边生态繁荣，进而解锁各类支线任务与挑战。
+每当路网重建完成后，会提升路网活跃度，当路网活跃度提升至一定点数时，可以推进深空测界台的重建工程。
+该玩法为常驻玩法，在3.0版本及之后的版本内， 漂泊者都可在拉海洛的地图上通过「区域导览」进入本玩法。","[About]
+Lahai-Roi's route network, along with the Spacetrek Observatory that used to monitor its terrain, ecosystem, and climate, has been devastated by a Void Storm. It's time to rebuild them all!
+Use rebuild materials gathered in Lahai-Roi to assist Dhalifa in restoring the Route Network and the Spacetrek Observatory.
+
+[Eligibility]
+Reach Union Level 8 and complete Tutorial Quest ""Operation: Frontier Renewal""
+
+[Event Rules]
+Explore Lahai-Roi and use 3 types of materials to rebuild 10 routes.
+Reaching a Route Constructor unlocks it as a Fast Travel point.
+Once activated, the Constructor will automatically complete the route rebuild. Restored routes will revitalize the surrounding area, unlocking a variety of side quests and challenges.
+Each completed route increases Network Activity. Reaching certain Activity milestones advances the Spacetrek Observatory's rebuild progress.
+
+This event is permanently available. From Version 3.0 onward, you can access this event via the Region Guide on the Lahai-Roi map.","[Giới thiệu sự kiện]
+Hệ thống mạng lưới đường xá Lahai-Roi cùng Đài Quan Sát Spacetrek chịu trách nhiệm quan sát ghi chép địa hình, sinh thái và khí hậu đã bị Bão Từ Hư Chất phá hủy, nay đang chờ được tái thiết khẩn cấp.
+Sử dụng vật liệu tái thiết thu được tại Lahai-Roi, hỗ trợ Dhalifa hoàn thành việc tái thiết mạng lưới đường xá và Đài Quan Sát Spacetrek.
+
+[Điều kiện tham gia]
+Cấp Liên Giác cấp 8
+Mở khóa sau khi hoàn thành nhiệm vụ hướng dẫn ""Mở Đường Quan Sát""
+
+[Quy tắc sự kiện]
+Thông qua việc khám phá Lahai-Roi, sử dụng 3 loại vật liệu tái thiết để tiến hành tái thiết 10 đoạn đường.
+Sau khi đến các Máy Làm Đường, có thể kích hoạt dịch chuyển của Máy Làm Đường.
+Khởi động Máy Làm Đường, mạng lưới đường xá sẽ tự động tiến hành xây dựng. Việc xây dựng mạng lưới đường xá sẽ thúc đẩy hệ sinh thái xung quanh phát triển, từ đó mở khóa các loại nhiệm vụ nhánh và thử thách.
+Mỗi khi hoàn thành tái thiết một đoạn đường, độ năng động của mạng lưới đường xá sẽ tăng lên. Khi độ năng động mạng lưới đường xá tăng đến mức nhất định, có thể thúc đẩy công trình tái thiết Đài Quan Sát Spacetrek.
+Đây là lối chơi thường trú, trong phiên bản 3.0 và các phiên bản sau này, Lữ Khách đều có thể vào lối chơi này thông qua ""Hướng Dẫn Khu Vực"" trên bản đồ Lahai-Roi."
+lang_multi_text.db,MultiText,HelpText_476_Title,开辟测界之路,Operation: Frontier Renewal,Mở Đường Quan Sát
+lang_multi_text.db,MultiText,HelpText_477_Content,"【卡牌图鉴】
+收集卡牌可解锁奖励。可点击卡牌查看详情，或使用「荣光点数」解锁未获得的卡牌。","[Card Collection]
+Collect cards to unlock rewards. Click on the cards for more details, or use Prestige Points to unlock more cards.","[Thư Viện Thẻ Bài]
+Thu thập thẻ bài có thể mở khóa phần thưởng. Có thể nhấn vào thẻ bài để xem chi tiết, hoặc sử dụng ""Điểm Vinh Quang"" để mở khóa thẻ bài chưa sở hữu."
+lang_multi_text.db,MultiText,HelpText_478_Content,"【外观定制】
+通过选择不同的外观模组，可以改变科考摩托的外观。
+
+【注意事项】
+摩托外观限购1次，可以应用至科考摩托。摩托外观存在使用条件，漂泊者需要推进潮汐任务第三章第一幕解锁科考摩托。
+未满足使用条件的情况下，可以进行购买。购买后满足使用条件，即可正常使用。","[Look Customization]
+Various customization modules can be applied to the expedition motorbike to change its appearance.
+
+[Notes]
+Each Vehicle Look item can only be purchased once and is used on the expedition motorbike.
+Vehicle Looks can only be used after unlocking the motorbike in Chapter III Act I. However, they can still be purchased beforehand and will be usable after unlocking the permit.","[Tùy Chỉnh Ngoại Quan]
+Thông qua việc chọn các mô-đun ngoại quan khác nhau, có thể thay đổi vẻ ngoài của xe máy khảo sát.
+
+[Lưu ý]
+Ngoại quan xe máy chỉ được mua 1 lần, có thể áp dụng cho xe máy khảo sát.
+Ngoại quan xe máy có điều kiện sử dụng, Lữ Khách cần tiến hành Nhiệm Vụ Thủy Triều chương 3 màn 1 để mở khóa xe máy khảo sát.
+Trong trường hợp chưa đáp ứng điều kiện sử dụng, vẫn có thể tiến hành mua. Sau khi mua và đáp ứng điều kiện sử dụng, có thể sử dụng bình thường."
+lang_multi_text.db,MultiText,HelpText_478_Title,摩托外观说明,Vehicle Looks,Giải thích ngoại quan xe máy
+lang_multi_text.db,MultiText,HelpText_479_Content,"【活动简介】
+罗伊牧民在护送隧群迁徙冰原的途中发生了意外，为使迁徙队伍恢复秩序。牧民向你求助，希望你能帮忙一同找回走失的隧群。
+
+【参与条件】
+联觉等级达到14级，并在潮汐任务「冰原下的星炬」中启用星炬学院的中枢信标。
+
+【活动规则】
+活动期间，每日将解锁 1 关「慌乱的迁徙」关卡，包含简单与困难两种难度。其中，简单难度包含 1 只迷失的隧群，困难难度则包含 2 只。
+
+参与挑战时，漂泊者将与隧群交替行动：需在冰原上放置罗伊牧民的牧杖作为障碍，同时借助冰原上塌陷的地块、冰墙等地形条件，限制隧群的移动范围并包围住它们，最终引导迷失的隧群回归迁徙队伍。
+
+当隧群被完全包围且失去逃离的可能性时，即可通过关卡。通关后，漂泊者将获得星声、养成材料等奖励；同时系统会记录该次通关时使用牧杖的最小次数，作为个人最佳纪录留存。
+若在隧群即将逃离当前冰原区域，漂泊者仍未能完成完全包围隧群，则隧群将脱离视野范围，将判定关卡失败，此时需重新挑战以寻找走失的隧群。
+
+每关首次通关后，支持重复挑战。漂泊者可通过多次尝试，减少使用牧杖的次数，刷新个人最佳成绩。","[About]
+A team of Royan herders has run into trouble while guiding their Exoswarm across the frostlands. Now, they need your help to track down the strays.
+
+[Eligibility]
+Reach Union Level 14 and activate the Resonance Nexus in Startorch Academy during the Main Quest ""What Burns Beneath Frostlands"" to unlock.
+
+[Event Rules]
+During the event, ""Migration Mayhem"" stages unlock daily and come in Easy and Hard difficulties. The Easy and Hard levels include 1 and 2 lost Exoswarm respectively.
+
+You and the Exoswarm will take turns to move in the game. You may place the Royan Shepherd's Staffs in the frostlands as barriers, use terrain features such as sinkholes and ice walls to restrict the Exoswarm's movement and surround them, and guide the lost Exoswarm back to the migration pack.
+
+Fully surround the Exoswarm to complete the stage. Upon completion, you will receive rewards such as Astrites and upgrade Materials. Your personal record will be logged as the minimum number of Shepherd's Staffs used during each challenge.
+You fail the challenge if you fail to surround the Exoswarm before they escape the current frostlands area and cause them to be lost in sight. You will need to reattempt the stage.
+
+You may repeat each stage after its first completion. You can retry challenges as many times as needed to refresh your personal record.","[Giới thiệu sự kiện]
+Người chăn nuôi tộc Royan gặp sự cố trên đường hộ tống bầy đàn di cư qua băng nguyên. Để khôi phục trật tự cho đoàn di cư, người chăn nuôi cầu cứu bạn, hy vọng bạn có thể giúp tìm lại bầy đàn bị lạc.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt cấp 14, và kích hoạt Tín Hiệu Trung Khu của Học Viện Startorch trong Nhiệm Vụ Thủy Triều ""Ngọn Đuốc Dưới Băng Nguyên"".
+
+[Quy tắc sự kiện]
+Trong thời gian sự kiện, mỗi ngày sẽ mở khóa 1 ải ""Di Cư Hỗn Loạn"", bao gồm hai độ khó đơn giản và khó. Trong đó, độ khó đơn giản bao gồm 1 bầy đàn bị lạc, độ khó khó bao gồm 2 bầy đàn.
+
+Khi tham gia thử thách, Lữ Khách sẽ hành động luân phiên với bầy đàn: Cần đặt Gậy Chăn Nuôi của người Royan trên băng nguyên làm chướng ngại vật, đồng thời tận dụng các điều kiện địa hình như mảng đất sụt lún, tường băng trên băng nguyên để hạn chế phạm vi di chuyển của bầy đàn và bao vây chúng, cuối cùng dẫn bầy đàn bị lạc trở về đội ngũ di cư.
+
+Khi bầy đàn bị bao vây hoàn toàn và mất khả năng trốn thoát, sẽ vượt ải thành công. Sau khi vượt ải, Lữ Khách sẽ nhận được phần thưởng như Astrite, nguyên liệu bồi dưỡng...; đồng thời hệ thống sẽ ghi lại số lần sử dụng Gậy Chăn Nuôi ít nhất trong lần vượt ải đó làm kỷ lục cá nhân.
+Nếu bầy đàn sắp thoát khỏi khu vực băng nguyên hiện tại mà Lữ Khách vẫn chưa hoàn thành việc bao vây hoàn toàn, bầy đàn sẽ thoát khỏi tầm nhìn, ải sẽ bị phán định thất bại, lúc này cần khiêu chiến lại để tìm bầy đàn bị lạc.
+
+Sau khi vượt ải lần đầu mỗi ải, hỗ trợ khiêu chiến lặp lại. Lữ Khách có thể thử nhiều lần để giảm số lần sử dụng Gậy Chăn Nuôi, làm mới thành tích cá nhân tốt nhất."
+lang_multi_text.db,MultiText,HelpText_479_Title,「平息！慌乱的迁徙！」活动说明,Rein Back! Migration Mayhem!,"Giải thích sự kiện ""Bình Tĩnh! Di Cư Hỗn Loạn!"""
+lang_multi_text.db,MultiText,HelpText_47_Content,"【声骸收集】
+声骸图鉴收集进度包括解锁新声骸以及该声骸的更高品质，吸收每一级不同品质的同名声骸都可获得数据坞经验。
+ 
+ 【合鸣效果】
+ 一个声骸可能会因为数据差异，随机带有不同的合鸣。
+ 图鉴中列举了目前已知的可能随机结果。
+ 点击可前往合鸣图鉴查看具体效果。","[Echo Collection]
+Unlock new Echoes and enhance the quality of existing ones to get more Echo Collection progress and gain Data Bank EXP.
+
+[Sonata Effect]
+Echoes may have different attributes due to data differences. All known possible random results are listed in the Echo Gallery. Click to go to the Sonata Collections to view the specific effects.","[Thu Thập Thanh Hài]
+Tiến độ thu thập Thư Viện Thanh Hài bao gồm mở khóa Thanh Hài mới cũng như phẩm chất cao hơn của Thanh Hài đó. Hấp thụ Thanh Hài cùng tên ở mỗi cấp phẩm chất khác nhau đều có thể nhận kinh nghiệm Data Bank.
+
+[Hiệu Quả Hợp Âm]
+Một Thanh Hài có thể ngẫu nhiên mang các Hợp Âm khác nhau do sự khác biệt về dữ liệu.
+Thư Viện liệt kê các kết quả ngẫu nhiên có thể xảy ra hiện đã biết.
+Nhấn để đến Thư Viện Hợp Âm xem hiệu quả cụ thể."
+lang_multi_text.db,MultiText,HelpText_47_Title,声骸图鉴说明,Echo Collection,Giải thích Thư Viện Thanh Hài
+lang_multi_text.db,MultiText,HelpText_480_Content,"【活动简介】
+呜呜便利企划遭遇新问题，马计的职业生涯又一次面临重大危机。为了挽救老朋友和稳定的外快渠道，请帮助他完成新企划「呜呜之春」吧！
+完成每日任务即可获得呜呜物流的谢礼——「呜呜邮币」。「呜呜邮币」可用于兑换呜呜物流回赠的「助呜为乐」特别邮递。
+
+【参与条件】
+联觉等级达到14级，并在潮汐任务「冰原下的星炬」中启用星炬学院的中枢信标。
+
+【活动规则】
+活动期间，漂泊者每天通过完成活动目标，可获得一定数目的呜呜邮币；
+每次消耗一枚呜呜邮币，可随机获赠一份「助呜为乐」特别邮递；
+「助呜为乐」特别邮递总计三轮库存，获得前序库存内的全部邮递后，将开启下一库存;
+若于本轮中抽取到「呜闪达」专送服务，即可获得当前库存内的全部邮递；
+活动结束时，将无法继续参与「呜呜企划」相关活动，并统一回收未被使用的呜呜邮币。","[About]
+The Lollo Campaign has encountered yet another crisis! To save Maji's career, and to keep those extra bucks flowing in, help him complete his new program, Lollo Springtime!
+Complete the daily tasks to claim Lollo Stamps in return for your favor. Lollo Stamps can be exchanged for Lollo Helper special deliveries.
+
+[Eligibility]
+Reach Union Level 14 and activate the Resonance Nexus in Startorch Academy during the Main Quest ""What Burns Beneath Frostlands"" to unlock.
+
+[Event Rules]
+During the event, you can complete Lollo Campaigns to obtain a set number of Lollo Stamps.
+Each Lollo Stamp can be exchanged for a Lollo Helper special delivery.
+There are 3 Inventories for the Lollo Helper special deliveries. Once you collect all deliveries in an Inventory, the next Inventory will be unlocked.
+If you win the Lollo Express special delivery service, you can claim all deliveries in the current Inventory.
+After the event ends, the unfinished Lollo Campaigns will not be available, and all the remaining Lollo Stamps will be recycled.","[Giới thiệu sự kiện]
+Kế hoạch Tiện Lợi Lollo gặp vấn đề mới, sự nghiệp của Mã Kế lại một lần nữa đối mặt với khủng hoảng nghiêm trọng. Để cứu vãn người bạn cũ và kênh kiếm thêm thu nhập ổn định, hãy giúp anh ấy hoàn thành kế hoạch mới ""Mùa Xuân Của Lollo"" nhé!
+Hoàn thành nhiệm vụ hàng ngày để nhận quà cảm ơn từ Giao Vận Lollo - ""Tem Lollo"". ""Tem Lollo"" có thể dùng để đổi lấy bưu kiện đặc biệt ""Giúp Lollo Là Vui"" do Giao Vận Lollo tặng lại.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt cấp 14, và kích hoạt Tín Hiệu Trung Khu của Học Viện Startorch trong Nhiệm Vụ Thủy Triều ""Ngọn Đuốc Dưới Băng Nguyên"".
+
+[Quy tắc sự kiện]
+Trong thời gian sự kiện, mỗi ngày Lữ Khách hoàn thành mục tiêu sự kiện sẽ nhận được một số lượng Tem Lollo nhất định;
+Mỗi lần tiêu hao một Tem Lollo, có thể nhận ngẫu nhiên một bưu kiện đặc biệt ""Giúp Lollo Là Vui"";
+Bưu kiện đặc biệt ""Giúp Lollo Là Vui"" có tổng cộng ba kho, sau khi nhận hết bưu kiện trong kho trước đó, sẽ mở kho tiếp theo;
+Nếu trong vòng này rút được dịch vụ chuyên chở ""Lollo Tốc Hành"", sẽ nhận được toàn bộ bưu kiện trong kho hiện tại;
+Khi sự kiện kết thúc, sẽ không thể tiếp tục tham gia các hoạt động liên quan đến ""Kế Hoạch Lollo"", và Tem Lollo chưa sử dụng sẽ được thu hồi đồng loạt."
+lang_multi_text.db,MultiText,HelpText_480_Title,呜呜企划·推进活动说明,Lollo Campaign: Implementation,Giải thích sự kiện Kế Hoạch Lollo - Triển Khai
+lang_multi_text.db,MultiText,HelpText_481_Content,"每套卡组由22张卡牌组成，其中，领域和核心声骸各自只能放置1个，其余可放置通常声骸或奇藏。无法添加超出卡组上限的卡牌，卡组在未满足卡牌最低数量需求前无法用于决斗。
+卡牌拥有不同的技能，部分技能可以相互配合或关联。在构筑卡组时请尽量考虑卡牌之间的关联性。","- A deck is comprised of 22 cards, which includes a Domain, a Core Echo, and Normal Echoes or Novelties.
+- The number of cards in a deck is subject to an upper limit and a minimum requirement that must be met to proceed with the duel. 
+- Cards have different Skills. Some Skills complement or boost other Skills. Please keep this in mind when building your deck.","Mỗi bộ bài gồm 22 lá bài, trong đó Lãnh Địa và Thanh Hài Cốt Lõi mỗi loại chỉ được đặt 1 lá, còn lại có thể đặt Thanh Hài Thường hoặc Kỳ Tàng. Không thể thêm thẻ bài vượt quá giới hạn bộ bài, bộ bài không thể dùng để quyết đấu nếu chưa đáp ứng yêu cầu số lượng thẻ bài tối thiểu.
+Thẻ bài sở hữu các kỹ năng khác nhau, một số kỹ năng có thể phối hợp hoặc liên kết với nhau. Khi xây dựng bộ bài, hãy cố gắng cân nhắc tính liên kết giữa các thẻ bài."
+lang_multi_text.db,MultiText,HelpText_481_Title,卡组的构成,Deck Composition,Cấu thành bộ bài
+lang_multi_text.db,MultiText,HelpText_482_Content,"可通过点击左侧列表中的卡牌，来将卡牌添加至卡组中。
+每套卡组最多只能同时放置两种属性的卡牌，如果需要更换卡组中卡牌的属性，需要先将被替换属性的卡牌从卡组中移除。","- {Cus:Ipt,Touch=Tap PC=Click Gamepad=Press} the cards in the list on the left to add them to your deck.
+- Each deck can contain cards of up to 2 Attributes. To change Attributes, remove cards with the Attribute you are replacing from the deck first.","Có thể nhấn vào thẻ bài trong danh sách bên trái để thêm thẻ bài vào bộ bài.
+Mỗi bộ bài tối đa chỉ có thể đặt thẻ bài thuộc hai thuộc tính cùng lúc. Nếu cần thay đổi thuộc tính của thẻ bài trong bộ bài, cần phải xóa thẻ bài có thuộc tính bị thay thế khỏi bộ bài trước."
+lang_multi_text.db,MultiText,HelpText_482_Title,卡组构筑,Deck Build,Xây dựng bộ bài
+lang_multi_text.db,MultiText,HelpText_483_Content,"<color=#ffd12f>核心声骸</color>对应索拉里斯世界中怒涛级或海啸级的声骸。它们在每个卡组中必须放置，且仅能放置一张。核心声骸具有相当强大的能力，一般而言，核心声骸是卡组构筑的基石。核心声骸只有在完成对应的核心挑战后才会被加入手牌
+<color=#ffd12f>通常声骸</color>指能量消耗为1或3的声骸，对应索拉里斯世界中轻波级或巨浪级的声骸。卡组中必须放置20个通常声骸或奇藏，未满足数量要求的卡组无法用于决斗","- <color=#ffd12f>Core Echoes</color> are Overlord or Calamity Class Echoes in Solaris. Each deck must include exactly one Core Echo. Its overwhelming power makes it the cornerstone of a strong build. Complete corresponding Trials to add Core Echoes to your hand.
+- <color=#ffd12f>Normal Echoes</color> have 1 to 3 COSTs and are Common or Elite Class Echoes in Solaris. A deck must contain a total of 20 Normal Echoes or Novelties to begin a duel.","<color=#ffd12f>Thanh Hài Cốt Lõi</color> tương ứng với Thanh Hài cấp Nộ Đào hoặc cấp Hải Khiếu trong thế giới Solaris. Chúng bắt buộc phải có trong mỗi bộ bài và chỉ được đặt một lá. Thanh Hài Cốt Lõi có năng lực cực kỳ mạnh mẽ, nhìn chung, Thanh Hài Cốt Lõi là nền tảng xây dựng bộ bài. Thanh Hài Cốt Lõi chỉ được thêm vào bài trên tay sau khi hoàn thành Thử Thách Cốt Lõi tương ứng.
+<color=#ffd12f>Thanh Hài Thường</color> chỉ Thanh Hài có tiêu hao năng lượng là 1 hoặc 3, tương ứng với Thanh Hài cấp Khinh Ba hoặc cấp Cự Lãng trong thế giới Solaris. Trong bộ bài bắt buộc phải đặt 20 Thanh Hài Thường hoặc Kỳ Tàng, bộ bài không đáp ứng yêu cầu số lượng sẽ không thể dùng để quyết đấu."
+lang_multi_text.db,MultiText,HelpText_483_Title,声骸类别,Echo Category,Phân loại Thanh Hài
+lang_multi_text.db,MultiText,HelpText_484_Content,"<color=#ffd12f>领域</color>均拥有可主动使用的强大技能，例如回复能量、抽牌、进行特殊召唤等。若在构筑卡组时满足特定条件，领域还将获得新的能力。它们在每个卡组中必须放置，且仅能放置一张
+<color=#ffd12f>奇藏</color>能够如声骸般放置于召唤区，但不会直接参与战斗。卡组中必须放置20个通常声骸或奇藏，未满足数量要求的卡组无法用于决斗","- Each <color=#ffd12f>Domain</color> features a powerful Active Skill, such as Energy recovery, drawing extra cards, and Quick-Deploy. They can even gain new effects if your deck meets certain requirements. Each deck must include exactly 1 Domain card.
+- <color=#ffd12f>Novelties</color> can be placed onto the Deployment Zone like Echoes, but do not participate directly in the Battle Stage.  A deck must contain a total of 20 Normal Echoes or Novelties to begin a duel.","<color=#ffd12f>Lãnh Địa</color> đều sở hữu kỹ năng mạnh mẽ có thể chủ động sử dụng, ví dụ như hồi năng lượng, rút bài, thực hiện triệu hồi đặc biệt... Nếu đáp ứng điều kiện nhất định khi xây dựng bộ bài, Lãnh Địa sẽ nhận thêm năng lực mới. Chúng bắt buộc phải có trong mỗi bộ bài và chỉ được đặt một lá.
+<color=#ffd12f>Kỳ Tàng</color> có thể đặt vào khu vực triệu hồi giống như Thanh Hài, nhưng sẽ không trực tiếp tham gia chiến đấu. Trong bộ bài bắt buộc phải đặt 20 Thanh Hài Thường hoặc Kỳ Tàng, bộ bài không đáp ứng yêu cầu số lượng sẽ không thể dùng để quyết đấu."
+lang_multi_text.db,MultiText,HelpText_484_Title,新增卡牌类别,New Cards,Phân loại thẻ bài mới
+lang_multi_text.db,MultiText,HelpText_485_Content,"【活动简介】
+新一届星炬竞速赛正式开赛！最惊险刺激的赛道，最热情洋溢的观众，最令人心动的奖品，骑上你心爱的摩托，立刻报名参赛吧！
+
+【参与条件】
+联觉等级8级
+获取科考摩托（推进潮汐任务「冰原下的星炬」至获取科考摩托或抵达星炬学院后，离开学院）后解锁
+","[About]
+The new Startorch Racing Season is officially underway! Give it up for on-track thrills, roaring crowds, and enticing prizes! Hop on your beloved motorbike and sign up for the race now!
+
+[Eligibility]
+Reach Union Level 8 and obtain the expedition motorbike (Obtain the motorbike during Main Quest ""What Burns Beneath Frostlands"" or leave Startorch Academy after arriving there).","[Giới thiệu sự kiện]
+Giải Đua Xe Startorch khóa mới chính thức khởi tranh! Những đường đua gay cấn nhất, khán giả cuồng nhiệt nhất, những giải thưởng hấp dẫn nhất. Hãy cưỡi lên chiếc xe máy yêu quý của bạn và đăng ký tham gia ngay nào!
+
+[Điều kiện tham gia]
+Cấp Liên Giác cấp 8
+Mở khóa sau khi nhận được xe máy khảo sát (tiến hành Nhiệm Vụ Thủy Triều ""Ngọn Đuốc Dưới Băng Nguyên"" đến khi nhận xe máy khảo sát hoặc sau khi đến Học Viện Startorch thì rời khỏi Học Viện)."
+lang_multi_text.db,MultiText,HelpText_485_Title,星炬竞速赛,Startorch Racing,Giải Đua Xe Startorch
+lang_multi_text.db,MultiText,HelpText_486_Content,"1、5星共鸣者回音频段获取后也会计入伴行积分，相同5星共鸣者在获取第8次后仍然会计入伴行积分。
+2、5星武器通过谐振消耗后仍然会计入伴行积分。
+3、漂泊者、漂泊者回音频段及任务发放的5星武器不计入伴行积分。","1. Obtaining Wavebands of 5-Star Resonators grants Journey Points. The same 5-Star Resonator convened beyond the 8th time will still count towards Journey Points.
+2. 5-Star Weapons consumed in Syntonization still count toward Journey Points.
+3. Obtaining Rover, Rover's Wavebands, and any 5-Star Weapons rewarded through quests does not count toward Journey Points.","1. Sau khi nhận được Sóng Tần Số Cộng Hưởng Giả 5 sao cũng sẽ được tính vào Điểm Đồng Hành, cùng một Cộng Hưởng Giả 5 sao sau khi nhận lần thứ 8 vẫn sẽ được tính vào Điểm Đồng Hành.
+2. Vũ khí 5 sao tiêu hao qua Điều Hưởng vẫn sẽ được tính vào Điểm Đồng Hành.
+3. Lữ Khách, Sóng Tần Số Lữ Khách và vũ khí 5 sao do nhiệm vụ phát sẽ không tính vào Điểm Đồng Hành."
+lang_multi_text.db,MultiText,HelpText_486_Title,伴行积分获取说明,Journey Points,Giải thích cách nhận Điểm Đồng Hành
+lang_multi_text.db,MultiText,HelpText_487_Content,"1、漂泊者达成伴行任务目标后可获得伴行积分，伴行积分达到一定程度后可领取伴行赠礼。
+2、每个伴行任务的积分获取有上限，达到上限后将无法通过该伴行任务继续获取伴行积分。
+3、随着版本更新，未来将会开放更多赠礼，积分上限也会随之提升，敬请期待。","1. Complete Starpath Tasks to earn Journey Points. Reach Journey Point milestones to claim Starpath Gifts.
+2. There is a Journey Point limit for each Starpath Task. Once the limit is reached, no additional points can be obtained from that task.
+3. With future version updates, more gifts will be added, and the Journey Point limits will be increased accordingly. Please stay tuned.","1. Sau khi Lữ Khách đạt mục tiêu Nhiệm Vụ Đồng Hành có thể nhận Điểm Đồng Hành, khi Điểm Đồng Hành đạt mức nhất định có thể nhận Quà Tặng Đồng Hành.
+2. Mỗi Nhiệm Vụ Đồng Hành có giới hạn nhận điểm, sau khi đạt giới hạn sẽ không thể tiếp tục nhận Điểm Đồng Hành qua nhiệm vụ đó nữa.
+3. Cùng với các bản cập nhật phiên bản, trong tương lai sẽ mở thêm nhiều quà tặng, giới hạn điểm cũng sẽ tăng lên, hãy cùng chờ đón nhé."
+lang_multi_text.db,MultiText,HelpText_487_Title,长迹伴行说明,Starpaths Intertwined,Giải thích Đồng Hành Vạn Dặm
+lang_multi_text.db,MultiText,HelpText_488_Content,"「冰原筑脉」网页活动开启，参与领取星声等奖励！
+造访那片风雪覆盖的冰原，协助完成供能线路修复，领取星声、贝币奖励吧！
+完成任务，还可领取高级密音筒等更多奖励哦。
+
+【活动时间】
+2026年2月26日 04:00～2026年3月12日 03:59（UTC+8）
+
+【参与条件】
+联觉等级≥8级
+
+【活动介绍】
+1.活动期间，漂泊者可通过挑战活动关卡、完成活动任务，获取星声、贝币、高级密音筒等游戏内道具奖励。
+2.活动关卡开放时间：
+关卡1~2：2026年2月26日 04:00（UTC+8）开放
+关卡3~4：2026年2月27日 04:00（服务器时间）开放
+关卡5~6：2026年2月28日 04:00（服务器时间）开放。
+3.每个活动关卡均可重复挑战。
+
+【活动奖励】
+1.通关全部活动关卡，可获取通关奖励共计星声*90。
+2.在活动关卡中，修复特殊线路，可获取额外奖励共计贝币*60000。
+3.完成全部活动任务，可获取任务奖励共计星声*10、高级能源核心*5、高级共鸣促剂*5、高级密音筒*5。
+
+【注意事项】
+1.活动结束后将无法挑战活动关卡，请及时参与活动。
+2.请于活动时间内及时登录游戏，领取活动奖励。活动结束后将无法获得活动奖励，敬请注意。
+3.该网页活动相关内容与游戏内实际剧情发展、人物设定等无关。","The ""Veins of the Frostlands"" web event is now live! Participate to earn Astrites and other rewards.
+Venture into the snow-swept frostlands and help repair power supply lines. Earn Astrites and Shell Credits along the way!
+Complete tasks to claim even more rewards, including Advanced Sealed Tubes.
+
+[Duration]
+2026-02-26 04:00 a.m. to 2026-03-12 03:59 a.m. (UTC+8)
+
+[Eligibility]
+Reach Union Level 8
+
+[Details]
+1. During the event, you can obtain in-game rewards such as Astrite, Shell Credits, and Advanced Tuning Tubes by challenging event stages and completing event tasks.
+2. Event Stage Schedule:
+Stages 1–2: Available from 2026-02-26, 04:00 a.m. (UTC+8)
+Stages 3–4: Available from 2026-02-27, 04:00 a.m. (Server Time)
+Stages 5–6: Available from 2026-02-28, 04:00 a.m. (Server Time)
+3. All event stages can be challenged repeatedly.
+
+[Rewards]
+1. Clear all event stages to receive a total of Astrite x90.
+2. Repair special lines within event stages to earn additional rewards totaling Shell Credit x60,000.
+3. Complete all event tasks to receive Astrite x10, Advanced Energy Core x5, Advanced Resonance Potion x5, Advanced Sealed Tube x5.
+
+[Notes]
+1. Event stages will no longer be accessible after the event ends. Please participate on time.
+2. Be sure to log in to the game and claim your rewards during the event period. Unclaimed rewards will not be available after the event ends.
+3. Content from this web event is unrelated to the game's story and character settings.","Sự kiện web ""Xây Mạch Băng Nguyên"" đã mở, tham gia để nhận Astrite và các phần thưởng khác!
+Ghé thăm vùng băng nguyên phủ đầy gió tuyết, hỗ trợ hoàn thành sửa chữa đường dây cung cấp năng lượng, nhận thưởng Astrite, Shell Credit!
+Hoàn thành nhiệm vụ còn có thể nhận thêm Ống Nghiệm Mật Âm Cao Cấp và nhiều phần thưởng khác.
+
+[Thời gian sự kiện]
+04:00 ngày 26/02/2026 ~ 03:59 ngày 12/03/2026 (UTC+8)
+
+[Điều kiện tham gia]
+Cấp Liên Giác ≥8
+
+[Giới thiệu sự kiện]
+1. Trong thời gian sự kiện, Lữ Khách có thể nhận phần thưởng vật phẩm trong game như Astrite, Shell Credit, Ống Nghiệm Mật Âm Cao Cấp... thông qua việc khiêu chiến ải sự kiện, hoàn thành nhiệm vụ sự kiện.
+2. Thời gian mở ải sự kiện:
+Ải 1~2: Mở lúc 04:00 ngày 26/02/2026 (UTC+8)
+Ải 3~4: Mở lúc 04:00 ngày 27/02/2026 (Giờ server)
+Ải 5~6: Mở lúc 04:00 ngày 28/02/2026 (Giờ server).
+3. Mỗi ải sự kiện đều có thể khiêu chiến lặp lại.
+
+[Phần thưởng sự kiện]
+1. Vượt qua tất cả các ải sự kiện, có thể nhận tổng cộng Astrite*90.
+2. Trong ải sự kiện, sửa chữa đường dây đặc biệt, có thể nhận thêm phần thưởng tổng cộng Shell Credit*60000.
+3. Hoàn thành tất cả nhiệm vụ sự kiện, có thể nhận thưởng nhiệm vụ tổng cộng Astrite*10, Lõi Năng Lượng Cao Cấp*5, Thuốc Kích Thích Cộng Hưởng Cao Cấp*5, Ống Nghiệm Mật Âm Cao Cấp*5.
+
+[Lưu ý]
+1. Sau khi sự kiện kết thúc sẽ không thể khiêu chiến ải sự kiện, vui lòng tham gia kịp thời.
+2. Vui lòng đăng nhập game kịp thời trong thời gian sự kiện để nhận thưởng. Sau khi sự kiện kết thúc sẽ không thể nhận thưởng, mong Lữ Khách lưu ý.
+3. Nội dung liên quan đến sự kiện web này không liên quan đến diễn biến cốt truyện thực tế, thiết lập nhân vật... trong game."
+lang_multi_text.db,MultiText,HelpText_488_Title,【冰原筑脉】活动说明,Veins of the Frostlands,Giải thích sự kiện [Xây Mạch Băng Nguyên]
+lang_multi_text.db,MultiText,HelpText_489_Content,"【活动规则】
+完成潮汐任务第三章第三幕「远航星」后可免费领取漂泊者全新服饰「星火永明」。
+领取后，将同时获取两套服饰和对应的头像。","[Rules]
+Complete Main Quest Chapter III Act III ""The Star That Voyages Far"" to obtain the free Outfit ""Perpetual Spark"" for Rover.
+Both sets of Outfits and Avatars are obtainable upon claiming.","[Quy tắc sự kiện]
+Sau khi hoàn thành Nhiệm Vụ Thủy Triều chương 3 màn 3 ""Ngôi Sao Viễn Du"", có thể nhận miễn phí trang phục mới của Lữ Khách ""Tinh Hỏa Vĩnh Minh"".
+Sau khi nhận, sẽ đồng thời nhận được hai bộ trang phục và avatar tương ứng."
+lang_multi_text.db,MultiText,HelpText_489_Title,星火永明,Perpetual Spark,Tinh Hỏa Vĩnh Minh
+lang_multi_text.db,MultiText,HelpText_48_Content,"【数据坞等级】
+更多声骸数据可以帮助终端提升解算能力。
+漂泊者可以通过解锁新声骸来获得数据坞经验、提升数据坞等级，从而领取相应奖励。
+解锁已有声骸的更高品质，同样可以获得数据坞经验。
+解锁新声骸或解锁已有声骸的更高品质时，也可以获得联觉经验。
+数据坞的等级上限为30级。
+
+【基础吸收概率】
+残象被击败时，有概率会保留一部分特征频率的信息，可供唤醒和利用，此即声骸。
+提升数据坞等级，可以提高掉落声骸的概率。
+ 
+【强化吸收概率】
+对于指定危险等级的残象，终端可以消耗额外的算力大幅提升其声骸掉落概率。
+目前的算力支持有限，在总计强化吸收有限次数之后会耗尽，需要一定时间重新累积。
+不同危险等级残象的强化吸收次数分别计算。
+*每周一服务器时间04:00更新
+ 
+【最高可吸收品质】
+提升数据坞等级，可以提升获得更高品质声骸的概率。
+ 
+【COST上限】
+共鸣者可装配声骸会受到负载/COST约束，当前装配声骸的COST之和不可超过COST上限。
+提升数据坞等级，可以提升声骸装配的COST上限。","[Data Bank Level]
+More Echo data can help the Terminal improve its computational capabilities.
+Rovers can unlock new Echoes to gain Data Bank EXP, improve Data Bank level, and receive corresponding rewards.
+Unlocking higher quality of existing Echoes also grants Data Bank EXP
+The Data Bank Level maxes out at 30.
+
+[Base Drop Rate]
+When a Tacet Discord is defeated, there's a chance to retain and convert its lingering frequencies into an Echo. Upgrade the Terminal Data Bank to increase your chance of getting Echo drops (Base Drop Rate).
+
+[Enhanced Drop Rate]
+For certain classes of Tacet Discords, your Terminal can consume extra computational power to enhance its Echo absorption and increase your chances of getting Echo drops. It can perform a limited number of enhanced absorptions, and then it will need time to recharge.
+The enhanced absorption attempts of different classes are counted separately.
+*Cooldown resets at server time 04:00 a.m. every Monday.
+
+[Highest Drop Rarity]
+Upgrade the Terminal Data Bank to increase your chance of getting Echoes of higher Rarity.
+
+[COST Limit]
+The total COST of equipped Echoes must not exceed your current COST Limit.
+Upgrade the Terminal Data Bank to raise your COST Limit and equip more powerful Echoes.","[Cấp Độ Data Bank]
+Nhiều dữ liệu Thanh Hài hơn có thể giúp thiết bị đầu cuối nâng cao khả năng tính toán.
+Lữ Khách có thể nhận kinh nghiệm Data Bank, nâng cấp độ Data Bank bằng cách mở khóa Thanh Hài mới, từ đó nhận phần thưởng tương ứng.
+Mở khóa phẩm chất cao hơn của Thanh Hài đã có cũng có thể nhận được kinh nghiệm Data Bank.
+Khi mở khóa Thanh Hài mới hoặc mở khóa phẩm chất cao hơn của Thanh Hài đã có, cũng có thể nhận được kinh nghiệm Liên Giác.
+Cấp độ tối đa của Data Bank là 30.
+
+[Xác Suất Hấp Thụ Cơ Bản]
+Khi Tàn Tượng bị đánh bại, có xác suất giữ lại một phần thông tin tần số đặc trưng, có thể dùng để đánh thức và sử dụng, đó chính là Thanh Hài.
+Nâng cấp độ Data Bank có thể tăng xác suất rơi Thanh Hài.
+
+[Xác Suất Hấp Thụ Cường Hóa]
+Đối với Tàn Tượng có cấp độ nguy hiểm chỉ định, thiết bị đầu cuối có thể tiêu hao thêm sức mạnh tính toán để tăng đáng kể xác suất rơi Thanh Hài của nó.
+Sức mạnh tính toán hiện tại có hạn, sau khi cường hóa hấp thụ một số lần nhất định sẽ cạn kiệt, cần một khoảng thời gian để tích lũy lại.
+Số lần hấp thụ cường hóa của các Tàn Tượng có cấp độ nguy hiểm khác nhau được tính riêng.
+*Làm mới vào 04:00 giờ server thứ Hai hàng tuần
+
+[Phẩm Chất Hấp Thụ Tối Đa]
+Nâng cấp độ Data Bank có thể tăng xác suất nhận được Thanh Hài phẩm chất cao hơn.
+
+[Giới Hạn COST]
+Cộng Hưởng Giả trang bị Thanh Hài sẽ chịu ràng buộc về tải trọng/COST, tổng COST của các Thanh Hài đang trang bị không được vượt quá giới hạn COST.
+Nâng cấp độ Data Bank có thể tăng giới hạn COST trang bị Thanh Hài."
+lang_multi_text.db,MultiText,HelpText_48_Title,数据坞说明,Data Bank,Giải thích Data Bank
+lang_multi_text.db,MultiText,HelpText_492_Content,"【周度演算卡】
+周度演算卡贩售期间，漂泊者可参与购买，限购 1 次。
+
+购买并激活周度演算卡后，有效期为15天。于有效期内，特定天数及之后登录可解锁特定奖励。最多可获取月相*680、星声*1600和频整器*1。
+
+具体奖励解锁规则如下：
+· 周度演算卡有效期首日，漂泊者可立即解锁月相*680和频整器*1的奖励。
+· 周度演算卡有效期内，漂泊者在第3日及之后的天数登录可解锁星声*800的奖励。
+· 周度演算卡有效期内，漂泊者在第7日及之后的天数登录可解锁星声*800的奖励。
+· 奖励在满足条件解锁后即可领取，未解锁的奖励暂时无法领取。
+<b>周度演算卡有效期满时，若存在已解锁但未领取的奖励，请在有效期满后30天内登录游戏，奖励将通过邮件补发，若超过30天未登录游戏将无法补发奖励，请漂泊者注意及时领取。</b>
+
+【特殊说明】
+· 购买并激活周度演算卡后，有效期为15天，且不受原本下架时间影响。
+如，漂泊者在下架前三天购买并激活周度演算卡的，可于有效期15天内继续登录以解锁并领取奖励。
+· 通过游戏外购买周度演算卡(如网页充值中心)，需在周度演算卡下架前登录游戏激活，有效期自完成购买后首次登录游戏之日起算。
+· 通过游戏外购买周度演算卡(如网页充值中心)，且<b>下架前未登录游戏的，周度演算卡将无法激活，漂泊者将获得返还的月相*750。</b>
+· 如果因特殊情况导致重复购买，周度演算卡不会叠加，每次重复购买漂泊者将获得返还的月相*750。","[Weekly Subscription]
+The Weekly Subscription is available for purchase once per period.
+
+The Weekly Subscription is valid for 15 days from the date of activation. Log in on or after the specific days during the subscription period for a total of Lunite x680, Astrite x1600, and Transducer x1.
+
+Reward unlock rules:
+- Activating the Weekly Subscription immediately unlocks Lunite x680 and Transducer x1.
+- During the subscription period, log in on the 3rd day or later to unlock Astrite x800.
+- During the subscription period, log in on the 7th day or later to unlock Astrite x800.
+- Rewards can only be claimed anytime once unlocked.
+<b>If you have unlocked but unclaimed rewards when the Weekly Subscription expires, please log in to the game within 30 days after the expiration, and the rewards will be sent via mail. Rewards will not be reissued past these 30 days. Please claim your rewards in time.</b>
+
+[Note]
+- The Weekly Subscription is valid for 15 days upon activation and is not affected by its sales period.
+E.g., if you purchase and activate the subscription three days before it is removed from the store, you can still log in during the 15 days to unlock and claim your rewards.
+- For purchases made outside the game (e.g., web purchases), the subscription must be activated by logging into the game before it is removed from the store, with the activation time starting from the first login after your purchase.
+- For purchases made outside the game (e.g., web purchases), <b>if you have not logged into the game before it is removed from the store, the Weekly Subscription cannot be activated, and you will receive a refund of Lunite x750.</b>
+- In case of accidental multiple purchases, the Weekly Subscription will not stack, and each extra purchase will result in a refund of Lunite x750.","[Thẻ Diễn Toán Tuần]
+Trong thời gian mở bán Thẻ Diễn Toán Tuần, Lữ Khách có thể tham gia mua, giới hạn mua 1 lần.
+
+Sau khi mua và kích hoạt Thẻ Diễn Toán Tuần, thời hạn hiệu lực là 15 ngày. Trong thời hạn hiệu lực, đăng nhập vào các ngày chỉ định và các ngày sau đó có thể mở khóa phần thưởng tương ứng. Tối đa có thể nhận Lunite*680, Astrite*1600 và Bộ Chỉnh Tần*1.
+
+Quy tắc mở khóa phần thưởng cụ thể như sau:
+. Ngày đầu tiên trong thời hạn hiệu lực của Thẻ Diễn Toán Tuần, Lữ Khách có thể mở khóa ngay phần thưởng Lunite*680 và Bộ Chỉnh Tần*1.
+. Trong thời hạn hiệu lực của Thẻ Diễn Toán Tuần, Lữ Khách đăng nhập vào ngày thứ 3 và các ngày sau đó có thể mở khóa phần thưởng Astrite*800.
+. Trong thời hạn hiệu lực của Thẻ Diễn Toán Tuần, Lữ Khách đăng nhập vào ngày thứ 7 và các ngày sau đó có thể mở khóa phần thưởng Astrite*800.
+. Phần thưởng sau khi thỏa mãn điều kiện mở khóa có thể nhận ngay, phần thưởng chưa mở khóa tạm thời không thể nhận.
+<b>Khi Thẻ Diễn Toán Tuần hết hạn, nếu còn phần thưởng đã mở khóa nhưng chưa nhận, vui lòng đăng nhập game trong vòng 30 ngày sau khi hết hạn, phần thưởng sẽ được gửi bù qua thư. Nếu quá 30 ngày không đăng nhập game sẽ không thể nhận bù phần thưởng, Lữ Khách vui lòng lưu ý nhận kịp thời.</b>
+
+[Lưu ý đặc biệt]
+. Sau khi mua và kích hoạt Thẻ Diễn Toán Tuần, thời hạn hiệu lực là 15 ngày, và không bị ảnh hưởng bởi thời gian ngừng bán ban đầu.
+Ví dụ, nếu Lữ Khách mua và kích hoạt Thẻ Diễn Toán Tuần ba ngày trước khi ngừng bán, vẫn có thể tiếp tục đăng nhập trong vòng 15 ngày hiệu lực để mở khóa và nhận thưởng.
+. Nếu mua Thẻ Diễn Toán Tuần qua kênh ngoài game (như trung tâm nạp thẻ web), cần đăng nhập game kích hoạt trước khi Thẻ Diễn Toán Tuần ngừng bán, thời hạn hiệu lực tính từ ngày đăng nhập game lần đầu sau khi mua thành công.
+. Nếu mua Thẻ Diễn Toán Tuần qua kênh ngoài game (như trung tâm nạp thẻ web), nhưng <b>chưa đăng nhập game trước khi ngừng bán, Thẻ Diễn Toán Tuần sẽ không thể kích hoạt, Lữ Khách sẽ được hoàn trả Lunite*750.</b>
+. Nếu do tình huống đặc biệt dẫn đến mua lặp lại, Thẻ Diễn Toán Tuần sẽ không cộng dồn, mỗi lần mua lặp lại Lữ Khách sẽ được hoàn trả Lunite*750."
+lang_multi_text.db,MultiText,HelpText_492_Title,周度演算卡,Weekly Subscription,Thẻ Diễn Toán Tuần
+lang_multi_text.db,MultiText,HelpText_493_Content,"【基础流程】
+ 使用共有16张牌的卡组来进行游戏。在游戏开始时，每位玩家各抽取8张牌，并通过硬币决定每回合中玩家的行动顺序。在每轮的玩家回合中，该玩家按照顺序从对手手中抽一张牌，若手牌中有两张同样的牌，则可以将其作为对子打出。
+当满足任意胜利条件时，游戏结束。
+
+ 【胜利条件】
+ 1. 每位玩家有2点生命值，当玩家抽到无冠者牌时，会扣除1点生命值。生命值为0的玩家输掉游戏。
+ 2.若任意玩家手牌数量为0，且对手手牌中有无冠者牌，则手牌数量为0的玩家获胜。
+
+
+ 【卡牌详细说明】
+1.变化牌：每回合会随机变化为手牌中的另一张牌，每回合变化的牌不会重复，且不会变化为已经打出过的牌或无冠者牌。
+变化牌可以视为正常的牌组成对子并打出。
+2.无冠者牌：卡组中只有一张无冠者牌。每位玩家都有2点生命，每当任一玩家抽到无冠者牌时，都会失去1点生命。
+当任一玩家的生命归零时，就会输掉这局游戏。","[Basic Gameplay]
+The game is played with a deck of 16 cards. Each player starts with a hand of 8 cards. Players flip a coin to decide their play order in each round.
+In a player's turn, they draw one card from their opponent's hand. If a player has two identical cards in hand, they may play them as a pair.
+The game ends when any of the victory conditions are met.
+
+[Victory Conditions]
+1. Each player starts with 2 HP. Drawing the Crownless Card costs 1 HP. If a player's HP drops to 0, they lose the game.
+2. If a player plays every card in their hand while their opponent is still holding the Crownless Card, the player who goes out wins.
+
+[Card Details]
+1. Wild Card: At the start of each turn, the Wild Card randomly transforms into another number card in the player's hand. It cannot transform into the Crownless Card, a card that has already been played, or repeat its transform in previous rounds. Wild Cards can form pairs like standard cards.
+2. Crownless Card: There is only one Crownless Card in the deck. Drawing it causes the player to lose 1 HP (out of 2). The first player to lose 2 HP loses the game.","[Quy trình cơ bản]
+Sử dụng bộ bài gồm 16 lá để chơi. Khi bắt đầu trò chơi, mỗi người chơi rút 8 lá bài, và quyết định thứ tự hành động của người chơi trong mỗi hiệp thông qua tung đồng xu. Trong lượt của người chơi ở mỗi hiệp, người chơi đó lần lượt rút một lá bài từ tay đối thủ, nếu trong tay có hai lá bài giống nhau, có thể đánh ra như một đôi.
+Khi thỏa mãn bất kỳ điều kiện chiến thắng nào, trò chơi kết thúc.
+
+[Điều kiện chiến thắng]
+1. Mỗi người chơi có 2 điểm sinh mệnh, khi người chơi rút phải lá Vô Quan Giả, sẽ bị trừ 1 điểm sinh mệnh. Người chơi có sinh mệnh bằng 0 sẽ thua cuộc.
+2. Nếu số lượng bài trên tay của bất kỳ người chơi nào bằng 0, và trong tay đối thủ có lá Vô Quan Giả, thì người chơi có số lượng bài bằng 0 sẽ thắng.
+
+[Giải thích chi tiết thẻ bài]
+1. Lá Biến Hóa: Mỗi hiệp sẽ ngẫu nhiên biến đổi thành một lá bài khác đang có trên tay, lá bài biến đổi mỗi hiệp sẽ không trùng lặp, và không biến đổi thành lá bài đã đánh ra hoặc lá Vô Quan Giả.
+Lá Biến Hóa có thể được coi là lá bài bình thường để tạo thành đôi và đánh ra.
+2. Lá Vô Quan Giả: Trong bộ bài chỉ có một lá Vô Quan Giả. Mỗi người chơi đều có 2 điểm sinh mệnh, mỗi khi bất kỳ người chơi nào rút phải lá Vô Quan Giả, đều sẽ mất 1 điểm sinh mệnh.
+Khi sinh mệnh của bất kỳ người chơi nào về 0, sẽ thua ván đấu này."
+lang_multi_text.db,MultiText,HelpText_493_Title,纸牌游戏玩法说明,Card Game,Giải thích lối chơi Bài Tây
+lang_multi_text.db,MultiText,HelpText_494_Content,"【玩法简介】
+每位友人对饮品的喜好各不相同，请尝试在对话中确认对方喜欢的饮品原料及风味，搭配出最适合她们的饮品。
+【玩法说明】
+饮品调制分4个步骤：
+1.选择第一份饮品基底。
+2.选择第二份饮品基底。
+3.选择配料。
+4.选择装饰。
+其中，饮品基底和配料会影响饮品的风味，基底的搭配会产生不同的饮品种类。
+根据饮品订单的风味需求，以及饮品种类是否符合友人喜好，友人将对饮品做出评价。若友人对饮品的评价为满意或更高，则可获得首通奖励。
+成功制作出友人非常满意的饮品后，会出现额外的对话选项。","[About]
+Each companion has her own preferences for drinks. Try to find out their favorite ingredients and flavors through conversation, then create the drink they like best.
+ 
+[Instructions]
+Making a drink consists of four steps:
+1. Select the first drink base.
+2. Select the second drink base.
+3. Select add-ins.
+4. Select a topping.
+The flavor of a drink depends on the combination of bases and add-ins you use, which also determines its type.
+Your companion will rate each drink based on how well its flavor matches the order and whether its type is her personal preference. To receive the first-clear rewards, you must earn a rating of ""Satisfied"" or higher.
+Earn a ""Very Satisfied"" rating to unlock bonus dialogue.","[Giới thiệu lối chơi]
+Sở thích đồ uống của mỗi người bạn đều khác nhau, hãy thử xác nhận nguyên liệu và hương vị đồ uống mà đối phương thích qua cuộc trò chuyện, pha chế đồ uống phù hợp nhất cho họ.
+[Giải thích lối chơi]
+Pha chế đồ uống chia làm 4 bước:
+1. Chọn nền đồ uống thứ nhất.
+2. Chọn nền đồ uống thứ hai.
+3. Chọn nguyên liệu phụ.
+4. Chọn trang trí.
+Trong đó, nền đồ uống và nguyên liệu phụ sẽ ảnh hưởng đến hương vị đồ uống, sự kết hợp của nền đồ uống sẽ tạo ra các loại đồ uống khác nhau.
+Dựa trên nhu cầu hương vị của đơn hàng, cũng như loại đồ uống có phù hợp sở thích của người bạn hay không, người bạn sẽ đưa ra đánh giá về đồ uống. Nếu người bạn đánh giá đồ uống là hài lòng hoặc cao hơn, thì có thể nhận phần thưởng vượt ải lần đầu.
+Sau khi pha chế thành công đồ uống khiến người bạn rất hài lòng, sẽ xuất hiện thêm tùy chọn đối thoại."
+lang_multi_text.db,MultiText,HelpText_494_Title,【饮品制作】说明,Drink Making,Giải thích [Pha Chế Đồ Uống]
+lang_multi_text.db,MultiText,HelpText_495_Content,"1. 完成活动任务，在宴会中邀约同伴、布置陈设，可以提升聚乐值。
+2. 聚乐值达到一定量后，将提升聚乐值阶段。随着聚乐值阶段提升，宴会将解锁更多玩法内容及阶段奖励。","1. Complete event quests, invite companions, and place decorations to increase the Vibe Gauge.
+2. Reaching certain Vibe Gauge thresholds increases your Vibe Level, unlocking additional content and rewards.","1. Hoàn thành nhiệm vụ sự kiện, mời bạn đồng hành trong bữa tiệc, bố trí đồ đạc, có thể tăng Điểm Vui Vẻ.
+2. Sau khi Điểm Vui Vẻ đạt lượng nhất định, sẽ tăng Giai Đoạn Vui Vẻ. Cùng với việc tăng Giai Đoạn Vui Vẻ, bữa tiệc sẽ mở khóa thêm nội dung lối chơi và phần thưởng giai đoạn."
+lang_multi_text.db,MultiText,HelpText_495_Title,无尽宴会聚乐值说明,Forever Fest Vibe Gauge,Giải thích Điểm Vui Vẻ Bữa Tiệc Vô Tận
+lang_multi_text.db,MultiText,HelpText_496_Content,盖泽尔曾使用的武器展示台，共有五个，可任意将你获取的武器摆上去进行展示。让宾客们尽情欣赏那些英武与荣光吧。,"Geisel once had five Weapon Display Stands. Display your collected weapons upon them, and let their glory and valor speak to all who attend.","Đài trưng bày vũ khí Geisel từng sử dụng, có tổng cộng năm cái, có thể tùy ý đặt vũ khí bạn nhận được lên để trưng bày. Hãy để các vị khách thỏa sức chiêm ngưỡng vẻ oai phong và vinh quang đó nào."
+lang_multi_text.db,MultiText,HelpText_496_Title,武器展示台说明,Weapon Display Stands,Giải thích Đài Trưng Bày Vũ Khí
+lang_multi_text.db,MultiText,HelpText_497_Content,盖泽尔曾使用的声骸展示台，共有五个，可任意将你解锁的声骸摆上去进行展示。让宾客们尽情欣赏这些可爱或勇猛的声骸吧。,"Geisel once had five Echo Display Stands. Display your collected Echoes upon them, and let their glory and valor speak to all who attend.","Đài trưng bày Thanh Hài Geisel từng sử dụng, có tổng cộng năm cái, có thể tùy ý đặt Thanh Hài bạn đã mở khóa lên để trưng bày. Hãy để các vị khách thỏa sức chiêm ngưỡng những Thanh Hài đáng yêu hoặc dũng mãnh này nào."
+lang_multi_text.db,MultiText,HelpText_497_Title,声骸展示台说明,Echo Display Stands,Giải thích Đài Trưng Bày Thanh Hài
+lang_multi_text.db,MultiText,HelpText_498_Content,"【简介】
+在「派对装潢」中，漂泊者可以获取多种陈设，并用这些陈设定制个性化的派对场所。
+【区域】
+派对场所被分成不同的区域，漂泊者可以在各个区域中自由放置或搭配陈设。
+【聚乐值】
+不同的陈设拥有不同的「聚乐值」。「聚乐值」可以提高所在区域的「聚乐值等级」，并在满足条件后解锁新的陈设与奖励。","[About]
+In Party Decor, you can collect a variety of decorations and use them to adorn the venue however you like.
+[Areas]
+The party venue is divided into multiple areas. Each area can be decorated freely and independently.
+[Vibe Gauge]
+Each decoration provides certain points of Vibe Gauge. Increasing the Vibe Gauge raises an area's Vibe Level, which unlocks new furnishings and rewards once specific requirements are met.","[Giới thiệu]
+Trong ""Trang Trí Tiệc"", Lữ Khách có thể nhận được nhiều loại đồ đạc, và dùng những đồ đạc này để tùy chỉnh địa điểm tiệc tùng cá nhân hóa.
+[Khu vực]
+Địa điểm tiệc tùng được chia thành các khu vực khác nhau, Lữ Khách có thể tự do đặt hoặc phối hợp đồ đạc trong từng khu vực.
+[Điểm Vui Vẻ]
+Các đồ đạc khác nhau sở hữu ""Điểm Vui Vẻ"" khác nhau. ""Điểm Vui Vẻ"" có thể tăng ""Cấp Độ Vui Vẻ"" của khu vực đó, và mở khóa đồ đạc mới cùng phần thưởng sau khi thỏa mãn điều kiện."
+lang_multi_text.db,MultiText,HelpText_498_Title,派对装潢说明,Party Decor,Giải thích Trang Trí Tiệc
+lang_multi_text.db,MultiText,HelpText_49_Content,"【联觉等级提升】
+1.完成<color=#c49e55>各类任务、索拉指南每日活跃度奖励</color>等可获得大量联觉经验。
+2.消耗结晶波片挑战<color=#c49e55>各类副本、无音区、领主BOSS</color>等可获得大量联觉经验。
+3.大世界中探索过程中<color=#c49e55>开启宝箱</color>也可以获得联觉经验。","[Union Level Upgrade]
+1. Complete <color=#c49e55>various quests, Guidebook daily activity rewards</color> to obtain Union EXP.
+2. Consume Waveplates to challenge <color=#c49e55>various dungeons, Tacet Fields, bosses</color> to obtain Union EXP.
+3. While exploring the overworld, <color=#c49e55>open Supply Chests</color> to obtain Union EXP.","[Tăng Cấp Liên Giác]
+1. Hoàn thành <color=#c49e55>các loại nhiệm vụ, thưởng năng động mỗi ngày trong Hướng Dẫn Solaris</color>... có thể nhận lượng lớn kinh nghiệm Liên Giác.
+2. Tiêu hao Nhựa Kết Tinh khiêu chiến <color=#c49e55>các loại phó bản, Vùng Vô Thanh, BOSS Lãnh Chúa</color>... có thể nhận lượng lớn kinh nghiệm Liên Giác.
+3. Trong quá trình khám phá thế giới mở <color=#c49e55>mở rương báu</color> cũng có thể nhận kinh nghiệm Liên Giác."
+lang_multi_text.db,MultiText,HelpText_49_Title,联觉等级提升说明,Union Level Upgrade,Giải thích tăng Cấp Liên Giác
+lang_multi_text.db,MultiText,HelpText_4_Title,背包界面,Backpack Interface,Giao diện Túi
+lang_multi_text.db,MultiText,HelpText_501_Content,"【活动简介】
+无名的索诺拉中进行着一场无尽的盛宴，但盛宴虽然无尽，索诺拉却终会消失。一场盛宴，怎能在寂静中走向终结？因此，呜呜物流决定借这里举办一场呜呜派对，大家云集于此，为此地献上璀璨与欢歌。
+
+【参与条件】
+联觉等级达到8级，并在潮汐任务「冰原下的星炬」中领取科考摩托后解锁
+
+【活动规则】
+活动期间，漂泊者通过游玩活动内容，可获得一定数目的「聚乐值」，当聚乐值积累到一定阶段，可解锁新的区域装潢，开启更多机关玩法内容；
+同时通过参与活动，还可获得「银河古币」，可用于在管家柯布·科波处兑换陈设；
+活动结束时，将无法继续参与「银河倾落之间」主题活动。","[About]
+An endless revelry unfolds within a nameless Sonoro Sphere. Though the festival seems eternal, the Sonoro will one day fade. To grant it a vibrant finale, Lollo Logistics hosts a special party, a final call for everyone to gather, shine brilliantly, and share one last, joyous celebration.
+
+[Eligibility]
+Reach Union Level 8 and obtain the expedition motorbike during the Main Quest ""What Burns Beneath Frostlands"" to unlock.
+
+[Event Rules]
+During the event, complete event activities to increase the Vibe Gauge. Reaching certain Vibe Gauge thresholds unlocks new area decorations and additional mechanisms.
+You can also obtain Starfall Coins during the event, which can be exchanged for decorations from Mr. Cobb Copo, the butler.
+After the event ends, the unfinished event activities will not be available.","[Giới thiệu sự kiện]
+Trong Sonora Vô Danh đang diễn ra một bữa tiệc vô tận, nhưng dù bữa tiệc là vô tận, Sonora cuối cùng cũng sẽ biến mất. Một bữa tiệc, sao có thể kết thúc trong tĩnh lặng? Vì vậy, Giao Vận Lollo quyết định mượn nơi này tổ chức một bữa tiệc Lollo, mọi người tề tựu về đây, dâng lên nơi này sự rực rỡ và những khúc hoan ca.
+
+[Điều kiện tham gia]
+Cấp Liên Giác đạt cấp 8, và mở khóa sau khi nhận xe máy khảo sát trong Nhiệm Vụ Thủy Triều ""Ngọn Đuốc Dưới Băng Nguyên""
+
+[Quy tắc sự kiện]
+Trong thời gian sự kiện, Lữ Khách thông qua việc chơi nội dung sự kiện, có thể nhận một lượng ""Điểm Vui Vẻ"" nhất định, khi Điểm Vui Vẻ tích lũy đến giai đoạn nhất định, có thể mở khóa trang trí khu vực mới, mở thêm nội dung cơ quan lối chơi;
+Đồng thời thông qua tham gia sự kiện, còn có thể nhận ""Tiền Cổ Ngân Hà"", dùng để đổi đồ đạc tại chỗ Quản Gia Cobb Copo;
+Khi sự kiện kết thúc, sẽ không thể tiếp tục tham gia sự kiện chủ đề ""Nơi Ngân Hà Đổ Xuống""."
+lang_multi_text.db,MultiText,HelpText_501_Title,【银河倾落之间】活动说明,Where Stars Cascade Down,Giải thích sự kiện [Nơi Ngân Hà Đổ Xuống]
+lang_multi_text.db,MultiText,HelpText_502_Content,"活动期间，通过探索游玩活动内容、完成限时开放的指定任务，可获取包含「呜呜兑换卡」在内的奖励。
+在「呜呜兑换卡」收集至一定数量后，可用来兑换对应进度的奖励。","Complete event activities and limited-time tasks to earn Lollo Vouchers and other rewards.
+Collect Lollo Vouchers to reach milestone stages and claim corresponding rewards.","Trong thời gian sự kiện, thông qua việc khám phá chơi nội dung sự kiện, hoàn thành nhiệm vụ chỉ định mở giới hạn, có thể nhận phần thưởng bao gồm ""Thẻ Đổi Lollo"".
+Sau khi thu thập ""Thẻ Đổi Lollo"" đến số lượng nhất định, có thể dùng để đổi phần thưởng tiến độ tương ứng."
+lang_multi_text.db,MultiText,HelpText_502_Title,【银河倾落之间】活动限时奖励说明,Limited-Time Rewards of Where Stars Cascade Down,Giải thích phần thưởng giới hạn sự kiện [Nơi Ngân Hà Đổ Xuống]
+lang_multi_text.db,MultiText,HelpText_503_Content,"【活动简介】
+
+活动期间，累计获得「月影溯环」可解锁对应档位的奖励。 购买<color=#ad893a>特别推荐-周度演算卡、特别推荐-月相观测卡及礼包中心-特惠专区、装扮橱窗-载具外观、凝刻月相</color>中带有<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity31/CumulativeRecharge/Common/T_TempScoreIcon.T_TempScoreIcon,0.5/>标签的商品可获得「月影溯环」。
+当凝月辉途活动结束后，「月影溯环」将失效，且不会兑换成其他物品。
+
+活动结束后，若存在符合领取条件但未领取的活动奖励，请在活动结束后30天内登录游戏，奖励将通过邮件补发，若超过30天未登录游戏，将无法补发奖励，请漂泊者注意领取。
+
+【参与条件】
+- 联觉等级达到5级。
+- 或在潮汐任务「嘤鸣初相召」中完成实战检测。
+- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。
+
+【规则说明】
+活动期间，累计获得「月影溯环」可解锁对应档位的奖励。
+
+登录并进入「凝月辉途」可直接领取：唤声涡纹*1
+累计获取30月影溯环：浮金波纹*1
+累计获取88月影溯环：摩托饰品·“小小救世主”
+累计获取198月影溯环：铸潮波纹*2
+累计获取328月影溯环：定制涂装·深空与歌者（全套包含左侧挡板涂装、右侧挡板涂装、首尾涂装）
+累计获取450月影溯环：5星武器补给箱·共生武装*1（镭射切变、源能机锋、相位涟漪、脉冲协臂、玻色星仪任选其一）
+累计获取680月影溯环：频整器*3
+累计获取980月影溯环：洄忆星锚*1（守岸人、椿、今汐任选其一，或频整器*8）
+累计获取1600月影溯环：定制装扮套装*1（全套包含「星之祝宴」头像、「星之怜爱」羁旅印章、「映照万音的星彩」定制饰品）
+
+【特殊说明】
+- 通过游戏外充值方式(如网页充值中心)，需在活动期间内登录游戏完成发货后，才会计入活动进度，若漂泊者在活动期间未登录游戏完成发货，将无法计入活动进度。","[About]
+During the event, obtain Moonlit Rings to unlock and claim rewards. Purchase merchandise tagged with <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity31/CumulativeRecharge/Common/T_TempScoreIcon.T_TempScoreIcon,0.5/> in the <color=#ad893a>Recommended - Weekly Subscription, Recommended - Lunite Subscription, Bundles - Special Offers, Outfits - Vehicle Looks, and the Lunite Purchase</color> sections of the Store to obtain Moonlit Rings.
+
+When the Moonlit Path event ends, the Moonlit Rings will expire and will not be converted to other items. After the event ends, any unclaimed event rewards will be reissued via in-game mail if you log in within 30 days. If you fail to log in within 30 days, the rewards will not be reissued. Don't forget to claim them in your in-game mailbox.
+
+[Eligibility]
+- Reach Union Level 5.
+- Or complete the combat trial in the Main Quest ""First Resonance.""
+- Or access Main Quest Fast Track Event and proceed with the Main Quest until you reach a specific point.
+
+[Rules]
+During the event, obtain Moonlit Rings to unlock and claim rewards.
+
+Log in and enter Moonlit Path to claim: Lustrous Tide x1
+Obtain 30 Moonlit Rings to claim: Radiant Tide x1
+Obtain 88 Moonlit Rings to claim: Motorbike Accessory - Little Savior
+Obtain 198 Moonlit Rings to claim: Forging Tide x2
+Obtain 328 Moonlit Rings to claim: Custom Livery - Singer in Deepspace (Full set includes: Left Fender, Right Fender, Front/Rear)
+Obtain 450 Moonlit Rings to claim: 5-star Weapon Supply Chest - Synth Armament x1 (Open to choose one weapon: Laser Shearer, Radiance Cleaver, Phasic Homogenizer, Pulsation Bracer, or Boson Astrolabe)
+Obtain 680 Moonlit Rings to claim: Transducer x3
+Obtain 980 Moonlit Rings to claim: Stellar Anchor of Memories x 1 (Exchanged for Shorekeeper, Camellya, or Jinhsi, or Transducer x8)
+Obtain 1600 Moonlit Rings to claim: Cosmetics Set x1 (Full set includes Avatar: Choir of Stars, Sigil: Favor of Stars, Custom Accessory: Starbright Resonance)
+
+[Note]
+- If you make purchases through any non–in-game channel, such as the official website's top-up center, please log in to the game while the event is ongoing to receive your purchases, as well as the corresponding Moonlit Rings. If you log in after the event ends, you will not receive the corresponding Moonlit Rings.","[Giới thiệu sự kiện]
+
+Trong thời gian sự kiện, tích lũy nhận ""Vòng Nguyệt Ảnh"" có thể mở khóa phần thưởng ở các mốc tương ứng. Mua các vật phẩm có gắn nhãn <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity31/CumulativeRecharge/Common/T_TempScoreIcon.T_TempScoreIcon,0.5/> trong <color=#ad893a>Đề Cử Đặc Biệt - Thẻ Diễn Toán Tuần, Đề Cử Đặc Biệt - Thẻ Quan Sát Lunite và Trung Tâm Quà Tặng - Khu Vực Ưu Đãi, Tủ Đồ Thời Trang - Ngoại Quan Xe, Ngưng Khắc Lunite</color> có thể nhận được ""Vòng Nguyệt Ảnh"".
+Khi sự kiện Con Đường Ánh Trăng kết thúc, ""Vòng Nguyệt Ảnh"" sẽ mất hiệu lực và không được quy đổi thành vật phẩm khác.
+
+Sau khi sự kiện kết thúc, nếu còn phần thưởng sự kiện đủ điều kiện nhận nhưng chưa nhận, vui lòng đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc, phần thưởng sẽ được gửi bù qua thư. Nếu quá 30 ngày không đăng nhập game, sẽ không thể nhận bù phần thưởng, Lữ Khách vui lòng lưu ý nhận.
+
+[Điều kiện tham gia]
+- Cấp Liên Giác đạt cấp 5.
+- Hoặc hoàn thành kiểm tra thực chiến trong Nhiệm Vụ Thủy Triều ""Tiếng Gọi Đầu Tiên"".
+- Hoặc thông qua tính năng [Trải Nghiệm Nhanh Nhiệm Vụ Thủy Triều], đi theo chỉ dẫn đến nút Nhiệm Vụ Thủy Triều tương ứng.
+
+[Giải thích quy tắc]
+Trong thời gian sự kiện, tích lũy nhận ""Vòng Nguyệt Ảnh"" có thể mở khóa phần thưởng ở các mốc tương ứng.
+
+Đăng nhập và vào ""Con Đường Ánh Trăng"" có thể nhận ngay: Sóng Hoa Văn Triệu Hồi*1
+Tích lũy nhận 30 Vòng Nguyệt Ảnh: Sóng Hoa Văn Rực Rỡ*1
+Tích lũy nhận 88 Vòng Nguyệt Ảnh: Phụ Kiện Xe Máy . ""Cứu Tinh Tí Hon""
+Tích lũy nhận 198 Vòng Nguyệt Ảnh: Sóng Hoa Văn Rèn Đúc*2
+Tích lũy nhận 328 Vòng Nguyệt Ảnh: Ngoại Quan Tùy Chỉnh . Không Gian Sâu Thẳm Và Ca Giả (Trọn bộ bao gồm ngoại quan tấm chắn trái, ngoại quan tấm chắn phải, ngoại quan đầu đuôi)
+Tích lũy nhận 450 Vòng Nguyệt Ảnh: Rương Tiếp Tế Vũ Khí 5 Sao . Vũ Trang Cộng Sinh*1 (Chọn một trong các vũ khí: Kéo Cắt Laser, Lưỡi Cưa Nguyên Năng, Gợn Sóng Pha, Cánh Tay Xung Kích, Tinh Nghi Boson)
+Tích lũy nhận 680 Vòng Nguyệt Ảnh: Bộ Chỉnh Tần*3
+Tích lũy nhận 980 Vòng Nguyệt Ảnh: Mỏ Neo Sao Hồi Ức*1 (Chọn một trong các nhân vật: Shorekeeper, Camellya, Jinhsi, hoặc Bộ Chỉnh Tần*8)
+Tích lũy nhận 1600 Vòng Nguyệt Ảnh: Bộ Thời Trang Tùy Chỉnh*1 (Trọn bộ bao gồm avatar ""Dạ Tiệc Ngôi Sao"", Dấu Ấn Hành Trình ""Sự Thương Hại Của Sao"", phụ kiện tùy chỉnh ""Tinh Tú Soi Chiếu Vạn Âm"")
+
+[Lưu ý đặc biệt]
+- Hình thức nạp tiền ngoài game (như trung tâm nạp thẻ web), cần đăng nhập game hoàn thành giao hàng trong thời gian sự kiện thì mới được tính vào tiến độ sự kiện. Nếu Lữ Khách không đăng nhập game hoàn thành giao hàng trong thời gian sự kiện, sẽ không được tính vào tiến độ sự kiện."
+lang_multi_text.db,MultiText,HelpText_503_Title,凝月辉途,Moonlit Path,Con Đường Ánh Trăng
+lang_multi_text.db,MultiText,HelpText_507_Content,"【难度说明】
+本关卡分为简单与困难两种难度：简单难度包含 1 只迷失的隧群，困难难度则包含 2 只。
+
+【行动规则】
+简单难度：玩家与 1 只隧群交替行动，由玩家率先行动；
+困难难度：玩家与 2 只隧群交替行动，具体顺序为玩家先行→其中 1 只隧群行动→玩家再次行动→另一只隧群行动，以此循环。
+
+【通关条件】
+通关条件：当所有隧群被完全围堵且无法逃离时，判定关卡胜利；
+失败条件：当任意一只隧群离开当前冰原范围时，判定关卡失败。
+
+【帮助机制】
+当每一关的失败和重置次数达到 3 次和 6 次的时候，漂泊者可以选择是否接受牧民们的帮助，若选择接受帮助，牧民们会提前在冰原上放置若干牧杖，帮助漂泊者包围隧群。
+
+简单与困难两种难度的关卡，在首次通关后均支持反复挑战。","[Difficulty]
+Each stage comes in Easy and Hard difficulties, which involve 1 and 2 lost Exoswarm respectively.
+
+[Turn Order]
+Easy: Player and 1 Exoswarm take turns to move, and player moves first.
+Hard: Player and 2 Exoswarm take turns to move in this order: Player → 1st Exoswarm→ Player → 2nd Exoswarm, repeat.
+
+[Game Rules] 
+- Victory Condition: You clear the level when all Exoswarm are completely surrounded  with no way of escaping.
+- Failure Condition: You lose the level when any Exoswarm flees the current frostlands area.
+
+[Requesting Aid]
+You may choose to accept aid from the herders after failing or resetting a level 3 and 6 times respectively. Once accepted, the herders will place several Shepherd's Staff in the frostlands in advance to make it easier to surround the Exoswarm.
+
+You may reattempt both Easy and Hard levels after the first clearance.","[Giải thích độ khó]
+Ải này chia thành hai độ khó đơn giản và khó: Độ khó đơn giản bao gồm 1 bầy đàn bị lạc, độ khó khó bao gồm 2 bầy đàn.
+
+[Quy tắc hành động]
+Độ khó đơn giản: Người chơi và 1 bầy đàn hành động luân phiên, do người chơi hành động trước;
+Độ khó khó: Người chơi và 2 bầy đàn hành động luân phiên, thứ tự cụ thể là người chơi đi trước -> 1 trong các bầy đàn hành động -> người chơi hành động lại -> bầy đàn còn lại hành động, cứ thế xoay vòng.
+
+[Điều kiện vượt ải]
+Điều kiện vượt ải: Khi tất cả bầy đàn bị vây chặn hoàn toàn và không thể trốn thoát, phán định thắng ải;
+Điều kiện thất bại: Khi bất kỳ một bầy đàn nào rời khỏi phạm vi băng nguyên hiện tại, phán định thất bại ải.
+
+[Cơ chế trợ giúp]
+Khi số lần thất bại và thiết lập lại của mỗi ải đạt 3 lần và 6 lần, Lữ Khách có thể chọn có chấp nhận sự giúp đỡ của người chăn nuôi hay không. Nếu chọn chấp nhận giúp đỡ, người chăn nuôi sẽ đặt trước một số Gậy Chăn Nuôi trên băng nguyên, giúp Lữ Khách bao vây bầy đàn.
+
+Cả hai độ khó đơn giản và khó, sau khi vượt ải lần đầu đều hỗ trợ khiêu chiến lặp lại."
+lang_multi_text.db,MultiText,HelpText_507_Title,「平息！慌乱的迁徙！」——简单和困难关卡说明,Rein Back! Migration Mayhem!—Easy and Hard Mode Details,"Giải thích ải Đơn giản và Khó - ""Bình Tĩnh! Di Cư Hỗn Loạn!"""
+lang_multi_text.db,MultiText,HelpText_509_Content,"【活动简介】
+拉海洛的冰原，无数道好奇的视线投射在这里，凝望着这片沉默无垠的雪白。求知者行走于极地之中，一步一个脚印，穷极一生只为从这无声的积雪中探求一点真理的回响。现在，请与这些好奇的视线并肩同行，踏入冰原并去跨越前人未曾抵达的远方。
+
+【参与条件】
+在潮汐任务「远航星」中首次进入冰原地表。
+
+【活动规则】
+整个活动共分为四个阶段，根据潮汐任务的进度依次解锁，完成活动任务即可领取丰厚的奖励。
+活动结束后，存在未领取的奖励时，若在活动结束后的30天内登录游戏，奖励将会通过邮件进行补发。
+请注意部分活动任务联机情况下无法完成，部分游戏内场景无法进行任务追踪。","[About]
+The frostlands of Lahai-Roi beckon the curious. Many find their eyes fixed upon the endless white expanses. Truth seekers walk this polar region, one step at a time, chasing but echoes of truth in this land of snow where silence reigns. Now, join them in their exploration of the frostlands and go where no one has ever been before.
+
+[Eligibility]
+Reach the Frostlands Surface during Main Quest ""The Star That Voyages Far"" for the first time.
+
+[Event Rules]
+- The event is divided into four phases, each unlocking as you progress through the Main Quest. Complete event tasks to earn generous rewards.
+- If you have any unclaimed rewards when the event ends, you can log in within 30 days afterward to claim them in your Mail.
+- Please note that certain content of the event is not available while in Co-op mode, and Quest Tracking is not available while in certain areas of the quest.","[Giới thiệu sự kiện]
+Băng nguyên Lahai-Roi, vô số ánh mắt tò mò đang hướng về nơi này, ngắm nhìn màu trắng xóa im lìm vô tận. Những kẻ cầu tri thức bước đi giữa vùng cực địa, từng bước từng bước in dấu chân, dành cả cuộc đời chỉ để tìm kiếm chút âm vang chân lý từ lớp tuyết tích tụ vô thanh này. Giờ đây, hãy đồng hành cùng những ánh mắt tò mò ấy, bước vào băng nguyên và vượt qua những nơi xa xôi mà người đi trước chưa từng đặt chân đến.
+
+[Điều kiện tham gia]
+Lần đầu tiên tiến vào bề mặt băng nguyên trong Nhiệm Vụ Thủy Triều ""Ngôi Sao Viễn Du"".
+
+[Quy tắc sự kiện]
+Toàn bộ sự kiện được chia thành bốn giai đoạn, mở khóa lần lượt theo tiến độ Nhiệm Vụ Thủy Triều, hoàn thành nhiệm vụ sự kiện có thể nhận phần thưởng phong phú.
+Sau khi sự kiện kết thúc, nếu còn phần thưởng chưa nhận, hãy đăng nhập game trong vòng 30 ngày sau khi sự kiện kết thúc, phần thưởng sẽ được gửi bù qua thư.
+Vui lòng lưu ý một số nhiệm vụ sự kiện không thể hoàn thành trong chế độ liên máy, một số cảnh trong game không thể theo dõi nhiệm vụ."
+lang_multi_text.db,MultiText,HelpText_509_Title,【极地寻迹】活动说明,Unfrozen Traces,Giải thích sự kiện [Dấu Vết Cực Địa]
+lang_multi_text.db,MultiText,HelpText_50_Content,"【初霁赠礼】
+1.活动开启后每天服务器时间04:00登录游戏即可领取签到奖励。
+2.本活动没有参与时间限制，当所有奖励全部领取后，此界面关闭。","[Gifts of Thawing Frost]
+1. After the event starts, you can claim the check-in rewards by logging in to the game after 04:00 server time every day.
+2. This event is a permanent event. After you claim all rewards, this event will automatically conclude.","[Quà Tặng Chớm Nắng]
+1. Sau khi sự kiện mở, đăng nhập game sau 04:00 giờ server mỗi ngày để nhận thưởng điểm danh.
+2. Sự kiện này không có giới hạn thời gian tham gia, sau khi nhận hết tất cả phần thưởng, giao diện này sẽ đóng."
+lang_multi_text.db,MultiText,HelpText_50_Title,初霁赠礼说明,Gifts of Thawing Frost,Giải thích Quà Tặng Chớm Nắng
+lang_multi_text.db,MultiText,HelpText_510_Content,在陈设采购中，可用在活动中收集的「银河古币」来交换各种各样的陈设。不同的陈设需要的「银河古币」数量也不同。,"In the Decor Shop, you can redeem various decor items with Starfall Coins earned during the event. Each furnishing requires a different number of Starfall Coins.","Trong Mua Sắm Đồ Đạc, có thể dùng ""Tiền Cổ Ngân Hà"" thu thập được trong sự kiện để đổi lấy nhiều loại đồ đạc khác nhau. Các món đồ đạc khác nhau cần số lượng ""Tiền Cổ Ngân Hà"" khác nhau."
+lang_multi_text.db,MultiText,HelpText_510_Title,陈设采购说明,Decor Shop,Giải thích Mua Sắm Đồ Đạc
+lang_multi_text.db,MultiText,HelpText_511_Content,已获得的陈设信息会被记录在陈设图集中，漂泊者可以在此确认陈设的相关信息。,"Information on owned decor is archived in the Decor Catalogue, where you can view each decor's details.","Thông tin về đồ trang trí đã nhận sẽ được ghi lại trong Tập Tranh Trang Trí, Lữ Khách có thể xác nhận thông tin liên quan đến đồ trang trí tại đây."
+lang_multi_text.db,MultiText,HelpText_511_Title,陈设图集说明,Decor Catalogue,Hướng dẫn Tập Tranh Trang Trí
+lang_multi_text.db,MultiText,HelpText_512_Content,"数据重构可改变声骸道具的属性词条。
+
+通过消耗【调频仪】，可将指定声骸的首条主音属性重构为指定的词条；仅未强化过的五星声骸可进行主音属性数据重构。
+单次主音属性重构需消耗1个【调频仪】。
+
+通过消耗【频整器】，可对指定声骸除锁定的辅音属性外的词条进行随机重构，仅已完成全部调谐的五星声骸可进行辅音属性数据重构。
+锁定的辅音属性数量影响单次重构中【频整器】的消耗数量：
+锁定词条数量为2及以下时，消耗1个【频整器】；
+锁定词条数量为3时，消耗2个【频整器】；
+锁定词条数量为4时，消耗3个【频整器】。
+对于辅音属性数据重构，可选择是否保留重构结果；舍弃结果不返还已消耗的【频整器】。
+
+对于意外退出导致未确认的辅音属性重构结果，服务器将保留至多30天，请漂泊者及时处理。","Data Modification can adjust the stats of Echoes.
+
+Use a Modifier to adjust the first Mainstat of a selected Echo into the designated stat. This can only be done on unupgraded 5-star Echoes.
+1 Modifier is consumed for each Mainstat Modification.
+
+Use a Transducer to adjust the Substats of a selected Echo to random stats, excluding locked Substats. This can only be done on fully tuned 5-star Echoes.
+
+The number of locked Substats determines the amount of Transducers consumed in each Modification:
+With 2 or fewer locked stats, consume 1 Transducer.
+With 3 locked stats, consume 2 Transducers.
+With 4 locked stats, consume 3 Transducers.
+You may choose whether to apply the Modification results in Substat Modification. Discarding the result does not refund used Transducers.
+
+Substat Modification results that are not confirmed due to unexpected errors will be saved in the server for up to 30 days. Please confirm your results in time.","Tái Cấu Trúc Dữ Liệu có thể thay đổi dòng thuộc tính của đạo cụ Thanh Hài.
+
+Thông qua việc tiêu hao [Bộ Điều Tần], có thể tái cấu trúc dòng thuộc tính Chính đầu tiên của Thanh Hài chỉ định thành dòng thuộc tính mong muốn; chỉ Thanh Hài 5 sao chưa cường hóa mới có thể thực hiện Tái Cấu Trúc Dữ Liệu thuộc tính Chính.
+Mỗi lần tái cấu trúc thuộc tính Chính tiêu hao 1 [Bộ Điều Tần].
+
+Thông qua việc tiêu hao [Bộ Chỉnh Tần], có thể tái cấu trúc ngẫu nhiên các dòng thuộc tính Phụ của Thanh Hài chỉ định (trừ các thuộc tính Phụ đã khóa); chỉ Thanh Hài 5 sao đã hoàn tất điều hòa mới có thể thực hiện Tái Cấu Trúc Dữ Liệu thuộc tính Phụ.
+Số lượng thuộc tính Phụ bị khóa sẽ ảnh hưởng đến số lượng [Bộ Chỉnh Tần] tiêu hao trong một lần tái cấu trúc:
+Khi số lượng dòng thuộc tính khóa từ 2 trở xuống, tiêu hao 1 [Bộ Chỉnh Tần];
+Khi số lượng dòng thuộc tính khóa là 3, tiêu hao 2 [Bộ Chỉnh Tần];
+Khi số lượng dòng thuộc tính khóa là 4, tiêu hao 3 [Bộ Chỉnh Tần].
+Đối với Tái Cấu Trúc Dữ Liệu thuộc tính Phụ, có thể chọn giữ lại kết quả tái cấu trúc hay không; nếu bỏ qua kết quả sẽ không được hoàn trả [Bộ Chỉnh Tần] đã tiêu hao.
+
+Đối với kết quả tái cấu trúc thuộc tính Phụ chưa được xác nhận do thoát đột ngột, máy chủ sẽ lưu giữ tối đa 30 ngày, Lữ Khách vui lòng xử lý kịp thời."
+lang_multi_text.db,MultiText,HelpText_512_Title,数据重构,Data Modification,Tái Cấu Trúc Dữ Liệu
+lang_multi_text.db,MultiText,HelpText_513_Content,本次活动支持在战胜首领敌人后保存进度，下次进入该比赛关卡时，可选择读取保存进度，或选择重新开始比赛。,"In this event, your progress can be saved after you defeat the boss. The next time you enter, you can continue from where you left off or start a new run.","Sự kiện lần này hỗ trợ lưu tiến độ sau khi chiến thắng kẻ địch Thủ Lĩnh, lần sau khi vào ải thi đấu này, có thể chọn tải tiến độ đã lưu, hoặc chọn bắt đầu lại trận đấu."
+lang_multi_text.db,MultiText,HelpText_513_Title,存档功能说明,Save Feature,Hướng Dẫn Tính Năng Lưu Trữ
+lang_multi_text.db,MultiText,HelpText_514_Content,"1.变化牌：每回合会随机变化为手牌中的另一张牌，每回合变化的牌不会重复，且不会变化为已经打出过的牌或无冠者牌。
+变化牌可以视为正常的牌组成对子并打出。
+2.无冠者牌：卡组中只有一张无冠者牌。每位玩家都有2点生命，每当任一玩家抽到无冠者牌时，都会失去1点生命。
+当任一玩家的生命归零时，就会输掉这局游戏。","1. Wild Card: At the start of each turn, the Wild Card randomly transforms into another number card in the player's hand. It cannot transform into the Crownless Card, a card that has already been played, or repeat its transform in previous rounds. Wild Cards can form pairs like standard cards.
+
+2. Crownless Card: There is only one Crownless Card in the deck. Drawing it causes the player to lose 1 HP (out of 2). The first player to lose 2 HP loses the game.","1. Bài Biến Hóa: Mỗi lượt sẽ ngẫu nhiên biến thành một lá bài khác có trong tay, bài biến hóa mỗi lượt sẽ không trùng lặp, và sẽ không biến thành lá bài đã đánh ra hoặc Bài Vô Quan Giả.
+Bài Biến Hóa có thể xem như bài thường để tạo thành cặp và đánh ra.
+2. Bài Vô Quan Giả: Trong bộ bài chỉ có một lá Bài Vô Quan Giả. Mỗi người chơi đều có 2 điểm sinh mệnh, mỗi khi có người chơi rút phải Bài Vô Quan Giả, đều sẽ mất 1 điểm sinh mệnh.
+Khi sinh mệnh của bất kỳ người chơi nào về 0, sẽ thua ván game này."
+lang_multi_text.db,MultiText,HelpText_514_Title,纸牌游戏——变化牌规则说明,Wild Card,Trò Chơi Bài - Giải Thích Quy Tắc Bài Biến Hóa
+lang_multi_text.db,MultiText,HelpText_515_Content,"1. 活动开始后，活动任务将随服务器时间逐个解锁。
+2. 部分活动任务存在前置解锁条件，需要完成前置条件后才能接取。","1. The event quests will unlock progressively according to server time.
+2. Certain event quests have specific unlock conditions. Ensure all prerequisites are completed before you can accept them.","1. Sau khi sự kiện bắt đầu, các nhiệm vụ sự kiện sẽ lần lượt mở khóa theo thời gian máy chủ.
+2. Một số nhiệm vụ sự kiện có điều kiện mở khóa tiên quyết, cần hoàn thành điều kiện trước mới có thể nhận."
+lang_multi_text.db,MultiText,HelpText_515_Title,活动任务说明,Event Quests,Hướng Dẫn Nhiệm Vụ Sự Kiện
+lang_multi_text.db,MultiText,HelpText_516_Content,"活动期间，累计获得「月影溯环」可解锁对应档位的奖励。
+购买<color=#ad893a>特别推荐-周度演算卡、特别推荐-月相观测卡及礼包中心-特惠专区、装扮橱窗-载具外观、凝刻月相</color>中带有<texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity31/CumulativeRecharge/Common/T_TempScoreIcon.T_TempScoreIcon,0.5/>标签的商品可获得「月影溯环」。
+当凝月辉途活动结束后，「月影溯环」将失效，且不会兑换成其他物品。","During the event, obtain Moonlit Rings to unlock and claim rewards. Purchase merchandise tagged with <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity31/CumulativeRecharge/Common/T_TempScoreIcon.T_TempScoreIcon,0.5/> in the <color=#ad893a>Recommended - Weekly Subscription, Recommended - Lunite Subscription, Bundles - Special Offers, Outfits - Vehicle Looks, and the Lunite Purchase</color> sections of the Store to obtain Moonlit Rings.
+When the Moonlit Path event ends, the Moonlit Rings will expire and will not be converted to other items.","Trong thời gian sự kiện, tích lũy nhận ""Vòng Nguyệt Ảnh"" có thể mở khóa phần thưởng tương ứng.
+Mua các vật phẩm có gắn nhãn <texture=/Game/Aki/UI/UIResources/UiActivity/Image/Activity31/CumulativeRecharge/Common/T_TempScoreIcon.T_TempScoreIcon,0.5/> trong <color=#ad893a>Đề Cử Đặc Biệt - Thẻ Diễn Toán Tuần, Đề Cử Đặc Biệt - Thẻ Quan Sát Tuần Trăng, Trung Tâm Quà Tặng - Khu Ưu Đãi, Tủ Đồ Thời Trang - Ngoại Hình Phương Tiện, Khắc Ấn Tuần Trăng</color> sẽ nhận được ""Vòng Nguyệt Ảnh"".
+Khi sự kiện Ngưng Nguyệt Huy Đồ kết thúc, ""Vòng Nguyệt Ảnh"" sẽ hết hiệu lực và không được quy đổi thành vật phẩm khác."
+lang_multi_text.db,MultiText,HelpText_516_Title,月影溯环获取方式,How to Obtain Moonlit Rings,Cách Nhận Vòng Nguyệt Ảnh
+lang_multi_text.db,MultiText,HelpText_517_Content,完成活动指定目标，可获得相应奖励,Complete Event Objectives to obtain corresponding rewards.,"Hoàn thành mục tiêu chỉ định của sự kiện, có thể nhận phần thưởng tương ứng."
+lang_multi_text.db,MultiText,HelpText_517_Title,TERM-X 拓展行动说明,TERM-X: Outreach,Hướng Dẫn Hành Động Mở Rộng TERM-X
+lang_multi_text.db,MultiText,HelpText_518_Content,"【活动简介】
+你在一处索诺拉附近遇到了一个愁眉不展的研究员，他似乎背负着某个相当重要的使命……
+
+【参与条件】
+联觉等级达到14级，并在潮汐任务「冰原下的星炬」中启用星炬学院的中枢信标后解锁
+
+【活动规则】
+1、在【银翼猎手：荒野】中，玩家可进入特殊领域，在特殊增益的加持下在限时内连续挑战多个波次的敌人。
+2、玩家对敌人造成伤害后获得活动积分【款项】、玩家受到敌人造成的伤害后会损失【款项】。
+3、玩家在每次挑战的过程中，根据波次将逐步解锁更多的特殊增益，帮助玩家更好地完成后续挑战。
+4、每波次敌人清理完成后获得加时，倒计时结束后玩家以当前获得的【款项】结束此次挑战。","[About]
+Around a Sonoro Sphere, you run across a troubled researcher, who seems to have an important job to do...
+
+[Eligibility]
+Reach Union Level 14 and unlock the Resonance Nexus of the Startorch Academy during Main Quest ""What Burns Beneath Frostlands""
+
+[Event Rules]
+1. During the event, you will enter a special Sonoro Sphere to battle waves of enemies within a set time limit, with the aid of unique buffs.
+2. You collect Coins by dealing damage to enemies, and lose Coins when taking damage.
+3. Advance through enemy waves unlocks more special buffs to give you the support you need.
+4. Clearing a wave grants bonus time. The Coins you have collected by the end of the countdown will be your Coins record of this stage.","[Giới Thiệu Sự Kiện]
+Bạn gặp một nghiên cứu viên đang lo âu gần một Sonora, anh ta dường như đang gánh vác một sứ mệnh khá quan trọng...
+
+[Điều Kiện Tham Gia]
+Cấp Liên Giác đạt 14, và mở khóa sau khi kích hoạt Tín Hiệu Trung Khu của Học Viện Startorch trong Nhiệm Vụ Bi Minh ""Ngọn Đuốc Dưới Băng Nguyên"".
+
+[Quy Tắc Sự Kiện]
+1. Trong [Thợ Săn Cánh Bạc: Hoang Dã], người chơi có thể vào lĩnh vực đặc biệt, dưới sự hỗ trợ của các buff đặc biệt để liên tục khiêu chiến nhiều đợt kẻ địch trong thời gian giới hạn.
+2. Sau khi người chơi gây sát thương lên kẻ địch sẽ nhận được điểm sự kiện [Khoản Tiền], sau khi người chơi chịu sát thương từ kẻ địch sẽ mất [Khoản Tiền].
+3. Trong mỗi lần khiêu chiến, dựa theo số đợt sẽ dần mở khóa thêm nhiều buff đặc biệt, giúp người chơi hoàn thành các thử thách tiếp theo tốt hơn.
+4. Sau khi dọn sạch mỗi đợt kẻ địch sẽ được cộng thêm thời gian, sau khi đếm ngược kết thúc, người chơi sẽ kết thúc lần khiêu chiến này với số [Khoản Tiền] hiện có."

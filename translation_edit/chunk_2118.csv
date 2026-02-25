@@ -1,107 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_3_Desc,生命值+10%,HP +10%.,HP +10%.
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_4_Desc,攻击力+9%,ATK +9%.,Tấn công +9%.
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_5_Desc,受到伤害减免+8%,DMG Reduction +8%.,Giảm sát thương nhận vào +8%.
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_6_Desc,伤害加成+7.5%,DMG Bonus +7.5%.,Tăng sát thương +7.5%.
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_7_Desc,解锁道具,Unlock Items,Mở khóa vật phẩm
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_8_Desc,解锁道具,Unlock Items,Mở khóa vật phẩm
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_9_Desc,"连续消灭机制开启：
-共鸣者累计消灭怪物数量高于0/60/150时，将依次进入连续消灭第1/2/3阶段。
-连续消灭阶段内，将统计所获得强化模块的总量。一段时间内未能成功消灭怪物，将离开连续消灭阶段，若离开时处于第2/3阶段则会额外获取统计量10%/15%的强化模块。","Rampage effect:
-When the Resonator eliminates 0/60/150 enemies, they enter Rampage Lv. 1/2/3.
-While active, all Enhancement Modules obtained are tallied. If no enemies are defeated for a set duration, the effect expires. Exiting at Lv. 2/3 grants an extra 10/15% of the total Enhancement Modules obtained.","Mở khóa cơ chế Hạ Gục Liên Tiếp:
-Khi Cộng Hưởng Giả hạ gục tổng cộng hơn 0/60/150 quái vật, sẽ lần lượt bước vào giai đoạn Hạ Gục Liên Tiếp 1/2/3.
-Trong giai đoạn Hạ Gục Liên Tiếp, tổng số Module Cường Hóa nhận được sẽ được ghi nhận. Nếu trong một khoảng thời gian không hạ gục được quái vật, sẽ rời khỏi giai đoạn Hạ Gục Liên Tiếp. Nếu rời ở giai đoạn 2/3, sẽ nhận thêm 10%/15% tổng Module Cường Hóa đã ghi nhận."
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_Item_Tag,解锁道具,New Items,Mở khóa vật phẩm
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_Mechanism_Tag,解锁机制,New Mechanism,Mở khóa cơ chế
-lang_multi_text.db,MultiText,SurvivorsTalentEffect_NumValue_Tag,数值加成,Stat Bonus,Tăng chỉ số
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10001_Description,每波次开始时，获得当前强化模块储量10%的强化模块。,"At the start of each wave, gain 10% of currently owned Enhancement Modules.","Khi bắt đầu mỗi đợt, nhận thêm 10% số Module Cường Hóa đang sở hữu."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10001_Name,“复利滚动”,Compound Interest,"""Lãi Kép"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10002_Description,立即获取500点强化模块，但是商店内售卖的物品价格永久提升15%。,"Gain 500 Enhancement Modules instantly, but Shop prices permanently increase by 15%.","Nhận ngay 500 Mô-đun Cường Hóa, nhưng giá vật phẩm trong cửa hàng tăng vĩnh viễn 15%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10002_Name,“抵价契约”,Part Exchange,"""Hợp Đồng Đổi Giá"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10003_Description,立即失去所有强化模块，后续每次拾取强化模块时均有10%的几率额外获取1点强化模块。,"Lose all Enhancement Modules. Afterward, each Enhancement Module pickup has a 10% chance to grant 1 extra Enhancement Module.","Mất toàn bộ Mô-đun Cường Hóa ngay lập tức. Sau đó, mỗi lần nhặt Mô-đun Cường Hóa có 10% cơ hội nhận thêm 1 Mô-đun Cường Hóa."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10003_Name,“家族并购”,Family Takeover,"""Sáp Nhập Gia Tộc"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10004_Description,每持有1点强化模块，暴击伤害提升0.2%。,"For every 1 Enhancement Module owned, Crit. DMG is increased by 0.2%.","Mỗi 1 Mô-đun Cường Hóa đang sở hữu, sát thương bạo kích tăng 0.2%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10004_Name,“资产势能”,Asset Momentum,"""Thế Năng Tài Sản"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10005_Description,立即失去所有强化模块，每失去100点强化模块，造成的最终伤害提升20%，至多提升600%。,"Lose all Enhancement Modules to increase total DMG dealt by 20% for every 100 Modules lost, up to 600%.","Mất toàn bộ Mô-đun Cường Hóa ngay lập tức. Mỗi 100 Mô-đun Cường Hóa bị mất, sát thương cuối cùng gây ra tăng 20%, tối đa 600%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10005_Name,“清仓套现”,Liquidation,"""Xả Hàng Quy Tiền"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10006_Description,立即获得当前强化模块储量50%的强化模块。,Instantly gain 50% of currently owned Enhancement Modules.,Nhận ngay lượng Mô-đun Cường Hóa bằng 50% số đang sở hữu.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10006_Name,“莫塔里融资”,Montelli Financing,"""Tài Trợ Montelli"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10007_Description,5个波次内，获取的强化模块降低50%。5个波次后，获取的强化模块提升50%。,"Enhancement Module gain is reduced by 50% for the next 5 waves, and will be increased by 50% after the next 5 waves.","Trong 5 đợt tiếp theo, lượng Mô-đun Cường Hóa nhận được giảm 50%. Sau 5 đợt, lượng Mô-đun Cường Hóa nhận được tăng 50%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10007_Name,“期权交易”,Options Trading,"""Giao Dịch Quyền Chọn"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10008_Description,拾取强化模块时，对附近的怪物造成角色攻击20%的物理伤害，每0.2秒可触发一次。,"When picking up Enhancement Modules, deal Physical DMG equal to 20% of the Resonator's ATK to nearby enemies, triggered once every 0.2s.","Khi nhặt Mô-đun Cường Hóa, gây sát thương vật lý bằng 20% tấn công của nhân vật lên quái vật gần đó, kích hoạt tối đa 1 lần mỗi 0.2 giây."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10008_Name,“财富震摄”,Wealth Shock,"""Uy Lực Tài Phú"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10009_Description,击杀怪物时，有1.5%的概率生成一个强化拾取物。,"When defeating an enemy, there is a 1.5% chance to spawn a Buff Token.","Khi hạ gục quái vật, có 1.5% cơ hội tạo ra một vật phẩm cường hóa."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10009_Name,“回收利用”,Recycling,"""Tái Chế Tận Dụng"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10010_Description,拾取强化模块时，造成的伤害永久提升0.02%。,"When picking up an Enhancement Module, DMG dealt is permanently increased by 0.02%.","Khi nhặt Mô-đun Cường Hóa, sát thương gây ra tăng vĩnh viễn 0.02%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10010_Name,“量化交易”,Quantitative Trading,"""Giao Dịch Định Lượng"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10011_Description,拾取强化模块时，有5%的几率使生命值上限永久提升1%。,"When picking up an Enhancement Module, there is a 5% chance to permanently increase Max HP by 1%.","Khi nhặt Mô-đun Cường Hóa, có 5% cơ hội tăng vĩnh viễn HP tối đa thêm 1%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10011_Name,“医疗保险”,Health Insurance,"""Bảo Hiểm Y Tế"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10012_Description,拾取强化模块时，有5%的几率额外获取1点强化模块。,"When picking up an Enhancement Module, there is a 5% chance to gain 1 extra Enhancement Module.","Khi nhặt Mô-đun Cường Hóa, có 5% cơ hội nhận thêm 1 Mô-đun Cường Hóa."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10012_Name,“意外之财”,Windfall,"""Của Trời Cho"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10013_Description,商店免费刷新次数+2，每波次重置。,"Gain 2 extra free Shop refreshes, which are reset every wave.","Số lần làm mới miễn phí cửa hàng +2, đặt lại mỗi đợt."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10013_Name,“流动市场”,Liquid Market,"""Thị Trường Lưu Động"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10014_Description,每波次结束后场上强化模块不再有50%的几率清除。,Enhancement Modules have a 50% chance to remain on the field at the end of each wave.,Mô-đun cường hóa trên sân không còn bị xóa với tỷ lệ 50% sau mỗi đợt nữa.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_10014_Name,“追加演出”,Encore,"""Tiết Mục Thêm"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12001_Description,5个波次内，受到的伤害提升1000%。5个波次后，最大生命值提升100%，造成的最终伤害提升100%。,"For the next 5 waves, DMG taken is increased by 1000%. After the next 5 waves, Max HP will be increased by 100%, and total DMG dealt is increased by 100%.","Trong 5 đợt tiếp theo, sát thương nhận vào tăng 1000%. Sau 5 đợt, HP tối đa tăng 100%, sát thương cuối cùng gây ra tăng 100%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12001_Name,“亡命赌徒”,High-Stakes Gambler,"""Con Bạc Liều Mạng"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12002_Description,5个波次内，角色最大生命值降低50%；5个波次后，最大生命值提升100%。,"For the next 5 waves, Max HP is reduced by 50%. After the next 5 waves, Max HP is increased by 100%.","Trong 5 đợt tiếp theo, HP tối đa của nhân vật giảm 50%. Sau 5 đợt, HP tối đa tăng 100%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12002_Name,修补城墙,Wall Fortification,Gia Cố Thành Lũy
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12003_Description,5个波次内，受到的伤害提升150%。5个波次后，造成的最终伤害提升50%。,"For the next 5 waves, DMG taken is increased by 150%. After the next 5 waves, total DMG dealt is increased by 100%.","Trong 5 đợt tiếp theo, sát thương nhận vào tăng 150%. Sau 5 đợt, sát thương cuối cùng gây ra tăng 50%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12003_Name,趋利避害,Play to Strengths,Tìm Lợi Tránh Hại
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12004_Description,5个波次内，所有怪物的最大生命值提升100%。5个波次后，所有怪物的最大生命值降低30%。,"All enemies' HP is increased by 100% for the next 5 waves, and will be reduced by 30% after the next 5 waves.","Trong 5 đợt tiếp theo, HP tối đa của tất cả quái vật tăng 100%. Sau 5 đợt, HP tối đa của tất cả quái vật giảm 30%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12004_Name,先赢后输,Sweet with Sweat,Thắng Trước Thua Sau
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12005_Description,受到的伤害提升100%，造成的伤害提升50%。,"DMG taken is increased by 100%, and DMG dealt is increased by 50%.","Sát thương nhận vào tăng 100%, sát thương gây ra tăng 50%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12005_Name,“激进投资”,Aggressive Investment,"""Đầu Tư Mạo Hiểm"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12006_Description,所有怪物受到的伤害降低40%，但角色获取的强化模块提升100%。,"All enemies take 40% less DMG, but Enhancement Modules gained are increased by 100%.","Sát thương mà tất cả quái vật nhận vào giảm 40%, nhưng mô-đun cường hóa nhân vật nhận được tăng 100%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12006_Name,“越境贸易”,Cross-Border Trade,"""Buôn Bán Xuyên Biên"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12007_Description,所有怪物血量降低30%，但获得的强化模块减少30%。,"All enemies' HP is reduced by 30%, but Enhancement Modules gained are reduced by 30%.","HP của tất cả quái vật giảm 30%, nhưng mô-đun cường hóa nhận được giảm 30%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12007_Name,慈善家,Philanthropist,Nhà Từ Thiện
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12008_Description,暴击率降低100%，但最终伤害提升50%。,"Crit. Rate is reduced by 100%, but total DMG dealt is increased by 50%.","Tỷ lệ bạo kích giảm 100%, nhưng sát thương cuối cùng tăng 50%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12008_Name,无法暴击,Crit Ban,Không Thể Bạo Kích
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12009_Description,攻击降低25%，角色最大生命值提升100%。,"ATK is reduced by 25%, but Max HP is increased by 100%.","Tấn công giảm 25%, HP tối đa của nhân vật tăng 100%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12009_Name,“对冲基金”,Hedge Fund,"""Quỹ Phòng Hộ"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12010_Description,最大生命值降低50%，治疗效果降低100%，但造成的最终伤害提升50%。,"Max HP is reduced by 50% and incoming Healing is reduced by 100%, but total DMG dealt is increased by 50%.","HP tối đa giảm 50%, hiệu quả hồi máu giảm 100%, nhưng sát thương cuối cùng gây ra tăng 50%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12010_Name,无法回复,Healing Ban,Không Thể Hồi Phục
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12011_Description,移动速度降低75%，但角色最大生命值提升50%，造成的最终伤害提升50%。,"Movement Speed is reduced by 75%, but Max HP is increased by 50%, and total DMG dealt is increased by 50%.","Tốc độ di chuyển giảm 75%, nhưng HP tối đa của nhân vật tăng 50%, sát thương cuối cùng gây ra tăng 50%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_12011_Name,“不动产”,Real Estate,"""Bất Động Sản"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13001_Description,击杀怪物时，有1%的概率生成一个欺诈奇藏。,Defeating an enemy grants a 1% chance of spawning a Chest Mimic.,"Khi Hạ Gục quái vật, có 1% tỷ lệ tạo ra một Rương Giả."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13001_Name,奇藏猎人,Chest Hunter,Thợ Săn Rương
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13002_Description,品质颜色为紫色或金色的物品出现概率提高10%。,The drop rate of Purple or Golden rarity Items is increased by 10%.,Tỉ lệ xuất hiện vật phẩm phẩm chất Tím hoặc Vàng tăng 10%.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13002_Name,幸运祝颂,Lucky Blessing,Phúc Lành May Mắn
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13003_Description,品质颜色为金色的物品出现概率提高15%。,The drop rate of Golden rarity Items is increased by 15%.,Tỉ lệ xuất hiện vật phẩm phẩm chất Vàng tăng 15%.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13003_Name,金色祝颂,Golden Blessing,Phúc Lành Vàng
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13004_Description,立即获取一张和暴击相关的升级卡，并使所有暴击相关升级卡的出现概率提高10%。,"Instantly gain a Crit. upgrade card, with the chance of getting Crit. upgrade cards increased by 10%.","Nhận ngay một thẻ nâng cấp liên quan đến bạo kích, đồng thời tỉ lệ xuất hiện tất cả thẻ nâng cấp liên quan đến bạo kích tăng 10%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13004_Name,暴击增幅,Crit Boost,Tăng Cường Bạo Kích
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13005_Description,立即获取一张和速度相关的升级卡，并使所有速度相关升级卡的出现概率提高10%。,"Instantly gain a Speed upgrade card, with the chance of getting Speed upgrade cards increased by 10%.","Nhận ngay một thẻ nâng cấp liên quan đến tốc độ, đồng thời tỉ lệ xuất hiện tất cả thẻ nâng cấp liên quan đến tốc độ tăng 10%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13005_Name,速度增幅,Speed Boost,Tăng Cường Tốc Độ
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13006_Description,立即获取一张和生存相关的升级卡，并使所有生存相关升级卡的出现概率提高10%。,"Instantly gain a Survival upgrade card, with the chance of getting Survival upgrade cards increased by 10%.","Nhận ngay một thẻ nâng cấp liên quan đến sinh tồn, đồng thời tỉ lệ xuất hiện tất cả thẻ nâng cấp liên quan đến sinh tồn tăng 10%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13006_Name,生存增幅,Survival Boost,Tăng Cường Sinh Tồn
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13007_Description,立即获得一张和攻击相关的升级卡，并使所有攻击相关升级卡的出现概率提高10%。,"Instantly gain an ATK upgrade card, with the chance of getting ATK upgrade cards increased by 10%.","Nhận ngay một thẻ nâng cấp liên quan đến tấn công, đồng thời tỉ lệ xuất hiện tất cả thẻ nâng cấp liên quan đến tấn công tăng 10%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_13007_Name,攻击增幅,Attack Boost,Tăng Cường Tấn Công
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14001_Description,处于连续消灭第2/3阶段时，造成的最终伤害分别提升15%/30%。,"During Rampage Lv. 2/3, total DMG dealt is increased by 15/30%.","Khi đang ở giai đoạn liên trảm thứ 2/3, sát thương cuối cùng gây ra tăng lần lượt 15%/30%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14001_Name,“恶魔猎人”,Discord Slayer,"""Thợ Săn Ác Ma"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14002_Description,离开连续消灭第2/3阶段时，获取的强化模块提升10%/15%。,"During Rampage Lv. 2/3, Enhancement Modules gained are increased by 10/15%.","Khi rời khỏi giai đoạn liên trảm thứ 2/3, mô-đun cường hóa nhận được tăng 10%/15%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14002_Name,“夺宝奇兵”,Treasure Raider,"""Kẻ Cướp Kho Báu"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14003_Description,连杀第1、2、3阶段的持续时间分别延长2秒、2秒、1秒。,Rampage Lv. 1/2/3 duration extends by 2/2/1s.,"Thời gian duy trì giai đoạn liên trảm thứ 1, 2, 3 kéo dài lần lượt 2 giây, 2 giây, 1 giây."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14003_Name,持久,Endurance,Bền Bỉ
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14004_Description,进入连杀第2、3阶段所需的击杀数量降低。,Fewer rampage kills are required to reach Rampage Lv. 2 and 3.,"Số lượng Hạ Gục cần thiết để vào giai đoạn liên trảm thứ 2, 3 giảm xuống."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14004_Name,高效,Efficiency,Hiệu Quả
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14005_Description,进入连续消灭第3阶段后，15秒内不会离开此阶段。,"Upon entering Rampage Lv. 3, stay in this state for 15s.","Sau khi vào giai đoạn liên trảm thứ 3, trong 15 giây sẽ không rời khỏi giai đoạn này."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_14005_Name,“黄金时代”,Golden Age,"""Thời Hoàng Kim"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15001_Description,永久获得60点护盾。,Permanently gain 60 Shield points.,Nhận vĩnh viễn 60 điểm khiên.
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15001_Name,“缓冲资本”,Capital Buffer,"""Vốn Đệm"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15002_Description,击杀怪物时，有10%的几率回复最大生命值1%的生命值。,"When defeating an enemy, there is a 10% chance to restore 1% of Max HP.","Khi Hạ Gục quái vật, có 10% tỷ lệ hồi phục 1% HP tối đa."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15002_Name,“资产重组”,Asset Restructuring,"""Tái Cấu Trúc Tài Sản"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15003_Description,受到致命伤害时，免除死亡并回复最大生命值5%的生命值，每一局至多生效3次。,"When taking a fatal hit, avoid being defeated and restore 5% Max HP. Can be triggered up to 3 times per run.","Khi nhận sát thương chí mạng, miễn tử vong và hồi phục 5% HP tối đa, mỗi ván tối đa kích hoạt 3 lần."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15003_Name,战地新兵,Battlefield Rookie,Tân Binh Chiến Trường
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15004_Description,对距离角色较远的怪物造成的最终伤害提升40%，较近时则降低30%。,"Total DMG is increased by 40% against distant enemies, but is reduced by 30% against nearby enemies.","Sát thương cuối cùng gây ra lên quái vật ở xa nhân vật tăng 40%, ở gần thì giảm 30%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15004_Name,“远视主义”,Far Sight,"""Viễn Thị Chủ Nghĩa"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15005_Description,对距离角色较近的怪物造成的最终伤害提升40%，较远时则降低30%。,"Total DMG is increased by 40% against nearby enemies, but is reduced by 30% against distant enemies.","Sát thương cuối cùng gây ra lên quái vật ở gần nhân vật tăng 40%, ở xa thì giảm 30%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15005_Name,“即市买卖”,Day Trading,"""Giao Dịch Tức Thì"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15006_Description,对所有怪物造成的最终伤害提升30%，角色受到的伤害提升50%。,"Total DMG against all enemies is increased by 30%, but DMG taken by the Resonator is increased by 50%.","Sát thương cuối cùng gây ra lên tất cả quái vật tăng 30%, sát thương nhân vật nhận vào tăng 50%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15006_Name,“杠杆效应”,Leverage Effect,"""Hiệu Ứng Đòn Bẩy"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15007_Description,对巨浪级和怒涛级的怪物造成的最终伤害提升30%，对轻波级的怪物则降低30%。,"Total DMG is increased by 30% against Elite and Overlord Class enemies, but is reduced by 30% against Common Class enemies.","Sát thương cuối cùng gây ra lên quái vật cấp Cự Lãng và Nộ Đào tăng 30%, lên quái vật cấp Khinh Ba thì giảm 30%."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15007_Name,“巨鳄杀手”,Elite Killer,"""Sát Thủ Cá Mập"""
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15008_Description,暴击溢出100%的部分，每溢出1%暴击提升2%暴击伤害。,Every 1% Crit. Rate that exceeds 100% increases Crit. DMG by 2%.,"Phần tỷ lệ bạo kích vượt quá 100%, mỗi 1% vượt quá sẽ tăng 2% sát thương bạo kích."
-lang_multi_text.db,MultiText,SurvivorsTalentItem_15008_Name,“剩余价值”,Surplus Value,"""Giá Trị Thặng Dư"""
+lang_multi_text.db,MultiText,StudentCard_Faculty_Name,拉贝尔学部,Rabelle College,Khoa Rabelle
+lang_multi_text.db,MultiText,StudentCard_Name,学生证,Student ID Card,Thẻ Sinh Viên
+lang_multi_text.db,MultiText,SubPackageDownLoadTitle_Expand,扩展下载,Expansion Download,Tải mở rộng
+lang_multi_text.db,MultiText,SubPackageDownLoadTitle_Must,必须下载,Required Download,Bắt buộc tải
+lang_multi_text.db,MultiText,SubPackageDownLoadTitle_Optional,可选下载,Optional Download,Tùy chọn tải
+lang_multi_text.db,MultiText,SubPackageDownLoad_ActivityLock_Confirm,关联地区资源尚未下载，是否前往下载？,The associated Region's assets have not been downloaded. Proceed to download?,"Tài nguyên khu vực liên quan chưa tải, có muốn đi tải không?"
+lang_multi_text.db,MultiText,SubPackageDownLoad_ActivityLock_Des,关联地区资源未下载,The associated Region's assets have not been downloaded.,Tài nguyên khu vực liên quan chưa tải
+lang_multi_text.db,MultiText,SubPackageDownLoad_Clear_Des,预计可清理：{0},Estimated space after clearing: {0},Dự kiến có thể dọn dẹp: {0}
+lang_multi_text.db,MultiText,SubPackageDownLoad_Clear_Tips,清理已完成,Space Cleared,Đã dọn dẹp xong
+lang_multi_text.db,MultiText,SubPackageDownLoad_CommonLock_Confirm,对应地区资源尚未下载，是否前往下载？,The corresponding Region's assets have not been downloaded. Proceed to download?,"Tài nguyên khu vực tương ứng chưa tải, có muốn đi tải không?"
+lang_multi_text.db,MultiText,SubPackageDownLoad_Des_WaitKeyItemDownLoad,请等待【必须下载】资源下载完成,Please wait for the Required Download to finish.,Vui lòng đợi tài nguyên [Bắt buộc tải] tải xong
+lang_multi_text.db,MultiText,SubPackageDownLoad_Downloading,前往区域资源下载中，请等待资源下载完成后再前往,Downloading assets for the region you're heading to. Please wait for the download to finish.,"Đang tải tài nguyên khu vực sắp đến, vui lòng đợi tải xong rồi hãy đi"
+lang_multi_text.db,MultiText,SubPackageDownLoad_Expend_Tab,扩展资源,Expansion Assets,Tài nguyên mở rộng
+lang_multi_text.db,MultiText,SubPackageDownLoad_Finish_Restart_Tips,{0}已下载完成，重新登录后生效,{0} downloaded. Restart the game for the update to take effect.,"{0} đã tải xong, đăng nhập lại để có hiệu lực"
+lang_multi_text.db,MultiText,SubPackageDownLoad_Finish_Tips,{0}已下载完成,{0} Completed,{0} đã tải xong
+lang_multi_text.db,MultiText,SubPackageDownLoad_FreeSpace,剩余空间：{0},Free Space: {0},Dung lượng trống: {0}
+lang_multi_text.db,MultiText,SubPackageDownLoad_GenderLock_Confirm,切换漂泊者资源未下载，是否前往下载？,Rover Appearance Switch assets have not been downloaded. Proceed to download?,"Tài nguyên chuyển đổi Lữ Khách chưa tải, có muốn đi tải không?"
+lang_multi_text.db,MultiText,SubPackageDownLoad_Gender_Tips,切换漂泊者资源已下载完成，请前往设置界面切换,Rover Appearance Switch assets have been downloaded. Please proceed to Settings to switch.,"Tài nguyên chuyển đổi Lữ Khách đã tải xong, vui lòng vào giao diện cài đặt để chuyển đổi"
+lang_multi_text.db,MultiText,SubPackageDownLoad_Key_Tab,核心资源,Core Assets,Tài nguyên cốt lõi
+lang_multi_text.db,MultiText,SubPackageDownLoad_OnlineLock_Confirm,地区资源未全部下载，无法联机，是否前往下载？,Assets for all Regions have not been downloaded. Unable to enter Co-op Mode. Proceed to download?,"Tài nguyên khu vực chưa tải hết, không thể liên kết, có muốn đi tải không?"
+lang_multi_text.db,MultiText,SubPackageDownLoad_StartDownload,系统已自动开始下载资源，下载完成会通知,System is now downloading resources automatically. You will be notified when the download is complete.,"Hệ thống đã tự động bắt đầu tải tài nguyên, sẽ thông báo khi tải xong"
+lang_multi_text.db,MultiText,SubPackageDownLoad_Tips_WaitKeyItemDownLoad,请等待队列前置任务下载完成,Please wait for the queued download task to finish。,Vui lòng đợi nhiệm vụ tiền trạm trong hàng đợi tải xong
+lang_multi_text.db,MultiText,SubPackageDownLoad_Tips_WaitKeyItemDownLoad_LoadingView,需下载【必须下载】资源完成后再进入游戏,The Required Download must be completed before you can enter the game.,Cần tải tài nguyên [Bắt buộc tải] xong mới có thể vào game
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_Name_1,波仔,Namipon,Namipon
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_Name_2,金牌销冠,Sales Champ,Quán Quân Bán Hàng
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_Name_3,蝴蝶结管家,Bowtie Butler,Quản Gia Nơ Bướm
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_Name_4,福尔波斯,Polmes,Polmes
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_Name_5,交通波仔,Transport Namipon,Namipon Giao Thông
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_1,欢迎光临~,Welcome!,Hoan nghênh quý khách~
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_10,听说只要获得更多的米团，就能兑换超多好东西哟！,"They say the more Rice Dangos you collect, the greater rewards you can trade for!",Nghe nói chỉ cần kiếm được nhiều Bánh Gạo hơn là đổi được siêu nhiều đồ tốt đó nha!
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_2,有可以带回的好东西哦~,We've got something nice to bring home today!,Có đồ tốt có thể mang về đó nha~
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_3,好像暂时没有可带回的东西哦？,Nothing worth picking up right now.,Hình như tạm thời không có đồ gì mang về được nhỉ?
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_4,嘿嘿，收获不错！,"Hehe, good choice!","Hê hê, thu hoạch khá lắm!"
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_5,打包已完成，客人收好哦~,"All packed up! Don't forget to take it with you, Passenger.","Đã đóng gói xong, khách quan cất kỹ nhé~"
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_6,别急着清仓嘛~据点那边才收货哦。,No rushing. That one needs to be dropped off at the base.,Đừng vội thanh lý kho mà~ Cứ điểm mới nhận hàng đó.
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_7,哼哼，想偷偷丢掉可不行哦。,"No, no. No sneaky dumping!","Hừm hừm, muốn lén vứt đi là không được đâu nhé."
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_8,完成初期探索，就可以自由在穗波市内行动了哦！,Complete the initial exploration to move freely in Honami!,Hoàn thành thám hiểm ban đầu là có thể tự do hành động trong thành phố Honami rồi đó!
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_dy_9,出发！向可疑的地方探索看看吧！,Time to set out! Go explore those suspicious areas!,Xuất phát! Thử thám hiểm những nơi khả nghi xem sao!
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_np_1,今天要布置哪一块角落呢？,Which little corner shall we decorate today?,Hôm nay trang trí góc nào đây nhỉ?
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_np_2,不错的进展！,Forward we go.,Tiến triển tốt đấy!
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_zt_1,新的谜团正在等待我们揭晓！,New mysteries await!,Bí ẩn mới đang chờ chúng ta hé lộ!
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_zt_2,侦探任务圆满完成，欢迎回家！,Detective mission complete. Welcome home!,"Nhiệm vụ thám tử hoàn thành mỹ mãn, mừng bạn về nhà!"
+lang_multi_text.db,MultiText,SuiboRogue_Namipon_zt_3,线索拼图又多一块！,One more piece in the puzzle!,Lại thêm một mảnh ghép manh mối!
+lang_multi_text.db,MultiText,Suibo_Title,<color=#586778>穗波怪异物语</color>,<color=#586778>Stranger Things in Honami</color>,<color=#586778>Chuyện Quái Dị Ở Honami</color>
+lang_multi_text.db,MultiText,SurvivorCharacterAttributeInterface_Name,角色,Resonator,Nhân vật
+lang_multi_text.db,MultiText,SurvivorPropObtain_ScreenName,额外奖励,Extra Rewards,Phần thưởng thêm
+lang_multi_text.db,MultiText,SurvivorPropSelection_ScreenName,道具选择,Select Item,Chọn đạo cụ
+lang_multi_text.db,MultiText,SurvivorTreasure_ScreenName,奇藏奖励,Chest Rewards,Thưởng Kỳ Tàng
+lang_multi_text.db,MultiText,SurvivorWeaponSelection_ScreenName,武装选择,Select Weapon,Chọn vũ trang
+lang_multi_text.db,MultiText,SurvivorsAtkChange_Name,攻击加成,ATK Bonus,Tăng Tấn Công
+lang_multi_text.db,MultiText,SurvivorsAtk_Name,攻击力,ATK,Tấn Công
+lang_multi_text.db,MultiText,SurvivorsAttackSpeed_Name,攻击速度加成,Attack Speed Bonus,Tăng tốc độ tấn công
+lang_multi_text.db,MultiText,SurvivorsCardLvUp,升级,Upgrade,Tăng cấp
+lang_multi_text.db,MultiText,SurvivorsCard_LockTips,已锁定,Locked,Đã khóa
+lang_multi_text.db,MultiText,SurvivorsCard_Prop,道具,Item,Đạo cụ
+lang_multi_text.db,MultiText,SurvivorsCard_RoleLv,共鸣者等级+{0},Resonator Level +{0},Cấp Cộng Hưởng Giả +{0}
+lang_multi_text.db,MultiText,SurvivorsCard_RoleUpgrade,共鸣者,Resonator,Cộng Hưởng Giả
+lang_multi_text.db,MultiText,SurvivorsCard_UnLockTips,已解锁,Unlocked,Đã mở khóa
+lang_multi_text.db,MultiText,SurvivorsCard_WeaponLv,武装等级+{0},Weapon Level +{0},Cấp vũ trang +{0}
+lang_multi_text.db,MultiText,SurvivorsCard_WeaponLvTag,武装（Lv{0}）,Weapon (Lv. {0}),Vũ trang (Lv{0})
+lang_multi_text.db,MultiText,SurvivorsCard_WeaponUpgrade,武装,Weapon,Vũ trang
+lang_multi_text.db,MultiText,SurvivorsCollection,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,SurvivorsCombat_ConsecutiveKills,连续消灭,Rampage,Diệt liên tục
+lang_multi_text.db,MultiText,SurvivorsCombat_ConsecutiveKillsRevenue,收益,Rewards,Lợi ích
+lang_multi_text.db,MultiText,SurvivorsCombat_EndlessMode,炼狱,Helltide Mode,Luyện Ngục
+lang_multi_text.db,MultiText,SurvivorsCombat_EndlessWaves,无尽波次,Inifinite Wave,Đợt vô tận
+lang_multi_text.db,MultiText,SurvivorsCombat_IncomeBuff,收益+{0}%,Reward +{0}%,Lợi ích +{0}%
+lang_multi_text.db,MultiText,SurvivorsCombat_Lv,Lv.{0},Lv. {0},Lv. {0}
+lang_multi_text.db,MultiText,SurvivorsCombat_TreasureChestWave,宝箱波次,Chest Wave,Đợt Rương Báu
+lang_multi_text.db,MultiText,SurvivorsCombat_WavePeriod,波次进度,Current Wave:,Tiến độ đợt
+lang_multi_text.db,MultiText,SurvivorsCombat_WavePeriodNumber,{0}/{1},{0}/{1},{0}/{1}
+lang_multi_text.db,MultiText,SurvivorsCombat_WeaponLock,第{0}波解锁该武装槽,This slot unlocks at Wave {0},Đợt {0} mở khóa ô vũ trang này
+lang_multi_text.db,MultiText,SurvivorsCombat_WeaponNoUsed,该武装槽本局不可用,This slot is unavailable in this stage,Ô vũ trang này ván này không khả dụng
+lang_multi_text.db,MultiText,SurvivorsCritDamage_Name,暴击伤害,Crit. DMG,Sát thương bạo kích
+lang_multi_text.db,MultiText,SurvivorsCrit_Name,暴击,Crit. Rate,Bạo kích
+lang_multi_text.db,MultiText,SurvivorsDamageAmplify_Name,伤害加深,DMG Amplification,Khuếch đại sát thương
+lang_multi_text.db,MultiText,SurvivorsDamageChangeElement1_Name,冷凝伤害加成,Glacio DMG Bonus,Tăng sát thương Ngưng Băng
+lang_multi_text.db,MultiText,SurvivorsDamageChangeElement2_Name,热熔伤害加成,Fusion DMG Bonus,Tăng sát thương Hỏa Liệt
+lang_multi_text.db,MultiText,SurvivorsDamageChangeElement3_Name,导电伤害加成,Electro DMG Bonus,Tăng sát thương Điện Từ
+lang_multi_text.db,MultiText,SurvivorsDamageChangeElement4_Name,气动伤害加成,Aero DMG Bonus,Tăng sát thương Khí Động
+lang_multi_text.db,MultiText,SurvivorsDamageChangeElement5_Name,衍射伤害加成,Spectro DMG Bonus,Tăng sát thương Quang Phổ
+lang_multi_text.db,MultiText,SurvivorsDamageChangeElement6_Name,湮灭伤害加成,Havoc DMG Bonus,Tăng sát thương Hủy Diệt
+lang_multi_text.db,MultiText,SurvivorsDamageChangeGeneral_Name,通用伤害加成,All DMG Bonus,Tăng sát thương chung
+lang_multi_text.db,MultiText,SurvivorsDamageChangePhys_Name,物理伤害加成,Physical DMG Bonus,Tăng sát thương Vật Lý
+lang_multi_text.db,MultiText,SurvivorsDamageMagnitudeChangeGeneral_Name,伤害倍率加成,DMG Multiplier Bonus,Tăng bội suất sát thương
+lang_multi_text.db,MultiText,SurvivorsDamageReduce_Name,伤害减免,DMG Reduction,Giảm sát thương
+lang_multi_text.db,MultiText,SurvivorsEnterHasSaveTips,非存档关卡，无法继续,"Save unavailable in this stage, cannot continue","Ải không lưu, không thể tiếp tục"
+lang_multi_text.db,MultiText,SurvivorsEnterLockTips,关卡未解锁,Stage locked,Ải chưa mở khóa
+lang_multi_text.db,MultiText,SurvivorsEnterUnFinishedPreQuestTips,解锁条件 完成活动引导任务,Complete Event Tutorial Quest to unlock,Điều kiện mở khóa: Hoàn thành nhiệm vụ hướng dẫn sự kiện
+lang_multi_text.db,MultiText,SurvivorsExitPopup_Text,已有进度,Ongoing,Đã có tiến độ
+lang_multi_text.db,MultiText,SurvivorsExitPopup_confirmText,波次{0}/{1},Wave {0}/{1},Đợt {0}/{1}
+lang_multi_text.db,MultiText,SurvivorsExit_ExternalBut2,继续演习,Resume,Tiếp tục diễn tập
+lang_multi_text.db,MultiText,SurvivorsExit_ExternalTips,演习尚未完成，是否继续？,Drill not complete. Continue?,"Diễn tập chưa hoàn thành, có tiếp tục không?"
+lang_multi_text.db,MultiText,SurvivorsExit_ExternalTitle,继续当前演习,Resume,Tiếp tục diễn tập hiện tại
+lang_multi_text.db,MultiText,SurvivorsExit_InternalBut2,暂时离开,Leave for Now,Tạm thời rời đi
+lang_multi_text.db,MultiText,SurvivorsExit_InternalTips,演习尚未完成，是否退出？,Drill not complete. Quit anyway?,"Diễn tập chưa hoàn thành, có thoát không?"
+lang_multi_text.db,MultiText,SurvivorsExit_InternalTitle,退出当前进度,Progress,Thoát tiến độ hiện tại
+lang_multi_text.db,MultiText,SurvivorsExternal_Text,演习进行中,Drill in Progress,Diễn tập đang tiến hành
+lang_multi_text.db,MultiText,SurvivorsHealChange_Name,生命再生,HP Regen,Hồi phục HP
+lang_multi_text.db,MultiText,SurvivorsIgnoreDefRate_Name,防御穿透,DEF Penetration,Xuyên giáp
