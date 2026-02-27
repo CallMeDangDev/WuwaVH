@@ -1,123 +1,102 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Text_Variation_Text,深境区·{0},Hazard Zone: {0},Khu Vực Thâm Cảnh - {0}
-lang_multi_text.db,MultiText,Text_VisionRefineAttributePanelTitle_Text,可对首条主音属性数据重构,Modify the Echo's Mainstat.,Có thể tái cấu trúc thuộc tính dòng chính đầu tiên
-lang_multi_text.db,MultiText,Text_VisionRefineChooseListFull_Text,列表中待重构声骸已满,Data Modification list is full,Danh sách Thanh Hài chờ tái cấu trúc đã đầy
-lang_multi_text.db,MultiText,Text_VisionRefineMain_BlockedTips_Text,当前列表中无可重构至目标属性的声骸,This list contains no Echoes whose Mainstat can be modified to the target Mainstat.,Trong danh sách hiện tại không có Thanh Hài nào có thể tái cấu trúc thành thuộc tính mục tiêu
-lang_multi_text.db,MultiText,Text_VisionRefineMain_InvalidReason_Text,仅未强化过的五星声骸可进行重构,Only an unenhanced 5-Star Echo can be modified.,Chỉ Thanh Hài 5 sao chưa cường hóa mới có thể tái cấu trúc
-lang_multi_text.db,MultiText,Text_VisionRefineSubAttriLocked_Text,未调谐,Untuned,Chưa hiệu chỉnh
-lang_multi_text.db,MultiText,Text_VisionRefineSubLockAll_Text,不能锁定所有辅音属性,You cannot lock all Substats.,Không thể khóa tất cả thuộc tính dòng phụ
-lang_multi_text.db,MultiText,Text_VisionRefineSub_InvalidReason_Text,仅完成所有调谐的五星声骸可进行重构,Only fully tuned Echoes can be modified.,Chỉ Thanh Hài 5 sao đã hoàn thành tất cả hiệu chỉnh mới có thể tái cấu trúc
-lang_multi_text.db,MultiText,Text_VisionRefineSub_InvalidTips_Text,仅可放入已开启所有辅音属性的五星声骸,A 5-Star Echo with all Substats unlocked is required.,Chỉ có thể đưa vào Thanh Hài 5 sao đã mở tất cả thuộc tính dòng phụ
-lang_multi_text.db,MultiText,Text_VisionRefine_CanRefineWithNumber_Text,当前有{0}个声骸的首位主音属性与所选属性相同，不计入计算,"<SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echoes SapTag=0} in your current selection already {Cus:Sap,S=has P=have SapTag=0} this Mainstat. {Cus:Sap,S=It P=They SapTag=0} will be skipped.","Hiện có {0} Thanh Hài có thuộc tính dòng chính đầu tiên trùng với thuộc tính đã chọn, sẽ không được tính vào"
-lang_multi_text.db,MultiText,Text_VisionSpecialSkillTips_Text,[{0}专属技能],[{0}'s exclusive skill],[Kỹ năng riêng của {0}]
-lang_multi_text.db,MultiText,Text_VoiceProgress_Text,{0}:{1}/{2}:{3},{0}:{1}/{2}:{3},{0}:{1}/{2}:{3}
-lang_multi_text.db,MultiText,Text_WeaponAddExpTipsText_Text,已到达经验上限，无法继续添加,"Experience cap reached, unable to continue adding.","Đã đạt giới hạn kinh nghiệm, không thể tiếp tục thêm"
-lang_multi_text.db,MultiText,Text_WeaponAddLevel_Text,武器等级提升至<color=#ffd12f>{0}</color>,Weapon Level is increased to <color=#ffd12f>{0}</color>,Cấp vũ khí tăng lên <color=#ffd12f>{0}</color>
-lang_multi_text.db,MultiText,Text_WeaponBreachNoEnoughMaterialText_Text,突破所需材料不足,Insufficient Ascension materials,Không đủ nguyên liệu đột phá
-lang_multi_text.db,MultiText,Text_WeaponBreachNoEnoughMoneyText_Text,突破所需货币不足,Insufficient currency for Ascension,Không đủ tiền đột phá
-lang_multi_text.db,MultiText,Text_WeaponBreachText_Text,谐振,Syntonize,Cộng hưởng
-lang_multi_text.db,MultiText,Text_WeaponDescrtption_Text,武器描述,Weapon description,Mô tả vũ khí
-lang_multi_text.db,MultiText,Text_WeaponExpMax_Text,已达到经验上限，无法再继续添加,"Experience cap reached, unable to add further","Đã đạt giới hạn kinh nghiệm, không thể tiếp tục thêm"
-lang_multi_text.db,MultiText,Text_WeaponForging_Text,印造,Crafting,Chế tạo
-lang_multi_text.db,MultiText,Text_WeaponFullMaterialText_Text,空位已满，无法继续添加材料,Slots full,"Chỗ trống đã đầy, không thể thêm nguyên liệu"
-lang_multi_text.db,MultiText,Text_WeaponHandBookLock_Text,尚未获得该武器,Locked,Chưa nhận vũ khí này
-lang_multi_text.db,MultiText,Text_WeaponHasLevelUp_Text,经过强化,upgraded,Đã qua cường hóa
-lang_multi_text.db,MultiText,Text_WeaponHasResonance_Text,经过谐振,Syntonized,Đã qua cộng hưởng
-lang_multi_text.db,MultiText,Text_WeaponHighQuality_Text,品质较高,High quality,Chất lượng cao
-lang_multi_text.db,MultiText,Text_WeaponLevelUpAddText_Text,0,0.0,0
-lang_multi_text.db,MultiText,Text_WeaponLevelUpHighLevelText_Text,升级材料中包含已被强化的武器，请确认是否继续升级？,Upgraded weapon will be consumed. Are you sure to proceed?,"Trong nguyên liệu nâng cấp có chứa vũ khí đã được cường hóa, xác nhận tiếp tục nâng cấp?"
-lang_multi_text.db,MultiText,Text_WeaponLevelUpHighQualityHighLevelText_Text,升级材料中包含品质较高，已被强化的武器，请确认是否继续升级？,Upgraded Rare weapon will be consumed. Are you sure to proceed?,"Trong nguyên liệu nâng cấp có chứa vũ khí chất lượng cao đã được cường hóa, xác nhận tiếp tục nâng cấp?"
-lang_multi_text.db,MultiText,Text_WeaponLevelUpHighQualityText_Text,升级材料中包含品质较高的武器，请确认是否继续升级？,Rare weapon will be consumed. Are you sure to proceed?,"Trong nguyên liệu nâng cấp có chứa vũ khí chất lượng cao, xác nhận tiếp tục nâng cấp?"
-lang_multi_text.db,MultiText,Text_WeaponLevelUpLevelText_Text,Lv. {0}/,Lv. {0}/,Lv. {0}/
-lang_multi_text.db,MultiText,Text_WeaponLevelUpOneCondition_Text,升级材料中包含{0}的武器，请确认是否继续升级。,{0} weapon will be consumed. Are you sure to proceed?,"Trong nguyên liệu nâng cấp có chứa vũ khí {0}, xác nhận tiếp tục nâng cấp?"
-lang_multi_text.db,MultiText,Text_WeaponLevelUpSuccessText_Text,强化成功,Enhanced,Cường hóa thành công
-lang_multi_text.db,MultiText,Text_WeaponLevelUpText_Text,强化,Enhance,Cường hóa
-lang_multi_text.db,MultiText,Text_WeaponLevelUpThreeCondition_Text,升级材料中包含{0}、{1}和{2}的武器，请确认是否继续升级。,"{0}, {1} {2} weapon will be consumed. Are you sure to proceed?","Trong nguyên liệu nâng cấp có chứa vũ khí {0}, {1} và {2}, xác nhận tiếp tục nâng cấp?"
-lang_multi_text.db,MultiText,Text_WeaponLevelUpTipsText_Text,提示,Notice,Gợi ý
-lang_multi_text.db,MultiText,Text_WeaponLevelUpTips_Text,本次登录不再提示,Do not show again,Không nhắc lại trong lần đăng nhập này
-lang_multi_text.db,MultiText,Text_WeaponLevelUpTwoCondition_Text,升级材料中包含{0}和{1}的武器，请确认是否继续升级。,{0} {1} weapon will be consumed. Are you sure to proceed?,"Trong nguyên liệu nâng cấp có chứa vũ khí {0} và {1}, xác nhận tiếp tục nâng cấp?"
-lang_multi_text.db,MultiText,Text_WeaponLevel_Text,Lv. {0},Lv. {0},Lv. {0}
-lang_multi_text.db,MultiText,Text_WeaponLockResonanceText_Text,该武器无法进行谐振,Syntonization unavailable for this weapon.,Vũ khí này không thể tiến hành cộng hưởng
-lang_multi_text.db,MultiText,Text_WeaponLockTipsText_Text,此道具已锁定，请先解锁再进行操作。,Item locked. Unlock to continue,"Vật phẩm này đã khóa, vui lòng mở khóa trước khi thao tác."
-lang_multi_text.db,MultiText,Text_WeaponMaking_Text,印造,Craft,Chế tạo
-lang_multi_text.db,MultiText,Text_WeaponMaterialLengthText_Text,强化消耗材料（{0}/{1}）,Upgrade Consumption ({0}/{1}),Tiêu hao cường hóa ({0}/{1})
-lang_multi_text.db,MultiText,Text_WeaponMaterialType_Text,武器材料,Weapon Materials,Nguyên liệu vũ khí
-lang_multi_text.db,MultiText,Text_WeaponMaxLevelText_Text,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_WeaponNoEnoughMoneyText_Text,强化所需贝币不足,Insufficient Shell Credit for enhancement.,Không đủ xu vỏ sò để cường hóa
-lang_multi_text.db,MultiText,Text_WeaponNoMaterial_Text,当前没有强化材料,Insufficient upgrade materials,Hiện không có nguyên liệu cường hóa
-lang_multi_text.db,MultiText,Text_WeaponReplaceContrastText_Text,收起,Collapse,Thu gọn
-lang_multi_text.db,MultiText,Text_WeaponReplacePackUpText_Text,对比,Compare,So sánh
-lang_multi_text.db,MultiText,Text_WeaponReplaceTipsContentText_Text,{0}已被{1}装备，是否替换？,{0} is equipped by {1}. Do you want to replace it?,"{0} đã được {1} trang bị, có muốn thay thế không?"
-lang_multi_text.db,MultiText,Text_WeaponReplaceTipsTitleText_Text,武器替换,Weapon replacement,Thay thế vũ khí
-lang_multi_text.db,MultiText,Text_WeaponResonanceCurrentEffectText_Text,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_WeaponResonanceHasLevelUpAndResonance_Text,所选材料已经过强化和谐振，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes tuned and upgraded items. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,"Nguyên liệu đã chọn đã được cường hóa và cộng hưởng, xác nhận tiêu hao nguyên liệu {0} để nâng bậc cộng hưởng vũ khí {1} lên bậc {2}?"
-lang_multi_text.db,MultiText,Text_WeaponResonanceHasLevelUp_Text,所选材料已经过强化，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes upgraded item. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,"Nguyên liệu đã chọn đã được cường hóa, xác nhận tiêu hao nguyên liệu {0} để nâng bậc cộng hưởng vũ khí {1} lên bậc {2}?"
-lang_multi_text.db,MultiText,Text_WeaponResonanceHasResonance_Text,所选材料已经过谐振，请确认是否消耗材料{0}将武器{1}谐振等阶提升至{2}阶。,Includes Syntonized item. Do you wish to consume {0} to Syntonize Weapon {1} to Rank {2}?,"Nguyên liệu đã chọn đã được cộng hưởng, xác nhận tiêu hao nguyên liệu {0} để nâng bậc cộng hưởng vũ khí {1} lên bậc {2}?"
-lang_multi_text.db,MultiText,Text_WeaponResonanceItemLevelText_Text,{0}阶,Rank {0},Bậc {0}
-lang_multi_text.db,MultiText,Text_WeaponResonanceLevelText_Text,{0}阶,Rank {0},Bậc {0}
-lang_multi_text.db,MultiText,Text_WeaponResonanceMaterialNotEnough_Text,没有可用于谐振的材料,Insufficient Syntonize materials,Không có nguyên liệu dùng để cộng hưởng
-lang_multi_text.db,MultiText,Text_WeaponResonanceNextEffectText_Text,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_WeaponResonanceNoEnoughMoneyText_Text,谐振所需贝币不足,Insufficient Shell Credit for Syntonize,Không đủ xu vỏ sò để cộng hưởng
-lang_multi_text.db,MultiText,Text_WeaponResonanceText_Text,谐振,Syntonize,Cộng hưởng
-lang_multi_text.db,MultiText,Text_WeaponResonanceTipsText_Text,请确认是否消耗材料{0}将武器{1}的谐振等阶提升至{2}阶？,Do you wish to consume {0} to Syntonize weapon {1} to Rank {2}?,Xác nhận tiêu hao nguyên liệu {0} để nâng bậc cộng hưởng của vũ khí {1} lên bậc {2}?
-lang_multi_text.db,MultiText,Text_WeaponSelectMaterialTipsText_Text,请先选择材料,Select materials,Vui lòng chọn nguyên liệu trước
-lang_multi_text.db,MultiText,Text_WeaponSkinTip,{0}装备中,{0} Equipped,{0} đang trang bị
-lang_multi_text.db,MultiText,Text_WeaponStrengthMaterialNotEnough_Text,没有可用于强化的材料,Insufficient upgrade materials,Không có nguyên liệu dùng để cường hóa
-lang_multi_text.db,MultiText,Text_WeaponTipsRoleText_Text,{0}装备中,{0} Equipped,{0} đang trang bị
-lang_multi_text.db,MultiText,Text_Weapon_Text,武器,Weapon,Vũ khí
-lang_multi_text.db,MultiText,Text_WeeklyRogue_FreeLoot,无消耗领取（{0}/{1}）,Free Claim Attempts ({0}/{1}),Nhận miễn phí ({0}/{1})
-lang_multi_text.db,MultiText,Text_WeeklyRogue_FreeTime,本周剩余「回音结晶」无消耗领取次数,Free Claim Attempts This Week,"Số lần nhận ""Kết Tinh Hồi Âm"" miễn phí còn lại trong tuần"
-lang_multi_text.db,MultiText,Text_WeeklyRogue_FreeTime_Map,回音结晶无消耗领取次数,Free Claim Attempts,Số lần nhận Kết Tinh Hồi Âm miễn phí
-lang_multi_text.db,MultiText,Text_WeeklyRogue_FreeTime_Num,{0}/{1},{0}/{1},{0}/{1}
-lang_multi_text.db,MultiText,Text_WeeklyRogue_FreeTime_Select,回音结晶单次消耗（剩余无消耗次数{0}/{1}）,Cost to Claim Reward Once (Free Claim Attempts {0}/{1}),Tiêu hao Kết Tinh Hồi Âm mỗi lần (số lần miễn phí còn lại {0}/{1})
-lang_multi_text.db,MultiText,Text_WeeklyRogue_FreeTime_Title,本周剩余「回音结晶」无消耗领取次数：,Free Claim Attempts This Week:,"Số lần nhận ""Kết Tinh Hồi Âm"" miễn phí còn lại trong tuần:"
-lang_multi_text.db,MultiText,Text_WeeklyRogue_ScoreReward_ItemName,本期异想积分累计达到{0}完成,Reach {0} Current Illusive Points,Tích lũy điểm Dị Tưởng kỳ này đạt {0} hoàn thành
-lang_multi_text.db,MultiText,Text_WeeklyRogue_ScoreReward_Title,本期异想积分奖励,Current Rewards,Phần thưởng điểm Dị Tưởng kỳ này
-lang_multi_text.db,MultiText,Text_Weekly_Rogue_Score,{0},{0},{0}
-lang_multi_text.db,MultiText,Text_Weekly_Rogue_Week_Score,本期异想积分,Current Illusive Points,Điểm Dị Tưởng kỳ này
-lang_multi_text.db,MultiText,Text_WorldCurrentLevelTag_Text,索拉等级{0}（当前）,SOL3 Phase {0} (Current),Cấp Solaris {0} (Hiện tại)
-lang_multi_text.db,MultiText,Text_WorldLevelAdjustTo_Text,索拉等级调整至{0}阶,SOL3 Phase adjusted to Rank {0}.,Điều chỉnh cấp Solaris về bậc {0}
-lang_multi_text.db,MultiText,Text_WorldLevelDownReject_Text,战斗中无法使用该功能,This function is unavailable in combat.,Không thể sử dụng tính năng này trong chiến đấu
-lang_multi_text.db,MultiText,Text_WorldLevelDown_Text,降低索拉等级,Lower SOL3 Phase,Giảm cấp Solaris
-lang_multi_text.db,MultiText,Text_WorldLevelINotice_Text,索拉等级的调整，会影响怪物等级，以及奖励内容。,Adjustments to the SOL3 Phase will affect enemy levels and reward content.,Việc điều chỉnh cấp Solaris sẽ ảnh hưởng đến cấp quái vật cũng như nội dung phần thưởng.
-lang_multi_text.db,MultiText,Text_WorldLevelIntro_Text,"索拉等级的提升取决于联觉等级，具体表现为：<color=HighlightB>联觉等级每提升10级，索拉等级将相应地提升1阶。</color>
-
-在联觉等级分别达到<color=HighlightB>20、40、60</color>级时，如未完成对应的<color=HighlightB>索拉等级突破任务</color>，联觉等级将达到上限，索拉等级无法进一步提升。
-
-索拉等级越高，可获取的奖励越高，但与此相对的是敌人也会更危险，反之亦然。
-
-通过终端可以手动调整索拉等级，但调整阈值无法超过已达到的最大等级。
-
-<color=HighlightB>该调整每12小时只可进行1次。</color>","<color=HighlightB>Every 10 Union Levels raises your SOL3 Phase by 1.</color>
-  
-Higher SOL3 Phases yield better rewards but also present more challenging enemies.
- 
-At Union Level <color=HighlightB>20, 40, and 60</color>, you must complete <color=HighlightB>SOL3 Phase Ascension Quests</color> in order to keep increasing your Union Level and/or SOL3 Phase.
- 
-You can lower your SOL3 Phase or raise it back up again <color=HighlightB>every 12 hours.</color>","Việc tăng cấp Solaris phụ thuộc vào cấp Liên Giác, cụ thể là: <color=HighlightB>Mỗi khi cấp Liên Giác tăng 10 cấp, cấp Solaris sẽ tăng tương ứng 1 bậc.</color>
-
-Khi cấp Liên Giác đạt <color=HighlightB>20, 40, 60</color>, nếu chưa hoàn thành <color=HighlightB>Nhiệm vụ đột phá cấp Solaris</color> tương ứng, cấp Liên Giác sẽ đạt giới hạn, cấp Solaris không thể tăng thêm.
-
-Cấp Solaris càng cao, phần thưởng nhận được càng lớn, nhưng đổi lại kẻ địch cũng sẽ nguy hiểm hơn, và ngược lại.
-
-Thông qua thiết bị đầu cuối có thể điều chỉnh cấp Solaris thủ công, nhưng ngưỡng điều chỉnh không thể vượt quá cấp tối đa đã đạt được.
-
-<color=HighlightB>Việc điều chỉnh này mỗi 12 giờ chỉ có thể thực hiện 1 lần.</color>"
-lang_multi_text.db,MultiText,Text_WorldLevelNum_Text,{0}阶,Rank {0},Bậc {0}
-lang_multi_text.db,MultiText,Text_WorldLevelRestore_Text,重置索拉等级,Reset SOL3 Phase,Đặt lại cấp Solaris
-lang_multi_text.db,MultiText,Text_WorldLevelTag_Text,索拉等级{0},SOL3 Phase {0},Cấp Solaris {0}
-lang_multi_text.db,MultiText,Text_WorldLevelUpTo_Text,索拉等级提高至{0}阶。,SOL3 Phase raised to Rank {0}.,Cấp Solaris tăng lên bậc {0}.
-lang_multi_text.db,MultiText,Text_WorldLevel_Text,索拉等级,SOL3 Phase,Cấp Solaris
-lang_multi_text.db,MultiText,Text_WorldMapTagFull_Text,自定义标记已满，无法添加。,"Custom marker is full, unable to add.","Đánh dấu tùy chỉnh đã đầy, không thể thêm."
-lang_multi_text.db,MultiText,Text_YearText_Text,{0}年{1}月{2}日{3}:{4},{0}-{1}-{2} {3}:{4},{3}:{4} ngày {2} tháng {1} năm {0}
-lang_multi_text.db,MultiText,Text_Yesterday_Text,昨天,Yesterday,Hôm qua
-lang_multi_text.db,MultiText,ThreeStar,三星,3-Star,3 sao
-lang_multi_text.db,MultiText,TimeOfDayLock,当前任务状态无法使用,Unable to use this right now.,Trạng thái nhiệm vụ hiện tại không thể sử dụng
-lang_multi_text.db,MultiText,TimePointRewardActivity_RewardDesc01,待签到,Sign in,Chờ điểm danh
-lang_multi_text.db,MultiText,TimePointRewardActivity_RewardDesc02,可领取,Available,Có thể nhận
-lang_multi_text.db,MultiText,TimePointRewardActivity_RewardDesc03,已领取,Collected,Đã nhận
-lang_multi_text.db,MultiText,TimePointRewardActivity_TimeDesc01,{0}月{1}日,{0}-{1},Ngày {1} tháng {0}
-lang_multi_text.db,MultiText,Tips_Crown_2026_Remove,已卸下「伴你同行的星轨」,"""Trails of Companion Stars"" is removed","Đã tháo ""Quỹ Đạo Sao Cùng Bạn Đồng Hành"""
-lang_multi_text.db,MultiText,Tips_Crown_2026_Wear,已佩戴「伴你同行的星轨」,"""Trails of Companion Stars"" is equipped","Đã đeo ""Quỹ Đạo Sao Cùng Bạn Đồng Hành"""
-lang_multi_text.db,MultiText,Tips_Crown_Remove,已卸下「为你闪烁的星光」,"""The Stars that Shine For You"" is removed","Đã tháo ""Ánh Sao Lấp Lánh Vì Bạn"""
-lang_multi_text.db,MultiText,Tips_Crown_Spent2026_Remove,已卸下「映照万音的星彩」,"""Starbright Resonance"" is removed","Đã tháo ""Ánh Sao Chiếu Rọi Muôn Âm Sắc"""
+lang_multi_text.db,MultiText,TowerDefence_100042_PhantomTitle,核反应堆,Nuclear Reactor,Lò Phản Ứng Hạt Nhân
+lang_multi_text.db,MultiText,TowerDefence_100043_PhantomDesc,当呜咔咔爆炸击杀敌人时，刷新该声骸的冷却时间,Reset its cooldown when Tick Tack defeats an enemy with its explosion.,"Khi Tick Tack phát nổ hạ gục kẻ địch, làm mới thời gian hồi chiêu của Thanh Hài này"
+lang_multi_text.db,MultiText,TowerDefence_100043_PhantomTitle,流水作业,Assembly Line,Dây Chuyền Sản Xuất
+lang_multi_text.db,MultiText,TowerDefence_100044_PhantomTitle,蓝色清净的世界,For Our Blue and Pure World,Thế Giới Xanh Trong Sạch
+lang_multi_text.db,MultiText,TowerDefence_100045_PhantomTitle,量产机体,Mass Production Suits,Cơ Thể Sản Xuất Hàng Loạt
+lang_multi_text.db,MultiText,TowerDefence_100050_PhantomTitle,已连接至共享大脑,"""R"" Button Presser",Đã Kết Nối Với Bộ Não Chung
+lang_multi_text.db,MultiText,TowerDefence_100051_PhantomDesc,使用声骸技能，幻形为磐石守卫，造成2526.00%的衍射伤害，并击飞敌人，若磐石守卫命中冷凝棱镜，冷凝棱镜会瞬间冰冻其周围的敌人，持续3秒。技能冷却：12秒,"Transform into Rocksteady Guardian, dealing 2526.00% Spectro DMG and juggling enemies. If Rocksteady Guardian hits the Glacio Prism, nearby enemies are immediately Frozen for 3s. Cooldown: 12s.","Sử dụng Kỹ Năng Thanh Hài, biến hình thành Hộ Vệ Bàn Thạch, gây 2526.00% Sát Thương Quang Phổ, đồng thời hất tung kẻ địch, nếu Hộ Vệ Bàn Thạch trúng Lăng Kính Ngưng Băng, Lăng Kính Ngưng Băng sẽ lập tức đóng băng kẻ địch xung quanh, duy trì 3 giây. Hồi chiêu kỹ năng: 12 giây"
+lang_multi_text.db,MultiText,TowerDefence_100051_PhantomTitle,花岗岩冲击,Granite Impact,Va Chạm Đá Granite
+lang_multi_text.db,MultiText,TowerDefence_100052_PhantomDesc,增加一次充能上限。每当自己或队友施放声骸技能时，减少磐石守卫33.33%的冷却时间,"Gain an additional charge. Each time this Resonator or a party member casts an Echo Skill, reduce Rocksteady Guardian's Cooldown by 33.33%.","Tăng thêm một lần giới hạn nạp. Mỗi khi bản thân hoặc đồng đội thi triển Kỹ Năng Thanh Hài, giảm 33.33% thời gian hồi chiêu của Hộ Vệ Bàn Thạch"
+lang_multi_text.db,MultiText,TowerDefence_100052_PhantomTitle,坚如磐石,Rock Solid,Vững Như Bàn Thạch
+lang_multi_text.db,MultiText,TowerDefence_100053_PhantomDesc,伤害范围扩大40.00%,Expand the DMG range by 40%.,Phạm vi sát thương mở rộng 40.00%
+lang_multi_text.db,MultiText,TowerDefence_100053_PhantomTitle,通信工程,Brain Turned Off,Kỹ Thuật Viễn Thông
+lang_multi_text.db,MultiText,TowerDefence_100054_PhantomTitle,野蛮肘击！,Elbow Strike!,Cú Chỏ Dã Man!
+lang_multi_text.db,MultiText,TowerDefence_100055_PhantomTitle,专用网络,Between Rock and A Hard Place,Mạng Lưới Chuyên Dụng
+lang_multi_text.db,MultiText,TowerDefence_100060_PhantomTitle,重力束缚的灵魂,Souls Weighed Down by Gravity,Linh Hồn Bị Trọng Lực Trói Buộc
+lang_multi_text.db,MultiText,TowerDefence_100061_PhantomDesc,使用声骸技能，召唤呼咻咻生成低气压区域，持续5秒。低气压区域不断将敌人向中心聚拢，期间造成12次149.75%的气动伤害。技能冷却：9.6秒,"Summon a Whiff Whaff to pull in nearby enemies for 5s, dealing 149.75% Aero DMG for 12 times. Cooldown: 9.6s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Whiff Whaff tạo ra vùng áp thấp, duy trì 5 giây. Vùng áp thấp liên tục kéo kẻ địch vào trung tâm, trong thời gian đó gây 12 lần sát thương Khí Động 149.75%. Hồi chiêu kỹ năng: 9.6 giây"
+lang_multi_text.db,MultiText,TowerDefence_100061_PhantomTitle,万有引力,Universal Gravitation,Vạn Vật Hấp Dẫn
+lang_multi_text.db,MultiText,TowerDefence_100062_PhantomDesc,受到低气压区域影响的敌人受到的伤害提升60.00%,Enemies pulled in take 60.00% more DMG.,Kẻ địch bị ảnh hưởng bởi vùng áp thấp chịu sát thương tăng 60.00%
+lang_multi_text.db,MultiText,TowerDefence_100062_PhantomTitle,太空残响,Space Repercussion,Tàn Dư Vũ Trụ
+lang_multi_text.db,MultiText,TowerDefence_100063_PhantomDesc,低气压区域范围扩大80.00%,Expand the pulling range by 80%.,Phạm vi vùng áp thấp mở rộng 80.00%
+lang_multi_text.db,MultiText,TowerDefence_100063_PhantomTitle,豪猪困境,Hedgehog's Dilemma,Nghịch Lý Nhím
+lang_multi_text.db,MultiText,TowerDefence_100064_PhantomTitle,超重力场,Supergravity Field,Trường Siêu Trọng Lực
+lang_multi_text.db,MultiText,TowerDefence_100065_PhantomTitle,beyond time,Beyond Time,Beyond Time
+lang_multi_text.db,MultiText,TowerDefence_100070_PhantomTitle,拼命的主唱,Trying-Too-Hard Vocalist,Ca Sĩ Chính Hết Mình
+lang_multi_text.db,MultiText,TowerDefence_100071_PhantomDesc,使用声骸技能，召唤振铎乐师，持续7秒。振铎乐师存在时，不断施放音符。友方角色拾取音符回复10点协奏能量，并获得30.00%的移动速度，持续5秒。技能冷却：12秒,"Summon a Tambourinist for 7s that continuously releases musical notes. Friendly units restore 10 Concerto Energy and increase Movement Speed by 30% for 5s upon picking up a note.
+Cooldown: 12s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Nhạc Công Tambourine, duy trì 7 giây. Khi Nhạc Công Tambourine tồn tại, liên tục thi triển nốt nhạc. Nhân vật phe ta nhặt nốt nhạc hồi phục 10 điểm Năng Lượng Hiệp Tấu, đồng thời nhận được 30.00% tốc độ di chuyển, duy trì 5 giây. Hồi chiêu kỹ năng: 12 giây"
+lang_multi_text.db,MultiText,TowerDefence_100071_PhantomTitle,心底的呐喊,Screams from the Heart,Tiếng Gào Thét Từ Đáy Lòng
+lang_multi_text.db,MultiText,TowerDefence_100072_PhantomDesc,拾取音符获得的移动速度增加30.00%,Increase Movement Speed by another 30% upon picking up a note.,Tốc độ di chuyển nhận được khi nhặt nốt nhạc tăng thêm 30.00%
+lang_multi_text.db,MultiText,TowerDefence_100072_PhantomTitle,逃避的本能,Urge to Escape,Bản Năng Trốn Chạy
+lang_multi_text.db,MultiText,TowerDefence_100073_PhantomDesc,拾取音符获得25.00%的伤害提升，持续8秒，最多可以叠加3次,"Gain a 25.00% DMG boost for 8s upon picking up a note, stacking up to 3 times.","Nhặt nốt nhạc nhận được tăng 25.00% sát thương, duy trì 8 giây, tối đa có thể cộng dồn 3 lần"
+lang_multi_text.db,MultiText,TowerDefence_100073_PhantomTitle,手写的笔记,Handwritten Notebook,Ghi Chép Viết Tay
+lang_multi_text.db,MultiText,TowerDefence_100074_PhantomTitle,人形的愿望,A Doll's Wish,Nguyện Vọng Của Búp Bê
+lang_multi_text.db,MultiText,TowerDefence_100075_PhantomTitle,春天的影子,Sunlight of Spring,Cái Bóng Của Mùa Xuân
+lang_multi_text.db,MultiText,TowerDefence_100080_PhantomTitle,你是白银奖杯,"""Meow Are #2""",Bạn Là Cúp Bạc
+lang_multi_text.db,MultiText,TowerDefence_100081_PhantomDesc,使用声骸技能，幻形为飞廉之猩，下砸造成1140.00%的气动伤害，然后留下柱子，持续9秒。柱子每隔3秒会施放一次冲击波，造成432.00%的气动伤害。技能冷却：14秒,"Transform into Feilian Beringal to smash the ground, dealing 1140.00% Aero DMG and leaving a pillar behind for 9s. The pillar releases a shockwave dealing 432.00% Aero DMG every 3s. Cooldown: 14s.","Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Phi Liêm Chi Tinh, đập xuống đất gây 1140.00% sát thương Khí Động, sau đó để lại cột đá tồn tại trong 9 giây. Cứ mỗi 3 giây cột đá sẽ phát ra sóng xung kích, gây 432.00% sát thương Khí Động. Hồi chiêu: 14 giây"
+lang_multi_text.db,MultiText,TowerDefence_100081_PhantomTitle,登龙,Helm Breaker,Đăng Long
+lang_multi_text.db,MultiText,TowerDefence_100082_PhantomDesc,柱子持续期间，附近队伍中每当有角色施放声骸技能时，柱子会额外施放一次冲击波,"Whenever this Resonator or a party member casts Resonance Liberation, the pillar releases an additional shockwave while it exists.","Trong thời gian cột đá tồn tại, mỗi khi nhân vật trong đội gần đó sử dụng Kỹ Năng Thanh Hài, cột đá sẽ phát ra thêm một lần sóng xung kích"
+lang_multi_text.db,MultiText,TowerDefence_100082_PhantomTitle,樱花,Sakura Strike,Anh Hoa
+lang_multi_text.db,MultiText,TowerDefence_100083_PhantomDesc,冲击波提升为3层,Each shockwave hits 3 times.,Sóng xung kích tăng lên 3 tầng
+lang_multi_text.db,MultiText,TowerDefence_100083_PhantomTitle,水月,Serenity Stance,Thủy Nguyệt
+lang_multi_text.db,MultiText,TowerDefence_100084_PhantomTitle,三段升刃,Jumping Spirit Blade,Tam Đoạn Thăng Nhẫn
+lang_multi_text.db,MultiText,TowerDefence_100085_PhantomTitle,居合,Iai Slash,Cư Hợp
+lang_multi_text.db,MultiText,TowerDefence_100090_PhantomTitle,如果你是龙，也好,"""You Are More Dragon Than I""",Nếu Ngươi Là Rồng Thì Tốt
+lang_multi_text.db,MultiText,TowerDefence_100091_PhantomDesc,使用声骸技能，幻形为无常凶鹭，向下喷射火焰，造成1470.60%的湮灭伤害，并留下火焰地带，持续5秒。处于火焰地带的敌人每秒受到共计655.20%的湮灭伤害，并减少40%的移动速度。技能冷却：10.8秒,"Transform into Impermanence Heron, firing flames downward to deal 1470.60% Havoc DMG and create a blazing area that lasts for 5s. Enemies within the area take 655.20% Havoc DMG per second and have their Movement Speed reduced by 40%. Cooldown: 10.8s.","Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Vô Thường Hung Lộ, phun lửa xuống dưới gây 1470.60% sát thương Hủy Diệt, đồng thời để lại vùng lửa tồn tại trong 5 giây. Kẻ địch trong vùng lửa mỗi giây chịu tổng cộng 655.20% sát thương Hủy Diệt và bị giảm 40% tốc độ di chuyển. Hồi chiêu: 10.8 giây"
+lang_multi_text.db,MultiText,TowerDefence_100091_PhantomTitle,火焰余烬,Embers of a Flame,Tàn Dư Ngọn Lửa
+lang_multi_text.db,MultiText,TowerDefence_100092_PhantomDesc,火焰地带额外减少40.00%的移动速度,Increase the blazing area's Movement Speed reduction by 40%.,Vùng lửa giảm thêm 40.00% tốc độ di chuyển
+lang_multi_text.db,MultiText,TowerDefence_100092_PhantomTitle,深渊凝望,Watchers of the Abyss,Vực Thẳm Ngước Nhìn
+lang_multi_text.db,MultiText,TowerDefence_100093_PhantomDesc,受火焰地带影响的敌人走出火焰地带后，伤害和减速效果持续3秒,"When enemies leave the blazing area, they continue to take DMG and have their Movement Speed reduced for 3s.","Kẻ địch chịu ảnh hưởng của vùng lửa sau khi ra khỏi vùng lửa, sát thương và hiệu ứng làm chậm vẫn duy trì trong 3 giây"
+lang_multi_text.db,MultiText,TowerDefence_100093_PhantomTitle,古龙化形,Ancient Dragon Form,Cổ Long Hóa Hình
+lang_multi_text.db,MultiText,TowerDefence_100094_PhantomTitle,法兰街舞,Undead Dancers Legion,Vũ Điệu Farron
+lang_multi_text.db,MultiText,TowerDefence_100095_PhantomTitle,薪王之格,Lord of Cinder,Tư Cách Của Vua Tro Tàn
+lang_multi_text.db,MultiText,TowerDefence_100100_PhantomDesc,降低一些声骸技能冷却时间...（10%）,Slightly reduce the Cooldown of Echo skills... (by 10%),Giảm một chút thời gian hồi chiêu Kỹ Năng Thanh Hài... (10%)
+lang_multi_text.db,MultiText,TowerDefence_100101_PhantomDesc,降低很多声骸技能冷却时间！（还是10%）,Significantly reduce the Cooldown of Echo skills! (still by 10%),Giảm rất nhiều thời gian hồi chiêu Kỹ Năng Thanh Hài! (vẫn là 10%)
+lang_multi_text.db,MultiText,TowerDefence_100111_PhantomDesc,使用声骸技能，幻形为磐石守卫，造成{0}的衍射伤害，附近队伍中所有角色获得基于释放者最大生命值{1}的<color=#ffd12f>护盾</color>，并提升抗打断能力，持续{2}秒。技能冷却：{3}秒,Transform into Rocksteady Guardian to deal {0} Spectro DMG and grant nearby party members a <color=#ffd12f>Shield</color> based on {1} of the caster's Max HP. It also boosts the caster's resistance to interruption. Lasts for {2}s. Cooldown: {3}s.,"Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Bàn Thạch Thủ Vệ, gây {0} sát thương Quang Phổ, tất cả nhân vật trong đội gần đó nhận <color=#ffd12f>Lớp Khiên</color> dựa trên {1} máu tối đa của người thi triển, đồng thời tăng khả năng kháng gián đoạn, duy trì {2} giây. Hồi chiêu: {3} giây"
+lang_multi_text.db,MultiText,TowerDefence_100121_PhantomDesc,使用声骸技能，召唤咕咕河豚，释放<color=#ffd12f>回复领域</color>，在范围内回复附近队伍中所有角色{0}的生命值以及释放者{1}攻击力的生命值，受到该回复效果的影响的角色获得{2}的减伤，持续{3}秒。技能冷却：{4}秒,Summon a Gulpuff that generates a <color=#ffd12f>healing field</color>. All nearby party members within this field recover {0} HP plus HP equal to {1} of the caster's ATK. Resonators affected also gain {2} DMG Reduction. Lasts for {3}s. Cooldown: {4}s.,"Sử dụng Kỹ Năng Thanh Hài, triệu hồi Cá Nóc Ùng Ục, tạo ra <color=#ffd12f>Vùng Hồi Phục</color>, trong phạm vi hồi phục cho tất cả nhân vật trong đội gần đó lượng máu bằng {0} cộng với {1} tấn công của người thi triển, nhân vật chịu ảnh hưởng của hiệu quả hồi phục này nhận được {2} giảm sát thương, duy trì {3} giây. Hồi chiêu: {4} giây"
+lang_multi_text.db,MultiText,TowerDefence_100131_PhantomDesc,使用声骸技能，召唤阿嗞嗞，释放<color=#ffd12f>无敌领域</color>，在范围内附近队伍中所有角色获得无敌效果{0}秒，受到无敌效果影响的角色获得{1}的暴击和{2}的暴击伤害。技能冷却：{3}秒,Summon a Zig Zag that generates an <color=#ffd12f>invincible field</color>. All party members within this field are immune to all incoming DMG for {0}s. Resonators affected also gain additional {1} Crit. Rate and {2} Crit. DMG. Cooldown: {3}s.,"Sử dụng Kỹ Năng Thanh Hài, triệu hồi A Tư Tư, tạo ra <color=#ffd12f>Vùng Vô Địch</color>, trong phạm vi tất cả nhân vật trong đội gần đó nhận hiệu quả vô địch trong {0} giây, nhân vật chịu ảnh hưởng của hiệu quả vô địch nhận được {1} bạo kích và {2} sát thương bạo kích. Hồi chiêu: {3} giây"
+lang_multi_text.db,MultiText,TowerDefence_100141_PhantomDesc,使用声骸技能，幻形为无妄者，造成{0}的湮灭伤害，附近队伍中所有角色<color=#ffd12f>攻击力提升</color>{1}，每秒获得{2}点协奏能量，并且对处于瘫痪状态目标造成的共鸣技能伤害提高{3}，持续{4}秒。技能冷却：{5}秒,Transform into Dreamless to deal {0} Havoc DMG and <color=#ffd12f>boost ATK</color> for nearby party members by {1}. It also restores {2} Concerto Energy per second and increases Resonance Skill DMG against Immobilized targets by {3}. Lasts for {4}s. Cooldown: {5}s.,"Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Kẻ Vô Vọng, gây {0} sát thương Hủy Diệt, tất cả nhân vật trong đội gần đó <color=#ffd12f>tăng tấn công</color> {1}, mỗi giây nhận {2} điểm Năng Lượng Hiệp Tấu, đồng thời tăng {3} sát thương Kỹ Năng Cộng Hưởng lên mục tiêu đang bị tê liệt, duy trì {4} giây. Hồi chiêu: {5} giây"
+lang_multi_text.db,MultiText,TowerDefence_100151_PhantomDesc,使用声骸技能，幻形为飞廉之猩，造成{0}的气动伤害，附近队伍中所有角色获得{1}<color=#ffd12f>共鸣解放伤害提升</color>，并且对处于瘫痪状态目标造成的共鸣解放伤害提高{2}，持续{3}秒。飞廉之猩会召唤柱子，柱子持续期间不断释放冲击波，每个冲击波造成{4}的气动伤害，受到冲击波影响的友方角色获得{5}点共鸣能量并减少{6}的共鸣解放冷却时间。技能冷却：{7}秒,"Transform into Feilian Beringal to deal {0} Aero DMG and <color=#ffd12f>boost Resonance Liberation DMG</color> for nearby party members by {1}. It also increases Resonance Liberation DMG against Immobilized targets by {2}. Lasts for {3}s. During this time, Feilian Beringal summons a pillar that releases shock waves, each dealing {4} Aero DMG. Resonators hit by a shock wave gain {5} Resonance Energy and {6} Resonance Liberation cooldown reduction. Cooldown: {7}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Phi Liêm Chi Tinh, gây {0} sát thương Khí Động, tất cả nhân vật trong đội gần đó nhận {1} <color=#ffd12f>tăng sát thương Giải Phóng Cộng Hưởng</color>, đồng thời tăng {2} sát thương Giải Phóng Cộng Hưởng lên mục tiêu đang bị tê liệt, duy trì {3} giây. Phi Liêm Chi Tinh sẽ triệu hồi cột đá, trong thời gian cột đá tồn tại sẽ liên tục phát ra sóng xung kích, mỗi đợt sóng gây {4} sát thương Khí Động, nhân vật đồng minh chịu ảnh hưởng của sóng xung kích nhận {5} điểm Năng Lượng Cộng Hưởng và giảm {6} thời gian hồi chiêu Giải Phóng Cộng Hưởng. Hồi chiêu: {7} giây"
+lang_multi_text.db,MultiText,TowerDefence_100161_PhantomDesc,使用声骸技能，幻形为寒霜陆龟，持续{0}秒。每秒对周围造成共计{1}冷凝伤害，自身获得5层【坚硬】和{3}的移动速度提升，每层【坚硬】使<color=#ffd12f>受到的伤害降低</color>{2}，每次受到伤害减少一层【坚硬】（每秒至多触发一次）。幻形期间，每次击中敌人，附近队伍中所有角色获得{4}的攻击力（每秒至多触发一次），至多叠加{5}层，持续{6}秒，当受到伤害使得【坚硬】层数归零时，失去攻击力加成，并提前结束幻形状态。技能冷却：{7}秒,"Transform into Hoartoise for {0}s, dealing up to {1} Glacio DMG to surrounding enemies each second and gaining 5 stacks of ""Hardening."" Each stack of ""Hardening"" <color=#ffd12f>reduces incoming DMG</color> by {2} and increases Movement Speed by {3}. Lose a stack of ""Hardening"" when hit (up to one stack per second). Attacks during transformation increase nearby party members' ATK by {4} on hit (up to one stack per second), stackable for up to {5} times, lasting for {6}s. Losing all stacks of ""Hardening"" will remove all the ATK boosts and end the transformation. Cooldown: {7}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Lục Quy Hàn Sương, duy trì {0} giây. Mỗi giây gây tổng cộng {1} sát thương Ngưng Băng ra xung quanh, bản thân nhận 5 tầng [Kiên Cố] và tăng {3} tốc độ di chuyển, mỗi tầng [Kiên Cố] giúp <color=#ffd12f>giảm sát thương phải chịu</color> {2}, mỗi lần chịu sát thương giảm một tầng [Kiên Cố] (mỗi giây kích hoạt tối đa một lần). Trong thời gian hóa thân, mỗi lần đánh trúng kẻ địch, tất cả nhân vật trong đội gần đó nhận {4} tấn công (mỗi giây kích hoạt tối đa một lần), cộng dồn tối đa {5} tầng, duy trì {6} giây, khi chịu sát thương khiến số tầng [Kiên Cố] về 0 sẽ mất hiệu quả tăng tấn công và kết thúc sớm trạng thái hóa thân. Hồi chiêu: {7} giây"
+lang_multi_text.db,MultiText,TowerDefence_100171_PhantomDesc,使用声骸技能，召唤振铎乐师，持续{0}秒。振铎乐师不断释放音符，附近队伍中的角色拾取音符时<color=#ffd12f>提高{1}攻击力</color>、回复自身{2}的生命值、获得{3}的移动速度加成以及回复{4}点耐力，对处于瘫痪状态目标的普通攻击和重击伤害提高{5}，持续{6}秒。本场战斗中，每拾取一个音符，附近队伍中的所有角色攻击力提高{7}。技能冷却：{8}秒,"Summon a Tambourinist that generates music notes for {0}s. Each note collected by a party member <color=#ffd12f>increases ATK by {1}</color>, recovers {2} HP, boosts Movement Speed by {3}, and rescovers {4} STA for them. It also increases their Basic Attack and Heavy Attack DMG to Immobilized targets by {5}. The effect lasts for {6}s. Throughout the battle, all Resonators' ATK is increased by {7} for each music note collected. Cooldown: {8}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Nhạc Công Chấn Đạc, duy trì {0} giây. Nhạc Công Chấn Đạc liên tục phát ra nốt nhạc, khi nhân vật trong đội gần đó nhặt nốt nhạc sẽ <color=#ffd12f>tăng {1} tấn công</color>, hồi phục {2} máu cho bản thân, nhận {3} tăng tốc độ di chuyển cũng như hồi phục {4} điểm thể lực, tăng {5} sát thương Đánh Thường và Đánh Mạnh lên mục tiêu đang bị tê liệt, duy trì {6} giây. Trong trận chiến này, mỗi khi nhặt một nốt nhạc, tất cả nhân vật trong đội gần đó tăng {7} tấn công. Hồi chiêu: {8} giây"
+lang_multi_text.db,MultiText,TowerDefence_100181_PhantomDesc,使用声骸技能，召唤角，生成<color=#ffd12f>停滞区域</color>，持续{0}秒，期间附近队伍中所有角色破共振度能力提升{1}，受到停滞区域影响的敌人防御力降低{2}、所有抗性降低{3}。期间角腾跃而起，对目标造成{4}的衍射伤害并降下光雷，对周围目标造成最多五段，每段{5}的衍射伤害，随后向下盘旋攻击，连续造成2次{6}的衍射伤害。技能冷却：{7}秒,"Summon Jué to generate a <color=#ffd12f>stagnation field</color> that lasts for {0}s. While active, it increases nearby party members' Vibration Strength Depletion Rate by {1}. Enemies in the filed have their DEF reduced by {2} and RES to All Attributes reduced by {3}. During this time, Jué soars through the air and deals {4} Spectro DMG while summoning thunderbolts that strike nearby enemies up to 5 times, each dealing {5} Spectro DMG. Jué then spirals downward, attacking surrounding enemies twice, each dealing {6} Spectro DMG. Cooldown: {7}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Giác, tạo ra <color=#ffd12f>Vùng Ngưng Trệ</color>, duy trì {0} giây, trong thời gian đó khả năng phá hủy độ cộng hưởng của tất cả nhân vật trong đội gần đó tăng {1}, kẻ địch chịu ảnh hưởng của Vùng Ngưng Trệ bị giảm {2} phòng thủ và giảm {3} tất cả kháng tính. Trong thời gian này Giác bay lên cao, gây {4} sát thương Quang Phổ lên mục tiêu và giáng sấm sét ánh sáng xuống, gây tối đa 5 lần sát thương lên mục tiêu xung quanh, mỗi lần {5} sát thương Quang Phổ, sau đó xoay tròn tấn công xuống dưới, gây liên tiếp 2 lần {6} sát thương Quang Phổ. Hồi chiêu: {7} giây"
+lang_multi_text.db,MultiText,TowerDefence_100191_PhantomDesc,使用声骸技能，幻形为朔雷之鳞，造成{0}的导电伤害，并<color=#ffd12f>削减敌人{1}的共振度</color>，若敌人因此进入瘫痪状态，其受到的伤害提高{2}，附近队伍中所有角色共鸣技能所需要的冷却时间减少{3}，持续{4}秒。技能冷却：{5}秒,"Transform into Tempest Mephis to deal {0} Electro DMG and <color=#ffd12f>reduce the targets' Vibration Strength by {1}</color>. If the target is Immobilized from this attack, increase the DMG it takes by {2} and reduce all Resonators' Resonance Skill Cooldown by {3} for {4}s. Cooldown: {5}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Sóc Lôi Chi Lân, gây {0} sát thương Điện Từ, và <color=#ffd12f>giảm {1} độ cộng hưởng của kẻ địch</color>, nếu kẻ địch vì thế mà rơi vào trạng thái tê liệt, sát thương chúng phải chịu tăng {2}, thời gian hồi chiêu Kỹ Năng Cộng Hưởng của tất cả nhân vật trong đội gần đó giảm {3}, duy trì {4} giây. Hồi chiêu: {5} giây"
+lang_multi_text.db,MultiText,TowerDefence_200010_PhantomTitle,早八的地铁,Rush Hour Train,Tàu Điện Ngầm Lúc 8 Giờ Sáng
+lang_multi_text.db,MultiText,TowerDefence_200020_PhantomTitle,特价的面包,Discount Bread,Bánh Mì Giảm Giá
+lang_multi_text.db,MultiText,TowerDefence_200030_PhantomTitle,醒梦的闹钟,Dream-Waking Alarm,Đồng Hồ Báo Thức Tỉnh Mộng
+lang_multi_text.db,MultiText,TowerDefence_200040_PhantomTitle,亲友的问候,Friendly Greetings,Lời Hỏi Thăm Của Bạn Bè
+lang_multi_text.db,MultiText,TowerDefence_200050_PhantomTitle,透支的勇气,Shattered Resolve,Dũng Khí Cạn Kiệt
+lang_multi_text.db,MultiText,TowerDefence_200060_PhantomTitle,硬撑的觉悟,Will of Perseverance,Giác Ngộ Cố Chấp
+lang_multi_text.db,MultiText,TowerDefence_200070_PhantomTitle,通勤的耳机,Earpiece for Commuting,Tai Nghe Đi Làm
+lang_multi_text.db,MultiText,TowerDefence_200080_PhantomTitle,片刻的回忆,Moment of Recollection,Hồi Ức Trong Khoảnh Khắc
+lang_multi_text.db,MultiText,TowerDefence_200090_PhantomTitle,发薪的日子,Payday,Ngày Nhận Lương
+lang_multi_text.db,MultiText,TowerDefence_300010_PhantomTitle,白色是虚无,White: The Hollow Space,Màu Trắng Là Hư Vô
+lang_multi_text.db,MultiText,TowerDefence_300011_PhantomDesc,使用声骸技能，幻形为寒霜陆龟，持续4秒。每秒持续造成共计937.50%冷凝伤害，并击飞周围的敌人。技能冷却：15秒,"Transform into Hoartoise for 4s, dealing 937.50% Glacio DMG every second and launching nearby enemies. Cooldown: 15s.","Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Lục Quy Hàn Sương, duy trì 4 giây. Mỗi giây liên tục gây tổng cộng 937.50% sát thương Ngưng Băng, và hất tung kẻ địch xung quanh. Hồi chiêu: 15 giây"
+lang_multi_text.db,MultiText,TowerDefence_300012_PhantomDesc,幻形时间延长4秒,Increase the transformation duration by 4s.,Thời gian hóa thân kéo dài thêm 4 giây
+lang_multi_text.db,MultiText,TowerDefence_300013_PhantomDesc,装配寒霜陆龟的角色释放延奏技能时，刷新该声骸的冷却时间,"When Resonators equipped with Hoartoise cast Outro Skill, the Echo skill's Cooldown is reset.","Khi nhân vật trang bị Lục Quy Hàn Sương sử dụng Kỹ Năng Biến Tấu, làm mới thời gian hồi chiêu của Thanh Hài này"
+lang_multi_text.db,MultiText,TowerDefence_300020_PhantomTitle,蓝色是冷漠,Blue: The Indifferent Soul,Màu Xanh Là Lạnh Lùng
+lang_multi_text.db,MultiText,TowerDefence_300021_PhantomDesc,使用声骸技能，召唤冷凝棱镜连续发射晶片，持续6秒。每一枚晶片造成436.67%冷凝伤害，对处于冰冻状态的敌人伤害提升66.67%。技能冷却：15秒,"Summon a Glacio Prism for 6s to attack enemies. Each attack deals 436.67% Glacio DMG, which will be increased by another 66.67% if the target is Frozen. Cooldown: 15s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Lăng Kính Ngưng Băng liên tục bắn ra mảnh băng, duy trì 6 giây. Mỗi mảnh băng gây 436.67% sát thương Ngưng Băng, sát thương tăng thêm 66.67% đối với kẻ địch đang bị đóng băng. Hồi chiêu: 15 giây"
+lang_multi_text.db,MultiText,TowerDefence_300022_PhantomDesc,召唤时间延长4秒,Increase the summon duration by 4s.,Thời gian triệu hồi kéo dài thêm 4 giây
+lang_multi_text.db,MultiText,TowerDefence_300023_PhantomDesc,每一枚晶片命中时，会使目标的防御下降10.00%，持续6秒，每个目标最多可叠加6次,"Each attack reduces the target's DEF by 10.00% for 6s on hit, stacking up to 6 times.","Mỗi khi một mảnh băng trúng đích, sẽ làm giảm 10.00% phòng thủ của mục tiêu, duy trì 6 giây, cộng dồn tối đa 6 lần cho mỗi mục tiêu"
+lang_multi_text.db,MultiText,TowerDefence_300030_PhantomTitle,黑色是归宿,Black: The Journey's End,Màu Đen Là Điểm Đến
+lang_multi_text.db,MultiText,TowerDefence_300031_PhantomDesc,使用声骸技能，幻形为巡哨机傀，造成1146.67%的冷凝伤害，并冻结周围的敌人3秒。技能冷却：15秒,"Transform into Autopuppet Scout to freeze nearby enemies for 3s, dealing 1146.67% Glacio DMG. Cooldown: 15s.","Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Tuần Soát Cơ Khôi, gây 1146.67% sát thương Ngưng Băng, và đóng băng kẻ địch xung quanh trong 3 giây. Hồi chiêu: 15 giây"
+lang_multi_text.db,MultiText,TowerDefence_300032_PhantomDesc,受到冰冻效果的敌人，在冰冻结束后，其造成的伤害减少50.00%，持续6秒,Frozen enemies deal 50.00% less DMG for 6s after the Fronzen state ends.,"Kẻ địch chịu hiệu ứng đóng băng sau khi kết thúc đóng băng, sát thương gây ra giảm 50.00%, duy trì 6 giây"
+lang_multi_text.db,MultiText,TowerDefence_300033_PhantomDesc,冻结时间延长3秒,Increase the Frozen state duration by 3s.,Thời gian đóng băng kéo dài thêm 3 giây
+lang_multi_text.db,MultiText,TowerDefence_300040_PhantomTitle,橙色是愤怒,Orange: The Furious Roar,Màu Cam Là Phẫn Nộ
+lang_multi_text.db,MultiText,TowerDefence_300041_PhantomDesc,使用声骸技能，召唤咕咕河豚，释放回复领域，在范围内回复附近队伍中所有角色25.00%的生命值。技能冷却：20秒,Summon a Gulpuff that generates a healing field. All nearby party members within this field recover 25.00% HP. Cooldown: 20s.,"Sử dụng Kỹ Năng Thanh Hài, triệu hồi Cá Nóc Ùng Ục, tạo ra vùng hồi phục, trong phạm vi hồi phục cho tất cả nhân vật trong đội gần đó 25.00% máu. Hồi chiêu: 20 giây"
+lang_multi_text.db,MultiText,TowerDefence_300042_PhantomDesc,额外释放2次回复领域（总计3次）,Generate the healing field 3 times in total.,Tạo thêm 2 lần vùng hồi phục (tổng cộng 3 lần)
+lang_multi_text.db,MultiText,TowerDefence_300043_PhantomDesc,额外释放2次回复领域（总计5次）,Generate the healing field 5 times in total.,Tạo thêm 2 lần vùng hồi phục (tổng cộng 5 lần)
+lang_multi_text.db,MultiText,TowerDefence_300050_PhantomTitle,黄色是警告,Yellow: The Warning Sign,Màu Vàng Là Cảnh Báo
+lang_multi_text.db,MultiText,TowerDefence_300051_PhantomDesc,使用声骸技能，幻形为磐石守卫，吸引周围敌方目标的注意。附近队伍中所有角色获得基于释放者最大生命值20.00%的护盾，持续10秒。技能冷却：20秒,Transform into Rocksteady Guardian to attract the attention of nearby enemies. Grant nearby party members a shield based on 20.00% of the caster's Max HP for 10s. Cooldown: 20s.,"Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Bàn Thạch Thủ Vệ, thu hút sự chú ý của kẻ địch xung quanh. Tất cả nhân vật trong đội gần đó nhận lớp khiên dựa trên 20.00% máu tối đa của người thi triển, duy trì 10 giây. Hồi chiêu: 20 giây"
+lang_multi_text.db,MultiText,TowerDefence_300052_PhantomDesc,增加一次充能上限，护盾效果提升至40%，并提升释放者防御和抗打断能力，持续10秒。,"Gain 1 additional charge. The shield generated is based on 40.00% of the caster's Max HP, enhancing the caster's DEF and Resistance to Interruption for 10s.","Tăng thêm một lần giới hạn nạp, hiệu quả khiên tăng lên 40%, đồng thời tăng phòng thủ và khả năng kháng gián đoạn cho người thi triển, duy trì 10 giây."
+lang_multi_text.db,MultiText,TowerDefence_300053_PhantomDesc,护盾效果提升至60%,The shield is based on 60.00% of the caster's Max HP,Hiệu quả khiên tăng lên 60%
+lang_multi_text.db,MultiText,TowerDefence_300060_PhantomTitle,绿色是伪装,Green: The False Appearance,Màu Xanh Lá Là Ngụy Trang
+lang_multi_text.db,MultiText,TowerDefence_300061_PhantomDesc,使用声骸技能，召唤呼咻咻生成低气压区域，持续5秒。低气压区域不断将敌人向中心聚拢，期间造成12次131.67%的气动伤害。技能冷却：20秒,"Summon a Whiff Whaff to pull in nearby enemies for 5s, dealing 131.67% Aero DMG for 12 times. Cooldown: 20s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Hô Hưu Hưu tạo ra vùng áp suất thấp, duy trì 5 giây. Vùng áp suất thấp liên tục hút kẻ địch vào trung tâm, trong thời gian đó gây 12 lần sát thương Khí Động, mỗi lần 131.67%. Hồi chiêu: 20 giây"
+lang_multi_text.db,MultiText,TowerDefence_300062_PhantomDesc,受到低气压区域影响的敌人受到的伤害提高30.00%,Enemies pulled in take 30.00% more DMG.,Kẻ địch chịu ảnh hưởng của vùng áp suất thấp sẽ chịu thêm 30.00% sát thương
+lang_multi_text.db,MultiText,TowerDefence_300063_PhantomDesc,低气压区域范围扩大80.00%,Expand the pulling range by 80.00%.,Phạm vi vùng áp suất thấp mở rộng thêm 80.00%
+lang_multi_text.db,MultiText,TowerDefence_300070_PhantomTitle,红色是毁灭,Red: The Destructive Force,Màu Đỏ Là Hủy Diệt
+lang_multi_text.db,MultiText,TowerDefence_300071_PhantomDesc,使用声骸技能，幻形为无妄者，造成1397.00%的湮灭伤害，附近队伍中所有角色攻击力提升30.00%。技能冷却：20秒,Transform into Dreamless to deal 1397.00% Havoc DMG. Increase the ATK of all nearby party members by 30.00%. Cooldown: 20s.,"Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Kẻ Vô Vọng, gây 1397.00% sát thương Hủy Diệt, tấn công của tất cả nhân vật trong đội gần đó tăng 30.00%. Hồi chiêu: 20 giây"
+lang_multi_text.db,MultiText,TowerDefence_300072_PhantomDesc,使用声骸技能时，附近队伍中所有角色每秒获得2点协奏能量，持续20秒,"Casting Echo Skill generates 2 Concerto Energy per second for all party members nearby, lasting for 20s.","Khi sử dụng Kỹ Năng Thanh Hài, tất cả nhân vật trong đội gần đó nhận 2 điểm Năng Lượng Hiệp Tấu mỗi giây, duy trì 20 giây"
+lang_multi_text.db,MultiText,TowerDefence_300073_PhantomDesc,每秒获得协奏能量提升至4点,Generate 4 Concerto Energy per second.,Lượng Năng Lượng Hiệp Tấu nhận được mỗi giây tăng lên 4 điểm
+lang_multi_text.db,MultiText,TowerDefence_300080_PhantomTitle,灰色是虚伪,Grey: The Insincere Face,Màu Xám Là Giả Tạo
+lang_multi_text.db,MultiText,TowerDefence_300081_PhantomDesc,使用声骸技能，幻形为飞廉之猩，下砸造成800.00%的气动伤害，然后留下柱子，持续9秒。柱子每隔3秒会释放一次冲击波，造成816.00%的气动伤害。技能冷却：20秒,"Transform into Feilian Beringal to smash the ground, dealing 800.00% Aero DMG and leaving a pillar behind for 9s. The pillar releases a shockwave dealing 816.00% Aero DMG every 3s. Cooldown: 20s.","Sử dụng Kỹ Năng Thanh Hài, hóa thân thành Phi Liêm Chi Tinh, đập xuống đất gây 800.00% sát thương Khí Động, sau đó để lại cột đá tồn tại trong 9 giây. Cứ mỗi 3 giây cột đá sẽ phát ra sóng xung kích, gây 816.00% sát thương Khí Động. Hồi chiêu: 20 giây"

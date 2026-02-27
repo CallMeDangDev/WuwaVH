@@ -1,797 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Skill_1001408_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc.
-lang_multi_text.db,MultiText,Skill_1001408_SkillName,巧手烹调,Skillful Cooking,Nấu Nướng Khéo Léo
-lang_multi_text.db,MultiText,Skill_1001408_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc.
-lang_multi_text.db,MultiText,Skill_1001409_MultiSkillDescribe_1.1,卡卡罗召唤<color=Highlight>猎杀影</color>支援共鸣者，挥刀肃清前方的目标。<color=Highlight>猎杀影</color>的攻击将造成卡卡罗{0}攻击的<color=Thunder>导电伤害</color>。,"Calcharo summons <color=Highlight>Phantom</color> to support the on-field Resonator, clearing the targets in front with a slash. The <color=Highlight>Phantom's</color> attack deals <color=Thunder>Electro DMG</color> equal to {0} of Calcharo's ATK.","Calcharo triệu hồi <color=Highlight>Ảnh Săn Bắn</color> hỗ trợ Cộng Hưởng Giả, vung kiếm càn quét mục tiêu phía trước. Đòn tấn công của <color=Highlight>Ảnh Săn Bắn</color> gây <color=Thunder>Sát Thương Điện Từ</color> bằng {0} tấn công của Calcharo."
-lang_multi_text.db,MultiText,Skill_1001409_SkillDescribe,卡卡罗召唤<color=Highlight>猎杀影</color>支援共鸣者，挥刀肃清前方的目标。<color=Highlight>猎杀影</color>的攻击将造成卡卡罗{0}攻击的<color=Thunder>导电伤害</color>。,"Calcharo summons <color=Highlight>Phantom</color> to support the active Resonator, clearing the targets in front with a slash. The <color=Highlight>Phantom's</color> attack deals <color=Thunder>Electro DMG</color> equal to {0} of Calcharo's ATK.","Calcharo triệu hồi <color=Highlight>Ảnh Săn Bắn</color> hỗ trợ Cộng Hưởng Giả, vung kiếm càn quét mục tiêu phía trước. Đòn tấn công của <color=Highlight>Ảnh Săn Bắn</color> gây <color=Thunder>Sát Thương Điện Từ</color> bằng {0} tấn công của Calcharo."
-lang_multi_text.db,MultiText,Skill_1001409_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi xảy ra, vui lòng liên hệ bộ phận hỗ trợ nếu có thắc mắc"
-lang_multi_text.db,MultiText,Skill_1001409_SkillName,掠影奇袭,Shadowy Raid,Tập Kích Bất Ngờ
-lang_multi_text.db,MultiText,Skill_1001409_SkillResume,召唤<color=Highlight>猎杀影</color>，造成卡卡罗{0}攻击的<color=Thunder>导电伤害</color>。,"Summon <color=Highlight>Phantom</color> to attack the enemy, dealing <color=Thunder>Electro DMG</color> equal to {0} of Calcharo's ATK.","Triệu hồi <color=Highlight>Ảnh Săn Bắn</color>, gây <color=Thunder>Sát Thương Điện Từ</color> bằng {0} tấn công của Calcharo."
-lang_multi_text.db,MultiText,Skill_1001501_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-控制人偶“悬丝”，进行最多4段的连续攻击，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-消耗耐力操纵人偶“悬丝”攻击目标，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，操控人偶“悬丝”进行空中下落攻击，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Yinlin controls the puppet ""Zapstring"" to perform up to 4 attacks, dealing <color=Thunder>Electro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Yinlin consumes STA to control ""Zapstring"", dealing <color=Thunder>Electro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Yinlin consumes STA to control ""Zapstring"" to perform a Mid-air Plunging Attack, dealing <color=Thunder>Electro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Điều khiển con rối ""Zapstring"", thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực điều khiển con rối ""Zapstring"" tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, điều khiển con rối ""Zapstring"" thực hiện đòn tấn công khi đang rơi, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Trong thời gian nhất định sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>."
-lang_multi_text.db,MultiText,Skill_1001501_SkillName,悬丝华刃舞,Zapstring's Dance,Huyền Ty Hoa Nhận Vũ
-lang_multi_text.db,MultiText,Skill_1001501_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to deal <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Thunder>Sát Thương Điện Từ</color>."
-lang_multi_text.db,MultiText,Skill_1001502_SkillDescribe,"<size=40><color=Title>磁殛咆哮</color></size>
-人偶“悬丝”对目标造成<color=Thunder>导电伤害</color>，并使吟霖进入共鸣技能<color=Highlight>磁殛状态</color>。
-<size=10> </size>
-<size=40><color=Title>磁殛状态</color></size>
-·<color=Highlight>普攻</color>和<color=Highlight>闪避反击</color>命中目标时，触发1次<color=Highlight>磁殛爆发</color>；
-·每段<color=Highlight>普攻</color>和<color=Highlight>闪避反击</color>仅可触发1次<color=Highlight>磁殛爆发</color>，最多可触发4次。
-<size=10> </size>
-<size=40><color=Title>磁殛爆发</color></size>
-攻击所有携带共鸣回路<color=Highlight><te href=850029>缚罪标记</te></color>的目标，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>
-<size=40><color=Title>召雷磁爆</color></size>
-施放共鸣技能<color=Highlight>磁殛咆哮</color>后一定时间内，短按共鸣技能，将会施放<color=Highlight>召雷磁爆</color>攻击目标，造成<color=Thunder>导电伤害</color>。
-若一定时间内没有施放共鸣技能<color=Highlight>召雷磁爆</color>或者切换至其他角色，则技能进入冷却状态。","<size=40><color=Title>Magnetic Roar</color></size>
-The puppet ""Zapstring"" deals <color=Thunder>Electro DMG</color> to the target, and puts Yinlin in Resonance Skill <color=Highlight>Execution Mode</color>.
-<size=10> </size>
-<size=40><color=Title>Execution Mode</color></size>
-<color=Highlight>Basic Attack</color> and <color=Highlight>Dodge Counter</color> will trigger 1 <color=Highlight>Electromagnetic Blast</color> when hitting a target.
-Each stage of <color=Highlight>Basic Attack</color> or <color=Highlight>Dodge Counter</color> can only trigger 1 <color=Highlight>Electromagnetic Blast</color>, up to 4 times.
-<size=10> </size>
-<size=40><color=Title>Electromagnetic Blast</color></size>
-Attack all targets marked with Forte Circuit <color=Highlight><te href=850029>Sinner's Mark</te></color>, dealing <color=Thunder>Electro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Lightning Execution</color></size>
-Use Resonance Skill after casting Resonance Skill <color=Highlight>Magnetic Roar</color> to cast <color=Highlight>Lightning Execution</color> to attack the target, dealing <color=Thunder>Electro DMG</color>.
-If Resonance Skill <color=Highlight>Lightning Execution</color> is not activated in a while or this Character is switched, this Skill will be put on Cooldown.","<size=40><color=Title>Từ Cực Gầm Thét</color></size>
-Con rối ""Zapstring"" gây <color=Thunder>Sát Thương Điện Từ</color> cho mục tiêu, đồng thời khiến Yinlin vào Kỹ Năng Cộng Hưởng <color=Highlight>Trạng Thái Từ Cực</color>.
-<size=10> </size>
-<size=40><color=Title>Trạng Thái Từ Cực</color></size>
-. Khi <color=Highlight>Đánh Thường</color> và <color=Highlight>Phản Kích Né Tránh</color> trúng mục tiêu, kích hoạt 1 lần <color=Highlight>Bùng Nổ Từ Cực</color>;
-. Mỗi đoạn <color=Highlight>Đánh Thường</color> và <color=Highlight>Phản Kích Né Tránh</color> chỉ có thể kích hoạt 1 lần <color=Highlight>Bùng Nổ Từ Cực</color>, tối đa kích hoạt 4 lần.
-<size=10> </size>
-<size=40><color=Title>Bùng Nổ Từ Cực</color></size>
-Tấn công tất cả mục tiêu mang Mạch Cộng Hưởng <color=Highlight><te href=850029>Dấu Ấn Phạt Tội</te></color>, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>
-<size=40><color=Title>Triệu Lôi Từ Bạo</color></size>
-Trong thời gian nhất định sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Từ Cực Gầm Thét</color>, nhấn nhanh Kỹ Năng Cộng Hưởng sẽ thi triển <color=Highlight>Triệu Lôi Từ Bạo</color> tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>.
-Nếu trong thời gian nhất định không thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Triệu Lôi Từ Bạo</color> hoặc chuyển sang nhân vật khác, kỹ năng sẽ vào trạng thái hồi chiêu."
-lang_multi_text.db,MultiText,Skill_1001502_SkillName,磁殛咆哮,Magnetic Roar,Từ Cực Gầm Thét
-lang_multi_text.db,MultiText,Skill_1001502_SkillResume,"<size=40><color=Title>磁殛咆哮</color></size>
-造成<color=Thunder>导电伤害</color>，并使吟霖进入<color=Highlight>磁殛状态</color>。
-<size=10></size>
-<size=40><color=Title>磁殛状态</color></size>
-·<color=Highlight>普攻</color>和<color=Highlight>闪避反击</color>命中目标时，触发磁殛爆发；
-·磁殛爆发可触发4次。
-<size=10></size>
-<size=40><color=Title>磁殛爆发</color></size>
-对所有携带<color=Highlight>缚罪标记</color>的目标，造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>召雷磁爆</color></size>
-施放共鸣技能<color=Highlight>磁殛咆哮</color>后一定时间内，短按共鸣技能，将会施放<color=Highlight>召雷磁爆</color>攻击目标，造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Magnetic Roar</color></size>
-Deal <color=Thunder>Electro DMG</color> to the target, and put Yinlin in <color=Highlight>Execution Mode</color>.
-<size=10></size>
-<size=40><color=Title>Execution Mode</color></size>
-<color=Highlight>Basic Attack</color> and <color=Highlight>Dodge Counter</color> will trigger <color=Highlight>Electromagnetic Blast</color> when hitting a target.
-<color=Highlight>Electromagnetic Blast</color> can be triggered up to 4 times.
-<size=10></size>
-<size=40><color=Title>Electromagnetic Blast</color></size>
-Deal <color=Thunder>Electro DMG</color> to all targets marked with <color=Highlight>Sinner's Mark</color>.
-<size=10></size>
-<size=40><color=Title>Lightning Execution</color></size>
-Use Resonance Skill after casting Resonance Skill <color=Highlight>Magnetic Roar</color> to cast <color=Highlight>Lightning Execution</color>, dealing <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Từ Cực Gầm Thét</color></size>
-Gây <color=Thunder>Sát Thương Điện Từ</color>, đồng thời khiến Yinlin vào <color=Highlight>Trạng Thái Từ Cực</color>.
-<size=10></size>
-<size=40><color=Title>Trạng Thái Từ Cực</color></size>
-. Khi <color=Highlight>Đánh Thường</color> và <color=Highlight>Phản Kích Né Tránh</color> trúng mục tiêu, kích hoạt Bùng Nổ Từ Cực;
-. Bùng Nổ Từ Cực có thể kích hoạt 4 lần.
-<size=10></size>
-<size=40><color=Title>Bùng Nổ Từ Cực</color></size>
-Gây <color=Thunder>Sát Thương Điện Từ</color> cho tất cả mục tiêu mang <color=Highlight>Dấu Ấn Phạt Tội</color>.
-<size=10></size>
-<size=40><color=Title>Triệu Lôi Từ Bạo</color></size>
-Trong thời gian nhất định sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Từ Cực Gầm Thét</color>, nhấn nhanh Kỹ Năng Cộng Hưởng sẽ thi triển <color=Highlight>Triệu Lôi Từ Bạo</color> tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>."
-lang_multi_text.db,MultiText,Skill_1001503_SkillDescribe,指挥“悬丝”引下天雷，轰击敌人，造成大范围<color=Thunder>导电伤害</color>。,"Command ""Zapstring"" to call for thunder to fall upon a large range, dealing <color=Thunder>Electro DMG</color>.","Chỉ huy ""Zapstring"" dẫn sấm sét giáng xuống, oanh tạc kẻ địch, gây <color=Thunder>Sát Thương Điện Từ</color> trên diện rộng."
-lang_multi_text.db,MultiText,Skill_1001503_SkillName,破天雷灭击,Thundering Wrath,Phá Thiên Lôi Diệt Kích
-lang_multi_text.db,MultiText,Skill_1001503_SkillResume,造成<color=Thunder>导电伤害</color>。,Deal <color=Thunder>Electro DMG</color>.,Gây <color=Thunder>Sát Thương Điện Từ</color>.
-lang_multi_text.db,MultiText,Skill_1001504_SkillDescribe,使用共鸣技能<color=Highlight>磁殛咆哮</color>后，暴击提升{0}，持续{1}秒。,"After using Resonance Skill <color=Highlight>Magnetic Roar</color>, Yinlin's Crit. Rate is increased by {0} for {1}s.","Sau khi sử dụng Kỹ Năng Cộng Hưởng <color=Highlight>Từ Cực Gầm Thét</color>, Tỷ Lệ Bạo Kích tăng {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1001504_SkillName,浸渍痛楚,Pain Immersion,Ngâm Mình Trong Đau Đớn
-lang_multi_text.db,MultiText,Skill_1001504_SkillResume,使用共鸣技能<color=Highlight>磁殛咆哮</color>后，暴击提升{0}，持续{1}秒。,"After using Resonance Skill <color=Highlight>Magnetic Roar</color>, Yinlin's Crit. Rate is increased by {0} for {1}s.","Sau khi sử dụng Kỹ Năng Cộng Hưởng <color=Highlight>Từ Cực Gầm Thét</color>, Tỷ Lệ Bạo Kích tăng {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1001505_SkillDescribe,共鸣技能<color=Highlight>召雷磁爆</color>命中带有<color=Highlight><te href=850029>缚罪标记</te></color>的目标伤害提升{0}，并且触发该效果时攻击提升{1}，持续{2}秒。,"The damage of Resonance Skill <color=Highlight>Lightning Execution</color> is increased by {0} when hitting targets marked with <color=Highlight><te href=850029>Sinner's Mark</te></color>, and Yinlin's ATK is increased by {1} for {2}s when this is triggered.","Kỹ Năng Cộng Hưởng <color=Highlight>Triệu Lôi Từ Bạo</color> khi trúng mục tiêu mang <color=Highlight><te href=850029>Dấu Ấn Phạt Tội</te></color> sẽ tăng {0} sát thương, đồng thời khi kích hoạt hiệu quả này Tấn Công tăng {1}, duy trì {2} giây."
-lang_multi_text.db,MultiText,Skill_1001505_SkillName,目标专注,Deadly Focus,Tập Trung Mục Tiêu
-lang_multi_text.db,MultiText,Skill_1001505_SkillResume,共鸣技能<color=Highlight>召雷磁爆</color>命中带有<color=Highlight>缚罪标记</color>的目标伤害提升{0}，并且触发该效果时攻击提升{1}，持续{2}秒。,"Damage from Resonance Skill <color=Highlight>Lightning Execution</color> is increased by {0} when hitting targets marked with <color=Highlight>Sinner's Mark</color>, and Yinlin's ATK is increased by {1} for {2}s when this effect is triggered.","Kỹ Năng Cộng Hưởng <color=Highlight>Triệu Lôi Từ Bạo</color> khi trúng mục tiêu mang <color=Highlight>Dấu Ấn Phạt Tội</color> sẽ tăng {0} sát thương, đồng thời khi kích hoạt hiệu quả này Tấn Công tăng {1}, duy trì {2} giây."
-lang_multi_text.db,MultiText,Skill_1001506_SkillDescribe,利用人偶“悬丝”进行攻击，造成大范围的<color=Thunder>导电伤害</color>。,"Command puppet ""Zapstring"" to attack, dealing <color=Thunder>Electro DMG</color> in a large range.","Sử dụng con rối ""Zapstring"" tấn công, gây <color=Thunder>Sát Thương Điện Từ</color> trên diện rộng."
-lang_multi_text.db,MultiText,Skill_1001506_SkillName,狂雷飓风,Raging Storm,Cuồng Lôi Cụ Phong
-lang_multi_text.db,MultiText,Skill_1001506_SkillResume,造成<color=Thunder>导电伤害</color>。,Deal <color=Thunder>Electro DMG</color>.,Gây <color=Thunder>Sát Thương Điện Từ</color>.
-lang_multi_text.db,MultiText,Skill_1001507_SkillDescribe,"<size=40><color=Title>千面魅影</color></size>
-当吟霖【审判值】满时，<color=Highlight>重击</color>将替换为<color=Highlight>千面魅影</color>，消耗所有【审判值】攻击目标，造成<color=Thunder>导电伤害</color>，命中携带<color=Highlight>缚罪标记</color>的目标时，<color=Highlight>缚罪标记</color>被替换为<color=Highlight>惩罚印记</color>，持续{0}秒。<color=Highlight>千面魅影</color>造成的伤害为重击伤害。
-<size=10> </size>
-<size=40><color=Title>缚罪标记</color></size>
-常态攻击<color=Highlight>悬丝华刃舞</color>、共鸣解放<color=Highlight>破天雷灭击</color>或变奏技能<color=Highlight>狂雷飓风</color>命中目标时，附加<color=Highlight>缚罪标记</color>。
-吟霖离场时<color=Highlight>缚罪标记</color>消失。
-<size=10> </size>
-<size=40><color=Title>惩罚印记</color></size>
-携带<color=Highlight>惩罚印记</color>的目标受到伤害时会降下<color=Highlight>审判之雷</color>，对所有携带<color=Highlight>惩罚印记</color>的目标造成<color=Thunder>导电伤害</color>，每秒最多可触发1次。<color=Highlight>审判之雷</color>造成的伤害为共鸣技能伤害。
-<size=10> </size>
-<size=40><color=Title>审判值</color></size>
-【审判值】上限{1}点。
-施放变奏技能<color=Highlight>狂雷飓风</color>时，回复【审判值】。
-常态攻击<color=Highlight>悬丝华刃舞</color>命中目标时，回复【审判值】。
-施放共鸣技能<color=Highlight>磁殛咆哮</color>时，回复【审判值】。
-共鸣技能<color=Highlight>磁殛爆发</color>命中目标时，回复【审判值】。
-施放共鸣技能<color=Highlight>召雷磁爆</color>时，回复【审判值】。","<size=40><color=Title>Chameleon Cipher</color></size>
-When Yinlin's Judgment Points are full, her <color=Highlight>Heavy Attack</color> is replaced with <color=Highlight>Chameleon Cipher</color>, which consumes all Judgment Points to attack the target, dealing <color=Thunder>Electro DMG</color>. When it hits a target marked with <color=Highlight>Sinner's Mark</color>, the <color=Highlight>Sinner's Mark</color> is replaced with <color=Highlight>Punishment Mark</color>, lasting for {0}s. <color=Highlight>Chameleon Cipher</color> deals Heavy Attack DMG.
-<size=10> </size>
-<size=40><color=Title>Sinner's Mark</color></size>
-Basic Attack <color=Highlight>Zapstring's Dance</color>, Resonance Liberation <color=Highlight>Thundering Wrath</color>, and Intro Skill <color=Highlight>Roaring Storm</color> apply <color=Highlight>Sinner's Mark</color> to the target on hit.
-<color=Highlight>Sinner's Mark</color> is removed when Yinlin is switched out.
-<size=10> </size>
-<size=40><color=Title>Punishment Mark</color></size>
-When a target marked with <color=Highlight>Punishment Mark</color> takes damage, <color=Highlight>Judgement Strike</color> will fall, triggering Coordinated Attacks to all targets marked with <color=Highlight>Punishment Mark</color>, dealing <color=Thunder>Electro DMG</color>. This can be triggered up to 1 time per second. <color=Highlight>Judgement Strike</color> deals Resonance Skill DMG.
-<size=10> </size>
-<size=40><color=Title>Judgment Points</color></size>
-Yinlin can hold up to {1} Judgement Points. Yinlin gains Judgement Points through the following ways:
-Upon casting Intro Skill <color=Highlight>Raging Storm</color>
-When Basic Attack <color=Highlight>Zapstring's Dance</color> hits a target
-Upon casting Resonance Skill <color=Highlight>Magnetic Roar</color>;
-When Resonance Skill <color=Highlight>Electromagnetic Blast</color> hits a target;
-Upon casting Resonance Skill <color=Highlight>Lightning Execution</color>.","<size=40><color=Title>Thiên Diện Mị Ảnh</color></size>
-Khi [Điểm Phán Quyết] của Yinlin đầy, <color=Highlight>Đánh Mạnh</color> sẽ thay thế bằng <color=Highlight>Thiên Diện Mị Ảnh</color>, tiêu hao tất cả [Điểm Phán Quyết] tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>. Khi trúng mục tiêu mang <color=Highlight>Dấu Ấn Phạt Tội</color>, <color=Highlight>Dấu Ấn Phạt Tội</color> được thay thế bằng <color=Highlight>Ấn Ký Trừng Phạt</color>, duy trì {0} giây. Sát thương do <color=Highlight>Thiên Diện Mị Ảnh</color> gây ra là Sát Thương Đánh Mạnh.
-<size=10> </size>
-<size=40><color=Title>Dấu Ấn Phạt Tội</color></size>
-Khi Đánh Thường <color=Highlight>Huyền Ty Hoa Nhận Vũ</color>, Giải Phóng Cộng Hưởng <color=Highlight>Phá Thiên Lôi Diệt Kích</color> hoặc Kỹ Năng Biến Tấu <color=Highlight>Cuồng Lôi Cụ Phong</color> trúng mục tiêu, sẽ gắn thêm <color=Highlight>Dấu Ấn Phạt Tội</color>.
-Khi Yinlin rời trận, <color=Highlight>Dấu Ấn Phạt Tội</color> biến mất.
-<size=10> </size>
-<size=40><color=Title>Ấn Ký Trừng Phạt</color></size>
-Khi mục tiêu mang <color=Highlight>Ấn Ký Trừng Phạt</color> chịu sát thương, <color=Highlight>Sấm Sét Phán Quyết</color> sẽ giáng xuống, gây <color=Thunder>Sát Thương Điện Từ</color> cho tất cả mục tiêu mang <color=Highlight>Ấn Ký Trừng Phạt</color>, mỗi giây tối đa kích hoạt 1 lần. Sát thương do <color=Highlight>Sấm Sét Phán Quyết</color> gây ra là Sát Thương Kỹ Năng Cộng Hưởng.
-<size=10> </size>
-<size=40><color=Title>Điểm Phán Quyết</color></size>
-Giới hạn {1} [Điểm Phán Quyết].
-Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Cuồng Lôi Cụ Phong</color>, hồi phục [Điểm Phán Quyết].
-Khi Đánh Thường <color=Highlight>Huyền Ty Hoa Nhận Vũ</color> trúng mục tiêu, hồi phục [Điểm Phán Quyết].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Từ Cực Gầm Thét</color>, hồi phục [Điểm Phán Quyết].
-Khi Kỹ Năng Cộng Hưởng <color=Highlight>Bùng Nổ Từ Cực</color> trúng mục tiêu, hồi phục [Điểm Phán Quyết].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Triệu Lôi Từ Bạo</color>, hồi phục [Điểm Phán Quyết]."
-lang_multi_text.db,MultiText,Skill_1001507_SkillName,千面魅影,Chameleon Cipher,Thiên Diện Mị Ảnh
-lang_multi_text.db,MultiText,Skill_1001507_SkillResume,"<size=40><color=Title>千面魅影</color></size>
-【审判值】满时，<color=Highlight>重击</color>将替换为<color=Highlight>千面魅影</color>，消耗所有【审判值】攻击目标，造成<color=Thunder>导电伤害</color>，将命中目标的<color=Highlight>缚罪标记</color>替换为<color=Highlight>惩罚印记</color>。
-<size=10></size>
-<size=40><color=Title>缚罪标记</color></size>
-常态攻击<color=Highlight>悬丝华刃舞</color>、共鸣解放<color=Highlight>破天雷灭击</color>或变奏技能<color=Highlight>狂雷飓风</color>命中目标时，附加<color=Highlight>缚罪标记</color>。
-吟霖离场时<color=Highlight>缚罪标记</color>消失。
-<size=10></size>
-<size=40><color=Title>惩罚印记</color></size>
-携带<color=Highlight>惩罚印记</color>的目标受到伤害时会受到额外的<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>审判值的获取规则</color></size>
-【审判值】上限{1}点。
-【审判值】的获取途径：<color=Highlight>变奏技能</color>、<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>。","<size=40><color=Title>Chameleon Cipher</color></size>
-When Yinlin's Judgment Points are full, her <color=Highlight>Heavy Attack</color> becomes <color=Highlight>Chameleon Cipher</color>, which consumes all Judgment Points to attack the targets, dealing <color=Thunder>Electro DMG</color>. It replaces the <color=Highlight>Sinner's Mark</color> on the targets with <color=Highlight>Punishment Mark</color>.
-<size=10></size>
-<size=40><color=Title>Sinner's Mark</color></size>
-Normal Attack <color=Highlight>Zapstring's Dance</color>, Resonance Liberation <color=Highlight>Thundering Wrath</color>, and Intro Skill <color=Highlight>Raging Storm</color> will apply <color=Highlight>Sinner's Mark</color> on hit.
-<color=Highlight>Sinner's Mark</color> is removed when Yinlin leaves the field.
-<size=10></size>
-<size=40><color=Title>Punishment Mark</color></size>
-Targets marked with <color=Highlight>Punishment Mark</color> will take additional <color=Thunder>Electro DMG</color> when hit.
-<size=10></size>
-<size=40><color=Title>Judgment Points</color></size>
-Yinlin can hold up to {1} Judgement Points.
-Yinlin gains Judgement Point through <color=Highlight>Intro Skill</color>, <color=Highlight>Normal Attack</color>, and <color=Highlight>Resonance Skill</color>.","<size=40><color=Title>Thiên Diện Mị Ảnh</color></size>
-Khi [Điểm Phán Quyết] đầy, <color=Highlight>Đánh Mạnh</color> sẽ thay thế bằng <color=Highlight>Thiên Diện Mị Ảnh</color>, tiêu hao tất cả [Điểm Phán Quyết] tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>, thay thế <color=Highlight>Dấu Ấn Phạt Tội</color> của mục tiêu trúng đòn bằng <color=Highlight>Ấn Ký Trừng Phạt</color>.
-<size=10></size>
-<size=40><color=Title>Dấu Ấn Phạt Tội</color></size>
-Khi Đánh Thường <color=Highlight>Huyền Ty Hoa Nhận Vũ</color>, Giải Phóng Cộng Hưởng <color=Highlight>Phá Thiên Lôi Diệt Kích</color> hoặc Kỹ Năng Biến Tấu <color=Highlight>Cuồng Lôi Cụ Phong</color> trúng mục tiêu, gắn thêm <color=Highlight>Dấu Ấn Phạt Tội</color>.
-Khi Yinlin rời trận, <color=Highlight>Dấu Ấn Phạt Tội</color> biến mất.
-<size=10></size>
-<size=40><color=Title>Ấn Ký Trừng Phạt</color></size>
-Khi mục tiêu mang <color=Highlight>Ấn Ký Trừng Phạt</color> chịu sát thương sẽ chịu thêm <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Quy Tắc Nhận Điểm Phán Quyết</color></size>
-Giới hạn {1} [Điểm Phán Quyết].
-Cách nhận [Điểm Phán Quyết]: <color=Highlight>Kỹ Năng Biến Tấu</color>, <color=Highlight>Đánh Thường</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>."
-lang_multi_text.db,MultiText,Skill_1001508_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc.
-lang_multi_text.db,MultiText,Skill_1001509_MultiSkillDescribe_1.1,附近队伍中激活吟霖延奏技能的角色导电伤害加深{0}，共鸣解放伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,The Resonator on a nearby team that activates Yinlin's Outro Skill has their Electro DMG Amplified by {0} and Resonance Liberation DMG Amplified by {1} for {2}s or until they are switched out.,"Nhân vật trong đội kích hoạt Kỹ Năng Hiệp Tấu của Yinlin được tăng {0} Sát Thương Điện Từ, tăng {1} Sát Thương Giải Phóng Cộng Hưởng, hiệu quả duy trì {2} giây, nếu chuyển sang nhân vật khác hiệu quả sẽ kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1001509_SkillDescribe,下一位登场角色导电伤害加深{0}，共鸣解放伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Electro DMG Amplified by {0} and Resonance Liberation DMG Amplified by {1} for {2}s or until they are switched out.,"Nhân vật ra trận tiếp theo được tăng {0} Sát Thương Điện Từ, tăng {1} Sát Thương Giải Phóng Cộng Hưởng, hiệu quả duy trì {2} giây, nếu chuyển sang nhân vật khác hiệu quả sẽ kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1001509_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi xảy ra, vui lòng liên hệ bộ phận hỗ trợ nếu có thắc mắc"
-lang_multi_text.db,MultiText,Skill_1001509_SkillName,策电,Strategist,Sách Lược Điện Từ
-lang_multi_text.db,MultiText,Skill_1001509_SkillResume,下一位登场角色导电伤害加深{0}，共鸣解放伤害加深{1}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Electro DMG Amplified by {0} and Resonance Liberation DMG Amplified by {1}. Switching Resonators ends the effect.,"Nhân vật ra trận tiếp theo được tăng {0} Sát Thương Điện Từ, tăng {1} Sát Thương Giải Phóng Cộng Hưởng, nếu chuyển sang nhân vật khác hiệu quả sẽ kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1001601_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-进行最多5段的连续攻击，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-消耗耐力攻击目标，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Yuanwu performs up to 5 consecutive attacks, dealing <color=Thunder>Electro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Yuanwu consumes STA to attack the target, dealing <color=Thunder>Electro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Yuanwu consumes STA to launch a Mid-air Plunging Attack, dealing <color=Thunder>Electro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Thực hiện tối đa 5 đòn tấn công liên tiếp, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực thực hiện đòn tấn công khi đang rơi, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Trong thời gian nhất định sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>."
-lang_multi_text.db,MultiText,Skill_1001601_SkillName,雷煌拳,Leihuangquan,Lôi Hoàng Quyền
-lang_multi_text.db,MultiText,Skill_1001601_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to deal <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Thunder>Sát Thương Điện Từ</color>."
-lang_multi_text.db,MultiText,Skill_1001602_SkillDescribe,"<size=40><color=Title>雷之楔</color></size>
-召唤<color=Highlight>雷之楔</color>，造成<color=Thunder>导电伤害</color>，并以<color=Highlight>雷之楔</color>为中心，形成<color=Highlight>雷池</color>，<color=Highlight>雷之楔</color>持续{0}秒。
-施放共鸣回路<color=Highlight>万壑雷</color>及共鸣解放<color=Highlight>寂土重明</color>时会立刻引爆场上的共鸣技能<color=Highlight>雷之楔</color>，造成<color=Thunder>导电伤害</color>，此次伤害为共鸣技能伤害。
-<size=10> </size>
-<size=40><color=Title>雷池</color></size>
-队伍中登场角色处于<color=Highlight>雷池</color>内将持续获得效果：攻击命中目标时，共鸣技能<color=Highlight>雷之楔</color>会进行协同攻击，造成<color=Thunder>导电伤害</color>，每{1}秒可触发1次，该效果持续时间{2}秒。","<size=40><color=Title>Thunder Wedge</color></size>
-Yuanwu summons <color=Highlight>Thunder Wedge</color>, dealing <color=Thunder>Electro DMG</color>, and forms a <color=Highlight>Thunder Field</color> centered on the <color=Highlight>Thunder Wedge</color>. <color=Highlight>Thunder Wedge</color> lasts for {0}s.
-Forte Circuit <color=Highlight>Rumbling Spark</color> and Resonance Liberation <color=Highlight>Blazing Might</color> will immediately detonate Resonance Skill <color=Highlight>Thunder Wedge</color> on the field, dealing <color=Thunder>Electro DMG</color>, considered as Resonance Skill DMG.
-<size=10> </size>
-<size=40><color=Title>Thunder Field</color></size>
-The active character gains the effects below when in the <color=Highlight>Thunder Field</color>: a Coordinated Attack from Resonance Skill <color=Highlight>Thunder Wedge</color> is triggered when attacks hit a target, dealing <color=Thunder>Electro DMG</color>. This can be triggered once every {1}s. The effect lasts for {2}s.","<size=40><color=Title>Lôi Chi Tiết</color></size>
-Triệu hồi <color=Highlight>Lôi Chi Tiết</color>, gây <color=Thunder>Sát Thương Điện Từ</color>, đồng thời lấy <color=Highlight>Lôi Chi Tiết</color> làm trung tâm, hình thành <color=Highlight>Lôi Trì</color>, <color=Highlight>Lôi Chi Tiết</color> duy trì {0} giây.
-Khi thi triển Mạch Cộng Hưởng <color=Highlight>Vạn Hác Lôi</color> và Giải Phóng Cộng Hưởng <color=Highlight>Tịch Thổ Trùng Minh</color> sẽ lập tức kích nổ Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Chi Tiết</color> trên sân, gây <color=Thunder>Sát Thương Điện Từ</color>, sát thương lần này được tính là Sát Thương Kỹ Năng Cộng Hưởng.
-<size=10> </size>
-<size=40><color=Title>Lôi Trì</color></size>
-Nhân vật trong đội ra trận đứng trong <color=Highlight>Lôi Trì</color> sẽ liên tục nhận hiệu quả: Khi tấn công trúng mục tiêu, Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Chi Tiết</color> sẽ thực hiện Tấn Công Phối Hợp, gây <color=Thunder>Sát Thương Điện Từ</color>, mỗi {1} giây có thể kích hoạt 1 lần, hiệu quả này duy trì {2} giây."
-lang_multi_text.db,MultiText,Skill_1001602_SkillName,拳震凌武,Leihuang Master,Quyền Chấn Lăng Võ
-lang_multi_text.db,MultiText,Skill_1001602_SkillResume,"<size=40><color=Title>雷之楔</color></size>
-召唤<color=Highlight>雷之楔</color>，造成<color=Thunder>导电伤害</color>，并形成<color=Highlight>雷池</color>。
-施放共鸣回路<color=Highlight>万壑雷</color>及共鸣解放<color=Highlight>寂土重明</color>时会立刻引爆场上的<color=Highlight>雷之楔</color>，造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>雷池</color></size>
-登场角色处于<color=Highlight>雷池</color>内攻击命中目标时，<color=Highlight>雷之楔</color>会进行协同攻击，造成<color=Thunder>导电伤害</color>。","<size=40><color=Title>Thunder Wedge</color></size>
-Yuanwu summons <color=Highlight>Thunder Wedge</color>, dealing <color=Thunder>Electro DMG</color>, and forms a <color=Highlight>Thunder Field</color>.
-Forte Circuit <color=Highlight>Rumbling Spark</color> and Resonance Liberation <color=Highlight>Blazing Might</color> will immediately detonate <color=Highlight>Thunder Wedge</color> on the field, dealing <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Thunder Field</color></size>
-When a Resonator is in the <color=Highlight>Thunder Field</color> and hits the target, <color=Highlight>Thunder Wedge</color> will perform a Coordinated Attack, dealing <color=Thunder>Electro DMG</color>.","<size=40><color=Title>Lôi Chi Tiết</color></size>
-Triệu hồi <color=Highlight>Lôi Chi Tiết</color>, gây <color=Thunder>Sát Thương Điện Từ</color>, đồng thời hình thành <color=Highlight>Lôi Trì</color>.
-Khi thi triển Mạch Cộng Hưởng <color=Highlight>Vạn Hác Lôi</color> và Giải Phóng Cộng Hưởng <color=Highlight>Tịch Thổ Trùng Minh</color> sẽ lập tức kích nổ <color=Highlight>Lôi Chi Tiết</color> trên sân, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Lôi Trì</color></size>
-Khi nhân vật ra trận đứng trong <color=Highlight>Lôi Trì</color> tấn công trúng mục tiêu, <color=Highlight>Lôi Chi Tiết</color> sẽ thực hiện Tấn Công Phối Hợp, gây <color=Thunder>Sát Thương Điện Từ</color>."
-lang_multi_text.db,MultiText,Skill_1001603_SkillDescribe,"唤醒雷电之力，为附近队伍中所有角色提供共鸣回路<color=Highlight>雷厉风行</color>状态，持续{0}秒，并全力攻击目标，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>","Awaken the power of thunder and provide Forte Circuit <color=Highlight>Lightning Infused</color> status to all characters on a nearby team for {0}s, then perform a powerful blow that deals <color=Thunder>Electro DMG</color>.
-<size=10> </size>","Đánh thức sức mạnh sấm sét, cung cấp trạng thái Mạch Cộng Hưởng <color=Highlight>Sấm Rền Gió Cuốn</color> cho tất cả nhân vật trong đội gần đó, duy trì {0} giây, đồng thời toàn lực tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>"
-lang_multi_text.db,MultiText,Skill_1001603_SkillName,寂土重明,Blazing Might,Tịch Thổ Trùng Minh
-lang_multi_text.db,MultiText,Skill_1001603_SkillResume,为附近队伍中所有角色提供<color=Highlight>雷厉风行</color>状态，并对目标造成<color=Thunder>导电伤害</color>。,"Provide <color=Highlight>Lightning Infused</color> status to all nearby party members, and deal <color=Thunder>Electro DMG</color> to the target.","Cung cấp trạng thái <color=Highlight>Sấm Rền Gió Cuốn</color> cho tất cả nhân vật trong đội gần đó, đồng thời gây <color=Thunder>Sát Thương Điện Từ</color> cho mục tiêu."
-lang_multi_text.db,MultiText,Skill_1001604_SkillDescribe,共鸣技能<color=Highlight>掀雷</color>的伤害倍率获得提升{0}，并且削减怪物共振度的能力提升。,"The DMG multiplier of Resonance Skill <color=Highlight>Thunder Uprising</color> is increased by {0}, and its reduction efficiency of enemy Vibration Strength is enhanced.","Bội Suất Sát Thương của Kỹ Năng Cộng Hưởng <color=Highlight>Hiên Lôi</color> tăng {0}, đồng thời tăng khả năng phá vỡ Độ Rung của quái vật."
-lang_multi_text.db,MultiText,Skill_1001604_SkillName,决电,Thunderous Determination,Quyết Điện
-lang_multi_text.db,MultiText,Skill_1001604_SkillResume,共鸣技能<color=Highlight>掀雷</color>的伤害倍率获得提升{0}，并且削减怪物共振度的能力提升。,"The DMG Multiplier of Resonance Skill <color=Highlight>Thunder Uprising</color> is increased by {0}, and its reduction effect on enemy Vibration Strength is boosted.","Bội Suất Sát Thương của Kỹ Năng Cộng Hưởng <color=Highlight>Hiên Lôi</color> tăng {0}, đồng thời tăng khả năng phá vỡ Độ Rung của quái vật."
-lang_multi_text.db,MultiText,Skill_1001605_SkillDescribe,共鸣技能<color=Highlight>雷池</color>及共鸣技能<color=Highlight>掀雷</color>的范围大幅扩大，战斗状态中离场时，若【锋芒】没有充满，渊武会自动在原地留下{0}个共鸣技能<color=Highlight>雷之楔</color>。,"The ranges of the Resonance Skills <color=Highlight>Thunder Field</color> and <color=Highlight>Thunder Uprising</color> are greatly expanded. When switched off the field during combat, if ""Readiness"" is not full, Yuanwu will automatically leave {0} Resonance Skill <color=Highlight>Thunder Wedge</color> in place.","Phạm vi của Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Trì</color> và Kỹ Năng Cộng Hưởng <color=Highlight>Hiên Lôi</color> mở rộng đáng kể. Khi rời trận trong trạng thái chiến đấu, nếu [Nhuệ Khí] chưa đầy, Yuanwu sẽ tự động để lại {0} Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Chi Tiết</color> tại vị trí đó."
-lang_multi_text.db,MultiText,Skill_1001605_SkillName,敛光,Reserved Confidence,Liễm Quang
-lang_multi_text.db,MultiText,Skill_1001605_SkillResume,共鸣技能<color=Highlight>雷池</color>及共鸣技能<color=Highlight>掀雷</color>的范围大幅扩大，战斗状态中离场时，若【锋芒】没有充满，渊武会自动在原地留下{0}个共鸣技能<color=Highlight>雷之楔</color>。,"The ranges of the Resonance Skills <color=Highlight>Thunder Field</color> and <color=Highlight>Thunder Uprising</color> are greatly expanded. If Yuanwu is switched off the field during combat when Readiness is not full, he will automatically leave behind {0} Resonance Skill <color=Highlight>Thunder Wedge</color>.","Phạm vi của Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Trì</color> và Kỹ Năng Cộng Hưởng <color=Highlight>Hiên Lôi</color> mở rộng đáng kể. Khi rời trận trong trạng thái chiến đấu, nếu [Nhuệ Khí] chưa đầy, Yuanwu sẽ tự động để lại {0} Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Chi Tiết</color> tại vị trí đó."
-lang_multi_text.db,MultiText,Skill_1001606_SkillDescribe,攻击目标，造成<color=Thunder>导电伤害</color>。,"Attack the target, dealing <color=Thunder>Electro DMG</color>.","Tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>."
-lang_multi_text.db,MultiText,Skill_1001606_SkillName,轰雷,Thunder Bombardment,Oanh Lôi
-lang_multi_text.db,MultiText,Skill_1001606_SkillResume,造成<color=Thunder>导电伤害</color>。,Deal <color=Thunder>Electro DMG</color>.,Gây <color=Thunder>Sát Thương Điện Từ</color>.
-lang_multi_text.db,MultiText,Skill_1001607_SkillDescribe,"<size=40><color=Title>万壑雷</color></size>
- 【锋芒】充满时，长按<color=Highlight>共鸣技能</color>，将会消耗所有【锋芒】，施放<color=Highlight>万壑雷</color>，造成<color=Thunder>导电伤害</color>，并使渊武进入<color=Highlight>雷厉风行</color>状态。
-<size=10> </size>
-<size=40><color=Title>掀雷</color></size>
-【锋芒】充满时，共鸣技能<color=Highlight>雷之楔</color>将会施放<color=Highlight>掀雷</color>，造成<color=Thunder>导电伤害</color>。
-<size=10> </size>
- <size=40><color=Title>雷厉风行</color></size>
- 在<color=Highlight>雷厉风行</color>状态下的角色抗打断能力提升。
- 渊武处于该状态下时：
- ·<color=Highlight>普攻</color>的攻击范围扩大，削减怪物共振度的能力提升；
- ·<color=Highlight>重击</color>的攻击更为迅猛，削减怪物共振度的能力提升；
- ·<color=Highlight>闪避反击</color>的攻击更为迅猛，削减怪物共振度的能力提升；
- ·施放<color=Highlight>重击</color>或成功触发<color=Highlight>逆势回击</color>后{0}秒内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>蹑风追雷</color>攻击目标，造成<color=Thunder>导电伤害</color>，此次伤害为普攻伤害；
- ·不会回复【锋芒】。
- <size=10> </size>
- <size=40><color=Title>锋芒获取规则</color></size>
- 【锋芒】上限{1}点。
- 场上存在共鸣技能<color=Highlight>雷之楔</color>时，每秒回复{2}点【锋芒】，渊武不在场时该效果依然生效。
- 共鸣技能<color=Highlight>雷之楔</color>协同攻击命中目标时，回复{3}点【锋芒】。","<size=40><color=Title>Rumbling Spark</color></size>
-When ""Readiness"" is full, hold <color=Highlight>Resonance Skill</color> to consume all ""Readiness"" and cast <color=Highlight>Rumbling Spark</color>, dealing <color=Thunder>Electro DMG</color> and entering the <color=Highlight>Lightning Infused</color> state.
-<size=10></size>
-<size=40><color=Title>Thunder Uprising</color></size>
-When ""Readiness"" is full, Resonance Skill <color=Highlight>Thunder Wedge</color> will be replaced with <color=Highlight>Thunder Uprising</color>, dealing <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Lightning Infused</color></size>
-The character in <color=Highlight>Lightning Infused</color> state has a greatly increased resistance to interruption.
-When Yuanwu is in this state:
--<color=Highlight>Basic Attacks</color>: Hit targets in a larger range, reduce enemy Vibration Strength with increased efficiency.
--<color=Highlight>Heavy Attacks</color>: Have increased attack speed, reduce enemy Vibration Strength with increased efficiency.
--<color=Highlight>Dodge Counters</color>: Have increased attack speed, reduce enemy Vibration Strength with increased efficiency.
--Use <color=Highlight>Basic Attack</color> within {0}s after casting a <color=Highlight>Heavy Attack</color> or a successful <color=Highlight>Counterattack</color> to cast <color=Highlight>Thunderweaver</color>, dealing <color=Thunder>Electro DMG</color>, considered as Basic Attack DMG.
--Does not recover ""Readiness"".
-<size=10></size>
-<size=40><color=Title>Readiness</color></size>
-Yuanwu can hold up to {1} ""Readiness"".
-When Resonance Skill <color=Highlight>Thunder Wedge</color> is on the field, Yuanwu gains {2} ""Readiness"" every second, even when he is not the active character;
-When Resonance Skill <color=Highlight>Thunder Wedge</color> hits a target with a Coordinated Attack, Yuanwu gains {3} ""Readiness"".","<size=40><color=Title>Vạn Hác Lôi</color></size>
- Khi [Nhuệ Khí] đầy, nhấn giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ tiêu hao tất cả [Nhuệ Khí], thi triển <color=Highlight>Vạn Hác Lôi</color>, gây <color=Thunder>Sát Thương Điện Từ</color>, đồng thời khiến Yuanwu vào trạng thái <color=Highlight>Sấm Rền Gió Cuốn</color>.
-<size=10> </size>
-<size=40><color=Title>Hiên Lôi</color></size>
-Khi [Nhuệ Khí] đầy, Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Chi Tiết</color> sẽ thi triển <color=Highlight>Hiên Lôi</color>, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10> </size>
- <size=40><color=Title>Sấm Rền Gió Cuốn</color></size>
- Nhân vật trong trạng thái <color=Highlight>Sấm Rền Gió Cuốn</color> được tăng khả năng kháng gián đoạn.
- Khi Yuanwu ở trạng thái này:
- . Mở rộng phạm vi tấn công của <color=Highlight>Đánh Thường</color>, tăng khả năng phá vỡ Độ Rung của quái vật;
- . <color=Highlight>Đánh Mạnh</color> tấn công dũng mãnh hơn, tăng khả năng phá vỡ Độ Rung của quái vật;
- . <color=Highlight>Phản Kích Né Tránh</color> tấn công dũng mãnh hơn, tăng khả năng phá vỡ Độ Rung của quái vật;
- . Trong vòng {0} giây sau khi thi triển <color=Highlight>Đánh Mạnh</color> hoặc kích hoạt thành công <color=Highlight>Phản Kích</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Niếp Phong Truy Lôi</color> tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>, sát thương lần này được tính là Sát Thương Đánh Thường;
- . Không hồi phục [Nhuệ Khí].
- <size=10> </size>
- <size=40><color=Title>Quy Tắc Nhận Nhuệ Khí</color></size>
- Giới hạn {1} điểm [Nhuệ Khí].
- Khi trên sân tồn tại Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Chi Tiết</color>, mỗi giây hồi phục {2} điểm [Nhuệ Khí], hiệu quả này vẫn có tác dụng khi Yuanwu không có mặt trên sân.
- Khi Kỹ Năng Cộng Hưởng <color=Highlight>Lôi Chi Tiết</color> thực hiện Tấn Công Phối Hợp trúng mục tiêu, hồi phục {3} điểm [Nhuệ Khí]."
-lang_multi_text.db,MultiText,Skill_1001607_SkillName,沉雷藏锋,Unassuming Blade,Trầm Lôi Tàng Phong
-lang_multi_text.db,MultiText,Skill_1001607_SkillResume,"<size=40><color=Title>万壑雷</color></size>
-【锋芒】充满时，长按<color=Highlight>共鸣技能</color>，消耗所有【锋芒】，造成<color=Thunder>导电伤害</color>，并使渊武进入<color=Highlight>雷厉风行</color>状态。
-<size=10></size>
-<size=40><color=Title>掀雷</color></size>
-【锋芒】充满时，<color=Highlight>雷之楔</color>将会施放<color=Highlight>掀雷</color>，造成<color=Thunder>导电伤害</color>。
-<size=10></size>
-<size=40><color=Title>雷厉风行</color></size>
-在<color=Highlight>雷厉风行</color>状态下的角色抗打断能力提升。
-渊武处于该状态下时：
-·<color=Highlight>普攻</color>攻击范围扩大，削减怪物共振度的能力提升；
-·<color=Highlight>重击</color>削减怪物共振度的能力提升；
-·<color=Highlight>闪避反击</color>削减怪物共振度的能力提升；
-·施放<color=Highlight>重击</color>或成功触发<color=Highlight>逆势回击</color>后{0}秒内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>蹑风追雷</color>攻击目标，造成<color=Thunder>导电伤害</color>。
-·不会回复【锋芒】
-<size=10></size>
-<size=40><color=Title>锋芒获取规则</color></size>
-【锋芒】上限{1}点。
-【锋芒】的获取途径：
-<color=Highlight>雷之楔</color>存在时，随时间逐渐获得。
-<color=Highlight>雷之楔</color>触发协同攻击。","<size=40><color=Title>Rumbling Spark</color></size>
-When Readiness is full, hold <color=Highlight>Resonance Skill</color> to consume all Readiness, dealing <color=Thunder>Electro DMG</color>, and enter the <color=Highlight>Lightning Infused</color> state.
-<size=10></size>
-<size=40><color=Title>Thunder Uprising</color></size>
-When Readiness is full, Resonance Skill <color=Highlight>Thunder Wedge</color> will be replaced with <color=Highlight>Thunder Uprising</color>, dealing <color=Thunder>Electro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Lightning Infused</color></size>
-The Resonator in the <color=Highlight>Lightning Infused</color> state has an increased resistance to interruption.
-When Yuanwu is in this state:
-- <color=Highlight>Basic Attacks</color>: Hit targets in a larger range and reduce enemy Vibration Strength more efficiently.
-- <color=Highlight>Heavy Attacks</color>: Reduce enemy Vibration Strength more efficiently.
-- <color=Highlight>Dodge Counters</color>: Reduce enemy Vibration Strength more efficiently.
-- Use <color=Highlight>Basic Attack</color> within {0}s of a <color=Highlight>Heavy Attack</color> or a <color=Highlight>Counterattack</color> to cast <color=Highlight>Thunderweaver</color>, dealing <color=Thunder>Electro DMG</color>.
--Readiness does not regenerate.
-<size=10></size>
-<size=40><color=Title>Readiness</color></size>
-Yuanwu can hold up to {1} Readiness.
-Yuanwu gains Readiness when:
-<color=Highlight>Thunder Wedge</color> is on the field.
-<color=Highlight>Thunder Wedge</color> triggers a Coordinated Attack.","<size=40><color=Title>Vạn Hác Lôi</color></size>
-Khi [Nhuệ Khí] đầy, nhấn giữ <color=Highlight>Kỹ Năng Cộng Hưởng</color>, tiêu hao tất cả [Nhuệ Khí], gây <color=Thunder>Sát Thương Điện Từ</color>, đồng thời khiến Yuanwu vào trạng thái <color=Highlight>Sấm Rền Gió Cuốn</color>.
-<size=10></size>
-<size=40><color=Title>Hiên Lôi</color></size>
-Khi [Nhuệ Khí] đầy, <color=Highlight>Lôi Chi Tiết</color> sẽ thi triển <color=Highlight>Hiên Lôi</color>, gây <color=Thunder>Sát Thương Điện Từ</color>.
-<size=10></size>
-<size=40><color=Title>Sấm Rền Gió Cuốn</color></size>
-Nhân vật trong trạng thái <color=Highlight>Sấm Rền Gió Cuốn</color> được tăng khả năng kháng gián đoạn.
-Khi Yuanwu ở trạng thái này:
-. <color=Highlight>Đánh Thường</color> mở rộng phạm vi tấn công, tăng khả năng phá vỡ Độ Rung của quái vật;
-. <color=Highlight>Đánh Mạnh</color> tăng khả năng phá vỡ Độ Rung của quái vật;
-. <color=Highlight>Phản Kích Né Tránh</color> tăng khả năng phá vỡ Độ Rung của quái vật;
-. Trong vòng {0} giây sau khi thi triển <color=Highlight>Đánh Mạnh</color> hoặc kích hoạt thành công <color=Highlight>Phản Kích</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Niếp Phong Truy Lôi</color> tấn công mục tiêu, gây <color=Thunder>Sát Thương Điện Từ</color>.
-. Không hồi phục [Nhuệ Khí]
-<size=10></size>
-<size=40><color=Title>Quy Tắc Nhận Nhuệ Khí</color></size>
-Giới hạn {1} điểm [Nhuệ Khí].
-Cách nhận [Nhuệ Khí]:
-Khi <color=Highlight>Lôi Chi Tiết</color> tồn tại, nhận dần theo thời gian.
-<color=Highlight>Lôi Chi Tiết</color> kích hoạt Tấn Công Phối Hợp."
-lang_multi_text.db,MultiText,Skill_1001608_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc.
-lang_multi_text.db,MultiText,Skill_1001608_SkillName,巧手烹调,Skillful Cooking,Nấu Nướng Khéo Léo
-lang_multi_text.db,MultiText,Skill_1001608_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc.
-lang_multi_text.db,MultiText,Skill_1001609_MultiSkillDescribe_1.1,以技能目标为中心，降落闪电，对命中的敌人造成大量共振值伤害。,"Yuanwu unleashes thunderbolts in an area centered around the skill target, weakening the Vibration Strength of enemies upon impact.","Lấy mục tiêu kỹ năng làm trung tâm, giáng sấm sét xuống, gây lượng lớn sát thương Độ Rung lên kẻ địch trúng đòn."
-lang_multi_text.db,MultiText,Skill_1001609_SkillDescribe,以技能目标为中心，降落闪电，对命中的敌人造成大量共振值伤害。,"Yuanwu unleashes thunderbolts in an area centered around the skill target, greatly reducing the Vibration Strength of enemies upon impact.","Lấy mục tiêu kỹ năng làm trung tâm, giáng sấm sét xuống, gây lượng lớn sát thương Độ Rung lên kẻ địch trúng đòn."
-lang_multi_text.db,MultiText,Skill_1001609_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi xảy ra, vui lòng liên hệ bộ phận hỗ trợ nếu có thắc mắc"
-lang_multi_text.db,MultiText,Skill_1001609_SkillName,驱雷,Lightning Manipulation,Khu Lôi
-lang_multi_text.db,MultiText,Skill_1001609_SkillResume,对敌人造成大量共振值伤害。,Greatly reduce the Vibration Strength of enemies.,Gây lượng lớn sát thương Độ Rung cho kẻ địch.
-lang_multi_text.db,MultiText,Skill_1001701_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-进行最多5段的连续攻击，造成<color=Dark>湮灭伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-消耗耐力攻击目标，造成<color=Dark>湮灭伤害</color>。
-施放重击后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第4段普攻</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-成功闪避后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Dark>湮灭伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Rover-Havoc performs up to 5 consecutive attacks, dealing <color=Dark>Havoc DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Rover-Havoc consumes STA to attack, dealing <color=Dark>Havoc DMG</color>.
-Use <color=Highlight>Basic Attack</color> after casting Heavy Attack to cast Basic Attack 4.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Rover-Havoc consumes STA to cast a Mid-Air Plunging Attack, dealing <color=Dark>Havoc DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-Use <color=Highlight>Basic Attack</color> after a successful Dodge to attack the target, dealing <color=Dark>Havoc DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Thực hiện tối đa 5 đòn tấn công liên tiếp, gây <color=Dark>Sát Thương Hủy Diệt</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>.
-Trong thời gian nhất định sau khi thi triển Đánh Mạnh, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường Đoạn 4</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực thực hiện đòn tấn công khi đang rơi, gây <color=Dark>Sát Thương Hủy Diệt</color>.
-<size=10> </size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Trong thời gian nhất định sau khi né tránh thành công, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>."
-lang_multi_text.db,MultiText,Skill_1001701_SkillName,裁羽弑音,Tuneslayer,Tài Vũ Thí Âm
-lang_multi_text.db,MultiText,Skill_1001701_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Dark>湮灭伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Dark>湮灭伤害</color>。
-施放重击后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第4段普攻</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Dark>湮灭伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Dark>湮灭伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Dark>Havoc DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to deal <color=Dark>Havoc DMG</color>.
-Use <color=Highlight>Basic Attack</color> after casting a Heavy Attack to cast <color=Highlight>Basic Attack 4</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Dark>Havoc DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Dark>Havoc DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Gây <color=Dark>Sát Thương Hủy Diệt</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực, gây <color=Dark>Sát Thương Hủy Diệt</color>.
-Trong thời gian nhất định sau khi thi triển Đánh Mạnh, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường Đoạn 4</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, gây <color=Dark>Sát Thương Hủy Diệt</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Dark>Sát Thương Hủy Diệt</color>."
-lang_multi_text.db,MultiText,Skill_1001702_SkillDescribe,化音成羽造成<color=Dark>湮灭伤害</color>。,"Transform sound into feathers, dealing <color=Dark>Havoc DMG</color>.",Hóa âm thanh thành lông vũ gây <color=Dark>Sát Thương Hủy Diệt</color>.
-lang_multi_text.db,MultiText,Skill_1001702_SkillName,行刃,Wingblade,Hành Nhận
-lang_multi_text.db,MultiText,Skill_1001702_SkillResume,化音成羽造成<color=Dark>湮灭伤害</color>。,"Transform sound into feathers, dealing <color=Dark>Havoc DMG</color>.",Hóa âm thanh thành lông vũ gây <color=Dark>Sát Thương Hủy Diệt</color>.
-lang_multi_text.db,MultiText,Skill_1001703_SkillDescribe,聚拢回响于掌间，攻击前方的目标，造成<color=Dark>湮灭伤害</color>。,"Rover gathers resonating sounds to attack targets, dealing <color=Dark>Havoc DMG</color>.","Tụ tập tiếng vang trong lòng bàn tay, tấn công mục tiêu phía trước, gây <color=Dark>Sát Thương Hủy Diệt</color>."
-lang_multi_text.db,MultiText,Skill_1001703_SkillName,临渊死寂,Deadening Abyss,Lâm Uyên Tử Tịch
-lang_multi_text.db,MultiText,Skill_1001703_SkillResume,聚拢回响于掌间，攻击前方的目标，造成<color=Dark>湮灭伤害</color>。,"Gather resonating sounds to attack targets ahead, dealing <color=Dark>Havoc DMG</color>.","Tụ tập tiếng vang trong lòng bàn tay, tấn công mục tiêu phía trước, gây <color=Dark>Sát Thương Hủy Diệt</color>."
-lang_multi_text.db,MultiText,Skill_1001704_SkillDescribe,处于<color=Highlight><te href=850034>暗涌</te></color>状态时，湮灭伤害加成提升{0}。,"In the <color=Highlight><te href=850034>Dark Surge</te></color> state, gain {0} Havoc DMG Bonus.","Khi ở trạng thái <color=Highlight><te href=850034>Ám Dũng</te></color>, tăng {0} Buff Sát Thương Hủy Diệt."
-lang_multi_text.db,MultiText,Skill_1001704_SkillName,变格,Metamorph,Biến Cách
-lang_multi_text.db,MultiText,Skill_1001704_SkillResume,处于<color=Highlight>暗涌</color>状态时，湮灭伤害加成提升{0}。,"In the <color=Highlight>Dark Surge</color> state, gain {0} Havoc DMG Bonus.","Khi ở trạng thái <color=Highlight>Ám Dũng</color>, tăng {0} Buff Sát Thương Hủy Diệt."
-lang_multi_text.db,MultiText,Skill_1001705_SkillDescribe,处于<color=Highlight><te href=850034>暗涌</te></color>状态时，<color=Highlight>普攻</color>命中目标时额外回复{0}点共鸣能量，该效果每秒可触发1次。,"While in the <color=Highlight><te href=850034>Dark Surge</te></color> state, <color=Highlight>Basic Attack</color> recovers {0} extra Resonance Energy when it hits a target. This effect can be triggered 1 time per second.","Khi ở trạng thái <color=Highlight><te href=850034>Ám Dũng</te></color>, <color=Highlight>Đánh Thường</color> trúng mục tiêu sẽ hồi phục thêm {0} điểm Năng Lượng Cộng Hưởng, hiệu quả này mỗi giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,Skill_1001705_SkillName,拢音,Bleak Crescendo,Lũng Âm
-lang_multi_text.db,MultiText,Skill_1001705_SkillResume,处于<color=Highlight>暗涌</color>状态时，<color=Highlight>普攻</color>命中目标时额外回复{0}点共鸣能量，该效果每秒可触发1次。,"While in the <color=Highlight>Dark Surge</color> state, <color=Highlight>Basic Attack</color> recovers {0} extra Resonance Energy when it hits a target. This effect can be triggered once every second.","Khi ở trạng thái <color=Highlight>Ám Dũng</color>, <color=Highlight>Đánh Thường</color> trúng mục tiêu sẽ hồi phục thêm {0} điểm Năng Lượng Cộng Hưởng, hiệu quả này mỗi giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,Skill_1001706_SkillDescribe,攻击目标，造成<color=Dark>湮灭伤害</color>。,"Attack the target, dealing <color=Dark>Havoc DMG</color>.","Tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>."
-lang_multi_text.db,MultiText,Skill_1001706_SkillName,化刹,Instant of Annihilation,Hóa Sát
-lang_multi_text.db,MultiText,Skill_1001706_SkillResume,造成<color=Dark>湮灭伤害</color>。,Deal <color=Dark>Havoc DMG</color>.,Gây <color=Dark>Sát Thương Hủy Diệt</color>.
-lang_multi_text.db,MultiText,Skill_1001707_SkillDescribe,"<size=40><color=Title>灭音</color></size>
-【暗流】充满时，长按<color=Highlight>普攻</color>将会施放<color=Highlight>灭音</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害。
-<size=10> </size>
-<size=40><color=Title>暗涌状态</color></size>
-施放<color=Highlight>灭音</color>后，进入<color=Highlight>暗涌</color>状态，在该状态下：
-·<color=Highlight>普攻</color>替换为<color=Highlight>强化普攻</color>，可进行最多5段的连续攻击，造成<color=Dark>湮灭伤害</color>； 
-·<color=Highlight>重击</color>替换为<color=Highlight>强化重击</color>；
-·施放<color=Highlight>强化重击</color>后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣刃</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害；
-·施放重击<color=Highlight>鸣刃</color>后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段强化普攻</color>攻击目标，造成<color=Dark>湮灭伤害</color>；
-·共鸣技能<color=Highlight>行刃</color>替换为共鸣技能<color=Highlight>破命</color>，化音为刃攻击目标，造成<color=Dark>湮灭伤害</color>。
-<size=10> </size>
-<size=40><color=Title>暗流获取规则</color></size>
-【暗流】上限100点。
-常态攻击<color=Highlight>裁羽弑音</color>命中目标时，可积攒【暗流】。
-施放共鸣技能<color=Highlight>行刃</color>时，可积攒【暗流】。
-施放共鸣技能<color=Highlight>破命</color>时，可积攒【暗流】。
-施放变奏技能<color=Highlight>化刹</color>时，可积攒【暗流】。","<size=40><color=Title>Devastation</color></size>
-When ""Umbra"" is full, hold <color=Highlight>Basic Attack</color> to cast <color=Highlight>Devastation</color> to attack the target, dealing <color=Dark>Havoc DMG</color>, considered as Heavy Attack DMG.
-<size=10> </size>
-<size=40><color=Title>Dark Surge</color></size>
-After casting <color=Highlight>Devastation</color>, Rover enters the <color=Highlight>Dark Surge</color> state. In this state:
--<color=Highlight>Basic Attack</color> is replaced with <color=Highlight>Enhanced Basic Attack</color>, which performs up to 5 consecutive attacks, dealing <color=Dark>Havoc DMG</color>.
--<color=Highlight>Heavy Attack</color> is replaced with <color=Highlight>Enhanced Heavy Attack</color>;
--Use <color=Highlight>Basic Attack</color> after casting <color=Highlight>Enhanced Heavy Attack</color> to cast Heavy Attack <color=Highlight>Thwackblade</color> to attack the target, dealing <color=Dark>Havoc DMG</color>, considered as Heavy Attack DMG.
--Use <color=Highlight>Basic Attack</color> after casting Heavy Attack <color=Highlight>Thwackblade</color> to cast <color=Highlight>Enhanced Basic Attack 3</color> to attack the target, dealing <color=Dark>Havoc DMG</color>;
--Resonance Skill <color=Highlight>Wingblade</color> is replaced with Resonance Skill <color=Highlight>Lifetaker</color>, transforming sounds into blades to attack the target, dealing <color=Dark>Havoc DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Umbra</color></size>
-Rover can hold up to 100 points of Umbra.
-Normal Attack <color=Highlight>Tuneslayer</color> recovers Umbra on hit.
-Resonance Skill <color=Highlight>Wingblade</color> recovers Umbra when cast.
-Resonance Skill <color=Highlight>Lifetaker</color> recovers Umbra when cast.
-Intro Skill <color=Highlight>Instant of Annihilation</color> recovers Umbra when cast.","<size=40><color=Title>Diệt Âm</color></size>
-Khi [Ám Lưu] đầy, nhấn giữ <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Diệt Âm</color> tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>, sát thương lần này được tính là Sát Thương Đánh Mạnh.
-<size=10> </size>
-<size=40><color=Title>Trạng Thái Ám Dũng</color></size>
-Sau khi thi triển <color=Highlight>Diệt Âm</color>, vào trạng thái <color=Highlight>Ám Dũng</color>, trong trạng thái này:
-. <color=Highlight>Đánh Thường</color> thay thế bằng <color=Highlight>Đánh Thường Cường Hóa</color>, có thể thực hiện tối đa 5 đòn tấn công liên tiếp, gây <color=Dark>Sát Thương Hủy Diệt</color>; 
-. <color=Highlight>Đánh Mạnh</color> thay thế bằng <color=Highlight>Đánh Mạnh Cường Hóa</color>;
-. Sau khi thi triển <color=Highlight>Đánh Mạnh Cường Hóa</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển Đánh Mạnh <color=Highlight>Minh Nhận</color> tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>, sát thương lần này được tính là Sát Thương Đánh Mạnh;
-. Sau khi thi triển Đánh Mạnh <color=Highlight>Minh Nhận</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường Cường Hóa Đoạn 3</color> tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>;
-. Kỹ Năng Cộng Hưởng <color=Highlight>Hành Nhận</color> thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Phá Mệnh</color>, hóa âm thanh thành lưỡi dao tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>.
-<size=10> </size>
-<size=40><color=Title>Quy Tắc Nhận Ám Lưu</color></size>
-Giới hạn 100 điểm [Ám Lưu].
-Khi Đánh Thường <color=Highlight>Tài Vũ Thí Âm</color> trúng mục tiêu, có thể tích lũy [Ám Lưu].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Hành Nhận</color>, có thể tích lũy [Ám Lưu].
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phá Mệnh</color>, có thể tích lũy [Ám Lưu].
-Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Hóa Sát</color>, có thể tích lũy [Ám Lưu]."
-lang_multi_text.db,MultiText,Skill_1001707_SkillName,永夜开明,Umbra Eclipse,Vĩnh Dạ Khai Minh
-lang_multi_text.db,MultiText,Skill_1001707_SkillResume,"<size=40><color=Title>灭音</color></size>
-【暗流】充满时，长按<color=Highlight>普攻</color>将会施放<color=Highlight>灭音</color>，造成<color=Dark>湮灭伤害</color>。
-<size=10></size>
-<size=40><color=Title>暗涌状态</color></size>
-施放<color=Highlight>灭音</color>后，进入<color=Highlight>暗涌</color>状态，在该状态下：
-·<color=Highlight>普攻</color>替换为<color=Highlight>强化普攻</color>；
-·<color=Highlight>重击</color>替换为<color=Highlight>强化重击</color>；
-·施放<color=Highlight>强化重击</color>后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣刃</color>攻击目标，造成<color=Dark>湮灭伤害</color>；
-·施放重击<color=Highlight>鸣刃</color>后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段强化普攻</color>，造成<color=Dark>湮灭伤害</color>；
-·共鸣技能<color=Highlight>行刃</color>替换为共鸣技能<color=Highlight>破命</color>，造成<color=Dark>湮灭伤害</color>。
-<size=10></size>
-<size=40><color=Title>暗流获取规则</color></size>
-【暗流】上限100点。
-【暗流】获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>。","<size=40><color=Title>Devastation</color></size>
-When Umbra is full, hold <color=Highlight>Basic Attack</color> to cast <color=Highlight>Devastation</color>, dealing <color=Dark>Havoc DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dark Surge</color></size>
-After casting <color=Highlight>Devastation</color>, Rover enters the <color=Highlight>Dark Surge</color> state. In this state:
-- <color=Highlight>Basic Attack</color> becomes <color=Highlight>Enhanced Basic Attack</color>.
-- <color=Highlight>Heavy Attack</color> becomes <color=Highlight>Enhanced Heavy Attack</color>.
-- Use <color=Highlight>Basic Attack</color> after <color=Highlight>Enhanced Heavy Attack</color> to perform Heavy Attack <color=Highlight>Thwackblade</color>, dealing <color=Dark>Havoc DMG</color>.
-- Use <color=Highlight>Basic Attack</color> after Heavy Attack <color=Highlight>Thwackblade</color> to perform <color=Highlight>Enhanced Basic Attack 3</color>, dealing <color=Dark>Havoc DMG</color>.
-- Resonance Skill <color=Highlight>Wingblade</color> becomes Resonance Skill <color=Highlight>Lifetaker</color>, dealing <color=Dark>Havoc DMG</color>.
-<size=10></size>
-<size=40><color=Title>Umbra</color></size>
-Rover can hold up to 100 points of Umbra.
-Rover gains Umbra through <color=Highlight>Normal Attack</color>, <color=Highlight>Resonance Skill</color>, and <color=Highlight>Intro Skill</color>.","<size=40><color=Title>Diệt Âm</color></size>
-Khi [Ám Lưu] đầy, nhấn giữ <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Diệt Âm</color>, gây <color=Dark>Sát Thương Hủy Diệt</color>.
-<size=10></size>
-<size=40><color=Title>Trạng Thái Ám Dũng</color></size>
-Sau khi thi triển <color=Highlight>Diệt Âm</color>, vào trạng thái <color=Highlight>Ám Dũng</color>, trong trạng thái này:
-. <color=Highlight>Đánh Thường</color> thay thế bằng <color=Highlight>Đánh Thường Cường Hóa</color>;
-. <color=Highlight>Đánh Mạnh</color> thay thế bằng <color=Highlight>Đánh Mạnh Cường Hóa</color>;
-. Sau khi thi triển <color=Highlight>Đánh Mạnh Cường Hóa</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển Đánh Mạnh <color=Highlight>Minh Nhận</color> tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>;
-. Sau khi thi triển Đánh Mạnh <color=Highlight>Minh Nhận</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường Cường Hóa Đoạn 3</color>, gây <color=Dark>Sát Thương Hủy Diệt</color>;
-. Kỹ Năng Cộng Hưởng <color=Highlight>Hành Nhận</color> thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Phá Mệnh</color>, gây <color=Dark>Sát Thương Hủy Diệt</color>.
-<size=10></size>
-<size=40><color=Title>Quy Tắc Nhận Ám Lưu</color></size>
-Giới hạn 100 điểm [Ám Lưu].
-Cách nhận [Ám Lưu]: <color=Highlight>Đánh Thường</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>, <color=Highlight>Kỹ Năng Biến Tấu</color>."
-lang_multi_text.db,MultiText,Skill_1001708_SkillDescribe,test/暂无,not yet available,test/Tạm chưa có
-lang_multi_text.db,MultiText,Skill_1001708_SkillName,test/生活技能,,test/Kỹ năng sinh hoạt
-lang_multi_text.db,MultiText,Skill_1001708_SkillResume,test/暂无,,test/Tạm chưa có
-lang_multi_text.db,MultiText,Skill_1001709_MultiSkillDescribe_1.1,召唤湮灭场攻击目标，每{0}秒对湮灭场范围内的目标造成{1}攻击的<color=Dark>湮灭伤害</color>，持续{2}秒。,"Summon a Havoc Field to attack the targets, dealing <color=Dark>Havoc DMG</color> equal to {1} of Rover's ATK every {0}s to all targets within the range for {2}s.","Triệu hồi Trường Hủy Diệt tấn công mục tiêu, mỗi {0} giây gây <color=Dark>Sát Thương Hủy Diệt</color> bằng {1} tấn công cho mục tiêu trong phạm vi Trường Hủy Diệt, duy trì {2} giây."
-lang_multi_text.db,MultiText,Skill_1001709_SkillDescribe,召唤湮灭场攻击目标，每{0}秒对湮灭场范围内的目标造成{1}攻击的<color=Dark>湮灭伤害</color>，持续{2}秒。,"Rover summons a Havoc Field, dealing <color=Dark>Havoc DMG</color> of {1} of Rover's ATK to all targets within the range every {0}s for {2}s.","Triệu hồi Trường Hủy Diệt tấn công mục tiêu, mỗi {0} giây gây <color=Dark>Sát Thương Hủy Diệt</color> bằng {1} tấn công cho mục tiêu trong phạm vi Trường Hủy Diệt, duy trì {2} giây."
-lang_multi_text.db,MultiText,Skill_1001709_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi xảy ra, vui lòng liên hệ bộ phận hỗ trợ nếu có thắc mắc"
-lang_multi_text.db,MultiText,Skill_1001709_SkillName,唤声,Soundweaver,Hoán Thanh
-lang_multi_text.db,MultiText,Skill_1001709_SkillResume,召唤湮灭场攻击目标，每{0}秒造成{1}攻击的<color=Dark>湮灭伤害</color>，持续{2}秒。,"Summon a Havoc Field, dealing <color=Dark>Havoc DMG</color> equal to {1} of Rover's ATK every {0}s to all targets within range for {2}s.","Triệu hồi Trường Hủy Diệt tấn công mục tiêu, mỗi {0} giây gây <color=Dark>Sát Thương Hủy Diệt</color> bằng {1} tấn công, duy trì {2} giây."
-lang_multi_text.db,MultiText,Skill_1001801_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-进行最多5段攻击，造成<color=Ice>冷凝伤害</color>。
-<size=10> </size>
-<size=40><color=Title>普攻·崩拳·当头咆哮</color></size>
-施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>后，<color=Highlight>普攻第5段</color>替换为<color=Highlight>崩拳·当头咆哮</color>，造成<color=Ice>冷凝伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-消耗耐力攻击目标，造成<color=Ice>冷凝伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力进行空中下落攻击，造成<color=Ice>冷凝伤害</color>。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Lingyang performs up to 5 consecutive attacks, dealing <color=Ice>Glacio DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Basic Attack: Feral Roars</color></size>
-After Resonance Skill <color=Highlight>Furious Punches</color> is cast, <color=Highlight>Basic Attack 5</color> is replaced with <color=Highlight>Feral Roars</color>, dealing <color=Ice>Glacio DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Lingyang consumes STA to attack the target, dealing <color=Ice>Glacio DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Lingyang consumes STA to perform a Mid-air Plunging Attack, dealing <color=Ice>Glacio DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Thực hiện tối đa 5 đòn tấn công, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Thường - Băng Quyền - Sư Tử Gầm</color></size>
-Sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Dược - Cuồng Nộ Truy Kích</color>, <color=Highlight>Đánh Thường Đoạn 5</color> thay thế bằng <color=Highlight>Băng Quyền - Sư Tử Gầm</color>, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực tấn công mục tiêu, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực thực hiện đòn tấn công khi đang rơi, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10> </size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Trong thời gian nhất định sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ tấn công mục tiêu, gây <color=Ice>Sát Thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Skill_1001801_SkillName,常态·凛凛威风拳,Majestic Fists,Thường Thái - Lẫm Lẫm Uy Phong Quyền
-lang_multi_text.db,MultiText,Skill_1001801_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>普攻·崩拳·当头咆哮</color></size>
-施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>后，<color=Highlight>普攻第5段</color>替换为<color=Highlight>崩拳·当头咆哮</color>，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Basic Attack: Feral Roars</color></size>
-After Resonance Skill <color=Highlight>Furious Punches</color> is cast, <color=Highlight>Basic Attack 5</color> becomes <color=Highlight>Feral Roars</color>, dealing <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Thường - Băng Quyền - Sư Tử Gầm</color></size>
-Sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Dược - Cuồng Nộ Truy Kích</color>, <color=Highlight>Đánh Thường Đoạn 5</color> thay thế bằng <color=Highlight>Băng Quyền - Sư Tử Gầm</color>, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Ice>Sát Thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Skill_1001802_SkillDescribe,"<size=40><color=Title>冲掌·势式相承</color></size>
-攻击目标，造成<color=Ice>冷凝伤害</color>。
-<size=10> </size>
-<size=40><color=Title>惊跃·郁怒追逃</color></size>
-<color=Highlight>第3、4、5段普攻</color>或普攻<color=Highlight>崩拳·当头咆哮</color>命中目标时，共鸣技能<color=Highlight>冲掌·势式相承</color>替换为共鸣技能<color=Highlight>惊跃·郁怒追逃</color>。
-在普攻<color=Highlight>崩拳·当头咆哮</color>后施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>，短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段普攻</color>。
-<size=10> </size>
-凌阳的共鸣技能不会打断普攻循环段数。","<size=40><color=Title>Ancient Arts</color></size>
-Attack the target, dealing <color=Ice>Glacio DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Furious Punches</color></size>
-When <color=Highlight>Basic Attacks 3, 4, or 5</color> or Basic Attack <color=Highlight>Feral Roars</color> hits the target, Resonance Skill <color=Highlight>Ancient Arts</color> is replaced with Resonance Skill <color=Highlight>Furious Punches</color>.
-Lingyang's <color=Highlight>Basic Attack</color> cycle starts from <color=Highlight>Basic Attack 3</color> after casting Basic Attack <color=Highlight>Feral Roars</color> and Resonance Skill <color=Highlight>Furious Punches</color> in turn.
-<size=10> </size>
-Lingyang's Resonance Skill does not reset his Basic Attack cycle.","<size=40><color=Title>Xung Chưởng - Thế Thức Tương Thừa</color></size>
-Tấn công mục tiêu, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10> </size>
-<size=40><color=Title>Kinh Dược - Cuồng Nộ Truy Kích</color></size>
-Khi <color=Highlight>Đánh Thường Đoạn 3, 4, 5</color> hoặc Đánh Thường <color=Highlight>Băng Quyền - Sư Tử Gầm</color> trúng mục tiêu, Kỹ Năng Cộng Hưởng <color=Highlight>Xung Chưởng - Thế Thức Tương Thừa</color> thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Dược - Cuồng Nộ Truy Kích</color>.
-Sau khi thi triển Đánh Thường <color=Highlight>Băng Quyền - Sư Tử Gầm</color>, thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Dược - Cuồng Nộ Truy Kích</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường Đoạn 3</color>.
-<size=10> </size>
-Kỹ Năng Cộng Hưởng của Lingyang sẽ không làm gián đoạn chuỗi Đánh Thường."
-lang_multi_text.db,MultiText,Skill_1001802_SkillName,冲掌·势式相承,Ancient Arts,Xung Chưởng - Thế Thức Tương Thừa
-lang_multi_text.db,MultiText,Skill_1001802_SkillResume,"造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>惊跃·郁怒追逃</color></size>
-<color=Highlight>第3、4、5段普攻</color>或普攻<color=Highlight>崩拳·当头咆哮</color>命中目标时，共鸣技能替换为<color=Highlight>惊跃·郁怒追逃</color>。
-在普攻<color=Highlight>崩拳·当头咆哮</color>后施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>，短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段普攻</color>。
-<size=10></size>
-凌阳的共鸣技能不会打断普攻循环段数。","Deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Furious Punches</color></size>
-When <color=Highlight>Basic Attacks 3, 4, or 5</color> or Basic Attack <color=Highlight>Feral Roars</color> hits the target, Resonance Skill is replaced with <color=Highlight>Furious Punches</color>.
-Use <color=Highlight>Basic Attack</color> to cast <color=Highlight>Basic Attack 3</color> shortly after casting Resonance Skill <color=Highlight>Furious Punches</color> following Basic Attack <color=Highlight>Feral Roars</color>.
-<size=10></size>
-Lingyang's Resonance Skill does not reset his Basic Attack cycle.","Gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Kinh Dược - Cuồng Nộ Truy Kích</color></size>
-Khi <color=Highlight>Đánh Thường Đoạn 3, 4, 5</color> hoặc Đánh Thường <color=Highlight>Băng Quyền - Sư Tử Gầm</color> trúng mục tiêu, Kỹ Năng Cộng Hưởng thay thế bằng <color=Highlight>Kinh Dược - Cuồng Nộ Truy Kích</color>.
-Sau khi thi triển Đánh Thường <color=Highlight>Băng Quyền - Sư Tử Gầm</color>, thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Kinh Dược - Cuồng Nộ Truy Kích</color>, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường Đoạn 3</color>.
-<size=10></size>
-Kỹ Năng Cộng Hưởng của Lingyang sẽ không làm gián đoạn chuỗi Đánh Thường."
-lang_multi_text.db,MultiText,Skill_1001803_SkillDescribe,"攻击目标，造成<color=Ice>冷凝伤害</color>，并受到<color=Highlight>狮子奋迅</color>祝福。
-<size=10> </size>
-<size=40><color=Title>狮子奋迅</color></size>
-凌阳的<color=Ice>冷凝伤害加成</color>提升{0}。","Attack the target, dealing <color=Ice>Glacio DMG</color>, and receive the blessing of <color=Highlight>Lion's Vigor</color>.
-<size=10> </size>
-<size=40><color=Title>Lion's Vigor</color></size>
-Lingyang gains {0} <color=Ice>Glacio DMG Bonus</color>.","Tấn công mục tiêu, gây <color=Ice>Sát Thương Ngưng Băng</color>, đồng thời nhận chúc phúc <color=Highlight>Sư Tử Phấn Khởi</color>.
-<size=10> </size>
-<size=40><color=Title>Sư Tử Phấn Khởi</color></size>
-Lingyang tăng {0} <color=Ice>Hiệu Quả Tăng Sát Thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,SkillTree_189_PropertyNodeTitle,暴击提升,Crit. Rate+,Tăng Bạo Kích
+lang_multi_text.db,MultiText,SkillTree_190_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_190_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_191_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_191_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_192_PropertyNodeDescribe,暴击提升{0},Crit. Rate increased by {0}.,Tăng Bạo Kích {0}
+lang_multi_text.db,MultiText,SkillTree_192_PropertyNodeTitle,暴击提升,Crit. Rate+,Tăng Bạo Kích
+lang_multi_text.db,MultiText,SkillTree_201_PropertyNodeDescribe,衍射伤害加成提升{0},Spectro DMG Bonus increased by {0}.,Sát thương Quang Phổ tăng {0}
+lang_multi_text.db,MultiText,SkillTree_201_PropertyNodeTitle,衍射伤害加成提升,Spectro DMG Bonus+,Sát thương Quang Phổ tăng
+lang_multi_text.db,MultiText,SkillTree_202_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_202_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_203_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_203_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_204_PropertyNodeDescribe,衍射伤害加成提升{0},Spectro DMG Bonus increased by {0}.,Sát thương Quang Phổ tăng {0}
+lang_multi_text.db,MultiText,SkillTree_204_PropertyNodeTitle,衍射伤害加成提升,Spectro DMG Bonus+,Sát thương Quang Phổ tăng
+lang_multi_text.db,MultiText,SkillTree_205_PropertyNodeDescribe,衍射伤害加成提升{0},Spectro DMG Bonus increased by {0}.,Sát thương Quang Phổ tăng {0}
+lang_multi_text.db,MultiText,SkillTree_205_PropertyNodeTitle,衍射伤害加成提升,Spectro DMG Bonus+,Sát thương Quang Phổ tăng
+lang_multi_text.db,MultiText,SkillTree_206_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_206_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_207_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_207_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_208_PropertyNodeDescribe,衍射伤害加成提升{0},Spectro DMG Bonus increased by {0}.,Sát thương Quang Phổ tăng {0}
+lang_multi_text.db,MultiText,SkillTree_208_PropertyNodeTitle,衍射伤害加成提升,Spectro DMG Bonus+,Sát thương Quang Phổ tăng
+lang_multi_text.db,MultiText,SkillTree_217_PropertyNodeDescribe,治疗效果加成提升{0},Healing Bonus increased by {0}.,Hiệu quả trị liệu tăng {0}
+lang_multi_text.db,MultiText,SkillTree_217_PropertyNodeTitle,治疗效果加成提升,Healing Bonus+,Hiệu quả trị liệu tăng
+lang_multi_text.db,MultiText,SkillTree_218_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_218_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_219_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_219_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_220_PropertyNodeDescribe,治疗效果加成提升{0},Healing Bonus increased by {0}.,Hiệu quả trị liệu tăng {0}
+lang_multi_text.db,MultiText,SkillTree_220_PropertyNodeTitle,治疗效果加成提升,Healing Bonus+,Hiệu quả trị liệu tăng
+lang_multi_text.db,MultiText,SkillTree_221_PropertyNodeDescribe,治疗效果加成提升{0},Healing Bonus increased by {0}.,Hiệu quả trị liệu tăng {0}
+lang_multi_text.db,MultiText,SkillTree_221_PropertyNodeTitle,治疗效果加成提升,Healing Bonus+,Hiệu quả trị liệu tăng
+lang_multi_text.db,MultiText,SkillTree_222_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_222_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_223_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_223_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_224_PropertyNodeDescribe,治疗效果加成提升{0},Healing Bonus increased by {0}.,Hiệu quả trị liệu tăng {0}
+lang_multi_text.db,MultiText,SkillTree_224_PropertyNodeTitle,治疗效果加成提升,Healing Bonus+,Hiệu quả trị liệu tăng
+lang_multi_text.db,MultiText,SkillTree_233_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_233_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_234_PropertyNodeDescribe,防御提升{0},DEF increased by {0}.,Phòng thủ tăng {0}
+lang_multi_text.db,MultiText,SkillTree_234_PropertyNodeTitle,防御提升,DEF+,Phòng thủ tăng
+lang_multi_text.db,MultiText,SkillTree_235_PropertyNodeDescribe,防御提升{0},DEF increased by {0}.,Phòng thủ tăng {0}
+lang_multi_text.db,MultiText,SkillTree_235_PropertyNodeTitle,防御提升,DEF+,Phòng thủ tăng
+lang_multi_text.db,MultiText,SkillTree_236_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_236_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_237_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_237_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_238_PropertyNodeDescribe,防御提升{0},DEF increased by {0}.,Phòng thủ tăng {0}
+lang_multi_text.db,MultiText,SkillTree_238_PropertyNodeTitle,防御提升,DEF+,Phòng thủ tăng
+lang_multi_text.db,MultiText,SkillTree_239_PropertyNodeDescribe,防御提升{0},DEF increased by {0}.,Phòng thủ tăng {0}
+lang_multi_text.db,MultiText,SkillTree_239_PropertyNodeTitle,防御提升,DEF+,Phòng thủ tăng
+lang_multi_text.db,MultiText,SkillTree_240_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_240_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_249_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_249_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_250_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_250_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_251_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_251_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_252_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_252_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_253_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_253_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_254_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_254_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_255_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_255_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_256_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_256_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_265_PropertyNodeDescribe,暴击伤害提升{0},Crit. DMG increased by {0}.,Tăng Sát Thương Bạo Kích {0}
+lang_multi_text.db,MultiText,SkillTree_265_PropertyNodeTitle,暴击伤害提升,Crit. DMG+,Tăng Sát Thương Bạo Kích
+lang_multi_text.db,MultiText,SkillTree_266_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_266_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_267_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_267_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_268_PropertyNodeDescribe,暴击伤害提升{0},Crit. DMG increased by {0}.,Tăng Sát Thương Bạo Kích {0}
+lang_multi_text.db,MultiText,SkillTree_268_PropertyNodeTitle,暴击伤害提升,Crit. DMG+,Tăng Sát Thương Bạo Kích
+lang_multi_text.db,MultiText,SkillTree_269_PropertyNodeDescribe,暴击伤害提升{0},Crit. DMG increased by {0}.,Tăng Sát Thương Bạo Kích {0}
+lang_multi_text.db,MultiText,SkillTree_269_PropertyNodeTitle,暴击伤害提升,Crit. DMG+,Tăng Sát Thương Bạo Kích
+lang_multi_text.db,MultiText,SkillTree_270_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_270_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_271_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_271_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_272_PropertyNodeDescribe,暴击伤害提升{0},Crit. DMG increased by {0}.,Tăng Sát Thương Bạo Kích {0}
+lang_multi_text.db,MultiText,SkillTree_272_PropertyNodeTitle,暴击伤害提升,Crit. DMG+,Tăng Sát Thương Bạo Kích
+lang_multi_text.db,MultiText,SkillTree_281_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_281_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_282_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_282_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_283_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_283_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_284_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_284_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_285_PropertyNodeDescribe,湮灭伤害加成提升{0},Havoc DMG Bonus increased by {0}.,Sát thương Hủy Diệt tăng {0}
+lang_multi_text.db,MultiText,SkillTree_285_PropertyNodeTitle,湮灭伤害加成提升,Havoc DMG Bonus+,Sát thương Hủy Diệt tăng
+lang_multi_text.db,MultiText,SkillTree_286_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}
+lang_multi_text.db,MultiText,SkillTree_286_PropertyNodeTitle,攻击提升,ATK+,Tăng tấn công
+lang_multi_text.db,MultiText,SkillTree_287_PropertyNodeDescribe,攻击提升{0},ATK increased by {0}.,Tấn công tăng {0}

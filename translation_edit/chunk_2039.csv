@@ -1,692 +1,119 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Skill_1000402_SkillResume,造成<color=Ice>冷凝伤害</color>，为附近队伍中所有角色回复生命值。,Deal <color=Ice>Glacio DMG</color> and heal all nearby party members.,"Gây <color=Ice>Sát Thương Ngưng Băng</color>, hồi phục HP cho tất cả nhân vật trong đội gần đó."
-lang_multi_text.db,MultiText,Skill_1000403_SkillDescribe,"召唤忧昙瞬间为附近队伍中所有角色回复生命值，并依次产生{0}段<color=Highlight>频隙回响</color>。
-<size=10> </size>
-<size=40><color=Title>频隙回响</color></size>
-频隙回响会跟随队伍中登场角色，每{1}秒会消耗{2}段<color=Highlight>频隙回响</color>进行协同攻击，命中目标时造成<color=Ice>冷凝伤害</color>，并以命中点为中心，为附近队伍中所有角色回复生命值。","Baizhi summons You'tan to heal all characters on nearby teams, generating {0} stacks of <color=Highlight>Remnant Entities</color>.
-<size=10> </size>
-<size=40><color=Title>Remnant Entities</color></size>
-Remnant Entities follow the active team members. {2} stack(s) of <color=Highlight>Remnant Entities</color> are automatically consumed to perform Coordinated Attacks every {1}s, dealing <color=Ice>Glacio DMG</color> on hit while healing all characters of the team when the active character is within the range.","Triệu hồi Ưu Đàm ngay lập tức hồi phục HP cho tất cả nhân vật trong đội gần đó, đồng thời lần lượt tạo ra {0} đoạn <color=Highlight>Hồi Hưởng Tần Số</color>.
-<size=10> </size>
-<size=40><color=Title>Hồi Hưởng Tần Số</color></size>
-Hồi Hưởng Tần Số sẽ đi theo nhân vật đang ra trận trong đội, mỗi {1} giây sẽ tiêu hao {2} đoạn <color=Highlight>Hồi Hưởng Tần Số</color> để thực hiện tấn công phối hợp, khi trúng mục tiêu gây <color=Ice>Sát Thương Ngưng Băng</color>, đồng thời lấy điểm trúng đích làm trung tâm, hồi phục HP cho tất cả nhân vật trong đội gần đó."
-lang_multi_text.db,MultiText,Skill_1000403_SkillName,刹那合弥,Momentary Union,Sát Na Hợp Di
-lang_multi_text.db,MultiText,Skill_1000403_SkillResume,"为附近队伍中所有角色回复生命值，并依次产生{0}段<color=Highlight>频隙回响</color>。
-<size=10></size>
-<size=40><color=Title>频隙回响</color></size>
-频隙回响会跟随队伍中登场角色，持续消耗<color=Highlight>频隙回响</color>攻击目标，命中目标时造成<color=Ice>冷凝伤害</color>，并以命中点为中心，为附近队伍中所有角色回复生命值。","Heal all nearby party members, generating {0} stacks of <color=Highlight>Remnant Entities</color>.
-<size=10></size>
-<size=40><color=Title>Remnant Entities</color></size>
-Remnant Entities follow the active team members. <color=Highlight>Remnant Entities</color> are automatically consumed to attack targets, dealing <color=Ice>Glacio DMG</color> on hit while healing all nearby party members.","Hồi phục HP cho tất cả nhân vật trong đội gần đó, đồng thời lần lượt tạo ra {0} đoạn <color=Highlight>Hồi Hưởng Tần Số</color>.
-<size=10></size>
-<size=40><color=Title>Hồi Hưởng Tần Số</color></size>
-Hồi Hưởng Tần Số sẽ đi theo nhân vật đang ra trận trong đội, liên tục tiêu hao <color=Highlight>Hồi Hưởng Tần Số</color> tấn công mục tiêu, khi trúng mục tiêu gây <color=Ice>Sát Thương Ngưng Băng</color>, đồng thời lấy điểm trúng đích làm trung tâm, hồi phục HP cho tất cả nhân vật trong đội gần đó."
-lang_multi_text.db,MultiText,Skill_1000404_SkillDescribe,"施放共鸣技能<color=Highlight>应急预案</color>时，忧昙会留下一片<color=Highlight>天籁</color>，存在时间{0}秒。
-<size=10> </size>
-<size=40><color=Title>天籁</color></size>
-拾取天籁的角色攻击提升{1}，持续{2}秒。","When Baizhi casts Resonance Skill <color=Highlight>Emergency Plan</color>, You'tan generates a field of <color=Highlight>Euphonia</color> that lasts for {0}s.
-<size=10> </size>
-<size=40><color=Title>Euphonia</color></size>
-ATK of the Resonators who pick up Euphonia is increased by {1} for {2}s.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color>, Ưu Đàm sẽ để lại một vùng <color=Highlight>Thiên Lại</color>, tồn tại {0} giây.
-<size=10> </size>
-<size=40><color=Title>Thiên Lại</color></size>
-Nhân vật nhặt được Thiên Lại tấn công tăng {1}, duy trì {2} giây."
-lang_multi_text.db,MultiText,Skill_1000404_SkillName,泛音区间,Harmonic Range,Phiếm Âm Khu Gian
-lang_multi_text.db,MultiText,Skill_1000404_SkillResume,"施放共鸣技能<color=Highlight>应急预案</color>时，忧昙会留下一片<color=Highlight>天籁</color>，存在时间{0}秒。
-<size=10> </size>
-<size=40><color=Title>天籁</color></size>
-拾取天籁的角色攻击提升{1}，持续{2}秒。","When Baizhi casts Resonance Skill <color=Highlight>Emergency Plan</color>, You'tan generates a field of <color=Highlight>Euphonia</color> that lasts for {0}s.
-<size=10></size>
-<size=40><color=Title>Euphonia</color></size>
-ATK of Resonators who pick up Euphonia is increased by {1} for {2}s.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color>, Ưu Đàm sẽ để lại một vùng <color=Highlight>Thiên Lại</color>, tồn tại {0} giây.
-<size=10> </size>
-<size=40><color=Title>Thiên Lại</color></size>
-Nhân vật nhặt được Thiên Lại tấn công tăng {1}, duy trì {2} giây."
-lang_multi_text.db,MultiText,Skill_1000405_SkillDescribe,<color=Highlight>重击</color>每次命中目标时，都能为附近队伍中生命值最少的角色回复生命值，回复量为白芷自身{0}生命上限。,Baizhi's <color=Highlight>Heavy Attack</color> on hit heals the character with the lowest HP on a nearby team by {0} of her Max HP.,"Mỗi khi <color=Highlight>Đánh Mạnh</color> trúng mục tiêu, đều có thể hồi phục HP cho nhân vật có HP thấp nhất trong đội gần đó, lượng hồi phục bằng {0} giới hạn HP của bản thân Baizhi."
-lang_multi_text.db,MultiText,Skill_1000405_SkillName,激策回馈,Stimulus Feedback,Kích Sách Hồi Quỹ
-lang_multi_text.db,MultiText,Skill_1000405_SkillResume,<color=Highlight>重击</color>每次命中目标时，都能为附近队伍中生命值最少的角色回复生命值，回复量为白芷自身{0}生命上限。,<color=Highlight>Heavy Attack</color> on hit heals the nearby party member with the lowest HP by {0} of Baizhi's own Max HP.,"Mỗi khi <color=Highlight>Đánh Mạnh</color> trúng mục tiêu, đều có thể hồi phục HP cho nhân vật có HP thấp nhất trong đội gần đó, lượng hồi phục bằng {0} giới hạn HP của bản thân Baizhi."
-lang_multi_text.db,MultiText,Skill_1000406_SkillDescribe,白芷召唤忧昙，进行1次俯冲攻击，造成<color=Ice>冷凝伤害</color>，并为附近队伍中所有角色回复生命值。,"Baizhi calls You'tan to perform 1 plunging attack, dealing <color=Ice>Glacio DMG</color> while healing all characters on a nearby team.","Baizhi triệu hồi Ưu Đàm, thực hiện 1 lần tấn công bổ nhào, gây <color=Ice>Sát Thương Ngưng Băng</color>, đồng thời hồi phục HP cho tất cả nhân vật trong đội gần đó."
-lang_multi_text.db,MultiText,Skill_1000406_SkillName,覆雪流盈,Overflowing Frost,Phúc Tuyết Lưu Doanh
-lang_multi_text.db,MultiText,Skill_1000406_SkillResume,造成<color=Ice>冷凝伤害</color>，并为附近队伍中所有角色回复生命值。,Deal <color=Ice>Glacio DMG</color> and heal all nearby party members.,"Gây <color=Ice>Sát Thương Ngưng Băng</color>, đồng thời hồi phục HP cho tất cả nhân vật trong đội gần đó."
-lang_multi_text.db,MultiText,Skill_1000407_SkillDescribe,"<size=40><color=Title>忧昙</color></size>
-与白芷存在精神连接、能响应其意愿的回音生物，继承白芷的全部属性。白芷闪避时，忧昙会回到白芷身边。
-<size=10> </size>
-<size=40><color=Title>念意</color></size>
-通过施放<color=Highlight>重击</color>或共鸣技能<color=Highlight>应急预案</color>时，消耗所有【念意】，持续为附近队伍中所有角色回复生命值，每消耗{0}点【念意】则回复1次生命值，每次回复间隔{2}秒。
-<color=Highlight>重击</color>消耗【念意】时，白芷额外回复协奏能量和共鸣能量。
-共鸣技能<color=Highlight>应急预案</color>消耗【念意】时，白芷额外回复协奏能量。
-<size=10> </size>
-<size=40><color=Title>念意获取规则</color></size>
-【念意】上限{3}点。
-<color=Highlight>普攻</color>命中目标时，获得{4}点【念意】。","<size=40><color=Title>You'tan</color></size>
-A Remnant Creature that answers to Baizhi's mind and desires while sharing all her stats. You'tan goes back to Baizhi when Baizhi dodges.
-<size=10> </size>
-<size=40><color=Title>Concentration</color></size>
-Baizhi consumes all ""Concentration"" when casting <color=Highlight>Heavy Attack</color> or Resonance Skill <color=Highlight>Emergency Plan</color> to continuously heal all Resonators on nearby teams. Each {0} ""Concentration"" consumed provides 1 healing. The healing happens every {2}s.
-When Baizhi consumes ""Concentration"" to cast <color=Highlight>Heavy Attack</color>, Baizhi additionally restores Concerto Energy and Resonance Energy.
-When Baizhi consumes ""Concentration"" to cast Resonance Skill <color=Highlight>Emergency Plan</color>, Baizhi additionally restores Concerto Energy.
-<size=10> </size>
-<size=40><color=Title>Forte Gauge: Concentration</color></size>
-Baizhi can hold up to {3} ""Concentration"".
-Baizhi obtains {4} ""Concentration"" for every <color=Highlight>Basic Attack</color> on hit.","<size=40><color=Title>Ưu Đàm</color></size>
-Sinh vật hồi âm có kết nối tinh thần với Baizhi, có thể đáp lại ý nguyện của cô ấy, kế thừa toàn bộ thuộc tính của Baizhi. Khi Baizhi né tránh, Ưu Đàm sẽ quay về bên cạnh Baizhi.
-<size=10> </size>
-<size=40><color=Title>Niệm Ý</color></size>
-Khi thi triển <color=Highlight>Đánh Mạnh</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color>, sẽ tiêu hao tất cả ""Niệm Ý"", liên tục hồi phục HP cho tất cả nhân vật trong đội gần đó, mỗi lần tiêu hao {0} điểm ""Niệm Ý"" sẽ hồi phục 1 lần HP, khoảng cách mỗi lần hồi phục là {2} giây.
-Khi <color=Highlight>Đánh Mạnh</color> tiêu hao ""Niệm Ý"", Baizhi hồi phục thêm Năng Lượng Hiệp Tấu và Năng Lượng Cộng Hưởng.
-Khi Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color> tiêu hao ""Niệm Ý"", Baizhi hồi phục thêm Năng Lượng Hiệp Tấu.
-<size=10> </size>
-<size=40><color=Title>Quy Tắc Nhận Niệm Ý</color></size>
-""Niệm Ý"" tối đa {3} điểm.
-Khi <color=Highlight>Đánh Thường</color> trúng mục tiêu, nhận {4} điểm ""Niệm Ý""."
-lang_multi_text.db,MultiText,Skill_1000407_SkillName,溯生环复,Cycle of Life,Tố Sinh Hoàn Phục
-lang_multi_text.db,MultiText,Skill_1000407_SkillResume,"<size=40><color=Title>忧昙</color></size>
-忧昙继承白芷的全部属性。白芷闪避时，忧昙会回到白芷身边。
-<size=10></size>
-<size=40><color=Title>念意</color></size>
-施放<color=Highlight>重击</color>或共鸣技能<color=Highlight>应急预案</color>时，消耗所有【念意】，根据消耗的数量，持续为附近队伍的角色回复生命值。
-<color=Highlight>重击</color>消耗【念意】时，白芷额外回复协奏能量和共鸣能量。
-共鸣技能<color=Highlight>应急预案</color>消耗【念意】时，白芷额外回复协奏能量。
-<size=10></size>
-<size=40><color=Title>念意获取规则</color></size>
-【念意】上限{3}点。
-【念意】的获取途径：<color=Highlight>普攻</color>。","<size=40><color=Title>You'tan</color></size>
-You'tan shares all of Baizhi's stats. You'tan goes back to Baizhi when Baizhi dodges.
-<size=10></size>
-<size=40><color=Title>Concentration</color></size>
-When casting <color=Highlight>Heavy Attack</color> or Resonance Skill <color=Highlight>Emergency Plan</color>, Baizhi consumes all Concentration and continuously heals nearby party members based on the number of Concentration consumed.
-When Baizhi consumes Concentration to cast <color=Highlight>Heavy Attack</color>, she also regenerates Concerto Energy and Resonance Energy.
-When Baizhi consumes Concentration to cast Resonance Skill <color=Highlight>Emergency Plan</color>, she also regenerates Concerto Energy.
-<size=10></size>
-<size=40><color=Title>Forte Gauge: Concentration</color></size>
-Baizhi can hold up to {3} Concentration.
-Baizhi gains Concentration through <color=Highlight>Basic Attack</color>.","<size=40><color=Title>Ưu Đàm</color></size>
-Ưu Đàm kế thừa toàn bộ thuộc tính của Baizhi. Khi Baizhi né tránh, Ưu Đàm sẽ quay về bên cạnh Baizhi.
-<size=10></size>
-<size=40><color=Title>Niệm Ý</color></size>
-Khi thi triển <color=Highlight>Đánh Mạnh</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color>, tiêu hao tất cả ""Niệm Ý"", dựa trên số lượng tiêu hao, liên tục hồi phục HP cho các nhân vật trong đội gần đó.
-Khi <color=Highlight>Đánh Mạnh</color> tiêu hao ""Niệm Ý"", Baizhi hồi phục thêm Năng Lượng Hiệp Tấu và Năng Lượng Cộng Hưởng.
-Khi Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Khẩn Cấp</color> tiêu hao ""Niệm Ý"", Baizhi hồi phục thêm Năng Lượng Hiệp Tấu.
-<size=10></size>
-<size=40><color=Title>Quy Tắc Nhận Niệm Ý</color></size>
-""Niệm Ý"" tối đa {3} điểm.
-Cách nhận ""Niệm Ý"": <color=Highlight>Đánh Thường</color>."
-lang_multi_text.db,MultiText,Skill_1000408_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc
-lang_multi_text.db,MultiText,Skill_1000408_SkillName,巧手烹调,Skillful Cooking,Khéo Tay Hay Nấu
-lang_multi_text.db,MultiText,Skill_1000408_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc
-lang_multi_text.db,MultiText,Skill_1000409_MultiSkillDescribe_1.1,持续为附近队伍中激活白芷延奏技能的角色回复生命值，每{0}秒回复白芷{1}生命上限的生命值，持续{2}秒。受到此治疗效果时，角色全伤害加深{3}，持续{4}秒。,Heals the Resonator on a nearby team that activates Baizhi's Outro Skill by {1} of her Max HP every {0}s for {2}s. The healed Resonator also has their Attribute DMG Amplified by {3} for {4}s.,"Liên tục hồi phục HP cho nhân vật trong đội gần đó kích hoạt Kỹ Năng Biến Tấu của Baizhi, mỗi {0} giây hồi phục lượng HP bằng {1} giới hạn HP của Baizhi, duy trì {2} giây. Khi nhận hiệu quả trị liệu này, toàn bộ sát thương của nhân vật được tăng thêm {3}, duy trì {4} giây."
-lang_multi_text.db,MultiText,Skill_1000409_SkillDescribe,持续为下一位登场角色回复生命值，每{0}秒回复白芷{1}生命上限的生命值，持续{2}秒。受到此治疗效果时，角色全伤害加深{3}，持续{4}秒。,Heal the incoming Resonator by {1} of Baizhi's max HP every {0}s for {2}s. The healed Resonator has their DMG Amplified by {3} for {4}s.,"Liên tục hồi phục HP cho nhân vật tiếp theo ra trận, mỗi {0} giây hồi phục lượng HP bằng {1} giới hạn HP của Baizhi, duy trì {2} giây. Khi nhận hiệu quả trị liệu này, toàn bộ sát thương của nhân vật được tăng thêm {3}, duy trì {4} giây."
-lang_multi_text.db,MultiText,Skill_1000409_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi xảy ra, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,Skill_1000409_SkillName,命源输送,Rejuvinating Flow,Mệnh Nguyên Thâu Tống
-lang_multi_text.db,MultiText,Skill_1000409_SkillResume,持续为下一位登场角色回复生命值。受到此治疗效果时，角色全伤害加深{3}。,Continuously heal the incoming Resonator. The healed Resonator has their DMG Amplified by {3}.,"Liên tục hồi phục HP cho nhân vật tiếp theo ra trận. Khi nhận hiệu quả trị liệu này, toàn bộ sát thương của nhân vật được tăng thêm {3}."
-lang_multi_text.db,MultiText,Skill_1000501_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-进行最多5段的连续攻击，造成<color=Ice>冷凝伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-消耗耐力发动攻击，造成<color=Ice>冷凝伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力进行空中下落攻击，造成<color=Ice>冷凝伤害</color>。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Sanhua performs up to 5 consecutive attacks, dealing <color=Ice>Glacio DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Sanhua consumes STA to launch attacks, dealing <color=Ice>Glacio DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Sanhua consumes STA to perform a Mid-Air Plunging Attack, dealing <color=Ice>Glacio DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Thực hiện tối đa 5 đòn tấn công liên tiếp, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực phát động tấn công, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực thực hiện tấn công lao xuống từ trên không, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10> </size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Sau khi <color=Highlight>Né Tránh</color> thành công, trong một khoảng thời gian nhất định nhấn nhẹ <color=Highlight>Đánh Thường</color> sẽ tấn công mục tiêu, gây <color=Ice>Sát Thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Skill_1000501_SkillName,寒光,Frigid Light,Hàn Quang
-lang_multi_text.db,MultiText,Skill_1000501_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Ice>冷凝伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Ice>Glacio DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Ice>Sát Thương Ngưng Băng</color>."
-lang_multi_text.db,MultiText,Skill_1000502_SkillDescribe,造成<color=Ice>冷凝伤害</color>，剑气会留下{0}道【<te href=850035>冰棱</te>】。,"Sanhua sends an air blade to create {0} <te href=850035>Ice Prism</te> on the ground, dealing <color=Ice>Glacio DMG</color>.","Gây <color=Ice>Sát Thương Ngưng Băng</color>, kiếm khí sẽ để lại {0} ""<te href=850035>Lăng Băng</te>""."
-lang_multi_text.db,MultiText,Skill_1000502_SkillName,朔雪永冻,Eternal Frost,Sóc Tuyết Vĩnh Đông
-lang_multi_text.db,MultiText,Skill_1000502_SkillResume,造成<color=Ice>冷凝伤害</color>，剑气会留下{0}道【冰棱】。,Deal <color=Ice>Glacio DMG</color> and create {0} Ice Prism.,"Gây <color=Ice>Sát Thương Ngưng Băng</color>, kiếm khí sẽ để lại {0} ""Lăng Băng""."
-lang_multi_text.db,MultiText,Skill_1000503_SkillDescribe,造成<color=Ice>冷凝伤害</color>，并形成{0}道【<te href=850037>冰川</te>】。,Sanhua deals <color=Ice>Glacio DMG</color> and creates {0} <te href=850037>Glacier</te>.,"Gây <color=Ice>Sát Thương Ngưng Băng</color>, đồng thời hình thành {0} ""<te href=850037>Sông Băng</te>""."
-lang_multi_text.db,MultiText,Skill_1000503_SkillName,焦瞑冻土,Glacial Gaze,Tiêu Minh Đống Thổ
-lang_multi_text.db,MultiText,Skill_1000503_SkillResume,造成<color=Ice>冷凝伤害</color>，并形成{0}道【冰川】。,Deal <color=Ice>Glacio DMG</color> and create {0} Glacier.,"Gây <color=Ice>Sát Thương Ngưng Băng</color>, đồng thời hình thành {0} ""Sông Băng""."
-lang_multi_text.db,MultiText,Skill_1000504_SkillDescribe,施放变奏技能时，散华的共鸣技能伤害提升{0}，持续{1}秒。,Damage dealt by Sanhua's Resonance Skill increased by {0} for {1}s after casting her Intro Skill.,"Khi thi triển Kỹ Năng Hiệp Tấu, sát thương Kỹ Năng Cộng Hưởng của Sanhua tăng {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1000504_SkillName,凝冰,Condensation,Ngưng Băng
-lang_multi_text.db,MultiText,Skill_1000504_SkillResume,施放变奏技能时，散华的共鸣技能伤害提升{0}，持续{1}秒。,Damage dealt by Sanhua's Resonance Skill is increased by {0} for {1}s after casting her Intro Skill.,"Khi thi triển Kỹ Năng Hiệp Tấu, sát thương Kỹ Năng Cộng Hưởng của Sanhua tăng {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1000505_SkillDescribe,施放<color=Highlight>第5段普攻</color>后，散华共鸣回路<color=Highlight>冰绽</color>造成的伤害提升{0}，持续{1}秒。,Damage dealt by Sanhua's Forte Circuit <color=Highlight>Ice Burst</color> is increased by {0} for {1}s after casting <color=Highlight>Basic Attack 5</color>.,"Sau khi thi triển <color=Highlight>Đánh Thường Đoạn 5</color>, sát thương gây ra bởi Mạch Cộng Hưởng <color=Highlight>Băng Trán</color> của Sanhua tăng {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1000505_SkillName,瀑雪,Avalanche,Bộc Tuyết
-lang_multi_text.db,MultiText,Skill_1000505_SkillResume,施放<color=Highlight>第5段普攻</color>后，散华共鸣回路<color=Highlight>冰绽</color>造成的伤害提升{0}，持续{1}秒。,Damage dealt by Sanhua's Forte Circuit <color=Highlight>Ice Burst</color> is increased by {0} for {1}s after casting <color=Highlight>Basic Attack 5</color>.,"Sau khi thi triển <color=Highlight>Đánh Thường Đoạn 5</color>, sát thương gây ra bởi Mạch Cộng Hưởng <color=Highlight>Băng Trán</color> của Sanhua tăng {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1000506_SkillDescribe,挥刀坠击 ，造成<color=Ice>冷凝伤害</color>，留下1道【<te href=850036>冰棘</te>】。,"Sanhua swings her blade downward and creates 1 <te href=850036>Ice Thorn</te>, dealing <color=Ice>Glacio DMG</color>.","Vung kiếm bổ xuống, gây <color=Ice>Sát Thương Ngưng Băng</color>, để lại 1 ""<te href=850036>Gai Băng</te>""."
-lang_multi_text.db,MultiText,Skill_1000506_SkillName,凛刺,Freezing Thorns,Lẫm Thích
-lang_multi_text.db,MultiText,Skill_1000506_SkillResume,造成<color=Ice>冷凝伤害</color>，留下1道【冰棘】。,Deal <color=Ice>Glacio DMG</color> and create 1 Ice Thorn.,"Gây <color=Ice>Sát Thương Ngưng Băng</color>, để lại 1 ""Gai Băng""."
-lang_multi_text.db,MultiText,Skill_1000507_SkillDescribe,"<size=40><color=Title>重击·爆裂</color></size>
-按住<color=Highlight>普攻</color>时，指针将会移动，若指针在【冰痕】区域时松开<color=Highlight>普攻</color>，散华将施放重击<color=Highlight>爆裂</color>攻击目标，造成<color=Ice>冷凝伤害</color>，此次伤害为重击伤害。
-<size=10> </size>
-<size=40><color=Title>冰绽</color></size>
-重击<color=Highlight>爆裂</color>会引爆攻击范围内的【冰棘】、【冰棱】和【冰川】，造成<color=Ice>冷凝伤害</color>，<color=Highlight>冰绽</color>造成的伤害为共鸣技能伤害。
-<size=10> </size>
-<size=40><color=Title>冰痕区域扩大规则</color></size>
-每拥有{0}层【透视】都会扩大【冰痕】区域，最多可拥有{1}层【透视】。
-施放<color=Highlight>第5段普攻</color>时，获得{2}层【透视】。
-施放变奏技能<color=Highlight>凛刺</color>时，获得{3}层【透视】。
-施放共鸣技能<color=Highlight>朔雪永冻</color>时，获得{4}层【透视】。
-施放共鸣解放<color=Highlight>焦瞑冻土</color>时，获得{5}层【透视】。
-施放重击<color=Highlight>爆裂</color>时，移除所有【透视】。","<size=40><color=Title>Heavy Attack: Detonate</color></size>
-When holding <color=Highlight>Basic Attack</color>, a cursor moves back and forth on the Forte Gauge. Release <color=Highlight>Basic Attack</color> while cursor falls in the ""Frostbite"" area, to perform Heavy Attack <color=Highlight>Detonate</color>, dealing <color=Ice>Glacio DMG</color> considered as Heavy Attack DMG.
-<size=10> </size>
-<size=40><color=Title>Ice Burst</color></size>
-Sanhua's Heavy Attack <color=Highlight>Detonate</color> detonates all ""Ice Thorns"", ""Ice Prisms"" and ""Glaciers"" within her attack range, dealing <color=Ice>Glacio DMG</color>. <color=Highlight>Ice Burst</color> deals Resonance Skill DMG.
-<size=10> </size>
-<size=40><color=Title>Frostbite Area</color></size>
-The ""Frostbite"" area expands with every {0} stack of ""Clarity"". ""Clarity"" stacks up to {1} times.
-Sanhua obtains {2} stack of ""Clarity"" upon performing <color=Highlight>Basic Attack 5</color>.
-Sanhua obtains {3} stack of ""Clarity"" upon casting Intro Skill <color=Highlight>Freezing Thorns</color>.
-Sanhua obtains {4} stack of ""Clarity"" upon casting Resonance Skill <color=Highlight>Eternal Frost</color>.
-Sanhua obtains {5} stack(s) of ""Clarity"" upon casting Resonance Liberation <color=Highlight>Glacial Gaze</color>.
-Upon casting Heavy Attack <color=Highlight>Detonate</color>, all ""Clarity"" is removed.","<size=40><color=Title>Đánh Mạnh: Bạo Liệt</color></size>
-Khi nhấn giữ <color=Highlight>Đánh Thường</color>, kim chỉ sẽ di chuyển, nếu thả <color=Highlight>Đánh Thường</color> khi kim chỉ nằm trong khu vực ""Vết Băng"", Sanhua sẽ thi triển Đánh Mạnh <color=Highlight>Bạo Liệt</color> tấn công mục tiêu, gây <color=Ice>Sát Thương Ngưng Băng</color>, sát thương lần này được tính là sát thương Đánh Mạnh.
-<size=10> </size>
-<size=40><color=Title>Băng Trán</color></size>
-Đánh Mạnh <color=Highlight>Bạo Liệt</color> sẽ kích nổ ""Gai Băng"", ""Lăng Băng"" và ""Sông Băng"" trong phạm vi tấn công, gây <color=Ice>Sát Thương Ngưng Băng</color>, sát thương do <color=Highlight>Băng Trán</color> gây ra được tính là sát thương Kỹ Năng Cộng Hưởng.
-<size=10> </size>
-<size=40><color=Title>Quy Tắc Mở Rộng Khu Vực Vết Băng</color></size>
-Mỗi khi sở hữu {0} tầng ""Thấu Thị"" đều sẽ mở rộng khu vực ""Vết Băng"", có thể sở hữu tối đa {1} tầng ""Thấu Thị"".
-Khi thi triển <color=Highlight>Đánh Thường Đoạn 5</color>, nhận {2} tầng ""Thấu Thị"".
-Khi thi triển Kỹ Năng Hiệp Tấu <color=Highlight>Lẫm Thích</color>, nhận {3} tầng ""Thấu Thị"".
-Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Sóc Tuyết Vĩnh Đông</color>, nhận {4} tầng ""Thấu Thị"".
-Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Tiêu Minh Đống Thổ</color>, nhận {5} tầng ""Thấu Thị"".
-Khi thi triển Đánh Mạnh <color=Highlight>Bạo Liệt</color>, xóa bỏ tất cả ""Thấu Thị""."
-lang_multi_text.db,MultiText,Skill_1000507_SkillName,无明心音,Clarity of Mind,Vô Minh Tâm Âm
-lang_multi_text.db,MultiText,Skill_1000507_SkillResume,"<size=40><color=Title>重击·爆裂</color></size>
-按住<color=Highlight>普攻</color>时，指针将会移动，若指针在【冰痕】区域时松开<color=Highlight>普攻</color>，散华将施放重击<color=Highlight>爆裂</color>，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>冰绽</color></size>
-重击<color=Highlight>爆裂</color>会引爆攻击范围内的【冰棘】、【冰棱】和【冰川】，造成<color=Ice>冷凝伤害</color>。
-<size=10></size>
-<size=40><color=Title>冰痕区域扩大规则</color></size>
-每拥有{0}层【透视】都会扩大【冰痕】区域，最多可拥有{1}层【透视】。
-【透视】获取途径：<color=Highlight>第5段普攻</color>、<color=Highlight>变奏技能</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>共鸣解放</color>。
-施放重击<color=Highlight>爆裂</color>时，移除所有【透视】。","<size=40><color=Title>Heavy Attack: Detonate</color></size>
-When holding <color=Highlight>Basic Attack</color>, a cursor moves back and forth on the Forte Gauge. Release <color=Highlight>Basic Attack</color> when the cursor is in the Frostbite area to perform Heavy Attack <color=Highlight>Detonate</color>, dealing <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Ice Burst</color></size>
-Sanhua's Heavy Attack <color=Highlight>Detonate</color> detonates all Ice Thorns, Ice Prisms, and Glaciers within her attack range, dealing <color=Ice>Glacio DMG</color>.
-<size=10></size>
-<size=40><color=Title>Frostbite Area</color></size>
-The Frostbite area expands with every {0} stack of Clarity, up to {1} stacks.
-Sanhua gains Clarity through <color=Highlight>Basic Attack 5</color>, <color=Highlight>Intro Skill</color>, <color=Highlight>Resonance Skill</color>, and <color=Highlight>Resonance Liberation</color>.
-All Clarity is removed upon casting <color=Highlight>Heavy Attack: Detonate</color>.","<size=40><color=Title>Đánh Mạnh: Bạo Liệt</color></size>
-Khi nhấn giữ <color=Highlight>Đánh Thường</color>, kim chỉ sẽ di chuyển, nếu thả <color=Highlight>Đánh Thường</color> khi kim chỉ nằm trong khu vực ""Vết Băng"", Sanhua sẽ thi triển Đánh Mạnh <color=Highlight>Bạo Liệt</color>, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Băng Trán</color></size>
-Đánh Mạnh <color=Highlight>Bạo Liệt</color> sẽ kích nổ ""Gai Băng"", ""Lăng Băng"" và ""Sông Băng"" trong phạm vi tấn công, gây <color=Ice>Sát Thương Ngưng Băng</color>.
-<size=10></size>
-<size=40><color=Title>Quy Tắc Mở Rộng Khu Vực Vết Băng</color></size>
-Mỗi khi sở hữu {0} tầng ""Thấu Thị"" đều sẽ mở rộng khu vực ""Vết Băng"", có thể sở hữu tối đa {1} tầng ""Thấu Thị"".
-Cách nhận ""Thấu Thị"": <color=Highlight>Đánh Thường Đoạn 5</color>, <color=Highlight>Kỹ Năng Hiệp Tấu</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color>, <color=Highlight>Giải Phóng Cộng Hưởng</color>.
-Khi thi triển Đánh Mạnh <color=Highlight>Bạo Liệt</color>, xóa bỏ tất cả ""Thấu Thị""."
-lang_multi_text.db,MultiText,Skill_1000508_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc
-lang_multi_text.db,MultiText,Skill_1000509_MultiSkillDescribe_1.1,附近队伍中激活散华延奏技能的角色普攻伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The Resonator on a nearby team that activates Sanhua's Outro Skill has their Basic Attack DMG Amplified by {0} for {1}s or until they are switched out.,"Nhân vật trong đội gần đó kích hoạt Kỹ Năng Biến Tấu của Sanhua được tăng thêm {0} sát thương Đánh Thường, hiệu quả duy trì {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả này sẽ kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1000509_SkillDescribe,下一位登场角色普攻伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Basic Attack DMG Amplified by {0} for {1}s or until they are switched out.,"Nhân vật tiếp theo ra trận được tăng thêm {0} sát thương Đánh Thường, hiệu quả duy trì {1} giây, nếu chuyển sang nhân vật khác thì hiệu quả này sẽ kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1000509_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,,"Có lỗi xảy ra, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,Skill_1000509_SkillName,凛絜,Silversnow,Lẫm Khiết
-lang_multi_text.db,MultiText,Skill_1000509_SkillResume,下一位登场角色普攻伤害加深{0}，若切换至其他角色则该效果提前结束。,The incoming Resonator has their Basic Attack DMG Amplified by {0}. Switching Resonators ends the effect.,"Nhân vật tiếp theo ra trận được tăng thêm {0} sát thương Đánh Thường, nếu chuyển sang nhân vật khác thì hiệu quả này sẽ kết thúc sớm."
-lang_multi_text.db,MultiText,Skill_1000601_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-进行最多4段的连续攻击，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击·鸣奏</color></size>
-<color=Highlight>第3段普攻</color>或<color=Highlight>重击</color>后，恰当时机短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣奏</color>攻击目标，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击·余音</color></size>
-重击<color=Highlight>鸣奏</color>或<color=Highlight>闪避反击</color>命中目标后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>余音</color>，攻击目标，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力进行空中下落攻击，造成<color=Light>衍射伤害</color>。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Rover performs up to 4 consecutive attacks, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Rover consumes STA to attack the target, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack: Resonance</color></size>
-After <color=Highlight>Basic Attack 3</color> or <color=Highlight>Heavy Attack</color>, press the <color=Highlight>Basic Attack</color> button at the right time to perform Heavy Attack <color=Highlight>Resonance</color>, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack: Aftertune</color></size>
-After Heavy Attack <color=Highlight>Resonance</color> or <color=Highlight>Dodge Counter</color> hits a target, press the <color=Highlight>Basic Attack</color> button to perform Heavy Attack <color=Highlight>Aftertune</color>, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Rover consumes STA to perform a Mid-Air Plunging Attack, dealing <color=Light>Spectro DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Light>Spectro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực tấn công mục tiêu, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh: Minh Tấu</color></size>
-Sau <color=Highlight>Đánh Thường Đoạn 3</color> hoặc <color=Highlight>Đánh Mạnh</color>, nhấn nhẹ <color=Highlight>Đánh Thường</color> vào thời điểm thích hợp sẽ thi triển Đánh Mạnh <color=Highlight>Minh Tấu</color> tấn công mục tiêu, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh: Dư Âm</color></size>
-Sau khi Đánh Mạnh <color=Highlight>Minh Tấu</color> hoặc <color=Highlight>Phản Kích Né Tránh</color> trúng mục tiêu, nhấn nhẹ <color=Highlight>Đánh Thường</color> sẽ thi triển Đánh Mạnh <color=Highlight>Dư Âm</color>, tấn công mục tiêu, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực thực hiện tấn công lao xuống từ trên không, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10> </size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Sau khi <color=Highlight>Né Tránh</color> thành công, trong một khoảng thời gian nhất định nhấn nhẹ <color=Highlight>Đánh Thường</color> sẽ tấn công mục tiêu, gây <color=Light>Sát Thương Quang Phổ</color>."
-lang_multi_text.db,MultiText,Skill_1000601_SkillName,化声为形,Vibration Manifestation,Hóa Thanh Vi Hình
-lang_multi_text.db,MultiText,Skill_1000601_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击·鸣奏</color></size>
-<color=Highlight>第3段普攻</color>或<color=Highlight>重击</color>后，恰当时机短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣奏</color>，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击·余音</color></size>
-重击<color=Highlight>鸣奏</color>或<color=Highlight>闪避反击</color>命中目标后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>余音</color>，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to deal <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack: Resonance</color></size>
-After <color=Highlight>Basic Attack 3</color> or <color=Highlight>Heavy Attack</color>, use <color=Highlight>Basic Attack</color> at the right time to perform Heavy Attack <color=Highlight>Resonance</color>, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack: Aftertune</color></size>
-After Heavy Attack <color=Highlight>Resonance</color> or <color=Highlight>Dodge Counter</color> hits a target, use <color=Highlight>Basic Attack</color> to perform Heavy Attack <color=Highlight>Aftertune</color>, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Light>Spectro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh: Minh Tấu</color></size>
-Sau <color=Highlight>Đánh Thường Đoạn 3</color> hoặc <color=Highlight>Đánh Mạnh</color>, nhấn nhẹ <color=Highlight>Đánh Thường</color> vào thời điểm thích hợp sẽ thi triển Đánh Mạnh <color=Highlight>Minh Tấu</color>, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh: Dư Âm</color></size>
-Sau khi Đánh Mạnh <color=Highlight>Minh Tấu</color> hoặc <color=Highlight>Phản Kích Né Tránh</color> trúng mục tiêu, nhấn nhẹ <color=Highlight>Đánh Thường</color> sẽ thi triển Đánh Mạnh <color=Highlight>Dư Âm</color>, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao thể lực, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Phản Kích Né Tránh</color></size>
-Gây <color=Light>Sát Thương Quang Phổ</color>."
-lang_multi_text.db,MultiText,Skill_1000602_SkillDescribe,向前方发动攻击，造成<color=Light>衍射伤害</color>。,"Rover launches an attack forward, dealing <color=Light>Spectro DMG</color>.","Phát động tấn công về phía trước, gây <color=Light>Sát Thương Quang Phổ</color>."
-lang_multi_text.db,MultiText,Skill_1000602_SkillName,浮声千斩,Resonating Slashes,Phù Thanh Thiên Trảm
-lang_multi_text.db,MultiText,Skill_1000602_SkillResume,向前方发动攻击，造成<color=Light>衍射伤害</color>。,"Launch an attack forward, dealing <color=Light>Spectro DMG</color>.","Phát động tấn công về phía trước, gây <color=Light>Sát Thương Quang Phổ</color>."
-lang_multi_text.db,MultiText,Skill_1000603_SkillDescribe,聚集衍射能量攻击目标区域，短暂延迟后，目标区域将发生爆炸，造成<color=Light>衍射伤害</color>。,"Rover converges Spectro energy to assail the target area, detonating it after a short delay and dealing <color=Light>Spectro DMG</color>.","Tụ tập năng lượng quang phổ tấn công khu vực mục tiêu, sau một khoảng trễ ngắn, khu vực mục tiêu sẽ phát nổ, gây <color=Light>Sát Thương Quang Phổ</color>."
-lang_multi_text.db,MultiText,Skill_1000603_SkillName,回响奏鸣,Echoing Orchestra,Hồi Hưởng Tấu Minh
-lang_multi_text.db,MultiText,Skill_1000603_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,Gây <color=Light>Sát Thương Quang Phổ</color>.
-lang_multi_text.db,MultiText,Skill_1000604_SkillDescribe,普攻<color=Highlight>浮声千斩·回声</color>的伤害提升{0}。,DMG dealt by Rover's Basic Attack <color=Highlight>Resonating Echoes</color> is increased by {0}.,Sát thương Đánh Thường <color=Highlight>Phù Thanh Thiên Trảm - Hồi Thanh</color> tăng {0}.
-lang_multi_text.db,MultiText,Skill_1000604_SkillName,屏息,Reticence,Bình Tức
-lang_multi_text.db,MultiText,Skill_1000604_SkillResume,普攻<color=Highlight>浮声千斩·回声</color>的伤害提升{0}。,DMG dealt by Rover's Basic Attack <color=Highlight>Resonating Echoes</color> is increased by {0}.,Sát thương Đánh Thường <color=Highlight>Phù Thanh Thiên Trảm - Hồi Thanh</color> tăng {0}.
-lang_multi_text.db,MultiText,Skill_1000605_SkillDescribe,施放重击<color=Highlight>鸣奏</color>后，漂泊者的攻击提升{0}，持续{1}秒。,Rover gains {0} ATK increase for {1}s upon casting Heavy Attack <color=Highlight>Resonance</color>.,"Sau khi thi triển Đánh Mạnh <color=Highlight>Minh Tấu</color>, tấn công của Lữ Khách tăng {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1000605_SkillName,静聆,Silent Listener,Tĩnh Linh
-lang_multi_text.db,MultiText,Skill_1000605_SkillResume,施放重击<color=Highlight>鸣奏</color>后，漂泊者的攻击提升{0}，持续{1}秒。,Rover's ATK is increased by {0} for {1}s upon casting Heavy Attack <color=Highlight>Resonance</color>.,"Sau khi thi triển Đánh Mạnh <color=Highlight>Minh Tấu</color>, tấn công của Lữ Khách tăng {0}, duy trì {1} giây."
-lang_multi_text.db,MultiText,Skill_1000606_SkillDescribe,攻击目标，造成<color=Light>衍射伤害</color>。,"Rover attacks the target, dealing <color=Light>Spectro DMG</color>.","Tấn công mục tiêu, gây <color=Light>Sát Thương Quang Phổ</color>."
-lang_multi_text.db,MultiText,Skill_1000606_SkillName,震声,Waveshock,Chấn Thanh
-lang_multi_text.db,MultiText,Skill_1000606_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,Gây <color=Light>Sát Thương Quang Phổ</color>.
-lang_multi_text.db,MultiText,Skill_1000607_SkillDescribe,"<size=40><color=Title>共鸣技能·浮声千斩·旋音</color></size>
-施放<color=Highlight>共鸣技能</color>时，若【尘微之声】超过{0}点，则消耗{1}点【尘微之声】，施放<color=Highlight>浮声千斩·旋音</color>，向前方发动回旋攻击，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害。
-<size=10> </size>
-<size=40><color=Title>普攻·浮声千斩·回声</color></size>
-共鸣技能<color=Highlight>浮声千斩·旋音</color>结束后，短按<color=Highlight>普攻</color>，可施放<color=Highlight>浮声千斩·回声</color>。
-向前发动攻击，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害。
-<size=10> </size>
-<size=40><color=Title>尘微之声获取规则</color></size>
-【尘微之声】上限{2}点。
-常态攻击<color=Highlight>化声为形</color>命中目标时，回复【尘微之声】。
-重击<color=Highlight>余音</color>命中目标时，回复【尘微之声】。
-施放变奏技能<color=Highlight>震声</color>时，回复【尘微之声】。","<size=40><color=Title>Resonance Skill: Resonating Spin</color></size>
-If ""Diminutive Sound"" exceeds {0} when <color=Highlight>Resonance Skill</color> is used, Rover consumes {1} ""Diminutive Sound"" to cast <color=Highlight>Resonating Spin</color>, dealing <color=Light>Spectro DMG</color>, considered as Resonance Skill DMG.
-<size=10> </size>
-<size=40><color=Title>Basic Attack: Resonating Echoes</color></size>
-After Resonance Skill <color=Highlight>Resonating Spin</color> ends, Rover performs <color=Highlight>Resonating Echoes</color> upon using <color=Highlight>Basic Attack</color> button.
-Launch attacks forward, dealing <color=Light>Spectro DMG</color>, considered as Resonance Skill DMG.
-<size=10> </size>
-<size=40><color=Title>Diminutive Sound</color></size>
-Rover can hold up to {2} ""Diminutive Sounds"".
-Rover obtains ""Diminutive Sound"" for every Normal Attack <color=Highlight>Vibration Manifestation</color> on hit.
-Rover obtains ""Diminutive Sound"" for every Heavy Attack <color=Highlight> Aftertune</color> on hit.
-Rover obtains ""Diminutive Sound"" upon casting Intro Skill <color=Highlight>Waveshock</color>.","<size=40><color=Title>Kỹ Năng Cộng Hưởng: Phù Thanh Thiên Trảm - Toàn Âm</color></size>
-Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color>, nếu ""Trần Vi Chi Thanh"" vượt quá {0} điểm, sẽ tiêu hao {1} điểm ""Trần Vi Chi Thanh"", thi triển <color=Highlight>Phù Thanh Thiên Trảm - Toàn Âm</color>, phát động tấn công xoay tròn về phía trước, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương lần này được tính là sát thương Kỹ Năng Cộng Hưởng.
-<size=10> </size>
-<size=40><color=Title>Đánh Thường: Phù Thanh Thiên Trảm - Hồi Thanh</color></size>
-Sau khi Kỹ Năng Cộng Hưởng <color=Highlight>Phù Thanh Thiên Trảm - Toàn Âm</color> kết thúc, nhấn nhẹ <color=Highlight>Đánh Thường</color>, có thể thi triển <color=Highlight>Phù Thanh Thiên Trảm - Hồi Thanh</color>.
-Phát động tấn công về phía trước, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương lần này được tính là sát thương Kỹ Năng Cộng Hưởng.
-<size=10> </size>
-<size=40><color=Title>Quy Tắc Nhận Trần Vi Chi Thanh</color></size>
-""Trần Vi Chi Thanh"" tối đa {2} điểm.
-Khi Đánh Thường <color=Highlight>Hóa Thanh Vi Hình</color> trúng mục tiêu, hồi phục ""Trần Vi Chi Thanh"".
-Khi Đánh Mạnh <color=Highlight>Dư Âm</color> trúng mục tiêu, hồi phục ""Trần Vi Chi Thanh"".
-Khi thi triển Kỹ Năng Hiệp Tấu <color=Highlight>Chấn Thanh</color>, hồi phục ""Trần Vi Chi Thanh""."
-lang_multi_text.db,MultiText,Skill_1000607_SkillName,万物微尘,World in a Grain of Sand,Vạn Vật Vi Trần
-lang_multi_text.db,MultiText,Skill_1000607_SkillResume,"<size=40><color=Title>共鸣技能·浮声千斩·旋音</color></size>
-施放<color=Highlight>共鸣技能</color>时，若【尘微之声】超过{0}点，则消耗{1}点【尘微之声】，施放<color=Highlight>浮声千斩·旋音</color>，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>普攻·浮声千斩·回声</color></size>
-共鸣技能<color=Highlight>浮声千斩·旋音</color>结束后，短按<color=Highlight>普攻</color>，可施放<color=Highlight>浮声千斩·回声</color>。
-向前发动攻击，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>尘微之声获取规则</color></size>
-【尘微之声】上限{2}点。
-【尘微之声】的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>。","<size=40><color=Title>Resonance Skill: Resonating Spin</color></size>
-If Diminutive Sound exceeds {0} when <color=Highlight>Resonance Skill</color> is cast, Rover consumes {1} Diminutive Sound to cast <color=Highlight>Resonating Spin</color>, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Basic Attack: Resonating Echoes</color></size>
-Right after Resonance Skill <color=Highlight>Resonating Spin</color> ends, using <color=Highlight>Basic Attack</color> casts <color=Highlight>Resonating Echoes</color> that launches attacks forward, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Diminutive Sound</color></size>
-Rover can hold up to {2} Diminutive Sound.
-Rover gains Diminutive Sound through <color=Highlight>Normal Attack</color> and <color=Highlight>Intro Skill</color>.","<size=40><color=Title>Kỹ Năng Cộng Hưởng: Phù Thanh Thiên Trảm - Toàn Âm</color></size>
-Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color>, nếu ""Trần Vi Chi Thanh"" vượt quá {0} điểm, sẽ tiêu hao {1} điểm ""Trần Vi Chi Thanh"", thi triển <color=Highlight>Phù Thanh Thiên Trảm - Toàn Âm</color>, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Thường: Phù Thanh Thiên Trảm - Hồi Thanh</color></size>
-Sau khi Kỹ Năng Cộng Hưởng <color=Highlight>Phù Thanh Thiên Trảm - Toàn Âm</color> kết thúc, nhấn nhẹ <color=Highlight>Đánh Thường</color>, có thể thi triển <color=Highlight>Phù Thanh Thiên Trảm - Hồi Thanh</color>.
-Phát động tấn công về phía trước, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Quy Tắc Nhận Trần Vi Chi Thanh</color></size>
-""Trần Vi Chi Thanh"" tối đa {2} điểm.
-Cách nhận ""Trần Vi Chi Thanh"": <color=Highlight>Đánh Thường</color>, <color=Highlight>Kỹ Năng Hiệp Tấu</color>."
-lang_multi_text.db,MultiText,Skill_1000608_SkillName,步测索拉,Solaris Voyager,Bộ Trắc Solaris
-lang_multi_text.db,MultiText,Skill_1000608_SkillResume,test/游泳时耐力消耗降低20%,Stamina consumption for swimming is reduced by 20%,test/Khi bơi tiêu hao thể lực giảm 20%
-lang_multi_text.db,MultiText,Skill_1000609_MultiSkillDescribe_1.1,以附近队伍中激活漂泊者延奏技能的角色为中心，生成停滞区域，持续{0}秒。,Generate an area of stasis centered around the Resonator that activates Rover's Outro Skill for {0}s.,"Lấy nhân vật trong đội gần đó kích hoạt Kỹ Năng Biến Tấu của Lữ Khách làm trung tâm, tạo ra khu vực ngưng đọng, duy trì {0} giây."
-lang_multi_text.db,MultiText,Skill_1000609_SkillDescribe,以下一位登场角色为中心，生成停滞区域，持续{0}秒。,"Generate an area of stasis centered around the incoming Resonator, lasting for {0}s.","Lấy nhân vật tiếp theo ra trận làm trung tâm, tạo ra khu vực ngưng đọng, duy trì {0} giây."
-lang_multi_text.db,MultiText,Skill_1000609_SkillDescribe_branch_1.1,存在异常，如有疑问请联系官方客服,An error occurred. Please contact our Customer Service for assistance,"Có lỗi xảy ra, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,Skill_1000609_SkillName,瞬刻,Instant,Chớp Mắt
-lang_multi_text.db,MultiText,Skill_1000609_SkillResume,生成停滞区域。,Generate an area of stasis.,Tạo ra khu vực ngưng đọng.
-lang_multi_text.db,MultiText,Skill_1000613_SkillDescribe,聚集衍射能量攻击目标区域，短暂延迟后，目标区域将发生爆炸，造成<color=Light>衍射伤害</color>，附加{0}层<color=Highlight>【<te href=850008>光噪效应</te>】</color>。,"Channel Spectro energy to attack the target area, causing a blast after a short delay, dealing <color=Light>Spectro DMG</color> and applying {0} stack(s) of <color=Highlight><te href=850008>Spectro Frazzle</te></color>.","Tụ tập năng lượng quang phổ tấn công khu vực mục tiêu, sau một khoảng trễ ngắn, khu vực mục tiêu sẽ phát nổ, gây <color=Light>Sát Thương Quang Phổ</color>, kèm theo {0} tầng <color=Highlight>""<te href=850008>Hiệu Ứng Quang Nhiễu</te>""</color>."
-lang_multi_text.db,MultiText,Skill_1000613_SkillResume,造成<color=Light>衍射伤害</color>。附加<color=Highlight>【光噪效应】</color>。,Deal <color=Light>Spectro DMG</color>. Apply <color=Highlight>Spectro Frazzle</color>.,"Gây <color=Light>Sát Thương Quang Phổ</color>. Kèm theo <color=Highlight>""Hiệu Ứng Quang Nhiễu""</color>."
-lang_multi_text.db,MultiText,Skill_1000617_SkillDescribe,"<size=40><color=Title>共鸣技能·浮声千斩·旋音</color></size>
-施放<color=Highlight>共鸣技能</color>时，若【尘微之声】超过{0}点，则消耗{1}点【尘微之声】，施放<color=Highlight>浮声千斩·旋音</color>，向前方发动回旋攻击，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害，并附加{3}层<color=Highlight>【<te href=850008>光噪效应</te>】</color>和<color=Highlight>【微光】</color>效果。
-<size=10> </size>
-<size=40><color=Title>【微光】</color></size>
-携带<color=Highlight>【微光】</color>的目标，身上<color=Highlight>【<te href=850008>光噪效应</te>】</color>的层数，不会因<color=Highlight>【<te href=850008>光噪效应</te>】</color>原本的层数减少效果而减少。
-<size=10> </size>
-<size=40><color=Title>普攻·浮声千斩·回声</color></size>
-共鸣技能<color=Highlight>浮声千斩·旋音</color>结束后，短按<color=Highlight>普攻</color>，可施放<color=Highlight>浮声千斩·回声</color>。
-向前发动攻击，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害。
-<size=10> </size>
-<size=40><color=Title>尘微之声获取规则</color></size>
-【尘微之声】上限{2}点。
-常态攻击<color=Highlight>化声为形</color>命中目标时，回复【尘微之声】。
-重击<color=Highlight>余音</color>命中目标时，回复【尘微之声】。
-施放变奏技能<color=Highlight>震声</color>时，回复【尘微之声】。","<size=40><color=Title>Resonance Skill: Resonating Spin</color></size>
-If ""Diminutive Sound"" exceeds {0} when <color=Highlight>Resonance Skill</color> is used, consume {1} ""Diminutive Sound"" to cast <color=Highlight>Resonating Spin</color>, dealing <color=Light>Spectro DMG</color>. This DMG is considered as Resonance Skill DMG and applies {3} stack(s) of <color=Highlight><te href=850008>Spectro Frazzle</te></color> along with <color=Highlight>Shimmer</color>.
-<size=10> </size>
-<size=40><color=Title>Shimmer</color></size>
-<color=Highlight>Shimmer</color> prevents <color=Highlight><te href=850008>Spectro Frazzle</te></color> stacks from reducing over time.
-<size=10> </size>
-<size=40><color=Title>Basic Attack: Resonating Echoes</color></size>
-After Resonance Skill <color=Highlight>Resonating Spin</color> ends, follow up with <color=Highlight>Basic Attack</color> to cast <color=Highlight>Resonating Echoes</color>.
-Launch forward to attack the enemies, dealing <color=Light>Spectro DMG</color>, considered as Resonance Skill DMG.
-<size=10> </size>
-<size=40><color=Title>Diminutive Sound</color></size>
-Rover can hold up to {2} ""Diminutive Sounds"".
-Rover obtains ""Diminutive Sound"" for every Normal Attack <color=Highlight>Vibration Manifestation</color> on hit. 
-Rover obtains ""Diminutive Sound"" for every Heavy Attack <color=Highlight> Aftertune</color> on hit.
-Rover obtains ""Diminutive Sound"" upon casting Intro Skill <color=Highlight>Waveshock</color>.","<size=40><color=Title>Kỹ Năng Cộng Hưởng: Thiên Chém.Xoáy</color></size>
-Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color>, nếu [Trần Vi Chi Thanh] vượt quá {0} điểm, sẽ tiêu hao {1} điểm [Trần Vi Chi Thanh] để thi triển <color=Highlight>Thiên Chém.Xoáy</color>, tung đòn tấn công xoay tròn về phía trước, gây <color=Light>Sát Thương Quang Phổ</color>. Sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng, đồng thời gắn thêm {3} tầng hiệu ứng <color=Highlight>[<te href=850008>Quang Táo</te>]</color> và hiệu ứng <color=Highlight>[Vi Quang]</color>.
-<size=10> </size>
-<size=40><color=Title>[Vi Quang]</color></size>
-Mục tiêu mang hiệu ứng <color=Highlight>[Vi Quang]</color> sẽ không bị giảm số tầng <color=Highlight>[<te href=850008>Quang Táo</te>]</color> trên người do hiệu ứng giảm tầng vốn có của <color=Highlight>[<te href=850008>Quang Táo</te>]</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Thường: Thiên Chém.Vọng</color></size>
-Sau khi Kỹ Năng Cộng Hưởng <color=Highlight>Thiên Chém.Xoáy</color> kết thúc, nhấn nhanh <color=Highlight>Đánh Thường</color> để thi triển <color=Highlight>Thiên Chém.Vọng</color>.
-Tấn công về phía trước, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
-<size=10> </size>
-<size=40><color=Title>Quy tắc nhận Trần Vi Chi Thanh</color></size>
-Giới hạn [Trần Vi Chi Thanh] là {2} điểm.
-Khi Đánh Thường <color=Highlight>Thanh Hóa Hình</color> trúng mục tiêu, hồi [Trần Vi Chi Thanh].
-Khi Đánh Mạnh <color=Highlight>Dư Âm</color> trúng mục tiêu, hồi [Trần Vi Chi Thanh].
-Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Chấn Thanh</color>, hồi [Trần Vi Chi Thanh]."
-lang_multi_text.db,MultiText,Skill_1000617_SkillResume,"<size=40><color=Title>共鸣技能·浮声千斩·旋音</color></size>
-施放<color=Highlight>共鸣技能</color>时，若【尘微之声】超过{0}点，则消耗{1}点【尘微之声】，施放<color=Highlight>浮声千斩·旋音</color>，造成<color=Light>衍射伤害</color>，并附加<color=Highlight>【光噪效应】</color>和<color=Highlight>【微光】</color>效果。
-<size=10></size>
-<size=40><color=Title>普攻·浮声千斩·回声</color></size>
-共鸣技能<color=Highlight>浮声千斩·旋音</color>结束后，短按<color=Highlight>普攻</color>，可施放<color=Highlight>浮声千斩·回声</color>。
-向前发动攻击，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>尘微之声获取规则</color></size>
-【尘微之声】上限{2}点。
-【尘微之声】的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>。","<size=40><color=Title>Resonance Skill: Resonating Spin</color></size>
-If Diminutive Sound exceeds {0} when <color=Highlight>Resonance Skill</color> is cast, Rover consumes {1} Diminutive Sound to cast <color=Highlight>Resonating Spin</color>, dealing <color=Light>Spectro DMG</color> and applying <color=Highlight>Spectro Frazzle</color> and <color=Highlight>Shimmer</color>.
-<size=10></size>
-<size=40><color=Title>Basic Attack: Resonating Echoes</color></size> Right after Resonance Skill <color=Highlight>Resonating Spin</color> ends, using <color=Highlight>Basic Attack</color> casts <color=Highlight>Resonating Echoes</color> that launches attacks forward, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Diminutive Sound</color></size>
-Rover can hold up to {2} Diminutive Sound.
-Rover gains Diminutive Sound through <color=Highlight>Normal Attack</color> and <color=Highlight>Intro Skill</color>.","<size=40><color=Title>Kỹ Năng Cộng Hưởng: Thiên Chém.Xoáy</color></size>
-Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng</color>, nếu [Trần Vi Chi Thanh] vượt quá {0} điểm, sẽ tiêu hao {1} điểm [Trần Vi Chi Thanh] để thi triển <color=Highlight>Thiên Chém.Xoáy</color>, gây <color=Light>Sát Thương Quang Phổ</color>, đồng thời gắn thêm hiệu ứng <color=Highlight>[Quang Táo]</color> và <color=Highlight>[Vi Quang]</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Thường: Thiên Chém.Vọng</color></size>
-Sau khi Kỹ Năng Cộng Hưởng <color=Highlight>Thiên Chém.Xoáy</color> kết thúc, nhấn nhanh <color=Highlight>Đánh Thường</color> để thi triển <color=Highlight>Thiên Chém.Vọng</color>.
-Tấn công về phía trước, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Quy tắc nhận Trần Vi Chi Thanh</color></size>
-Giới hạn [Trần Vi Chi Thanh] là {2} điểm.
-Cách nhận [Trần Vi Chi Thanh]: <color=Highlight>Đánh Thường</color>, <color=Highlight>Kỹ Năng Biến Tấu</color>."
-lang_multi_text.db,MultiText,Skill_1000701_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-进行最多4段的连续攻击，造成<color=Fire>热熔伤害</color>。
-<size=10> </size>
-<size=40><color=Title>普攻·咩咩</color></size>
-在<color=Highlight>普攻第4段</color>攻击后一定时间内短按普攻，将会攻击目标，造成<color=Fire>热熔伤害</color>。
-<size=10> </size>
-<size=40><color=Title>重击</color></size>
-消耗耐力攻击目标，造成<color=Fire>热熔伤害</color>。
-<size=10> </size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力进行空中下落攻击，造成<color=Fire>热熔伤害</color>。
-<size=10> </size>
-<size=40><color=Title>闪避反击</color></size>
-成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Encore performs up to 4 consecutive attacks, dealing <color=Fire>Fusion DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Basic Attack: Wooly Strike</color></size>
-After <color=Highlight>Basic Attack 4</color>, press the Normal Attack button to attack the target, dealing <color=Fire>Fusion DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Heavy Attack</color></size>
-Encore consumes STA to attack the target, dealing <color=Fire>Fusion DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Encore consumes STA to perform a Mid-Air Plunging Attack, dealing <color=Fire>Fusion DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Dodge Counter</color></size>
-Use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Fire>Fusion DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Thường: Be Be</color></size>
-Trong một khoảng thời gian nhất định sau <color=Highlight>Đánh Thường đoạn 4</color>, nhấn nhanh Đánh Thường sẽ tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10> </size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao Thể Lực tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10> </size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao Thể Lực thực hiện tấn công khi đang rơi, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10> </size>
-<size=40><color=Title>Phản Công Né Tránh</color></size>
-Trong một khoảng thời gian nhất định sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>."
-lang_multi_text.db,MultiText,Skill_1000701_SkillName,羊咩出击,Wooly Attack,Cừu Con Xuất Kích
-lang_multi_text.db,MultiText,Skill_1000701_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Fire>热熔伤害</color>。
-<size=10></size>
-<size=40><color=Title>普攻·咩咩</color></size>
-在<color=Highlight>普攻第4段</color>攻击后一定时间内短按普攻，将会攻击目标，造成<color=Fire>热熔伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Fire>热熔伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-消耗耐力，造成<color=Fire>热熔伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-造成<color=Fire>热熔伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Fire>Fusion DMG</color>.
-<size=10></size>
-<size=40><color=Title>Basic Attack: Wooly Strike</color></size>
-After <color=Highlight>Basic Attack 4</color>, use Basic Attack to deal <color=Fire>Fusion DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to deal <color=Fire>Fusion DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Consume STA to deal <color=Fire>Fusion DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-Deal <color=Fire>Fusion DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Thường: Be Be</color></size>
-Trong một khoảng thời gian nhất định sau <color=Highlight>Đánh Thường đoạn 4</color>, nhấn nhanh Đánh Thường sẽ tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao Thể Lực, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Tiêu hao Thể Lực, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10></size>
-<size=40><color=Title>Phản Công Né Tránh</color></size>
-Gây <color=Fire>Sát Thương Hỏa Liệt</color>."
-lang_multi_text.db,MultiText,Skill_1000702_SkillDescribe,"<size=40><color=Title>热力羊咩</color></size>
-召唤白咩与黑咩，以高温射线攻击目标，造成<color=Fire>热熔伤害</color>。
-<size=10> </size>
-<size=40><color=Title>热情欢迎式</color></size>
-在施放<color=Highlight>热力羊咩</color>后一定时间内，短按<color=Highlight>共鸣技能</color>，将会施放<color=Highlight>热情欢迎式</color>攻击目标，造成<color=Fire>热熔伤害</color>。","<size=40><color=Title>Flaming Woolies</color></size>
-Encore summons Cloudy and Cosmos to attack with burning rays, dealing <color=Fire>Fusion DMG</color>.
-<size=10> </size>
-<size=40><color=Title>Energetic Welcome</color></size>
-After casting <color=Highlight>Flaming Woolies</color>, use <color=Highlight>Resonance Skill</color> to perform <color=Highlight>Energetic Welcome</color>, dealing <color=Fire>Fusion DMG</color>.","<size=40><color=Title>Cừu Con Nhiệt Huyết</color></size>
-Triệu hồi Bé Mây và Vũ Trụ, tấn công mục tiêu bằng tia nhiệt độ cao, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10> </size>
-<size=40><color=Title>Màn Chào Hỏi Nồng Nhiệt</color></size>
-Trong một khoảng thời gian nhất định sau khi thi triển <color=Highlight>Cừu Con Nhiệt Huyết</color>, nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ thi triển <color=Highlight>Màn Chào Hỏi Nồng Nhiệt</color> tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>."
-lang_multi_text.db,MultiText,Skill_1000702_SkillName,热力羊咩,Flaming Woolies,Cừu Con Nhiệt Huyết
-lang_multi_text.db,MultiText,Skill_1000702_SkillResume,"<size=40><color=Title>热力羊咩</color></size>
-造成<color=Fire>热熔伤害</color>。
-<size=10></size>
-<size=40><color=Title>热情欢迎式</color></size>
-在施放<color=Highlight>热力羊咩</color>后一定时间内，短按<color=Highlight>共鸣技能</color>，将会施放<color=Highlight>热情欢迎式</color>攻击目标，造成<color=Fire>热熔伤害</color>。","<size=40><color=Title>Flaming Woolies</color></size>
-Deal <color=Fire>Fusion DMG</color>.
-<size=10></size>
-<size=40><color=Title>Energetic Welcome</color></size>
-After casting <color=Highlight>Flaming Woolies</color>, use <color=Highlight>Resonance Skill</color> to perform <color=Highlight>Energetic Welcome</color>, dealing <color=Fire>Fusion DMG</color>.","<size=40><color=Title>Cừu Con Nhiệt Huyết</color></size>
-Gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<size=10></size>
-<size=40><color=Title>Màn Chào Hỏi Nồng Nhiệt</color></size>
-Trong một khoảng thời gian nhất định sau khi thi triển <color=Highlight>Cừu Con Nhiệt Huyết</color>, nhấn nhanh <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ thi triển <color=Highlight>Màn Chào Hỏi Nồng Nhiệt</color> tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>."
-lang_multi_text.db,MultiText,Skill_1000703_SkillDescribe,"安可无力压制黑咩，暴走黑咩出现并开始攻击目标。
-<size=10> </size>
-<size=40><color=Title>普攻·黑咩·胡闹</color></size>
-黑咩大暴走期间，<color=Highlight>普攻</color>替换为<color=Highlight>黑咩·胡闹</color>，进行最多4段的连续攻击，造成<color=Fire>热熔伤害</color>，此次伤害为普攻伤害。
-<size=10> </size>
-<size=40><color=Title>黑咩·重击</color></size>
-黑咩大暴走期间，<color=Highlight>重击</color>替换为<color=Highlight>黑咩·重击</color>，消耗耐力攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为重击伤害。
-<size=10> </size>
-<size=40><color=Title>共鸣技能·黑咩·狂热</color></size>
-黑咩大暴走期间，<color=Highlight>热力羊咩</color>转换为<color=Highlight>黑咩·狂热</color>，以失控的火焰攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为共鸣技能伤害。
-<size=10> </size>
-<size=40><color=Title>黑咩·闪避反击</color></size>
-黑咩大暴走期间，成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为普攻伤害。","As Encore loses control, Cosmos breaks free and wreaks havoc on its surroundings.
-<size=10> </size>
-<size=40><color=Title>Basic Attack: Cosmos - Frolicking</color></size>
-During Cosmos Rave, the <color=Highlight>Basic Attack</color> is replaced with <color=Highlight>Cosmos - Frolicking</color>, which performs up to 4 consecutive attacks, dealing <color=Fire>Fusion DMG</color>, considered as Basic Attack DMG.
-<size=10> </size>
-<size=40><color=Title>Cosmos: Heavy Attack</color></size>
-During Cosmos Rave, the <color=Highlight>Heavy Attack</color> is replaced with <color=Highlight>Cosmos - Heavy Attack</color>, consuming STA to attack the target, dealing <color=Fire>Fusion DMG</color>, considered as Heavy Attack DMG.
-<size=10> </size>
-<size=40><color=Title>Resonance Skill: Cosmos - Rampage</color></size>
-During Cosmos Rave, <color=Highlight>Flaming Woolies</color> is replaced with <color=Highlight>Cosmos - Rampage</color>, dealing <color=Fire>Fusion DMG</color>, considered as Resonance Skill DMG.
-<size=10> </size>
-<size=40><color=Title>Cosmos: Dodge Counter</color></size>
-During Cosmos Rave, use <color=Highlight>Basic Attack</color> after a successful <color=Highlight>Dodge</color> to attack the target, dealing <color=Fire>Fusion DMG</color>, considered as Basic Attack DMG.","Encore không thể kìm hãm Vũ Trụ nữa, Vũ Trụ bạo tẩu xuất hiện và bắt đầu tấn công mục tiêu.
-<size=10> </size>
-<size=40><color=Title>Đánh Thường: Vũ Trụ Quậy Phá</color></size>
-Trong thời gian Vũ Trụ Bạo Tẩu, <color=Highlight>Đánh Thường</color> được thay thế bằng <color=Highlight>Vũ Trụ Quậy Phá</color>, thực hiện tối đa 4 đòn tấn công liên tiếp, gây <color=Fire>Sát Thương Hỏa Liệt</color>, sát thương này được tính là sát thương Đánh Thường.
-<size=10> </size>
-<size=40><color=Title>Vũ Trụ: Đánh Mạnh</color></size>
-Trong thời gian Vũ Trụ Bạo Tẩu, <color=Highlight>Đánh Mạnh</color> được thay thế bằng <color=Highlight>Vũ Trụ: Đánh Mạnh</color>, tiêu hao Thể Lực tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>, sát thương này được tính là sát thương Đánh Mạnh.
-<size=10> </size>
-<size=40><color=Title>Kỹ Năng Cộng Hưởng: Vũ Trụ Điên Cuồng</color></size>
-Trong thời gian Vũ Trụ Bạo Tẩu, <color=Highlight>Cừu Con Nhiệt Huyết</color> chuyển thành <color=Highlight>Vũ Trụ Điên Cuồng</color>, tấn công mục tiêu bằng ngọn lửa mất kiểm soát, gây <color=Fire>Sát Thương Hỏa Liệt</color>, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng.
-<size=10> </size>
-<size=40><color=Title>Vũ Trụ: Phản Công Né Tránh</color></size>
-Trong thời gian Vũ Trụ Bạo Tẩu, trong một khoảng thời gian nhất định sau khi <color=Highlight>Né Tránh</color> thành công, nhấn nhanh <color=Highlight>Đánh Thường</color> sẽ tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>, sát thương này được tính là sát thương Đánh Thường."
-lang_multi_text.db,MultiText,Skill_1000703_SkillName,黑咩大暴走,Cosmos Rave,Vũ Trụ Bạo Tẩu
-lang_multi_text.db,MultiText,Skill_1000703_SkillResume,"进入黑咩大暴走状态，期间：
-<color=Highlight>普攻</color>替换为<color=Highlight>黑咩·胡闹</color>，造成<color=Fire>热熔伤害</color>。
-<color=Highlight>重击</color>替换为<color=Highlight>黑咩·重击</color>，消耗耐力，造成<color=Fire>热熔伤害</color>。
-<color=Highlight>热力羊咩</color>转换为<color=Highlight>黑咩·狂热</color>，造成<color=Fire>热熔伤害</color>。
-<color=Highlight>闪避反击</color>转换为<color=Highlight>黑咩·闪避反击</color>，造成<color=Fire>热熔伤害</color>。","Enter the Cosmos Rave state. In this state:
-- <color=Highlight>Basic Attack</color> becomes <color=Highlight>Cosmos: Frolicking</color>, dealing <color=Fire>Fusion DMG</color>.
-- <color=Highlight>Heavy Attack</color> becomes <color=Highlight>Cosmos: Heavy Attack</color>, consuming STA to deal <color=Fire>Fusion DMG</color>.
-- <color=Highlight>Flaming Woolies</color> becomes <color=Highlight>Cosmos: Rampage</color>, dealing <color=Fire>Fusion DMG</color>.
-- <color=Highlight>Dodge Counter</color> becomes <color=Highlight>Cosmos: Dodge Counter</color>, dealing <color=Fire>Fusion DMG</color>.","Tiến vào trạng thái Vũ Trụ Bạo Tẩu, trong thời gian này:
-<color=Highlight>Đánh Thường</color> thay thế bằng <color=Highlight>Vũ Trụ Quậy Phá</color>, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<color=Highlight>Đánh Mạnh</color> thay thế bằng <color=Highlight>Vũ Trụ: Đánh Mạnh</color>, tiêu hao Thể Lực, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<color=Highlight>Cừu Con Nhiệt Huyết</color> chuyển thành <color=Highlight>Vũ Trụ Điên Cuồng</color>, gây <color=Fire>Sát Thương Hỏa Liệt</color>.
-<color=Highlight>Phản Công Né Tránh</color> chuyển thành <color=Highlight>Vũ Trụ: Phản Công Né Tránh</color>, gây <color=Fire>Sát Thương Hỏa Liệt</color>."
-lang_multi_text.db,MultiText,Skill_1000704_SkillDescribe,共鸣解放<color=Highlight>黑咩大暴走</color>期间，安可的生命高于{0}时，伤害提升{1}。,"During the Resonance Liberation <color=Highlight>Cosmos Rave</color>, when Encore's HP is above {0}, DMG dealt is increased by {1}.","Trong thời gian Giải Phóng Cộng Hưởng <color=Highlight>Vũ Trụ Bạo Tẩu</color>, khi HP của Encore cao hơn {0}, sát thương tăng {1}."
-lang_multi_text.db,MultiText,Skill_1000704_SkillName,生气的黑咩,Angry Cosmos,Vũ Trụ Tức Giận
-lang_multi_text.db,MultiText,Skill_1000704_SkillResume,共鸣解放<color=Highlight>黑咩大暴走</color>期间，安可的生命高于{0}时，伤害提升{1}。,"During the Resonance Liberation <color=Highlight>Cosmos Rave</color>, when Encore's HP is above {0}, DMG dealt is increased by {1}.","Trong thời gian Giải Phóng Cộng Hưởng <color=Highlight>Vũ Trụ Bạo Tẩu</color>, khi HP của Encore cao hơn {0}, sát thương tăng {1}."
-lang_multi_text.db,MultiText,Skill_1000705_SkillDescribe,施放共鸣技能<color=Highlight>热力羊咩</color>或共鸣技能<color=Highlight>黑咩·狂热</color>时，安可的热熔伤害加成提升{0}，效果持续{1}秒。,"When Resonance Skill <color=Highlight>Flaming Woolies</color> or Resonance Skill <color=Highlight>Cosmos - Rampage</color> is cast, Encore's Fusion DMG Bonus is increased by {0} for {1}s.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Cừu Con Nhiệt Huyết</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Vũ Trụ Điên Cuồng</color>, sát thương Hỏa Liệt của Encore tăng {0}, hiệu quả kéo dài {1} giây."
-lang_multi_text.db,MultiText,Skill_1000705_SkillName,咩咩加油歌,Woolies Cheer Dance,Bài Ca Cổ Vũ Cừu Con
-lang_multi_text.db,MultiText,Skill_1000705_SkillResume,施放共鸣技能<color=Highlight>热力羊咩</color>或共鸣技能<color=Highlight>黑咩·狂热</color>时，安可的热熔伤害加成提升{0}，效果持续{1}秒。,"When Resonance Skill <color=Highlight>Flaming Woolies</color> or Resonance Skill <color=Highlight>Cosmos - Rampage</color> is cast, Encore's Fusion DMG Bonus is increased by {0} for {1}s.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Cừu Con Nhiệt Huyết</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Vũ Trụ Điên Cuồng</color>, sát thương Hỏa Liệt của Encore tăng {0}, hiệu quả kéo dài {1} giây."
-lang_multi_text.db,MultiText,Skill_1000706_SkillDescribe,与黑咩一起从天而降，攻击目标，造成<color=Fire>热熔伤害</color>。,"Encore pounces at the enemies with Cosmos, dealing <color=Fire>Fusion DMG</color>.","Cùng Vũ Trụ từ trên trời giáng xuống, tấn công mục tiêu, gây <color=Fire>Sát Thương Hỏa Liệt</color>."
-lang_multi_text.db,MultiText,Skill_1000706_SkillName,咩咩帮手,Woolies Helpers,Cừu Con Trợ Thủ
+lang_multi_text.db,MultiText,SkillInput_140501_Description,混元气旋：特殊能量充满时，长按{0}，将持续消耗特殊能量，获得护盾。,"Primordial Chi Spiral: When Forte Gauge is full, hold {0} to continuously consume Forte Gauge and obtain a Shield","Hỗn Nguyên Khí Toàn: Khi Năng Lượng Đặc Biệt đầy, nhấn giữ {0}, sẽ tiêu hao liên tục Năng Lượng Đặc Biệt, nhận Khiên."
+lang_multi_text.db,MultiText,SkillInput_140502_Description,冲拳：混元气旋状态下，未达到第一阶段时抬起{0},"Pushing Punch: Under Primordial Chi Spiral, release {0} before Zhoutian Progress reaches stage 1","Xung Quyền: Trong trạng thái Hỗn Nguyên Khí Toàn, khi chưa đạt đến giai đoạn 1 thả {0}"
+lang_multi_text.db,MultiText,SkillInput_140503_Description,推手：混元气旋状态下，达到第一阶段后，且未达到最终阶段时抬起{0},"Yielding Pull: Under Primorial Chi Spiral, release {0} after Zhoutian Progress reaches stage 1 but not the final stage","Thôi Thủ: Trong trạng thái Hỗn Nguyên Khí Toàn, sau khi đạt đến giai đoạn 1, và chưa đạt đến giai đoạn cuối thả {0}"
+lang_multi_text.db,MultiText,SkillInput_140504_Description,静气循行：按住{0}，持续2.5秒或受到攻击后。,Calming Air: Triggered by holding {0} for 2.5s or being attacked,"Tĩnh Khí Tuần Hành: Nhấn giữ {0}, duy trì 2.5 giây hoặc sau khi chịu đòn."
+lang_multi_text.db,MultiText,SkillInput_140505_Description,行气反击：在静气循行状态向下，受到攻击触发。,Chi Counter: Triggered when attacked during Calming Air,"Hành Khí Phản Kích: Trong trạng thái Tĩnh Khí Tuần Hành, bị tấn công sẽ kích hoạt."
+lang_multi_text.db,MultiText,SkillInput_140506_Description,降气反击：在静气循行状态下，2.5秒后或提前抬起{0}触发。,Chi Parry: Triggered when Calming Air lasts for 2.5s or {0} is released in advance,"Giáng Khí Phản Kích: Trong trạng thái Tĩnh Khí Tuần Hành, sau 2.5 giây hoặc thả {0} sớm sẽ kích hoạt."
+lang_multi_text.db,MultiText,SkillInput_140601_Description,空中攻击·抃风儛润：处于地面短按{0}，跃向空中后，短按{1}。,"Mid-air Attack - Cloudburst Dance: {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} {0} when on the ground to leap into the air and then {Cus:Ipt,Touch=tap PC=press Gamepad=press} {1}.","Tấn Công Trên Không - Biện Phong Vũ Nhuận: Ở mặt đất nhấn {0}, sau khi nhảy lên không trung, nhấn {1}."
+lang_multi_text.db,MultiText,SkillInput_140602_Description,缥缈无相：积攒特殊能量充满时，短按{0}。,"Unbound Flow: When Forte Gauge is full, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0}.","Phiêu Miểu Vô Tướng: Khi tích lũy Năng Lượng Đặc Biệt đầy, nhấn {0}."
+lang_multi_text.db,MultiText,SkillInput_140603_Description,碧霄断行：处于空中短按{0}，移除目标全部【光噪效应】、【虚湮效应】、【聚爆效应】、【霜渐效应】、【电磁效应】，每移除1层对应状态，便为目标附加1层【风蚀效应】。,"Skyfall Severance: While in mid-air, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0} to remove all stacks of Spectro Frazzle, Havoc Bane, Fusion Burst, Glacio Chafe, and Electro Flare from the target hit and inflict 1 stack of Aero Erosion for each stack removed.","Bích Tiêu Đoạn Hành: Ở trên không nhấn {0}, xóa bỏ toàn bộ [Hiệu Ứng Quang Nhiễu], [Hiệu Ứng Hư Yên], [Hiệu Ứng Tụ Bạo], [Hiệu Ứng Sương Tiệm], [Hiệu Ứng Điện Từ] của mục tiêu, mỗi khi xóa bỏ 1 tầng trạng thái tương ứng, sẽ gắn thêm 1 tầng [Hiệu Ứng Phong Thực] cho mục tiêu."
+lang_multi_text.db,MultiText,SkillInput_140701_Description,使用<color=Highlight>希音</color>进行<color=Highlight>音律独奏</color>：{0}+{0}+{0}+{0} 或 变奏技能+{0}+{0}。,Use <color=Highlight>Blessed Voice</color> to perform <color=Highlight>Solo Concert</color>: {0}+{0}+{0}+{0} or Intro Skill+{0}+{0}.,Dùng <color=Highlight>Hy Âm</color> tiến hành <color=Highlight>Độc Tấu Âm Luật</color>: {0}+{0}+{0}+{0} hoặc Kỹ Năng Biến Tấu+{0}+{0}.
+lang_multi_text.db,MultiText,SkillInput_140702_Description,使用<color=Highlight>寰响</color>进行<color=Highlight>音律独奏</color>：在空中时：{0}+{0}+{0}。,"Use <color=Highlight>Cosmic Beat</color> to perform <color=Highlight>Solo Concert</color>: While in mid-air, {0}+{0}+{0}.",Dùng <color=Highlight>Hoàn Hưởng</color> tiến hành <color=Highlight>Độc Tấu Âm Luật</color>: Khi ở trên không: {0}+{0}+{0}.
+lang_multi_text.db,MultiText,SkillInput_140703_Description,使用<color=Highlight>奏弦</color>进行<color=Highlight>音律独奏</color>：{1}+{0}+{0}+{0} 或 闪避反击后+{0}+{0}。,Use <color=Highlight>Vibrating Strings</color> to perform <color=Highlight>Solo Concert</color>: {1}+{0}+{0}+{0} or Dodge Counter+{0}+{0}.,Dùng <color=Highlight>Tấu Huyền</color> tiến hành <color=Highlight>Độc Tấu Âm Luật</color>: {1}+{0}+{0}+{0} hoặc sau khi Né Tránh Phản Kích+{0}+{0}.
+lang_multi_text.db,MultiText,SkillInput_140704_Description,重击·四拍重奏：特殊能量满时，长按{0}。,"Heavy Attack - Quadruple Downbeat: When Forte Gauge is full, hold {0}.","Đánh Mạnh - Trùng Tấu Bốn Nhịp: Khi Năng Lượng Đặc Biệt đầy, nhấn giữ {0}."
+lang_multi_text.db,MultiText,SkillInput_140705_Description,施放共鸣解放后，根据提示，在恰当时机点击按钮。,"After casting Resonance Liberation, {Cus:Ipt,Touch=tap PC=press Gamepad=press} the interactive button at the right time as prompted.","Sau khi thi triển Giải Phóng Cộng Hưởng, dựa theo gợi ý, nhấn nút vào thời điểm thích hợp."
+lang_multi_text.db,MultiText,SkillInput_140901_Description,强化<color=Highlight>下落攻击</color>：<color=Highlight>【卡提希娅】</color>形态下，当场地上拥有一种及以上的<color=Highlight>【剑之影】</color>，且位于空中时，点按{0},"Enhanced <color=Highlight>Plunging Attack</color>: As <color=Highlight>Cartethyia</color>, when there is at least 1 <color=Highlight>Sword Shadow</color> on the field, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0} while airborne.","Cường hóa <color=Highlight>Tấn Công Khi Đáp</color>: Trong hình thái <color=Highlight>[Cartethyia]</color>, khi trên sân có từ 1 <color=Highlight>[Kiếm Chi Ảnh]</color> trở lên, và đang ở trên không, nhấn {0}"
+lang_multi_text.db,MultiText,SkillInput_140902_Description,<color=Highlight>芙露德莉斯</color>共鸣技能第二段：<color=Highlight>【芙露德莉斯】</color>形态下，施放共鸣技能第一段后，一段时间内再次点按{0},"<color=Highlight>Fleurdelys</color> Resonance Skill Stage 2: {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} {0} following <color=Highlight>Fleurdelys</color> Resonance Skill Stage 1.","<color=Highlight>Fleurdelys</color> Kỹ Năng Cộng Hưởng đoạn 2: Trong hình thái <color=Highlight>[Fleurdelys]</color>, sau khi thi triển Kỹ Năng Cộng Hưởng đoạn 1, trong một khoảng thời gian nhấn lại {0}"
+lang_multi_text.db,MultiText,SkillInput_140903_Description,<color=Highlight>芙露德莉斯</color>强化重击第二段：<color=Highlight>【芙露德莉斯】</color>形态下，长按{0}后，一段时间内再次点按{0},"<color=Highlight>Fleurdelys</color> Enhanced Heavy Attack Stage 2: Hold {0} and then {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0} again.","<color=Highlight>Fleurdelys</color> Đánh Mạnh Cường Hóa đoạn 2: Trong hình thái <color=Highlight>[Fleurdelys]</color>, sau khi nhấn giữ {0}, trong một khoảng thời gian nhấn lại {0}"
+lang_multi_text.db,MultiText,SkillInput_140904_Description,临时化身回<color=Highlight>卡提希娅</color>：处于<color=Highlight>【芙露德莉斯】</color>状态下，<color=Highlight>【决意】</color>未满120点，处于【显化】状态，再次点按{0},"Temporarily transform back to <color=Highlight>Cartethyia</color>: As <color=Highlight>Fleurdelys</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0} when <color=Highlight>Conviction</color> is below 120 points.","Tạm thời hóa thân về <color=Highlight>Cartethyia</color>: Trong trạng thái <color=Highlight>[Fleurdelys]</color>, <color=Highlight>[Quyết Ý]</color> chưa đầy 120 điểm, đang ở trạng thái [Hiển Hóa], nhấn lại {0}"
+lang_multi_text.db,MultiText,SkillInput_140905_Description,<color=Highlight>共鸣解放·看潮怒风哮之刃</color>：<color=Highlight>【芙露德莉斯】</color>形态下，<color=Highlight>【决意】</color>满足120点时，点按{0},"<color=Highlight>Resonance Liberation - Blade of Howling Squall</color>: As <color=Highlight>Fleurdelys</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0} when <color=Highlight>Conviction</color> reaches 120 points.","<color=Highlight>Giải Phóng Cộng Hưởng - Khán Triều Nộ Phong Hao Chi Nhận</color>: Trong hình thái <color=Highlight>[Fleurdelys]</color>, khi <color=Highlight>[Quyết Ý]</color> đủ 120 điểm, nhấn {0}"
+lang_multi_text.db,MultiText,SkillInput_141001_Description,进入<color=Highlight>月相流转</color>状态：施放普攻第三段、变奏技能或共鸣技能·原初的律动后，一定时间内短按{1}。,"Activate <color=Highlight>Lunar Cycle</color>: {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} {1} after casting Basic Attack Stage 3, Intro Skill or Resonance Skill - Pulse of Origins.","Vào trạng thái <color=Highlight>Nguyệt Tướng Lưu Chuyển</color>: Sau khi thi triển Đánh Thường đoạn 3, Kỹ Năng Biến Tấu hoặc Kỹ Năng Cộng Hưởng - Luật Động Nguyên Sơ, trong một khoảng thời gian nhấn {1}."
+lang_multi_text.db,MultiText,SkillInput_141002_Description,切换<color=Highlight>弦月</color>与<color=Highlight>新月</color>状态：<color=Highlight>月相流转</color>状态期间，短按跳跃键。,"Switch between <color=Highlight>Half Moon</color> and <color=Highlight>New Moon</color>: While in <color=Highlight>Lunar Cycle</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Jump.","Chuyển đổi trạng thái <color=Highlight>Huyền Nguyệt</color> và <color=Highlight>Tân Nguyệt</color>: Trong thời gian trạng thái <color=Highlight>Nguyệt Tướng Lưu Chuyển</color>, nhấn nút Nhảy."
+lang_multi_text.db,MultiText,SkillInput_141003_Description,展开<color=Highlight>满月</color>领域：协奏能量充满时，长按{0}。,"Summon <color=Highlight>Full Moon</color> domain: When Concerto Energy is full, hold {0}.","Triển khai lĩnh vực <color=Highlight>Mãn Nguyệt</color>: Khi Năng Lượng Hiệp Tấu đầy, nhấn giữ {0}."
+lang_multi_text.db,MultiText,SkillInput_150101_Description,浮声千斩·旋音：拥有50点特殊能量时{1},"Resonating Spin: When Forte Gauge reaches 50, use {1}",Phù Thanh Thiên Trảm - Toàn Âm: Khi sở hữu 50 điểm Năng Lượng Đặc Biệt {1}
+lang_multi_text.db,MultiText,SkillInput_150102_Description,浮声千斩·回声：浮声千斩·旋音 + {0},Resonating Echoes: Perform Resonating Spin and use {0},Phù Thanh Thiên Trảm - Hồi Thanh: Phù Thanh Thiên Trảm - Toàn Âm + {0}
+lang_multi_text.db,MultiText,SkillInput_150103_Description,重击·鸣奏：第三段普攻或重击后，恰当时机{0},"Heavy Attack - Resonance: After Basic Attack Stage 3 or Heavy Attack, {0} at the right time","Đánh Mạnh - Minh Tấu: Sau Đánh Thường đoạn 3 hoặc Đánh Mạnh, thời điểm thích hợp {0}"
+lang_multi_text.db,MultiText,SkillInput_150104_Description,重击·余音：重击·鸣奏命中后{0},Heavy Attack: Aftertune: Tap {0} after Heavy Attack: Resonance hits a target,Đánh Mạnh - Dư Âm: Sau khi Đánh Mạnh - Minh Tấu trúng mục tiêu {0}
+lang_multi_text.db,MultiText,SkillInput_150301_Description,重击·星星花绽放：拥有特殊能量时，长按{0},"Heavy Attack: Starflower Blooms: When Forte Gauge is not empty, hold {0}","Đánh Mạnh - Hoa Sao Nở Rộ: Khi sở hữu Năng Lượng Đặc Biệt, nhấn giữ {0}"
+lang_multi_text.db,MultiText,SkillInput_150302_Description,空中攻击·星星花绽放：拥有特殊能量时，空中状态 + {0},"Mid-air Attack: Starflower Blooms: When Forte Gauge is not empty, tap {0} while in mid-air","Tấn Công Trên Không - Hoa Sao Nở Rộ: Khi sở hữu Năng Lượng Đặc Biệt, trạng thái trên không + {0}"
+lang_multi_text.db,MultiText,SkillInput_150401_Description,疾奔：黄灯模式期间，短按闪避。,Zoom: Use Dodge to enter the mode when in Yellow Light Mode.,"Lướt Nhanh: Trong thời gian chế độ Đèn Vàng, nhấn Né Tránh."
+lang_multi_text.db,MultiText,SkillInput_150402_Description,强化·前扑：【黄灯光能】充满时，短按{0}。,Energized Pounce: Tap {0} to cast it when Yellow Light Spark is full.,"Cường Hóa - Vồ Tới: Khi [Quang Năng Đèn Vàng] đầy, nhấn {0}."
+lang_multi_text.db,MultiText,SkillInput_150403_Description,强化·后撤：【红灯光能】充满时，短按{0}。,Energized Rebound: Tap {0} to cast it when Red Light Spark is full.,"Cường Hóa - Rút Lui: Khi [Quang Năng Đèn Đỏ] đầy, nhấn {0}."
+lang_multi_text.db,MultiText,SkillInput_150501_Description,解限状态：特殊能量未达到上限时，长按{0}，持续消耗体力飞行并自动采集一定范围内的植物类采集物,"Unbound Form: When Forte Gauge is not full, hold {0} to fly as a butterfly at the cost of STA and automatically collect nearby plant collectibles.","Trạng Thái Giải Hạn: Khi Năng Lượng Đặc Biệt chưa đạt giới hạn, nhấn giữ {0}, tiêu hao liên tục Thể Lực để bay và tự động thu thập các vật phẩm thu thập loại thực vật trong phạm vi nhất định"
+lang_multi_text.db,MultiText,SkillInput_150502_Description,演绎：特殊能量达到上限时，长按{0}，牵引周围的目标并使所有坍缩核立即演化为耀星·蝶,"Illation: When Forte Gauge is full, hold {0} to pull in nearby targets and convert all Collapsed Cores into Flare Star Butterflies.","Diễn Dịch: Khi Năng Lượng Đặc Biệt đạt giới hạn, nhấn giữ {0}, lôi kéo mục tiêu xung quanh và khiến tất cả Hạch Sụp Đổ lập tức diễn hóa thành Diệu Tinh - Điệp"
+lang_multi_text.db,MultiText,SkillInput_150503_Description,星域：施放{0}后展开星域获得增益效果，星域持续期间附近队伍中的角色施放变奏技能可以获得额外增益效果,Stellarealm: Use {0} to generate a Stellarealm that grants buffs to all nearby party members who cast Intro Skills in the Stellarealm.,"Tinh Vực: Sau khi thi triển {0} sẽ mở rộng Tinh Vực nhận hiệu quả buff, trong thời gian Tinh Vực duy trì, nhân vật trong đội ở gần thi triển Kỹ Năng Biến Tấu có thể nhận thêm hiệu quả buff"
+lang_multi_text.db,MultiText,SkillInput_150504_Description,洞悉：解限星域持续期间，守岸人施放变奏技能,"Discernment: When the Supernal Stellarealm exists, Shorekeeper can cast Intro Skill Discernment.","Động Tất: Trong thời gian Tinh Vực Giải Hạn duy trì, Thủ Hộ Bờ Biển thi triển Kỹ Năng Biến Tấu"
+lang_multi_text.db,MultiText,SkillInput_150505_Description,双联合相：守岸人延奏技能生效期间，角色处于受击或被击飞状态时，点按{0}视为闪避成功，有次数限制,"Binary Butterfly: When Shorekeeper's Outro Skill is effective, tapping {0} allows the current Resonator to recover from interruption when they are hit or launched, considered as a successful Dodge. This effect can be triggered for a limited number of times.","Song Liên Hợp Tướng: Trong thời gian Kỹ Năng Hiệp Tấu của Thủ Hộ Bờ Biển có hiệu lực, khi nhân vật ở trạng thái chịu đòn hoặc bị đánh bay, nhấn {0} được xem là Né Tránh thành công, có giới hạn số lần"
+lang_multi_text.db,MultiText,SkillInput_150601_Description,重击·星辉：处于赦罪或告解状态时，普攻第3段后长按{0}，消耗【福音】攻击目标。赦罪状态下消耗减少，伤害增加；告解状态下附加【光噪效应】。,"Heavy Attack - Starflash: When Phoebe is in Absolution or Confession status, hold {0} after performing Basic Attack 3 to attack the target at the cost of Divine Voice. When in Absolution, Phoebe deals greater damage while consuming less Divine Voice. When in Confession, Phoebe applies Spectro Frazzle to the targets hit.","Đánh Mạnh - Tinh Huy: Khi ở trạng thái Xá Tội hoặc Cáo Giải, sau Đánh Thường đoạn 3 nhấn giữ {0}, tiêu hao [Phúc Âm] tấn công mục tiêu. Ở trạng thái Xá Tội tiêu hao giảm, sát thương tăng; ở trạng thái Cáo Giải gắn thêm [Hiệu Ứng Quang Nhiễu]."
+lang_multi_text.db,MultiText,SkillInput_150602_Description,共鸣技能：短按{0}可召唤【镜之环】，牵引目标并使目标停滞；限时内再次短按{0}，可传送至【镜之环】内。菲比在【镜之环】内外的普攻方式不同。,"Resonance Skill: {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Resonance Skill to summon a Ring of Mirrors to pull in targets and stagnate them. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} {0} within limited-time to teleport to the Ring of Mirrors. Phoebe has different Basic Attack movesets in and out of the Ring of Mirrors.","Kỹ Năng Cộng Hưởng: Nhấn {0} có thể triệu hồi [Kính Chi Hoàn], lôi kéo mục tiêu và khiến mục tiêu đình trệ; trong thời gian giới hạn nhấn lại {0}, có thể dịch chuyển vào trong [Kính Chi Hoàn]. Phoebe có cách Đánh Thường khác nhau khi ở trong và ngoài [Kính Chi Hoàn]."
+lang_multi_text.db,MultiText,SkillInput_150701_Description,普攻·突破性进展：{0}+{0}+{0}+恰当时机{0},Basic Attack - Breakthrough: {0}+{0}+{0}+{0} in the right time,Đánh Thường - Tiến Triển Đột Phá: {0}+{0}+{0}+thời điểm thích hợp {0}
+lang_multi_text.db,MultiText,SkillInput_150702_Description,标准防卫预案：{1}+{0},Standard Defense Protocol: {1}+{0},Phương Án Phòng Vệ Tiêu Chuẩn: {1}+{0}
+lang_multi_text.db,MultiText,SkillInput_150703_Description,精准反击：按住{1}，受到攻击自动施放,Pinpoint Strike: Hold {1}. Cast automatically upon being hit.,"Phản Kích Chuẩn Xác: Nhấn giữ {1}, bị tấn công tự động thi triển"
+lang_multi_text.db,MultiText,SkillInput_150704_Description,共鸣解放·终绝将至之刻：灼焰形态下，【焰光】低于30或灼焰形态8秒后，按{2},"Resonance Liberation - The Last Stance: In Infernal Mode, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {2} when Blaze is lower than 30 or 8s after entering Infernal Mode.","Giải Phóng Cộng Hưởng - Thời Khắc Chung Tuyệt Sắp Đến: Trong hình thái Chước Diệm, [Diệm Quang] thấp hơn 30 hoặc sau hình thái Chước Diệm 8 giây, nhấn {2}"
+lang_multi_text.db,MultiText,SkillInput_150705_Description,灼焰形态下，【焰光】不低于30，可解锁下列招式,"In Infernal Mode, with at least 30 Blazes, unlock the following moves:","Trong hình thái Chước Diệm, [Diệm Quang] không thấp hơn 30, có thể mở khóa các chiêu thức sau"
+lang_multi_text.db,MultiText,SkillInput_150706_Description,普攻·重斩·破晓：{0}或{1},"Basic Attack ""Heavy Slash - Daybreak"": {0} or {1}",Đánh Thường - Trọng Trảm - Phá Hiểu: {0} hoặc {1}
+lang_multi_text.db,MultiText,SkillInput_150707_Description,普攻·重斩·将明：{0}+{0},"Basic Attack ""Heavy Slash - Dawning"": {0}+{0}",Đánh Thường - Trọng Trảm - Tương Minh: {0}+{0}
+lang_multi_text.db,MultiText,SkillInput_150708_Description,普攻·重斩·终夜：{0}+{0}+{0}或按住{1},"Basic Attack ""Heavy Slash - Nightfall"": {0}+{0}+{0} or hold {1}",Đánh Thường - Trọng Trảm - Chung Dạ: {0}+{0}+{0} hoặc nhấn giữ {1}
+lang_multi_text.db,MultiText,SkillInput_150709_Description,普攻·重斩·闪裂：按住{1}，受到攻击自动施放,"Basic Attack ""Heavy Slash - Lightsmashl"": Hold {1}. Cast automatically upon being hit.","Đánh Thường - Trọng Trảm - Thiểm Liệt: Nhấn giữ {1}, bị tấn công tự động thi triển"
+lang_multi_text.db,MultiText,SkillInput_150710_Description,不处于灼焰形态，【冗余动能】满时，可解锁下列招式,"When not in Infernal Mode, with max Redundant Energy, unlock the following moves:","Không ở hình thái Chước Diệm, khi [Động Năng Dư Thừa] đầy, có thể mở khóa các chiêu thức sau"
+lang_multi_text.db,MultiText,SkillInput_150711_Description,集中压制：{1},Resonance Skill - Targeted Action: {1},Trấn Áp Tập Trung: {1}
+lang_multi_text.db,MultiText,SkillInput_150712_Description,破袭反击：按住{1}，受到攻击自动施放,Resonance Skill - Forcible Riposte: Hold {1}. Cast automatically upon being hit.,"Phá Kích Phản Kích: Nhấn giữ {1}, bị tấn công tự động thi triển"
+lang_multi_text.db,MultiText,SkillInput_150801_Description,"断命之铗，可通过下列方式施放：
+{0}+{0}+{0}+{0}
+长按{0}至落地后，短按{0}","Death Snip can be cast in the following ways:
+{0}+{0}+{0}+{0}.
+Hold {0} until landing, then {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0}.","Đoạn Mệnh Chi Giáp, có thể thi triển bằng các cách sau:
+{0}+{0}+{0}+{0}
+Nhấn giữ {0} đến khi tiếp đất, sau đó nhấn {0}"
+lang_multi_text.db,MultiText,SkillInput_150802_Description,"命弦·掠行，可通过下列方式施放：
+长按{0}跃起至落地期间，短按闪避
+处于空中时，短按{1}至落地期间，短按闪避
+被击飞至落地期间，短按闪避
+施放撤弦后，向前闪避","Lifethread - Glide can be cast in the following ways:
+Hold {0} to jump, then {Cus:Ipt,Touch=tap PC=press Gamepad=press} Dodge before landing.
+While in mid-air, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {1}, then Dodge before landing.
+When launched into mid-air, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Dodge before landing.
+Dodge forward after casting Thread Withdrawn.","Mệnh Huyền - Lược Hành, có thể thi triển bằng các cách sau:
+Nhấn giữ {0} nhảy lên đến khi tiếp đất, nhấn Né Tránh
+Khi ở trên không, nhấn {1} đến khi tiếp đất, nhấn Né Tránh
+Bị đánh bay đến khi tiếp đất, nhấn Né Tránh
+Sau khi thi triển Triệt Huyền, Né Tránh về phía trước"
+lang_multi_text.db,MultiText,SkillInput_150803_Description,锯环·终结：电锯模式下，长按{0}或{0}+{0}+{0}+{0},"Sawring - Eradication: In Chainsaw Mode, hold {0} or {0}+{0}+{0}+{0}.","Cứu Hoàn - Chung Kết: Trong chế độ Cưa Máy, nhấn giữ {0} hoặc {0}+{0}+{0}+{0}"
+lang_multi_text.db,MultiText,SkillInput_150804_Description,解弦之眼·收弦：成功闪避后，保持按住闪避,Eye of Unraveling - Retraction: Keep holding Dodge after a successful Dodge.,"Giải Huyền Chi Nhãn - Thu Huyền: Sau khi Né Tránh thành công, tiếp tục nhấn giữ Né Tránh"
+lang_multi_text.db,MultiText,SkillInput_160101_Description,御反之隙：后发制人 + {0} + {0} + {0},Timed Counters: Strategic Parry + {0} + {0} + {0},Ngự Phản Chi Khích: Hậu Phát Chế Nhân + {0} + {0} + {0}
+lang_multi_text.db,MultiText,SkillInput_160102_Description,后发制人：磐岩守势持续期间受到攻击或满蓄触发,Strategic Parry: Triggered when attacked during Rocksteady Defense state or when fully charged,Hậu Phát Chế Nhân: Kích hoạt khi bị tấn công trong thời gian Bàn Nham Thủ Thế hoặc khi tụ lực đầy
+lang_multi_text.db,MultiText,SkillInput_160201_Description,缭乱：特殊能量充至一半后长按{0} + {0},"Chaoscleave: When Forte Gauge is above 50%, hold {0} and {0}","Liêu Loạn: Sau khi Năng Lượng Đặc Biệt nạp đến một nửa, nhấn giữ {0} + {0}"
+lang_multi_text.db,MultiText,SkillInput_160202_Description,逐影：闪避反击 + {1} + {1},Ruby Shades: Dodge Counter + {1} + {1},Trục Ảnh: Né Tránh Phản Kích + {1} + {1}
+lang_multi_text.db,MultiText,SkillInput_160203_Description,朱蚀：{1} + {1} + {0} + {0},Crimson Erosion: {1} + {1} + {0} + {0},Chu Thực: {1} + {1} + {0} + {0}
+lang_multi_text.db,MultiText,SkillInput_160204_Description,烬灭：{1} + {1} + {1} + {0} + {0} + {0},Sanguine Pulse: {1} + {1} + {1} + {0} + {0} + {0},Tẫn Diệt: {1} + {1} + {1} + {0} + {0} + {0}
+lang_multi_text.db,MultiText,SkillInput_160301_Description,普攻派生：施放第3段普攻后，长按{0}，可持续攻击目标,"Chain Basic Attack: After performing Basic Attack 3, hold {0} to continuously attack the target.","Biến Thể Đánh Thường: Sau khi thi triển Đánh Thường đoạn 3, nhấn giữ {0}, có thể tấn công mục tiêu liên tục"
+lang_multi_text.db,MultiText,SkillInput_160302_Description,蔓舞派生：施放第3段普攻时，长按{0}，可持续攻击目标,"Chain Attack - Vining Waltz: When performing Basic Attack 3, hold {0} to continuously attack the target.","Biến Thể Man Vũ: Khi thi triển Đánh Thường đoạn 3, nhấn giữ {0}, có thể tấn công mục tiêu liên tục"
+lang_multi_text.db,MultiText,SkillInput_160303_Description,旋舞：盛绽状态期间，短按跳跃，可退出盛绽状态,"Vining Ronde: When in Blossom Mode, use Jump to exit Blooming Mode.","Toàn Vũ: Trong thời gian trạng thái Thịnh Trán, nhấn nút Nhảy, có thể thoát trạng thái Thịnh Trán"
+lang_multi_text.db,MultiText,SkillInput_160304_Description,一日花：协奏能量充满时，短按{0}，可进入含苞状态,"Ephemeral: When Concerto Energy is full, tap {0} to enter Budding Mode.","Nhất Nhật Hoa: Khi Năng Lượng Hiệp Tấu đầy, nhấn {0}, có thể vào trạng thái Hàm Bao"
+lang_multi_text.db,MultiText,SkillInput_160501_Description,重击·灭音：特殊能量充满时，长按{0},"Heavy Attack: Devastation: When Forte Gauge is full, hold {0}","Đánh Mạnh - Diệt Âm: Khi Năng Lượng Đặc Biệt đầy, nhấn giữ {0}"
+lang_multi_text.db,MultiText,SkillInput_160502_Description,第4段普攻：长按{0}+短按{0},Basic Attack 4: Hold {0} + Tap {0},Đánh Thường đoạn 4: Nhấn giữ {0} + nhấn {0}
+lang_multi_text.db,MultiText,SkillInput_160503_Description,重击·鸣刃：强化状态长按{0}+短按{0},Heavy Attack: Thwackblade: Hold {0} + Tap {0} in enhanced state,Đánh Mạnh - Minh Nhận: Trạng thái cường hóa nhấn giữ {0} + nhấn {0}
+lang_multi_text.db,MultiText,SkillInput_160601_Description,短按{0}牵引周围目标，并且让洛可可飞到空中，进入飞跃幻想状态,"{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} {0} to pull in nearby targets together and send Roccia into mid-air, activating Beyond Imagination.","Nhấn {0} lôi kéo mục tiêu xung quanh, đồng thời để Roccia bay lên không trung, vào trạng thái Phi Dược Ảo Tưởng"
+lang_multi_text.db,MultiText,SkillInput_160602_Description,处于飞跃幻想状态时，若特殊能量足够：短按{0}发动派生下落攻击。最多连续施放3次。,"When in Beyond Imagination with sufficient Forte Gauge, {Cus:Ipt,Touch=tap PC=press Gamepad=press} {0} to cast Chain Plunging Attack. Can be cast up to 3 times in a row.","Khi ở trạng thái Phi Dược Ảo Tưởng, nếu Năng Lượng Đặc Biệt đủ: Nhấn {0} phát động Tấn Công Khi Đáp biến thể. Thi triển liên tục tối đa 3 lần."
+lang_multi_text.db,MultiText,SkillInput_160701_Description,共鸣技能斑驳幻梦、感知汲取使目标进入迷梦,Resonance Skill Flickering Reverie and Perception Drain send the target into Hazy Dream.,"Kỹ Năng Cộng Hưởng Ban Bác Huyễn Mộng, Cảm Tri Cấp Thủ khiến mục tiêu rơi vào Mê Mộng"
+lang_multi_text.db,MultiText,SkillInput_160702_Description,持有【迷离】时，可以施放重击浮潜幻海，可在水中施放。,"When Trance is not depleted, Cantarella can cast Heavy Attack Delusive Dive. This skill can also be cast in water.","Khi sở hữu [Mê Ly], có thể thi triển Đánh Mạnh Phù Tiềm Huyễn Hải, có thể thi triển dưới nước."
+lang_multi_text.db,MultiText,SkillInput_160703_Description,蜃境状态期间短按跳跃，可施放空中攻击,Use Jump when in Mirage to cast Mid-air Attack.,"Trong thời gian trạng thái Thần Cảnh nhấn nút Nhảy, có thể thi triển Tấn Công Trên Không"
+lang_multi_text.db,MultiText,SkillInput_160801_Description,亡与死的乐章：{0}+{0}+{0}+{0}或{1}+{0},Movement of Fate and Finality: {0}+{0}+{0}+{0} or {1}+{0},Vong Dữ Tử Chi Nhạc Chương: {0}+{0}+{0}+{0} hoặc {1}+{0}
+lang_multi_text.db,MultiText,SkillInput_160802_Description,永不消逝的梦呓：{0}+{0}+{0}+{1}或{1}+{1},Murmurs in a Haunting Dream: {0}+{0}+{0}+{1} or {1}+{1},Vĩnh Bất Tiêu Thệ Chi Mộng Nghệ: {0}+{0}+{0}+{1} hoặc {1}+{1}
+lang_multi_text.db,MultiText,SkillInput_160803_Description,谱曲终末：拥有6枚【乐声】且不处于【定音】状态时，长按{0}。,"Scarlet Coda: With 6 Volatile Notes, out of the Resolving Chord state, hold {0}.","Phổ Khúc Chung Mạt: Khi sở hữu 6 [Nhạc Thanh] và không ở trạng thái [Định Âm], nhấn giữ {0}."
+lang_multi_text.db,MultiText,SkillInput_160804_Description,强化攻击·赫卡忒：处于指挥状态时，{0}+{0}+{0}或队伍中的角色施放声骸技能。,"Enhanced Attack - Hecate: When in Maestro state, {0}+{0}+{0}, or triggered when other Resonators in the team cast Echo Skill.","Tấn Công Cường Hóa - Hecate: Khi ở trạng thái Chỉ Huy, {0}+{0}+{0} hoặc nhân vật trong đội thi triển Kỹ Năng Thanh Hài."
+lang_multi_text.db,MultiText,SkillTag_1_TagName,治疗,Healing,Trị Liệu
+lang_multi_text.db,MultiText,SkillTag_2_TagName,护盾,Shield,Khiên
+lang_multi_text.db,MultiText,SkillTag_3_TagName,时停,Time Stop,Ngưng Đọng Thời Gian
+lang_multi_text.db,MultiText,SkillTag_4_TagName,共振度解除,Vibration Strength Reduction,Giảm Độ Rung
+lang_multi_text.db,MultiText,SkillTag_5_TagName,共鸣解放充能,Resonance Liberation Charge,Nạp Giải Phóng Cộng Hưởng
+lang_multi_text.db,MultiText,SkillTag_6_TagName,召唤,Summon,Triệu Hồi
+lang_multi_text.db,MultiText,SkillTag_7_TagName,伤害加深,DMG Amplification,Khuếch Đại Sát Thương
+lang_multi_text.db,MultiText,SkillTag_8_TagName,体力回复,STA Recovery,Hồi Phục Thể Lực
+lang_multi_text.db,MultiText,SkillTag_9_TagName,风蚀效应,Aero Erosion Effect,Hiệu Ứng Phong Thực
+lang_multi_text.db,MultiText,SkillTag_10_TagName,电磁效应,Electro Flare Effect,Hiệu Ứng Điện Từ
+lang_multi_text.db,MultiText,SkillTag_11_TagName,霜渐效应,Glacio Chafe Effect,Hiệu Ứng Sương Tiệm
+lang_multi_text.db,MultiText,SkillTag_12_TagName,聚爆效应,Fusion Burst Effect,Hiệu Ứng Tụ Bạo
+lang_multi_text.db,MultiText,SkillTag_13_TagName,光噪效应,Spectro Frazzle Effect,Hiệu Ứng Quang Nhiễu
+lang_multi_text.db,MultiText,SkillTag_14_TagName,虚湮效应,Havoc Bane Effect,Hiệu Ứng Hư Yên
+lang_multi_text.db,MultiText,SkillTag_15_TagName,冷凝伤害加深,Glacio DMG Amplification,Khuếch Đại Sát Thương Ngưng Băng
+lang_multi_text.db,MultiText,SkillTag_16_TagName,热熔伤害加深,Fusion DMG Amplification,Khuếch Đại Sát Thương Hỏa Liệt
+lang_multi_text.db,MultiText,SkillTag_17_TagName,气动伤害加深,Aero DMG Amplification,Khuếch Đại Sát Thương Khí Động
+lang_multi_text.db,MultiText,SkillTag_18_TagName,导电伤害加深,Electro DMG Amplification,Khuếch Đại Sát Thương Điện Từ
+lang_multi_text.db,MultiText,SkillTag_19_TagName,衍射伤害加深,Electro DMG Amplification,Khuếch Đại Sát Thương Quang Phổ
+lang_multi_text.db,MultiText,SkillTag_20_TagName,湮灭伤害加深,Havoc DMG Amplification,Khuếch Đại Sát Thương Hủy Diệt
+lang_multi_text.db,MultiText,SkillTag_21_TagName,冷凝伤害,Glacio Damage,Sát Thương Ngưng Băng
+lang_multi_text.db,MultiText,SkillTag_22_TagName,热熔伤害,Fusion Damage,Sát Thương Hỏa Liệt
+lang_multi_text.db,MultiText,SkillTag_23_TagName,气动伤害,Aero DMG,Sát Thương Khí Động
+lang_multi_text.db,MultiText,SkillTag_24_TagName,导电伤害,Electro Damage,Sát Thương Điện Từ

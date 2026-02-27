@@ -1,203 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,PhantomBattleGym_cost3_Limit,能量消耗为3的声骸编入数量达到上限,The number of Cost 3 Echoes in your deck has reached the limit,Số lượng Thanh Hài tiêu hao 3 năng lượng trong bộ bài đã đạt giới hạn
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1107,已解锁珂莱塔的战术,Carlotta's Tactics Unlocked,Đã mở khóa Chiến thuật của Carlotta
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1203,已解锁安可的战术,Encore's Tactics Unlocked,Đã mở khóa Chiến thuật của Encore
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1208,已解锁嘉贝莉娜的战术,Galbrena's Tactics Unlocked,Đã mở khóa Chiến thuật của Galbrena
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1305,已解锁相里要的战术,Xiangli Yao's Tactics Unlocked,Đã mở khóa Chiến thuật của Xiangli Yao
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1410,已解锁尤诺的战术,Iuno's Tactics Unlocked,Đã mở khóa Chiến thuật của Iuno
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1501,已解锁漂泊者的战术,Rover's Tactics Unlocked,Đã mở khóa Chiến thuật của Lữ Khách
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1507,已解锁赞妮的战术,Zani's Tactics Unlocked,Đã mở khóa Chiến thuật của Zani
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1508,已解锁千咲的战术,Chisa's Tactics Unlocked,Đã mở khóa Chiến thuật của Chisa
-lang_multi_text.db,MultiText,PhantomBattleHeroDes_1607,已解锁坎特蕾拉的战术,Cantarella's Tactics Unlocked,Đã mở khóa Chiến thuật của Cantarella
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1107_1,主动技能({0})：选择一个对手的声骸，直到回合结束，该声骸力量-{1}。,Active Tactic ({0}): Select one of your opponent's Echoes and reduce its STR by {1} until the round ends.,"Kỹ Năng Chủ Động ({0}): Chọn một Thanh Hài của đối thủ, Thanh Hài đó -{1} Lực cho đến hết hiệp."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1107_2,被动技能：在战斗阶段中，我方核心声骸提升{0}暴击。,"Passive Tactic: In the Battle Stage, increase your Core Echo's Crit. Rate by {0}.","Kỹ Năng Bị Động: Trong giai đoạn chiến đấu, Thanh Hài Lõi phe ta tăng {0} bạo kích."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1203_1,主动技能({0})：从卡组中展示至多三个具有【变幻】技能的卡牌，选择其中{1}个加入手牌，将未选择的卡牌洗回卡组。,"Active Tactic ({0}): Display up to 3 cards with Transform from the deck. Add <SapTag=1>{1}</SapTag> of them to your hand. Shuffle the unselected {Cus:Sap,S=cards P=card SapTag=1} back into your deck.","Kỹ Năng Chủ Động ({0}): Hiển thị tối đa 3 lá bài có kỹ năng [Biến Huyễn] từ bộ bài, chọn {1} lá thêm vào tay, xáo các lá bài không chọn về bộ bài."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1203_2,被动技能：在本场决斗的第{0}到第{1}回合开始时，额外抽一张牌。,Passive Tactic: Draw one additional card when a round starts. Effective from Round {0} to Round {1}.,"Kỹ Năng Bị Động: Khi bắt đầu hiệp thứ {0} đến hiệp thứ {1} của trận đấu, rút thêm một lá bài."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_1,主动技能({0})：向对手造成{1}点伤害。,Active Tactic ({0}): Deal {1} point of DMG to your opponent.,Kỹ Năng Chủ Động ({0}): Gây {1} điểm sát thương cho đối thủ.
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1208_2,被动技能：在我方回合的战斗阶段开始时，我方声骸的伤害+{0}，持续1回合。,Passive Tactic: Increase your Echoes' DMG by {0} at the start of the Battle Stage for one round.,"Kỹ Năng Bị Động: Khi bắt đầu giai đoạn chiến đấu của hiệp phe ta, sát thương của Thanh Hài phe ta +{0}, kéo dài 1 hiệp."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_1,主动技能({0})：将一张手牌重构，在下回合抽卡时，必定抽到这张手牌。,Active Tactic ({0}): Reconstruct a card on hand. You're bound to draw this card in the next round.,"Kỹ Năng Chủ Động ({0}): Tái Cấu Trúc một lá bài trên tay, khi rút bài ở hiệp sau, chắc chắn rút được lá bài này."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1305_2,被动技能：在本场决斗的前三回合开始时，额外抽一张牌。,Passive Tactic: Draw one additional card at the start of the first three rounds.,"Kỹ Năng Bị Động: Khi bắt đầu 3 hiệp đầu của trận đấu, rút thêm một lá bài."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_1,主动技能({0})：于本回合中，我方声骸的力量+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' STR by {1}.","Kỹ Năng Chủ Động ({0}): Trong hiệp này, Lực của Thanh Hài phe ta +{1}."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1406_2,被动技能：每当我方进行一次调谐时，使随机一个我方声骸力量+{0}直到回合结束。,"Passive Tactic: Each time you Modulate, randomly increase the STR of one of your Echoes by {0} until the end of the round.","Kỹ Năng Bị Động: Mỗi khi phe ta thực hiện một lần Điều Hưởng, khiến 1 Thanh Hài ngẫu nhiên phe ta +{0} Lực cho đến hết hiệp."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_1,主动技能({0})：我方声骸力量与耐久均+{1}，持续1回合。,Active Tactic ({0}): Increase your Echoes' STR and CON by {1} for one round.,"Kỹ Năng Chủ Động ({0}): Lực và Bền của Thanh Hài phe ta đều +{1}, kéo dài 1 hiệp."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1410_2,被动技能：每次进行特殊召唤时，我方决斗家获得{0}点生命。,"Passive Tactic: For each Quick-Deploy, you gain {0} points of HP.","Kỹ Năng Bị Động: Mỗi lần thực hiện Triệu Hồi Đặc Biệt, đấu thủ phe ta nhận {0} điểm sinh lực."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1501_1,本回合中，受到的生命值伤害减少1,Take 1 less DMG as duelist in this round.,"Trong hiệp này, sát thương sinh lực phải chịu giảm 1"
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1501_2,dnt/本回合开始时，敌方声骸全部不能行动，持续8S,,"dnt/Khi hiệp này bắt đầu, toàn bộ Thanh Hài địch không thể hành động, kéo dài 8s"
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_1,主动技能({0})：于本回合中，我方声骸伤害+{1}。,"Active Tactic ({0}): For this round, increase your Echoes' DMG by {1}.","Kỹ Năng Chủ Động ({0}): Trong hiệp này, sát thương của Thanh Hài phe ta +{1}."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1507_2,被动技能：在战斗阶段中，我方能量消耗为{0}的声骸提升{1}暴击。,"Passive Tactic: In the Battle Stage, increase Crit. Rate of your Cost {0} Echoes by {1}.","Kỹ Năng Bị Động: Trong giai đoạn chiến đấu, Thanh Hài tiêu hao {0} năng lượng của phe ta tăng {1} bạo kích."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_1,主动技能({0})：抽一张牌。,Active Tactic ({0}): Draw a card.,Kỹ Năng Chủ Động ({0}): Rút một lá bài.
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1508_2,被动技能：在我方回合开始时，额外获得{0}点能量。,Passive Tactic: Gain {0} additional point of Energy at the start of each round.,"Kỹ Năng Bị Động: Khi bắt đầu hiệp phe ta, nhận thêm {0} điểm năng lượng."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1607_1,主动技能({0})：选择一个我方声骸。该声骸在本回合的战斗阶段中所受的伤害减少{1}，持续{2}秒。,Active Tactic ({0}): Select one of your Echoes to make it take {1} less DMG for {2}s in the Battle Stage of the current round.,"Kỹ Năng Chủ Động ({0}): Chọn một Thanh Hài phe ta. Sát thương Thanh Hài đó chịu trong giai đoạn chiến đấu hiệp này giảm {1}, kéo dài {2} giây."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkillDes_1607_2,被动技能：在本场决斗的前三回合，我方决斗家在战斗阶段受到的伤害-{0}。,"Passive Tactic: In the first three rounds, you take {0} less DMG as the duelist in the Battle Stage.","Kỹ Năng Bị Động: Trong 3 hiệp đầu của trận đấu, sát thương đấu thủ phe ta chịu trong giai đoạn chiến đấu giảm {0}."
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1107_1,致命弱点,Fatal Flaw,Điểm Yếu Chí Mạng
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1107_2,枪弹轮舞,Crystal Tango,Vũ Điệu Đạn Dược
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1203_1,小咩快长大,"Grow, Woolies!",Cừu Nhỏ Mau Lớn
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1203_2,羊咩梦幻乐园,Woolies' Wonderland,Khu Vui Chơi Trong Mơ Của Cừu
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1208_1,自由射击,Weapons Free,Xạ Kích Tự Do
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1208_2,无尽追猎,Hunt Without End,Truy Săn Bất Tận
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1305_1,物质重构,Matter Reconstruction,Tái Cấu Trúc Vật Chất
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1305_2,系统过载,System Overload,Quá Tải Hệ Thống
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1406_1,声庇吾身,Resonant Blessing,Thanh Âm Bảo Hộ
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1406_2,"{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}","{Cus:Var,VarType=Global Key=play_skill_name}"
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1410_1,时刻将至,Time Draws Near,Thời Khắc Sắp Đến
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1410_2,月相轮转,Lunar Sequence,Nguyệt Tướng Luân Chuyển
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1507_1,强制加班,Mandatory Overtime,Tăng Ca Bắt Buộc
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1507_2,适当激励,Productivity Boost,Khích Lệ Vừa Phải
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1508_1,视限解明,Infinite Visability,Giải Minh Tầm Nhìn
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1508_2,洞察诸弦,Vision of Threads,Thấu Cảm Dây Đàn
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1607_1,适者生存,Survival of the Fittest,Thích Giả Sinh Tồn
-lang_multi_text.db,MultiText,PhantomBattleHeroSkill_1607_2,慢性满足,Slow-Burn Satisfaction,Thỏa Mãn Chậm Rãi
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1,赛程积分等级达到2级「认证选手」后解锁,"Unlocked after reaching Rank Level 2 as ""Certified Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 2 ""Tuyển Thủ Chứng Nhận"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1107,取得与“荣光王”的决赛资格,Qualify for the final against Conqueror of Prestige,"Đạt tư cách đấu chung kết với ""Vua Vinh Quang"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1203,击败“梦魇”加卢斯,Defeat Gallus the Nightmare,"Đánh bại ""Mộng Yểm"" Gallus"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1305,击败“梦魇”加卢斯,Defeat Gallus the Nightmare,"Đánh bại ""Mộng Yểm"" Gallus"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1501,击败“铸铁”阿格里帕,Defeat Agrippa the Ironheart,"Đánh bại ""Thiết Huyết"" Agrippa"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1507,击败“尘土”劳尔,Defeat Raul the Dustbound,"Đánh bại ""Trần Thổ"" Raul"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_1607,击败“甘霖”玛尔茜亚,Defeat Marcia the Lifespring,"Đánh bại ""Cam Lâm"" Marcia"
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_2,赛程积分等级达到5级「知名选手」后解锁,"Unlocked after reaching Rank Level 5 as ""Popular Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 5 ""Tuyển Thủ Danh Tiếng"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_3,赛程积分等级达到6级「资深选手」后解锁,"Unlocked after reaching Rank Level 6 as ""Veteran Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 6 ""Tuyển Thủ Thâm Niên"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_4,赛程积分等级达到7级「明星选手」后解锁,"Unlocked after reaching Rank Level 7 as ""All-Star Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 7 ""Tuyển Thủ Ngôi Sao"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_5,赛程积分等级达到8级「传奇选手」后解锁,"Unlocked after reaching Rank Level 8 as ""Legendary Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 8 ""Tuyển Thủ Huyền Thoại"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_6,赛程积分等级达到9级「传奇选手」后解锁,"Unlocked after reaching Rank Level 9 as ""Legendary Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 9 ""Tuyển Thủ Huyền Thoại"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_7,赛程积分等级达到3级「新秀选手」后解锁,"Unlocked after reaching Rank Level 3 as ""Promising Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 3 ""Tuyển Thủ Tiềm Năng"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_8,赛程积分等级达到4级「老练选手」后解锁,"Unlocked after reaching Rank Level 4 as ""Experienced Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 4 ""Tuyển Thủ Lão Luyện"""
-lang_multi_text.db,MultiText,PhantomBattleHeroUnlock_9,赛程积分等级达到4级「老练选手」后解锁,"Unlocked after reaching Rank Level 4 as ""Experienced Duelist""","Mở khóa sau khi cấp điểm giải đấu đạt cấp 4 ""Tuyển Thủ Lão Luyện"""
-lang_multi_text.db,MultiText,PhantomBattleLVDes_1,解锁图鉴,Echo Collection Unlocked,Mở khóa Thư Viện
-lang_multi_text.db,MultiText,PhantomBattleLVDes_10,解锁无尽挑战·困难难度；解锁练习者之勋,Endless Challenge - Difficult and Trainee Medal Unlocked,Mở khóa Thử Thách Vô Tận - Khó; mở khóa Huy Chương Người Luyện Tập
-lang_multi_text.db,MultiText,PhantomBattleLVDes_11,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_12,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_13,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_14,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_15,解锁进阶者之勋,Adept Medal Unlocked,Mở khóa Huy Chương Người Thăng Tiến
-lang_multi_text.db,MultiText,PhantomBattleLVDes_16,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_17,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_18,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_19,已解锁全部功能,All Features Unlocked,Đã mở khóa toàn bộ tính năng
-lang_multi_text.db,MultiText,PhantomBattleLVDes_2,解锁战术,Resonator Tactics Unlocked,Mở khóa Chiến Thuật
-lang_multi_text.db,MultiText,PhantomBattleLVDes_20,解锁老练者之勋,Veteran Medal Unlocked,Mở khóa Huy Chương Người Lão Luyện
-lang_multi_text.db,MultiText,PhantomBattleLVDes_3,无新功能开放,No New Feature Available,Không mở tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleLVDes_4,解锁自由创建卡组及声骸功能,Free Deck Building and Echo Setup Unlocked,Mở khóa tính năng Tự do tạo bộ bài và Thanh Hài
-lang_multi_text.db,MultiText,PhantomBattleLVDes_5,解锁初学者之勋,Novice Medal Unlocked,Mở khóa Huy Chương Người Mới
-lang_multi_text.db,MultiText,PhantomBattleLVDes_6,解锁战斗阶段加速,Battle Stage Acceleration Unlocked,Mở khóa tăng tốc giai đoạn chiến đấu
-lang_multi_text.db,MultiText,PhantomBattleLVDes_7,无新功能开放,No New Feature Available,Không mở tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleLVDes_8,解锁无尽挑战·普通难度；解锁声骸外观升级,Endless Challenge - Normal and Echo Appearance Upgrade Unlocked,Mở khóa Thử Thách Vô Tận - Thường; mở khóa nâng cấp ngoại hình Thanh Hài
-lang_multi_text.db,MultiText,PhantomBattleLVDes_9,无新功能开放,No New Feature Available,Không mở tính năng mới
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2001,"阿希尔德为同好会的命运感到担忧。虽然她对会长安妮塔无比信任，但直到现在为止，她都没能在任何同好会成员那里看到击败教授们的希望。
-
-决斗家特性：无特性","Ashild is worried about the fate of the fan club. Although she places great trust in the fan club's leader, Anita, she still sees no hope of defeating the professors from any of the members up until now.
-
-Duelist Traits: None","Ashild cảm thấy lo lắng cho vận mệnh của hội. Mặc dù cô vô cùng tin tưởng vào hội trưởng Anita, nhưng cho đến nay, cô vẫn chưa nhìn thấy hy vọng đánh bại các giáo sư từ bất kỳ thành viên nào trong hội.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2002,"丹尼斯老师认为，同好会成员的所谓决斗缺乏必要的优雅，也毫无艺术美感。他决定按照自己的意志来重塑这一切。
-
-决斗家特性：无特性","Professor Dennis believes that the fan club members' duels lack the necessary elegance and artistic beauty. He is now committed to reshaping it all based on his own ideal.
-
-Duelist Traits: None","Thầy Dennis cho rằng những trận quyết đấu của các thành viên hội thiếu đi sự thanh lịch cần thiết và hoàn toàn không có vẻ đẹp nghệ thuật. Ông quyết định tái thiết lại tất cả theo ý chí của mình.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2003,"菲斯塔教授认为自己找到了完美的决斗算法——能够让她在任何情况下都立于不败之地。然而，总有些东西是算法无法预测的。
-
-决斗家特性：无特性","Professor Festa believes she has found the perfect algorithm for dueling—one that would make her undefeated under any scenario. However, there are always variables that algorithms cannot predict.
-
-Duelist Traits: None","Giáo sư Festa tin rằng mình đã tìm ra thuật toán quyết đấu hoàn hảo - thứ có thể giúp bà bất bại trong mọi tình huống. Tuy nhiên, luôn có những điều mà thuật toán không thể dự đoán được.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2004,"切斯特对决斗毫无兴趣，也并不关心同好会的命运如何。对她来说，摧毁同好会只是她平淡无奇的工作中一个无法拒绝的额外差事而已。
-
-决斗家特性：无特性","Chessa has no interest in dueling, and cares little about the fan club's future. To her, destroying the fan club is just an unavoidable extra work in her normal, boring job.
-
-Duelist Traits: None","Chessa chẳng có hứng thú gì với quyết đấu, cũng chẳng quan tâm đến vận mệnh của hội. Với cô, việc phá hủy hội chỉ là một công việc làm thêm không thể từ chối trong chuỗi ngày làm việc tẻ nhạt của mình mà thôi.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2005,"卡利斯教授将荣耀之丘的创始人富里乌斯视为宿敌。他坚持要解散《荣耀之丘》同好会，很难说这是为了不让学生们重蹈富里乌斯的覆辙，还是单纯因仇恨使然。
-
-决斗家特性：无特性","Professor Calith sees Furius, the founder of Peaks of Prestige, as his archenemy. His campaign to disband the fan club might stem from a desire to shield his students from following… or it might be fueled by pure, personal animosity.
-
-Duelist Traits: None","Giáo sư Calith coi người sáng lập Đồi Vinh Quang, Furius, là kẻ thù truyền kiếp. Ông kiên quyết muốn giải tán hội ""Đồi Vinh Quang"", khó mà nói được là để ngăn học sinh đi vào vết xe đổ của Furius, hay đơn thuần chỉ vì thù hận.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2006,"《荣耀之丘》拉海洛赛区负责人，安妮塔。在此发起决斗请求。
-
-决斗家特性：无特性","Anita, the Division Manager for the Peaks of Prestige Lahai-Roi Ranked Tournament, challenges you to a duel.
-
-Duelist Traits: None","Người phụ trách khu vực thi đấu Lahai-Roi của ""Đồi Vinh Quang"", Anita. Gửi lời thách đấu tại đây.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2007,"对绫而言，《荣耀之丘》是缓解学习压力的方式，也是生活中不可缺少的一部分。
-
-决斗家特性：无特性","To Aya, Peaks of Prestige is a way to relieve stress from her schoolwork and an indispensable part of her life.
-
-Duelist Traits: None","Đối với Aya, ""Đồi Vinh Quang"" là cách để giải tỏa áp lực học tập, và cũng là một phần không thể thiếu trong cuộc sống.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2008,"机器护士会使出电子组合技吗？让我们拭目以待吧！
-
-决斗家特性：无特性","Do mech nurses use electric combos? Stay tuned right here on Peaks of Prestige!
-
-Duelist Traits: None","Y tá máy có tung ra được đòn liên hoàn điện tử không nhỉ? Hãy cùng chờ xem nhé!
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2009,"I.R.I.S.似乎切换了一个奇怪而又似曾相识的人格，虽然有点在意……但还是先决斗吧。
-
-决斗家特性：无特性","Looks like I.R.I.S. might have switched to a strange but familiar personality. It's a bit concerning... but let's duel first.
-
-Duelist Traits: None","I.R.I.S. dường như đã chuyển sang một nhân cách kỳ lạ nhưng lại có chút quen thuộc, dù hơi bận tâm... nhưng cứ quyết đấu trước đã.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2010,"扎希拉将《荣耀之丘》从学院带到了罗伊族，她并没想到这款游戏在这么短的时间内就能在整个浮光林流传开来。
-
-决斗家特性：无特性","When Zahira brought Peaks of Prestige from the Academy to her Roya tribe, she never imagined it would sweep through Bjartr Woods like wildfire.
-
-Duelist Traits: None","Zahira đã mang ""Đồi Vinh Quang"" từ học viện về với tộc Roya, cô không ngờ rằng trò chơi này lại lan truyền khắp Rừng Bjartr nhanh đến thế.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2011,"为了守护重要之物，拉格希尔德一直在追求力量。而《荣耀之丘》似乎已经成为了她的力量来源之一。
-
-决斗家特性：无特性","Lagerith has been pursuing power to protect something precious to her. Now, Peaks of Prestige seems to have become one of her sources of power.
-
-Duelist Traits: None","Để bảo vệ những thứ quan trọng, Lagerith luôn theo đuổi sức mạnh. Và ""Đồi Vinh Quang"" dường như đã trở thành một trong những nguồn sức mạnh của cô.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2012,"卡塔丽娜想要离开拉海洛，成为一名七丘角斗士……也许某一天，她真的能实现自己的愿望。
-
-决斗家特性：无特性","Katrina wants to leave Lahai-Roi and become a Septimont Gladiator... Perhaps one day her dreams will come true.
-
-Duelist Traits: None","Katrina muốn rời khỏi Lahai-Roi để trở thành một đấu sĩ Septimont... Biết đâu một ngày nào đó, cô ấy thực sự có thể thực hiện được nguyện vọng của mình.
-
-Đặc Tính Đấu Thủ: Không có"
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2013,"和乔娜决斗吧！让你看看谁才是真正的狠角色！
-
-决斗家特性：该技能持有者，每当召唤声骸时，使该声骸获得【不屈】技能。","Challenge Jonna! Let her see who's the real Duelist!
-
-Duelist Traits: Each time the duelist deploys an Echo, the Echo gains Resilience.","Quyết đấu với Jonna nào! Để cho bạn thấy ai mới là kẻ đáng gờm thực sự!
-
-Đặc Tính Đấu Thủ: Mỗi khi người sở hữu kỹ năng này triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Bất Khuất]."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2014,"太好了！终于有人来和伊温德决斗了！
-
-决斗家特性：该技能持有者，每当在部署阶段与战斗阶段失去生命时，失去的生命-1。","Great! Finally, someone has come to challenge Eyvind!
-
-Duelist Traits: The duelist loses 1 less HP each time they lose HP during the Deployment Stage and Battle Stage.","Tuyệt quá! Cuối cùng cũng có người đến quyết đấu với Eyvind rồi!
-
-Đặc Tính Đấu Thủ: Mỗi khi người sở hữu kỹ năng này mất máu trong Giai Đoạn Bố Trí và Giai Đoạn Chiến Đấu, lượng máu mất đi -1."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2015,"日灵也会玩《荣耀之丘》吗？还是说，它们仅仅是伊洛妮对于自己战术的伪装呢？
-
-决斗家特性：该技能持有者，在战斗阶段受到的伤害-5。","Do Soliskin also play Peaks of Prestige? Or are they just acting as Eloni's tactical disguise?
-
-Duelist Traits: The duelist takes 5 less DMG during the Battle Stage.","Nhật Linh cũng chơi ""Đồi Vinh Quang"" sao? Hay chúng chỉ là lớp ngụy trang cho chiến thuật của Eloni?
-
-Đặc Tính Đấu Thủ: Sát thương người sở hữu kỹ năng này phải chịu trong Giai Đoạn Chiến Đấu -5."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2016,"奥德吉尔听从来自内心深处的呼唤。他独自在旷野追逐隧群，希望从它们那里获得野性的智慧。
-
-决斗家特性：该技能持有者，每当召唤声骸时，使该声骸获得【坚韧】技能。","Odgier heeds the calling from deep within his heart. Alone, he pursues the Exoswarm in the wilderness, hoping to gain wild wisdom from them.
-
-Duelist Traits: Each time the duelist deploys an Echo, the Echo gains Toughness.","Odgier nghe theo tiếng gọi từ sâu thẳm trái tim. Anh một mình đuổi theo Bầy Exoswarm nơi hoang dã, hy vọng học được trí tuệ hoang dã từ chúng.
-
-Đặc Tính Đấu Thủ: Mỗi khi người sở hữu kỹ năng này triệu hồi Thanh Hài, Thanh Hài đó nhận được kỹ năng [Kiên Cường]."
-lang_multi_text.db,MultiText,PhantomBattleMapDes_2017,"来，一决胜负吧。
-
-决斗家特性：该技能持有者，每回合开始时，使对方失去7点生命。","Come, let's settle this once and for all.
-
-Duelist Traits: The duelist's opponent loses 7 HP at the start of each round.","Nào, phân thắng bại thôi.
-
-Đặc Tính Đấu Thủ: Người sở hữu kỹ năng này khiến đối phương mất 7 điểm sinh mệnh khi bắt đầu mỗi hiệp."
+lang_multi_text.db,MultiText,POI_RYJTDTK_2_12,后来黑潮汹涌而来，吞没了一切，也封存了一切。没想到，这么多年过去了，当年的那只灾蝶龙仍然健在。,"Then the Dark Tide hit and swallowed everything, sealing the tower away. If the story is true... then the dragon might've never left.","Sau đó hắc triều cuồn cuộn ập đến, nuốt chửng tất cả, cũng phong ấn tất cả. Không ngờ, đã bao nhiêu năm trôi qua, con Tai Ương Chi Dực năm xưa vẫn còn sống."
+lang_multi_text.db,MultiText,POI_RYJTDTK_2_13,你在寻找进塔的方法？,Are you trying to get into the tower?,Cô đang tìm cách vào tháp à?
+lang_multi_text.db,MultiText,POI_RYJTDTK_2_14,嗯，这些年我一直在寻找灾蝶龙的踪迹。眼看着找到了，我不想轻易地放弃。,"Yes. I've spent years searching for any sign of the Scourgewing, and now that I'm this close, I can't just walk away.","Ừm, những năm nay tôi vẫn luôn tìm kiếm tung tích của Tai Ương Chi Dực. Thấy đã tìm được rồi, tôi không muốn dễ dàng bỏ cuộc."
+lang_multi_text.db,MultiText,POI_RYJTDTK_2_15,但如你所见，当年的黑潮所遗留的增生物彻底封住了大门。凭我的能力，实在无法突破。,"But as you can see, the entrance is sealed by some kind of fibrous growth left behind by the Dark Tide. There's no way I can break through it on my own.","Nhưng như cậu thấy đấy, vật tăng sinh do hắc triều năm xưa để lại đã bịt kín cổng lớn. Với khả năng của tôi thì thật sự không thể phá vỡ được."
+lang_multi_text.db,MultiText,POI_RYJTDTK_2_16,我可以想想办法。,I might be able to help.,Tôi có thể nghĩ cách.
+lang_multi_text.db,MultiText,POI_RYJTDTK_2_17,其实，我很擅长进危险的塔。,"Not to brag, but breaking into dangerous towers is my specialty.","Thật ra, tôi rất giỏi đột nhập vào những tòa tháp nguy hiểm."
+lang_multi_text.db,MultiText,POI_RYJTDTK_2_18,这样的话真是太好了。请看，也许这些缠住大门的古怪丝线会是关键。,"That would be wonderful. Here, take a look at these strange threads along the gate. I think they're important.","Nếu vậy thì tốt quá. Cậu xem, biết đâu mấy sợi tơ kỳ quái quấn quanh cổng lớn này lại là mấu chốt."
+lang_multi_text.db,MultiText,POI_RYJTDTK_2_19,欸，你很有经验？请看，也许这些缠住大门的古怪丝线会是关键。,"So you're experienced, huh? Here, take a look at these strange threads along the gate. I think they're important.","Hả, cậu có kinh nghiệm lắm sao? Cậu xem, biết đâu mấy sợi tơ kỳ quái quấn quanh cổng lớn này lại là mấu chốt."
+lang_multi_text.db,MultiText,POI_RYJTDTK_3_1,原来还可以把堵门的东西直接斩开……这下终于可以进塔了。,"So it can be severed, after all… Good. Now we finally have a way in.",Hóa ra có thể chém đứt thứ chặn cửa luôn... Lần này cuối cùng cũng vào được tháp rồi.
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_1,啊，我们又见面了，你也是听到了吼声才找过来的吗？,"Ah, it's you again. Did that roar bring you here too?","A, chúng ta lại gặp nhau rồi, cậu cũng nghe thấy tiếng gầm nên mới tìm đến đây sao?"
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_2,什么吼声？,What roar?,Tiếng gầm gì cơ?
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_3,是灾蝶龙的吼声？,You mean the Scourgewing?,Là tiếng gầm của Tai Ương Chi Dực?
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_4,不久前，我就在这里，听见了从塔里传来的灾蝶龙的吼声。,"Not long ago, I heard something right here. A roar of a Scourgewing echoing from that tower...","Cách đây không lâu, tôi đang đứng ngay đây thì nghe thấy tiếng gầm của Tai Ương Chi Dực vọng ra từ trong tháp."
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_5,是的。不久前，我就在这里，听见了从塔里传来的灾蝶龙的吼声。,"Yes. Not long ago, I heard something right here. A roar of a Scourgewing echoing from that tower...","Đúng vậy. Cách đây không lâu, tôi đang đứng ngay đây thì nghe thấy tiếng gầm của Tai Ương Chi Dực vọng ra từ trong tháp."
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_6,它为什么会在塔里？,Why is it in the tower?,Tại sao nó lại ở trong tháp?
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_7,关于这个……我听过半真半假的传说。据说数百年前，这座高塔的主人曾将一只灾蝶龙收为了仆从。,"Well... there's an old story I once came across. Centuries ago, the warden of this tower tamed a Scourgewing and became its master.","Về chuyện này... tôi từng nghe một truyền thuyết nửa thật nửa giả. Nghe nói hàng trăm năm trước, chủ nhân của tòa tháp này từng thu phục một con Tai Ương Chi Dực làm tôi tớ."
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_9,这对特殊的主仆就居住在塔里，直到黑潮将一切封存。这只灾蝶龙大概就是从那时起就被困住了，和分界山的情况很像。,"The two lived in the tower until the Dark Tide hit and sealed everything off. That must've been when this Scourewing got trapped, similar to what happened to the one in the Border Mountains.","Cặp chủ tớ đặc biệt này đã sống trong tháp cho đến khi Hắc Triều phong ấn tất cả. Có lẽ con Tai Ương Chi Dực này đã bị mắc kẹt từ lúc đó, tình huống rất giống với ở Phân Giới Sơn."
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_10,你在寻找进塔的方法？,Are you trying to get into the tower?,Cậu đang tìm cách vào tháp à?
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_11,嗯。既然分界山的那只灾蝶龙能够重获自由，那么这里的个体或许也可以……,Yes. If the Scourgewing in the Border Mountains could be freed… then maybe this one can too.,"Ừ. Nếu con Tai Ương Chi Dực ở Phân Giới Sơn có thể tìm lại tự do, thì cá thể ở đây có lẽ cũng có thể..."
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_12,但如你所见，当年的黑潮所遗留的增生物彻底封住了大门。凭我的能力，实在无法突破。,"But as you can see, the entrance is sealed by some kind of fibrous growth left behind by the Dark Tide. There's no way I can break through it on my own.","Nhưng như cậu thấy đấy, vật tăng sinh do Hắc Triều năm xưa để lại đã bịt kín cổng lớn. Với khả năng của tôi thì thật sự không thể phá vỡ được."
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_13,我可以想想办法。,I might be able to help.,Tôi có thể nghĩ cách.
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_14,其实，我很擅长进危险的塔。,"Not to brag, but breaking into dangerous towers is my specialty.","Thật ra, tôi rất giỏi đột nhập vào những tòa tháp nguy hiểm."
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_15,这样的话真是太好了。请看，也许这些缠住大门的古怪丝线会是关键。,"That would be wonderful. Here, take a look at these strange threads along the gate. I think they're important.","Nếu vậy thì tốt quá. Cậu xem, biết đâu mấy sợi tơ kỳ quái quấn quanh cổng lớn này lại là mấu chốt."
+lang_multi_text.db,MultiText,POI_RYJTDTK_4_16,欸，你很有经验？请看，也许这些缠住大门的古怪丝线会是关键。,"So you're experienced, huh? Here, take a look at these strange threads along the gate. I think they're important.","Hả, cậu có kinh nghiệm lắm sao? Cậu xem, biết đâu mấy sợi tơ kỳ quái quấn quanh cổng lớn này lại là mấu chốt."
+lang_multi_text.db,MultiText,POI_RYJTDTK_5_1,“兄妹”——伊恩和伊斯。,<i>Brother and Sister: Iaen and Isth</i>,"""Huynh Muội"" - Iaen và Isth."
+lang_multi_text.db,MultiText,POI_RYJTDTK_5_2,这幅画像上描绘的是……两只灾蝶龙？,Are these... two Scourgewings in the painting?,Bức tranh này vẽ... hai con Tai Ương Chi Dực sao?
+lang_multi_text.db,MultiText,POI_RYJTDTK_5_3,嗯，就像传说里记载的那样，它们总是在灾害发生前出现在人们面前。,"Yes. Just like the legends say, they always show up around the time of a disaster.","Ừ, giống như trong truyền thuyết ghi lại, chúng luôn xuất hiện trước mặt mọi người trước khi thảm họa xảy ra."
+lang_multi_text.db,MultiText,POI_RYJTDTK_5_4,古人认为灾蝶龙会给人带来灾祸，以至于命名里都包含了这层误解。但其实，它们只是来向人们示警的信使……,"Back then, people thought Scourgewings caused those disasters. Their name reflects that misunderstanding. But in truth, they were messengers trying to warn people.","Người xưa cho rằng Tai Ương Chi Dực sẽ mang đến tai họa cho con người, đến mức cái tên cũng chứa đựng sự hiểu lầm đó. Nhưng thực ra, chúng chỉ là sứ giả đến cảnh báo mọi người..."
+lang_multi_text.db,MultiText,POI_RYJTDTK_5_5,*凄厉的吼声*,"*A sharp, piercing roar*",*Tiếng gầm thê lương*
+lang_multi_text.db,MultiText,POI_RYJTDTK_5_6,啊，这就是我之前听到的那个吼声。,"Oh, that's the roar I heard earlier!","A, đây chính là tiếng gầm mà tôi nghe thấy lúc nãy."
+lang_multi_text.db,MultiText,POI_RYJTDTK_5_7,声音是从左侧的通道传过来的，过去看看。,It's coming from the passage to the left. I'll go take a look.,"Âm thanh truyền đến từ lối đi bên trái, qua đó xem thử đi."
+lang_multi_text.db,MultiText,POI_RYJTDTK_5_8,请让我与你同行。,Please let me join you.,Xin hãy cho tôi đi cùng.
+lang_multi_text.db,MultiText,POI_RYJTDTK_6_1,小心，这些残象看起来很危险。,Careful. These Tacet Discords look dangerous.,"Cẩn thận, đám Tàn Tượng này trông rất nguy hiểm."
+lang_multi_text.db,MultiText,POI_RYJTDTK_6_2,没关系，交给我吧。,Don't worry. I'll handle them.,"Không sao, cứ giao cho tôi."
+lang_multi_text.db,MultiText,POI_RYJTDTK_7_1,等一下，附近出现了一个特殊的频率，看上去像是……一件头盔？,"Wait, there's a special frequency nearby. Feels like... a helmet?","Đợi đã, gần đây xuất hiện một tần số đặc biệt, trông giống như... một chiếc mũ giáp?"
+lang_multi_text.db,MultiText,POI_RYJTDTK_8_1,呵……让我断了一根肋骨吗？这个月的角斗仍然是我的胜利，伊斯。,"Heh… you managed to break a bone that time. But don't forget, I still won this month's duel, Isth.","Hừ... làm ta gãy một cái xương sườn sao? Trận giác đấu tháng này vẫn là ta thắng, Isth."
+lang_multi_text.db,MultiText,POI_RYJTDTK_8_2,我说过，哪天你在角斗中赢过我，我就还给你自由。但现在的你太过弱小。,"Like I said, the day you beat me in a duel is the day you go free. You're not strong enough yet.","Ta đã nói rồi, ngày nào ngươi thắng ta trong trận giác đấu, ta sẽ trả tự do cho ngươi. Nhưng ngươi của hiện tại quá yếu ớt."
+lang_multi_text.db,MultiText,POI_RYJTDTK_8_3,……哈哈哈，朝我吼也没有用，继续在这座破塔里和我一起待着吧。,"...Haha. Roar all you like, won't change a thing. Looks like you're stuck in this bloody tower with me a while longer.","...Hahaha, gầm gừ với ta cũng vô dụng thôi, tiếp tục ở lại cái tháp rách nát này cùng ta đi."
+lang_multi_text.db,MultiText,POI_RYJTDTK_8_4,这个过去的幻影是这座塔的主人？还有“伊斯”这个名字……,"That might be a lingering specter of the tower warden. And that name, ""Isth""...","Ảo ảnh quá khứ này là chủ nhân của tòa tháp sao? Còn cái tên ""Isth"" nữa..."
+lang_multi_text.db,MultiText,POI_RYJTDTK_8_5,看来留在塔里的，就是刚才的画作中描绘的灾蝶龙中的一只。,It might be the name of the Scourgewing in the tower. And one of the Scourgewings from the painting!,Có vẻ thứ còn lại trong tháp chính là một trong những con Tai Ương Chi Dực được vẽ trong bức tranh lúc nãy.
+lang_multi_text.db,MultiText,POI_RYJTDTK_8_6,原来这对主仆的关系……并不像传说里说的那样和睦？,"So the bond between them… wasn't as noble as the old stories made it out to be, huh?",Hóa ra quan hệ của cặp chủ tớ này... không hề hòa thuận như trong truyền thuyết?
+lang_multi_text.db,MultiText,POI_RYJTDTK_8_7,底下没有路了，可以沿着旁边的阶梯上去。,The path ahead is blocked. We'll have to go up these platforms.,"Bên dưới hết đường rồi, có thể đi lên theo cầu thang bên cạnh."
+lang_multi_text.db,MultiText,POI_RYJTDTK_9_1,那些丝线……又把通道的入口封住了。,Those threads again… they've sealed the way forward.,Mấy sợi tơ đó... lại bịt kín lối vào rồi.
+lang_multi_text.db,MultiText,POI_RYJTDTK_9_2,和前面的处理一样，斩掉它们。,"We'll slash them, same as before.","Xử lý giống lúc trước thôi, chém đứt chúng."
+lang_multi_text.db,MultiText,POI_RYJTDTK_10_1,一场虚伪的角斗，我曾经的宿敌被家族收买，拱手让出了胜利。,"It was a hollow duel. My old rival had been bribed by the House, and in the end, handed me the victory.","Một trận giác đấu giả dối, kẻ thù truyền kiếp của ta đã bị gia tộc mua chuộc, dâng chiến thắng tận tay cho ta."
+lang_multi_text.db,MultiText,POI_RYJTDTK_10_2,竞技场上的荣耀归属于观众，归属于家族，却从未归属于我。,The glory of the arena belongs to the spectators and the House. Never to me.,"Vinh quang trên đấu trường thuộc về khán giả, thuộc về gia tộc, chứ chưa bao giờ thuộc về ta."
+lang_multi_text.db,MultiText,POI_RYJTDTK_10_3,……传说里提到过，这位塔主曾在角斗赛上获得冠军，却拒绝领受荣誉，以至于被逐出了家族。,"The old story mentioned how the warden of this tower once won the championship. But he refused the title. For that, his House cast him out.","...Trong truyền thuyết có nhắc đến, vị chủ tháp này từng đoạt quán quân trong trận giác đấu, nhưng lại từ chối nhận vinh dự, đến nỗi bị đuổi khỏi gia tộc."
+lang_multi_text.db,MultiText,POI_RYJTDTK_10_4,因为……他的对手打了假赛？,Because his opponent threw the match?,Bởi vì... đối thủ của ông ta đã đánh giả?
+lang_multi_text.db,MultiText,POI_RYJTDTK_10_5,嗯，许多角斗士将荣耀看得比生命还重要。比起输掉比赛，他更无法接受虚假的胜利。,"Yes. For most Gladiators, glory matters more than life itself. Failure you can live with. But a false victory? Never.","Ừ, rất nhiều đấu sĩ coi vinh quang quan trọng hơn cả tính mạng. So với việc thua trận, ông ấy càng không thể chấp nhận một chiến thắng giả tạo."
+lang_multi_text.db,MultiText,POI_RYJTDTK_11_1,那些丝线正在向上方延伸，我能感应到……伊斯……灾蝶龙就在那个平台上。,"Those threads stretch upwards. I can feel it... Isth, the Scourgewing, is up on that platform.","Những sợi tơ đó đang kéo dài lên phía trên, tôi có thể cảm nhận được... Isth... Tai Ương Chi Dực đang ở trên bục đó."
+lang_multi_text.db,MultiText,POI_RYJTDTK_11_2,跨越了漫长的时光，它确实就在这座塔中，就在目之所及的地方。,"It has endured across the ages, and now, it's truly here. Within sight, within reach.","Trải qua thời gian đằng đẵng, quả thực nó vẫn đang ở trong tòa tháp này, ngay trong tầm mắt."
+lang_multi_text.db,MultiText,POI_RYJTDTK_12_1,通道又被堵住了，这座塔里好像到处都是障碍啊……,Blocked again. Why are there barricades everywhere in this tower?,"Lối đi lại bị chặn rồi, trong tháp này dường như đâu đâu cũng có chướng ngại vật..."
+lang_multi_text.db,MultiText,POI_RYJTDTK_12_2,习惯了，我来处理。,Figures. Leave it to me.,"Quen rồi, để tôi xử lý."
+lang_multi_text.db,MultiText,POI_RYJTDTK_13_1,咦，楼梯下方也有一幅画作……我们过去看看吧。,Hm? There's another painting downstairs... Let's go take a look.,"Kìa, dưới cầu thang cũng có một bức tranh... chúng ta qua đó xem thử đi."
+lang_multi_text.db,MultiText,POI_RYJTDTK_14_1,分界山，试炼之地——,"The Border Mountains, where trials await—","Phân Giới Sơn, vùng đất thử thách..."
+lang_multi_text.db,MultiText,POI_RYJTDTK_14_2,我寻觅荣耀于荒野，不曾落败，亦不曾欣喜。,"I sought glory in the wilds. Never defeated, yet never truly fulfilled.","Ta tìm kiếm vinh quang nơi hoang dã, chưa từng thất bại, cũng chưa từng hân hoan."
+lang_multi_text.db,MultiText,POI_RYJTDTK_14_3,我向一切强大之物发起挑战，直到与龙订立了契约。龙并未彻底服从，它仍在试图夺回自由。,"I challenged every kind of power, until I forged a pact with the Dragon. Yet it never yielded. It never gave up its freedom.","Ta thách thức mọi thứ mạnh mẽ, cho đến khi lập khế ước với Rồng. Rồng chưa từng thực sự phục tùng, nó vẫn đang cố gắng đoạt lại tự do."
+lang_multi_text.db,MultiText,POI_RYJTDTK_14_4,……这是那位塔主挑战灾蝶龙时的场景，他以古老的角斗礼仪征服了龙，将它收为了眷属。,…This must be the moment the tower's warden faced the Scourgewing. He invoked the ancient rites of dueling to earn the dragon's respect and claim it as his own.,"...Đây là cảnh tượng khi vị chủ tháp đó khiêu chiến với Tai Ương Chi Dực, ông ấy đã dùng nghi thức giác đấu cổ xưa để chinh phục rồng, thu phục nó làm quyến thuộc."
+lang_multi_text.db,MultiText,POI_RYJTDTK_14_5,在那之后，这对主仆仍然在不断地定期进行角斗。真是……让人难以理解的关系。,"After that, they kept challenging each other. It's... hard to understand, really.","Sau đó, cặp chủ tớ này vẫn liên tục tiến hành giác đấu định kỳ. Đúng là... một mối quan hệ khó hiểu."
+lang_multi_text.db,MultiText,POI_RYJTDTK_14_6,这大概就是他们的相处方式。,I suppose this is the way they chose to be with each other.,Có lẽ đây chính là cách chung sống của họ.
+lang_multi_text.db,MultiText,POI_RYJTDTK_15_1,我看见伊斯了……那些古怪的丝线将它困住了。它似乎并不清醒，就像深陷在一场噩梦里。,"It's Isth... Wrapped in those strange threads. It looks unconscious, like it's trapped in a nightmare.","Tôi nhìn thấy Isth rồi... những sợi tơ kỳ quái đó đang trói chặt nó. Nó có vẻ không tỉnh táo, giống như đang chìm sâu trong một cơn ác mộng."
+lang_multi_text.db,MultiText,POI_RYJTDTK_15_2,斩掉周围拦路的丝线，应该就可以靠近它了。,We'll have to cut through the mess to get to it.,Chém đứt mấy sợi tơ chắn đường xung quanh là có thể đến gần nó rồi.
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_1,附近给人的感觉……很像索诺拉。,This place… it feels like a Sonoro.,Cảm giác ở gần đây... rất giống Sonora.
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_2,或许是这座塔里聚集的大量频率使得空间发生了异常的变化。,Like the weight of all the frequencies inside the tower has warped the space itself.,Có lẽ lượng lớn tần số tụ tập trong tháp này đã khiến không gian biến đổi bất thường.
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_3,……盔甲的频率在被吸收？,"Wait, the helmet... Its frequency is being absorbed?",...Tần số của bộ giáp đang bị hấp thụ?
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_4,*似乎带有含义的吼声*,"*A roar echoes, heavy with meaning*",*Tiếng gầm dường như mang hàm ý gì đó*
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_5,它好像在断断续续地说一个词，就像是哀伤的叹息。,"It's trying to say something... it's like a broken, mournful whisper.","Nó dường như đang ngắt quãng nói một từ nào đó, giống như tiếng thở dài bi thương."
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_6,弗……拉……维奥？像是一个人的名字。,Fla...vio? That sounds like a name.,Fla... vio? Giống tên người quá.
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_7,这是这座高塔的主人的名字？,Could it be the tower warden's?,Đây là tên của chủ nhân tòa tháp này?
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_8,很有可能。大概刚才捡到的盔甲，就是弗拉维奥的遗物，所以伊斯才会对它有所反应。,Likely so. And that helmet we found might've been his. That would explain Isth's reaction.,"Rất có khả năng. Có lẽ chiếc mũ giáp nhặt được lúc nãy chính là di vật của Flavio, nên Isth mới có phản ứng với nó."
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_9,……请问，我能拜托你将它从这座囚笼中解放吗？,"...I hate to ask, but can you help set it free?","...Xin hỏi, tôi có thể nhờ cậu giải phóng nó khỏi chiếc lồng giam này không?"
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_10,我想看到它在天空中自由飞翔，而不是像现在这样……匍匐在幽暗的地方。,"I want to see it fly free in the skies again, not locked away in this... shadowed cage.","Tôi muốn nhìn thấy nó tự do bay lượn trên bầu trời, chứ không phải như bây giờ... phủ phục ở nơi tối tăm này."
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_11,嗯。这座塔的下方沉积着大量的频率，我们过去看看。,Of course. There should be more frequencies in the lower area. Let's search for them.,"Được. Bên dưới tháp tích tụ một lượng lớn tần số, chúng ta xuống xem thử."
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_12,如果将更多类似的频率交给伊斯，也许就能让它从噩梦中醒来。,"If we can recover more of these frequencies for Isth, it might be able to wake from its nightmare.","Nếu đưa thêm nhiều tần số tương tự cho Isth, biết đâu có thể khiến nó tỉnh lại từ ác mộng."
+lang_multi_text.db,MultiText,POI_RYJTDTK_16_13,你察觉到，先前拾取的头盔化作了频率，融入了龙的躯体。,"For a moment, you feel the helmet dissolve into a frequency, merging with the dragon's own.","Cậu cảm thấy chiếc mũ giáp nhặt được trước đó hóa thành tần số, hòa vào cơ thể của rồng."
+lang_multi_text.db,MultiText,POI_RYJTDTK_17_2,那些虚影一般的平台变成了实体……,Those specter-like platforms just solidified out of nowhere...,Những cái bục trông như ảo ảnh đó đã biến thành thực thể...
+lang_multi_text.db,MultiText,POI_RYJTDTK_17_3,似乎是伊斯用周围游离的频率复原了早已崩塌的建筑。,It's like Isth is using the scattered frequencies to restore the crumbled platforms.,Dường như Isth đã dùng các tần số trôi nổi xung quanh để phục hồi kiến trúc đã sụp đổ từ lâu.
+lang_multi_text.db,MultiText,POI_RYJTDTK_17_4,它在给我们提供帮助——我们可以沿着阶梯前往下方的区域了。,It's helping us. Now we can take the stairs to the lower level.,Nó đang giúp chúng ta - chúng ta có thể theo cầu thang đi xuống khu vực bên dưới rồi.
+lang_multi_text.db,MultiText,POI_RYJTDTK_18_1,阿南刻海眼古而有之，暗潮涌动，残象频生。,"The Eye of Ananke, ancient and enduring. The Dark Tide stirs, and Tacet Discords continue to manifest.","Mắt Biển Ananke có từ xa xưa, sóng ngầm cuộn trào, Tàn Tượng thường xuyên xuất hiện."
+lang_multi_text.db,MultiText,POI_RYJTDTK_18_2,此塔为黑海岸与七丘共建，旨在监测海眼，预警灾害。,"This tower stands as a joint effort between the Black Shores and Septimont, built to monitor the Eye and provide early warnings of impending disasters.","Tòa tháp này do Bờ Biển Đen và Thất Khâu cùng xây dựng, nhằm giám sát Mắt Biển, cảnh báo tai họa."
+lang_multi_text.db,MultiText,POI_RYJTDTK_18_3,“但这些年，它只是静静地仰望天空，就像死亡一样平静。”,"""But over the years, it has done nothing but gaze silently at the sky, as still as death itself.""","""Nhưng những năm nay, nó chỉ lặng lẽ ngước nhìn bầu trời, bình yên như cái chết."""
+lang_multi_text.db,MultiText,POI_RYJTDTK_18_4,守塔者：████，███，阿尔奇德，弗拉维奥,"Tower Guardians: ████, ███, Archid, Flavio.","Người giữ tháp: ████, ███, Archid, Flavio"
+lang_multi_text.db,MultiText,POI_RYJTDTK_18_5,这座塔……曾是黑海岸设立的一处观测设施？,This tower… was once a Black Shores' observation facility?,Tòa tháp này... từng là một cơ sở quan trắc do Bờ Biển Đen thiết lập sao?
+lang_multi_text.db,MultiText,POI_RYJTDTK_19_1,阿尔奇德，弗拉维奥，伊斯。,"Archid, Flavio, and Isth.","Archid, Flavio, Isth."
+lang_multi_text.db,MultiText,POI_RYJTDTK_19_2,这段短暂的友谊始于荒野，终于荒野。,"In memory of a fleeting friendship—born in the wilds, and ended there as well.","Tình bạn ngắn ngủi này bắt đầu từ nơi hoang dã, và kết thúc cũng tại nơi hoang dã."
+lang_multi_text.db,MultiText,POI_RYJTDTK_21_1,伊斯，你在害怕。有什么事将要发生了吗?,"Isth… you're nervous. Something's coming, isn't it?","Isth, ngươi đang sợ hãi. Có chuyện gì sắp xảy ra sao?"
+lang_multi_text.db,MultiText,POI_RYJTDTK_21_2,……我知道，你和伊恩的感官很敏锐，所以总能感受到灾害的先兆。,…I know. You and Iaen have always had a feel for when something's about to go wrong.,"...Ta biết, giác quan của ngươi và Iaen rất nhạy bén, nên luôn có thể cảm nhận được điềm báo tai họa."
+lang_multi_text.db,MultiText,POI_RYJTDTK_21_3,问题并不是出在海眼，那……还会是什么？,But it's not the Eye this time. So… what could it be?,"Vấn đề không nằm ở Mắt Biển, vậy thì... còn có thể là gì chứ?"
+lang_multi_text.db,MultiText,POI_RYJTDTK_21_4,算了，无论来的是什么，这就是观测塔矗立在这里的意义，也是我们这些年留下来的意义。,"Well, whatever it is, that's why this tower was built. That's why we stayed all these years.","Thôi kệ, dù thứ gì đến đi nữa, thì đó chính là ý nghĩa tòa tháp quan trắc này sừng sững ở đây, cũng là ý nghĩa chúng ta ở lại bao năm nay."
+lang_multi_text.db,MultiText,POI_RYJTDTK_21_5,……终于要轮到我了吗，阿尔奇德？,"…Is it finally my turn, Archid?","...Cuối cùng cũng đến lượt tôi rồi sao, Archid?"
+lang_multi_text.db,MultiText,POI_RYJTDTK_21_6,我们看到的是……灾害到来前的画面？,Are we seeing... what happened right before disaster strikes?,Thứ chúng ta nhìn thấy là... hình ảnh trước khi tai họa ập đến?
+lang_multi_text.db,MultiText,POI_RYJTDTK_21_7,……先去伊斯的身边吧。,…Come on. Let's go find Isth.,...Đến chỗ Isth trước đã.
+lang_multi_text.db,MultiText,POI_RYJTDTK_21_8,嗯，我们将收集到的盔甲和武器的频率交给伊斯试试。,Okay. Let's give it the frequencies we found in the armor and weapons.,"Ừ, chúng ta thử đưa tần số của vũ khí và áo giáp thu thập được cho Isth xem sao."
+lang_multi_text.db,MultiText,POI_RYJTDTK_22_1,伊斯的力量恢复了一些，但丝线又缠了回去……这些负面的频率并没有那么容易消散。,"Isth's power has recovered a little, but those threads have coiled around it again... These corrupted frequencies aren't so easily dispelled.","Sức mạnh của Isth đã hồi phục một chút, nhưng tơ lại quấn chặt lại rồi... những tần số tiêu cực này không dễ tan biến như vậy."
+lang_multi_text.db,MultiText,POI_RYJTDTK_22_2,……自天边而来的浓黑色云雾，吞噬一切的黑色浪潮……初步确认为一种全新的海蚀现象。,That thick black fog on the horizon… the all-devouring Dark Tide. It's been preliminarily identified as a new form of Waveworn Phenomenon.,"...Mây mù đen kịt từ chân trời ập tới, làn sóng đen nuốt chửng mọi thứ... xác nhận sơ bộ là một hiện tượng biển xâm thực hoàn toàn mới."
+lang_multi_text.db,MultiText,POI_RYJTDTK_22_3,所有防范措施都失效了，幸好我在第一时间拉响了警报。这个信号应该可以及时地传达七丘全域。,"All our defenses failed, but I managed to sound the alarm in time. The signal should have reached all of Septimont.","Mọi biện pháp phòng thủ đều vô hiệu, may mà tôi đã kéo còi báo động ngay lập tức. Tín hiệu này hẳn có thể truyền đến toàn bộ khu vực Thất Khâu kịp thời."
+lang_multi_text.db,MultiText,POI_RYJTDTK_22_4,啧，明明只是沾到了一点那玩意，就感觉脑子里有一万个人在说话。这只手臂不能留了。,Tch. Just brushing against that thing… feels like a thousand voices clawing through my skull. This arm's done for.,"Chậc, rõ ràng chỉ dính phải một chút thứ đó, mà cảm giác như có vạn người đang nói chuyện trong đầu. Cánh tay này không giữ được rồi."
+lang_multi_text.db,MultiText,POI_RYJTDTK_22_5,*悲伤的吼声*,"*A low, sorrowful roar*",*Tiếng gầm bi thương*
+lang_multi_text.db,MultiText,POI_RYJTDTK_22_6,多谢，感觉好点了。啊，伊斯，我们之间漫长的角斗和折磨终于告一段落了。,"Thanks. That feels better. Ah, Isth… After all the duels and clashes between us, it's finally over.","Đa tạ, cảm thấy đỡ hơn rồi. A, Isth, những trận giác đấu và giày vò đằng đẵng giữa chúng ta cuối cùng cũng kết thúc rồi."
+lang_multi_text.db,MultiText,POI_RYJTDTK_22_7,我会留下来，将一线的观测数据传输回泰缇斯。这里就是我的终点。,I'll stay. Someone has to send this observation data back to Tethys. This is where my journey ends.,"Ta sẽ ở lại, truyền dữ liệu quan trắc tuyến đầu về Tethys. Đây chính là điểm cuối của ta."

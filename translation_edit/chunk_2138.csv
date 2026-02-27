@@ -1,308 +1,305 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Term130603_Title,权炳,Ascendancy,Quyền Bính
-lang_multi_text.db,MultiText,Term130604_Desc,"【威慑】上限为2层。
-·施放<color=Highlight>共鸣技能·不败恒阳·落袭</color>时，奥古斯塔获得1层【威慑】。
-·队友处于奥古斯塔<color=Highlight>延奏技能·不屈的战歌</color>的效果期间，施放<color=Highlight>延奏技能</color>时，奥古斯塔获得1层【威慑】。","Augusta can hold up to 2 stacks of Majesty.
-- 1 stack of Majesty is obtained when casting <color=Highlight>Resonance Skill - Undying Sunlight: Plunge</color>.
-- 1 stack of Majesty is obtained when Resonators in the team cast <color=Highlight>Outro Skills</color> under the effect of Augusta's <color=Highlight>Outro Skill - Battlesong of the Unyielding</color>.","[Uy Nhiếp] tối đa 2 tầng.
-.Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng - Bất Bại Hằng Dương - Lạc Tập</color>, Augusta nhận 1 tầng [Uy Nhiếp].
-.Đồng đội trong thời gian hiệu lực của <color=Highlight>Kỹ Năng Hiệp Tấu - Chiến Ca Bất Khuất</color> của Augusta, khi thi triển <color=Highlight>Kỹ Năng Hiệp Tấu</color>, Augusta nhận 1 tầng [Uy Nhiếp]."
-lang_multi_text.db,MultiText,Term130604_Title,威慑,Majesty,Uy Nhiếp
-lang_multi_text.db,MultiText,Term130605_Desc,"·<color=Highlight>王之界域</color>持续{3}秒。
-·<color=Highlight>王之界域</color>存在时：队伍中角色施放<color=Highlight>变奏技能</color>时，获得基于奥古斯塔最大生命{4}+{5}的护盾，不可叠加，持续{6}秒。该护盾在切换至其他角色时不会继承。","- <color=Highlight>Ruler's Realm</color> lasts for {3}s.
-- When Resonators in the team casts <color=Highlight>Intro Skill</color> within <color=Highlight>Ruler's Realm</color>, they gain a shield equal to {5} + {4} of Augusta's Max HP for {6}s. This effect is unstackable. This Shield will not be passed on to the incoming Resonator.",".<color=Highlight>Vương Chi Giới Vực</color> duy trì {3} giây.
-.Khi <color=Highlight>Vương Chi Giới Vực</color> tồn tại: Nhân vật trong đội thi triển <color=Highlight>Kỹ Năng Biến Tấu</color>, nhận khiên dựa trên {4} HP tối đa của Augusta +{5}, không thể cộng dồn, duy trì {6} giây. Khiên này không được kế thừa khi chuyển sang nhân vật khác."
-lang_multi_text.db,MultiText,Term130605_Title,王之界域,Ruler's Realm,Vương Chi Giới Vực
-lang_multi_text.db,MultiText,Term130606_Desc,"<color=Highlight>俯首之刻</color>持续期间时间暂时停止，<color=Highlight>不能切换角色</color>，仅能施放<color=Highlight>赫日威临·烈阳</color>、<color=Highlight>赫日威临·不朽者之肃</color>、<color=Highlight>闪避</color>，处于空中状态时可以施放<color=Highlight>空中攻击</color>。
-·<color=Highlight>俯首之刻</color>期间，<color=Highlight>短按普攻</color>或<color=Highlight>长按普攻</color>可施放<color=Highlight>赫日威临·烈阳</color>。可在水面行走且不消耗耐力。
-·<color=Highlight>俯首之刻</color>结束时自动施放<color=Highlight>赫日威临·不朽者之肃</color>。
-·若进行<color=Highlight>场景、玩法、或功能交互</color>时，将强制结束<color=Highlight>俯首之刻</color>，且不会自动施放<color=Highlight>赫日威临·不朽者之肃</color>。","- In the <color=Highlight>Sworn Allegiance</color> state, time is temporarily stopped, and <color=Highlight>Resonator switching</color> is disabled. Only <color=Highlight>Sublime is the Sun - Sunborne</color>, <color=Highlight>Sublime is the Sun - Everbright Protector</color>, and <color=Highlight>Dodge</color> can be performed in the <color=Highlight>Sworn Allegiance</color> state. <color=Highlight>Mid-air Attacks</color> can be performed in this state while airborne.
-- In the <color=Highlight>Sworn Allegiance</color> state, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press}</color> or <color=Highlight>hold Normal Attack</color> to cast <color=Highlight>Sublime is the Sun - Sunborne</color>. Augusta can walk on water without consuming STA in this state.
-- When <color=Highlight>Sworn Allegiance</color> ends, cast <color=Highlight>Sublime is the Sun - Everbright Protector</color> automatically.
-- Performing <color=Highlight>environmental, gameplay, or other interactions</color> ends <color=Highlight>Sworn Allegiance</color> without triggering <color=Highlight>Sublime is the Sun - Everbright Protector</color>.","Trong thời gian duy trì <color=Highlight>Thời Khắc Cúi Đầu</color>, thời gian tạm dừng, <color=Highlight>không thể đổi nhân vật</color>, chỉ có thể thi triển <color=Highlight>Hách Nhật Uy Lâm - Liệt Dương</color>, <color=Highlight>Hách Nhật Uy Lâm - Bất Hủ Giả Chi Túc</color>, <color=Highlight>Né Tránh</color>, khi ở trên không có thể thi triển <color=Highlight>Tấn Công Trên Không</color>.
-.Trong thời gian <color=Highlight>Thời Khắc Cúi Đầu</color>, <color=Highlight>nhấn nhanh Đánh Thường</color> hoặc <color=Highlight>nhấn giữ Đánh Thường</color> có thể thi triển <color=Highlight>Hách Nhật Uy Lâm - Liệt Dương</color>. Có thể đi trên mặt nước và không tiêu hao Thể Lực.
-.Khi <color=Highlight>Thời Khắc Cúi Đầu</color> kết thúc, tự động thi triển <color=Highlight>Hách Nhật Uy Lâm - Bất Hủ Giả Chi Túc</color>.
-.Nếu thực hiện <color=Highlight>tương tác cảnh quan, cách chơi, hoặc chức năng</color>, sẽ buộc kết thúc <color=Highlight>Thời Khắc Cúi Đầu</color>, và sẽ không tự động thi triển <color=Highlight>Hách Nhật Uy Lâm - Bất Hủ Giả Chi Túc</color>."
-lang_multi_text.db,MultiText,Term130606_Title,俯首之刻,Sworn Allegiance,Thời Khắc Cúi Đầu
-lang_multi_text.db,MultiText,Term130701_Desc,"【卦象】上限{0}枚，达上限时，再次获取【卦象】，所有【卦象】将左移{1}格，最左侧【卦象】将被移除。
-·<color=Highlight>普攻第2段</color>造成伤害时获得【卦象·艮】。
-·<color=Highlight>普攻第4段</color>、<color=Highlight>空中攻击</color>造成伤害时获得【卦象·震】。
-·施放<color=Highlight>共鸣技能·遁影牵雷</color>时获得【卦象·震】。","Buling can hold up to {0} Trigrams. When Trigrams reach the max number, gaining new Trigrams moves all Trigrams {1} slot to the left, and the original leftmost Trigram will be removed.
-- Trigram - Mountain is obtained when <color=Highlight>Basic Attack Stage 2</color> deals damage.
-- Trigram - Thunder is obtained when <color=Highlight>Basic Attack Stage 4</color> or <color=Highlight>Mid-air Attack</color> deals damage.
-- Trigram - Thunder is obtained when casting <color=Highlight>Resonance Skill - In Shadow Thunder Stirs</color>.","[Quẻ Tượng] tối đa {0} quẻ, khi đạt giới hạn, nhận thêm [Quẻ Tượng], tất cả [Quẻ Tượng] sẽ dịch sang trái {1} ô, [Quẻ Tượng] ngoài cùng bên trái sẽ bị xóa.
-.<color=Highlight>Đánh Thường đoạn 2</color> gây sát thương nhận [Quẻ Tượng - Cấn].
-.<color=Highlight>Đánh Thường đoạn 4</color>, <color=Highlight>Tấn Công Trên Không</color> gây sát thương nhận [Quẻ Tượng - Chấn].
-.Khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng - Độn Ảnh Khiên Lôi</color> nhận [Quẻ Tượng - Chấn]."
-lang_multi_text.db,MultiText,Term130701_Title,卦象,Trigram,Quẻ Tượng
-lang_multi_text.db,MultiText,Term130702_Desc,拥有【少阴】和【少阳】时，卜灵进入<color=Highlight>【阴阳相生】</color>状态，<color=Highlight>共鸣解放·飞雷诀</color>替换为<color=Highlight>共鸣解放·飞雷诀·归一</color>。,"When Buling obtains Minor Yin and Minor Yang, she enters the <color=Highlight>Yin-Yang Balance</color> state, replacing her <color=Highlight>Resonance Liberation - Flashing Thunder Spell</color> with <color=Highlight>Resonance Liberation - Flashing Thunder Spell: Harmony</color>.","Khi sở hữu [Thiếu Âm] và [Thiếu Dương], Buling vào trạng thái <color=Highlight>[Âm Dương Tương Sinh]</color>, <color=Highlight>Giải Phóng Cộng Hưởng - Phi Lôi Quyết</color> thay thế bằng <color=Highlight>Giải Phóng Cộng Hưởng - Phi Lôi Quyết - Quy Nhất</color>."
-lang_multi_text.db,MultiText,Term130702_Title,阴阳相生,Yin-Yang Balance,Âm Dương Tương Sinh
-lang_multi_text.db,MultiText,Term130703_Desc,"<color=Highlight>【五雷荡煞阵】</color>持续期间，队伍中的角色获得<color=Highlight>【雷法·一气初动】</color>状态。
-·<color=Highlight>【雷法·一气初动】</color>状态持续期间，队伍中的角色施放<color=Highlight>变奏技能</color>后，<color=Highlight>【雷法·一气初动】</color>替换为<color=Highlight>【雷法·两仪交泰】</color>。
-·<color=Highlight>【雷法·两仪交泰】</color>状态持续期间，使队伍中登场的角色<color=Highlight>共鸣技能</color>伤害加成提升{0}。队伍中的角色施放<color=Highlight>变奏技能</color>后，<color=Highlight>【雷法·两仪交泰】</color>替换为<color=Highlight>【雷法·三才合一】</color>。
-·<color=Highlight>【雷法·三才合一】</color>状态持续期间，使队伍中登场的角色<color=Highlight>共鸣技能</color>伤害加成提升{1}。","When <color=Highlight>Five Thunders Spell Array</color> is active, all Resonators in the team enter the <color=Highlight>Thunder Spell - Primordial Qi</color> state.
-- While in the <color=Highlight>Thunder Spell - Primordial Qi</color> state, when any Resonator in the team casts <color=Highlight>Intro Skill</color>,  <color=Highlight>Thunder Spell - Primordial Qi</color> becomes <color=Highlight>Thunder Spell - Yin and Yang</color>.
-- <color=Highlight>Thunder Spell - Yin and Yang</color> grants {0} <color=Highlight>Resonance Skill</color> DMG Bonus to active Resonators in the team. When any Resonator in the team casts <color=Highlight>Intro Skill</color> during this state, <color=Highlight>Thunder Spell - Yin and Yang</color> becomes <color=Highlight>Thunder Spell - Heaven, Earth, Mind</color>.
-- <color=Highlight>Thunder Spell - Heaven, Earth, Mind</color> grants {1} <color=Highlight>Resonance Skill</color> DMG Bonus to active Resonators in the team.","Trong thời gian duy trì <color=Highlight>[Ngũ Lôi Đãng Sát Trận]</color>, nhân vật trong đội nhận trạng thái <color=Highlight>[Lôi Pháp - Nhất Khí Sơ Động]</color>.
-.Trong thời gian duy trì trạng thái <color=Highlight>[Lôi Pháp - Nhất Khí Sơ Động]</color>, sau khi nhân vật trong đội thi triển <color=Highlight>Kỹ Năng Biến Tấu</color>, <color=Highlight>[Lôi Pháp - Nhất Khí Sơ Động]</color> thay thế bằng <color=Highlight>[Lôi Pháp - Lưỡng Nghi Giao Thái]</color>.
-.Trong thời gian duy trì trạng thái <color=Highlight>[Lôi Pháp - Lưỡng Nghi Giao Thái]</color>, tăng {0} sát thương <color=Highlight>Kỹ Năng Cộng Hưởng</color> cho nhân vật ra trận trong đội. Sau khi nhân vật trong đội thi triển <color=Highlight>Kỹ Năng Biến Tấu</color>, <color=Highlight>[Lôi Pháp - Lưỡng Nghi Giao Thái]</color> thay thế bằng <color=Highlight>[Lôi Pháp - Tam Tài Hợp Nhất]</color>.
-.Trong thời gian duy trì trạng thái <color=Highlight>[Lôi Pháp - Tam Tài Hợp Nhất]</color>, tăng {1} sát thương <color=Highlight>Kỹ Năng Cộng Hưởng</color> cho nhân vật ra trận trong đội."
-lang_multi_text.db,MultiText,Term130703_Title,五雷荡煞阵,Five Thunders Spell Array,Ngũ Lôi Đãng Sát Trận
-lang_multi_text.db,MultiText,Term130704_Desc,<color=Highlight>【雷法·三才合一】</color>状态持续期间，使队伍中登场的角色<color=Highlight>共鸣技能</color>伤害加成提升{0}。,"<color=Highlight>Thunder Spell - Heaven, Earth, Mind</color> grants {0} <color=Highlight>Resonance Skill</color> DMG Bonus to active Resonators in the team.","Trong thời gian duy trì trạng thái <color=Highlight>[Lôi Pháp - Tam Tài Hợp Nhất]</color>, tăng {0} sát thương <color=Highlight>Kỹ Năng Cộng Hưởng</color> cho nhân vật ra trận trong đội."
-lang_multi_text.db,MultiText,Term130704_Title,雷法·三才合一,"Thunder Spell - Heaven, Earth, Mind",Lôi Pháp - Tam Tài Hợp Nhất
-lang_multi_text.db,MultiText,Term141001_Desc,"可在<color=Highlight>弦月</color>和<color=Highlight>新月</color>状态之间切换。
-弦月状态：攻击命中目标回复特殊能量。
-新月状态：施放普攻、共鸣技能、闪避反击时消耗特殊能量，并提升该次技能造成的伤害的倍率。","Iuno can switch between <color=Highlight>Half Moon</color> and <color=Highlight>New Moon</color> states.
-Half Moon: Attacks recover Forte Gauge on hit. 
-New Moon: Basic Attack, Resonance Skill, and Dodge Counter consume Forte Gauge to increase this skill's DMG Multiplier.","Có thể chuyển đổi giữa trạng thái <color=Highlight>Huyền Nguyệt</color> và <color=Highlight>Tân Nguyệt</color>.
-Trạng thái Huyền Nguyệt: Tấn công trúng mục tiêu hồi phục năng lượng đặc biệt.
-Trạng thái Tân Nguyệt: Khi thi triển Đánh Thường, Kỹ Năng Cộng Hưởng, Phản Kích Né Tránh tiêu hao năng lượng đặc biệt, đồng thời tăng bội số sát thương gây ra của kỹ năng lần đó."
-lang_multi_text.db,MultiText,Term141001_Title,月相流转,Lunar Cycle,Nguyệt Tướng Lưu Chuyển
-lang_multi_text.db,MultiText,Term141002_Desc,角色全伤害加深4%，持续10秒，可叠加10层，重复添加时刷新持续时间。若切换至其他角色则该效果提前结束。,"The receiving Resonator gains 4% all DMG Amplification for 10s, stacking up to 10 times. Gaining new stacks resets the duration. This effect ends early if the receiving Resonator is switched off the field.","Toàn bộ sát thương của nhân vật tăng thêm 4%, duy trì 10 giây, có thể cộng dồn 10 tầng, khi thêm mới sẽ làm mới thời gian duy trì. Nếu chuyển sang nhân vật khác thì hiệu quả này kết thúc sớm."
-lang_multi_text.db,MultiText,Term141002_Title,苍白死光的祝颂,Blessing of the Wan Light,Lời Chúc Của Tử Quang Nhợt Nhạt
-lang_multi_text.db,MultiText,Term141003_Desc,"【灵性】上限100点。
-尤诺施放变奏技能时，可获得40点<color=Highlight>【灵性】</color>。
-尤诺施放共鸣解放时，可获得60点<color=Highlight>【灵性】</color>。
-尤诺施放<color=Highlight>告终的喧响</color>或<color=Highlight>未终的喧响</color>时，可获得25点<color=Highlight>【灵性】</color>。
-尤诺处于<color=Highlight>月相流转</color>状态时，月环·普攻、月环·闪避反击、空中攻击命中目标时，可获得<color=Highlight>【灵性】</color>。","Iuno can hold up to 100 points of <color=Highlight>Sentience</color>.
-Casting Intro Skill restores 40 points of <color=Highlight>Sentience</color>.
-Casting Resonance Liberation restores 60 points of <color=Highlight>Sentience</color>.
-Casting <color=Highlight>Closing Refrain</color> or <color=Highlight>Unfinished Refrain</color> restores 25 points of <color=Highlight>Sentience</color>.
-When Iuno is in <color=Highlight>Lunar Cycle</color>, Moonring - Basic Attack,  Moonring - Dodge Counter, and Mid-air Attack restore <color=Highlight>Sentience</color> on hit.","Giới hạn <color=Highlight>Linh Tính</color> là 100 điểm.
-Khi Iuno thi triển Kỹ Năng Biến Tấu, nhận được 40 điểm <color=Highlight>Linh Tính</color>.
-Khi Iuno thi triển Giải Phóng Cộng Hưởng, nhận được 60 điểm <color=Highlight>Linh Tính</color>.
-Khi Iuno thi triển <color=Highlight>Tiếng Vang Kết Thúc</color> hoặc <color=Highlight>Tiếng Vang Chưa Dứt</color>, nhận được 25 điểm <color=Highlight>Linh Tính</color>.
-Khi Iuno trong trạng thái <color=Highlight>Chu Kỳ Trăng</color>, Nguyệt Hoàn - Đánh Thường, Nguyệt Hoàn - Né Phản Kích, Tấn Công Trên Không trúng mục tiêu sẽ nhận được <color=Highlight>Linh Tính</color>."
-lang_multi_text.db,MultiText,Term141003_Title,灵性,Sentience,Linh Tính
-lang_multi_text.db,MultiText,Term141101_Desc,"【挑灯问剑】上限为600点。
-·施放<color=Highlight>普攻</color>第三段时，获得【挑灯问剑】100点。
-·施放普攻<color=Highlight>答剑·质黑相青</color>每段时，获得【挑灯问剑】100点。
-·施放<color=Highlight>闪避反击</color>时，获得【挑灯问剑】100点。
-·施放<color=Highlight>变奏技能</color>时，获得【挑灯问剑】400点。
-·【淋漓醉墨】状态期间，无法获得【挑灯问剑】。
-·【淋漓醉墨】状态结束时，清空【挑灯问剑】。","Qiuyuan can hold up to 600 points of Swordster's Soliloquy.
-- 100 points of Swordster's Soliloquy is obtained when performing <color=Highlight>Basic Attack</color> Stage 3.
-- 100 points of Swordster's Soliloquy is obtained when performing each stage of <color=Highlight>Thus Spoke the Blade: Inkwash</color>.
-- 100 points of Swordster's Soliloquy is obtained when performing <color=Highlight>Dodge Counter</color>.
-- 400 points of Swordster's Soliloquy is obtained when performing <color=Highlight>Intro Skill</color>.
-- Swordster's Soliloquy cannot be obtained during the Inksplash of Mind state.
-- Swordster's Soliloquy is cleared when the Inksplash of Mind state ends.","Giới hạn <color=Highlight>Khiêu Đăng Vấn Kiếm</color> là 600 điểm.
-. Khi thi triển <color=Highlight>Đánh Thường</color> đoạn 3, nhận 100 điểm Khiêu Đăng Vấn Kiếm.
-. Khi thi triển mỗi đoạn Đánh Thường <color=Highlight>Đáp Kiếm - Chất Hắc Tướng Thanh</color>, nhận 100 điểm Khiêu Đăng Vấn Kiếm.
-. Khi thi triển <color=Highlight>Né Phản Kích</color>, nhận 100 điểm Khiêu Đăng Vấn Kiếm.
-. Khi thi triển <color=Highlight>Kỹ Năng Biến Tấu</color>, nhận 400 điểm Khiêu Đăng Vấn Kiếm.
-. Trong thời gian trạng thái <color=Highlight>Lâm Ly Túy Mặc</color>, không thể nhận Khiêu Đăng Vấn Kiếm.
-. Khi kết thúc trạng thái <color=Highlight>Lâm Ly Túy Mặc</color>, xóa sạch Khiêu Đăng Vấn Kiếm."
-lang_multi_text.db,MultiText,Term141101_Title,挑灯问剑,Swordster's Soliloquy,Khiêu Đăng Vấn Kiếm
-lang_multi_text.db,MultiText,Term141102_Desc,"【挑灯问剑】满时，仇远进入<color=Highlight>【淋漓醉墨】</color>状态，<color=Highlight>重击</color>替换为重击<color=Highlight>答剑·割股之心</color>，持续8秒。
-【淋漓醉墨】状态下，长按<color=Highlight>普攻</color>可消耗【挑灯问剑】依次施放重击<color=Highlight>答剑·弦歌不辍</color>、<color=Highlight>答剑·割股之心</color>、<color=Highlight>答剑·忠烈死节</color>，造成<color=Wind>气动伤害</color>，此伤害视为重击伤害。
-·【挑灯问剑】耗尽时，仇远提前退出【淋漓醉墨】状态。","When Swordster's Soliloquy is full, Qiuyuan enters the <color=Highlight>Inksplash of Mind</color> state for 8s. During this state, <color=Highlight>Heavy Attack</color> is replaced by Heavy Attack <color=Highlight>Thus Spoke the Blade: To Save</color>.
-In this state, hold <color=Highlight>Normal Attack</color> to consume Swordster's Soliloquy to perform Heavy Attack <color=Highlight>Thus Spoke the Blade: To Teach</color>, <color=Highlight>Thus Spoke the Blade: To Save</color>, and <color=Highlight>Thus Spoke the Blade: To Sacrifice</color> in order, dealing <color=Wind>Aero DMG</color>, considered as Heavy Attack DMG.
-- Inksplash of Mind ends when Swordster's Soliloquy is used up.","Khi <color=Highlight>Khiêu Đăng Vấn Kiếm</color> đầy, Qiuyuan vào trạng thái <color=Highlight>Lâm Ly Túy Mặc</color>, <color=Highlight>Đánh Mạnh</color> thay thế bằng Đánh Mạnh <color=Highlight>Đáp Kiếm - Cát Cổ Chi Tâm</color>, duy trì 8 giây.
-Trong trạng thái Lâm Ly Túy Mặc, nhấn giữ <color=Highlight>Đánh Thường</color> tiêu hao Khiêu Đăng Vấn Kiếm để lần lượt thi triển Đánh Mạnh <color=Highlight>Đáp Kiếm - Huyền Ca Bất Xuyết</color>, <color=Highlight>Đáp Kiếm - Cát Cổ Chi Tâm</color>, <color=Highlight>Đáp Kiếm - Trung Liệt Tử Tiết</color>, gây <color=Wind>Sát Thương Khí Động</color>, sát thương này được coi là sát thương Đánh Mạnh.
-. Khi Khiêu Đăng Vấn Kiếm cạn kiệt, Qiuyuan thoát trạng thái Lâm Ly Túy Mặc trước thời hạn."
-lang_multi_text.db,MultiText,Term141102_Title,淋漓醉墨,Inksplash of Mind,Lâm Ly Túy Mặc
-lang_multi_text.db,MultiText,Term141103_Desc,【挑灯问剑】达到400点时，获得<color=Highlight>【竹照】</color>效果，附近队伍中的登场角色声骸技能伤害加成提升30%，持续30秒。,"When Qiuyuan holds 400 points of Swordster's Soliloquy, he obtains the <color=Highlight>Bamboo's Shade</color> effect, allowing all nearby active Resonators in the team to gain 30% Echo Skill DMG Bonus for 30s.","Khi <color=Highlight>Khiêu Đăng Vấn Kiếm</color> đạt 400 điểm, nhận hiệu quả <color=Highlight>Trúc Chiếu</color>, tăng 30% sát thương Kỹ Năng Thanh Hài cho nhân vật đang tham chiến trong đội gần đó, duy trì 30 giây."
-lang_multi_text.db,MultiText,Term141103_Title,竹照,Bamboo's Shade,Trúc Chiếu
-lang_multi_text.db,MultiText,Term150801_Desc,拥有<color=Highlight>虚无绞痕</color>的目标受到角色直接造成的伤害时，千咲为目标附加{0}层<color=Highlight>虚湮效应</color>，该效果每{1}秒最多触发1次。,"When targets marked by <color=Highlight>Unseen Snare</color> take direct damage from Resonators, Chisa inflicts <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of <color=Highlight>Havoc Bane</color> on them. This effect can be triggered up to once every {1}s.","Khi mục tiêu có <color=Highlight>Vết Siết Hư Vô</color> chịu sát thương trực tiếp từ nhân vật, Chisa gắn thêm cho mục tiêu {0} tầng <color=Highlight>Hiệu Ứng Hư Diệt</color>, hiệu quả này mỗi {1} giây kích hoạt tối đa 1 lần."
-lang_multi_text.db,MultiText,Term150801_Title,虚无绞痕,Unseen Snare,Vết Siết Hư Vô
-lang_multi_text.db,MultiText,Term150802_Desc,对拥有<color=Highlight>虚无绞痕</color>的目标造成伤害时，可无视其{0}防御。,"When dealing damage to the targets affected by <color=Highlight>Unseen Snare</color>, ignore {0} of their DEF.","Khi gây sát thương lên mục tiêu có <color=Highlight>Vết Siết Hư Vô</color>, có thể bỏ qua {0} phòng thủ của mục tiêu."
-lang_multi_text.db,MultiText,Term150802_Title,虚湮之线,Thread of Bane,Sợi Chỉ Hư Diệt
-lang_multi_text.db,MultiText,Term150803_Desc,"<color=Highlight>【锯环残响】</color>上限{0}点。
-<color=Highlight>常态攻击</color>、共鸣技能<color=Highlight>解弦之眼</color>命中目标时，获得<color=Highlight>【锯环残响】</color>。
-施放共鸣解放<color=Highlight>即刻·归无</color>时，获得{1}点<color=Highlight>【锯环残响】</color>。
-施放变奏技能<color=Highlight>鸣响·再临</color>时，获得{2}点<color=Highlight>【锯环残响】</color>。","Chisa can hold up to {0} points of <color=Highlight>Ring of Chainsaw</color>.
-Hitting a target with <color=Highlight>Normal Attack </color> and Resonance Skill <color=Highlight>Eye of Unraveling</color> grants <color=Highlight>Ring of Chainsaw</color>.
-Casting Resonance Liberation <color=Highlight>Moment of Nihility</color> grants {1} points of <color=Highlight>Ring of Chainsaw</color>.
-Casting Intro Skill <color=Highlight>Reverberance - Return</color> grants {2} points of <color=Highlight>Ring of Chainsaw</color>.","Giới hạn <color=Highlight>Vòng Cưa Tàn Hưởng</color> là {0} điểm.
-Khi <color=Highlight>Đánh Thường</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Mắt Giải Huyền</color> trúng mục tiêu, nhận <color=Highlight>Vòng Cưa Tàn Hưởng</color>.
-Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Tức Khắc - Quy Vô</color>, nhận {1} điểm <color=Highlight>Vòng Cưa Tàn Hưởng</color>.
-Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Minh Hưởng - Tái Lâm</color>, nhận {2} điểm <color=Highlight>Vòng Cưa Tàn Hưởng</color>."
-lang_multi_text.db,MultiText,Term150803_Title,锯环残响,Ring of Chainsaw,Vòng Cưa Tàn Hưởng
-lang_multi_text.db,MultiText,Term150804_Desc,"<color=Highlight>【命弦·本流】</color>上限{0}点。
-随时间持续获得<color=Highlight>【命弦·本流】</color>。
-千咲自身击败目标获得{1}点<color=Highlight>【命弦·本流】</color>。
-退出<color=Highlight>电锯模式</color>时，重置<color=Highlight>【命弦·本流】</color>至上限。
-施放<color=Highlight>命弦·掠行</color>一定时间内无法随时间持续获得<color=Highlight>【命弦·本流】</color>。","Chisa can hold up to {0} points of <color=Highlight>Lifethread - Jetstream</color>. 
-Chisa continuously obtains <color=Highlight>Lifethread - Jetstream</color> over time.
-Chisa obtains {1} points of <color=Highlight>Lifethread - Jetstream</color> upon defeating a target. 
-Exiting <color=Highlight>Chainsaw Mode</color> resets <color=Highlight>Lifethread - Jetstream</color> to the max limit.
-Chisa cannot obtain <color=Highlight>Lifethread - Jetstream</color> passively for a short period of time after casting  <color=Highlight>Lifethread - Glide</color>.","Giới hạn <color=Highlight>Mệnh Huyền - Bản Lưu</color> là {0} điểm.
-Liên tục nhận <color=Highlight>Mệnh Huyền - Bản Lưu</color> theo thời gian.
-Bản thân Chisa hạ gục mục tiêu nhận {1} điểm <color=Highlight>Mệnh Huyền - Bản Lưu</color>.
-Khi thoát <color=Highlight>Chế Độ Cưa Máy</color>, đặt lại <color=Highlight>Mệnh Huyền - Bản Lưu</color> về mức tối đa.
-Sau khi thi triển <color=Highlight>Mệnh Huyền - Lược Hành</color>, trong một khoảng thời gian nhất định không thể nhận <color=Highlight>Mệnh Huyền - Bản Lưu</color> theo thời gian."
-lang_multi_text.db,MultiText,Term150804_Title,命弦·本流,Lifethread - Jetstream,Mệnh Huyền - Bản Lưu
-lang_multi_text.db,MultiText,Term150805_Desc,"<color=Highlight>锯环·疾攻</color>、<color=Highlight>电锯模式·闪避反击</color>、<color=Highlight>锯环·终结</color>伤害倍率提升{0}。
-<color=Highlight>锯环·疾攻</color>、<color=Highlight>电锯模式·闪避反击</color>消耗<color=Highlight>【锯环残响】</color>提供的<color=Highlight>锯环·终结</color>倍率增加效果提升{1}。
-施放<color=Highlight>锯环·终结</color>后提前结束<color=Highlight>万缕·汇终</color>。","The DMG Multipliers of <color=Highlight>Sawring - Blitz</color>, <color=Highlight>Chainsaw Mode - Dodge Counter</color>, and <color=Highlight>Sawring - Eradication</color> are increased by {0}.
-<color=Highlight>Ring of Chainsaw</color> consumed by <color=Highlight>Sawring- Blitz</color> and <color=Highlight>Chainsaw Mode - Dodge Counter</color> additionally increases the DMG Multiplier of <color=Highlight>Sawring - Eradication</color> by {1}.
-Casting <color=Highlight>Sawring - Eradication</color> ends <color=Highlight>Woven Myriad - Convergence</color>.","Tỷ lệ sát thương của <color=Highlight>Vòng Cưa - Tật Công</color>, <color=Highlight>Chế Độ Cưa Máy - Né Phản Kích</color>, <color=Highlight>Vòng Cưa - Chung Kết</color> tăng {0}.
-<color=Highlight>Vòng Cưa - Tật Công</color>, <color=Highlight>Chế Độ Cưa Máy - Né Phản Kích</color> tiêu hao <color=Highlight>Vòng Cưa Tàn Hưởng</color> cung cấp hiệu quả tăng tỷ lệ sát thương cho <color=Highlight>Vòng Cưa - Chung Kết</color> thêm {1}.
-Sau khi thi triển <color=Highlight>Vòng Cưa - Chung Kết</color> sẽ kết thúc sớm <color=Highlight>Vạn Lũ - Hối Chung</color>."
-lang_multi_text.db,MultiText,Term150805_Title,万缕·汇终,Woven Myriad - Convergence,Vạn Lũ - Hối Chung
-lang_multi_text.db,MultiText,Term150806_Desc,【电磁爆发】可提升下一次【电磁效应】触发的伤害，触发后移除【电磁爆发】。,Electro Rage increases the damage dealt by the next Electro Flare. This effect is removed once triggered.,"<color=Highlight>Bùng Nổ Điện Từ</color> có thể tăng sát thương kích hoạt <color=Highlight>Hiệu Ứng Điện Từ</color> lần sau, sau khi kích hoạt sẽ xóa bỏ <color=Highlight>Bùng Nổ Điện Từ</color>."
-lang_multi_text.db,MultiText,Term150806_Title,电磁爆发,Electro Rage,Bùng Nổ Điện Từ
-lang_multi_text.db,MultiText,Term150811_Desc,包含光噪效应伤害、虚湮效应伤害、聚爆效应伤害、霜渐效应伤害、电磁效应伤害、风蚀效应伤害。,"Includes Spectro Frazzle DMG, Havoc Bane DMG, Fusion Burst DMG, Glacio Chafe DMG, Electro Flare DMG, and Aero Erosion DMG.","Bao gồm Sát Thương Hiệu Ứng Quang Nhiễu, Sát Thương Hiệu Ứng Hư Diệt, Sát Thương Hiệu Ứng Tụ Bạo, Sát Thương Hiệu Ứng Sương Tiệm, Sát Thương Hiệu Ứng Điện Từ, Sát Thương Hiệu Ứng Phong Thực."
-lang_multi_text.db,MultiText,Term150811_Title,异常效应伤害,Negative Status DMG,Sát Thương Hiệu Ứng Dị Thường
-lang_multi_text.db,MultiText,Term150901_Desc,琳奈初始处于<color=Highlight>「光学取样」阶段</color>。<color=Highlight>「光学取样」阶段</color>下，施放普攻、琳奈式创想、空中攻击、闪避反击期间回复<color=Highlight>【溢彩】</color>，施放变奏技能时回复<color=Highlight>【溢彩】</color>。,"Lynae is in <color=Highlight>Optical Sampling Stage</color> by default. In this state, <color=Highlight>Overflow</color> recovers during Basic Attack,  Lynae-Style Palettes, Mid-air Attack, and Dodge Counter, or when Intro Skill is cast.","Lynae ban đầu ở trong <color=Highlight>Giai Đoạn Lấy Mẫu Quang Học</color>. Trong <color=Highlight>Giai Đoạn Lấy Mẫu Quang Học</color>, thi triển Đánh Thường, Sáng Kiến Kiểu Lynae, Tấn Công Trên Không, Né Phản Kích sẽ hồi phục <color=Highlight>Dật Thái</color>, thi triển Kỹ Năng Biến Tấu hồi phục <color=Highlight>Dật Thái</color>."
-lang_multi_text.db,MultiText,Term150901_Title,「光学取样」阶段,Optical Sampling Stage,Giai Đoạn Lấy Mẫu Quang Học
-lang_multi_text.db,MultiText,Term150902_Desc,"琳奈施放<color=Highlight>普攻·灵感碰撞</color>时，进入<color=Highlight>绮彩巡游</color>状态。
-<color=Highlight>绮彩巡游</color>状态下，若琳奈处于地面移动状态或施放特定技能的一定时间内，持续回复<color=Highlight>【流光】</color>。
-<color=Highlight>绮彩巡游</color>状态期间，琳奈无法进入行走状态，且跑步状态和冲刺状态替换为移速更快的<color=Highlight>自由轮滑</color>和<color=Highlight>速度轮滑</color>。","Casting <color=Highlight>Basic Attack - Spark Collision</color> sends Lynae into <color=Highlight>Kaleidoscopic Parade</color>. In this state, Lynae moves faster and continuously recovers <color=Highlight>Lumiflow</color> when she moves on the ground or casts <color=Highlight>Kaleidoscopic Parade - Basic Attack</color>, <color=Highlight>Kaleidoscopic Parade - Ground Heavy Attack</color>, <color=Highlight>Kaleidoscopic Parade - Mid-air Heavy Attack</color>, <color=Highlight>Kaleidoscopic Parade - Mid-air Attack</color>, <color=Highlight>Additive Color</color>, Dodge, Intro Skill, or <color=Highlight>Basic Attack - To a Vivid Tomorrow!</color>.","Khi Lynae thi triển <color=Highlight>Đánh Thường - Va Chạm Linh Cảm</color>, sẽ vào trạng thái <color=Highlight>Tuần Du Kì Thái</color>.
-Trong trạng thái <color=Highlight>Tuần Du Kì Thái</color>, nếu Lynae ở trạng thái di chuyển trên mặt đất hoặc trong một khoảng thời gian nhất định sau khi thi triển kỹ năng đặc định, sẽ liên tục hồi phục <color=Highlight>Lưu Quang</color>.
-Trong thời gian trạng thái <color=Highlight>Tuần Du Kì Thái</color>, Lynae không thể vào trạng thái đi bộ, và trạng thái chạy bộ, xung kích sẽ được thay thế bằng <color=Highlight>Trượt Patin Tự Do</color> và <color=Highlight>Trượt Patin Tốc Độ</color> có tốc độ di chuyển nhanh hơn."
-lang_multi_text.db,MultiText,Term150902_Title,绮彩巡游,Kaleidoscopic Parade,Tuần Du Kì Thái
-lang_multi_text.db,MultiText,Term150903_Desc,<color=Highlight>普攻·幻光折跃</color>、<color=Highlight>普攻·虹彩飞溅</color>、<color=Highlight>普攻·视觉冲击</color>和<color=Highlight>变奏技能·来点儿颜色瞧瞧</color>命中目标时，可为目标附加<color=Highlight>光致变染</color>。处于<color=Highlight>共鸣模态·震谐</color>/<color=Highlight>共鸣模态·集谐</color>时，<color=Highlight>光致变染</color>将为目标附加<color=Highlight>【震谐·偏移】</color>/<color=Highlight>【集谐·偏移】</color>，持续25秒。,"Inflict <color=Highlight>Photochromic Flux</color> when hitting a target with <color=Highlight>Basic Attack - Polychrome Leap</color>, <color=Highlight>Basic Attack - Iridescent Splash</color>, <color=Highlight>Basic Attack - Visual Impact</color> and <color=Highlight>Intro Skill - Time to Show Some Colors!</color>. <color=Highlight>Photochromic Flux</color> inflicts <color=Highlight>Tune Rupture - Shifting</color>/<color=Highlight>Tune Strain - Shifting</color> on targets for 25s when Lynae is in <color=Highlight>Resonance Mode - Tune Rupture</color>/<color=Highlight>Resonance Mode - Tune Strain</color>.","<color=Highlight>Đánh Thường - Chiết Quang Ảo Ảnh</color>, <color=Highlight>Đánh Thường - Cầu Vồng Tung Tóe</color>, <color=Highlight>Đánh Thường - Xung Kích Thị Giác</color> và <color=Highlight>Kỹ Năng Biến Tấu - Cho Xem Chút Màu Sắc</color> khi trúng mục tiêu, có thể gắn thêm <color=Highlight>Quang Trí Biến Nhiễm</color> cho mục tiêu. Khi ở trạng thái <color=Highlight>Mô Thái Cộng Hưởng - Chấn Hài</color>/<color=Highlight>Mô Thái Cộng Hưởng - Tập Hài</color>, <color=Highlight>Quang Trí Biến Nhiễm</color> sẽ gắn thêm <color=Highlight>Chấn Hài - Lệch</color>/<color=Highlight>Tập Hài - Lệch</color> cho mục tiêu, duy trì 25 giây."
-lang_multi_text.db,MultiText,Term150903_Title,光致变染,Photochromic Flux,Quang Trí Biến Nhiễm
-lang_multi_text.db,MultiText,Term150904_Desc,解锁固有技能<color=Highlight>永不褪色！</color>后，施放<color=Highlight>普攻·视觉冲击</color>后，琳奈会在地面留下<color=Highlight>颜料</color>。处于<color=Highlight>颜料</color>内的目标会被持续附加<color=Highlight>光致变染</color>。,"When Inherent Skill <color=Highlight>Colors Never Fade!</color> is activated, Lynae leaves <color=Highlight>Spray Paint</color> on the ground after casting <color=Highlight>Basic Attack - Visual Impact</color>, which continuously inflicts <color=Highlight>Photochromic Flux</color> on targets within the <color=Highlight>Spray Paint</color> area.","Sau khi mở khóa Kỹ Năng Nội Tại <color=Highlight>Không Bao Giờ Phai!</color>, sau khi thi triển <color=Highlight>Đánh Thường - Xung Kích Thị Giác</color>, Lynae sẽ để lại <color=Highlight>Màu Vẽ</color> trên mặt đất. Mục tiêu ở trong <color=Highlight>Màu Vẽ</color> sẽ liên tục bị gắn thêm <color=Highlight>Quang Trí Biến Nhiễm</color>."
-lang_multi_text.db,MultiText,Term150904_Title,颜料,Spray Paint,Màu Vẽ
-lang_multi_text.db,MultiText,Term150905_Desc,"上限120点。
-琳奈处于<color=Highlight>「光学取样」阶段</color>时，施放普攻、琳奈式创想、空中攻击、闪避反击期间回复<color=Highlight>【溢彩】</color>，施放变奏技能时回复<color=Highlight>【溢彩】</color>。
-<color=Highlight>【溢彩】</color>满时，可施放<color=Highlight>普攻·灵感碰撞</color>。
-施放<color=Highlight>普攻·灵感碰撞</color>后清除所有<color=Highlight>【溢彩】</color>。","Max 120 points.
-While in <color=Highlight>Optical Sampling Stage</color>, <color=Highlight>Overflow</color> recovers during Basic Attack, Lynae-Style Palettes, Mid-air Attack, and Dodge Counter, or when Intro Skill is cast.
-When <color=Highlight>Overflow</color> is full, <color=Highlight>Basic Attack - Spark Collision</color> becomes available.
-Casting <color=Highlight>Basic Attack - Spark Collision</color> removes all <color=Highlight>Overflow</color>.","Giới hạn 120 điểm.
-Khi Lynae ở trong <color=Highlight>Giai Đoạn Lấy Mẫu Quang Học</color>, thi triển Đánh Thường, Sáng Kiến Kiểu Lynae, Tấn Công Trên Không, Né Phản Kích sẽ hồi phục <color=Highlight>Dật Thái</color>, thi triển Kỹ Năng Biến Tấu hồi phục <color=Highlight>Dật Thái</color>.
-Khi <color=Highlight>Dật Thái</color> đầy, có thể thi triển <color=Highlight>Đánh Thường - Va Chạm Linh Cảm</color>.
-Sau khi thi triển <color=Highlight>Đánh Thường - Va Chạm Linh Cảm</color> sẽ xóa toàn bộ <color=Highlight>Dật Thái</color>."
-lang_multi_text.db,MultiText,Term150905_Title,溢彩,Overflow,Dật Thái
-lang_multi_text.db,MultiText,Term150906_Desc,"上限120点。
-<color=Highlight>绮彩巡游</color>状态下：
-·处于地面/攀爬移动状态，或地面成功闪避，或施放<color=Highlight>绮彩巡游·普攻</color>、<color=Highlight>绮彩巡游·地面重击</color>、<color=Highlight>绮彩巡游·空中重击</color>、<color=Highlight>绮彩巡游·闪避反击</color>、<color=Highlight>加色混合</color>、地面闪避技能、变奏技能、<color=Highlight>普攻·向着多彩的明天！</color>的一定时间内，每秒回复20%的<color=Highlight>【流光】</color>。·
-·处于地面/攀爬/游泳待机状态、不在场时、或施放上述技能的一定时间后，每秒失去20%的<color=Highlight>【流光】</color>。
-·不处于上述状态时，<color=Highlight>【流光】</color>不会持续回复或失去。
-退出<color=Highlight>绮彩巡游</color>时清除所有<color=Highlight>【流光】</color>。
-<color=Highlight>【流光】</color>达到120时，轮滑速度进一步提升，<color=Highlight>速度轮滑</color>期间会持续消耗体力。","Max 120 points.
-During <color=Highlight>Kaleidoscopic Parade</color>:
-- Restore 20% of <color=Highlight>Lumiflow</color> per second when Lynae is moving on the ground/climbing, or performs a successful Dodge on the ground, or within a certain time during <color=Highlight>Kaleidoscopic Parade - Basic Attack</color>, <color=Highlight>Kaleidoscopic Parade - Ground Heavy Attack</color>, <color=Highlight>Kaleidoscopic Parade - Mid-air Heavy Attack</color>, <color=Highlight>Kaleidoscopic Parade - Dodge Counter</color>, <color=Highlight>Additive Color</color>, ground Dodge, Intro Skill, or <color=Highlight>Basic Attack - To a Vivid Tomorrow!</color>.
-- <color=Highlight>Lumiflow</color> starts to deplete by 20% per second while Lynae is staying still on the ground/climbing/swimming or off the field, or after a certain time following the use of the skills listed above.
-- <color=Highlight>Lumiflow</color> does not change while Lynae is not in any of the states described above.
-Exiting <color=Highlight>Kaleidoscopic Parade</color> removes all <color=Highlight>Lumiflow</color>.
-With 120 points of <color=Highlight><te href=150906>Lumiflow</te></color>, Lynae's roller skating speed further increases. <color=Highlight>Speed Skating</color> consumes STA over time.","Giới hạn 120 điểm.
-Trong trạng thái <color=Highlight>Tuần Du Kì Thái</color>:
-. Khi ở trạng thái di chuyển/leo trèo trên mặt đất, hoặc né tránh thành công trên mặt đất, hoặc trong một khoảng thời gian nhất định sau khi thi triển <color=Highlight>Tuần Du Kì Thái - Đánh Thường</color>, <color=Highlight>Tuần Du Kì Thái - Đánh Mạnh Mặt Đất</color>, <color=Highlight>Tuần Du Kì Thái - Đánh Mạnh Trên Không</color>, <color=Highlight>Tuần Du Kì Thái - Né Phản Kích</color>, <color=Highlight>Pha Trộn Cộng Màu</color>, Kỹ Năng Né Tránh mặt đất, Kỹ Năng Biến Tấu, <color=Highlight>Đánh Thường - Hướng Tới Ngày Mai Đa Sắc!</color>, mỗi giây hồi phục 20% <color=Highlight>Lưu Quang</color>.
-. Khi ở trạng thái chờ trên mặt đất/leo trèo/bơi lội, không có mặt trên sân, hoặc sau một khoảng thời gian nhất định thi triển các kỹ năng trên, mỗi giây mất 20% <color=Highlight>Lưu Quang</color>.
-. Khi không ở các trạng thái trên, <color=Highlight>Lưu Quang</color> sẽ không liên tục hồi phục hoặc mất đi.
-Khi thoát <color=Highlight>Tuần Du Kì Thái</color> sẽ xóa toàn bộ <color=Highlight>Lưu Quang</color>.
-Khi <color=Highlight>Lưu Quang</color> đạt 120, tốc độ trượt patin tăng thêm, trong thời gian <color=Highlight>Trượt Patin Tốc Độ</color> sẽ liên tục tiêu hao Thể Lực."
-lang_multi_text.db,MultiText,Term150906_Title,流光,Lumiflow,Lưu Quang
-lang_multi_text.db,MultiText,Term150907_Desc,"上限3点。
-处于战斗状态时，每次施放<color=Highlight>普攻·幻光折跃</color>时，获得1点<color=Highlight>【本色】</color>。拥有3点<color=Highlight>【本色】</color>时，可施放<color=Highlight>普攻·虹彩飞溅</color>和<color=Highlight>普攻·视觉冲击</color>。
-退出<color=Highlight>绮彩巡游</color>状态时清除所有<color=Highlight>【本色】</color>。","Max 3 points.
-While in combat, <color=Highlight>Polychrome Leap</color> grants 1 point of <color=Highlight>True Color</color> each time it's cast. With 3 points of <color=Highlight>True Color</color>, <color=Highlight>Basic Attack - Iridescent Splash</color> and <color=Highlight>Basic Attack - Visual Impact</color> become available.
-Exiting <color=Highlight>Kaleidoscopic Parade</color> removes all <color=Highlight>True Color</color>.","Giới hạn 3 điểm.
-Khi ở trạng thái chiến đấu, mỗi lần thi triển <color=Highlight>Đánh Thường - Chiết Quang Ảo Ảnh</color>, nhận 1 điểm <color=Highlight>Bản Sắc</color>. Khi có 3 điểm <color=Highlight>Bản Sắc</color>, có thể thi triển <color=Highlight>Đánh Thường - Cầu Vồng Tung Tóe</color> và <color=Highlight>Đánh Thường - Xung Kích Thị Giác</color>.
-Khi thoát trạng thái <color=Highlight>Tuần Du Kì Thái</color> sẽ xóa toàn bộ <color=Highlight>Bản Sắc</color>."
-lang_multi_text.db,MultiText,Term150907_Title,本色,True Color,Bản Sắc
-lang_multi_text.db,MultiText,Term151001_Desc,"施放任意形态的共鸣技能<color=Highlight>斩杀日冕</color>时，获得{0}层【终局之释义】。
-使共鸣解放<color=Highlight>于永冻中释义</color>伤害倍率提升{2}，可叠加{1}层，施放共鸣解放<color=Highlight>于永冻中释义</color>或切换至下个角色后移除。","Casting any form of Resonance Skill <color=Highlight>Aureole of Execution</color> grants <SapTag=0>{0}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=0} of <color=Highlight>Endnotes on the Endgame</color>, which increases the DMG Multiplier of Resonance Liberation <color=Highlight>Rewritten in Winter's Margins</color> by {2}, stacking up to {1} times. Casting Resonance Liberation <color=Highlight>Rewritten in Winter's Margins</color> or switching to another Resonator removes all stacks.","Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Trảm Sát Nhật Miện</color> ở bất kỳ hình thái nào, nhận {0} tầng <color=Highlight>Thích Nghĩa Chung Cục</color>.
-Khiến tỷ lệ sát thương của Giải Phóng Cộng Hưởng <color=Highlight>Thích Nghĩa Trong Vĩnh Đống</color> tăng {2}, có thể cộng dồn {1} tầng, xóa bỏ sau khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Thích Nghĩa Trong Vĩnh Đống</color> hoặc chuyển sang nhân vật tiếp theo."
-lang_multi_text.db,MultiText,Term151001_Title,终局之释义,Endnotes on the Endgame,Thích Nghĩa Chung Cục
-lang_multi_text.db,MultiText,Term151002_Desc,"【日髓能流】上限为{0}点。
-常态攻击、共鸣技能<color=Highlight>流金回潮</color>、共鸣技能<color=Highlight>斩杀日冕</color>、<color=Highlight>普攻·流金贯行</color>、<color=Highlight>空中攻击·判决大地裂响</color>命中时，能回复【日髓能流】。
-施放变奏技能<color=Highlight>注入黎明以前</color>时，回复{1}点【日髓能流】。","Max {0} points.
-Normal Attacks, Resonance Skill <color=Highlight>Golden Reflux</color>, Resonance Skill <color=Highlight>Aureole of Execution</color>, <color=Highlight>Basic Attack - Golden Impale</color>, and <color=Highlight>Mid-air Attack - Gavel of Earthshaker</color> restores Ichor Flow on hit.
-Casting Intro Skill <color=Highlight>Before Injection of Dawn</color> restores {1} points of Ichor Flow.","Giới hạn <color=Highlight>Nhật Tủy Năng Lưu</color> là {0} điểm.
-Khi Đánh Thường, Kỹ Năng Cộng Hưởng <color=Highlight>Lưu Kim Hồi Triều</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Trảm Sát Nhật Miện</color>, <color=Highlight>Đánh Thường - Lưu Kim Quán Hành</color>, <color=Highlight>Tấn Công Trên Không - Phán Quyết Đại Địa Liệt Hưởng</color> trúng mục tiêu, có thể hồi phục Nhật Tủy Năng Lưu.
-Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Rót Vào Trước Bình Minh</color>, hồi phục {1} điểm Nhật Tủy Năng Lưu."
-lang_multi_text.db,MultiText,Term151002_Title,日髓能流,Ichor Flow,Nhật Tủy Năng Lưu
-lang_multi_text.db,MultiText,Term151003_Desc,【日辉庇覆】上限为{0}层，受到伤害时，可消耗{1}层【日辉庇覆】，使自身免疫打断且受到伤害降低{2}，持续{3}秒。该效果每秒可触发{4}次。,"Max {0} stacks.
-When hit in mid-air, with at least <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Dawnlit Keep, consume <SapTag=2>{2}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} to reduce the DMG taken and gain immunity to interruptions for {3}s. This effect can be triggered <SapTag=5>{5}</SapTag> {Cus:Sap,S=time P=times SapTag=5} every {4}s.","Giới hạn <color=Highlight>Nhật Huy Tí Phú</color> là {0} tầng, khi chịu sát thương từ đòn tấn công của quái vật địch, có thể tiêu hao {1} tầng Nhật Huy Tí Phú, giúp bản thân miễn nhiễm gián đoạn và giảm {2} sát thương phải chịu, duy trì {3} giây. Hiệu quả này mỗi giây có thể kích hoạt {4} lần."
-lang_multi_text.db,MultiText,Term151003_Title,日辉庇覆,Dawnlit Keep,Nhật Huy Tí Phú
-lang_multi_text.db,MultiText,Term151004_Desc,"造成固定<color=Light>衍射伤害</color>，此伤害为普攻伤害，不受伤害加成影响。
-<color=Highlight>日髓碎刃</color>同时只能存在一个，且无法触发<color=Highlight>逆势回击</color>。
-施放其他可造成伤害的技能时，<color=Highlight>日髓碎刃</color>会消失。",,"Gây <color=Light>Sát Thương Quang Phổ</color> cố định, sát thương này là sát thương Đánh Thường, không chịu ảnh hưởng của tăng sát thương.
-Đồng thời chỉ có thể tồn tại một <color=Highlight>Nhật Tủy Toái Nhận</color>, và không thể kích hoạt <color=Highlight>Phản Kích Nghịch Thế</color>.
-Khi gần đó không có mục tiêu có thể tấn công, <color=Highlight>Nhật Tủy Toái Nhận</color> không thể phát ra.
-Khi thi triển các kỹ năng gây sát thương khác hoặc Luuk Herssen ở trong nền, <color=Highlight>Nhật Tủy Toái Nhận</color> sẽ biến mất."
-lang_multi_text.db,MultiText,Term151004_Title,日髓碎刃,,Nhật Tủy Toái Nhận
-lang_multi_text.db,MultiText,Term151005_Desc,,,"<color=Highlight>Nhật Tủy Trận Liệt</color> sẽ tự động phát nổ sau {0} giây, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này là sát thương Đánh Thường."
-lang_multi_text.db,MultiText,Term151005_Title,,,Nhật Tủy Trận Liệt
-lang_multi_text.db,MultiText,Term160801_Desc,"<color=Highlight>【乐声】</color>上限6枚，达上限时，再次获取<color=Highlight>【乐声】</color>，所有<color=Highlight>【乐声】</color>将左移1格，最左侧<color=Highlight>【乐声·弦乐】</color>、<color=Highlight>【乐声·管乐】</color>将被移除。
-<color=Highlight>普攻第3段</color>、<color=Highlight>亡与死的乐章</color>命中目标时，可获取1枚<color=Highlight>【乐声·弦乐】</color>。
-共鸣技能<color=Highlight>稍纵即逝的梦呓</color>、共鸣技能<color=Highlight>永不消逝的梦呓</color>命中目标时，可获取1枚<color=Highlight>【乐声·管乐】</color>。
-激活<color=Highlight>固有技能·变音符</color>后，施放致命组歌、永生组歌、声骸技能时，下一枚获得的乐声会变为<color=Highlight>【乐声·彩乐】</color>。
-处于<color=Highlight>【定音】</color>状态时，无法获取<color=Highlight>【乐声】</color>。","Phrolova can hold up to 6 <color=Highlight>Volatile Notes</color>. When <color=Highlight>Volatile Notes</color> reach the max number, all <color=Highlight>Volatile Notes</color> shift one slot to the left, and the leftmost <color=Highlight>Volatile Note - Strings</color> or <color=Highlight>Volatile Note - Winds</color> will be removed.
-Hitting a target with <color=Highlight>Basic Attack Stage 3</color> or <color=Highlight>Movement of Fate and Finality</color> grants 1 <color=Highlight>Volatile Note - Strings</color>.
-Hitting a target with Resonance Skill <color=Highlight>Whispers in a Fleeting Dream</color> or Resonance Skill <color=Highlight>Murmurs in a Haunting Dream</color> grants 1 <color=Highlight>Volatile Note - Winds</color>.
-When <color=Highlight>Inherent Skill - Accidental</color> is activated, casting Suite of Quietus, Suite of Immortality, or Echo Skill turns the next Volatile Note into <color=Highlight>Volatile Note - Cadenza</color>.
-Phrolova cannot obtain <color=Highlight>Volatile Notes</color> during <color=Highlight>Resolving Chord</color>.","Giới hạn <color=Highlight>Nhạc Thanh</color> là 6 nốt, khi đạt giới hạn, nhận thêm <color=Highlight>Nhạc Thanh</color>, tất cả <color=Highlight>Nhạc Thanh</color> sẽ dịch chuyển sang trái 1 ô, <color=Highlight>Nhạc Thanh - Huyền Nhạc</color>, <color=Highlight>Nhạc Thanh - Quản Nhạc</color> ở ngoài cùng bên trái sẽ bị xóa.
-Khi <color=Highlight>Đánh Thường đoạn 3</color>, <color=Highlight>Nhạc Chương Vong Và Tử</color> trúng mục tiêu, có thể nhận 1 nốt <color=Highlight>Nhạc Thanh - Huyền Nhạc</color>.
-Khi Kỹ Năng Cộng Hưởng <color=Highlight>Mộng Mị Thoáng Qua</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Mộng Mị Không Tan</color> trúng mục tiêu, có thể nhận 1 nốt <color=Highlight>Nhạc Thanh - Quản Nhạc</color>.
-Sau khi kích hoạt <color=Highlight>Kỹ Năng Nội Tại - Biến Âm Phù</color>, khi thi triển Tổ Khúc Chí Mạng, Tổ Khúc Vĩnh Sinh, Kỹ Năng Thanh Hài, nốt Nhạc Thanh nhận được tiếp theo sẽ biến thành <color=Highlight>Nhạc Thanh - Thải Nhạc</color>.
-Khi ở trạng thái <color=Highlight>Định Âm</color>, không thể nhận <color=Highlight>Nhạc Thanh</color>."
-lang_multi_text.db,MultiText,Term160801_Title,乐声,Volatile Note,Nhạc Thanh
-lang_multi_text.db,MultiText,Term160802_Desc,"施放<color=Highlight>谱曲终末</color>后，进入<color=Highlight>【定音】</color>状态。
-处于<color=Highlight>【定音】</color>状态时，解锁<color=Highlight>往日深渊的圆舞曲</color>。","Phrolova enters <color=Highlight>Resolving Chord</color> after casting <color=Highlight>Scarlet Coda</color>.
-When in the <color=Highlight>Resolving Chord</color> state, <color=Highlight>Waltz of Forsaken Depths</color> becomes available.","Sau khi thi triển <color=Highlight>Phổ Khúc Chung Mạt</color>, vào trạng thái <color=Highlight>Định Âm</color>.
-Khi ở trạng thái <color=Highlight>Định Âm</color>, mở khóa <color=Highlight>Điệu Valse Của Vực Sâu Ngày Cũ</color>."
-lang_multi_text.db,MultiText,Term160802_Title,定音,Resolving Chord,Định Âm
-lang_multi_text.db,MultiText,Term160803_Desc,"余响上限为{0}层。
-弗洛洛不为队伍中登场角色，施放<color=Highlight>强化攻击·弦乐·赫卡忒</color>、<color=Highlight>强化攻击·管乐·赫卡忒</color>、<color=Highlight>强化攻击·彩乐·赫卡忒</color>时，可获得{1}层余响。
-弗洛洛处于非战斗状态时，每{2}秒会清除全部余响层数。","Max {0} stacks.
-When Phrolova is not on the field, casting <color=Highlight>Enhanced Attack - Hecate: Strings</color>, <color=Highlight>Enhanced Attack - Hecate: Winds</color>, and <color=Highlight>Enhanced Attack - Hecate: Cadenza</color> grants <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Aftersound.
-When Phrolova is out of combat, all stacks of Aftersound are removed every {2}s.","Giới hạn Dư Hưởng là {0} tầng.
-Khi Phrolova không phải nhân vật đang tham chiến trong đội, thi triển <color=Highlight>Tấn Công Cường Hóa - Huyền Nhạc - Hecate</color>, <color=Highlight>Tấn Công Cường Hóa - Quản Nhạc - Hecate</color>, <color=Highlight>Tấn Công Cường Hóa - Thải Nhạc - Hecate</color>, có thể nhận {1} tầng Dư Hưởng.
-Khi Phrolova ở trạng thái phi chiến đấu, mỗi {2} giây sẽ xóa toàn bộ số tầng Dư Hưởng."
-lang_multi_text.db,MultiText,Term160803_Title,余响,Aftersound,Dư Hưởng
-lang_multi_text.db,MultiText,Term160804_Desc,"攻击提升{1}。
-弗洛洛漂浮于空中，指挥赫卡忒进行战斗，赫卡忒将继承弗洛洛的属性。
-期间按获取顺序演奏<color=Highlight>【乐声】</color>，每枚<color=Highlight>【乐声】</color>演奏{0}秒。","Gain {1} ATK increase.
-Phrolova floats in the air and commands Hecate to fight. Hecate will share Phrolova's stats and statuses, and damage dealt by Hecate will be considered coming from Phrolova.
-During this period, Phrolova plays out the <color=Highlight>Volatile Notes</color> in order. Each <color=Highlight>Volatile Note</color> holds for {0}s.","Tấn công tăng {1}.
-Phrolova lơ lửng trên không, chỉ huy Hecate tiến hành chiến đấu, Hecate sẽ kế thừa thuộc tính của Phrolova.
-Trong thời gian này diễn tấu <color=Highlight>Nhạc Thanh</color> theo thứ tự nhận được, mỗi nốt <color=Highlight>Nhạc Thanh</color> diễn tấu {0} giây."
-lang_multi_text.db,MultiText,Term160804_Title,指挥状态,Maestro,Trạng Thái Chỉ Huy
-lang_multi_text.db,MultiText,Term160805_Desc,"<size=40><color=Title>普攻·亡与死的乐章</color></size>
-处于<color=Highlight>重世</color>状态时，地面短按<color=Highlight>普攻</color>施放<color=Highlight>亡与死的乐章</color>，造成<color=Dark>湮灭伤害</color>，停滞目标，本次伤害为<color=Highlight>共鸣技能伤害</color>。
-施放时退出<color=Highlight>重世</color>状态。
-<size=10></size>
-<size=40><color=Title>共鸣技能·永不消逝的梦呓</color></size>
-处于<color=Highlight>重世</color>状态时，地面短按<color=Highlight>共鸣技能</color>施放<color=Highlight>永不消逝的梦呓</color>，造成<color=Dark>湮灭伤害</color>，本次伤害为<color=Highlight>共鸣技能伤害</color>。
-施放时退出<color=Highlight>重世</color>状态。","<size=40><color=Title>Basic Attack - Movement of Fate and Finality</color></size>
-When in <color=Highlight>Reincarnate</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> on the ground to cast <color=Highlight>Movement of Fate and Finality</color>, which deals <color=Dark>Havoc DMG</color> (considered <color=Highlight>Resonance Skill DMG</color>), Stagnates the target, and ends <color=Highlight>Reincarnate</color> afterward.
-<size=10></size>
-<size=40><color=Title>Resonance Skill - Murmurs in a Haunting Dream</color></size>
-When in <color=Highlight>Reincarnate</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Resonance Skill</color> on the ground to cast <color=Highlight>Murmurs in a Haunting Dream</color>, dealing <color=Dark>Havoc DMG</color> (considered <color=Highlight>Resonance Skill DMG</color>) and ending <color=Highlight>Reincarnate</color> afterward.","<size=40><color=Title>Đánh Thường - Nhạc Chương Vong Và Tử</color></size>
-Khi ở trạng thái <color=Highlight>Trùng Thế</color>, nhấn ngắn <color=Highlight>Đánh Thường</color> trên mặt đất để thi triển <color=Highlight>Nhạc Chương Vong Và Tử</color>, gây <color=Dark>Sát Thương Hủy Diệt</color>, làm ngưng trệ mục tiêu, sát thương lần này là <color=Highlight>Sát Thương Kỹ Năng Cộng Hưởng</color>.
-Khi thi triển sẽ thoát trạng thái <color=Highlight>Trùng Thế</color>.
-<size=10></size>
-<size=40><color=Title>Kỹ Năng Cộng Hưởng - Mộng Mị Không Tan</color></size>
-Khi ở trạng thái <color=Highlight>Trùng Thế</color>, nhấn ngắn <color=Highlight>Kỹ Năng Cộng Hưởng</color> trên mặt đất để thi triển <color=Highlight>Mộng Mị Không Tan</color>, gây <color=Dark>Sát Thương Hủy Diệt</color>, sát thương lần này là <color=Highlight>Sát Thương Kỹ Năng Cộng Hưởng</color>.
-Khi thi triển sẽ thoát trạng thái <color=Highlight>Trùng Thế</color>."
-lang_multi_text.db,MultiText,Term160805_Title,重世,Reincarnate,Trùng Thế
-lang_multi_text.db,MultiText,Term260001_Desc,独立于瑝珑诸行政司法军事部门之外的机构，最高长官称之为“指挥使”。镇抚司直接听命于瑝珑龙主，有权不经瑝珑诸司衙门同意，介入并针对任何案件、官员和罪犯进行调查，有理论上的“先斩后奏”权力。镇抚司常年经手侦办复杂案件，镇抚司因此拥有瑝珑之中特殊的专门针对共鸣者的手段。,"An institution that operates independently of the administrative, judicial, and military branches of Huanglong, with the highest official titled ""Chief Commander."" Reporting directly to the Emperor of Huanglong, it holds the authority to investigate any case, official, or criminal without approval from other agencies, with the power to ""act first, report later."" Tasked with handling intricate cases year-round, the agency has developed specialized expertise in managing Resonators.","Cơ quan độc lập nằm ngoài các bộ phận hành chính, tư pháp và quân sự của Hoàng Long, người đứng đầu được gọi là ""Chỉ Huy Sứ"". Trấn Phủ Ty chịu lệnh trực tiếp từ Long Chủ Hoàng Long, có quyền can thiệp và điều tra bất kỳ vụ án, quan chức hay tội phạm nào mà không cần sự đồng ý của các nha môn Hoàng Long, về lý thuyết có quyền ""tiền trảm hậu tấu"". Trấn Phủ Ty quanh năm xử lý các vụ án phức tạp, do đó sở hữu những thủ đoạn đặc biệt chuyên dùng để đối phó với Cộng Hưởng Giả."
-lang_multi_text.db,MultiText,Term260001_Title,镇抚司,Internal Security Agency,Trấn Phủ Ty
-lang_multi_text.db,MultiText,Term260002_Desc,专司观测瑝珑各州岁主、天文和历法的特殊机构，设立于明庭的最高长官称之为“监正”。其余六州下属机构长官称之为“州监”。在岁主相关事务上享有独立的特殊权力，但只有对各州及明庭行政机构的建议和监察权。,"A special agency responsible for monitoring Sentinels, astronomy, and calendars across Huanglong's various cities. Led by the Minister of Sentinel Affairs in Mingting, it has subordinate bureaus in the other six cities, each headed by a Supervisor. While they hold independent authority on Sentinel-related matters, they are limited to advising and supervising the administrative bodies of each city and Mingting.","Cơ quan đặc biệt chuyên quan sát Tuế Chủ, thiên văn và lịch pháp của các châu ở Hoàng Long, người đứng đầu thiết lập tại Minh Đình được gọi là ""Giám Chính"". Người đứng đầu các cơ quan trực thuộc ở sáu châu còn lại gọi là ""Châu Giám"". Có quyền lực đặc biệt độc lập trong các vấn đề liên quan đến Tuế Chủ, nhưng chỉ có quyền đề xuất và giám sát đối với các cơ quan hành chính của các châu và Minh Đình."
-lang_multi_text.db,MultiText,Term260002_Title,谛天鉴,Ministry of Sentinel Affairs,Đế Thiên Giám
-lang_multi_text.db,MultiText,Term260003_Desc,仇远拥有的特殊共鸣能力。通过感知周围频率的性质和差异，勘破敌人的位置甚至心境。在极端情况下，这种感知可以藉由其他的索诺拉被进一步强化，将敌人或是仇远自己的心境外化为短暂存在的场景。,"A unique Resonance Ability of Qiuyuan. By perceiving the nature and differences of surrounding frequencies, he can discern an enemy's location and even state of mind. In extreme cases, this perception can be amplified through Sonoro Spheres, bringing to life the mental imagery of his enemies—or even his own.","Năng lực cộng hưởng đặc biệt mà Qiuyuan sở hữu. Thông qua việc cảm nhận tính chất và sự khác biệt của tần số xung quanh để nhìn thấu vị trí, thậm chí cả tâm trạng của kẻ địch. Trong những trường hợp cực đoan, cảm nhận này có thể được cường hóa thêm nhờ các khối cầu Sonora khác, ngoại hóa tâm cảnh của kẻ địch hoặc chính Qiuyuan thành những cảnh tượng tồn tại trong thời gian ngắn."
-lang_multi_text.db,MultiText,Term260003_Title,心镜,Mindsight,Tâm Kính
-lang_multi_text.db,MultiText,Term260004_Desc,位于索拉里斯极点的极地文明。古老时代地极与磁极的变化使得拉海洛地区成为了索拉里斯的新极点，随着时代变迁，厚重冰层之下的地下空洞渐渐成为了人类的栖居之地。在这个温暖湿润的地下绿洲，有一座共鸣者学园都市伫立其中，其也被称为“索拉里斯的科研殿堂”与“研究者的理想国”。,"A civilization located at the polar region of Solaris. Ancient shifts in the planetary axis redefined the world's geography, turning the Lahai-Roi region into what is now the planet's pole. Over time, the vast caverns deep beneath thick layers of ice and snow gradually became habitable for humankind. In this warm and humid underground haven stands an academic metropolis for Resonators, celebrated as the ""Research Haven of Solaris"" and a ""Utopia for Researchers.""","Nền văn minh vùng cực nằm ở cực điểm của Solaris. Những thay đổi về địa cực và từ cực từ thời cổ đại đã khiến khu vực Lahai-Roi trở thành cực điểm mới của Solaris. Theo thời gian, những hang động ngầm dưới lớp băng dày dần trở thành nơi trú ngụ của con người. Tại ốc đảo ngầm ấm áp ẩm ướt này, có một thành phố học viện Cộng Hưởng Giả tọa lạc, nơi đây cũng được mệnh danh là ""Điện đường nghiên cứu khoa học của Solaris"" và ""Vùng đất lý tưởng của các nhà nghiên cứu""."
-lang_multi_text.db,MultiText,Term260004_Title,拉海洛,Lahai-Roi,Lahai-Roi
-lang_multi_text.db,MultiText,Term260005_Desc,"由利维亚坦融合了巨狮「涅墨亚」、祖羊「潘」与诡蛇「皮同」三种强大残象频率而成的黑潮造物，曾是利维亚坦的“第一只眷属”。如今已与嘉贝莉娜的频率融合，“寄宿”在她的体内。
-巨狮残暴，渴求杀戮，蛮横的频率使其成为了“奇美拉”的主导意志。祖羊则以人类“悲悯”的情感为食，巨狮的暴戾秉性因而得以约束。诡蛇天性狡诈，相对独立，虽表意服从于嘉贝莉娜的命令，却始终在暗中蚕食着她的频率。","A Tidespawn created by Leviathan. It is a fusion of the frequencies of three powerful Tacet Discords: the great lion ""Nemea,"" the ancestral goat ""Pan,"" and the slippery serpent ""Python."" Once Leviathan's ""first offspring,"" it now ""resides"" within Galbrena after merging with her frequency.
-Within this fused being, the lion's brutal nature dominates Chimera's will, while the goat tempers its violence by feeding on human compassion. The serpent, sly and independent, appears loyal to Galbrena but secretly undermines her frequency.","Tạo vật Hắc Triều được Leviathan dung hợp từ tần số của ba Tàn Tượng hùng mạnh là Sư Tử Khổng Lồ ""Nemea"", Dê Tổ ""Pan"" và Rắn Quỷ ""Python"", từng là ""Quyến Thuộc đầu tiên"" của Leviathan. Hiện nay nó đã dung hợp với tần số của Galbrena, ""ký sinh"" trong cơ thể cô ấy.
-Sư Tử hung bạo, khao khát giết chóc, tần số ngang ngược khiến nó trở thành ý chí chủ đạo của ""Chimera"". Dê Tổ thì ăn cảm xúc ""bi mẫn"" của con người, nhờ đó bản tính bạo lực của Sư Tử bị kìm hãm. Rắn Quỷ bản tính xảo quyệt, tương đối độc lập, tuy ngoài mặt phục tùng mệnh lệnh của Galbrena nhưng lại luôn âm thầm gặm nhấm tần số của cô ấy."
-lang_multi_text.db,MultiText,Term260005_Title,奇美拉,Chimera,Chimera
-lang_multi_text.db,MultiText,Term260006_Desc,即昔日的“呓语镇”。在十六前因狩原黑潮的爆发而覆灭，成为了如今受蚀地一隅的失落角斗士小镇。,"The past name of ""Murmurstown."" Devastated sixteen years ago by the outbreak of the Dark Tide, it is now a lost Gladiator town in the Wastelands.","Tức ""Thị Trấn Mớ Ngủ"" ngày xưa. Mười sáu năm trước đã bị hủy diệt do sự bùng phát của Hắc Triều tại Bình Nguyên, nay trở thành thị trấn giác đấu sĩ thất lạc nằm ở một góc Vùng Đất Bị Ăn Mòn."
-lang_multi_text.db,MultiText,Term260006_Title,法比亚纳,Fabianum,Fabianum
-lang_multi_text.db,MultiText,Term260007_Desc,"存在于独立空间位面的无音区。
-现今学界认为「无音区」是残象的诞生区域，其出现往往伴随着遮蔽天空的倒悬之海及深刻于地表的十字星状声痕。
-万千残响在无音区中不断地反射、交织、重叠，白色的声弦连接了现实与彼端未知的空间，无数残象于此汇集。","The Tacet Fields that exist in isolated dimensions. 
-""Tacet Fields"" are thought to be where all Tacet Discords originate. These locations feature a sky of inverted seas and a deep cross-shaped Tacet Mark on the ground. Reverberations fill the air, linking our world to an unknown space through a white Resonance Cord. These areas attract gatherings of Tacet Discords.","Vùng Vô Thanh tồn tại trong các chiều không gian độc lập.
-Giới học thuật hiện nay cho rằng ""Vùng Vô Thanh"" là khu vực ra đời của Tàn Tượng, sự xuất hiện của nó thường đi kèm với biển đảo ngược che khuất bầu trời và Vết Tàn Tượng hình chữ thập khắc sâu trên mặt đất.
-Vô vàn dư âm không ngừng phản xạ, đan xen, chồng chéo trong Vùng Vô Thanh, những dây âm thanh màu trắng kết nối hiện thực với không gian chưa biết ở phía bên kia, vô số Tàn Tượng tụ tập tại đây."
-lang_multi_text.db,MultiText,Term260007_Title,异维无音区,Paradimensional Tacet Field,Vùng Vô Thanh Dị Chiều
-lang_multi_text.db,MultiText,Term260008_Desc,瑝珑军策府最高行政长官，总管瑝珑六州军务，正式官职名为“军策尚书”，“本兵”是其雅称，以表述其位高权重。,"As the highest official in Huanglong's Ministry of War, the Minister oversees all military affairs for the six cities in Huanglong. The honorific title ""Grand Marshal"" is used to signify the rank and authority of this position.","Quan chức hành chính cao nhất của Quân Sách Phủ Hoàng Long, tổng quản quân vụ sáu châu Hoàng Long, chức quan chính thức là ""Quân Sách Thượng Thư"", ""Bản Binh"" là nhã xưng, để biểu thị địa vị cao và quyền lực lớn."
-lang_multi_text.db,MultiText,Term260008_Title,本兵,Grand Marshal,Bản Binh
-lang_multi_text.db,MultiText,Term260009_Desc,瑝珑都城，政治经济文化中心。,"The capital of Huanglong. The nation's political, economic, and cultural center.","Đô thành của Hoàng Long, trung tâm chính trị, kinh tế và văn hóa."
-lang_multi_text.db,MultiText,Term260009_Title,明庭,Mingting,Minh Đình
-lang_multi_text.db,MultiText,Term260010_Desc,瑝珑最高军事行政机构，在明庭和六州均有设立，明庭军策府长官称之为“军策尚书”，统领六州军务。各州军策府长官称之为“镇将”，分辖州内军务。一般六州军策府镇将都由明庭任命，部分特殊的州郡则可能由岁主选出。,"The Ministry of War is Huanglong's supreme military command, headquartered in Mingting with branches in all six cities. Its leader, the Minister of War, holds supreme command over all military affairs. Authority is delegated to a General in each city, who manages local forces. While Mingting usually appoints these Generals, local Sentinels have the authority to do so in certain special cities.","Cơ quan hành chính quân sự cao nhất của Hoàng Long, được thiết lập tại Minh Đình và sáu châu. Người đứng đầu Quân Sách Phủ tại Minh Đình gọi là ""Quân Sách Thượng Thư"", thống lĩnh quân vụ sáu châu. Người đứng đầu Quân Sách Phủ tại các châu gọi là ""Trấn Tướng"", quản lý quân vụ trong châu. Thông thường Trấn Tướng Quân Sách Phủ sáu châu đều do Minh Đình bổ nhiệm, một số châu quận đặc biệt có thể do Tuế Chủ chọn ra."
-lang_multi_text.db,MultiText,Term260010_Title,军策府,Ministry of War,Quân Sách Phủ
-lang_multi_text.db,MultiText,Term260011_Desc,瑝珑三法司之一，除了享有重大案件的联合审理权之外，还享有监察权，即所谓“纠察邪佞，肃正纲纪”。一般兰台之中大小官员皆称御史，在六州流动或常驻的监察官员则称为六州监察史。,"One of Huanglong's three judicial bodies. It holds the authority to jointly try major cases and wields significant supervisory power, a duty summarized as ""to probe evil and maintain discipline."" Its officials are generally titled Censors, while those stationed or assigned temporarily in the six cities are called Investigating Censors.","Một trong Tam Pháp Ty của Hoàng Long, ngoài quyền xét xử chung các vụ án trọng điểm, còn có quyền giám sát, tức cái gọi là ""thanh tra kẻ gian nịnh, chấn chỉnh kỷ cương"". Thông thường các quan lại lớn nhỏ trong Lan Đài đều gọi là Ngự Sử, quan chức giám sát lưu động hoặc thường trú tại sáu châu thì gọi là Lục Châu Giám Sát Sử."
-lang_multi_text.db,MultiText,Term260011_Title,兰台,Censorate,Lan Đài
-lang_multi_text.db,MultiText,Term260012_Desc,如同那不盖勒二世所享有的美誉，蓝衣「芬莱克」理应拥有的称呼。但不知为何，芬莱克生前始终禁止教士们如此称呼他，直至他葬身海底。而在隐海修会的历史上，芬莱克仅此一位。,"Just as the name enjoyed by Napoli the Second, it is a title Primus Fenrico should have rightfully possessed. However, due to unknown reasons, Fenrico forbade Acolytes from referring to him as such, until he met his end at the bottom of the sea. In the history of the Order of the Deep, he is the only one who bears the name ""Fenrico.""","Cũng giống như danh tiếng mà Napoli Đệ Nhị được hưởng, đây là danh xưng mà ""Fenrico"" Áo Lam xứng đáng có được. Nhưng không hiểu sao, lúc sinh thời Fenrico luôn cấm các giáo sĩ gọi ông như vậy, cho đến khi ông bỏ mạng dưới đáy biển. Và trong lịch sử của Hội Ẩn Hải, Fenrico chỉ có một vị này."
-lang_multi_text.db,MultiText,Term260012_Title,芬莱克一世,Fenrico the First,Fenrico Đệ Nhất
-lang_multi_text.db,MultiText,Term270001_Desc,位于梦州与今州之间的一部分地域，是由今州进入梦州的必经之地，也是昔日阻击残象的关隘。,"A region located between Mengzhou and Jinzhou. It is considered a vital passage way between the two cities, and also once a strategic hold for intercepting Tacet Discords.","Một phần khu vực nằm giữa Mộng Châu và Kim Châu, là con đường tất yếu để đi từ Kim Châu vào Mộng Châu, cũng là cửa ải chặn đánh Tàn Tượng ngày xưa."
+lang_multi_text.db,MultiText,Term850032_Desc,"【破阵值】上限60点。
+常态攻击<color=Highlight>孤枪止戈</color>命中目标时积攒【破阵值】。
+变奏技能<color=Highlight>攻其不备</color>命中目标时积攒【破阵值】。
+若在15秒内，忌炎没有命中目标，【破阵值】会逐渐减少。","Jiyan can hold up to 60 Resolve.
+Jiyan gains Resolve when his Normal Attack <color=Highlight>Lone Lance</color> hits the target.
+Jiyan gains Resolve when the Intro Skill <color=Highlight>Tactical Strike</color> hits the target.
+Resolve will gradually decrease if Jiyan does not hit a target within 15s.","Giới hạn [Điểm Phá Trận] là 60 điểm.
+Khi Đánh Thường <color=Highlight>Cô Thương Chỉ Qua</color> trúng mục tiêu sẽ tích lũy [Điểm Phá Trận].
+Khi Kỹ Năng Biến Tấu <color=Highlight>Công Kỳ Bất Bị</color> trúng mục tiêu sẽ tích lũy [Điểm Phá Trận].
+Nếu trong vòng 15 giây, Kỵ Yên không đánh trúng mục tiêu, [Điểm Phá Trận] sẽ giảm dần."
+lang_multi_text.db,MultiText,Term850032_Title,破阵值,Resolve,Điểm Phá Trận
+lang_multi_text.db,MultiText,Term850033_Desc,"【念意】上限4点。
+<color=Highlight>普攻</color>命中目标时，获得1点【念意】。","Baizhi can hold up to 4 Concentration.
+Baizhi obtains 1 Concentration for every <color=Highlight>Basic Attack</color> on hit.","Giới hạn [Niệm Ý] là 4 điểm.
+Khi <color=Highlight>Đánh Thường</color> trúng mục tiêu, nhận 1 điểm [Niệm Ý]."
+lang_multi_text.db,MultiText,Term850033_Title,念意,Concentration,Niệm Ý
+lang_multi_text.db,MultiText,Term850034_Desc,"施放<color=Highlight>灭音</color>后，进入<color=Highlight>暗涌</color>状态，在该状态下：
+·<color=Highlight>普攻</color>替换为<color=Highlight>强化普攻</color>，可进行最多5段的连续攻击，造成<color=Dark>湮灭伤害</color>； 
+·<color=Highlight>重击</color>替换为<color=Highlight>强化重击</color>；
+·施放<color=Highlight>强化重击</color>后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣刃</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害；
+·施放重击<color=Highlight>鸣刃</color>后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段强化普攻</color>攻击目标，造成<color=Dark>湮灭伤害</color>；
+·共鸣技能<color=Highlight>行刃</color>替换为共鸣技能<color=Highlight>破命</color>，化音为刃攻击目标，造成<color=Dark>湮灭伤害</color>。","After casting <color=Highlight>Devastation</color>, Rover enters the <color=Highlight>Dark Surge</color> state. In this state:
+- <color=Highlight>Basic Attack</color> is replaced with <color=Highlight>Enhanced Basic Attack</color>, which performs up to 5 consecutive attacks, dealing <color=Dark>Havoc DMG</color>.
+- <color=Highlight>Heavy Attack</color> is replaced with <color=Highlight>Enhanced Heavy Attack</color>;
+- Use <color=Highlight>Basic Attack</color> after casting <color=Highlight>Enhanced Heavy Attack</color> to cast Heavy Attack <color=Highlight>Thwackblade</color> to attack the target, dealing <color=Dark>Havoc DMG</color>, considered as Heavy Attack DMG.
+- Use <color=Highlight>Basic Attack</color> after casting Heavy Attack <color=Highlight>Thwackblade</color> to cast <color=Highlight>Enhanced Basic Attack 3</color> to attack the target, dealing <color=Dark>Havoc DMG</color>;
+- Resonance Skill <color=Highlight>Wingblade</color> is replaced with Resonance Skill <color=Highlight>Lifetaker</color>, transforming sounds into blades to attack the target, dealing <color=Dark>Havoc DMG</color>.","Sau khi thi triển <color=Highlight>Diệt Âm</color>, tiến vào trạng thái <color=Highlight>Ám Dũng</color>, trong trạng thái này:
+.<color=Highlight>Đánh Thường</color> thay thế bằng <color=Highlight>Đánh Thường Cường Hóa</color>, có thể thực hiện tối đa 5 đòn tấn công liên tiếp, gây <color=Dark>Sát Thương Hủy Diệt</color>; 
+.<color=Highlight>Đánh Mạnh</color> thay thế bằng <color=Highlight>Đánh Mạnh Cường Hóa</color>;
+.Sau khi thi triển <color=Highlight>Đánh Mạnh Cường Hóa</color>, nhấn ngắn <color=Highlight>Đánh Thường</color>, sẽ thi triển Đánh Mạnh <color=Highlight>Minh Nhận</color> tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>, sát thương lần này là sát thương Đánh Mạnh;
+.Sau khi thi triển Đánh Mạnh <color=Highlight>Minh Nhận</color>, nhấn ngắn <color=Highlight>Đánh Thường</color>, sẽ thi triển <color=Highlight>Đánh Thường Cường Hóa đoạn 3</color> tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>;
+.Kỹ Năng Cộng Hưởng <color=Highlight>Hành Nhận</color> thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Phá Mệnh</color>, hóa âm thanh thành lưỡi dao tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>."
+lang_multi_text.db,MultiText,Term850034_Title,暗涌,Dark Surge,Sóng Ngầm
+lang_multi_text.db,MultiText,Term850035_Desc,可被重击<color=Highlight>爆裂</color>引爆，造成<color=Ice>冷凝伤害</color>。,"Can be detonated by Heavy Attack <color=Highlight>Detonate</color>, dealing <color=Ice>Glacio DMG</color>.","Có thể bị Đánh Mạnh <color=Highlight>Bạo Liệt</color> kích nổ, gây <color=Ice>Sát Thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Term850035_Title,冰棱,Ice Prism,Băng Lăng
+lang_multi_text.db,MultiText,Term850036_Desc,可被重击<color=Highlight>爆裂</color>引爆，造成<color=Ice>冷凝伤害</color>。,"Can be detonated by Heavy Attack <color=Highlight>Detonate</color>, dealing <color=Ice>Glacio DMG</color>.","Có thể bị Đánh Mạnh <color=Highlight>Bạo Liệt</color> kích nổ, gây <color=Ice>Sát Thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Term850036_Title,冰棘,Ice Thorn,Gai Băng
+lang_multi_text.db,MultiText,Term850037_Desc,可被重击<color=Highlight>爆裂</color>引爆，造成<color=Ice>冷凝伤害</color>。,"Can be detonated by Heavy Attack <color=Highlight>Detonate</color>, dealing <color=Ice>Glacio DMG</color>.","Có thể bị Đánh Mạnh <color=Highlight>Bạo Liệt</color> kích nổ, gây <color=Ice>Sát Thương Ngưng Băng</color>."
+lang_multi_text.db,MultiText,Term850037_Title,冰川,Glacier,Sông Băng
+lang_multi_text.db,MultiText,Term850038_Desc,"·队伍中登场角色的<color=Highlight>普攻</color>命中目标时，进行协同攻击，打出1发<color=Highlight>加强音</color>；
+·队伍中登场角色的<color=Highlight>重击</color>命中目标时，进行协同攻击，打出2发<color=Highlight>加强音</color>；
+·每0.35秒可进行1次协同攻击。","- When the active Resonator's <color=Highlight>Basic Attack</color> hits the target, Mortefi launches a Coordinated Attack, firing 1 <color=Highlight>Marcato</color>.
+- When the active Resonator's <color=Highlight>Heavy Attack</color> hits the target, Mortefi launches a Coordinated Attack, firing 2 <color=Highlight>Marcato</color>.
+Mortefi can launch one Coordinated Attack every 0.35s.",".Khi nhân vật đang tham chiến trong đội <color=Highlight>Đánh Thường</color> trúng mục tiêu, thực hiện Tấn Công Phối Hợp, bắn ra 1 phát <color=Highlight>Gia Cường Âm</color>;
+.Khi nhân vật đang tham chiến trong đội <color=Highlight>Đánh Mạnh</color> trúng mục tiêu, thực hiện Tấn Công Phối Hợp, bắn ra 2 phát <color=Highlight>Gia Cường Âm</color>;
+.Mỗi 0.35 giây có thể thực hiện 1 lần Tấn Công Phối Hợp."
+lang_multi_text.db,MultiText,Term850038_Title,浮翼狂想,Burning Rhapsody,Phù Dực Cuồng Tưởng
+lang_multi_text.db,MultiText,Term850039_Desc,"【彤华】上限120点。
+施放共鸣技能<color=Highlight>朱华残章</color>时，回复【彤华】。","Danjin can hold up to 120 Ruby Blossom.
+Danjin obtains Ruby Blossom when using Resonance Skill <color=Highlight>Crimson Fragment</color>.","Giới hạn [Đồng Hoa] là 120 điểm.
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Chu Hoa Tàn Chương</color>, hồi phục [Đồng Hoa]."
+lang_multi_text.db,MultiText,Term850039_Title,彤华,Ruby Blossom,Đồng Hoa
+lang_multi_text.db,MultiText,Term850040_Desc,丹瑾攻击携带<color=Highlight>朱蚀之刻</color>的目标时，造成的伤害提升20%。,"When Danjin attacks a target with Resonance Skill's <color=Highlight>Incinerating Will</color>, her damage dealt is increased by 20%.","Khi Danjin tấn công mục tiêu mang <color=Highlight>Chu Thực Chi Khắc</color>, sát thương gây ra tăng 20%."
+lang_multi_text.db,MultiText,Term850040_Title,朱蚀之刻,Incinerating Will,Chu Thực Chi Khắc
+lang_multi_text.db,MultiText,Term850041_Desc,"【热压弹】容量上限60发。
+固有技能<color=Highlight>灼热弹匣</color>可将【热压弹】容量上限扩充10发。
+常态攻击<color=Highlight>砰砰</color>命中目标时，可积攒【热压弹】。
+施放变奏技能<color=Highlight>堂堂登场</color>时，可积攒【热压弹】。
+施放共鸣技能<color=Highlight>咻咻斗意</color>时，可积攒【热压弹】。","Chixia can hold up to 60 Thermobaric Bullets.
+Inherent Skill <color=Highlight>Scorching Magazine</color> increases Max Thermobaric Bullets by 10.
+Chixia obtains Thermobaric Bullets for every Normal Attack <color=Highlight>POW POW</color> on hit.
+Chixia obtains Thermobaric Bullets upon casting Intro Skill <color=Highlight>Grand Entrance</color> and Resonance Skill <color=Highlight>Whizzing Fight Spirit</color>.","Giới hạn sức chứa [Đạn Nhiệt Áp] là 60 viên.
+Kỹ Năng Nội Tại <color=Highlight>Băng Đạn Chước Nhiệt</color> có thể mở rộng giới hạn sức chứa [Đạn Nhiệt Áp] thêm 10 viên.
+Khi Đánh Thường <color=Highlight>Bằng Bằng</color> trúng mục tiêu, có thể tích lũy [Đạn Nhiệt Áp].
+Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Đường Đường Xuất Hiện</color>, có thể tích lũy [Đạn Nhiệt Áp].
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Hưu Hưu Đấu Ý</color>, có thể tích lũy [Đạn Nhiệt Áp]."
+lang_multi_text.db,MultiText,Term850041_Title,热压弹,Thermobaric Bullets,Đạn Nhiệt Áp
+lang_multi_text.db,MultiText,Term850042_Desc,"【气】上限120点。
+常态攻击<color=Highlight>风仪拳术</color>命中目标时，获得【气】。
+施放共鸣技能<color=Highlight>静气循行</color>时，获得【气】。
+共鸣技能<color=Highlight>行气反击</color>或共鸣技能<color=Highlight>降气反击</color>命中目标时，获得【气】。
+变奏技能<color=Highlight>掌息之要</color>命中目标时，获得【气】。","Jianxin can hold up to 120 Chi.
+Chi is obtained when Normal Attack <color=Highlight>Fengyiquan</color> hits the target.
+Chi is obtained when the Resonance Skill <color=Highlight>Calming Air</color> is cast.
+Chi is obtained when the Resonance Skills <color=Highlight>Chi Counter</color> or <color=Highlight>Chi Parry</color> hits the target.
+Chi is obtained when the Intro Skill <color=Highlight>Essence of Tao</color> hits the target.","Giới hạn [Khí] là 120 điểm.
+Khi Đánh Thường <color=Highlight>Phong Nghi Quyền Thuật</color> trúng mục tiêu, nhận [Khí].
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Tĩnh Khí Tuần Hành</color>, nhận [Khí].
+Khi Kỹ Năng Cộng Hưởng <color=Highlight>Hành Khí Phản Kích</color> hoặc Kỹ Năng Cộng Hưởng <color=Highlight>Giáng Khí Phản Kích</color> trúng mục tiêu, nhận [Khí].
+Khi Kỹ Năng Biến Tấu <color=Highlight>Chưởng Tức Chi Yếu</color> trúng mục tiêu, nhận [Khí]."
+lang_multi_text.db,MultiText,Term850042_Title,气,Chi,Khí
+lang_multi_text.db,MultiText,Term850043_Desc,黄灯模式期间，进行远程攻击。,Perform ranged attacks when in Yellow Light Mode.,"Trong Chế Độ Đèn Vàng, thực hiện tấn công tầm xa."
+lang_multi_text.db,MultiText,Term850043_Title,黄灯模式,Yellow Light Mode,Chế Độ Đèn Vàng
+lang_multi_text.db,MultiText,Term850044_Desc,红灯模式期间，进行近战攻击。,Perform melee attacks when in Red Light Mode.,"Trong Chế Độ Đèn Đỏ, thực hiện tấn công cận chiến."
+lang_multi_text.db,MultiText,Term850044_Title,红灯模式,Red Light Mode,Chế Độ Đèn Đỏ
+lang_multi_text.db,MultiText,Term850045_Desc,"进行<color=Highlight>问祯</color>后，有概率获得不同的<color=Highlight>祯祥</color>。
+拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>。
+拥有<color=Highlight>祯祥</color>的状态下获得新的<color=Highlight>祯祥</color>，则会用新的<color=Highlight>祯祥</color>替换掉旧的<color=Highlight>祯祥</color>。","Youhu obtains a random <color=Highlight>Antique</color> after the <color=Highlight>Lucky Draw</color>. With an <color=Highlight>Antique</color>, her next <color=Highlight>Basic Attack</color> will activate the corresponding <color=Highlight>Antique Appraisal</color>.
+Only one <color=Highlight>Antique</color> can exist at a time, and the newly drawn <color=Highlight>Antique</color> will replace the existing one.","Sau khi thực hiện <color=Highlight>Cầu May</color>, có xác suất nhận được các <color=Highlight>Điềm Lành</color> khác nhau.
+Khi đang sở hữu <color=Highlight>Điềm Lành</color>, nhấn <color=Highlight>Đánh Thường</color> sẽ thực hiện <color=Highlight>Thưởng Kỳ Trân</color> tương ứng với <color=Highlight>Điềm Lành</color> đó.
+Nếu nhận được <color=Highlight>Điềm Lành</color> mới khi đang có <color=Highlight>Điềm Lành</color>, thì <color=Highlight>Điềm Lành</color> mới sẽ thay thế <color=Highlight>Điềm Lành</color> cũ."
+lang_multi_text.db,MultiText,Term850045_Title,问祯,Lucky Draw,Cầu May
+lang_multi_text.db,MultiText,Term850046_Desc,"拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>。
+拥有<color=Highlight>祯祥</color>的状态下获得新的<color=Highlight>祯祥</color>，则会用新的<color=Highlight>祯祥</color>替换掉旧的<color=Highlight>祯祥</color>。","With an <color=Highlight>Antique</color>, Youhu's next <color=Highlight>Basic Attack</color> will activate the corresponding <color=Highlight>Antique Appraisal</color>.
+Only one <color=Highlight>Antique</color> can exist at a time, and the newly drawn <color=Highlight>Antique</color> will replace the existing one.","Khi đang sở hữu <color=Highlight>Điềm Lành</color>, nhấn <color=Highlight>Đánh Thường</color> sẽ thực hiện <color=Highlight>Thưởng Kỳ Trân</color> tương ứng với <color=Highlight>Điềm Lành</color> đó.
+Nếu nhận được <color=Highlight>Điềm Lành</color> mới khi đang có <color=Highlight>Điềm Lành</color>, thì <color=Highlight>Điềm Lành</color> mới sẽ thay thế <color=Highlight>Điềm Lành</color> cũ."
+lang_multi_text.db,MultiText,Term850046_Title,祯祥,Antique,Điềm Lành
+lang_multi_text.db,MultiText,Term850047_Desc,当队伍中登场角色受到攻击时，消耗1个【磐岩护壁】，降低此次受到的伤害。,"When the active character on the team is attacked, 1 Rocksteady Shield is consumed to reduce the damage taken.","Khi nhân vật đang tham chiến trong đội chịu tấn công, tiêu hao 1 [Vách Đá Hộ Mệnh], giảm sát thương phải chịu lần này."
+lang_multi_text.db,MultiText,Term850047_Title,磐岩护壁,Rocksteady Shield,Vách Đá Hộ Mệnh
+lang_multi_text.db,MultiText,Term850048_Desc,"·当秋水穿过【雾气】或【虚实之门】时，会进入<color=Highlight>迷雾潜行</color>状态。
+·<color=Highlight>普攻</color>或<color=Highlight>空中攻击</color>穿过【雾气】命中目标时，回复1点【雾滴】。","- When Aalto passes through Mist or Gate of Quandary, he enters the <color=Highlight>Mistcloak Dash</color>.
+- When <color=Highlight>Basic Attack</color> or <color=Highlight>Mid-air Attack</color> passes through Mist and hits the target, 1 Mist Drop is recovered.",".Khi Aalto đi qua [Sương Mù] hoặc [Cổng Hư Thực], sẽ tiến vào trạng thái <color=Highlight>Tiềm Hành Sương Mù</color>.
+.Khi <color=Highlight>Đánh Thường</color> hoặc <color=Highlight>Tấn Công Trên Không</color> xuyên qua [Sương Mù] trúng mục tiêu, hồi phục 1 điểm [Giọt Sương]."
+lang_multi_text.db,MultiText,Term850048_Title,雾气,Mist,Sương Mù
+lang_multi_text.db,MultiText,Term850049_Desc,·当秋水穿过【雾气】或【虚实之门】时，会进入<color=Highlight>迷雾潜行</color>状态。,"When Aalto passes through Mist or Gate of Quandary, he enters the <color=Highlight>Mistcloak Dash</color>.",".Khi Aalto đi qua [Sương Mù] hoặc [Cổng Hư Thực], sẽ tiến vào trạng thái <color=Highlight>Tiềm Hành Sương Mù</color>."
+lang_multi_text.db,MultiText,Term850049_Title,虚实之门,Gate of Quandary,Cổng Hư Thực
+lang_multi_text.db,MultiText,Term850050_Desc,"【喝彩】上限100点。
+常态攻击命中目标时，获得【喝彩】。
+变奏技能命中目标时，获得【喝彩】。
+共鸣技能命中目标时，获得【喝彩】。","Brant can hold up to 100 Bravo.
+- Obtain Bravo when Normal Attacks hit the target.
+- Obtain Bravo when Intro Skill hits the target.
+- Obtain Bravo when Resonance Skill hits the target.","Giới hạn [Hoan Hô] là 100 điểm.
+Khi Đánh Thường trúng mục tiêu, nhận [Hoan Hô].
+Khi Kỹ Năng Biến Tấu trúng mục tiêu, nhận [Hoan Hô].
+Khi Kỹ Năng Cộng Hưởng trúng mục tiêu, nhận [Hoan Hô]."
+lang_multi_text.db,MultiText,Term850050_Title,喝彩,Bravo,Hoan Hô
+lang_multi_text.db,MultiText,Term850051_Desc,<color=Highlight>常态攻击</color>、共鸣技能<color=Highlight>起锚！</color>命中时获取【喝彩】效率提升100%。共鸣回路<color=Highlight>戏中人生</color>替换为<color=Highlight>「我」的人生</color>。,"The efficiency of gaining Bravo is increased by 100% when <color=Highlight>Normal Attack</color> or Resonance Skill <color=Highlight>Anchors Aweigh!</color> hits the target. Meanwhile, Forte Circuit <color=Highlight>Theatrical Moment</color> is replaced by <color=Highlight>""My"" Moment</color>.","Khi <color=Highlight>Đánh Thường</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Nhổ Neo!</color> đánh trúng, hiệu quả nhận [Hoan Hô] tăng 100%. Mạch Cộng Hưởng <color=Highlight>Đời Trong Kịch</color> thay thế bằng <color=Highlight>Cuộc Đời Của ""Tôi""</color>."
+lang_multi_text.db,MultiText,Term850051_Title,燃焰,Aflame,Rực Lửa
+lang_multi_text.db,MultiText,Term850052_Desc,布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于150%时，每超过1%的共鸣效率计算为12点攻击提升，上限为1560。,"Brant gains additional ATK based on his Energy Regen: For every 1% of his Energy Regen over 150%, Brant gains additional 12 points of ATK, up to 1560.","Brant nhận thêm tấn công dựa trên Hiệu Quả Nạp Năng Lượng: Khi Hiệu Quả Nạp Năng Lượng của bản thân lớn hơn 150%, mỗi 1% Hiệu Quả Nạp Năng Lượng vượt quá sẽ tính là 12 điểm tấn công tăng thêm, tối đa 1560."
+lang_multi_text.db,MultiText,Term850052_Title,戏中人生,Theatrical Moment,Đời Trong Kịch
+lang_multi_text.db,MultiText,Term850053_Desc,当【喝彩】达到25、50、75、100点后，会回复附近队伍所有角色的生命值。,"Heal all nearby Resonators in the team when Bravo reaches 25, 50, 75, and 100.","Khi [Hoan Hô] đạt 25, 50, 75, 100 điểm, sẽ hồi phục HP cho tất cả nhân vật trong đội ở gần."
+lang_multi_text.db,MultiText,Term850053_Title,涛声喝彩,Waves of Acclaims,Tiếng Sóng Hoan Hô
+lang_multi_text.db,MultiText,Term850054_Desc,"·<color=Highlight>普攻</color>替换为普攻<color=Highlight>蛰幻</color>，进行最多3段连续攻击，造成<color=Dark>湮灭伤害</color>，可在空中施放，在空中施放普攻<color=Highlight>蛰幻</color>，将会消耗耐力。此外，普攻<color=Highlight>蛰幻</color>连击段数不会被重置。
+·普攻<color=Highlight>蛰幻</color>命中目标时，消耗1点【迷离】，获得1点【颤栗】，并为附近队伍中所有角色回复生命值。
+·普攻<color=Highlight>第3段蛰幻</color>攻击目标时会进行3次协同攻击，造成<color=Dark>湮灭伤害</color>。
+·<color=Highlight>空中攻击</color>替换为<color=Highlight>暗涌漩涡</color>，短按<color=Highlight>跳跃</color>，消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。
+·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>掠影</color>，攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻蛰幻第2段</color>。
+·空中攻击<color=Highlight>暗涌漩涡</color>或<color=Highlight>闪避反击·掠影</color>命中目标时，消耗1点【迷离】，获得1点【颤栗】，并为附近队伍中所有角色回复生命值。
+·蜃境状态持续8秒；
+·消耗完所有【迷离】时结束<color=Highlight>蜃境状态</color>。","- <color=Highlight>Basic Attack</color> becomes Basic Attack <color=Highlight>Phantom Sting</color>. Perform up to 3 consecutive attacks, dealing <color=Dark>Havoc DMG</color>. Can be cast in mid-air. When cast mid-air, Basic Attack <color=Highlight>Phantom Sting</color> consumes STA, and the combo does not reset when Cantarella is airborne.
+- Hitting the target with Basic Attack <color=Highlight>Phantom Sting</color> consumes 1 point of Trance to obtain 1 point of Shiver and heal all nearby Resonators in the team.
+- The third stage of Basic Attack <color=Highlight>Phantom Sting</color> triggers 3 Coordinated Attacks, dealing <color=Dark>Havoc DMG</color>.
+- <color=Highlight>Mid-air Attack</color> becomes <color=Highlight>Abysmal Vortex</color>. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Jump</color> to perform a Plunging Attack at the cost of STA, dealing <color=Dark>Havoc DMG</color>.
+- <color=Highlight>Dodge Counter</color> becomes Dodge Counter <color=Highlight>Shadowy Sweep</color>. Attack the target, dealing <color=Dark>Havoc DMG</color>. {Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> right after casting the skill to cast Basic Attack <color=Highlight>Phantom Sting Stage 2</color>.
+- When Mid-air Attack <color=Highlight>Abysmal Vortex</color> or Dodge Counter <color=Highlight>Shadowy Sweep</color> hits a target, consume 1 point of Trance to obtain 1 point of Shiver and heal all nearby Resonators in the team.
+- Mirage lasts for 8s.
+- <color=Highlight>Mirage</color> ends when Trance is depleted.",".<color=Highlight>Đánh Thường</color> thay thế bằng Đánh Thường <color=Highlight>Chập Chờn Ảo Giác</color>, thực hiện tối đa 3 đòn tấn công liên tiếp, gây <color=Dark>Sát Thương Hủy Diệt</color>, có thể thi triển trên không. Khi thi triển Đánh Thường <color=Highlight>Chập Chờn Ảo Giác</color> trên không sẽ tiêu hao Thể Lực. Ngoài ra, số đoạn liên kích của Đánh Thường <color=Highlight>Chập Chờn Ảo Giác</color> sẽ không bị làm mới.
+.Khi Đánh Thường <color=Highlight>Chập Chờn Ảo Giác</color> trúng mục tiêu, tiêu hao 1 điểm [Mê Ly], nhận 1 điểm [Run Rẩy], đồng thời hồi phục HP cho tất cả nhân vật trong đội gần đó.
+.Khi Đánh Thường <color=Highlight>Chập Chờn Ảo Giác đoạn 3</color> tấn công mục tiêu sẽ thực hiện 3 lần Tấn Công Phối Hợp, gây <color=Dark>Sát Thương Hủy Diệt</color>.
+.<color=Highlight>Tấn Công Trên Không</color> thay thế bằng <color=Highlight>Xoáy Nước Sóng Ngầm</color>, nhấn ngắn <color=Highlight>Nhảy</color>, tiêu hao Thể Lực để thực hiện tấn công từ trên không xuống, gây <color=Dark>Sát Thương Hủy Diệt</color>.
+.<color=Highlight>Phản Kích Né Tránh</color> thay thế bằng Phản Kích Né Tránh <color=Highlight>Lướt Bóng</color>, tấn công mục tiêu, gây <color=Dark>Sát Thương Hủy Diệt</color>. Sau khi thi triển kỹ năng này nhấn ngắn <color=Highlight>Đánh Thường</color> sẽ thi triển <color=Highlight>Đánh Thường Chập Chờn Ảo Giác đoạn 2</color>.
+.Khi Tấn Công Trên Không <color=Highlight>Xoáy Nước Sóng Ngầm</color> hoặc <color=Highlight>Phản Kích Né Tránh - Lướt Bóng</color> trúng mục tiêu, tiêu hao 1 điểm [Mê Ly], nhận 1 điểm [Run Rẩy], đồng thời hồi phục HP cho tất cả nhân vật trong đội gần đó.
+.Trạng Thái Thần Cảnh duy trì 8 giây;
+.Kết thúc <color=Highlight>Trạng Thái Thần Cảnh</color> khi tiêu hao hết toàn bộ [Mê Ly]."
+lang_multi_text.db,MultiText,Term850054_Title,蜃境状态,Mirage,Trạng Thái Thần Cảnh
+lang_multi_text.db,MultiText,Term850055_Desc,"降低目标的行动速度，持续6.5秒。目标受到伤害时，将触发一次<color=Highlight>惊醒</color>，造成<color=Dark>湮灭伤害</color>，并清除<color=Highlight>迷梦</color>，此次伤害为普攻伤害。
+队伍中其他角色攻击处于<color=Highlight>迷梦</color>的目标时，无法触发<color=Highlight>惊醒</color>，并清除<color=Highlight>迷梦</color>。
+探索工具伤害和协同攻击不会触发惊醒。","Reduce the target's movement speed for 6.5s. When the target takes damage, <color=Highlight>Jolt</color> is triggered once, removing <color=Highlight>Hazy Dream</color> to deal <color=Dark>Havoc DMG</color>, considered Basic Attack DMG.
+Attacks by other Resonators in the team will not <color=Highlight>Jolt</color> a target influenced by <color=Highlight>Hazy Dream</color> and will remove the <color=Highlight>Hazy Dream</color>. 
+Coordinated Attacks and damage from Utilities will not trigger <color=Highlight>Jolt</color>.","Giảm tốc độ hành động của mục tiêu, duy trì 6.5 giây. Khi mục tiêu chịu sát thương, sẽ kích hoạt một lần <color=Highlight>Bừng Tỉnh</color>, gây <color=Dark>Sát Thương Hủy Diệt</color>, đồng thời xóa bỏ <color=Highlight>Mê Mộng</color>, sát thương lần này là sát thương Đánh Thường.
+Khi nhân vật khác trong đội tấn công mục tiêu đang trong trạng thái <color=Highlight>Mê Mộng</color>, không thể kích hoạt <color=Highlight>Bừng Tỉnh</color>, đồng thời xóa bỏ <color=Highlight>Mê Mộng</color>.
+Sát thương công cụ khám phá và Tấn Công Phối Hợp sẽ không kích hoạt Bừng Tỉnh."
+lang_multi_text.db,MultiText,Term850055_Title,迷梦,Hazy Dream,Mê Mộng
+lang_multi_text.db,MultiText,Term850056_Desc,"【弦风息】上限120点。
+空中攻击<color=Highlight>抃风儛润</color>每段命中时，获得25点【弦风息】。
+施放<color=Highlight>变奏技能</color>时，获得20点【弦风息】。
+<color=Highlight>普攻第3段</color>、<color=Highlight>普攻第4段</color>、<color=Highlight>闪避反击</color>命中时，获得10点【弦风息】。","Rover can hold up to 120 Windstrings.
+Each stage of Mid-air Attack <color=Highlight>Cloudburst Dance</color> restores 25 Windstrings on hit.
+Casting <color=Highlight>Intro Skill</color> restores 20 Windstrings.
+Hitting a target with <color=Highlight>Basic Attack Stage 3 or 4</color> or <color=Highlight>Dodge Counter</color> restores 10 Windstrings.","Giới hạn [Huyền Phong Tức] là 120 điểm.
+Khi Tấn Công Trên Không <color=Highlight>Biện Phong Vũ Nhuận</color> mỗi đoạn đánh trúng, nhận 25 điểm [Huyền Phong Tức].
+Khi thi triển <color=Highlight>Kỹ Năng Biến Tấu</color>, nhận 20 điểm [Huyền Phong Tức].
+Khi <color=Highlight>Đánh Thường đoạn 3</color>, <color=Highlight>Đánh Thường đoạn 4</color>, <color=Highlight>Phản Kích Né Tránh</color> đánh trúng, nhận 10 điểm [Huyền Phong Tức]."
+lang_multi_text.db,MultiText,Term850056_Title,弦风息,Windstring,Huyền Phong Tức
+lang_multi_text.db,MultiText,Term850057_Desc,拾取天籁的角色攻击提升15%，持续20秒。,ATK of the Resonators who pick up Euphonia is increased by 15% for 20s.,"Nhân vật nhặt Thiên Lại tăng 15% tấn công, duy trì 20 giây."
+lang_multi_text.db,MultiText,Term850057_Title,天籁,Euphonia,Thiên Lại
+lang_multi_text.db,MultiText,Term850058_Desc,"在行狮状态中：
+·可在空中进行攻击，若回到地面，施放重击<color=Highlight>起势·纵地金光</color>可再次回到空中；
+·持续消耗【狮魂】，消耗完后将结束<color=Highlight>行狮</color>状态，<color=Highlight>行狮</color>状态可维持5秒；
+·若同时处于共鸣解放<color=Highlight>狮子奋迅</color>状态，【狮魂】消耗速率降低50%，<color=Highlight>行狮</color>状态最多可延长至10秒；
+·凌阳的<color=Highlight>普攻</color>替换为普攻<color=Highlight>狂态·摇光金狮舞</color>，进行最多2段的连续攻击，造成<color=Ice>冷凝伤害</color>；
+·凌阳的<color=Highlight>共鸣技能</color>替换为共鸣技能<color=Highlight>飞身式·翻山越涧</color>，造成<color=Ice>冷凝伤害</color>；
+·当【狮魂】消耗至10点以下时，短按<color=Highlight>普攻</color>，将会施放普攻<color=Highlight>凌云式·腿打连环</color>攻击目标，造成<color=Ice>冷凝伤害</color>；施放普攻<color=Highlight>凌云式·腿打连环</color>后，可施放空中攻击<color=Highlight>登楼·尾坠千斤</color>；
+·消耗【狮魂】时回复协奏能量。","In the <color=Highlight>Striding Lion</color> state:
+- Attacks can be launched in mid-air. If Lingyang is on the ground, use Heavy Attack <color=Highlight>Glorious Plunge</color> to get back in the air.
+- Lion's Spirit is continuously consumed before running out in 5s, and when it runs out, <color=Highlight>Striding Lion</color> ends;
+- If Lingyang is in the Resonance Liberation <color=Highlight>Lion's Vigor</color> state, the consumption speed of Lion's Spirit is reduced by 50%, extending <color=Highlight>Striding Lion</color> state by up to 10s.
+- Lingyang's <color=Highlight>Basic Attack</color> is replaced with Basic Attack <color=Highlight>Feral Gyrate</color>, which performs up to 2 consecutive attacks, dealing <color=Ice>Glacio DMG</color>;
+- Lingyang's <color=Highlight>Resonance Skill</color> is replaced with <color=Highlight>Mountain Roamer</color>, dealing <color=Ice>Glacio DMG</color>;
+- When Lion's Spirit is less than 10, use <color=Highlight>Basic Attack</color> to perform <color=Highlight>Stormy Kicks</color>, dealing <color=Ice>Glacio DMG</color>; after performing Basic Attack <color=Highlight>Stormy Kicks</color>, the Mid-air Attack <color=Highlight>Tail Strike</color> becomes available.
+- Concerto Energy is restored when Lion's Spirit is consumed.","Trong trạng thái Hành Sư:
+.Có thể tấn công trên không, nếu trở về mặt đất, thi triển Đánh Mạnh <color=Highlight>Khởi Thế - Tung Địa Kim Quang</color> có thể trở lại không trung một lần nữa;
+.Tiêu hao liên tục [Sư Hồn], sau khi tiêu hao hết sẽ kết thúc trạng thái <color=Highlight>Hành Sư</color>, trạng thái <color=Highlight>Hành Sư</color> có thể duy trì 5 giây;
+.Nếu đồng thời đang trong trạng thái Giải Phóng Cộng Hưởng <color=Highlight>Sư Tử Phấn Tấn</color>, tốc độ tiêu hao [Sư Hồn] giảm 50%, trạng thái <color=Highlight>Hành Sư</color> tối đa có thể kéo dài đến 10 giây;
+.<color=Highlight>Đánh Thường</color> của Lingyang thay thế bằng Đánh Thường <color=Highlight>Cuồng Thái - Dao Quang Kim Sư Vũ</color>, thực hiện tối đa 2 đòn tấn công liên tiếp, gây <color=Ice>Sát Thương Ngưng Băng</color>;
+.<color=Highlight>Kỹ Năng Cộng Hưởng</color> của Lingyang thay thế bằng Kỹ Năng Cộng Hưởng <color=Highlight>Phi Thân Thức - Phiên Sơn Việt Giản</color>, gây <color=Ice>Sát Thương Ngưng Băng</color>;
+.Khi [Sư Hồn] tiêu hao xuống dưới 10 điểm, nhấn ngắn <color=Highlight>Đánh Thường</color>, sẽ thi triển Đánh Thường <color=Highlight>Lăng Vân Thức - Thùy Đả Liên Hoàn</color> tấn công mục tiêu, gây <color=Ice>Sát Thương Ngưng Băng</color>; sau khi thi triển Đánh Thường <color=Highlight>Lăng Vân Thức - Thùy Đả Liên Hoàn</color>, có thể thi triển Tấn Công Trên Không <color=Highlight>Đăng Lâu - Vĩ Trụy Thiên Cân</color>;
+.Khi tiêu hao [Sư Hồn] sẽ hồi phục Năng Lượng Hiệp Tấu."
+lang_multi_text.db,MultiText,Term850058_Title,行狮,Striding Lion,Hành Sư
+lang_multi_text.db,MultiText,Term850059_Desc,"场上最多存在2个合奏音影。
+若夏空的<color=Highlight>普攻第4段</color>被打断，合奏音影将代替夏空完成这次攻击，并进入<color=Highlight>音律独奏</color>状态。
+若夏空的<color=Highlight>音律独奏</color>状态被打断，合奏音影将代替夏空继续<color=Highlight>音律独奏</color>状态。
+通过<color=Highlight>共鸣技能</color>生成合奏音影时，除上述两种情况外，合奏音影将代替夏空完成这次攻击，但不进入<color=Highlight>音律独奏</color>状态。","Up to 2 <color=Highlight>Ensemble Sylphs</color> may exist simultaneously.
+If Ciaccona's Basic Attack Stage 4 is interrupted, the <color=Highlight>Ensemble Sylphs</color> generated will finish the action for Ciaccona and send Ciaccona into <color=Highlight>Solo Concert</color>.
+If Ciaccona's <color=Highlight>Solo Concert</color> is interrupted, the <color=Highlight>Ensemble Sylphs</color> generated will continue the <color=Highlight>Solo Concert</color> for Ciaccona.","Trên sân tồn tại tối đa 2 Hợp Tấu Âm Ảnh.
+Nếu <color=Highlight>Đánh Thường đoạn 4</color> của Ciaccona bị gián đoạn, Hợp Tấu Âm Ảnh sẽ thay Ciaccona hoàn thành đòn tấn công này, và tiến vào trạng thái <color=Highlight>Âm Luật Độc Tấu</color>.
+Nếu trạng thái <color=Highlight>Âm Luật Độc Tấu</color> của Ciaccona bị gián đoạn, Hợp Tấu Âm Ảnh sẽ thay Ciaccona tiếp tục trạng thái <color=Highlight>Âm Luật Độc Tấu</color>.
+Khi tạo Hợp Tấu Âm Ảnh thông qua <color=Highlight>Kỹ Năng Cộng Hưởng</color>, ngoài hai trường hợp trên, Hợp Tấu Âm Ảnh sẽ thay Ciaccona hoàn thành đòn tấn công này, nhưng không tiến vào trạng thái <color=Highlight>Âm Luật Độc Tấu</color>."
+lang_multi_text.db,MultiText,Term850059_Title,合奏音影,Ensemble Sylph,Hợp Tấu Âm Ảnh
+lang_multi_text.db,MultiText,Term850060_Desc,夏空或合奏音影在进入音律独奏状态时能够以自身为中心，使附近队伍中所有角色的气动伤害加成提升24%，该效果不可叠加。,"When Ciaccona or Ensemble Sylph performs Solo Concert, they give 24% Aero DMG Bonus to all nearby Resonators in the team. This effect is not stackable.","Khi Ciaccona hoặc Hợp Tấu Âm Ảnh tiến vào trạng thái Âm Luật Độc Tấu có thể lấy bản thân làm trung tâm, khiến tất cả nhân vật trong đội gần đó tăng 24% Sát Thương Khí Động, hiệu quả này không thể cộng dồn."
+lang_multi_text.db,MultiText,Term850060_Title,音律独奏,Solo Concert,Âm Luật Độc Tấu
+lang_multi_text.db,MultiText,Term850061_Desc,"【音律】上限3格。
+施放<color=Highlight>普攻第4段</color>和<color=Highlight>变奏技能</color>时，可获得1格【音律】。","Ciaccona can hold up to 3 segments of Musical Essence.
+Casting <color=Highlight>Basic Attack Stage 4</color> and <color=Highlight>Intro Skill</color> recovers 1 segment of Musical Essence.","Giới hạn [Âm Luật] là 3 ô.
+Khi thi triển <color=Highlight>Đánh Thường đoạn 4</color> và <color=Highlight>Kỹ Năng Biến Tấu</color>, có thể nhận 1 ô [Âm Luật]."
+lang_multi_text.db,MultiText,Term850061_Title,音律,Musical Essence,Âm Luật
+lang_multi_text.db,MultiText,Term850062_Desc,共振度清空时，敌人进入<color=Highlight>瘫痪状态</color>。瘫痪后敌人一段时间内无法行动。,"When the Vibration Strength is depleted, the enemy is <color=Highlight>Immobilized</color> and cannot take any action for a period of time.","Khi Độ Rung về 0, kẻ địch tiến vào <color=Highlight>Trạng Thái Tê Liệt</color>. Sau khi Tê Liệt, kẻ địch không thể hành động trong một khoảng thời gian."
+lang_multi_text.db,MultiText,Term850062_Title,共振度,Vibration Strength,Độ Rung
+lang_multi_text.db,MultiText,Term850063_Desc,"【冗余动能】上限100点。
+常态攻击命中目标时，获得【冗余动能】。
+施放变奏技能<color=Highlight>即刻执行</color>时，获得【冗余动能】。
+施放共鸣技能<color=Highlight>标准防卫预案</color>时，获得【冗余动能】。
+施放共鸣技能<color=Highlight>精准反击</color>时，获得【冗余动能】。
+处于<color=Highlight>灼焰形态</color>时，无法获得【冗余动能】。","Zani can hold up to 100 Redundant Energy.
+Obtain Redundant Energy when Normal Attacks hit a target.
+Obtain Redundant Energy when Intro Skill <color=Highlight>Immediate Execution</color> hits a target.
+Obtain Redundant Energy when casting Resonance Skill <color=Highlight>Standard Defense Protocol</color>.
+Obtain Redundant Energy when casting Resonance Skill <color=Highlight>Pinpoint Strike</color>.
+Cannot obtain Redundant Energy while in <color=Highlight>Inferno Mode</color>.","Giới hạn [Động Năng Dư Thừa] là 100 điểm.
+Khi Đánh Thường trúng mục tiêu, nhận [Động Năng Dư Thừa].
+Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Thực Thi Ngay</color>, nhận [Động Năng Dư Thừa].
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Phòng Thủ Chuẩn</color>, nhận [Động Năng Dư Thừa].
+Khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phản Kích Chính Xác</color>, nhận [Động Năng Dư Thừa].
+Khi đang ở <color=Highlight>Dạng Chước Diễm</color>, không thể nhận [Động Năng Dư Thừa]."
+lang_multi_text.db,MultiText,Term850063_Title,冗余动能,Redundant Energy,Động Năng Dư Thừa
+lang_multi_text.db,MultiText,Term850064_Desc,施放共鸣解放·重燃可进入灼焰形态。,Casting Resonance Liberation Rekindle sends Zani into Infernal Mode.,Thi triển Giải Phóng Cộng Hưởng - Tái Nhiên có thể tiến vào Dạng Chước Diễm.
+lang_multi_text.db,MultiText,Term850064_Title,灼焰形态,Inferno Mode,Dạng Chước Diễm
+lang_multi_text.db,MultiText,Term850065_Desc,"赞妮未处于<color=Highlight>灼焰形态</color>时，【焰光】上限为100点。
+赞妮处于<color=Highlight>灼焰形态</color>时，【焰光】上限为150点。
+施放共鸣技能<color=Highlight>危机处理预案</color>后，获得10点【焰光】。
+每1层<color=Highlight>【光噪效应】</color>转化为【烈阳余烬】时，获得5点【焰光】。
+施放共鸣解放<color=Highlight>重燃</color>时，获得50点【焰光】。","Blaze is capped at 100 when not in <color=Highlight>Inferno Mode</color>.
+Blaze is capped at 150 in <color=Highlight>Inferno Mode</color>.
+Casting Resonance Skill <color=Highlight>Crisis Response Protocol</color> grants 10 Blazes.
+Every stack of Heliacal Ember converted from <color=Highlight>Spectro Frazzle</color> grants 5 Blazes.
+Casting Resonance Liberation <color=Highlight>Rekindle</color> grants 50 Blazes.","Khi Zani không ở <color=Highlight>Dạng Chước Diễm</color>, giới hạn [Diễm Quang] là 100 điểm.
+Khi Zani ở <color=Highlight>Dạng Chước Diễm</color>, giới hạn [Diễm Quang] là 150 điểm.
+Sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Phương Án Xử Lý Nguy Cơ</color>, nhận 10 điểm [Diễm Quang].
+Mỗi khi 1 tầng <color=Highlight>[Hiệu Ứng Quang Nhiễu]</color> chuyển hóa thành [Tàn Dư Liệt Dương], nhận 5 điểm [Diễm Quang].
+Khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Tái Nhiên</color>, nhận 50 điểm [Diễm Quang]."
+lang_multi_text.db,MultiText,Term850065_Title,焰光,Blaze,Diễm Quang
+lang_multi_text.db,MultiText,Term850066_Desc,赞妮处于编队时，附近队伍中的角色对目标附加<color=Highlight>【光噪效应】</color>时，将立刻结算全部层数伤害并转化为相同层数的【烈阳余烬】。每次发生转化，赞妮根据转化层数汲取【焰光】。【烈阳余烬】层数上限为60层，每层持续6秒。该层数可触发「此间永驻之光」 合鸣效果。,"When Zani is in the team and a nearby Resonator inflicts <color=Highlight>Spectro Frazzle</color> upon a target, immediately consume all Spectro Frazzle stacks and trigger the corresponding DMG, then convert Spectro Frazzle into equal stacks of Heliacal Ember. Every time the conversion happens, Zani obtains Blaze based on the stacks of Heliacal Ember inflicted. Heliacal Ember is capped at 60 stacks, with each stack lasting for 6s. Heliacal Ember stacks are counted toward the Spectro Frazzle stacks for the Eternal Radiance Sonata Effect.","Khi Zani có mặt trong đội, nhân vật trong đội gần đó gây <color=Highlight>[Hiệu Ứng Quang Nhiễu]</color> lên mục tiêu, sẽ lập tức tính toán sát thương toàn bộ tầng và chuyển hóa thành số tầng [Tàn Dư Liệt Dương] tương ứng. Mỗi lần chuyển hóa, Zani sẽ hấp thụ [Diễm Quang] dựa trên số tầng chuyển hóa. Giới hạn tầng [Tàn Dư Liệt Dương] là 60 tầng, mỗi tầng duy trì 6 giây. Số tầng này có thể kích hoạt hiệu quả Hợp Minh ""Ánh Sáng Vĩnh Hằng Nơi Đây""."
+lang_multi_text.db,MultiText,Term850066_Title,烈阳余烬,Heliacal Ember,Tàn Dư Liệt Dương
+lang_multi_text.db,MultiText,Term850067_Desc,"由史考特·拉贝尔博士发明，用于检测共鸣者状态的一种方法，简称“拉贝尔检测法”。
+因其安全性、稳定性、易用性而在各个地区得到了广泛应用。","Developed by Dr. Scott Rabelle, this method was originally designed to examine Resonators. It is also known as ""Rabelle's Test.""
+Known for its safety, reliability, and ease of use, the test has since been adopted across multiple regions.","Một phương pháp do Tiến sĩ Scott Rabelle phát minh dùng để kiểm tra trạng thái của Cộng Hưởng Giả, gọi tắt là ""Phương Pháp Kiểm Tra Rabelle"".
+Nhờ tính an toàn, ổn định và dễ sử dụng, nó đã được ứng dụng rộng rãi ở nhiều khu vực."
+lang_multi_text.db,MultiText,Term850067_Title,拉贝尔曲线,Rabelle's Curve,Đường Cong Rabelle
+lang_multi_text.db,MultiText,Term850068_Desc,天生拥有异能，先天性共鸣者。,A Resonator born with innate Forte.,"Người bẩm sinh đã sở hữu dị năng, là Cộng Hưởng Giả bẩm sinh."
+lang_multi_text.db,MultiText,Term850068_Title,先天型共鸣者,Congenital Resonator,Cộng Hưởng Giả Tiên Thiên
+lang_multi_text.db,MultiText,Term850069_Desc,受到重大事件刺激，而导致觉醒异能。,A Resonator who awakened their Forte through a life-changing event.,"Bị kích thích bởi sự kiện trọng đại, dẫn đến thức tỉnh dị năng."
+lang_multi_text.db,MultiText,Term850069_Title,突变型共鸣者,Mutant Resonator,Cộng Hưởng Giả Đột Biến
+lang_multi_text.db,MultiText,Term850070_Desc,随着阅历、能力的深化逐渐觉醒异能。,A Resonator who naturally awakened their Forte during their growth.,"Theo sự gia tăng của trải nghiệm và năng lực, dần dần thức tỉnh dị năng."
+lang_multi_text.db,MultiText,Term850070_Title,自然型共鸣者,Natural Resonator,Cộng Hưởng Giả Tự Nhiên
+lang_multi_text.db,MultiText,Term850071_Desc,通过人为诱导、激发有共鸣潜质的个体，使其提前觉醒为共鸣者。,A Resonator whose latent Forte was prematurely awakened via controlled artificial stimulation.,"Thông qua sự dẫn dụ nhân tạo, kích thích cá thể có tiềm năng cộng hưởng, khiến họ thức tỉnh sớm trở thành Cộng Hưởng Giả."
+lang_multi_text.db,MultiText,Term850071_Title,诱导型共鸣者,Induced Resonator,Cộng Hưởng Giả Dẫn Dụ
+lang_multi_text.db,MultiText,Term850072_Desc,"在共鸣者肤表或无音区的地面留下的刻痕。
+对共鸣者而言，体表的声痕是异能涌现的通道，象征着共鸣后的新生。
+对无音区而言，奔涌不安的能量化为白色声弦，无尽的残象从中产生。","A mark found either on a Resonator's skin or the ground of a Tacet Field.
+For Resonators, these marks serve as conduits for their Forte, a sign of their rebirth after awakening.
+In Tacet Fields, the mark becomes the focal point where chaotic energy coalesces, forming the white Resonance Cord that births endless Tacet Discords into this world.","Vết hằn lưu lại trên bề mặt da của Cộng Hưởng Giả hoặc mặt đất của Vùng Vô Thanh.
+Đối với Cộng Hưởng Giả, Thanh Ngân trên cơ thể là con đường để dị năng tuôn trào, tượng trưng cho sự tái sinh sau khi cộng hưởng.
+Đối với Vùng Vô Thanh, năng lượng cuộn trào bất an hóa thành dây thanh trắng xóa, nơi vô số Tàn Tượng sinh ra từ đó."
+lang_multi_text.db,MultiText,Term850072_Title,声痕,Tacet Mark,Thanh Ngân
+lang_multi_text.db,MultiText,Term850073_Desc,"过度使用自身的力量、或是为执念所困，都会导致共鸣者的精神与异能超负荷，继而引发超频。
+超频状态能够得到抑制，但尚无治愈的方法。","Overuse of power or obsession can overload a Resonator's mind and Forte, leading to Overclocking.
+While Overclocking can be controlled, there is currently no known permanent cure.","Việc sử dụng quá mức sức mạnh bản thân hoặc bị mắc kẹt trong chấp niệm đều dẫn đến quá tải tinh thần và dị năng của Cộng Hưởng Giả, từ đó gây ra Vượt Tần.
+Trạng thái Vượt Tần có thể được ức chế, nhưng chưa có phương pháp chữa trị hoàn toàn."
+lang_multi_text.db,MultiText,Term850073_Title,超频,Overclocking,Vượt Tần
+lang_multi_text.db,MultiText,Term850074_Desc,"为了摧毁文明发展中人类引以为傲的精神，以人类崩塌的意志为自身的“食粮”，伴随着「悲鸣」诞生的可怖残象。
+如果说文明是人类集体意志的凝聚，那么「鸣式」便会折射集体意志的隐忧与心魔，具现为盘踞于世界各处的毁灭性的残象灾害。","Threnodians are formidable creatures born from the Laments, with the power to destroy human spirit and feed off of their collapsed will. If civilizations represent mankind's collective will, the Threnodians embody our fears and struggles. They manifest as destructive Tacet Discord disasters spreading across the planet.","Tàn Tượng khủng khiếp sinh ra cùng với ""Bi Minh"", nhằm phá hủy tinh thần đáng tự hào của nhân loại trong quá trình phát triển văn minh, lấy ý chí sụp đổ của con người làm ""thức ăn"" cho bản thân.
+Nếu nói văn minh là sự kết tinh ý chí tập thể của nhân loại, thì ""Minh Thức"" chính là sự phản chiếu những lo âu và tâm ma của ý chí tập thể đó, hiện thực hóa thành thảm họa Tàn Tượng mang tính hủy diệt chiếm cứ khắp nơi trên thế giới."
+lang_multi_text.db,MultiText,Term850074_Title,鸣式,Threnodian,Minh Thức
+lang_multi_text.db,MultiText,Term850075_Desc,"「悲鸣」是索拉里斯一切灾变态势的统称。
+人们牢记一切产生变化的时间，那是从第一声悲鸣开始，而「悲鸣」从未结束。
+浪潮不止，悲鸣永不停歇。","The term ""Lament"" refers to the ongoing catastrophic events on Solaris-3. Since the onset of the first Lament, the cycle of destruction has persisted relentlessly. The tide of devastation remains ceaseless, with no signs of stopping.","""Bi Minh"" là tên gọi chung cho mọi thảm họa biến động tại Solaris.
+Người ta ghi nhớ mọi thời điểm xảy ra thay đổi, bắt đầu từ tiếng Bi Minh đầu tiên, và ""Bi Minh"" chưa bao giờ kết thúc.
+Sóng triều không ngừng, Bi Minh mãi không dứt."
+lang_multi_text.db,MultiText,Term850075_Title,悲鸣,Lament,Bi Minh
+lang_multi_text.db,MultiText,Term850076_Desc,一种纯净、完整的频率能量形态，其记录的信息能够超越时空以某种形式稳定存在。,"A form of pure energy with complete frequencies. The information it carries transcends time and space, enduring in a stable, unchanging state.","Một dạng năng lượng tần số tinh khiết và hoàn chỉnh, thông tin mà nó ghi lại có thể vượt qua thời gian và không gian để tồn tại ổn định dưới một hình thức nào đó."
+lang_multi_text.db,MultiText,Term850076_Title,回音,Remnant Energy,Hồi Âm
+lang_multi_text.db,MultiText,Term850077_Desc,「回音」富集形成的超自然空间区域，学界称之为「索诺拉」。,Transdimensional spaces where Remnant Energy is abundant are known as the Sonoro Spheres.,"Khu vực không gian siêu nhiên được hình thành do sự tích tụ của ""Hồi Âm"", giới học thuật gọi là ""Sonoro""."
+lang_multi_text.db,MultiText,Term850077_Title,索诺拉,Sonoro Sphere,Sonoro
+lang_multi_text.db,MultiText,Term850078_Desc,"「无音区」是残象的诞生区域，其出现往往伴随着遮蔽天空的倒悬之海及深刻于地表的十字星状声痕。
+万千残响在无音区中不断地反射、交织、重叠，白色的声弦连接了现实与彼端未知的空间，无数残象于此汇集。","The ""Tacet Fields"" are thought to be where all Tacet Discords originate. These locations feature a sky of inverted seas and a deep cross-shaped Tacet Mark on the ground. Reverberations fill the air, linking our world to an unknown space through a white Resonance Cord. These areas attract gatherings of Tacet Discords.","""Vùng Vô Thanh"" là khu vực sinh ra Tàn Tượng, sự xuất hiện của nó thường đi kèm với biển đảo ngược che khuất bầu trời và Thanh Ngân hình sao chữ thập khắc sâu trên mặt đất.
+Vô vàn âm thanh tàn dư không ngừng phản xạ, đan xen, chồng chéo trong Vùng Vô Thanh, những dây thanh trắng xóa kết nối hiện thực với không gian chưa biết ở phía bên kia, vô số Tàn Tượng tụ tập tại đây."
+lang_multi_text.db,MultiText,Term850078_Title,无音区,Tacet Field,Vùng Vô Thanh
+lang_multi_text.db,MultiText,Term850079_Desc,"Sol-3，太阳星系的第三颗星球，从第一声「悲鸣」开始——
+新生事物涌现，旧日法则失效，前所未见的异象灾害在大地上肆虐。
+在这个毁灭与新生并存的全新世界里，人类秉持着不屈的文明星火，正欲抵御新一轮未知的危机浪潮。","SOL-3, the third planet from the sun. A world of chaos and change, where old conventions are discarded and disasters run rampant. Human civilization struggles to survive in this new era of destruction and rebirth, facing uncharted challenges with unwavering determination.","Solaris-3, hành tinh thứ ba trong hệ mặt trời, bắt đầu từ tiếng ""Bi Minh"" đầu tiên...
+Những sự vật mới nảy sinh, quy luật cũ mất hiệu lực, những thảm họa dị tượng chưa từng thấy hoành hành trên mặt đất.
+Trong thế giới hoàn toàn mới nơi hủy diệt và tái sinh cùng tồn tại này, nhân loại giữ vững ngọn lửa văn minh bất khuất, chuẩn bị chống lại một làn sóng nguy cơ chưa biết mới."
+lang_multi_text.db,MultiText,Term850079_Title,索拉里斯,Solaris,Solaris
+lang_multi_text.db,MultiText,Term850080_Desc,"悲鸣之下，毁灭的浪潮对索拉世界产生了侵蚀作用。
+「无音区」、「残象潮」、「黑石」……种种侵蚀异象被统称为「海蚀现象」。","The Lament's power causes destructive waves across the land of Solaris. Manifestations like the ""Tacet Fields,"" ""Tacet Discord Outbreaks,"" and the enigmatic ""Tacetite"" are part of what is collectively known as the ""Waveworn Phenomena.""","Dưới tác động của Bi Minh, làn sóng hủy diệt đã gây ra sự xâm thực đối với thế giới Solaris.
+""Vùng Vô Thanh"", ""Triều Tàn Tượng"", ""Hắc Thạch""... đủ loại dị tượng xâm thực được gọi chung là ""Hiện Tượng Hải Thực""."
+lang_multi_text.db,MultiText,Term850080_Title,海蚀,Waveworn Phenomena,Hải Thực
+lang_multi_text.db,MultiText,Term850081_Desc,"海蚀现象下，由残存的混乱频率能量构成的类生命体，外形不定，具备特殊结构“声核”，学界也称其为「残响体」。
+残象的本能是通过吞噬融合其他频率以维系自身稳定乃至进化，行为模式类似捕食。
+其能力、外形和行为因频率信息构成差异而有所不同，多为拟态。","Tacet Discords, beings created by the Waveworn Phenomena bearing ""Tacet Cores"", are dangerous entities with ever-changing, amorphous forms, which feed on other frequencies to maintain stability and evolution. These creatures mimic their prey's abilities, shapes, and behaviors, influenced by the types of frequency they consume.","Dạng sống được cấu thành từ năng lượng tần số hỗn loạn còn sót lại trong hiện tượng Hải Thực, hình dạng không cố định, sở hữu cấu trúc đặc biệt là ""Thanh Hạch"", giới học thuật còn gọi là ""Tàn Hưởng Thể"".
+Bản năng của Tàn Tượng là nuốt chửng và dung hợp các tần số khác để duy trì sự ổn định của bản thân hoặc thậm chí tiến hóa, mô thức hành vi tương tự như săn mồi.
+Năng lực, ngoại hình và hành vi của chúng khác nhau tùy thuộc vào cấu tạo thông tin tần số, đa phần là ngụy trang."
+lang_multi_text.db,MultiText,Term850081_Title,残象,Tacet Discord,Tàn Tượng

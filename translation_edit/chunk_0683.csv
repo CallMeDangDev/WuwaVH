@@ -1,101 +1,399 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Fishing_CageText2,容量,Size,Dung lượng
-lang_multi_text.db,MultiText,Fishing_CageText3,神秘气泡,Wonder Bubble,Bong Bóng Thần Bí
-lang_multi_text.db,MultiText,Fishing_CageText4,渔获,Catches,Cá bắt được
-lang_multi_text.db,MultiText,Fishing_CageText5,拖网,Trawl,Lưới kéo
-lang_multi_text.db,MultiText,Fishing_CageTime,下轮收获时间{0},Next Harvest in {0},Thời gian thu hoạch lượt sau {0}
-lang_multi_text.db,MultiText,Fishing_CantMoveDown,该类型物品无法放下,Can't place this type of item,Loại vật phẩm này không thể đặt xuống
-lang_multi_text.db,MultiText,Fishing_CantPutDown,当前位置无法放下,Can't place it here,Vị trí hiện tại không thể đặt xuống
-lang_multi_text.db,MultiText,Fishing_CheckEntrust,查看委托,View Request,Xem ủy thác
-lang_multi_text.db,MultiText,Fishing_CurrentEntrustCannotTrace,当前委托无法追踪,Unable to trace the Request,Không thể theo dõi ủy thác hiện tại
-lang_multi_text.db,MultiText,Fishing_DetectCage,该目标需要通过「神奇气泡」获取,Wonder Bubble required,"Mục tiêu này cần nhận qua ""Bong Bóng Thần Bí"""
-lang_multi_text.db,MultiText,Fishing_DetectCodition,收录本体或收录变异来源后可探测,Detectable after this entry or its Mutant is unlocked,Có thể dò tìm sau khi thu thập bản thể hoặc nguồn gốc dị biến
-lang_multi_text.db,MultiText,Fishing_DetectFail,当前无可捕捞目标,No fishing target available,Hiện không có mục tiêu có thể đánh bắt
-lang_multi_text.db,MultiText,Fishing_DetectNext,捕捞完成，已标记新的捕捞目标,Fishing complete. A new target is marked.,"Đánh bắt hoàn tất, đã đánh dấu mục tiêu đánh bắt mới"
-lang_multi_text.db,MultiText,Fishing_DetectSource,已自动探测其变异来源,The original species is automatically detected,Đã tự động dò tìm nguồn gốc dị biến của nó
-lang_multi_text.db,MultiText,Fishing_DetectSuccess,已探测到目标，请跟随地图指引前往,Tracking the target. Please follow the guide.,"Đã dò tìm được mục tiêu, vui lòng đi theo chỉ dẫn bản đồ"
-lang_multi_text.db,MultiText,Fishing_DraftFull,拖网已满,The Trawl is full,Lưới kéo đã đầy
-lang_multi_text.db,MultiText,Fishing_EnrustEmptyState1,当前暂无委托,No requests yet,Hiện chưa có ủy thác
-lang_multi_text.db,MultiText,Fishing_EnrustEmptyState2,请前往码头接取委托,Head to the dock for new requests,Vui lòng đến bến tàu nhận ủy thác
-lang_multi_text.db,MultiText,Fishing_EntrustNotAtDock,请前往码头交付委托,Deliver the catches at the dock to finish the Request,Vui lòng đến bến tàu giao nộp ủy thác
-lang_multi_text.db,MultiText,Fishing_EntrustTag1,重要委托,Priority Request,Ủy thác quan trọng
-lang_multi_text.db,MultiText,Fishing_EntrustTag2,高价值委托,Premium Request,Ủy thác giá trị cao
-lang_multi_text.db,MultiText,Fishing_EntrustTag3,快速出售委托,Quick Sale Request,Ủy thác bán nhanh
-lang_multi_text.db,MultiText,Fishing_EntrustTag4,常规委托,Common Request,Ủy thác thường
-lang_multi_text.db,MultiText,Fishing_EntrustTag5,客户委托,Personal Request,Ủy thác khách hàng
-lang_multi_text.db,MultiText,Fishing_EntrustTitle10001,快速出售,Quick Sale,Bán nhanh
-lang_multi_text.db,MultiText,Fishing_EntrustTitle1001,亚哈的委托：初试身手,Ahab's Request: Maiden Voyage,Ủy thác của Ahab: Thử sức lần đầu
-lang_multi_text.db,MultiText,Fishing_EntrustTitle1002,亚哈的委托：捉回大鱼,Ahab's Request: Big Catch,Ủy thác của Ahab: Bắt lại cá lớn
-lang_multi_text.db,MultiText,Fishing_EntrustTitle1003,在空中的鱼与龙,"Flying Fish, Diving Dragon",Cá và rồng trên không trung
-lang_multi_text.db,MultiText,Fishing_EntrustTitle1004,戈耳狄俄斯之结,The Cutting of the Gordian Knot,Nút thắt Gordian
-lang_multi_text.db,MultiText,Fishing_EntrustTitle101,鱼王·钛合鲭,Fish King: Titanium Mackerel,Cá Vua - Cá Thu Hợp Kim Titan
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11001,特产：近海常规捕捞,Special: Offshore Operation,Đặc sản: Đánh bắt ven bờ thông thường
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11002,特产：银色闪光,Special: Silver Flash,Đặc sản: Ánh bạc lấp lánh
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11003,「夜晚」特产：水母大暴动,Night Special: Jelly Rumpus,"Đặc sản ""Ban Đêm"": Bạo loạn sứa"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11004,「夜晚」特产：笨蛋水母,Night Special: Silly Jelly,"Đặc sản ""Ban Đêm"": Sứa ngốc nghếch"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11005,「夜晚」特产：深海常规捕捞,Night Special: Deep Sea Operation,"Đặc sản ""Ban Đêm"": Đánh bắt biển sâu thông thường"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11006,特产：最后一滴泪,Special: One Last Tear,Đặc sản: Giọt nước mắt cuối cùng
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11007,特产：珠泪哀歌,Speical: Tear-soaked Yarn,Đặc sản: Bi ca lệ châu
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11008,「夜晚」特产：暴徒的晚宴,Night Special: Prickly Feast,"Đặc sản ""Ban Đêm"": Dạ tiệc của những kẻ bạo loạn"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11009,「夜晚」特产：海沟变种捕捞,Night Special: Abyssal Mutants,"Đặc sản ""Ban Đêm"": Đánh bắt biến thể rãnh biển"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11010,「夜晚」特产：多样化煎蛋,Night Special: Fried Egg Deluxe,"Đặc sản ""Ban Đêm"": Trứng ốp la đa dạng"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11011,特产：浮空咒语,Special: Levioso,Đặc sản: Thần chú bay lơ lửng
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11012,「夜晚」特产：冥狱诡计,Night Special: Phantom Trap,"Đặc sản ""Ban Đêm"": Mưu mẹo địa ngục"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11013,特产：远洋常规捕捞,Special: Open Sea Operation,Đặc sản: Đánh bắt viễn dương thông thường
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11014,特产：绚烂即兴秀~,Special: Dazzle Razzle,Đặc sản: Show ngẫu hứng rực rỡ~
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11015,特产：狩猎号角,Special: Horn of Hunters,Đặc sản: Tù và săn bắn
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11016,「夜晚」特产：太阳神的左缰绳,Night Special: The Sun God's Left Rein,"Đặc sản ""Ban Đêm"": Dây cương trái của thần mặt trời"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11017,特产：落日,Special: Sunset,Đặc sản: Hoàng hôn
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11018,特产：海中坦培拉,Special: Tempera Watercolors,Đặc sản: Tranh Tempera dưới biển
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11019,特产：老猎人,Special: Skilled Hunter,Đặc sản: Thợ săn lão luyện
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11020,「夜晚」特产：太阳神的右缰绳,Night Special: The Sun God's Right Rein,"Đặc sản ""Ban Đêm"": Dây cương phải của thần mặt trời"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle11021,大师：红鲤鱼与绿鲤鱼,Challenge: Fish for Love,Bậc Thầy: Cá chép đỏ và cá chép xanh
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12001,大师：划空而过,Challenge: Sail Across the Sky,Bậc Thầy: Lướt qua bầu trời
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12002,「夜晚」大师：水母派对,Night Challenge: Jelly Party,"Bậc Thầy ""Ban Đêm"": Bữa tiệc sứa"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12003,大师：鸠占鹊巢,Challenge: Octopus in the Clam,Bậc Thầy: Tu hú chiếm tổ chim khách
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12004,大师：伪装者,Challenge: Mimicry,Bậc Thầy: Kẻ ngụy trang
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12005,大师：身心都是毛线团,Challenge: Yearn for Yarn,Đại Sư: Thân Tâm Đều Là Cuộn Len
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12006,大师：棒打鸳鸯,Challenge: To Bell or Not to Bell,Đại Sư: Chia Uyên Rẽ Thúy
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12007,大师：海胆好椰！,Challenge: It's Coconut!,Đại Sư: Nhím Biển Dừa Ngon Tuyệt!
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12008,大师：飞梭纺织机,Challenge: Airweaver,Đại Sư: Thoi Bay Dệt Vải
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12009,大师：腾龙,Challenge: Soaring Dragon,Đại Sư: Đằng Long
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12010,「夜晚」大师：软乎乎缠绵,Night Challenge: Soft and Softer,"""Đêm"" Đại Sư: Sự Quấn Quýt Mềm Mại"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12011,大师：欺诈师,Challenge: Tricksters,Đại Sư: Kẻ Lừa Đảo
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12012,大师：绝佳美味,Challenge: True Delicacy,Đại Sư: Mỹ Vị Tuyệt Hảo
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12013,大师：至死不渝,Challenge: Til Death Do Us Part,Đại Sư: Đến Chết Không Đổi
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12014,大师：象飞田,Challenge: Dumbo Mambo,Đại Sư: Voi Bay
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12015,大师：八方来客,Challenge: Swallow 'Em All,Đại Sư: Khách Đến Từ Bốn Phương
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12016,「夜晚」大师：夜晚的水晶杯,Night Challenge: Luminous Night,"""Đêm"" Đại Sư: Ly Pha Lê Trong Đêm"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12017,大师：深海的泪滴,Challenge: Sob in the Sea,Đại Sư: Giọt Lệ Biển Sâu
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12018,「夜晚」大师：双星,Night Challenge: Double Goober,"""Đêm"" Đại Sư: Song Tinh"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12019,大师：横行大冲撞！,Challenge: Crab Crash!,Đại Sư: Ngang Ngược Va Chạm!
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12020,「夜晚」大师：海象与飞星,Night Challenge: Octopus and Starfish,"""Đêm"" Đại Sư: Voi Biển Và Sao Bay"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12021,大师：冤家路窄,Challenge: No Avoiding Foes,Đại Sư: Oan Gia Ngõ Hẹp
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12022,大师：内向的家伙们,Challenge: The Introverts,Đại Sư: Những Kẻ Hướng Nội
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12023,「夜晚」大师：快刀斩乱麻,Night Challenge: Quick Slash,"""Đêm"" Đại Sư: Đao Nhanh Chém Rối"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12024,大师：快点！,Challenge: Hurry up!,Đại Sư: Nhanh Lên!
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12025,大师：海天使,Challenge: Sea Angel,Đại Sư: Thiên Thần Biển
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12026,大师：盛放的花儿们,Challenge: Feather in Bloom,Đại Sư: Những Bông Hoa Nở Rộ
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12027,「夜晚」大师：渡河钱,Night Challenge: Ferry with the Phantom,"""Đêm"" Đại Sư: Tiền Qua Sông"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12028,大师：冥狱的灯火,Challenge: Gaze from the Dead,Đại Sư: Ánh Đèn Địa Ngục
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12029,大师：行于覆雪山道,Challenge: Snowy Trail,Đại Sư: Đi Trên Đường Núi Tuyết Phủ
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12030,「夜晚」大师：明知山有虎,Night Challenge: Nothing Ventured,"""Đêm"" Đại Sư: Biết Núi Có Hổ"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12031,大师：幻梦,Challenge: Ephemeral Bubble,Đại Sư: Mộng Ảo
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12032,大师：双人舞,Challenge: Rainbow Duet,Đại Sư: Điệu Múa Đôi
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12033,「夜晚」大师：减速陷阱,Night Challenge: Deceleration Trap,"""Đêm"" Đại Sư: Bẫy Giảm Tốc"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12034,大师：雪山蝶舞,Challenge: Angels in Snow,Đại Sư: Bướm Múa Tuyết Sơn
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12035,大师：孑遗者,Challenge: Ancient Ones,Đại Sư: Kẻ Sống Sót
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12036,「夜晚」大师：逃跑的狐狸,Night Challenge: Fleeing Fish,"""Đêm"" Đại Sư: Con Cáo Bỏ Trốn"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12037,大师：追猎,Challenge: Wild Hunt,Đại Sư: Truy Đuổi
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12038,大师：冥河的悼亡者,Challenge: Grievers of the Deep,Đại Sư: Người Khóc Than Bên Sông Minh Hà
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12039,大师：日出时分,Challenge: Sunrise,Đại Sư: Thời Khắc Bình Minh
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12040,大师：红色有角三倍速,Challenge: Red Horned Mobile Suit,Đại Sư: Màu Đỏ Có Sừng Tốc Độ Gấp Ba
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12041,大师：猎人的猎物,Challenge: Predator and Prey,Đại Sư: Con Mồi Của Thợ Săn
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12042,「夜晚」大师：星声猎手,Night Challenge: Astrite Hunter,"""Đêm"" Đại Sư: Thợ Săn Tinh Thanh"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12043,大师：稳定形态,Challenge: The Strongest Shape,Đại Sư: Hình Thái Ổn Định
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12044,大师：传说中的隐者,Challenge: The Hermit of Legends,Đại Sư: Ẩn Sĩ Trong Truyền Thuyết
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12045,「夜晚」大师：海神的缰绳,Night Challenge: The Sea God's Reins,"""Đêm"" Đại Sư: Dây Cương Của Hải Thần"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12046,大师：测日者,Challenge: The Solar Surveyor,Đại Sư: Kẻ Đo Mặt Trời
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12047,「夜晚」大师：虾兵蟹将,Night Challenge: Crab and Shrimp,"""Đêm"" Đại Sư: Tôm Tép Nhãi Nhép"
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12048,大师：追猎尽头,Challenge: End of Hunt,Đại Sư: Tận Cùng Cuộc Săn
-lang_multi_text.db,MultiText,Fishing_EntrustTitle12049,「夜晚」大师：摘星,Night Challenge: Reach for the Stars,"""Đêm"" Đại Sư: Hái Sao"
+lang_multi_text.db,MultiText,Fishing_SkinTips,前往商店购买解锁,Purchase at the shop,Đến cửa hàng mua để mở khóa
+lang_multi_text.db,MultiText,Fishing_TagName1,浅水,Shallow,Nước Nông
+lang_multi_text.db,MultiText,Fishing_TagName2,深水,Deep,Nước Sâu
+lang_multi_text.db,MultiText,Fishing_TagName6,神秘气泡,Wonder Bubble,Bong Bóng Bí Ẩn
+lang_multi_text.db,MultiText,Fishing_TagName8,海沟,Abyssal,Rãnh Biển
+lang_multi_text.db,MultiText,Fishing_TagName14,远洋,Oceanic,Viễn Dương
+lang_multi_text.db,MultiText,Fishing_TechEffect101,"基础的贡多拉船体，可解锁<color=#e7a60b>浅水海域</color>的捕捞作业。
+
+<color=#929292>普通的，未经改装的贡多拉，仅适用于风浪较小的海岸线附近。</color>","A basic hull fit for fishing in the <color=#e7a60b>Shallow</color> waters.
+
+<color=#929292>The default hull is limited to the coastline and fair weather.</color>","Thân thuyền Gondola cơ bản, có thể mở khóa hoạt động đánh bắt ở <color=#e7a60b>vùng nước nông</color>.
+
+<color=#929292>Gondola bình thường, chưa được cải tiến, chỉ thích hợp hoạt động gần bờ nơi sóng gió nhỏ.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect102,"抗风浪性能更好的船体。可解锁<color=#e7a60b>深水海域</color>的捕捞作业，并扩展<color=#e7a60b>货舱槽位</color>。
+
+<color=#929292>对船体框架进行加固，并使吃水更深，足以面对一般风浪的挑战。</color>","A sturdier hull with improved resistance to wind and waves. It's fit for fishing in the <color=#e7a60b>Deep</color> waters with increased <color=#e7a60b>cargo capacity</color>.
+
+<color=#929292>With a deeper draft, this reinforced hull can handle moderate storms at sea.</color>","Thân thuyền có khả năng chống sóng gió tốt hơn. Có thể mở khóa hoạt động đánh bắt ở <color=#e7a60b>vùng nước sâu</color>, và mở rộng <color=#e7a60b>vị trí khoang chứa</color>.
+
+<color=#929292>Khung thuyền được gia cố và mớn nước sâu hơn, đủ để đối mặt với những cơn sóng gió thông thường.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect103,"用于捕捞海底渔获的特化型船体。可解锁<color=#e7a60b>海沟海域</color>的捕捞作业，并提升捕捞高品质渔获的概率。
+
+<color=#929292>附带灯光诱捕器与极长的加固钓线，可用来打捞真正意义上的无光深渊中的渔获。</color>","An advanced hull crafted for catching seabed creatures. It's fit for fishing in the <color=#e7a60b>Abyssal</color> areas with an increased chance to gain high-quality catches.
+
+<color=#929292>Equipped with a light trap and an extra-long fishing line, it brings you the catches from the real abyss.</color>","Thân thuyền chuyên dụng để đánh bắt cá dưới đáy biển. Có thể mở khóa hoạt động đánh bắt ở <color=#e7a60b>vùng rãnh biển</color>, và tăng tỷ lệ bắt được cá chất lượng cao.
+
+<color=#929292>Trang bị đèn bẫy và dây câu gia cố cực dài, có thể dùng để trục vớt cá từ vực thẳm tối tăm theo đúng nghĩa đen.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect104,"能够进行远洋捕捞的坚固船体。可解锁<color=#e7a60b>远洋海域</color>的捕捞作业，并提升捕捞高品质渔获的概率。
+
+<color=#929292>风暴，巨浪——离海岸线越远，所面对的考验就越严苛。此船体正是以克服这些困难为目的而设计。</color>","An advanced hull crafted for fishing in the <color=#e7a60b>Oceanic</color> waters with an increased chance to gain high-quality catches.
+
+<color=#929292>The farther you are from the coast, the fiercer the storms and tides become. But worry not, for this hull is built to face the challenges of the open sea.</color>","Thân thuyền kiên cố có thể đánh bắt xa bờ. Có thể mở khóa hoạt động đánh bắt ở <color=#e7a60b>vùng viễn dương</color>, và tăng tỷ lệ bắt được cá chất lượng cao.
+
+<color=#929292>Bão tố, sóng dữ... càng xa bờ biển, thử thách phải đối mặt càng khắc nghiệt. Thân thuyền này được thiết kế chính là để khắc phục những khó khăn đó.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect105,"牢固的绞盘，能够增加提线成功时的<color=#e7a60b>捕捞进度</color>。
+
+<color=#929292>蛮力虽然不能解决所有问题，但至少能更快地把鱼拖上船。</color>","A sturdy capstan that can effectively boost the <color=#e7a60b>fishing progress</color> of each fishing attempt.
+
+<color=#929292>Brute force isn't always the answer, but it sure helps get those fish onboard faster!</color>","Tời chắc chắn, có thể tăng <color=#e7a60b>tiến độ đánh bắt</color> khi kéo dây thành công.
+
+<color=#929292>Sức mạnh cơ bắp tuy không giải quyết được mọi vấn đề, nhưng ít nhất có thể kéo cá lên thuyền nhanh hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect108,"存放渔获的基础款货舱，能够扩展<color=#e7a60b>货舱槽位</color>。
+
+<color=#929292>受限于船体尺寸，贡多拉一般无法携带过多渔获。加装额外货舱就是可选的解决方案之一。</color>","An ordinary cargo hold that increases <color=#e7a60b>cargo capacity</color>.
+
+<color=#929292>It's usually hard for a Gondola to carry many catches due to their limited size, so an extra cargo hold like this comes in handy.</color>","Khoang chứa cá cơ bản, có thể mở rộng <color=#e7a60b>vị trí khoang chứa</color>.
+
+<color=#929292>Do kích thước hạn chế, Gondola thường không thể mang quá nhiều cá. Lắp thêm khoang chứa là một trong những giải pháp khả thi.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect109,"存放渔获的进阶货舱，能够扩展<color=#e7a60b>货舱槽位</color>。
+
+<color=#929292>经过特殊改进的货舱，对空间进行优化，能够容纳更多渔获。</color>","An enhanced cargo hold that increases <color=#e7a60b>cargo capacity</color>.
+
+<color=#929292>This modified cargo hold provides additional space for more catches.</color>","Khoang chứa cá nâng cao, có thể mở rộng <color=#e7a60b>vị trí khoang chứa</color>.
+
+<color=#929292>Khoang chứa đã qua cải tiến đặc biệt, tối ưu hóa không gian, có thể chứa nhiều cá hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect110,"存放渔获的大容量货舱，能够扩展<color=#e7a60b>货舱槽位</color>。
+
+<color=#929292>将空间利用至极限的货舱，几乎已经发挥了贡多拉的全部潜能。能够装下更多渔获。</color>","A large cargo hold that increases <color=#e7a60b>cargo capacity</color>.
+
+<color=#929292>This is the ultimate cargo hold for a Gondola, designed to carry more catches than you ever thought possible.</color>","Khoang chứa cá dung lượng lớn, có thể mở rộng <color=#e7a60b>vị trí khoang chứa</color>.
+
+<color=#929292>Khoang chứa tận dụng không gian đến mức tối đa, gần như đã phát huy toàn bộ tiềm năng của Gondola. Có thể chứa được nhiều cá hơn nữa.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect111,"来自黎乔利海域的神秘气泡，解锁<color=#e7a60b>神秘气泡</color>功能，可在普朗克处进行购买。购买后会在当前码头生成一个神秘气泡，自动进行捕捞。（需要驾驶「拉结号」前往交互获取渔获）
+
+<color=#929292>漂浮着的神秘气泡，里面可能藏着某种渔获。</color>","A mysterious bubble from the Riccioli Islands. Equipped to unlock <color=#e7a60b>Wonder Bubble</color> device, available for purchase from Planck. Once you buy it, a Wonder Bubble will appear at your current dock to enable automatic fishing (steer Rachel to interact with the Bubble and retrieve the catches). 
+
+<color=#929292>Floating Wonder Bubbles may contain all kinds of catch from the sea.</color>","Bong bóng bí ẩn từ vùng biển Riccioli, mở khóa chức năng <color=#e7a60b>Bong Bóng Bí Ẩn</color>, có thể mua tại chỗ Planck. Sau khi mua sẽ tạo ra một bong bóng bí ẩn tại bến tàu hiện tại, tự động tiến hành đánh bắt. (Cần lái ""Rachel"" đến tương tác để nhận cá)
+
+<color=#929292>Bong bóng bí ẩn trôi nổi, bên trong có thể ẩn chứa loại cá nào đó.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect112,"神秘气泡难以捉摸！可增加<color=#e7a60b>神秘气泡</color>的渔获品质。
+
+<color=#929292>越来越多奇特的海洋生物被吸引到这里……直到气泡被戳破。</color>","Wonder Bubbles are full of wonders! <color=#e7a60b>Wonder Bubbles</color> may ensnare catches of higher quality now.
+
+<color=#929292>More peculiar sea creatures have been drawn into this bubble... until it pops.</color>","Bong bóng bí ẩn thật khó nắm bắt! Có thể tăng chất lượng cá của <color=#e7a60b>Bong Bóng Bí Ẩn</color>.
+
+<color=#929292>Ngày càng nhiều sinh vật biển kỳ lạ bị thu hút đến đây... cho đến khi bong bóng bị chọc vỡ.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect113,"神秘气泡现在更神秘了！可进一步增加<color=#e7a60b>神秘气泡</color>的渔获品质。
+
+<color=#929292>据说这气泡来自于溯海之鲸的吐息，所以才能将海洋生物尽数吸引过来。</color>","Wonder Bubbles are more wonderful now! <color=#e7a60b>Wonder Bubbles</color> can ensnare catches of even higher quality. <color=#929292>It is said the bubbles are transformed from Cetus the Tidebreaker's breath, which is why all the sea creatures are lured into it.</color>","Bong bóng bí ẩn giờ càng bí ẩn hơn! Có thể tăng thêm chất lượng cá của <color=#e7a60b>Bong Bóng Bí Ẩn</color>.
+
+<color=#929292>Nghe nói bong bóng này đến từ hơi thở của Cá Voi Vượt Biển, nên mới có thể thu hút toàn bộ sinh vật biển lại gần.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect121,"贡多拉所使用的拖网。解锁<color=#e7a60b>拖网</color>功能，可在航行过程中自动捕捞已经捕捞过的鱼类。
+
+<color=#929292>配备绞车的基础型拖网套件，安装简易，使用便捷。</color>","A trawl attached to the Gondola. Equipped to unlock <color=#e7a60b>Trawl</color>, allowing you to automatically catch previously caught sea life while sailing.
+
+<color=#929292>This basic trawl kit comes with a capstan. It's easy to install and use.</color>","Lưới kéo dùng cho Gondola. Mở khóa chức năng <color=#e7a60b>Lưới Kéo</color>, có thể tự động đánh bắt các loại cá đã từng bắt trong quá trình di chuyển.
+
+<color=#929292>Bộ lưới kéo cơ bản trang bị tời, lắp đặt đơn giản, sử dụng thuận tiện.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect122,"改进型拖网套件，可增加<color=#e7a60b>拖网</color>的渔获品质。
+
+<color=#929292>增加了刚性外框结构，适用于多种深度的捕捞作业。</color>","An enhanced trawl kit that allows <color=#e7a60b>Trawl</color> to yield catches of higher quality.
+
+<color=#929292>Its solid structure makes it suitable for fishing at various depths.</color>","Bộ lưới kéo cải tiến, có thể tăng chất lượng cá của <color=#e7a60b>Lưới Kéo</color>.
+
+<color=#929292>Tăng cường cấu trúc khung cứng bên ngoài, thích hợp cho hoạt động đánh bắt ở nhiều độ sâu.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect123,"高级拖网套件。可进一步增加<color=#e7a60b>拖网</color>的渔获品质。
+
+<color=#929292>对拖网的整体外形进行了改进，降低了拖网时产生的阻力，并使得渔获更难逃脱。</color>","An advanced trawl kit that allows <color=#e7a60b>Trawl</color> to yield catches of even higher quality.
+
+<color=#929292>Its refined design reduces drag while trawling and makes it harder for fish to escape.</color>","Bộ lưới kéo cao cấp. Có thể tăng thêm chất lượng cá của <color=#e7a60b>Lưới Kéo</color>.
+
+<color=#929292>Đã cải tiến hình dáng tổng thể của lưới kéo, giảm sức cản khi kéo lưới, đồng thời khiến cá khó thoát ra hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect131,"能够释放高速水流的推进器，可增加一次「拉结号」<color=#e7a60b>加速技能</color>的使用次数。
+
+<color=#929292>这种加装的推进器实际上是一种辅助贡多拉游动的水泵，有时候也被用于竞赛级别的贡多拉上，可以提供短时间内的强大动力。</color>","A hydro-jetting thruster. Add an extra use of Rachel's <color=#e7a60b>Acceleration</color>.
+
+<color=#929292>This thruster is basically a supercharged water pump that helps Gondolas swim faster. You might even spot it on race-level Gondolas, giving them that extra burst of speed when they need it most.</color>","Thiết bị đẩy có khả năng tạo ra dòng nước tốc độ cao, có thể tăng thêm một lần sử dụng <color=#e7a60b>Kỹ Năng Tăng Tốc</color> cho ""Rachel"".
+
+<color=#929292>Thiết bị đẩy lắp thêm này thực chất là một loại máy bơm nước hỗ trợ Gondola di chuyển, đôi khi cũng được dùng trên các Gondola cấp độ thi đấu, có thể cung cấp động lực mạnh mẽ trong thời gian ngắn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect132,"附带机械装置的联装绞盘，能够进一步增加提线成功时的<color=#e7a60b>捕捞进度</color>。
+
+<color=#929292>某些体型庞大的鱼类仅靠人力难以捕获，而这一装置正是为了它们而制造的。</color>","A mechanical capstan with multiple wheels that further boosts the <color=#e7a60b>fishing progress</color> of each fishing attempt.
+
+<color=#929292>Being human means having limits, especially when it comes to reeling in giant sea creatures. That's why you'll need this device.</color>","Tời liên hợp kèm theo thiết bị cơ khí, có thể tăng thêm <color=#e7a60b>tiến độ đánh bắt</color> khi kéo dây thành công.
+
+<color=#929292>Một số loài cá có kích thước khổng lồ khó bắt được chỉ bằng sức người, và thiết bị này được chế tạo chính là để dành cho chúng.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect133,"用于商业渔船的专业捕捞设备，能够进一步增加提线成功时的<color=#e7a60b>捕捞进度</color>。
+
+<color=#929292>用于捕捞渔获的大型设备，缺点是可能会损失垂钓的部分乐趣。</color>","A professional fishing device for commercial fishing. It further boosts the <color=#e7a60b>fishing progress</color> of each fishing attempt.
+
+<color=#929292>This massive device is great for big catches, but it might take some of the fun out of traditional angling.</color>","Thiết bị đánh bắt chuyên nghiệp dùng cho tàu cá thương mại, có thể tăng thêm <color=#e7a60b>tiến độ đánh bắt</color> khi kéo dây thành công.
+
+<color=#929292>Thiết bị cỡ lớn dùng để đánh bắt cá, nhược điểm là có thể làm mất đi phần nào thú vui khi câu cá.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect134,"附加的动力舱室，能够极大提升<color=#e7a60b>捕捞速度</color>并增加一次「拉结号」<color=#e7a60b>加速技能</color>的使用次数。
+
+<color=#929292>贡多拉所使用的附加动力舱，不仅能够提升「拉结号」的航速，还能使用冗余的动力驱动更为复杂的捕捞设备。</color>","An additional engine room that greatly boosts <color=#e7a60b>fishing speed</color> and adds an extra use of Rachel's <color=#e7a60b>Acceleration</color>.
+
+<color=#929292>This Gondola engine room not only revs up Rachel's speed but also powers more advanced fishing gear.</color>","Khoang động lực bổ sung, có thể tăng mạnh <color=#e7a60b>tốc độ đánh bắt</color> và tăng thêm một lần sử dụng <color=#e7a60b>Kỹ Năng Tăng Tốc</color> cho ""Rachel"".
+
+<color=#929292>Khoang động lực bổ sung dùng cho Gondola, không chỉ có thể nâng cao tốc độ của ""Rachel"", mà còn có thể dùng động lực dư thừa để vận hành các thiết bị đánh bắt phức tạp hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect141,"在船身加装用于投放“甜味烟花”的管状舱室，可解锁<color=#e7a60b>「砰砰河豚」</color>技能，该技能可以用于爆破一定范围内的全部「捕捞点」，直接获得对应的渔获（可在航行时通过探索技能轮盘装配该技能，使用时需要消耗“甜味烟花”，可通过捕捞砰砰河豚转换获得）
+
+<color=#929292>砰砰河豚极度易爆，极度危险——不仅对船如此，对渔获亦然。</color>","A tubular chamber installed on the ship to launch ""Sweet Puffs."" Equipped to unlock <color=#e7a60b>Bampuff</color> that blasts all Fishing Spots in a certain range and grants you the catches immediately. (Can be equipped via Utility wheel while sailing. Using it consumes ""Sweet Puffs,"" which can be converted from Bampuffs.)
+
+<color=#929292>Bampuffs are highly explosive and dangerous—both for the ship and the catches.</color>","Lắp đặt khoang dạng ống trên thân tàu để thả ""Pháo Hoa Ngọt Ngào"", mở khóa kỹ năng <color=#e7a60b>""Cá Nóc Bùm Bùm""</color>. Kỹ năng này có thể làm nổ tung toàn bộ ""Điểm Đánh Bắt"" trong phạm vi nhất định, trực tiếp thu được cá (có thể trang bị qua vòng quay kỹ năng khám phá khi đang đi thuyền, khi sử dụng cần tiêu hao ""Pháo Hoa Ngọt Ngào"", có được bằng cách đổi Cá Nóc Bùm Bùm đã bắt được).
+
+<color=#929292>Cá Nóc Bùm Bùm cực kỳ dễ nổ, cực kỳ nguy hiểm... không chỉ đối với tàu mà cả với cá nữa.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect142,"改进型水雷舱，可增加<color=#e7a60b>「砰砰河豚」</color>技能的使用效率。
+
+<color=#929292>可同时向不同方向投放多枚“甜味烟花”，增加爆炸的覆盖区域。</color>","An enhanced tube that improves the efficiency of <color=#e7a60b>Bampuffs</color>.
+
+<color=#929292>With this tube, you can launch multiple ""Sweet Puffs"" in various directions with a bigger explosion range.</color>","Khoang thủy lôi cải tiến, tăng hiệu suất sử dụng kỹ năng <color=#e7a60b>""Cá Nóc Bùm Bùm""</color>.
+
+<color=#929292>Có thể thả nhiều ""Pháo Hoa Ngọt Ngào"" về các hướng khác nhau cùng lúc, tăng phạm vi vụ nổ.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect143,"高级水雷舱，可增加<color=#e7a60b>「砰砰河豚」</color>技能的使用效率。
+
+<color=#929292>对水雷舱进行了特殊改造，使它能够将“甜味烟花”发射得更远，以追击逃走的渔获。</color>","An enhanced tube that improves the efficiency of <color=#e7a60b>Bampuffs</color>.
+
+<color=#929292>This modification lets the tube launch ""Sweet Puffs"" to even farther areas, bombing those fleeing sea creatures with extra flair.</color>","Khoang thủy lôi cao cấp, tăng hiệu suất sử dụng kỹ năng <color=#e7a60b>""Cá Nóc Bùm Bùm""</color>.
+
+<color=#929292>Khoang thủy lôi đã được cải tạo đặc biệt để phóng ""Pháo Hoa Ngọt Ngào"" đi xa hơn, nhằm truy đuổi những con cá đang bỏ chạy.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect151,"黎乔利群岛使用的传统诱饵。可解锁<color=#e7a60b>「抛饵」</color>技能，该技能可以用于在海上生成一个捕捞点，该捕捞点可以大量捕捞当前区域已经捕捞过的鱼类，并且在渔获品质上有大幅的提升（可在航行时通过探索技能轮盘装配该技能，使用时需要消耗“沙虫”，可通过码头商店购买获得）
+
+<color=#929292>使用黎乔利流传已久的秘方制造的诱饵，虽然效果极佳，但最好不要深究其成分。</color>","Traditional bait used in the Riccioli Islands. Equipped to unlock <color=#e7a60b>Baiting</color>, which creates a Fishing Spot that yields larger quantities and higher-quality sea creatures you caught before in the area. (Can be equipped via Utility wheel while sailing. Using it consumes ""Sandworms,"" which can be purchased at the dock shop.)
+
+<color=#929292>Made using an ancient Riccioli recipe, this bait is highly effective. Just don't ask what's in it.</color>","Mồi câu truyền thống được sử dụng ở Quần đảo Riccioli. Mở khóa kỹ năng <color=#e7a60b>""Thả Mồi""</color>, dùng để tạo ra một điểm đánh bắt trên biển. Điểm này cho phép bắt số lượng lớn các loại cá đã từng bắt được ở khu vực hiện tại, đồng thời tăng đáng kể chất lượng cá (có thể trang bị qua vòng quay kỹ năng khám phá khi đang đi thuyền, khi sử dụng cần tiêu hao ""Sâu Cát"", có thể mua tại cửa hàng bến tàu).
+
+<color=#929292>Mồi câu được chế tạo theo công thức bí truyền lâu đời của Riccioli, tuy hiệu quả cực tốt nhưng tốt nhất đừng tìm hiểu sâu về thành phần của nó.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect152,"改进型诱饵。可增加<color=#e7a60b>「抛饵」</color>技能的捕捞品质。
+
+<color=#929292>味道更为刺鼻的诱饵，难以想象它到底是用什么制作的。</color>","The advanced bait that enables <color=#e7a60b>Baiting</color> to yield catches of higher quality.
+
+<color=#929292>It's hard to imagine what kind of ingredients can make this pungent smell.</color>","Mồi câu cải tiến. Tăng chất lượng cá bắt được bằng kỹ năng <color=#e7a60b>""Thả Mồi""</color>.
+
+<color=#929292>Loại mồi có mùi hăng hơn, khó mà tưởng tượng được nó được làm từ cái gì.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect153,"高级诱饵。可进一步增加<color=#e7a60b>「抛饵」</color>技能的捕捞品质。
+
+<color=#929292>人类绝不会去主动触碰的诱饵，但至少某些鱼类很喜欢它们。</color>","The advanced bait that enables <color=#e7a60b>Baiting</color> to yield catches of higher quality.
+
+<color=#929292>This stuff is so gross that no sane human would touch it, but some sea creatures just can't resist.</color>","Mồi câu cao cấp. Tăng thêm chất lượng cá bắt được bằng kỹ năng <color=#e7a60b>""Thả Mồi""</color>.
+
+<color=#929292>Loại mồi mà con người tuyệt đối sẽ không chủ động chạm vào, nhưng ít nhất một số loài cá lại rất thích chúng.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect161,"你对黎乔利群岛所出产的渔获有所了解，提高<color=#e7a60b>出售</color>渔获的<color=#e7a60b>价格</color>。
+
+<color=#929292>通过研读《黎那汐塔渔艺指南》，你将各种海洋生物的特点铭记于心，能够捕捞到品质更好的渔获。</color>","You've gained a general understanding of the fisheries around the Riccioli Islands, which allows you to <color=#e7a60b>sell</color> your catches at a better <color=#e7a60b>price</color>.
+
+<color=#929292>By studying Rinascita Fishing Guide, you've mastered the traits of various sea life. Now you can secure higher-quality catches with ease.</color>","Bạn đã có hiểu biết nhất định về các loại cá ở Quần đảo Riccioli, tăng <color=#e7a60b>giá</color> khi <color=#e7a60b>bán</color> cá.
+
+<color=#929292>Thông qua việc nghiên cứu ""Cẩm Nang Ngư Nghiệp Rinascita"", bạn đã ghi nhớ đặc điểm của các loài sinh vật biển, từ đó bắt được những con cá có chất lượng tốt hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect162,"你对黎乔利群岛所出产的渔获有了更深的了解，进一步提高<color=#e7a60b>出售</color>渔获的<color=#e7a60b>价格</color>。
+
+<color=#929292>通过研读《黎那汐塔渔艺指南》，你将各种海洋生物的特点铭记于心，能够捕捞到品质更好的渔获。</color>","You've gained a deep understanding of the fisheries around the Riccioli Islands, which allows you to <color=#e7a60b>sell</color> your catches at an even better <color=#e7a60b>price</color>.
+
+<color=#929292>By studying Rinascita Fishing Guide, you've mastered the traits of various sea life. Now you can secure higher-quality catches with ease.</color>","Bạn đã có hiểu biết sâu hơn về các loại cá ở Quần đảo Riccioli, tăng thêm <color=#e7a60b>giá</color> khi <color=#e7a60b>bán</color> cá.
+
+<color=#929292>Thông qua việc nghiên cứu ""Cẩm Nang Ngư Nghiệp Rinascita"", bạn đã ghi nhớ đặc điểm của các loài sinh vật biển, từ đó bắt được những con cá có chất lượng tốt hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect163,"你对黎乔利群岛所出产的渔获了如指掌，进一步提高<color=#e7a60b>出售</color>渔获的<color=#e7a60b>价格</color>。
+
+<color=#929292>通过研读《黎那汐塔渔艺指南》，你将各种海洋生物的特点铭记于心，能够捕捞到品质更好的渔获。</color>","You've gained a masterful understanding of the fisheries around the Riccioli Islands, which allows you to <color=#e7a60b>sell</color> your catches at an even better <color=#e7a60b>price</color>.
+
+<color=#929292>By studying Rinascita Fishing Guide, you've mastered the traits of various sea life. Now you can secure higher-quality catches with ease.</color>","Bạn đã nắm rõ như lòng bàn tay về các loại cá ở Quần đảo Riccioli, tăng thêm nữa <color=#e7a60b>giá</color> khi <color=#e7a60b>bán</color> cá.
+
+<color=#929292>Thông qua việc nghiên cứu ""Cẩm Nang Ngư Nghiệp Rinascita"", bạn đã ghi nhớ đặc điểm của các loài sinh vật biển, từ đó bắt được những con cá có chất lượng tốt hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect171,"你学习了《黎那汐塔渔艺指南》，渐渐成为了一名熟练的渔夫，能够从<color=#e7a60b>委托</color>中获得更多的<color=#e7a60b>渔业币</color>。
+
+<color=#929292>对于渔人而言，技艺即是招牌。</color>","Studying the Rinascita Fishing Guide makes you a skilled fisher who can earn more <color=#e7a60b>Fishery Coins</color> from <color=#e7a60b>Requests</color>.
+
+<color=#929292>True fishing skill is the backbone of any fisher's reputation.</color>","Bạn đã học ""Cẩm Nang Ngư Nghiệp Rinascita"" và dần trở thành một ngư dân lành nghề, có thể kiếm được nhiều <color=#e7a60b>Xu Ngư Nghiệp</color> hơn từ các <color=#e7a60b>ủy thác</color>.
+
+<color=#929292>Đối với ngư dân, kỹ nghệ chính là thương hiệu.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect172,"你学习了《黎那汐塔渔艺指南》，渐渐成为了一名熟练的渔夫，能够从<color=#e7a60b>委托</color>中进一步获得更多的<color=#e7a60b>渔业币</color>。
+
+<color=#929292>人们通常会把细心钻研某一领域的人称为专家，但即使在业余领域，你也能得到达到堪称专家的评价。</color>","Studying the Rinascita Fishing Guide makes you a skilled fisher who can earn more <color=#e7a60b>Fishery Coins</color> from <color=#e7a60b>Requests</color>.
+
+<color=#929292>They say practice makes perfect, and even in this unfamiliar territory, you've become a certified fishing specialist.</color>","Bạn đã học ""Cẩm Nang Ngư Nghiệp Rinascita"" và dần trở thành một ngư dân lành nghề, có thể kiếm được nhiều <color=#e7a60b>Xu Ngư Nghiệp</color> hơn nữa từ các <color=#e7a60b>ủy thác</color>.
+
+<color=#929292>Người ta thường gọi những ai chuyên tâm nghiên cứu một lĩnh vực là chuyên gia, nhưng ngay cả trong lĩnh vực nghiệp dư, bạn cũng đạt được đánh giá ngang tầm chuyên gia.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect173,"你学习了《黎那汐塔渔艺指南》，渐渐成为了一名熟练的渔夫，能够从<color=#e7a60b>委托</color>中进一步获得更多的<color=#e7a60b>渔业币</color>。
+
+<color=#929292>你是传说中的渔夫，深洋的黑色猎手……这意味着你所接到的委托将无比艰难，报酬也同等丰厚。</color>","Studying the Rinascita Fishing Guide makes you a skilled fisher who can earn more <color=#e7a60b>Fishery Coins</color> from <color=#e7a60b>Requests</color>.
+
+<color=#929292>The Legendary Fisher, the Sea Hunter in Black... These titles come with some seriously challenging requests, but the rewards are just as generous.</color>","Bạn đã học ""Cẩm Nang Ngư Nghiệp Rinascita"" và dần trở thành một ngư dân lành nghề, có thể kiếm được nhiều <color=#e7a60b>Xu Ngư Nghiệp</color> hơn nữa từ các <color=#e7a60b>ủy thác</color>.
+
+<color=#929292>Bạn là ngư dân trong truyền thuyết, thợ săn đen của biển sâu... Điều này có nghĩa là những ủy thác bạn nhận sẽ vô cùng gian nan, nhưng thù lao cũng hậu hĩnh tương xứng.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect181,"《黎那汐塔渔艺指南》中记载的回收技巧，能够增加加工物资时获得的<color=#e7a60b>材料</color>。
+
+<color=#929292>对于孤悬海外的群岛居民而言，任何物资都需要谨慎且节约地加以利用。</color>","Recycle techniques recorded in the Rinascita Fishing Guide, which help you salvage more <color=#e7a60b>materials</color> from processing resources.
+
+<color=#929292>For islanders far from the mainland, every resource must be used wisely and sparingly.</color>","Kỹ thuật tái chế được ghi trong ""Cẩm Nang Ngư Nghiệp Rinascita"", giúp tăng lượng <color=#e7a60b>nguyên liệu</color> nhận được khi gia công vật tư.
+
+<color=#929292>Đối với cư dân quần đảo cô lập giữa biển khơi, mọi vật tư đều cần được sử dụng cẩn thận và tiết kiệm.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect182,"《黎那汐塔渔艺指南》中记载的回收技巧，能够进一步增加加工物资时获得的<color=#e7a60b>材料</color>。
+
+<color=#929292>对于孤悬海外的群岛居民而言，任何物资都需要谨慎且节约地加以利用。</color>","Recycle techniques recorded in the Rinascita Fishing Guide, which help you salvage even more <color=#e7a60b>materials</color> from processing resources.
+
+<color=#929292>For islanders far from the mainland, every resource must be used wisely and sparingly.</color>","Kỹ thuật tái chế được ghi trong ""Cẩm Nang Ngư Nghiệp Rinascita"", giúp tăng thêm lượng <color=#e7a60b>nguyên liệu</color> nhận được khi gia công vật tư.
+
+<color=#929292>Đối với cư dân quần đảo cô lập giữa biển khơi, mọi vật tư đều cần được sử dụng cẩn thận và tiết kiệm.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect183,"《黎那汐塔渔艺指南》中记载的回收技巧，能够进一步增加加工物资时获得的<color=#e7a60b>材料</color>。
+
+<color=#929292>对于孤悬海外的群岛居民而言，任何物资都需要谨慎且节约地加以利用。</color>","Recycle techniques recorded in the Rinascita Fishing Guide, which help you salvage even more <color=#e7a60b>materials</color> from processing resources.
+
+<color=#929292>For islanders far from the mainland, every resource must be used wisely and sparingly.</color>","Kỹ thuật tái chế được ghi trong ""Cẩm Nang Ngư Nghiệp Rinascita"", giúp tăng thêm lượng <color=#e7a60b>nguyên liệu</color> nhận được khi gia công vật tư.
+
+<color=#929292>Đối với cư dân quần đảo cô lập giữa biển khơi, mọi vật tư đều cần được sử dụng cẩn thận và tiết kiệm.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect191,"从经文断章中解读的神圣故事。增加一个额外的<color=#e7a60b>委托栏位</color>，并降低刷新委托时的消耗。
+
+<color=#929292>一些关于人类团结一心，对抗海洋和深渊的故事。这些故事似乎是修会典籍中部分典故的原型。</color>","Sacred stories from the fragmented scripture. Add an extra <color=#e7a60b>Request slot</color> and reduce the cost of refreshing Requests.
+
+<color=#929292>These stories of humanity uniting against the sea and the abyss seem to be the origins of some legends recorded in the Order's Codex.</color>","Những câu chuyện thần thánh được giải mã từ các đoạn kinh văn. Thêm một <color=#e7a60b>ô ủy thác</color> và giảm chi phí khi làm mới ủy thác.
+
+<color=#929292>Những câu chuyện về loài người đoàn kết một lòng chống lại đại dương và vực thẳm. Những câu chuyện này dường như là nguyên mẫu của một số điển cố trong điển tịch của Tu Viện.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect192,"从经文断章中解读的神圣故事。增加一个额外的<color=#e7a60b>委托栏位</color>，并进一步降低刷新委托时的消耗。
+
+<color=#929292>一些关于人类团结一心，对抗海洋和深渊的故事。这些故事似乎是修会典籍中部分典故的原型。</color>","Sacred stories from the fragmented scripture. Add an extra <color=#e7a60b>Request slot</color> and further reduce the cost of refreshing Requests.
+
+<color=#929292>These stories of humanity uniting against the sea and the abyss seem to be the origins of some legends recorded in the Order's Codex.</color>","Những câu chuyện thần thánh được giải mã từ các đoạn kinh văn. Thêm một <color=#e7a60b>ô ủy thác</color> và giảm thêm chi phí khi làm mới ủy thác.
+
+<color=#929292>Những câu chuyện về loài người đoàn kết một lòng chống lại đại dương và vực thẳm. Những câu chuyện này dường như là nguyên mẫu của một số điển cố trong điển tịch của Tu Viện.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect193,"从经文断章中解读的神圣故事。增加一个额外的<color=#e7a60b>委托栏位</color>，并进一步降低刷新委托时的消耗。
+
+<color=#929292>一些关于人类团结一心，对抗海洋和深渊的故事。这些故事似乎是修会典籍中部分典故的原型。</color>","Sacred stories from the fragmented scripture. Add an extra <color=#e7a60b>Request slot</color> and further reduce the cost of refreshing Requests.
+
+<color=#929292>These stories of humanity uniting against the sea and the abyss seem to be the origins of some legends recorded in the Order's Codex.</color>","Những câu chuyện thần thánh được giải mã từ các đoạn kinh văn. Thêm một <color=#e7a60b>ô ủy thác</color> và giảm thêm chi phí khi làm mới ủy thác.
+
+<color=#929292>Những câu chuyện về loài người đoàn kết một lòng chống lại đại dương và vực thẳm. Những câu chuyện này dường như là nguyên mẫu của một số điển cố trong điển tịch của Tu Viện.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect201,"从黎乔利群岛发现的经文断章中解读的失落祷言，能够提高「拉结号」的船体<color=#e7a60b>耐久度</color>。
+
+<color=#929292>“愿信念庇佑吾等，使脚下航船坚若壁垒。”</color>","Lost prayers from fragments of scriptures found on the Riccioli Islands. Enhance the <color=#e7a60b>Durability</color> of Rachel's hull.
+
+<color=#929292>""May faith shield us and fortify our ships.""</color>","Lời cầu nguyện thất lạc được giải mã từ các mảnh kinh văn tìm thấy ở Quần đảo Riccioli, giúp tăng <color=#e7a60b>độ bền</color> thân tàu ""Rachel"".
+
+<color=#929292>""Nguyện đức tin che chở chúng con, biến con tàu dưới chân thành pháo đài kiên cố.""</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect202,"从黎乔利群岛发现的经文断章中解读的失落祷言，能够进一步提高「拉结号」的船体<color=#e7a60b>耐久度</color>。
+
+<color=#929292>“愿岁主庇佑吾等，使酷烈怒涛得以止息。”</color>","Lost prayers from fragments of scriptures found on the Riccioli Islands. Further enhance the <color=#e7a60b>Durability</color> of Rachel's hull.
+
+<color=#929292>""May the Sentinel bless us and cease the towering tides.""</color>","Lời cầu nguyện thất lạc được giải mã từ các mảnh kinh văn tìm thấy ở Quần đảo Riccioli, giúp tăng thêm <color=#e7a60b>độ bền</color> thân tàu ""Rachel"".
+
+<color=#929292>""Nguyện Tuế Chủ che chở chúng con, khiến sóng dữ cuồng nộ được lắng dịu.""</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect203,"从黎乔利群岛发现的经文断章中解读的失落祷言，能够进一步提高「拉结号」的船体<color=#e7a60b>耐久度</color>。
+
+<color=#929292>“……愿理性庇佑吾等，使高贵心智不至迷失。”</color>","Lost prayers from fragments of scriptures found on the Riccioli Islands. Further enhance the <color=#e7a60b>Durability</color> of Rachel's hull.
+
+<color=#929292>""May reason enlightens us, keeping our minds from being lost.""</color>","Lời cầu nguyện thất lạc được giải mã từ các mảnh kinh văn tìm thấy ở Quần đảo Riccioli, giúp tăng thêm nữa <color=#e7a60b>độ bền</color> thân tàu ""Rachel"".
+
+<color=#929292>""...Nguyện lý trí che chở chúng con, để tâm trí cao quý không bị lạc lối.""</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect211,"对黎乔利群岛发现的经文断章进行初步解读，能够提高捕捞到<color=#e7a60b>异变鱼类</color>的概率。
+
+<color=#929292>经文中含糊地提到了一些地点，据说那里能够捕捞到价值更高的鱼。</color>","Initial interpretations of the fragmented scripture found in Riccioli Islands. Increase the chance of catching <color=#e7a60b>Mutants</color>.
+
+<color=#929292>The locations mentioned casually in the scripture are said to yield more valuable sea life.</color>","Giải mã sơ bộ các mảnh kinh văn tìm thấy ở Quần đảo Riccioli, giúp tăng tỷ lệ bắt được <color=#e7a60b>cá dị biến</color>.
+
+<color=#929292>Kinh văn mơ hồ nhắc đến một số địa điểm, nghe nói nơi đó có thể bắt được những loài cá giá trị cao hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect212,"对黎乔利群岛发现的经文断章进行进一步解读，能够进一步提高捕捞到<color=#e7a60b>异变鱼类</color>的概率。
+
+<color=#929292>经文中含糊地提到了某个能够赐予居民渔获的伟大存在，但它对于“渔获”的定义似乎与人类并不相同。</color>","Further interpretations of the fragmented scripture found in Riccioli Islands. Increase the chance of catching <color=#e7a60b>Mutants</color>
+
+<color=#929292>The scripture mentions a noble being that grants catches to the islanders, though its definition of ""catches"" seems to differ from that of humans.</color>","Giải mã sâu hơn các mảnh kinh văn tìm thấy ở Quần đảo Riccioli, giúp tăng thêm tỷ lệ bắt được <color=#e7a60b>cá dị biến</color>.
+
+<color=#929292>Kinh văn mơ hồ nhắc đến một sự tồn tại vĩ đại nào đó ban tặng cá cho cư dân, nhưng định nghĩa về ""cá"" của nó dường như không giống với con người.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect213,"对黎乔利群岛发现的经文断章进行更深的解读，能够进一步提高捕捞到<color=#e7a60b>异变鱼类</color>的概率。
+
+<color=#929292>“……渔获与渔夫皆是牲祭。窥探吾等的并非深渊，而是无数眼睛。”</color>","Thorough interpretations of the fragmented scripture. Increase the chance of catching <color=#e7a60b>Mutants</color>.
+
+<color=#929292>""...Both fish and fishers serve as offerings. That which gazeth upon us is not the abyss, but countless eyes.""</color>","Giải mã sâu hơn nữa các mảnh kinh văn tìm thấy ở Quần đảo Riccioli, giúp tăng thêm tỷ lệ bắt được <color=#e7a60b>cá dị biến</color>.
+
+<color=#929292>""...Cá và ngư dân đều là vật tế. Thứ dòm ngó chúng con không phải vực thẳm, mà là vô số đôi mắt.""</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect221,"改进型船灯，可降低<color=#e7a60b>船灯</color>的冷却时间。
+
+<color=#929292>一盏昏暗的船灯。光芒微弱，但仍足以驱散迷雾和黑夜。</color>","A modified ship light that reduces the <color=#e7a60b>Nautical Light</color> cooldown.
+
+<color=#929292>Dim as the light may be, it's enough to pierce through the mist and darkness.</color>","Đèn tàu cải tiến, giảm thời gian hồi chiêu của <color=#e7a60b>đèn tàu</color>.
+
+<color=#929292>Một chiếc đèn tàu mờ ảo. Ánh sáng yếu ớt, nhưng vẫn đủ để xua tan màn sương và đêm đen.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect222,"改进型船灯，可进一步降低<color=#e7a60b>船灯</color>的冷却时间。
+
+<color=#929292>对船灯的供能设备进行了优化，使其能耗降低，能够更为频繁地使用。</color>","A modified ship light that further reduces the <color=#e7a60b>Nautical Light</color> cooldown.
+
+<color=#929292>Thanks to its upgraded power unit, it's now more efficient and durable.</color>","Đèn tàu cải tiến, giảm thêm thời gian hồi chiêu của <color=#e7a60b>đèn tàu</color>.
+
+<color=#929292>Thiết bị cấp năng lượng cho đèn tàu đã được tối ưu hóa, giảm mức tiêu thụ năng lượng để có thể sử dụng thường xuyên hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect223,"高级船灯，可进一步降低<color=#e7a60b>船灯</color>的冷却时间。
+
+<color=#929292>加装电容器的船灯，在保证功率的前提下，使用更为灵活。</color>","A modified ship light that further reduces the <color=#e7a60b>Nautical Light</color> cooldown.
+
+<color=#929292>Its newly added capacitor ensures both stable power and flexible usage.</color>","Đèn tàu cao cấp, giảm thêm nữa thời gian hồi chiêu của <color=#e7a60b>đèn tàu</color>.
+
+<color=#929292>Đèn tàu được lắp thêm tụ điện, đảm bảo công suất đồng thời sử dụng linh hoạt hơn.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect231,"针对贡多拉设计的爆发力训练方案，可降低「拉结号」<color=#e7a60b>加速技能</color>的冷却时间。
+
+<color=#929292>像人类一样，贡多拉经过锻炼也会变强。</color>","Special spur training designed for Gondolas. Train Rachel to reduce its <color=#e7a60b>Acceleration</color> cooldown.
+
+<color=#929292>Just like humans, Gondolas can grow stronger with regular training.</color>","Phương án huấn luyện khả năng bứt tốc dành cho Gondola, giảm thời gian hồi chiêu của <color=#e7a60b>kỹ năng tăng tốc</color> cho tàu ""Rachel"".
+
+<color=#929292>Giống như con người, Gondola qua rèn luyện cũng sẽ mạnh lên.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect232,"针对贡多拉设计的爆发力训练方案，可进一步降低「拉结号」<color=#e7a60b>加速技能</color>的冷却时间。
+
+<color=#929292>像人类一样，贡多拉经过锻炼也会变强。</color>","Special spur training designed for Gondolas. Train Rachel to further reduce its <color=#e7a60b>Acceleration</color> cooldown.
+
+<color=#929292>Just like humans, Gondolas can grow stronger with regular training.</color>","Phương án huấn luyện khả năng bứt tốc dành cho Gondola, giảm thêm thời gian hồi chiêu của <color=#e7a60b>kỹ năng tăng tốc</color> cho tàu ""Rachel"".
+
+<color=#929292>Giống như con người, Gondola qua rèn luyện cũng sẽ mạnh lên.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect233,"针对贡多拉设计的爆发力训练方案，可进一步降低「拉结号」<color=#e7a60b>加速技能</color>的冷却时间。
+
+<color=#929292>像人类一样，贡多拉经过锻炼也会变强。</color>","Special spur training designed for Gondolas. Train Rachel to further reduce its <color=#e7a60b>Acceleration</color> cooldown.
+
+<color=#929292>Just like humans, Gondolas can grow stronger with regular training.</color>","Phương án huấn luyện khả năng bứt tốc dành cho Gondola, giảm thêm thời gian hồi chiêu của <color=#e7a60b>kỹ năng tăng tốc</color> cho tàu ""Rachel"".
+
+<color=#929292>Giống như con người, Gondola qua rèn luyện cũng sẽ mạnh lên.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect241,"针对贡多拉设计的力量训练方案，能够提高「拉结号」的<color=#e7a60b>航行速度</color>。
+
+<color=#929292>像人类一样，贡多拉经过锻炼也会变强。</color>","Special strength training designed for Gondolas. Train Rachel to boost its <color=#e7a60b>sailing speed</color>.
+
+<color=#929292>Just like humans, Gondolas can grow stronger with regular training.</color>","Phương án huấn luyện sức mạnh dành cho Gondola, tăng <color=#e7a60b>tốc độ di chuyển</color> cho tàu ""Rachel"".
+
+<color=#929292>Giống như con người, Gondola qua rèn luyện cũng sẽ mạnh lên.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect251,"针对贡多拉设计的力量训练方案，能够进一步提高「拉结号」的<color=#e7a60b>航行速度</color>。
+
+<color=#929292>像人类一样，贡多拉经过锻炼也会变强。</color>","Special strength training designed for Gondolas. Train Rachel to further boost its <color=#e7a60b>sailing speed</color>.
+
+<color=#929292>Just like humans, Gondolas can grow stronger with regular training.</color>","Phương án huấn luyện sức mạnh dành cho Gondola, tăng thêm <color=#e7a60b>tốc độ di chuyển</color> cho tàu ""Rachel"".
+
+<color=#929292>Giống như con người, Gondola qua rèn luyện cũng sẽ mạnh lên.</color>"
+lang_multi_text.db,MultiText,Fishing_TechEffect301,「拉结号」使用的船篷，陈旧，没有什么特殊效果，但耐用。,An awning for Rachel. The worn awning is nothing but durable.,"Mái che dùng cho tàu ""Rachel"", cũ kỹ, không có hiệu quả đặc biệt nào, nhưng rất bền."
+lang_multi_text.db,MultiText,Fishing_TechEffect302,「拉结号」使用的船篷，可提升航速。,An awning for Rachel. Increases sailing speed.,"Mái che dùng cho tàu ""Rachel"", tăng tốc độ di chuyển."
+lang_multi_text.db,MultiText,Fishing_TechEffect303,「拉结号」使用的船篷，可增加获得高品质渔获的概率。,An awning for Rachel. Increases the chance to gain high-quality catches.,"Mái che dùng cho tàu ""Rachel"", tăng tỷ lệ bắt được cá chất lượng cao."
+lang_multi_text.db,MultiText,Fishing_TechEffect304,「拉结号」使用的船篷，可避开海上出现的某些威胁。,An awning for Rachel. Helps avoid certain threats on the sea.,"Mái che dùng cho tàu ""Rachel"", có thể tránh được một số mối đe dọa trên biển."
+lang_multi_text.db,MultiText,Fishing_TechEffect305,「拉结号」使用的船篷，可提高捕捉到极端尺寸个体的概率,An awning for Rachel. Increases the chance to gain catches of extreme sizes.,"Mái che dùng cho tàu ""Rachel"", tăng tỷ lệ bắt được cá có kích thước cực lớn."
+lang_multi_text.db,MultiText,Fishing_TechName1,基础捕捞船体,Basic Hull,Thân Tàu Đánh Bắt Cơ Bản
+lang_multi_text.db,MultiText,Fishing_TechName2,进阶捕捞船体,Advanced Hull,Thân Tàu Đánh Bắt Nâng Cao
+lang_multi_text.db,MultiText,Fishing_TechName3,反冲装置,Reaction Thruster,Thiết Bị Phản Lực
+lang_multi_text.db,MultiText,Fishing_TechName4,液压绞盘,Hydraulic Capstan,Tời Thủy Lực
+lang_multi_text.db,MultiText,Fishing_TechName5,货舱升级·I,Capacity Upgrade I,Nâng Cấp Khoang Hàng I
+lang_multi_text.db,MultiText,Fishing_TechName6,神秘气泡,Wonder Bubble,Bong Bóng Bí Ẩn
+lang_multi_text.db,MultiText,Fishing_TechName7,贡多拉爆发力训练,Gondola Spur Training,Huấn Luyện Bứt Tốc Gondola
+lang_multi_text.db,MultiText,Fishing_TechName8,深潜捕捞船体,Abyssal Hull,Thân Tàu Đánh Bắt Vùng Sâu
+lang_multi_text.db,MultiText,Fishing_TechName9,贡多拉力量训练·I,Gondola Strength Training I,Huấn Luyện Sức Mạnh Gondola I
+lang_multi_text.db,MultiText,Fishing_TechName10,四联绞盘,Four-Wheel Capstan,Tời Bốn Trục
+lang_multi_text.db,MultiText,Fishing_TechName11,货舱升级·II,Capacity Upgrade II,Nâng Cấp Khoang Hàng II
+lang_multi_text.db,MultiText,Fishing_TechName12,拖网,Trawl,Lưới Kéo
+lang_multi_text.db,MultiText,Fishing_TechName13,船灯,Nautical Light,Đèn Tàu
+lang_multi_text.db,MultiText,Fishing_TechName14,远洋捕捞船体,Oceanic Hull,Thân Tàu Đánh Bắt Viễn Dương
+lang_multi_text.db,MultiText,Fishing_TechName15,贡多拉力量训练·II,Gondola Stamina Training II,Huấn Luyện Sức Mạnh Gondola II
+lang_multi_text.db,MultiText,Fishing_TechName16,刚性捕捞装置,Rigid Fishing Device,Thiết Bị Đánh Bắt Cứng
+lang_multi_text.db,MultiText,Fishing_TechName17,货舱升级·III,Capacity Upgrade III,Nâng Cấp Khoang Hàng III
+lang_multi_text.db,MultiText,Fishing_TechName18,“甜味烟花”水雷舱,"""Sweet Puff"" Tube","Khoang Thủy Lôi ""Pháo Hoa Ngọt Ngào"""
+lang_multi_text.db,MultiText,Fishing_TechName19,诱饵,Bait,Mồi Câu
+lang_multi_text.db,MultiText,Fishing_TechName20,附加动力舱,Extra Engine Room,Khoang Động Lực Phụ
+lang_multi_text.db,MultiText,Fishing_TechName21,黎乔利群岛生物学,Riccioli Islands Biology,Sinh Học Quần Đảo Riccioli
+lang_multi_text.db,MultiText,Fishing_TechName22,团结之力,Power of Unity,Sức Mạnh Đoàn Kết
+lang_multi_text.db,MultiText,Fishing_TechName23,名扬四海,Fame Across the Sea,Danh Tiếng Vang Xa
+lang_multi_text.db,MultiText,Fishing_TechName24,护航祷文,Voyage Litany,Lời Cầu Nguyện Hộ Tống
+lang_multi_text.db,MultiText,Fishing_TechName25,回收利用,Recycle Techniques,Tái Chế Sử Dụng
+lang_multi_text.db,MultiText,Fishing_TechName26,禁忌文卷,Forbidden Scrolls,Văn Kiện Cấm Kỵ
+lang_multi_text.db,MultiText,Fishing_TechTag1,浅水,Shallow,Vùng Nước Nông
+lang_multi_text.db,MultiText,Fishing_TechTag2,深水,Deep,Vùng Nước Sâu
+lang_multi_text.db,MultiText,Fishing_TechTag3,海沟,Abyssal,Rãnh Biển
+lang_multi_text.db,MultiText,Fishing_TechTag4,远洋,Oceanic,Viễn Dương
+lang_multi_text.db,MultiText,Fishing_TechTag5,神秘气泡,Wonder Bubble,Bong Bóng Bí Ẩn
+lang_multi_text.db,MultiText,Fishing_TechType1,核心捕捞能力,Key Fishing Ability,Năng Lực Đánh Bắt Cốt Lõi
+lang_multi_text.db,MultiText,Fishing_TechType2,主要捕捞能力,Primary Fishing Ability,Năng Lực Đánh Bắt Chính
+lang_multi_text.db,MultiText,Fishing_TechType3,次要捕捞能力,Secondary Fishing Ability,Năng Lực Đánh Bắt Phụ
+lang_multi_text.db,MultiText,Fishing_TechUnlockTip2,捕捞能力「{0}」未解锁,Fishing Ability {0} is not acquired,"Năng lực đánh bắt ""{0}"" chưa mở khóa"
+lang_multi_text.db,MultiText,Fishing_TemporaryPoint,被沙虫吸引的鱼群,Sea Life Lured by Sandworm,Đàn cá bị Sâu Cát thu hút
+lang_multi_text.db,MultiText,Fishing_Time,捕捞时间,Available Time,Thời gian đánh bắt
+lang_multi_text.db,MultiText,Fishing_Title,航海捕鱼,Fishing Adventure,Đánh Bắt Trên Biển
+lang_multi_text.db,MultiText,Fishing_TuoWang,请回到码头后查看,Please check it at the dock,Vui lòng xem sau khi quay về bến tàu

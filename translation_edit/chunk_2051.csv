@@ -1,489 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Skill_1004610_SkillDescribe,"目标<color=Highlight>【偏谐值】</color>满时，爱弥斯可对其施放<color=Highlight><te href=100001>【谐度破坏】</te></color>。
-施放<color=Highlight><te href=100001>【谐度破坏】</te></color>后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第3段</color>。
-<size=10></size>
-响应<color=Highlight><te href=100004>【震谐·干涉】</te></color>：队伍中的角色对目标造成<color=Highlight><te href=100001>【谐度破坏】</te></color>伤害并使其进入<color=Highlight><te href=100004>【震谐·干涉】</te></color>状态时，爱弥斯将触发<color=Highlight>震谐响应·星爆</color>效果，同一目标每{0}秒仅可受到1次该伤害。","When the target's <color=Highlight>Off-Tune Level</color> is full, Aemeath can cast <color=Highlight><te href=100001>Tune Break</te></color> on the target.
-{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} <color=Highlight>Normal Attack</color> shortly after casting <color=Highlight><te href=100001>Tune Break</te></color> to cast <color=Highlight>Basic Attack Stage 3</color>.
-<size=10></size>
-Responding to <te href=100004>Tune Rupture - Interfered</te></color>: when Resonators in the team trigger <color=Highlight><te href=100001>Tune Break</te></color> on the target and cause them to be affected by <color=Highlight><te href=100004>Tune Rupture - Interfered</te></color>, Aemeath casts <color=Highlight>Tune Rupture Response - Starburst</color>. Each target can be damaged by this skill up to once every {0}s.","Khi <color=Highlight>[Trị Số Lệch Hài]</color> của mục tiêu đầy, Aemeath có thể thi triển <color=Highlight><te href=100001>[Phá Vỡ Hài Độ]</te></color> lên mục tiêu.
-Trong thời gian nhất định sau khi thi triển <color=Highlight><te href=100001>[Phá Vỡ Hài Độ]</te></color> nhấn <color=Highlight>Đánh Thường</color>, sẽ thi triển <color=Highlight>Đánh Thường Đoạn 3</color>.
-<size=10></size>
-Phản hồi <color=Highlight><te href=100004>[Chấn Hài - Can Thiệp]</te></color>: Khi nhân vật trong đội gây sát thương <color=Highlight><te href=100001>[Phá Vỡ Hài Độ]</te></color> cho mục tiêu và khiến mục tiêu vào trạng thái <color=Highlight><te href=100004>[Chấn Hài - Can Thiệp]</te></color>, Aemeath sẽ kích hoạt hiệu quả <color=Highlight>Phản Hồi Chấn Hài - Tinh Bạo</color>, cùng một mục tiêu mỗi {0} giây chỉ chịu 1 lần sát thương này."
-lang_multi_text.db,MultiText,Skill_1004610_SkillName,尚未落地的旋律,Unlanded Melody,Giai Điệu Chưa Hạ Cánh
-lang_multi_text.db,MultiText,Skill_1004610_SkillResume,"目标<color=Highlight>【偏谐值】</color>满时，爱弥斯可对其施放<color=Highlight>【谐度破坏】</color>。
-<size=10></size>
-处于<color=Highlight>共鸣模态·震谐</color>时，获得以下效果：
-·爱弥斯拥有为目标附加<color=Highlight>【震谐·偏移】</color>的能力。
-·爱弥斯拥有响应<color=Highlight>【震谐·干涉】</color>的能力。","When the target's <color=Highlight>Off-Tune Level</color> is full, Aemeath can cast <color=Highlight>Tune Break</color> on the target.
-<size=10></size>
-When in <color=Highlight>Resonance Mode - Tune Rupture</color>, Aemeath gains the following effects:
-- Aemeath can inflict <color=Highlight>Tune Rupture - Shifting</color> on the target.
-- Aemeath can respond to <color=Highlight>Tune Rupture - Shifting</color>.","Khi <color=Highlight>[Trị Số Lệch Hài]</color> của mục tiêu đầy, Aemeath có thể thi triển <color=Highlight>[Phá Vỡ Hài Độ]</color> lên mục tiêu.
-<size=10></size>
-Khi ở <color=Highlight>Chế Độ Cộng Hưởng - Chấn Hài</color>, nhận hiệu quả sau:
-. Aemeath có khả năng gắn <color=Highlight>[Chấn Hài - Thiên Di]</color> cho mục tiêu.
-. Aemeath có khả năng phản hồi <color=Highlight>[Chấn Hài - Can Thiệp]</color>."
-lang_multi_text.db,MultiText,Skill_1004701_SkillDescribe,"<size=40><color=Title>普攻</color></size>
-进行最多4段的连续攻击，造成<color=Light>衍射伤害</color>。
-第3段攻击会发出飞刃，该飞刃会被第4段攻击引爆，且施放其他可造成伤害的技能时，飞刃会消失。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力跳至空中，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-在空中进行最多4段的连续攻击，造成<color=Light>衍射伤害</color>，第4段为消耗耐力进行空中下落攻击。
-空中的第{0}、3段<color=Highlight>普攻</color>，可以通过<color=Highlight>短按普攻</color>或<color=Highlight>短按跳跃</color>施放。
-通过<color=Highlight>短按普攻</color>施放时，使用<color=Highlight>镰刀·剖解</color>进行攻击。
-通过<color=Highlight>短按跳跃</color>施放时，使用<color=Highlight>镰刀·裁断</color>进行攻击，对命中目标附加<color=Highlight><te href=100003>【集谐·偏移】</te></color>，持续{1}秒，并使自己在{2}秒内受到的伤害降低{3}。
-作为登场角色在空中时，该技能连击段数不会被重置。
-在空中时，<color=Highlight>长按普攻</color>，消耗耐力进行空中下落攻击。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-在地面成功闪避后一定时间内<color=Highlight>短按普攻</color>，将造成<color=Light>衍射伤害</color>。施放该技能后一定时间内<color=Highlight>短按普攻</color>，将施放<color=Highlight>普攻第3段</color>。
-在空中成功闪避后一定时间内<color=Highlight>短按普攻</color>，将会高速位移至目标位置，造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Perform up to 4 consecutive attacks, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to jump into the air, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Perform up to 4 consecutive attacks in mid-air, dealing <color=Light>Spectro DMG</color>. Stage 4 is a Plunging Attack at the cost of STA.
-<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> or <color=Highlight>Jump</color> to perform <color=Highlight>Basic Attack</color> Stage {0} and 3.
-Luuk Herssen attacks with Scythe: Dissection when the input is <color=Highlight>Normal Attack</color>.
-Luuk Herssen attacks with Scythe: Resection when the input is <color=Highlight>Jump</color>. He also inflicts <color=Highlight><a href=【集谐·偏移】></a</color> on the target for {1}s.
-While in mid-air, <color=Highlight>hold Normal Attack</color> to perform a Plunging Attack at the cost of STA.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> right after a successful Dodge on the ground to attack the target, dealing <color=Light>Spectro DMG</color>. <color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> within a time after casting this skill to cast <color=Highlight>Basic Attack Stage 3</color>.
-<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> right after a successful Dodge in mid-air to flash toward the target, dealing <color=Light>Spectro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Thực hiện tối đa 4 đòn tấn công liên tục, gây <color=Light>Sát Thương Quang Phổ</color>.
-Đòn tấn công thứ 3 sẽ phóng ra phi đao, phi đao sẽ biến mất khi thi triển kỹ năng gây sát thương khác hoặc khi Luuk Herssen lui về hậu trường.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực nhảy lên không trung, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Thực hiện tối đa 4 đòn tấn công liên tục trên không, gây <color=Light>Sát Thương Quang Phổ</color>, đoạn 4 tiêu hao thể lực để thực hiện tấn công đáp đất.
-<color=Highlight>Đánh Thường</color> đoạn {0} và 3 trên không, có thể thi triển bằng cách <color=Highlight>nhấn Đánh Thường</color> hoặc <color=Highlight>nhấn Nhảy</color>.
-Khi thi triển bằng <color=Highlight>nhấn Đánh Thường</color>, sử dụng <color=Highlight>Lưỡi Hái - Mổ Xẻ</color> để tấn công.
-Khi thi triển bằng <color=Highlight>nhấn Nhảy</color>, sử dụng <color=Highlight>Lưỡi Hái - Phán Quyết</color> để tấn công, gắn <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> cho mục tiêu trúng đòn, duy trì {1} giây, đồng thời giảm {3} sát thương bản thân phải chịu trong {2} giây.
-Khi là nhân vật ra trận ở trên không, số đoạn liên kích của kỹ năng này sẽ không bị đặt lại.
-Khi ở trên không, <color=Highlight>nhấn giữ Đánh Thường</color>, tiêu hao thể lực để thực hiện tấn công đáp đất.
-<size=10></size>
-<size=40><color=Title>Né Phản Kích</color></size>
-Trong thời gian nhất định sau khi né thành công trên mặt đất <color=Highlight>nhấn Đánh Thường</color>, sẽ gây <color=Light>Sát Thương Quang Phổ</color>. Trong thời gian nhất định sau khi thi triển kỹ năng này <color=Highlight>nhấn Đánh Thường</color>, sẽ thi triển <color=Highlight>Đánh Thường Đoạn 3</color>.
-Trong thời gian nhất định sau khi né thành công trên không <color=Highlight>nhấn Đánh Thường</color>, sẽ di chuyển tốc độ cao đến vị trí mục tiêu, gây <color=Light>Sát Thương Quang Phổ</color>."
-lang_multi_text.db,MultiText,Skill_1004701_SkillName,光犹如此,Such is Light,Ánh Sáng Như Vậy
-lang_multi_text.db,MultiText,Skill_1004701_SkillResume,"<size=40><color=Title>普攻</color></size>
-造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>重击</color></size>
-消耗耐力，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>空中攻击</color></size>
-造成<color=Light>衍射伤害</color>。
-<color=Highlight>长按普攻</color>，消耗耐力进行空中下落攻击，造成<color=Light>衍射伤害</color>。
-<size=10></size>
-<size=40><color=Title>闪避反击</color></size>
-成功闪避后<color=Highlight>短按普攻</color>，将造成<color=Light>衍射伤害</color>。","<size=40><color=Title>Basic Attack</color></size>
-Deal <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Heavy Attack</color></size>
-Consume STA to attack the target, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Mid-air Attack</color></size>
-Deal <color=Light>Spectro DMG</color>. 
-<color=Highlight>Hold Normal Attack</color> to perform a Plunging Attack, dealing <color=Light>Spectro DMG</color>.
-<size=10></size>
-<size=40><color=Title>Dodge Counter</color></size>
-<color=Highlight>{Cus:Ipt,Touch=Tap PC=Press Gamepad=Press} Normal Attack</color> right after a successful Dodge to attack the target, dealing <color=Light>Spectro DMG</color>.","<size=40><color=Title>Đánh Thường</color></size>
-Gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Đánh Mạnh</color></size>
-Tiêu hao thể lực, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Tấn Công Trên Không</color></size>
-Gây <color=Light>Sát Thương Quang Phổ</color>.
-<color=Highlight>Nhấn giữ Đánh Thường</color>, tiêu hao thể lực thực hiện tấn công đáp đất, gây <color=Light>Sát Thương Quang Phổ</color>.
-<size=10></size>
-<size=40><color=Title>Né Phản Kích</color></size>
-Sau khi né thành công <color=Highlight>nhấn Đánh Thường</color>, sẽ gây <color=Light>Sát Thương Quang Phổ</color>."
-lang_multi_text.db,MultiText,Skill_1004702_SkillDescribe,"<size=40><color=Title>流金回潮</color></size>
-高速位移至目标位置，造成<color=Light>衍射伤害</color>，并为命中目标附加<color=Highlight><te href=100003>【集谐·偏移】</te></color>，持续25秒。
-<color=Highlight>流金回潮</color>拥有2次可施放次数。
-可在空中施放。
-<size=10></size>
-<size=40><color=Title>斩杀日冕</color></size>
-每次施放<color=Highlight>普攻第4段</color>或<color=Highlight>空中攻击第3段</color>时，<color=Highlight>共鸣技能</color>替换为<color=Highlight>斩杀日冕</color>，<color=Highlight>斩杀日冕</color>造成的伤害为普攻伤害，并为命中目标附加<color=Highlight><te href=100003>【集谐·偏移】</te></color>，持续25秒。
-<color=Highlight>斩杀日冕</color>共有{0}个形态，依次为：<color=Highlight>斩杀日冕·环</color>、<color=Highlight>斩杀日冕·破</color>、<color=Highlight>斩杀日冕·曜</color>。
-施放任意形态<color=Highlight>斩杀日冕</color>时，获得{1}层【<te href=151001>终局之释义</te>】，且下次施放的<color=Highlight>斩杀日冕</color>会变为下个形态。
-若切换至其他角色，则<color=Highlight>斩杀日冕</color>的形态顺序会重置，且<color=Highlight>共鸣技能</color>会替换回<color=Highlight>流金回潮</color>。
-可在空中施放。
-<size=10></size>
-<size=40><color=Title>斩杀日冕·环</color></size>
-造成<color=Light>衍射伤害</color>，并使<color=Highlight>空中攻击</color>重置为第1段。
-下次<color=Highlight>按下普攻</color>，可以施放<color=Highlight>普攻·流金贯行</color>。
-期间如果切换至其他角色或在空中施放<color=Highlight>闪避反击</color>，则无法再施放<color=Highlight>普攻·流金贯行</color>。
-<size=10></size>
-<size=40><color=Title>斩杀日冕·破</color></size>
-旋转冲锋，对沿途敌人造成<color=Light>衍射伤害</color>，使<color=Highlight>空中攻击</color>重置为第1段，并发出<color=Highlight><te href=151004>日髓碎刃</te></color>。
-下次<color=Highlight>按下普攻</color>，可以施放<color=Highlight>普攻·流金贯行</color>。
-期间如果切换至其他角色或在空中施放<color=Highlight>闪避反击</color>，则无法再施放<color=Highlight>普攻·流金贯行</color>。
-<size=10></size>
-<size=40><color=Title>斩杀日冕·曜</color></size>
-投掷固相日髓，造成<color=Light>衍射伤害</color>，并在地上形成<color=Highlight>日髓阵列</color>。
-<size=10></size>
-<size=40><color=Title>普攻·流金贯行</color></size>
-高速位移至目标位置，造成<color=Light>衍射伤害</color>，此伤害为普攻伤害。
-<size=10></size>
-<size=40><color=Title>日髓阵列</color></size>
-<color=Highlight>日髓阵列</color>在{3}秒后会自动爆炸，造成<color=Light>衍射伤害</color>，此伤害为普攻伤害。
-<size=10></size>
-<size=40><color=Title>终局之释义</color></size>
-使共鸣解放<color=Highlight>于永冻中释义</color>伤害倍率提升{4}，可叠加{2}层，施放共鸣解放<color=Highlight>于永冻中释义</color>或切换至下个角色后移除。","<size=40><color=Title>Golden Reflux</color></size>
-Flash toward the target and deal <color=Light>Spectro DMG</color>.
-<color=Highlight>Golden Reflux</color> has 2 charges.
-Can be cast in mid-air.
-<size=10></size>
-<size=40><color=Title>Aureole of Execution</color></size>
-Casting <color=Highlight>Mid-air Basic Attack Stage 3</color> replaces <color=Highlight>Resonance Skill</color> with <color=Highlight>Aureole of Execution</color>, which deals Basic Attack DMG.
-<color=Highlight>Aureole of Execution</color>has {0} forms, including <color=Highlight>Aureole of Execution: Ring</color>, <color=Highlight>Aureole of Executiom: Breach</color>, and <color=Highlight>Aureole of Execution: Glare</color>.
-Casting any form of Resonance Skill <color=Highlight>Aureole of Execution</color> grants <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=Highlight><te href=151001>Endnotes on the Endgame</te></color> and switches <color=Highlight>Aureole of Execution</color> to the next form in sequence.
-Switching to another Resonator resets the cycle of <color=Highlight>Aureole of Execution</color> and <color=Highlight>Resonance Skill</color> is reset to <color=Highlight>Golden Reflux</color>
-Can be cast in mid-air.
-<size=10></size>
-<size=40><color=Title>Aureole of Execution: Ring</color></size>
-Deal <color=Light>Spectro DMG</color>, and reset the <color=Highlight>Mid-air Attack</color> cycle.
-The next <color=Highlight>Normal Attack</color> triggers <color=Highlight>Basic Attack - Golden Impale</color>.
-<color=Highlight>Basic Attack - Golden Impale</color> is no longer available if <color=Highlight>Dodge Counter</color> is cast in air or Luuk Herssen is switched out in the duration.
-<size=10></size>
-<size=40><color=Title>Aureole of Execution: Breach</color></size>
-Spin and dash forward, dealing <color=Light>Spectro DMG</color> to enemies along the path and resetting the <color=Highlight>Mid-air Attack</color> cycle to Stage 1.
-Throw out a whirling blade to attack the target, dealing fixed amout of <color=Light>Spectro DMG</color>.
-Only one whirling blade can exist at a time. It cannot trigger <color=Highlight>Counterattack</color> and disappears when other skills are cast.
-The next <color=Highlight>Basic Attack</color> is replaced with <color=Highlight>Basic Attack - Golden Impale</color>.
-If <color=Highlight>Dodge Counter</color> is cast in mid-air or Luuk Herssen is switched off the field during this period, <color=Highlight>Basic Attack - Golden Impale</color> is no longer available.
-<size=10></size>
-<size=40><color=Title>Aureole of Execution: Glare</color></size>
-Hurl out Solid-State Ichor, dealing <color=Light>Spectro DMG</color> and forming an <color=Highlight>Ichor Deposit</color> on the ground.
-<size=10></size>
-<size=40><color=Title>Basic Attack - Golden Impale</color></size>
-Flash toward the target and deal <color=Light>Spectro DMG</color>, considered Basic Attack DMG.
-<size=10></size>
-<size=40><color=Title>Ichor Deposit</color></size>
-<color=Highlight>Ichor Deposit</color> detonates automatically after {3}s, dealing <color=Light>Spectro DMG</color>, considered Basic Attack DMG.
-<size=10></size>
-<size=40><color=Title>Endnotes on the Endgame</color></size>
-Increase the DMG Multiplier of Resonance Liberation <color=Highlight>Rewritten in Winter's Margins</color> by {4}, stacking up to {2} times. Casting Resonance Liberation <color=Highlight>Rewritten in Winter's Margins</color> or switching to another Resonator removes all stacks.","<size=40><color=Title>Lưu Kim Hồi Triều</color></size>
-Di chuyển tốc độ cao đến vị trí mục tiêu, gây <color=Light>Sát Thương Quang Phổ</color>, và gắn <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> cho mục tiêu trúng đòn, duy trì 25 giây.
-<color=Highlight>Lưu Kim Hồi Triều</color> có thể thi triển 2 lần.
-Có thể thi triển trên không.
-<size=10></size>
-<size=40><color=Title>Trảm Sát Nhật Miện</color></size>
-Mỗi lần thi triển <color=Highlight>Đánh Thường Đoạn 4</color> hoặc <color=Highlight>Tấn Công Trên Không Đoạn 3</color>, <color=Highlight>Kỹ Năng Cộng Hưởng</color> thay thế bằng <color=Highlight>Trảm Sát Nhật Miện</color>, sát thương do <color=Highlight>Trảm Sát Nhật Miện</color> gây ra là sát thương Đánh Thường, và gắn <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> cho mục tiêu trúng đòn, duy trì 25 giây.
-<color=Highlight>Trảm Sát Nhật Miện</color> có tổng cộng {0} dạng, lần lượt là: <color=Highlight>Trảm Sát Nhật Miện - Hoàn</color>, <color=Highlight>Trảm Sát Nhật Miện - Phá</color>, <color=Highlight>Trảm Sát Nhật Miện - Diệu</color>.
-Khi thi triển bất kỳ dạng <color=Highlight>Trảm Sát Nhật Miện</color> nào, nhận {1} tầng [<te href=151001>Giải Nghĩa Chung Cục</te>], và lần thi triển <color=Highlight>Trảm Sát Nhật Miện</color> tiếp theo sẽ chuyển sang dạng kế tiếp.
-Nếu chuyển sang nhân vật khác, thứ tự dạng của <color=Highlight>Trảm Sát Nhật Miện</color> sẽ được đặt lại, và <color=Highlight>Kỹ Năng Cộng Hưởng</color> sẽ thay thế lại thành <color=Highlight>Lưu Kim Hồi Triều</color>.
-Có thể thi triển trên không.
-<size=10></size>
-<size=40><color=Title>Trảm Sát Nhật Miện - Hoàn</color></size>
-Gây <color=Light>Sát Thương Quang Phổ</color>, và đặt lại <color=Highlight>Tấn Công Trên Không</color> về đoạn 1.
-Lần <color=Highlight>nhấn Đánh Thường</color> tiếp theo, có thể thi triển <color=Highlight>Đánh Thường - Lưu Kim Quán Hành</color>.
-Trong thời gian này nếu chuyển sang nhân vật khác hoặc thi triển <color=Highlight>Né Phản Kích</color> trên không, sẽ không thể thi triển <color=Highlight>Đánh Thường - Lưu Kim Quán Hành</color> nữa.
-<size=10></size>
-<size=40><color=Title>Trảm Sát Nhật Miện - Phá</color></size>
-Xoay tròn lao tới, gây <color=Light>Sát Thương Quang Phổ</color> cho kẻ địch trên đường đi, đặt lại <color=Highlight>Tấn Công Trên Không</color> về đoạn 1, và phóng ra <color=Highlight><te href=151004>Nhật Tủy Toái Nhận</te></color>.
-Lần <color=Highlight>nhấn Đánh Thường</color> tiếp theo, có thể thi triển <color=Highlight>Đánh Thường - Lưu Kim Quán Hành</color>.
-Trong thời gian này nếu chuyển sang nhân vật khác hoặc thi triển <color=Highlight>Né Phản Kích</color> trên không, sẽ không thể thi triển <color=Highlight>Đánh Thường - Lưu Kim Quán Hành</color> nữa.
-<size=10></size>
-<size=40><color=Title>Trảm Sát Nhật Miện - Diệu</color></size>
-Ném Nhật Tủy Thể Rắn, gây <color=Light>Sát Thương Quang Phổ</color>, và tạo thành <color=Highlight>Nhật Tủy Trận Liệt</color> trên mặt đất.
-<size=10></size>
-<size=40><color=Title>Đánh Thường - Lưu Kim Quán Hành</color></size>
-Di chuyển tốc độ cao đến vị trí mục tiêu, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này là sát thương Đánh Thường.
-<size=10></size>
-<size=40><color=Title>Nhật Tủy Trận Liệt</color></size>
-<color=Highlight>Nhật Tủy Trận Liệt</color> sẽ tự động phát nổ sau {3} giây, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này là sát thương Đánh Thường.
-<size=10></size>
-<size=40><color=Title>Giải Nghĩa Chung Cục</color></size>
-Tăng {4} tỷ lệ sát thương của Giải Phóng Cộng Hưởng <color=Highlight>Giải Nghĩa Trong Băng Vĩnh Cửu</color>, có thể cộng dồn {2} tầng, xóa bỏ sau khi thi triển Giải Phóng Cộng Hưởng <color=Highlight>Giải Nghĩa Trong Băng Vĩnh Cửu</color> hoặc chuyển sang nhân vật tiếp theo."
-lang_multi_text.db,MultiText,Skill_1004702_SkillName,所有陨落在此重逢,Reunion of All the Fallen,Tất Cả Sự Sụp Đổ Tái Ngộ Tại Đây
-lang_multi_text.db,MultiText,Skill_1004702_SkillResume,"<size=40><color=Title>共鸣技能</color></size>
-造成<color=Light>衍射伤害</color>，为目标附加<color=Highlight>【集谐·偏移】</color>，可施放2次。
-<size=10></size>
-<size=40><color=Title>强化共鸣技能</color></size>
-施放<color=Highlight>普攻第4段</color>或<color=Highlight>空中攻击第3段</color>后，可以施放<color=Highlight>强化共鸣技能</color>，造成<color=Light>衍射伤害</color>，此伤害为普攻伤害，为目标附加<color=Highlight>【集谐·偏移】</color>，并使自身<color=Highlight>共鸣解放</color>技能伤害提升，可叠加3层。
-<color=Highlight>强化共鸣技能</color>共有三个形态，每次施放后，使下次施放的<color=Highlight>强化共鸣技能</color>变为下个形态。","<size=40><color=Title>Resonance Skill</color></size>
-Deal <color=Light>Spectro DMG</color> and inflict <color=Highlight>Tune Strain - Shifting</color>. The skill has 2 charges.
-<size=10></size>
-<size=40><color=Title>Enhanced Resonance Skill</color></size>
-<color=Highlight>Enhanced Resonance Skill</color> becomes available right after casting mid-air <color=Highlight>Basic Attack Stage 4</color> or <color=Highlight>Mid-air Attack Stage 3</color>, which deals <color=Light>Spectro DMG</color> considered Basic Attack DMG, inflicts <color=Highlight>Tune Strain - Shifting</color>, and increases the the DMG of <color=Highlight>Resonance Liberation</color>, up to 3 times.
-<color=Highlight>Enhanced Resonance Skill</color> has 3 forms, which rotate in sequence each time <color=Highlight>Enhanced Resonance Skill</color> is cast.","<size=40><color=Title>Kỹ Năng Cộng Hưởng</color></size>
-Gây <color=Light>Sát Thương Quang Phổ</color>, gắn <color=Highlight>[Tập Hài - Thiên Di]</color> cho mục tiêu, có thể thi triển 2 lần.
-<size=10></size>
-<size=40><color=Title>Kỹ Năng Cộng Hưởng Cường Hóa</color></size>
-Sau khi thi triển <color=Highlight>Đánh Thường Đoạn 4</color> hoặc <color=Highlight>Tấn Công Trên Không Đoạn 3</color>, có thể thi triển <color=Highlight>Kỹ Năng Cộng Hưởng Cường Hóa</color>, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này là sát thương Đánh Thường, gắn <color=Highlight>[Tập Hài - Thiên Di]</color> cho mục tiêu, đồng thời tăng sát thương kỹ năng <color=Highlight>Giải Phóng Cộng Hưởng</color> của bản thân, có thể cộng dồn 3 tầng.
-<color=Highlight>Kỹ Năng Cộng Hưởng Cường Hóa</color> có ba dạng, sau mỗi lần thi triển, lần thi triển <color=Highlight>Kỹ Năng Cộng Hưởng Cường Hóa</color> tiếp theo sẽ chuyển sang dạng kế tiếp."
-lang_multi_text.db,MultiText,Skill_1004703_SkillDescribe,"造成<color=Light>衍射伤害</color>，此伤害为普攻伤害。
-可在空中施放。","Deal <color=Light>Spectro DMG</color>, considered Basic Attack DMG.
-Can be cast in mid-air.","Gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này là sát thương Đánh Thường.
-Có thể thi triển trên không."
-lang_multi_text.db,MultiText,Skill_1004703_SkillName,于永冻中释义,Rewritten in Winter's Margins,Giải Nghĩa Trong Băng Vĩnh Cửu
-lang_multi_text.db,MultiText,Skill_1004703_SkillResume,造成<color=Light>衍射伤害</color>，此伤害为普攻伤害。,"Deal <color=Light>Spectro DMG</color>, considered Basic Attack DMG.","Gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này là sát thương Đánh Thường."
-lang_multi_text.db,MultiText,Skill_1004704_SkillDescribe,"陆·赫斯直接造成的伤害击败目标时，如果目标有<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果，则：
-如果陆·赫斯没有【续写白昼】效果，则获得【续写白昼】效果，且层数与目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>层数相同。
-如果陆·赫斯已有【续写白昼】效果，且目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>层数大于陆·赫斯的【续写白昼】层数，则使陆·赫斯的【续写白昼】层数变为与目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>层数相同。
-当陆·赫斯施放<color=Highlight><te href=100001>【谐度破坏】</te></color>时，如果目标有<color=Highlight><te href=100003>【集谐·偏移】</te></color>效果，则失去所有【续写白昼】层数，使目标额外获得相同层数的<color=Highlight><te href=100005>【集谐·干涉】</te></color>，最高可叠加至当前目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>层数上限，该效果冷却时间为{1}秒。
-【续写白昼】可叠加{0}层。","When Luuk Herssen directly damages and defeats nearby targets, if the targets were inflicted with <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>:
-- If Luuk Herssen has no Perpetuating Daytime, gain same stacks of Perpetuating Daytime equal to the stacks of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>.
-- If Luuk Herssen already has Perpetuating Daytime and the stack count of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target, raise the stacks of Perpetuating Daytime to the stacks of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target.
-- When Luuk Herssen casts <color=Highlight><te href=100001>Tune Break</te></color>, if the target is affected by <color=Highlight><te href=100003>Tune Strain - Shifting</te></color>, remove all Perpetuating Daytime Luuk Herssen has and apply the same stacks of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target.
-- Perpetuating Daytime stacks up to {0} times.","Khi nhân vật trong đội gây sát thương trực tiếp đánh bại mục tiêu có hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>:
-Nếu Luuk Herssen không có hiệu quả [Viết Tiếp Ban Ngày], sẽ nhận hiệu quả [Viết Tiếp Ban Ngày], và số tầng bằng với số tầng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> của mục tiêu.
-Nếu Luuk Herssen đã có hiệu quả [Viết Tiếp Ban Ngày], và số tầng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> của mục tiêu lớn hơn số tầng [Viết Tiếp Ban Ngày] của Luuk Herssen, thì số tầng [Viết Tiếp Ban Ngày] của Luuk Herssen sẽ trở thành bằng với số tầng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> của mục tiêu.
-<size=10></size>
-<size=40><color=Title>[Viết Tiếp Ban Ngày]</color></size>
-Khi nhân vật trong đội thi triển <color=Highlight><te href=100001>[Phá Vỡ Hài Độ]</te></color>, nếu mục tiêu có hiệu quả <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color>, Luuk Herssen sẽ mất tất cả các tầng [Viết Tiếp Ban Ngày], khiến mục tiêu nhận thêm số tầng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> tương ứng, tối đa có thể cộng dồn đến giới hạn tầng <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> của mục tiêu hiện tại, hiệu quả này có thời gian hồi chiêu là {1} giây.
-Khi Luuk Herssen mất ý thức, sẽ không tiếp tục nhận hiệu quả [Viết Tiếp Ban Ngày], đồng thời hiệu quả [Viết Tiếp Ban Ngày] hiện có sẽ mất hiệu lực.
-Hiệu quả [Viết Tiếp Ban Ngày] có thể cộng dồn tối đa {0} tầng."
-lang_multi_text.db,MultiText,Skill_1004704_SkillName,雪下的脉搏,Pulses Under the Snow,Mạch Đập Dưới Tuyết
-lang_multi_text.db,MultiText,Skill_1004704_SkillResume,"陆·赫斯击败拥有<color=Highlight>【集谐·干涉】</color>的敌人时，会将其身上的<color=Highlight>【集谐·干涉】</color>层数保存下来。
-陆·赫斯施放<color=Highlight>【谐度破坏】</color>时，如果目标有<color=Highlight>【集谐·偏移】</color>，则会将已保存的<color=Highlight>【集谐·干涉】</color>附加在目标身上。","Luuk Herssen reserves the stacks of <color=Highlight>Tune Strain - Interfered</color> on the target when defeating a target affected by <color=Highlight>Tune Strain - Interfered</color>.
-When Luuk Herssen casts <color=Highlight>Tune Break</color> and if the target is affected by color=Highlight>Tune Strain - Shifting</color>, inflict the reserved stacks of <color=Highlight>Tune Strain - Interfered</color> on the target.","Khi nhân vật trong đội đánh bại kẻ địch có <color=Highlight>[Tập Hài - Can Thiệp]</color>, Luuk Herssen sẽ bảo lưu số tầng <color=Highlight>[Tập Hài - Can Thiệp]</color> trên người kẻ địch đó.
-Khi nhân vật trong đội thi triển <color=Highlight>[Phá Vỡ Hài Độ]</color>, nếu mục tiêu có <color=Highlight>[Tập Hài - Thiên Di]</color>, Luuk Herssen sẽ gắn <color=Highlight>[Tập Hài - Can Thiệp]</color> đã bảo lưu lên mục tiêu."
-lang_multi_text.db,MultiText,Skill_1004705_SkillDescribe,"对有<color=Highlight><te href=100005>【集谐·干涉】</te></color>的目标造成伤害时，陆·赫斯每拥有{0}点谐度破坏增幅，本次伤害加深{1}，最高加深{2}。
-附近队伍中所有角色造成<color=Highlight><te href=100001>【谐度破坏】</te></color>伤害时，陆·赫斯攻击提升{3}，持续{4}秒。","When Luuk Herssen deals damage to targets affected by <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>, every {0} points of <color=Highlight>Tune Break Boost</color> he has Amplify this instance of damage by {1}, up to {2}.
-If the target has at least <SapTag=3>{3}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=3} of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>, this instance of damage is further Amplified by {4}.","Khi kỹ năng do bản thân thi triển gây sát thương trực tiếp lên mục tiêu có <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>, mỗi {0} điểm Tăng Cường Phá Vỡ Hài Độ mà Luuk Herssen sở hữu sẽ làm sát thương lần này tăng thêm {1}, tối đa tăng thêm {2}.
-Sau khi tất cả nhân vật trong đội ở gần gắn <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> cho quái vật hoặc gây sát thương <color=Highlight><te href=100001>[Phá Vỡ Hài Độ]</te></color>, Tấn công của Luuk Herssen tăng {3}, duy trì {4} giây."
-lang_multi_text.db,MultiText,Skill_1004705_SkillName,无因的医谕,Uncaused Diagnosis,Lời Chẩn Đoán Vô Cớ
-lang_multi_text.db,MultiText,Skill_1004705_SkillResume,"对有<color=Highlight>【集谐·干涉】</color>的目标造成伤害时，陆·赫斯的谐度破坏增幅越高，伤害越高。
-队伍中的角色造成<color=Highlight>【谐度破坏】</color>伤害时，陆·赫斯攻击提升。","Luuk Herssen deals more damage to targets affected by <color=Highlight>Tune Strain - Interfered</color> with higher Tune Break Boost.
-If the target has at least {0} stacks of <color=Highlight>Tune Strain - Interfered</color>, this instance of damage further increases.","Khi kỹ năng do bản thân thi triển gây sát thương trực tiếp lên mục tiêu có <color=Highlight>[Tập Hài - Can Thiệp]</color>, Tăng Cường Phá Vỡ Hài Độ của Luuk Herssen càng cao thì sát thương càng cao.
-Khi tất cả nhân vật trong đội ở gần gắn <color=Highlight>[Tập Hài - Thiên Di]</color> cho quái vật hoặc gây sát thương <color=Highlight>[Phá Vỡ Hài Độ]</te></color>, Luuk Herssen được tăng Tấn công."
-lang_multi_text.db,MultiText,Skill_1004706_SkillDescribe,造成<color=Light>衍射伤害</color>，并发出<color=Highlight><te href=151004>日髓碎刃</te></color>。,Deal<color=Light>Spectro DMG</color>.,"Gây <color=Light>Sát Thương Quang Phổ</color>, gắn <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> cho mục tiêu trúng đòn, và phóng ra <color=Highlight><te href=151004>Nhật Tủy Toái Nhận</te></color>.
-Sau khi thi triển kỹ năng này, trên không có thể <color=Highlight>nhấn Đánh Thường</color> để thi triển <color=Highlight>Tấn Công Trên Không Đoạn 2 - Lưỡi Hái - Mổ Xẻ</color>, hoặc <color=Highlight>nhấn Nhảy</color> để thi triển <color=Highlight>Tấn Công Trên Không Đoạn 2 - Lưỡi Hái - Phán Quyết</color>."
-lang_multi_text.db,MultiText,Skill_1004706_SkillName,注入黎明以前,Before Injection of Dawn,Tiêm Vào Trước Bình Minh
-lang_multi_text.db,MultiText,Skill_1004706_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,"Gây <color=Light>Sát Thương Quang Phổ</color>, gắn <color=Highlight>[Tập Hài - Thiên Di]</color> cho mục tiêu.
-Sau khi thi triển kỹ năng này, trên không <color=Highlight>nhấn Đánh Thường</color> hoặc <color=Highlight>nhấn Nhảy</color>, có thể thi triển <color=Highlight>Tấn Công Trên Không Đoạn 2</color>."
-lang_multi_text.db,MultiText,Skill_1004707_SkillDescribe,"<size=40><color=Title>空中攻击·判决大地裂响</color></size>
-共鸣技能<color=Highlight>斩杀日冕·曜</color>投掷固相日髓后，一定时间内在空中<color=Highlight>按下普攻</color>，可以施放<color=Highlight>空中攻击·判决大地裂响</color>。
-一跃而下，落地时立即引爆<color=Highlight>日髓阵列</color>，造成<color=Light>衍射伤害</color>，此伤害为普攻伤害。
-如果在该时间内施放共鸣解放<color=Highlight>于永冻中释义</color>或切换至其他角色，则无法再施放<color=Highlight>空中攻击·判决大地裂响</color>。
-<size=10></size>
-<size=40><color=Title>黄金的裁量</color></size>
-【<te href=151002>日髓能流</te>】满时，进入<color=Highlight>黄金的裁量</color>状态，获得以下效果：
-无法回复【<te href=151002>日髓能流</te>】，所有形态的共鸣技能<color=Highlight>斩杀日冕</color>伤害倍率提升。
-施放共鸣技能<color=Highlight>斩杀日冕·曜</color>后，使接下来的<color=Highlight>空中攻击·判决大地裂响</color>伤害倍率提升。
-每次施放共鸣技能<color=Highlight>斩杀日冕</color>，消耗{1}点【<te href=151002>日髓能流</te>】。
-当【<te href=151002>日髓能流</te>】清空时，退出<color=Highlight>黄金的裁量</color>状态。
-<size=10></size>
-<size=40><color=Title>黄金诊律</color></size>
-陆·赫斯处于编队中时，使队伍其他角色获得【黄金诊律】，拥有【黄金诊律】的角色施放延奏技能时，如果下一个登场的角色是陆·赫斯，则移除队伍中所有角色的【黄金诊律】，使陆·赫斯获得{3}点【<te href=151002>日髓能流</te>】和{4}点协奏能量，{2}秒后使队伍中其他角色再次获得【黄金诊律】。该效果联机状态下不会生效。
-<size=10></size>
-<size=40><color=Title>日辉庇覆</color></size>
-处于非战斗状态大于{5}秒或施放变奏技能<color=Highlight>注入黎明以前</color>时，获得{6}层【日辉庇覆】。
-【日辉庇覆】上限为{7}层，受到伤害时，可消耗{9}层【日辉庇覆】，使自身免疫打断且受到伤害降低{14}，持续{10}秒。该效果每秒可触发1次。
-<size=10></size>
-<size=40><color=Title>光雨裁下</color></size>
-在空中施放闪避时，陆·赫斯会短暂悬于空中，并发出<color=Highlight><te href=151004>日髓碎刃</te></color>。
-陆·赫斯悬于空中期间，持续消耗耐力。
-陆·赫斯被击飞至落地期间，<color=Highlight>短按闪避</color>，也可以触发该效果，但最多只能触发3次。处于地面状态或退场{12}秒后，刷新该次数。
-<size=10></size>
-<size=40><color=Title>日髓碎刃</color></size>
-造成固定<color=Light>衍射伤害</color>，此伤害为普攻伤害，不受伤害加成影响。
-<color=Highlight>日髓碎刃</color>同时只能存在一个，且无法触发<color=Highlight>逆势回击</color>。
-施放其他可造成伤害的技能时，<color=Highlight>日髓碎刃</color>会消失。
-<size=10></size>
-<size=40><color=Title>【日髓能流】获取规则</color></size>
-【日髓能流】上限为{0}点。
-常态攻击、共鸣技能<color=Highlight>流金回潮</color>、共鸣技能<color=Highlight>斩杀日冕</color>、<color=Highlight>普攻·流金贯行</color>、<color=Highlight>空中攻击·判决大地裂响</color>命中时，能回复【日髓能流】。
-施放变奏技能<color=Highlight>注入黎明以前</color>时，回复{13}点【日髓能流】。","<color=Title>Mid-air Attack - Gavel of Earthshaker</color></size>
-When the Solid-State Ichor of Resonance Skill <color=Highlight>Aureole of Execution: Glare</color> is hurled out, {Cus:Ipt,Touch=tap PC=press Gamepad=press} or hold <color=Highlight>Normal Attack</color> in the air to cast <color=Highlight>Mid-air Attack - Gavel of Earthshaker</color>.
-Slam down from the air to detonate the <color=Highlight>Ichor Deposit</color>, dealing <color=Light>Spectro DMG</color> considered Basic Attack DMG.
-<color=Highlight>Mid-air Attack - Gavel of Earthshaker</color> is no longer available when Resonance Liberation <color=Highlight>Rewritten in Winter's Margins</color> is cast or Luuk Herssen is switched off the field.
-<size=10></size>
-<size=40><color=Title>Aureate Judge</color></size>
-With full <te href=151002>Ichor Flow</te>, enter the <color=Highlight>Aureate Judge</color> state. In this state, Luuk Herssen gains the following effects:
-- <color=Highlight><te href=151002>Ichor Flow</te></color> does not restore. The DMG Multipliers of all forms of Resonance Skill <color=Highlight>Aureole of Execution</color> increases.
-Casting <color=Highlight>Aureole of Execution: Glare</color> increases the DMG Multiplier of the next <color=Highlight>Mid-air Attack - Gavel of Earthshaker</color>.
-{1} points of <te href=151002>Ichor Flow</te> is consumed each time Resonance Skill <color=Highlight>Aureole of Execution</color> is cast.
-<color=Highlight>Aureate Judge</color> ends when <te href=151002>Ichor Flow</te> depletes.
-<size=10></size>
-<size=40><color=Title>Golden Rule</color></size>
-When Luuk Herssen is in the team, all other Resonators in the team gain Golden Rule. When Resonators with Golden Rule cast Outro Skill and the incoming Resonator is Luuk Herssen, remove all Golden Rules on Resonators in the team and grant Luuk Herssen {3} points of <color=Highlight><te href=151002>Ichor Flow</te></color> and {4} points of Concerto Energy. Resonators in the team gain Golden Rule again after {2}s.
-<size=10></size>
-<size=40><color=Title>Dawnlit Keep</color></size>
-Luuk Herssen gains <SapTag=6>{6}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=6} of <color=Highlight><te href=151003>Dawnlit Keep</te></color> when he stays out of combat for over {5}s or casts Intro Skill <color=Highlight>Before Injection of Dawn</color>.
-<color=Highlight><te href=151003>Dawnlit Keep</te></color> is capped at {7} stacks. When damaged in mid-air, consume <SapTag=9>{9}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=9} of <te href=151003>Dawnlit Keep</te> to reduce the DMG taken by {14} and gain immunity to interruptions for {10}s. This effect can be triggered once every {11}s.
-<size=10></size>
-<size=40><color=Title>Radiant Reave</color></size>
-When Luuk Herssen performs Dodge in mid-air, he briefly stays airborne and sends out a whirling blade, dealing fixed <color=Light>Spectro DMG</color>.
-Only one whirling blade can exist at a time. It cannot trigger <color=Highlight>Counterattack</color> and disappears when other skills are cast.
-Luuk Herssen consumes STA continuously while airborne.
-If Luuk Herssen is launched into mid-air, <color=Highlight>{Cus:Ipt,Touch=tap PC=press Gamepad=press} Dodge</color> before landing to trigger this effect, up to 3 times. When Luuk  Herssen is on the ground or switched out for more than {12}s, the trigger count is reset.
-<size=40><color=Title>Ichor Flow</color></size>
-Luuk Herssen holds up to {0} points of Ichor Flow.
-Normal Attacks, Resonance Skill <color=Highlight>Golden Reflux</color>, Resonance Skill <color=Highlight>Aureole of Execution</color>, <color=Highlight>Basic Attack - Golden Impale</color>, and <color=Highlight>Mid-air Attack - Gavel of Earthshaker</color> restores Ichor Flow on hit.
-Casting Intro Skill <color=Highlight>Before Injection of Dawn</color> restores {13} points of Ichor Flow.","<size=40><color=Title>Tấn Công Trên Không - Phán Quyết Đại Địa Rung Chuyển</color></size>
-Sau khi Kỹ Năng Cộng Hưởng <color=Highlight>Trảm Sát Nhật Miện - Diệu</color> ném Nhật Tủy Thể Rắn, trong thời gian nhất định <color=Highlight>nhấn Đánh Thường</color> trên không, có thể thi triển <color=Highlight>Tấn Công Trên Không - Phán Quyết Đại Địa Rung Chuyển</color>.
-Nhảy xuống, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này là sát thương Đánh Thường, khi chạm đất lập tức kích nổ <color=Highlight><te href=151005>Nhật Tủy Trận Liệt</te></color>, và hồi phục toàn bộ thể lực.
-Nếu trong thời gian này thi triển Giải Phóng Cộng Hưởng <color=Highlight>Giải Nghĩa Trong Băng Vĩnh Cửu</color> hoặc chuyển sang nhân vật khác, sẽ không thể thi triển <color=Highlight>Tấn Công Trên Không - Phán Quyết Đại Địa Rung Chuyển</color> nữa.
-<size=10></size>
-<size=40><color=Title>Sự Phán Xét Hoàng Kim</color></size>
-Khi [<te href=151002>Dòng Chảy Nhật Tủy</te>] đầy, vào trạng thái <color=Highlight>Sự Phán Xét Hoàng Kim</color>, nhận hiệu quả sau:
-Không thể hồi phục [<te href=151002>Dòng Chảy Nhật Tủy</te>], tỷ lệ sát thương của tất cả các dạng Kỹ Năng Cộng Hưởng <color=Highlight>Trảm Sát Nhật Miện</color> tăng {15}.
-Sau khi thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Trảm Sát Nhật Miện - Diệu</color>, làm cho tỷ lệ sát thương của <color=Highlight>Tấn Công Trên Không - Phán Quyết Đại Địa Rung Chuyển</color> và <color=Highlight><te href=151005>Nhật Tủy Trận Liệt</te></color> tiếp theo tăng {15}.
-Mỗi lần thi triển Kỹ Năng Cộng Hưởng <color=Highlight>Trảm Sát Nhật Miện</color>, tiêu hao {1} điểm [<te href=151002>Dòng Chảy Nhật Tủy</te>].
-Khi [<te href=151002>Dòng Chảy Nhật Tủy</te>] cạn kiệt, thoát trạng thái <color=Highlight>Sự Phán Xét Hoàng Kim</color>.
-<size=10></size>
-<size=40><color=Title>Chẩn Đoán Hoàng Kim</color></size>
-Khi Luuk Herssen ở trong đội, khiến các nhân vật khác trong đội nhận [Chẩn Đoán Hoàng Kim], khi nhân vật có [Chẩn Đoán Hoàng Kim] thi triển Kỹ Năng Diễn Tấu, nếu nhân vật ra trận tiếp theo là Luuk Herssen, thì xóa bỏ [Chẩn Đoán Hoàng Kim] của tất cả nhân vật trong đội, giúp Luuk Herssen nhận {3} điểm [<te href=151002>Dòng Chảy Nhật Tủy</te>] và {4} điểm Năng Lượng Hiệp Tấu, sau {2} giây khiến các nhân vật khác trong đội nhận lại [Chẩn Đoán Hoàng Kim]. Hiệu quả này không có tác dụng trong trạng thái liên cơ (Co-op).
-<size=10></size>
-<size=40><color=Title>Nhật Huy Che Chở</color></size>
-Khi ở trạng thái không chiến đấu quá {5} giây hoặc thi triển Kỹ Năng Biến Tấu <color=Highlight>Tiêm Vào Trước Bình Minh</color>, nhận {6} tầng [Nhật Huy Che Chở].
-Giới hạn của [Nhật Huy Che Chở] là {7} tầng, khi chịu sát thương do quái vật gây ra, có thể tiêu hao {9} tầng [Nhật Huy Che Chở], giúp bản thân miễn nhiễm gián đoạn và giảm {14} sát thương phải chịu, duy trì {10} giây. Hiệu quả này mỗi giây có thể kích hoạt 1 lần.
-<size=10></size>
-<size=40><color=Title>Mưa Ánh Sáng Rơi Xuống</color></size>
-Khi thi triển Né Tránh trên không, Luuk Herssen sẽ lơ lửng trên không một thời gian ngắn, và phóng ra <color=Highlight><te href=151004>Nhật Tủy Toái Nhận</te></color>.
-Trong thời gian Luuk Herssen lơ lửng trên không, liên tục tiêu hao thể lực.
-Trong thời gian Luuk Herssen bị đánh bay cho đến khi chạm đất, <color=Highlight>nhấn Né Tránh</color>, cũng có thể kích hoạt hiệu quả này, nhưng tối đa chỉ kích hoạt 3 lần. Sau khi chạm đất hoặc chuyển sang nhân vật khác {12} giây, làm mới số lần này.
-<size=10></size>
-<size=40><color=Title>Nhật Tủy Toái Nhận</color></size>
-Gây <color=Light>Sát Thương Quang Phổ</color> cố định, sát thương này là sát thương Đánh Thường, không chịu ảnh hưởng của tăng sát thương.
-<color=Highlight>Nhật Tủy Toái Nhận</color> cùng lúc chỉ có thể tồn tại một cái, và không thể kích hoạt <color=Highlight>Phản Kích Nghịch Thế</color>.
-Khi xung quanh không có mục tiêu có thể tấn công, <color=Highlight>Nhật Tủy Toái Nhận</color> không thể phóng ra.
-Khi thi triển các kỹ năng gây sát thương khác hoặc Luuk Herssen lui về hậu trường, <color=Highlight>Nhật Tủy Toái Nhận</color> sẽ biến mất.
-<size=10></size>
-<size=40><color=Title>Quy tắc nhận [Dòng Chảy Nhật Tủy]</color></size>
-Giới hạn của [Dòng Chảy Nhật Tủy] là {0} điểm.
-Khi Đánh Thường, Kỹ Năng Cộng Hưởng <color=Highlight>Lưu Kim Hồi Triều</color>, Kỹ Năng Cộng Hưởng <color=Highlight>Trảm Sát Nhật Miện</color>, <color=Highlight>Đánh Thường - Lưu Kim Quán Hành</color>, <color=Highlight>Tấn Công Trên Không - Phán Quyết Đại Địa Rung Chuyển</color> trúng mục tiêu, có thể hồi phục [Dòng Chảy Nhật Tủy].
-Khi thi triển Kỹ Năng Biến Tấu <color=Highlight>Tiêm Vào Trước Bình Minh</color>, hồi phục {13} điểm [Dòng Chảy Nhật Tủy]."
-lang_multi_text.db,MultiText,Skill_1004707_SkillName,自霜中诞生的火光,Spark from the Frost,Ánh Lửa Sinh Ra Từ Sương Giá
-lang_multi_text.db,MultiText,Skill_1004707_SkillResume,"<size=40><color=Title>空中攻击·判决大地裂响</color></size>
-施放<color=Highlight>强化共鸣技能第三形态</color>后，在空中<color=Highlight>按下普攻</color>，一跃而下，造成<color=Light>衍射伤害</color>，此伤害为普攻伤害。
-<size=10></size>
-<size=40><color=Title>黄金的裁量</color></size>
-特定技能可回复<color=Highlight>特殊能量</color>，<color=Highlight>特殊能量</color>满时，所有<color=Highlight>强化共鸣技能</color>伤害倍率提升。
-<size=10></size>
-<size=40><color=Title>黄金诊律</color></size>
-队伍中其他角色施放延奏技能时，如果下一个登场的角色是陆·赫斯，使陆·赫斯额外回复<color=Highlight>特殊能量</color>和协奏能量，冷却{0}秒。
-<size=10></size>
-<size=40><color=Title>日辉庇覆</color></size>
-处于非战斗状态大于{1}秒或施放变奏技能时，获得{2}层【日辉庇覆】，短时间内使自身受到伤害降低且免疫打断。
-<size=10></size>
-<size=40><color=Title>光雨裁下</color></size>
-在空中施放闪避时，发出飞刃，造成固定<color=Light>衍射伤害</color>。","<size=40><color=Title>Mid-air Attack - Gavel of Earthshaker</color></size>
-After casting <color=Highlight>Enhanced Resonance Skill - Form III</color>, {Cus:Ipt,Touch=tap PC=press Gamepad=press} <color=Highlight>Normal Attack</color> to slam down from the air, dealing <color=Light>Spectro DMG</color> considered Basic Attack DMG.
-<size=10></size>
-<size=40><color=Title>Aureate Judge</color></size>
-Certain skills restores <color=Highlight>Forte Gauge</color>. When <color=Highlight>Forte Gauge</color> is full, the DMG Multipliers increase for all <color=Highlight>Enhanced Resonance Skill</color>.
-<size=10></size>
-<size=40><color=Title>Golden Rule</color></size>
-When other Resonators in the team cast Outro Skill, Luuk Herssen gains additionally restores <color=Highlight>Forte Gauge</color> and Concerto Energy. This effect has a cooldown of {0}s.
-<size=10></size>
-<size=40><color=Title>Dawnlit Keep</color></size>
-Luuk Herssen gains {2} stack of <color=Highlight>Dawnlit Keep</color> when he stays out of combat for over {1}s or casts Intro Skill, which reduces DMG taken and grants immunity to interruptions for a time.
-<size=10></size>
-<size=40><color=Title>Radiant Reave</color></size>
-Hurls out a whirling blade to attack when Dodging in mid-air, dealing fixed <color=Light>Spectro DMG</color>.","<size=40><color=Title>Tấn Công Trên Không - Phán Quyết Đại Địa Rung Chuyển</color></size>
-Sau khi thi triển <color=Highlight>Kỹ Năng Cộng Hưởng Cường Hóa Dạng 3</color>, trên không <color=Highlight>nhấn Đánh Thường</color>, nhảy xuống, gây <color=Light>Sát Thương Quang Phổ</color>, sát thương này là sát thương Đánh Thường.
-<size=10></size>
-<size=40><color=Title>Sự Phán Xét Hoàng Kim</color></size>
-Kỹ năng nhất định có thể hồi phục <color=Highlight>Năng Lượng Đặc Biệt</color>, khi <color=Highlight>Năng Lượng Đặc Biệt</color> đầy, tỷ lệ sát thương của tất cả <color=Highlight>Kỹ Năng Cộng Hưởng Cường Hóa</color> tăng lên.
-<size=10></size>
-<size=40><color=Title>Chẩn Đoán Hoàng Kim</color></size>
-Khi nhân vật khác trong đội thi triển Kỹ Năng Diễn Tấu, nếu nhân vật ra trận tiếp theo là Luuk Herssen, giúp Luuk Herssen hồi phục thêm <color=Highlight>Năng Lượng Đặc Biệt</color> và Năng Lượng Hiệp Tấu, hồi chiêu {0} giây.
-<size=10></size>
-<size=40><color=Title>Nhật Huy Che Chở</color></size>
-Khi ở trạng thái không chiến đấu quá {1} giây hoặc thi triển Kỹ Năng Biến Tấu, nhận {2} tầng [Nhật Huy Che Chở], giúp bản thân giảm sát thương phải chịu và miễn nhiễm gián đoạn trong thời gian ngắn.
-<size=10></size>
-<size=40><color=Title>Mưa Ánh Sáng Rơi Xuống</color></size>
-Khi thi triển Né Tránh trên không, phóng ra phi đao, gây <color=Light>Sát Thương Quang Phổ</color> cố định."
-lang_multi_text.db,MultiText,Skill_1004708_SkillDescribe,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc.
-lang_multi_text.db,MultiText,Skill_1004708_SkillName,巧手烹调,Skillful Cooking,Nấu Nướng Khéo Léo
-lang_multi_text.db,MultiText,Skill_1004708_SkillResume,当前角色烹饪时有概率产出特色料理,Has a chance to produce special dishes when cooking.,Khi nhân vật hiện tại nấu nướng có xác suất tạo ra món ăn đặc sắc.
-lang_multi_text.db,MultiText,Skill_1004709_SkillDescribe,造成陆·赫斯{0}攻击的<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color> equal to {0} Luuk Herssen's ATK.,Gây <color=Light>Sát Thương Quang Phổ</color> bằng {0} Tấn công của Luuk Herssen.
-lang_multi_text.db,MultiText,Skill_1004709_SkillName,致濒死以答,Nod to Dying Moment,Đáp Lời Cho Cận Tử
-lang_multi_text.db,MultiText,Skill_1004709_SkillResume,造成<color=Light>衍射伤害</color>。,Deal <color=Light>Spectro DMG</color>.,Gây <color=Light>Sát Thương Quang Phổ</color>.
-lang_multi_text.db,MultiText,Skill_1004710_SkillDescribe,"陆·赫斯拥有为目标附加<color=Highlight><te href=100003>【集谐·偏移】</te></color>的能力。
-陆·赫斯拥有响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>的能力。
-响应<color=Highlight><te href=100005>【集谐·干涉】</te></color>：目标每有一层<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果，陆·赫斯自身的每点谐度破坏增幅会使自身对该目标造成的最终伤害提升{1}。陆·赫斯在编队中时，目标的<color=Highlight><te href=100005>【集谐·干涉】</te></color>效果的层数上限增加{2}层。
-此外，目标<color=Highlight>【偏谐值】</color>满时，陆·赫斯可对其施放<color=Highlight><te href=100001>【谐度破坏】</te></color>。","Luuk Herssen can inflict <color=Highlight><te href=100003>Tune Strain - Shifting</te></color> on targets.
-Luuk Herssen can respond to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>.
-- Responding to <color=Highlight><te href=100005>Tune Strain - Interfered</te></color>: Every <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on the target increases Luuk Herssen's total DMG against them. Each point of Luuk Herssen's Tune Break Boost increases the total DMG by {1}. While Luuk Herssen is in the team, the max stack limit of <color=Highlight><te href=100005>Tune Strain - Interfered</te></color> on a target is increased by {2}.
-Additionally, when the target's <color=Highlight>Off-Tune Level</color> is full, Luuk can cast <color=Highlight><te href=100001>Tune Break</te></color> on the target.","Luuk Herssen có khả năng gắn <color=Highlight><te href=100003>[Tập Hài - Thiên Di]</te></color> cho mục tiêu.
-Luuk Herssen có khả năng phản hồi <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>.
-Phản hồi <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color>: Mỗi tầng hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> của mục tiêu, mỗi điểm Tăng Cường Phá Vỡ Hài Độ của bản thân Luuk Herssen sẽ khiến sát thương cuối cùng gây ra cho mục tiêu đó tăng {1}. Khi Luuk Herssen ở trong đội, giới hạn số tầng hiệu quả <color=Highlight><te href=100005>[Tập Hài - Can Thiệp]</te></color> của mục tiêu tăng thêm {2} tầng.
-Ngoài ra, khi <color=Highlight>[Trị Số Lệch Hài]</color> của mục tiêu đầy, Luuk Herssen có thể thi triển <color=Highlight><te href=100001>[Phá Vỡ Hài Độ]</te></color> lên mục tiêu."
-lang_multi_text.db,MultiText,Skill_1004710_SkillName,一场关于光的默辩,Silent Debate of Light,Cuộc Biện Luận Thầm Lặng Về Ánh Sáng
-lang_multi_text.db,MultiText,Skill_1004710_SkillResume,"陆·赫斯拥有为目标附加<color=Highlight>【集谐·偏移】</color>的能力。
-陆·赫斯拥有响应<color=Highlight>【集谐·干涉】</color>的能力。","Luuk Herssen can inflict <color=Highlight>Tune Strain - Shifting</color>.
-Luuk Herssen can respond to <color=Highlight>Tune Strain - Interfered</color>.","Luuk Herssen có khả năng gắn <color=Highlight>[Tập Hài - Thiên Di]</color> cho mục tiêu.
-Luuk Herssen có khả năng phản hồi <color=Highlight>[Tập Hài - Can Thiệp]</color>."
-lang_multi_text.db,MultiText,SkipTask_Prevent,当前界面无法进行跳转，请回到其他界面再尝试,You cannot navigate from the current interface. Please switch to another interface and try again.,"Giao diện hiện tại không thể điều hướng, vui lòng quay lại giao diện khác rồi thử lại"
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen1,击杀所有残象，获得“焚潮”加成,"Defeat all Tacet Discords to gain the ""Burning Waves"" buff.","Hạ gục tất cả Tàn Tượng, nhận buff ""Phần Triều"""
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen2,进入焚潮状态，<color=#fee388>暴击率提升至100%</color>,"Entering Burning Waves state, <color=#fee388>Crit. Rate is increased to 100%</color>.","Vào trạng thái Phần Triều, <color=#fee388>Tỷ lệ bạo kích tăng lên 100%</color>"
-lang_multi_text.db,MultiText,SlashAndTowerTip_Strengthen3,进入焚潮状态，<color=#fee388>共鸣能量回复至100%</color>,"Entering Burning Waves state, <color=#fee388>Resonance Energy is restored to 100%</color>.","Vào trạng thái Phần Triều, <color=#fee388>Năng lượng cộng hưởng hồi phục đến 100%</color>"
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text1,气动抗性增加20%,Increase Aero RES by 20%,Kháng Khí Động tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text2,导电抗性增加20%,Increase Electro RES by 20%,Kháng Điện Từ tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text3,热熔抗性增加20%,Increase Fusion RES by 20%,Kháng Hỏa Liệt tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text4,冷凝抗性增加20%,Increase Glacio RES by 20%,Kháng Ngưng Băng tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text5,湮灭抗性增加20%,Increase Havoc RES by 20%,Kháng Hủy Diệt tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagDesc_Text6,衍射抗性增加20%,Increase Spectro RES by 20%,Kháng Quang Phổ tăng 20%
-lang_multi_text.db,MultiText,SlashTowerTagName_Text1,气动抗性,Aero RES,Kháng Khí Động
-lang_multi_text.db,MultiText,SlashTowerTagName_Text2,导电抗性,Electro RES,Kháng Điện Từ
-lang_multi_text.db,MultiText,SlashTowerTagName_Text3,热熔抗性,Fusion RES,Kháng Hỏa Liệt
-lang_multi_text.db,MultiText,SlashTowerTagName_Text4,冷凝抗性,Glacio RES,Kháng Ngưng Băng
-lang_multi_text.db,MultiText,SlashTowerTagName_Text5,湮灭抗性,Havoc RES,Kháng Hủy Diệt
-lang_multi_text.db,MultiText,SlashTowerTagName_Text6,衍射抗性,Spectro RES,Kháng Quang Phổ
-lang_multi_text.db,MultiText,SmallAreaName,<size=36>{0}</size>,<size=36>{0}</size>,<size=36>{0}</size>
-lang_multi_text.db,MultiText,SoarWingSkin_EquipmentStatus_Equip,切换翱翔换影,Switch,Đổi Cánh Lượn
-lang_multi_text.db,MultiText,SoarWingSkin_EquipmentStatus_IsEquipped,切换翱翔换影,Switch,Đổi Cánh Lượn
-lang_multi_text.db,MultiText,SoldOut,已售罄,SOLD OUT,Đã bán hết
-lang_multi_text.db,MultiText,SortConfig_10_4_SortName,主属性防御力,Main: DEF,Dòng chính Phòng Thủ
-lang_multi_text.db,MultiText,SortConfig_11_4_SortName,主属性防御力百分比,Main: DEF%,Dòng chính %Phòng Thủ
-lang_multi_text.db,MultiText,SortConfig_12_4_SortName,主属性暴击率,Main: Crit. Rate,Dòng chính Tỷ Lệ Bạo Kích
-lang_multi_text.db,MultiText,SortConfig_13_1_SortName,危险等级,Sort by Threat Level,Mức độ nguy hiểm
-lang_multi_text.db,MultiText,SortConfig_13_4_SortName,主属性暴击伤害,Main: Crit. DMG,Dòng chính Sát Thương Bạo Kích
-lang_multi_text.db,MultiText,SortConfig_14_4_SortName,主属性治疗效果加成,Main: Healing Bonus,Dòng chính Hiệu Quả Trị Liệu
-lang_multi_text.db,MultiText,SortConfig_15_4_SortName,主属性物理伤害加成,Main: Physical DMG+,Dòng chính Tăng Sát Thương Vật Lý
-lang_multi_text.db,MultiText,SortConfig_16_SortName,已解锁图鉴,Show Recorded Entries,Đã mở khóa Thư Viện
-lang_multi_text.db,MultiText,SortConfig_17_SortName,图鉴编号,Sort by Index Number,Số hiệu Thư Viện
-lang_multi_text.db,MultiText,SortConfig_19_SortName,默认排序,Default,Mặc định
-lang_multi_text.db,MultiText,SortConfig_1_15_SortName,生命值,HP,HP
-lang_multi_text.db,MultiText,SortConfig_1_3_SortName,物品配置Id,Sort by Item ID,ID Cấu Hình Vật Phẩm
-lang_multi_text.db,MultiText,SortConfig_1_4_SortName,等级顺序,Sort by Level,Cấp độ
-lang_multi_text.db,MultiText,SortConfig_1_5_SortName,是否是食谱道具,Show Available Item First,Là công thức nấu ăn
-lang_multi_text.db,MultiText,SortConfig_1_6_SortName,是否是配方道具,Show Available Item First,Là công thức chế tạo
-lang_multi_text.db,MultiText,SortConfig_1_7_SortName,是否是配方道具,Show Available Item First,Là công thức chế tạo
-lang_multi_text.db,MultiText,SortConfig_1_8_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_1_9_SortName,是否可以印造,Show Available Item First,Có thể in ấn
-lang_multi_text.db,MultiText,SortConfig_1_SortName,等级顺序,Sort by Level,Cấp độ
-lang_multi_text.db,MultiText,SortConfig_21_SortName,品质排序,Sort by Quality,Phẩm chất
-lang_multi_text.db,MultiText,SortConfig_23_4_SortName,副属性生命值,Sub: HP,Dòng phụ HP
-lang_multi_text.db,MultiText,SortConfig_24_4_SortName,副属性生命值百分比,Sub: HP%,Dòng phụ %HP
-lang_multi_text.db,MultiText,SortConfig_25_4_SortName,副属性攻击力,Sub: ATK,Dòng phụ Tấn Công
-lang_multi_text.db,MultiText,SortConfig_26_4_SortName,副属性攻击力百分比,Sub: ATK%,Dòng phụ %Tấn Công
-lang_multi_text.db,MultiText,SortConfig_27_4_SortName,副属性防御力,Sub: DEF,Dòng phụ Phòng Thủ
-lang_multi_text.db,MultiText,SortConfig_28_4_SortName,副属性防御力百分比,Sub: DEF%,Dòng phụ %Phòng Thủ
-lang_multi_text.db,MultiText,SortConfig_28_SortName,主属性共鸣效率,Main: Energy Regen,Dòng chính Hiệu Suất Cộng Hưởng
-lang_multi_text.db,MultiText,SortConfig_29_4_SortName,副属性暴击率,Sub: Crit. Rate,Dòng phụ Tỷ Lệ Bạo Kích
-lang_multi_text.db,MultiText,SortConfig_2_15_SortName,生命值百分比,HP%,%HP
-lang_multi_text.db,MultiText,SortConfig_2_3_SortName,物品等级,Sort by Level,Cấp vật phẩm
-lang_multi_text.db,MultiText,SortConfig_2_4_SortName,调谐状态顺序,Sort by Tuning Status,Trạng thái Điều Chỉnh
-lang_multi_text.db,MultiText,SortConfig_2_5_SortName,是否可制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_2_6_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_2_7_SortName,是否可以制作,Show Available Item First,Có thể chế tạo
-lang_multi_text.db,MultiText,SortConfig_2_8_SortName,成品道具品阶,Sort by Rarity,Phẩm cấp thành phẩm
-lang_multi_text.db,MultiText,SortConfig_2_9_SortName,类型顺序,Sort by Type,Loại
-lang_multi_text.db,MultiText,SortConfig_30_4_SortName,副属性暴击伤害,Sub: Crit. DMG,Dòng phụ Sát Thương Bạo Kích
-lang_multi_text.db,MultiText,SortConfig_30_SortName,主属性冷凝伤害加成,Main: Glacio DMG+,Dòng chính Tăng Sát Thương Ngưng Băng
-lang_multi_text.db,MultiText,SortConfig_31_4_SortName,副属性治疗效果加成,Sub: Healing Bonus,Dòng phụ Hiệu Quả Trị Liệu
-lang_multi_text.db,MultiText,SortConfig_31_SortName,主属性热熔伤害加成,Main: Fusion DMG+,Dòng chính Tăng Sát Thương Hỏa Liệt
-lang_multi_text.db,MultiText,SortConfig_32_4_SortName,副属性物理伤害加成,Sub: Physical DMG+,Dòng phụ Tăng Sát Thương Vật Lý
-lang_multi_text.db,MultiText,SortConfig_32_SortName,主属性导电伤害加成,Main: Electro DMG+,Dòng chính Tăng Sát Thương Điện Từ
-lang_multi_text.db,MultiText,SortConfig_33_SortName,主属性气动伤害加成,Main: Aero DMG+,Dòng chính Tăng Sát Thương Khí Động
-lang_multi_text.db,MultiText,SortConfig_34_SortName,主属性衍射伤害加成,Main: Spectro DMG+,Dòng chính Tăng Sát Thương Quang Phổ
-lang_multi_text.db,MultiText,SortConfig_35_SortName,主属性湮灭伤害加成,Main: Havoc DMG+,Dòng chính Tăng Sát Thương Hủy Diệt
-lang_multi_text.db,MultiText,SortConfig_3_15_SortName,攻击力,ATK,Tấn Công
-lang_multi_text.db,MultiText,SortConfig_3_3_SortName,物品品质,Sort by Rarity,Phẩm chất vật phẩm
+lang_multi_text.db,MultiText,Speaker_136_Name,淘淘,Taotao,Đào Đào
+lang_multi_text.db,MultiText,Speaker_138_Name,思哲,Sizhe,Tư Triết
+lang_multi_text.db,MultiText,Speaker_140_Name,1号演员,Actor No. 1,Diễn viên 1
+lang_multi_text.db,MultiText,Speaker_141_Name,2号演员,Actor No. 2,Diễn viên 2
+lang_multi_text.db,MultiText,Speaker_142_Name,3号演员,Actor No. 3,Diễn viên 3
+lang_multi_text.db,MultiText,Speaker_143_Name,4号演员,Actor No. 4,Diễn viên 4
+lang_multi_text.db,MultiText,Speaker_144_Name,5号演员,Actor No. 5,Diễn viên 5
+lang_multi_text.db,MultiText,Speaker_145_Name,6号演员,Actor 6,Diễn viên 6
+lang_multi_text.db,MultiText,Speaker_146_Name,7号演员,Actor 7,Diễn viên 7
+lang_multi_text.db,MultiText,Speaker_147_Name,8号演员,Actor 8,Diễn viên 8
+lang_multi_text.db,MultiText,Speaker_148_Name,9号演员,Actor 9,Diễn viên 9
+lang_multi_text.db,MultiText,Speaker_149_Name,10号演员,Actor 10,Diễn viên 10
+lang_multi_text.db,MultiText,Speaker_150_Name,未知信号,Unknown Signal,Tín hiệu không xác định
+lang_multi_text.db,MultiText,Speaker_153_Name,？,?,?
+lang_multi_text.db,MultiText,Speaker_154_Name,吴老五,Wu Laowu,Ngô Lão Ngũ
+lang_multi_text.db,MultiText,Speaker_155_Name,兹先生,Mr. Zi,Ông Tư
+lang_multi_text.db,MultiText,Speaker_156_Name,工人A,Worker A,Công nhân A
+lang_multi_text.db,MultiText,Speaker_157_Name,工人B,Worker B,Công nhân B
+lang_multi_text.db,MultiText,Speaker_158_Name,工人C,Worker C,Công nhân C
+lang_multi_text.db,MultiText,Speaker_168_Name,逸竹,Yizhu,Dật Trúc
+lang_multi_text.db,MultiText,Speaker_169_Name,乘驰,Chengchi,Thừa Trì
+lang_multi_text.db,MultiText,Speaker_170_Name,森甫,Senfu,Sâm Phủ
+lang_multi_text.db,MultiText,Speaker_171_Name,电码,Code,Điện mã
+lang_multi_text.db,MultiText,Speaker_172_Name,信波,Signal,Sóng tín hiệu
+lang_multi_text.db,MultiText,Speaker_173_Name,燕雷,Yanlei,Yến Lôi
+lang_multi_text.db,MultiText,Speaker_178_Name,？？？,???,???
+lang_multi_text.db,MultiText,Speaker_180_Name,阿索,Suo,A Tác
+lang_multi_text.db,MultiText,Speaker_181_Name,砚铭,Yanming,Nghiên Minh
+lang_multi_text.db,MultiText,Speaker_182_Name,凌阳,Lingyang,Lingyang
+lang_multi_text.db,MultiText,Speaker_183_Name,红衣男子,Man in Red,Nam tử áo đỏ
+lang_multi_text.db,MultiText,Speaker_184_Name,大维,David,Đại Duy
+lang_multi_text.db,MultiText,Speaker_185_Name,一心,Yixin,Nhất Tâm
+lang_multi_text.db,MultiText,Speaker_186_Name,今汐,Jinhsi,Jinhsi
+lang_multi_text.db,MultiText,Speaker_187_Name,露露,Lulu,Lộ Lộ
+lang_multi_text.db,MultiText,Speaker_188_Name,云伯,Uncle Yun,Bác Vân
+lang_multi_text.db,MultiText,Speaker_189_Name,洛泽,Luoze,Lạc Trạch
+lang_multi_text.db,MultiText,Speaker_190_Name,晴虹,Qinghong,Tình Hồng
+lang_multi_text.db,MultiText,Speaker_191_Name,白苍,Baicang,Bạch Thương
+lang_multi_text.db,MultiText,Speaker_192_Name,马和,Mahe,Mã Hòa
+lang_multi_text.db,MultiText,Speaker_192_Title,「马和杂货」店主,Mahe's Grocery Vendor,"Chủ tiệm ""Tạp Hóa Mã Hòa"""
+lang_multi_text.db,MultiText,Speaker_193_Name,攀花,Panhua,Phan Hoa
+lang_multi_text.db,MultiText,Speaker_193_Title,「攀花饭馆」店主,Panhua's Restaurant Owner,"Chủ tiệm ""Quán Ăn Phan Hoa"""
+lang_multi_text.db,MultiText,Speaker_194_Name,一壶,Yihu,Nhất Hồ
+lang_multi_text.db,MultiText,Speaker_195_Name,康玖,Kangjiu,Khang Cửu
+lang_multi_text.db,MultiText,Speaker_196_Name,玉昆,Yukun,Ngọc Côn
+lang_multi_text.db,MultiText,Speaker_196_Title,「六羡茶行」伙计,Liuxian Teahouse Server,"Nhân viên ""Tiệm Trà Lục Tiện"""
+lang_multi_text.db,MultiText,Speaker_197_Name,品雯,Pinwen,Phẩm Văn
+lang_multi_text.db,MultiText,Speaker_198_Name,珏婆婆,Grandma Jue,Bà Giác
+lang_multi_text.db,MultiText,Speaker_199_Name,擎如,Qinru,Kình Như
+lang_multi_text.db,MultiText,Speaker_200_Name,琅生,Langsheng,Lang Sinh
+lang_multi_text.db,MultiText,Speaker_201_Name,马琪,Maqi,Mã Kỳ
+lang_multi_text.db,MultiText,Speaker_201_Title,「先行公约」接待员,Pioneer Association Receptionist,"Tiếp tân ""Hiệp Ước Tiên Phong"""
+lang_multi_text.db,MultiText,Speaker_202_Name,纤晨,Xianchen,Tiêm Thần
+lang_multi_text.db,MultiText,Speaker_203_Name,朱毅,Zhuyi,Chu Nghị
+lang_multi_text.db,MultiText,Speaker_204_Name,阿达,Da,A Đạt
+lang_multi_text.db,MultiText,Speaker_205_Name,阿伟,Wei,A Vĩ
+lang_multi_text.db,MultiText,Speaker_206_Name,铭铭,Mingming,Minh Minh
+lang_multi_text.db,MultiText,Speaker_207_Name,高伯,Uncle Gao,Bác Cao
+lang_multi_text.db,MultiText,Speaker_208_Name,青禾,Qinghe,Thanh Hòa
+lang_multi_text.db,MultiText,Speaker_209_Name,斜阳,Xieyang,Tà Dương
+lang_multi_text.db,MultiText,Speaker_210_Name,怜月,Lianyue,Liên Nguyệt
+lang_multi_text.db,MultiText,Speaker_210_Title,文学少女,Bookworm Girl,Cô gái văn học
+lang_multi_text.db,MultiText,Speaker_211_Name,小宝,Xiaobao,Tiểu Bảo
+lang_multi_text.db,MultiText,Speaker_212_Name,俊妍,Junyan,Tuấn Nghiên
+lang_multi_text.db,MultiText,Speaker_213_Name,董叔,Uncle Dong,Chú Đổng
+lang_multi_text.db,MultiText,Speaker_214_Name,将生,Jiangsheng,Tương Sinh
+lang_multi_text.db,MultiText,Speaker_215_Name,亚楠,Ya'nan,Á Nam
+lang_multi_text.db,MultiText,Speaker_216_Name,萱萱,Xuanxuan,Huyên Huyên
+lang_multi_text.db,MultiText,Speaker_217_Name,崇妄,Congwang,Sùng Vọng
+lang_multi_text.db,MultiText,Speaker_218_Name,桦林,Hualin,Hoa Lâm
+lang_multi_text.db,MultiText,Speaker_220_Name,阳明,Yangming,Dương Minh
+lang_multi_text.db,MultiText,Speaker_221_Name,芊芊,Qianqian,Thiên Thiên
+lang_multi_text.db,MultiText,Speaker_222_Name,阿牛,Niu,A Ngưu
+lang_multi_text.db,MultiText,Speaker_223_Name,建邺,Jianye,Kiến Nghiệp
+lang_multi_text.db,MultiText,Speaker_224_Name,骊珠,Lizhu,Ly Châu
+lang_multi_text.db,MultiText,Speaker_225_Name,小九,Jiu,Tiểu Cửu
+lang_multi_text.db,MultiText,Speaker_226_Name,穆蓝,Mulan,Mục Lam
+lang_multi_text.db,MultiText,Speaker_227_Name,凌风,Lingfeng,Lăng Phong
+lang_multi_text.db,MultiText,Speaker_228_Name,德彪,Debiao,Đức Bưu
+lang_multi_text.db,MultiText,Speaker_229_Name,诗雨,Shiyu,Thi Vũ
+lang_multi_text.db,MultiText,Speaker_230_Name,傲梅,Aomei,Ngạo Mai
+lang_multi_text.db,MultiText,Speaker_232_Name,寒溟,Hanming,Hàn Minh
+lang_multi_text.db,MultiText,Speaker_233_Name,夜夜,Yeye,Dạ Dạ
+lang_multi_text.db,MultiText,Speaker_233_Title,「渊武拳馆」伙计,Yuanwu Boxing Gym Assistant,"Nhân viên ""Võ Quán Uyên Vũ"""
+lang_multi_text.db,MultiText,Speaker_234_Name,清溪,Qingxi,Thanh Khê
+lang_multi_text.db,MultiText,Speaker_235_Name,团锦,Tuanjin,Đoàn Cẩm
+lang_multi_text.db,MultiText,Speaker_236_Name,康健,Kangjian,Khang Kiện
+lang_multi_text.db,MultiText,Speaker_237_Name,破晓,Po'xiao,Phá Hiểu
+lang_multi_text.db,MultiText,Speaker_238_Name,婵雪,Chanxue,Thiền Tuyết
+lang_multi_text.db,MultiText,Speaker_239_Name,鼎丰,Dingfeng,Đỉnh Phong
+lang_multi_text.db,MultiText,Speaker_240_Name,英达,Yingda,Anh Đạt
+lang_multi_text.db,MultiText,Speaker_241_Name,沉碧,Chenbi,Trầm Bích
+lang_multi_text.db,MultiText,Speaker_242_Name,树赫,Shuhe,Thụ Hách
+lang_multi_text.db,MultiText,Speaker_243_Name,子恒,Ziheng,Tử Hằng
+lang_multi_text.db,MultiText,Speaker_244_Name,白驹,Baiju,Bạch Câu
+lang_multi_text.db,MultiText,Speaker_245_Name,景煜,Jingyu,Cảnh Dục
+lang_multi_text.db,MultiText,Speaker_246_Name,连珂,Lianke,Liên Kha
+lang_multi_text.db,MultiText,Speaker_247_Name,怀瑾,Huaijin,Hoài Cẩn
+lang_multi_text.db,MultiText,Speaker_248_Name,银杏,Yinxing,Ngân Hạnh
+lang_multi_text.db,MultiText,Speaker_249_Name,石头,Shitou,Thạch Đầu

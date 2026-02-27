@@ -1,128 +1,111 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ConfirmBox_170_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_171_Content,开启消息推送需要获取您的应用通知权限,"To use the push notification function, please enable notification permission.",Bật thông báo đẩy cần cấp quyền thông báo ứng dụng của bạn
-lang_multi_text.db,MultiText,ConfirmBox_172_Content,可在<color=HighlightB>共鸣者-属性详情</color>界面突破共鸣者的等阶。,Increase Resonator Ascension Rank in the <color=HighlightB>Resonator - Overview</color> page.,Có thể đột phá cấp bậc Cộng Hưởng Giả tại giao diện <color=HighlightB>Cộng Hưởng Giả - Chi Tiết Thuộc Tính</color>.
-lang_multi_text.db,MultiText,ConfirmBox_172_Title,共鸣者突破,Resonator Ascension,Đột phá Cộng Hưởng Giả
-lang_multi_text.db,MultiText,ConfirmBox_173_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_173_Content,<color=#8c7e51>{0}</color>背包已满，请前往进行数据回收,<color=#8c7e51>{0}</color> section is full. Please remove items first.,"Túi <color=#8c7e51>{0}</color> đã đầy, vui lòng tiến hành thu hồi dữ liệu"
-lang_multi_text.db,MultiText,ConfirmBox_173_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_174_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_174_Content,以上物品已过期,The above items have expired,Các vật phẩm trên đã hết hạn
-lang_multi_text.db,MultiText,ConfirmBox_174_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_175_ButtonText_0,前往突破,Proceed,Đến đột phá
-lang_multi_text.db,MultiText,ConfirmBox_175_Content,"索拉等级的提升取决于联觉等级。<color=HighlightB>联觉等级每提升10级，索拉等级相应提升1阶。</color>
+lang_multi_text.db,MultiText,ConfirmBox_49_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_49_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_49_Content,"是否删除所有已读邮件？
+重要邮件以及附件未领取邮件会被保留","Delete all read messages?
+Important messages and unclaimed attachments will be retained","Có xóa tất cả thư đã đọc không?
+Thư quan trọng và thư có đính kèm chưa nhận sẽ được giữ lại"
+lang_multi_text.db,MultiText,ConfirmBox_49_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_50_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_50_Content,{0},{0},{0}
+lang_multi_text.db,MultiText,ConfirmBox_50_Title,停服公告,Server Shutdown Notice,Thông báo bảo trì
+lang_multi_text.db,MultiText,ConfirmBox_51_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_51_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_51_Content,退出游戏,Exit the game and return to the title screen?,Thoát game
+lang_multi_text.db,MultiText,ConfirmBox_51_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_52_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_52_Content,名字最长为6个汉字或12个字母,The name can be up to 6 Chinese characters or 12 letters,Tên dài tối đa 6 ký tự tiếng Trung hoặc 12 chữ cái
+lang_multi_text.db,MultiText,ConfirmBox_52_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_53_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_53_Content,输入内容中含有敏感字符，请修改后重试。,"The input contains sensitive characters, please modify and try again.","Nội dung nhập có chứa ký tự nhạy cảm, vui lòng sửa lại và thử lại."
+lang_multi_text.db,MultiText,ConfirmBox_53_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_54_ButtonText_0,退出,Exit,Thoát
+lang_multi_text.db,MultiText,ConfirmBox_54_Content,当前客户端版本不匹配，请检查客户端版本。,Incorrect client version. Please verify your client.,"Phiên bản client hiện tại không khớp, vui lòng kiểm tra phiên bản client."
+lang_multi_text.db,MultiText,ConfirmBox_54_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_55_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_55_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_55_Content,请确认是否恢复默认设置,Please confirm whether to restore the default settings,Vui lòng xác nhận có khôi phục cài đặt mặc định không
+lang_multi_text.db,MultiText,ConfirmBox_55_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_56_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_56_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_56_Content,解除与{0}的好友关系,Do you wish to unfriend {0}?,Hủy kết bạn với {0}
+lang_multi_text.db,MultiText,ConfirmBox_56_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_57_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_57_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_57_Content,将{0}加入黑名单,Do you wish to add {0} to Blocklist?,Thêm {0} vào danh sách đen
+lang_multi_text.db,MultiText,ConfirmBox_57_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_58_ButtonText_0,不保存,Don't save,Không lưu
+lang_multi_text.db,MultiText,ConfirmBox_58_ButtonText_1,保存,Save,Lưu
+lang_multi_text.db,MultiText,ConfirmBox_58_Content,保存已更改的方案,Save the changed plan,Lưu phương án đã thay đổi
+lang_multi_text.db,MultiText,ConfirmBox_58_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_59_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_59_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_59_Content,确认忽略全部好友申请,Confirm to ignore all friend requests,Xác nhận bỏ qua tất cả lời mời kết bạn
+lang_multi_text.db,MultiText,ConfirmBox_59_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_60_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_60_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_60_Content,"缺少<color=#8c7e51>{0}</color>个{1}
+点击确认可前往商城进行补充。","Lacking <color=#8c7e51>{0}</color> {1}
 
-联觉等级达到<color=HighlightB>20、40、60级</color>时，需要完成<color=HighlightB>索拉等级突破任务</color>，才能进一步提升联觉等级。
-
-如未完成对应的等级突破任务，联觉等级将达到上限，也无法进一步提升索拉等级。
-
-前往任务界面，完成索拉等级突破任务，解锁联觉等级上限。","SOL3 Phase is raised through Union Level. <color=HighlightB>Every 10 Union Levels raises SOL3 Phase by 1.</color>
-
-Once you've reached Union Levels <color=HighlightB>20, 40, and 60</color>, complete the corresponding <color=HighlightB>Phase Ascension</color> quests to further increase your Union Level.
-
-If you haven't completed the corresponding Phase Ascension quest, SOL3 Phase cannot be raised when your Union Level reaches the cap.
-
-Proceed to the Quests menu to complete the Phase Ascension quest, raising the Union Level cap.","Việc tăng Cấp Sola phụ thuộc vào Cấp Liên Giác. <color=HighlightB>Mỗi khi Cấp Liên Giác tăng 10 cấp, Cấp Sola sẽ tăng tương ứng 1 bậc.</color>
-
-Khi Cấp Liên Giác đạt <color=HighlightB>20, 40, 60</color>, cần hoàn thành <color=HighlightB>nhiệm vụ đột phá Cấp Sola</color> mới có thể tiếp tục tăng Cấp Liên Giác.
-
-Nếu chưa hoàn thành nhiệm vụ đột phá cấp tương ứng, Cấp Liên Giác sẽ đạt giới hạn và cũng không thể tăng Cấp Sola thêm nữa.
-
-Đến giao diện nhiệm vụ, hoàn thành nhiệm vụ đột phá Cấp Sola để mở khóa giới hạn Cấp Liên Giác."
-lang_multi_text.db,MultiText,ConfirmBox_175_Title,提升索拉等级,SOL3 Phase Level,Tăng Cấp Sola
-lang_multi_text.db,MultiText,ConfirmBox_176_Content,领取奖励需要消耗{0}点结晶波片，当前拥有{1}点，是否继续？,Consuming {0} Waveplates to claim the rewards. You currently have {1} Waveplates. Continue?,"Nhận thưởng cần tiêu hao {0} điểm Tiêu Âm Tinh Thể, hiện có {1} điểm, có tiếp tục không?"
-lang_multi_text.db,MultiText,ConfirmBox_176_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_177_ButtonText_0,返回继续,Return,Quay lại tiếp tục
-lang_multi_text.db,MultiText,ConfirmBox_177_Content,检测到操作模式切换，建议完成当前教学后再切换操作模式,Operation mode switch detected. Please complete current teaching before switching operation mode.,"Phát hiện chuyển đổi chế độ thao tác, kiến nghị hoàn thành hướng dẫn hiện tại rồi mới chuyển chế độ thao tác"
-lang_multi_text.db,MultiText,ConfirmBox_177_Title,模式切换,Mode Switch,Chuyển chế độ
-lang_multi_text.db,MultiText,ConfirmBox_178_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_178_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_178_Content,每周可获取经验值即将超出上限，溢出经验无法转换为任何奖励，请确认是否继续领取？,Max Weekly Limit. You will not get any rewards. Do you wish to claim?,"Điểm kinh nghiệm nhận được hàng tuần sắp vượt giới hạn, kinh nghiệm dư thừa không thể chuyển đổi thành bất kỳ phần thưởng nào, vui lòng xác nhận có tiếp tục nhận không?"
-lang_multi_text.db,MultiText,ConfirmBox_178_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_179_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_179_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_179_Content,是否确认重置所有按键,Do you wish to reset all to default?,Có xác nhận đặt lại tất cả các phím không
-lang_multi_text.db,MultiText,ConfirmBox_17_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
-lang_multi_text.db,MultiText,ConfirmBox_17_Title,强化提示,Enhance Tips,Nhắc nhở cường hóa
-lang_multi_text.db,MultiText,ConfirmBox_180_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_180_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_180_Content,完整观看剧情更有助于了解故事发展，是否确认跳过？,Story Skip may hinder your understanding of the story's progression. Are you sure you want to proceed?,"Xem trọn vẹn cốt truyện sẽ giúp hiểu rõ diễn biến câu chuyện hơn, xác nhận bỏ qua không?"
-lang_multi_text.db,MultiText,ConfirmBox_180_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_181_Content,即将进入长线任务流程，离开指定区域会中断当前任务流程，后续可从最后的存档点处继续体验。,"You are about to start a long questline. Your progress will be interrupted and saved if you leave the designated area during the quest. When you return, you can resume this quest from the last checkpoint.","Sắp vào chuỗi nhiệm vụ dài, rời khỏi khu vực chỉ định sẽ làm gián đoạn tiến trình nhiệm vụ hiện tại, sau đó có thể tiếp tục trải nghiệm từ điểm lưu trữ cuối cùng."
-lang_multi_text.db,MultiText,ConfirmBox_182_Content,即将离开任务区域。如离开任务区域，将中断当前任务流程，后续可从最后的存档点处继续体验。,Leaving the quest area will end your progress and save it. You can resume from the last archive point when you return.,"Sắp rời khỏi khu vực nhiệm vụ. Nếu rời khỏi khu vực nhiệm vụ, sẽ làm gián đoạn tiến trình nhiệm vụ hiện tại, sau đó có thể tiếp tục trải nghiệm từ điểm lưu trữ cuối cùng."
-lang_multi_text.db,MultiText,ConfirmBox_183_Content,已离开任务区域，任务流程中断。是否选择传送至最后的存档点？,You have left the quest area. Your current quest progress has been ended and archived. Resume this quest from the last archive point?,"Đã rời khỏi khu vực nhiệm vụ, tiến trình nhiệm vụ bị gián đoạn. Có chọn dịch chuyển đến điểm lưu trữ cuối cùng không?"
-lang_multi_text.db,MultiText,ConfirmBox_184_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_184_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_184_Content,潮汐觅闻已刷新， 勘察任务已重置,Wuthering Exploration's Survey Tasks have been refreshed,"Dấu Vết Thủy Triều đã làm mới, nhiệm vụ khảo sát đã được đặt lại"
-lang_multi_text.db,MultiText,ConfirmBox_184_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_185_Content,客户端需要更新，请重新登录游戏。,Please log in again for the client updates to be applied.,"Client cần cập nhật, vui lòng đăng nhập lại game."
-lang_multi_text.db,MultiText,ConfirmBox_185_Title,更新,Update,Cập nhật
-lang_multi_text.db,MultiText,ConfirmBox_186_Content,"正在清除，请耐心等待
-清除完成后将会重新启动游戏","Removal in progress... Please wait...
-The game will restart once the removal is complete.","Đang xóa, vui lòng kiên nhẫn chờ đợi
-Sau khi xóa xong sẽ khởi động lại game"
-lang_multi_text.db,MultiText,ConfirmBox_186_Title,清除补丁,Remove Patches,Xóa bản vá
-lang_multi_text.db,MultiText,ConfirmBox_189_Content,检测到您的驱动程序版本较低，为确保最佳画质和性能，建议安装最新的驱动程序,Out of date driver detected. Please update to the latest driver version for optimal graphics and performance.,"Phát hiện phiên bản driver của bạn thấp, để đảm bảo chất lượng hình ảnh và hiệu suất tốt nhất, kiến nghị cài đặt driver mới nhất"
-lang_multi_text.db,MultiText,ConfirmBox_189_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_18_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
-lang_multi_text.db,MultiText,ConfirmBox_18_Title,装备提示,Equipment Tips,Nhắc nhở trang bị
-lang_multi_text.db,MultiText,ConfirmBox_190_Content,完成潮汐任务第一章第七幕「往岁乘霄醒惊蛰」后体验更佳，是否继续前往当前活动？,"You'll have a better experience if you complete Main Quest ""Thaw of Eons"" first. Go to this event anyway?","Hoàn thành Nhiệm Vụ Thủy Triều chương 1 màn 7 ""Ngày Xưa Vụt Tắt Cơn Mê"" sẽ có trải nghiệm tốt hơn, có tiếp tục đến sự kiện hiện tại không?"
-lang_multi_text.db,MultiText,ConfirmBox_190_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_195_ButtonText_0,确定,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_195_ButtonText_1,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_195_Content,通过<color=#c19f51>运营邮件</color>可获得「潮声答谢券」。,"You can obtain the ""Voucher of Reciprocal Tides"" via <color=#c19f51>in-game mail</color>.","Có thể nhận ""Vé Tri Ân Triều Thanh"" qua <color=#c19f51>Thư Điều Hành</color>."
-lang_multi_text.db,MultiText,ConfirmBox_195_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_196_Content,解锁该心愿委托需要建造「{0}」，是否前往解锁？,You need to set up {0} to unlock this Wish. Unlock it now?,"Mở khóa ủy thác tâm nguyện này cần xây dựng ""{0}"", có đi mở khóa không?"
-lang_multi_text.db,MultiText,ConfirmBox_197_Content,是否前往查看关联任务？,View associated quests now?,Có đi xem nhiệm vụ liên quan không?
-lang_multi_text.db,MultiText,ConfirmBox_198_Content,解锁该任务需要建造「{0}」，是否前往解锁？,You need to set up {0} to unlock this quest. Unlock it now?,"Mở khóa nhiệm vụ này cần xây dựng ""{0}"", có đi mở khóa không?"
-lang_multi_text.db,MultiText,ConfirmBox_199_Content,解锁该心愿委托需要完成任务「{0}」，是否前往解锁？,You need to complete the quest {0} to unlock this Wish. Unlock it now?,"Mở khóa ủy thác tâm nguyện này cần hoàn thành nhiệm vụ ""{0}"", có đi mở khóa không?"
-lang_multi_text.db,MultiText,ConfirmBox_19_Content,存在异常，如有疑问请联系官方客服。,"There is an exception, if you have any questions, please contact the official customer service.","Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
-lang_multi_text.db,MultiText,ConfirmBox_19_Title,转录确认,Transcription Confirm,Xác nhận chuyển hóa
-lang_multi_text.db,MultiText,ConfirmBox_1_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_1_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_1_Content,武器强化材料中包含<color=#8c7e51>{0}</color>、<color=#8c7e51>{1}</color>和<color=#8c7e51>{2}</color>的武器，请确认是否继续？,"The selected material includes a <color=#8c7e51>{0}</color>, <color=#8c7e51>{1}</color> and <color=#8c7e51>{2}</color> weapon. Please confirm whether to continue?","Trong nguyên liệu cường hóa vũ khí có chứa vũ khí <color=#8c7e51>{0}</color>, <color=#8c7e51>{1}</color> và <color=#8c7e51>{2}</color>, vui lòng xác nhận có tiếp tục không?"
-lang_multi_text.db,MultiText,ConfirmBox_1_Content_Special,武器强化材料中包含<color=#8c7e51>{0}</color>、<color=#8c7e51>{1}</color>和<color=#8c7e51>{2}</color>的武器，且本次强化的材料溢出，将转化为以下材料，请确认是否继续？,"The selected materials include <color=#8c7e51>{0}</color>, <color=#8c7e51>{1}</color>, and <color=#8c7e51>{2}</color> weapons. Excess EXP from this upgrade will be returned to you as the following material(s). Do you wish to continue?","Trong nguyên liệu cường hóa vũ khí có chứa vũ khí <color=#8c7e51>{0}</color>, <color=#8c7e51>{1}</color> và <color=#8c7e51>{2}</color>, và nguyên liệu cường hóa lần này bị dư, sẽ chuyển thành các nguyên liệu sau, vui lòng xác nhận có tiếp tục không?"
-lang_multi_text.db,MultiText,ConfirmBox_1_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_200_Content,索拉等级与声之领域推荐等级差距过大，<color=Highlight>无法掉落任何声骸</color>，是否确认进入？,Your current SOL3 Phase is significantly higher than the recommended level for this Sonoro Sphere. You will <color=Highlight>NOT obtain any Echoes</color>. Proceed anyway?,"Chênh lệch giữa Cấp Sola và cấp đề xuất của Vùng Âm Thanh quá lớn, <color=Highlight>không thể rơi bất kỳ Thanh Hài nào</color>, xác nhận vào không?"
-lang_multi_text.db,MultiText,ConfirmBox_201_Content,"筹划点数不足，可前往「携手邀明月」完成任务获得筹划点数，是否前往?
-<color=#c49e55>筹划点数在每日凌晨4:00自动恢复至上限100</color>","Insufficient Preparation Credits. Go to Festival Journal and complete quests to obtain Preparation Credits?
-<color=#c49e55>Preparation Credits are fully replenished to 100 every day at 04:00 am</color>","Điểm trù hoạch không đủ, có thể đến ""Cùng Ngắm Trăng Sáng"" hoàn thành nhiệm vụ để nhận điểm trù hoạch, có đi không?
-<color=#c49e55>Điểm trù hoạch tự động hồi phục đến giới hạn 100 vào 4:00 sáng mỗi ngày</color>"
-lang_multi_text.db,MultiText,ConfirmBox_202_Content,经营资金不足，请重新选择可接取的心愿委托,Insufficient Funds. Please select a Wish that you can accept.,"Vốn kinh doanh không đủ, vui lòng chọn lại ủy thác tâm nguyện có thể nhận"
-lang_multi_text.db,MultiText,ConfirmBox_203_Content,已长时间离开游戏，点击确认重新登录,You have left the game for a while. Tap confirm to log in again.,"Đã rời game thời gian dài, nhấn xác nhận để đăng nhập lại"
-lang_multi_text.db,MultiText,ConfirmBox_204_Content,完成所有摊位建造后可解锁。,Set up all Fair Stalls to unlock.,Có thể mở khóa sau khi hoàn thành xây dựng tất cả gian hàng.
-lang_multi_text.db,MultiText,ConfirmBox_205_ButtonText_0,跳转,Go,Chuyển đến
-lang_multi_text.db,MultiText,ConfirmBox_205_Content,经营资金不足，可通过完成心愿委托获取,Insufficient Funds. Complete Wishes to get more.,"Vốn kinh doanh không đủ, có thể nhận thông qua hoàn thành ủy thác tâm nguyện"
-lang_multi_text.db,MultiText,ConfirmBox_206_Content,心愿不足，可通过完成心愿委托获取,Insufficient Wish Tags. Complete Wishes to get more.,"Tâm nguyện không đủ, có thể nhận thông qua hoàn thành ủy thác tâm nguyện"
-lang_multi_text.db,MultiText,ConfirmBox_207_ButtonText_0,确定,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_207_Content,登录已失效，请重新登录账号,Sign-in expired. Please sign in again.,"Đăng nhập đã hết hạn, vui lòng đăng nhập lại tài khoản"
-lang_multi_text.db,MultiText,ConfirmBox_207_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_208_ButtonText_0,重试,Retry,Thử lại
-lang_multi_text.db,MultiText,ConfirmBox_208_Content,网络异常，请检测后重试,"Network error, please check your connection and try again later.","Mạng bất thường, vui lòng kiểm tra rồi thử lại"
-lang_multi_text.db,MultiText,ConfirmBox_209_Content,启动游戏失败，请检查“PlayStation Network”的账号在线状态！,Failed to start the game. Please check the login status of your account for PlayStation™Network!,"Khởi động game thất bại, vui lòng kiểm tra trạng thái online tài khoản ""PlayStation Network""!"
-lang_multi_text.db,MultiText,ConfirmBox_20_Content,存在异常，如有疑问请联系官方客服。,An error happened. Please contact Customer Service,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
-lang_multi_text.db,MultiText,ConfirmBox_20_Title,转录确认,Transcription Confirm,Xác nhận chuyển hóa
-lang_multi_text.db,MultiText,ConfirmBox_211_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_211_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_211_Content,您即将进入一个独立的任务流程，在该任务完成前将无法进行联机，是否确认继续进行任务流程？,"You are about to enter an independent storyline, where co-op mode is temporarily disabled. Confirm to proceed?","Bạn sắp bước vào một quy trình nhiệm vụ độc lập, trước khi hoàn thành nhiệm vụ này sẽ không thể liên cơ, có xác nhận tiếp tục quy trình nhiệm vụ không?"
-lang_multi_text.db,MultiText,ConfirmBox_211_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_212_ButtonText_0,暂不,Cancel,Tạm thời không
-lang_multi_text.db,MultiText,ConfirmBox_212_Content,"检测到已连接控制器设备，是否切换至控制器模式？
-（在<color=Highlight>系统设置</color> →<color=Highlight>按键</color> 界面中可进行切换）","Controller detected. Switch to the Controller mode?
-(You may switch manually via <color=Highlight>Settings</color> - <color=Highlight>Key Bindings</color>)","Phát hiện đã kết nối thiết bị tay cầm, có chuyển sang chế độ tay cầm không?
-(Có thể chuyển đổi trong giao diện <color=Highlight>Cài Đặt Hệ Thống</color> → <color=Highlight>Phím</color>)"
-lang_multi_text.db,MultiText,ConfirmBox_212_Title,操作模式切换,Switch Operation Mode,Chuyển chế độ thao tác
-lang_multi_text.db,MultiText,ConfirmBox_213_ButtonText_0,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_213_Content,找不到商品信息,Item information not found,Không tìm thấy thông tin hàng hóa
-lang_multi_text.db,MultiText,ConfirmBox_213_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_214_ButtonText_0,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_214_Content,网络异常，请检测后重试！,Network error. Please check your connection and try again.,"Mạng bất thường, vui lòng kiểm tra rồi thử lại!"
-lang_multi_text.db,MultiText,ConfirmBox_214_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_215_ButtonText_0,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_215_Content,设备性能负载过高，为避免严重发热/卡顿，建议您调整图像设置,"Device performance is overloaded. To avoid serious overheating or lagging, please adjust your graphics settings.","Hiệu suất thiết bị quá tải, để tránh nóng/giật nghiêm trọng, kiến nghị bạn điều chỉnh cài đặt hình ảnh"
-lang_multi_text.db,MultiText,ConfirmBox_215_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_216_ButtonText_0,取消,Cancel,Hủy
-lang_multi_text.db,MultiText,ConfirmBox_216_ButtonText_1,确认,Confirm,Xác nhận
-lang_multi_text.db,MultiText,ConfirmBox_216_Content,是否快速旅行至附近信标并追踪目标,Do you want to Fast Travel to the nearest Resonance Beacon and track the target?,Có du hành nhanh đến Tín Hiệu gần đó và theo dõi mục tiêu không
-lang_multi_text.db,MultiText,ConfirmBox_216_Title,提示,Notice,Nhắc nhở
-lang_multi_text.db,MultiText,ConfirmBox_217_ButtonText_0,退出副本,Exit,Thoát phó bản
+Click confirm to go to the Store for replenishment.","Thiếu <color=#8c7e51>{0}</color> cái {1}
+Nhấn xác nhận để đến cửa hàng bổ sung."
+lang_multi_text.db,MultiText,ConfirmBox_60_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_61_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_61_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_61_Content,"缺少<color=#8c7e51>{0}</color>个{1}
+请确认是否消耗<color=#8c7e51>{2}</color>{3}购买。","<color=#8c7e51>{0}</color> {1}s required.
+Would you like to purchase with <color=#8c7e51>{2}</color> {3}s?","Thiếu <color=#8c7e51>{0}</color> cái {1}
+Vui lòng xác nhận có tiêu hao <color=#8c7e51>{2}</color> {3} để mua không."
+lang_multi_text.db,MultiText,ConfirmBox_61_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_62_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_62_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_62_Content,{0}不足，点击确认可使用{1}等量兑换{2}。,Insufficient {0}s. Would you like to consume {1}s to exchange for the required amount of {2}s?,"{0} không đủ, nhấn xác nhận để dùng {1} đổi lượng {2} tương đương."
+lang_multi_text.db,MultiText,ConfirmBox_62_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_63_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_63_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_63_Content,所需{0}不足，点击确认可前往商城进行补充。,"Insufficient {0}. To purchase more at the Store, click ""Confirm"" below.","{0} cần thiết không đủ, nhấn xác nhận để đến cửa hàng bổ sung."
+lang_multi_text.db,MultiText,ConfirmBox_63_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_64_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_64_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_64_Content,领取奖励需消耗<color=#8c7e51>{0}</color>点结晶波片，请确认是否领取？,Claiming rewards will consume <color=#8c7e51>{0}</color> Waveplates. Do you wish to claim?,"Nhận thưởng cần tiêu hao <color=#8c7e51>{0}</color> Kết Tinh Sóng Âm, xác nhận nhận không?"
+lang_multi_text.db,MultiText,ConfirmBox_64_Title,领取奖励,Claim Rewards,Nhận thưởng
+lang_multi_text.db,MultiText,ConfirmBox_65_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_65_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_65_Content,本次调优可返回材料,The tuning can return Material,Lần tinh chỉnh này có thể trả lại nguyên liệu
+lang_multi_text.db,MultiText,ConfirmBox_65_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_66_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_66_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_66_Content,对选中的{0}个声骸进行数据回收，请确认以下即将获取的材料。,Salvaging the selected {0} Echoes. You will get:,"Tiến hành thu hồi dữ liệu của {0} Thanh Hài đã chọn, vui lòng xác nhận các nguyên liệu sắp nhận được dưới đây."
+lang_multi_text.db,MultiText,ConfirmBox_66_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_67_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_67_Content,数据已刷新，请重新尝试。,"The data has been refreshed, please try again.","Dữ liệu đã được làm mới, vui lòng thử lại."
+lang_multi_text.db,MultiText,ConfirmBox_67_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_68_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_68_Content,唤取数据已刷新,The Convene data has been refreshed,Dữ liệu Tập Kết đã được làm mới
+lang_multi_text.db,MultiText,ConfirmBox_68_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_69_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_69_Content,本卡池今日唤取次数已达上限,The number of Convenes for this Banner has reached the limit for today,Số lần Tập Kết hôm nay của hồ này đã đạt giới hạn
+lang_multi_text.db,MultiText,ConfirmBox_69_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_70_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_70_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_70_Content,{0}语音包需下载{1}，当前为移动数据环境，将会消耗流量，请确认是否下载？,The {0} voiceover is {1} in size. Downloading will consume mobile data. Proceed to download?,"Gói giọng nói {0} cần tải {1}, hiện đang dùng dữ liệu di động, sẽ tiêu hao lưu lượng, xác nhận tải không?"
+lang_multi_text.db,MultiText,ConfirmBox_70_Title,提示,Notice,Nhắc nhở
+lang_multi_text.db,MultiText,ConfirmBox_71_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_71_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_71_Content,{0}语音包需下载{1}，请确认是否下载？,The {0} voiceover is {1} in size. Proceed to download?,"Gói giọng nói {0} cần tải {1}, xác nhận tải không?"
+lang_multi_text.db,MultiText,ConfirmBox_71_Title,提示,Notice,Thông báo
+lang_multi_text.db,MultiText,ConfirmBox_72_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_72_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_72_Content,请确认是否卸载{0}语音包？,Please confirm whether to uninstall the {0} voice pack?,Vui lòng xác nhận gỡ cài đặt gói lồng tiếng {0}?
+lang_multi_text.db,MultiText,ConfirmBox_72_Title,提示,Notice,Thông báo
+lang_multi_text.db,MultiText,ConfirmBox_73_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_73_Content,{0}通信似乎遇到了一点问题，请稍后再确认是否收到购入物品。,"{0} communication seems to have encountered a problem, please confirm whether the purchased item has been received later.","Kết nối {0} có vẻ gặp chút vấn đề, vui lòng xác nhận lại sau xem đã nhận được vật phẩm chưa."
+lang_multi_text.db,MultiText,ConfirmBox_73_Title,提示,Notice,Thông báo
+lang_multi_text.db,MultiText,ConfirmBox_74_ButtonText_0,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_74_Content,本次数据回收未获得物品。,No item was obtained from the data recovery this time.,Lần thu hồi dữ liệu này không nhận được vật phẩm.
+lang_multi_text.db,MultiText,ConfirmBox_74_Title,数据回收完成,Data recovery completed,Thu hồi dữ liệu hoàn tất
+lang_multi_text.db,MultiText,ConfirmBox_75_ButtonText_0,取消,Cancel,Hủy
+lang_multi_text.db,MultiText,ConfirmBox_75_ButtonText_1,确认,Confirm,Xác nhận
+lang_multi_text.db,MultiText,ConfirmBox_75_Content,重置后，所有已激活节点将退回至未激活状态，并返还消耗技能点，请确认是否重置？,"After the reset, all activated nodes will return to the unactivated state, and the consumed skill points will be returned, please confirm whether to reset?","Sau khi đặt lại, tất cả nút giao đã kích hoạt sẽ trở về trạng thái chưa kích hoạt, và hoàn trả điểm kỹ năng đã tiêu hao, xác nhận đặt lại?"
+lang_multi_text.db,MultiText,ConfirmBox_75_Title,节点重置,Node reset,Đặt lại nút giao
+lang_multi_text.db,MultiText,ConfirmBox_76_ButtonText_0,取消,Cancel,Hủy

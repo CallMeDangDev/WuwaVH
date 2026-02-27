@@ -1,366 +1,107 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,RogueBuffPool_110705_BuffDesc_1,变彩流溢,Chroma Cascade,Biến Sắc Lưu Dật
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffDesc,存在异常，如有疑问请联系官方客服,<color=#ffd12f>[Companion's Aid]</color> Summon Chixia for assistance.,<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Triệu hồi Chixia trợ chiến.
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffDesc_0,存在异常，如有疑问请联系官方客服,<color=#ffd12f>[Companion's Aid]</color> Summon Chixia for assistance.,<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Triệu hồi Chixia trợ chiến.
-lang_multi_text.db,MultiText,RogueBuffPool_1202_BuffName,存在异常，如有疑问请联系官方客服,Chixia's Token,<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Triệu hồi Chixia trợ chiến.
-lang_multi_text.db,MultiText,RogueBuffPool_120301_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·共鸣技能、「梦境·白咩」、「梦境·黑咩」造成的伤害能无视目标{0}防御。
-·召唤「梦境·白咩」的时候，会同时召唤「梦境·黑咩」，共造成攻击{1}的热熔伤害，此次伤害为普攻伤害，该效果每{2}秒可触发1次。","<color=#c49e55>[Resonance Skill]</color>
-· DMG dealt by Encore's Resonance Skill, Dreamscape: Cloudy, and Dreamscape: Cosmos ignores {0} of the target's DEF.
-· Summoning Dreamscape: Cloudy also summons Dreamscape: Cosmos, dealing Fusion DMG equal to {1} of Encore's ATK, considered Basic Attack DMG. This effect can be triggered once every {2}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Sát thương gây ra bởi Kỹ Năng Cộng Hưởng, ""Mộng Cảnh - Mây Trắng"", ""Mộng Cảnh - Cừu Đen"" có thể bỏ qua {0} phòng thủ của mục tiêu.
-. Khi triệu hồi ""Mộng Cảnh - Mây Trắng"", sẽ đồng thời triệu hồi ""Mộng Cảnh - Cừu Đen"", gây Sát Thương Hỏa Liệt bằng {1} tấn công, sát thương này được tính là sát thương Đánh Thường, hiệu quả này mỗi {2} giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120301_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·共鸣技能、「梦境·白咩」、「梦境·黑咩」造成的伤害能无视目标一定防御。
-·召唤「梦境·白咩」的时候，会同时召唤「梦境·黑咩」，造成大量热熔伤害，此次伤害为普攻伤害。","<color=#c49e55>[Resonance Skill]</color>
-- DMG dealt by Encore's Resonance Skill, Dreamscape: Cloudy, and Dreamscape: Cosmos ignores a certain amount of the target's DEF.
-- Summoning Dreamscape: Cloudy also summons Dreamscape: Cosmos, dealing high Fusion DMG, which is considered Basic Attack DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Sát thương gây ra bởi Kỹ Năng Cộng Hưởng, ""Mộng Cảnh - Mây Trắng"", ""Mộng Cảnh - Cừu Đen"" có thể bỏ qua một lượng phòng thủ nhất định của mục tiêu.
-. Khi triệu hồi ""Mộng Cảnh - Mây Trắng"", sẽ đồng thời triệu hồi ""Mộng Cảnh - Cừu Đen"", gây lượng lớn Sát Thương Hỏa Liệt, sát thương này được tính là sát thương Đánh Thường."
-lang_multi_text.db,MultiText,RogueBuffPool_120301_BuffDesc_1,羊咩，友情的力量！,Power of Friendship!,"Cừu Ơi, Sức Mạnh Tình Bạn!"
-lang_multi_text.db,MultiText,RogueBuffPool_120302_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·造成共鸣技能伤害时，减少共鸣技能的冷却时间{0}秒，该效果每{1}秒可触发1次。
-·施放共鸣技能时，受到的伤害降低{2}，抗打断能力提升。
-·施放共鸣技能「热力羊咩」一定时间内，短按共鸣技能，可以再次施放「热力羊咩」，之后一定时间内短按共鸣技能，将会施放「热情欢迎式」。
-·共鸣技能「黑咩狂热」能额外造成2次等同于共鸣技能「黑咩狂热」100%的伤害。","<color=#c49e55>[Resonance Skill]</color>
-- Dealing DMG with Resonance Skill reduces Encore's Resonance Skill Cooldown by {0}s. This effect can be triggered once every {1}s.
-- While casting Resonance Skill, Encore takes {2} less DMG, and her resistance to interruption is enhanced.
-- Resonance Skill Flaming Woolies can be cast again by using Resonance Skill shortly after the first cast. Casting it again shortly after the second Flaming Woolies will trigger Energetic Welcome.
-- Resonance Skill Cosmos: Rampage now deals an additional 2 strikes that cause the same amount of DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Khi gây Sát Thương Kỹ Năng Cộng Hưởng, giảm hồi chiêu Kỹ Năng Cộng Hưởng {0} giây, hiệu quả này mỗi {1} giây có thể kích hoạt 1 lần.
-. Khi thi triển Kỹ Năng Cộng Hưởng, sát thương phải chịu giảm {2}, khả năng kháng gián đoạn tăng.
-. Trong một khoảng thời gian nhất định sau khi thi triển Kỹ Năng Cộng Hưởng ""Cừu Con Nóng Bỏng"", nhấn Kỹ Năng Cộng Hưởng có thể thi triển lại ""Cừu Con Nóng Bỏng"", sau đó trong một khoảng thời gian nhất định nhấn Kỹ Năng Cộng Hưởng sẽ thi triển ""Tiệc Chào Mừng Nhiệt Tình"".
-. Kỹ Năng Cộng Hưởng ""Cừu Đen Cuồng Nhiệt"" có thể gây thêm 2 lần sát thương bằng 100% sát thương của Kỹ Năng Cộng Hưởng ""Cừu Đen Cuồng Nhiệt""."
-lang_multi_text.db,MultiText,RogueBuffPool_120302_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·造成共鸣技能伤害时，减少共鸣技能的冷却时间。
-·施放共鸣技能时，受到的伤害降低，抗打断能力提升。
-·施放共鸣技能「热力羊咩」一定时间内，短按共鸣技能，可以再次施放「热力羊咩」，之后一定时间内短按共鸣技能，将会施放「热情欢迎式」。
-·共鸣技能「黑咩狂热」能额外造成伤害","<color=#c49e55>[Resonance Skill]</color>
-- Dealing DMG with Resonance Skill reduces Encore's Resonance Skill Cooldown.
-- While casting Resonance Skill, Encore takes less DMG, and her resistance to interruption is enhanced.
-- Resonance Skill Flaming Woolies can be cast again by using Resonance Skill shortly after the first cast. Casting it again shortly after the second Flaming Woolies will trigger Energetic Welcome.
-- Resonance Skill Cosmos: Rampage now deals additional DMG.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Khi gây Sát Thương Kỹ Năng Cộng Hưởng, giảm hồi chiêu Kỹ Năng Cộng Hưởng.
-. Khi thi triển Kỹ Năng Cộng Hưởng, sát thương phải chịu giảm, khả năng kháng gián đoạn tăng.
-. Trong một khoảng thời gian nhất định sau khi thi triển Kỹ Năng Cộng Hưởng ""Cừu Con Nóng Bỏng"", nhấn Kỹ Năng Cộng Hưởng có thể thi triển lại ""Cừu Con Nóng Bỏng"", sau đó trong một khoảng thời gian nhất định nhấn Kỹ Năng Cộng Hưởng sẽ thi triển ""Tiệc Chào Mừng Nhiệt Tình"".
-. Kỹ Năng Cộng Hưởng ""Cừu Đen Cuồng Nhiệt"" có thể gây thêm sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_120302_BuffDesc_1,羊咩热力连击,Woolie Combos,Liên Kích Cừu Con Nóng Bỏng
-lang_multi_text.db,MultiText,RogueBuffPool_120303_BuffDesc,"<color=#c49e55>【普攻】</color>
-·造成普攻伤害时，会召唤「梦境·白咩」下砸，造成攻击{0}的热熔伤害，此次伤害为普攻伤害，每{1}秒可触发1次。
-·施放「重击·白咩·失控之炎」或「重击·黑咩·暴走之炎」期间受到伤害降低{2}，并且持续牵引周围目标，牵引过程共造成攻击{3}的热熔伤害，此次伤害为共鸣解放伤害。","<color=#c49e55>[Basic Attack]</color>
-- Dealing DMG with Basic Attack summons Dreamscape: Cloudy to plunge to the ground, dealing Fusion DMG equal to {0} of Encore's ATK, which is considered Basic Attack DMG. This effect can be triggered once every {1}s.
-- While casting Heavy Attack: Cloudy Frenzy or Heavy Attack: Cosmos Rupture, Encore takes {2} less DMG and pulls in nearby enemies, dealing Fusion DMG equal to {3} of her ATK in the process, which is considered Resonance Skill DMG.","<color=#c49e55>[Đánh Thường]</color>
-. Khi gây sát thương Đánh Thường, sẽ triệu hồi ""Mộng Cảnh - Mây Trắng"" giáng xuống, gây Sát Thương Hỏa Liệt bằng {0} tấn công, sát thương này được tính là sát thương Đánh Thường, mỗi {1} giây có thể kích hoạt 1 lần.
-. Trong thời gian thi triển ""Đánh Mạnh - Mây Trắng - Lửa Mất Kiểm Soát"" hoặc ""Đánh Mạnh - Cừu Đen - Lửa Bạo Tẩu"" sát thương phải chịu giảm {2}, đồng thời liên tục hút các mục tiêu xung quanh, quá trình hút gây tổng cộng Sát Thương Hỏa Liệt bằng {3} tấn công, sát thương này được tính là Sát Thương Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120303_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·造成普攻伤害时，额外召唤「梦境·白咩」造成热熔伤害。
-·施放「重击·白咩·失控之炎」或「重击·黑咩·暴走之炎」期间受到伤害降低，并且持续牵引周围目标并持续造成热熔伤害。","<color=#c49e55>[Basic Attack]</color>
-- Dealing DMG with Basic Attack summons Dreamscape: Cloudy that deals Fusion DMG.
-- Encore takes less DMG while casting Heavy Attack: Cloudy Frenzy or Heavy Attack: Cosmos Rupture, and pulls in nearby enemies, dealing Fusion DMG.","<color=#c49e55>[Đánh Thường]</color>
-. Khi gây sát thương Đánh Thường, triệu hồi thêm ""Mộng Cảnh - Mây Trắng"" gây Sát Thương Hỏa Liệt.
-. Trong thời gian thi triển ""Đánh Mạnh - Mây Trắng - Lửa Mất Kiểm Soát"" hoặc ""Đánh Mạnh - Cừu Đen - Lửa Bạo Tẩu"" sát thương phải chịu giảm, đồng thời liên tục hút các mục tiêu xung quanh và liên tục gây Sát Thương Hỏa Liệt."
-lang_multi_text.db,MultiText,RogueBuffPool_120303_BuffDesc_1,咩咩混乱派对,Party of Chaos,Bữa Tiệc Hỗn Loạn Cừu Con
-lang_multi_text.db,MultiText,RogueBuffPool_120304_BuffDesc,"<color=#c49e55>【普攻】</color>
-·热熔伤害加成提升{0}。
-·造成共鸣技能伤害时会召唤「梦境·白咩」，造成攻击{1}的热熔伤害，此次伤害为普攻伤害，每{2}秒可触发1次。
-·「梦境·白咩」「梦境·黑咩」获得强化：攻击范围增加，伤害倍率提升{3}。","<color=#c49e55>[Basic Attack]</color>
-- Encore gains {0} Fusion DMG Bonus.
-- Dealing DMG with Resonance Skill summons Dreamscape: Cloudy that deals Fusion DMG equal to {1} of Encore's ATK, considered as Basic Attack DMG. This effect can be triggered once every {2}s.
-- Dreamscape: Cloudy and Dreamscape: Cosmos receive the following enhancement: Gain increased attack range and {3} additional DMG Multiplier.","<color=#c49e55>[Đánh Thường]</color>
-. Tăng {0} buff Sát Thương Hỏa Liệt.
-. Khi gây Sát Thương Kỹ Năng Cộng Hưởng sẽ triệu hồi ""Mộng Cảnh - Mây Trắng"", gây Sát Thương Hỏa Liệt bằng {1} tấn công, sát thương này được tính là sát thương Đánh Thường, mỗi {2} giây có thể kích hoạt 1 lần.
-. ""Mộng Cảnh - Mây Trắng"" và ""Mộng Cảnh - Cừu Đen"" nhận được cường hóa: Phạm vi tấn công tăng, bội suất sát thương tăng {3}."
-lang_multi_text.db,MultiText,RogueBuffPool_120304_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·热熔伤害加成提升。
-·造成共鸣技能伤害时会额外造成热熔伤害。
-·「梦境·白咩」「梦境·黑咩」攻击范围及伤害提升。","<color=#c49e55>[Basic Attack]</color>
-- Encore gains Fusion DMG Bonus.
-- Dealing DMG with Resonance Skill deals additional Fusion DMG.
-- Dreamscape: Cloudy and Dreamscape: Cosmos gain increased attack range and additional DMG Multiplier.","<color=#c49e55>[Đánh Thường]</color>
-. Tăng buff Sát Thương Hỏa Liệt.
-. Khi gây Sát Thương Kỹ Năng Cộng Hưởng sẽ gây thêm Sát Thương Hỏa Liệt.
-. Phạm vi tấn công và sát thương của ""Mộng Cảnh - Mây Trắng"" và ""Mộng Cảnh - Cừu Đen"" tăng."
-lang_multi_text.db,MultiText,RogueBuffPool_120304_BuffDesc_1,白咩，勇士式落地！,Cloudy's Heroic Landing,"Mây Trắng, Đáp Đất Kiểu Dũng Sĩ!"
-lang_multi_text.db,MultiText,RogueBuffPool_120305_BuffDesc,"<color=#c49e55>【普攻】</color>
-·造成普攻伤害时，回复{0}点共鸣能量，每秒可触发1次。
-·施放共鸣解放后会造成1次攻击{1}的热熔伤害，此次伤害为普攻伤害。","<color=#c49e55>[Basic Attack]</color>
-- Dealing DMG with Basic Attack restores {0} Resonance Energy. This effect can be triggered once per second.
-- Casting Resonance Liberation deals one additional strike of Fusion DMG equal to {1} of Encore's ATK, which is considered Basic Attack DMG.","<color=#c49e55>[Đánh Thường]</color>
-. Khi gây sát thương Đánh Thường, hồi {0} điểm Năng Lượng Cộng Hưởng, mỗi giây có thể kích hoạt 1 lần.
-. Sau khi thi triển Giải Phóng Cộng Hưởng sẽ gây 1 lần Sát Thương Hỏa Liệt bằng {1} tấn công, sát thương này được tính là sát thương Đánh Thường."
-lang_multi_text.db,MultiText,RogueBuffPool_120305_BuffDesc_0,"<color=#c49e55>【普攻】</color>
-·造成普攻伤害时，回复共鸣能量。
-·施放共鸣解放后会造成额外热熔伤害。","<color=#c49e55>Basic Attack</color>
-- Dealing DMG with Basic Attack restores Resonance Energy.
-- Casting Resonance Liberation deals one additional strike of Fusion DMG.","<color=#c49e55>[Đánh Thường]</color>
-. Khi gây sát thương Đánh Thường, hồi Năng Lượng Cộng Hưởng.
-. Sau khi thi triển Giải Phóng Cộng Hưởng sẽ gây thêm Sát Thương Hỏa Liệt."
-lang_multi_text.db,MultiText,RogueBuffPool_120305_BuffDesc_1,黑咩大爆发,Cosmos's Riot,Cừu Đen Đại Bạo Phát
-lang_multi_text.db,MultiText,RogueBuffPool_120401_BuffDesc,"<color=#c49e55>【共鸣解放】</color>
-·暴击提升{0}。
-·「浮翼狂想」存在时，每次协奏角色进场时，额外打出{1}发「特加强音」，每{2}秒可触发1次。","<color=#c49e55>[Resonance Liberation]</color>
-- Mortefi's Crit. Rate is increased by {0}.
-- While Burning Rhapsody is active, each Concerto Companion entering the field triggers {1} additional strike(s) of Sforzato. This effect can be triggered once every {2}s.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-. Tỷ lệ Bạo Kích tăng {0}.
-. Khi ""Phù Dực Cuồng Tưởng"" tồn tại, mỗi khi nhân vật Hiệp Tấu vào trận, bắn thêm {1} phát ""Cường Âm"", mỗi {2} giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120401_BuffDesc_0,"<color=#c49e55>【共鸣解放】</color>
-·暴击大幅提升。
-·「浮翼狂想」存在时，每次协奏角色进场时，额外打出「特加强音」。","<color=#c49e55>[Resonance Liberation]</color>
-- Mortefi's Crit. Rate is greatly increased.
-- While Burning Rhapsody is active, each Concerto Companion entering the field triggers additional strikes of Sforzato.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-. Tỷ lệ Bạo Kích tăng mạnh.
-. Khi ""Phù Dực Cuồng Tưởng"" tồn tại, mỗi khi nhân vật Hiệp Tấu vào trận, bắn thêm ""Cường Âm""."
-lang_multi_text.db,MultiText,RogueBuffPool_120401_BuffDesc_1,《狂板练习：跳音奏法》,Staccato in Prestissimo,"""Luyện Tập Cuồng Bản: Tấu Pháp Nhảy Âm"""
-lang_multi_text.db,MultiText,RogueBuffPool_120402_BuffDesc,"<color=#c49e55>【共鸣解放】</color>
-·施放共鸣解放时，马上打出{0}发「特加强音」。
-·被「特加强音」命中的目标，热熔伤害抗性降低{1}，持续{2}秒，可叠加{3}层。","<color=#c49e55>[Resonance Liberation]</color>
-- Immediately triggers {0} strike(s) of Sforzato upon casting Resonance Liberation.
-- Targets hit by Sforzato have their Fusion DMG RES reduced by {1} for {2}s, stacking up to {3} time(s).","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-. Khi thi triển Giải Phóng Cộng Hưởng, ngay lập tức bắn ra {0} phát ""Cường Âm"".
-. Mục tiêu bị ""Cường Âm"" trúng đòn, Kháng Sát Thương Hỏa Liệt giảm {1}, duy trì {2} giây, có thể cộng dồn {3} tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120402_BuffDesc_0,"<color=#c49e55>【共鸣解放】</color>
-·施放共鸣解放时，马上打出数发「特加强音」。
-·被「特加强音」命中的目标，热熔伤害抗性降低。","<color=#c49e55>[Resonance Liberation]</color>
-- Immediately triggers several strikes of Sforzato upon casting Resonance Liberation.
-- Targets hit by Sforzato have their Fusion DMG RES reduced.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-. Khi thi triển Giải Phóng Cộng Hưởng, ngay lập tức bắn ra vài phát ""Cường Âm"".
-. Mục tiêu bị ""Cường Âm"" trúng đòn, Kháng Sát Thương Hỏa Liệt giảm."
-lang_multi_text.db,MultiText,RogueBuffPool_120402_BuffDesc_1,《安魂曲：震怒之日》,Requiem: Dies Irae,"""Khúc Cầu Hồn: Ngày Phẫn Nộ"""
-lang_multi_text.db,MultiText,RogueBuffPool_120403_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·攻击提升{0}。
-·使用共鸣技能·激昂变奏时，回满「怒气值」，每{1}秒可触发1次。","<color=#c49e55>[Resonance Skill]</color>
-- Mortefi's ATK is increased by {0}.
-- Casting Resonance Skill Passionate Variation restores max Annoyance. This effect can be triggered once every {1}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Tấn công tăng {0}.
-. Khi dùng Kỹ Năng Cộng Hưởng - Biến Tấu Kịch Liệt, hồi đầy ""Nộ Khí"", mỗi {1} giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120403_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·攻击大幅提升。
-·使用共鸣技能·激昂变奏时，回满「怒气值」。","<color=#c49e55>[Resonance Skill]</color>
-- Mortefi's ATK is greatly increased.
-- Casting Resonance Skill Passionate Variation restores max Annoyance.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Tấn công tăng mạnh.
-. Khi dùng Kỹ Năng Cộng Hưởng - Biến Tấu Kịch Liệt, hồi đầy ""Nộ Khí""."
-lang_multi_text.db,MultiText,RogueBuffPool_120403_BuffDesc_1,《预燃前奏：焦土印象》,Prelude: Scorching Earth,"""Tiền Tấu Cháy Rực: Ấn Tượng Tiêu Thổ"""
-lang_multi_text.db,MultiText,RogueBuffPool_120404_BuffDesc,"<color=#c49e55>【共鸣技能】</color>
-·攻击提升{0}。
-·闪避反击替换为共鸣技能·怒火赋格，施放「共鸣技能·怒火赋格」或「共鸣技能·激昂变奏」时，额外打出{1}发「特加强音」。","<color=#c49e55>[Resonance Skill]</color>
-· Mortefi's ATK is increased by {0}.
-· Resonance Skill Fury Fugue is replaced with Dodge Counter. Casting Resonance Skill Fury Fugue or Resonance Skill Passionate Variation triggers {1} additional strike(s) of Sforzato.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Tấn công tăng {0}.
-. Phản Kích Né Tránh thay thế bằng Kỹ Năng Cộng Hưởng - Nộ Hỏa Phú Cách, khi thi triển ""Kỹ Năng Cộng Hưởng - Nộ Hỏa Phú Cách"" hoặc ""Kỹ Năng Cộng Hưởng - Biến Tấu Kịch Liệt"", bắn thêm {1} phát ""Cường Âm""."
-lang_multi_text.db,MultiText,RogueBuffPool_120404_BuffDesc_0,"<color=#c49e55>【共鸣技能】</color>
-·攻击大幅提升。
-·闪避反击替换为共鸣技能·怒火赋格，施放「共鸣技能·怒火赋格」或「共鸣技能·激昂变奏」时，额外打出「特加强音」。","<color=#c49e55>[Resonance Skill]</color>
-- Mortefi's ATK is greatly increased.
-- Dodge Counter becomes Resonance Skill Fury Fugue. Casting Fury Fugue or Resonance Skill Passionate Variation triggers additional strikes of Sforzato.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color>
-. Tấn công tăng mạnh.
-. Phản Kích Né Tránh thay thế bằng Kỹ Năng Cộng Hưởng - Nộ Hỏa Phú Cách, khi thi triển ""Kỹ Năng Cộng Hưởng - Nộ Hỏa Phú Cách"" hoặc ""Kỹ Năng Cộng Hưởng - Biến Tấu Kịch Liệt"", bắn thêm ""Cường Âm""."
-lang_multi_text.db,MultiText,RogueBuffPool_120404_BuffDesc_1,《不绝轮舞：怒意狂澜》,Rondo: Tides of Fury,"""Luân Vũ Bất Tận: Nộ Ý Cuồng Lan"""
-lang_multi_text.db,MultiText,RogueBuffPool_120405_BuffDesc,"<color=#c49e55>【共鸣解放】</color>
-·热熔伤害加成提升{0}。
-·「浮翼狂想」获得强化：普攻命中目标时打出加强音的效果从1次变为2次。","<color=#c49e55>[Resonance Liberation]</color>
-- Mortefi gains {0} Fusion DMG Bonus.
-- Burning Rhapsody is enhanced: Basic Attacks now trigger 2 Marcato instead of 1 on hit.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-. Tăng {0} buff Sát Thương Hỏa Liệt.
-. ""Phù Dực Cuồng Tưởng"" được cường hóa: Số lần bắn ra Cường Âm khi Đánh Thường trúng mục tiêu tăng từ 1 lần lên 2 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120405_BuffDesc_0,"<color=#c49e55>【共鸣解放】</color>
-·热熔伤害加成提升。
-·「浮翼狂想」获得强化：普攻命中目标时打出加强音次数提升。","<color=#c49e55>[Resonance Liberation]</color>
-- Mortefi gains Fusion DMG Bonus.
-- Burning Rhapsody is enhanced: Basic Attacks now trigger additional Marcato on hit.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color>
-. Tăng buff Sát Thương Hỏa Liệt.
-. ""Phù Dực Cuồng Tưởng"" được cường hóa: Số lần bắn ra Cường Âm khi Đánh Thường trúng mục tiêu tăng lên."
-lang_multi_text.db,MultiText,RogueBuffPool_120405_BuffDesc_1,《交响狂想：火雨》,Symphony: Rain of Fire,"""Cuồng Tưởng Giao Hưởng: Mưa Lửa"""
-lang_multi_text.db,MultiText,RogueBuffPool_1204_BuffDesc,<color=#ffd12f>【角色助战】</color>可触发变奏技能，满协奏能量后召唤莫特斐施放共鸣解放,"<color=#ffd12f>[Companion's Aid]</color> Summon Mortefi to cast his Resonance Liberation when Concerto Energy is full, triggering the Intro Skill.","<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Có thể kích hoạt Kỹ Năng Biến Tấu, sau khi đầy Năng Lượng Hiệp Tấu sẽ triệu hồi Mortefi thi triển Giải Phóng Cộng Hưởng"
-lang_multi_text.db,MultiText,RogueBuffPool_1204_BuffDesc_0,<color=#ffd12f>【角色助战】</color>召唤莫特斐协战,<color=#ffd12f>[Companion's Aid]</color> Summon Mortefi for assistance.,<color=#ffd12f>[Trợ Chiến Nhân Vật]</color> Triệu hồi Mortefi hiệp chiến
-lang_multi_text.db,MultiText,RogueBuffPool_1204_BuffName,协奏·莫特斐,Concerto: Mortefi,Hiệp Tấu - Mortefi
-lang_multi_text.db,MultiText,RogueBuffPool_120501_BuffDesc,<color=#c49e55>【共鸣技能】</color>能够产生「离火」的技能命中时，额外触发一次「心眼·劫」的前3段伤害。且施放「心眼」系列攻击期间不会受到伤害。,"<color=#c49e55>[Resonance Skill]</color> When casting skills that grant Enflamement, deal additional DMG equal to the DMG of the first 3 stages of True Sight: Capture. Immune to damage while casting True Sight: Capture, Conquest, and Charge.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Khi kỹ năng có khả năng tạo ra ""Ly Hỏa"" trúng mục tiêu, kích hoạt thêm một lần 3 đoạn sát thương đầu của ""Tâm Nhãn - Kiếp"". Đồng thời sẽ không chịu sát thương trong thời gian thi triển loạt tấn công ""Tâm Nhãn""."
-lang_multi_text.db,MultiText,RogueBuffPool_120501_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>能够获得特殊能量的技能命中时触发一次「心眼·劫」，且施放「心眼」系列攻击期间不会受到伤害。,"<color=#c49e55>[Resonance Skill]</color> When casting skills that grant Forte Gauge, True Sight: Capture is triggered once. Immune to damage while casting True Sight: Capture, Conquest, and Charge.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Khi kỹ năng có khả năng nhận năng lượng đặc biệt trúng mục tiêu, kích hoạt một lần ""Tâm Nhãn - Kiếp"", đồng thời sẽ không chịu sát thương trong thời gian thi triển loạt tấn công ""Tâm Nhãn""."
-lang_multi_text.db,MultiText,RogueBuffPool_120501_BuffDesc_1,盛神,Rising Spirit,Thịnh Thần
-lang_multi_text.db,MultiText,RogueBuffPool_120502_BuffDesc,<color=#c49e55>【重击】</color>每次获得「离火」时，热熔伤害提升{0}，持续{1}秒，最多叠加{2}层。施放重击「焚身以火」时会消耗所有层数。,"<color=#c49e55>[Heavy Attack]</color> Upon gaining Enflamement, Fusion DMG dealt is increased by {0} for {1}s, stacking up to {2} time(s). Casting Heavy Attack: Flaming Sacrifice consumes all stacks.","<color=#c49e55>[Đánh Mạnh]</color> Mỗi lần nhận ""Ly Hỏa"", Sát Thương Hỏa Liệt tăng {0}, duy trì {1} giây, cộng dồn tối đa {2} tầng. Khi thi triển Đánh Mạnh ""Thiêu Thân Dĩ Hỏa"" sẽ tiêu hao tất cả số tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120502_BuffDesc_0,<color=#c49e55>【重击】</color>获得特殊能量时小幅提升热熔伤害，可叠加，施放派生重击后清空效果,<color=#c49e55>[Heavy Attack]</color> Fusion DMG dealt is slightly increased upon gaining Forte Gauge. This effect is stackable and is removed after casting Heavy Attack: Flaming Sacrifice.,"<color=#c49e55>[Đánh Mạnh]</color> Khi nhận năng lượng đặc biệt sẽ tăng nhẹ Sát Thương Hỏa Liệt, có thể cộng dồn, sau khi thi triển Đánh Mạnh phái sinh sẽ xóa bỏ hiệu quả."
-lang_multi_text.db,MultiText,RogueBuffPool_120502_BuffDesc_1,损悦,Dampening Joy,Tổn Duyệt
-lang_multi_text.db,MultiText,RogueBuffPool_120503_BuffDesc,<color=#c49e55>【重击】</color>施放重击「焚身以火」后{0}秒内，普攻命中时会额外造成等同于「普攻·心眼·征」后三段的伤害，最多可触发{1}次，每{2}秒可触发1次。,"<color=#c49e55>[Heavy Attack]</color> Within {0}s after casting Heavy Attack: Flaming Sacrifice, Basic Attack deals additional DMG equal to the last 3 stages of Basic Attack: True Sight - Conquest. This effect can be triggered once every {2}s, up to {1} time(s).","<color=#c49e55>[Đánh Mạnh]</color> Trong vòng {0} giây sau khi thi triển Đánh Mạnh ""Thiêu Thân Dĩ Hỏa"", khi Đánh Thường trúng mục tiêu sẽ gây thêm sát thương tương đương 3 đoạn sau của ""Đánh Thường - Tâm Nhãn - Chinh"", tối đa kích hoạt {1} lần, mỗi {2} giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120503_BuffDesc_0,<color=#c49e55>【重击】</color>施放派生重击后普攻获得强化,<color=#c49e55>[Heavy Attack]</color> Basic Attack is enhanced after casting Heavy Attack: Flaming Sacrifice.,"<color=#c49e55>[Đánh Mạnh]</color> Sau khi thi triển Đánh Mạnh phái sinh, Đánh Thường được cường hóa."
-lang_multi_text.db,MultiText,RogueBuffPool_120503_BuffDesc_1,分威,Diminishing Strength,Phân Uy
-lang_multi_text.db,MultiText,RogueBuffPool_120504_BuffDesc,<color=#c49e55>【空中攻击】</color>在空中造成伤害时，伤害提升{0}，持续{1}秒，可叠加{2}层。,"<color=#c49e55>[Mid-air Attack]</color> While in mid-air, DMG dealt is increased by {0} for {1}s, stacking up to {2} time(s).","<color=#c49e55>[Tấn Công Trên Không]</color> Khi gây sát thương trên không, sát thương tăng {0}, duy trì {1} giây, có thể cộng dồn {2} tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120504_BuffDesc_0,<color=#c49e55>【空中攻击】</color>空中造成伤害时小幅提升伤害，可叠加,"<color=#c49e55>[Mid-air Attack]</color> While in mid-air, DMG dealt is slightly increased. This effect is stackable.","<color=#c49e55>[Tấn Công Trên Không]</color> Khi gây sát thương trên không sẽ tăng nhẹ sát thương, có thể cộng dồn."
-lang_multi_text.db,MultiText,RogueBuffPool_120504_BuffDesc_1,转圜,Tactical Maneuver,Chuyển Hoàn
-lang_multi_text.db,MultiText,RogueBuffPool_120505_BuffDesc,<color=#c49e55>【共鸣技能】</color>持有四层「离火」时，共鸣技能「心眼·劫」的最后一段攻击命中时会额外触发共鸣解放「离火照丹心」的伤害。每{0}秒可触发1次。,"<color=#c49e55>[Resonance Skill]</color> With 4 stacks of Enflamement, the final attack of Resonance Skill: True Sight - Capture deals additional DMG equal to the DMG of Resonance Liberation: Radiance of Fealty on hit. This effect can be triggered once every {0}s.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Khi sở hữu 4 tầng ""Ly Hỏa"", đòn tấn công cuối cùng của Kỹ Năng Cộng Hưởng ""Tâm Nhãn - Kiếp"" trúng mục tiêu sẽ kích hoạt thêm sát thương của Giải Phóng Cộng Hưởng ""Ly Hỏa Chiếu Đan Tâm"". Mỗi {0} giây có thể kích hoạt 1 lần."
-lang_multi_text.db,MultiText,RogueBuffPool_120505_BuffDesc_0,<color=#c49e55>【共鸣技能】</color>特殊能量满时，共鸣技能最后一段攻击额外触发共鸣解放的伤害,"<color=#c49e55>[Resonance Skill]</color> When Forte Gauge is full, the final attack of Resonance Skill will deal additional DMG equal to the DMG of Resonance Liberation.","<color=#c49e55>[Kỹ Năng Cộng Hưởng]</color> Khi đầy năng lượng đặc biệt, đòn tấn công cuối cùng của Kỹ Năng Cộng Hưởng kích hoạt thêm sát thương của Giải Phóng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120505_BuffDesc_1,涅槃,Rise From the Ashes,Niết Bàn
-lang_multi_text.db,MultiText,RogueBuffPool_120601_BuffDesc,"<color=#c49e55>【共鸣解放】</color>共鸣解放·直到世界尽头的冷却时间减少{0}。
-施放共鸣解放·直到世界尽头时，「喝彩」回复到上限。","<color=#c49e55>[Resonance Liberation]</color>
-The Cooldown of Resonance Liberation - To the Horizon is reduced by {0}.
-Casting Resonance Liberation - To the Horizon fully recovers Bravo.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Hồi chiêu của Giải Phóng Cộng Hưởng - Cho Đến Tận Cùng Thế Giới giảm {0}.
-Khi thi triển Giải Phóng Cộng Hưởng - Cho Đến Tận Cùng Thế Giới, ""Hoan Hô"" hồi phục đến giới hạn."
-lang_multi_text.db,MultiText,RogueBuffPool_120601_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放·直到世界尽头获得特殊强化。,"<color=#c49e55>[Resonance Liberation]</color>
-Resonance Liberation - To the Horizon gains special enhancements.",<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Cho Đến Tận Cùng Thế Giới nhận được cường hóa đặc biệt.
-lang_multi_text.db,MultiText,RogueBuffPool_120601_BuffDesc_1,观众，为我欢呼,"Audience, Cheer for Me","Khán Giả, Hãy Hô Vang Tên Tôi"
-lang_multi_text.db,MultiText,RogueBuffPool_120602_BuffDesc,"<color=#c49e55>【共鸣回路】</color>共鸣回路·火焰归亡曲改为先往前发动空中攻击第一段，再唤出船锚在目标头顶落下，造成共鸣回路·火焰归亡曲{0}的伤害，并且攻击范围扩大。
-施放共鸣回路·火焰归亡曲时，不再结束燃焰状态。","<color=#c49e55>[Forte Circuit]</color>
-Forte Circuit - Returned from Ashes now first casts Mid-air Attack Stage 1 forward and then summons an Anchor to plunge from above the target, dealing DMG equal to {0} of Returned from Ashes DMG. The attack range is expanded.
-Casting Returned from Ashes doesn't end Aflame now.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Mạch Cộng Hưởng - Hỏa Diễm Quy Vong Khúc thay đổi thành thi triển tấn công trên không đoạn 1 về phía trước trước, sau đó triệu hồi Mỏ Neo rơi xuống đỉnh đầu mục tiêu, gây sát thương bằng {0} Mạch Cộng Hưởng - Hỏa Diễm Quy Vong Khúc, đồng thời phạm vi tấn công được mở rộng.
-Khi thi triển Mạch Cộng Hưởng - Hỏa Diễm Quy Vong Khúc, sẽ không kết thúc trạng thái Nhiên Diễm nữa."
-lang_multi_text.db,MultiText,RogueBuffPool_120602_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>共鸣回路·火焰归亡曲获得特殊强化。,"<color=#c49e55>[Forte Circuit]</color>
-Forte Circuit - Returned from Ashes gains special enhancements.",<color=#c49e55>[Mạch Cộng Hưởng]</color> Mạch Cộng Hưởng - Hỏa Diễm Quy Vong Khúc nhận được cường hóa đặc biệt.
-lang_multi_text.db,MultiText,RogueBuffPool_120602_BuffDesc_1,演员，点燃舞台,"Actor, Ignite the Stage","Diễn Viên, Đốt Cháy Sân Khấu"
-lang_multi_text.db,MultiText,RogueBuffPool_120603_BuffDesc,"<color=#c49e55>【共鸣回路】</color>满足以下条件时，会在目标位置召唤「浪渊之眼」牵引附近目标，并造成{1}次攻击{2}的热熔伤害，持续{0}秒。
-·共鸣回路·火焰归亡曲的第四段、第五段造成伤害时
-·共鸣技能·起锚！的第二段造成伤害时
-·空中攻击第一段、第二段、第三段空翻造成伤害时
-·重击·狂想即兴命中目标时","<color=#c49e55>[Forte Circuit]</color>
-When one of the following conditions is met, summon Abyss's Eye at the target location to pull in nearby targets for {0}s, dealing Fusion DMG equal to {2} of Brant's ATK <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1}.
-- When Stage 4 or 5 of Forte Circuit - Returned from Ashes deals damage.
-- When Stage 2 of Resonance Skill - Anchors Aweigh! deals damage.
-- When Stage 1, 2, or 3 of Mid-air Attack deals damage.
-- When Heavy Attack - Rhapsodic Riff hits the target.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Khi thỏa mãn các điều kiện sau, sẽ triệu hồi ""Mắt Sóng Cả"" tại vị trí mục tiêu để hút các mục tiêu lân cận, và gây {1} lần Sát Thương Hỏa Liệt bằng {2} tấn công, duy trì {0} giây.
-. Khi đoạn 4, đoạn 5 của Mạch Cộng Hưởng - Hỏa Diễm Quy Vong Khúc gây sát thương
-. Khi đoạn 2 của Kỹ Năng Cộng Hưởng - Nhổ Neo! gây sát thương
-. Khi lộn nhào đoạn 1, đoạn 2, đoạn 3 của tấn công trên không gây sát thương
-. Khi Đánh Mạnh - Cuồng Tưởng Tức Hứng trúng mục tiêu"
-lang_multi_text.db,MultiText,RogueBuffPool_120603_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>满足特定条件时召唤「浪渊之眼」牵引附近目标。,"<color=#c49e55>[Forte Circuit]</color>
-Summon Abyss's Eye to pull in nearby targets when certain conditions are met.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Khi thỏa mãn điều kiện nhất định sẽ triệu hồi ""Mắt Sóng Cả"" hút các mục tiêu lân cận."
-lang_multi_text.db,MultiText,RogueBuffPool_120603_BuffDesc_1,大海，凝浪燃焰,"Oh Sea, Burn Your Waves","Biển Cả, Ngưng Sóng Cháy Rực"
-lang_multi_text.db,MultiText,RogueBuffPool_120604_BuffDesc,"<color=#c49e55>【普攻】</color>空中普攻命中目标时，会生成{0}个「爆炸船锚」，并造成攻击{9}的热熔伤害，每{1}秒可生效1次，「爆炸船锚」在场上持续存在{2}秒。「爆炸船锚」持续时间结束时，或者施放共鸣回路·火焰归亡曲后，会引爆全部的「爆炸船锚」，造成{3}次攻击{4}的热熔伤害，此次伤害为普攻伤害。
-「爆炸船锚」在场上最多存在{5}个，每次召唤「爆炸船锚」时，布兰特热熔伤害加成提升{6}，持续{7}秒，可叠加{8}层。","<color=#c49e55>[Basic Attack]</color>
-Hitting a target with Mid-air Basic Attack generates <SapTag=0>{0}</SapTag> Explosive {Cus:Sap,S=Anchor P=Anchors SapTag=0}, dealing Fusion DMG equal to {9} of Brant's ATK, triggered once every {1}s. Explosive Anchor exists on the field for {2}s. When Explosive Anchor's duration is over or after Forte Circuit - Returned from Ashes is cast, all Explosive Anchors will be detonated, dealing Fusion DMG equal to {4} of Brant's ATK <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3}, considered Basic Attack DMG.
-Up to {5} Explosive Anchors can exist at the same time. For each Explosive Anchor generated, Brant gains {6} Fusion DMG Bonus for {7}s, stacking up to {8} times.","<color=#c49e55>[Đánh Thường]</color> Khi Đánh Thường trên không trúng mục tiêu, sẽ tạo ra <SapTag=0>{0}</SapTag> ""Mỏ Neo Nổ"", và gây Sát Thương Hỏa Liệt bằng {9} tấn công, mỗi {1} giây có thể hiệu lực 1 lần, ""Mỏ Neo Nổ"" tồn tại trên sân {2} giây. Khi thời gian duy trì của ""Mỏ Neo Nổ"" kết thúc, hoặc sau khi thi triển Mạch Cộng Hưởng - Hỏa Diễm Quy Vong Khúc, sẽ kích nổ toàn bộ ""Mỏ Neo Nổ"", gây {3} lần Sát Thương Hỏa Liệt bằng {4} tấn công, sát thương này được tính là sát thương Đánh Thường.
-""Mỏ Neo Nổ"" tồn tại trên sân tối đa {5} cái, mỗi lần triệu hồi ""Mỏ Neo Nổ"", buff Sát Thương Hỏa Liệt của Brant tăng {6}, duy trì {7} giây, có thể cộng dồn {8} tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120604_BuffDesc_0,<color=#c49e55>【普攻】</color>空中普攻可生成「爆炸船锚」，热熔伤害加成提升，且引爆后造成伤害。,"<color=#c49e55>[Basic Attack]</color>
-Mid-air Basic Attack generates Explosive Anchor, which gives Fusion DMG Bonus and deals damage when detonated.","<color=#c49e55>[Đánh Thường]</color> Đánh Thường trên không có thể tạo ra ""Mỏ Neo Nổ"", tăng buff Sát Thương Hỏa Liệt, và gây sát thương sau khi kích nổ."
-lang_multi_text.db,MultiText,RogueBuffPool_120604_BuffDesc_1,船长，锚定航向,"Captain, Set the Course","Thuyền Trưởng, Neo Định Hướng Đi"
-lang_multi_text.db,MultiText,RogueBuffPool_120605_BuffDesc,<color=#c49e55>【共鸣回路】</color>处于空中状态时，布兰特免疫打断，并且热熔伤害加成提升{0}。热熔伤害加成提升效果在进入地面状态{1}秒后移除。,"<color=#c49e55>[Forte Circuit]</color>
-When in mid-air, Brant is immune to interruption and gains {0} Fusion DMG Bonus. The Fusion DMG Bonus is removed {1}s after Brant lands.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Khi ở trạng thái trên không, Brant miễn nhiễm gián đoạn, đồng thời buff Sát Thương Hỏa Liệt tăng {0}. Hiệu quả tăng buff Sát Thương Hỏa Liệt sẽ bị xóa sau khi vào trạng thái mặt đất {1} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120605_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>空中状态时免疫打断，热熔伤害加成提升。,"<color=#c49e55>[Forte Circuit]</color>
-When in mid-air, Brant is immune to interruption and gains Fusion DMG Bonus.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Khi ở trạng thái trên không miễn nhiễm gián đoạn, buff Sát Thương Hỏa Liệt tăng."
-lang_multi_text.db,MultiText,RogueBuffPool_120605_BuffDesc_1,燕鸥，无畏风浪,"Oh Tern, Embrace the Tempest","Nhạn Biển, Không Sợ Sóng Gió"
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc,<color=#c49e55>【共鸣回路】</color>施放共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极过程中将回复自身{0}生命上限的生命值，牵引周围的目标并召唤「群狼猎场」，每秒共计对范围内目标造成攻击{1}的热熔伤害，此次伤害为普攻伤害，每次命中目标回复{2}点共鸣能量，持续{3}秒。,"<color=#c49e55>[Forte Circuit]</color>
-Casting Resonance Skill - Dance With the Wolf or Resonance Skill: Dance With the Wolf - Climax restores {0} of Lupa's Max HP, pulls in nearby targets, and summons Wolfpack, dealing Fusion DMG equal to {1} of ATK in total to targets within range each second. The DMG dealt is considered as Basic Attack DMG. Wolfpack restores {2} points Resonance Energy on hit, lasting for {3}s.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Trong quá trình thi triển Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói, Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực sẽ hồi phục HP bằng {0} giới hạn HP bản thân, hút các mục tiêu xung quanh và triệu hồi ""Trường Săn Bầy Sói"", mỗi giây gây tổng cộng Sát Thương Hỏa Liệt bằng {1} tấn công lên mục tiêu trong phạm vi, sát thương này được tính là sát thương Đánh Thường, mỗi lần trúng mục tiêu hồi {2} điểm Năng Lượng Cộng Hưởng, duy trì {3} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极可以召唤「群狼猎场」造成额外伤害。,"<color=#c49e55>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Dance With the Wolf - Climax summon Wolfpack to deal additional damage.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói, Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực có thể triệu hồi ""Trường Săn Bầy Sói"" gây thêm sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc_1,就像一场围猎,Hunt as a Pack,Như Một Cuộc Vây Săn
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>施放共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极过程中将回复自身<color=Highlight>{0}</color>生命上限的生命值，牵引周围的目标并召唤「群狼猎场」，每秒共计对范围内目标造成攻击<color=Highlight>{1}</color>的热熔伤害，此次伤害为普攻伤害，每次命中目标回复<color=Highlight>{2}</color>点共鸣能量，持续<color=Highlight>{3}</color>秒。,"<color=Highlight>[Forte Circuit]</color>
-Casting Resonance Skill - Dance With the Wolf or Resonance Skill - Dance With the Wolf: Climax restores <color=Highlight>{0}</color> of Lupa's Max HP, pulls in nearby targets, and summons Wolfpack, dealing Fusion DMG equal to <color=Highlight>{1}</color> of her ATK in total to targets within range each second. The DMG dealt is considered Basic Attack DMG. Wolfpack restores <color=Highlight>{2}</color> points Resonance Energy on hit, lasting for <color=Highlight>{3}</color>s.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong quá trình thi triển Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói, Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực sẽ hồi phục HP bằng <color=Highlight>{0}</color> giới hạn HP bản thân, hút các mục tiêu xung quanh và triệu hồi ""Trường Săn Bầy Sói"", mỗi giây gây tổng cộng Sát Thương Hỏa Liệt bằng <color=Highlight>{1}</color> tấn công lên mục tiêu trong phạm vi, sát thương này được tính là sát thương Đánh Thường, mỗi lần trúng mục tiêu hồi <color=Highlight>{2}</color> điểm Năng Lượng Cộng Hưởng, duy trì <color=Highlight>{3}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120701_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极可以召唤「群狼猎场」造成额外伤害。,"<color=Highlight>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Resonance Skill - Dance With the Wolf: Climax summon Wolfpack to deal extra DMG.","<color=Highlight>[Mạch Cộng Hưởng]</color> Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói, Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực có thể triệu hồi ""Trường Săn Bầy Sói"" gây thêm sát thương."
-lang_multi_text.db,MultiText,RogueBuffPool_120702_BuffDesc,"<color=#c49e55>【共鸣回路】</color>固有技能·记住我的名字获得特殊强化：
-·进入加速冲刺状态所需时间缩短至{0}秒。
-·重击·狼咬、重击·锐爪、空中攻击·焰袭额外造成共计攻击{1}的热熔伤害。
-·普攻·星灭和闪避反击额外造成共计攻击{2}的热熔伤害，额外回复{3}点「狼焰」，一定时间内短按普攻将会再次施放普攻·星灭。","<color=#c49e55>[Forte Circuit]</color>
-Inherent Skill - Remember My Name gains the following special enhancements:
-- The time needed to enter Sprint state is lowered to {0}s.
-- Heavy Attack - Wolf's Gnawing, Heavy Attack - Wolf's Claw, and Mid-air Attack - Firestrike deal additional Fusion DMG equal to {1} of ATK.
-- Basic Attack - Starfall and Dodge Counter deal additional Fusion DMG equal to {2} of ATK and restore another <SapTag=3>{3}</SapTag> {Cus:Sap,S=point P=points SapTag=3} of Wolflame. Using Basic Attack shortly after will cast Basic Attack - Starfall again.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Kỹ Năng Nội Tại - Hãy Nhớ Tên Tôi nhận được cường hóa đặc biệt:
-. Thời gian cần thiết để vào trạng thái Xung Kích Tăng Tốc rút ngắn còn {0} giây.
-. Đánh Mạnh - Sói Cắn, Đánh Mạnh - Vuốt Sắc, Tấn Công Trên Không - Diễm Tập gây thêm tổng cộng Sát Thương Hỏa Liệt bằng {1} tấn công.
-. Đánh Thường - Tinh Diệt và Phản Kích Né Tránh gây thêm tổng cộng Sát Thương Hỏa Liệt bằng {2} tấn công, hồi thêm {3} điểm ""Lang Diễm"", trong một khoảng thời gian nhất định nhấn Đánh Thường sẽ thi triển lại Đánh Thường - Tinh Diệt."
-lang_multi_text.db,MultiText,RogueBuffPool_120702_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>固有技能·记住我的名字获得特殊强化。,"<color=#c49e55>[Forte Circuit]</color>
-Inherent Skill - Remember My Name gains special enhancements.",<color=#c49e55>[Mạch Cộng Hưởng]</color> Kỹ Năng Nội Tại - Hãy Nhớ Tên Tôi nhận được cường hóa đặc biệt.
-lang_multi_text.db,MultiText,RogueBuffPool_120702_BuffDesc_1,奔向下一赛场,Onto the Next Match,Tiến Tới Sân Đấu Tiếp Theo
-lang_multi_text.db,MultiText,RogueBuffPool_120702_BuffDesc_2_8,"<color=#c49e55>【共鸣回路】</color>固有技能·记住我的名字获得特殊强化：
-·进入加速冲刺状态所需时间缩短至<color=#c49e55>{0}</color>秒。
-·重击·狼咬、重击·锐爪、空中攻击·焰袭额外造成共计攻击<color=#c49e55>{1}</color>的热熔伤害。
-·普攻·星灭和闪避反击额外造成共计攻击<color=#c49e55>{2}</color>的热熔伤害，额外回复<color=#c49e55>{3}</color>点「狼焰」，一定时间内短按普攻将会再次施放普攻·星灭。","<color=#c49e55>[Forte Circuit]</color>
-Inherent Skill - Remember My Name gains the following special enhancements:
-- The time needed to enter the Sprint state is lowered to <color=#c49e55>{0}s</color>.
-- Heavy Attack - Wolf's Gnawing, Heavy Attack - Wolf's Claw, and Mid-air Attack - Firestrike deal additional Fusion DMG equal to <color=#c49e55>{1}</color> of Lupa's ATK.
-- Basic Attack - Starfall and Dodge Counter deal additional Fusion DMG equal to <color=#c49e55>{2}</color> of Lupa's ATK and restore another <color=#c49e55><SapTag=3>{3}</SapTag></color> {Cus:Sap,S=point P=points SapTag=3} of Wolflame. Using Basic Attack shortly after will cast Basic Attack - Starfall again.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Kỹ Năng Nội Tại - Hãy Nhớ Tên Tôi nhận được cường hóa đặc biệt:
-. Thời gian cần thiết để vào trạng thái Xung Kích Tăng Tốc rút ngắn còn <color=#c49e55>{0}</color> giây.
-. Đánh Mạnh - Sói Cắn, Đánh Mạnh - Vuốt Sắc, Tấn Công Trên Không - Diễm Tập gây thêm tổng cộng Sát Thương Hỏa Liệt bằng <color=#c49e55>{1}</color> tấn công.
-. Đánh Thường - Tinh Diệt và Phản Kích Né Tránh gây thêm tổng cộng Sát Thương Hỏa Liệt bằng <color=#c49e55>{2}</color> tấn công, hồi thêm <color=#c49e55>{3}</color> điểm ""Lang Diễm"", trong một khoảng thời gian nhất định nhấn Đánh Thường sẽ thi triển lại Đánh Thường - Tinh Diệt."
-lang_multi_text.db,MultiText,RogueBuffPool_120703_BuffDesc,"<color=#c49e55>【共鸣回路】</color>「赛点沸腾」状态下免疫打断，攻击提升{0}。
-施放共鸣技能·狼舞的决意·极后的{1}秒内，短按普攻将施放「啮杀」，命中目标后造成共计{2}攻击的热熔伤害，并回复全部「狼焰」。回复「狼焰」的效果8秒内最多生效1次。","<color=#c49e55>[Forte Circuit]</color>
-Increase ATK by {0} and gain immunity to interruption while in the Burning Matchpoint state.
-Within {1}s after casting Resonance Skill: Dance With the Wolf - Climax, {Cus:Ipt,Touch=tap PC=press Gamepad=press} Normal Attack to cast Gnash, dealing Fusion DMG equal to {2} ATK in total on hit and restoring all Wolflame. The restoration effect of Wolflame can only be triggered up to once every 8s.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Trong trạng thái ""Điểm Sôi Sục"" miễn nhiễm gián đoạn, tấn công tăng {0}.
-Trong vòng {1} giây sau khi thi triển Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực, nhấn Đánh Thường sẽ thi triển ""Nhai Sát"", sau khi trúng mục tiêu gây tổng cộng Sát Thương Hỏa Liệt bằng {2} tấn công, và hồi phục toàn bộ ""Lang Diễm"". Hiệu quả hồi phục ""Lang Diễm"" tối đa hiệu lực 1 lần trong 8 giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120703_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>「赛点沸腾」状态下免疫打断，攻击力增加。
-施放共鸣技能·狼舞的决意·极后可以施放「啮杀」，造成伤害并回复「狼焰」。","<color=#c49e55>[Forte Circuit]</color>
-Increase ATK and gain immunity to interruption while in the Burning Matchpoint state. Resonance Skill: Dance With the Wolf - Climax can be followed up by [Gnash], dealing DMG and restoring Wolflame.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Trong trạng thái ""Điểm Sôi Sục"" miễn nhiễm gián đoạn, tấn công tăng.
-Sau khi thi triển Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực có thể thi triển ""Nhai Sát"", gây sát thương và hồi phục ""Lang Diễm""."
-lang_multi_text.db,MultiText,RogueBuffPool_120703_BuffDesc_1,一切为我所用,Mine for the Taking,Tất Cả Dành Cho Tôi
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc,"<color=#c49e55>【共鸣解放】</color>共鸣解放·荣光欢酣于火获得特殊强化：
-·冷却时间减少{0}。
-·施放时热熔伤害提升{1}，持续{2}秒。
-·在目标位置额外召唤两次「狼啸」，每次命中目标造成攻击{3}的热熔伤害，并回复{4}点共鸣能量。","<color=#c49e55>[Resonance Liberation]</color>
-Fire-Kissed Glory gains the following enhancements:
-- Cooldown is reduced by {0}.
-- Casting the skill increases Fusion DMG by {1} for {2}s.
-- Additionally summon Wolf Cry twice at the target's position, each dealing Fusion DMG equal to {3} of ATK on hit and restoring {4} points of Resonance Energy.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Vinh Quang Hân Hoan Trong Lửa nhận được cường hóa đặc biệt:
-. Hồi chiêu giảm {0}.
-. Khi thi triển Sát Thương Hỏa Liệt tăng {1}, duy trì {2} giây.
-. Tại vị trí mục tiêu triệu hồi thêm hai lần ""Lang Khiếu"", mỗi lần trúng mục tiêu gây Sát Thương Hỏa Liệt bằng {3} tấn công, và hồi {4} điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc_0,<color=#c49e55>【共鸣解放】</color>共鸣解放·荣光欢酣于火冷却时间减少，造成的伤害提高。,"<color=#c49e55>[Resonance Liberation]</color>
-Reduce Fire-Kissed Glory cooldown and increase its DMG.","<color=#c49e55>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Vinh Quang Hân Hoan Trong Lửa hồi chiêu giảm, sát thương gây ra tăng."
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc_1,火焰爆发轰鸣,A Burst of Flames,Ngọn Lửa Bùng Nổ Vang Rền
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc_2_8,"<color=Highlight>【共鸣解放】</color>共鸣解放·荣光欢酣于火获得特殊强化：
-·冷却时间减少<color=Highlight>{0}</color>。
-·施放时热熔伤害提升<color=Highlight>{1}</color>，持续<color=Highlight>{2}</color>秒。
-·在目标位置额外召唤两次「狼啸」，每次命中目标造成攻击<color=Highlight>{3}</color>的热熔伤害，并回复<color=Highlight>{4}</color>点共鸣能量。","<color=Highlight>[Resonance Liberation]</color>
-Fire-Kissed Glory gains the following enhancements:
-- Cooldown is reduced by <color=Highlight>{0}</color>.
-- Casting the skill grants <color=Highlight>{1}</color> Fusion DMG Bonus for <color=Highlight>{2}s</color>.
-- Additionally summon Wolf Cry twice at the target's position, each dealing Fusion DMG equal to <color=Highlight>{3}</color> of Lupa's ATK on hit and restoring <color=Highlight>{4}</color> points of Resonance Energy.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Vinh Quang Hân Hoan Trong Lửa nhận được cường hóa đặc biệt:
-. Hồi chiêu giảm <color=Highlight>{0}</color>.
-. Khi thi triển Sát Thương Hỏa Liệt tăng <color=Highlight>{1}</color>, duy trì <color=Highlight>{2}</color> giây.
-. Tại vị trí mục tiêu triệu hồi thêm hai lần ""Lang Khiếu"", mỗi lần trúng mục tiêu gây Sát Thương Hỏa Liệt bằng <color=Highlight>{3}</color> tấn công, và hồi <color=Highlight>{4}</color> điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120704_BuffDesc_2_8_0,<color=Highlight>【共鸣解放】</color>共鸣解放·荣光欢酣于火冷却时间减少，造成的伤害提高。,"<color=Highlight>[Resonance Liberation]</color>
-Fire-Kissed Glory has reduced Cooldown and higher DMG.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Giải Phóng Cộng Hưởng - Vinh Quang Hân Hoan Trong Lửa hồi chiêu giảm, sát thương gây ra tăng."
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc,<color=#c49e55>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极命中目标时，降低对方{0}热熔抗性，持续{1}秒。,"<color=#c49e55>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Resonance Skill: Dance With the Wolf - Climax lower the target's Fusion RES by {0} on hit for {1}s.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói, Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực khi trúng mục tiêu, giảm {0} Kháng Sát Thương Hỏa Liệt của đối phương, duy trì {1} giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc_0,<color=#c49e55>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极命中时降低目标热熔抗性。,"<color=#c49e55>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Dance With the Wolf - Climax lower the target's Fusion RES on hit.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói, Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực khi trúng mục tiêu giảm Kháng Sát Thương Hỏa Liệt của mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc_1,狼啸令敌胆寒,Cower under My Howl,Tiếng Sói Hú Khiến Kẻ Thù Khiếp Sợ
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc_2_8,<color=Highlight>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极命中目标时，降低对方<color=Highlight>{0}</color>热熔抗性，持续<color=Highlight>{1}</color>秒。,"<color=Highlight>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Resonance Skill - Dance With the Wolf: Climax reduces the target's Fusion RES by <color=Highlight>{0}</color> for <color=Highlight>{1}s</color> on hit.","<color=Highlight>[Mạch Cộng Hưởng]</color> Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói, Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực khi trúng mục tiêu, giảm <color=Highlight>{0}</color> Kháng Sát Thương Hỏa Liệt của đối phương, duy trì <color=Highlight>{1}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120705_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>共鸣技能·狼舞的决意、共鸣技能·狼舞的决意·极命中时降低目标热熔抗性。,"<color=Highlight>[Forte Circuit]</color>
-Resonance Skill - Dance With the Wolf and Resonance Skill - Dance With the Wolf: Climax reduces the target's Fusion RES on hit.","<color=Highlight>[Mạch Cộng Hưởng]</color> Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói, Kỹ Năng Cộng Hưởng - Quyết Ý Của Sói - Cực khi trúng mục tiêu giảm Kháng Sát Thương Hỏa Liệt của mục tiêu."
-lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc,"<color=#c49e55>【共鸣回路】</color>「阈限状态」期间施放地狱穿行，可额外造成攻击<color=Highlight>{0}</color>的热熔伤害，此次伤害为重击伤害，使周围敌人停滞<color=Highlight>{1}</color>秒，且下次短按普攻可施放普攻第3、4段，并回复<color=Highlight>{2}</color>点「罪火」。
-每次地狱穿行后，提升<color=Highlight>{3}</color>热熔伤害加成，持续<color=Highlight>{4}</color>秒，可叠加<color=Highlight>{5}</color>层。","<color=#c49e55>[Forte Circuit]</color>
-- Casting Hellstride while in Threshold State additionally deals Fusion DMG equal to <color=Highlight>{0}</color> of Galbrena's ATK (considered Heavy Attack DMG) and stagnates nearby enemies for <color=Highlight>{1}s</color>. Using Basic Attack the next time casts Basic Attack Stages 3 and 4 and restores <color=Highlight>{2}</color> points of Sinflame.
-- Each time casting Hellstride grants <color=Highlight>{3}</color> Fusion DMG Bonus for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{5}</color> times.","<color=#c49e55>[Mạch Cộng Hưởng]</color> Trong thời gian ""Trạng Thái Ngưỡng Giới Hạn"" thi triển Địa Ngục Xuyên Hành, có thể gây thêm Sát Thương Hỏa Liệt bằng <color=Highlight>{0}</color> tấn công, sát thương này được tính là sát thương Đánh Mạnh, khiến kẻ địch xung quanh đình trệ <color=Highlight>{1}</color> giây, đồng thời lần nhấn Đánh Thường tiếp theo có thể thi triển Đánh Thường đoạn 3, 4, và hồi <color=Highlight>{2}</color> điểm ""Tội Hỏa"".
-Mỗi lần sau khi Địa Ngục Xuyên Hành, tăng <color=Highlight>{3}</color> buff Sát Thương Hỏa Liệt, duy trì <color=Highlight>{4}</color> giây, có thể cộng dồn <color=Highlight>{5}</color> tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc_0,"<color=#c49e55>【共鸣回路】</color>「地狱穿行」获得特殊强化。
-「阈限状态」期间，施放「地狱穿行」后短按普攻可回复「罪火」。","<color=#c49e55>[Forte Circuit]</color>
-- Hellstride is enhanced.
-- While in Threshold State, using Basic Attack after casting Hellstride restores Sinflame.","<color=#c49e55>[Mạch Cộng Hưởng]</color> ""Địa Ngục Xuyên Hành"" nhận được cường hóa đặc biệt.
-Trong thời gian ""Trạng Thái Ngưỡng Giới Hạn"", sau khi thi triển ""Địa Ngục Xuyên Hành"", nhấn Đánh Thường có thể hồi phục ""Tội Hỏa""."
-lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc_2_8,"<color=Highlight>【共鸣回路】</color>「阈限状态」期间施放地狱穿行，可额外造成攻击<color=Highlight>{0}</color>的热熔伤害，此次伤害为重击伤害，使周围敌人停滞<color=Highlight>{1}</color>秒，且下次短按普攻可施放普攻第3、4段，并回复<color=Highlight>{2}</color>点「罪火」。
-每次地狱穿行后，提升<color=Highlight>{3}</color>热熔伤害加成，持续<color=Highlight>{4}</color>秒，可叠加<color=Highlight>{5}</color>层。","<color=Highlight>[Forte Circuit]</color>
-- Casting Hellstride while in Threshold State additionally deals Fusion DMG equal to <color=Highlight>{0}</color> of Galbrena's ATK (considered Heavy Attack DMG) and stagnates nearby enemies for <color=Highlight>{1}s</color>. Using Basic Attack the next time casts Basic Attack Stages 3 and 4 and restores <color=Highlight>{2}</color> points of Sinflame.
-- Each time casting Hellstride grants <color=Highlight>{3}</color> Fusion DMG Bonus for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{5}</color> times.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Trạng Thái Ngưỡng Giới Hạn"" thi triển Địa Ngục Xuyên Hành, có thể gây thêm Sát Thương Hỏa Liệt bằng <color=Highlight>{0}</color> tấn công, sát thương này được tính là sát thương Đánh Mạnh, khiến kẻ địch xung quanh đình trệ <color=Highlight>{1}</color> giây, đồng thời lần nhấn Đánh Thường tiếp theo có thể thi triển Đánh Thường đoạn 3, 4, và hồi <color=Highlight>{2}</color> điểm ""Tội Hỏa"".
-Mỗi lần sau khi Địa Ngục Xuyên Hành, tăng <color=Highlight>{3}</color> buff Sát Thương Hỏa Liệt, duy trì <color=Highlight>{4}</color> giây, có thể cộng dồn <color=Highlight>{5}</color> tầng."
-lang_multi_text.db,MultiText,RogueBuffPool_120801_BuffDesc_2_8_0,"<color=Highlight>【共鸣回路】</color>「地狱穿行」获得特殊强化。
-「阈限状态」期间，施放「地狱穿行」后短按普攻可回复「罪火」。","<color=Highlight>[Forte Circuit]</color>
-- Hellstride is enhanced.
-- While in Threshold State, using Basic Attack after casting Hellstride restores Sinflame.","<color=Highlight>[Mạch Cộng Hưởng]</color> ""Địa Ngục Xuyên Hành"" nhận được cường hóa đặc biệt.
-Trong thời gian ""Trạng Thái Ngưỡng Giới Hạn"", sau khi thi triển ""Địa Ngục Xuyên Hành"", nhấn Đánh Thường có thể hồi phục ""Tội Hỏa""."
-lang_multi_text.db,MultiText,RogueBuffPool_120802_BuffDesc,"<color=Highlight>【共鸣回路】</color>「内燃烧」期间，暴击提升<color=Highlight>{0}</color>。
-每次刷新「内燃烧」效果，回复<color=Highlight>{1}</color>点共鸣能量。","<color=Highlight>[Forte Circuit]</color>
-- While in Burning Drive, Crit. Rate is increased by <color=Highlight>{0}</color>.
-- Each Burning Drive reset restores <color=Highlight>{1}</color> points of Resonance Energy.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Nội Nhiên Thiêu"", Tỷ lệ Bạo Kích tăng <color=Highlight>{0}</color>.
-Mỗi lần làm mới hiệu quả ""Nội Nhiên Thiêu"", hồi <color=Highlight>{1}</color> điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120802_BuffDesc_0,<color=Highlight>【共鸣回路】</color>「内燃烧」期间暴击提升，每次刷新时回复共鸣能量。,"<color=Highlight>[Forte Circuit]</color>
-- While in Burning Drive, Crit. Rate is increased.
-- Each Burning Drive reset restores Resonance Energy.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Nội Nhiên Thiêu"" tăng Tỷ lệ Bạo Kích, mỗi lần làm mới sẽ hồi Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120802_BuffDesc_2_8,"<color=Highlight>【共鸣回路】</color>「内燃烧」期间，暴击提升<color=Highlight>{0}</color>。
-每次刷新「内燃烧」效果，回复<color=Highlight>{1}</color>点共鸣能量。","<color=Highlight>[Forte Circuit]</color>
-- While in Burning Drive, Crit. Rate is increased by <color=Highlight>{0}</color>.
-- Each Burning Drive reset restores <color=Highlight>{1}</color> points of Resonance Energy.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Nội Nhiên Thiêu"", Tỷ lệ Bạo Kích tăng <color=Highlight>{0}</color>.
-Mỗi lần làm mới hiệu quả ""Nội Nhiên Thiêu"", hồi <color=Highlight>{1}</color> điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120802_BuffDesc_2_8_0,<color=Highlight>【共鸣回路】</color>「内燃烧」期间暴击提升，每次刷新时回复共鸣能量。,"<color=Highlight>[Forte Circuit]</color>
-- While in Burning Drive, Crit. Rate is increased.
-- Each Burning Drive reset restores Resonance Energy.","<color=Highlight>[Mạch Cộng Hưởng]</color> Trong thời gian ""Nội Nhiên Thiêu"" tăng Tỷ lệ Bạo Kích, mỗi lần làm mới sẽ hồi Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,RogueBuffPool_120803_BuffDesc,"<color=Highlight>【共鸣解放】</color>「共鸣解放·炼净」冷却时间减少<color=Highlight>{0}</color>秒。
-施放时每<color=Highlight>{1}</color>点「罪火」或「净炼火」可额外回复<color=Highlight>{2}</color>点「余火」，每点「罪火」或「净炼火」使自身伤害加成提升<color=Highlight>{3}</color>，持续<color=Highlight>{4}</color>秒。","<color=Highlight>[Resonance Liberation]</color>
-- The cooldown of Resonance Liberation - Hellfire Absolution is reduced by <color=Highlight>{0}s</color>.
-- When casting the skill, every <color=Highlight>{1}</color> points of Sinflame or Purging Flame available additionally restores <color=Highlight>{2}</color> points of Afterflame. Each point of Sinflame or Purging Flame grants <color=Highlight>{3}</color> DMG Bonus for <color=Highlight>{4}s</color>.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Hồi chiêu ""Giải Phóng Cộng Hưởng - Luyện Tịnh"" giảm <color=Highlight>{0}</color> giây.
-Khi thi triển, mỗi <color=Highlight>{1}</color> điểm ""Tội Hỏa"" hoặc ""Tịnh Luyện Hỏa"" có thể hồi thêm <color=Highlight>{2}</color> điểm ""Dư Hỏa"", mỗi điểm ""Tội Hỏa"" hoặc ""Tịnh Luyện Hỏa"" khiến buff sát thương bản thân tăng <color=Highlight>{3}</color>, duy trì <color=Highlight>{4}</color> giây."
-lang_multi_text.db,MultiText,RogueBuffPool_120803_BuffDesc_0,<color=Highlight>【共鸣解放】</color>共鸣解放冷却时间减少，额外回复「余火」并使自身伤害加成提升。,"<color=Highlight>[Resonance Liberation]</color>
-- The cooldown of Resonance Liberation is reduced.
-- Casting Resonance Liberation additionally restores Afterflame and increases DMG dealt.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Hồi chiêu Giải Phóng Cộng Hưởng giảm, hồi thêm ""Dư Hỏa"" và tăng buff sát thương bản thân."
-lang_multi_text.db,MultiText,RogueBuffPool_120803_BuffDesc_2_8,"<color=Highlight>【共鸣解放】</color>「共鸣解放·炼净」冷却时间减少<color=Highlight>{0}</color>秒。
-施放时每<color=Highlight>{1}</color>点「罪火」或「净炼火」可额外回复<color=Highlight>{2}</color>点「余火」，每点「罪火」或「净炼火」使自身伤害加成提升<color=Highlight>{3}</color>，持续<color=Highlight>{4}</color>秒。","<color=Highlight>[Resonance Liberation]</color>
-- The cooldown of Resonance Liberation - Hellfire Absolution is reduced by <color=Highlight>{0}s</color>.
-- When casting the skill, every <color=Highlight>{1}</color> points of Sinflame or Purging Flame available additionally restores <color=Highlight>{2}</color> points of Afterflame. Each point of Sinflame or Purging Flame grants <color=Highlight>{3}</color> DMG Bonus for <color=Highlight>{4}s</color>.","<color=Highlight>[Giải Phóng Cộng Hưởng]</color> Hồi chiêu ""Giải Phóng Cộng Hưởng - Luyện Tịnh"" giảm <color=Highlight>{0}</color> giây.
-Khi thi triển, mỗi <color=Highlight>{1}</color> điểm ""Tội Hỏa"" hoặc ""Tịnh Luyện Hỏa"" có thể hồi thêm <color=Highlight>{2}</color> điểm ""Dư Hỏa"", mỗi điểm ""Tội Hỏa"" hoặc ""Tịnh Luyện Hỏa"" khiến buff sát thương bản thân tăng <color=Highlight>{3}</color>, duy trì <color=Highlight>{4}</color> giây."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_6,不……辛西娅，求你睁开眼看看我……为什么会这样，西区……不，都怪我！我不该那么心急、不管不顾……,"No, Cynthia! Look at me, please... Why is this happening? The West End... It's all my fault. I should've been more careful...","Không... Cynthia, xin em mở mắt ra nhìn tôi đi... tại sao lại như vậy, khu Tây... không, đều tại tôi! Tôi không nên nóng vội, bất chấp tất cả như vậy..."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_7,你已经是我最后的家人了……开拓……开拓没有尽头，野心没有尽头，对名利的追求永远不会有尽头……,"You're the only family I have left... ""The Montelli's motto is Enterprise,"" huh... But there's no end to this enterprise, no end to the ambition, no end to chasing wealth…","Em đã là người thân cuối cùng của tôi rồi... Khai phá... khai phá không có điểm dừng, dã tâm không có điểm dừng, sự theo đuổi danh lợi vĩnh viễn sẽ không có điểm dừng..."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_8,最后是身为话事人的「祖父」替你们收拾残局，计划如期继续，但已逝的成员不会再回来，这是家族最惨痛的一笔血债。,"In the end, your dear grandfather had to step in and fix the mess you all made. The plan advanced, but the dead were forever gone. It stands as the greatest tragedy in our family's history.","Cuối cùng là ""Ông Nội"" với tư cách người đứng đầu đã thu dọn tàn cuộc thay các người, kế hoạch vẫn tiếp tục đúng hạn, nhưng những thành viên đã mất sẽ không quay lại nữa, đây là món nợ máu đau đớn nhất của gia tộc."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_9,带着这样一笔血债，你待在利刃的位置上，更加兢兢业业地维系着家族的利益。,"With that blood debt haunting you, you became the sharpest blade, working harder than ever to protect the family's interests.","Mang theo món nợ máu như vậy, cô ở vị trí lưỡi dao, càng thêm cẩn trọng duy trì lợi ích của gia tộc."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_10,而科波拉……你说他是不是也在这之后，才萌生了寻求庇护的想法呢？因为以他的能力根本不足以护住他想要的。,And Capollo... Did he think of seeking the Order's protection after that? When it became painfully clear that his power alone couldn't secure his ambitions.,"Còn Capollo... cô nói xem có phải sau chuyện này, anh ta mới nảy sinh ý nghĩ tìm kiếm sự che chở không? Bởi vì với năng lực của anh ta hoàn toàn không đủ để bảo vệ thứ anh ta muốn."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_11,只是仔细想想，科波拉的主张又有什么不好？牺牲无从幸免，总要有人承受风险和代价。,"Come to think of it, what's so wrong with that? Sacrifices are inevitable, and someone must bear the burden.","Chỉ là nghĩ kỹ lại, chủ trương của Capollo thì có gì không tốt? Hy sinh là điều không thể tránh khỏi, luôn phải có người chịu đựng rủi ro và cái giá phải trả."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_12,家族的利益得以被保全……这不是你渴望促成的平衡吗？,"By doing so, the family's interests can be preserved. Is this not the balance you wish to maintain?",Lợi ích của gia tộc được bảo toàn... đây chẳng phải là sự cân bằng mà cô khao khát thúc đẩy sao?
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_13,更何况，过去你不曾拥有过做决定的资格，现在你又真的有资格打破这样一份平衡吗？,You were never meant to make decisions for the family. Do you really have what it takes to reshape the order of things?,"Huống hồ, trong quá khứ cô chưa từng có tư cách đưa ra quyết định, bây giờ cô thực sự có tư cách phá vỡ sự cân bằng như vậy sao?"
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_14,不，我还是必须……阻止他。,"No matter what you say, I must... stop him.","Không, tôi vẫn phải... ngăn cản anh ta."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_15,为什么？难道我所映射出的未来不比你所有的好得多吗？,Why? Didn't I just show you a better future than what you face now?,Tại sao? Chẳng lẽ tương lai mà tôi phản chiếu ra không tốt hơn nhiều so với tất cả những gì cô có sao?
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_16,说白了，这只是你的一场模拟，是不是由曾经的我来做决定就能导致不一样的结局，根本是无从验证的命题。,"Merely an illusion of your making! My choices may have altered the outcome, but it's impossible to prove now.","Nói trắng ra, đây chỉ là một màn mô phỏng của cô, việc tôi của ngày xưa đưa ra quyết định có dẫn đến kết cục khác hay không, là một mệnh đề hoàn toàn không thể kiểm chứng."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_17,因为发生的已经发生了，而路只能走一条。,The past is set in stone. We only have one path before us.,"Bởi vì chuyện đã xảy ra thì đã xảy ra rồi, và đường chỉ có thể đi một con."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_18,那场雨，旷日持久地淋在每个人身上……但一味沉浸在过去，又会有什么意义。,"Yes, the cold rain from that night still haunts us. But we cannot be shackled by the past.","Cơn mưa đó, dai dẳng trút lên người mỗi chúng ta... nhưng cứ mãi chìm đắm trong quá khứ, thì có ý nghĩa gì chứ."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_19,我很清楚，现在的我没有资格，但我也很清楚，影响我判断的准则一直只有一条，做真正对家族有利的事。,"I might not be in charge, but my principles are clear. Every action I take is for the benefit of the family.","Tôi biết rất rõ, tôi của hiện tại không có tư cách, nhưng tôi cũng biết rất rõ, chuẩn tắc ảnh hưởng đến phán đoán của tôi luôn chỉ có một điều, làm việc thực sự có lợi cho gia tộc."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_20,所以我必须离开这里、阻止科波拉。相应的，我也会承担由此导致的所有后果。,I must leave here and stop Capollo. Whatever the consequence.,"Cho nên tôi phải rời khỏi đây, ngăn cản Capollo. Tương ứng, tôi cũng sẽ chịu mọi hậu quả do việc này gây ra."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_21,二次谈判破裂，看来我要换一种方式把你留下了喔。,Our negotiations have reached a dead end. Then I'll need to try something else to make you stay.,"Đàm phán lần hai thất bại, xem ra tôi phải đổi một cách khác để giữ cô lại rồi."
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_22,唔，这样也不行……这么快就下定决心了吗？,"Hmm... You're unshakable, aren't you? So you've made up your mind already?","Hừm, thế này cũng không được... hạ quyết tâm nhanh vậy sao?"
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_23,我们究竟要失去多少在意的才足够？,How much more do we have to lose?,Chúng ta rốt cuộc phải mất đi bao nhiêu thứ mình để ý mới đủ đây?
+lang_multi_text.db,MultiText,RGZYYYGJZ_44_24,"但真实的情况是，当年没人在意、没人采纳、没人过问珂莱塔的想法，雨幕中，判断错误的家族选择了致使本部损失惨重，老邓肯失去了最后的亲人，「祖父」带伤主持大局。镜中的珂莱塔指出珂莱塔从未拥有判断的资格，并以映射出的美好未来诱惑珂莱塔，但珂莱塔已经下定决心，无论有无资格都将离开这里，阻止科波拉。
+镜中珂莱塔只得使珂莱塔陷入了无限回廊。","Reality is completely different—no one listened to Carlotta's opinions that day. The family's wrong decision led to the tragic fall of the headquarters. Duncan lost his last family member, and Padrino was left to hold the family together despite his injuries.
+Now, Carlotta's mirror self reveals the harsh truth: she has never been trusted to lead. 
+Tempted by an illusory perfect future, Carlotta steels herself against the deception, resolved to stop Capollo.
+Her defiance enrages the mirror self, who then traps her in an endless labyrinth.","Nhưng tình hình thực tế là, năm đó chẳng ai để ý, chẳng ai tiếp nhận, chẳng ai hỏi đến suy nghĩ của Carlotta, trong màn mưa, gia tộc phán đoán sai lầm đã lựa chọn khiến bản bộ tổn thất nặng nề, lão Duncan mất đi người thân cuối cùng, ""Ông Nội"" mang thương tích chủ trì đại cục. Carlotta trong gương chỉ ra Carlotta chưa từng có tư cách phán đoán, và dùng tương lai tươi đẹp được phản chiếu để dụ dỗ Carlotta, nhưng Carlotta đã hạ quyết tâm, bất kể có tư cách hay không cũng sẽ rời khỏi đây, ngăn cản Capollo.
+Carlotta trong gương đành phải khiến Carlotta rơi vào hành lang vô tận."
+lang_multi_text.db,MultiText,RGZYYYGJZ_45_1,不不，不该是这个方向，是那边……你走错了。,"No, not this way, piccolina. You should try another way...","Không không, không phải hướng này, là bên kia... cô đi sai rồi."
+lang_multi_text.db,MultiText,RGZYYYGJZ_45_2,好孩子，下一次……要选另一边，还来得及！,Choose wisely. You still have a chance to make things right.,"Ngoan nào, lần sau... hãy chọn bên khác, vẫn còn kịp!"
+lang_multi_text.db,MultiText,RGZYYYGJZ_46_1,你怎么也……,Why are you...,Sao ngươi cũng...
+lang_multi_text.db,MultiText,RGZYYYGJZ_46_2,担心你一个人会有危险。,I was worried you might be in danger.,Lo cô một mình sẽ gặp nguy hiểm.
+lang_multi_text.db,MultiText,RGZYYYGJZ_46_3,也为了把这个交到你手上。,"Also, I'm here to deliver this.",Cũng là để giao cái này tận tay cô.
+lang_multi_text.db,MultiText,RGZYYYGJZ_46_4,枪其实就在那里，当你做出自己的决定，你就有了将它拿起的资格。,The gun was always there. You earned the right to use it the moment you chose to act on your own accord.,"Súng thực ra vẫn luôn ở đó, khi cô đưa ra quyết định của riêng mình, cô đã có tư cách cầm nó lên rồi."
+lang_multi_text.db,MultiText,RGZYYYGJZ_46_5,我想，现在你已经下定决心了。,Looks like you've made up your mind.,"Tôi nghĩ, bây giờ cô đã hạ quyết tâm rồi."
+lang_multi_text.db,MultiText,RGZYYYGJZ_46_6,你因担心珂莱塔的安危同样进入镜中，并将弗朗西斯拜托自己的枪，交给珂莱塔。,"Concerned for Carlotta's safety, you enter the mirror as well and hand her the gun that Francesco entrusted to you.","Bạn vì lo lắng cho an nguy của Carlotta nên cũng tiến vào trong gương, và giao khẩu súng mà Francesco nhờ cậy cho Carlotta."
+lang_multi_text.db,MultiText,RGZYYYGJZ_47_1,利刃而已，有什么资格打破持刀者的平衡？,I am merely a blade made for killing. Am I really qualified to change the status quo?,"Chỉ là lưỡi dao thôi, có tư cách gì phá vỡ sự cân bằng của người cầm dao chứ?"
+lang_multi_text.db,MultiText,RGZYYYGJZ_47_2,遵从于我，又有什么不好！,Why won't you obey my orders!,"Tuân theo ta, có gì không tốt!"
+lang_multi_text.db,MultiText,RGZYYYGJZ_47_3,我已经老了，我们该选择那条更为轻易的路。,I'm getting old. We should take the easier approach.,"Ta đã già rồi, chúng ta nên chọn con đường dễ dàng hơn."
+lang_multi_text.db,MultiText,RGZYYYGJZ_47_4,如果能有人替我们承担那份痛苦……,If we can make other people pay the price...,Nếu có người có thể thay chúng ta gánh chịu nỗi đau đó...
+lang_multi_text.db,MultiText,RGZYYYGJZ_47_5,所以……,So...,Cho nên...
+lang_multi_text.db,MultiText,RGZYYYGJZ_47_6,屈服于我、留在这里……又有什么不好？,Why can't you just give in to me and stay here?,"Khuất phục ta, ở lại đây... thì có gì không tốt chứ?"
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_5,她、她怎么能碰给神的贡品！,H-how dare she eat the tribute...,Nó... sao nó dám đụng vào cống phẩm dâng lên Thần!
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_6,只会在原地祈祷,Prayer alone,Chỉ biết cầu nguyện tại chỗ
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_7,嬷嬷说过,Nanny always said,Bà vú đã nói rồi
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_11,将装饰重塑成武器,"Repurposing decoration into a weapon,","Biến đồ trang trí thành vũ khí,"
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_12,跟我走吧,Come with me.,Đi theo ta.
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_13,家族会予你庇护,The family will shield you,Gia tộc sẽ che chở cho cháu
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_14,你将成为……,You will rise to become...,Cháu sẽ trở thành...
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_15,一个真正的莫塔里,A true Montelli.,Một Montelli chân chính.
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_16,对生存而言,"In the face of survival,","Đối với sự sinh tồn,"
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_17,没想到,Who would have thought,Không ngờ
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_18,对莫塔里来说，这倒是刚好,This suits a Montelli well.,Với nhà Montelli thì điều này lại vừa hay.
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_19,等不来所谓的垂怜,Offers no salvation.,Sẽ chẳng chờ được cái gọi là rủ lòng thương.
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_20,教条是无用的,Creed becomes meaningless.,Giáo điều là vô dụng.
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_21,那些食物就是放坏了,"The food is for tribute,","Mấy thứ đồ ăn đó dù có để hỏng,"
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_24,她还是位莫塔里,She's a Montelli after all.,Con bé vẫn là một Montelli.
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_25,厅堂那都乱了套,"The hall is in chaos,","Đại sảnh loạn cào cào cả lên,"
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_26,真是太可怕了！,What a monster!,Thật đáng sợ!
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_27,打破权威的定义,Defying indoctrination,"Phá vỡ định nghĩa về quyền uy,"
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_28,她的骨血里流淌着与我们一般的意志,Her blood runs with the same fierce will as ours.,Trong xương tủy con bé chảy cùng một dòng ý chí với chúng ta.
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_29,向你展示更为广阔的世界,And open your eyes to a new world.,Cho cháu thấy một thế giới rộng lớn hơn.
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_30,你这个不听话的坏孩子……,You're a bad girl...,Đồ hư đốn không nghe lời...
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_31,我要告诉嬷嬷去！,I'm telling Nanny!,Tao sẽ đi mách bà vú!
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_32,别跑！,Stop!,Đứng lại!
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_33,追上她！,Catch her!,Đuổi theo nó!
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_34,也不能拿来吃！,it's not for eating!,Cũng không được lấy ăn!
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_35,她还死握着不肯松手……,Yet she clings to her weapon...,Nó vẫn nắm chặt không chịu buông tay...
+lang_multi_text.db,MultiText,RGZYYYGJZ_48_36,主动找到出路,To chart the course forward.,Tự mình tìm ra lối thoát.
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_1,你将从复原的终端数据中了解到的事情告诉珂莱塔。,You tell Carlotta what you learned from the recovered Terminal data.,Bạn kể cho Carlotta nghe những điều tìm được từ dữ liệu thiết bị đầu cuối đã khôi phục.
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_2,原来这样……老邓肯并不知道贝内特死亡的真相，只是想要替朋友保持最后的体面，而科波拉正是利用了这一点。,"I see... so Duncan was in the dark about the real cause of Benett's death. He simply wanted to protect his friend's reputation, and Capollo used that.","Hóa ra là vậy... Ông Duncan không biết sự thật về cái chết của Benett, ông ấy chỉ muốn giữ lại chút thể diện cuối cùng cho bạn mình, và Capollo đã lợi dụng chính điều đó."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_3,为了替死去的贝内特偿还损失、挽回名声，他将被处理过的终端交到我们手上。,"Duncan gave us a rigged Terminal to cover Benett's ""debt"", clearing his name.","Để bồi thường thiệt hại và vãn hồi danh dự thay cho Benett đã khuất, ông ấy đã giao cho chúng ta thiết bị đầu cuối đã qua xử lý."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_4,……其实，我明白科波拉甚至老邓肯他们想要的是什么，更为安逸的、风险更小的未来，没有人会不对那样的明天心动。,"I can empathize with Duncan, even to some extent Capollo. They are driven by a desire for safety and stability—a tempting future even for me.","...Thực ra, tôi hiểu những gì Capollo hay thậm chí cả ông Duncan mong muốn. Một tương lai an nhàn hơn, ít rủi ro hơn, không ai là không rung động trước một ngày mai như thế."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_5,但那样的明天，不是靠向修会投诚、寻求他们的庇护得到的。,But we will never achieve that by surrendering ourselves to the Order.,Nhưng ngày mai như vậy không thể có được bằng cách đầu hàng Tu Hội và tìm kiếm sự che chở của họ.
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_7,修会和家族从一开始，就走在完全背离的方向。一旦你选择放弃，你就会不得不放弃更多，而当你丧失掌握主动的可能，你就再无说不的资格。,"From the very beginning, our paths diverged. To yield to them now means giving up even more, and once we lose our grip, we'll no longer have the luxury of refusal.","Tu Hội và gia tộc ngay từ đầu đã đi trên hai con đường hoàn toàn trái ngược. Một khi đã chọn từ bỏ, anh sẽ buộc phải từ bỏ nhiều hơn nữa, và khi mất đi khả năng nắm quyền chủ động, anh sẽ không còn tư cách để nói ""không""."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_8,固化的高墙之中，「祖父」还有其他莫塔里的前辈们已经用努力打通了一条路，我也应像他们，给予家族成员甚至是拉古那人一个可行的方向。,"Grandfather and the others have already paved the way. I will follow their lead and chart a course towards a brighter tomorrow. For our family, and all of Ragunna.","Giữa những bức tường kiên cố, ""Ông Nội"" và các tiền bối nhà Montelli đã nỗ lực mở ra một con đường, tôi cũng nên giống như họ, chỉ cho các thành viên trong gia tộc, thậm chí là người dân Ragunna một hướng đi khả thi."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_9,声势浩大地与修会对上并不明智，但与其被动地跟在科波拉身后，寻找不知道被他收在哪里的数据元件，不如用一种更有效的方式解决问题——让他把东西交到我们手中。,"An all-out war with the Order isn't a wise move. Rather than blindly tailing Capollo in search of a hidden data module, let's take control and have him come to us.","Đối đầu trực diện với Tu Hội không phải là ý hay, nhưng thay vì thụ động chạy theo sau Capollo, tìm kiếm linh kiện dữ liệu không biết bị giấu ở đâu, chi bằng giải quyết vấn đề một cách hiệu quả hơn: khiến ông ta tự giao nó cho chúng ta."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_10,红丝绒说过，她，还有其他人都需要家族给出表态。,"Scarlet Velvet mentioned they need a formal reply, and we can deliver that.","Scarlet Velvet từng nói, cô ấy và những người khác đều cần gia tộc đưa ra thái độ rõ ràng."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_11,{PlayerName}，有兴趣和我一起，在两天之后给他们一场盛大华丽的表态吗？,"{PlayerName}, care to help me give them an unforgettable response in two days?","{PlayerName}, có hứng thú cùng tôi dành tặng cho họ một màn thể hiện hoành tráng và lộng lẫy sau hai ngày nữa không?"
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_12,将主动权掌握在手中，我喜欢。,We're taking the initiative. I like it.,"Nắm quyền chủ động trong tay, tôi thích đấy."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_13,自己把东西交给我们……有意思。,Have him come to us... That makes things interesting.,Tự mình giao đồ cho chúng ta... Thú vị đấy.
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_14,科波拉的确<color=yellow>没有修改</color>终端自带的数据记录，不然他就会发现那些被覆盖掩藏的信息，他只是在贝内特曾经<color=yellow>去过的属于他的码头</color>提前准备、设下陷阱。,"Capollo <color=yellow>couldn't have tampered</color> with the Terminal data himself, or he would have found the information hidden beneath the overwrites. He simply laid a trap at <color=yellow>the dock that Benett visited</color>.","Capollo quả thực <color=yellow>không sửa đổi</color> dữ liệu ghi trong thiết bị, nếu không ông ta đã phát hiện ra những thông tin bị ghi đè đó. Ông ta chỉ chuẩn bị trước và đặt bẫy tại <color=yellow>bến cảng mà Benett từng đến</color>."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_15,财富和强大是自由的保障，而自由又反哺了它们。,"Wealth and power will safeguard our freedom, while freedom, in turn, will nurture wealth and power.","Sự giàu có và lớn mạnh là bảo chứng cho tự do, và tự do lại nuôi dưỡng chúng."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_16,莫塔里会打破修会的桎梏，向七丘，向瑝珑，向其他国家，向更加广阔的世界走去，但前行的途中我们永远不会忘记“家人”。,"The Montelli family is set to break the Order's suffocating hold and lead Ragunna towards a wider horizon—embracing Septimont, Huanglong, and other countries. And through it all, we will never forget who we are.","Nhà Montelli sẽ phá vỡ gông cùm của Tu Hội, tiến về phía Thất Lĩnh, phía Hoàng Long, các quốc gia khác, và một thế giới rộng lớn hơn, nhưng trên hành trình đó, chúng ta sẽ không bao giờ quên ""người nhà""."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_17,家族始终是为了做到一个人做不到的事、抵挡一个人无法面对的风雨而存在的……至少这些，才是我所设想的莫塔里的未来。,The family exists to accomplish what one cannot and withstand the winds of fate. This is the future I envision for the Montellis.,"Gia tộc luôn tồn tại để làm những việc mà một người không thể làm, để chống chọi những giông bão mà một người không thể đối mặt... Ít nhất, đó mới là tương lai của nhà Montelli mà tôi hình dung."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_18,接下来，你准备怎么做？,What do you plan to do next?,"Tiếp theo, cô định làm thế nào?"
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_19,就像我说的，将主动权掌握在我们自己手中。,"Like I said, we seize control.","Như tôi đã nói, nắm quyền chủ động trong tay chúng ta."
+lang_multi_text.db,MultiText,RGZYYYGJZ_49_20,声势浩大地与修会对上并不明智，但与其被动地跟在科波拉身后，寻找不知道被他收在哪里的数据元件，不如用一种更有效的方式解决问题——让他把东西交到我们手中，决定在两天之后给他们一场盛大华丽的表态。,"It would be unwise to directly confront the Order, but staying passively behind Capollo and aimlessly searching for the core data module isn't a reasonable choice either.
+You and Carlotta decide to force Capollo into handing over the item by giving them an unforgettable response in two days.","Đối đầu trực diện với Tu Hội không phải là ý hay, nhưng thay vì thụ động chạy theo sau Capollo để tìm kiếm linh kiện dữ liệu, chi bằng giải quyết vấn đề một cách hiệu quả hơn: khiến ông ta tự giao nó cho chúng ta. Bạn và Carlotta quyết định sẽ dành tặng cho họ một màn thể hiện hoành tráng sau hai ngày nữa."
+lang_multi_text.db,MultiText,RGZYYYGJZ_50_1,确认下位置，你已经到达交易会场了吗？我机敏而又智慧的“共犯”。,"Just checking your location, have you reached the spot, my clever accomplice?","Xác nhận vị trí chút nào, bạn đã đến hội trường giao dịch chưa? ""Đồng phạm"" thông minh và lanh lợi của tôi."
+lang_multi_text.db,MultiText,RGZYYYGJZ_50_2,一切顺利。,Everything's going according to plan.,Mọi việc thuận lợi.
+lang_multi_text.db,MultiText,RGZYYYGJZ_50_3,好，别忘了做好伪装。会场外的所有街道，都有红丝绒和我的人手接应，一旦有什么不测，我会启用后备计划。,"Perfect. Remember to be stealthy. Scarlet Velvet and my operatives are positioned in all the streets around the venue. Should anything go awry, I'll set Plan B in motion.","Tốt, đừng quên ngụy trang kỹ. Mọi con đường bên ngoài hội trường đều có người của Scarlet Velvet và tôi tiếp ứng, nếu có gì bất trắc, tôi sẽ kích hoạt kế hoạch dự phòng."
+lang_multi_text.db,MultiText,RGZYYYGJZ_50_4,而会场的出口只有一个，我另外安排了专门的人接应。接下来要拜托你打进内部，帮我混进去了。,The venue only has one entrance. I've arranged for a handler to get you in. You'll go in first and then help me slip in without drawing attention.,"Hội trường chỉ có một lối ra, tôi đã sắp xếp người chuyên trách tiếp ứng ở đó. Tiếp theo phải nhờ bạn thâm nhập vào trong và giúp tôi trà trộn vào rồi."
+lang_multi_text.db,MultiText,RGZYYYGJZ_50_5,咳咳……能听清吗?,Ahem. Can you hear me?,Khụ khụ... nghe rõ không?
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_1,楼上的会客厅已经被预定了，闲杂人不得靠近。,"The upstairs parlor is off-limits, reserved for a private event.","Phòng khách trên lầu đã được đặt trước, người không phận sự miễn lại gần."
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_2,之前打过招呼的。,We gave you the heads-up before.,Trước đó đã báo rồi mà.
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_3,老大要我准备一批给合作方的礼物。,Boss wanted a batch of gifts for our business partner.,Sếp bảo tôi chuẩn bị một ít quà cho đối tác.
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_4,我想想，确实是有这么一回事，但不是说要半小时之后才到吗，这么快的吗？,"Hmm... Now that you mentioned it, yes, they did tell me about that. But weren't you supposed to arrive half an hour later?","Để tôi nghĩ xem, đúng là có chuyện này, nhưng không phải bảo nửa tiếng nữa mới đến sao, nhanh vậy à?"
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_5,半小时足够了。,Half an hour is enough for me.,Nửa tiếng là đủ rồi.
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_6,你说什么？,What was that?,Anh nói gì?
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_7,哦哦，我是说提前半小时刚刚好。,"Oh, I mean, I thought it was good to come here half an hour early.","À à, ý tôi là đến sớm nửa tiếng là vừa đẹp."
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_8,早点到好才好早做准备嘛。,We can get ready sooner this way.,Đến sớm thì mới chuẩn bị sớm được chứ.
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_9,你说的也有道理，行吧，不过今天情况特殊，我必须双重核查一下……你，报一下代号和指代物。,"You do have a point, but it's a special day. I need to confirm everyone's identity. What's your codename? Show me your token.","Nói cũng có lý, được thôi, nhưng hôm nay tình huống đặc biệt, tôi phải kiểm tra kép... Anh, báo lại mật danh và vật chỉ định đi."
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_10,（核查……这下麻烦了）,"(A token?... Tsk, I don't have one.)",(Kiểm tra... lần này rắc rối rồi)
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_11,（他人呢，说好的接应怎么还没到……）,(Where's the promised handler? He should be here by now...),"(Người đâu rồi, đã bảo có tiếp ứng sao vẫn chưa thấy...)"
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_12,这不是郁金香嘛，怎么还傻站在门口？你可算来了，老大那边刚刚还催呢。,"Hey, Tulip! Why are you still standing there? Come here! Boss just asked for you.","Đây chẳng phải là Tulip sao, sao còn đứng ngẩn ra ở cửa thế? Cuối cùng cũng tới, Sếp vừa mới giục xong đấy."
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_13,来者借着身形的掩映，将印有郁金香的钱币塞入你手中，你迅速反应过来，将这枚钱币作为身份验证展示。,"The visitor slyly palms a Tulip coin, hiding the gesture in his shadow. You discreetly accept it and present it as proof of identity.","Người mới đến lợi dụng góc khuất cơ thể, nhét đồng xu in hình hoa tulip vào tay bạn, bạn nhanh chóng phản ứng, giơ đồng xu đó ra làm vật chứng minh thân phận."
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_14,是郁金香钱币的郁金香啊……嘶，我想起来了，是金库那边的，我们还在玛格烈特喝过酒。,"Ah, Tulip coin... Oh! I remember you. You work at the vault, don't you? We had a drink at Margherita's.","Là Tulip của đồng xu hoa tulip à... Chà, tôi nhớ ra rồi, là người bên kho bạc, chúng ta từng uống rượu ở chỗ Margherita."
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_15,对，你看看你这记性可真是……,Don't tell me you've already forgotten me?,"Đúng rồi, trí nhớ anh thật là..."
+lang_multi_text.db,MultiText,RGZYYYGJZ_51_16,怪不得说呢，为了贵客特意提前，你们金库那边的人就是机灵。,No wonder you arrived early. You people at the vault are always one step ahead.,"Thảo nào, vì khách quý mà đặc biệt đến sớm, người bên kho bạc các anh đúng là lanh lợi."

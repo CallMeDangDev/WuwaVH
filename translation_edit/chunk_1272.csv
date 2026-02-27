@@ -1,109 +1,160 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,MAIN_RYAM_25_29,不需要担心队友能不能跟上我的节奏，也不用顾忌那些麻烦的人情关系……只单纯地感受竞技的快乐。,"No worrying about whether my teammate can keep up, no dealing with petty politics... just the thrill of the fight.","Không cần lo lắng đồng đội có thể theo kịp tiết tấu của tôi hay không, cũng không cần kiêng dè những mối quan hệ nhân tình phiền phức đó... Chỉ đơn thuần cảm nhận niềm vui thi đấu."
-lang_multi_text.db,MultiText,MAIN_RYAM_25_3,（支撑着七丘的声骸们显现的力量，飘忽不定，并不稳固，无疑处在某种异常中。）,(All the Echoes in Septimont seem to exhibit unstable power. Something is definitely off.),"(Sức mạnh giúp các Thanh Hài ở Thất Khâu hiện hình, chập chờn bất định, không hề vững chắc, chắc chắn đang ở trong tình trạng bất thường nào đó.)"
-lang_multi_text.db,MultiText,MAIN_RYAM_25_30,谢谢你，{PlayerName}。,"Thank you for that, {PlayerName}.","Cảm ơn anh/chị, {PlayerName}."
-lang_multi_text.db,MultiText,MAIN_RYAM_25_31,"第二场比赛胜利后，你在感受到卡提希娅曾到达七丘城某处水域的同时，也察觉了支持七丘声骸们显现的那股力量存在异样之处。
-而针对露帕的离队，她的家族西尔瓦家也开始放出了负面舆论。但她似乎没太受到这些声音的影响，仍旧更关心你寻找卡提希娅的事。","After your victory in the second Agon, you sense Cartethyia's presence by the waters of Septimont, just as you notice the strange energy affecting Septimont's Echoes.
+lang_multi_text.db,MultiText,LZXBSC_18_51,……嗯……时候不早了，差不多该回去收拾收拾了。,"...Well, it's getting late. Time to head back and tidy up.","...Ừm... cũng muộn rồi, chắc phải về dọn dẹp chút thôi."
+lang_multi_text.db,MultiText,LZXBSC_18_52,那么……回头见，朋友们。,"See you around, friends!","Vậy thì... hẹn gặp lại nhé, các bạn."
+lang_multi_text.db,MultiText,LZXBSC_18_53,回头见。,See you around.,Hẹn gặp lại.
+lang_multi_text.db,MultiText,LZXBSC_20_1,抱歉，这里是深空联合临时管制区。,"Sorry, this area is temporarily restricted under Spacetrek Collective jurisdiction.","Xin lỗi, đây là khu vực kiểm soát tạm thời của Liên Đoàn Không Gian Sâu."
+lang_multi_text.db,MultiText,LZXBSC_20_2,为了确保您的安全，还请从外侧绕行。,"For your own safety, please take the outer path.","Để đảm bảo an toàn, vui lòng đi vòng qua phía ngoài."
+lang_multi_text.db,MultiText,LZXBSC_22_1,你注意到它的尾巴了吗？要是展开的话，几乎能裹住整个身体。,"Did you see its tail? If it spreads out, it can probably cover its whole body!","Cậu để ý cái đuôi của nó không? Nếu xòe ra, chắc trùm kín được cả người luôn ấy."
+lang_multi_text.db,MultiText,LZXBSC_22_2,……这应该是拂尾狐用来保持体温的生存手段吧。,...That's likely how Flufftail Foxes maintain their body temperature in this cold.,...Đó chắc là cách sinh tồn để giữ ấm cơ thể của Cáo Đuôi Phất.
+lang_multi_text.db,MultiText,LZXBSC_22_3,不只是御寒，用来伪装也很有效呢。,"Not just for warmth, it's great camouflage too.","Không chỉ giữ ấm, dùng để ngụy trang cũng hiệu quả lắm đấy."
+lang_multi_text.db,MultiText,LZXBSC_22_4,呜呜咦——,Yip-yip!,U u í...
+lang_multi_text.db,MultiText,LZXBSC_22_5,诶诶诶？那是终端啦！不可以吃……,"Hey, wait!! That's my Terminal! You can't eat that...",Ấy ấy ấy? Đó là thiết bị đầu cuối đấy! Không ăn được đâu...
+lang_multi_text.db,MultiText,LZXBSC_25_1,你这孩子……又找来不少苔花呢……,Oh you little one... You brought me moss flowers again?,Cái đứa này... lại tìm đâu ra lắm hoa rêu thế...
+lang_multi_text.db,MultiText,LZXBSC_25_2,……嗯……真好看。,"...Well, but they're beautiful.",...Ừm... đẹp thật.
+lang_multi_text.db,MultiText,LZXBSC_25_3,哎呀毛团，好了好了，快别抖尾巴啦！,"Whoa, hey, Fluffball! Alright, alright, don't wag your tail that hard!","Ây da Cục Bông, thôi được rồi được rồi, đừng vẫy đuôi nữa!"
+lang_multi_text.db,MultiText,LZXBSC_25_4,呜嘤——,Yip-yip!,U ư...
+lang_multi_text.db,MultiText,LZXBSC_30_1,诶？是你啊！正想着你什么时候来呢。,"Hm? Oh, it's you! I was just wondering when you'd swing by again!",Hả? Là cậu à! Đang tính xem bao giờ cậu mới tới đây.
+lang_multi_text.db,MultiText,LZXBSC_30_2,快瞧瞧毛团这孩子，这阵子总往我这儿送花。,Come take a look at Fluffball. It's been bringing me flowers nonstop!,"Nhìn bé Cục Bông này xem, dạo này cứ hay mang hoa đến chỗ tôi suốt."
+lang_multi_text.db,MultiText,LZXBSC_30_3,呵呵，要是哪天找不着苔花了，它也琢磨送点别的，比如“旅人手杖”、寒地星苔、雪抚绒啥的……反正只要是它瞅着顺眼的，全一股脑地给我捎过来。,"Hehe, if it can't find moss flowers, it'll try getting me something else instead, like travellers' poles, Frostworts, Edelschnees... Anything that catches its eyes, really.","He he, hôm nào không tìm được hoa rêu là nó lại nghĩ cách tặng cái khác, nào là ""Gậy Lữ Khách"", Sao Băng Tuyết, Tuyết Phủ Nhung... Nói chung cứ cái gì nó thấy ưng mắt là tha hết về cho tôi."
+lang_multi_text.db,MultiText,LZXBSC_30_4,*尾巴摇得飞快，得意洋洋地眯着眼。*,"*Wags its tail rapidly, eyes squinting with immense proud.*","*Đuôi vẫy tít mù, híp mắt lại vẻ đắc ý.*"
+lang_multi_text.db,MultiText,LZXBSC_30_5,你看看，你看看，现在卫星坠落区那边封着，它倒好……想着法子地忙活。,"Just look at it! Even with the crash site sealed off, it still manages to keep itself busy.","Cậu xem, cậu xem, giờ khu vực vệ tinh rơi bên kia bị phong tỏa rồi, nó thì hay rồi... cứ tìm đủ cách mà bận rộn."
+lang_multi_text.db,MultiText,LZXBSC_30_6,我跟它说了好几次，用不着那么费心。,I've told it a dozen times it doesn't need to go to all that trouble.,"Tôi bảo nó mấy lần rồi, không cần tốn công thế đâu."
+lang_multi_text.db,MultiText,LZXBSC_30_7,可它啊，倔得很。,But… well. You know how stubborn it is.,"Nhưng mà nó á, bướng lắm."
+lang_multi_text.db,MultiText,LZXBSC_30_8,毛团真正想送的，是“心意”本身。,What Fluffball's really giving is its heart.,"Cái mà Cục Bông thực sự muốn tặng, chính là ""tấm lòng""."
+lang_multi_text.db,MultiText,LZXBSC_30_9,至少比数据记录仪好多了，不沉。,"At least, these are lighter than the data recorders.","Ít nhất cũng đỡ hơn mấy cái thiết bị ghi dữ liệu, không nặng."
+lang_multi_text.db,MultiText,LZXBSC_30_10,哈哈哈，你这么说的话……也是！,"Hahaha, you've got a point here!","Ha ha ha, cậu nói thế thì... cũng phải!"
+lang_multi_text.db,MultiText,LZXBSC_30_11,只要毛团这小家伙活蹦乱跳、能吃能睡，我这心里头啊，比得了啥宝贝都高兴。,"As long as this little one's living a happy life, I couldn't ask for any greater treasure in the world.","Chỉ cần nhóc Cục Bông này nhảy nhót tung tăng, ăn ngon ngủ kỹ, là lòng tôi vui hơn vớ được của báu rồi."
+lang_multi_text.db,MultiText,LZXBSC_30_12,嘤嘤——,Yip-yip!,Ư ư...
+lang_multi_text.db,MultiText,LZXBSC_30_13,你垂眼望去，毛团此时正依偎在你与埃罗的腿边，它蓬松的尾巴随风舒展，像是一朵在冰原上静静绽放的温暖绒花。,"You look down. Fluffball's snuggled against your legs and Ero's. Its fluffy tail sways in the wind like a warm, blooming flower amidst the frostlands.","Bạn nhìn xuống, Cục Bông lúc này đang rúc vào chân bạn và Ero, chiếc đuôi xù bông của nó duỗi ra theo gió, tựa như một đóa hoa nhung ấm áp lặng lẽ nở rộ trên băng nguyên."
+lang_multi_text.db,MultiText,LZXBSC_35_1,你这孩子……又找来不少苔花呢……,Oh you little one... You brought me moss flowers again?,Cái đứa này... lại tìm đâu ra lắm hoa rêu thế...
+lang_multi_text.db,MultiText,LZXBSC_35_2,……嗯……真好看。,"...Well, but they're beautiful.",...Ừm... đẹp thật.
+lang_multi_text.db,MultiText,LZXBSC_35_3,哎呀毛团，好了好了，快别抖尾巴啦！,"Whoa, hey, Fluffball! Alright, alright, don't wag your tail that hard!","Ây da Cục Bông, thôi được rồi được rồi, đừng vẫy đuôi nữa!"
+lang_multi_text.db,MultiText,LZXBSC_35_4,呜嘤——,Yip-yip!,U ư...
+lang_multi_text.db,MultiText,LZXBSC_40_1,诶？是你啊！正想着你什么时候来呢。,"Hm? Oh, it's you! I was just wondering when you'd swing by again!",Hả? Là cậu à! Đang tính xem bao giờ cậu mới tới đây.
+lang_multi_text.db,MultiText,LZXBSC_40_2,快瞧瞧毛团这孩子，这阵子总往我这儿送花。,Come take a look at Fluffball. It's been bringing me flowers nonstop!,"Nhìn bé Cục Bông này xem, dạo này cứ hay mang hoa đến chỗ tôi suốt."
+lang_multi_text.db,MultiText,LZXBSC_40_3,呵呵，要是哪天找不着苔花了，它也琢磨送点别的，比如“旅人手杖”、寒地星苔、雪抚绒啥的……反正只要是它瞅着顺眼的，全一股脑地给我捎过来。,"Hehe, if it can't find moss flowers, it'll try getting me something else instead, like travellers' poles, Frostworts, Edelschnees... Anything that catches its eyes, really.","He he, hôm nào không tìm được hoa rêu là nó lại nghĩ cách tặng cái khác, nào là ""Gậy Lữ Khách"", Sao Băng Tuyết, Tuyết Phủ Nhung... Nói chung cứ cái gì nó thấy ưng mắt là tha hết về cho tôi."
+lang_multi_text.db,MultiText,LZXBSC_40_4,*尾巴摇得飞快，得意洋洋地眯着眼。*,"*Wags its tail rapidly, eyes squinting with immense proud.*","*Đuôi vẫy tít mù, híp mắt lại vẻ đắc ý.*"
+lang_multi_text.db,MultiText,LZXBSC_40_5,你看看，你看看，也不知道咱们前两天说的话，它是真听明白了，还是压根没当回事儿……好歹是没再去折腾那些铁疙瘩了。,See? Not sure how much of our little talk it actually listened to… But at least it hasn't been messing with scrap metal these past few days.,"Cậu xem, cậu xem, chẳng biết mấy lời hôm trước bọn mình nói, là nó nghe hiểu thật hay chả thèm để vào tai... Nhưng ít ra cũng không đi nghịch mấy cục sắt vụn đó nữa."
+lang_multi_text.db,MultiText,LZXBSC_40_6,起码沟通是有效的。,Looks like communication worked.,Ít nhất thì giao tiếp cũng có hiệu quả.
+lang_multi_text.db,MultiText,LZXBSC_40_7,我觉得它大概听懂了一半……,I'd say it understood about half of it.,Tôi nghĩ chắc nó hiểu được một nửa...
+lang_multi_text.db,MultiText,LZXBSC_40_8,哈哈，也是，你这么讲嘛，也确实在理……,"Haha, yeah, if you put it that way, I guess you're right...","Ha ha, cũng đúng, cậu nói thế... cũng có lý thật..."
+lang_multi_text.db,MultiText,LZXBSC_40_9,不过毛团在送东西这事上还是倔得很……但我后来一想，随它去吧，至少这回挑的都是些安全的小玩意儿。,"But Fluffball's still stubborn as a mule about giving gifts... But then I thought, ""Well, let it be."" At least now it's only bringing me safe things.","Cơ mà Cục Bông trong vụ tặng đồ này vẫn bướng lắm... Nhưng sau tôi nghĩ lại, thôi kệ nó đi, ít nhất lần này toàn chọn mấy món đồ chơi nhỏ an toàn."
+lang_multi_text.db,MultiText,LZXBSC_40_10,哈哈，也是……,"Haha, yeah...","Ha ha, cũng đúng..."
+lang_multi_text.db,MultiText,LZXBSC_40_11,……毛团在送东西这事上确实倔得很……但我后来一想，随它去吧，至少这回挑的都是些安全的小玩意儿。,"Fluffball's still stubborn as a mule about giving gifts... But then I thought, ""Well, let it be."" At least now it's only bringing me safe things.","...Cục Bông trong vụ tặng đồ này đúng là bướng thật... Nhưng sau tôi nghĩ lại, thôi kệ nó đi, ít nhất lần này toàn chọn mấy món đồ chơi nhỏ an toàn."
+lang_multi_text.db,MultiText,LZXBSC_40_12,啊对了，那些卫星数据记录仪我都交上去了，深空联合的人后面还特地跑来道谢，搞得我怪不好意思的。,"Oh, by the way, I handed those satellite data recorders over to the Spacetrek Collective. Some of their staff even came by to thank me in person. Made me feel really sheepish though.","À phải rồi, mấy cái thiết bị ghi dữ liệu vệ tinh tôi nộp lên hết rồi, người của Liên Đoàn Không Gian Sâu sau đó còn đặc biệt chạy tới cảm ơn, làm tôi ngại ghê."
+lang_multi_text.db,MultiText,LZXBSC_40_13,我和他们说，这事还多亏了毛团，,"I told them, ""Don't thank me. Thank this little fluffy ball.""","Tôi bảo với họ là chuyện này phải nhờ cả vào Cục Bông,"
+lang_multi_text.db,MultiText,LZXBSC_40_14,*像在邀功似的轻和了一声。*,*Lets out a soft yip as if claiming the credit.*,*Kêu nhẹ một tiếng như đang tranh công.*
+lang_multi_text.db,MultiText,LZXBSC_40_15,呵呵，只要毛团这小家伙活蹦乱跳、能吃能睡，我这心里头啊，比得了啥宝贝都高兴。,"Hehe, as long as this little one's living a happy life, I couldn't ask for any greater treasure in the world.","He he, chỉ cần nhóc Cục Bông này nhảy nhót tung tăng, ăn ngon ngủ kỹ, là lòng tôi vui hơn vớ được của báu rồi."
+lang_multi_text.db,MultiText,LZXBSC_40_16,……说来说去，我最盼的就是它能平平安安。,"...Honestly, all I really want is for Fluffball to stay safe.","...Nói đi nói lại, tôi chỉ mong nó được bình an vô sự."
+lang_multi_text.db,MultiText,LZXBSC_40_17,嘤嘤——,Yip-yip!,Ư ư...
+lang_multi_text.db,MultiText,LZXBSC_40_18,你垂眼望去，毛团此时正依偎在你与埃罗的腿边，它蓬松的尾巴随风舒展，像是一朵在冰原上静静绽放的温暖绒花。,"You look down. Fluffball's snuggled against your legs and Ero's. Its fluffy tail sways in the wind like a warm, blooming flower amidst the frostlands.","Bạn nhìn xuống, Cục Bông lúc này đang rúc vào chân bạn và Ero, chiếc đuôi xù bông của nó duỗi ra theo gió, tựa như một đóa hoa nhung ấm áp lặng lẽ nở rộ trên băng nguyên."
+lang_multi_text.db,MultiText,Magnification_Desc,可消耗结晶波片领取对应奖励，请确认是否领取?,Consume Waveplates to claim rewards. Do you wish to continue?,"Có thể tiêu hao Nhựa Kết Tinh để nhận phần thưởng tương ứng, xác nhận nhận?"
+lang_multi_text.db,MultiText,Magnification_double,双倍领取,Claim×2,Nhận gấp đôi
+lang_multi_text.db,MultiText,Magnification_normol,单倍领取,Claim,Nhận thường
+lang_multi_text.db,MultiText,Magnification_Title,领取奖励,Claim Rewards,Nhận thưởng
+lang_multi_text.db,MultiText,Mail_300001_Content,"亲爱的漂泊者：
+库街区签到奖励已发放，请在附件中查收。","Dear Rover:
+The KU Block sign-in rewards have been issued, please check in the attached file.","Lữ Khách thân mến:
+Phần thưởng điểm danh Khu Phố Kuro đã được gửi, vui lòng kiểm tra trong tệp đính kèm."
+lang_multi_text.db,MultiText,Mail_300001_Sender,库街区小助手,KU Neighborhood Assistant,Trợ lý Khu Phố Kuro
+lang_multi_text.db,MultiText,Mail_300001_Test,测试,Test,Kiểm tra
+lang_multi_text.db,MultiText,Mail_300001_Title,库街区签到奖励,KU Neighborhood Check-In Rewards,Thưởng điểm danh Khu Phố Kuro
+lang_multi_text.db,MultiText,Mail_300002_Content,"【库街区】验证码：{0}（10分钟内有效）
+您正在库街区进行游戏账号绑定，验证码请勿泄露。如非本人操作，请忽略。","[Ku Block] Verification code: {0} (valid for 10 minutes)
+You are making a game account binding in Ku Block, please do not disclose the verification code. If you are not operating in person, please ignore it.","[Khu Phố Kuro] Mã xác minh: {0} (hiệu lực trong 10 phút)
+Bạn đang thực hiện liên kết tài khoản game tại Khu Phố Kuro, vui lòng không tiết lộ mã xác minh. Nếu không phải bạn thực hiện, vui lòng bỏ qua."
+lang_multi_text.db,MultiText,Mail_300002_Sender,库街区小助手,KU Neighborhood Assistant,Trợ lý Khu Phố Kuro
+lang_multi_text.db,MultiText,Mail_300002_Title,库街区绑定账号验证,Ku Block Bound Account Verification,Xác minh liên kết tài khoản Khu Phố Kuro
+lang_multi_text.db,MultiText,Mail_300003_Content,"【库街区】验证码：{0}（10分钟内有效）
+您正在库街区进行游戏账号换绑，验证码请勿泄露。如非本人操作，请忽略。","[Ku Block] Verification code: {0} (valid for 10 minutes)
+You are exchanging your game account for a binding in Ku Block, please do not disclose the verification code. If you are not operating in person, please ignore it.","[Khu Phố Kuro] Mã xác minh: {0} (hiệu lực trong 10 phút)
+Bạn đang thực hiện đổi liên kết tài khoản game tại Khu Phố Kuro, vui lòng không tiết lộ mã xác minh. Nếu không phải bạn thực hiện, vui lòng bỏ qua."
+lang_multi_text.db,MultiText,Mail_300003_Sender,库街区小助手,KU Neighborhood Assistant,Trợ lý Khu Phố Kuro
+lang_multi_text.db,MultiText,Mail_300003_Title,库街区换绑账号验证,Ku Block Change Binding Account Verification,Xác minh đổi liên kết tài khoản Khu Phố Kuro
+lang_multi_text.db,MultiText,Mail_300004_Content,"【TapTap】验证码：{0}（10分钟内有效）
+您正在TapTap进行游戏账号绑定，验证码请勿泄露。如非本人操作，请忽略。","[TapTap] Verification Code: {0} (Valid for 10 minutes)
+You are linking your in-game account on TapTap. Do not share this code with anyone. Please disregard this message if you did not request it.","[TapTap] Mã xác minh: {0} (hiệu lực trong 10 phút)
+Bạn đang thực hiện liên kết tài khoản game tại TapTap, vui lòng không tiết lộ mã xác minh. Nếu không phải bạn thực hiện, vui lòng bỏ qua."
+lang_multi_text.db,MultiText,Mail_300004_Sender,TapTap小助手,TapTap Assistant,Trợ lý TapTap
+lang_multi_text.db,MultiText,Mail_300004_Title,TapTap绑定账号验证,TapTap Account Linking Verification,Xác minh liên kết tài khoản TapTap
+lang_multi_text.db,MultiText,Mail_300005_Content,"【TapTap】验证码：{0}（10分钟内有效）
+您正在TapTap进行游戏账号绑定，验证码请勿泄露。如非本人操作，请忽略。","[TapTap] Verification Code: {0} (Valid for 10 minutes)
+You are linking your in-game account on TapTap. Do not share this code with anyone. Please disregard this message if you did not request it.","[TapTap] Mã xác minh: {0} (hiệu lực trong 10 phút)
+Bạn đang thực hiện liên kết tài khoản game tại TapTap, vui lòng không tiết lộ mã xác minh. Nếu không phải bạn thực hiện, vui lòng bỏ qua."
+lang_multi_text.db,MultiText,Mail_300005_Sender,TapTap小助手,TapTap Assistant,Trợ lý TapTap
+lang_multi_text.db,MultiText,Mail_300005_Title,TapTap小助手,TapTap Assistant,Trợ lý TapTap
+lang_multi_text.db,MultiText,Mail_300006_Content,"亲爱的漂泊者：
+感谢参与《鸣潮》Twitch Drop 活动，奖励现已发放，请注意查收。","Dear Rover,
+Thank you for your participation in Wuthering Waves Twitch Drop. Please claim your rewards in the attachment.","Lữ Khách thân mến:
+Cảm ơn bạn đã tham gia sự kiện Twitch Drop của ""Minh Triều"", phần thưởng đã được gửi, vui lòng kiểm tra."
+lang_multi_text.db,MultiText,Mail_300006_Sender,《鸣潮》项目组,Wuthering Waves Dev Team,"Đội ngũ dự án ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_300006_Title,【奖励】《鸣潮》Twitch Drop 活动奖励,[Rewards] Event Rewards from Wuthering Waves Twitch Drop,"[Phần thưởng] Thưởng sự kiện Twitch Drop ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_300007_Content,"验证码：{0}（10分钟内有效）
+您正在授权第三方合作工具进行游戏账号绑定，验证码请勿泄露。如非本人操作，请忽略。","Verification Code: {0} (valid for 10 minutes)
+You are authorizing a third-party application to be linked to your game account. Please do not share this verification code with others. If you did not initiate this request, please ignore this message.","Mã xác minh: {0} (hiệu lực trong 10 phút)
+Bạn đang ủy quyền cho công cụ hợp tác bên thứ ba để liên kết tài khoản game, vui lòng không tiết lộ mã xác minh. Nếu không phải bạn thực hiện, vui lòng bỏ qua."
+lang_multi_text.db,MultiText,Mail_300007_Sender,账号验证小助手,Account Verification Assistant,Trợ lý xác minh tài khoản
+lang_multi_text.db,MultiText,Mail_300007_Title,绑定账号验证,Account Linking Verification,Xác minh liên kết tài khoản
+lang_multi_text.db,MultiText,Mail_300008_Content,"验证码：{0}（10分钟内有效） 
+您正在授权外部登录，验证码请勿泄露。如非本人操作，请忽略。","Verification Code: {0} (valid for 10 minutes)
+You are authorizing a third-party application to be linked to your game account. Please do not share this verification code with others. If you did not initiate this request, please ignore this message.","Mã xác minh: {0} (hiệu lực trong 10 phút) 
+Bạn đang ủy quyền đăng nhập bên ngoài, vui lòng không tiết lộ mã xác minh. Nếu không phải bạn thực hiện, vui lòng bỏ qua."
+lang_multi_text.db,MultiText,Mail_300008_Sender,账号验证小助手,Account Verification Assistant,Trợ lý xác minh tài khoản
+lang_multi_text.db,MultiText,Mail_300008_Title,登录授权验证,Third-Party Login Authentication,Xác minh ủy quyền đăng nhập
+lang_multi_text.db,MultiText,Mail_300009_Content,"亲爱的漂泊者：
+为了优化游戏体验，项目组计划将在2.3版本对【海歌重奏】回归系统进行升级。在2.3版本更新前，将暂时关闭【海歌重奏】回归系统进行维护。还请漂泊者注意系统维护时间，维护期间给漂泊者带来不便，还请谅解。
 
-Meanwhile, Lupa's departure from House Silva sparks retaliatory rumors, but she appears unaffected, focused on helping your search for Cartethyia.","Sau chiến thắng ở trận thứ hai, bạn cảm nhận được Cartethyia từng đến một vùng nước nào đó ở thành Thất Khâu, đồng thời cũng nhận ra luồng sức mạnh giúp Thanh Hài Thất Khâu hiện hình có điểm kỳ lạ.
-Còn về việc Lupa rời đội, gia tộc Silva của cô ấy cũng bắt đầu tung ra dư luận tiêu cực. Nhưng cô ấy dường như không quá bị ảnh hưởng bởi những âm thanh này, vẫn quan tâm đến việc bạn tìm kiếm Cartethyia hơn."
-lang_multi_text.db,MultiText,MAIN_RYAM_25_4,（但除我之外的人，看起来都没有察觉异常。）,(But it seems like no one else has noticed.),"(Nhưng ngoài tôi ra, những người khác có vẻ đều không nhận ra sự bất thường.)"
-lang_multi_text.db,MultiText,MAIN_RYAM_25_5,露帕选手离队了……好可惜啊。,Contender Lupa isn't in the Bough of Legions anymore... what a shame.,Tuyển thủ Lupa rời đội rồi... Thật đáng tiếc.
-lang_multi_text.db,MultiText,MAIN_RYAM_25_6,只剩下两天！她看起来完全不准备为其他人的努力负责，包括那些支持她的人。,"Just two days before the finals, as well! It's unfair to her former teammates and her fans.","Chỉ còn hai ngày nữa! Cô ta có vẻ hoàn toàn không định chịu trách nhiệm cho nỗ lực của người khác, bao gồm cả những người ủng hộ cô ta."
-lang_multi_text.db,MultiText,MAIN_RYAM_25_7,因为钱？……她的队友也换了好几次吧？还有她身边这个新人……,Is it about the money? She's changed teammates how many times now? As for that newcomer next to her...,Vì tiền? ...Đồng đội của cô ta cũng đổi mấy lần rồi nhỉ? Còn cả người mới bên cạnh cô ta nữa...
-lang_multi_text.db,MultiText,MAIN_RYAM_25_8,没有西尔瓦家的赞助，一个外来的角斗士哪来几年内就声名鹊起的机会。,"Without the Silvas' patronage, there's no way a gladiator from the outskirts could rise to fame so quickly.","Không có sự tài trợ của nhà Silva, một đấu sĩ từ bên ngoài làm sao có cơ hội nổi danh chỉ trong vài năm."
-lang_multi_text.db,MultiText,MAIN_RYAM_25_9,安静点。你们又是听到了何处的风声？擦干净眼睛，露帕选手场上的表演从不是作假。,"Quiet down. Where are you hearing these rumors? Open your eyes, Lupa has never once thrown a match!","Yên lặng chút đi. Các người lại nghe được tin đồn ở đâu thế? Lau sạch mắt mà nhìn, màn trình diễn trên sân của tuyển thủ Lupa chưa bao giờ là giả."
-lang_multi_text.db,MultiText,MAIN_RYAM_26_1,通过时要小心。水面下有角鳄残象，会伏击落水的人。,Beware of the Kerasaurs lurking below. Those Tacet Discords will ambush anyone who falls into the water.,"Lúc đi qua phải cẩn thận. Dưới mặt nước có Tàn Tượng Giác Ngạc, sẽ phục kích người rơi xuống nước."
-lang_multi_text.db,MultiText,MAIN_RYAM_26_2,下面似乎有城镇的废墟？,Are those the city's ruins down there?,Bên dưới dường như có phế tích thị trấn?
-lang_multi_text.db,MultiText,MAIN_RYAM_26_3,是，以前这里属于七丘旧城区。,"Yes, remnants of the Old District.","Phải, trước đây nơi này thuộc về khu thành cũ của Thất Khâu."
-lang_multi_text.db,MultiText,MAIN_RYAM_26_4,因为危险，我们一般不推荐从这里过，不过也有些喜欢挑战的七丘人会来这里狩猎残象。,We rarely use this route since it's too dangerous. But some thrill-seekers come here to hunt Tacet Discords.,"Vì nguy hiểm, chúng tôi thường không khuyến khích đi qua đây, nhưng cũng có một số người Thất Khâu thích thử thách sẽ đến đây săn Tàn Tượng."
-lang_multi_text.db,MultiText,MAIN_RYAM_26_5,说起来，这片水域也是西尔瓦家维护的区域，小时候我也在这里玩过噢。,"Speaking of which, this area is actually under Silva jurisdiction. I used to play here as a child.","Nói ra thì, vùng nước này cũng là khu vực do nhà Silva bảo trì, hồi nhỏ tôi cũng từng chơi ở đây đấy."
-lang_multi_text.db,MultiText,MAIN_RYAM_27_1,你说卡提希娅曾经过这片水域，有大致方位吗？,You said Cartethyia might've been here. Do you have an idea where she passed through?,"Anh/Chị nói Cartethyia từng đi qua vùng nước này, có phương vị đại khái không?"
-lang_multi_text.db,MultiText,MAIN_RYAM_27_2,差不多是……那边。,I think… somewhere over there.,Chắc là... đằng kia.
-lang_multi_text.db,MultiText,MAIN_RYAM_27_3,噢，那个方向……是沉在水里的特库斯像。,"Ah, that's where the statue of Tercules is.","Ồ, hướng đó... là tượng Tercules chìm trong nước."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_1,到了。我要在这里尝试寻找卡提希娅。,This is the place. I'll look for Cartethyia's traces here.,Đến rồi. Tôi sẽ thử tìm kiếm Cartethyia ở đây.
-lang_multi_text.db,MultiText,MAIN_RYAM_28_10,没关系，还有亚狮诺索的线索。,I'm okay. We still have the lead on Arsinosa.,"Không sao, vẫn còn manh mối về Arsinosa."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_11,别担心，我们还能顺着亚狮诺索的线索继续找。,"Don't worry, we can follow the lead on Arsinosa.","Đừng lo, chúng ta vẫn có thể lần theo manh mối của Arsinosa để tiếp tục tìm."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_12,嗯！等决赛时，事情一定会有进展。,That's right! I'm sure you'll make progress by the finals.,"Ừ! Đợi đến chung kết, sự việc nhất định sẽ có tiến triển."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_13,特库斯像……从前七丘的英雄们出城行猎时，他的塑像便伫立在道路两侧，守望他们安全归来。,"Tercules… His statues once stood tall on both sides of the street, watching over the heroes of Septimont as they set out to hunt.","Tượng Tercules... Trước kia khi các anh hùng Thất Khâu ra khỏi thành đi săn, tượng của ông ấy sừng sững hai bên đường, trông coi họ bình an trở về."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_14,每到那时，从城中传出的飘荡悠扬的钟声，就是荣光最醉人的欢呼。,"Back then, the chimes drifting up from the city were the finest sounds of glory.","Mỗi khi đến lúc đó, tiếng chuông vang vọng du dương truyền ra từ trong thành, chính là tiếng reo hò say lòng người nhất của vinh quang."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_15,你来到卡提希娅在水域曾经过的地方，但仍旧没有寻找到她的踪迹。,You arrive at the waters where you felt Cartethyia's presence but still find no trace of her.,"Bạn đến nơi Cartethyia từng đi qua ở vùng nước, nhưng vẫn không tìm thấy tung tích của cô ấy."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_2,要怎么做？,How?,Phải làm thế nào?
-lang_multi_text.db,MultiText,MAIN_RYAM_28_3,通过一种……我和她之间的联结。,Through... the connection we share.,Thông qua một loại... liên kết giữa tôi và cô ấy.
-lang_multi_text.db,MultiText,MAIN_RYAM_28_4,好~那我站在这里等你。希望能顺利！,Alright then. I'll wait here. Good luck!,Được~ Vậy tôi đứng đây đợi anh/chị. Hy vọng sẽ thuận lợi!
-lang_multi_text.db,MultiText,MAIN_RYAM_28_5,你以体内属于英白拉多的力量，呼唤另一位持有它的人。,"You call upon the power of Imperator, calling for the one who shares its essence.","Bạn dùng sức mạnh thuộc về Imperator trong cơ thể, gọi người nắm giữ nó còn lại."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_6,频率顺着剑尖向下，随水波荡漾、扩散，最终因没有落点与联结而消失。,"The unique frequency pulses through your blade and spreads across the water in ripples. But the connection weakens, fading into the distance.","Tần số men theo mũi kiếm đi xuống, dập dờn lan tỏa theo sóng nước, cuối cùng vì không có điểm rơi và liên kết mà biến mất."
-lang_multi_text.db,MultiText,MAIN_RYAM_28_7,卡提希娅不在这里。,Cartethyia isn't here.,Cartethyia không ở đây.
-lang_multi_text.db,MultiText,MAIN_RYAM_28_8,结果如何？你看起来……脸色不太好。,How's it going? You look... frustrated.,Kết quả thế nào? Trông anh/chị... sắc mặt không tốt lắm.
-lang_multi_text.db,MultiText,MAIN_RYAM_28_9,感觉心情有点烦躁……,I just feel uneasy.,Cảm giác tâm trạng hơi bực bội...
-lang_multi_text.db,MultiText,MAIN_RYAM_29_1,卡提希娅……,Cartethyia...,Cartethyia...
-lang_multi_text.db,MultiText,MAIN_RYAM_29_2,奇怪，明明没听过，但总觉得这个名字有种熟悉感……,"I've never heard that name before, but it feels strangely familiar...","Kỳ lạ, rõ ràng chưa từng nghe qua, nhưng cứ cảm thấy cái tên này có cảm giác quen thuộc..."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_1,没有回音。,No response.,Không có hồi âm.
-lang_multi_text.db,MultiText,MAIN_RYAM_2_10,日安。「桂冠」联络我，是想念在翡萨烈宅邸里的静谧了？,"Oh, a call from the honored Laureate {Male=himself;Female=herself}. What is it? Missing the serenity of my castle, I presume?","Chào ngày mới. ""Kẻ Đạt Vòng Nguyệt Quế"" liên lạc với tôi, là nhớ sự yên tĩnh trong dinh thự Fisalia rồi sao?"
-lang_multi_text.db,MultiText,MAIN_RYAM_2_11,（向坎特蕾拉说明原委。）,(Explain what happened to Cantarella.),(Trình bày ngọn ngành với Cantarella.)
-lang_multi_text.db,MultiText,MAIN_RYAM_2_12,……是吗，卡提希娅不见了。,Cartethyia is missing… I see.,"...Vậy à, Cartethyia mất tích rồi."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_13,关于事态的严重性这点，我和你的判断相同。,It is indeed a rather urgent issue.,"Về tính nghiêm trọng của sự việc, tôi và anh/chị có cùng nhận định."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_14,请开口吧，你想从我这里知道什么？,"Go on, what is it you wish to ask of me?","Cứ nói đi, anh/chị muốn biết gì từ tôi?"
-lang_multi_text.db,MultiText,MAIN_RYAM_2_15,追去对面的岛屿前，我希望有所准备。,I want to learn more about the archipelago before I set off to find her.,"Trước khi đuổi theo đến hòn đảo đối diện, tôi hy vọng có sự chuẩn bị."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_16,呵，谨慎是美德。既然要尽快出发，我就长话短说了。,"Ah, caution is indeed a virtue. Since you're in a hurry, I'll spare you the lengthy details.","Hờ, cẩn trọng là đức tính tốt. Đã muốn xuất phát càng sớm càng tốt, tôi sẽ nói ngắn gọn thôi."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_17,那片群岛的名字，是「七丘」。,That archipelago is called Septimont.,"Tên của quần đảo đó là ""Thất Khâu""."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_18,「七丘」和「拉古那」是同属黎那汐塔的城邦。住民们最初也由岁主引导，驾驶航船从汪洋上来到新家园。,"It's another city-state within Rinascita. Like us Ragunnesi, its people were guided by the Sentinel across vast seas to settle there.","""Thất Khâu"" và ""Ragunna"" là các thành bang cùng thuộc Rinascita. Cư dân ban đầu cũng do Tuế Chủ dẫn dắt, lái thuyền từ đại dương đến quê hương mới."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_19,因为分歧，两座城邦在久远的过去就分道扬镳，各自发展了。,"But over time, Septimont and Ragunna's differences led to a rift. Each one forged its own path.","Vì bất đồng, hai thành bang đã đường ai nấy đi trong quá khứ xa xưa, tự mình phát triển."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_2,阿布，你能看出这些痕迹往哪里蔓延了吗？,"Can you tell where these traces lead, Abby?","Abby, nhóc có thể nhìn ra những dấu vết này lan tràn về đâu không?"
-lang_multi_text.db,MultiText,MAIN_RYAM_2_20,什么分歧？,What kind of differences?,Bất đồng gì?
-lang_multi_text.db,MultiText,MAIN_RYAM_2_21,七丘人不信神。,Septimontians don't believe in the Sentinel.,Người Thất Khâu không tin thần.
-lang_multi_text.db,MultiText,MAIN_RYAM_2_22,怪不得。,I see.,Thảo nào.
-lang_multi_text.db,MultiText,MAIN_RYAM_2_23,我还以为黎那汐塔人都信仰岁主。,I thought it was a common faith across Rinascita.,Tôi còn tưởng người Rinascita đều tín ngưỡng Tuế Chủ.
-lang_multi_text.db,MultiText,MAIN_RYAM_2_24,即便出自同源，人们的想法和理念也会有千差万别。,"Even from a shared origin, the hearts and minds of people can diverge in unexpected ways.","Cho dù cùng một nguồn gốc, suy nghĩ và quan niệm của con người cũng sẽ khác biệt ngàn vạn lần."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_25,七丘是尚武之都。「人人渴望荣耀，无惧死亡」——他们崇拜英雄，而非神明。,"Septimont is a city of warriors. Its creed is simple ""All for glory, fear no death."" They revere heroes, not the Divinity.","Thất Khâu là đô thị thượng võ. ""Người người khát khao vinh quang, không sợ cái chết"" - bọn họ sùng bái anh hùng, chứ không phải thần minh."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_26,在隐海修会的控制下，拉古那对七丘人的入境审查相当严格，倒是七丘对拉古那人没有设置关卡。,"Under The Order's control, Ragunna enforces strict border controls for Septimontians, but Septimont places no such barriers for the Ragunnesi.","Dưới sự kiểm soát của Hội Ẩn Hải, Ragunna kiểm duyệt nhập cảnh đối với người Thất Khâu khá nghiêm ngặt, ngược lại Thất Khâu không thiết lập cửa ải đối với người Ragunna."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_27,在对外界的态度上，七丘比拉古那更开放、自由。,You could say that Septimont has a far more accepting attitude toward outlanders.,"Về thái độ đối với thế giới bên ngoài, Thất Khâu cởi mở, tự do hơn Ragunna."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_28,最近，七丘正在举办角斗大赛。那是他们的支柱产业之一，这段时间应该会有不少其他地区的旅客前往。,"At present, Septimont is hosting the Great Agon, a cornerstone in the city's economy. Such a season draws visitors from far and wide.","Gần đây, Thất Khâu đang tổ chức đại hội giác đấu. Đó là một trong những ngành công nghiệp trụ cột của họ, thời gian này chắc sẽ có không ít du khách từ các khu vực khác đến."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_29,听起来，我进入七丘不会太困难。多谢，坎特蕾拉。,"Sounds like the perfect time to visit Septimont. Thank you, Cantarella.","Nghe có vẻ tôi vào Thất Khâu sẽ không quá khó khăn. Đa tạ, Cantarella."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_3,这边。不过，这些痕迹断断续续，感觉很不稳定……,Over there. But the traces are kinda messy. They feel unsteady too...,"Bên này. Có điều, những dấu vết này đứt quãng, cảm giác rất không ổn định..."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_30,你是翡萨烈永远的盟友，也是我的……贵客，何须言谢？,"You're the Fisalias' eternal ally... and of course, my esteemed guest. No need for formalities between us.","Anh/Chị là đồng minh vĩnh viễn của Fisalia, cũng là... khách quý của tôi, cần gì phải nói lời cảm ơn?"
-lang_multi_text.db,MultiText,MAIN_RYAM_2_4,这个方向……是拉古那对面那片群岛。,That way… That's the archipelago across from Ragunna.,Hướng này... là quần đảo đối diện Ragunna.
-lang_multi_text.db,MultiText,MAIN_RYAM_2_5,这些痕迹很新，在它们消散前顺着这个方向追，应该能找到她。,The traces are still fresh. We should follow them to find Cartethyia before they fade.,"Những dấu vết này rất mới, đuổi theo hướng này trước khi chúng tan biến, chắc là có thể tìm được cô ấy."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_6,现在就去？,Should we go now?,Bây giờ đi luôn sao?
-lang_multi_text.db,MultiText,MAIN_RYAM_2_7,现在就出发。融合在卡提希娅躯体中的鸣式意志消失后，能让她突然断联的情况一定很危急。,"Yes. With the Threnodian's will gone, she wouldn't lose contact unless something's wrong. Really wrong.","Bây giờ xuất phát ngay. Sau khi ý chí Minh Thức dung hợp trong cơ thể Cartethyia biến mất, tình huống khiến cô ấy đột nhiên mất liên lạc chắc chắn rất nguy cấp."
-lang_multi_text.db,MultiText,MAIN_RYAM_2_8,在动身之前……,But before we go…,Trước khi lên đường...
-lang_multi_text.db,MultiText,MAIN_RYAM_2_9,卡提希娅没有回应你的联络，只有她能量爆发后逸散的痕迹，指向拉古那对面那片群岛。,"Your attempts to contact Cartethyia go unanswered. The only clue left is a faint flicker of her energy's explosion, pointing towards a cluster of islands opposite Ragunna.","Cartethyia không hồi đáp liên lạc của bạn, chỉ có dấu vết tản mát sau khi năng lượng của cô ấy bùng phát, chỉ về phía quần đảo đối diện Ragunna."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_1,（还有人活着。）,(Someone's still alive.),(Vẫn còn người sống.)
-lang_multi_text.db,MultiText,MAIN_RYAM_30_10,你……是谁？,Who… are you?,Ngươi... là ai?
-lang_multi_text.db,MultiText,MAIN_RYAM_30_11,我叫卡提希娅，是拉古那的……,My name is Cartethyia. I'm Ragunna's…,"Tôi tên là Cartethyia, là... của Ragunna..."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_12,是拉古那的一名流浪骑士。,I'm a wandering knight from Ragunna.,Là một kỵ sĩ lang thang của Ragunna.
-lang_multi_text.db,MultiText,MAIN_RYAM_30_13,流浪骑士……啊。,A wandering knight… ah.,Kỵ sĩ lang thang... a.
-lang_multi_text.db,MultiText,MAIN_RYAM_30_14,别怕，我的力量能处理这个。,"Don't worry, I'll take care of them.","Đừng sợ, sức mạnh của tôi có thể xử lý cái này."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_15,就由我来……将它们斩杀。,"Come forth, and face my blade.",Cứ để tôi... chém chết chúng.
-lang_multi_text.db,MultiText,MAIN_RYAM_30_16,这些人是……？,Who are they...?,Những người này là...?
-lang_multi_text.db,MultiText,MAIN_RYAM_30_17,啊——是长期没能在角斗竞赛里获得名次的小贵族。,"Oh, some minor noble houses that didn't make it into the Agon.",A- là quý tộc nhỏ lâu dài không đạt được thứ hạng trong thi đấu giác đấu.
-lang_multi_text.db,MultiText,MAIN_RYAM_30_18,对七丘人而言，力量和统治是相互关联的。享受贵族头衔的资源，也要为之奉献、证明自我价值。,"But in Septimont, strength and power go hand in hand. Nobles get more, but they better prove they're worth it and pull their weight for the city.","Đối với người Thất Khâu, sức mạnh và cai trị có liên quan mật thiết với nhau. Hưởng thụ tài nguyên của tước hiệu quý tộc, cũng phải cống hiến, chứng minh giá trị bản thân vì nó."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_19,角斗赛是一种选拔的制度，也是经济来源。以之证明自己对声骸的控制，是一种必备的责任。,"The Agon isn't just about fortune. It's a way to find the capable. For nobles, the ability to command and control Echoes is a basic responsibility.","Giải đấu giác đấu là một chế độ tuyển chọn, cũng là nguồn kinh tế. Dùng nó để chứng minh sự kiểm soát của mình đối với Thanh Hài, là một loại trách nhiệm bắt buộc."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_2,还好吗？你看起来是七丘人……城里还有其他人在吗？,Are you okay? You seem like a local… are there any other survivors?,Vẫn ổn chứ? Ông trông có vẻ là người Thất Khâu... Trong thành còn có người khác không?
-lang_multi_text.db,MultiText,MAIN_RYAM_30_20,一个家族如果培养不出具有力量的继任者，意味着同样无法在猎场狩猎残象、守护七丘。,"If the heir of a noble house isn't strong enough, it signals that the house is unfit to hunt down Tacet Discords or protect Septimont.","Một gia tộc nếu không bồi dưỡng được người kế nhiệm có sức mạnh, đồng nghĩa với việc cũng không thể săn Tàn Tượng ở trường săn, bảo vệ Thất Khâu."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_21,所以……若是之前享受了无节制的荣华，就只能在为之缴纳巨额赞助金后，就此破产离开。,"So... if a noble's been living it up, they'll end up broke and thrown out of the city after paying high patronage fees for a gladiator who doesn't even make the cut.","Cho nên... nếu trước đó hưởng thụ vinh hoa không tiết chế, thì chỉ có thể sau khi nộp khoản tiền tài trợ khổng lồ, phá sản rời đi."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_22,听起来还挺合理。,Makes sense.,Nghe cũng khá hợp lý.
-lang_multi_text.db,MultiText,MAIN_RYAM_30_23,听起来有点残酷。,Sounds harsh.,Nghe có chút tàn khốc.
-lang_multi_text.db,MultiText,MAIN_RYAM_30_24,「力量至上」，本就如此。你能走到今天，肯定也身经百战，对吧？,"""Strength is everything."" That's how it works. You've fought your battles too, or you wouldn't be here.","""Sức mạnh tối thượng"", vốn dĩ là như vậy. Cô có thể đi đến ngày hôm nay, chắc chắn cũng trải qua trăm trận chiến, đúng không?"
-lang_multi_text.db,MultiText,MAIN_RYAM_30_25,也许这规则不是所有地方都适用，但对长年受到黑潮威胁的七丘而言，是一种生存的必然。,"Might not work like this everywhere, but here in Septimont, with the Dark Tide breathing down our necks, it's our survival code.","Có lẽ quy tắc này không phải nơi nào cũng áp dụng, nhưng đối với Thất Khâu quanh năm chịu sự đe dọa của Hắc Triều, là một sự tất yếu để sinh tồn."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_26,对大部分七丘人来说，角斗不仅是一项竞技活动，更是贵族和平民都必须参加的战斗训练。,"For most Septimontians, the Agon isn't just an event. It's the training ground nobles and commoners alike have to fight in.","Đối với phần lớn người Thất Khâu, giác đấu không chỉ là một hoạt động thi đấu, mà còn là huấn luyện chiến đấu mà cả quý tộc và bình dân đều phải tham gia."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_27,胜者对败者并无同情，人人都摒弃软弱、笃信力量、渴望荣耀。,"The victors show no mercy to the defeated. People here despise weakness, worship strength, and crave glory.","Kẻ thắng không có sự đồng cảm với kẻ thua, ai ai cũng vứt bỏ sự yếu đuối, tin vào sức mạnh, khát khao vinh quang."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_28,无论来自何方，只要你能证明自己，所有赞美的门窗都会为你敞开，光芒最盛处便是台上！,"Where you come from don't matter. Prove yourself, and the crowd will scream your name. The spotlight's yours, the arena's your stage.","Bất luận đến từ đâu, chỉ cần ngươi có thể chứng minh bản thân, mọi cửa sổ ca ngợi đều sẽ mở ra vì ngươi, nơi ánh sáng rực rỡ nhất chính là trên đài!"
-lang_multi_text.db,MultiText,MAIN_RYAM_30_29,……而那些无法跟上、不被选择的人，只会被抛弃在阴影中。,"But if you can't can't keep up, if you're not chosen... you'll be left in the shadows.","...Còn những người không thể theo kịp, không được lựa chọn, sẽ chỉ bị vứt bỏ trong bóng tối."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_3,我能动，但是很累，没有力气。我走了很久、很久……但怎么也走不出这座城。,"I'm managing. I-I can still move, but I'm exhausted. I've walked for so long, for so far... but I still can't leave this city.","Tôi có thể cử động, nhưng rất mệt, không có sức. Tôi đã đi rất lâu, rất lâu... nhưng đi mãi cũng không ra khỏi thành phố này."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_30,欢迎来到我的城市，位于卡庇托山的鹫巢石城！,"Welcome to my city, Gryphon's Fortress of Capitoline Hill!","Chào mừng đến với thành phố của ta, thành đá Tổ Điểu Sư nằm ở đồi Capitol!"
-lang_multi_text.db,MultiText,MAIN_RYAM_30_31,"你来到七丘，从露帕口中得知了竞技对于这座城市的重要性。它能将人推上舞台中央，也能将人抛至黑暗。
-而在你所不可见的另一侧，卡提希娅也步入了阴云之下的七丘，见到了那位无名之人。","After coming to Septimont, you learn from Lupa just how important the arena is to the city. It can elevate someone to the heights of power or cast them into obscurity. 
+维护时间：2025年4月14日4:00 ~ 2.3版本更新前（服务器时间）
 
-Meanwhile, in a side of the city unseen, Cartethyia walks beneath the shadowed skies of Septimont and meets the Nameless One.","Bạn đến Thất Khâu, biết được tầm quan trọng của thi đấu đối với thành phố này từ miệng Lupa. Nó có thể đẩy người ta lên trung tâm sân khấu, cũng có thể ném người ta vào bóng tối.
-Còn ở phía bên kia mà bạn không thể nhìn thấy, Cartethyia cũng bước vào Thất Khâu dưới mây đen, gặp được người vô danh kia."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_4,不管走进哪条街巷，到处都爬满了白色的<te href=850161>潮蚀</te>。,The white <te href=850161>Tidal Blight</te> follows me wherever I go.,"Bất kể đi vào con phố nào, khắp nơi đều bò đầy <te href=850161>Triều Thực</te> màu trắng."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_5,（潮蚀……是黑潮么。）,(Tidal Blight… could she mean the Dark Tide?),(Triều Thực... là Hắc Triều sao.)
-lang_multi_text.db,MultiText,MAIN_RYAM_30_6,你叫什么名字？,What's your name?,Ngươi tên là gì?
-lang_multi_text.db,MultiText,MAIN_RYAM_30_7,……我，不记得了。,I… don't remember.,"...Tôi, không nhớ nữa."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_8,没关系，记忆丢了也是可以找回来的，名字当然也可以——有人陪我找过。,"That's alright. Memories can be recovered, and so can your name. I've been through something similar myself, and someone helped me find my way back.","Không sao, ký ức mất đi cũng có thể tìm lại được, tên đương nhiên cũng có thể- có người từng cùng tôi tìm rồi."
-lang_multi_text.db,MultiText,MAIN_RYAM_30_9,我刚到达这里不久，七丘的一切都处在迷雾中。和我说说你还记得的部分吧？,I've only just arrived here. All of Septimont is cloaked in mist. Would you mind sharing with me what you still remember?,"Tôi vừa mới đến đây không lâu, tất cả mọi thứ ở Thất Khâu đều nằm trong màn sương mù. Kể cho tôi nghe về những phần ông còn nhớ được không?"
-lang_multi_text.db,MultiText,MAIN_RYAM_31_1,打了两场，我们先去填饱肚子吧。,"Come to think of it, we haven't had anything to eat since those two matches.","Đánh hai trận rồi, chúng ta đi lấp đầy bụng trước đã."
-lang_multi_text.db,MultiText,MAIN_RYAM_31_2,啊！对了，我有个想请你尝尝的东西！,"Right, I know just the thing I want you to try!","A! Đúng rồi, tôi có món này muốn mời anh/chị nếm thử!"
-lang_multi_text.db,MultiText,MAIN_RYAM_31_3,虽然还没到，我已经闻到了很香的味道呢……,"Oh, I can already smell it, can almost taste it...","Tuy chưa đến nơi, tôi đã ngửi thấy mùi rất thơm rồi..."
-lang_multi_text.db,MultiText,MAIN_RYAM_32_1,老板！两份套餐，要大份的，还要两瓶「<te href=850151>饮心</te>」！,"Fulvia! Two large platters please, with two bottles of <te href=850151>Heartpour</te>!","Bà chủ! Hai phần ăn, cỡ lớn nhé, thêm hai chai ""<te href=850151>Ẩm Tâm</te>"" nữa!"
+※在维护期间满足【海歌重奏】触发条件的漂泊者，在2.3版本更新后，登录游戏即可触发升级后的【海歌重奏】回归系统。有关【海歌重奏】的更详细说明，请查阅官方公告。","Dear Rover,
+To enhance your gameplay experience, we will be upgrading the Reprise of Tides Returnee Event in Version 2.3. As part of this update, the event will be temporarily unavailable for maintenance. Please take note of the scheduled maintenance time, and we appreciate your understanding for any inconvenience caused.
+
+Maintenance Schedule: 2025-04-14 04:00 (server time) - Version 2.3 update
+
+※Rovers who meet the returnee requirements during the maintenance period will be able to access the improved Reprise of Tides Returnee Event once Version 2.3 goes live. For more details, please refer to the upcoming official announcements.","Lữ Khách thân mến:
+Để tối ưu hóa trải nghiệm chơi game, đội ngũ dự án dự kiến sẽ nâng cấp hệ thống quay lại [Hải Ca Trùng Tấu] trong phiên bản 2.3. Trước khi cập nhật phiên bản 2.3, hệ thống quay lại [Hải Ca Trùng Tấu] sẽ tạm thời đóng để bảo trì. Mong Lữ Khách chú ý thời gian bảo trì hệ thống, xin lượng thứ vì sự bất tiện này.
+
+Thời gian bảo trì: 04:00 ngày 14/04/2025 ~ trước khi cập nhật phiên bản 2.3 (giờ server)
+
+※Những Lữ Khách đáp ứng điều kiện kích hoạt [Hải Ca Trùng Tấu] trong thời gian bảo trì, sau khi cập nhật phiên bản 2.3, đăng nhập vào game sẽ có thể kích hoạt hệ thống quay lại [Hải Ca Trùng Tấu] đã được nâng cấp. Để biết thêm chi tiết về [Hải Ca Trùng Tấu], vui lòng tham khảo thông báo chính thức."
+lang_multi_text.db,MultiText,Mail_300009_Sender,《鸣潮》项目组,Wuthering Waves Dev Team,"Đội ngũ dự án ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_300009_Title,关于【海歌重奏】回归系统的升级维护通知,Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event,Thông báo về việc bảo trì nâng cấp hệ thống quay lại [Hải Ca Trùng Tấu]
+lang_multi_text.db,MultiText,Mail_400006_Content,"亲爱的漂泊者，「深坠异想奇境」已更新以下内容：
+追加新难度的挑战内容，参与挑战可解锁对应的异想商店兑换内容。
+准备好了的话，就前往「深坠异想奇境」继续挑战吧~","Dear Rover,
+The latest installment of the Depths of Illusive Realm is here.
+Complete new challenges to unlock new items in the Illusive Store.
+When you think you're ready, head to the Depths of Illusive Realm to face the chaos again.","Lữ Khách thân mến, ""Vực Sâu Ảo Cảnh"" đã cập nhật các nội dung sau:
+Bổ sung nội dung khiêu chiến độ khó mới, tham gia khiêu chiến có thể mở khóa nội dung đổi thưởng tương ứng trong Cửa Hàng Ảo Cảnh.
+Nếu đã sẵn sàng, hãy đến ""Vực Sâu Ảo Cảnh"" để tiếp tục khiêu chiến nhé~"
+lang_multi_text.db,MultiText,Mail_400006_Sender,《鸣潮》项目组,Wuthering Waves Dev Team,"Đội ngũ dự án ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_400006_Title,「深坠异想奇境」更新提醒,New Update in Depths of Illusive Realm,"Nhắc nhở cập nhật ""Vực Sâu Ảo Cảnh"""
+lang_multi_text.db,MultiText,Mail_400007_Content,"亲爱的漂泊者，「深坠异想奇境」已更新以下内容：
+追加新难度的挑战内容，参与挑战可解锁对应的异想商店兑换内容。
+准备好了的话，就前往「深坠异想奇境」继续挑战吧~","Dear Rover,
+The latest installment of the Depths of Illusive Realm is here.
+Complete new challenges to unlock new items in the Illusive Store.
+When you think you're ready, head to the Depths of Illusive Realm to face the chaos again.","Lữ Khách thân mến, ""Vực Sâu Ảo Cảnh"" đã cập nhật các nội dung sau:
+Bổ sung nội dung khiêu chiến độ khó mới, tham gia khiêu chiến có thể mở khóa nội dung đổi thưởng tương ứng trong Cửa Hàng Ảo Cảnh.
+Nếu đã sẵn sàng, hãy đến ""Vực Sâu Ảo Cảnh"" để tiếp tục khiêu chiến nhé~"
+lang_multi_text.db,MultiText,Mail_400007_Sender,《鸣潮》项目组,Wuthering Waves Dev Team,"Đội ngũ dự án ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_400007_Title,「深坠异想奇境」更新提醒,New Update in Depths of Illusive Realm,"Nhắc nhở cập nhật ""Vực Sâu Ảo Cảnh"""
+lang_multi_text.db,MultiText,Mail_400008_Content,亲爱的漂泊者，{0}活动即将结束，欢迎您及时参与活动并领取活动奖励，感谢您的支持。,"Dear Rover, the {0} event is coming to a close. Don't hesitate to join in and claim your event rewards. Thank you for the support!","Lữ Khách thân mến, sự kiện {0} sắp kết thúc, hoan nghênh bạn kịp thời tham gia sự kiện và nhận thưởng, cảm ơn sự ủng hộ của bạn."
+lang_multi_text.db,MultiText,Mail_400008_Sender,《鸣潮》项目组,Wuthering Waves Dev Team,"Đội ngũ dự án ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_400008_Title,活动结束提醒,End of Event Reminder,Nhắc nhở kết thúc sự kiện
+lang_multi_text.db,MultiText,Mail_400009_Content,亲爱的漂泊者，「失序梦途」活动的「限时奖励」即将结束，欢迎您及时参与活动并领取活动奖励，感谢您的支持。,"Dear Rover, the Limited-Time Rewards of Somnium Labyrinth will expire soon. Don't hesitate to join in and claim your event rewards. Thank you for your support!","Lữ Khách thân mến, ""Phần Thưởng Giới Hạn"" của sự kiện ""Mộng Đồ Rối Loạn"" sắp kết thúc, hoan nghênh bạn kịp thời tham gia sự kiện và nhận thưởng, cảm ơn sự ủng hộ của bạn."
+lang_multi_text.db,MultiText,Mail_400009_Sender,《鸣潮》项目组,Wuthering Waves Dev Team,"Đội ngũ dự án ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_400009_Title,活动结束提醒,End of Event Reminder,Nhắc nhở kết thúc sự kiện
+lang_multi_text.db,MultiText,Mail_400010_Content,亲爱的漂泊者，「刃舞候春归」活动即将结束，欢迎您及时参与活动并领取活动奖励，感谢您的支持。其中，活动奖励散华服饰「叱妖诰」将于下版本恢复原价在服饰橱窗上架，请您留意。,"Dear Rover,
+
+Dances For Spring's Return is about to end. Don't hesitate to join in and claim your event rewards. Thank you for your support! 
+
+Please note that Sanhua's Outfit ""Exorcistic Adjuration,"" currently claimable as part of the event rewards, will be sold at its original price in the Outfit Store after the next version update.","Lữ Khách thân mến, sự kiện ""Vũ Điệu Chờ Xuân Về"" sắp kết thúc, hoan nghênh bạn kịp thời tham gia sự kiện và nhận thưởng, cảm ơn sự ủng hộ của bạn. Trong đó, phần thưởng sự kiện là trang phục Sanhua ""Lời Cáo Của Diệt Trừ"" sẽ được mở bán với giá gốc tại Cửa Hàng Trang Phục vào phiên bản sau, xin hãy lưu ý."
+lang_multi_text.db,MultiText,Mail_400010_Sender,《鸣潮》项目组,Wuthering Waves Dev Team,"Đội ngũ dự án ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_400010_Title,活动结束提醒,End of Event Reminder,Nhắc nhở kết thúc sự kiện
+lang_multi_text.db,MultiText,Mail_400011_Content,亲爱的漂泊者，「刃舞候春归」活动已结束，您未领取的活动奖励——散华服饰「叱妖诰」已帮您自动领取，可在共鸣者界面查看，请您留意。,"Dear Rover, 
+
+The Dances For Spring's Return event has concluded. Your unclaimed event reward—Sanhua's Outfit ""Exorcistic Adjuration""—has been automatically added to your account. You can view it on the Resonator page.","Lữ Khách thân mến, sự kiện ""Vũ Điệu Chờ Xuân Về"" đã kết thúc, phần thưởng sự kiện bạn chưa nhận - trang phục Sanhua ""Lời Cáo Của Diệt Trừ"" đã được tự động nhận giúp bạn, có thể kiểm tra tại giao diện Cộng Hưởng Giả, xin hãy lưu ý."
+lang_multi_text.db,MultiText,Mail_400011_Sender,《鸣潮》项目组,Wuthering Waves Dev Team,"Đội ngũ dự án ""Minh Triều"""
+lang_multi_text.db,MultiText,Mail_400011_Title,「刃舞候春归」活动奖励补发说明,Dances For Spring's Return - Unclaimed Rewards,"Thông báo phát bù thưởng sự kiện ""Vũ Điệu Chờ Xuân Về"""
+lang_multi_text.db,MultiText,Mail_400025_Content,亲爱的漂泊者，{0}活动即将结束，欢迎您及时参与活动并领取活动奖励，感谢您的支持。,"Dear Rover, the {0} event is coming to a close. Don't hesitate to join in and claim your event rewards. Thank you for the support!","Lữ Khách thân mến, sự kiện {0} sắp kết thúc, hoan nghênh bạn kịp thời tham gia sự kiện và nhận thưởng, cảm ơn sự ủng hộ của bạn."

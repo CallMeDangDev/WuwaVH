@@ -1,101 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ErrorCode_100025_Text,登录超时，请重新尝试。,Login timeout. Please try again later.,"Đăng nhập quá giờ, vui lòng thử lại."
-lang_multi_text.db,MultiText,ErrorCode_1051001_Text,黑金秘市活动未开放,Gilded Nightmarket unavailable,Sự kiện Chợ Đêm Hắc Kim chưa mở
-lang_multi_text.db,MultiText,ErrorCode_1051002_Text,黑金秘市任务异常，请重试,Gilded Nightmarket task error. Please try again,"Nhiệm vụ Chợ Đêm Hắc Kim bất thường, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1051003_Text,黑金秘市任务未完成,Gilded Nightmarket task not completed,Nhiệm vụ Chợ Đêm Hắc Kim chưa hoàn thành
-lang_multi_text.db,MultiText,ErrorCode_1051004_Text,黑金秘市任务奖励已领取,Gilded Nightmarket task rewards already claimed,Thưởng nhiệm vụ Chợ Đêm Hắc Kim đã nhận
-lang_multi_text.db,MultiText,ErrorCode_1051005_Text,黑金秘市活动异常，请重试,Gilded Nightmarket event error. Please try again,"Sự kiện Chợ Đêm Hắc Kim bất thường, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_10_Text,存在异常，如有疑问请联系官方客服,Wrong GM parameter,"Xảy ra bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100000_Text,"引导信息为空,引导组:{0}",Missing guide information. Guide group: {0},"Thông tin hướng dẫn trống, nhóm hướng dẫn: {0}"
-lang_multi_text.db,MultiText,ErrorCode_1100001_Text,"引导状态错误, 引导组:{0}, 状态:{1}",Guide status error. Guide group: {0}. Status: {1},"Trạng thái hướng dẫn lỗi, nhóm hướng dẫn: {0}, trạng thái: {1}"
-lang_multi_text.db,MultiText,ErrorCode_1100002_Text,"引导配置找不到, 引导Id:{0}",Guide configuration not found. Guide ID: {0},"Không tìm thấy cấu hình hướng dẫn, Id hướng dẫn: {0}"
-lang_multi_text.db,MultiText,ErrorCode_1100003_Text,"引导尚未满足完成条件, 引导Id:{0}, 条件Id:{1}",Guide completion requirements not met. Guide ID: {0}. Condition ID: {1},"Hướng dẫn chưa thỏa mãn điều kiện hoàn thành, Id hướng dẫn: {0}, Id điều kiện: {1}"
-lang_multi_text.db,MultiText,ErrorCode_1100004_Text,"引导已完成, 引导组:{0}",Guide completed. Guide group: {0},"Hướng dẫn đã hoàn thành, nhóm hướng dẫn: {0}"
-lang_multi_text.db,MultiText,ErrorCode_1100005_Text,"前置引导未完成, 当前引导Id:{0}, 前置引导Id:{1}",Guide prerequisite incomplete. Current guide ID: {0}. Guide prerequisite ID: {1},"Hướng dẫn tiền quyết chưa hoàn thành, Id hướng dẫn hiện tại: {0}, Id hướng dẫn tiền quyết: {1}"
-lang_multi_text.db,MultiText,ErrorCode_1100006_Text,"引导没有完成条件, 引导Id:{0}",Missing guide completion requirement. Guide ID: {0},"Hướng dẫn không có điều kiện hoàn thành, Id hướng dẫn: {0}"
-lang_multi_text.db,MultiText,ErrorCode_1100007_Text,没有执行中的导航组,No running navigation group,Không có nhóm điều hướng đang thực thi
-lang_multi_text.db,MultiText,ErrorCode_1100008_Text,无法完成服务器监听的引导步骤,Cannot complete guide procedure of server monitoring,Không thể hoàn thành bước hướng dẫn do máy chủ giám sát
-lang_multi_text.db,MultiText,ErrorCode_1100009_Text,当前触发引导不在挂起列表,Current activation guide not in pending list,Hướng dẫn kích hoạt hiện tại không nằm trong danh sách treo
-lang_multi_text.db,MultiText,ErrorCode_1100010_Text,引导步骤重复触发,Repeated activation for guide step,Bước hướng dẫn kích hoạt lặp lại
-lang_multi_text.db,MultiText,ErrorCode_1100011_Text,非前端控制的引导组,Not a front end controlled guide group,Nhóm hướng dẫn không do frontend kiểm soát
-lang_multi_text.db,MultiText,ErrorCode_1100012_Text,"引导组进行中, 不能加到挂起列表","Guide group currently running, cannot be added to pending list","Nhóm hướng dẫn đang tiến hành, không thể thêm vào danh sách treo"
-lang_multi_text.db,MultiText,ErrorCode_1100013_Text,引导组不可以重复触发,Guide group cannot be activated repeatedly,Nhóm hướng dẫn không thể kích hoạt lặp lại
-lang_multi_text.db,MultiText,ErrorCode_1100014_Text,教程配置不存在,Tutorial configuration does not exist,Cấu hình hướng dẫn không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1100015_Text,教程已解锁,Tutorial unlocked,Hướng dẫn đã mở khóa
-lang_multi_text.db,MultiText,ErrorCode_1100016_Text,教程未解锁,Tutorial locked,Hướng dẫn chưa mở khóa
-lang_multi_text.db,MultiText,ErrorCode_1100017_Text,教程奖励已领取,Already claimed tutorial rewards,Thưởng hướng dẫn đã nhận
-lang_multi_text.db,MultiText,ErrorCode_1100018_Text,教程奖励掉落配置不存在,Tutorial reward drop configuration does not exist,Cấu hình rơi thưởng hướng dẫn không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1100019_Text,教程奖励发放出现错误,Tutorial reward drop deliver error,Phát thưởng hướng dẫn xảy ra lỗi
-lang_multi_text.db,MultiText,ErrorCode_1100020_Text,当前引导组Id不匹配,Current guide group ID mismatch,Id nhóm hướng dẫn hiện tại không khớp
-lang_multi_text.db,MultiText,ErrorCode_1100021_Text,请求的图鉴类型不存在,Requested index type does not exist,Loại thư viện yêu cầu không tồn tại
-lang_multi_text.db,MultiText,ErrorCode_1100022_Text,图鉴条目尚未解锁,Index entry locked,Mục thư viện chưa mở khóa
-lang_multi_text.db,MultiText,ErrorCode_1100023_Text,该类型条目尚不支持解锁,Current type of entry cannot be unlocked,Loại mục này chưa hỗ trợ mở khóa
-lang_multi_text.db,MultiText,ErrorCode_1100024_Text,请求数量超过最大图鉴数量,Requested amount exceeds max index quantity,Số lượng yêu cầu vượt quá số lượng thư viện tối đa
-lang_multi_text.db,MultiText,ErrorCode_1100025_Text,成就条目未激活，如有疑问请联系官方客服,"Achievement entry not activated, if you have any questions, please contact the official customer service","Mục thành tựu chưa kích hoạt, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100026_Text,成就条目未完成，如有疑问请联系官方客服,"Achievement entry not completed, if you have any questions, please contact the official customer service","Mục thành tựu chưa hoàn thành, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100027_Text,成就条目已领取，如有疑问请联系官方客服,"Achievement entry has been claimed, if you have any questions, please contact the official customer service","Mục thành tựu đã nhận, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100028_Text,成就条目不存在，如有疑问请联系官方客服,"Achievement entry does not exist, if you have any questions, please contact the official customer service","Mục thành tựu không tồn tại, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100029_Text,成就条目未开放，如有疑问请联系官方客服,"Achievement entry not open, if you have any questions, please contact the official customer service","Mục thành tựu chưa mở, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100030_Text,成就组条目未激活，如有疑问请联系官方客服,"Achievement group entry not activated, if you have any questions, please contact the official customer service","Mục nhóm thành tựu chưa kích hoạt, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100031_Text,成就组条目未完成，如有疑问请联系官方客服,"Achievement group entry not completed, if you have any questions, please contact the official customer service","Mục nhóm thành tựu chưa hoàn thành, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100032_Text,成就组条目已领取，如有疑问请联系官方客服,"Achievement group entry has been claimed, if you have any questions, please contact the official customer service","Mục nhóm thành tựu đã nhận, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100033_Text,成就组条目不存在，如有疑问请联系官方客服,"Achievement group entry does not exist, if you have any questions, please contact the official customer service","Mục nhóm thành tựu không tồn tại, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100034_Text,成就组条目未开放，如有疑问请联系官方客服,"Achievement group entry not open, if you have any questions, please contact the official customer service","Mục nhóm thành tựu chưa mở, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100035_Text,无音区配置异常，如有疑问请联系官方客服,"Tacet Field configuration is abnormal, if you have any questions, please contact the official customer service","Cấu hình Vùng Vô Thanh bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100036_Text,"无音区未解锁, 无法领取首通奖励，如有疑问请联系官方客服","Tacet Field not unlocked, unable to claim the first pass reward, if you have any questions, please contact the official customer service","Vùng Vô Thanh chưa mở khóa, không thể nhận thưởng lần đầu, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100037_Text,"相关无音区未完成, 无法领取首通奖励，如有疑问请联系官方客服","Related Tacet Field not completed, unable to claim the first pass reward, if you have any questions, please contact the official customer service","Vùng Vô Thanh liên quan chưa hoàn thành, không thể nhận thưởng lần đầu, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100038_Text,"首通奖励已领取, 无法再次领取，如有疑问请联系官方客服","First pass reward has been claimed, unable to claim again, if you have any questions, please contact the official customer service","Thưởng lần đầu đã nhận, không thể nhận lại, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100039_Text,成就条目已完成,Achievement entry has been completed,Mục thành tựu đã hoàn thành
-lang_multi_text.db,MultiText,ErrorCode_1100040_Text,成就条目需要条件才能完成,Achievement entry requires conditions to be completed,Mục thành tựu cần điều kiện mới có thể hoàn thành
-lang_multi_text.db,MultiText,ErrorCode_1100041_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Xảy ra bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100042_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Xảy ra bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100043_Text,存在异常，如有疑问请联系官方客服,"Anomaly exists, if you have any questions, please contact the official customer service","Xảy ra bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100044_Text,共鸣者影像簿展示列表数量已超过最大值,The display list of the Resonator Showcase has exceeded the maximum value,Số lượng danh sách hiển thị Album Cộng Hưởng Giả đã vượt quá giá trị tối đa
-lang_multi_text.db,MultiText,ErrorCode_1100045_Text,共鸣者影像簿展示列表显示异常，如有疑问请联系官方客服,"The display list of the Resonator Showcase is abnormal, if you have any questions, please contact the official customer service","Danh sách hiển thị Album Cộng Hưởng Giả hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100046_Text,共鸣者影像簿展示列表显示异常，如有疑问请联系官方客服,"The display list of theResonator Showcase is abnormal, if you have any questions, please contact the official customer service","Danh sách hiển thị Album Cộng Hưởng Giả hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100047_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách Dấu Ấn Hành Trình hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100048_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách Dấu Ấn Hành Trình hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100049_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách Dấu Ấn Hành Trình hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100050_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách Dấu Ấn Hành Trình hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100051_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách Dấu Ấn Hành Trình hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100052_Text,羁旅印章列表显示异常，如有疑问请联系官方客服,"The display list of the Sigil is abnormal, if you have any questions, please contact the official customer service","Danh sách Dấu Ấn Hành Trình hiển thị bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100053_Text,共鸣者影像簿展示列表不能为空,The display list of the Resonator Showcase cannot be empty,Danh sách hiển thị Album Cộng Hưởng Giả không được để trống
-lang_multi_text.db,MultiText,ErrorCode_1100054_Text,存在异常，如有疑问请联系官方客服,"There is an abnormality, if you have any questions, please contact the official customer service","Xảy ra bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100055_Text,心之集域路线表配置异常，如有疑问请联系官方客服,"The configuration of the Somnoire route table is abnormal, if you have any questions, please contact the official customer service","Cấu hình bảng lộ trình Tập Vực Tâm Trí bất thường, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100056_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100057_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100058_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100059_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100060_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100061_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá giờ, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100062_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá giờ, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100063_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá giờ, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100064_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá giờ, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100065_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá giờ, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100066_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá giờ, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100067_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá giờ, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100068_Text,网络连接超时，请重新尝试,"Network connection timeout, please try again","Kết nối mạng quá giờ, vui lòng thử lại"
-lang_multi_text.db,MultiText,ErrorCode_1100069_Text,成就系统未开启,Achievement system is not activated,Hệ thống thành tựu chưa mở
-lang_multi_text.db,MultiText,ErrorCode_1100070_Text,已完成影片挑战，无法再进行移动指令,You have completed the Theater. Cannot perform movement input futher.,"Đã hoàn thành khiêu chiến Phim, không thể thực hiện lệnh di chuyển nữa"
-lang_multi_text.db,MultiText,ErrorCode_1100071_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100072_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100073_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100074_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100075_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100076_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100077_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100078_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100079_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100080_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100081_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100082_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100083_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100084_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100085_Text,当前记忆区无可刷新隐喻,No other Metaphors are currently available in this Memory Zone,Khu Vực Ký Ức hiện tại không còn Ẩn Dụ có thể làm mới
-lang_multi_text.db,MultiText,ErrorCode_1100086_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100087_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100088_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100089_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tập Vực Tâm Trí tồn tại bất thường chưa rõ, nếu có thắc mắc vui lòng liên hệ CSKH"
-lang_multi_text.db,MultiText,ErrorCode_1100090_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tâm Chi Tập Vực xảy ra bất thường chưa xác định, nếu có thắc mắc vui lòng liên hệ CSKH chính thức"
-lang_multi_text.db,MultiText,ErrorCode_1100091_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tâm Chi Tập Vực xảy ra bất thường chưa xác định, nếu có thắc mắc vui lòng liên hệ CSKH chính thức"
-lang_multi_text.db,MultiText,ErrorCode_1100092_Text,心之集域存在未知异常，如有疑问请联系官方客服,"There is an unknown abnormality in Somnoire, if you have any questions, please contact the official customer service","Tâm Chi Tập Vực xảy ra bất thường chưa xác định, nếu có thắc mắc vui lòng liên hệ CSKH chính thức"
+lang_multi_text.db,MultiText,ErrorCode_200354_Text,活动奖励已领取,You've already claimed the event rewards,Phần thưởng sự kiện đã nhận
+lang_multi_text.db,MultiText,ErrorCode_200355_Text,未到奖励可领取时间,Rewards unavailable,Chưa đến thời gian nhận thưởng
+lang_multi_text.db,MultiText,ErrorCode_200356_Text,兑换中，请稍后重试,"Redeem in progress, please try again later","Đang đổi, vui lòng thử lại sau"
+lang_multi_text.db,MultiText,ErrorCode_200357_Text,当前关卡尚未解锁,This stage is locked,Ải hiện tại chưa mở khóa
+lang_multi_text.db,MultiText,ErrorCode_200358_Text,追月节心愿委托未解锁。,Lodge's Wish locked.,Ủy thác tâm nguyện Tết Trăng Rằm chưa mở khóa.
+lang_multi_text.db,MultiText,ErrorCode_200359_Text,追月节经营伙伴未解锁。,Companions locked.,Đối tác kinh doanh Tết Trăng Rằm chưa mở khóa.
+lang_multi_text.db,MultiText,ErrorCode_200360_Text,追月节摊位建造未解锁。,Fair Stalls locked.,Xây dựng gian hàng Tết Trăng Rằm chưa mở khóa.
+lang_multi_text.db,MultiText,ErrorCode_200361_Text,追月节建造实体找不到。,Construction entity not found.,Không tìm thấy thực thể xây dựng Tết Trăng Rằm.
+lang_multi_text.db,MultiText,ErrorCode_200362_Text,存在异常，如有疑问请联系官方客服。,Error. Please contact our Customer Service for assistance.,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
+lang_multi_text.db,MultiText,ErrorCode_200363_Text,存在异常，如有疑问请联系官方客服。,Error. Please contact our Customer Service for assistance.,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
+lang_multi_text.db,MultiText,ErrorCode_200364_Text,存在异常，如有疑问请联系官方客服。,Error. Please contact our Customer Service for assistance.,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
+lang_multi_text.db,MultiText,ErrorCode_200365_Text,存在异常，如有疑问请联系官方客服。,Error. Please contact our Customer Service for assistance.,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
+lang_multi_text.db,MultiText,ErrorCode_200366_Text,存在异常，如有疑问请联系官方客服。,Error. Please contact our Customer Service for assistance.,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
+lang_multi_text.db,MultiText,ErrorCode_200367_Text,存在异常，如有疑问请联系官方客服。,Error. Please contact our Customer Service for assistance.,"Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức."
+lang_multi_text.db,MultiText,ErrorCode_200368_Text,副本已被主机解散,The party has been disbanded,Phó bản đã bị chủ phòng giải tán
+lang_multi_text.db,MultiText,ErrorCode_200410_Text,输入设置数量错误,Input settings quantity error,Lỗi số lượng thiết lập đầu vào
+lang_multi_text.db,MultiText,ErrorCode_200411_Text,输入设置设备类型错误,Input settings incorrect device type,Lỗi loại thiết bị thiết lập đầu vào
+lang_multi_text.db,MultiText,ErrorCode_200412_Text,输入设置操作数量过多,You have requested input settings too frequently,Thao tác thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200413_Text,输入设置操作数量过多,You have requested input settings too frequently,Thao tác thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200414_Text,输入设置操作数量过多,You have requested input settings too frequently,Thao tác thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200415_Text,输入设置操作数量过多,You have requested input settings too frequently,Thao tác thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200416_Text,输入设置操作不存在,Input settings operation not found,Thao tác thiết lập đầu vào không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_200417_Text,输入设置操作不存在,Input settings operation not found,Thao tác thiết lập đầu vào không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_200418_Text,输入设置操作不存在,Input settings operation not found,Thao tác thiết lập đầu vào không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_200419_Text,输入设置操作不存在,Input settings operation not found,Thao tác thiết lập đầu vào không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_200420_Text,输入设置按键名过长,Input settings key name too long,Tên phím thiết lập đầu vào quá dài
+lang_multi_text.db,MultiText,ErrorCode_200421_Text,输入设置按键过多,Input settings too many keys configured,Phím thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200422_Text,输入设置按键名过长,Input settings key name too long,Tên phím thiết lập đầu vào quá dài
+lang_multi_text.db,MultiText,ErrorCode_200423_Text,输入设置按键过多,Input settings too many keys configured,Phím thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200424_Text,输入设置按键名过长,Input settings key name too long,Tên phím thiết lập đầu vào quá dài
+lang_multi_text.db,MultiText,ErrorCode_200425_Text,输入设置按键过多,Input settings too many keys configured,Phím thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200426_Text,输入设置按键过多,Input settings too many keys configured,Phím thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200427_Text,输入设置按键名过长,Input settings key name too long,Tên phím thiết lập đầu vào quá dài
+lang_multi_text.db,MultiText,ErrorCode_200428_Text,输入设置按键过多,Input settings too many keys configured,Phím thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200429_Text,输入设置按键过多,Input settings too many keys configured,Phím thiết lập đầu vào quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_200430_Text,输入设置设备子类型长度过长,Input settings device subtype name too long,Độ dài loại thiết bị phụ thiết lập đầu vào quá dài
+lang_multi_text.db,MultiText,ErrorCode_200432_Text,对方已将您拉入黑名单，无法进入对方世界,Failed to join Co-op because you have been blocked by this player.,"Đối phương đã thêm bạn vào danh sách đen, không thể vào thế giới của họ"
+lang_multi_text.db,MultiText,ErrorCode_200433_Text,您输入的内容包含非法字符，请重新输入,"Your content contains illegal characters, please try again.","Nội dung bạn nhập chứa ký tự không hợp lệ, vui lòng nhập lại"
+lang_multi_text.db,MultiText,ErrorCode_200434_Text,邮箱未绑定,Email not linked,Email chưa liên kết
+lang_multi_text.db,MultiText,ErrorCode_200435_Text,奖励已领取,The reward has been claimed already,Đã nhận thưởng
+lang_multi_text.db,MultiText,ErrorCode_200436_Text,按键设置数据异常,Key setting data error.,Dữ liệu cài đặt phím bất thường
+lang_multi_text.db,MultiText,ErrorCode_200437_Text,系统异常，请稍后再试,System error. Please try again later.,"Hệ thống bất thường, vui lòng thử lại sau"
+lang_multi_text.db,MultiText,ErrorCode_200438_Text,首次通关无法应用该功能,This function is unavailable in combat before the first clear,Không thể dùng tính năng này khi chưa vượt ải lần đầu
+lang_multi_text.db,MultiText,ErrorCode_200439_Text,活动无法应用该功能,This function is unavailable in this event,Không thể dùng tính năng này trong sự kiện
+lang_multi_text.db,MultiText,ErrorCode_200440_Text,功能未开启,Function unavailable,Chức năng chưa mở
+lang_multi_text.db,MultiText,ErrorCode_200441_Text,当前副本未支持,Unavailable in this dungeon,Phó bản hiện tại chưa hỗ trợ
+lang_multi_text.db,MultiText,ErrorCode_200442_Text,当前玩法未支持,Unavailable in the current challenge,Lối chơi hiện tại chưa hỗ trợ
+lang_multi_text.db,MultiText,ErrorCode_200447_Text,系统异常，请稍后再试,System error. Please try again later.,"Hệ thống bất thường, vui lòng thử lại sau"
+lang_multi_text.db,MultiText,ErrorCode_200451_Text,数据访问频率过高，请稍后再试,Request too frequent. Please try again later.,"Tần suất truy cập dữ liệu quá cao, vui lòng thử lại sau"
+lang_multi_text.db,MultiText,ErrorCode_300000_Text,存在异常，如有疑问请联系官方客服,"There is an exception, if you have any questions, please contact the official customer service","Có bất thường, nếu có thắc mắc vui lòng liên hệ CSKH chính thức"
+lang_multi_text.db,MultiText,ErrorCode_300001_Text,地图标记数量限制,Max Pins reached,Giới hạn số lượng đánh dấu bản đồ
+lang_multi_text.db,MultiText,ErrorCode_300002_Text,没有地图迷雾配置,No Map Fog configuration,Không có cấu hình sương mù bản đồ
+lang_multi_text.db,MultiText,ErrorCode_300003_Text,迷雾已解锁,Map Fog unlocked,Sương mù đã mở khóa
+lang_multi_text.db,MultiText,ErrorCode_300004_Text,编队为空,Empty team,Đội hình trống
+lang_multi_text.db,MultiText,ErrorCode_300005_Text,未知编队,Unknown team,Đội hình không xác định
+lang_multi_text.db,MultiText,ErrorCode_300006_Text,编队角色失去意识,Downed Resonators cannot join the team,Nhân vật trong đội mất ý thức
+lang_multi_text.db,MultiText,ErrorCode_300007_Text,编队角色重复,Resonator already on the team,Nhân vật trong đội trùng lặp
+lang_multi_text.db,MultiText,ErrorCode_300008_Text,编队角色未激活,Selected Resonator locked,Nhân vật trong đội chưa kích hoạt
+lang_multi_text.db,MultiText,ErrorCode_300009_Text,编队角色索引越界,Resonator index out of bound,Chỉ số nhân vật trong đội vượt giới hạn
+lang_multi_text.db,MultiText,ErrorCode_300010_Text,编队角色数量过多,Too many Resonators in the lineup,Số lượng nhân vật trong đội quá nhiều
+lang_multi_text.db,MultiText,ErrorCode_300011_Text,战前编队角色不存在,Resonator does not exist for pre-battle team setup,Nhân vật đội hình trước trận đấu không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_300012_Text,战前编队角色不匹配,Resonator does not match for pre-battle team setup,Nhân vật đội hình trước trận đấu không khớp
+lang_multi_text.db,MultiText,ErrorCode_300013_Text,战前角色数量不匹配,Pre-battle character quantity mismatch,Số lượng nhân vật trước trận đấu không khớp
+lang_multi_text.db,MultiText,ErrorCode_300014_Text,战前编队角色类型不匹配,Resonator type does not match for pre-battle team setup,Loại nhân vật đội hình trước trận đấu không khớp
+lang_multi_text.db,MultiText,ErrorCode_300015_Text,战前编队角色属性不匹配,Resonator Attribute does not match for pre-battle team setup,Thuộc tính nhân vật đội hình trước trận đấu không khớp
+lang_multi_text.db,MultiText,ErrorCode_300016_Text,当前战前编队不能试用角色,Trial Resonator unavailable for current pre-battle team setup,Đội hình trước trận đấu hiện tại không thể dùng thử nhân vật
+lang_multi_text.db,MultiText,ErrorCode_300017_Text,战前编队试用角色不匹配,Trial Resonator does not match for pre-battle team setup,Nhân vật dùng thử đội hình trước trận đấu không khớp
+lang_multi_text.db,MultiText,ErrorCode_300018_Text,超过编队数量限制,Too many teams,Vượt quá giới hạn số lượng đội hình
+lang_multi_text.db,MultiText,ErrorCode_300019_Text,出战角色失去意识,Downed Resonators were selected,Nhân vật xuất chiến mất ý thức
+lang_multi_text.db,MultiText,ErrorCode_300020_Text,更新编队时出战角色失去意识,Downed Resonators were selected when editing lineup,"Khi cập nhật đội hình, nhân vật xuất chiến mất ý thức"
+lang_multi_text.db,MultiText,ErrorCode_300021_Text,更新编队出战列表为空,The new team setup is empty,Danh sách xuất chiến khi cập nhật đội hình bị trống
+lang_multi_text.db,MultiText,ErrorCode_300022_Text,编队id超出限制,Team ID over limit,ID đội hình vượt quá giới hạn
+lang_multi_text.db,MultiText,ErrorCode_300023_Text,不能取消当前编队,Current team cannot be removed,Không thể hủy đội hình hiện tại
+lang_multi_text.db,MultiText,ErrorCode_300024_Text,出战角色不在编队列表中,Character not on available team list,Nhân vật xuất chiến không nằm trong danh sách đội hình
+lang_multi_text.db,MultiText,ErrorCode_300025_Text,非单人世界无法更新编队,Team Setup unavailable in co-op mode,Không thể cập nhật đội hình khi không ở chế độ chơi đơn
+lang_multi_text.db,MultiText,ErrorCode_300026_Text,切换角色类型不匹配1,Type of switching Character does not match 1,Loại nhân vật chuyển đổi không khớp 1
+lang_multi_text.db,MultiText,ErrorCode_300027_Text,切换角色类型不匹配2,Type of switching Character does not match 2,Loại nhân vật chuyển đổi không khớp 2
+lang_multi_text.db,MultiText,ErrorCode_300028_Text,切换角色类型不匹配3,Type of switching Character does not match 3,Loại nhân vật chuyển đổi không khớp 3
+lang_multi_text.db,MultiText,ErrorCode_300029_Text,未定义的切换角色类型,Undefined type of switching character,Loại nhân vật chuyển đổi chưa xác định
+lang_multi_text.db,MultiText,ErrorCode_300030_Text,单人世界无法直接替换出战角色,Current Character cannot be switched in single-player mode,Thế giới đơn không thể trực tiếp thay đổi nhân vật xuất chiến
+lang_multi_text.db,MultiText,ErrorCode_300031_Text,更新出战角色列表为空,Available Character list is empty when updated,Danh sách nhân vật xuất chiến cập nhật bị trống
+lang_multi_text.db,MultiText,ErrorCode_300032_Text,更新出战列表当前角色不在列表中,Current Character not in available list when updated,Nhân vật hiện tại không nằm trong danh sách xuất chiến cập nhật
+lang_multi_text.db,MultiText,ErrorCode_300033_Text,剧情角色无法切换,Cannot switch from Story Character,Không thể chuyển đổi nhân vật cốt truyện
+lang_multi_text.db,MultiText,ErrorCode_300034_Text,切换角色不在出战列表中,Character to switch to is not in available list,Nhân vật chuyển đổi không nằm trong danh sách xuất chiến
+lang_multi_text.db,MultiText,ErrorCode_300035_Text,无法重复切换角色,Cannot repeatedly switch to Character,Không thể chuyển đổi nhân vật lặp lại
+lang_multi_text.db,MultiText,ErrorCode_300036_Text,切换角色实体Id不存在,Switched Character's entity ID does not exist,ID thực thể nhân vật chuyển đổi không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_300037_Text,切换角色实体不存在,Switched Character entity does not exist,Thực thể nhân vật chuyển đổi không tồn tại
+lang_multi_text.db,MultiText,ErrorCode_300038_Text,切换的角色已失去意识,Cannot switch to a downed Resonator,Nhân vật chuyển đổi đã mất ý thức
+lang_multi_text.db,MultiText,ErrorCode_300039_Text,队伍操作失败,Failed to adjust team,Thao tác đội thất bại
+lang_multi_text.db,MultiText,ErrorCode_300040_Text,玩家已有队伍,Player already on a team,Người chơi đã có đội
+lang_multi_text.db,MultiText,ErrorCode_300041_Text,队伍邀请无效,Invalid Invite,Lời mời đội không hợp lệ
+lang_multi_text.db,MultiText,ErrorCode_300042_Text,邀请过于频繁，{}无法继续邀请,Invite sent too frequently. {} unavailable for Invite,"Mời quá thường xuyên, {} không thể tiếp tục mời"
+lang_multi_text.db,MultiText,ErrorCode_300043_Text,玩家邀请CD错误,Player Invite error,Lỗi thời gian chờ mời người chơi
+lang_multi_text.db,MultiText,ErrorCode_300044_Text,玩家已在队伍,Player already on team,Người chơi đã ở trong đội
+lang_multi_text.db,MultiText,ErrorCode_300045_Text,没有移出权限,No permission to remove,Không có quyền loại bỏ
+lang_multi_text.db,MultiText,ErrorCode_300046_Text,队伍已满,Team full,Đội đã đầy
+lang_multi_text.db,MultiText,ErrorCode_300047_Text,组队服务未就绪,Teaming service not ready,Dịch vụ lập đội chưa sẵn sàng
+lang_multi_text.db,MultiText,ErrorCode_300048_Text,队伍玩家重复加入,Player already on team cannot join repeatedly,Người chơi trong đội tham gia lặp lại
+lang_multi_text.db,MultiText,ErrorCode_300049_Text,玩家不在队伍中,Player not on team,Người chơi không ở trong đội
+lang_multi_text.db,MultiText,ErrorCode_300050_Text,邀请玩家不存在,Invited player does not exist,Người chơi được mời không tồn tại

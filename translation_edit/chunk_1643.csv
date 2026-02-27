@@ -1,339 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,PhantomSkill_280010_DescriptionEx,"使用声骸技能，幻形为无常凶鹭，起飞后下砸，造成{0}的湮灭伤害；
-长按声骸技能，持续幻形，起飞后向下倾泻湮灭火炎，每段攻击造成{1}的湮灭伤害。
-幻形后首次命中敌人，回复自身10点共鸣能量；在此后15秒内，若自身施放延奏技能，则可使下一个变奏登场的角色伤害提升12%，持续15秒。
-技能冷却：{2}秒","Transform into Impermanence Heron to fly up and smack down, dealing {0} Havoc DMG.
-
-Long press to stay as Impermanence Heron and continuously spit flames, each attack dealing {1} Havoc DMG.
-
-Once the initial attack lands on any enemy, the current character regains 10 Resonance Energy. If the current character uses their Outro Skill within the next 15s, the next character's damage dealt will be boosted by 12% for 15s.
-
-CD: {2}s","Sử dụng Kỹ Năng Thanh Hài, hóa thành Diệc Vô Thường, bay lên rồi nện xuống, gây {0} sát thương Hủy Diệt;
-Nhấn giữ Kỹ Năng Thanh Hài, duy trì hóa hình, bay lên rồi phun lửa Hủy Diệt xuống dưới, mỗi đoạn tấn công gây {1} sát thương Hủy Diệt.
-Sau khi hóa hình trúng địch lần đầu, hồi phục 10 Năng Lượng Cộng Hưởng cho bản thân; trong 15 giây sau đó, nếu bản thân thi triển Kỹ Năng Duyên Tấu, sẽ giúp nhân vật thi triển Kỹ Năng Biến Tấu kế tiếp tăng 12% sát thương, kéo dài 15 giây.
-Thời gian hồi: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280010_SimplyDescription,"幻形为无常凶鹭，起飞后下砸，造成湮灭伤害；长按声骸技能，飞起倾泻火炎造成湮灭伤害。
-攻击命中后回复自身共鸣能量并为下一个变奏登场的角色附加伤害提升效果。","Transform into Impermanence Heron to deal Havoc DMG. Long press to spit flames and continuously deal Havoc DMG. Once the attacks hit any enemy, restore current character's Resonance Energy. Increase next character's damage dealt.","Hóa thành Diệc Vô Thường, bay lên rồi nện xuống, gây sát thương Hủy Diệt; nhấn giữ Kỹ Năng Thanh Hài, bay lên phun lửa gây sát thương Hủy Diệt.
-Sau khi trúng đích hồi phục Năng Lượng Cộng Hưởng và tăng sát thương cho nhân vật thi triển Kỹ Năng Biến Tấu kế tiếp."
-lang_multi_text.db,MultiText,PhantomSkill_280011_DescriptionEx,"使用声骸技能，幻形为无妄者，连续攻击前方目标6次，前5次每次造成{0}的湮灭伤害，最后一段造成{1}的湮灭伤害。
-漂泊者·湮灭在施放共鸣解放·临渊死寂后{2}秒内，施放该声骸技能造成的伤害提升{3}。
-技能冷却：{4}秒","Transform into Dreamless and perform 6 consecutive strikes. The first 5 strikes deal {0} Havoc DMG each, and the last strike deal {1} Havoc DMG.
-The DMG of this Echo Skill is increased by {3} during the first {2}s after Rover: Havoc casts Resonance Liberation: Deadening Abyss.
-
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, hóa thành Kẻ Vô Vọng, tấn công liên tiếp mục tiêu phía trước 6 lần, 5 lần đầu mỗi lần gây {0} sát thương Hủy Diệt, lần cuối gây {1} sát thương Hủy Diệt.
-Trong vòng {2} giây sau khi Lữ Khách . Hủy Diệt thi triển Giải Phóng Cộng Hưởng . Tử Vực Lâm Uyên, sát thương gây ra bởi Kỹ Năng Thanh Hài này tăng {3}.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280011_SimplyDescription,幻形为无妄者，连续攻击敌人造成湮灭伤害。施放共鸣解放·临渊死寂后的漂泊者·湮灭使用该声骸技能造成的伤害提高。,Transform into Dreamless to continuously attack enemies and deal Havoc DMG. This Echo Skill deals more damage after Rover-Havoc casts their Resonance Liberation.,"Hóa thành Kẻ Vô Vọng, tấn công liên tục gây sát thương Hủy Diệt. Sau khi Lữ Khách . Hủy Diệt thi triển Giải Phóng Cộng Hưởng . Tử Vực Lâm Uyên, sát thương của Kỹ Năng Thanh Hài này sẽ tăng lên."
-lang_multi_text.db,MultiText,PhantomSkill_280012_DescriptionEx,"使用声骸技能，召唤「角」腾跃而起，对目标造成{0}的衍射伤害并降下光雷，光雷对周围目标造成最多五段，每段{1}的衍射伤害。随后「角」向下盘旋攻击周围敌人，连续两次造成{2}的衍射伤害。
-施放声骸技能时，获得「光阴之祝」，持续{3}秒。
-「光阴之祝」持续期间：
-·自身的共鸣技能伤害加成提升{4}；
-·自身的共鸣技能命中目标后，目标每秒受到1次{5}衍射伤害，此次伤害为角色的共鸣技能伤害，持续{6}秒。
-技能冷却：{7}秒","Summon Jué to the aid. Jué soars through the air, dealing {0} Spectro DMG, and summons thunderbolts that strike nearby enemies up to 5 times, each hit dealing {1} Spectro DMG. Jué then spirals downward, attacking surrounding enemies twice, each hit dealing {2} Spectro DMG.
-Casting this Echo Skill grants the Resonator a Blessing of Time effect that lasts {3}s, during when:
-- The Resonator gains {4} Resonance Skill DMG Bonus.
-- When the Resonator's Resonance Skill hits the target, inflict {5} Spectro DMG 1 time per second for {6}s, considered as the Resonator's Resonance Skill DMG.
-CD: {7}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi ""Giác"" bay lên trời, gây {0} sát thương Quang Phổ cho mục tiêu và giáng sấm sét xuống, sấm sét gây tối đa 5 đoạn sát thương Quang Phổ cho mục tiêu xung quanh, mỗi đoạn bằng {1}. Sau đó ""Giác"" lượn xuống tấn công địch xung quanh, gây 2 lần sát thương Quang Phổ liên tiếp bằng {2}.
-Khi thi triển Kỹ Năng Thanh Hài, nhận được ""Chúc Phúc Thời Gian"", kéo dài {3} giây.
-Trong thời gian ""Chúc Phúc Thời Gian"":
-. Tăng {4} sát thương Kỹ Năng Cộng Hưởng của bản thân;
-. Sau khi Kỹ Năng Cộng Hưởng của bản thân trúng mục tiêu, mỗi giây mục tiêu chịu 1 lần sát thương Quang Phổ bằng {5}, sát thương này được tính là sát thương Kỹ Năng Cộng Hưởng của nhân vật, kéo dài {6} giây.
-Thời gian hồi: {7} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280012_SimplyDescription,短暂地召唤「角」攻击敌人，造成衍射伤害。施放声骸技能后，角色的共鸣技能可令敌人受到持续的衍射伤害。,"Summon Jué to attack the enemies, dealing Spectro DMG. The Resonator can perform Resonance Skill to deal sustained Spectro DMG to the enemies over time.","Triệu hồi ""Giác"" tấn công địch trong thoáng chốc, gây sát thương Quang Phổ. Sau khi dùng Kỹ Năng Thanh Hài, Kỹ Năng Cộng Hưởng của nhân vật có thể khiến địch chịu sát thương Quang Phổ liên tục."
-lang_multi_text.db,MultiText,PhantomSkill_280013_DescriptionEx,"使用声骸技能，召唤无归的谬误一部分的权能，对周围的敌人造成1次基于自身生命上限{0}的衍射伤害，使自身共鸣效率提升10%，全队角色攻击提升10%，持续20秒。
-长按声骸技能，可在震击结束后，消耗耐力持续进行攻击，每次造成基于生命上限{1}的衍射伤害；结束长按时，触发最后一击，造成基于生命上限{2}的衍射伤害。
-技能冷却：{3}秒","Activate the Echo Skill to summon a fraction of the Fallacy of No Return's power and deal a blast to the surrounding area, inflicting Spectro DMG equal to {0} of max HP, after which the Resonator gains 10% bonus Energy Regen and all team members 10% bonus ATK for 20s.
-Hold Echo Skill to unleash a series of flurry assaults at the cost of STA, each dealing Spectro DMG equal to {1} of max HP; Release to end the assail in a powerful blow, dealing Spectro DMG equal to {2} of max HP.
-CD: {3}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi một phần quyền năng của Sai Lầm Không Lối Về, gây 1 lần sát thương Quang Phổ dựa trên {0} HP tối đa của bản thân cho kẻ địch xung quanh, giúp bản thân tăng 10% Hiệu Quả Nạp Cộng Hưởng, tăng 10% tấn công cho toàn bộ nhân vật trong đội, kéo dài 20 giây.
-Nhấn giữ Kỹ Năng Thanh Hài, sau khi chấn kích kết thúc, tiêu hao thể lực để tiếp tục tấn công, mỗi lần gây sát thương Quang Phổ dựa trên {1} HP tối đa; khi thả tay, kích hoạt đòn cuối cùng, gây sát thương Quang Phổ dựa trên {2} HP tối đa.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280013_SimplyDescription,召唤无归的谬误的部分权能，攻击周围的敌人，可提升自身的共鸣效率，提升全队角色的攻击力。,"Summon a fraction of the Fallacy of No Return's power to unleash powerful blows, granting bonus Energy Regen for the Resonator and bonus ATK for all team members.","Triệu hồi một phần quyền năng của Sai Lầm Không Lối Về, tấn công kẻ địch xung quanh, có thể tăng Hiệu Quả Nạp Cộng Hưởng cho bản thân, tăng tấn công cho toàn đội."
-lang_multi_text.db,MultiText,PhantomSkill_280014_DescriptionEx,"使用声骸技能，幻形为异构武装，攻击前方目标，造成{0}的冷凝伤害。装配角色施放共鸣解放时，可持续提升「强袭功率」。
-「强袭功率」升满时，重置声骸技能的冷却时间，可使用声骸技能幻形为异构武装，起飞后向目标俯冲，造成{1}的冷凝伤害，并冻结目标。
-在首位装配该声骸技能时，自身获得{2}冷凝伤害加成提升，{3}共鸣技能伤害加成提升。
-技能冷却：{4}秒","Transform into Sentry Construct and attack enemies in front, dealing {0} Glacio DMG. Each time the Resonator with this Echo casts Resonance Liberation, it charges the Strike Capacitor.
-Once Strike Capacitor is at max level, the Echo Skill cooldown will be reset. Use Echo Skill to transform into Sentry Construct and dive into enemies from the air, dealing {1} Glacio DMG and freezing the target.
-The Resonator with this Echo equipped in their main slot gains {2} Glacio DMG Bonus and {3} Resonance Skill DMG Bonus.
-CD: {4}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thành Vũ Trang Dị Cấu, tấn công mục tiêu phía trước, gây {0} sát thương Ngưng Băng. Khi nhân vật trang bị thi triển Giải Phóng Cộng Hưởng, sẽ tăng dần ""Công Suất Cường Kích"".
-Khi ""Công Suất Cường Kích"" đầy, làm mới thời gian hồi Kỹ Năng Thanh Hài, có thể dùng Kỹ Năng Thanh Hài hóa thành Vũ Trang Dị Cấu, bay lên rồi bổ nhào vào mục tiêu, gây {1} sát thương Ngưng Băng, và đóng băng mục tiêu.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, bản thân nhận {2} tăng sát thương Ngưng Băng, {3} tăng sát thương Kỹ Năng Cộng Hưởng.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280014_SimplyDescription,幻形为异构武装，连续攻击前方敌人造成冷凝伤害。装配角色施放共鸣解放可持续提升「强袭功率」。「强袭功率」升满时可幻形为异构武装对敌人俯冲造成冷凝伤害。在首位装配时提高自身的冷凝和共鸣技能伤害。,"Transform into Sentry Construct and deal Glacio DMG to enemies. Casting Resonance Liberation while equipped with this Echo enhances Strike Capacitor. At max Strike Capacitor, transform into Sentry Construct and deal Glacio DMG to enemies. Equipping this Echo in the main slot grants Glacio DMG Bonus and Resonance Skill Bonus.","Hóa thành Vũ Trang Dị Cấu, tấn công liên tục địch phía trước gây sát thương Ngưng Băng. Nhân vật trang bị thi triển Giải Phóng Cộng Hưởng có thể tăng ""Công Suất Cường Kích"". Khi đầy ""Công Suất Cường Kích"" có thể hóa thành Vũ Trang Dị Cấu bổ nhào vào địch gây sát thương Ngưng Băng. Khi trang bị ở vị trí đầu sẽ tăng sát thương Ngưng Băng và Kỹ Năng Cộng Hưởng cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280015_DescriptionEx,"使用声骸技能，幻形为叹息古龙，召唤「悲恸领域」，持续5秒，对「悲恸领域」内的敌人周期性造成{0}的热熔伤害。
-在首位装配该声骸技能时，自身获得{1}热熔伤害加成提升，{2}普攻伤害加成提升。
-技能冷却：{3}秒","Transform into Dragon of Dirge and summon a Grief Rift lasting for 5s. Periodically deal {0} Fusion DMG to enemies within the area of effect.
-The Resonator with this Echo equipped in the main slot gains {1} Fusion DMG Bonus and {2} Basic Attack DMG Bonus.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thành Cổ Long Than Thở, triệu hồi ""Lãnh Địa Bi Ai"", kéo dài 5 giây, gây sát thương Hỏa Liệt bằng {0} theo chu kỳ cho kẻ địch trong ""Lãnh Địa Bi Ai"".
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, bản thân nhận {1} tăng sát thương Hỏa Liệt, {2} tăng sát thương Đánh Thường.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280015_SimplyDescription,幻形为叹息古龙召唤「悲恸领域」，对一定范围内的敌人持续造成热熔伤害。在首位装配时提高自身的热熔和普攻伤害。,"Transform into Dragon of Dirge and summon a Grief Rift, deal Fusion DMG to enemies within over time. Equipping this Echo in the main slot grants Fusion DMG Bonus and Basic Attack DMG Bonus.","Hóa thành Cổ Long Than Thở triệu hồi ""Lãnh Địa Bi Ai"", liên tục gây sát thương Hỏa Liệt cho kẻ địch trong phạm vi. Khi trang bị ở vị trí đầu sẽ tăng sát thương Hỏa Liệt và Đánh Thường cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280016_DescriptionEx,"使用声骸技能，在周身召唤3个持续旋舞的「冥月侍女」。「冥月侍女」的旋刃将对敌人造成{0}的湮灭伤害。旋刃成功触发逆势回击时，重置「冥月侍女」存在的时间。
-在首位装配该声骸技能时，自身协同攻击造成的伤害提升{1}。
-技能冷却：{2}秒","Summon 3 twirling Crescent Servants around you. Crescent Servants attack enemies with their spinning blades, dealing {0} Havoc DMG. Triggering a Counterattack with the Echo attacks resets the Crescent Servants' duration.
-The Resonator with this Echo equipped in the main slot has their Coordinated Attack DMG increased by {1}.
-CD: {2}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi 3 ""Hầu Nữ Trăng Khuyết"" múa lượn quanh người. Lưỡi dao xoay của ""Hầu Nữ Trăng Khuyết"" sẽ gây {0} sát thương Hủy Diệt cho kẻ địch. Khi lưỡi dao xoay kích hoạt thành công Phản Kích Nghịch Thế, làm mới thời gian tồn tại của ""Hầu Nữ Trăng Khuyết"".
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương gây ra bởi đòn tấn công phối hợp của bản thân.
-Thời gian hồi: {2} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280016_SimplyDescription,召唤旋舞的「冥月侍女」，对周围敌人造成湮灭伤害。「冥月侍女」的旋刃成功触发逆势回击时重置其存在时间。在首位装配时提高自身的协同攻击伤害。,Summon Crescent Servants to deal Havoc DMG to enemies. Triggering a Counterattack with the attacks resets the summon duration. Equipping this Echo in the main slot increases Coordinated Attack DMG.,"Triệu hồi ""Hầu Nữ Trăng Khuyết"" múa lượn, gây sát thương Hủy Diệt cho kẻ địch xung quanh. Khi lưỡi dao xoay của ""Hầu Nữ Trăng Khuyết"" kích hoạt thành công Phản Kích Nghịch Thế sẽ làm mới thời gian tồn tại. Khi trang bị ở vị trí đầu sẽ tăng sát thương tấn công phối hợp của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280017_DescriptionEx,"使用声骸技能，幻形为罗蕾莱，对周围敌人造成{0}的湮灭属性伤害。
-在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，普攻伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Lorelei and attack surrounding enemies, dealing {0} Havoc DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Havoc DMG Bonus and {2} Basic Attack DMG Bonus.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thành Lorelei, gây {0} sát thương thuộc tính Hủy Diệt cho kẻ địch xung quanh.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Hủy Diệt cho bản thân, tăng {2} sát thương Đánh Thường.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280017_SimplyDescription,幻形为罗蕾莱，对周围敌人造成湮灭伤害。在首位装配时提高自身的湮灭和普攻伤害。,Transform into Lorelei and deal Havoc DMG to enemies. Equipping this Echo in the main slot grants Havoc DMG Bonus and Basic Attack DMG Bonus.,"Hóa thành Lorelei, gây sát thương Hủy Diệt cho kẻ địch xung quanh. Khi trang bị ở vị trí đầu sẽ tăng sát thương Hủy Diệt và Đánh Thường cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280018_DescriptionEx,"使用声骸技能，召唤梦魇·飞廉之猩攻击敌人，造成{0}的气动伤害；留存的「风旋榕木」将持续攻击周围敌人，造成最多5段，每段{1}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{2}，重击伤害加成提升{3}。
-技能冷却：{4}秒","Summon a Nightmare: Feilian Beringal to attack enemies, dealing {0} Aero DMG. The remaining Whirlwind Beam will continuously attack surrounding enemies up to 5 times, each dealing {1} Aero DMG.
-The Resonator with this Echo equipped in their main slot gains {2} Aero DMG Bonus and {3} Heavy Attack DMG Bonus.
-CD: {4}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Ác Mộng . Tinh Tinh Phi Liêm tấn công địch, gây {0} sát thương Khí Động; ""Cây Đa Gió Xoáy"" để lại sẽ liên tục tấn công kẻ địch xung quanh, gây tối đa 5 đoạn, mỗi đoạn {1} sát thương Khí Động.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {2} sát thương Khí Động cho bản thân, tăng {3} sát thương Đánh Mạnh.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280018_SimplyDescription,召唤梦魇·飞廉之猩，攻击敌人造成气动伤害。留存的「风旋榕木」也将对周围敌人持续造成气动伤害。在首位装配时提高自身的气动和重击伤害。,Summon a Nightmare: Feilian Beringal to deal Aero DMG to enemies. The remaining Whirlwind Beam deals continuous Aero DMG. Equipping this Echo in the main slot grants Aero DMG Bonus and Heavy Attack DMG Bonus.,"Triệu hồi Ác Mộng . Tinh Tinh Phi Liêm, tấn công địch gây sát thương Khí Động. ""Cây Đa Gió Xoáy"" để lại cũng sẽ gây sát thương Khí Động liên tục cho kẻ địch xung quanh. Khi trang bị ở vị trí đầu sẽ tăng sát thương Khí Động và Đánh Mạnh cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280019_DescriptionEx,"使用声骸技能，幻形为梦魇·无常凶鹭，对周围敌人造成最多10段，每段{0}的湮灭伤害。
-在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，重击伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Impermanence Heron and deliver up to 10 consecutive strikes to surrounding enemies, each dealing {0} Havoc DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Havoc DMG Bonus and {2} Heavy Attack DMG Bonus.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thành Ác Mộng . Diệc Vô Thường, gây tối đa 10 đoạn sát thương Hủy Diệt cho kẻ địch xung quanh, mỗi đoạn bằng {0}.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Hủy Diệt cho bản thân, tăng {2} sát thương Đánh Mạnh.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280019_SimplyDescription,幻形为梦魇·无常凶鹭，对周围敌人造成多段湮灭伤害，在首位装配时提高自身的湮灭和重击伤害。,Transform into Nightmare: Impermanence Heron and deal Havoc DMG to enemies. Equipping this Echo in the main slot grants Havoc DMG Bonus and Heavy Attack DMG Bonus.,"Hóa thành Ác Mộng . Diệc Vô Thường, gây sát thương Hủy Diệt nhiều đoạn cho kẻ địch xung quanh, khi trang bị ở vị trí đầu sẽ tăng sát thương Hủy Diệt và Đánh Mạnh cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280020_DescriptionEx,"使用声骸技能，幻形为梦魇·云闪之鳞，对前方敌人造成{0}的导电伤害。
-在首位装配该声骸技能时，自身导电伤害加成提升{1}，共鸣解放伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Thundering Mephis and attack enemies in front, dealing {0} Electro DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Electro DMG Bonus and {2} Resonance Liberation DMG Bonus.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thành Ác Mộng . Lân Vảy Sấm Sét, gây {0} sát thương Điện Từ cho kẻ địch phía trước.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Điện Từ cho bản thân, tăng {2} sát thương Giải Phóng Cộng Hưởng.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280020_SimplyDescription,幻形为梦魇·云闪之鳞，对前方敌人造成导电伤害，在首位装配时提高自身的导电和共鸣解放伤害。,Transform into Nightmare: Thundering Mephis and deal Electro DMG to enemies. Equipping this Echo in the main slot grants Electro DMG Bonus and Resonance Liberation DMG Bonus.,"Hóa thành Ác Mộng . Lân Vảy Sấm Sét, gây sát thương Điện Từ cho kẻ địch phía trước, khi trang bị ở vị trí đầu sẽ tăng sát thương Điện Từ và Giải Phóng Cộng Hưởng cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280021_DescriptionEx,"使用声骸技能，幻形为梦魇·朔雷之鳞，对周围敌人造成{0}的导电伤害。
-在首位装配该声骸技能时，自身导电伤害加成提升{1}，共鸣技能伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Tempest Mephis and attack surrounding enemies, dealing {0} Electro DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Electro DMG Bonus and {2} Resonance Skill DMG Bonus.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thành Ác Mộng . Lân Vảy Sấm Rền, gây {0} sát thương Điện Từ cho kẻ địch xung quanh.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Điện Từ cho bản thân, tăng {2} sát thương Kỹ Năng Cộng Hưởng.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280021_SimplyDescription,幻形为梦魇·朔雷之鳞，对周围敌人造成导电伤害，在首位装配时提高自身的导电和共鸣技能伤害。,Transform into Nightmare: Tempest Mephis and deal Electro DMG to enemies. Equipping this Echo in the main slot grants Electro DMG Bonus and Resonance Skill DMG Bonus.,"Hóa thành Ác Mộng . Lân Vảy Sấm Rền, gây sát thương Điện Từ cho kẻ địch xung quanh, khi trang bị ở vị trí đầu sẽ tăng sát thương Điện Từ và Kỹ Năng Cộng Hưởng cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280022_DescriptionEx,"使用声骸技能，幻形为梦魇·无冠者，对前方敌人造成{0}的湮灭伤害。
-在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，普攻伤害加成提升{2}。
-初始拥有{3}次可使用次数，每{4}秒可使用次数增加1次，可使用次数上限{5}次。梦魇·无冠者命中目标后，该声骸技能造成的伤害提升{6}，持续{7}秒，不可叠加。
-技能冷却：{4}秒","Transform into Nightmare: Crownless and attack enemies in front, dealing {0} Havoc DMG. The Resonator with this Echo equipped in their main slot gains {1} Havoc DMG Bonus and {2} Basic Attack DMG Bonus.
-This skill has {3} initial charges, replenished once every {4}s, max {5} charges. When Nightmare: Crownless hits a target, DMG dealt by this skill is increased by {6}. This effect lasts for {7}s and does not stack.
-CD: {4}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thành Ác Mộng . Kẻ Không Ngai, gây {0} sát thương Hủy Diệt cho kẻ địch phía trước.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Hủy Diệt cho bản thân, tăng {2} sát thương Đánh Thường.
-Ban đầu sở hữu {3} lần sử dụng, mỗi {4} giây tăng thêm 1 lần sử dụng, giới hạn tối đa {5} lần. Sau khi Ác Mộng . Kẻ Không Ngai trúng mục tiêu, sát thương gây ra bởi Kỹ Năng Thanh Hài này tăng {6}, kéo dài {7} giây, không thể cộng dồn.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280022_SimplyDescription,幻形为梦魇·无冠者，对前方敌人造成湮灭伤害，在首位装配时提高自身的湮灭和普攻伤害。,Transform into Nightmare: Crownless and deal Havoc DMG to enemies. Equipping this Echo in the main slot grants Havoc DMG Bonus and Basic Attack DMG Bonus.,"Hóa thành Ác Mộng . Kẻ Không Ngai, gây sát thương Hủy Diệt cho kẻ địch phía trước, khi trang bị ở vị trí đầu sẽ tăng sát thương Hủy Diệt và Đánh Thường cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280023_DescriptionEx,"使用声骸技能，幻形为梦魇·燎照之骑，跃起对前方敌人造成{0}的热熔伤害。
-在首位装配该声骸技能时，自身热熔伤害加成提升{1}，共鸣技能伤害加成提升{2}。
-长按声骸技能，持续幻形为燎照之骑并进入骑行状态，结束时对前方的目标造成一次{3}的热熔伤害。
-技能冷却：{4}秒","Transform into Nightmare: Inferno Rider and jump to attack enemies in front, dealing {0} Fusion DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Fusion DMG Bonus and {2} Resonance Skill DMG Bonus.
-Hold Echo Skill to transform into Nightmare: Inferno Rider and enter Riding Mode. When exiting Riding Mode, deal {3} Fusion DMG to enemies in front.
-CD: {4}s.","Sử dụng Kỹ Năng Thanh Hài, hóa thành Ác Mộng . Kỵ Sĩ Rực Lửa, nhảy lên gây {0} sát thương Hỏa Liệt cho kẻ địch phía trước.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Hỏa Liệt cho bản thân, tăng {2} sát thương Kỹ Năng Cộng Hưởng.
-Nhấn giữ Kỹ Năng Thanh Hài, duy trì hóa hình thành Kỵ Sĩ Rực Lửa và vào trạng thái cưỡi xe, khi kết thúc gây một lần sát thương Hỏa Liệt bằng {3} cho mục tiêu phía trước.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280023_SimplyDescription,"幻形为梦魇·燎照之骑，对前方敌人造成热熔伤害，在首位装配时提高自身的热熔和共鸣技能伤害。
-长按声骸技能可以持续幻形为骑行状态的梦魇·燎照之骑。","Transform into Nightmare: Inferno Rider and deal Fusion DMG to enemies. Equipping this Echo in the main slot grants Fusion DMG Bonus and Resonance Skill DMG Bonus.
-Hold Echo Skill to transform into Nightmare: Inferno Rider and enter Riding Mode.","Hóa thành Ác Mộng . Kỵ Sĩ Rực Lửa, gây sát thương Hỏa Liệt cho kẻ địch phía trước, khi trang bị ở vị trí đầu sẽ tăng sát thương Hỏa Liệt và Kỹ Năng Cộng Hưởng cho bản thân.
-Nhấn giữ Kỹ Năng Thanh Hài có thể duy trì hóa hình thành Ác Mộng . Kỵ Sĩ Rực Lửa ở trạng thái cưỡi xe."
-lang_multi_text.db,MultiText,PhantomSkill_280024_DescriptionEx,"使用声骸技能，召唤梦魇·哀声鸷，对周围敌人造成{0}的衍射伤害。若敌人处于受「光噪效应」影响状态时，哀声鸷造成的伤害提升{1}。
-在首位装配该声骸技能时，自身衍射伤害加成提升{2}。
-技能冷却：{3}秒","Summon a Nightmare: Mourning Aix to attack surrounding enemies, dealing {0} Spectro DMG. DMG dealt to enemies inflicted by Spectro Frazzle is increased by {1}.
-The Resonator with this Echo equipped in their main slot gains {2} Spectro DMG Bonus.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Ác Mộng . Điêu Ai Oán, gây {0} sát thương Quang Phổ cho kẻ địch xung quanh. Nếu kẻ địch đang chịu ""Hiệu Ứng Nhiễu Quang"", sát thương Điêu Ai Oán gây ra tăng {1}.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {2} sát thương Quang Phổ cho bản thân.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280024_SimplyDescription,召唤梦魇·哀声鸷，对周围敌人造成衍射伤害，对受「光噪效应」影响的敌人造成更多伤害。 在首位装配时提高自身的衍射伤害。,Summon a Nightmare: Mourning Aix to deal Spectro DMG to enemies. Deal increased DMG to enemies inflicted by Spectro Frazzle. Equipping this Echo in the main slot grants Spectro DMG Bonus.,"Triệu hồi Ác Mộng . Điêu Ai Oán, gây sát thương Quang Phổ cho kẻ địch xung quanh, gây nhiều sát thương hơn lên kẻ địch chịu ảnh hưởng của ""Hiệu Ứng Nhiễu Quang"". Khi trang bị ở vị trí đầu sẽ tăng sát thương Quang Phổ cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280025_DescriptionEx,"使用声骸技能，召唤梦魇·辉萤军势，对周围敌人造成{0}的冷凝伤害。
-在首位装配该声骸技能时，自身冷凝伤害加成提升{1}，协同攻击造成的伤害提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Lampylumen Myriad and attack surrounding enemies, dealing {0} Glacio DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Glacio DMG Bonus and deals {2} more Coordinated Attack DMG.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Ác Mộng . Quân Đoàn Đom Đóm, gây {0} sát thương Ngưng Băng cho kẻ địch xung quanh.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Ngưng Băng cho bản thân, tăng {2} sát thương gây ra bởi đòn tấn công phối hợp.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280025_SimplyDescription,召唤梦魇·辉萤军势，对周围敌人造成冷凝伤害。 在首位装配时提高自身的冷凝伤害和协同攻击造成的伤害。,Summon a Nightmare: Lampylumen Myriad and deal Glacio DMG to nearby enemies. Equipping this Echo in the main slot grants Glacio DMG Bonus and increases Coordinated Attack DMG.,"Triệu hồi Ác Mộng . Quân Đoàn Đom Đóm, gây sát thương Ngưng Băng cho kẻ địch xung quanh. Khi trang bị ở vị trí đầu sẽ tăng sát thương Ngưng Băng và sát thương tấn công phối hợp cho bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280026_DescriptionEx,"使用声骸技能，召唤【破空幻刃】，攻击目标，造成八段{0}和一段{1}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{2}，当装配角色为漂泊者·气动或卡提希娅时，自身气动伤害加成额外提升{3}。
-技能冷却：{4}秒","Summon Windcleaver and attack the target, dealing {0} Aero DMG 8 times and {1} Aero DMG once.
-The Resonator with this Echo equipped in the main slot gains {2} Aero DMG Bonus. When Resonator: Aero or Cartethyia equips this Echo, they gain {3} more Aero DMG Bonus.
-CD: {4}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi [Ảo Ảnh Phá Không], tấn công mục tiêu, gây 8 đoạn sát thương Khí Động bằng {0} và 1 đoạn bằng {1}.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {2} sát thương Khí Động cho bản thân. Khi nhân vật trang bị là Lữ Khách . Khí Động hoặc Cartethyia, sát thương Khí Động của bản thân tăng thêm {3}.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280026_SimplyDescription,召唤【破空幻刃】，对敌人造成气动伤害。在首位装配时提高自身的气动伤害，漂泊者·气动和卡提希娅在首位装配时气动伤害加成额外提高。,"Summon the Windercleaver to deal Aero DMG. Equipping this Echo in the main slot grants Aero DMG Bonus. If equipped by Rover: Aero or Cartethyia, grant an extra Aero DMG bonus.","Triệu hồi [Ảo Ảnh Phá Không], gây sát thương Khí Động cho kẻ địch. Khi trang bị ở vị trí đầu sẽ tăng sát thương Khí Động cho bản thân, Lữ Khách . Khí Động và Cartethyia khi trang bị ở vị trí đầu sẽ được tăng thêm sát thương Khí Động."
-lang_multi_text.db,MultiText,PhantomSkill_280027_DescriptionEx,"使用声骸技能，幻形为梦魇·凯尔匹，对周围敌人造成{0}的冷凝伤害。
-在首位装配该声骸技能时，自身冷凝伤害加成提升{2}，气动伤害加成提升{3}；使用延奏技能离场时可召唤梦魇·凯尔匹，对敌人造成{1}的气动伤害。
-技能冷却：{4}秒","Transform into Nightmare: Kelpie to attack nearby targets, dealing {0} Glacio DMG.
-The Resonator with this Echo equipped in the main slot gains {2} Glacio DMG Bonus and {3} Aero DMG Bonus. Switching out the Resonator with Outro Skill summons Nightmare: Kelpie to deal {1} Aero DMG.
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, hóa thành Ác Mộng . Kelpie, gây {0} sát thương Ngưng Băng cho kẻ địch xung quanh.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {2} sát thương Ngưng Băng, tăng {3} sát thương Khí Động cho bản thân; khi sử dụng Kỹ Năng Duyên Tấu rời trận sẽ triệu hồi Ác Mộng . Kelpie, gây {1} sát thương Khí Động cho kẻ địch.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280027_SimplyDescription,"幻形为梦魇·凯尔匹，对周围敌人造成冷凝伤害。
-在首位装配时，提高自身冷凝和气动伤害；使用延奏技能离场时可召唤梦魇·凯尔匹，对敌人造成气动伤害。","Transform into Nightmare: Kelpie to attack nearby targets, dealing Glacio DMG.
-The Resonator with this Echo equipped in the main slot gains Glacio and Aero DMG Bonus. Switching out the Resonator with Outro Skill summons Nightmare: Kelpie to deal Aero DMG.","Hóa thành Ác Mộng . Kelpie, gây sát thương Ngưng Băng cho kẻ địch xung quanh.
-Khi trang bị ở vị trí đầu, tăng sát thương Ngưng Băng và Khí Động cho bản thân; khi sử dụng Kỹ Năng Duyên Tấu rời trận sẽ triệu hồi Ác Mộng . Kelpie, gây sát thương Khí Động cho kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_280028_DescriptionEx,"使用声骸技能，召唤【荣光之戟】，对周围敌人造成{0}的热熔伤害，一定时间后再造成{1}的热熔伤害。
-在首位装配该声骸技能时，自身热熔伤害加成提升{2}，共鸣解放伤害加成提升{3}。
-技能冷却：{4}秒","Summon the Halberd of Glory to crush an area, dealing {0} Fusion DMG to nearby targets, and then blast off after a short delay, dealing {1} Fusion DMG.
-The Resonator with this Echo equipped in the main slot gains {2} Fusion DMG Bonus and {3} Resonance Liberation DMG Bonus.
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi [Vinh Quang Kích], gây {0} sát thương Hỏa Liệt cho kẻ địch xung quanh, sau một khoảng thời gian gây thêm {1} sát thương Hỏa Liệt.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {2} sát thương Hỏa Liệt và tăng {3} sát thương Giải Phóng Cộng Hưởng của bản thân.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280028_SimplyDescription,"使用声骸技能，召唤【荣光之戟】，对周围敌人造成热熔伤害。
-在首位装配时，提高自身热熔和共鸣解放伤害。","Summon the Halberd of Glory to deal Fusion DMG to nearby targets.
-The Resonator with this Echo equipped in the main slot gains Fusion and Resonance Liberation DMG Bonus.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi [Vinh Quang Kích], gây sát thương Hỏa Liệt cho kẻ địch xung quanh.
-Khi trang bị ở vị trí đầu tiên, tăng sát thương Hỏa Liệt và sát thương Giải Phóng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280029_DescriptionEx,"使用声骸技能，幻形为梦魇·赫卡忒，向上跃起后下砸造成三段每段{0}的湮灭伤害。
-在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，声骸技能伤害加成提升{2}。
-技能冷却：{3}秒","Transform into Nightmare: Hecate. Leap up and smash down, dealing 3 stages of damage, each dealing Havoc DMG equal to {0} of her ATK.
-The Resonator with the Echo equipped in the main slot gains {1} Havoc DMG Bonus and {2} Echo Skill DMG Bonus.
-CD: {3}s","Sử dụng Kỹ Năng Thanh Hài, biến thành Ác Mộng - Hecate, nhảy lên cao rồi đập xuống gây ba lần sát thương Hủy Diệt, mỗi lần bằng {0}.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Hủy Diệt và tăng {2} sát thương Kỹ Năng Thanh Hài của bản thân.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280029_SimplyDescription,"幻形为梦魇·赫卡忒，向上跃起后下砸造成三段湮灭伤害。
-在首位装配时，提高自身湮灭和声骸技能伤害。","Transform into Nightmare: Hecate. Leap up and smash down to deliver 3 stages of Havoc DMG.
-The Resonator with the Echo equipped in the main slot gains Havoc DMG Bonus and Echo Skill DMG Bonus.","Biến thành Ác Mộng - Hecate, nhảy lên cao rồi đập xuống gây ba lần sát thương Hủy Diệt.
-Khi trang bị ở vị trí đầu tiên, tăng sát thương Hủy Diệt và sát thương Kỹ Năng Thanh Hài của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280030_DescriptionEx,"使用声骸技能，召唤【教律龙爪】，对周围敌人造成{0}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{1}，重击伤害加成提升{2}。
-技能冷却：{3}秒","Summon the Talons of Decree to attack nearby enemies, dealing {0} Aero DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Aero DMG Bonus and {2} Heavy Attack DMG Bonus.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi [Vuốt Rồng Giáo Luật], gây {0} sát thương Khí Động cho kẻ địch xung quanh.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Khí Động và tăng {2} sát thương Đánh Mạnh của bản thân.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280030_SimplyDescription,"召唤【教律龙爪】，对周围敌人造成气动伤害。
-在首位装配时，提高自身气动和重击伤害。","Summon the Talons of Decree to deal Aero DMG to nearby enemies.
-The Resonator with this Echo equipped in the main slot gains Aero and Heavy Attack DMG Bonus.","Triệu hồi [Vuốt Rồng Giáo Luật], gây sát thương Khí Động cho kẻ địch xung quanh.
-Khi trang bị ở vị trí đầu tiên, tăng sát thương Khí Động và sát thương Đánh Mạnh của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280031_DescriptionEx,"使用声骸技能，幻形为伪作的神王，发动旋转突进对敌人造成四段{0}的导电伤害。
-在首位装配该声骸技能时，自身导电伤害加成提升{1}，重击伤害加成提升{2}；使用变奏技能登场时可召唤伪作的神王，对敌人造成{3}的导电伤害。
-初始拥有{4}次可使用次数，每{5}秒可使用次数增加1次，可使用次数上限{6}次。
-技能冷却：{7}秒","Transform into the False Sovereign and dash forward in a spinning strike, dealing {0} Electro DMG 4 times.
-The Resonator with this Echo equipped in the main slot gains {1} Electro DMG Bonus and {2} Heavy Attack DMG Bonus. Upon casting Intro Skill, the False Sovereign is also summoned to deal {3} Electro DMG.
-Start with {4} charges. Gain 1 charge every {5}s, up to {6} charges.
-CD: {7}s","Sử dụng Kỹ Năng Thanh Hài, biến thành Thần Vương Giả Mạo, xoay tròn lao tới gây bốn lần sát thương Điện Từ, mỗi lần bằng {0}.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Điện Từ và tăng {2} sát thương Đánh Mạnh của bản thân; khi sử dụng Kỹ Năng Biến Tấu để xuất trận sẽ triệu hồi Thần Vương Giả Mạo, gây {3} sát thương Điện Từ cho kẻ địch.
-Ban đầu có {4} lần sử dụng, mỗi {5} giây hồi 1 lần sử dụng, tối đa tích trữ {6} lần.
-Thời gian hồi: {7} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280031_SimplyDescription,"幻形为伪作的神王，对周围敌人造成导电伤害。
-在首位装配时，提高自身导电和重击伤害；使用变奏技能登场时可召唤伪作的神王，对敌人造成导电伤害。","Transform into the False Sovereign to attack nearby enemies and deal Electro DMG.
-The Resonator with this Echo equipped in the main slot gains Electro and Heavy Attack DMG Bonus. Upon casting Intro Skill, summon the False Sovereign to deal Electro DMG.","Biến thành Thần Vương Giả Mạo, gây sát thương Điện Từ cho kẻ địch xung quanh.
-Khi trang bị ở vị trí đầu tiên, tăng sát thương Điện Từ và sát thương Đánh Mạnh của bản thân; khi sử dụng Kỹ Năng Biến Tấu để xuất trận sẽ triệu hồi Thần Vương Giả Mạo, gây sát thương Điện Từ cho kẻ địch."
-lang_multi_text.db,MultiText,PhantomSkill_280032_DescriptionEx,"使用声骸技能，召唤【潮涌之漩】，对敌人造成至多十段{0}的气动伤害和一段{1}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{2}，共鸣解放伤害加成提升{3}。
-技能冷却：{4}秒","Summon a Tidestorm to deal {0} Aero DMG ten times and {1} Aero DMG one time to enemies.
-The Resonator with this Echo equipped in the main slot gains {2} Aero DMG Bonus and {3} Resonance Liberation DMG Bonus.
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi [Dòng Xoáy Thủy Triều], gây tối đa mười lần sát thương Khí Động mỗi lần bằng {0} và một lần sát thương Khí Động bằng {1} lên kẻ địch.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {2} sát thương Khí Động và tăng {3} sát thương Giải Phóng Cộng Hưởng của bản thân.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280032_SimplyDescription,"召唤【潮涌之漩】，对敌人造成气动伤害。
-在首位装配时，提高自身气动和共鸣解放伤害。","Summon a Tidestorm to deal Aero DMG to enemies.
-The Resonator with this Echo equipped in the main slot gains Aero and Resonance Liberation DMG Bonus.","Triệu hồi [Dòng Xoáy Thủy Triều], gây sát thương Khí Động cho kẻ địch.
-Khi trang bị ở vị trí đầu tiên, tăng sát thương Khí Động và sát thương Giải Phóng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280033_DescriptionEx,"使用声骸技能，召唤蚀脊龙，对敌人造成{0}的热熔伤害。
-在首位装配该声骸技能时，自身热熔伤害加成提升{1}，声骸技能伤害加成提升{2}。
-技能冷却：{3}秒","Summon a Corrosaurus to attack enemies, dealing {0} Fusion DMG.
-The Resonator with this Echo equipped in the main slot gains {1} Fusion DMG Bonus and {2} Echo Skill DMG Bonus.
-CD: {3}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Rồng Mòn Cốt, gây {0} sát thương Hỏa Liệt cho kẻ địch.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Hỏa Liệt và tăng {2} sát thương Kỹ Năng Thanh Hài của bản thân.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280033_SimplyDescription,"召唤蚀脊龙，造成热熔伤害。
-在首位装配时，提高自身热熔和声骸技能伤害。","Summon a Corrosaurus to deal Fusion DMG to enemies.
-The Resonator with this Echo equipped in the main slot gains Fusion and Echo Skill DMG Bonus.","Triệu hồi Rồng Mòn Cốt, gây sát thương Hỏa Liệt.
-Khi trang bị ở vị trí đầu tiên, tăng sát thương Hỏa Liệt và sát thương Kỹ Năng Thanh Hài của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280034_DescriptionEx,"使用声骸技能，召唤【坍缩视界】，对周围敌人造成两段{0}的湮灭伤害，并获得坍缩核心，持续{1}秒。
-坍缩核心存在期间，队伍中登场角色造成伤害时将额外附加一段{2}的湮灭伤害，该效果可触发{3}次，每{4}秒至多触发一次，若敌人处于受「虚湮效应」影响状态时，该效果造成的伤害提升{5}。
-在首位装配该声骸技能时，自身湮灭伤害加成提升{6}，共鸣解放伤害加成提升{7}。
-技能冷却：{8}秒","Summon a Collapsing Horizon, dealing two instances of {0} Havoc DMG to the nearby enemies and obtaining the Core of Collapse for {1}s.
-
-While it lasts, Core of Collapse deals {2} Havoc DMG when the active Resonator in the team deals damage. This effect can be triggered once every {4}s, up to <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3}. Enemies with Havoc Bane take {5} more DMG from this effect.
-
-The Resonator with this Echo equipped in the main slot gains {6} Havoc DMG Bonus and {7} Resonance Liberation DMG Bonus.
-
-CD: {8}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi [Tầm Nhìn Sụp Đổ], gây hai lần sát thương Hủy Diệt mỗi lần bằng {0} cho kẻ địch xung quanh, đồng thời nhận Lõi Sụp Đổ, duy trì {1} giây.
-Trong thời gian Lõi Sụp Đổ tồn tại, khi nhân vật đang xuất trận trong đội gây sát thương sẽ gây thêm một lần sát thương Hủy Diệt bằng {2}, hiệu quả này có thể kích hoạt {3} lần, mỗi {4} giây tối đa kích hoạt một lần. Nếu kẻ địch đang chịu ảnh hưởng của ""Hiệu Ứng Hư Hủy"", sát thương gây ra bởi hiệu quả này tăng thêm {5}.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {6} sát thương Hủy Diệt và tăng {7} sát thương Giải Phóng Cộng Hưởng của bản thân.
-Thời gian hồi: {8} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280034_SimplyDescription,"召唤【坍缩视界】，对周围敌人造成湮灭伤害，并使队伍中的角色攻击附加湮灭伤害。
-在首位装配时，提高自身湮灭和共鸣解放伤害。","Summon Collapsing Horizon, dealing Havoc DMG. Resonators in the team deal additional Havoc DMG to enemies on hit.
-
-The Resonator with this Echo equipped in the main slot deals more Havoc DMG and Resonance Liberation DMG.","Triệu hồi [Tầm Nhìn Sụp Đổ], gây sát thương Hủy Diệt cho kẻ địch xung quanh, đồng thời khiến đòn tấn công của nhân vật trong đội gây thêm sát thương Hủy Diệt.
-Khi trang bị ở vị trí đầu tiên, tăng sát thương Hủy Diệt và sát thương Giải Phóng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280036_DescriptionEx,"使用声骸技能，召唤海维夏，在空中发射激光对敌人造成十段{0}的衍射伤害。
-在此后{1}秒内，若自身施放延奏技能，使下一个变奏技能登场的角色全属性伤害加成提升{2}，持续{3}秒。
-技能冷却：{4}秒","Summon Hyvatia to fire lasers at enemies from mid-air, dealing {0} Spectro DMG 10 times.
-
-Casting Outro Skill within {1}s after summoning Hyvatia grants {2} All-Attribute DMG Bonus to the next Resonator using Intro Skill for {3}s.
-
-CD: {4}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Hyvatia, bắn tia laser từ trên không gây mười lần sát thương Quang Phổ, mỗi lần bằng {0} lên kẻ địch.
-Trong {1} giây sau đó, nếu bản thân thi triển Kỹ Năng Hiệp Tấu, sẽ tăng {2} sát thương tất cả thuộc tính cho nhân vật tiếp theo thi triển Kỹ Năng Biến Tấu, duy trì {3} giây.
-Thời gian hồi: {4} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280036_SimplyDescription,召唤海维夏，对敌人造成衍射伤害，并使下一个变奏技能登场的角色全属性伤害提升。,"Summon Hyvatia to attack enemies, dealing Spectro DMG and granting All-Attribute DMG Bonus to the next Resonator using Intro Skill.","Triệu hồi Hyvatia, gây sát thương Quang Phổ cho kẻ địch, đồng thời tăng sát thương tất cả thuộc tính cho nhân vật tiếp theo thi triển Kỹ Năng Biến Tấu."
-lang_multi_text.db,MultiText,PhantomSkill_280037_DescriptionEx,"使用声骸技能，召唤辛吉勒姆，对敌人造成一段{0}和一段{1}的热熔伤害。
-在首位装配该声骸技能时，若装配角色为爱弥斯，则自身共鸣解放伤害加成提升{2}。
-技能冷却：{3}秒","Summon Sigillum to unleash two attacks, dealing {0} and {1} Fusion DMG respectively.
-When equipped in the main slot by Aemeath, it grants {2} Resonance Liberation DMG Bonus.
-CD: {3}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Sigillum, gây một lần sát thương Hỏa Liệt bằng {0} và một lần bằng {1} lên kẻ địch.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, nếu nhân vật trang bị là Aemeath, tăng {2} sát thương Giải Phóng Cộng Hưởng của bản thân.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280037_SimplyDescription,"召唤辛吉勒姆，对敌人造成热熔伤害。
-爱弥斯在首位装配该声骸技能时，提高自身共鸣解放伤害。","Summon Sigillum to attack enemies, dealing Fusion DMG.
-When equipped in the main slot by Aemeath, grant Resonance Liberation DMG Bonus.","Triệu hồi Sigillum, gây sát thương Hỏa Liệt cho kẻ địch.
-Khi Aemeath trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng sát thương Giải Phóng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,PhantomSkill_280038_DescriptionEx,"使用声骸技能，召唤无铭探索者，攻击贯穿路径上的敌人造成{0}的气动伤害。
-在首位装配该声骸技能时，自身气动伤害加成提升{1}，声骸技能伤害加成提升{2}。
-技能冷却：{3}秒","Summon a Nameless Explorer to attack enemies along its path, dealing {0} Aero DMG.
-The Resonator with this Echo equipped in their main slot gains {1} Aero DMG Bonus and {2} Echo Skill DMG Bonus.
-CD: {3}s.","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Nhà Thám Hiểm Vô Danh, tấn công xuyên qua kẻ địch trên đường đi gây {0} sát thương Khí Động.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng {1} sát thương Khí Động và tăng {2} sát thương Kỹ Năng Thanh Hài của bản thân.
-Thời gian hồi: {3} giây"
-lang_multi_text.db,MultiText,PhantomSkill_280038_SimplyDescription,"召唤无铭探索者，对敌人造成气动伤害。
-在首位装配该声骸技能时，提高自身气动和声骸技能伤害。","Summon a Nameless Explorer to attack enemies, dealing Aero DMG.
-The Resonator with this Echo equipped in their main slot gains Aero DMG and Echo Skill DMG Bonus","Triệu hồi Nhà Thám Hiểm Vô Danh, gây sát thương Khí Động cho kẻ địch.
-Khi trang bị Kỹ Năng Thanh Hài này ở vị trí đầu tiên, tăng sát thương Khí Động và sát thương Kỹ Năng Thanh Hài của bản thân."
-lang_multi_text.db,MultiText,Phanton_CollectNum,声骸图鉴收集进度：{0}/{1},Echo Collection Progress: {0}/{1},Tiến độ thu thập Thư Viện Thanh Hài: {0}/{1}
-lang_multi_text.db,MultiText,PhonographMusic_Des01_Text,今天的你，想为拉古那带来何种音乐？,What kind of music will you bring to Ragunna today?,"Hôm nay, bạn muốn mang giai điệu nào đến Ragunna?"
-lang_multi_text.db,MultiText,PhonographMusic_Des08_Text,这是专属于你的唱片，记录着有关你的一切频率。,"A special record for you, preserving all the frequencies linked with you.","Đây là đĩa than dành riêng cho bạn, ghi lại tất cả những tần số liên quan đến bạn."
-lang_multi_text.db,MultiText,PhonographMusic_Name01_Text,致新世界,To the New World,Gửi Tân Thế Giới
-lang_multi_text.db,MultiText,PhonographMusic_Name02_Text,五浔深处,Into the Depths,Sâu Dưới Năm Sải Nước
-lang_multi_text.db,MultiText,PhonographMusic_Name03_Text,缄默欢歌,Through the Silent Veil,Khúc Hoan Ca Tĩnh Lặng
-lang_multi_text.db,MultiText,PhonographMusic_Name04_Text,Waking of a World,Waking of a World,Waking of a World
-lang_multi_text.db,MultiText,PhonographMusic_Name06_Text,真伪之塔,Duplicitous Tower,Tòa Tháp Của Sự Thật Và Dối Trá
-lang_multi_text.db,MultiText,PhonographMusic_Name07_Text,白日的入梦曲,Daydream Lullaby,Khúc Hát Ru Ban Ngày
-lang_multi_text.db,MultiText,PhonographMusic_Name08_Text,弦汐未央,The Waves Play On,Sóng Nhạc Bất Tận
-lang_multi_text.db,MultiText,PhonographMusic_Name09_Text,呼嚎于山麓之巅,Applause Greets the Hill,Tiếng Gào Thét Trên Đỉnh Núi
-lang_multi_text.db,MultiText,PhonographMusic_Name10_Text,无悼荣辉,Glory Unwept,Vinh Quang Không Ai Khóc Thương
-lang_multi_text.db,MultiText,PhonographMusic_Name11_Text,千岛余音,Thousand Island Aftertune,Dư Âm Ngàn Đảo
-lang_multi_text.db,MultiText,PhonographMusic_Name12_Text,夏日尽头,Summer's End,Cuối Hạ
-lang_multi_text.db,MultiText,PhonographMusic_Name13_Text,Pioneer's Roadtrip Mix,Pioneer's Roadtrip Mix,Pioneer's Roadtrip Mix
-lang_multi_text.db,MultiText,PhonographMusic_Name14_Text,引星为炬,"Our Torch, The Stars",Lấy Sao Làm Đuốc
-lang_multi_text.db,MultiText,PhonographMusic_Name15_Text,女神异闻录5 皇家版 联动专辑,Persona 5 Royal: Collab Album,Album Hợp Tác Persona 5 Royal
-lang_multi_text.db,MultiText,PhonographMusic_Name16_Text,女神异闻录3 Reload联动专辑,Persona 3 Reload: Collab Album,Album Hợp Tác Persona 3 Reload
-lang_multi_text.db,MultiText,PhonographMusic_Name17_Text,刺猬索尼克 联动专辑,Sonic the Hedgehog: Collab Album,Album Hợp Tác Sonic the Hedgehog
-lang_multi_text.db,MultiText,PhonographMusic_Name18_Text,For Ya,For Ya,For Ya
-lang_multi_text.db,MultiText,PhonographMusic_Name19_Text,Neo-Tide | Remix Album,Neo-Tide | Remix Album,Neo-Tide | Remix Album
-lang_multi_text.db,MultiText,PhonographMusic_Name20_Text,行至漫漫雪色,To the Snowland,Đi Đến Vùng Tuyết Trắng Xóa
-lang_multi_text.db,MultiText,PhonographSwitchBtnNormal,已设为背景音乐,Set As Background Music,Đã đặt làm nhạc nền
-lang_multi_text.db,MultiText,PhonographSwitchBtnSelect,设为背景音乐,Set As Background Music,Đặt làm nhạc nền
-lang_multi_text.db,MultiText,PhonographSwitchMusicCancel,背景音乐设置已取消,Background Music settings cancelled,Đã hủy cài đặt nhạc nền
-lang_multi_text.db,MultiText,PhonographSwitchMusicSuccess,已将当前歌曲设为背景音乐,Current music has been set as Background Music,Đã đặt bài hát hiện tại làm nhạc nền
-lang_multi_text.db,MultiText,PhotoFightReward_Room_01,通关「定格·一叶落竹」简单模式,Complete As the Bamboo Leaf Falls - Normal Mode,"Vượt ải ""Khoảnh Khắc - Một Lá Trúc Rơi"" chế độ Dễ"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_02,通关「定格·黑街夜焰」简单模式,Complete Night Flame of Black Alley - Normal Mode,"Vượt ải ""Khoảnh Khắc - Lửa Đêm Phố Đen"" chế độ Dễ"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_03,通关「定格·时济春舒」简单模式,Complete The Hour of Hope - Normal Mode,"Vượt ải ""Khoảnh Khắc - Thời Tế Xuân Thư"" chế độ Dễ"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_04,通关「定格·地狱归亡」简单模式,Complete Rebirth from the Abyss - Normal Mode,"Vượt ải ""Khoảnh Khắc - Địa Ngục Trở Về"" chế độ Dễ"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_05,通关「定格·鳞跃青苍」简单模式,Complete Dance of Qingloong - Normal Mode,"Vượt ải ""Khoảnh Khắc - Rồng Bay Trời Xanh"" chế độ Dễ"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_06,通关「定格·彼岸幽冥」简单模式,Complete Phantom of the Beyond - Normal Mode,"Vượt ải ""Khoảnh Khắc - Bờ Bên Kia U Minh"" chế độ Dễ"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_07,通关「定格·红椿蔓舞」简单模式,Complete Crimson Waltz - Normal Mode,"Vượt ải ""Khoảnh Khắc - Vũ Điệu Hoa Trà"" chế độ Dễ"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_08,通关「定格·黯夜皎月」简单模式,Complete Bright Moon in the Dark - Normal Mode,"Vượt ải ""Khoảnh Khắc - Trăng Sáng Đêm Đen"" chế độ Dễ"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_09,通关「定格·一叶落竹」困难模式,Complete As the Bamboo Leaf Falls - Hard Mode,"Vượt ải ""Khoảnh Khắc - Một Lá Trúc Rơi"" chế độ Khó"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_10,通关「定格·黑街夜焰」困难模式,Complete Night Flame of Black Alley - Hard Mode,"Vượt ải ""Khoảnh Khắc - Lửa Đêm Phố Đen"" chế độ Khó"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_11,通关「定格·时济春舒」困难模式,Complete The Hour of Hope - Hard Mode,"Vượt ải ""Khoảnh Khắc - Thời Tế Xuân Thư"" chế độ Khó"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_12,通关「定格·地狱归亡」困难模式,Complete Rebirth from the Abyss - Hard Mode,"Vượt ải ""Khoảnh Khắc - Địa Ngục Trở Về"" chế độ Khó"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_13,通关「定格·鳞跃青苍」困难模式,Complete Dance of Qingloong - Hard Mode,"Vượt ải ""Khoảnh Khắc - Rồng Bay Trời Xanh"" chế độ Khó"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_14,通关「定格·彼岸幽冥」困难模式,Complete Phantom of the Beyond - Hard Mode,"Vượt ải ""Khoảnh Khắc - Bờ Bên Kia U Minh"" chế độ Khó"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_15,通关「定格·红椿蔓舞」困难模式,Complete Crimson Waltz - Hard Mode,"Vượt ải ""Khoảnh Khắc - Vũ Điệu Hoa Trà"" chế độ Khó"
-lang_multi_text.db,MultiText,PhotoFightReward_Room_16,通关「定格·黯夜皎月」困难模式,Complete Bright Moon in the Dark - Hard Mode,"Vượt ải ""Khoảnh Khắc - Trăng Sáng Đêm Đen"" chế độ Khó"
-lang_multi_text.db,MultiText,PhotoFightReward_Title_01,简单模式奖励,Normal Mode Rewards,Phần thưởng chế độ Dễ
-lang_multi_text.db,MultiText,PhotoFightReward_Title_02,困难模式奖励,Hard Mode Rewards,Phần thưởng chế độ Khó
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_3,吼吼真的很精神。,Hoohoo is indeed full of vitality.,Hô Hô đúng là khỏe thật.
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_4,你们说得没错，我们可能真的忽略了吼吼的特殊性。,You're right; we might have overlooked Hoohoo's uniqueness.,"Các cậu nói đúng, có thể chúng ta thực sự đã bỏ qua sự đặc biệt của Hô Hô."
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_5,导师走了之后，我就没再对戏猿进行研究，因为从内心深处，我就觉得研究戏猿不会有什么结果。,"After my mentor left, I stopped researching Hoochiefs. I guess deep down, I felt that studying them wouldn't yield any useful results.","Sau khi cô giáo mất, tôi không còn nghiên cứu về Hí Viên nữa, vì từ tận đáy lòng, tôi cảm thấy nghiên cứu Hí Viên sẽ chẳng có kết quả gì."
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_6,所以，我只把吼吼当成了一个正常得不能再正常的现象，而没有去关注过吼吼究竟如何。,That's probably why I overlooked Hoohoo's uniqueness.,"Cho nên, tôi chỉ coi Hô Hô như một hiện tượng bình thường đến mức không thể bình thường hơn, mà chưa từng để ý xem rốt cuộc Hô Hô thế nào."
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_7,但现在看来，恐怕导师当时并不是没有成果，而是没来得及公布……,It seems like my mentor just didn't get a chance to announce her findings.,"Nhưng giờ xem ra, e rằng lúc đó không phải cô giáo không có thành quả, mà là chưa kịp công bố..."
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_8,吼吼，或许才是她最后的研究成果。,"Hoohoo is probably her result, not the antibody.","Hô Hô, có lẽ mới chính là thành quả nghiên cứu cuối cùng của cô ấy."
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_9,既然这样，那我们应该去当时的研究所一趟。,"If that's the case, I think we need to visit our previous lab.","Đã vậy, chúng ta nên đến viện nghiên cứu lúc đó một chuyến."
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_10,啊？那里？那里盘踞着很多戏猿，实在是太危险了！,What? That lab? But it's too dangerous! Lots of Hoochiefs are lurking there!,"Hả? Chỗ đó á? Ở đó có rất nhiều Hí Viên tụ tập, thực sự quá nguy hiểm!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_11,不用担心。,Don't worry.,Đừng lo.
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_12,我可以再打十个。,I'm with you. I can protect you.,Tôi có thể đánh thêm mười con nữa.
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_13,谢谢你，漂泊者。巧木，这次我可不能再让了。,"Thank you, Rover. Qiaomu, no matter what you're going to say, I'll go too.","Cảm ơn bạn, Lữ Khách. Xảo Mộc, lần này tớ không nhượng bộ nữa đâu."
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_14,只有彻底解决问题，才能让大家都好好的，这才能完成你的愿望。,"You wish for everyone's safety, and achieving that depends on completely solving this issue, doesn't it?","Chỉ khi giải quyết triệt để vấn đề, mọi người mới có thể sống tốt, như vậy mới hoàn thành được nguyện vọng của cậu."
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_15,这……你说得对。,Well... you're right.,Chuyện này... Cậu nói đúng.
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_16,*赞同的吼吼声*。,*An approving hoohoo*.,*Tiếng Hô Hô tán thành*.
+lang_multi_text.db,MultiText,POI_WXZSYJ_29_17,好、好吧！我同意，那我们现在出发，一定要注意安全，平安回来！,"Fine, fine! Just come with us. BUT! Promise you'll take care of yourself, okay?","Được, được rồi! Tớ đồng ý, vậy chúng ta xuất phát ngay thôi, nhất định phải chú ý an toàn, bình an trở về đấy!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_30_1,小心那些戏猿！漂泊者，他们过来了！,"Careful of those Hoochiefs! Rover, they're coming!","Cẩn thận lũ Hí Viên đó! Lữ Khách, chúng tới rồi kìa!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_30_2,*生气的吼吼声*！,*An angry Hoohoo*!,*Tiếng Hô Hô tức giận*!
+lang_multi_text.db,MultiText,POI_WXZSYJ_30_3,我来解决他们。,I'll deal with them.,Để tôi giải quyết chúng.
+lang_multi_text.db,MultiText,POI_WXZSYJ_31_1,就是这里了，没想到过了这么久，我还会回来……,This is it. I never thought I'd come back here after all this time...,"Đến nơi rồi, không ngờ sau bao lâu như vậy, tôi lại quay về đây..."
+lang_multi_text.db,MultiText,POI_WXZSYJ_31_2,这个门看起来已经锁死了。,Seems like the door's locked.,Cánh cửa này có vẻ đã bị khóa chặt rồi.
+lang_multi_text.db,MultiText,POI_WXZSYJ_31_3,嗯，之前撤离的时候应该是紧急启动了什么防卫机关……我们在附近找找有什么办法解开吧。,We might have activated some kind of defense mechanism when we left. Let's look around and see if we can unlock it.,"Ừm, lúc rút lui trước đây chắc là đã kích hoạt khẩn cấp cơ quan phòng vệ nào đó... Chúng ta tìm xung quanh xem có cách nào mở không nhé."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_1,怎么样，漂泊者，有什么发现吗？,"How's it going, Rover? Found anything?","Thế nào rồi, Lữ Khách, có phát hiện gì không?"
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_2,给你。,Here you go.,Của bạn đây.
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_3,太好了，你真的很会找东西，让我们来看看……,Fantastic! You've got a real talent for finding things. Let's check it out...,"Tốt quá, bạn giỏi tìm đồ thật đấy, để chúng tôi xem nào..."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_4,……,...,...
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_5,森敏……,Senmin...,Sâm Mẫn...
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_6,原来如此，没想到居然是利用了毒雾孢子本身。,"I see, so she made use of the spores themselves to produce the antibodies.","Thì ra là vậy, không ngờ lại lợi dụng chính bản thân bào tử sương độc."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_7,我将这些孢子定性为毒雾孢子，一直以来也在研究如何清除他们，实在是被这种定性思维限制了呢。,"I've only viewed these spores as a toxic threat, attempting to find a solution to eliminate them. Regrettably, I still haven't grasped what's hidden beneath the surface.","Tôi đã định tính những bào tử này là bào tử sương độc, và luôn nghiên cứu cách loại bỏ chúng, thực sự đã bị tư duy định tính này hạn chế rồi."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_8,结果，反而是不关注毒雾孢子的导师研究出了改良抗体的办法。,"Interestingly, it was my mentor, who didn't focus her research on the toxic spores, who eventually found a way to improve the antibody.","Kết quả là, cô giáo - người không chú trọng vào bào tử sương độc - lại tìm ra phương pháp cải tiến kháng thể."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_9,而吼吼，真的是她留下来的最后的成果，这真是……,And Hoohoo... It's truly her last achievement. This...,"Còn Hô Hô, thực sự là thành quả cuối cùng bà để lại, chuyện này thật là..."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_10,这就是她教给我们的最后一课了吧！,This must be her final lesson for us!,Đây chắc là bài học cuối cùng bà dạy cho chúng ta rồi!
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_11,*赞同的吼吼声*！,*An approving hoohoo*!,*Tiếng Hô Hô tán thành*!
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_12,孢子的核心，我们今天也拿到了，快回去研究吧。,We've got our hands on some core samples too. Time to head back and dive into our research!,"Hôm nay chúng ta cũng đã lấy được lõi bào tử rồi, mau về nghiên cứu thôi."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_13,巧木这次意外的积极。,You're surprisingly proactive this time.,Xảo Mộc lần này tích cực đến lạ.
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_14,毕竟是森敏说，只有解决了无光之森的问题，才能真正让大家都好好的嘛。,"After all, you were the one who told me solving this issue's the only way to ensure everyone's real safety, right?","Thì chính Sâm Mẫn bảo mà, chỉ khi giải quyết được vấn đề của Rừng Vô Quang, mọi người mới thực sự sống tốt được."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_15,走吧走吧，研制新抗体还需要很多的时间呢，最早也要到明天下午五六点才能出结果。,"C'mon, let's go. It takes time to enhance the antibody, and we won't see any results until tomorrow afternoon, earliest by 6 o'clock.","Đi thôi đi thôi, chế tạo kháng thể mới còn cần nhiều thời gian lắm, sớm nhất cũng phải 5-6 giờ chiều mai mới có kết quả."
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_16,*期待的吼吼声*！,*An excited Hoohoo*!,*Tiếng Hô Hô mong chờ*!
+lang_multi_text.db,MultiText,POI_WXZSYJ_36_17,那我们先回去了， 漂泊者，回头见。,"Yeah, you're right. Let's head back. See you tomorrow, Rover.","Vậy bọn tôi về trước đây, Lữ Khách, gặp lại sau nhé."
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_1,漂泊者，你来了，告诉你一个好消息！,"Rover, here you are. I have some good news!","Lữ Khách, bạn đến rồi, báo cho bạn một tin tốt!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_2,抗体研制成功了？,You successfully improved the antibody?,Kháng thể chế tạo thành công rồi sao?
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_3,是的，多亏了你，我们才能拿到拟核核心，研制出能够支持我们在重污染区自由活动的抗体。,"Yes, thanks to you, Rover, we managed to obtain the Offshoot Core sample and developed antibodies that gave us the freedom to explore heavily contaminated areas.","Đúng vậy, nhờ có bạn mà chúng tôi mới lấy được lõi Hạt Giả, chế tạo ra loại kháng thể giúp chúng ta tự do hoạt động trong khu vực ô nhiễm nặng."
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_4,不客气。,You're welcome.,Đừng khách sáo.
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_5,这是大家的功劳。,We made this happen.,Đây là công lao của mọi người.
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_6,而且！已经通过安全性测试了！没有任何不良反应，可以放心使用。,"Besides! The improved antibody passed the safety testing! There are no adverse reactions, so it's safe to use.","Hơn nữa! Đã thông qua kiểm tra an toàn rồi! Không có bất kỳ phản ứng phụ nào, có thể yên tâm sử dụng."
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_7,总之，真的非常非常感谢你们。,"Anyway, I can't thank you enough for your help.","Tóm lại, thực sự vô cùng cảm ơn các bạn."
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_8,这就是最新的孢子抗体，给你。,This is the latest antibody. Here you go.,"Đây là kháng thể bào tử mới nhất, tặng bạn."
+lang_multi_text.db,MultiText,POI_WXZSYJ_37_9,这次，让我们一起对无光之森的这个问题交出最好的答卷吧。,Let's tackle it at its root this time!,"Lần này, hãy cùng nhau đưa ra câu trả lời tốt nhất cho vấn đề của Rừng Vô Quang nào."
+lang_multi_text.db,MultiText,POI_WXZSYJ_39_1,到了，从这里一直往上，就可以到树顶了。,"We're here. Keep going up from here, and we'll reach the top of the tree.","Đến rồi, cứ đi thẳng lên từ đây là có thể tới ngọn cây."
+lang_multi_text.db,MultiText,POI_WXZSYJ_40_1,这、这么大的戏猿？小心，他们被源核污染变异了！,"My, these Hoochiefs are so big! Careful! They've been contaminated!","Hí Viên này to quá? Cẩn thận, chúng bị Lõi Nguồn làm ô nhiễm biến dị rồi!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_40_2,让开，我来。,Step down. I'll handle them!,"Tránh ra, để tôi."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_1,*非常开心的吼吼声*！,*A happy hoohoo*!,*Tiếng Hô Hô cực kỳ vui vẻ*!
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_2,吼吼看起来很开心啊！,Hoohoo looks very happy!,Hô Hô trông vui vẻ quá nhỉ!
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_3,嗯，终于，这一切都结束了。,"Yeah, finally, it's all over.","Ừm, cuối cùng thì mọi chuyện cũng kết thúc rồi."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_4,巨榕树真漂亮。,The banyan tree is beautiful.,Cây Đa khổng lồ đẹp thật.
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_5,是啊……草木繁茂，空气清新，这就是导师一直想看到的景色吧。,"Yeah... Lush vegetation, fresh air—I guess this must be what my mentor always dreamed of witnessing.","Đúng vậy... Cây cối xanh tốt, không khí trong lành, đây chính là cảnh tượng mà cô giáo luôn muốn nhìn thấy."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_6,也是我们一直努力的结果哦！,This is also something we've been working towards.,Cũng là kết quả nỗ lực của chúng ta đấy!
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_7,谢谢你，漂泊者，是你拯救了这片森林。,"Thank you, Rover. You helped us save this forest.","Cảm ơn bạn, Lữ Khách, chính bạn đã cứu khu rừng này."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_8,不客气。,You're welcome.,Đừng khách sáo.
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_9,啊对了，报酬报酬！,"Oops, almost forgot. Your payment!","A đúng rồi, thù lao thù lao!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_10,嗯，这是我们为你准备的报酬，东西可能不多，但全是我们的一片心意。,"Here you go. It may not be a hefty sum, but this is all we can put together for now. We are super thankful for your help.","Ừm, đây là thù lao chúng tôi chuẩn bị cho bạn, có thể không nhiều lắm, nhưng đều là tấm lòng của chúng tôi."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_11,还有这个，这是吼吼为你准备的香蕉！,And these. Hoohoo prepared these bananas for you!,"Còn cái này nữa, đây là chuối Hô Hô chuẩn bị cho bạn!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_12,吼吼！,Hoohoo!,Hô Hô!
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_13,接下来我要先回研究院把这件事整理成报告，无光之森勘察小队的任务终于结束了……呼。,I have to get back to the Academy and put together a report on this case. Our mission has finally come to an end. Phew...,"Tiếp theo tôi phải về viện nghiên cứu để tổng hợp chuyện này thành báo cáo, nhiệm vụ của đội khảo sát Rừng Vô Quang cuối cùng cũng kết thúc rồi... Phù."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_14,真是非常、非常感谢。,"Thank you, Rover.","Thật sự vô cùng, vô cùng cảm ơn."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_15,我和吼吼还会在附近转转，无光之森的危机刚解除，还有很多值得探索的地方呢！,Hoohoo and I will still be around. There are so many places in the Dim Forest that are worth exploring!,"Tôi và Hô Hô sẽ còn dạo quanh khu vực này một chút, nguy cơ của Rừng Vô Quang vừa được giải trừ, còn rất nhiều nơi đáng để khám phá đấy!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_16,尤其是紫月榕，吼吼好像很想再过去看看！,Especially the Violet Banyan! Hoohoo seems eager to visit it again!,"Đặc biệt là cây Đa Tử Nguyệt, Hô Hô có vẻ rất muốn qua đó xem lại!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_17,漂泊者， 要是之后你来紫月榕的话，说不定我们还能再碰面呢！,"Rover, if you come to the Violet Banyan later, maybe we'll meet again!","Lữ Khách, nếu sau này bạn đến cây Đa Tử Nguyệt, biết đâu chúng ta còn gặp lại nhau đấy!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_18,那么，就此别过啦！,"Well then, farewell!","Vậy thì, tạm biệt tại đây nhé!"
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_19,空气真让人舒畅。,The air feels refreshing.,Không khí thật dễ chịu.
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_20,这是大家的功劳。,We made this happen.,Đây là công lao của mọi người.
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_21,漂泊者很辛苦，森敏也很努力，吼吼也是。,"Thank you, Rover! Thank you, Senmin! And Hoohoo too!","Lữ Khách vất vả rồi, Sâm Mẫn cũng rất nỗ lực, cả Hô Hô nữa."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_22,巧木也辛苦了。你们说得对，这是大家共同努力的结果。,"Also, thank you for your effort, Qiaomu. You're right. We made this happen together!","Xảo Mộc cũng vất vả rồi. Các bạn nói đúng, đây là kết quả nỗ lực chung của mọi người."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_23,不要只关心现象，要关注现象背后的本质。老师说的这句话，也许不只是指科学研究吧。,Always see past the superficial details. I think this goes beyond the realm of scientific research.,"Đừng chỉ quan tâm đến hiện tượng, hãy chú ý đến bản chất đằng sau hiện tượng. Câu nói này của cô giáo, có lẽ không chỉ ám chỉ nghiên cứu khoa học đâu nhỉ."
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_24,那就多关注关注生活！怎么样，等之后放假回城里，就一起去看个电影吧？,"True. Anyway, we finally made it through this! What do you say? Shall we go catch a movie together during our break?","Vậy thì chú ý đến cuộc sống nhiều hơn! Thế nào, đợi khi nào nghỉ phép về thành phố, chúng ta cùng đi xem phim nhé?"
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_25,吼吼?,Hoohoo?,Hô Hô?
+lang_multi_text.db,MultiText,POI_WXZSYJ_41_26,那之前我会留在森林里陪你在附近转转啦，吼吼！,"Don’t worry, Hoohoo. I'll be staying with you in the forest before that!","Trước lúc đó tớ sẽ ở lại trong rừng đi dạo quanh đây cùng cậu, Hô Hô!"
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_1,站在这里很危险。,It's not safe for you to be standing here.,Đứng ở đây nguy hiểm lắm.
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_2,啊，吓我一跳。,Aah! You scared me!,"A, làm tôi giật cả mình."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_3,抱歉。你在找什么吗？,Sorry. Were you looking for something?,Xin lỗi. Bạn đang tìm gì sao?
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_4,哎，我实在是太担心了。,*sigh* Guess I was just too worried.,"Haiz, tôi thực sự lo lắng quá."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_5,你往远处看，能看到下面那片谷地吗？那里有一处废弃的音乐剧场。,Look in the distance. See that valley? There's an abandoned music theater in the middle of it.,"Bạn nhìn ra xa kia kìa, có thấy vùng đất trũng bên dưới không? Ở đó có một nhà hát bỏ hoang."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_6,我的叔叔，现在正一个人待在那里呢。,My uncle. He went down there all by himself.,"Chú tôi, bây giờ đang ở đó một mình."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_7,下面看起来似乎是无人区。,It looks like a no man's land down there.,Bên dưới trông có vẻ là khu vực không người.
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_8,哎，就是说啊。,Ugh. Tell me about it.,"Haiz, thì đấy."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_9,荒了这么多年了，谁知道下面会有什么东西。,The area's been abandoned for years. Who knows what kind of stuff might be down there.,"Hoang phế bao nhiêu năm rồi, ai biết bên dưới có thứ gì chứ."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_10,被倒塌的建筑、石头砸到，也不是闹着玩的。,Wouldn't be surprised if you get crushed by a falling boulder or even have a building fall on top of you.,"Bị công trình sập đè, đá rơi trúng, cũng không phải chuyện đùa đâu."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_11,可这个倔老头，刚才我坚持要跟他一起去，他甚至朝我挥拳头……,But that stubborn old man. He even swung his fists at me when I told him I was going to go along with him...,"Nhưng cái ông già cứng đầu này, vừa rồi tôi kiên quyết muốn đi cùng, ông ấy còn giơ nắm đấm dọa tôi..."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_12,他为什么非要下去？,Why does he have to go down there?,Tại sao ông ấy nhất quyết phải xuống đó?
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_13,哎，我们家这个老头，倔惯了，一直都是这么个脾气。,"Oh, you have no idea how stubborn that old man of ours can be at home. Especially with that temper of his.","Haiz, ông già nhà tôi ấy mà, cứng đầu quen rồi, tính khí xưa nay vẫn vậy."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_14,不光在家里说一不二，在业界也是出了名的古怪难搞，经常有演奏家被他骂得头都抬不起来。,"At home, whatever he says goes. Not to mention he's also known in the field for being a wacko and a pain in the butt to get along. Musicians on the receiving end of his temper and harsh critiques are a common thing.","Không chỉ ở nhà nói một là một, mà trong nghề cũng nổi tiếng là kỳ quặc khó chiều, thường xuyên có nhạc công bị ông ấy mắng đến mức không ngẩng đầu lên nổi."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_15,演奏家？,Musicians?,Nhạc công?
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_16,叔叔成名早，算是业界无人不知的作曲家了。,My uncle became a renowned composer in the field at young age.,"Chú tôi thành danh sớm, cũng coi như là nhà soạn nhạc ai cũng biết trong nghề."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_17,就是不知道为什么，前几天看到一篇莫名其妙的报道，就起了性子。,Don't know what's gotten him worked up a few days ago after he saw a random news report.,"Chẳng biết tại sao, mấy hôm trước xem được một bài báo kỳ lạ nào đó, thế là nổi hứng lên."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_18,不顾家人们的反对，千里迢迢地赶过来，到这里还把我扔下了……,"Everyone in the family couldn't talk him out of coming all the way here, and now he's just left me here...","Bất chấp sự phản đối của gia đình, lặn lội đường xa đến đây, đến nơi còn bỏ tôi lại..."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_19,报道？,A news report?,Bài báo?
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_20,嗯，非常无聊的那种怪谈传闻，小孩子都不会当真的。,Yeah. It's one of those boring rumor ghost stories. The kind that even kids wouldn't fall for.,"Ừm, cái loại tin đồn ma quái nhảm nhí ấy mà, trẻ con cũng chẳng thèm tin."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_21,什么“下起雨的废弃剧场，传出无人演奏的钢琴声……”之类的？,"It's headlines went something like: ""Abandoned Theater in the Rain— A Piano Plays Without it's Performer.""","Kiểu như ""Nhà hát bỏ hoang dưới mưa, vang lên tiếng đàn piano không người lái..."" đại loại thế?"
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_22,哎，我觉得叔叔是老糊涂了……,*sigh* I think his age is finally catching up to him...,"Haiz, tôi thấy chú già rồi nên lẩm cẩm..."
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_23,我去帮你找找看吧。,I'll help you go look for him.,Tôi đi tìm giúp bạn xem sao.
+lang_multi_text.db,MultiText,POI_YBXSDQS_1_24,真的？太好了，怪不得叔叔总说今州这边的人善良热心，原来是真的。,Really? That would be great. No wonder my uncle always talks about how the people of Jinzhou are so kind and warm-hearted. Guess it's all true.,"Thật ư? Tốt quá, thảo nào chú cứ bảo người ở Kim Châu tốt bụng nhiệt tình, hóa ra là thật."

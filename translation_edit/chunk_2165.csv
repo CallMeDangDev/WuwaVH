@@ -1,155 +1,543 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,TowerDefence_300120_PhantomTitle,技能等级二,Skill Level 2,Kỹ năng cấp 2
-lang_multi_text.db,MultiText,TowerDefence_300130_PhantomTitle,技能等级三,Skill Level 3,Kỹ năng cấp 3
-lang_multi_text.db,MultiText,TowerDefence_300140_PhantomDesc,该声骸技能冷却-10%,This Echo Skill's Cooldown -10%,Hồi chiêu Kỹ Năng Thanh Hài này -10%
-lang_multi_text.db,MultiText,TowerDefence_300140_PhantomTitle,技能等级四,Skill Level 4,Kỹ năng cấp 4
-lang_multi_text.db,MultiText,TowerDefence_300150_PhantomDesc,携带者攻击力+10%,This Resonator's ATK +10%,Tấn Công của người mang +10%
-lang_multi_text.db,MultiText,TowerDefence_300150_PhantomTitle,技能等级五,Skill Level 5,Kỹ năng cấp 5
-lang_multi_text.db,MultiText,TowerDefence_300160_PhantomTitle,技能等级六,Skill Level 6,Kỹ năng cấp 6
-lang_multi_text.db,MultiText,TowerDefence_300170_PhantomDesc,该声骸技能冷却-10%,This Echo Skill's Cooldown -10%,Hồi chiêu Kỹ Năng Thanh Hài này -10%
-lang_multi_text.db,MultiText,TowerDefence_300170_PhantomTitle,技能等级七,Skill Level 7,Kỹ năng cấp 7
-lang_multi_text.db,MultiText,TowerDefence_300180_PhantomDesc,携带者暴击+10%,This Resonator's Crit. Rate +10%,Bạo Kích của người mang +10%
-lang_multi_text.db,MultiText,TowerDefence_300180_PhantomTitle,技能等级八,Skill Level 8,Kỹ năng cấp 8
-lang_multi_text.db,MultiText,TowerDefence_300190_PhantomDesc,携带者血量上限+10%,This Resonator's Max HP +10%,Giới hạn máu của người mang +10%
-lang_multi_text.db,MultiText,TowerDefence_300200_PhantomDesc,携带者血量上限+15%,This Resonator's Max HP +15%,Giới hạn máu của người mang +15%
-lang_multi_text.db,MultiText,TowerDefence_4,生存型,Support,Dạng Sinh Tồn
-lang_multi_text.db,MultiText,TowerDefence_400010_PhantomDesc,"使用声骸技能，召唤异构武装，释放防护领域，持续{0}秒。
-期间领域内队伍中所有角色每{4}秒获得基于释放者最大生命值{1}的<color=#ffd12f>护盾</color>，并提升抗打断能力，持续{2}秒。重复触发刷新持续时间。
-技能冷却：{3}秒","Summon a Sentry Construst and cast a defense field that lasts for {0}s.
-In this field, all Resonators in the team gain <color=#ffd12f>Shield</color> every {4}s based on {1} of the caster's Max HP and have their resistance to interruption enhanced for {2}s. Retriggering the effect resets its duration.
-CD: {3}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Vũ Trang Dị Cấu, giải phóng lĩnh vực bảo vệ, duy trì {0} giây.
-Trong thời gian đó, tất cả nhân vật trong đội ở trong lĩnh vực mỗi {4} giây nhận <color=#ffd12f>khiên</color> dựa trên {1} máu tối đa của người thi triển, và tăng khả năng kháng gián đoạn, duy trì {2} giây. Kích hoạt lại sẽ làm mới thời gian duy trì.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,TowerDefence_400010_PhantomTitle,呼啸的电锯,Howling Chainsaw,Cưa Máy Gầm Rú
-lang_multi_text.db,MultiText,TowerDefence_400020_PhantomDesc,"使用声骸技能，召唤罗蕾莱，为附近队伍中所有角色<color=#ffd12f>回复</color>{0}生命上限的生命值，最多可治疗{1}次。受到该回复效果影响的角色获得{2}的减伤，持续{3}秒。
-技能冷却：{4}秒","Summon a Lorelei and <color=#ffd12f>restore</color> {0} Max HP for all nearby Resonators in the team. This effect can be triggered at most {1} times. Resonators healed by this effect have their DMG taken reduced by {2} for {3}s.
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Lorelei, <color=#ffd12f>hồi phục</color> HP bằng {0} giới hạn HP cho tất cả nhân vật trong đội gần đó, tối đa trị liệu {1} lần. Nhân vật chịu ảnh hưởng của hiệu quả hồi phục này nhận được {2} giảm thương, duy trì {3} giây.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,TowerDefence_400020_PhantomTitle,嘶哑的电台,Raspy Radio,Đài Phát Thanh Khàn Đặc
-lang_multi_text.db,MultiText,TowerDefence_400030_PhantomDesc,"使用声骸技能，召唤赫卡忒，<color=#ffd12f>控制目标</color>，持续{0}秒。期间附近队伍中所有角色回复{1}点协奏能量。
-技能冷却：{2}秒","Summon Hecate to <color=#ffd12f>control the target</color> for {0}s and restore {1} Concerto Energy for all nearby Resonators in the team during this time.
-CD: {2}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Hecate, <color=#ffd12f>khống chế mục tiêu</color>, duy trì {0} giây. Trong thời gian này, tất cả nhân vật trong đội gần đó hồi phục {1} điểm Năng Lượng Hiệp Tấu.
-Hồi chiêu: {2} giây"
-lang_multi_text.db,MultiText,TowerDefence_400030_PhantomTitle,丢失的舞鞋,Lost Dance Shoes,Giày Khiêu Vũ Thất Lạc
-lang_multi_text.db,MultiText,TowerDefence_400040_PhantomDesc,"使用声骸技能，召唤叹息古龙，释放「悲恸领域」，持续10秒，对「悲恸领域」内的敌人周期性造成{0}的<color=#ffd12f>热熔伤害</color>。
-该技能造成伤害时，附近队伍中所有角色获得{1}普攻伤害加成与重击伤害加成，每1秒最多触发1次，上限{2}层。
-技能冷却：{3}秒","Summon Dragon of Dirge to generate a Grief Rift that lasts for 10s, regularly dealing {0} <color=#ffd12f>Fusion DMG</color> to enemies within the Grief Rift.
-Dealing DMG to enemies with this Echo Skill grants a {1} Basic and Heavy Attack Bonus to all nearby Resonators in the team, triggered once every second, stacking up to {2} times.
-CD: {3}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Rồng Than Khóc, giải phóng ""Lãnh Địa Bi Thương"", duy trì 10 giây, định kỳ gây {0} <color=#ffd12f>Sát Thương Hỏa Liệt</color> lên kẻ địch trong ""Lãnh Địa Bi Thương"".
-Khi kỹ năng này gây sát thương, tất cả nhân vật trong đội gần đó nhận được {1} tăng sát thương Đánh Thường và Đánh Mạnh, mỗi 1 giây kích hoạt tối đa 1 lần, tối đa {2} tầng.
-Hồi chiêu: {3} giây"
-lang_multi_text.db,MultiText,TowerDefence_400040_PhantomTitle,荧屏的雪花,Static Noise,Nhiễu Sóng Màn Hình
-lang_multi_text.db,MultiText,TowerDefence_400050_PhantomDesc,"使用声骸技能，幻形为无归的谬误，对前方连续锤击，总计造成{0}的<color=#ffd12f>衍射伤害</color>。
-该技能造成伤害时，附近队伍中所有角色减少{1}的共鸣技能冷却时间，并获得{2}共鸣技能伤害加成，上限{3}层，持续{4}秒。重复触发刷新持续时间。
-技能冷却：{5}秒","Transform into Fallacy of No Return and perform consecutive strikes forward, dealing a total of {0} <color=#ffd12f>Spectro DMG</color>.
-Dealing DMG to enemies with this Echo Skill reduces Resonance Skill Cooldown by {1} for all nearby Resonators in the team and grants {2} Resonance Skill DMG Bonus for {4}s, stacking up to {3} times. Retriggering the effect resets its duration.
-CD: {5}s","Sử dụng Kỹ Năng Thanh Hài, biến hình thành Lỗi Lầm Không Lối Về, liên tục đập búa về phía trước, gây tổng cộng {0} <color=#ffd12f>Sát Thương Quang Phổ</color>.
-Khi kỹ năng này gây sát thương, tất cả nhân vật trong đội gần đó giảm {1} thời gian hồi Kỹ Năng Cộng Hưởng, và nhận {2} tăng sát thương Kỹ Năng Cộng Hưởng, tối đa {3} tầng, duy trì {4} giây. Kích hoạt lặp lại sẽ làm mới thời gian duy trì.
-Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,TowerDefence_400050_PhantomTitle,破门的利斧,Door-smashing Axe,Rìu Phá Cửa
-lang_multi_text.db,MultiText,TowerDefence_400060_PhantomDesc,"使用声骸技能，召唤魔术先生，释放3次强化乐章。每次使附近队伍中所有角色获得{0}点<color=#ffd12f>共鸣能量</color>与{1}共鸣解放伤害加成，持续{2}秒。并减少{3}的共鸣解放冷却时间。
-技能冷却：{4}秒","Summon a Hocus Pocus to release Augmented Note 3 times. Each time, all nearby Resonators in the team gain {0} <color=#ffd12f>Resonance Energy</color> and {1} Resonance Liberation DMG Bonus for {2}s, and have their Resonance Liberation Cooldown reduced by {3}.
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Quý Ngài Ma Thuật, giải phóng 3 lần Nhạc Chương Cường Hóa. Mỗi lần giúp tất cả nhân vật trong đội gần đó nhận {0} điểm <color=#ffd12f>Năng Lượng Cộng Hưởng</color> và {1} tăng sát thương Giải Phóng Cộng Hưởng, duy trì {2} giây. Đồng thời giảm {3} thời gian hồi Giải Phóng Cộng Hưởng.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,TowerDefence_400060_PhantomTitle,眨眼的玩偶,Winking Doll,Búp Bê Nháy Mắt
-lang_multi_text.db,MultiText,TowerDefence_400070_PhantomDesc,"使用声骸技能，召唤幽翎火攻击，造成{0}的<color=#ffd12f>湮灭伤害</color>，并附加{1}层<color=#ffd12f>[恐慌]</color>。若目标<color=#ffd12f>[恐慌]</color>层数不小于70层，则本次攻击改为附加30层<color=#ffd12f>[恐慌]</color>。
-目标后续受到伤害时，获得{2}层<color=#ffd12f>[恐慌]</color>，每1秒最多触发1次。
-<color=#ffd12f>[恐慌]</color>达到100层后，对目标造成最大共振值100.00%的共振值伤害，使目标陷入瘫痪，期间目标受到伤害必定暴击，全属性伤害抗性降低{3}。触发效果后，移除<color=#ffd12f>[恐慌]</color>。
-目标瘫痪期间无法获得<color=#ffd12f>[恐慌]</color>。
-技能冷却：{4}秒","Summon a Fae Ignis to attack, dealing {0} <color=#ffd12f>Havoc DMG</color> and inflicting <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of <color=#ffd12f>Panic</color> on the target. If the target has 70 or more stacks of <color=#ffd12f>Panic</color>, the attack deals the same DMG but inflicts 30 stacks of <color=#ffd12f>Panic</color> instead.
-When targets with Panic take DMG, they receive <SapTag=2>{2}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=2} of <color=#ffd12f>Panic</color>. This effect is triggered once every second.
-When the target receives 100 stacks of <color=#ffd12f>Panic</color>, deal Vibration Strength DMG equal to 100.00% of the Max Vibration Strength and Immobilize the target. All Attribute DMG taken by the target under this effect is guaranteed to be Crit. DMG, and their DMG RES is reduced by {3}. Triggering this effect removes all stacks of <color=#ffd12f>Panic</color>.
-The target will not gain new stacks of <color=#ffd12f>Panic</color> when Immobilized.
-CD: {4}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi U Linh Hỏa tấn công, gây {0} <color=#ffd12f>Sát Thương Hủy Diệt</color>, và gắn thêm {1} tầng <color=#ffd12f>[Hoảng Loạn]</color>. Nếu số tầng <color=#ffd12f>[Hoảng Loạn]</color> của mục tiêu không dưới 70 tầng, đòn tấn công lần này sẽ chuyển thành gắn 30 tầng <color=#ffd12f>[Hoảng Loạn]</color>.
-Khi mục tiêu chịu sát thương tiếp theo, nhận thêm {2} tầng <color=#ffd12f>[Hoảng Loạn]</color>, mỗi 1 giây tối đa kích hoạt 1 lần.
-Sau khi <color=#ffd12f>[Hoảng Loạn]</color> đạt 100 tầng, gây sát thương Đồng Điệu bằng 100.00% giá trị Đồng Điệu tối đa lên mục tiêu, khiến mục tiêu bị tê liệt, trong thời gian này mục tiêu chịu sát thương chắc chắn bạo kích, kháng sát thương toàn thuộc tính giảm {3}. Sau khi kích hoạt hiệu quả, xóa bỏ <color=#ffd12f>[Hoảng Loạn]</color>.
-Mục tiêu không thể nhận <color=#ffd12f>[Hoảng Loạn]</color> trong thời gian bị tê liệt.
-Hồi chiêu: {4} giây"
-lang_multi_text.db,MultiText,TowerDefence_400070_PhantomTitle,漂浮的气球,Floating Balloon,Bong Bóng Bay Lơ Lửng
-lang_multi_text.db,MultiText,TowerDefence_400080_PhantomDesc,"使用声骸技能，幻形为浮灵偶，持续{0}秒。每次造成{1}<color=#ffd12f>热熔伤害</color>。该技能造成伤害时，刷新幻形持续时间，最多可持续{2}秒，并为目标附加{3}层<color=#ffd12f>[恐慌]</color>，对同一目标每秒最多触发1次。角色不在场时，不会刷新持续时间。
-<color=#ffd12f>[恐慌]</color>达到100层后，对目标造成最大共振值100.00%的共振值伤害，使目标陷入瘫痪，期间目标受到伤害必定暴击，全属性伤害抗性降低{4}。触发效果后，移除<color=#ffd12f>[恐慌]</color>。
-目标瘫痪期间无法获得<color=#ffd12f>[恐慌]</color>。
-技能冷却：{5}秒","Transform into Chop Chop for {0}s, dealing {1} <color=#ffd12f>Fusion DMG</color>. Dealing DMG to enemies resets the duration of Echo Transformation, with a maximum of {2}s, and inflicts <SapTag=3>{3}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=3} of <color=#ffd12f>Panic</color> on the target. This effect can be triggered once per second on each target. The Echo Transformation duration will not be reset when the Resonator is not on the field.
-When the target receives 100 stacks of <color=#ffd12f>Panic</color>, deplete the target's Vibration Strength by 100.00% of the Max Vibration Strength and Immobilize the target. The DMG taken by the target when Immobilized is guaranteed to be Crit. DMG, and their DMG RES for all Attributes is reduced by {4}. Triggering this effect removes all stacks of <color=#ffd12f>Panic</color>.
-The target will not gain new stacks of <color=#ffd12f>Panic</color> when Immobilized.
-CD: {5}s","Sử dụng Kỹ Năng Thanh Hài, biến hình thành Phù Linh Ngẫu, duy trì {0} giây. Mỗi lần gây {1} <color=#ffd12f>Sát Thương Hỏa Liệt</color>. Khi kỹ năng này gây sát thương, làm mới thời gian duy trì biến hình, tối đa duy trì {2} giây, và gắn cho mục tiêu {3} tầng <color=#ffd12f>[Hoảng Loạn]</color>, mỗi giây tối đa kích hoạt 1 lần trên cùng một mục tiêu. Khi nhân vật không có mặt trên sân, sẽ không làm mới thời gian duy trì.
-Sau khi <color=#ffd12f>[Hoảng Loạn]</color> đạt 100 tầng, gây sát thương Đồng Điệu bằng 100.00% giá trị Đồng Điệu tối đa lên mục tiêu, khiến mục tiêu bị tê liệt, trong thời gian này mục tiêu chịu sát thương chắc chắn bạo kích, kháng sát thương toàn thuộc tính giảm {4}. Sau khi kích hoạt hiệu quả, xóa bỏ <color=#ffd12f>[Hoảng Loạn]</color>.
-Mục tiêu không thể nhận <color=#ffd12f>[Hoảng Loạn]</color> trong thời gian bị tê liệt.
-Hồi chiêu: {5} giây"
-lang_multi_text.db,MultiText,TowerDefence_400080_PhantomTitle,裂开的眼镜,Cracked Glasses,Kính Mắt Nứt Vỡ
-lang_multi_text.db,MultiText,TowerDefence_400090_PhantomDesc,"使用声骸技能，召唤欺诈奇藏。欺诈奇藏不断喷涌金币，附近队伍中的角色拾取金币时<color=#ffd12f>回复</color>自身{0}的生命值与{1}点耐力。并为附近队伍中所有角色附加<color=#ffd12f>[狂热]</color>，持续{2}秒。
-拥有<color=#ffd12f>[狂热]</color>时，提升{3}攻击力与{4}移动速度加成。<color=#ffd12f>[狂热]</color>层数大于6时，额外提升{5}攻击力与{6}移动速度加成，对瘫痪目标造成伤害提升{7}。
-技能冷却：{8}秒","Summon a Mimic Chest that constantly spits out gold coins. When picked up, the coin <color=#ffd12f>restores</color> {0} HP and {1} Stamina for the Resonator, and applies <color=#ffd12f>Fervor</color> to all nearby Resonators in the team for {2}s.
-Obtaining <color=#ffd12f>Fervor</color> increases ATK by {3} and Movement Speed by {4}. Having more than 6 stacks of <color=#ffd12f>Fervor</color> additionally increases ATK by {5}, Movement Speed by {6}, and DMG dealt to Immobilized targets by {7}.
-CD: {8}s","Sử dụng Kỹ Năng Thanh Hài, triệu hồi Rương Kỳ Quái Lừa Gạt. Rương Kỳ Quái Lừa Gạt liên tục phun ra tiền vàng, khi nhân vật trong đội gần đó nhặt tiền vàng sẽ <color=#ffd12f>hồi phục</color> cho bản thân {0} HP và {1} điểm thể lực. Đồng thời gắn <color=#ffd12f>[Cuồng Nhiệt]</color> cho tất cả nhân vật trong đội gần đó, duy trì {2} giây.
-Khi có <color=#ffd12f>[Cuồng Nhiệt]</color>, tăng {3} tấn công và {4} tốc độ di chuyển. Khi số tầng <color=#ffd12f>[Cuồng Nhiệt]</color> lớn hơn 6, tăng thêm {5} tấn công và {6} tốc độ di chuyển, sát thương gây ra cho mục tiêu bị tê liệt tăng {7}.
-Hồi chiêu: {8} giây"
-lang_multi_text.db,MultiText,TowerDefence_400090_PhantomTitle,不祥的藏品,Ominous Collection,Bộ Sưu Tập Không May
-lang_multi_text.db,MultiText,TowerDefence_5,支援型,Assist,Dạng Hỗ Trợ
-lang_multi_text.db,MultiText,TowerDefence_Cantplay,仅限世界所有者可以开始游戏,Only the host can start the game.,Chỉ chủ sở hữu thế giới mới có thể bắt đầu trò chơi
-lang_multi_text.db,MultiText,TowerDefence_GPint,最高分数：{0},Highest Score: {0},Điểm cao nhất: {0}
-lang_multi_text.db,MultiText,TowerDefence_Getbt1,领取,Claim,Nhận
-lang_multi_text.db,MultiText,TowerDefence_Getbt2,已完成,Completed,Đã hoàn thành
-lang_multi_text.db,MultiText,TowerDefence_Getbt3,未达成,Not Completed,Chưa đạt
-lang_multi_text.db,MultiText,TowerDefence_LV,<color=#ffd12f>{0}</color>/{1},<color=#ffd12f>{0}</color>/{1},<color=#ffd12f>{0}</color>/{1}
-lang_multi_text.db,MultiText,TowerDefence_Lvup,仿制声骸等级提升,Echoid level increased.,Cấp Thanh Hài Mô Phỏng tăng
-lang_multi_text.db,MultiText,TowerDefence_PhantasmTips,准备状态不能更换声骸,Cannot change Echoes in the Ready state,Không thể thay đổi Thanh Hài ở trạng thái chuẩn bị
-lang_multi_text.db,MultiText,TowerDefence_PintDesc,活动总积分,Total Points,Tổng điểm sự kiện
-lang_multi_text.db,MultiText,TowerDefence_PintOnly,最高分数：{0},Highest Score: {0},Điểm cao nhất: {0}
-lang_multi_text.db,MultiText,TowerDefence_PintOnlyMore,积分上限解锁至：{0},Max points limit increased to: {0},Mở khóa giới hạn điểm đến: {0}
-lang_multi_text.db,MultiText,TowerDefence_Restart,重新挑战,Restart,Khiêu chiến lại
-lang_multi_text.db,MultiText,TowerDefence_Rolename,联觉等级：{0},Union Level: {0},Cấp Liên Giác: {0}
-lang_multi_text.db,MultiText,TowerDefence_Score,活动总积分,Total Points,Tổng điểm sự kiện
-lang_multi_text.db,MultiText,TowerDefence_Vison,解锁声骸,Unlocked Echoes,Mở khóa Thanh Hài
-lang_multi_text.db,MultiText,TowerDefence_confirm,装配,Equip,Trang bị
-lang_multi_text.db,MultiText,TowerDefence_dead0,失去意识,Defeated,Mất Ý Thức
-lang_multi_text.db,MultiText,TowerDefence_dead1,当前波次结束后自动恢复状态,Status fully refreshed after the current wave.,Tự động hồi phục trạng thái sau khi kết thúc đợt hiện tại
-lang_multi_text.db,MultiText,TowerDefence_dead2,中途退出将丢失当前进度,You will lose the current progress if you quit partway,Thoát giữa chừng sẽ mất tiến độ hiện tại
-lang_multi_text.db,MultiText,TowerDefence_end,退出,Quit,Thoát
-lang_multi_text.db,MultiText,TowerDefence_friendMore,有{0}条好友申请,You have {0} Friend Request(s).,Có {0} lời mời kết bạn
-lang_multi_text.db,MultiText,TowerDefence_friendOnly,有好友申请,New Friend Request(s),Có lời mời kết bạn
-lang_multi_text.db,MultiText,TowerDefence_lock,未解锁,Locked,Chưa mở khóa
-lang_multi_text.db,MultiText,TowerDefenceclear,完成关卡{0},Complete {0},Hoàn thành ải {0}
-lang_multi_text.db,MultiText,TowerDefencelose,本次挑战失败,Challenge Failed,Khiêu chiến thất bại
-lang_multi_text.db,MultiText,TowerDefencesettlement,已通关高难挑战！,I Beat The Highest Difficulty!,Đã vượt qua khiêu chiến độ khó cao!
-lang_multi_text.db,MultiText,TowerDefencewenhao,?,?,?
-lang_multi_text.db,MultiText,TowerDefense_Battle_AuxiliaryMax,库洛洛武器携带数量已达上限,Can't equip more KU-Roro's Weapons,Số lượng vũ khí Ku-Roro mang theo đã đạt giới hạn
-lang_multi_text.db,MultiText,TowerDefense_Battle_AuxiliaryNeed,必须携带至少一个库洛洛武器,At least one KU-Roro's Weapon should be equipped,Phải mang ít nhất một vũ khí Ku-Roro
-lang_multi_text.db,MultiText,TowerDefense_Battle_Coinlimit,拟像贝币不足,Insufficient Sim Credits,Không đủ Xu Vỏ Sò Mô Phỏng
-lang_multi_text.db,MultiText,TowerDefense_Battle_Equip,装备,Equip,Trang bị
-lang_multi_text.db,MultiText,TowerDefense_Battle_Equip_Auxiliary,装备,Equip,Trang bị
-lang_multi_text.db,MultiText,TowerDefense_Battle_Groundonly,该装置只能部署在地面上,This machine can only be deployed on the ground,Thiết bị này chỉ có thể triển khai trên mặt đất
-lang_multi_text.db,MultiText,TowerDefense_Battle_Numlimit,已达作战装置放置上限,Can't deploy more Combat Machines,Đã đạt giới hạn đặt thiết bị tác chiến
-lang_multi_text.db,MultiText,TowerDefense_Battle_SlotLock,该作战装置无法卸下,This machine cannot be removed,Thiết bị tác chiến này không thể tháo gỡ
-lang_multi_text.db,MultiText,TowerDefense_Battle_Toponly,该装置只能部署在天花板上,This machine can only be deployed on the ceiling,Thiết bị này chỉ có thể triển khai trên trần nhà
-lang_multi_text.db,MultiText,TowerDefense_Battle_Unload,卸下,Remove,Tháo gỡ
-lang_multi_text.db,MultiText,TowerDefense_Battle_Wallonly,该装置只能部署在墙壁上,This machine can only be deployed on the wall,Thiết bị này chỉ có thể triển khai trên tường
-lang_multi_text.db,MultiText,TowerDefense_BranchName_0,基础模块,Basic Module,Mô-đun Cơ Bản
-lang_multi_text.db,MultiText,TowerDefense_BranchName_1,可选模块·一,Optional Module I,Mô-đun Tùy Chọn - 1
-lang_multi_text.db,MultiText,TowerDefense_BranchName_2,可选模块·二,Optional Module II,Mô-đun Tùy Chọn - 2
-lang_multi_text.db,MultiText,TowerDefense_BuildingAttr_CD,部署冷却时间,Deployment Cooldown,Thời gian hồi triển khai
-lang_multi_text.db,MultiText,TowerDefense_BuildingAttr_Cost,部署消耗,Deployment Cost,Chi phí triển khai
-lang_multi_text.db,MultiText,TowerDefense_BuildingAttr_Type,类型,Type,Loại
-lang_multi_text.db,MultiText,TowerDefense_BuildingLv_Text,<size=36><color=#e4e4e4ff>等级</color></size><color=#fde7a1ff>{0}</color>,<size=36><color=#e4e4e4ff>Level</color></size> <color=#fde7a1ff>{0}</color>,<size=36><color=#e4e4e4ff>Cấp</color></size><color=#fde7a1ff>{0}</color>
-lang_multi_text.db,MultiText,TowerDefense_Building_AllTitle_Text,全部,All,Tất cả
-lang_multi_text.db,MultiText,TowerDefense_Building_AuxiliaryTitle_Text,库洛洛武器,KU-Roro's Weapons,Vũ Khí Ku-Roro
-lang_multi_text.db,MultiText,TowerDefense_Building_AuxiliaryTypeDungeon_Text,库洛洛武器（可携带：{0}/{1}）,KU-Roro's Weapons (Equipable: {0}/{1}),Vũ Khí Ku-Roro (Có thể mang: {0}/{1})
-lang_multi_text.db,MultiText,TowerDefense_Building_AuxiliaryType_Text,库洛洛武器,KU-Roro's Weapons,Vũ Khí Ku-Roro
-lang_multi_text.db,MultiText,TowerDefense_Building_BdLock_Text,未解锁,Locked,Chưa mở khóa
-lang_multi_text.db,MultiText,TowerDefense_Building_BdLv_Text,等级{0},Level {0},Cấp {0}
-lang_multi_text.db,MultiText,TowerDefense_Building_BranchSelection_Text,选择可选模块,Select Optional Module,Chọn mô-đun tùy chọn
-lang_multi_text.db,MultiText,TowerDefense_Building_BuildingTitle_Text,作战装置,Combat Machines,Thiết Bị Tác Chiến
-lang_multi_text.db,MultiText,TowerDefense_Building_CurMax_Text,已达当前最大等级,Level Cap Reached,Đã đạt cấp tối đa hiện tại
-lang_multi_text.db,MultiText,TowerDefense_Building_FloorBuildingType_Text,地面,Ground,Mặt đất
-lang_multi_text.db,MultiText,TowerDefense_Building_LevelUp,作战装置已升级,Combat Machine Upgraded,Thiết bị tác chiến đã nâng cấp
-lang_multi_text.db,MultiText,TowerDefense_Building_TopBuildingType_Text,天花板,Ceiling,Trần nhà
-lang_multi_text.db,MultiText,TowerDefense_Building_WallBuildingType_Text,墙壁,Wall,Tường
-lang_multi_text.db,MultiText,TowerDefense_ESC_WaveCountNum_Text,<color=#fee7a1ff>{0}</color>/{1},<color=#fee7a1ff>{0}</color>/{1},<color=#fee7a1ff>{0}</color>/{1}
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainBdUp_Text,获得拟像铸块,Sim Ingot Obtained,Nhận Khối Đúc Mô Phỏng
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainBuildingShare_Text,携带装置,Machine Equipped,Thiết bị mang theo
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainBuilding_Text,解锁作战装置,Combat Machine Unlocked,Mở khóa thiết bị tác chiến
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainSchoolShare_Text,战术集,Tactic Set,Bộ Chiến Thuật
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainSchool_Text,解锁战术集,Tactic Set Unlocked,Mở khóa Bộ Chiến Thuật
-lang_multi_text.db,MultiText,TowerDefense_Ending_GainStar_Text,历史最高记录,Highest Record,Kỷ lục cao nhất lịch sử
-lang_multi_text.db,MultiText,TowerDefense_Ending_MainTypeTitle_Text,扼守要地：{0},Pass Guardian: {0},Trấn Thủ Trọng Địa: {0}
-lang_multi_text.db,MultiText,TowerDefense_Ending_RougeTypeTitle_Text,孤绝险地：{0},Deathtrap Mode: {0},Hiểm Địa Cô Lập: {0}
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryDescPre2,发射一束不稳定的能量，在接触目标后爆炸并造成较高的导电伤害。蓄力可提升爆炸伤害及范围。,"Fires an unstable energy beam that explodes on impact, dealing high Electro DMG. Can be charged to increase the explosion's DMG and range.","Bắn ra một luồng năng lượng không ổn định, phát nổ sau khi tiếp xúc với mục tiêu và gây sát thương Điện Từ khá cao. Tụ lực có thể tăng sát thương và phạm vi nổ."
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryDescPre3,制造冲击力场，向前击退范围内的目标。,"Generates a repulsion field, knocking back targets within the range.","Tạo trường lực xung kích, đẩy lùi các mục tiêu trong phạm vi về phía trước."
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryDescPre4,制造凝滞力场，在持续时间内减速范围内的目标。,"Generates a stagnation field, Slowing targets within the range while it lasts.","Tạo ra trường lực ngưng trệ, làm chậm các mục tiêu trong phạm vi khi hiệu ứng còn duy trì."
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryDescPre5,可自动连续发射伤害较低的射弹，造成热熔伤害。,"Automatically fires projectiles in a row, dealing low Fusion DMG.","Có thể tự động bắn liên tục các viên đạn có sát thương thấp, gây sát thương Hỏa Liệt."
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryDescPre6,发射一束不稳定的能量，在接触目标后爆炸并造成较高的导电伤害。蓄力可提升爆炸伤害及范围。,"Fires an unstable energy beam that explodes on impact, dealing high Electro DMG. Can be charged to increase the explosion's DMG and range.","Bắn ra một luồng năng lượng không ổn định, phát nổ sau khi tiếp xúc với mục tiêu và gây sát thương Điện Từ khá cao. Tụ lực có thể tăng sát thương và phạm vi nổ."
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryDescPre7,制造冲击力场，向前击退范围内的目标。,"Generates a repulsion field, knocking back targets within the range.","Tạo trường lực xung kích, đẩy lùi các mục tiêu trong phạm vi về phía trước."
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryDescPre8,制造凝滞力场，在持续时间内减速范围内的目标。,"Generates a stagnation field, Slowing targets within the range while it lasts.","Tạo ra trường lực ngưng trệ, làm chậm các mục tiêu trong phạm vi khi hiệu ứng còn duy trì."
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryName1,连射枪,Speed Shooter,Súng Liên Thanh
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryName2,爆能炮,Plasma Cannon,Pháo Năng Lượng
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryName3,冲击力场,Repulsion Field,Trường Lực Xung Kích
+lang_multi_text.db,MultiText,TrapDefenseAuxiliaryName4,凝滞力场,Stagnation Field,Trường Lực Ngưng Trệ
+lang_multi_text.db,MultiText,TrapDefenseBd_BriefDesc_1,通用的战术类型，能够有效提升基础类型的作战效率。,A highly compatible Tactic Set that enhances the overall efficiency of basic operations.,"Loại chiến thuật phổ thông, có thể nâng cao hiệu quả chiến đấu của các loại cơ bản một cách hiệu quả."
+lang_multi_text.db,MultiText,TrapDefenseBd_BriefDesc_2,强化攻击速度和控制效果，以压制性火力为主导的战术类型。,A Tactic Set focused on fire suppression by boosting Attack Speed and Control effects.,"Loại chiến thuật chủ đạo dựa trên hỏa lực áp chế, cường hóa tốc độ tấn công và hiệu quả khống chế."
+lang_multi_text.db,MultiText,TrapDefenseBd_BriefDesc_3,强化资源获取效率，并能够将多余资源转化为伤害能力的战术类型。,A Tactic Set that improves resource acquisition efficiency and converts surplus resources into offensive power.,Loại chiến thuật cường hóa hiệu suất thu thập tài nguyên và có thể chuyển hóa tài nguyên dư thừa thành năng lực sát thương.
+lang_multi_text.db,MultiText,TrapDefenseBd_BriefDesc_4,强化声骸作战装置的战术类型。,A Tactic Set that enhances Echo Combat Machines.,Loại chiến thuật cường hóa thiết bị chiến đấu Thanh Hài.
+lang_multi_text.db,MultiText,TrapDefenseBd_BriefDesc_5,摧毁地面装置制造伤害极高的烈焰，并通过放置在墙壁和天花板的装置提供辅助控制的战术类型。,"A Tactic Set that detonates Combat Machines on the ground to generate high-damage flames, with Combat Machines on the wall and ceiling as support.","Loại chiến thuật phá hủy thiết bị mặt đất để tạo ra ngọn lửa sát thương cực cao, đồng thời hỗ trợ khống chế thông qua các thiết bị đặt trên tường và trần nhà."
+lang_multi_text.db,MultiText,TrapDefenseBd_BriefDesc_6,能够施放可在目标之间弹射的闪电链，并强化导电伤害和麻痹效果的战术类型。,"A Tactic Set that generates Chain Lightnings bouncing between targets, increases Electro DMG, and enhances the Paralysis effect.","Loại chiến thuật có thể phóng chuỗi sấm sét nảy bật giữa các mục tiêu, đồng thời cường hóa sát thương Điện Từ và hiệu quả tê liệt."
+lang_multi_text.db,MultiText,TrapDefenseBD_CheckLevelup,强化预览,Enhancement Overview,Xem trước cường hóa
+lang_multi_text.db,MultiText,TrapDefenseBd_Desc_1,通用的战术类型，能够有效提升基础类型的作战效率。,A highly compatible Tactic Set that enhances the overall efficiency of basic operations.,"Loại chiến thuật phổ thông, có thể nâng cao hiệu quả chiến đấu của các loại cơ bản một cách hiệu quả."
+lang_multi_text.db,MultiText,TrapDefenseBd_Desc_2,强化攻击速度和控制效果，以压制性火力为主导的战术类型。,A Tactic Set focused on fire suppression by boosting Attack Speed and Control effects.,"Loại chiến thuật chủ đạo dựa trên hỏa lực áp chế, cường hóa tốc độ tấn công và hiệu quả khống chế."
+lang_multi_text.db,MultiText,TrapDefenseBd_Desc_3,强化资源获取效率，并能够将多余资源转化为伤害能力的战术类型。,A Tactic Set that improves resource acquisition efficiency and converts surplus resources into offensive power.,Loại chiến thuật cường hóa hiệu suất thu thập tài nguyên và có thể chuyển hóa tài nguyên dư thừa thành năng lực sát thương.
+lang_multi_text.db,MultiText,TrapDefenseBd_Desc_4,强化声骸作战装置的战术类型。,A Tactic Set that enhances Echo Combat Machines.,Loại chiến thuật cường hóa thiết bị chiến đấu Thanh Hài.
+lang_multi_text.db,MultiText,TrapDefenseBd_Desc_5,摧毁地面装置制造伤害极高的烈焰，并通过放置在墙壁和天花板的装置提供辅助控制的战术类型。,"A Tactic Set that detonates Combat Machines on the ground to generate high-damage flames, with Combat Machines on the wall and ceiling as support.","Loại chiến thuật phá hủy thiết bị mặt đất để tạo ra ngọn lửa sát thương cực cao, đồng thời hỗ trợ khống chế thông qua các thiết bị đặt trên tường và trần nhà."
+lang_multi_text.db,MultiText,TrapDefenseBd_Desc_6,能够施放可在目标之间弹射的闪电链，并强化导电伤害和麻痹效果的战术类型。,"A Tactic Set that generates Chain Lightnings bouncing between targets, increases Electro DMG, and enhances the Paralysis effect.","Loại chiến thuật có thể phóng chuỗi sấm sét nảy bật giữa các mục tiêu, đồng thời cường hóa sát thương Điện Từ và hiệu quả tê liệt."
+lang_multi_text.db,MultiText,TrapDefenseBd_Name_1,通用战术,Universal Tactics,Chiến Thuật Phổ Thông
+lang_multi_text.db,MultiText,TrapDefenseBd_Name_2,饱和火力,Saturation Fire,Hỏa Lực Bão Hòa
+lang_multi_text.db,MultiText,TrapDefenseBd_Name_3,银弹攻势,Silver Bullet,Đạn Bạc Công Phá
+lang_multi_text.db,MultiText,TrapDefenseBd_Name_4,声骸协同,Echo Synergy,Hiệp Đồng Thanh Hài
+lang_multi_text.db,MultiText,TrapDefenseBd_Name_5,焚焰缠身,Flamebound,Liệt Hỏa Thiêu Thân
+lang_multi_text.db,MultiText,TrapDefenseBd_Name_6,雷闪无息,Silent Lightning,Lôi Thiểm Vô Tức
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002011,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color><color=#e8aa32>[<te href=750023>热熔类装置</te>]</color>
+
+热熔类装置的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+<color=#e8aa32>[<te href=750023>Fusion-Type Combat Machine</te>]</color>
+
+Fusion-Type Combat Machines deal <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color><color=#e8aa32>[<te href=750023>Thiết Bị Hỏa Liệt</te>]</color>
+
+Sát thương của Thiết Bị Hỏa Liệt tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002012,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color><color=#e8aa32>[<te href=750023>热熔类装置</te>]</color>
+
+热熔类装置的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+<color=#e8aa32>[<te href=750023>Fusion-Type Combat Machine</te>]</color>
+
+Fusion-Type Combat Machines deal <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color><color=#e8aa32>[<te href=750023>Thiết Bị Hỏa Liệt</te>]</color>
+
+Sát thương của Thiết Bị Hỏa Liệt tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002021,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color><color=#e8aa32>[<te href=750025>导电类装置</te>]</color>
+
+导电类装置的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+<color=#e8aa32>[<te href=750025>Electro-Type Combat Machine</te>]</color>
+
+Electro-Type Combat Machines deal <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color><color=#e8aa32>[<te href=750025>Thiết Bị Điện Từ</te>]</color>
+
+Sát thương của Thiết Bị Điện Từ tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002022,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color><color=#e8aa32>[<te href=750025>导电类装置</te>]</color>
+
+导电类装置的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+<color=#e8aa32>[<te href=750025>Electro-Type Combat Machine</te>]</color>
+
+Electro-Type Machines deal <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color><color=#e8aa32>[<te href=750025>Thiết Bị Điện Từ</te>]</color>
+
+Sát thương của Thiết Bị Điện Từ tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002031,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color><color=#e8aa32>[<te href=750024>气动类装置</te>]</color>
+
+气动类装置的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+<color=#e8aa32>[<te href=750024>Aero-Type Combat Machine</te>]</color>
+
+Aero-Type Combat Machines deal <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color><color=#e8aa32>[<te href=750024>Thiết Bị Khí Động</te>]</color>
+
+Sát thương của Thiết Bị Khí Động tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002032,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color><color=#e8aa32>[<te href=750024>气动类装置</te>]</color>
+
+气动类装置的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+<color=#e8aa32>[<te href=750024>Aero-Type Combat Machine</te>]</color>
+
+Aero-Type Machines deal <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color><color=#e8aa32>[<te href=750024>Thiết Bị Khí Động</te>]</color>
+
+Sát thương của Thiết Bị Khí Động tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002041,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color><color=#e8aa32>[<te href=750022>冷凝类装置</te>]</color>
+
+冷凝类装置的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+<color=#e8aa32>[<te href=750022>Glacio-Type Combat Machine</te>]</color>
+
+Glacio-Type Combat Machines deal <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color><color=#e8aa32>[<te href=750022>Thiết Bị Ngưng Băng</te>]</color>
+
+Sát thương của Thiết Bị Ngưng Băng tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002042,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color><color=#e8aa32>[<te href=750022>冷凝类装置</te>]</color>
+
+冷凝类装置的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+<color=#e8aa32>[<te href=750022>Glacio-Type Combat Machine</te>]</color>
+
+Glacio-Type Combat Machines deal <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color><color=#e8aa32>[<te href=750022>Thiết Bị Ngưng Băng</te>]</color>
+
+Sát thương của Thiết Bị Ngưng Băng tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002051,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+灼烧状态的持续时间延长<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+The duration of Burn is extended by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Thời gian duy trì trạng thái Thiêu Đốt kéo dài thêm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002052,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+灼烧状态的持续时间延长<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+The duration of Burn is extended by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Thời gian duy trì trạng thái Thiêu Đốt kéo dài thêm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002061,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+冻结状态的持续时间延长<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+The duration of Frozen is extended by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Thời gian duy trì trạng thái Đóng Băng kéo dài thêm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002062,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+冻结状态的持续时间延长<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+The duration of Frozen is extended by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Thời gian duy trì trạng thái Đóng Băng kéo dài thêm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002071,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+麻痹状态的持续时间延长<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+The duration of Paralysis is extended by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Thời gian duy trì trạng thái Tê Liệt kéo dài thêm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002072,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+麻痹状态的持续时间延长<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+The duration of Paralysis is extended by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Thời gian duy trì trạng thái Tê Liệt kéo dài thêm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002081,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+可携带的物品数量增加<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+Max item stacks are increased by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Số lượng vật phẩm có thể mang theo tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002091,"<color=#e8aa32>[<te href=750026>幸运币</te>]</color>
+
+击败残象所获得的拟像贝币提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750026>Lucky Coin</te>]</color>
+
+Defeating Tacet Discords grants <color=Highlight>{0}</color> more Sim Credits.","<color=#e8aa32>[<te href=750026>Xu May Mắn</te>]</color>
+
+Bối Tệ Mô Phỏng nhận được khi đánh bại Tàn Tượng tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002101,"<color=#e8aa32>[<te href=750026>幸运币</te>]</color>
+
+每次购买物品或战术时，获得<color=Highlight>{0}</color>拟像贝币。","<color=#e8aa32>[<te href=750026>Lucky Coin</te>]</color>
+
+Each time you purchase an item or Tactic, you gain <color=Highlight>{0}</color> Sim Credits.","<color=#e8aa32>[<te href=750026>Xu May Mắn</te>]</color>
+
+Mỗi lần mua vật phẩm hoặc Chiến Thuật, nhận được <color=Highlight>{0}</color> Bối Tệ Mô Phỏng."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002111,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+库默尼商行刷新商品的价格降低<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+KU-Money's Shop requires <color=Highlight>{0}</color> fewer Sim Credits to refresh.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Giá làm mới hàng hóa tại Thương Hội Ku-Money giảm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002121,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+每在库默尼商行购买一个物品或战术，作战装置的攻击力便提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+For each item or Tactic purchased at KU-Money's Shop, Combat Machines' ATK is increased by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Mỗi khi mua một vật phẩm hoặc Chiến Thuật tại Thương Hội Ku-Money, tấn công của Thiết Bị Chiến Đấu sẽ tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002131,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+作战装置攻击力提升<color=Highlight>{0}</color>。每五个波次中，第五波次作战装置的攻击力额外提升<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+Combat Machines' ATK is increased by <color=Highlight>{0}</color>. On every 5th wave, their ATK is additionally increased by another <color=Highlight>{1}</color>.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Tấn công của Thiết Bị Chiến Đấu tăng <color=Highlight>{0}</color>. Mỗi 5 đợt, tấn công của Thiết Bị Chiến Đấu ở đợt thứ 5 sẽ tăng thêm <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002141,"<color=#e8aa32>[<te href=750026>幸运币</te>]</color>
+
+云海妖精将额外掉落<color=Highlight>{0}</color>枚幸运币。","<color=#e8aa32>[<te href=750026>Lucky Coin</te>]</color>
+
+Nimbus Wraith drops <color=Highlight><SapTag=0>{0}</SapTag></color> extra Lucky {Cus:Sap,S=Coin P=Coins SapTag=0}.","<color=#e8aa32>[<te href=750026>Xu May Mắn</te>]</color>
+
+Yêu Tinh Mây Mù sẽ rơi thêm <color=Highlight>{0}</color> Xu May Mắn."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002151,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+残象抵达能量矩阵时，将对所有场中的残象造成<color=Highlight>{0}</color>固定伤害。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+When a Tacet Discord reaches the Energy Matrix, it deals <color=Highlight>{0}</color> fixed DMG to all Tacet Discords on the field.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Khi Tàn Tượng đến được Ma Trận Năng Lượng, sẽ gây <color=Highlight>{0}</color> sát thương cố định lên tất cả Tàn Tượng trên sân."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002161,"<color=#e8aa32>[<te href=750026>幸运币</te>]</color>
+
+能量矩阵的剩余耐久成为<color=Highlight>{0}</color>，获得<color=Highlight>{1}</color>拟像贝币。","<color=#e8aa32>[<te href=750026>Lucky Coin</te>]</color>
+
+The Energy Matrix's remaining Durability becomes <color=Highlight>{0}</color>, and you gain <color=Highlight>{1}</color> Sim Credits.","<color=#e8aa32>[<te href=750026>Xu May Mắn</te>]</color>
+
+Khi độ bền còn lại của Ma Trận Năng Lượng trở thành <color=Highlight>{0}</color>, nhận được <color=Highlight>{1}</color> Bối Tệ Mô Phỏng."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002171,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+能量矩阵的剩余耐久为<color=Highlight>{0}</color>时，作战装置的攻击力提升<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+When the Energy Matrix's Durability is at <color=Highlight>{0}</color>, Combat Machines' ATK is increased by <color=Highlight>{1}</color>.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Khi độ bền còn lại của Ma Trận Năng Lượng là <color=Highlight>{0}</color>, tấn công của Thiết Bị Chiến Đấu tăng <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002181,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+所有物品的携带上限提高<color=Highlight>{0}</color>，最高不能超过<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+Max item stacks are increased by <color=Highlight>{0}</color>, capped at <color=Highlight>{1}</color> stacks.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Giới hạn mang theo của tất cả vật phẩm tăng <color=Highlight>{0}</color>, tối đa không vượt quá <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002191,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+库默尼商行每次刷新时，会额外出现<color=Highlight>{0}</color>个商品。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+Each time KU-Money's Shop refreshes, <color=Highlight><SapTag=0>{0}</color></SapTag> {Cus:Sap,S=more item P=more items SapTag=0} will be displayed.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Mỗi lần Thương Hội Ku-Money làm mới, sẽ xuất hiện thêm <color=Highlight>{0}</color> hàng hóa."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1002201,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+库默尼商行的刷新次数提升<color=Highlight>{0}</color>次。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+KU-Money's Shop can be refreshed <color=Highlight><SapTag=0>{0}</color></SapTag> {Cus:Sap,S=more time P=more times SapTag=0}.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Số lần làm mới của Thương Hội Ku-Money tăng <color=Highlight>{0}</color> lần."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1003011,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+部署于墙体的作战装置伤害提升<color=Highlight>{0}</color>，部署于其他区域的作战装置伤害降低<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+Combat Machines on the wall deal <color=Highlight>{0}</color> more DMG, while Combat Machines on the ground and ceiling deal <color=Highlight>{1}</color> less DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Sát thương của Thiết Bị Chiến Đấu bố trí trên tường tăng <color=Highlight>{0}</color>, sát thương của thiết bị ở các khu vực khác giảm <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1003012,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+部署于墙体的作战装置伤害提升<color=Highlight>{0}</color>，部署于其他区域的作战装置伤害降低<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+Combat Machines on the wall deal <color=Highlight>{0}</color> more DMG, while Combat Machines on the ground and ceiling deal <color=Highlight>{1}</color> less DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Sát thương của Thiết Bị Chiến Đấu bố trí trên tường tăng <color=Highlight>{0}</color>, sát thương của thiết bị ở các khu vực khác giảm <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1003021,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+部署于天花板的作战装置伤害提升<color=Highlight>{0}</color>，部署于其他区域的作战装置伤害降低<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+Combat Machines on the ceiling deal <color=Highlight>{0}</color> more DMG, while Combat Machines on the ground and wall deal <color=Highlight>{1}</color> less DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Sát thương của Thiết Bị Chiến Đấu bố trí trên trần nhà tăng <color=Highlight>{0}</color>, sát thương của thiết bị ở các khu vực khác giảm <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1003022,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+部署于天花板的作战装置伤害提升<color=Highlight>{0}</color>，部署于其他区域的作战装置伤害降低<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+Combat Machines on the ceiling deal <color=Highlight>{0}</color> more DMG, while Combat Machines on the ground and wall deal <color=Highlight>{1}</color> less DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Sát thương của Thiết Bị Chiến Đấu bố trí trên trần nhà tăng <color=Highlight>{0}</color>, sát thương của thiết bị ở các khu vực khác giảm <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1003031,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+部署于地面的作战装置伤害提升<color=Highlight>{0}</color>，部署于其他区域的作战装置伤害降低<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+Combat Machines on the ground deal <color=Highlight>{0}</color> more DMG, while Combat Machines on the wall and ceiling deal <color=Highlight>{1}</color> less DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Sát thương của Thiết Bị Chiến Đấu bố trí trên mặt đất tăng <color=Highlight>{0}</color>, sát thương của thiết bị ở các khu vực khác giảm <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1003032,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+部署于地面的作战装置伤害提升<color=Highlight>{0}</color>，部署于其他区域的作战装置伤害降低<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+Combat Machines on the ground deal <color=Highlight>{0}</color> more DMG, while Combat Machines on the wall and ceiling deal <color=Highlight>{1}</color> less DMG.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Sát thương của Thiết Bị Chiến Đấu bố trí trên mặt đất tăng <color=Highlight>{0}</color>, sát thương của thiết bị ở các khu vực khác giảm <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1011011,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+对受到减速状态影响的残象造成的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+Slowed Tacet Discords take <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Sát thương gây ra cho Tàn Tượng chịu ảnh hưởng của trạng thái Giảm Tốc tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1011012,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+对受到减速状态影响的残象造成的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+Slowed Tacet Discords take <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Sát thương gây ra cho Tàn Tượng chịu ảnh hưởng của trạng thái Giảm Tốc tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1011021,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+对受到冻结/混乱状态影响的残象造成的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+Frozen and Confused Tacet Discords take <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Sát thương gây ra cho Tàn Tượng chịu ảnh hưởng của trạng thái Đóng Băng/Hỗn Loạn tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1011022,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+对受到冻结/混乱状态影响的残象造成的伤害提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+Frozen and Confused Tacet Discords take <color=Highlight>{0}</color> more DMG.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Sát thương gây ra cho Tàn Tượng chịu ảnh hưởng của trạng thái Đóng Băng/Hỗn Loạn tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1011031,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+导电类装置的暴击提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+Electro-Type Combat Machines' Crit. Rate is increased by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Tỷ lệ bạo kích của Thiết Bị Điện Từ tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1011032,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+导电类装置的暴击提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+Electro-Type Combat Machines' Crit. Rate is increased by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Tỷ lệ bạo kích của Thiết Bị Điện Từ tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1011041,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+冷凝类装置的暴击提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+Glacio-Type Combat Machines' Crit. Rate is increased by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Tỷ lệ bạo kích của Thiết Bị Ngưng Băng tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1011042,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+冷凝类装置的暴击提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+Glacio-Type Combat Machines' Crit. Rate is increased by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Tỷ lệ bạo kích của Thiết Bị Ngưng Băng tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1012011,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color><color=#e8aa32>[<te href=750033>范围强化</te>]</color>
+
+导电类装置能够使附近9格作战装置的暴击率提升<color=Highlight>{0}</color>，可叠加<color=Highlight>{1}</color>层。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+<color=#e8aa32>[<te href=750033>Enhancement Field</te>]</color>
+
+Electro-Type Combat Machines increase Crit. Rate of Combat Machines in the nearby 9 grids by <color=Highlight>{0}</color>, stacking up to <color=Highlight>{1}</color> times.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color><color=#e8aa32>[<te href=750033>Cường Hóa Phạm Vi</te>]</color>
+
+Thiết Bị Điện Từ có thể tăng tỷ lệ bạo kích cho các Thiết Bị Chiến Đấu trong phạm vi 9 ô lân cận thêm <color=Highlight>{0}</color>, có thể cộng dồn <color=Highlight>{1}</color> tầng."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1012012,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color><color=#e8aa32>[<te href=750033>范围强化</te>]</color>
+
+导电类装置能够使附近9格作战装置的暴击率提升<color=Highlight>{0}</color>，可叠加<color=Highlight>{1}</color>层。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+<color=#e8aa32>[<te href=750033>Enhancement Field</te>]</color>
+
+Electro-Type Combat Machines increase Crit. Rate of Combat Machines in the nearby 9 grids by <color=Highlight>{0}</color>, stacking up to <color=Highlight>{1}</color> times.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color><color=#e8aa32>[<te href=750033>Cường Hóa Phạm Vi</te>]</color>
+
+Thiết Bị Điện Từ có thể tăng tỷ lệ bạo kích cho các Thiết Bị Chiến Đấu trong phạm vi 9 ô lân cận thêm <color=Highlight>{0}</color>, có thể cộng dồn <color=Highlight>{1}</color> tầng."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1012021,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color><color=#e8aa32>[<te href=750033>范围强化</te>]</color>
+
+冷凝类装置能够使附近9格作战装置的攻击速度提升<color=Highlight>{0}</color>，可叠加<color=Highlight>{1}</color>层。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+<color=#e8aa32>[<te href=750033>Enhancement Field</te>]</color>
+
+Glacio-Type Combat Machines increase Attack Speed of Combat Machines in the nearby 9 grids by <color=Highlight>{0}</color>, stacking up to <color=Highlight>{1}</color> times.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color><color=#e8aa32>[<te href=750033>Cường Hóa Phạm Vi</te>]</color>
+
+Thiết Bị Ngưng Băng có thể tăng tốc độ tấn công cho các Thiết Bị Chiến Đấu trong phạm vi 9 ô lân cận thêm <color=Highlight>{0}</color>, có thể cộng dồn <color=Highlight>{1}</color> tầng."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1012022,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color><color=#e8aa32>[<te href=750033>范围强化</te>]</color>
+
+冷凝类装置能够使附近9格作战装置的攻击速度提升<color=Highlight>{0}</color>，可叠加<color=Highlight>{1}</color>层。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+<color=#e8aa32>[<te href=750033>Enhancement Field</te>]</color>
+
+Glacio-Type Combat Machines increase Attack Speed of Combat Machines in the nearby 9 grids by <color=Highlight>{0}</color>, stacking up to <color=Highlight>{1}</color> times.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color><color=#e8aa32>[<te href=750033>Cường Hóa Phạm Vi</te>]</color>
+
+Thiết Bị Ngưng Băng có thể tăng tốc độ tấn công cho các Thiết Bị Chiến Đấu trong phạm vi 9 ô lân cận thêm <color=Highlight>{0}</color>, có thể cộng dồn <color=Highlight>{1}</color> tầng."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1012031,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color>
+
+所有作战装置的攻击力降低<color=Highlight>{0}</color>，攻击速度提升<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+
+All Combat Machines have their ATK reduced by <color=Highlight>{0}</color> and Attack Speed increased by <color=Highlight>{1}</color>.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color>
+
+Tấn công của tất cả Thiết Bị Chiến Đấu giảm <color=Highlight>{0}</color>, tốc độ tấn công tăng <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1012032,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color>
+
+所有作战装置的攻击力降低<color=Highlight>{0}</color>，攻击速度提升<color=Highlight>{1}</color>。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+
+All Combat Machines have their ATK reduced by <color=Highlight>{0}</color> and Attack Speed increased by <color=Highlight>{1}</color>.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color>
+
+Tấn công của tất cả Thiết Bị Chiến Đấu giảm <color=Highlight>{0}</color>, tốc độ tấn công tăng <color=Highlight>{1}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1012041,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+残象每受到一种异常状态影响，被暴击概率就提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+For every 1 type of debuff inflicted on Tacet Discords, the Crit. Rate of attacks against them increases by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Mỗi khi Tàn Tượng chịu ảnh hưởng của một loại trạng thái bất thường, tỷ lệ bị bạo kích sẽ tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1012042,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+残象每受到一种异常状态影响，被暴击概率就提升<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+For every 1 type of debuff inflicted on Tacet Discords, the Crit. Rate of attacks against them increases by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Mỗi khi Tàn Tượng chịu ảnh hưởng của một loại trạng thái bất thường, tỷ lệ bị bạo kích sẽ tăng <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1013011,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color><color=#e8aa32>[<te href=750031>核心</te>]</color>
+
+残象在受到冷凝或导电伤害时会获得一层易爆能量，叠加至<color=Highlight>{0}</color>层时会爆炸，对一定范围造成<color=Highlight>{1}</color>冷凝伤害，并将被击中的残象冻结，持续<color=Highlight>{2}</color>秒。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+<color=#e8aa32>[<te href=750031>Core</te>]</color>
+
+When Tacet Discords take Glacio or Electro DMG, they gain a stack of Explosive Energy that explodes at <color=Highlight>{0}</color> stacks, dealing <color=Highlight>{1}</color> Glacio DMG to a certain range and Freezing Tacet Discords on hit for <color=Highlight>{2}</color>s.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color><color=#e8aa32>[<te href=750031>Lõi</te>]</color>
+
+Khi Tàn Tượng chịu sát thương Ngưng Băng hoặc Điện Từ sẽ nhận một tầng Năng Lượng Dễ Nổ, khi cộng dồn đến <color=Highlight>{0}</color> tầng sẽ phát nổ, gây <color=Highlight>{1}</color> sát thương Ngưng Băng trong phạm vi nhất định, đồng thời Đóng Băng các Tàn Tượng trúng đòn trong <color=Highlight>{2}</color> giây."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1013012,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color><color=#e8aa32>[<te href=750031>核心</te>]</color>
+
+残象在受到冷凝或导电伤害时会获得一层易爆能量，叠加至<color=Highlight>{0}</color>层时会爆炸，对一定范围造成<color=Highlight>{1}</color>冷凝伤害，并将被击中的残象冻结，持续<color=Highlight>{2}</color>秒。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+<color=#e8aa32>[<te href=750031>Core</te>]</color>
+
+When Tacet Discords take Glacio or Electro DMG, they gain a stack of Explosive Energy that explodes at <color=Highlight>{0}</color> stacks, dealing <color=Highlight>{1}</color> Glacio DMG to a certain range and Freezing Tacet Discords on hit for <color=Highlight>{2}</color>s.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color><color=#e8aa32>[<te href=750031>Lõi</te>]</color>
+
+Khi Tàn Tượng chịu sát thương Ngưng Băng hoặc Điện Từ sẽ nhận một tầng Năng Lượng Dễ Nổ, khi cộng dồn đến <color=Highlight>{0}</color> tầng sẽ phát nổ, gây <color=Highlight>{1}</color> sát thương Ngưng Băng trong phạm vi nhất định, đồng thời Đóng Băng các Tàn Tượng trúng đòn trong <color=Highlight>{2}</color> giây."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1013021,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+冻结/混乱/减速状态的持续时间延长<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+The duration of Frozen/Confusion/Slow is extended by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Thời gian duy trì trạng thái Đóng Băng/Hỗn Loạn/Giảm Tốc kéo dài thêm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1013022,"<color=#e8aa32>[<te href=750034>猎手陷阱</te>]</color>
+
+冻结/混乱/减速状态的持续时间延长<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750034>Hunting Trap</te>]</color>
+
+The duration of Frozen/Confusion/Slow is extended by <color=Highlight>{0}</color>.","<color=#e8aa32>[<te href=750034>Bẫy Thợ Săn</te>]</color>
+
+Thời gian duy trì trạng thái Đóng Băng/Hỗn Loạn/Giảm Tốc kéo dài thêm <color=Highlight>{0}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1014011,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color>
+
+作战装置每攻击<color=Highlight>{0}</color>次，攻击速度提升<color=Highlight>{1}</color>，持续<color=Highlight>{4}</color>秒，最多可叠加<color=Highlight>{2}</color>层。层数叠满时暴击伤害提升<color=Highlight>{3}</color>。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+
+For every <color=Highlight>{0}</color> times a Combat Machine attacks, its Attack Speed is increased by <color=Highlight>{1}</color> for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{2}</color> times. At maximum stacks, its Crit. DMG is increased by <color=Highlight>{3}</color>.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color>
+
+Mỗi khi Thiết Bị Chiến Đấu tấn công <color=Highlight>{0}</color> lần, tốc độ tấn công tăng <color=Highlight>{1}</color>, duy trì <color=Highlight>{4}</color> giây, tối đa cộng dồn <color=Highlight>{2}</color> tầng. Khi đủ số tầng, sát thương bạo kích tăng <color=Highlight>{3}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1014012,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color>
+
+作战装置每攻击<color=Highlight>{0}</color>次，攻击速度提升<color=Highlight>{1}</color>，持续<color=Highlight>{4}</color>秒，最多可叠加<color=Highlight>{2}</color>层。层数叠满时暴击伤害提升<color=Highlight>{3}</color>。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+
+For every <color=Highlight>{0}</color> times a Combat Machine attacks, its Attack Speed is increased by <color=Highlight>{1}</color> for <color=Highlight>{4}s</color>, stacking up to <color=Highlight>{2}</color> times. At maximum stacks, its Crit. DMG is increased by <color=Highlight>{3}</color>.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color>
+
+Mỗi khi Thiết Bị Chiến Đấu tấn công <color=Highlight>{0}</color> lần, tốc độ tấn công tăng <color=Highlight>{1}</color>, duy trì <color=Highlight>{4}</color> giây, tối đa cộng dồn <color=Highlight>{2}</color> tầng. Khi đủ số tầng, sát thương bạo kích tăng <color=Highlight>{3}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1014021,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color><color=#e8aa32>[<te href=750031>核心</te>]</color>
+
+受到冻结/混乱/减速状态影响的残象被击败时，将冻结附近的残象，持续<color=Highlight>{0}</color>秒，并造成<color=Highlight>{1}</color>冷凝伤害。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+<color=#e8aa32>[<te href=750031>Core</te>]</color>
+
+When Tacet Discords affected by Frozen/Confusion/Slow are defeated, they Freeze nearby Tacet Discords for <color=Highlight>{0}</color>s, dealing <color=Highlight>{1}</color> Glacio DMG.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color><color=#e8aa32>[<te href=750031>Lõi</te>]</color>
+
+Khi Tàn Tượng chịu ảnh hưởng của trạng thái Đóng Băng/Hỗn Loạn/Giảm Tốc bị đánh bại, sẽ Đóng Băng các Tàn Tượng gần đó trong <color=Highlight>{0}</color> giây, đồng thời gây <color=Highlight>{1}</color> sát thương Ngưng Băng."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1014022,"<color=#e8aa32>[<te href=750030>饱和火力</te>]</color><color=#e8aa32>[<te href=750031>核心</te>]</color>
+
+受到冻结/混乱/减速状态影响的残象被击败时，将冻结附近的残象，持续<color=Highlight>{0}</color>秒，并造成<color=Highlight>{1}</color>冷凝伤害。","<color=#e8aa32>[<te href=750030>Saturation Fire</te>]</color>
+<color=#e8aa32>[<te href=750031>Core</te>]</color>
+
+When Tacet Discords affected by Frozen/Confusion/Slow are defeated, they Freeze nearby Tacet Discords for <color=Highlight>{0}</color>s, dealing <color=Highlight>{1}</color> Glacio DMG.","<color=#e8aa32>[<te href=750030>Hỏa Lực Bão Hòa</te>]</color><color=#e8aa32>[<te href=750031>Lõi</te>]</color>
+
+Khi Tàn Tượng chịu ảnh hưởng của trạng thái Đóng Băng/Hỗn Loạn/Giảm Tốc bị đánh bại, sẽ Đóng Băng các Tàn Tượng gần đó trong <color=Highlight>{0}</color> giây, đồng thời gây <color=Highlight>{1}</color> sát thương Ngưng Băng."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1021011,"<color=#e8aa32>[<te href=750029>银弹攻势</te>]</color>
+
+每个波次结束时，会获得相当于当前所拥有的拟像贝币<color=Highlight>{0}</color>的利息。","<color=#e8aa32>[<te href=750029>Silver Bullet</te>]</color>
+
+After each wave, you gain interest equal to <color=Highlight>{0}</color> of the currently owned Sim Credits.","<color=#e8aa32>[<te href=750029>Đạn Bạc Tấn Công</te>]</color>
+
+Khi kết thúc mỗi đợt, sẽ nhận được tiền lãi tương đương <color=Highlight>{0}</color> số Bối Tệ Mô Phỏng hiện có."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1021012,"<color=#e8aa32>[<te href=750029>银弹攻势</te>]</color>
+
+每个波次结束时，会获得相当于当前所拥有的拟像贝币<color=Highlight>{0}</color>的利息。","<color=#e8aa32>[<te href=750029>Silver Bullet</te>]</color>
+
+After each wave, you gain interest equal to <color=Highlight>{0}</color> of the currently owned Sim Credits.","<color=#e8aa32>[<te href=750029>Đạn Bạc Tấn Công</te>]</color>
+
+Khi kết thúc mỗi đợt, sẽ nhận được tiền lãi tương đương <color=Highlight>{0}</color> số Bối Tệ Mô Phỏng hiện có."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1021021,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+每有<color=Highlight>{0}</color>拟像贝币，作战装置提升<color=Highlight>{1}</color>的攻击力，最高不超过波次*<color=Highlight>{2}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+For every <color=Highlight>{0}</color> Sim Credits you have, Combat Machines' ATK is increased by <color=Highlight>{1}</color>, up to the number equal to wave count *<color=Highlight>{2}</color>.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Mỗi khi có <color=Highlight>{0}</color> Bối Tệ Mô Phỏng, Thiết Bị Chiến Đấu tăng <color=Highlight>{1}</color> tấn công, tối đa không quá số đợt *<color=Highlight>{2}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1021022,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+每有<color=Highlight>{0}</color>拟像贝币，作战装置提升<color=Highlight>{1}</color>的攻击力，最高不超过波次*<color=Highlight>{2}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+For every <color=Highlight>{0}</color> Sim Credits you have, Combat Machines' ATK is increased by <color=Highlight>{1}</color>, up to the number equal to wave count *<color=Highlight>{2}</color>.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Mỗi khi có <color=Highlight>{0}</color> Bối Tệ Mô Phỏng, Thiết Bị Chiến Đấu tăng <color=Highlight>{1}</color> tấn công, tối đa không quá số đợt *<color=Highlight>{2}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1021031,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+每有<color=Highlight>{0}</color>拟像贝币，作战装置提升<color=Highlight>{1}</color>的暴击，最高不超过波次*<color=Highlight>{2}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+For every <color=Highlight>{0}</color> Sim Credits you have, Combat Machines' Crit. Rate is increased by <color=Highlight>{1}</color>, up to the number equal to wave count *<color=Highlight>{2}</color>.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Mỗi khi có <color=Highlight>{0}</color> Bối Tệ Mô Phỏng, Thiết Bị Chiến Đấu tăng <color=Highlight>{1}</color> tỷ lệ bạo kích, tối đa không quá số đợt *<color=Highlight>{2}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1021032,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+每有<color=Highlight>{0}</color>拟像贝币，作战装置提升<color=Highlight>{1}</color>的暴击，最高不超过波次*<color=Highlight>{2}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+For every <color=Highlight>{0}</color> Sim Credits you have, Combat Machines' Crit. Rate is increased by <color=Highlight>{1}</color>, up to the number equal to wave count *<color=Highlight>{2}</color>.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Mỗi khi có <color=Highlight>{0}</color> Bối Tệ Mô Phỏng, Thiết Bị Chiến Đấu tăng <color=Highlight>{1}</color> tỷ lệ bạo kích, tối đa không quá số đợt *<color=Highlight>{2}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1021041,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+每有<color=Highlight>{0}</color>拟像贝币，作战装置提升<color=Highlight>{1}</color>的暴击伤害，最高不超过波次*<color=Highlight>{2}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+For every <color=Highlight>{0}</color> Sim Credits you have, Combat Machines' Crit. DMG is increased by <color=Highlight>{1}</color>, up to the number equal to wave count *<color=Highlight>{2}</color>.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Mỗi khi có <color=Highlight>{0}</color> Bối Tệ Mô Phỏng, Thiết Bị Chiến Đấu tăng <color=Highlight>{1}</color> sát thương bạo kích, tối đa không quá số đợt *<color=Highlight>{2}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1021042,"<color=#e8aa32>[<te href=750032>伤害提高</te>]</color>
+
+每有<color=Highlight>{0}</color>拟像贝币，作战装置提升<color=Highlight>{1}</color>的暴击伤害，最高不超过波次*<color=Highlight>{2}</color>。","<color=#e8aa32>[<te href=750032>DMG Enhancement</te>]</color>
+
+For every <color=Highlight>{0}</color> Sim Credits you have, Combat Machines' Crit. Rateis increased by <color=Highlight>{1}</color>, up to the number equal to wave count *<color=Highlight>{2}</color>.","<color=#e8aa32>[<te href=750032>Tăng Sát Thương</te>]</color>
+
+Mỗi khi có <color=Highlight>{0}</color> Bối Tệ Mô Phỏng, Thiết Bị Chiến Đấu tăng <color=Highlight>{1}</color> sát thương bạo kích, tối đa không quá số đợt *<color=Highlight>{2}</color>."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1022011,"<color=#e8aa32>[<te href=750026>幸运币</te>]</color>
+
+拾取幸运币所获得的拟像贝币提升<color=Highlight>{0}</color>，有<color=Highlight>{1}</color>几率使获得的拟像贝币翻倍。","<color=#e8aa32>[<te href=750026>Lucky Coin</te>]</color>
+
+Lucky Coin grants <color=Highlight>{0}</color> more Sim Credits. There is a <color=Highlight>{1}</color> chance to double the Sim Credits from Lucky Coin.","<color=#e8aa32>[<te href=750026>Xu May Mắn</te>]</color>
+
+Số Bối Tệ Mô Phỏng nhận được khi nhặt Xu May Mắn tăng <color=Highlight>{0}</color>, có <color=Highlight>{1}</color> tỷ lệ nhân đôi số Bối Tệ Mô Phỏng nhận được."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1022012,"<color=#e8aa32>[<te href=750026>幸运币</te>]</color>
+
+拾取幸运币所获得的拟像贝币提升<color=Highlight>{0}</color>，有<color=Highlight>{1}</color>几率使获得的拟像贝币翻倍。","<color=#e8aa32>[<te href=750026>Lucky Coin</te>]</color>
+
+Lucky Coin grants <color=Highlight>{0}</color> more Sim Credits. There is a <color=Highlight>{1}</color> chance to double the Sim Credits from Lucky Coin.","<color=#e8aa32>[<te href=750026>Xu May Mắn</te>]</color>
+
+Số Bối Tệ Mô Phỏng nhận được khi nhặt Xu May Mắn tăng <color=Highlight>{0}</color>, có <color=Highlight>{1}</color> tỷ lệ nhân đôi số Bối Tệ Mô Phỏng nhận được."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1022021,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+库默尼商行的刷新次数额外提升<color=Highlight>{0}</color>，购买物品和战术时，获得<color=Highlight>{1}</color>折扣。
+此战术会在下一次库默尼商行开启时生效。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+KU-Money's Shop can be refreshed <color=Highlight><SapTag=0>{0}</color></SapTag> {Cus:Sap,S=more time P=more times SapTag=0}. Items and Tactics cost gets <color=Highlight>{1}</color> off.
+This Tactic will be activated the next time KU-Money's Shop appears.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Số lần làm mới của Thương Hội Ku-Money tăng thêm <color=Highlight>{0}</color>, khi mua vật phẩm và Chiến Thuật sẽ được giảm giá <color=Highlight>{1}</color>.
+Chiến Thuật này sẽ có hiệu lực trong lần mở Thương Hội Ku-Money tiếp theo."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1022022,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+库默尼商行的刷新次数额外提升<color=Highlight>{0}</color>，购买物品和战术时，获得<color=Highlight>{1}</color>折扣。
+此战术会在下一次库默尼商行开启时生效。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+KU-Money's Shop can be refreshed <color=Highlight><SapTag=0>{0}</color></SapTag> {Cus:Sap,S=more time P=more times SapTag=0}. Items and Tactics cost gets <color=Highlight>{1}</color> off.
+This Tactic will be activated the next time KU-Money's Shop appears.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Số lần làm mới của Thương Hội Ku-Money tăng thêm <color=Highlight>{0}</color>, khi mua vật phẩm và Chiến Thuật sẽ được giảm giá <color=Highlight>{1}</color>.
+Chiến Thuật này sẽ có hiệu lực trong lần mở Thương Hội Ku-Money tiếp theo."
+lang_multi_text.db,MultiText,TrapDefenseBdBuff_Desc_1022031,"<color=#e8aa32>[<te href=750027>库默尼商行</te>]</color>
+
+在库默尼商行购买道具或战术时，所消耗的拟像贝币会在<color=Highlight>{1}</color>波次后返还<color=Highlight>{0}</color>。","<color=#e8aa32>[<te href=750027>KU-Money's Shop</te>]</color>
+
+After you purchase items or Tactics at KU-Money's Shop, <color=Highlight>{0}</color> of the Sim Credits spent will be returned after <color=Highlight><SapTag=1>{1}</SapTag></color> {Cus:Sap,S=wave P=waves SapTag=1}.","<color=#e8aa32>[<te href=750027>Thương Hội Ku-Money</te>]</color>
+
+Khi mua đạo cụ hoặc Chiến Thuật tại Thương Hội Ku-Money, số Bối Tệ Mô Phỏng tiêu hao sẽ được hoàn trả <color=Highlight>{0}</color> sau <color=Highlight>{1}</color> đợt."

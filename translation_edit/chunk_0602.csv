@@ -1,101 +1,379 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,Farm_Skill4,祝福·惊喜传送,Blessing: Teleport,Chúc Phúc - Dịch Chuyển Bất Ngờ
-lang_multi_text.db,MultiText,Farm_SkillDesc1,使用祝福后，可获得1次【<te href=851012><color=#c79f49>声骸征聘</color></te>】的机会。每阶段可获得1次使用次数，未使用的次数无法留到下个阶段使用。,Gain 1 <te href=851012><color=#c79f49>Echo Recruitment</color></te> chance. Max once per Phase. Unused attempts do not carry over to the next Phase.,"Sau khi dùng Chúc Phúc, nhận được 1 lần cơ hội [<te href=851012><color=#c79f49>Tuyển Mộ Thanh Hài</color></te>]. Mỗi giai đoạn nhận được 1 lần sử dụng, số lần chưa dùng không thể để dành sang giai đoạn sau."
-lang_multi_text.db,MultiText,Farm_SkillDesc2,使用祝福后，全场声骸【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量临时增加与【阶段】数等额的值，持续3天。每阶段可获得1次使用次数，未使用的次数无法留到下个阶段使用。,Temporarily boost the <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of all Echoes by an amount equal to the current Phase number for 3 days. Max once per Phase. Unused attempts do not carry over to the next Phase.,"Sau khi dùng Chúc Phúc, sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của toàn bộ Thanh Hài trên sân tạm thời tăng thêm một lượng bằng số [Giai Đoạn] hiện tại, duy trì 3 ngày. Mỗi giai đoạn nhận được 1 lần sử dụng, số lần chưa dùng không thể để dành sang giai đoạn sau."
-lang_multi_text.db,MultiText,Farm_SkillDesc3,使用祝福后，移除全部声骸并获得当前全场声骸的【<te href=851009><color=#c79f49>每日乐园券</color></te>】总量*3的【<te href=851010><color=#c79f49>乐园券</color></te>】，并重新生成移除数量100%的声骸。每个关卡最多使用3次。,"Remove all Echoes on the field and receive <te href=851010><color=#c79f49>Dreamland Coupons</color></te> equal to 3 times the total <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of the removed Echoes, and then regenerate 100% of the Echoes. Max 3 times per Stage.","Sau khi dùng Chúc Phúc, xóa bỏ toàn bộ Thanh Hài và nhận lượng [<te href=851010><color=#c79f49>Vé Vui Chơi</color></te>] bằng tổng sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của toàn bộ Thanh Hài trên sân *3, đồng thời tạo lại 100% số lượng Thanh Hài đã xóa bỏ. Mỗi màn chơi được dùng tối đa 3 lần."
-lang_multi_text.db,MultiText,Farm_SkillDesc4,使用祝福后，重新随机当前声骸在场上的位置，并在下一天以当日结束时的位置出场。每阶段可获得3次使用次数，未使用的次数无法留到下个阶段使用。,"Randomly shuffle the positions of all Echoes on the field, and the Echoes will appear in the shuffled positions again the next day. Max 3 times per Phase. Unused attempts do not carry over to the next Phase.","Sau khi dùng Chúc Phúc, ngẫu nhiên sắp xếp lại vị trí Thanh Hài hiện có trên sân, và sẽ xuất hiện ở vị trí đó vào ngày hôm sau. Mỗi giai đoạn nhận được 3 lần sử dụng, số lần chưa dùng không thể để dành sang giai đoạn sau."
-lang_multi_text.db,MultiText,Farm_SkillTimes,剩余次数：{0},Remaining: {0},Số lần còn lại: {0}
-lang_multi_text.db,MultiText,Farm_Skip,跳过,Skip,Bỏ qua
-lang_multi_text.db,MultiText,Farm_Stage1,阶段：{0}/∞,Phase: {0}/∞,Giai đoạn: {0}/∞
-lang_multi_text.db,MultiText,Farm_Stage2,阶段：{0}/{1},Phase: {0}/{1},Giai đoạn: {0}/{1}
-lang_multi_text.db,MultiText,Farm_Terrain_Effect_1,所有梦块·水镜碎域上的声骸视为<te href=851055><color=#c79f49>相邻</color></te>关系,All Echoes on Dream Blocks: Watermirror are considered <te href=851055><color=#c79f49>adjacent</color></te> to each other.,Tất cả Thanh Hài trên Khối Mộng - Vụn Thủy Kính được xem là có quan hệ <te href=851055><color=#c79f49>liền kề</color></te>
-lang_multi_text.db,MultiText,Farm_Terrain_Effect_2,声骸在此梦块上时，【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量临时提升{0}，离开后恢复,The <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of the Echo on this Dream Block temporarily increases by {0}. The bonus is removed once it leaves this Dream Block.,"Khi Thanh Hài ở trên Khối Mộng này, sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] tạm thời tăng {0}, sau khi rời khỏi sẽ khôi phục"
-lang_multi_text.db,MultiText,Farm_Terrain_Effect_3,该梦块上的声骸【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量提升时额外提升{0}，每天仅生效一次,"When the <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of Echoes on this Dream Block is increased, it further increases by {0}. Triggered once per day.","Khi sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của Thanh Hài trên Khối Mộng này tăng lên, sẽ tăng thêm {0}, mỗi ngày chỉ hiệu lực một lần"
-lang_multi_text.db,MultiText,Farm_Terrain_Effect_4,所有梦块·冰晶碎域上的声骸视为同一排的位置关系,All Echoes on Dream Blocks: Ice Shards are considered to be in the same row.,Tất cả Thanh Hài trên Khối Mộng - Vụn Băng Tinh được xem là có vị trí cùng một hàng
-lang_multi_text.db,MultiText,Farm_Terrain_Effect_5,该梦块上的灰色或蓝色稀有度的声骸被<te href=851041><color=#c79f49>移除</color></te>时，有{0}%概率生成一个<te href=851045><color=#c79f49>初始素体</color></te>,"When a grey or blue rarity Echo is <te href=851041><color=#c79f49>Removed</color></te> on this Dream Block, there is {0}% chance to generate a <te href=851045><color=#c79f49>Basic Form</color></te> in its place.","Khi Thanh Hài độ hiếm Xám hoặc Lam trên Khối Mộng này bị <te href=851041><color=#c79f49>Xóa Bỏ</color></te>, có {0}% xác suất tạo ra một <te href=851045><color=#c79f49>Tố Thể Ban Đầu</color></te>"
-lang_multi_text.db,MultiText,Farm_Terrain_Effect_6,声骸无法站立于此,Echoes cannot stand here.,Thanh Hài không thể đứng ở đây
-lang_multi_text.db,MultiText,Farm_Terrain_Effect_7,声骸在此梦块上时，【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量临时提升{0}，离开后恢复,The <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of the Echo on this Dream Block temporarily increases by {0}. The bonus is removed once it leaves this Dream Block.,"Khi Thanh Hài ở trên Khối Mộng này, sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] tạm thời tăng {0}, sau khi rời khỏi sẽ khôi phục"
-lang_multi_text.db,MultiText,Farm_Toy1,游戏币,Game Tokens,Xu Trò Chơi
-lang_multi_text.db,MultiText,Farm_Toy10,发条灯偶,Clockwork Illuminator,Đèn Hình Nộm Dây Cót
-lang_multi_text.db,MultiText,Farm_Toy11,一瞬时光,Moment,Khoảnh Khắc Ngắn Ngủi
-lang_multi_text.db,MultiText,Farm_Toy12,集章纪念册,Stamp Book,Sổ Tem Kỷ Niệm
-lang_multi_text.db,MultiText,Farm_Toy13,乐园人偶·咕咕河豚,Figurine: Gulpuff,Búp Bê Vui Chơi - Cá Nóc Ò Ó O
-lang_multi_text.db,MultiText,Farm_Toy14,乐园人偶·叮咚咚,Figurine: Clang Bang,Búp Bê Vui Chơi - Đinh Đoong Đoong
-lang_multi_text.db,MultiText,Farm_Toy15,迷梦泡泡,Dream Bubble,Bong Bóng Mê Mộng
-lang_multi_text.db,MultiText,Farm_Toy16,停不下地碰撞,Unstoppable Impact,Va Chạm Không Ngừng
-lang_multi_text.db,MultiText,Farm_Toy17,时间信箱,Time Mailbox,Hòm Thư Thời Gian
-lang_multi_text.db,MultiText,Farm_Toy18,梦境，转转转,Dreaming Round n' Round,"Mộng Cảnh, Xoay Xoay Xoay"
-lang_multi_text.db,MultiText,Farm_Toy19,跷跷板,Seesaw,Bập Bênh
-lang_multi_text.db,MultiText,Farm_Toy2,乐园纪念券,Commemorative Tickets,Vé Kỷ Niệm Khu Vui Chơi
-lang_multi_text.db,MultiText,Farm_Toy20,旋转音乐盒,Rotating Music Box,Hộp Nhạc Xoay
-lang_multi_text.db,MultiText,Farm_Toy21,摩天之眼,Somnoire Eye,Mắt Chọc Trời
-lang_multi_text.db,MultiText,Farm_Toy22,捕梦网,Dreamcatcher,Lưới Bắt Mộng
-lang_multi_text.db,MultiText,Farm_Toy23,梦境迷宫,Dream Maze,Mê Cung Mộng Cảnh
-lang_multi_text.db,MultiText,Farm_Toy24,乐园卡带,Dreamland Cassette,Băng Cassette Khu Vui Chơi
-lang_multi_text.db,MultiText,Farm_Toy25,加速沙漏,Accelerating Hourglass,Đồng Hồ Cát Tăng Tốc
-lang_multi_text.db,MultiText,Farm_Toy26,祝福花环,Blessing Garland,Vòng Hoa Chúc Phúc
-lang_multi_text.db,MultiText,Farm_Toy27,幸运摇铃,Fortune Bell,Chuông May Mắn
-lang_multi_text.db,MultiText,Farm_Toy28,魔术怀表,Magic Pocket Watch,Đồng Hồ Bỏ Túi Ảo Thuật
-lang_multi_text.db,MultiText,Farm_Toy29,乐园人偶·遁地鼠,Figurine: Excarat,Búp Bê Vui Chơi - Chuột Độn Thổ
-lang_multi_text.db,MultiText,Farm_Toy3,风车,Pinwheel,Cối Xay Gió
-lang_multi_text.db,MultiText,Farm_Toy30,色彩覆盖,Color Coating,Phủ Màu Sắc
-lang_multi_text.db,MultiText,Farm_Toy31,迷梦之中,Lost in Dreams,Trong Cơn Mê Mộng
-lang_multi_text.db,MultiText,Farm_Toy32,乐园人偶·指挥家,Figurine: Conductor,Búp Bê Vui Chơi - Nhạc Trưởng
-lang_multi_text.db,MultiText,Farm_Toy33,梦境列车,Dreamscape Train,Đoàn Tàu Mộng Cảnh
-lang_multi_text.db,MultiText,Farm_Toy34,浮灵气球,Chop Chop Balloon,Bóng Bay Phù Linh
-lang_multi_text.db,MultiText,Farm_Toy35,迷梦彩树,Fantasy Tree,Cây Mê Mộng Sắc Màu
-lang_multi_text.db,MultiText,Farm_Toy36,幻梦礼花,Dreamy Firework,Pháo Hoa Mộng Ảo
-lang_multi_text.db,MultiText,Farm_Toy37,失落拼图,Lost Puzzle Piece,Mảnh Ghép Thất Lạc
-lang_multi_text.db,MultiText,Farm_Toy38,积木世界,Brick World,Thế Giới Xếp Hình
-lang_multi_text.db,MultiText,Farm_Toy39,聚变魔方,Fusion Cube,Ma Phương Dung Hợp
-lang_multi_text.db,MultiText,Farm_Toy4,梦境礼帽,Fantasia Hat,Mũ Lễ Phục Mộng Cảnh
-lang_multi_text.db,MultiText,Farm_Toy40,镜中万花,Kaleidoscope,Vạn Hoa Trong Gương
-lang_multi_text.db,MultiText,Farm_Toy5,惊喜盲盒,Surprise Box,Hộp Mù Bất Ngờ
-lang_multi_text.db,MultiText,Farm_Toy6,冰凉时刻,Chill Moment,Khoảnh Khắc Mát Lạnh
-lang_multi_text.db,MultiText,Farm_Toy7,心愿纸鹤,Paper Cranes,Hạc Giấy Tâm Nguyện
-lang_multi_text.db,MultiText,Farm_Toy8,橡皮幼岩,Rubber Junrock,Đá Con Cao Su
-lang_multi_text.db,MultiText,Farm_Toy9,联结手环,Unity Band,Vòng Tay Liên Kết
-lang_multi_text.db,MultiText,Farm_ToyFull,道具数量已满，无法购买,Prop limit reached. Unable to purchase.,"Số lượng đạo cụ đã đầy, không thể mua"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_1,等待1天，场上所有声骸【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量提升{0}，该效果只生效一次,"After 1 day, the <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of all Echoes on the field increases by {0}. This effect can only be triggered once.","Chờ 1 ngày, sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của tất cả Thanh Hài trên sân tăng {0}, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_10,非声骸的【<te href=851009><color=#c79f49>每日乐园券</color></te>】途径获取的<te href=851010><color=#c79f49>乐园券</color></te>数量+{0}%,<te href=851010><color=#c79f49>Dreamland Coupons</color></te> gained through sources other than Echoes' <te href=851009><color=#c79f49>Daily Coupon</color></te> yield increase by {0}%.,Số lượng <te href=851010><color=#c79f49>Vé Vui Chơi</color></te> nhận được từ nguồn không phải [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của Thanh Hài +{0}%
-lang_multi_text.db,MultiText,Farm_Toy_Effect_11,除【<te href=851012><color=#c79f49>声骸征聘</color></te>】、商店和幻梦祝福途径外，每获得{0}只声骸，获得{1}张<te href=851010><color=#c79f49>乐园券</color></te>,"For every <SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echoes SapTag=0} gained (except via <te href=851012><color=#c79f49>Echo Recruitment</color></te>, Shop or Phantasma Blessing), receive {1} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.","Ngoài cách [<te href=851012><color=#c79f49>Tuyển Mộ Thanh Hài</color></te>], Cửa Hàng và Chúc Phúc Ảo Mộng, mỗi khi nhận được {0} Thanh Hài, nhận thêm {1} <te href=851010><color=#c79f49>Vé Vui Chơi</color></te>"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_12,除【<te href=851012><color=#c79f49>声骸征聘</color></te>】、商店和幻梦祝福途径外，每获得{0}只声骸，获得{1}张<te href=851010><color=#c79f49>乐园券</color></te>,"For every <SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echoes SapTag=0} gained (except from <te href=851012><color=#c79f49>Echo Recruitment</color></te>, Shop or Phantasma Blessing), receive {1} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.","Ngoài cách [<te href=851012><color=#c79f49>Tuyển Mộ Thanh Hài</color></te>], Cửa Hàng và Chúc Phúc Ảo Mộng, mỗi khi nhận được {0} Thanh Hài, nhận thêm {1} <te href=851010><color=#c79f49>Vé Vui Chơi</color></te>"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_13,除【<te href=851012><color=#c79f49>声骸征聘</color></te>】、商店和幻梦祝福途径外，每获得{0}只声骸，获得{1}枚<te href=851011><color=#c79f49>频率晶体</color></te>,"For every <SapTag=0>{0}</SapTag> {Cus:Sap,S=Echo P=Echoes SapTag=0} gained (except from <te href=851012><color=#c79f49>Echo Recruitment</color></te>, Shop or Phantasma Blessing), receive {1} <te href=851011><color=#c79f49>Frequency Crystals</color></te>.","Ngoài cách [<te href=851012><color=#c79f49>Tuyển Mộ Thanh Hài</color></te>], Cửa Hàng và Chúc Phúc Ảo Mộng, mỗi khi nhận được {0} Thanh Hài, nhận thêm {1} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te>"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_14,每阶段获得与<te href=851011><color=#c79f49>频率晶体</color></te>数量等额的<te href=851010><color=#c79f49>乐园券</color></te>,Receive <te href=851010><color=#c79f49>Dreamland Coupons</color></te> equal to the number of <te href=851011><color=#c79f49>Frequency Crystals</color></te> in each Phase.,Mỗi giai đoạn nhận được lượng <te href=851010><color=#c79f49>Vé Vui Chơi</color></te> bằng số lượng <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te> đang có
-lang_multi_text.db,MultiText,Farm_Toy_Effect_15,等待1天，在空白区域生成{0}只<te href=851060><color=#c79f49>嚣风戏猿</color></te>，该效果只生效一次,"After 1 day, generate <SapTag=0>{0}</SapTag> Hoochief {Cus:Sap,S=Cyclone P=Cyclones SapTag=0} on a blank block. This effect can only be triggered once.","Chờ 1 ngày, tạo ra {0} <te href=851060><color=#c79f49>Vượn Hú Gió</color></te> ở khu vực trống, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_16,等待1天，在空白区域生成{0}只<te href=851059><color=#c79f49>先锋幼岩</color></te>，该效果只生效一次,"After 1 day, generate <SapTag=0>{0}</SapTag> Vanguard {Cus:Sap,S=Junrock P=Junrocks SapTag=0} on a blank block. This effect can only be triggered once.","Chờ 1 ngày, tạo ra {0} <te href=851059><color=#c79f49>Đá Con Tiên Phong</color></te> ở khu vực trống, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_17,每{0}天在空白区域生成{1}只本关登场梦境属性的声骸,"Generate <SapTag=1>{1}</SapTag> {Cus:Sap,S=Echo P=Echoes SapTag=1} of one of the Dream Attributes activated in this Stage on a blank block every <SapTag=0>{0}</SapTag> {Cus:Sap,S=day P=days SapTag=0}.",Mỗi {0} ngày tạo ra {1} Thanh Hài thuộc tính Mộng Cảnh xuất hiện trong ải này tại khu vực trống
-lang_multi_text.db,MultiText,Farm_Toy_Effect_18,【<te href=851012><color=#c79f49>声骸征聘</color></te>】时有{0}%概率额外获得{1}只声骸,"There is a {0}% chance to gain additional <SapTag=1>{1}</SapTag> {Cus:Sap,S=Echo P=Echoes SapTag=1} in <te href=851012><color=#c79f49>Echo Recruitment</color></te>.",Khi [<te href=851012><color=#c79f49>Tuyển Mộ Thanh Hài</color></te>] có {0}% xác suất nhận thêm {1} Thanh Hài
-lang_multi_text.db,MultiText,Farm_Toy_Effect_19,下阶段开始，每阶段额外增加{0}次【<te href=851012><color=#c79f49>声骸征聘</color></te>】的免费刷新次数,"Gain <SapTag=0>{0}</SapTag> more free <te href=851012><color=#c79f49>Echo Recruitment</color></te> refresh {Cus:Sap,S=chance P=chances SapTag=0} starting from the next phase.","Bắt đầu từ giai đoạn sau, mỗi giai đoạn tăng thêm {0} lần làm mới miễn phí cho [<te href=851012><color=#c79f49>Tuyển Mộ Thanh Hài</color></te>]"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_2,每天开始时，获得{0}张<te href=851010><color=#c79f49>乐园券</color></te>,"At the start of each day, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.","Khi bắt đầu mỗi ngày, nhận {0} <te href=851010><color=#c79f49>Vé Vui Chơi</color></te>"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_20,请离声骸时，额外获得{0}张<te href=851010><color=#c79f49>乐园券</color></te>,Dismissing an Echo gains additional {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.,"Khi cho Thanh Hài rời đi, nhận thêm {0} <te href=851010><color=#c79f49>Vé Vui Chơi</color></te>"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_21,请离声骸时，额外获得{0}枚<te href=851011><color=#c79f49>频率晶体</color></te>,Dismissing an Echo gains additional {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>.,"Khi cho Thanh Hài rời đi, nhận thêm {0} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te>"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_22,等待1天，随机获得{0}个道具，该效果只生效一次,"After 1 day, randomly obtain <SapTag=0>{0}</SapTag> {Cus:Sap,S=Prop P=Props SapTag=0}. This effect can only be triggered once.","Chờ 1 ngày, nhận ngẫu nhiên {0} đạo cụ, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_23,等待1天，随机获得{0}个道具，该效果只生效一次,"After 1 day, randomly obtain <SapTag=0>{0}</SapTag> {Cus:Sap,S=Prop P=Props SapTag=0}. This effect can only be triggered once.","Chờ 1 ngày, nhận ngẫu nhiên {0} đạo cụ, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_24,等待1天，在空白区域生成{0}只本关登场梦境属性的紫色稀有度声骸，该效果只生效一次,"After 1 day, generate <SapTag=0>{0}</SapTag> purple-rarity {Cus:Sap,S=Echo P=Echoes SapTag=0} of one of the Dream Attributes activated in this Stage on a blank block. This effect can only be triggered once.","Chờ 1 ngày, tạo ra {0} Thanh Hài độ hiếm Tím thuộc tính Mộng Cảnh xuất hiện trong ải này tại khu vực trống, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_25,等待1天，场上所有声骸<te href=851005><color=#c79f49>递变</color></te>进度+{0}，该效果只生效一次,"After 1 day, the <te href=851005><color=#c79f49>Gradation</color></te> progress of all Echoes on the field increases by {0}. This effect can only be triggered once.","Chờ 1 ngày, tiến độ <te href=851005><color=#c79f49>Đệ Biến</color></te> của tất cả Thanh Hài trên sân +{0}, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_26,<te href=851054><color=#c79f49>巡游骑士</color></te>递变时，场上任意一只巡游骑士获得{0}点<te href=851005><color=#c79f49>递变</color></te>进度，每天最多触发{1}次,"When a <te href=851054><color=#c79f49>Questless Knight</color></te> undergoes Gradation, the <te href=851005><color=#c79f49>Gradation</color></te> progress of a random Questless Knight on the field additionally increases by {0}. This effect can be triggered up to <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1} per day.","Khi <te href=851054><color=#c79f49>Kỵ Sĩ Tuần Du</color></te> đệ biến, một Kỵ Sĩ Tuần Du bất kỳ trên sân nhận {0} điểm tiến độ <te href=851005><color=#c79f49>Đệ Biến</color></te>, mỗi ngày kích hoạt tối đa {1} lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_27,声骸<te href=851005><color=#c79f49>递变</color></te>时，有{0}%概率将【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量增加{1}%,"When an Echo undergoes <te href=851005><color=#c79f49>Gradation</color></te>, there is a {0}% chance to increase its <te href=851009><color=#c79f49>Daily Coupon</color></te> yield by {1}%.","Khi Thanh Hài <te href=851005><color=#c79f49>Đệ Biến</color></te>, có {0}% xác suất tăng sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] thêm {1}%"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_28,声骸<te href=851005><color=#c79f49>递变</color></te>时，递变进度额外增加{0},"When an Echo undergoes <te href=851005><color=#c79f49>Gradation</color></te>, its <te href=851005><color=#c79f49>Gradation</color></te> progress additionally increases by {0}.","Khi Thanh Hài <te href=851005><color=#c79f49>Đệ Biến</color></te>, tiến độ đệ biến tăng thêm {0}"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_29,每次发生<te href=851006><color=#c79f49>吞噬</color></te>时获得{0}张<te href=851010><color=#c79f49>乐园券</color></te>,"Every time <te href=851006><color=#c79f49>Devour</color></te> happens, gain {0} <te href=851010><color=#c79f49>Dreamland Coupons</color></te>.",Mỗi lần xảy ra <te href=851006><color=#c79f49>Thôn Phệ</color></te> sẽ nhận được {0} <te href=851010><color=#c79f49>Vé Vui Chơi</color></te>
-lang_multi_text.db,MultiText,Farm_Toy_Effect_3,每天开始时，场上任意一个声骸【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量提升{0},"At the start of each day, the <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of a random Echo increases by {0}.","Khi bắt đầu mỗi ngày, tăng sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của một Thanh Hài bất kỳ trên sân thêm {0}"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_30,具有<te href=851006><color=#c79f49>吞噬</color></te>能力的声骸，每天有{0}%概率额外吞噬{1}次,"Echoes with the <te href=851006><color=#c79f49>Devour</color></te> ability have a {0}% chance to additionally use the ability <SapTag=1>{1}</SapTag> {Cus:Sap,S=time P=times SapTag=1} per day.","Thanh Hài có năng lực <te href=851006><color=#c79f49>Thôn Phệ</color></te>, mỗi ngày có {0}% xác suất thôn phệ thêm {1} lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_31,紫羽鹭<te href=851006><color=#c79f49>吞噬</color></te>“<te href=851050><color=#c79f49>棱镜</color></te>”类声骸时，场上最多{0}只<te href=851057><color=#c79f49>紫羽鹭</color></te>共享其吞噬效果,"When a <te href=851057><color=#c79f49>Violet-Feathered Heron</color></te> <te href=851006><color=#c79f49>Devour</color></te> a <te href=851050><color=#c79f49>Prism</color></te> Echo, up to <SapTag=0>{0}</SapTag> Violet-Feathered {Cus:Sap,S=Heron P=Herons SapTag=0} will share this Devour effect.","Khi Cò Tím <te href=851006><color=#c79f49>Thôn Phệ</color></te> Thanh Hài loại ""<te href=851050><color=#c79f49>Lăng Kính</color></te>"", tối đa {0} <te href=851057><color=#c79f49>Cò Tím</color></te> trên sân cùng hưởng hiệu quả thôn phệ đó"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_32,场上单位被<te href=851006><color=#c79f49>吞噬</color></te>时，{0}%概率在空白区域生成其<te href=851045><color=#c79f49>初始素体</color></te>,"When an Echo is <te href=851006><color=#c79f49>Devoured</color></te>, there is a {0}% chance to generate its <te href=851045><color=#c79f49>Basic Form</color></te> on a blank block.","Khi đơn vị trên sân bị <te href=851006><color=#c79f49>Thôn Phệ</color></te>, có {0}% xác suất tạo ra <te href=851045><color=#c79f49>Tố Thể Ban Đầu</color></te> của nó ở khu vực trống"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_33,声骸<te href=851041><color=#c79f49>移除</color></te>自身或<te href=851008><color=#c79f49>融合</color></te>成新声骸时，额外获得与其【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量等额的<te href=851010><color=#c79f49>乐园券</color></te>,"When an Echo <te href=851041><color=#c79f49>Removes</color></te> itself or is <te href=851008><color=#c79f49>Integrated</color></te> into a new Echo, gain additional <te href=851010><color=#c79f49>Dreamland Coupons</color></te> equal to its own <te href=851009><color=#c79f49>Daily Coupon</color></te> yield.","Khi Thanh Hài tự <te href=851041><color=#c79f49>Xóa Bỏ</color></te> hoặc <te href=851008><color=#c79f49>Dung Hợp</color></te> thành Thanh Hài mới, nhận thêm lượng <te href=851010><color=#c79f49>Vé Vui Chơi</color></te> bằng với sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của nó"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_34,声骸<te href=851041><color=#c79f49>移除</color></te>自身时，声骸所处区域{0}%概率生成<te href=851048><color=#c79f49>梦块·黑石碎域</color></te>,"When an Echo <te href=851041><color=#c79f49>Removes</color></te> itself, there is a {0}% chance to generate a <te href=851048><color=#c79f49>Dream Block: Obsidian</color></te> on that block.","Khi Thanh Hài tự <te href=851041><color=#c79f49>Xóa Bỏ</color></te>, khu vực Thanh Hài đang đứng có {0}% xác suất tạo ra <te href=851048><color=#c79f49>Khối Mộng - Vụn Hắc Thạch</color></te>"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_35,“<te href=851056><color=#c79f49>刺玫菇</color></te>”类声骸<te href=851041><color=#c79f49>移除</color></te>自身或者<te href=851007><color=#c79f49>换取</color></te>时，必定生成【<te href=851013><color=#c79f49>换取之物</color></te>】,"When a <te href=851056><color=#c79f49>Roseshroom</color></te> Echo <te href=851041><color=#c79f49>Removes</color></te> or <te href=851007><color=#c79f49>Exchanges</color></te> itself, it is guaranteed to generate an <te href=851013><color=#c79f49>Item of Exchange</color></te>.","Khi Thanh Hài loại ""<te href=851056><color=#c79f49>Nấm Hoa Hồng</color></te>"" tự <te href=851041><color=#c79f49>Xóa Bỏ</color></te> hoặc <te href=851007><color=#c79f49>Hoán Đổi</color></te>, chắc chắn tạo ra [<te href=851013><color=#c79f49>Vật Hoán Đổi</color></te>]"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_36,场上每有{0}个蓝色稀有度声骸，在<te href=851013><color=#c79f49>换取之物</color></te>进行<te href=851007><color=#c79f49>换取</color></te>时有{1}%概率生成一只同名声骸，最多叠加{2}次,"For every {0} blue-rarity Echo on the field, whenever an <te href=851013><color=#c79f49>Item of Exchange</color></te> is <te href=851007><color=#c79f49>Exchanged</color></te>, there is a {1}% chance to generate an Echo of the same name, stacking up to {2} times.","Mỗi khi trên sân có {0} Thanh Hài độ hiếm Lam, khi <te href=851013><color=#c79f49>Vật Hoán Đổi</color></te> tiến hành <te href=851007><color=#c79f49>Hoán Đổi</color></te> sẽ có {1}% xác suất tạo ra một Thanh Hài cùng tên, tối đa cộng dồn {2} lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_37,<te href=851008><color=#c79f49>融合</color></te>产生的声骸【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量提升{0},Increase the <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of Echoes created through <te href=851008><color=#c79f49>Integration</color></te> by {0}.,Tăng sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của Thanh Hài tạo ra từ <te href=851008><color=#c79f49>Dung Hợp</color></te> thêm {0}
-lang_multi_text.db,MultiText,Farm_Toy_Effect_38,<te href=851008><color=#c79f49>融合</color></te>产生的声骸【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量等于参与融合声骸的【每日乐园券】获取量之和,The <te href=851009><color=#c79f49>Daily Coupon</color></te> yield of Echoes created through <te href=851008><color=#c79f49>Integration</color></te> equals the total Daily Coupon yield of all the Integrated Echoes.,Sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>] của Thanh Hài tạo ra từ <te href=851008><color=#c79f49>Dung Hợp</color></te> bằng tổng sản lượng [Vé Vui Chơi Mỗi Ngày] của các Thanh Hài tham gia dung hợp
-lang_multi_text.db,MultiText,Farm_Toy_Effect_39,场上单位发起<te href=851008><color=#c79f49>融合</color></te>时，有{0}%概率在空白区域生成同名声骸,"When an Echo on the field starts <te href=851008><color=#c79f49>Integration</color></te>, there is a {0}% chance to generate a copy of itself on a blank block.","Khi đơn vị trên sân khởi xướng <te href=851008><color=#c79f49>Dung Hợp</color></te>, có {0}% xác suất tạo ra Thanh Hài cùng tên tại khu vực trống"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_4,等待1天，在空白区域生成{0}只本关登场梦境属性的紫色稀有度声骸，该效果只生效一次,"After 1 day, generate <SapTag=0>{0}</SapTag> purple-rarity {Cus:Sap,S=Echo P=Echoes SapTag=0} of one of the Dream Attributes activated in this Stage on a blank block. This effect can only be triggered once.","Chờ 1 ngày, tạo ra {0} Thanh Hài độ hiếm Tím thuộc tính Mộng Cảnh xuất hiện trong ải này tại khu vực trống, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_40,每天第1只声骸发起<te href=851008><color=#c79f49>融合</color></te>时，融合要求数量-{0},"The first <te href=851008><color=#c79f49>Integration</color></te> of the day requires <SapTag=0>{0}</SapTag> fewer {Cus:Sap,S=Echo P=Echoes SapTag=0}.","Khi Thanh Hài đầu tiên mỗi ngày khởi xướng <te href=851008><color=#c79f49>Dung Hợp</color></te>, số lượng yêu cầu dung hợp giảm {0}"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_5,下阶段开始，商店中随机{0}个梦盒免费,"The shop offers <SapTag=0>{0}</SapTag> random Dream {Cus:Sap,S=Box P=Boxes SapTag=0} for free starting from the next phase.","Bắt đầu từ giai đoạn sau, {0} Hộp Mộng ngẫu nhiên trong cửa hàng sẽ miễn phí"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_6,下阶段开始，商店中随机{0}个道具免费,"The shop offers <SapTag=0>{0}</SapTag> random {Cus:Sap,S=Prop P=Props SapTag=0} for free starting from the next Phase.","Bắt đầu từ giai đoạn sau, {0} đạo cụ ngẫu nhiên trong cửa hàng sẽ miễn phí"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_7,下阶段开始，商店中随机{0}只声骸免费,"The shop offers <SapTag=0>{0}</SapTag> random {Cus:Sap,S=Echo P=Echoes SapTag=0} for free starting from the next Phase.","Bắt đầu từ giai đoạn sau, {0} Thanh Hài ngẫu nhiên trong cửa hàng sẽ miễn phí"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_8,等待1天，获得{0}枚<te href=851011><color=#c79f49>频率晶体</color></te>，该效果只生效一次,"After 1 day, gain {0} <te href=851011><color=#c79f49>Frequency Crystals</color></te>. This effect can only be triggered once.","Chờ 1 ngày, nhận {0} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te>, hiệu quả này chỉ kích hoạt một lần"
-lang_multi_text.db,MultiText,Farm_Toy_Effect_9,每{0}天获得{1}枚<te href=851011><color=#c79f49>频率晶体</color></te>,Gain {1} <te href=851011><color=#c79f49>Frequency Crystals</color></te> every {0} days.,Mỗi {0} ngày nhận được {1} <te href=851011><color=#c79f49>Tinh Thể Tần Số</color></te>
-lang_multi_text.db,MultiText,Farm_blank_Effect1,<te href=851045><color=#c79f49>初始素体</color></te>,<te href=851045><color=#c79f49>Basic Form</color></te>,<te href=851045><color=#c79f49>Tố Thể Ban Đầu</color></te>
-lang_multi_text.db,MultiText,Farm_evolution_Effect1,<te href=851005><color=#c79f49>递变</color></te>：每{0}天进行一次递变。递变后，【<te href=851009><color=#c79f49>每日乐园券</color></te>】获取量提升，提升量为已递变次数；场上自身以外声骸每进行一次递变，自身递变进度增加{1},<te href=851005><color=#c79f49>Gradation</color></te>: Gradation occurs once every {0} days and increases the <te href=851009><color=#c79f49>Daily Coupon</color></te> yield by the number of occured Gradation. Each Gradation on the field (itself excluded) also increases the Gradation progress by {1}.,"<te href=851005><color=#c79f49>Đệ Biến</color></te>: Mỗi {0} ngày tiến hành đệ biến một lần. Sau khi đệ biến, tăng sản lượng [<te href=851009><color=#c79f49>Vé Vui Chơi Mỗi Ngày</color></te>], mức tăng bằng số lần đã đệ biến; Mỗi khi Thanh Hài khác (ngoài bản thân) trên sân tiến hành đệ biến một lần, tiến độ đệ biến của bản thân tăng {1}"
-lang_multi_text.db,MultiText,Farm_evolution_Effect10,<te href=851005><color=#c79f49>递变</color></te>：每{0}天进行一次递变。递变后，当前所处空白区域生成<te href=851015><color=#c79f49>梦块·沙石碎域</color></te>,<te href=851005><color=#c79f49>Gradation</color></te>: Gradation occurs once every {0} days and generates a <te href=851015><color=#c79f49>Dream Block: Gravel</color></te> on the current blank block.,"<te href=851005><color=#c79f49>Đệ Biến</color></te>: Mỗi {0} ngày tiến hành đệ biến một lần. Sau khi đệ biến, tạo ra <te href=851015><color=#c79f49>Khối Mộng - Vụn Sa Thạch</color></te> tại khu vực trống hiện tại"
+lang_multi_text.db,MultiText,FavorGoods_160101_Content,"“<te href=850091>今州</te>之重，远非模型可以承载，但您却可以通过购买守护壁模型，来近距离感受守护今州的重量。”
+<te href=850085>天工</te>和玩具公司联合推出的文创产品，据说这是桃祈从某玩具大亨的手里直接拿到的初版。","""The weight of <te href=850091>Jinzhou</te> is far beyond what a model can carry, but you can feel the weight of guarding Jinzhou up close by purchasing a Guardian Wall model."" 
+The <te href=850085>Ministry of Development</te> partnered with a toy company to create this model, rumored to be a limited first edition obtained personally by Taoqi from a revered toy mogul.","""Sức nặng của <te href=850091>Kim Châu</te> vượt xa những gì một mô hình có thể gánh vác, nhưng bạn có thể cảm nhận sức nặng của việc bảo vệ Kim Châu ở khoảng cách gần thông qua việc mua mô hình Tường Bảo Hộ.""
+Sản phẩm văn hóa sáng tạo do <te href=850085>Thiên Công</te> và công ty đồ chơi hợp tác ra mắt, nghe nói đây là bản đầu tiên Đào Kỳ trực tiếp lấy được từ tay một ông trùm đồ chơi nào đó."
+lang_multi_text.db,MultiText,FavorGoods_160101_Title,守护壁模型,Guardian Wall Model,Mô Hình Tường Bảo Hộ
+lang_multi_text.db,MultiText,FavorGoods_160102_Content,用于终端加载的数据模组，其中存放着桃祈对<te href=850091>今州</te>的所有观察和思考。从幼时在脑海中浮现的一个个不成熟的点子，到决定守护这一城人民后，深思熟虑无数次才落到笔端的一个个决策，桃祈将一切都记录在这个小小的数据模组上。也许未来有一天，这个不起眼的模组会改变整个今州。,"The data module for Terminal loading contains Taoqi's observations and thoughts on <te href=850091>Jinzhou</te>, from her childhood musings to her current decisions to protect the city. Every detail has been meticulously documented in this small but powerful device. Perhaps one day, it will alter the fate of Jinzhou.","Mô-đun dữ liệu dùng để tải vào thiết bị đầu cuối, trong đó lưu trữ mọi quan sát và suy nghĩ của Đào Kỳ về <te href=850091>Kim Châu</te>. Từ những ý tưởng non nớt hiện lên trong đầu thuở nhỏ, đến những quyết sách được cân nhắc kỹ lưỡng vô số lần mới đặt bút viết xuống sau khi quyết định bảo vệ người dân thành phố này, Đào Kỳ đã ghi lại tất cả vào mô-đun dữ liệu nhỏ bé này. Có lẽ một ngày nào đó trong tương lai, mô-đun không mấy nổi bật này sẽ thay đổi cả Kim Châu."
+lang_multi_text.db,MultiText,FavorGoods_160102_Title,今州策,Jinzhou Strategies,Kim Châu Sách
+lang_multi_text.db,MultiText,FavorGoods_160103_Content,"闲余时间能美美地睡上一觉是桃祈平日里反复念叨的愿望。
+软绵绵的桃桃龟成了包容她一切的乐园与天堂。
+“如果能像桃桃龟一样慢悠悠地生活，而又能成为大家安心的依靠就好了。”","Taoqi always longs to catch a nice, peaceful nap during her free time. The soft and plush Peachy Turtle becomes her haven, a paradise that washes away all fatigue accumulated from work.  ""If I could live a slow-paced life just like the Peachy Turtle, and still be a reliable support for everyone, that would be perfect.""","Có thể ngủ một giấc ngon lành vào lúc rảnh rỗi là ước nguyện mà Đào Kỳ thường lẩm bẩm ngày qua ngày.
+Bé Rùa Đào mềm mại đã trở thành thiên đường bao dung tất cả của cô.
+""Nếu có thể sống chậm rãi như Rùa Đào, mà vẫn trở thành chỗ dựa an tâm cho mọi người thì tốt biết mấy."""
+lang_multi_text.db,MultiText,FavorGoods_160103_Title,桃桃龟,Peachy Turtle,Bé Rùa Đào
+lang_multi_text.db,MultiText,FavorGoods_160201_Content,"丹瑾最喜欢的甜食。
+幼年时，难得一家团圆的节假日，妈妈总会买来两个<te href=850115>龙须酥</te>，分给丹瑾和妹妹。这份清甜绵密，渗透进每一个美好的日子。
+后来，丹瑾独自一人在野外游历时，也总会备上几个龙须酥。糖分可以及时补充消耗过度的体力，那清甜绵密的口感也可以提醒她，为了让更多人过上美好的日子，自己要不断前行。","Danjin has a sweet tooth. In her youth, during those rare and cherished family reunions, her mother would always buy two pieces of <te href=850115>Loong Whiskers Crisp</te>, one for Danjin and the other for her younger sister. This delicate sweetness brought great happiness to her life.
+As Danjin set out on a journey on her own, she always carries a few pieces of Loong Whiskers Crisp with her as this sugary delight provides a timely energy boost for her whenever fatigue sets in. Besides, the delicate sweetness also serves as a reminder. It reminds her of her goal to help more people live a happy life and pushes her to keep moving forward.","Món đồ ngọt yêu thích của Đan Cẩn.
+Khi còn nhỏ, vào những ngày lễ tết hiếm hoi cả nhà đoàn tụ, mẹ luôn mua hai chiếc <te href=850115>kẹo râu rồng</te>, chia cho Đan Cẩn và em gái. Vị ngọt thanh mềm mịn ấy thấm đượm vào từng ngày tháng tươi đẹp.
+Sau này, khi Đan Cẩn một mình phiêu bạt nơi hoang dã, cô cũng luôn chuẩn bị vài chiếc kẹo râu rồng. Đường có thể kịp thời bổ sung thể lực tiêu hao quá mức, hương vị ngọt thanh mềm mịn ấy cũng có thể nhắc nhở cô, vì để nhiều người hơn nữa có được những ngày tháng tươi đẹp, bản thân phải không ngừng tiến bước."
+lang_multi_text.db,MultiText,FavorGoods_160201_Title,云顶龙须酥,Silky Reveries,Kẹo Râu Rồng Vân Đỉnh
+lang_multi_text.db,MultiText,FavorGoods_160202_Content,"师傅赠予丹瑾的手镜。
+以前丹瑾经常对镜练剑，当她见到镜中被绯色浸染的自己，便会努力冷静下来。
+后来丹瑾掌握了剑法，绯刃也变得听话服帖，但偶尔仍有那么一两朵绯红染上脸颊。这时，少女就会掏出手镜，对着镜子将不慎染上脸颊的绯红轻轻拭去。","Danjin's master had gifted her a hand mirror. For years, as she practiced her sword skills, Danjin would see her reflection drenched in scarlet and try to stay calm. With time, she mastered the technique and the scarlet blade became obedient. But sometimes, a faint blush of crimson would still stain her cheeks, and Danjin would gently wipe it away with her hand mirror. It was a reminder of her journey from a young girl to a skilled warrior, always striving for perfection.","Chiếc gương tay sư phụ tặng cho Đan Cẩn.
+Trước đây Đan Cẩn thường soi gương luyện kiếm, khi nhìn thấy bản thân nhuốm màu đỏ thẫm trong gương, cô sẽ cố gắng bình tĩnh lại.
+Sau này Đan Cẩn đã nắm vững kiếm pháp, thanh kiếm đỏ cũng trở nên nghe lời, nhưng thỉnh thoảng vẫn có một hai vệt đỏ vương lên má. Lúc này, thiếu nữ sẽ lấy chiếc gương tay ra, soi gương nhẹ nhàng lau đi vệt đỏ vô tình dính trên má."
+lang_multi_text.db,MultiText,FavorGoods_160202_Title,手镜,Hand Mirror,Gương Tay
+lang_multi_text.db,MultiText,FavorGoods_160203_Content,"父亲交给丹瑾的玉佩，蕴含着清正天下的理想。
+幼年的丹瑾不懂这般宏大的理想，直到绯色浸染她的衣衫。
+现在这块玉佩经常毫无防备地出现在野外，成了很多不法分子眼中的肥羊。
+而这些妄图染指美玉的人，都会受到应有的惩罚。","Danjin's jade pendant, a symbol of a pure world bestowed upon her by her father. As a child, she couldn't comprehend its significance. But after tragedy struck and her family was killed, she wears it constantly as she roams the wild. The precious jewel attracts unsavory individuals who seek to take it from her. However, they soon learn that those who covet the pendant will face severe consequences at her hands.","Miếng ngọc bội cha trao cho Đan Cẩn, ẩn chứa lý tưởng làm trong sạch thiên hạ.
+Đan Cẩn thuở nhỏ không hiểu lý tưởng to lớn nhường ấy, cho đến khi sắc đỏ nhuốm đẫm y phục của cô.
+Giờ đây miếng ngọc bội này thường xuất hiện hớ hênh nơi hoang dã, trở thành con mồi béo bở trong mắt nhiều kẻ phi pháp.
+Và những kẻ vọng tưởng chạm tay vào miếng ngọc đẹp đẽ ấy, đều sẽ phải chịu sự trừng phạt thích đáng."
+lang_multi_text.db,MultiText,FavorGoods_160203_Title,怀瑾之玉,Jade Pendant,Ngọc Bội Hoài Cẩn
+lang_multi_text.db,MultiText,FavorGoods_160301_Content,"雕刻成{PlayerName}样子的木雕玩偶，椿用共鸣能力延展出自身的植物根系雕刻而成，充满了她的个人趣味。
+在<te href=850091>今州</te>相会前，她曾千百次试图雕刻出木偶的脸孔，为此损毁了数柄刻刀——落到最后一笔时，总是告以失败。
+一切朦胧的追寻和失落，到如今才落到实处。
+原来成品应该是这样啊！椿想道。果然……很可爱呢~","An intricately carved wooden doll, shaped in {PlayerName}'s likeness and crafted from the roots created by Camellya's Forte. It reflects her unique aesthetic.
+Before their reunion in <te href=850091>Jinzhou</te>, Camellya had made countless attempts to sculpt the doll's face, each attempt leading to frustration as she could never quite perfect the final stroke.
+Now, after all the vague attempts and disappointments, her vision has finally come to life.
+As she gazes upon her creation, she can't help but chuckle.
+""So, this is what it was meant to be like,"" she thought.
+""Hehe, just as adorable as I imagined.""","Búp bê gỗ được điêu khắc thành hình dáng của {PlayerName}, Xuân dùng năng lực cộng hưởng kéo dài rễ cây của chính mình để điêu khắc, mang đậm sở thích cá nhân của cô.
+Trước khi gặp lại ở <te href=850091>Kim Châu</te>, cô từng hàng trăm hàng ngàn lần thử khắc khuôn mặt của búp bê, vì thế mà làm hỏng không biết bao nhiêu con dao khắc - khi đặt bút đến nét cuối cùng, luôn kết thúc bằng thất bại.
+Mọi sự tìm kiếm mơ hồ và mất mát, đến nay mới trở thành hiện thực.
+Hóa ra thành phẩm phải là thế này à! Xuân nghĩ thầm. Quả nhiên... rất đáng yêu nha~"
+lang_multi_text.db,MultiText,FavorGoods_160301_Title,木雕玩偶,Wooden Doll,Búp Bê Gỗ
+lang_multi_text.db,MultiText,FavorGoods_160302_Content,"<te href=850109>黑海岸</te>出品的频谱监测手链，在椿的强烈要求下制成。
+与旧日某个礼物相似的造型，功能也相差无几，能够让另一侧的人得知其动向，确认持有者的安危。
+椿知道，自己毕竟不是完全的「花女」，也不打算成为过去的自己。如今不会和过去那样时刻相伴——但这又如何？她和{PlayerName}都会做让自己高兴的事。
+于她而言，这便是永恒的无意义中，唯一的锚点。","A frequency spectrum-monitoring bracelet designed by <te href=850109>the Black Shores</te>, created at Camellya's strong insistence.
+Its design resembles a cherished gift from a bygone era, equipped with similar tracking features to keep the wearer's location and safety known from afar.
+Camellya understands that she is no longer the Lady Flora of old, nor does she wish to be. Gone are the days of shadowing {PlayerName}, but so what? Both of them will do what makes them happy.
+For her, this is the sole anchor in an endless sea of meaninglessness.","Vòng tay giám sát tần phổ do <te href=850109>Bờ Biển Đen</te> sản xuất, được làm theo yêu cầu mãnh liệt của Xuân.
+Kiểu dáng tương tự một món quà ngày cũ, chức năng cũng gần như không khác biệt, có thể cho người ở đầu bên kia biết động thái của mình, xác nhận sự an nguy của người sở hữu.
+Xuân biết, mình dù sao cũng không hoàn toàn là ""Hoa Nữ"", cũng không định trở thành bản thân trong quá khứ. Giờ đây sẽ không luôn kề cận như ngày xưa nữa - nhưng thế thì đã sao? Cô và {PlayerName} đều sẽ làm những việc khiến bản thân vui vẻ.
+Đối với cô, đây chính là điểm neo duy nhất trong sự vô nghĩa vĩnh hằng."
+lang_multi_text.db,MultiText,FavorGoods_160302_Title,频谱手链,Spectrum Bracelet,Vòng Tay Tần Phổ
+lang_multi_text.db,MultiText,FavorGoods_160303_Content,"献给那个人的花。
+首领也好，<te href=850111>调律者</te>也罢，又或者是如今的漂泊者、<te href=850091>今州</te>英雄、指引者……其实椿从来无所谓{TA}的身份和责任。然而，她并不能、也不愿意让自己对人生的看法，代替对方的判断。
+那就让这朵不败的花，代替言语表达情感吧。
+千千万万次，为你盛放。","A flower dedicated to a certain person.
+Whether as a leader, a <te href=850111>Modulator</te>, or now as the Rover, the hero of <te href=850091>Jinzhou</te>, a guide… Camellya has never cared about {Male=his;Female=her} title or accompanying responsibilities. However, she knows she cannot, and indeed will not, let her own perspective on life color {Male=his;Female=her} judgment.
+So let this everlasting flower convey her feelings where mere words may fall short.
+""It only blooms for you, forever and always.""","Đóa hoa dành tặng cho người đó.
+Dù là Thủ lĩnh, hay <te href=850111>Người Điều Luật</te>, hoặc là Lữ Khách, anh hùng <te href=850091>Kim Châu</te>, người dẫn lối hiện tại... thực ra Xuân chưa bao giờ quan tâm đến thân phận và trách nhiệm của {TA}. Tuy nhiên, cô không thể, cũng không muốn để quan điểm về cuộc sống của mình thay thế cho phán đoán của đối phương.
+Vậy hãy để đóa hoa không tàn này, thay lời nói bày tỏ tình cảm nhé.
+Ngàn vạn lần, nở rộ vì người."
+lang_multi_text.db,MultiText,FavorGoods_160303_Title,一朵椿花,A Camellia,Một Đóa Hoa Xuân
+lang_multi_text.db,MultiText,FavorGoods_160601_Content,洛可可用自己收集的各种旧物重新改造出来的礼花装置。平时不常开口的她会为生活中的精彩瞬间或者伙伴们的妙语连珠而突然放花，为她喜欢的戏剧性瞬间增加应有的欢乐氛围。,"A confetti pistol crafted from recycled materials by Roccia. Despite her reserved nature, she never forgets to add a burst of confetti for those cheerful, dramatic moments in life—a little surprise, a quick-witted remark from a troupe member, and so on, each deserving its own small celebration.","Thiết bị bắn pháo giấy do Roccia cải tạo lại từ đủ loại đồ cũ mà cô thu thập được. Cô gái ngày thường ít nói sẽ bất ngờ bắn pháo hoa để ăn mừng những khoảnh khắc tuyệt vời trong cuộc sống hoặc những câu nói hay ho của đồng đội, tăng thêm bầu không khí vui vẻ xứng đáng cho những khoảnh khắc kịch tính mà cô yêu thích."
+lang_multi_text.db,MultiText,FavorGoods_160601_Title,便携式礼花道具,Portable Confetti Pistol,Đạo Cụ Pháo Giấy Cầm Tay
+lang_multi_text.db,MultiText,FavorGoods_160602_Content,救下洛可可的<te href=850122>佩洛</te>用箱子里丰富的戏剧和情感陪伴她长大。在它的照顾下，洛可可对戏剧的兴趣和佩洛逐渐趋同。他们是最好的伙伴，一起制作舞台道具、一起上台演出。渐渐地，佩洛也因为她出现了奇妙的变化，它那些凝聚了百年的情感变得更加柔和。佩洛给了洛可可生命、洛可可也给了佩洛生命。,"Ever since <te href=850122>Pero</te> saved Roccia, they've been close friends with a shared love for theater. Years of reading plays stored in Pero's box have shaped Roccia's taste for drama, just like how their time spent crafting props and performing together has deepened their bond. And for Pero, after a century of life, Roccia's presence has brought warmth to her world. They've given each other a second life, both becoming better versions of themselves.","<te href=850122>Pero</te>, người đã cứu Roccia, dùng những vở kịch và cảm xúc phong phú trong chiếc rương để cùng cô lớn lên. Dưới sự chăm sóc của nó, niềm yêu thích kịch nghệ của Roccia và Pero dần trở nên đồng điệu. Họ là những người bạn tốt nhất, cùng nhau làm đạo cụ sân khấu, cùng nhau lên sân khấu biểu diễn. Dần dần, Pero cũng vì cô mà xuất hiện những thay đổi kỳ diệu, những cảm xúc ngưng tụ trăm năm của nó trở nên dịu dàng hơn. Pero đã cho Roccia sự sống, Roccia cũng đã cho Pero sự sống."
+lang_multi_text.db,MultiText,FavorGoods_160602_Title,佩洛道具箱,Pero's Peculiar Box,Rương Đạo Cụ Của Pero
+lang_multi_text.db,MultiText,FavorGoods_160603_Content,海萤石蕴含着人们思想和情感的光辉，它们经由洛可可的手，在舞台布景上大放异彩。物品上的情绪经由戏剧再次传达给世人，物品上的思想经由戏剧再次焕发生机。洛可可认为，这样那些离去的人们仿佛还生动的在大家身边。,"A unique prop set crafted by Roccia, made from Luceanites that hold the emotions and memories of those long departed. When brought onto the stage, these lingering feelings glimmer within each line and monologue, casting a light that, as Roccia believes, allows their original keepers to shine once more.","Đá Hải Huỳnh quang chứa đựng ánh sáng của tư tưởng và tình cảm con người, qua bàn tay của Roccia, chúng tỏa sáng rực rỡ trên bối cảnh sân khấu. Cảm xúc trên đồ vật thông qua vở kịch được truyền tải lại cho người đời, tư tưởng trên đồ vật thông qua vở kịch lại bừng lên sức sống. Roccia cho rằng, như vậy những người đã khuất dường như vẫn còn sống động bên cạnh mọi người."
+lang_multi_text.db,MultiText,FavorGoods_160603_Title,海萤石舞台道具,Luceanite Prop Set,Đạo Cụ Sân Khấu Đá Hải Huỳnh Quang
+lang_multi_text.db,MultiText,FavorGoods_160701_Content,"坎特蕾拉随身携带的洋伞。
+伞盖形状圆润，宛如一只软嘟嘟的水母，长长的触手悠闲地随风飘荡。而支撑起“水母”的伞骨则由深海珊瑚打磨而成，弧度优美、光泽温润、材质坚硬无比。握柄处镶嵌着一颗蓝宝石，象征着<te href=850094>翡萨烈</te>家主威严的权力。
+
+坎特蕾拉不推崇暴力，但若是不得不动手……她会转动洋伞。霎时，伞面流光溢彩，美轮美奂的水母群从伞下涌出，翩飞成一片幻影之海。
+让敌人自愿坠入美丽危险的幻海——这是现任翡萨烈家主坎特蕾拉的立世之道。而这柄洋伞和它的主人一样，看似温柔似水，实则坚不可摧。","The parasol carried by Cantarella.
+
+Its round canopy resembles a soft, plump jellyfish with long, graceful tentacles that seem to float effortlessly in the air. The ribs of the parasol are crafted from deep-sea coral, meticulously shaped into perfect curves that gleam with a subtle glow, both beautifully delicate and unyieldingly strong. At the handle, a sapphire is embedded, a symbol of the unshakable authority of the family head.
+
+Violence has never been Cantarella's first choice, but when forced to defend herself, she merely spins her parasol, and in an instant, the canopy radiates brilliant light. From it, a mesmerizing swarm of jellyfish unfurls, drifting into a phantasmal sea of illusion.
+
+Drawing her enemies into this enchanting yet perilous sea of dreams is the signature art of Cantarella. Like its owner, the parasol may appear soft and fluid, yet when the need arises, it is always indestructible.","Chiếc ô Cantarella luôn mang theo bên mình.
+Tán ô tròn trịa, tựa như một con sứa mũm mĩm, những xúc tu dài thong thả đung đưa trong gió. Còn phần nan ô chống đỡ ""con sứa"" được mài từ san hô dưới biển sâu, độ cong tuyệt mỹ, trơn bóng ôn nhuận, chất liệu vô cùng cứng rắn. Cán ô có khảm một viên đá sapphire, tượng trưng cho quyền lực uy nghiêm của gia chủ <te href=850094>Fisalia</te>.
+
+Cantarella không tôn sùng bạo lực, nhưng nếu bắt buộc phải động thủ... cô sẽ xoay chiếc ô. Trong khoảnh khắc, mặt ô tỏa sáng rực rỡ, đàn sứa tuyệt đẹp tuôn ra từ dưới ô, bay lượn thành một biển ảo ảnh.
+Khiến kẻ địch tự nguyện rơi vào biển ảo giác xinh đẹp mà nguy hiểm - đây là đạo lý đối nhân xử thế của gia chủ Fisalia đương nhiệm, Cantarella. Và chiếc ô này cũng giống như chủ nhân của nó, thoạt nhìn dịu dàng như nước, thực ra kiên cố không thể phá vỡ."
+lang_multi_text.db,MultiText,FavorGoods_160701_Title,「珊瑚骨」洋伞,Coral Parasol,"Ô ""Xương San Hô"""
+lang_multi_text.db,MultiText,FavorGoods_160702_Content,"「海中女巫」坎特蕾拉用于熬制秘药的坩埚。
+瓶身镶嵌着一枚深邃的蓝宝石，这是属于坎特蕾拉的凭证。
+
+她经常会由着性子，随手丢进意想不到的“药材”——水母折断的触须，鱼儿脱落的鳞片，伤心之人的泪水，甚至还有萦绕耳畔的低语……
+不管她丢进什么，最后都能熬出一锅美梦。梦中的甘甜化开现实的咸苦，轻柔地安抚着身陷深渊的人们。","The cauldron used by Cantarella, the Sea Witch, for potion brewing. The sapphire adorned on it marks Cantarella's authority as the head of the Fisalias.
+
+She often allows her whims to guide her, carelessly tossing in unexpected ingredients, such as jellyfish tentacles, fish scales, tears from the heartbroken, and even the murmurs that linger in the air.
+
+Whatever she adds, the result is always a pot of sweet dreams that dissolves the bitterness of reality, gently soothing those lost in the abyss.","Chiếc vạc mà ""Phù Thủy Biển Cả"" Cantarella dùng để nấu thuốc bí truyền.
+Thân vạc khảm một viên đá sapphire sâu thẳm, đây là chứng nhận thuộc về Cantarella.
+
+Cô thường tùy hứng ném vào những ""dược liệu"" không ngờ tới - xúc tu đứt của sứa, vảy cá rụng, nước mắt của người đau khổ, thậm chí cả những lời thì thầm văng vẳng bên tai...
+Bất kể cô ném vào thứ gì, cuối cùng đều có thể nấu ra một nồi mộng đẹp. Vị ngọt ngào trong mơ hòa tan vị mặn đắng của hiện thực, nhẹ nhàng an ủi những người đang chìm trong vực thẳm."
+lang_multi_text.db,MultiText,FavorGoods_160702_Title,「美梦」坩埚,Cauldron of Sweet Dreams,"Vạc ""Mộng Đẹp"""
+lang_multi_text.db,MultiText,FavorGoods_160703_Content,"坎特蕾拉从不离身的秘药瓶。瓶身镶嵌着一枚深邃的蓝宝石，和她佩戴的饰品一样，都是<te href=850094>翡萨烈</te>家主的证明。瓶内存放着她精心调配的秘药，用于驱逐身体的疲惫，或者平息惊扰的梦魇。
+
+不过，自从你将她带离幽海，她已经很久没有梦魇了。
+如今，镶嵌着蓝宝石的秘药瓶中盛放着坎特蕾拉难得的真心与柔情——微光穿透深海，映照出隐现于汹涌浪潮之间的温柔呢喃……她将自己亲手托付给涉过暗潮、抵达海底的你。","Cantarella always carries this potion vial, adorned with a sapphire as bright as the one she wears as a mark of her authority. Inside, she keeps a special brew, one she carefully prepares to ease weariness and calm nightmares.
+
+However, ever since you brought her away from the Sea of Ghosts, the nightmares have ceased.
+
+Now, this vial is imbued with her rare sincerity and tenderness, like a soft light piercing the abyss, reflecting the gentle murmurs hidden in the rolling waves. It is now a symbol of the trust Cantarella has placed in you, the one who has navigated the dark tides and reached the depths for her.","Lọ thuốc bí truyền vật bất ly thân của Cantarella. Thân lọ khảm một viên đá sapphire sâu thẳm, giống như đồ trang sức cô đeo, đều là minh chứng của gia chủ <te href=850094>Fisalia</te>. Trong lọ chứa loại thuốc bí truyền do cô tỉ mỉ điều chế, dùng để xua tan mệt mỏi của cơ thể, hoặc xoa dịu những cơn ác mộng kinh hoàng.
+
+Tuy nhiên, kể từ khi bạn đưa cô rời khỏi Biển U Minh, đã lâu cô không còn gặp ác mộng nữa.
+Giờ đây, trong lọ thuốc khảm đá sapphire chứa đựng sự chân thành và dịu dàng hiếm có của Cantarella - ánh sáng vi mô xuyên qua biển sâu, phản chiếu những lời thì thầm dịu dàng ẩn hiện giữa những con sóng dữ dội... cô đã tự tay giao phó bản thân cho bạn, người đã vượt qua dòng chảy ngầm để đến đáy biển."
+lang_multi_text.db,MultiText,FavorGoods_160703_Title,秘药瓶,Potion Vial,Lọ Thuốc Bí Truyền
+lang_multi_text.db,MultiText,FavorGoods_160801_Content,她面色平静，双手之间却不停对一首首乐曲进行激越的变奏与夸张。摇摇欲坠的理性已被汹涌的情感彻底吞噬，一段段音符在她手中被撕得粉碎，又重新揉捏成凄惨诡异的模样。,"Her expression was calm, yet her hands waved with fervent, exaggerated motions, sweeping across one score after another. Reason teetered, then was torn, drowned beneath emotion's storm. Notes were shattered, then reborn, twisted into sound deformed.","Sắc mặt cô bình thản, nhưng đôi tay lại không ngừng biến tấu và phóng đại kịch liệt từng bản nhạc. Lý trí lung lay sắp đổ đã bị cảm xúc cuộn trào nuốt chửng hoàn toàn, từng đoạn nốt nhạc bị xé nát trong tay cô, rồi lại được nhào nặn thành hình thù thê thảm quỷ dị."
+lang_multi_text.db,MultiText,FavorGoods_160801_Title,自撰的乐谱,Phrolova's Music Sheet,Bản Nhạc Tự Soạn
+lang_multi_text.db,MultiText,FavorGoods_160802_Content,"她亲手接过了大家的礼物。她亲手埋葬了大家的骸骨。
+琴弦振动发出的是一声又一声的欢唱。她持弓走近的是一次又一次的死亡。","She was the one who received their gifts. She was the one who buried their remains.
+One by one, the strings sang their exalted cries. Cycle after cycle, her bow played through repeated demises.","Cô tự tay nhận lấy món quà của mọi người. Cô tự tay chôn cất hài cốt của mọi người.
+Dây đàn rung lên phát ra từng tiếng hoan ca. Cô cầm cung đàn bước đến gần từng cái chết."
+lang_multi_text.db,MultiText,FavorGoods_160802_Title,遗留的提琴,Phrolova's Violin,Cây Vĩ Cầm Để Lại
+lang_multi_text.db,MultiText,FavorGoods_160803_Content,"当她再一次拿着门票在音乐厅门口等候，她开始不知道自己等待的到底是什么。是那位能听懂乐曲的知音还是那条与自己目标相同的道路。
+直到等到听众全部进场，门外已无他人，这张票仍然在她手中。
+她想通了，都不是，她想等来的，是自己心中勾勒出的、实际上并不存在的，一根救命稻草。
+她不会再等了。","Once again, she stood before the music hall's entrance, with the ticket in her hand. She began to forget what exactly she was waiting for. The friend who understood her music? Or the path that shared a similar destination?
+The crowds thinned. The doors closed behind the last of the audience. Yet, the ticket remained in her grasp.
+Then came the clarity: she had waited for neither. She was only waiting for a small thread to hang on to. A lifeline she dreamed of.
+She would wait no longer.","Khi cô một lần nữa cầm vé đứng đợi ở cửa phòng hòa nhạc, cô bắt đầu không biết rốt cuộc mình đang đợi điều gì. Là người tri âm có thể hiểu được bản nhạc, hay là con đường cùng mục tiêu với mình.
+Cho đến khi khán giả đã vào hết, ngoài cửa không còn ai khác, tấm vé này vẫn nằm trong tay cô.
+Cô đã thông suốt rồi, đều không phải, thứ cô muốn chờ đợi, là một cọng rơm cứu mạng được phác họa trong lòng mình nhưng thực tế không hề tồn tại.
+Cô sẽ không đợi nữa."
+lang_multi_text.db,MultiText,FavorGoods_160803_Title,未送出的门票,Retained Concert Ticket,Tấm Vé Chưa Tặng
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_Birthday,1月20日,January 20th,20 tháng 1
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_CN,宋媛媛,Song Yuanyuan,Tống Viện Viện
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_Country,瑝珑,Huanglong,Hoàng Long
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_EN,Jennifer Armour,Jennifer Armour,Jennifer Armour
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_Influence,今州,Jinzhou,Kim Châu
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_Info,隶属于<te href=850091>今州</te>边庭的<te href=850124>令尹近卫</te>，散华。曾是带来灾难、可洞穿世间万物的修罗，如今将肆虐风雪化为守护的力量，成为了寡言的守护者。,"The <te href=850124>bodyguard</te> of <te href=850091>Jinzhou</te>'s <te href=850084>Magistrate</te>, known for having an icy personality.
+Once regarded as the Asura of Calamity, Sanhua is now a taciturn guardian. She has learned to maintain inner calmness amidst the chaotic frequencies, and the things that once frightened her now fuel her determination.","<te href=850124>Cận Vệ Lệnh Y Doãn</te> trực thuộc Biên Đình <te href=850091>Kim Châu</te>, Tán Hoa. Từng là Tu La mang đến tai họa, có thể nhìn thấu vạn vật thế gian, nay biến bão tuyết tàn phá thành sức mạnh bảo hộ, trở thành người bảo vệ ít lời."
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_JP,松田利冴,Matsuda Risae,Matsuda Risae
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_KO,Yu Yeong,Yu Yeong,Yu Yeong
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_Sex,女,Female,Nữ
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_TalentCertification,"波形检验图呈椭圆形波动，时域表示稳定，未见异常波形。检测结果判断为正常阶段，但存在<te href=850073>超频</te>风险。
+诊断结果：<te href=850073>超频</te>临界值较低，但稳定性高，<te href=850073>超频</te>风险较大。
+存在过往<te href=850073>超频</te>史，最高等级：中
+<te href=850073>超频</te>时对象长期处于临界值边缘，数次造成橙色警报二级暴雪气象，频率波动反应极高，无法控制频率能量外溢现象，曾引发暴雪灾害，但未造成人员伤亡，系列事件归档编号EX01521，定义为三级危害事件。
+诊断原因为<te href=850081>残象</te>频率侵蚀造成的对象感知混乱，引起频率波动，无法控制频率能量溢出。<te href=850073>超频</te>后遗症为频率侵蚀反应增强，左瞳由原灰色转为赤红。
+结合对象异能力表现与过往<te href=850073>超频</te>史判断，对象存在一定<te href=850073>超频</te>风险，建议密切关注对象心理状况及生理健康，进行定期检查及心理辅导。","The waveform graph for Resonator Sanhua displays elliptical fluctuations. The pattern of Time Domain is stable with no abnormal waveforms. Examination results are determined to be within normal parameters. However, Sanhua's risk of <te href=850073>Overclocking</te> persists.
+
+Resonant Criticality: Very stable. Yet constantly verges on the Criticality level. Risk of Overclocking remains high.
+
+Resonator Sanhua has a documented history of Overclocking. Maximum Overclock rating: Moderate.
+
+Sanhua's past Overclocks caused Level 2 blizzards due to her extended periods of verging on Resonance Criticality and extreme Frequency Fluctuation reactions. No civilian casualties were reported in these incidents. This series of events is currently documented under code EX01521, classified as Class 3 hazard events.
+
+Sanhua's frequency fluctuates due to erosion, causing energy outbursts and altered perception. Her Overclocking leads to quicker erosion spread and changes her left pupil from grey to red.
+
+Due to Resonator Sanhua's past Overclocking tendencies, close monitoring of her psychological and physical condition is advised. Routine counseling and examinations are required.","Biểu đồ kiểm tra dạng sóng dao động hình elip, miền thời gian ổn định, không thấy dạng sóng bất thường. Kết quả kiểm tra được đánh giá là giai đoạn bình thường, nhưng tồn tại nguy cơ <te href=850073>Vượt Tần</te>.
+Kết quả chẩn đoán: Giá trị tới hạn <te href=850073>Vượt Tần</te> thấp, nhưng độ ổn định cao, nguy cơ <te href=850073>Vượt Tần</te> khá lớn.
+Tồn tại lịch sử <te href=850073>Vượt Tần</te> trong quá khứ, cấp độ cao nhất: Trung bình
+Khi <te href=850073>Vượt Tần</te>, đối tượng thường xuyên ở ngưỡng tới hạn, nhiều lần gây ra hiện tượng bão tuyết cảnh báo cam cấp hai, phản ứng dao động tần số cực cao, không thể kiểm soát hiện tượng tràn năng lượng tần số, từng gây ra thảm họa bão tuyết nhưng không gây thương vong về người, loạt sự kiện được lưu trữ với mã số EX01521, định nghĩa là sự kiện nguy hại cấp ba.
+Nguyên nhân chẩn đoán là do tần số <te href=850081>Tàn Tượng</te> xâm thực gây rối loạn nhận thức của đối tượng, dẫn đến dao động tần số, không thể kiểm soát việc tràn năng lượng tần số. Di chứng <te href=850073>Vượt Tần</te> là phản ứng xâm thực tần số tăng mạnh, đồng tử trái chuyển từ màu xám sang đỏ thẫm.
+Kết hợp biểu hiện dị năng của đối tượng và lịch sử <te href=850073>Vượt Tần</te> trong quá khứ, phán đoán đối tượng tồn tại nguy cơ <te href=850073>Vượt Tần</te> nhất định, đề nghị quan tâm sát sao tình trạng tâm lý và sức khỏe sinh lý của đối tượng, tiến hành kiểm tra định kỳ và tư vấn tâm lý."
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_TalentDoc,"鉴定依据：【频谱检验报告RA2105-G】
+共鸣前主诉遭遇<te href=850080>海蚀</te>异象，天生眼球结构异常，无视力，在异象大雪中被<te href=850081>残象</te>侵蚀右眼频率，产生异常视觉，同时伴随异能觉醒。
+对象<te href=850072>声痕</te>位于右眼瞳孔，仅在使用共鸣能力时显现。据对象阐述及鉴定结果佐证，共鸣后部分体征产生异化，右瞳<te href=850072>声痕</te>处频率反应混沌无序，呈赤红色，该频率侵蚀反应持续蔓延中，该侵蚀反应具体表现为对象左瞳已由灰转红。
+对象拥有操纵风雪及异常视界的共鸣能力，气象剧烈程度与对象精神集中力呈正相关，结合主诉经历，初步判断其所观测到的视界与常人不同，能直接观测到事物频率。共鸣能力测试结论：频率观测准确率高达99.64%。
+共鸣频谱检验图与已知自然存在的风雪气象频率波动区间相接近；瞳孔局部共鸣频谱检验图结果与已知残象频率波动区间接近。测试均有较强谐振反应，无法完全确认其共鸣源。
+受试样本<te href=850067>拉贝尔曲线</te>不具收敛性，中段出现陡升变化，检测结果判断为<te href=850069>突变型共鸣者</te>。","Evaluation Basis: [Resonance Assessment 2105-G]
+
+Based on Resonator Sanhua's reports, Sanhua was born with abnormal eye structure resulting in blindness of both eyes. The later Tacet Discord encounter during a blizzard caused by <te href=850080>Waveworn Phenomenon</te> left frequency erosions to her right eye, leading to Sanhua's abnormal vision and the subsequent Awakening of Forte.
+
+Resonator Sanhua's <te href=850072>Tacet Mark</te> is located in her right pupil, only visible when she exerts her Forte. After analyzing Sanhua's testimonies and medical tests, we've pinpointed physical changes following her Awakening. These include a chaotic frequency reaction of her right pupil near the Tacet Mark, appearing red. The erosion is also advancing, evident in the color shift from grey to red in her left pupil.
+
+Sanhua has gained abnormal vision and control over snow through her Forte, its strength tied to her focus. After analyzing her explanations, our initial conclusion is that her sight differs from the norm, allowing her to perceive object frequencies directly. Frequency tests show 99.64% accuracy in her visualization.
+
+Sanhua's Resonance Spectrum Pattern is identical to that of the snow. Additionally, the spectrum patterns of her pupils are identical to the Frequency Fluctuation interval of known TDs. Both tests revealed strong Syntony reactions, and the exact cause of her Awakening remains unclear.
+
+Analysis of test samples has revealed a non-convergent <te href=850067>Rabelle's Curve</te> with a steep rise in its middle section. Therefore, Sanhua is classified as a <te href=850069>Mutant Resonator</te>.","Căn cứ giám định: [Báo cáo kiểm tra tần phổ RA2105-G]
+Trước khi cộng hưởng, đối tượng khai báo đã gặp phải dị tượng <te href=850080>Hải Thực</te>, cấu trúc nhãn cầu bẩm sinh bất thường, không có thị lực, trong cơn bão tuyết dị tượng bị <te href=850081>Tàn Tượng</te> xâm thực tần số mắt phải, sinh ra thị giác bất thường, đồng thời kèm theo thức tỉnh dị năng.
+<te href=850072>Vết Tích Tần Số</te> của đối tượng nằm ở đồng tử mắt phải, chỉ hiện ra khi sử dụng năng lực cộng hưởng. Theo lời kể của đối tượng và kết quả giám định chứng minh, sau khi cộng hưởng một phần cơ thể bị biến đổi, phản ứng tần số tại <te href=850072>Vết Tích Tần Số</te> mắt phải hỗn loạn vô trật tự, có màu đỏ thẫm, phản ứng xâm thực tần số này đang tiếp tục lan rộng, biểu hiện cụ thể của phản ứng xâm thực là đồng tử trái của đối tượng đã chuyển từ màu xám sang đỏ.
+Đối tượng sở hữu năng lực cộng hưởng điều khiển bão tuyết và thị giác bất thường, mức độ dữ dội của khí tượng tỷ lệ thuận với sự tập trung tinh thần của đối tượng, kết hợp với trải nghiệm được khai báo, bước đầu phán đoán thị giác mà cô quan sát được khác với người thường, có thể trực tiếp quan sát tần số của sự vật. Kết luận kiểm tra năng lực cộng hưởng: Độ chính xác quan sát tần số lên tới 99.64%.
+Biểu đồ tần phổ cộng hưởng gần với khoảng dao động tần số khí tượng bão tuyết tồn tại trong tự nhiên đã biết; kết quả biểu đồ tần phổ cộng hưởng cục bộ đồng tử gần với khoảng dao động tần số Tàn Tượng đã biết. Các thử nghiệm đều có phản ứng cộng hưởng mạnh, không thể xác nhận hoàn toàn nguồn cộng hưởng.
+Mẫu vật thử nghiệm có <te href=850067>Đường cong Rabelle</te> không hội tụ, đoạn giữa xuất hiện biến thiên tăng vọt, kết quả kiểm tra phán đoán là <te href=850069>Cộng Hưởng Giả Đột Biến</te>."
+lang_multi_text.db,MultiText,FavorRoleInfo_1102_TalentName,雪舞芳华,Snow Waltz,Tuyết Vũ Phương Hoa
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_Birthday,9月10日,September 10th,10 tháng 9
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_CN,陈婷婷,Chen TingTing,Trần Đình Đình
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_Country,瑝珑,Huanglong,Hoàng Long
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_EN,Samantha Dakin,Samantha Dakin,Samantha Dakin
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_Influence,今州,Jinzhou,Kim Châu
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_Info,"白芷，主攻<te href=850076>回音</te>声态的华胥研究员。
+未能实现的愿望以另一种形式伴她左右，赋予她疗愈生命的能力，也成为她穷极一生研究的课题。","Baizhi is a researcher in <te href=850076>Remnant</te> Ecoacoustics.
+Baizhi's once unfulfilled wish has now manifested as her loyal companion. The Remnant Creature You'tan is her source of healing powers, and a lifelong research focus.","Bạch Chỉ, nghiên cứu viên Hoa Tư chuyên về sinh thái âm thanh <te href=850076>Hồi Âm</te>.
+Nguyện vọng chưa thành hiện thực đã đồng hành cùng cô dưới một hình thức khác, ban cho cô năng lực chữa lành sinh mệnh, cũng trở thành đề tài cô nghiên cứu cả đời."
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_JP,濑户麻沙美,Seto Asami,Seto Asami
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_KO,Sung Ye Won,Sung Ye Won,Sung Ye Won
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_Sex,女,Female,Nữ
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_TalentCertification,"受试样本波形检测图呈椭圆形波动，时域表示稳定，未见任何异常波动倾向。检测结果判断为正常阶段。
+当前<te href=850073>超频</te>临界值高，稳定性高，无<te href=850073>超频</te>风险。
+无过往<te href=850073>超频</te>史。
+无需心理辅导，但因对象异能与<te href=850076>回音</te>生物关系密切，需定期对<te href=850076>回音</te>生物的状态进行检测。","The waveform graph of Baizhi illustrates an elliptical fluctuation with a stable Time Domain. No abnormal parameters are observed in the test sample.
+Resonant Criticality: High. Resonator Baizhi's frequency displays high stability with currently no risk of <te href=850073>Overclocking</te>.
+Baizhi has no documented history of Overclocking which reduces the necessity for counseling. Due to the strong bond between Baizhi and her <te href=850076>Remnant</te> Creature, regular examinations on the Remnant Creature's status are recommended to mitigate any potential latent risks.","Biểu đồ kiểm tra dạng sóng mẫu vật thử nghiệm dao động hình elip, miền thời gian ổn định, không thấy bất kỳ xu hướng dao động bất thường nào. Kết quả kiểm tra được đánh giá là giai đoạn bình thường.
+Hiện tại giá trị tới hạn <te href=850073>Vượt Tần</te> cao, độ ổn định cao, không có nguy cơ <te href=850073>Vượt Tần</te>.
+Không có lịch sử <te href=850073>Vượt Tần</te> trong quá khứ.
+Không cần tư vấn tâm lý, nhưng do dị năng của đối tượng có quan hệ mật thiết với sinh vật <te href=850076>Hồi Âm</te>, cần định kỳ kiểm tra trạng thái của sinh vật <te href=850076>Hồi Âm</te>."
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_TalentDoc,"鉴定依据：【频谱检验报告RA2190-G】
+共鸣史4年，但于异能觉醒前1年曾接触高强度<te href=850076>回音</te>能量，并致使对应<te href=850076>回音</te>频段显形。主诉觉醒异能时，处在使队友复生的强烈渴望中，因主诉接触而显形的<te href=850076>回音</te>频段，以<te href=850076>回音</te>生物的形态回应主诉渴望，常伴其左右。
+对象<te href=850072>声痕</te>位于右腿大腿前侧，共鸣后未出现明显体征变化，但使用共鸣能力时，对象<te href=850072>声痕</te>会散发莹白色微光，身侧必定伴随出现上述<te href=850076>回音</te>生物。此<te href=850076>回音</te>生物通体莹白形若昙花，不能人言，但能与主诉以精神感应的方式沟通。
+对象无法直接使用异能，但可借助临近极限的低温和<te href=850076>回音</te>生物治疗伤势、回复生命。
+共鸣频谱检验图未见已知相近频率，但与已发现的<te href=850076>回音</te>能量波动规律相同，与名为“<te href=850140>忧昙</te>”的<te href=850076>回音</te>生物存在强谐振反应，但缺乏充足理论支撑，无法确认其共鸣源。
+受试样本<te href=850067>拉贝尔曲线</te>不具收敛性，且出现初段缓慢积蓄和中段陡升的二度变化，检测结果判断为存在潜伏期的<te href=850069>突变型共鸣者</te>。","Evaluation Basis: [Resonance Assessment 2190-G]
+
+Resonator Baizhi experienced her Awakening four years ago, after being exposed to a strong <te href=850076>Remnant Energy</te> source one year prior. This exposure caused the activation of the corresponding Remnant frequencies within her. According to Baizhi's recounts, she experienced a strong urge to revive a teammate during her Awakening. As a result, the aforementioned frequencies manifested as a Remnant Creature that now serves as her companion.
+
+Resonator Baizhi's <te href=850072>Tacet Mark</te> is located on the anterior side of her right thigh. No significant physical alterations after Awakening have been observed. 
+
+However, when exerting her Forte, the Tacet Mark emits a faint white glow with the advent of the above Remnant Creature. The creature is translucent white in color and resembles the petals of Epiphyllum. It is unable to vocalize in human language, but can communicate with Baizhi through telepathy.
+
+Resonator Baizhi cannot directly utilize her Forte, but she can leverage the extremely low temperature and her Remnant Creature's healing abilities to treat injuries in her vicinity.
+
+Resonator Baizhi's Resonance Spectrum Pattern does not resemble any known frequencies. However, it shows a certain level of similarity with the fluctuations of Remnant Energy, and it possesses a strong Syntony Response with ""<te href=850140>You'tan</te>,"" her Remnant Creature. Despite these connections, the cause of Baizhi's Awakening remains unclear without adequate theoretical evidence.
+
+Analysis of test samples has revealed a non-convergent <te href=850067>Rabelle's Curve</te> with a gradual increase followed by a steep rise in its middle section. Resonator Baizhi is thus classified as a <te href=850069>Mutant Resonator</te> with a Dormant Period.","Cơ sở giám định: [Báo Cáo Kiểm Nghiệm Tần Phổ RA2190-G]
+Lịch sử cộng hưởng 4 năm. Tuy nhiên, 1 năm trước khi thức tỉnh dị năng, đối tượng từng tiếp xúc với năng lượng <te href=850076>Hồi Âm</te> cường độ cao, khiến dải tần <te href=850076>Hồi Âm</te> tương ứng hiển hiện. Theo lời kể, khi thức tỉnh dị năng, đối tượng đang trong trạng thái khát khao mãnh liệt muốn hồi sinh đồng đội. Dải tần <te href=850076>Hồi Âm</te> hiển hiện do sự tiếp xúc nói trên đã đáp lại khát vọng này dưới dạng sinh vật <te href=850076>Hồi Âm</te>, và thường xuyên xuất hiện bên cạnh đối tượng.
+<te href=850072>Thanh Ngân</te> của đối tượng nằm ở mặt trước đùi phải, sau khi cộng hưởng không xuất hiện biến đổi thể chất rõ rệt. Tuy nhiên, khi sử dụng năng lực cộng hưởng, <te href=850072>Thanh Ngân</te> sẽ tỏa ra ánh sáng trắng nhạt, đồng thời sinh vật <te href=850076>Hồi Âm</te> nói trên chắc chắn sẽ xuất hiện bên cạnh. Sinh vật <te href=850076>Hồi Âm</te> này toàn thân trắng muốt, hình dáng tựa hoa quỳnh, không biết nói tiếng người nhưng có thể giao tiếp với đối tượng qua cảm ứng tinh thần.
+Đối tượng không thể trực tiếp sử dụng dị năng, nhưng có thể mượn nhiệt độ thấp gần mức giới hạn và sinh vật <te href=850076>Hồi Âm</te> để trị liệu vết thương, hồi phục sinh mệnh.
+Biểu đồ kiểm nghiệm tần phổ cộng hưởng không thấy tần số tương cận đã biết, nhưng có quy luật dao động giống với năng lượng <te href=850076>Hồi Âm</te> đã phát hiện, và có phản ứng cộng hưởng mạnh với sinh vật <te href=850076>Hồi Âm</te> tên là ""<te href=850140>Ưu Đàm</te>"". Tuy nhiên, do thiếu cơ sở lý thuyết đầy đủ nên không thể xác nhận nguồn cộng hưởng.
+<te href=850067>Đường Cong Rabelle</te> của mẫu thử nghiệm không có tính hội tụ, đồng thời xuất hiện biến đổi tích tụ chậm ở giai đoạn đầu và tăng vọt ở giai đoạn giữa. Kết quả kiểm tra xác định là <te href=850069>Cộng Hưởng Giả Đột Biến</te> có thời gian ủ bệnh."
+lang_multi_text.db,MultiText,FavorRoleInfo_1103_TalentName,忧昙愈生,Healing You'tan,Ưu Đàm Chữa Lành
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_Birthday,8月8日,August 8th,Ngày 8 tháng 8
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_CN,锦鲤,Lucky Fish,Cẩm Lý
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_Country,瑝珑,Huanglong,Hoàng Long
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_EN,Aleksander Varadian,Aleksander Varadian,Aleksander Varadian
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_Influence,今州,Jinzhou,Kim Châu
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_Info,<te href=850091>今州</te><te href=850130>瑞狮团</te>成员，善良灵性的异族来客。热情开朗，勇敢正直，对人类抱有强烈的兴趣。拥有极强的体能与力量，始终在以自己的方式诠释着“<te href=850131>狮子舞</te>”的含义。,"An enthusiastic, brave member of the <te href=850130>Liondance Troupe</te> in <te href=850091>Jinzhou</te>, Lingyang is a sincere, compassionate visitor of the human community with incredible physical abilities, whose interest in humans easily shows. With his unique style, he embodies the spirit of <te href=850131>Liondance</te>.","Thành viên <te href=850130>Đoàn Múa Lân</te> <te href=850091>Kim Châu</te>, một vị khách từ tộc khác lương thiện và đầy linh tính. Nhiệt tình vui vẻ, dũng cảm chính trực, cậu dành sự quan tâm đặc biệt đối với con người. Sở hữu thể lực và sức mạnh cực tốt, cậu luôn diễn giải ý nghĩa của ""<te href=850131>Múa Lân</te>"" theo cách riêng của mình."
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_JP,花江夏树,Hanae Natsuki,Hanae Natsuki
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_KO,Lee Sang Ho,Lee Sang Ho,Lee Sang Ho
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_Sex,男,Male,Nam
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_TalentCertification,"受试样本波形检测图呈椭圆形波动，时域表示规律，上下峰值稳定，未见异常波形。
+诊断结果：<te href=850073>超频</te>临界值较高，稳定性极好，超频风险极低。
+未检测到过往超频史。
+经测试，对象对自身异能具有良好的控制能力，情绪状态稳定，因而共鸣能力发动时，其共鸣能力形成的低温领域内的“意志传递”主要体现为对友方单位的“鼓舞”。团体行动时对象整体超频风险会进一步降低。
+建议维持较低风险评估等级，定期观察即可。","Resonator Lingyang's waveform graph shows elliptical fluctuations. The pattern of Time Domain is regular with stable peak values, and no abnormal waveforms are observed.
+Resonant Criticality: Very stable. Resonator Lingyang possesses a rather high Criticality level. The risk of <te href=850073>Overclocking</te> is very low.
+Resonator Lingyang has no past record of Overclocking. He displays proficient control over his Forte, consistently maintaining emotional stability. When utilizing his ability, known as ""Will Transmission,"" the low-temperature field generated primarily benefits Lingyang's allies. In group situations, this reduces the overall Overclocking risk for Lingyang. It is recommended to keep Lingyang's risk level low and regularly monitor his progress. Further observation is advised.","Biểu đồ kiểm tra dạng sóng của mẫu thử nghiệm cho thấy dao động hình elip, miền thời gian biểu thị quy luật, giá trị đỉnh trên dưới ổn định, không thấy dạng sóng bất thường.
+Kết quả chẩn đoán: Giá trị tới hạn <te href=850073>Vượt Tần</te> khá cao, tính ổn định cực tốt, rủi ro Vượt Tần cực thấp.
+Không phát hiện lịch sử Vượt Tần trong quá khứ.
+Qua kiểm tra, đối tượng có khả năng kiểm soát tốt dị năng của bản thân, trạng thái cảm xúc ổn định. Do đó khi phát động năng lực cộng hưởng, ""truyền tải ý chí"" trong vùng nhiệt độ thấp do năng lực cộng hưởng tạo ra chủ yếu thể hiện dưới dạng ""cổ vũ"" cho đơn vị đồng minh. Khi hành động theo nhóm, rủi ro Vượt Tần tổng thể của đối tượng sẽ giảm thêm.
+Đề nghị duy trì mức đánh giá rủi ro thấp, chỉ cần quan sát định kỳ."
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_TalentDoc,"鉴定依据：【频谱检验报告RA1888-G】
+主诉年龄不详，异能觉醒时间不详，有长期共鸣史，曾长期处于严寒的野外环境之中，异能可能为此时期内于对抗性战斗中自然觉醒。
+对象<te href=850072>声痕</te>位于右臂，共鸣后并未产生体征异化。
+对象本身具有极强的体能与力量，曾经历多样的极端生存环境，具有一定的战斗与生存经验，技巧与机动性极佳。对象无长期共鸣力使用习惯，缺乏共鸣能力使用经验，多数情况仅依靠自身力量进行战斗。需针对该情况评估是否需要对对象进行合理引导。
+共鸣能力作用下，对象感官会变得更加敏锐，战斗时可在自身周围一定范围内生成不可见的寒冷斗气与低温气场，对周围敌人施与一定的威压。同时对象能够将自身的意志传递给共鸣能力生效范围内的其他人，激发并感染他人的情绪。
+暂未发现与该对象相似的共鸣频谱检测图，无法确认其共鸣源。
+受试样本<te href=850067>拉贝尔曲线</te>不具收敛性，整体呈缓慢上升态，检测结果判断为<te href=850070>自然型共鸣者</te>。
+
+<i>“啊？所以这幅'兽化'的模样，原来不是共鸣能力造成的啊？那他原本究竟是……”</i>","Evaluation Basis: [Resonance Assessment 1888-G]
+Resonator Lingyang's age and time of Awakening remain uncertain, and he appears to have Awakened a long time ago. Lingyang has endured prolonged exposure to harsh environmental conditions and may have naturally activated his Forte during combat.
+
+Lingyang bears a <te href=850072>Tacet Mark</te> on his right arm. No Post-Awakening mutations have been noted.
+
+His physical endurance and strength are exceptional, likely due to his exposure to extreme environments. He displays advanced skills and agility in combat and survival, but lacks experience utilizing his Forte as it is not habitually used. Further evaluation is necessary to determine if proper guidance in Forte usage is needed.
+
+Under the influence of his Forte, Lingyang's senses are heightened and he can generate an invisible freezing Gusto within a limited area. This also creates a low-temperature field that exerts pressure on nearby enemies. Additionally, Lingyang can influence and motivate the emotions of those near him through his transmitted will.
+
+No instances of Resonance Spectrum Patterns similar to Lingyang's have been encountered. The cause of his Awakening remains unknown at this time.
+
+Analysis of test samples has revealed a non-convergent <te href=850067>Rabelle's Curve</te> with a gradual rise. Therefore, Lingyang is identified as a <te href=850070>Natural Resonator</te>.
+
+<i>""What? So his 'beast-like' appearance wasn't a result of his Forte? What exactly is this...""</i>","Cơ sở giám định: [Báo Cáo Kiểm Nghiệm Tần Phổ RA1888-G]
+Tuổi tác không rõ, thời gian thức tỉnh dị năng không rõ, có lịch sử cộng hưởng lâu dài, từng sống trong môi trường hoang dã giá lạnh trong thời gian dài, dị năng có thể đã thức tỉnh tự nhiên trong các trận chiến đối kháng vào thời kỳ này.
+<te href=850072>Thanh Ngân</te> của đối tượng nằm ở cánh tay phải, sau khi cộng hưởng không nảy sinh dị hóa thể chất.
+Bản thân đối tượng có thể lực và sức mạnh cực tốt, từng trải qua nhiều môi trường sinh tồn khắc nghiệt, có kinh nghiệm chiến đấu và sinh tồn nhất định, kỹ thuật và tính cơ động cực tốt. Đối tượng không có thói quen sử dụng lực cộng hưởng lâu dài, thiếu kinh nghiệm sử dụng năng lực cộng hưởng, đa số trường hợp chỉ dựa vào sức mạnh bản thân để chiến đấu. Cần đánh giá xem có cần hướng dẫn hợp lý cho đối tượng dựa trên tình hình này hay không.
+Dưới tác dụng của năng lực cộng hưởng, giác quan của đối tượng trở nên nhạy bén hơn, khi chiến đấu có thể tạo ra đấu khí lạnh lẽo vô hình và trường khí nhiệt độ thấp trong phạm vi nhất định xung quanh bản thân, gây áp lực nhất định lên kẻ địch xung quanh. Đồng thời, đối tượng có thể truyền tải ý chí của bản thân cho người khác trong phạm vi hiệu lực của năng lực cộng hưởng, kích thích và lan truyền cảm xúc sang người khác.
+Tạm thời chưa phát hiện biểu đồ kiểm tra tần phổ cộng hưởng tương tự với đối tượng này, không thể xác nhận nguồn cộng hưởng.
+<te href=850067>Đường Cong Rabelle</te> của mẫu thử nghiệm không có tính hội tụ, tổng thể có xu hướng tăng chậm, kết quả kiểm tra xác định là <te href=850070>Cộng Hưởng Giả Tự Nhiên</te>.
+
+<i>""Hả? Vậy ra dáng vẻ 'thú hóa' này không phải do năng lực cộng hưởng gây ra sao? Thế rốt cuộc cậu ta là...""</i>"
+lang_multi_text.db,MultiText,FavorRoleInfo_1104_TalentName,凛冽斗气,Frosty Gusto,Đấu Khí Lạnh Giá
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_Birthday,12月31日,December 31,Ngày 31 tháng 12
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_CN,苗子,Miao Zi,Miêu Tử
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_Country,瑝珑,Huanglong,Hoàng Long
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_EN,Shin-Fei Chen,Shin-Fei Chen,Shin-Fei Chen
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_Influence,今州,Jinzhou,Kim Châu
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_Info,鬻画维生的委托画师，忧思敏感，不善言辞，所思所想皆寄寓于画，笔下万物可幻化而出，惟妙惟肖。,"An artist for hire trying to make a living. Reserved and timid, she is not good with words but speaks volumes through her art, where her creations come to life with impossible authenticity.","Một họa sĩ nhận vẽ tranh ủy thác để kiếm sống, tính tình nhạy cảm hay lo nghĩ, không giỏi ăn nói. Mọi tâm tư suy nghĩ đều gửi gắm vào tranh, vạn vật dưới ngòi bút cô đều có thể biến ảo hiện ra, sống động như thật."
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_JP,牧野由依,Makino Yui,Makino Yui
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_KO,Kim Ha Ru,Kim Ha Ru,Kim Ha Ru
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_Sex,女,Female,Nữ
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_TalentCertification,"受试样本拉贝尔波形时域表示规律，有短暂异常波动倾向出现，但长期检测结果时域仍较为稳定，检测结果判断为正常。当前<te href=850073>超频</te>临界值正常，稳定性偏低，超频概率偏高，存在潜在超频风险。
+无过往超频史。
+建议定期检查并接受心理辅导。","Resonator Zhezhi's waveform graph shows a regular pattern with brief abnormal fluctuations. Long-term monitoring of her Time Domain indicates that the waveforms remain stable. Examination results are within normal parameters.
+
+Resonant Criticality: Normal. However, Zhezhi's frequency displays low stability with a high risk of <te href=850073>Overclocking</te>.
+
+Records indicate no history of Overclocking.
+
+Routine examinations and psychological counseling are advised.","Miền thời gian dạng sóng Rabelle của mẫu thử nghiệm biểu thị quy luật, có xu hướng xuất hiện dao động bất thường ngắn ngủi, nhưng kết quả kiểm tra dài hạn cho thấy miền thời gian vẫn khá ổn định, kết quả kiểm tra được đánh giá là bình thường. Giá trị tới hạn <te href=850073>Vượt Tần</te> hiện tại bình thường, tính ổn định hơi thấp, xác suất Vượt Tần hơi cao, tồn tại rủi ro Vượt Tần tiềm ẩn.
+Không có lịch sử Vượt Tần trong quá khứ.
+Đề nghị kiểm tra định kỳ và tiếp nhận tư vấn tâm lý."
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_TalentDoc,"鉴定依据：【频谱检验报告RA1231-G】
+对象无明确共鸣时间，幼年时期的画作已有“活化”征兆，后在绘画练习中逐渐提升对能力的掌控。
+对象<te href=850072>声痕</te>位于右手，共鸣后体征未发生明显变化。
+经测试，对象可以“活化”自己绘制的图像，并对旁观者视觉造成影响，干扰旁观者判断（对正常生物、<te href=850081>残象</te>皆有效）。“活化”共有两种程度，轻度仅能造成纸上图像在二维平面上轻微移动；重度为画出的图像可以在三维空间中仿真立体形态并留存下来。两种程度“活化”出的对象皆为幻象，非正常实物。本场测试中，幻象最大覆盖范围达到274.5平方米，最长持续时长30分28秒，未能检测出稳定的区间值。
+暂未发现与该对象相似的共鸣频谱检测图，暂时无法确认共鸣源。
+受试样本<te href=850067>拉贝尔曲线</te>波动规律、具有显著周期性特征，检测结果判断为<te href=850068>先天型共鸣者</te>。","Evaluation Basis: [Resonance Assessment 1231-G]
+
+The exact timing of Resonator Zhezhi's Awakening is unclear. Signs of ""animation"" appeared in her childhood drawings, and her Forte control improved alongside her painting skills.
+
+Resonator Zhezhi's <te href=850072>Tacet Mark</te> is located on the back of her right hand. Post-Awakening observations have not found any significant physical changes. Testing shows Zhezhi can ""animate"" her paintings, affecting observers' visual perception and judgment (effective on both living organisms and <te href=850081>Tacet Discords</te>).
+ 
+""Animation"" has two levels:
+Moderate: Causes slight movements in two-dimensional images.
+Severe: Simulates three-dimensional volumetric forms, lasting up to 30 minutes and 28 seconds, covering up to 274.5 square meters.
+
+Both levels produce illusions, not actual objects. No stable interval detected.
+
+No similar Resonance Spectrum Pattern identified, and the cause of Zhezhi's Awakening remains unclear.
+Additionally, analysis of test samples show a <te href=850067>Rabelle's Curve</te> with a noticeable periodic waveform. Therefore, Zhezhi is identified as a <te href=850068>Congenital Resonator</te>.","Cơ sở giám định: [Báo Cáo Kiểm Nghiệm Tần Phổ RA1231-G]
+Đối tượng không có thời gian cộng hưởng xác định, tranh vẽ thời thơ ấu đã có dấu hiệu ""hóa thực"", sau đó dần nâng cao khả năng kiểm soát năng lực qua quá trình luyện tập hội họa.
+<te href=850072>Thanh Ngân</te> của đối tượng nằm ở tay phải, thể chất không có biến đổi rõ rệt sau khi cộng hưởng.
+Qua kiểm tra, đối tượng có thể ""hóa thực"" hình ảnh mình vẽ ra, gây ảnh hưởng đến thị giác của người xem, làm nhiễu loạn phán đoán của họ (có hiệu quả với cả sinh vật bình thường và <te href=850081>Tàn Tượng</te>). ""Hóa thực"" có hai cấp độ: cấp độ nhẹ chỉ làm hình ảnh trên giấy di chuyển nhẹ trên mặt phẳng hai chiều; cấp độ nặng là hình ảnh vẽ ra có thể mô phỏng hình thái lập thể trong không gian ba chiều và lưu lại. Đối tượng được ""hóa thực"" ở cả hai cấp độ đều là ảo ảnh, không phải thực thể bình thường. Trong lần kiểm tra này, phạm vi bao phủ lớn nhất của ảo ảnh đạt 274.5 mét vuông, thời gian duy trì lâu nhất là 30 phút 28 giây, chưa thể đo được giá trị khoảng ổn định.
+Tạm thời chưa phát hiện biểu đồ kiểm tra tần phổ cộng hưởng tương tự với đối tượng này, tạm thời không thể xác nhận nguồn cộng hưởng.
+Quy luật dao động <te href=850067>Đường Cong Rabelle</te> của mẫu thử nghiệm có đặc trưng chu kỳ rõ rệt, kết quả kiểm tra xác định là <te href=850068>Cộng Hưởng Giả Bẩm Sinh</te>."
+lang_multi_text.db,MultiText,FavorRoleInfo_1105_TalentName,笔落春风,Enchanted Brush,Bút Họa Xuân Phong
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_Birthday,10月13日,October 13,Ngày 13 tháng 10
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_CN,刘一蕾,Liu YiLei,Lưu Nhất Lôi
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_Country,瑝珑,Huanglong,Hoàng Long
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_EN,Leonora Haig,Leonora Haig,Leonora Haig
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_Influence,重州,Chongzhou,Trọng Châu
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_Info,"伶牙俐齿、古灵精怪的鉴宝师。
+能随口作出打油诗，把鉴宝结论说得妙趣横生、头头是道。为让古物流向珍爱它们的人，正在街头摆摊鉴宝。","A voluble and whimsical antique appraiser.
+Known for creating limericks on the spot, she presents her appraisals with flair and precision. She sets up a stall on the street, ensuring antiques find their way to those who truly cherish them.","Một chuyên gia thẩm định bảo vật lém lỉnh, tinh quái và khéo ăn nói.
+Cô bé có thể tùy miệng ngâm thơ con cóc, biến kết luận thẩm định thành những lời thú vị và đầy thuyết phục. Để cổ vật đến được tay những người trân trọng chúng, cô bé đang mở sạp thẩm định bảo vật ngay trên phố."
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_JP,富田美忧,Tomita Miyu,Tomita Miyu
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_KO,Park Si Yoon,Park Si Yoon,Park Si Yoon
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_Sex,女,Female,Nữ
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_TalentCertification,"受试样本波形检验呈现单次非周期性矩形脉冲波动，峰值维持一定时间，后续平稳下降，当前规律性正弦形波动，上下峰值较低，波形清晰。
+诊断结果：当前<te href=850073>超频</te>临界值较高，稳定性较高，超频风险较小。
+无过往超频史。
+建议按时进行定期检查，暂无需心理辅导。","The waveform graph for Resonator Youhu shows a non-periodic rectangular pulse fluctuation for once, with sustained peak values during specific time intervals before a gradual decrease. These waveforms currently display clear sinusoidal fluctuations. Both the upper and lower peak values are low.
+
+Resonant Criticality: Relatively high. Resonator Youhu's frequency displays high stability with a low risk of <te href=850073>Overclocking</te>.
+
+Regular physical check-ups are recommended, while psychological counseling is currently deemed unnecessary.","Kiểm tra dạng sóng của mẫu thử nghiệm cho thấy dao động xung hình chữ nhật không tuần hoàn đơn lẻ, giá trị đỉnh duy trì trong một khoảng thời gian nhất định, sau đó giảm dần ổn định. Hiện tại dao động hình sin có quy luật, giá trị đỉnh trên dưới thấp, dạng sóng rõ ràng.
+Kết quả chẩn đoán: Giá trị tới hạn <te href=850073>Vượt Tần</te> hiện tại khá cao, tính ổn định khá cao, rủi ro Vượt Tần khá nhỏ.
+Không có lịch sử Vượt Tần trong quá khứ.
+Đề nghị kiểm tra định kỳ đúng hạn, tạm thời không cần tư vấn tâm lý."
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_TalentDoc,"鉴定依据：【频谱检验报告RA1013-G】
+自述儿童时期疑似有觉醒征兆，三年前觉醒异能，共鸣前后在严寒环境活动，身体处于失温症状。
+对象<te href=850072>声痕</te>位于左上臂，双臂前端出现冰花纹路，经检测温度低于0℃，质感未发现明显变化，有少量细微晶体颗粒触感。
+通过与古物频率共鸣，可凝冰造物，复刻古物的造型，因对象思维跳脱，配合度欠佳，具体数值尚无定论。
+共鸣频谱与已知如意环频率波动区间接近，测试有较强的谐振反应。
+受试者<te href=850067>拉贝尔曲线</te>图不具有收敛性，于中期出现陡升变化，检测结果判断为<te href=850069>突变型共鸣者</te>。","Evaluation Basis: [Resonance Assessment RA1013-G]
+
+Resonator Youhu's Awakening occurred three years prior, with early manifestations observed during childhood. The Awakening was accompanied by symptoms of hypothermia induced by prolonged exposure to low-temperature environments.
+
+Youhu's <te href=850072>Tacet Mark</te> is located on her upper left arm. Snowflake patterns have been observed on the forearms. Temperature readings indicate these patterns are below 0°C. The texture remains largely unchanged, though a slight presence of micro-crystalline particles has been detected upon tactile examination.
+
+Youhu demonstrates the ability to replicate antiques using ice, achieved through resonation with the frequencies of said objects. However, detailed data collection has been hindered by the subject's unpredictable and uncooperative nature.
+
+Youhu's Resonance Spectrum closely aligns with that of the Ruyi Ring, indicating strong Syntony reactions. 
+
+Analysis of test samples has revealed a non-convergent <te href=850067>Rabelle's Curve</te> with a steep rise in its middle section. Therefore, Youhu is classified as a <te href=850069>Mutant Resonator</te>.","Cơ sở giám định: [Báo Cáo Kiểm Nghiệm Tần Phổ RA1013-G]
+Theo lời kể, thời thơ ấu nghi ngờ có dấu hiệu thức tỉnh, ba năm trước đã thức tỉnh dị năng. Trước và sau khi cộng hưởng đều hoạt động trong môi trường giá lạnh, cơ thể ở trong tình trạng mất nhiệt.
+<te href=850072>Thanh Ngân</te> của đối tượng nằm ở cánh tay trên bên trái, phần trước hai cánh tay xuất hiện hoa văn băng tuyết, qua kiểm tra nhiệt độ thấp hơn 0°C, chất cảm không thấy thay đổi rõ rệt, có cảm giác chạm vào một lượng nhỏ hạt tinh thể li ti.
+Thông qua cộng hưởng với tần số của cổ vật, có thể ngưng tụ băng tạo hình, sao chép lại hình dáng của cổ vật. Do tư duy của đối tượng hay nhảy cóc, độ phối hợp kém, nên chưa có kết luận về các chỉ số cụ thể.
+Tần phổ cộng hưởng gần với khoảng dao động tần số của Như Ý Hoàn đã biết, kiểm tra cho thấy phản ứng cộng hưởng khá mạnh.
+Biểu đồ <te href=850067>Đường Cong Rabelle</te> của người thử nghiệm không có tính hội tụ, xuất hiện biến đổi tăng vọt ở giai đoạn giữa, kết quả kiểm tra xác định là <te href=850069>Cộng Hưởng Giả Đột Biến</te>."
+lang_multi_text.db,MultiText,FavorRoleInfo_1106_TalentName,凝冰造物,Cryogenic Wonders,Ngưng Băng Tạo Vật
+lang_multi_text.db,MultiText,FavorRoleInfo_1107_Birthday,未知,Unknown,Không rõ
+lang_multi_text.db,MultiText,FavorRoleInfo_1107_CN,闫夜桥,Yan Yeqiao,Diêm Dạ Kiều
+lang_multi_text.db,MultiText,FavorRoleInfo_1107_Country,黎那汐塔,Ragunna,Ragunna
+lang_multi_text.db,MultiText,FavorRoleInfo_1107_EN,Jennifer English,Jennifer English,Jennifer English

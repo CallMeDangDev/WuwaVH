@@ -1,119 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,ElementalReaction_53_ReactionName,导电延奏,Electro Extension,Diễn Tấu Điện Từ
-lang_multi_text.db,MultiText,ElementalReaction_54_ReactionDescription,"触发协奏作用时，若两个角色的属性类型分别为<color=#46c3d4>气动</color>和<color=#d4bf5f>衍射</color>，则触发<color=#8c7e51>气动延奏</color>。
-产生短时间的大范围停滞效果，并且登场角色获得<color=#8c7e51>10</color>点共鸣能量。","When the Concerto Effect is triggered, the <color=#8c7e51>Aero Delay</color> is triggered if the two Character's attribute types are <color=#46c3d4>Aero</color> and <color=#d4bf5f>Spectro</color>, respectively.
-Produces a short, wide-area stasis effect and the debuting Character gains <color=#8c7e51>10</color> points of Resonance Energy.","Khi kích hoạt hiệu ứng Hiệp Tấu, nếu thuộc tính của hai nhân vật lần lượt là <color=#46c3d4>Khí Động</color> và <color=#d4bf5f>Quang Phổ</color>, sẽ kích hoạt <color=#8c7e51>Diễn Tấu Khí Động</color>.
-Tạo ra hiệu ứng ngưng trệ diện rộng trong thời gian ngắn, đồng thời nhân vật ra trận nhận được <color=#8c7e51>10</color> điểm Năng Lượng Cộng Hưởng."
-lang_multi_text.db,MultiText,ElementalReaction_54_ReactionName,气动延奏,Aero Extension,Diễn Tấu Khí Động
-lang_multi_text.db,MultiText,ElementalReaction_55_ReactionDescription,触发协奏作用时，若两个角色的属性类型同为<color=#d4bf5f>衍射</color>，则触发<color=#8c7e51>衍射齐奏</color>，对目标造成<color=#d4bf5f>衍射</color>伤害。,"When Concerto Effect is triggered, if both Characters have the same attribute type of <color=#d4bf5f>Spectro</color>, it triggers the <color=#8c7e51>Spectro flurry</color>, which deals <color=#d4bf5f> Spectro</color> damage.","Khi kích hoạt hiệu ứng Hiệp Tấu, nếu thuộc tính của hai nhân vật đều là <color=#d4bf5f>Quang Phổ</color>, sẽ kích hoạt <color=#8c7e51>Hòa Tấu Quang Phổ</color>, gây sát thương <color=#d4bf5f>Quang Phổ</color> cho mục tiêu."
-lang_multi_text.db,MultiText,ElementalReaction_55_ReactionName,衍射齐奏,Spectro Unison,Hòa Tấu Quang Phổ
-lang_multi_text.db,MultiText,ElementalReaction_61_ReactionDescription,"触发协奏作用时，若两个角色的属性类型分别为<color=#1891e7>冷凝</color>和<color=#7e1f57>湮灭</color>，则触发<color=#8c7e51>冷凝连奏</color>。
-登场角色共鸣技能造成的伤害提升<color=#8c7e51>20%</color>，持续<color=#8c7e51>15</color>秒。处于未登场状态时效果不会消失，并且共鸣技能造成的伤害额外提升<color=#8c7e51>20%</color>。","When the Concerto Effect is triggered, if the attribute types of the two Resonators are <color=#1891e7>Glacio</color> and <color=#7e1f57>Havoc</color> respectively, then the <color=#8c7e51>Glacio Continuum</color>.
-Damage dealt by the incoming Resonator's Resonance Skill is increased by <color=#8c7e51>20%</color> for <color=#8c7e51>15</color> seconds. The effect does not wear off while the Resonator's switched off, and the damage dealt by Resonance Skill is increased by an additional <color=#8c7e51>20%</color>.","Khi kích hoạt hiệu ứng Hiệp Tấu, nếu thuộc tính của hai nhân vật lần lượt là <color=#1891e7>Ngưng Băng</color> và <color=#7e1f57>Hủy Diệt</color>, sẽ kích hoạt <color=#8c7e51>Liên Tấu Ngưng Băng</color>.
-Sát thương Kỹ Năng Cộng Hưởng của nhân vật ra trận tăng <color=#8c7e51>20%</color>, kéo dài <color=#8c7e51>15</color> giây. Hiệu quả sẽ không biến mất khi ở trạng thái chưa ra trận, đồng thời sát thương Kỹ Năng Cộng Hưởng tăng thêm <color=#8c7e51>20%</color>."
-lang_multi_text.db,MultiText,ElementalReaction_61_ReactionName,冷凝连奏,Glacio continuo,Liên Tấu Ngưng Băng
-lang_multi_text.db,MultiText,ElementalReaction_62_ReactionDescription,"触发协奏作用时，若两个角色的属性类型分别为<color=#e15226>热熔</color>和<color=#7e1f57>湮灭</color>，则触发<color=#8c7e51>热熔连奏</color>。
-登场角色共鸣技能造成的伤害提升<color=#8c7e51>20%</color>，持续<color=#8c7e51>15</color>秒。处于未登场状态时效果不会消失，并且共鸣技能造成的伤害额外提升<color=#8c7e51>20%</color>。","When the Concerto Effect is triggered, if the attribute types of the two Resonators are <color=#e15226>Fusion</color> and <color=#7e1f57>Havoc</color> respectively, then the <color=#8c7e51>Fusion Continuum</color>.
-Damage dealt by the incoming Resonator's Resonance Skill is increased by <color=#8c7e51>20%</color> for <color=#8c7e51>15</color> seconds. The effect does not wear off while in the resonator's swithed, and the damage dealt by Resonance Skill is increased by an additional <color=#8c7e51>20%</color>.","Khi kích hoạt hiệu ứng Hiệp Tấu, nếu thuộc tính của hai nhân vật lần lượt là <color=#e15226>Hỏa Liệt</color> và <color=#7e1f57>Hủy Diệt</color>, sẽ kích hoạt <color=#8c7e51>Liên Tấu Hỏa Liệt</color>.
-Sát thương Kỹ Năng Cộng Hưởng của nhân vật ra trận tăng <color=#8c7e51>20%</color>, kéo dài <color=#8c7e51>15</color> giây. Hiệu quả sẽ không biến mất khi ở trạng thái chưa ra trận, đồng thời sát thương Kỹ Năng Cộng Hưởng tăng thêm <color=#8c7e51>20%</color>."
-lang_multi_text.db,MultiText,ElementalReaction_62_ReactionName,热熔连奏,Fusion Continuous,Liên Tấu Hỏa Liệt
-lang_multi_text.db,MultiText,ElementalReaction_63_ReactionDescription,"触发协奏作用时，若两个角色的属性类型分别为<color=#9656d8>导电</color>和<color=#7e1f57>湮灭</color>，则触发<color=#8c7e51>导电连奏</color>。
-登场角色共鸣技能造成的伤害提升<color=#8c7e51>20%</color>，持续<color=#8c7e51>15</color>秒。处于未登场状态时效果不会消失，并且共鸣技能造成的伤害额外提升<color=#8c7e51>20%</color>。","When the Concerto Effect is triggered, if the attribute types of the two Characters are <color=#9656d8>Electro</color> and <color=#7e1f57>Havoc</color> respectively, then the <color=#8c7e51>Electro continuum</color>.
-Damage dealt by the incoming Resonator's Resonance Skill is increased by <color=#8c7e51>20%</color> for <color=#8c7e51>15</color> seconds. The effect does not wear off while in an unregistered state, and the damage dealt by Resonance Skill is increased by an additional <color=#8c7e51>20%</color>.","Khi kích hoạt hiệu ứng Hiệp Tấu, nếu thuộc tính của hai nhân vật lần lượt là <color=#9656d8>Điện Từ</color> và <color=#7e1f57>Hủy Diệt</color>, sẽ kích hoạt <color=#8c7e51>Liên Tấu Điện Từ</color>.
-Sát thương Kỹ Năng Cộng Hưởng của nhân vật ra trận tăng <color=#8c7e51>20%</color>, kéo dài <color=#8c7e51>15</color> giây. Hiệu quả sẽ không biến mất khi ở trạng thái chưa ra trận, đồng thời sát thương Kỹ Năng Cộng Hưởng tăng thêm <color=#8c7e51>20%</color>."
-lang_multi_text.db,MultiText,ElementalReaction_63_ReactionName,导电连奏,Electro continuo,Liên Tấu Điện Từ
-lang_multi_text.db,MultiText,ElementalReaction_64_ReactionDescription,"触发协奏作用时，若两个角色的属性类型分别为<color=#46c3d4>气动</color>和<color=#7e1f57>湮灭</color>，则触发<color=#8c7e51>气动连奏</color>。
-登场角色共鸣技能造成的伤害提升<color=#8c7e51>20%</color>，持续<color=#8c7e51>15</color>秒。处于未登场状态时效果不会消失，并且共鸣技能造成的伤害额外提升<color=#8c7e51>20%</color>。","When the Concerto Effect is triggered, the <color=#8c7e51>Aero Consonance</color> is triggered if both Character's Attribute Types are <color=#46c3d4>Aero</color> and <color=#7e1f57>Havoc</color>, respectively.
-The damage dealt by the debut CharacterResonance Skill is increased by <color=#8c7e51>20%</color> for <color=#8c7e51>15</color> seconds. The effect does not wear off while in an unregistered state, and the damage dealt by Resonance Skill is increased by an additional <color=#8c7e51>20%</color>.","Khi kích hoạt hiệu ứng Hiệp Tấu, nếu thuộc tính của hai nhân vật lần lượt là <color=#46c3d4>Khí Động</color> và <color=#7e1f57>Hủy Diệt</color>, sẽ kích hoạt <color=#8c7e51>Liên Tấu Khí Động</color>.
-Sát thương Kỹ Năng Cộng Hưởng của nhân vật ra trận tăng <color=#8c7e51>20%</color>, kéo dài <color=#8c7e51>15</color> giây. Hiệu quả sẽ không biến mất khi ở trạng thái chưa ra trận, đồng thời sát thương Kỹ Năng Cộng Hưởng tăng thêm <color=#8c7e51>20%</color>."
-lang_multi_text.db,MultiText,ElementalReaction_64_ReactionName,气动连奏,Aero Continuous,Liên Tấu Khí Động
-lang_multi_text.db,MultiText,ElementalReaction_65_ReactionDescription,"触发协奏作用时，若两个角色的属性类型分别为<color=#d4bf5f>衍射</color>和<color=#7e1f57>湮灭</color>，则触发<color=#8c7e51>二相重奏</color>。
-全队造成的属性伤害提升<color=#8c7e51>20%</color>，持续<color=#8c7e51>12</color>秒。","When the Concerto Effect is triggered, if the attribute types of the two Characters are <color=#d4bf5f>Spectro</color> and <color=#7e1f57>Havoc</color>, it triggers the <color=#8c7e51>Diphase Replay</color>.
-Attribute damage dealt by the entire team is increased by <color=#8c7e51>20%</color> for <color=#8c7e51>12</color> seconds.","Khi kích hoạt hiệu ứng Hiệp Tấu, nếu thuộc tính của hai nhân vật lần lượt là <color=#d4bf5f>Quang Phổ</color> và <color=#7e1f57>Hủy Diệt</color>, sẽ kích hoạt <color=#8c7e51>Trùng Tấu Hai Pha</color>.
-Sát thương thuộc tính của toàn đội tăng <color=#8c7e51>20%</color>, kéo dài <color=#8c7e51>12</color> giây."
-lang_multi_text.db,MultiText,ElementalReaction_65_ReactionName,二相重奏,duplex,Trùng Tấu Hai Pha
-lang_multi_text.db,MultiText,ElementalReaction_66_ReactionDescription,触发协奏作用时，若两个角色的属性类型同为<color=#7e1f57>湮灭</color>，则触发<color=#8c7e51>湮灭齐奏</color>，对目标造成<color=#7e1f57>湮灭</color>伤害。,"When the Concerto Effect is triggered, if both Characters have the same attribute type of <color=#7e1f57>Havoc</color>, it triggers <color=#8c7e51>Havoc Flurry</color>, which deals <color=#7e1f57>Havoc</ color> damage.","Khi kích hoạt hiệu ứng Hiệp Tấu, nếu thuộc tính của hai nhân vật đều là <color=#7e1f57>Hủy Diệt</color>, sẽ kích hoạt <color=#8c7e51>Hòa Tấu Hủy Diệt</color>, gây sát thương <color=#7e1f57>Hủy Diệt</color> cho mục tiêu."
-lang_multi_text.db,MultiText,ElementalReaction_66_ReactionName,湮灭齐奏,Havoc.,Hòa Tấu Hủy Diệt
-lang_multi_text.db,MultiText,EncircleLevelDesc_1,冰原上残留的足迹将是最关键的线索，请务必留意。,The traces left behind on the frostlands are the most crucial clues. Be sure to observe them carefully.,"Dấu vết còn sót lại trên băng nguyên sẽ là manh mối quan trọng nhất, xin hãy chú ý."
-lang_multi_text.db,MultiText,EncircleLevelDesc_2,受惊的隧群就像小猫，靠近时或许需要一点点耐心。,Startled Exoswarm are much like kittens. You'll need a little patience to approach them.,"Bầy Thụy Tượng bị hoảng sợ giống như mèo con, khi đến gần có lẽ cần một chút kiên nhẫn."
-lang_multi_text.db,MultiText,EncircleLevelDesc_3,“白的羊，像银的星晖；绿的坡，像金的夕辉。”朗朗上口的牧歌也能安抚不安的隧群。,"""White sheep like silver starlight, green hills bathed in golden sunset."" Shepherds' songs are more than just catchy melodies. They also soothe the unsettled Exoswarm.","""Cừu trắng, như ánh sao bạc; sườn dốc xanh, như ánh chiều tà vàng óng."" Những bài ca du mục bắt tai cũng có thể xoa dịu bầy Thụy Tượng đang bất an."
-lang_multi_text.db,MultiText,EncircleLevelDesc_4,牧杖对隧群来说就像“牧羊犬”，驱赶着它们回到正确的方向。,"To the Exoswarm, Shepherd's Staffs are like sheepdogs, guiding them back to where they belong.","Đối với bầy Thụy Tượng, gậy chăn giống như ""chó chăn cừu"", lùa chúng về đúng hướng."
-lang_multi_text.db,MultiText,EncircleLevelDesc_5,因为冰原复杂的天气变化，我们必须争分夺秒。,The frostlands are plagued by unpredictable weather. Every minute counts.,"Vì thời tiết trên băng nguyên thay đổi phức tạp, chúng ta phải tranh thủ từng giây từng phút."
-lang_multi_text.db,MultiText,EncircleLevelDesc_6,一只、两只……数量在慢慢回升，隧群队伍的秩序也在跟着恢复。,"One... two... The Exoswarm's numbers are recovering, and the herd's order is returning.","Một con, hai con... số lượng đang dần tăng lên, trật tự của bầy Thụy Tượng cũng đang được khôi phục."
-lang_multi_text.db,MultiText,EncircleLevelDesc_7,隧群始终属于隧者，迁徙对它们来说也是最后的旅途。,"The Exoswarm have always been part of the Exostrider. For them, migration is also the final journey.","Bầy Thụy Tượng luôn thuộc về Thụy Giả, đối với chúng, di cư cũng là hành trình cuối cùng."
-lang_multi_text.db,MultiText,EncircleLevelName_1,慌乱的迁徙·I,Migration Mayhem I,Cuộc Di Cư Hỗn Loạn - I
-lang_multi_text.db,MultiText,EncircleLevelName_2,慌乱的迁徙·II,Migration Mayhem II,Cuộc Di Cư Hỗn Loạn - II
-lang_multi_text.db,MultiText,EncircleLevelName_3,慌乱的迁徙·III,Migration Mayhem III,Cuộc Di Cư Hỗn Loạn - III
-lang_multi_text.db,MultiText,EncircleLevelName_4,慌乱的迁徙·IV,Migration Mayhem IV,Cuộc Di Cư Hỗn Loạn - IV
-lang_multi_text.db,MultiText,EncircleLevelName_5,慌乱的迁徙·V,Migration Mayhem V,Cuộc Di Cư Hỗn Loạn - V
-lang_multi_text.db,MultiText,EncircleLevelName_6,慌乱的迁徙·VI,Migration Mayhem VI,Cuộc Di Cư Hỗn Loạn - VI
-lang_multi_text.db,MultiText,EncircleLevelName_7,慌乱的迁徙·VII,Migration Mayhem VII,Cuộc Di Cư Hỗn Loạn - VII
-lang_multi_text.db,MultiText,EncircleLevelName_Couple_1,慌乱的迁徙·I（困难）,Migration Mayhem I (Hard),Cuộc Di Cư Hỗn Loạn - I (Khó)
-lang_multi_text.db,MultiText,EncircleLevelName_Couple_2,慌乱的迁徙·II（困难）,Migration Mayhem II (Hard),Cuộc Di Cư Hỗn Loạn - II (Khó)
-lang_multi_text.db,MultiText,EncircleLevelName_Couple_3,慌乱的迁徙·III（困难）,Migration Mayhem III (Hard),Cuộc Di Cư Hỗn Loạn - III (Khó)
-lang_multi_text.db,MultiText,EncircleLevelName_Couple_4,慌乱的迁徙·IV（困难）,Migration Mayhem IV (Hard),Cuộc Di Cư Hỗn Loạn - IV (Khó)
-lang_multi_text.db,MultiText,EncircleLevelName_Couple_5,慌乱的迁徙·V（困难）,Migration Mayhem V (Hard),Cuộc Di Cư Hỗn Loạn - V (Khó)
-lang_multi_text.db,MultiText,EncircleLevelName_Couple_6,慌乱的迁徙·VI（困难）,Migration Mayhem VI (Hard),Cuộc Di Cư Hỗn Loạn - VI (Khó)
-lang_multi_text.db,MultiText,EncircleLevelName_Couple_7,慌乱的迁徙·VII（困难）,Migration Mayhem VII (Hard),Cuộc Di Cư Hỗn Loạn - VII (Khó)
-lang_multi_text.db,MultiText,EncircleLevelName_Single_1,慌乱的迁徙·I（简单）,Migration Mayhem I (Normal),Cuộc Di Cư Hỗn Loạn - I (Dễ)
-lang_multi_text.db,MultiText,EncircleLevelName_Single_2,慌乱的迁徙·II（简单）,Migration Mayhem II (Normal),Cuộc Di Cư Hỗn Loạn - II (Dễ)
-lang_multi_text.db,MultiText,EncircleLevelName_Single_3,慌乱的迁徙·III（简单）,Migration Mayhem III (Normal),Cuộc Di Cư Hỗn Loạn - III (Dễ)
-lang_multi_text.db,MultiText,EncircleLevelName_Single_4,慌乱的迁徙·IV（简单）,Migration Mayhem IV (Normal),Cuộc Di Cư Hỗn Loạn - IV (Dễ)
-lang_multi_text.db,MultiText,EncircleLevelName_Single_5,慌乱的迁徙·V（简单）,Migration Mayhem V (Normal),Cuộc Di Cư Hỗn Loạn - V (Dễ)
-lang_multi_text.db,MultiText,EncircleLevelName_Single_6,慌乱的迁徙·VI（简单）,Migration Mayhem VI (Normal),Cuộc Di Cư Hỗn Loạn - VI (Dễ)
-lang_multi_text.db,MultiText,EncircleLevelName_Single_7,慌乱的迁徙·VII（简单）,Migration Mayhem VII (Normal),Cuộc Di Cư Hỗn Loạn - VII (Dễ)
-lang_multi_text.db,MultiText,EncircleLevelType_Couple,困难难度,Hard,Độ Khó Cao
-lang_multi_text.db,MultiText,EncircleLevelType_Single,简单难度,Normal,Độ Khó Thấp
-lang_multi_text.db,MultiText,Encircle_CurrentSteps,累计步数{0},Used Moves {0},Tổng số bước {0}
-lang_multi_text.db,MultiText,Encircle_FewestSteps,最佳步数{0},Best Moves {0},Số bước tốt nhất {0}
-lang_multi_text.db,MultiText,Encircle_MultiBan_Text,联机模式中无法开启,This function is disabled in Co-op,Không thể mở trong chế độ nhiều người chơi
-lang_multi_text.db,MultiText,Encircle_OpenBtn_Text,寻找走失的隧群,Find the lost Exoswarm,Tìm bầy Thụy Tượng đi lạc
-lang_multi_text.db,MultiText,Encirle_DifficultyLockTips_Text,请完成{0},Complete {0},Vui lòng hoàn thành {0}
-lang_multi_text.db,MultiText,Encirle_LevelLockTips_Text,关卡未到解锁时间,,Chưa đến giờ mở ải
-lang_multi_text.db,MultiText,Encirle_LevelUnlockTips_Text,「平息！慌乱的迁徙！」新关卡已解锁,,"""Bình tĩnh lại! Cuộc di cư hỗn loạn!"" ải mới đã mở"
-lang_multi_text.db,MultiText,Energy_Number,{0}/{1},{0}/{1},{0}/{1}
-lang_multi_text.db,MultiText,Energy_Text,拥有：,Owned:,Đang có:
-lang_multi_text.db,MultiText,Energy_Title,说明,Description,Mô tả
-lang_multi_text.db,MultiText,EntityPackIdErr_Content,实体:{0}投放Id:{1}错误，当前场景投放:{2}不匹配无法创建,An error occurred. Please contact our Customer Service for assistance,"Thực thể: {0} ID thả: {1} bị lỗi, không khớp với thả cảnh hiện tại: {2} nên không thể tạo"
-lang_multi_text.db,MultiText,Entity_000733c59cd5752af5bc62963e5b8a564cd19279255997a45fde85baa11a7d9a,百川,Baichuan,Bách Xuyên
-lang_multi_text.db,MultiText,Entity_00113da17cd051752e24cc6f4cd6f6922da08ddc363d61a7e92f101e8402570e,凝水贵族,Abyssal Mercator,Quý Tộc Ngưng Băng
-lang_multi_text.db,MultiText,Entity_001186aae613cfd30c8eb7572d8d50fa97dd1cc0936ac70346208587109e7a63,逐梦的记忆,Memory of Dreaming,Ký Ức Theo Đuổi Giấc Mơ
-lang_multi_text.db,MultiText,Entity_0017bba5280e42456325c6f744acee052bd7e6e4a90f173bef2ad274e1e5eb66,帐篷,Tent,Lều
-lang_multi_text.db,MultiText,Entity_00228f2c3498d5fbaa64a1cdd6e7f3f54a5f03b7a58fe2883ec4ed40c2ed9a59,黑纹蛙,Black-Striped Frog,Ếch Đen
-lang_multi_text.db,MultiText,Entity_003388938bbec70c6d9d57b054e4bc3d10b1a5006760452ab3282a6fbeb9a230,挑衅一下,Provoke,Khiêu khích một chút
-lang_multi_text.db,MultiText,Entity_003f0d6e90eaf568c3fad6a68f0d612ee0f41fc02da50c2b9ecc711b7a398500,佩拉,Pela,Pela
-lang_multi_text.db,MultiText,Entity_0059f1a5db91853ddfcf72961f76ba42d05f6c8771973a398f7ba858ab853c5b,“凝望模因”,"""Staring Meme""","""Meme Ngưng Tụ"""
-lang_multi_text.db,MultiText,Entity_00629ef7bea5f45b3baab8cbf6259c97cc5992e78f962c2e8a41b7c4d2273b47,《寻物启事：数据记忆体》,Notice for Lost Data Memory,"""Tìm đồ thất lạc: Bộ Nhớ Dữ Liệu"""
-lang_multi_text.db,MultiText,Entity_006409f5abd63b71336844d8ffbb249188c62d1e91fd5891e5f37f3760644140,操控台,Control Desk,Bảng điều khiển
-lang_multi_text.db,MultiText,Entity_006609e7b2f6ada370042d873e9b25344e320d32ca6569714193ef4105116ff5,胆怯的青年,Nervous Roya,Thanh niên nhút nhát
-lang_multi_text.db,MultiText,Entity_00798bf489f9a0f48ffeed220edffb2a9e4fff50fe65139a6f94265565c04990,普布利,Puberius,Puberius
-lang_multi_text.db,MultiText,Entity_007d84e6ba2d4c1003cb783450e0d3ebfb06133cdcc4e862622512cdf22c65bd,山脉护卫,Alptop Champion,Hộ Vệ Sơn Mạch
-lang_multi_text.db,MultiText,Entity_008117470c44e2a8c89a118d74c5dac233b56831ad1df75da2285340827b3a19,琳内娅,Linnea,Linnea
-lang_multi_text.db,MultiText,Entity_0082cf7f61664890b7bac85977863f20f05a733a1fff83a1c86702573c3b2097,戈尔嘉,Gorgo,Gorgo
-lang_multi_text.db,MultiText,Entity_0092178ed68070ea54263c6596ce694e07d6f9b9a1d2b610da7a16813b37017a,测试文本,Qianqian,Văn bản thử nghiệm
-lang_multi_text.db,MultiText,Entity_009ce614b80569132ff2bbc8b04f0f3a27ec94452dbc9b478fa3aed4257b16f2,查看船坞,Check the dock,Kiểm tra bến tàu
-lang_multi_text.db,MultiText,Entity_00a00218ce16fcfeec67b5dbb7c681ebc5286444af29077410b2c94f3db0b0f1,乘凉的女学生,Resting Student,Nữ sinh đang hóng mát
-lang_multi_text.db,MultiText,Entity_00a0870a5029235d1b3f6d83076b3a612caff2b46677e8fa4159a43253cf2529,停泊船只并将鱼带给达娜,Dock the boat and deliver the catches to Dana,Neo thuyền và mang cá cho Dana
-lang_multi_text.db,MultiText,Entity_00a2fa1afe798fd379682d097d9b4a3b264b3e8bef1bfb006c827cec8ee747a1,看热闹的小男孩,Curious Little Boy,Cậu bé hiếu kỳ
-lang_multi_text.db,MultiText,Entity_00a828bcb74da3bd745c539a52f651979374517f26f85279453b25546b4f510d,芊芊,Qianqian,Thiên Thiên
-lang_multi_text.db,MultiText,Entity_00af3500e1cee9936aac39b9a64ffd3d0908621b602edfe9c3cc88dc30a23122,探隧重机,Spacetrek Explorer,Máy Hạng Nặng Dò Hầm
-lang_multi_text.db,MultiText,Entity_00c4051322a525187292aba5c187710f90e021446cefdd0010377b88bc845bd7,墨丘利机,Mercurio,Mercurio
-lang_multi_text.db,MultiText,Entity_00d428aec3104072214f717740e6075e708dd5a495c0d03e11a350a5250f2b04,布鲁诺,Bruno,Bruno
-lang_multi_text.db,MultiText,Entity_00db9bf96f4e54c87ebd2a92d7ff71c2efb9f0af7bc4608bdcb66f97cb56f52e,欧律狄刻,Eurydice,Eurydice
-lang_multi_text.db,MultiText,Entity_00eb1ae1e204ca89978c118a29ebb780c1503e8948887a8a9b91e5eac2675df3,愚蠢骑士,Knight of Ignorance,Kỵ Sĩ Ngu Ngốc
-lang_multi_text.db,MultiText,Entity_00f10b9e2458bd75c70a41706b2fb95fa28c3b93a7c978c219083f45994d3327,意外的民众,Awestricken Citizen,Người dân bất ngờ
-lang_multi_text.db,MultiText,Entity_00f1f2e8852385a54029a27afd3b5c1d7fb31437632480d7cc3f5708163e2dce,测试文本,,Văn bản thử nghiệm
-lang_multi_text.db,MultiText,Entity_00f25ea6738eaf0fd00580b70993311dbe6f63f8e34e467969cda763436fb5e9,打开补给站,Open Supply Shop,Mở trạm tiếp tế
-lang_multi_text.db,MultiText,Entity_00f474196143513625eda002992465b1418e345d793e59ee75f15bf4a57f9504,竹染,Zhu Ran,Trúc Nhiễm
-lang_multi_text.db,MultiText,Entity_010568a026900d9b4bbd867b71d016966cb8502e5f5a7f8fed5193c830a11153,火球,Fireball,Cầu Lửa
-lang_multi_text.db,MultiText,Entity_0116ff1474cd9a792fe0cb43cdd1cd54f76d36ee0f83fb908fda8f950eea8367,长离棋局,Changli's Weiqi Game,Ván cờ Trường Ly
-lang_multi_text.db,MultiText,Entity_0132c55369c86376c07349ee350143a0954b0af1629f74c62a7af0d38dc13448,陶醉的牧者,Rapt Shepherd,Người chăn cừu say sưa
-lang_multi_text.db,MultiText,Entity_014d1e9e1567fc89d76a96a43401daf1383f92e59e2c056d284b804c8378ec3f,dnt/奥古斯塔破坏物2,Augusta destructible 2,dnt/Vật thể phá hủy Augusta 2
-lang_multi_text.db,MultiText,Entity_014d9c11ff9084e5e7d5fb64bdc1242c3317675fcaecea3eaa76dc41b137e692,异变生物·水母菇小,Mutant Organism: Roseshroom Small,Sinh Vật Dị Biến - Nấm Sứa Nhỏ
-lang_multi_text.db,MultiText,Entity_0156290dcea291151b89ab5a7ae77c5abf8ddfcb93e08d074e5ad13f9f9a96cb,无冠者,Crownless,Vô Vọng Giả
-lang_multi_text.db,MultiText,Entity_015637be6f5aa042a71c5da11aa175da8ac489edebe284e045bbeb0bed674847,柏松,Bosong,Bách Tùng
-lang_multi_text.db,MultiText,Entity_015845346aa9dc94f515bee8810b3a1dc4ed6f24fbbd434402ab8c8c0d59979f,背包,Backpack,Ba lô
-lang_multi_text.db,MultiText,Entity_015c6131ddca17febed6490b924a961ea118f86a7e231fa9194923a9bf20fbd9,士兵男,Male Soldier,Lính nam
-lang_multi_text.db,MultiText,Entity_016139034437ef9248a5420694b5b0a7181068189be4750cec1f3fe652a77553,测试文本,test/,Văn bản thử nghiệm
-lang_multi_text.db,MultiText,Entity_018f7e7d96a532d8f406f8486359ad0512546a30ab7341a68b19e43fd85f5517,阿德里安娜,Adriana,Adriana
-lang_multi_text.db,MultiText,Entity_019acb4a5ec4267c098be5e8a0fd442506aa42fb1932b43a0cae23dc9ac28ac8,亚历桑德罗,Alexandro,Alexandro
+lang_multi_text.db,MultiText,Entity_1ce18696cb90f7dcf7379deec15eae6847f3726a3b316e57afa8ed904fae623f,空控物底座,Empty Levitation base,Đế điều khiển vật thể trống
+lang_multi_text.db,MultiText,Entity_01cff7d5b6bd05b11393b8a97f37b3ca93a93a242f8d0b032e56a0dd1eb05d2d,不安的莫塔里成员,Uneasy Montelli Member,Thành viên Montelli bất an
+lang_multi_text.db,MultiText,Entity_1d3b817e4ca331b05744b21fdd513468ab5845341ad088ba331be18cc21dddbb,佩拉·杰米,Pela Jamie,Pela Jamie
+lang_multi_text.db,MultiText,Entity_1d033c61ce63e37f52542f3fca50ce097d16507a2a9c0bdc76b07ea80e47cde6,dnt/巴别塔触发器_内圈,,dnt/Bộ kích hoạt Tháp Babel_Vòng trong
+lang_multi_text.db,MultiText,Entity_1d35b3e18367cae55ce485a5a59a24bfd8081cf50bee8e976bc26f8dbf12f720,黑潮造物·云闪之鳞,Tidespawn: Thundering Mephis,Tạo Vật Hắc Triều - Vảy Mây Sấm
+lang_multi_text.db,MultiText,Entity_1d35b3e18367cae55ce485a59a24bfd8081cf50bee8e976bc26f8dbf12f720,,,Tạo Vật Hắc Triều - Lân Vân Thiểm
+lang_multi_text.db,MultiText,Entity_1d45ba02a31548bf586d85e0f3b75d92723303751b060ef11f58ab80b4bcbdd0,小小,Teensy Weensy,Tiểu Tiểu
+lang_multi_text.db,MultiText,Entity_1d50d4d8d0e1a8a824dc1b58809593e42d37456fecb8e55f7d19ff80b4a38711,塔拉,Talla,Talla
+lang_multi_text.db,MultiText,Entity_1d51ecc92192f26efacaa912ef6778f5fdc13232fe11bb2d3b5cb02dd0362080,香农,Shannon,Shannon
+lang_multi_text.db,MultiText,Entity_1d52aace1830725c1e0ea5435f059264113eb5fa0edc2ba264786331b7565767,斐林,Fulmine,Fulmine
+lang_multi_text.db,MultiText,Entity_1d77cf9d39dd8e224300fb62bd2b186547c9e1c7465af0a5d9efb13c9d8c00db,打开礼物盒,Open the gift box,Mở hộp quà
+lang_multi_text.db,MultiText,Entity_1d84c754b6a917e97629e49da6927a71638127e755fca02acf922fef3d6e915d,椿,Camellya,Camellya
+lang_multi_text.db,MultiText,Entity_1d97f9723f9ad2043a106d842460a225f79766af3a825c2b43edb781fb50d3b1,珂莱塔团子,Carlotta Cube,Bánh Đoàn Tử Carlotta
+lang_multi_text.db,MultiText,Entity_01d98f9c94035366c82c0a3965e82bb35b4320eef1ca52cf6c4dc9aba3e0c669,逆时针转动90度,Rotate counterclockwise by 90°,Xoay ngược chiều kim đồng hồ 90 độ
+lang_multi_text.db,MultiText,Entity_1d353ad4d5ec04fe24eaface0eac32ecbee72fb574738b384e14ea1ed7b3e33f,查看神秘的日记章节,View the mysterious diary page,Xem chương nhật ký bí ẩn
+lang_multi_text.db,MultiText,Entity_1d810fcc103984417e48db4083ebba732cf893c667214016895f51bcd422be9d,舞刀姿态,Sworddance Stance,Tư thế múa kiếm
+lang_multi_text.db,MultiText,Entity_1d910c6cc8a84152b0b2de56f65ffa593795334e19d8f36593751ac3377e2c68,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1d6664f8bcaefbadc2ca9e4ac918cffcc5b40bcd7bd9e81f9f610594d9b2be33,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1d19364d8039973504238a689e34812aa9eaeaad53790852946e3dc253cc439a,2号储音器·下阙,Melody Capsule Verse. 2: Second Section,Máy ghi âm số 2 - Phần sau
+lang_multi_text.db,MultiText,Entity_1d35374a05f1779d1592f32d215fa745f00c7797b0e149ff69aa660e400a6f1d,略带陈旧的日记本,Slightly Aged Diary,Cuốn nhật ký hơi cũ
+lang_multi_text.db,MultiText,Entity_01da5e5e1766ecf35033e204b62e050e6081a792540b39b5952ef7454a1849f9,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1dc5ff6e92474d10e3a8e8ee310309c503f5d243ebe9c7a29cf8f4b93b3eb7fd,马拉西斯,Malacius,Malacius
+lang_multi_text.db,MultiText,Entity_1dd91d7301401a6bb3fd77769f85c7c1fc07092f054442487edee4db62f5319f,奥古斯塔,Augusta,Augusta
+lang_multi_text.db,MultiText,Entity_01dd95826f24d8edfcc62ec870548976af2a67bbb256e9c38e27170b58607301,镇静的少女,Calm Girl,Thiếu nữ bình tĩnh
+lang_multi_text.db,MultiText,Entity_1ddadad9809b551f5cace25771c1737bc8516ae0c9cd10f3a9f09d21e45f2663,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1deb8a8e985f8f116a6f6efa94ef404e09a30b4d4b836794680bfe6e5f7135f4,区明,Ouming,Khu Minh
+lang_multi_text.db,MultiText,Entity_1dfa9a329e1b8fd930772698ce2b1dfba956da52dea4c66fbc0d68ad7c2a995a,进入下半海域,Proceed to Second Half,Tiến vào vùng biển nửa sau
+lang_multi_text.db,MultiText,Entity_1e1dcf47d1c420dc0d603b5206ec4f93094ddcc62e0322506431262a6eedc971,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1e4a1ffb8290e04e54ba995c7a37f0c110178535b428410f1d75c2aa5436dc10,朱利欧,Julio,Julio
+lang_multi_text.db,MultiText,Entity_1e7ce002d45b4215e0a9fcd86490bf4eeabd200007c06e177f5300adfc714824,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_01e7dd4c52f6b212801c2725f035cc222df1c6e67234cfd164c1df65cb7d2d5b,欺诈奇藏,Chest Mimic,Rương Kỳ Tàng Giả Mạo
+lang_multi_text.db,MultiText,Entity_1e9c33ddb3086495ea69729c1228ce6c64b8cc7bc8c0956ec63e61cab5400263,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1e32ff06329593b427514c43771034e2b235338f088a67ac013336ef8ed854f2,XV-72,XV-72,XV-72
+lang_multi_text.db,MultiText,Entity_01e77a923167ec4178f9e778fe7704ed5005b5c228a290ed13aff96814351ddb,异相-哀声孤鸯,Phantom: Mourning Aix,Dị Tướng - Ai Thanh Cô Ương
+lang_multi_text.db,MultiText,Entity_01e83bb9d81f33a6dd4e589e381c8afaaab5e3cfc1baee460c386ae7d8b605bb,开始试炼,Begin Trial,Bắt đầu thử thách
+lang_multi_text.db,MultiText,Entity_1e83c8e063c830ecce3d55e93f8ca211438b1beaab17a041a3f1b45a3c207225,涡纹赛事战利箱,Lustrous Trophy Chest,Rương Chiến Lợi Phẩm Giải Đấu Qua Văn
+lang_multi_text.db,MultiText,Entity_1e89a1ec78bd7adce5215bab0af441b975e0c72b88c43e0d48b8c53206f104a9,小心的研究员,Careful Researcher,Nhà nghiên cứu cẩn thận
+lang_multi_text.db,MultiText,Entity_1e226f70cd99210a1b374fa7259c261f47fbc806818042f54a414e0f8086c395,开启,Initiate,Mở
+lang_multi_text.db,MultiText,Entity_1e245a39b0723b2e0363927cc76e7df49a1cf2babea91a3bd735596e6db3e27b,测试文本,test/,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1e1813e3216d207a504155d1d720a984881bbc36ff38ef4f43a12ff97e5cb0d8,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1e6617e9e2a9bf6ed137fe85abc0fc6c1a25c5683f66ed0f8a7d20a8de974ce7,泣血-逆反,Blood Weep: Rebel,Khấp Huyết - Nghịch Phản
+lang_multi_text.db,MultiText,Entity_1e46954cf14e9564f6c7078ebda93a1d25808f515cdcc6ba4f189134161f9997,继续探索迷雾迷宫,Continue exploring the foggy maze,Tiếp tục khám phá mê cung sương mù
+lang_multi_text.db,MultiText,Entity_1e509637b0a1a6a19320a984de4b4fea5f9ef7a87f67ca92143731818541cd1c,dnt/链式终点,,dnt/Điểm cuối dạng xích
+lang_multi_text.db,MultiText,Entity_1e1672098e68fa99a406753d6710f1cbb0e95daa3230c187350b8662d710aa61,拉奥孔,Laocoön,Laocoön
+lang_multi_text.db,MultiText,Entity_1eab450c4764c6c7064bcc17e131a10dc597c5351be1ecc5473c0794baa366cb,古力欧,Giulio,Giulio
+lang_multi_text.db,MultiText,Entity_1eb95c85d03743fbfda5d4b35495fb164e147ae2ea2a6b6c831a0a7938dd9864,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1ebeedf190a21059240b2614f7e9fe238a395bf4ca4d243d0bf117183e1ee6dd,梅尔尼克,Melnyka,Melnyka
+lang_multi_text.db,MultiText,Entity_1ebfd01d3498f1a07dbf09f1d9046de01db39de69ff808f2e9a52727031f40a4,活泼的歌友会成员,Outgoing Fan,Thành viên hội ca hát hoạt bát
+lang_multi_text.db,MultiText,Entity_01ec7c6c2da8a7e3e1b61e054290fb4bf06218ce095711cbbdb0bbea826d8039,“仇视邪灵”,"""Evil Spirit""","""Tà Linh Thù Hận"""
+lang_multi_text.db,MultiText,Entity_1ecb587080731c39e75a520b782d40587b045de51d33a4cdb2aab7dd472e26c2,test/菲比_魔法阵,,test/Phoebe_Trận pháp ma thuật
+lang_multi_text.db,MultiText,Entity_1ee103240d22f3612a610cc70058d3e181eea51a0ad02558861884877b42657f,艾萨克,Eirik,Eirik
+lang_multi_text.db,MultiText,Entity_1ef3eb1f75a2548b42461201446218fb09dc59fec89f55d211f76478bd647ebc,记录着平和思绪的片段,Fragments of Quiet Reflections,Đoạn ghi chép những suy tư bình yên
+lang_multi_text.db,MultiText,Entity_1ef80c0db29281d0fd555b071dd3396ee6228dc6bb4740db1e06c51edefdd445,美江,Mie,Mỹ Giang
+lang_multi_text.db,MultiText,Entity_1f0fb8861067ae69e8b1c34e5a634c65ea7c09b574126450ff7c69a88cfbcd53,荣耀狮像,Lioness of Glory,Tượng Sư Tử Vinh Quang
+lang_multi_text.db,MultiText,Entity_1f6a9ec236704f0e1ccb8806b0b7dc4a551e82fdfa032bf02a2caddf5323199f,汀德拉,Tyndria,Tyndria
+lang_multi_text.db,MultiText,Entity_1f6a65abf971c3bdb9af6b11f54675acd93ee3f3d994fac6f7a14ffad1a76831,测试文本,placeholder,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_1f7bd4454ba21afc93c326f8db74d7a10ec47975c35eb87f162d815942c9a765,峦泉,Luanquan,Loan Tuyền
+lang_multi_text.db,MultiText,Entity_1f7e273ed6cdb28dfbce8963fd4c523efb651a5513d184d15871023646276378,魁,Kui,Khôi
+lang_multi_text.db,MultiText,Entity_1f8b5a9d5a3c5c24c76880a9922bd4b1fe5e4858a733423c6ca3a6c0cf6c66eb,碧翠丝,Beatrix,Beatrix
+lang_multi_text.db,MultiText,Entity_1f8c04211b188df98c6833eb3e47cc4e1803a4ede81fa21f7c00dfe95b463b99,源核,Main Core,Lõi Nguồn
+lang_multi_text.db,MultiText,Entity_1f9a7a5a39f96e69f5af0d6c21d51fd4352279ffb88decc632f79890f852b4dd,质问,,Chất vấn
+lang_multi_text.db,MultiText,Entity_1f9ca19edf4002b209baf37f8aa82803b455dd4a820f8f0a8e7117e53e39154a,进入,Enter,Vào
+lang_multi_text.db,MultiText,Entity_1f48b199b8f67520820e0b8d6fe7c6f0dd56a064356dfd52fcf55be05271151e,「螺母」,Drew,"""Đai Ốc"""
+lang_multi_text.db,MultiText,Entity_1f69fd6b8920df68edf8dae26c2e970af7f260b92f757b9519c63ae3ef9cd96b,贝阿朵莉特,Beatrice,Beatrice
+lang_multi_text.db,MultiText,Entity_1f36685935d7b4bdf3fb8aeb36f6ce50d64d237555d87d3d976e58ec82c6b2e3,异相·噼啪啪,Phantom: Zip Zap,Dị Tướng - Tách Tách
+lang_multi_text.db,MultiText,Entity_1fb6b6c8bf5e34ae475443512742953fda1734f3dfcd4cb4ec7ed51e54557cd9,康弗,Confere,Confere
+lang_multi_text.db,MultiText,Entity_1fb33c7f98f8944106e7fbee1dbd75be105da0f2f57bddaad119738d25f9d218,盗梦陆龟,Dream Pliferer,Rùa Lục Đạo Mộng
+lang_multi_text.db,MultiText,Entity_1fc3a25a93db81876139d36bf93b7e5c952d0481c7e39293b2f1789f3ab443e3,嘤嘤鹦,Blubbin Puffin,Hải Âu Anh Anh
+lang_multi_text.db,MultiText,Entity_1fd9ac6a1d5048870a3971f3a9bcfa109ac123e4ee76330cf02fb57d58bc8021,上升到上层,Go to the top level,Bay lên tầng trên
+lang_multi_text.db,MultiText,Entity_1fd22a0a85df4710f9736601995793a4674d979daa93279f95215f763e6539c8,法里德,Farid,Farid
+lang_multi_text.db,MultiText,Entity_1fe00dadcf3f1b3598593f2b2a31410f305cdaa43094781f43b9f0905a3e1948,伊娜拉,Inara,Inara
+lang_multi_text.db,MultiText,Entity_1fe3c674d0bd73606dfba92ab6871a476912094a831aa7f8d4f0243c820a1704,埃泽,Azor,Azor
+lang_multi_text.db,MultiText,Entity_1fe3fa1dc179c32868e3ec9fbfb52aa0b97e25dcc86e1608ad70cf9f28dc31bc,test/洛想和漂泊者打个招呼,,test/Lạc Tưởng chào hỏi Lữ Khách
+lang_multi_text.db,MultiText,Entity_01ffaf07b701eedf66761f7c79b594df2f7bd9bb7b049f1dc4ec5a15a63618db,费边,Fabianus,Fabianus
+lang_multi_text.db,MultiText,Entity_2a0ebe583650e662460b341431aeff1aeef0182744678cc6d58afdde5d693011,dnt/谕女壁画溶解3,,dnt/Dung giải bích họa dụ nữ 3
+lang_multi_text.db,MultiText,Entity_2a1c762eac56ca1a1883d52a9f8374b0e1fb6a5b8b468f4a77a774cb5cb1c246,小渝,Xiaoyu,Tiểu Du
+lang_multi_text.db,MultiText,Entity_2a3b108daa1ec916c0843d0d05b5cccef39049ceaedab12a97e164c9424a660c,卜签,Fortune Stick,Quẻ bói
+lang_multi_text.db,MultiText,Entity_2a7bcd6e6414d0db3c9704137cecc24de43360d1ee3d8c019310909b65c78000,前往黑海岸下层,Head to the Black Shores' underground,Đến tầng dưới Bờ Biển Đen
+lang_multi_text.db,MultiText,Entity_2a8adfb62889a1e7c22cab59b97e4a6996ecd70e122f6ea743cde07226cbc163,巡游骑士,Questless Knight,Kỵ Sĩ Tuần Du
+lang_multi_text.db,MultiText,Entity_2a9e90559c99dd399bae1e164f5fa264d014b39ff799c2e2d8d38ff811fe1d3f,副本_空气墙管理_进入,Dungeon_Air Wall Manager_Enter,Phó bản_Quản lý tường không khí_Vào
+lang_multi_text.db,MultiText,Entity_2a41cdfbf6235e2710c1ee0da0fdd3962ee58e27557924265c059d7c54452fc7,茶客,Guest,Khách uống trà
+lang_multi_text.db,MultiText,Entity_2a83e6587185e020dcdb8637580671ad6166225986c05d82050c4115a00122bb,测试文本,Test,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_02a8302d26908444452297f0f0eb229ff4799f31d847c5e2554589400d63767a,机关组,Automaton group,Nhóm cơ quan
+lang_multi_text.db,MultiText,Entity_2a87281d0571db37f8a23416ac0209b1020b8fe2eff4643a721fb62507a285d8,卢比奥,Rubio,Rubio
+lang_multi_text.db,MultiText,Entity_2a0376080405b76e1d1c2cfa0955fd7e9563e1709f631ffb1fceae79ea686626,安森,Anson,Anson
+lang_multi_text.db,MultiText,Entity_2aa2fce0813474e0eebafdacac195cdc3c8a7e923232df808bcb6b74bea292be,戏迷靓辉,Lianghui the Theater Fan,Người hâm mộ kịch Lượng Huy
+lang_multi_text.db,MultiText,Entity_2aa9c308ecd3acd3440a4669bf1c0f6f23b04d75f0ec3f2c4a528b7b4fd0ccf1,维拉,Layla,Layla
+lang_multi_text.db,MultiText,Entity_2aa530dd2bc83636091f06845131f6ee0388695893f05d9a3d2dcb8e9ba0f1ed,快去充电,Go charge,Mau đi sạc điện
+lang_multi_text.db,MultiText,Entity_2aa77223589c4f80992d9eacaf53ffcda966aeb331d01742ac9bcc1ef6cbdbde,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_2aaae79f809122befa7b679b66bcc9f0e3ae864f479ccb571f003ced1d881c5d,挪动花瓶,Move This Vase,Di chuyển bình hoa
+lang_multi_text.db,MultiText,Entity_2ac8bd2e4c1db45cb18521fa1db41544be8f1b41b690262366561e7b794747e1,测试文本,,Văn bản thử nghiệm
+lang_multi_text.db,MultiText,Entity_2ad0c63dcb165670b969d69d02bc6e7409e147cdaa5cee952755a717a5bfa7f5,斯奎特,,Squid
+lang_multi_text.db,MultiText,Entity_02ae8f8b065d4156d110e0a097156fe04bc611648c9cb077d994aefb49be67af,抓取,Grabbing,Bắt lấy
+lang_multi_text.db,MultiText,Entity_2ae1481f6038ed0dac155b7ba0a8e41eb9c1a840098dd66c498d3b8d8bd4d658,菲比团子,Phoebe Cube,Bánh Đoàn Tử Phoebe
+lang_multi_text.db,MultiText,Entity_2b1f270ff8f5e404a76000cc5c978fa61b47f01aa565f1675760f72e2c89b539,下降,Down,Hạ xuống
+lang_multi_text.db,MultiText,Entity_2b4e9b34978ceb51d4df2e23b671c1d19933e52b7ba161241eb600e261f9c4f4,角斗冠军赛日程表,The Great Agon Schedule,Lịch thi đấu Giải Vô Địch Giác Đấu
+lang_multi_text.db,MultiText,Entity_2b8bc08873deaa8d47410d73713c3c9e43b94f5252eb27c7d4e5b9731760658f,“布利斯”,"""Bliss""","""Bliss"""
+lang_multi_text.db,MultiText,Entity_2b9e2dad3cf9af9e846fc6c2b3b376c17f610800ef0089ddd2f900c29bf44a32,忙碌的莫塔里家族成员,Busy Montelli Family Member,Thành viên gia tộc Montelli bận rộn
+lang_multi_text.db,MultiText,Entity_2b23c4b32a366a865d6df3cfd04bc1e2b4daa7661212b3ae0dcfa3ae7229dc47,美食传闻,Gourmet Rumors,Tin đồn ẩm thực
+lang_multi_text.db,MultiText,Entity_02b26aba91386b611cc5dd303af40ac3464e6ab6ee4eae64ade3deabdd9805c7,使用开关,Operate the switch,Dùng công tắc

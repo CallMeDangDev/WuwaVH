@@ -1,245 +1,101 @@
 ﻿db_file,table_name,id,zh,en,vi
-lang_multi_text.db,MultiText,bossrush2_19_title,精准一击,Precision Strike,Đòn Đánh Chuẩn Xác
-lang_multi_text.db,MultiText,bossrush2_1_desc,普攻命中时，队伍中的角色共鸣技能伤害加成提升{0}%，持续{1}秒，每秒可触发{2}次，可叠加{3}层。,"Hitting a target with Basic Attack grants all team members {0}% Resonance Skill DMG Bonus for {1}s. This effect can be triggered <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} per second, stacking up to {3} times.","Khi Đánh Thường trúng mục tiêu, buff sát thương Kỹ Năng Cộng Hưởng của nhân vật trong đội tăng {0}%, duy trì {1} giây, mỗi giây có thể kích hoạt {2} lần, có thể cộng dồn {3} tầng."
-lang_multi_text.db,MultiText,bossrush2_1_title,千鸣,Thousand Roars,Thiên Minh
-lang_multi_text.db,MultiText,bossrush2_20_desc,{0}秒内，角色血量{1}%以上时，自身暴击伤害提升{2}%。,"For {0}s, when the Resonator's HP is at {1}% or higher, their Crit. DMG is increased by {2}%.","Trong {0}s, khi HP nhân vật trên {1}%, Sát Thương Bạo Kích bản thân tăng {2}%."
-lang_multi_text.db,MultiText,bossrush2_20_title,全盛一击,Focused Strike,Đòn Đánh Toàn Thịnh
-lang_multi_text.db,MultiText,bossrush2_21_desc,{0}秒内，声骸技能冷却降低{1}%。,"For {0}s, Echo Skill Cooldown is decreased by {1}%.","Trong {0}s, thời gian hồi Kỹ Năng Thanh Hài giảm {1}%."
-lang_multi_text.db,MultiText,bossrush2_21_title,终端加速,Terminal Velocity,Tăng Tốc Thiết Bị
-lang_multi_text.db,MultiText,bossrush2_22_desc,{0}秒内，施放共鸣技能时，额外回复{1}点协奏能量，每{2}秒可触发{3}次。,"For {0}s, casting Resonance Skill additionally restores {1} Concerto Energy. This effect can be triggered <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} every {2}s.","Trong {0}s, khi thi triển Kỹ Năng Cộng Hưởng, hồi thêm {1} điểm Năng Lượng Hiệp Tấu, mỗi {2}s có thể kích hoạt {3} lần."
-lang_multi_text.db,MultiText,bossrush2_22_title,协奏共鸣,Resonating Harmony,Hiệp Tấu Cộng Hưởng
-lang_multi_text.db,MultiText,bossrush2_23_desc,{0}秒内，施放共鸣解放时，额外回复{1}点协奏能量，每{2}秒可触发{3}次。,"For {0}s, casting Resonance Liberation additionally restores {1} Concerto Energy. This effect can be triggered <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} every {2}s.","Trong {0}s, khi thi triển Giải Phóng Cộng Hưởng, hồi thêm {1} điểm Năng Lượng Hiệp Tấu, mỗi {2}s có thể kích hoạt {3} lần."
-lang_multi_text.db,MultiText,bossrush2_23_title,协奏解放,Concerto Liberation,Hiệp Tấu Giải Phóng
-lang_multi_text.db,MultiText,bossrush2_24_desc,共鸣技能伤害加成提升{0}%，持续{1}秒。,Gain {0}% Resonance Skill DMG Bonus for {1}s.,"Tăng {0}% buff Sát Thương Kỹ Năng Cộng Hưởng, duy trì {1}s."
-lang_multi_text.db,MultiText,bossrush2_24_title,强击共鸣,Grand Resonance,Cường Kích Cộng Hưởng
-lang_multi_text.db,MultiText,bossrush2_25_desc,共鸣解放伤害加成提升{0}%，持续{1}秒。,Gain {0}% Resonance Liberation DMG Bonus for {1}s.,"Tăng {0}% buff Sát Thương Giải Phóng Cộng Hưởng, duy trì {1}s."
-lang_multi_text.db,MultiText,bossrush2_25_title,强击解放,Grand Liberation,Cường Kích Giải Phóng
-lang_multi_text.db,MultiText,bossrush2_26_desc,{0}秒内，共鸣技能伤害加成提升{1}%，施放共鸣技能时，消耗{2}点耐力。,"For {0}s, gain {1}% Resonance Skill DMG Bonus, and casting Resonance Skill consumes {2} STA.","Trong {0}s, tăng {1}% buff Sát Thương Kỹ Năng Cộng Hưởng, khi thi triển Kỹ Năng Cộng Hưởng sẽ tiêu hao {2} điểm thể lực."
-lang_multi_text.db,MultiText,bossrush2_26_title,蓄力共鸣,Resonance Crescendo,Tụ Lực Cộng Hưởng
-lang_multi_text.db,MultiText,bossrush2_27_desc,受击时，回复生命上限20%的生命，最多可触发3次。,"Upon taking DMG, restore 20% of the Resonator's Max HP. This effect can only be triggered 3 times.","Khi chịu đòn, hồi phục lượng máu bằng 20% HP tối đa, có thể kích hoạt tối đa 3 lần."
-lang_multi_text.db,MultiText,bossrush2_27_title,触发式治疗,Triggered Healing,Trị Liệu Kích Hoạt
-lang_multi_text.db,MultiText,bossrush2_28_desc,{0}秒内，释放声骸技能后，回复自身生命上限{1}%的生命值，每{2}秒可触发{3}次。,"For {0}s, casting Echo Skill restores {1}% of the Resonator's Max HP. This effect can be triggered <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} every {2}s.","Trong {0}s, sau khi thi triển Kỹ Năng Thanh Hài, hồi phục lượng máu bằng {1}% HP tối đa của bản thân, mỗi {2}s có thể kích hoạt {3} lần."
-lang_multi_text.db,MultiText,bossrush2_28_title,声骸疗法,Echo Therapy,Liệu Pháp Thanh Hài
-lang_multi_text.db,MultiText,bossrush2_29_desc,获得自身生命上限{0}%的护盾，持续{1}秒。,Gain a shield equal to {0}% of the Resonator's Max HP for {1}s.,"Nhận lá chắn bằng {0}% HP tối đa của bản thân, duy trì {1}s."
-lang_multi_text.db,MultiText,bossrush2_29_title,护盾解放,Shield Wall,Giải Phóng Lá Chắn
-lang_multi_text.db,MultiText,bossrush2_2_desc,施放共鸣解放时，自身的普攻伤害加成提升{0}%，持续{1}秒。,Casting Resonance Liberation gives the Resonator {0}% Basic Attack DMG Bonus for {1}s.,"Khi thi triển Giải Phóng Cộng Hưởng, tăng {0}% buff sát thương Đánh Thường của bản thân, duy trì {1}s."
-lang_multi_text.db,MultiText,bossrush2_2_title,出鞘,Unsheathe,Xuất Kiếm
-lang_multi_text.db,MultiText,bossrush2_30_desc,角色受到致死伤害时，角色将不会倒下，并回复生命上限50%的生命值，此效果只可触发1次。,"Upon taking a fatal blow, the Resonator will not be downed and will instead restore 50% of their Max HP. This effect can only be triggered once.","Khi nhân vật chịu sát thương chí mạng sẽ không bị hạ gục, đồng thời hồi phục lượng máu bằng 50% HP tối đa, hiệu quả này chỉ kích hoạt 1 lần."
-lang_multi_text.db,MultiText,bossrush2_30_title,紧急治疗,Emergency Treatment,Cấp Cứu Khẩn Cấp
-lang_multi_text.db,MultiText,bossrush2_3_desc,冷凝伤害加成提升{0}%，施放共鸣技能时，自身获得{1}层【冰羽】，持续{2}秒；当【冰羽】叠加至{3}层时，清除所有【冰羽】，使全队伤害提升{4}%，持续{5}秒。,"Gain {0}% Glacio DMG Bonus. Casting Resonance Skill grants <SapTag=1>{1}</SapTag> {Cus:Sap,S=stack P=stacks SapTag=1} of Ice Plume for {2}s. Upon reaching {3} stacks, all stacks of Ice Plume will be cleared to increase the DMG dealt by all team members by {4}% for {5}s.","Tăng {0}% buff Sát Thương Ngưng Băng, khi thi triển Kỹ Năng Cộng Hưởng, bản thân nhận {1} tầng ""Băng Vũ"", duy trì {2}s; khi ""Băng Vũ"" tích lũy đến {3} tầng sẽ xóa tất cả ""Băng Vũ"", tăng {4}% sát thương toàn đội, duy trì {5}s."
-lang_multi_text.db,MultiText,bossrush2_3_title,羽落,Feather Fall,Vũ Lạc
-lang_multi_text.db,MultiText,bossrush2_4_desc,导电伤害加成提升{0}%，施放共鸣技能时，自身的导电伤害额外提升{1}%，持续{2}秒，每秒可触发{3}次，可叠加{4}层。,"Gain {0}% Electro DMG Bonus. Casting Resonance Skill additionally increases Electro DMG by {1}% for {2}s. This effect can be triggered <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} per second, stacking up to {4} times.","Tăng {0}% buff Sát Thương Điện Từ, khi thi triển Kỹ Năng Cộng Hưởng, Sát Thương Điện Từ của bản thân tăng thêm {1}%, duy trì {2}s, mỗi giây có thể kích hoạt {3} lần, cộng dồn tối đa {4} tầng."
-lang_multi_text.db,MultiText,bossrush2_4_title,奔霆,Rumble,Bôn Đình
-lang_multi_text.db,MultiText,bossrush2_5_desc,造成普攻伤害时，队伍中的角色普攻伤害加成提升{0}%，持续{1}秒，每秒可触发{2}次，可叠加{3}层，叠加至{4}层时，队伍中的角色伤害额外提升{5}%。,"Dealing DMG with Basic Attack gives all team members {0}% Basic Attack DMG Bonus for {1}s. This effect can be triggered <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} per second, stacking up to {3} times. Upon reaching {4} stacks, increase the DMG dealt by all team members by {5}%.","Khi gây sát thương Đánh Thường, tăng {0}% buff sát thương Đánh Thường cho nhân vật trong đội, duy trì {1}s, mỗi giây có thể kích hoạt {2} lần, cộng dồn tối đa {3} tầng, khi đạt {4} tầng, sát thương của nhân vật trong đội tăng thêm {5}%."
-lang_multi_text.db,MultiText,bossrush2_5_title,刃随,Bladeline,Nhận Tùy
-lang_multi_text.db,MultiText,bossrush2_6_desc,队伍中的角色共鸣解放效率提升{0}%，施放共鸣解放后，队伍中的角色共鸣效率提升{1}%，持续{2}秒，每秒可触发{3}次，可叠加{4}层。,"Increase Resonance Regen by {0}% of all team members. Casting Resonance Liberation increases Energy Regen of all team members by {1}% for {2}s. This effect can be triggered <SapTag=3>{3}</SapTag> {Cus:Sap,S=time P=times SapTag=3} per second, stacking up to {4} times.","Tăng {0}% Hiệu Suất Giải Phóng Cộng Hưởng cho nhân vật trong đội, sau khi thi triển Giải Phóng Cộng Hưởng, tăng {1}% Hiệu Suất Cộng Hưởng cho nhân vật trong đội, duy trì {2}s, mỗi giây có thể kích hoạt {3} lần, cộng dồn tối đa {4} tầng."
-lang_multi_text.db,MultiText,bossrush2_6_title,无界,Boundless,Vô Giới
-lang_multi_text.db,MultiText,bossrush2_7_desc,治疗队伍中的角色时，队伍中的角色攻击提升{0}%，持续{1}秒，每秒可触发{2}次，可叠加{3}层。,"Healing a Resonator in the team increases the ATK of all team members by {0}% for {1}s. This effect can be triggered <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} per second, stacking up to {3} times.","Khi trị liệu cho nhân vật trong đội, tấn công của nhân vật trong đội tăng {0}%, duy trì {1}s, mỗi giây có thể kích hoạt {2} lần, cộng dồn tối đa {3} tầng."
-lang_multi_text.db,MultiText,bossrush2_7_title,激励,Motivation,Khích Lệ
-lang_multi_text.db,MultiText,bossrush2_8_desc,衍射伤害加成提升{0}%，每{1}秒后衍射伤害加成降低{2}%，最多降低至{3}%，每次施放共鸣解放时，衍射伤害加成额外提升{4}%，最多可提升至{5}%。,"Gain {0}% Spectro DMG Bonus. This bonus decreases by {2}% every {1}s until it reaches {3}%. Casting Resonance Liberation additionally gives {4}% Spectro DMG Bonus, up to {5}%.","Tăng {0}% buff Sát Thương Quang Phổ, sau mỗi {1}s buff này giảm {2}%, giảm tối đa xuống còn {3}%, mỗi lần thi triển Giải Phóng Cộng Hưởng, buff Sát Thương Quang Phổ tăng thêm {4}%, tăng tối đa lên đến {5}%."
-lang_multi_text.db,MultiText,bossrush2_8_title,折光,Refraction,Chiết Quang
-lang_multi_text.db,MultiText,bossrush2_9_desc,施放普攻或共鸣技能时，自身共鸣技能伤害提升{0}%，持续{1}秒，每秒可触发{2}次，可叠加{3}层。,"Casting Basic Attack or Resonance Skill increases the Resonator's Resonance Skill DMG by {0}% for {1}s. This effect can be triggered <SapTag=2>{2}</SapTag> {Cus:Sap,S=time P=times SapTag=2} per second, stacking up to {3} times.","Khi thi triển Đánh Thường hoặc Kỹ Năng Cộng Hưởng, sát thương Kỹ Năng Cộng Hưởng của bản thân tăng {0}%, duy trì {1}s, mỗi giây có thể kích hoạt {2} lần, cộng dồn tối đa {3} tầng."
-lang_multi_text.db,MultiText,bossrush2_9_title,重鸣,Reverberance,Trùng Minh
-lang_multi_text.db,MultiText,bossrush3_1_A_desc,每层【普攻标记】使自身对瘫痪中的目标伤害提升<color=#c89a45>2%</color>，获得标记时，回复自身<color=#c89a45>5点</color>协奏能量；,Each stack of Basic Attack Mark increases the active Resonator's damage to immobilized targets by <color=#c89a45>2%</color>. Receiving a mark recovers <color=#c89a45>5</color> Concerto Energy to the active Resonator.,"Mỗi tầng ""Dấu Ấn Đánh Thường"" giúp bản thân tăng <color=#c89a45>2%</color> sát thương lên mục tiêu bị tê liệt, khi nhận dấu ấn, hồi phục <color=#c89a45>5 điểm</color> Năng Lượng Hiệp Tấu;"
-lang_multi_text.db,MultiText,bossrush3_1_SS_desc,每层【普攻标记】使自身对瘫痪中的目标伤害额外提升<color=#c89a45>10%</color>。,Each stack of Basic Attack Mark increases the active Resonator's damage to immobilized targets by an additional <color=#c89a45>10%</color>.,"Mỗi tầng ""Dấu Ấn Đánh Thường"" giúp bản thân tăng thêm <color=#c89a45>10%</color> sát thương lên mục tiêu bị tê liệt."
-lang_multi_text.db,MultiText,bossrush3_1_S_desc,每层【普攻标记】使自身对瘫痪中的目标伤害额外提升<color=#c89a45>5%</color>，获得标记时，回复自身<color=#c89a45>5%</color>共鸣能量；,Each stack of Basic Attack Mark increases the active Resonator's damage to immobilized targets by an additional <color=#c89a45>5%</color>. Receiving a mark recovers <color=#c89a45>5%</color> of Resonance Energy to the active Resonator.,"Mỗi tầng ""Dấu Ấn Đánh Thường"" giúp bản thân tăng thêm <color=#c89a45>5%</color> sát thương lên mục tiêu bị tê liệt, khi nhận dấu ấn, hồi phục <color=#c89a45>5%</color> Năng Lượng Cộng Hưởng;"
-lang_multi_text.db,MultiText,bossrush3_1_desc,"<color=#c89a45>技巧评分增益：普攻命中时叠加【普攻标记】，层数越高，对瘫痪中的目标伤害越高。</color>
-普攻命中目标时，队伍的技巧评分获取效率提升<color=#c89a45>20%</color>，持续3秒，给队伍中的角色叠加<color=#c89a45>1层</color>【普攻标记】，并削减目标<color=#c89a45>1%</color>共振度。
-<size=5> </size>
-A：每层【普攻标记】使自身对瘫痪中的目标伤害提升<color=#c89a45>2%</color>，获得标记时，回复自身<color=#c89a45>5点</color>协奏能量；
-<size=5> </size>
-S：每层【普攻标记】使自身对瘫痪中的目标伤害额外提升<color=#c89a45>5%</color>，获得标记时，回复自身<color=#c89a45>5%</color>共鸣能量；
-<size=5> </size>
-SS：每层【普攻标记】使自身对瘫痪中的目标伤害额外提升<color=#c89a45>10%</color>。","<color=#c89a45>Combat Rank Buff: Basic Attack grants Basic Attack Mark. Damage dealt to the immobilized target scales with the number of marks owned.</color>
-
-Hitting a target with Basic Attack increases Combat Rank efficiency by <color=#c89a45>20%</color> for 3s, grants <color=#c89a45>1 stack</color> of Basic Attack Mark to all team members, and reduces the target's Vibration Strength by <color=#c89a45>1%</color>.
-<size=5> </size>
-A: Each stack of Basic Attack Mark increases the active Resonator's damage to immobilized targets by <color=#c89a45>2%</color>. Receiving a mark recovers <color=#c89a45>5</color> Concerto Energy to the active Resonator.
-<size=5> </size>
-S: Each stack of Basic Attack Mark increases the active Resonator's damage to immobilized targets by an additional <color=#c89a45>5%</color>. Receiving a mark recovers <color=#c89a45>5%</color> of Resonance Energy to the active Resonator.
-<size=5> </size>
-SS: Each stack of Basic Attack Mark increases the active Resonator's damage to immobilized targets by an additional <color=#c89a45>10%</color>.","<color=#c89a45>Buff Điểm Kỹ Thuật: Khi Đánh Thường trúng đích sẽ tích lũy ""Dấu Ấn Đánh Thường"", tầng càng cao, sát thương lên mục tiêu bị tê liệt càng lớn.</color>
-Khi Đánh Thường trúng mục tiêu, hiệu suất nhận Điểm Kỹ Thuật của đội tăng <color=#c89a45>20%</color>, duy trì 3s, đồng thời tích lũy <color=#c89a45>1 tầng</color> ""Dấu Ấn Đánh Thường"" cho nhân vật trong đội, và giảm <color=#c89a45>1%</color> Độ Rung của mục tiêu.
-<size=5> </size>
-A: Mỗi tầng ""Dấu Ấn Đánh Thường"" giúp bản thân tăng <color=#c89a45>2%</color> sát thương lên mục tiêu bị tê liệt, khi nhận dấu ấn, hồi phục <color=#c89a45>5 điểm</color> Năng Lượng Hiệp Tấu;
-<size=5> </size>
-S: Mỗi tầng ""Dấu Ấn Đánh Thường"" giúp bản thân tăng thêm <color=#c89a45>5%</color> sát thương lên mục tiêu bị tê liệt, khi nhận dấu ấn, hồi phục <color=#c89a45>5%</color> Năng Lượng Cộng Hưởng;
-<size=5> </size>
-SS: Mỗi tầng ""Dấu Ấn Đánh Thường"" giúp bản thân tăng thêm <color=#c89a45>10%</color> sát thương lên mục tiêu bị tê liệt."
-lang_multi_text.db,MultiText,bossrush3_1_gamedesc,普攻命中目标时，获得【普攻标记】，使自身对瘫痪中的目标伤害提升。,"Hitting a target with Basic Attack grants Basic Attack Mark, increasing the active Resonator's damage to immobilized targets.","Khi Đánh Thường trúng mục tiêu, nhận ""Dấu Ấn Đánh Thường"", giúp tăng sát thương bản thân gây ra cho mục tiêu đang bị tê liệt."
-lang_multi_text.db,MultiText,bossrush3_1_leveltitle,技巧评分A,Combat Rank A,Điểm Kỹ Thuật A
-lang_multi_text.db,MultiText,bossrush3_1_title,普攻·破势,Basic Attack: Oppression,Đánh Thường: Phá Thế
-lang_multi_text.db,MultiText,bossrush3_2_A_desc,每附加<color=#c89a45>8层</color>【重击标记】时，队伍中的角色回复<color=#c89a45>10点</color>协奏能量、<color=#c89a45>10%</color>共鸣能量；,"For every <color=#c89a45>8 stacks</color> of Heavy Attack Mark, all team members recover <color=#c89a45>10</color> Concerto Energy and <color=#c89a45>10%</color> of Resonance Energy.","Mỗi khi gắn thêm <color=#c89a45>8 tầng</color> ""Dấu Ấn Đánh Mạnh"", nhân vật trong đội hồi phục <color=#c89a45>10 điểm</color> Năng Lượng Hiệp Tấu, <color=#c89a45>10%</color> Năng Lượng Cộng Hưởng;"
-lang_multi_text.db,MultiText,bossrush3_2_SS_desc,【重击标记】叠加至<color=#c89a45>8层</color>时，为目标附加<color=#c89a45>1层</color>【崩解标记】，使目标受到伤害，每层【崩解标记】使此次伤害翻倍，最多可触发10次。,"Upon reaching <color=#c89a45>8 stacks</color> of Heavy Attack Mark, <color=#c89a45>1 stack</color> of Collapse Mark is inflicted on the target, dealing damage. Each stack of Collapse Mark doubles the damage dealt, triggered up to 10 times.","Khi ""Dấu Ấn Đánh Mạnh"" tích lũy đến <color=#c89a45>8 tầng</color>, gắn thêm <color=#c89a45>1 tầng</color> ""Dấu Ấn Băng Hoại"" lên mục tiêu, khiến mục tiêu chịu sát thương, mỗi tầng ""Dấu Ấn Băng Hoại"" nhân đôi sát thương lần này, kích hoạt tối đa 10 lần."
-lang_multi_text.db,MultiText,bossrush3_2_S_desc,【重击标记】叠加至<color=#c89a45>8层</color>时，额外削减目标<color=#c89a45>25%</color>共振度；,"Upon reaching <color=#c89a45>8 stacks</color> of Heavy Attack Mark, the target's Vibration Strength is reduced by an additional <color=#c89a45>25%</color>.","Khi ""Dấu Ấn Đánh Mạnh"" tích lũy đến <color=#c89a45>8 tầng</color>, giảm thêm <color=#c89a45>25%</color> Độ Rung của mục tiêu;"
-lang_multi_text.db,MultiText,bossrush3_2_desc,"<color=#c89a45>技巧评分增益：造成重击伤害可叠加【重击标记】，层数越高，对目标造成伤害越高。</color>
-造成重击伤害时，队伍的技巧评分获取效率提升<color=#c89a45>20%</color>，持续5秒，并为目标附加<color=#c89a45>1层</color>【重击标记】；【重击标记】叠加至<color=#c89a45>8层</color>时，削减目标<color=#c89a45>25%</color>共振度，并移除【重击标记】。
-<size=5> </size>
-A：每附加<color=#c89a45>8层</color>【重击标记】时，队伍中的角色回复<color=#c89a45>10点</color>协奏能量、<color=#c89a45>10%</color>共鸣能量；
-<size=5> </size>
-S：【重击标记】叠加至<color=#c89a45>8层</color>时，额外削减目标<color=#c89a45>25%</color>共振度；
-<size=5> </size>
-SS：【重击标记】叠加至<color=#c89a45>8层</color>时，为目标附加<color=#c89a45>1层</color>【崩解标记】，使目标受到伤害，每层【崩解标记】使此次伤害翻倍，最多可触发10次。","<color=#c89a45>Combat Rank Buff: Dealing Heavy Attack DMG grants Heavy Attack Mark. Damage dealt to the target scales with the number of marks owned.</color>
-
-Dealing Heavy Attack DMG increases Combat Rank efficiency by <color=#c89a45>20%</color> for 5s and inflicts <color=#c89a45>1 stack</color> of Heavy Attack Mark on the target. Upon reaching <color=#c89a45>8 stacks</color> of Heavy Attack Mark, all stacks are removed to reduce the target's Vibration Strength by <color=#c89a45>25%</color>.
-<size=5> </size>
-A: For every <color=#c89a45>8 stacks</color> of Heavy Attack Mark, all team members recover <color=#c89a45>10</color> Concerto Energy and <color=#c89a45>10%</color> of Resonance Energy.
-<size=5> </size>
-S: Upon reaching <color=#c89a45>8 stacks</color> of Heavy Attack Mark, the target's Vibration Strength is reduced by an additional <color=#c89a45>25%</color>.
-<size=5> </size>
-SS: Upon reaching <color=#c89a45>8 stacks</color> of Heavy Attack Mark, <color=#c89a45>1 stack</color> of Collapse Mark is inflicted on the target, dealing damage. Each stack of Collapse Mark doubles the damage dealt, triggered up to 10 times.","<color=#c89a45>Buff Điểm Kỹ Thuật: Gây sát thương Đánh Mạnh có thể tích lũy ""Dấu Ấn Đánh Mạnh"", tầng càng cao, sát thương gây ra cho mục tiêu càng lớn.</color>
-Khi gây sát thương Đánh Mạnh, hiệu suất nhận Điểm Kỹ Thuật của đội tăng <color=#c89a45>20%</color>, duy trì 5s, và gắn <color=#c89a45>1 tầng</color> ""Dấu Ấn Đánh Mạnh"" lên mục tiêu; khi ""Dấu Ấn Đánh Mạnh"" tích lũy đến <color=#c89a45>8 tầng</color>, giảm <color=#c89a45>25%</color> Độ Rung của mục tiêu và xóa bỏ ""Dấu Ấn Đánh Mạnh"".
-<size=5> </size>
-A: Mỗi khi gắn thêm <color=#c89a45>8 tầng</color> ""Dấu Ấn Đánh Mạnh"", nhân vật trong đội hồi phục <color=#c89a45>10 điểm</color> Năng Lượng Hiệp Tấu, <color=#c89a45>10%</color> Năng Lượng Cộng Hưởng;
-<size=5> </size>
-S: Khi ""Dấu Ấn Đánh Mạnh"" tích lũy đến <color=#c89a45>8 tầng</color>, giảm thêm <color=#c89a45>25%</color> Độ Rung của mục tiêu;
-<size=5> </size>
-SS: Khi ""Dấu Ấn Đánh Mạnh"" tích lũy đến <color=#c89a45>8 tầng</color>, gắn thêm <color=#c89a45>1 tầng</color> ""Dấu Ấn Băng Hoại"" lên mục tiêu, khiến mục tiêu chịu sát thương, mỗi tầng ""Dấu Ấn Băng Hoại"" nhân đôi sát thương lần này, kích hoạt tối đa 10 lần."
-lang_multi_text.db,MultiText,bossrush3_2_gamedesc,造成重击伤害时，为目标附加【重击标记】，叠加至8层时，扣减目标共振度、生命值。,"Dealing Heavy Attack DMG inflicts Heavy Attack Mark on the target. Upon reaching 8 stacks, all stacks are removed to reduce the target's Vibration Strength, dealing damage.","Khi gây sát thương Đánh Mạnh, gắn ""Dấu Ấn Đánh Mạnh"" lên mục tiêu, khi tích lũy đến 8 tầng sẽ giảm Độ Rung và HP của mục tiêu."
-lang_multi_text.db,MultiText,bossrush3_2_leveltitle,技巧评分S,Combat Rank S,Điểm Kỹ Thuật S
-lang_multi_text.db,MultiText,bossrush3_2_title,重击·增幅,Heavy Attack: High Morale,Đánh Mạnh: Tăng Phúc
-lang_multi_text.db,MultiText,bossrush3_3_A_desc,获得【共鸣解放标记】时，回复<color=#c89a45>10点</color>协奏能量；施放共鸣解放时，每层【共鸣解放标记】使自身共鸣解放伤害提升<color=#c89a45>10%</color>，并清除自身的【共鸣解放标记】；,"Receiving Resonance Liberation Mark recovers <color=#c89a45>10</color> Concerto Energy. Casting Resonance Liberation removes all stacks of Resonance Liberation Mark, and each stack of Resonance Liberation Mark increases Resonance Liberation DMG by <color=#c89a45>10%</color>.","Khi nhận ""Dấu Ấn Giải Phóng Cộng Hưởng"", hồi phục <color=#c89a45>10 điểm</color> Năng Lượng Hiệp Tấu; khi thi triển Giải Phóng Cộng Hưởng, mỗi tầng ""Dấu Ấn Giải Phóng Cộng Hưởng"" tăng <color=#c89a45>10%</color> sát thương Giải Phóng Cộng Hưởng của bản thân, đồng thời xóa bỏ ""Dấu Ấn Giải Phóng Cộng Hưởng"" của bản thân;"
-lang_multi_text.db,MultiText,bossrush3_3_SS_desc,共鸣能量充满时，每秒额外获得<color=#c89a45>1层</color>【共鸣解放标记】；施放共鸣解放时，每层【共鸣解放标记】使自身共鸣解放伤害额外提升<color=#c89a45>40%</color>。,"When Resonance Energy is full, <color=#c89a45>1 stack</color> of Resonance Liberation Mark is additionally granted per second. Each stack of Resonance Liberation Mark increases Resonance Liberation DMG by an additional <color=#c89a45>40%</color>.","Khi Năng Lượng Cộng Hưởng đầy, mỗi giây nhận thêm <color=#c89a45>1 tầng</color> ""Dấu Ấn Giải Phóng Cộng Hưởng""; khi thi triển Giải Phóng Cộng Hưởng, mỗi tầng ""Dấu Ấn Giải Phóng Cộng Hưởng"" tăng thêm <color=#c89a45>40%</color> sát thương Giải Phóng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,bossrush3_3_S_desc,每清除1层【共鸣解放标记】，回复自身<color=#c89a45>10%</color>共鸣能量；【共鸣解放标记】叠加至<color=#c89a45>10层</color>时，自身下1次共鸣解放冷却时间减少<color=#c89a45>100%</color>；,"Every stack of Resonance Liberation Mark removed recovers the active Resonator's Resonance Energy by <color=#c89a45>10%</color>. Upon reaching <color=#c89a45>10 stacks</color> of Resonance Liberation Mark, the active Resonator's next Resonance Liberation cooldown is reduced by <color=#c89a45>100%</color>.","Mỗi khi xóa 1 tầng ""Dấu Ấn Giải Phóng Cộng Hưởng"", hồi phục <color=#c89a45>10%</color> Năng Lượng Cộng Hưởng cho bản thân; khi ""Dấu Ấn Giải Phóng Cộng Hưởng"" tích lũy đến <color=#c89a45>10 tầng</color>, thời gian hồi chiêu Giải Phóng Cộng Hưởng lần tiếp theo của bản thân giảm <color=#c89a45>100%</color>;"
-lang_multi_text.db,MultiText,bossrush3_3_desc,"<color=#c89a45>技巧评分增益：【共鸣解放标记】层数越高，共鸣解放伤害越高。</color>
-进入战斗时额外回复<color=#c89a45>49%</color>共鸣能量。共鸣能量充满时，每秒获得<color=#c89a45>1层</color>【共鸣解放标记】，持有【共鸣解放标记】时，命中目标时，削减目标<color=#c89a45>2%</color>共振度，每0.3秒可触发一次。施放共鸣解放时，队伍的技巧评分获取效率提升<color=#c89a45>20%</color>，持续15秒。
-<size=5> </size>
-A：获得【共鸣解放标记】时，回复<color=#c89a45>10点</color>协奏能量；施放共鸣解放时，每层【共鸣解放标记】使自身共鸣解放伤害提升<color=#c89a45>10%</color>，并清除自身的【共鸣解放标记】；
-<size=5> </size>
-S：每清除1层【共鸣解放标记】，回复自身<color=#c89a45>10%</color>共鸣能量；【共鸣解放标记】叠加至<color=#c89a45>10层</color>时，自身下1次共鸣解放冷却时间减少<color=#c89a45>100%</color>；
-<size=5> </size>
-SS：共鸣能量充满时，每秒额外获得<color=#c89a45>1层</color>【共鸣解放标记】；施放共鸣解放时，每层【共鸣解放标记】使自身共鸣解放伤害额外提升<color=#c89a45>40%</color>。","<color=#c89a45>Combat Rank Buff: Resonance Liberation DMG scales with the number of Resonance Liberation Marks owned.</color>
-
-At the start of the challenge, Resonance Energy is additionally recovered by <color=#c89a45>49%</color>. When Resonance Energy is full, <color=#c89a45>1 stack</color> of Resonance Liberation Mark is granted per second. With Resonance Liberation Mark, hitting a target reduces their Vibration Strength by <color=#c89a45>2%</color>, triggered once every 0.3s. Casting Resonance Liberation increases Combat Rank efficiency by <color=#c89a45>20%</color> for 15s.
-<size=5> </size>
-A: Receiving Resonance Liberation Mark recovers <color=#c89a45>10</color> Concerto Energy. Casting Resonance Liberation removes all stacks of Resonance Liberation Mark, and each stack of Resonance Liberation Mark increases Resonance Liberation DMG by <color=#c89a45>10%</color>.
-<size=5> </size>
-S: Every stack of Resonance Liberation Mark removed recovers the active Resonator's Resonance Energy by <color=#c89a45>10%</color>. Upon reaching <color=#c89a45>10 stacks</color> of Resonance Liberation Mark, the active Resonator's next Resonance Liberation cooldown is reduced by <color=#c89a45>100%</color>.
-<size=5> </size>
-SS: When Resonance Energy is full, <color=#c89a45>1 stack</color> of Resonance Liberation Mark is additionally granted per second. Each stack of Resonance Liberation Mark increases Resonance Liberation DMG by an additional <color=#c89a45>40%</color>.","<color=#c89a45>Buff Điểm Kỹ Thuật: Tầng ""Dấu Ấn Giải Phóng Cộng Hưởng"" càng cao, sát thương Giải Phóng Cộng Hưởng càng lớn.</color>
-Khi vào chiến đấu hồi thêm <color=#c89a45>49%</color> Năng Lượng Cộng Hưởng. Khi Năng Lượng Cộng Hưởng đầy, mỗi giây nhận <color=#c89a45>1 tầng</color> ""Dấu Ấn Giải Phóng Cộng Hưởng"", khi sở hữu ""Dấu Ấn Giải Phóng Cộng Hưởng"", nếu đánh trúng mục tiêu sẽ giảm <color=#c89a45>2%</color> Độ Rung của mục tiêu, mỗi 0.3s kích hoạt một lần. Khi thi triển Giải Phóng Cộng Hưởng, hiệu suất nhận Điểm Kỹ Thuật của đội tăng <color=#c89a45>20%</color>, duy trì 15s.
-<size=5> </size>
-A: Khi nhận ""Dấu Ấn Giải Phóng Cộng Hưởng"", hồi phục <color=#c89a45>10 điểm</color> Năng Lượng Hiệp Tấu; khi thi triển Giải Phóng Cộng Hưởng, mỗi tầng ""Dấu Ấn Giải Phóng Cộng Hưởng"" tăng <color=#c89a45>10%</color> sát thương Giải Phóng Cộng Hưởng của bản thân, đồng thời xóa bỏ ""Dấu Ấn Giải Phóng Cộng Hưởng"" của bản thân;
-<size=5> </size>
-S: Mỗi khi xóa 1 tầng ""Dấu Ấn Giải Phóng Cộng Hưởng"", hồi phục <color=#c89a45>10%</color> Năng Lượng Cộng Hưởng cho bản thân; khi ""Dấu Ấn Giải Phóng Cộng Hưởng"" tích lũy đến <color=#c89a45>10 tầng</color>, thời gian hồi chiêu Giải Phóng Cộng Hưởng lần tiếp theo của bản thân giảm <color=#c89a45>100%</color>;
-<size=5> </size>
-SS: Khi Năng Lượng Cộng Hưởng đầy, mỗi giây nhận thêm <color=#c89a45>1 tầng</color> ""Dấu Ấn Giải Phóng Cộng Hưởng""; khi thi triển Giải Phóng Cộng Hưởng, mỗi tầng ""Dấu Ấn Giải Phóng Cộng Hưởng"" tăng thêm <color=#c89a45>40%</color> sát thương Giải Phóng Cộng Hưởng của bản thân."
-lang_multi_text.db,MultiText,bossrush3_3_gamedesc,共鸣能量充满后，随时间逐渐提升自身伤害。,"When Resonance Energy is full, the active Resonator's damage increases over time.","Sau khi Năng Lượng Cộng Hưởng đầy, sát thương bản thân tăng dần theo thời gian."
-lang_multi_text.db,MultiText,bossrush3_3_leveltitle,技巧评分SS,Combat Rank SS,Điểm Kỹ Thuật SS
-lang_multi_text.db,MultiText,bossrush3_3_title,共鸣解放·连斩,Resonance Liberation: Fierce Slashes,Giải Phóng Cộng Hưởng: Liên Trảm
-lang_multi_text.db,MultiText,bossrush3_4_A_desc,闪避反击命中目标时，队伍中的角色回复<color=#c89a45>50点</color>协奏能量、<color=#c89a45>50%</color>共鸣能量；,Hitting a target with Dodge Counter recovers all team members' Concerto Energy by <color=#c89a45>50</color> and Resonance Energy by <color=#c89a45>50%</color>.,"Khi Né Phản Kích trúng mục tiêu, nhân vật trong đội hồi phục <color=#c89a45>50 điểm</color> Năng Lượng Hiệp Tấu, <color=#c89a45>50%</color> Năng Lượng Cộng Hưởng;"
-lang_multi_text.db,MultiText,bossrush3_4_SS_desc,【闪避反击标记】使自身伤害额外提升<color=#c89a45>1200%</color>，并进入免疫打断状态，持续6秒；闪避反击命中目标时，队伍中的角色额外回复<color=#c89a45>50点</color>协奏能量、<color=#c89a45>50%</color>共鸣能量，共鸣技能、共鸣解放冷却时间减少<color=#c89a45>50%</color>。,"Dodge Counter Mark increases the active Resonator's DMG by an additional <color=#c89a45>1200%</color> and grants immunity to interruption for 6s. Hitting a target with Dodge Counter additionally recovers all team members' Concerto Energy by <color=#c89a45>50</color> and Resonance Energy by <color=#c89a45>50%</color>, while also reducing Resonance Skill cooldown and Resonance Liberation cooldown by <color=#c89a45>50%</color>.","""Dấu Ấn Né Phản Kích"" giúp sát thương bản thân tăng thêm <color=#c89a45>1200%</color>, đồng thời tiến vào trạng thái miễn nhiễm gián đoạn, duy trì 6s; khi Né Phản Kích trúng mục tiêu, nhân vật trong đội hồi phục thêm <color=#c89a45>50 điểm</color> Năng Lượng Hiệp Tấu, <color=#c89a45>50%</color> Năng Lượng Cộng Hưởng, thời gian hồi Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng giảm <color=#c89a45>50%</color>."
-lang_multi_text.db,MultiText,bossrush3_4_S_desc,闪避反击命中目标时，队伍中的角色共鸣技能、共鸣解放冷却时间降低<color=#c89a45>50%</color>；,Hitting a target with Dodge Counter reduces Resonance Skill cooldown and Resonance Liberation cooldown of all team members by <color=#c89a45>50%</color>.,"Khi Né Phản Kích trúng mục tiêu, thời gian hồi Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng của nhân vật trong đội giảm <color=#c89a45>50%</color>;"
-lang_multi_text.db,MultiText,bossrush3_4_desc,"<color=#c89a45>技巧评分增益：闪避反击命中目标时获得【闪避反击标记】，获得伤害提升。</color>
-队伍中的角色伤害提升<color=#c89a45>50%</color>，但无法直接削减目标共振度。
-<size=5> </size>
-闪避反击命中目标时，队伍的技巧评分获取效率提升<color=#c89a45>20%</color>，队伍中的角色获得【闪避反击标记】，使自身伤害提升<color=#c89a45>300%</color>，持续6秒。
-<size=5> </size>
-A：闪避反击命中目标时，队伍中的角色回复<color=#c89a45>50点</color>协奏能量、<color=#c89a45>50%</color>共鸣能量；
-<size=5> </size>
-S：闪避反击命中目标时，队伍中的角色共鸣技能、共鸣解放冷却时间降低<color=#c89a45>50%</color>；
-<size=5> </size>
-SS：【闪避反击标记】使自身伤害额外提升<color=#c89a45>1200%</color>，并进入免疫打断状态，持续6秒；闪避反击命中目标时，队伍中的角色额外回复<color=#c89a45>50点</color>协奏能量、<color=#c89a45>50%</color>共鸣能量，共鸣技能、共鸣解放冷却时间减少<color=#c89a45>50%</color>。","<color=#c89a45>Combat Rank Buff: Hitting a target with Dodge Counter grants Dodge Counter Mark, increasing the DMG dealt.</color>
-
-All team members deal <color=#c89a45>50%</color> more DMG but cannot reduce the target's Vibration Strength with attacks other than Dodge Counter.
-<size=5> </size>
-Hitting a target with Dodge Counter increases Combat Rank efficiency by <color=#c89a45>20%</color>, grants Dodge Counter Mark to all team members, and increases the active Resonator's DMG by <color=#c89a45>300%</color> for 6s.
-<size=5> </size>
-A: Hitting a target with Dodge Counter recovers all team members' Concerto Energy by <color=#c89a45>50</color> and Resonance Energy by <color=#c89a45>50%</color>.
-<size=5> </size>
-S: Hitting a target with Dodge Counter reduces all team members' Resonance Skill cooldown and Resonance Liberation cooldown by <color=#c89a45>50%</color>.
-<size=5> </size>
-SS: Dodge Counter Mark increases the active Resonator's DMG by an additional <color=#c89a45>1200%</color> and grants immunity to interruption for 6s. Hitting a target with Dodge Counter additionally recovers all team members' Concerto Energy by <color=#c89a45>50</color> and Resonance Energy by <color=#c89a45>50%</color>, while also reducing Resonance Skill cooldown and Resonance Liberation cooldown by <color=#c89a45>50%</color>.","<color=#c89a45>Buff Điểm Kỹ Thuật: Khi Né Phản Kích trúng mục tiêu sẽ nhận ""Dấu Ấn Né Phản Kích"", tăng sát thương gây ra.</color>
-Sát thương của nhân vật trong đội tăng <color=#c89a45>50%</color>, nhưng không thể trực tiếp giảm Độ Rung của mục tiêu.
-<size=5> </size>
-Khi Né Phản Kích trúng mục tiêu, hiệu suất nhận Điểm Kỹ Thuật của đội tăng <color=#c89a45>20%</color>, nhân vật trong đội nhận ""Dấu Ấn Né Phản Kích"", giúp sát thương bản thân tăng <color=#c89a45>300%</color>, duy trì 6s.
-<size=5> </size>
-A: Khi Né Phản Kích trúng mục tiêu, nhân vật trong đội hồi phục <color=#c89a45>50 điểm</color> Năng Lượng Hiệp Tấu, <color=#c89a45>50%</color> Năng Lượng Cộng Hưởng;
-<size=5> </size>
-S: Khi Né Phản Kích trúng mục tiêu, thời gian hồi Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng của nhân vật trong đội giảm <color=#c89a45>50%</color>;
-<size=5> </size>
-SS: ""Dấu Ấn Né Phản Kích"" giúp sát thương bản thân tăng thêm <color=#c89a45>1200%</color>, đồng thời tiến vào trạng thái miễn nhiễm gián đoạn, duy trì 6s; khi Né Phản Kích trúng mục tiêu, nhân vật trong đội hồi phục thêm <color=#c89a45>50 điểm</color> Năng Lượng Hiệp Tấu, <color=#c89a45>50%</color> Năng Lượng Cộng Hưởng, thời gian hồi Kỹ Năng Cộng Hưởng và Giải Phóng Cộng Hưởng giảm <color=#c89a45>50%</color>."
-lang_multi_text.db,MultiText,bossrush3_4_gamedesc,闪避反击命中目标时，回复协奏能量、共鸣能量，减少冷却时间，获得伤害提升。,"Hitting a target with Dodge Counter recovers Concerto Energy and Resonance Energy, reduces cooldowns, and increases damage.","Khi Né Phản Kích trúng mục tiêu, hồi phục Năng Lượng Hiệp Tấu, Năng Lượng Cộng Hưởng, giảm thời gian hồi chiêu, tăng sát thương."
-lang_multi_text.db,MultiText,bossrush3_4_title,闪避反击·回舞,Dodge Counter: Swirling Dance,Né Phản Kích: Hồi Vũ
-lang_multi_text.db,MultiText,bossrush3_5_A_desc,声骸技能命中目标时，额外削减目标<color=#c89a45>18%</color>共振度，队伍中的角色回复<color=#c89a45>50点</color>协奏能量，每5秒可触发一次；,Hitting a target with Echo Skill reduces their Vibration Strength by an additional <color=#c89a45>18%</color> and recovers all team members' Concerto Energy by <color=#c89a45>50</color>. This effect can be triggered once every 5s.,"Khi Kỹ Năng Thanh Hài trúng mục tiêu, giảm thêm <color=#c89a45>18%</color> Độ Rung của mục tiêu, nhân vật trong đội hồi phục <color=#c89a45>50 điểm</color> Năng Lượng Hiệp Tấu, mỗi 5s kích hoạt một lần;"
-lang_multi_text.db,MultiText,bossrush3_5_SS_desc,声骸技能伤害提升<color=#c89a45>1500%</color>。,Echo Skill DMG is increased by <color=#c89a45>1500%</color>.,Sát thương Kỹ Năng Thanh Hài tăng <color=#c89a45>1500%</color>.
-lang_multi_text.db,MultiText,bossrush3_5_S_desc,攻击命中目标时，声骸技能冷却减少<color=#c89a45>50%</color>，每5秒可触发1次；,Hitting a target reduces Echo Skill cooldown by <color=#c89a45>50%</color>. This effect can be triggered once every 5s.,"Khi tấn công trúng mục tiêu, thời gian hồi Kỹ Năng Thanh Hài giảm <color=#c89a45>50%</color>, mỗi 5s kích hoạt 1 lần;"
-lang_multi_text.db,MultiText,bossrush3_5_desc,"<color=#c89a45>技巧评分增益：声骸技能冷却时间缩短、伤害提升。</color>
-施放声骸技能时，队伍的技巧评分获取效率提升<color=#c89a45>20%</color>，持续12秒，每5秒可触发1次；声骸技能命中目标时，削减目标<color=#c89a45>18%</color>共振度，每5秒可触发一次。
-<size=5> </size>
-A：声骸技能命中目标时，额外削减目标<color=#c89a45>18%</color>共振度，队伍中的角色回复<color=#c89a45>50点</color>协奏能量，每5秒可触发一次；
-<size=5> </size>
-S：攻击命中目标时，声骸技能冷却减少<color=#c89a45>50%</color>，每5秒可触发1次；
-<size=5> </size>
-SS：声骸技能伤害提升<color=#c89a45>1500%</color>。","<color=#c89a45>Combat Rank Buff: Echo Skill cooldown is reduced, and Echo Skill DMG is increased.</color>
-
-Casting Echo Skill increases Combat Rank efficiency by <color=#c89a45>20%</color> for 12s, triggered once every 5s. Hitting a target with Echo Skill reduces their Vibration Strength by <color=#c89a45>18%</color>, triggered once every 5s.
-
-<size=5> </size>
-
-A: Hitting a target with Echo Skill reduces their Vibration Strength by an additional <color=#c89a45>18%</color> and recovers all team members' Concerto Energy by <color=#c89a45>50</color>. This effect can be triggered once every 5s.
-
-<size=5> </size>
-
-S: Hitting a target reduces Echo Skill cooldown by <color=#c89a45>50%</color>. This effect can be triggered once every 5s.
-
-<size=5> </size>
-
-SS: Echo Skill DMG is increased by <color=#c89a45>1500%</color>.","<color=#c89a45>Buff Điểm Kỹ Thuật: Giảm thời gian hồi chiêu và tăng sát thương Kỹ Năng Thanh Hài.</color>
-Khi thi triển Kỹ Năng Thanh Hài, hiệu suất nhận Điểm Kỹ Thuật của đội tăng <color=#c89a45>20%</color>, duy trì 12s, mỗi 5s kích hoạt 1 lần; khi Kỹ Năng Thanh Hài trúng mục tiêu, giảm <color=#c89a45>18%</color> Độ Rung của mục tiêu, mỗi 5s kích hoạt một lần.
-<size=5> </size>
-A: Khi Kỹ Năng Thanh Hài trúng mục tiêu, giảm thêm <color=#c89a45>18%</color> Độ Rung của mục tiêu, nhân vật trong đội hồi phục <color=#c89a45>50 điểm</color> Năng Lượng Hiệp Tấu, mỗi 5s kích hoạt một lần;
-<size=5> </size>
-S: Khi tấn công trúng mục tiêu, thời gian hồi Kỹ Năng Thanh Hài giảm <color=#c89a45>50%</color>, mỗi 5s kích hoạt 1 lần;
-<size=5> </size>
-SS: Sát thương Kỹ Năng Thanh Hài tăng <color=#c89a45>1500%</color>."
-lang_multi_text.db,MultiText,bossrush3_5_gamedesc,声骸技能命中时，削减目标共振度。,Hitting a target with Echo Skill reduces their Vibration Strength.,"Khi Kỹ Năng Thanh Hài trúng đích, giảm Độ Rung của mục tiêu."
-lang_multi_text.db,MultiText,bossrush3_5_title,声骸技能·瞬影,Echo Skill: Rapid Shade,Kỹ Năng Thanh Hài: Thuấn Ảnh
-lang_multi_text.db,MultiText,bossrush3_6_A_desc,攻击携带【光噪效应】的目标时，额外削减目标<color=#c89a45>5%</color>共振度，每0.3秒可触发1次，并且使队伍中的角色回复<color=#c89a45>10点</color>协奏能量，每3秒可触发1次；,"Attacking targets inflicted by Spectro Frazzle reduces their Vibration Strength by an additional <color=#c89a45>5%</color>, triggered once every 0.3s, and recovers all team members' Concerto Energy by <color=#c89a45>10</color>, triggered once every 3s.","Khi tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"", giảm thêm <color=#c89a45>5%</color> Độ Rung của mục tiêu, mỗi 0.3s kích hoạt 1 lần, đồng thời giúp nhân vật trong đội hồi phục <color=#c89a45>10 điểm</color> Năng Lượng Hiệp Tấu, mỗi 3s kích hoạt 1 lần;"
-lang_multi_text.db,MultiText,bossrush3_6_SS_desc,每层【光噪标记】使自身的伤害额外提升<color=#c89a45>18%</color>；攻击携带【光噪效应】的目标时，队伍中的角色共鸣解放冷却时间减少<color=#c89a45>10%</color>，每3秒可触发1次。,Each stack of Spectro Frazzle increases the active Resonator's damage by an additional <color=#c89a45>18%</color>. Attacking targets with Spectro Frazzle reduces all team members' Resonance Liberation cooldown by <color=#c89a45>10%</color>. This effect can be triggered once every 3s.,"Mỗi tầng ""Dấu Ấn Quang Nhiễu"" giúp sát thương bản thân tăng thêm <color=#c89a45>18%</color>; khi tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"", thời gian hồi Giải Phóng Cộng Hưởng của nhân vật trong đội giảm <color=#c89a45>10%</color>, mỗi 3s kích hoạt 1 lần."
-lang_multi_text.db,MultiText,bossrush3_6_S_desc,攻击携带【光噪效应】的目标时，队伍中的角色回复<color=#c89a45>10%</color>共鸣能量，每3秒可触发1次；,Attacking targets with Spectro Frazzle recovers all team members' Resonance Energy by <color=#c89a45>10%</color>. This effect can be triggered once every 3s.,"Khi tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"", nhân vật trong đội hồi phục <color=#c89a45>10%</color> Năng Lượng Cộng Hưởng, mỗi 3s kích hoạt 1 lần;"
-lang_multi_text.db,MultiText,bossrush3_6_desc,"<color=#c89a45>技巧评分增益：攻击携带【光噪效应】的目标时，伤害提升。</color>
-进入战斗时，额外回复50%共鸣能量。攻击携带【光噪效应】的目标时，队伍的技巧评分获取效率提升<color=#c89a45>20%</color>，持续5秒，并且队伍中的角色获得<color=#c89a45>1层</color>【光噪标记】，以上效果每3秒可以触发1次；每层【光噪标记】使自身的伤害提升<color=#c89a45>2%</color>。
-<size=5> </size>
-A：攻击携带【光噪效应】的目标时，额外削减目标<color=#c89a45>5%</color>共振度，每0.3秒可触发1次，并且使队伍中的角色回复<color=#c89a45>10点</color>协奏能量，每3秒可触发1次；
-<size=5> </size>
-S：攻击携带【光噪效应】的目标时，队伍中的角色回复<color=#c89a45>10%</color>共鸣能量，每3秒可触发1次；
-<size=5> </size>
-SS：每层【光噪标记】使自身的伤害额外提升<color=#c89a45>18%</color>；攻击携带【光噪效应】的目标时，队伍中的角色共鸣解放冷却时间减少<color=#c89a45>10%</color>，每3秒可触发1次。","<color=#c89a45>Combat Rank Buff: Attacking targets with Spectro Frazzle increases damage dealt.</color>
-
-At the start of the challenge, Resonance Energy is restored by an additional 50%. Attacking targets with Spectro Frazzle increases Combat Rank efficiency by <color=#c89a45>20%</color> for 5s and grants all team members <color=#c89a45>1 stack</color> of Spectro Frazzle. These two effects are triggered once every 3s. Each stack of Spectro Frazzle increases the active Resonator's damage by <color=#c89a45>2%</color>.
-<size=5> </size>
-A: Attacking targets inflicted by Spectro Frazzle reduces their Vibration Strength by an additional <color=#c89a45>5%</color>, triggered once every 0.3s, and recovers all team members' Concerto Energy by <color=#c89a45>10</color>, triggered once every 3s.
-<size=5> </size>
-S: Attacking targets with Spectro Frazzle recovers all team members' Resonance Energy by <color=#c89a45>10%</color>. This effect can be triggered once every 3s.
-<size=5> </size>
-SS: Each stack of Spectro Frazzle increases the active Resonator's damage by an additional <color=#c89a45>18%</color>. Attacking targets with Spectro Frazzle reduces all team members' Resonance Liberation cooldown by <color=#c89a45>10%</color>. This effect can be triggered once every 3s.","<color=#c89a45>Buff Điểm Kỹ Thuật: Tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"" sẽ tăng sát thương.</color>
-Khi vào chiến đấu, hồi thêm 50% Năng Lượng Cộng Hưởng. Khi tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"", hiệu suất nhận Điểm Kỹ Thuật của đội tăng <color=#c89a45>20%</color>, duy trì 5s, đồng thời nhân vật trong đội nhận <color=#c89a45>1 tầng</color> ""Dấu Ấn Quang Nhiễu"", các hiệu quả trên mỗi 3s kích hoạt 1 lần; mỗi tầng ""Dấu Ấn Quang Nhiễu"" giúp sát thương bản thân tăng <color=#c89a45>2%</color>.
-<size=5> </size>
-A: Khi tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"", giảm thêm <color=#c89a45>5%</color> Độ Rung của mục tiêu, mỗi 0.3s kích hoạt 1 lần, đồng thời giúp nhân vật trong đội hồi phục <color=#c89a45>10 điểm</color> Năng Lượng Hiệp Tấu, mỗi 3s kích hoạt 1 lần;
-<size=5> </size>
-S: Khi tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"", nhân vật trong đội hồi phục <color=#c89a45>10%</color> Năng Lượng Cộng Hưởng, mỗi 3s kích hoạt 1 lần;
-<size=5> </size>
-SS: Mỗi tầng ""Dấu Ấn Quang Nhiễu"" giúp sát thương bản thân tăng thêm <color=#c89a45>18%</color>; khi tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"", thời gian hồi Giải Phóng Cộng Hưởng của nhân vật trong đội giảm <color=#c89a45>10%</color>, mỗi 3s kích hoạt 1 lần."
-lang_multi_text.db,MultiText,bossrush3_6_gamedesc,攻击携带【光噪效应】的目标时，队伍中的角色可回复协奏能量、共鸣能量，获得伤害提升。,"Attacking targets with Spectro Frazzle recovers all team members' Concerto Energy, Resonance Energy, and increases their damage.","Khi tấn công mục tiêu mang ""Hiệu Ứng Quang Nhiễu"", nhân vật trong đội có thể hồi phục Năng Lượng Hiệp Tấu, Năng Lượng Cộng Hưởng và tăng sát thương."
-lang_multi_text.db,MultiText,bossrush3_6_title,光噪效应·聚能,Spectro Frazzle: Energy Convergence,Hiệu Ứng Quang Nhiễu: Tụ Năng
-lang_multi_text.db,MultiText,bossrush3_reward_1,本关分数达到1000分,"Reach 1,000 points in the current stage",Điểm màn chơi đạt 1000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_10,本关分数达到2000分,"Reach 2,000 points in the current stage",Điểm màn chơi đạt 2000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_11,本关分数达到3500分,"Reach 3,500 points in the current stage",Điểm màn chơi đạt 3500 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_12,本关分数达到5500分,"Reach 5,500 points in the current stage",Điểm màn chơi đạt 5500 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_13,本关分数达到1000分,"Reach 1,000 points in the current stage",Điểm màn chơi đạt 1000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_14,本关分数达到2000分,"Reach 2,000 points in the current stage",Điểm màn chơi đạt 2000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_15,本关分数达到3500分,"Reach 3,500 points in the current stage",Điểm màn chơi đạt 3500 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_16,本关分数达到5500分,"Reach 5,500 points in the current stage",Điểm màn chơi đạt 5500 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_17,本关分数达到2000分,"Reach 2,000 points in the current stage",Điểm màn chơi đạt 2000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_18,本关分数达到3500分,"Reach 3,500 points in the current stage",Điểm màn chơi đạt 3500 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_19,本关分数达到5500分,"Reach 5,500 points in the current stage",Điểm màn chơi đạt 5500 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_2,本关分数达到2000分,"Reach 2,000 points in the current stage",Điểm màn chơi đạt 2000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_20,本关分数达到8000分,"Reach 8,000 points in the current stage",Điểm màn chơi đạt 8000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_21,本关分数达到2000分,"Reach 2,000 points in the current stage",Điểm màn chơi đạt 2000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_22,本关分数达到3500分,"Reach 3,500 points in the current stage",Điểm màn chơi đạt 3500 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_23,本关分数达到5500分,"Reach 5,500 points in the current stage",Điểm màn chơi đạt 5500 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_24,本关分数达到8000分,"Reach 8,000 points in the current stage",Điểm màn chơi đạt 8000 điểm
-lang_multi_text.db,MultiText,bossrush3_reward_25,使用【光噪效应·聚能】增益击败任意敌人,Defeat any enemy with a buff in Spectro Frazzle: Energy Convergence,"Sử dụng buff ""Hiệu Ứng Quang Nhiễu: Tụ Năng"" đánh bại kẻ địch bất kỳ"
-lang_multi_text.db,MultiText,bossrush3_reward_26,使用【普攻·破势】增益击败任意敌人,Defeat any enemy with a buff in Basic Attack: Oppression,"Sử dụng buff ""Đánh Thường: Phá Thế"" đánh bại kẻ địch bất kỳ"
-lang_multi_text.db,MultiText,bossrush3_reward_27,使用【重击·增幅】增益击败任意敌人,Defeat any enemy with a buff in Heavy Attack: High Morale,"Sử dụng buff ""Đánh Mạnh: Tăng Phúc"" đánh bại kẻ địch bất kỳ"
+lang_multi_text.db,MultiText,YYYHZG_5_27,那我还是和您一起去吧，如果遇到危险的话我会努力逃跑，绝对不会拖累您的！,"Then yes, I should join you. I promise I won't drag you down. If there's danger, I'll do my best to run away!","Vậy tôi đi cùng ngài nhé, nếu gặp nguy hiểm tôi sẽ cố gắng chạy trốn, tuyệt đối không làm vướng chân ngài đâu!"
+lang_multi_text.db,MultiText,YYYHZG_7_1,全知全能的岁主啊，请您庇佑我明日出海顺利！,"All-knowing and all-powerful Sentinel, please bless me with smooth sailing tomorrow!","Tuế Chủ toàn tri toàn năng ơi, xin Ngài phù hộ cho con ngày mai ra khơi thuận lợi!"
+lang_multi_text.db,MultiText,YYYHZG_7_2,你拿每天跪在这的时间去修补下渔船不好吗？,"Instead of praying here every day, why don't you go fix the fishing boat?",Anh lấy thời gian quỳ ở đây mỗi ngày đi sửa thuyền đánh cá không tốt hơn sao?
+lang_multi_text.db,MultiText,YYYHZG_7_3,奶奶，你怎么能在岁主面前说出这么不敬的话！,"Grandma, how can you say such a disrespectful thing in front of the Sentinel!","Bà ơi, sao bà có thể nói những lời bất kính như vậy trước mặt Tuế Chủ!"
+lang_multi_text.db,MultiText,YYYHZG_7_4,那不是岁主，只是你们擅自堆起的石块罢了。,That's not the Sentinel. It's nothing more than a pile of stones you've gathered.,"Đó không phải là Tuế Chủ, chỉ là đống đá các anh tự tiện chất lên thôi."
+lang_multi_text.db,MultiText,YYYHZG_7_5,岁主指引我们来到这里建立新家园，你们却想把各种琐事都赖给岁主，是你们在对岁主不敬。,"The Sentinel guided us here to build a new home, yet you would dare lay every little misfortune at Their feet. It is you who dishonor the Sentinel.","Tuế Chủ chỉ dẫn chúng ta đến đây xây dựng quê hương mới, các anh lại muốn đổ hết mọi chuyện vặt vãnh lên đầu Tuế Chủ, chính các anh mới đang bất kính với Tuế Chủ đấy."
+lang_multi_text.db,MultiText,YYYHZG_7_6,你什么都不懂，奶奶。,"You don't understand anything, Grandma.","Bà chẳng hiểu gì cả, bà à."
+lang_multi_text.db,MultiText,YYYHZG_9_1,哇啊，{PlayerName}大人您吓死我了，一切还顺利吗？,"Phew! {Male=Mr.;Female=Ms.} {PlayerName}, I was worried to death. Is everything all right?","Oa, ngài {PlayerName} làm tôi hết hồn, mọi chuyện suôn sẻ chứ?"
+lang_multi_text.db,MultiText,YYYHZG_9_2,轻轻松松。,Easy peasy.,Dễ như ăn kẹo.
+lang_multi_text.db,MultiText,YYYHZG_9_3,遇到了一点麻烦。,I ran into a little trouble.,Gặp chút rắc rối.
+lang_multi_text.db,MultiText,YYYHZG_9_4,呼，太好了。看来是之前的袭击搞得我太紧张了。,Whew! That's great. Seems I was too rattled by the earlier attack.,"Phù, tốt quá. Xem ra vụ tấn công lúc trước làm tôi căng thẳng quá rồi."
+lang_multi_text.db,MultiText,YYYHZG_9_5,这样吗……我得向您坦白，刚刚我太紧张了所以没有好好为您祈祷。不过您没事就好！,"I see... I must confess, {Male=Mr.;Female=Ms.} {PlayerName}, in my nervousness, I failed to pray for you just now. But I'm relieved you're unharmed!","Là vậy sao... Tôi phải thú thật với ngài, vừa rồi tôi căng thẳng quá nên không cầu nguyện tử tế cho ngài được. Nhưng ngài không sao là tốt rồi!"
+lang_multi_text.db,MultiText,YYYHZG_9_6,那就听听这第二份残章吧，名字好像叫晴空篇。,"Now then, let's listen to the second part together. I believe it's called ""Crystal Sky.""","Vậy nghe thử chương nhạc còn sót lại thứ hai này nhé, tên hình như là Chương Bầu Trời Trong."
+lang_multi_text.db,MultiText,YYYHZG_9_7,{PlayerName}大人请等一下，经过我的研究，云海乐章的正确听法应当是将多份乐谱重叠在一起听才对！,"Wait, before we continue... According to my research, the correct way to listen to the Nimbus Chorale is to play the multiple parts layered on top of each other at once!","Ngài {PlayerName} xin đợi chút, theo nghiên cứu của tôi, cách nghe đúng của Bản Nhạc Biển Mây là phải nghe chồng nhiều bản nhạc lên nhau mới đúng!"
+lang_multi_text.db,MultiText,YYYHZG_9_8,愿闻其详？,Care to explain?,Nói rõ hơn xem nào?
+lang_multi_text.db,MultiText,YYYHZG_9_9,长话短说。,"I'm sure there's a reason, but let's keep it short.",Nói ngắn gọn thôi.
+lang_multi_text.db,MultiText,YYYHZG_9_10,根据修会先民志记载，云海乐章是一首需要众人合作完成的乐曲。,"According to the Order's Ancestral Records, the Nimbus Chorale can only be experienced fully through the collaboration of many.","Theo ghi chép của tổ tiên trong Tu Hội, Bản Nhạc Biển Mây là một khúc nhạc cần mọi người hợp tác mới hoàn thành được."
+lang_multi_text.db,MultiText,YYYHZG_9_11,平常演奏者分布在黎那汐塔各地，只在一年一度的狂欢节聚首。这是只有在狂欢节才能真正完整听到的曲子！,The performers normally hail from various parts of Rinascita and only come together during the Carnevale. It's the one time it's ever performed in full!,"Bình thường người biểu diễn phân bố ở khắp nơi tại Rinascita, chỉ tụ họp vào Lễ Hội Carnival mỗi năm một lần. Đây là khúc nhạc chỉ có thể nghe trọn vẹn thực sự tại Lễ Hội Carnival!"
+lang_multi_text.db,MultiText,YYYHZG_9_12,关于云海乐章的正式记录早就因黑潮毁损了，这可是我花了很大力气结合多方史料拼凑推断出的，哼哼~,"Much of the official records were lost during the Dark Tide, but I've painstakingly reconstructed the fragments from every available source to reach this conclusion!","Ghi chép chính thức về Bản Nhạc Biển Mây đã sớm bị hủy hoại do Thủy Triều Đen, đây là kết luận tôi tốn bao công sức kết hợp nhiều nguồn sử liệu để chắp vá suy luận ra đấy, hừm hừm~"
+lang_multi_text.db,MultiText,YYYHZG_9_13,嗯，因为每份残章只记录了一种乐器的乐谱，只有合在一起才是真正的云海乐章。,Each record includes just one instrument's part. Only when all of them are played together can the true Nimbus Chorale be heard.,"Ừm, vì mỗi chương nhạc còn sót lại chỉ ghi chép nhạc phổ của một loại nhạc cụ, chỉ khi hợp lại mới là Bản Nhạc Biển Mây thực sự."
+lang_multi_text.db,MultiText,YYYHZG_9_14,如果是菲比的话肯定很乐意听我详细说的……,Phoebe would've loved a detailed explanation. If only she were here...,Nếu là Phoebe thì chắc chắn sẽ rất vui lòng nghe tôi kể chi tiết...
+lang_multi_text.db,MultiText,YYYHZG_9_15,总之，我们现在先赶快听听吧！,"Anyway, let's listen to it now!","Tóm lại, bây giờ chúng ta mau nghe thử đi!"
+lang_multi_text.db,MultiText,YYYHZG_10_1,啊，怎么靠过来这么多贡多拉呀？,Ah? Why are there so many Gondolas here?,"A, sao lại có nhiều Gondola tụ tập ở đây thế này?"
+lang_multi_text.db,MultiText,YYYHZG_10_2,也许是被乐曲吸引过来的？,Could they be attracted by the music?,Có lẽ bị tiếng nhạc thu hút?
+lang_multi_text.db,MultiText,YYYHZG_10_3,我们不需要帮助哦，神的使徒们。,"We don't need your assistance, Divine Envoys of the Sentinel.","Chúng tôi không cần sự giúp đỡ đâu, hỡi các sứ giả của thần linh."
+lang_multi_text.db,MultiText,YYYHZG_10_4,如果因为我的小小试炼扰乱了岁主赋予大家的使命就不好啦！,It wouldn't be good if my little trial were to disrupt the duty the Sentinel has entrusted to us all!,Nếu vì thử thách nhỏ của tôi mà làm ảnh hưởng đến sứ mệnh Tuế Chủ giao phó cho mọi người thì không hay chút nào!
+lang_multi_text.db,MultiText,YYYHZG_10_5,{PlayerName}大人，快来帮我跟这些贡多拉讲讲啊！神职人员是不能跟声骸们过于亲近的！,"{Male=Mr.;Female=Ms.} {PlayerName}, please, help me persuade the Gondolas to leave! We Acolytes must refrain from being too close to the Echoes!","{PlayerName}, mau lại đây giúp tôi nói chuyện với đám Gondola này đi! Tu sĩ không được phép quá thân thiết với các Thanh Hài!"
+lang_multi_text.db,MultiText,YYYHZG_10_6,让贡多拉们也休息下呗。,Let them rest here.,Để lũ Gondola nghỉ ngơi một chút đi.
+lang_multi_text.db,MultiText,YYYHZG_10_7,看起来贡多拉很喜欢这个曲子。,"Let them enjoy this music, too.",Có vẻ Gondola rất thích khúc nhạc này.
+lang_multi_text.db,MultiText,YYYHZG_10_8,这怎么能行呢！,"Oh, heavens, no!",Như vậy sao được chứ!
+lang_multi_text.db,MultiText,YYYHZG_10_9,不行不行，我们的私事怎么能影响到岁主的使徒们呢！,We cannot allow our personal goals to interfere with the workings of the Sentinel's envoys!,"Không được không được, chuyện riêng của chúng tôi sao có thể làm ảnh hưởng đến các sứ đồ của Tuế Chủ!"
+lang_multi_text.db,MultiText,YYYHZG_10_10,晴空篇是歌颂岁主无上伟力的曲子，我们的每一次呼吸，每一次心跳都在祂的注视下。,"""Crystal Sky"" is a hymn of praise for the Sentinel's supreme power, a reminder that each breath, each heartbeat, is watched over by Their loving gaze.","Thiên Thanh Thiên là khúc nhạc ca ngợi sức mạnh tối thượng của Tuế Chủ, từng hơi thở, từng nhịp đập con tim của chúng ta đều nằm trong tầm mắt của Ngài."
+lang_multi_text.db,MultiText,YYYHZG_10_11,要是因为贡多拉们偷懒导致水境的航道失序那肯定会惹怒岁主的！,"If the waterways fall into disorder because of the Gondolas' idleness, surely the Sentinel will be displeased!","Nếu vì đám Gondola lười biếng mà khiến tuyến đường thủy hỗn loạn, chắc chắn sẽ chọc giận Tuế Chủ mất!"
+lang_multi_text.db,MultiText,YYYHZG_10_12,也许岁主只负责给你们指引方向，,Maybe the Sentinel is just giving you directions.,"Có lẽ Tuế Chủ chỉ chịu trách nhiệm chỉ dẫn phương hướng,"
+lang_multi_text.db,MultiText,YYYHZG_10_13,而不想掌控你们的全部生活？,Not trying to control every aspect of your life?,Chứ không muốn kiểm soát toàn bộ cuộc sống của các người?
+lang_multi_text.db,MultiText,YYYHZG_10_14,……{PlayerName}大人，您为何会有如此亵渎的念头？质疑岁主权柄，哪怕是外邦人也会被送上朝圣船的！,"{Male=Mr.;Female=Ms.} {PlayerName}, why do you entertain such blasphemous thoughts? To question the Sentinel's authority… even an outlander could be sent on a pilgrimage for that!","......{PlayerName}, sao ngài lại có suy nghĩ báng bổ như vậy? Nghi ngờ quyền năng của Tuế Chủ, dù là người ngoại quốc cũng sẽ bị đưa lên tàu hành hương đấy!"
+lang_multi_text.db,MultiText,YYYHZG_10_15,我就当什么都没听到，不不，是您压根什么都没说过！,"I'll pretend I didn't hear anything. No, no—I mean, you didn't say anything at all!","Tôi coi như chưa nghe thấy gì, không không, là ngài chưa từng nói gì cả!"
+lang_multi_text.db,MultiText,YYYHZG_10_16,你将之前两次看见白色虚影的事情告诉了伊诺尔。,You tell Lenore about the two times you saw the white phantoms.,Bạn kể cho Lenore nghe về hai lần nhìn thấy ảo ảnh màu trắng trước đó.
+lang_multi_text.db,MultiText,YYYHZG_10_17,徘徊于云海中的白色幻影，而且还在宣扬着一些亵渎的言论？,"So... you saw white phantoms lingering in Nimbus Sanctum, preaching blasphemous thoughts?","Ảo ảnh màu trắng lảng vảng trong biển mây, mà còn tuyên truyền những lời lẽ báng bổ sao?"
+lang_multi_text.db,MultiText,YYYHZG_10_18,竟然还有这回事……,This is the first time I've heard of such things.,Lại có chuyện này sao...
+lang_multi_text.db,MultiText,YYYHZG_10_19,{PlayerName}大人，这次我和您一起去看看吧！,"{Male=Mr.;Female=Ms.} {PlayerName}, let me accompany you this time!","{PlayerName}, lần này cho tôi đi cùng ngài xem sao nhé!"
+lang_multi_text.db,MultiText,YYYHZG_10_20,不用守在这了吗？,Don't you need to stay here?,Không cần canh gác ở đây nữa à?
+lang_multi_text.db,MultiText,YYYHZG_10_21,不了，跟我个人的功绩相比，阻止这种亵渎的言论散播更重要些！,"No. Whatever my personal ambitions, stopping this blasphemy is of far greater importance.","Thôi, so với công trạng cá nhân thì việc ngăn chặn những lời báng bổ lan truyền còn quan trọng hơn!"
+lang_multi_text.db,MultiText,YYYHZG_10_22,走吧，{PlayerName}大人，第三个地点需要坐贡多拉才能到达……,"Follow me, {Male=Mr.;Female=Ms.} {PlayerName}—we'll need a Gondola to reach the third location.","Đi thôi, {PlayerName}, địa điểm thứ ba cần phải ngồi Gondola mới đến được..."
+lang_multi_text.db,MultiText,YYYHZG_10_23,啊，您是要载我们吗？谢谢您，岁主的使徒大人。看吧，我就说岁主一直在注视着我们！,"Oh, you're offering us a ride? Thank you, Divine Envoys of the Sentinel. See? I told you the Sentinel has been watching over us!","A, các bạn muốn chở chúng tôi sao? Cảm ơn nhé, sứ đồ của Tuế Chủ. Thấy chưa, tôi đã nói là Tuế Chủ luôn dõi theo chúng ta mà!"
+lang_multi_text.db,MultiText,YYYHZG_10_24,我都不知道说什么了。,I don't even know what to say.,Tôi cũng chẳng biết nói gì nữa.
+lang_multi_text.db,MultiText,YYYHZG_10_25,明明刚刚还说要赶走别人……,You literally just told me to drive them away.,Rõ ràng vừa nãy còn đòi đuổi người ta đi...
+lang_multi_text.db,MultiText,YYYHZG_11_1,{PlayerName}……您该不会就是最近外事录提到的，拯救了今州的那位漂泊者大人吧！,"{PlayerName}… Could you be that Rover who recently saved Jinzhou, as mentioned in <i>The Worldly Watch</i>?",{PlayerName}...... Chẳng lẽ ngài chính là vị Lữ Khách đã cứu Kim Châu được nhắc đến trong bản tin đối ngoại gần đây sao!
+lang_multi_text.db,MultiText,YYYHZG_11_2,那您一定见过今州的统治者吧！听说她是一位还没我大的白发少女，文武双全心系民众，简直跟赞诗中的圣女大人一样，我太崇拜她了！,"Then you must have met Jinzhou's magistrate! I hear she's young, younger than I am, in fact, and with hair as white as snow. They say she's wise, brave, and cares deeply for her people, just like the Blessed Maiden in the hymns. I really admire her!","Vậy chắc hẳn ngài đã gặp người cai trị Kim Châu rồi nhỉ! Nghe nói cô ấy là một thiếu nữ tóc trắng còn trẻ hơn tôi, văn võ song toàn, một lòng vì dân, cứ như thánh nữ trong thơ ca ngợi vậy, tôi hâm mộ cô ấy quá!"
+lang_multi_text.db,MultiText,YYYHZG_11_3,啊当然，远远比不上我对岁主大人的崇拜就是了！,"Ah, but of course, my admiration for her pales in comparison to the devotion I have for the Sentinel!","À tất nhiên, vẫn còn kém xa sự sùng bái của tôi đối với ngài Tuế Chủ!"
+lang_multi_text.db,MultiText,YYYHZG_11_4,对了，您自称漂泊者，您为什么要漂泊呢，为什么不找个稳定的工作呢？,"By the way, you call yourself Rover, but... why do you choose to rove? Why not settle somewhere and take on stable work like the rest of us?","Đúng rồi, ngài tự xưng là Lữ Khách, tại sao ngài lại phải phiêu bạt vậy, sao không tìm một công việc ổn định?"
+lang_multi_text.db,MultiText,YYYHZG_11_5,如果您想在黎那汐塔找工作的话记得来修会备案哦，每个月都有人才补贴拿的！,"If you're looking for work in Rinascita, be sure to come sign up at the Order. We offer a monthly talent subsidy!","Nếu ngài muốn tìm việc ở Rinascita thì nhớ đến Tu Hội đăng ký nhé, mỗi tháng đều có trợ cấp nhân tài đấy!"
+lang_multi_text.db,MultiText,YYYHZG_11_8,呃，我是不是吵到您了，您怎么一直不说话啊……,"Oh no, am I bothering you with my chatter? You've been so quiet.","Ơ, có phải tôi làm ồn ngài không, sao ngài cứ im lặng mãi thế..."
+lang_multi_text.db,MultiText,YYYHZG_11_9,抱歉，我只有每月十五号能和运送废弃文档的教士聊上几句，最近菲比也不太来找我了……,"Apologies, I can only chat with the Acolyte responsible for disposing archived records on the 15th of each month. Also, Phoebe hasn't been visiting me as often lately...","Xin lỗi, tôi chỉ có thể nói chuyện vài câu với vị tu sĩ vận chuyển tài liệu bỏ đi vào ngày mười lăm hàng tháng thôi, dạo này Phoebe cũng ít đến tìm tôi..."
+lang_multi_text.db,MultiText,YYYHZG_11_10,唔，无上崇高的岁主啊，请赦免我的过错……,"Oh, Sentinel above, please forgive me for my misbehavior...","Ưm, Tuế Chủ cao quý tối thượng, xin hãy tha thứ cho lỗi lầm của con..."
+lang_multi_text.db,MultiText,YYYHZG_12_1,跳吧，各位，尽情地狂欢吧！,"Dance! Everyone, the time to celebrate is now!","Nhảy đi nào các bạn, hãy tận hưởng hết mình đi!"
+lang_multi_text.db,MultiText,YYYHZG_12_2,看起来是旧日狂欢节的景象，没有教士的身影……难道是隐海修会建立前的记录？这可是重大发现啊{PlayerName}大人！,"This looks like a recording of an ancient Carnevale celebration. Since there's no Acolyte in sight… could it be from before the founding of the Order of the Deep? This is a marvelous discovery, {Male=Mr.;Female=Ms.} {PlayerName}!","Trông có vẻ là cảnh tượng Lễ Hội Carnival ngày xưa, không thấy bóng dáng tu sĩ đâu... Chẳng lẽ là ghi chép từ trước khi Tu Hội Ẩn Hải được thành lập? Đây quả là phát hiện trọng đại đấy {PlayerName}!"
+lang_multi_text.db,MultiText,YYYHZG_12_3,感谢岁主，指引我们的风帆，庇佑我们向前！,"Let us raise our thanks to the Sentinel, who has guided us to safety and protected us on this journey!","Cảm tạ Tuế Chủ, đã dẫn lối cho cánh buồm, che chở chúng ta tiến về phía trước!"
+lang_multi_text.db,MultiText,YYYHZG_12_4,没错没错，岁主就是这么伟大的存在！,"Yes, that's right! The Sentinel is truly a great and wondrous being!","Đúng vậy đúng vậy, Tuế Chủ chính là sự tồn tại vĩ đại như thế!"
+lang_multi_text.db,MultiText,YYYHZG_12_5,感谢农夫们改善土质，今年终于丰收啦！,"And let us thank our hardworking farmers whose toil has transformed the soil, bringing us an abundant harvest!","Cảm ơn những người nông dân đã cải tạo đất đai, năm nay cuối cùng cũng được mùa rồi!"
+lang_multi_text.db,MultiText,YYYHZG_12_6,感谢战士们驱逐残象和猛兽，让大家可以安心入睡！,Let us honor the brave warriors who vanquished Tacet Discord and beast alike so that we might sleep soundly at night!,"Cảm ơn các chiến binh đã xua đuổi Tàn Tượng và thú dữ, để mọi người có thể yên tâm ngủ ngon!"
+lang_multi_text.db,MultiText,YYYHZG_12_7,错了错了，是岁主赐予我们沃土，是岁主赐予我们家园。,"No, no! The Sentinel blessed us with fertile soil. The Sentinel gave us a home.","Sai rồi sai rồi, là Tuế Chủ ban cho chúng ta đất đai màu mỡ, là Tuế Chủ ban cho chúng ta mái nhà."
+lang_multi_text.db,MultiText,YYYHZG_12_8,这些凡人怎么敢盗取岁主的功绩！,How dare they claim the Sentinel's blessings as their own!,Sao những người phàm này dám trộm lấy công lao của Tuế Chủ chứ!
+lang_multi_text.db,MultiText,YYYHZG_12_9,这简直，这简直！,S-such utter disgrace!,"Chuyện này quả thực, quả thực là!"
+lang_multi_text.db,MultiText,YYYHZG_13_1,看起来残象是冲这些幻影来的。,Looks like the Tacet Discords are here to hunt down the phantoms.,Có vẻ như đám Tàn Tượng nhắm vào những ảo ảnh này.
+lang_multi_text.db,MultiText,YYYHZG_13_2,难以置信，哪怕是隐海修会还未兴起的年代，我也不敢想象人们竟然如此漠视岁主的恩典。,"How dare they… I cannot fathom anyone so blind to the Sentinel's grace, even before the rise of the Order of the Deep.","Thật khó tin, dù là thời đại Tu Hội Ẩn Hải chưa hưng thịnh, tôi cũng không dám tưởng tượng mọi người lại thờ ơ với ân điển của Tuế Chủ như vậy."
+lang_multi_text.db,MultiText,YYYHZG_13_3,明明生活在岁主无微不至的呵护下却不自知，还将由岁主伟力所创造的神迹归功于人。,Those people... They lived beneath the Sentinel's watchful eye without acknowledging Their kindness. They even claimed the miracles of the Sentinel as their own!,"Rõ ràng sống dưới sự che chở tận tình của Tuế Chủ mà không biết, lại còn quy những thần tích do sức mạnh vĩ đại của Tuế Chủ tạo ra thành công lao của con người."
+lang_multi_text.db,MultiText,YYYHZG_13_4,正是这种亵渎的行径触怒岁主招来了黑潮，所以如今的人们才更需要修会的引导，对不对！,"It was this kind of blasphemy that angered the Sentinel and brought forth the Dark Tide! This is why the world needs the Order's guidance now more than ever, don't you see?","Chính những hành vi báng bổ này đã chọc giận Tuế Chủ và dẫn đến Hắc Triều, vì vậy con người ngày nay mới càng cần sự dẫn dắt của Tu Hội, đúng không!"
+lang_multi_text.db,MultiText,YYYHZG_13_5,你信奉的岁主如此狭隘残暴吗？,Is the Sentinel you believe in truly so unforgiving and cruel?,Tuế Chủ mà bạn tin thờ lại hẹp hòi tàn bạo như vậy sao?
+lang_multi_text.db,MultiText,YYYHZG_13_6,可同样是这些人创作了云海乐章。,"Remember, these are the same people who composed the Nimbus Chorale.",Nhưng cũng chính những người này đã sáng tác nên Bản Giao Hưởng Mây.
+lang_multi_text.db,MultiText,YYYHZG_13_7,我……可是！……不，不是这样的。,I... but I... No! This isn't it!,"Tôi... nhưng mà! ...Không, không phải như vậy."
+lang_multi_text.db,MultiText,YYYHZG_13_8,《隐海修记》第二章第十条，“你可动摇，但不可弃绝虔诚。你可动摇，但不可弃绝虔诚……”冷静冷静冷静！,"Verse 10, Chapter 2 of the Tenets, ""Though your spirit trembles, you must not forsake piety. Though your spirit trembles, you must not forsake piety..."" Calm down, calm down, calm down!","""Tu Ký Ẩn Hải"" chương hai điều mười, ""Ngươi có thể lung lay, nhưng không được từ bỏ lòng thành kính. Ngươi có thể lung lay, nhưng không được từ bỏ lòng thành kính..."" Bình tĩnh, bình tĩnh nào!"
+lang_multi_text.db,MultiText,YYYHZG_13_9,这个《隐海修记》究竟是谁写的？感觉你背得很熟啊。,"Who wrote this ""Tenets of the Deep""? You've been reciting it over and over.","Rốt cuộc ai đã viết cuốn ""Tu Ký Ẩn Hải"" này vậy? Cảm giác bạn thuộc làu làu luôn ấy."
+lang_multi_text.db,MultiText,YYYHZG_13_10,《隐海修记》是修会用来教导信徒们的纪律手册，由历代主座大人不断修订而成。,The Tenets are a code of conduct for all who follow the Order with true devotion. They were meticulously refined by the Primus himself to guide us through the ages.,"""Tu Ký Ẩn Hải"" là sổ tay kỷ luật mà Tu Hội dùng để giáo huấn các tín đồ, được các đời Chủ Tọa không ngừng sửa đổi mà thành."
+lang_multi_text.db,MultiText,YYYHZG_13_11,二十年前的黑潮之后，现任主座芬莱克大人认为是修会对亵渎言行的姑息招来了黑潮，所以对修记进行了彻底改版，并要信徒随身携带。,"After the Dark Tide twenty years ago, His Holiness Fenrico stated that the Order's leniency toward disorder had invited the calamity. In response, he revised the sacred text and urged all faithful to live by it always.","Sau trận Hắc Triều hai mươi năm trước, Chủ Tọa đương nhiệm Fenrico cho rằng sự dung túng của Tu Hội đối với những lời nói và hành động báng bổ đã chiêu mời Hắc Triều, nên đã sửa đổi triệt để cuốn Tu Ký, và yêu cầu các tín đồ luôn mang theo bên mình."
+lang_multi_text.db,MultiText,YYYHZG_13_12,我怕经常翻阅会把修记弄脏，所以就整本背诵下来了！,"I feared the book would become worn from constant use, so I memorized every word, every line!","Tôi sợ lật xem thường xuyên sẽ làm bẩn Tu Ký, nên đã học thuộc lòng cả cuốn luôn!"
+lang_multi_text.db,MultiText,YYYHZG_13_13,也就是说现在的修记里面，,"So, the current version of your Tenets...","Nói cách khác, trong cuốn Tu Ký hiện tại,"
+lang_multi_text.db,MultiText,YYYHZG_13_14,几乎全是芬莱克撰写的内容？,Is essentially written by Fenrico?,Hầu như toàn bộ nội dung đều do Fenrico soạn thảo?
+lang_multi_text.db,MultiText,YYYHZG_13_15,这我其实不太清楚，因为旧版本的《隐海修记》早都被回收销毁了。,To be honest I don't know myself. The older prints have all been confiscated and destroyed.,"Thực ra tôi cũng không rõ lắm, vì các bản ""Tu Ký Ẩn Hải"" cũ đã bị thu hồi và tiêu hủy từ lâu rồi."
+lang_multi_text.db,MultiText,YYYHZG_13_16,{PlayerName}大人，您有什么疑惑吗？,"Do you still have other questions, {Male=Mr.;Female=Ms.} {PlayerName}?","{PlayerName}, ngài có thắc mắc gì sao?"
+lang_multi_text.db,MultiText,YYYHZG_13_17,不，没有了。,That's it for now.,"Không, không có gì."
+lang_multi_text.db,MultiText,YYYHZG_13_18,……{PlayerName}大人，我虽然笨，但我知道您一直想暗示我什么，也知道您是在为我着想。,"{Male=Mr.;Female=Ms.} {PlayerName}, I am not the brightest among my peers, but I do understand what you've been hinting at. You are a kind person, that I can tell.","......{PlayerName}, tuy tôi ngốc nghếch, nhưng tôi biết ngài luôn muốn ám chỉ điều gì đó với tôi, cũng biết ngài đang nghĩ cho tôi."
+lang_multi_text.db,MultiText,YYYHZG_13_19,但还是让我们把心思放在完整的云海乐章上吧，说不定一切尽在不言中了呢？快来听听吧！,"But let's turn our focus to listening to the Nimbus Chorale. Perhaps the music itself will speak where words cannot. Come, let's listen!","Nhưng hãy cứ tập trung vào Bản Giao Hưởng Mây hoàn chỉnh đã, biết đâu mọi chuyện đều nằm trong những điều chưa nói ra thì sao? Mau lại nghe thử đi!"
+lang_multi_text.db,MultiText,YYYHZG_14_1,……{PlayerName}大人，您有没有觉得这首曲子有些空，好像少了些什么？,"{Male=Mr.;Female=Ms.} {PlayerName}, something feels amiss... Do you feel it too?","......{PlayerName}, ngài có thấy khúc nhạc này hơi trống trải, hình như thiếu thiếu cái gì đó không?"
+lang_multi_text.db,MultiText,YYYHZG_14_2,我感觉少了点人的元素？,I think it lacks that human touch.,Tôi cảm thấy thiếu chút yếu tố con người?
+lang_multi_text.db,MultiText,YYYHZG_14_3,我猜你想说岁主。,I guess you'll say it needs to praise the Sentinel more?,Tôi đoán bạn muốn nói là Tuế Chủ.
+lang_multi_text.db,MultiText,YYYHZG_14_4,人？不不，当然是岁主哇。,"Human touch? No, it should be praising the Sentinel!","Con người? Không không, tất nhiên là Tuế Chủ rồi."
+lang_multi_text.db,MultiText,YYYHZG_14_5,我就知道您也听出来了！,I knew you'd understand!,Tôi biết ngay là ngài cũng nghe ra mà!
+lang_multi_text.db,MultiText,YYYHZG_14_6,狂欢节可是大家欢聚一堂向岁主感恩的重大节日，我敢肯定，乐章中还有一份关键的表达对岁主崇敬的残章被偷走了！,The Carnevale is a holiday for everyone to gather and give thanks to our beloved Sentinel. I'm certain there's another part of the Chorale that shows our true reverence.,"Lễ Hội Carnival là ngày lễ trọng đại để mọi người tụ họp tạ ơn Tuế Chủ, tôi dám chắc rằng trong bản nhạc còn có một đoạn quan trọng bày tỏ sự sùng kính với Tuế Chủ đã bị lấy cắp!"
+lang_multi_text.db,MultiText,YYYHZG_14_7,您说，会不会就是……,What do you say...,"Ngài nói xem, liệu có phải là..."
+lang_multi_text.db,MultiText,YYYHZG_14_8,仿佛跟乐曲共鸣般，远处传来震动。,"As if resonating with the music, the two of you feel rumbling vibrations from a distance.","Như thể cộng hưởng với khúc nhạc, từ xa truyền đến rung động."
+lang_multi_text.db,MultiText,YYYHZG_14_9,诶，这是怎么啦！,Huh? What just happened?,"Ơ, chuyện gì thế này!"
+lang_multi_text.db,MultiText,YYYHZG_14_10,看起来有什么什么东西和乐章发生了共鸣。,Something seems to be resonating with the music we just played.,Có vẻ như thứ gì đó đã cộng hưởng với bản nhạc.
+lang_multi_text.db,MultiText,YYYHZG_14_11,{PlayerName}大人，那我们赶快一起去看看吧！,"{Male=Mr.;Female=Ms.} {PlayerName}, let's go and have a look!","{PlayerName}, vậy chúng ta mau cùng đi xem sao!"
+lang_multi_text.db,MultiText,YYYHZG_17_1,这里是什么地方？,What is this place?,Đây là nơi nào?
+lang_multi_text.db,MultiText,YYYHZG_17_2,这里是隐海修会大禁书院，准确地说是大禁书院的旧址。,"This is the site of the Order of the Deep's Major Forbidden Archive—well, the former site.","Đây là Đại Cấm Thư Viện của Tu Hội Ẩn Hải, chính xác hơn là tàn tích của Đại Cấm Thư Viện."
+lang_multi_text.db,MultiText,YYYHZG_17_3,二十年前的那次黑潮连同这里的建筑和其中的禁忌一并掩埋在了云海之下。,"After the Dark Tide, it was buried beneath Nimbus Sanctum along with all of its secrets.",Trận Hắc Triều hai mươi năm trước đã chôn vùi kiến trúc nơi đây cùng những điều cấm kỵ bên trong xuống dưới biển mây.
+lang_multi_text.db,MultiText,YYYHZG_17_4,我记得你一直想去大禁书院？,I thought you've always wanted to go to the Major Forbidden Archive?,Tôi nhớ bạn luôn muốn đến Đại Cấm Thư Viện mà?
+lang_multi_text.db,MultiText,YYYHZG_17_5,要一起进去看看吗？,Do you want to go in and have a look?,Muốn cùng vào trong xem thử không?
+lang_multi_text.db,MultiText,YYYHZG_17_6,我，不不不，我不能进去。,"Me? No, no. I can't go in there.","Tôi... không không không, tôi không thể vào."
