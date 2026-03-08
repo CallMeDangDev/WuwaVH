@@ -1,4 +1,5 @@
 # WuWa Việt Hóa
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.gg/TFG2sTkT)
 
 Bản Việt hóa cho **Wuthering Waves**.
 
